@@ -1,0 +1,4808 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+Première session, quarante et unième législature,
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+STATUTES OF CANADA 2013CHAPTER 29
+
+
+
+
+
+LOIS DU CANADA (2013)CHAPITRE 29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Witness Protection Program Act and to make a consequential amendment to another Act
+
+
+
+
+
+Loi modifiant la Loi sur le programme de protection des témoins et une autre loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+26th JUNE, 2013
+BILL C-51
+
+
+
+
+
+SANCTIONNÉE
+LE 26 JUIN 2013
+PROJET DE LOI C-51
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECOMMENDATION
+His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the Witness Protection Program Act and to make a consequential amendment to another Act”.
+SUMMARY
+This enactment amends the Witness Protection Program Act to, among other things,
+(a) provide for the designation of a provincial or municipal witness protection program so that certain provisions of that Act apply to such a program;
+(b) authorize the Commissioner of the Royal Canadian Mounted Police to coordinate, at the request of an official of a designated provincial or municipal program, the activities of federal departments, agencies and services in order to facilitate a change of identity for persons admitted to the designated program;
+(c) add prohibitions on the disclosure of information relating to persons admitted to designated provincial and municipal programs, to the means and methods by which witnesses are protected and to persons who provide or assist in providing protection;
+(d) specify the circumstances under which disclosure of protected information is nevertheless permitted;
+(e) exempt a person from any liability or other punishment for stating that they do not provide or assist in providing protection to witnesses or that they do not know that a person is protected under a witness protection program;
+(f) expand the categories of witnesses who may be admitted to the federal Witness Protection Program to include persons who assist federal departments, agencies or services that have a national security, national defence or public safety mandate and who may require protection as a result;
+(g) allow witnesses in the federal Witness Protection Program to end their protection voluntarily;
+(h) extend the period during which protection may, in an emergency, be provided to a person who has not been admitted to the federal Witness Protection Program; and
+(i) make a consequential amendment to another Act.
+
+
+
+RECOMMANDATION
+Son Excellence le gouverneur général recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi sur le programme de protection des témoins et une autre loi en conséquence ».
+SOMMAIRE
+Le texte modifie la Loi sur le programme de protection des témoins, notamment aux fins suivantes :
+
+a) permettre la désignation de programmes provinciaux ou municipaux de protection des témoins afin qu’ils soient visés par certaines dispositions de la loi;
+
+b) autoriser le commissaire de la Gendarmerie royale du Canada à coordonner, à la demande de fonctionnaires compétents à l’égard de programmes provinciaux ou municipaux désignés, les activités des ministères, organismes et services fédéraux afin de faciliter le changement d’identité des personnes admises dans ces programmes désignés;
+
+c) prévoir de nouvelles interdictions visant la communication de renseignements concernant les personnes admises aux programmes provinciaux ou municipaux désignés, les moyens et méthodes de protection des témoins et les personnes qui fournissent de la protection ou aident à en fournir;
+
+d) préciser les circonstances dans lesquelles est néanmoins autorisée la communication de renseignements protégés;
+
+e) exempter de toute sanction les personnes qui nient fournir de la protection à des témoins ou aider à leur en fournir ou qui nient connaître quiconque est sous la protection d’un programme de protection des témoins;
+
+f) étendre les catégories de témoins pouvant être admis au programme fédéral de protection des témoins aux personnes qui fournissent de l’aide à un ministère, organisme ou service fédéral exerçant des fonctions liées à la sécurité ou la défense nationale ou à la sécurité publique et qui, de ce fait, peuvent avoir besoin de protection;
+
+g) permettre aux personnes admises au programme fédéral de protection des témoins de mettre fin volontairement à leur protection;
+
+h) allonger la période durant laquelle une protection d’urgence peut être accordée à une personne qui n’est pas admise au programme fédéral de protection des témoins;
+
+i) modifier en conséquence une autre loi.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+60-61-62 ELIZABETH II
+
+
+
+
+
+
+
+
+
+60-61-62 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 29
+
+
+
+
+
+
+
+
+
+CHAPITRE 29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Witness Protection Program Act and to make a consequential amendment to another Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le programme de protection des témoins et une autre loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 26th June, 2013]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 26 juin 2013]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Safer Witnesses Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi améliorant la sécurité des témoins.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1996, c. 15
+
+
+
+WITNESS PROTECTION PROGRAM ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE PROGRAMME DE PROTECTION DES TÉMOINS
+
+
+
+1996, ch. 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The long title of the Witness Protection Program Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le titre intégral de la Loi sur le programme de protection des témoins est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting the establishment and operation of a federal program for the protection of certain persons providing information or assistance and respecting the protection of persons admitted to certain provincial or municipal protection programs
+
+
+
+
+
+
+
+
+
+Loi concernant l’instauration et le fonc-tionnement d’un programme fédéral pour la protection de certaines personnes qui fournissent des renseignements ou de l’aide et portant sur la protection des personnes admises à certains programmes provinciaux ou municipaux de protection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. (1) The definition “protection” in section 2 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. (1) La définition de « protection », à l’article 2 de la même loi, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“protection”« protection »
+
+
+
+“protection” may include relocation, accommodation and change of identity as well as counselling and financial support for those or any other purposes in order to ensure the security of a person or to facilitate the person’s re-establishment or becoming self-sufficient;
+
+
+
+
+
+
+
+
+
+« protection » La protection peut comprendre le déménagement, le logement, le changement d’identité de même que l’assistance psychologique et le soutien financier nécessaires à ces fins ainsi qu’à toutes autres fins visant à assurer la sécurité d’une personne ou à en faciliter la réinstallation ou l’autonomie.
+
+
+
+« protection »“protection”
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definitions “bénéficiaire” and “programme” in section 2 of the French version of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les définitions de « bénéficiaire » et « programme », à l’article 2 de la version française de la même loi, sont remplacées par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+« bénéficiaire »“protectee”
+
+
+
+
+« bénéficiaire » Personne jouissant de la protection du Programme.
+
+
+
+
+
+« Programme »“Program”
+
+
+
+
+« Programme » Le Programme de protection des témoins instauré par l’article 4.
+
+
+
+
+
+
+
+
+
+
+« bénéficiaire » Personne jouissant de la protection du Programme.
+
+
+
+« bénéficiaire »“protectee”
+
+
+
+
+« Programme » Le Programme de protection des témoins instauré par l’article 4.
+
+
+
+« Programme »“Program”
+
+
+
+
+
+
+
+
+
+
+
+
+(3) The definition “witness” in section 2 of the Act is amended by striking out “or” at the end of paragraph (a) and by replacing paragraph (b) with the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa b) de la définition de « témoin », à l’article 2 de la même loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) a person who has assisted or has agreed to assist a federal security, defence or safety organization and who may require protection because of a risk to his or her security arising in relation to the assistance, or
+
+
+
+
+
+
+(c) a person who, because of their relationship to or association with a person referred to in paragraph (a) or (b), may also require protection for the reasons referred to in that paragraph.
+
+
+
+
+
+
+
+
+
+
+b) soit a fourni ou accepté de fournir de l’aide à une organisation fédérale de sécurité ou de défense et, de ce fait, peut avoir besoin de protection, sa sécurité étant mise en danger;
+
+
+
+
+
+
+
+c) soit, en raison de ses liens avec une personne visée aux alinéas a) ou b) et pour les motifs qui y sont énoncés, peut également avoir besoin de protection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Section 2 of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(4) L’article 2 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“designated program”« programme désigné »
+
+
+
+“designated program” means a provincial or municipal program that is set out in the schedule;
+
+
+
+
+“designated program protectee”« bénéficiaire d’un programme désigné »
+
+
+
+“designated program protectee” means a person who is receiving protection under a designated program;
+
+
+
+
+“federal security, defence or safety organization”« organisation fédérale de sécurité ou de défense »
+
+
+
+“federal security, defence or safety organization” means a federal department, agency or service that has a mandate relating to national security, national defence or public safety matters;
+
+
+
+
+“protected person”« personne protégée »
+
+
+
+“protected person” means a current or former protectee or a current or former designated program protectee;
+
+
+
+
+“provincial official”« fonctionnaire provincial »
+
+
+
+“provincial official” means, with respect to a designated program, the official designated under subsection 10.1(2) or (3);
+
+
+
+
+“substantial harm”« préjudice sérieux »
+
+
+
+“substantial harm” means any injury, whether physical or psychological, that interferes in a substantial way with a person’s health or well-being;
+
+
+
+
+
+
+
+
+
+« bénéficiaire d’un programme désigné » Personne jouissant de la protection d’un programme désigné.
+
+
+
+« bénéficiaire d’un programme désigné »“designated program protectee”
+
+
+
+
+« fonctionnaire provincial » Fonctionnaire désigné au titre des paragraphes 10.1(2) ou (3) à l’égard d’un programme désigné.
+
+
+
+« fonctionnaire provincial »“provincial official”
+
+
+
+
+« organisation fédérale de sécurité ou de défense » Ministère, organisme ou service fédéral exerçant des fonctions liées à la sécurité ou la défense nationale ou à la sécurité publique.
+
+
+
+« organisation fédérale de sécurité ou de défense »“federal security, defence or safety organization”
+
+
+
+
+« personne protégée » Ancien ou actuel bénéficiaire ou ancien ou actuel bénéficiaire d’un programme désigné.
+
+
+
+« personne protégée »“protected person”
+
+
+
+
+« préjudice sérieux » Toute blessure, physique ou psychologique, qui nuit d’une manière importante à la santé ou au bien-être d’une personne.
+
+
+
+« préjudice sérieux »“substantial harm”
+
+
+
+
+« programme désigné » Programme provincial ou municipal figurant à l’annexe.
+
+
+
+« programme désigné »“designated program”
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Act is amended by adding the following after section 2:
+
+
+
+
+
+
+
+
+
+
+4. La même loi est modifiée par adjonction, après l’article 2, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HER MAJESTY
+
+
+
+
+
+
+
+
+
+SA MAJESTÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Binding on Her Majesty
+
+
+
+
+2.1 This Act is binding on Her Majesty in right of Canada or a province.
+
+
+
+
+
+
+
+
+
+
+2.1 La présente loi lie Sa Majesté du chef du Canada ou d’une province.
+
+
+
+Obligation de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+2000, c. 24, s. 71
+
+
+
+
+5. Section 3 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. L’article 3 de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 24, art. 71
+
+
+
+
+
+
+
+
+
+
+Protection of persons
+
+
+
+
+3. The purpose of this Act is to promote law enforcement, national security, national defence and public safety by facilitating the protection of persons
+
+
+
+
+
+
+
+
+
+
+(a) who are involved directly or indirectly in providing assistance in law enforcement matters in relation to
+
+
+
+
+
+
+
+
+
+
+(i) activities conducted by the Force, other than activities arising under an arrangement entered into under section 20 of the Royal Canadian Mounted Police Act, or
+
+
+
+
+
+
+
+
+
+
+(ii) activities conducted by any law enforcement agency or international criminal court or tribunal in respect of which an agreement or arrangement has been entered into under section 14;
+
+
+
+
+
+
+
+
+
+
+(b) who are involved directly or indirectly in providing assistance to a federal security, defence or safety organization; or
+
+
+
+
+
+
+
+
+
+
+(c) who have been admitted to a designated program.
+
+
+
+
+
+
+
+
+
+
+3. La présente loi a pour objet de promouvoir le respect de la loi, la sécurité et la défense nationale ainsi que la sécurité publique en facilitant la protection des personnes suivantes :
+
+
+
+Protection de personnes
+
+
+
+
+
+a) celles qui, directement ou indirectement, contribuent à faire appliquer la loi dans le cadre, selon le cas :
+
+
+
+
+
+
+
+
+
+
+(i) des activités de la Gendarmerie ne résultant pas d’un arrangement conclu en vertu de l’article 20 de la Loi sur la Gendarmerie royale du Canada,
+
+
+
+
+
+
+
+
+
+
+(ii) des activités d’un organisme chargé de l’application de la loi ou d’un tribunal pénal international, à l’égard desquels un accord ou un arrangement a été conclu en vertu de l’article 14;
+
+
+
+
+
+
+
+
+
+
+
+b) celles qui, directement ou indirectement, fournissent de l’aide à une organisation fédérale de sécurité ou de défense;
+
+
+
+
+
+
+
+
+
+
+
+c) celles qui ont été admises à un programme désigné.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 24, s. 72
+
+
+
+
+6. (1) The portion of subsection 6(1) of the Act before paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. (1) Le passage du paragraphe 6(1) de la même loi précédant l’alinéa b) est remplacé par ce qui suit :
+
+
+
+2000, ch. 24, art. 72
+
+
+
+
+
+
+
+
+
+
+Admission to Program
+
+
+
+
+6. (1)  A witness shall not be admitted to the Program unless
+
+
+
+
+
+
+
+
+
+
+(a) a recommendation for the admission has been made by a law enforcement agency, a federal security, defence or safety organization or an international criminal court or tribunal;
+
+
+
+
+
+
+
+
+
+
+6. (1) Pour pouvoir bénéficier du Programme, un témoin doit :
+
+
+
+Admission au Programme
+
+
+
+
+
+a) faire l’objet d’une recommandation de la part d’un organisme chargé de l’application de la loi, d’une organisation fédérale de sécurité ou de défense ou d’un tribunal pénal international;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 6(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 6(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Emergency situations
+
+
+
+(2) Despite subsection (1), the Commissioner may, in a case of emergency, and for a period of not more than 90 days, provide protection to a person who has not entered into a protection agreement. The Commissioner may, if the emergency persists, provide protection for one additional period of not more than 90 days.
+
+
+
+
+
+
+
+
+
+(2) Malgré le paragraphe (1), le commissaire peut, en situation d’urgence, fournir une protection pendant une période d’au plus quatre-vingt-dix jours à une personne avec laquelle un accord de protection n’a pas été conclu. Si la situation d’urgence demeure, il peut prolonger la protection pour une autre période d’au plus quatre-vingt-dix jours.
+
+
+
+Situation d’urgence
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) The portion of section 7 of the English version of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. (1) Le passage de l’article 7 de la version anglaise de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Factors to be considered
+
+
+
+
+7. The Commissioner shall consider the following factors in determining whether a witness should be admitted to the Program:
+
+
+
+
+
+
+
+
+
+
+
+7. The Commissioner shall consider the following factors in determining whether a witness should be admitted to the Program:
+
+
+
+
+Factors to be considered
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraphs 7(c) and (d) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les alinéas 7c) et d) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the nature of the inquiry, investigation or prosecution involving the witness — or the nature of the assistance given or agreed to be given by the witness to a federal security, defence or safety organization — and the importance of the witness in the matter;
+
+
+
+
+
+
+(d) the value of the witness’s participation or of the information, evidence or assistance given or agreed to be given by the witness;
+
+
+
+
+
+
+
+
+
+
+c) son rôle dans l’enquête ou la poursuite ou auprès de l’organisation fédérale de sécurité ou de défense, et la nature de l’enquête, de la poursuite ou de l’aide qu’il a fournie ou accepté de fournir à l’organisation;
+
+
+
+
+
+
+
+d) la valeur de sa participation, ou des renseignements, des éléments de preuve ou de l’aide qu’il a fournis ou accepté de fournir;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Subparagraph 8(b)(i) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. Le sous-alinéa 8b)(i) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) to give the information or evidence or participate as required in relation to the inquiry, investigation or prosecution — or to give to the federal security, defence or safety organization the assistance — in respect of which protection is provided under the agreement,
+
+
+
+
+
+
+
+
+
+(i) de fournir les renseignements ou les éléments de preuve requis dans le cadre de l’enquête ou de la poursuite à l’égard desquels la protection est fournie en application de l’accord de protection, ou d’y participer dans la mesure requise, ou de fournir à l’organisation fédérale de sécurité ou de défense l’aide à l’égard de laquelle la protection est fournie en application de l’accord de protection,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. The Act is amended by adding the following after section 8:
+
+
+
+
+
+
+
+
+
+
+9. La même loi est modifiée par adjonction, après l’article 8, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Request for termination of protection
+
+
+
+
+8.1 (1) A protectee may request that the Commissioner terminate the protection provided to the protectee.
+
+
+
+
+
+
+
+
+
+
+8.1 (1) Tout bénéficiaire peut demander au commissaire de mettre fin à la protection dont il jouit.
+
+
+
+Cessation de la protection sur demande
+
+
+
+
+
+
+
+
+
+
+Termination
+
+
+
+(2) The Commissioner shall meet in person with the protectee to discuss their request and shall terminate the protection provided to them if, either at the meeting or afterwards, they confirm their request in the form and manner that the Commissioner considers appropriate in the circumstances.
+
+
+
+
+
+
+
+
+
+(2) Le commissaire rencontre le bénéficiaire pour discuter de la demande et met fin à la protection si, à la rencontre ou ultérieurement, ce dernier confirme, en la forme et selon les modalités que le commissaire considère appropriées dans les circonstances, son désir qu’il soit mis fin à la protection.
+
+
+
+Fin de la protection
+
+
+
+
+
+
+
+
+
+
+Effective day
+
+
+
+(3) The termination takes effect on the day on which the request is confirmed or on a later day that the protectee may specify.
+
+
+
+
+
+
+
+
+
+(3) La cessation de la protection prend effet soit à la date à laquelle le bénéficiaire confirme sa demande en ce sens, soit à une date ultérieure qu’il précise.
+
+
+
+Prise d’effet
+
+
+
+
+
+
+
+
+
+
+2000, c. 24, s. 73
+
+
+
+
+10. Paragraph 10(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. L’article 10 de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 24, art. 73
+
+
+
+
+
+
+
+
+
+
+
+
+(a) to refuse to admit a witness to the Program, the Commissioner shall provide the body that recommended the admission or, in the case of a witness recommended by the Force, the witness, with written reasons to enable the body or witness to understand the basis for the decision; or
+
+
+
+
+
+
+
+
+
+
+10. Le commissaire communique par écrit à l’entité qui a recommandé l’admission au Programme ou, lorsque la recommandation émane de la Gendarmerie, au témoin les motifs de sa décision de refuser à celui-ci le bénéfice du Programme, et au bénéficiaire les motifs de sa décision de mettre fin à la protection de celui-ci sans son consentement, de manière que chaque destinataire puisse comprendre le fondement de la décision.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. The Act is amended by adding the following after section 10:
+
+
+
+
+
+
+
+
+
+
+11. La même loi est modifiée par adjonction, après l’article 10, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DESIGNATED PROGRAMS
+
+
+
+
+
+
+
+
+
+PROGRAMMES DÉSIGNÉS
+
+
+
+
+
+
+
+
+
+
+
+
+Designation — program
+
+
+
+
+10.1 (1) At the request of a provincial minister who is responsible for a provincial or municipal program that facilitates the protection of witnesses and on the Minister’s recommendation, the Governor in Council may, by regulation, designate the program by adding its name to the schedule.
+
+
+
+
+
+
+
+
+
+
+10.1 (1) À la demande du ministre provincial responsable d’un programme provincial ou municipal facilitant la protection des témoins et sur la recommandation du ministre, le gouverneur en conseil peut, par règlement, désigner le programme en cause en ajoutant son nom à l’annexe.
+
+
+
+Désignation : programme
+
+
+
+
+
+
+
+
+
+
+Designation — provincial official
+
+
+
+(2) In his or her request, the provincial minister shall designate an official of the applicable province or municipality to be the program’s provincial official.
+
+
+
+
+
+
+
+
+
+(2) Le ministre provincial désigne dans la demande le fonctionnaire de la province ou de la municipalité en cause qui agira à titre de fonctionnaire provincial pour le programme.
+
+
+
+Désignation : fonctionnaire provincial
+
+
+
+
+
+
+
+
+
+
+Change of provincial official
+
+
+
+(3) The provincial minister may replace the provincial official by designating another official of the applicable province or municipality and shall notify the Minister without delay of any such replacement.
+
+
+
+
+
+
+
+
+
+(3) Le ministre provincial peut désigner un autre fonctionnaire de la province ou de la municipalité en cause pour remplacer le fonctionnaire provincial, auquel cas il en avise le ministre sans délai.
+
+
+
+Nouveau fonctionnaire provincial
+
+
+
+
+
+
+
+
+
+
+Deletion from schedule
+
+
+
+
+10.2 On the Minister’s recommendation, the Governor in Council may, by regulation, delete the name of a program from the schedule.
+
+
+
+
+
+
+
+
+
+
+10.2 Sur la recommandation du ministre, le gouverneur en conseil peut, par règlement, supprimer de l’annexe le nom de tout programme y figurant.
+
+
+
+Suppression de l’annexe
+
+
+
+
+
+
+
+
+
+
+Coordination — change of identity
+
+
+
+
+10.3 (1) At a provincial official’s request, the Commissioner shall coordinate the activities of federal departments, agencies and services in order to facilitate a change of identity for a designated program protectee.
+
+
+
+
+
+
+
+
+
+
+10.3 (1) À la demande du fonctionnaire provincial, le commissaire coordonne les activités des ministères, organismes et services fédéraux afin de faciliter le changement d’identité du bénéficiaire d’un programme désigné.
+
+
+
+Coordination pour le changement d’identité
+
+
+
+
+
+
+
+
+
+
+Required information
+
+
+
+(2) The provincial official shall provide any information that the Commissioner requires for the purpose of subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Le fonctionnaire provincial fournit les renseignements qu’exige le commissaire pour l’application du paragraphe (1).
+
+
+
+Renseignements requis
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Section 11 of the Act and the heading before it are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. L’article 11 de la même loi et l’intertitre le précédant sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROTECTION OF INFORMATION
+
+
+
+
+
+
+
+
+
+PROTECTION DES RENSEIGNEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosures prohibited
+
+
+
+
+11. (1) Subject to sections 11.1 to 11.5, no person shall directly or indirectly disclose
+
+
+
+
+
+
+
+
+
+
+(a) any information that reveals, or from which may be inferred, the location or a change of identity of a person that they know is a protected person;
+
+
+
+
+
+
+
+
+
+
+(b) any information about the means and methods by which protected persons are protected, knowing that or being reckless as to whether the disclosure could result in substantial harm to any protected person; or
+
+
+
+
+
+
+
+
+
+
+(c) the identity and role of a person who provides protection or directly or indirectly assists in providing protection, knowing that or being reckless as to whether the disclosure could result in substantial harm to
+
+
+
+
+
+
+
+
+
+
+(i) that person,
+
+
+
+
+
+
+
+
+
+
+(ii) a member of that person’s family, or
+
+
+
+
+
+
+
+
+
+
+(iii) any protected person.
+
+
+
+
+
+
+
+
+
+
+11. (1) Sous réserve des articles 11.1 à 11.5, il est interdit à toute personne de communiquer, directement ou indirectement, selon le cas :
+
+
+
+Interdiction de communication
+
+
+
+
+
+a) des renseignements qui révèlent ou permettraient de découvrir le lieu où se trouve une personne qu’elle sait être une personne protégée ou son changement d’identité;
+
+
+
+
+
+
+
+
+
+
+
+b) des renseignements concernant les moyens et les méthodes de protection des personnes protégées, sachant que la communication pourrait entraîner un préjudice sérieux pour toute personne protégée, ou ne s’en souciant pas;
+
+
+
+
+
+
+
+
+
+
+
+c) l’identité et le rôle d’une personne qui fournit de la protection ou qui, directement ou indirectement, aide à en fournir, sachant que la communication pourrait entraîner un préjudice sérieux pour l’une ou l’autre des personnes ci-après, ou ne s’en souciant pas :
+
+
+
+
+
+
+
+
+
+
+(i) cette personne,
+
+
+
+
+
+
+
+
+
+
+(ii) tout membre de sa famille,
+
+
+
+
+
+
+
+
+
+
+(iii) toute personne protégée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Means and methods of protection
+
+
+
+(2) For the purpose of paragraph (1)(b), information about the means and methods by which protected persons are protected includes information about
+
+
+
+
+
+
+
+
+
+
+(a) covert operational methods used to provide protection;
+
+
+
+
+
+
+
+
+
+
+(b) covert administrative methods used to support the provision of protection;
+
+
+
+
+
+
+
+
+
+
+(c) any means used to record or exchange confidential information relating to protection or used to gain access to that information; and
+
+
+
+
+
+
+
+
+
+
+(d) the location of facilities used to provide protection.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application de l’alinéa (1)b), les renseignements concernant les moyens et les méthodes de protection des personnes protégées comprennent notamment ceux ayant trait à ce qui suit :
+
+
+
+Moyens et méthodes de protection
+
+
+
+
+
+a) les méthodes opérationnelles secrètes qui sont utilisées pour fournir de la protection;
+
+
+
+
+
+
+
+
+
+
+
+b) les méthodes administratives secrètes qui sont utilisées pour aider à fournir de la protection;
+
+
+
+
+
+
+
+
+
+
+
+c) les moyens qui sont utilisés pour inscrire ou échanger des renseignements confidentiels relatifs à la protection, ou pour accéder à ces renseignements;
+
+
+
+
+
+
+
+
+
+
+
+d) les lieux où se trouvent les installations utilisées pour fournir de la protection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Non-application — protected or other person
+
+
+
+
+11.1 Paragraph 11(1)(a) does not apply to
+
+
+
+
+
+
+
+
+
+
+(a) a protected person who discloses information about themselves, if the disclosure could not result in substantial harm to any protected person; or
+
+
+
+
+
+
+
+
+
+
+(b) a person who discloses information that was disclosed to them by a protected person, if the disclosure could not result in substantial harm to any protected person.
+
+
+
+
+
+
+
+
+
+
+11.1 L’alinéa 11(1)a) ne s’applique pas aux personnes suivantes :
+
+
+
+Non-application : personne protégée ou autre
+
+
+
+
+
+a) la personne protégée qui communique des renseignements à son sujet, dans le cas où cette communication ne pourrait pas entraîner un préjudice sérieux pour toute personne protégée;
+
+
+
+
+
+
+
+
+
+
+
+b) la personne qui communique des renseignements qu’elle a obtenus d’une personne protégée, dans le cas où cette communication ne pourrait pas entraîner un préjudice sérieux pour toute personne protégée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception — Commissioner
+
+
+
+
+11.2 (1) The Commissioner may make a disclosure described in paragraph 11(1)(a) that relates to
+
+
+
+
+
+
+
+
+
+
+(a) a protectee, for the purpose of providing protection to them; or
+
+
+
+
+
+
+
+
+
+
+(b) a designated program protectee, for the purpose of facilitating a change of identity for them.
+
+
+
+
+
+
+
+
+
+
+11.2 (1) Le commissaire peut faire la communication visée à l’alinéa 11(1)a) qui se rapporte :
+
+
+
+Exception : commissaire
+
+
+
+
+
+a) au bénéficiaire, afin de lui fournir de la protection;
+
+
+
+
+
+
+
+
+
+
+
+b) au bénéficiaire d’un programme désigné, afin de faciliter son changement d’identité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other exceptions
+
+
+
+(2) The Commissioner may make a disclosure described in paragraph 11(1)(a) that relates to a protected person if
+
+
+
+
+
+
+
+
+
+
+(a) the protected person consents to the disclosure;
+
+
+
+
+
+
+
+
+
+
+(b) the protected person has previously made such a disclosure or acted in a manner that results in such a disclosure;
+
+
+
+
+
+
+
+
+
+
+(c) the Commissioner has reasonable grounds to believe that the disclosure is essential for the purposes of the administration of justice, including
+
+
+
+
+
+
+
+
+
+
+(i) investigating a serious offence if there is reason to believe that the protected person can provide material information or evidence in relation to, or has been involved in the commission of, the offence,
+
+
+
+
+
+
+
+
+
+
+(ii) preventing the commission of a serious offence, or
+
+
+
+
+
+
+
+
+
+
+(iii) establishing the innocence of a person in criminal proceedings;
+
+
+
+
+
+
+
+
+
+
+(d) the Commissioner has reasonable grounds to believe that the disclosure is essential for the purposes of national security or national defence; or
+
+
+
+
+
+
+
+
+
+
+(e) the disclosure is made in accordance with an agreement or arrangement entered into under subsection 14.1(1).
+
+
+
+
+
+
+
+
+
+(2) Le commissaire peut faire la communication visée à l’alinéa 11(1)a) qui se rapporte à une personne protégée dans les cas suivants :
+
+
+
+Autres exceptions
+
+
+
+
+
+a) celle-ci y consent;
+
+
+
+
+
+
+
+
+
+
+
+b) elle a déjà fait une telle communication ou l’a provoquée par ses actes;
+
+
+
+
+
+
+
+
+
+
+
+c) le commissaire a des motifs raisonnables de croire que la communication est essentielle pour l’administration de la justice, notamment aux fins suivantes :
+
+
+
+
+
+
+
+
+
+
+(i) servir dans le cadre d’une enquête sur une infraction grave, lorsqu’il y a des raisons de croire que la personne protégée a été mêlée à la perpétration de l’infraction ou qu’elle peut fournir des renseignements ou des éléments de preuve importants à cet égard,
+
+
+
+
+
+
+
+
+
+
+(ii) prévenir la perpétration d’une infraction grave,
+
+
+
+
+
+
+
+
+
+
+(iii) établir l’innocence d’une personne dans le cadre d’une poursuite criminelle;
+
+
+
+
+
+
+
+
+
+
+
+d) le commissaire a des motifs raisonnables de croire que la communication est essentielle pour la sécurité ou la défense nationale;
+
+
+
+
+
+
+
+
+
+
+
+e) la communication est faite conformément à un accord ou à un arrangement conclu en vertu du paragraphe 14.1(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Designated program protectee
+
+
+
+(3) The Commissioner is only permitted to make a disclosure under paragraph (2)(c) that relates to a current or former designated program protectee if, in the Commissioner’s opinion, the urgency of the situation requires the disclosure or if the appropriate provincial official consents to it.
+
+
+
+
+
+
+
+
+
+(3) S’agissant de la communication prévue à l’alinéa (2)c) qui se rapporte à l’ancien ou à l’actuel bénéficiaire d’un programme désigné, le commissaire ne peut la faire que s’il estime que l’urgence de la situation l’exige ou que si le fonctionnaire provincial compétent consent à la communication.
+
+
+
+Bénéficiaire d’un programme désigné
+
+
+
+
+
+
+
+
+
+
+Exception — other information
+
+
+
+(4) The Commissioner may make a disclosure described in paragraph 11(1)(b) or (c)
+
+
+
+
+
+
+
+
+
+
+(a) that relates to the Program or a person associated with it, if the Commissioner has reasonable grounds to believe that the disclosure is essential for the purposes of the administration of justice, national securi-ty, national defence or public safety; and
+
+
+
+
+
+
+
+
+
+
+(b) that relates to a current or former designated program or a person associated with it, if the Commissioner has reasonable grounds to believe that the disclosure is essential for the purposes of national security or national defence.
+
+
+
+
+
+
+
+
+
+(4) Le commissaire peut faire la communication visée aux alinéas 11(1)b) ou c) dans les cas suivants :
+
+
+
+Exception : autres renseignements
+
+
+
+
+
+a) elle se rapporte au Programme ou à une personne associée au Programme, et il a des motifs raisonnables de croire qu’elle est essentielle pour l’administration de la justice, la sécurité ou la défense nationale ou la sécurité publique;
+
+
+
+
+
+
+
+
+
+
+
+b) elle se rapporte à un ancien ou à un actuel programme désigné ou à une personne associée au programme, et il a des motifs raisonnables de croire qu’elle est essentielle pour la sécurité ou la défense nationale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior notification — protected person
+
+
+
+(5) The Commissioner shall, before making a disclosure under paragraph (2)(b), (c) or (e), take reasonable steps to notify the protected person and allow them to make representations concerning the matter.
+
+
+
+
+
+
+
+
+
+(5) Avant de faire la communication prévue aux alinéas (2)b), c) ou e), le commissaire prend les mesures utiles pour en informer la personne protégée et lui donner la possibilité de présenter des observations.
+
+
+
+Notification préalable : personne protégée
+
+
+
+
+
+
+
+
+
+
+Non-application
+
+
+
+(6) Subsection (5) does not apply if, in the Commissioner’s opinion, the notification would impede the investigation of an offence, could compromise national security, national defence or public safety or could result in substantial harm to any protected person or to any person providing protection or directly or indirectly assisting in providing protection.
+
+
+
+
+
+
+
+
+
+(6) Le paragraphe (5) ne s’applique pas si le commissaire estime que la notification aurait pour conséquence d’entraver l’enquête relative à une infraction, pourrait nuire à la sécurité ou la défense nationale ou à la sécurité publique, ou pourrait entraîner un préjudice sérieux pour toute personne protégée ou pour toute personne qui fournit de la protection ou qui, directement ou indirectement, aide à en fournir.
+
+
+
+Non-application
+
+
+
+
+
+
+
+
+
+
+Prior notification — provincial official
+
+
+
+(7) The Commissioner shall notify the appropriate provincial official of a disclosure under paragraph (2)(a) or (b) that relates to a current or former designated program protectee before the disclosure is made.
+
+
+
+
+
+
+
+
+
+(7) Avant de faire la communication prévue aux alinéas (2)a) ou b) qui se rapporte à l’ancien ou à l’actuel bénéficiaire d’un programme désigné, le commissaire est tenu d’en aviser le fonctionnaire provincial compétent.
+
+
+
+Notification préalable : fonctionnaire provincial
+
+
+
+
+
+
+
+
+
+
+Notification — provincial official
+
+
+
+(8) The Commissioner shall notify the appropriate provincial official of a disclosure referred to in subsection (3) as soon as feasible after making it, if it was made on the basis of the urgency of the situation.
+
+
+
+
+
+
+
+
+
+(8) Lorsqu’il fait la communication visée au paragraphe (3) en raison de l’urgence d’une situation, le commissaire est tenu d’en aviser le fonctionnaire provincial compétent aussitôt que possible après la communication.
+
+
+
+Notification ultérieure : fonctionnaire provincial
+
+
+
+
+
+
+
+
+
+
+Exception — provincial official
+
+
+
+
+11.3 (1) The appropriate provincial official may make a disclosure described in paragraph 11(1)(a) that relates to a designated program protectee for the purpose of providing protection to them.
+
+
+
+
+
+
+
+
+
+
+11.3 (1) Le fonctionnaire provincial compétent peut faire la communication visée à l’alinéa 11(1)a) qui se rapporte au bénéficiaire d’un programme désigné afin de lui fournir de la protection.
+
+
+
+Exception : fonctionnaire provincial
+
+
+
+
+
+
+
+
+
+
+Other exceptions
+
+
+
+(2) The appropriate provincial official may make a disclosure described in paragraph 11(1)(a) that relates to a current or former designated program protectee if
+
+
+
+
+
+
+
+
+
+
+(a) the current or former designated program protectee consents to the disclosure;
+
+
+
+
+
+
+
+
+
+
+(b) the current or former designated program protectee has previously made such a disclosure or acted in a manner that results in such a disclosure;
+
+
+
+
+
+
+
+
+
+
+(c) the provincial official has reasonable grounds to believe that the disclosure is essential for the purposes of the administration of justice, including
+
+
+
+
+
+
+
+
+
+
+(i) investigating a serious offence if there is reason to believe that the current or former designated program protectee can provide material information or evidence in relation to, or has been involved in the commission of, the offence,
+
+
+
+
+
+
+
+
+
+
+(ii) preventing the commission of a serious offence, or
+
+
+
+
+
+
+
+
+
+
+(iii) establishing the innocence of a person in criminal proceedings; or
+
+
+
+
+
+
+
+
+
+
+(d) the disclosure is made in accordance with an agreement or arrangement entered into under subsection 14.1(2).
+
+
+
+
+
+
+
+
+
+(2) Le fonctionnaire provincial compétent peut faire la communication visée à l’alinéa 11(1)a) qui se rapporte à l’ancien ou à l’actuel bénéficiaire d’un programme désigné, dans les cas suivants :
+
+
+
+Autres exceptions
+
+
+
+
+
+a) celui-ci y consent;
+
+
+
+
+
+
+
+
+
+
+
+b) il a déjà fait une telle communication ou l’a provoquée par ses actes;
+
+
+
+
+
+
+
+
+
+
+
+c) le fonctionnaire provincial a des motifs raisonnables de croire que la communication est essentielle pour l’administration de la justice, notamment aux fins suivantes  :
+
+
+
+
+
+
+
+
+
+
+(i) servir dans le cadre d’une enquête sur une infraction grave lorsqu’il y a des raisons de croire que l’actuel ou l’ancien bénéficiaire du programme désigné a été mêlé à la perpétration de l’infraction ou qu’il peut fournir des renseignements ou des éléments de preuve importants à cet égard,
+
+
+
+
+
+
+
+
+
+
+(ii) prévenir la perpétration d’une infraction grave,
+
+
+
+
+
+
+
+
+
+
+(iii) établir l’innocence d’une personne dans le cadre d’une poursuite criminelle;
+
+
+
+
+
+
+
+
+
+
+
+d) la communication est faite conformément à un accord ou à un arrangement conclu en vertu du paragraphe 14.1(2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception — other information
+
+
+
+(3) A provincial official may make a disclosure described in paragraph 11(1)(b) or (c) that relates to their designated program or to a person associated with it if the provincial official has reasonable grounds to believe that the disclosure is essential for the purposes of the administration of justice or public safety.
+
+
+
+
+
+
+
+
+
+(3) Le fonctionnaire provincial compétent peut faire la communication visée aux alinéas 11(1)b) ou c) qui se rapporte à un programme désigné ou à une personne associée à celui-ci s’il a des motifs raisonnables de croire qu’elle est essentielle pour l’administration de la justice ou la sécurité publique.
+
+
+
+Exception : autres renseignements
+
+
+
+
+
+
+
+
+
+
+Prior notification — designated program protectee
+
+
+
+(4) The provincial official shall, before making a disclosure under any of paragraphs (2)(b) to (d), take reasonable steps to notify the current or former designated program protectee and allow them to make representations concerning the matter.
+
+
+
+
+
+
+
+
+
+(4) Avant de faire la communication prévue à l’un des alinéas (2)b) à d), le fonctionnaire provincial prend les mesures utiles pour en informer l’ancien ou l’actuel bénéficiaire d’un programme désigné et lui donner la possibilité de présenter des observations.
+
+
+
+Notification préalable : bénéficiaire d’un programme désigné
+
+
+
+
+
+
+
+
+
+
+Non-application
+
+
+
+(5) Subsection (4) does not apply if, in the provincial official’s opinion, the notification would impede the investigation of an offence, could compromise public safety or could result in substantial harm to any current or former designated program protectee or to any person providing protection or directly or indirectly assisting in providing protection.
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe (4) ne s’applique pas si le fonctionnaire provincial estime que la notification aurait pour conséquence d’entraver l’enquête relative à une infraction, pourrait nuire à la sécurité publique, ou pourrait entraîner un préjudice sérieux pour tout ancien ou pour tout actuel bénéficiaire d’un programme désigné ou pour toute personne qui fournit de la protection ou qui, directement ou indirectement, aide à en fournir.
+
+
+
+Non-application
+
+
+
+
+
+
+
+
+
+
+Exception — agreement or arrangement
+
+
+
+
+11.4 (1) A party, other than the Commissioner or a provincial official, who has entered into an agreement or arrangement under subsection 14.1(1) or (2) may make a disclosure described in paragraph 11(1)(a) in accordance with the agreement or arrangement.
+
+
+
+
+
+
+
+
+
+
+11.4 (1) Toute partie à un accord ou à un arrangement conclu en vertu des paragraphes 14.1(1) ou (2), à l’exception du commissaire ou du fonctionnaire provincial, peut faire la communication visée à l’alinéa 11(1)a) conformément à l’accord ou à l’arrangement en cause.
+
+
+
+Exception : accord ou arrangement
+
+
+
+
+
+
+
+
+
+
+Prior notification
+
+
+
+(2) The party shall, before making a disclosure under subsection (1), take reasonable steps to notify the protected person and allow them to make representations concerning the matter.
+
+
+
+
+
+
+
+
+
+(2) Avant de faire la communication en vertu du paragraphe (1), la partie prend les mesures utiles pour en informer la personne protégée et lui donner la possibilité de présenter des observations.
+
+
+
+Notification préalable
+
+
+
+
+
+
+
+
+
+
+Further disclosures prohibited
+
+
+
+
+11.5 (1) Subject to this section, a person to whom information is disclosed under sections 11.2 to 11.4 is not authorized to disclose that information to anyone else.
+
+
+
+
+
+
+
+
+
+
+11.5 (1) Sous réserve des dispositions du présent article, la personne qui obtient des renseignements dans le cadre des articles 11.2 à 11.4 ne peut les communiquer à autrui.
+
+
+
+Non-communication à un tiers
+
+
+
+
+
+
+
+
+
+
+Exception — Commissioner’s request
+
+
+
+(2) A person may, for the purpose of providing protection to a protectee or of changing a designated program protectee’s identity, disclose that information to the extent that is necessary to give effect to a Commissioner’s request that is made for that purpose.
+
+
+
+
+
+
+
+
+
+(2) Elle peut le faire dans le but de fournir de la protection au bénéficiaire ou de faire le changement d’identité du bénéficiaire d’un programme désigné dans la mesure où cela est nécessaire pour exécuter la demande faite par le commissaire dans ce but.
+
+
+
+Exception : demande du commissaire
+
+
+
+
+
+
+
+
+
+
+Exception — provincial official’s request
+
+
+
+(3) A person may, for the purpose of providing protection to a designated program protectee, disclose that information to the extent that is necessary to give effect to a provincial official’s request that is made for that purpose.
+
+
+
+
+
+
+
+
+
+(3) Elle peut le faire dans le but de fournir de la protection au bénéficiaire d’un programme désigné dans la mesure où cela est nécessaire pour exécuter la demande faite par le fonctionnaire provincial dans ce but.
+
+
+
+Exception : demande du fonctionnaire provincial
+
+
+
+
+
+
+
+
+
+
+Court — confidentiality
+
+
+
+(4) Once a disclosure described in subsection 11(1) is made to a court, the court shall take any measures that it considers necessary to ensure that the information remains confidential.
+
+
+
+
+
+
+
+
+
+(4) Dès qu’une communication visée au paragraphe 11(1) est faite à un tribunal, celui-ci est tenu de prendre les mesures qu’il estime nécessaires afin de maintenir la confidentialité des renseignements en cause.
+
+
+
+Tribunal : confidentialité
+
+
+
+
+
+
+
+
+
+
+Exception — court
+
+
+
+(5) A court may make a disclosure described in subsection 11(1) for the purpose of preventing a miscarriage of justice, but in doing so it shall disclose only the information that it considers necessary for that purpose and shall disclose the information only to persons who require it for that purpose.
+
+
+
+
+
+
+
+
+
+(5) Le tribunal peut faire une communication visée au paragraphe 11(1) afin de prévenir un déni de justice. Le cas échéant, il ne communique que ceux des renseignements qu’il estime nécessaires à cette fin, et ne les communique qu’aux personnes qui doivent en prendre connaissance à cette fin.
+
+
+
+Exception : tribunal
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. (1) The portion of section 12 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. (1) Le passage de l’article 12 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Factors to be considered
+
+
+
+
+12. The Commissioner or a provincial official shall consider the following factors in determining whether to make a disclosure under section 11.2 or 11.3, as the case may be, except for a disclosure under paragraph 11.2(2)(e) or 11.3(2)(d):
+
+
+
+
+
+
+
+
+
+
+12. Pour décider s’il peut y avoir communication au titre des articles 11.2 ou 11.3, selon le cas, exception faite des alinéas 11.2(2)e) et 11.3(2)d), le commissaire ou le fonctionnaire provincial tient compte des facteurs suivants :
+
+
+
+Facteurs à considérer
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 12(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 12b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the danger or adverse consequences of the disclosure in relation to a person and the integrity of the Program or of a designated program, as the case may be;
+
+
+
+
+
+
+
+
+
+
+b) le danger ou les conséquences néfastes de la communication pour quiconque et pour l’intégrité du Programme ou d’un programme désigné, selon le cas;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. Section 13 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. L’article 13 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Informer privilege
+
+
+
+
+12.1 Informer privilege at common law prevails over any authority to disclose information provided under this Act.
+
+
+
+
+
+
+
+
+
+
+12.1 Le privilège de l’informateur accordé par la common law l’emporte sur toute autorisation, prévue par la présente loi, de communiquer des renseignements.
+
+
+
+Privilège de l’informateur
+
+
+
+
+
+
+
+
+
+
+Claim — new identity
+
+
+
+
+13. A person shall not be liable or otherwise punished for making a claim that the new identity of a protected person, whose identity has been changed as a consequence of the protection provided under the Program or under a designated program, is and has been the protected person’s only identity.
+
+
+
+
+
+
+
+
+
+
+13. La personne qui soutient que la nouvelle identité d’une personne protégée, acquise dans le cadre du Programme ou d’un programme désigné, est et a toujours été sa seule identité n’encourt aucune sanction de ce fait.
+
+
+
+Affirmation : nouvelle identité
+
+
+
+
+
+
+
+
+
+
+Claim — providing protection
+
+
+
+
+13.1 A person who provides protection or directly or indirectly assists in providing protection under the Program or under a designated program shall not be liable or otherwise punished for making a claim that they do not
+
+
+
+
+
+
+
+
+
+
+(a) provide or assist in providing protection; or
+
+
+
+
+
+
+
+
+
+
+(b) know a protected person or know that a person is a protected person.
+
+
+
+
+
+
+
+
+
+
+13.1 N’encourt aucune sanction la personne qui fournit de la protection ou, directement ou indirectement, aide à en fournir dans le cadre du Programme ou d’un programme désigné lorsqu’elle soutient :
+
+
+
+Affirmation : protection
+
+
+
+
+
+a) qu’elle ne fournit pas de protection ou qu’elle n’aide pas à en fournir;
+
+
+
+
+
+
+
+
+
+
+
+b) qu’elle ne connaît pas une personne protégée ou qu’elle ne sait pas si une personne est une personne protégée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. The heading before section 14 of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. L’intertitre précédant l’article 14 de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AGREEMENTS AND ARRANGEMENTS
+
+
+
+
+
+
+
+
+
+
+AGREEMENTS AND ARRANGEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. The Act is amended by adding the following after section 14:
+
+
+
+
+
+
+
+
+
+
+16. La même loi est modifiée par adjonction, après l’article 14, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Agreement or arrangement — Commissioner
+
+
+
+
+14.1 (1) The Commissioner may enter into an agreement or arrangement with a federal department, agency or service regarding disclosures — that are described in paragraph 11(1)(a) and that relate to a current or former protectee — to each other or to another federal department, agency or service or any provincial department, agency or service.
+
+
+
+
+
+
+
+
+
+
+14.1 (1) Le commissaire peut conclure un accord ou un arrangement avec tout ministère, organisme ou service fédéral concernant les communications — visées à l’alinéa 11(1)a) et se rapportant à l’ancien ou à l’actuel bénéficiaire — entre les parties à l’accord ou à l’arrangement ou à tout autre ministère, organisme ou service fédéral ou tout ministère, organisme ou service provincial.
+
+
+
+Accord ou arrangement : commissaire
+
+
+
+
+
+
+
+
+
+
+Agreement or arrangement — provincial official
+
+
+
+(2) A provincial official may enter into an agreement or arrangement with a provincial department, agency or service of the same province as that official regarding disclosures — that are described in paragraph 11(1)(a) and that relate to a current or former designated program protectee — to each other or to another department, agency or service of the same province or any federal department, agency or service.
+
+
+
+
+
+
+
+
+
+(2) Le fonctionnaire provincial peut conclure un accord ou un arrangement avec tout ministère, organisme ou service de la province en cause concernant les communications — visées à l’alinéa 11(1)a) et se rapportant à l’ancien ou à l’actuel bénéficiaire d’un programme désigné — entre les parties à l’accord ou à l’arrangement ou à tout autre ministère, organisme ou service de la même province ou tout ministère, organisme ou service fédéral.
+
+
+
+Accord ou arrangement : fonctionnaire provincial
+
+
+
+
+
+
+
+
+
+
+Factors to be considered
+
+
+
+(3) The Commissioner or a provincial official shall consider the factors set out in paragraphs 12(a) to (e) in determining whether to enter into an agreement or arrangement and in establishing its terms.
+
+
+
+
+
+
+
+
+
+(3) Pour décider s’il y a lieu de conclure un accord ou un arrangement et, le cas échéant, quel devrait en être le contenu, le commissaire ou le fonctionnaire provincial tient compte des facteurs mentionnés aux alinéas 12a) à e).
+
+
+
+Facteurs à considérer
+
+
+
+
+
+
+
+
+
+
+Mandatory terms
+
+
+
+(4) An agreement or arrangement shall include the following terms:
+
+
+
+
+
+
+
+
+
+
+(a) a party is not permitted to make a disclosure unless it is for a purpose that is essential for the administration of justice or public safety and that is specified in the agreement or arrangement; and
+
+
+
+
+
+
+
+
+
+
+(b) the parties shall take whatever steps are necessary, including any steps specified in the agreement or arrangement, to protect information that is disclosed from being disclosed beyond what is strictly necessary in the circumstances.
+
+
+
+
+
+
+
+
+
+(4) L’accord ou l’arrangement prévoit notamment :
+
+
+
+Obligations
+
+
+
+
+
+a) que les parties ne peuvent faire de communication qu’aux fins essentielles pour l’administration de la justice ou la sécurité publique qui y sont précisées;
+
+
+
+
+
+
+
+
+
+
+
+b) que les parties sont tenues de prendre toutes les mesures nécessaires, notamment celles qui y sont précisées, pour protéger les renseignements à communiquer de sorte qu’ils ne le soient que dans la mesure où cela est absolument nécessaire dans les circonstances.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Multiple departments, agencies or services
+
+
+
+(5) More than one department, agency or service may be party to a single agreement or arrangement.
+
+
+
+
+
+
+
+
+
+(5) Plus d’un ministère, organisme ou service peut être partie à l’accord ou à l’arrangement.
+
+
+
+Accord ou arrangement multilatéral
+
+
+
+
+
+
+
+
+
+
+2000, c. 24, s. 75(E)
+
+
+
+
+17. Section 15 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. L’article 15 de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 24, art. 75(A)
+
+
+
+
+
+
+
+
+
+
+Delegation — Commissioner
+
+
+
+
+15. (1) The Commissioner may delegate to any member of the Force any of his or her powers, duties and functions under this Act, except the power to delegate under this section and the power to
+
+
+
+
+
+
+
+
+
+
+(a) determine whether to disclose information under any of paragraphs 11.2(2)(b) to (d) and subsection 11.2(4);
+
+
+
+
+
+
+
+
+
+
+(b) enter into an agreement or arrangement under subsection 14.1(1);
+
+
+
+
+
+
+
+
+
+
+(c) designate an Assistant Commissioner to be responsible for the Program; and
+
+
+
+
+
+
+
+
+
+
+(d) determine whether to admit a witness to the Program, to change the identity of a protectee and to terminate the protection provided to a protectee.
+
+
+
+
+
+
+
+
+
+
+15. (1) Le commissaire peut déléguer à tout membre de la Gendarmerie les attributions que lui confère la présente loi, à l’exception du pouvoir de délégation que lui accorde le présent paragraphe et des pouvoirs suivants :
+
+
+
+Délégation : commissaire
+
+
+
+
+
+a) décider s’il y a lieu de communiquer des renseignements au titre des alinéas 11.2(2)b) à d) ou du paragraphe 11.2(4);
+
+
+
+
+
+
+
+
+
+
+
+b) conclure un accord ou un arrangement en vertu du paragraphe 14.1(1);
+
+
+
+
+
+
+
+
+
+
+
+c) désigner un commissaire adjoint à titre de responsable du Programme;
+
+
+
+
+
+
+
+
+
+
+
+d) décider s’il y a lieu d’admettre au Programme un témoin, de changer l’identité d’un bénéficiaire ou de mettre fin à sa protection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assistant Commissioner
+
+
+
+(2) The Commissioner may designate an Assistant Commissioner to be responsible for the Program and, despite paragraph (1)(d), may delegate the powers set out in that paragraph to that Assistant Commissioner.
+
+
+
+
+
+
+
+
+
+(2) Le commissaire peut désigner un commissaire adjoint comme responsable du Programme et, malgré l’alinéa (1)d), peut déléguer à celui-ci les pouvoirs mentionnés à cet alinéa.
+
+
+
+Commissaire adjoint
+
+
+
+
+
+
+
+
+
+
+Delegation — provincial official
+
+
+
+
+15.1 A provincial official may delegate to any official of the same province or municipality any of his or her powers, duties and functions under this Act, except the power to
+
+
+
+
+
+
+
+
+
+
+(a) determine whether to disclose information under paragraphs 11.3(2)(b) and (c) and subsection 11.3(3); and
+
+
+
+
+
+
+
+
+
+
+(b) enter into an agreement or arrangement under subsection 14.1(2).
+
+
+
+
+
+
+
+
+
+
+15.1 Le fonctionnaire provincial peut déléguer à tout fonctionnaire de la même province ou municipalité les attributions que lui confère la présente loi, à l’exception des pouvoirs suivants :
+
+
+
+Délégation : fonctionnaire provincial
+
+
+
+
+
+a) décider s’il y a lieu de communiquer des renseignements au titre des alinéas 11.3(2)b) et c) et du paragraphe 11.3(3);
+
+
+
+
+
+
+
+
+
+
+
+b) conclure un accord ou un arrangement en vertu du paragraphe 14.1(2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. Section 17 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+18. L’article 17 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Policy directions
+
+
+
+
+17. The Commissioner shall give effect to any directions that the Minister may make concerning matters of general policy that are related to the administration of the Program and to the coordination of activities under this Act respecting a designated program.
+
+
+
+
+
+
+
+
+
+
+17. Le commissaire doit exécuter les instructions que le ministre peut donner sur les grandes orientations de l’administration du Programme ainsi que sur la coordination, sous le régime de la présente loi, des activités relatives aux programmes désignés.
+
+
+
+Instructions
+
+
+
+
+
+
+
+
+
+
+
+
+
+19. Section 18 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+19. L’article 18 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Cooperation
+
+
+
+
+18. Subject to the confidentiality requirements imposed by any other Act of Parliament, federal departments, agencies and services shall, to the extent possible, cooperate with the Commissioner and persons acting on his or her behalf in the administration of the Program and of activities under this Act respecting a designated program.
+
+
+
+
+
+
+
+
+
+
+18. Les ministères, organismes et services fédéraux sont tenus, dans la mesure du possible et sous réserve des obligations que d’autres lois fédérales leur imposent en matière de confidentialité, de coopérer avec le commissaire et les personnes agissant en son nom pour assurer la bonne administration du Programme et des activités relatives aux programmes désignés qui sont exercées sous le régime de la présente loi.
+
+
+
+Coopération
+
+
+
+
+
+
+
+
+
+
+Terminology
+
+
+
+
+20. The French version of the Act is amended by replacing “programme” with “Programme” in the following provisions:
+
+
+
+
+
+
+
+
+
+
+(a) section 1;
+
+
+
+
+
+
+
+
+
+
+(b) section 4;
+
+
+
+
+
+
+
+
+
+
+(c) section 7;
+
+
+
+
+
+
+
+
+
+
+(d) subparagraph 8(b)(iv);
+
+
+
+
+
+
+
+
+
+
+(e) paragraph 9(1)(a);
+
+
+
+
+
+
+
+
+
+
+(f) section 14;
+
+
+
+
+
+
+
+
+
+
+(g) subsection 16(1); and
+
+
+
+
+
+
+
+
+
+
+(h) paragraph 20(a).
+
+
+
+
+
+
+
+
+
+
+20. Dans les passages ci-après de la version française de la même loi, « programme » est remplacé par « Programme » :
+
+
+
+Terminologie
+
+
+
+
+
+a) l’article 1;
+
+
+
+
+
+
+
+
+
+
+
+b) l’article 4;
+
+
+
+
+
+
+
+
+
+
+
+c) l’article 7;
+
+
+
+
+
+
+
+
+
+
+
+d) le sous-alinéa 8b)(iv);
+
+
+
+
+
+
+
+
+
+
+
+e) l’alinéa 9(1)a);
+
+
+
+
+
+
+
+
+
+
+
+f) l’article 14;
+
+
+
+
+
+
+
+
+
+
+
+g) le paragraphe 16(1);
+
+
+
+
+
+
+
+
+
+
+
+h) l’alinéa 20a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21. The Act is amended by adding, after section 23, the schedule set out in the schedule to this Act.
+
+
+
+
+
+
+
+
+
+
+21. La même loi est modifiée par adjonction, après l’article 23, de l’annexe figurant à l’annexe de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. A-1
+
+
+
+CONSEQUENTIAL AMENDMENT TO THE ACCESS TO INFORMATION ACT
+
+
+
+
+
+
+
+
+
+MODIFICATION CORRÉLATIVE À LA LOI SUR L’ACCÈS À L’INFORMATION
+
+
+
+L.R., ch. A-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+22. Schedule II to the Access to Information Act is amended by adding, in alphabet-ical order, a reference to
+
+
+
+
+
+
+
+
+
+
+22. L’annexe II de la Loi sur l’accès à l’information est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Witness Protection Program Act
+
+
+
+
+
+
+
+Loi sur le Programme de protection des témoins
+
+
+
+
+
+
+
+and a corresponding reference to “section 11”.
+
+
+
+
+
+
+
+
+
+Loi sur le Programme de protection des témoins
+
+
+
+
+
+
+
+Witness Protection Program Act
+
+
+
+
+
+
+
+ainsi que de la mention « article 11 » en regard de ce titre de loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENT
+
+
+
+
+
+
+
+
+
+DISPOSITION DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-42
+
+
+
+
+23. If Bill C-42, introduced in the 1st session of the 41st Parliament and entitled the Enhancing Royal Canadian Mounted Police Accountability Act, receives royal assent, then, on the first day on which both section 35 of that Act and section 12 of this Act are in force, paragraphs 45.4(1)(b) and (c) of the Royal Canadian Mounted Police Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+23. En cas de sanction du projet de loi C-42, déposé au cours de la 1re session de la 41e législature et intitulé Loi visant à accroître la responsabilité de la Gendarmerie royale du Canada, dès le premier jour où l’article 35 de cette loi et l’article 12 de la présente loi sont tous deux en vigueur, les alinéas 45.4(1)b) et c) de la Loi sur la Gendarmerie royale du Canada sont remplacés par ce qui suit :
+
+
+
+Projet de loi C-42
+
+
+
+
+
+
+
+
+
+
+
+
+(b) information the disclosure of which is described in subsection 11(1) of the Witness Protection Program Act;
+
+
+
+
+
+
+
+
+
+
+b) tout renseignement dont la communication est visée au paragraphe 11(1) de la Loi sur le Programme de protection des témoins;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+24. The provisions of this Act, other than section 23, come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+24. Les dispositions de la présente loi, exception faite de l’article 23, entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 
+
+
+
+
+
+ANNEXE 
+
+
+
+
+
+
+(Section 21)
+
+
+
+
+
+(article 21)
+
+
+
+
+
+
+SCHEDULE 
+
+
+
+
+
+ANNEXE 
+
+
+
+
+
+
+(Sections 10.1 and 10.2)
+
+
+
+
+
+(articles 10.1 et 10.2)
+
+
+
+
+
+
+DESIGNATED PROGRAMS
+
+
+
+
+
+PROGRAMMES DÉSIGNÉS
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

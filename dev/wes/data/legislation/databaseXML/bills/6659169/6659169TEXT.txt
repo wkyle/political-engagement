@@ -1,0 +1,7142 @@
+
+
+
+
+
+C-614
+
+
+
+
+
+C-614
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-614
+
+
+
+
+
+PROJET DE LOI C-614
+
+
+
+
+
+
+An Act respecting VIA Rail Canada and making consequential amendments to another Act
+
+
+
+
+
+Loi concernant VIA Rail Canada et modifiant une loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 12, 2014
+
+première lecture le 12 juin 2014
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Toone
+
+412162
+
+
+
+M. Toone
+
+
+
+
+
+SUMMARY
+This enactment establishes a legislative framework for the crown corporation of VIA Rail Canada and describes the scheme of governance and funding for it. It also requires VIA Rail Canada to maintain public passenger service for the routes set out in the schedule. 
+This enactment also amends the Canada Transportation Act to enable a railway company to electrify the tracks of another railway company, by applying to the Canadian Transportation Agency for this purpose. It accords scheduling and operational preference to public passenger service by VIA Rail Canada over freight service where there is a conflict between the two.  It requires VIA Rail Canada and any other railway company to set out public passenger service performance standards and incentive payments in agreements between them and allows the Canadian Transportation Agency to investigate and impose monetary penalties for poor performance and delays. It promotes the transparency of agreements between VIA Rail Canada and another railway company to use that railway company’s facilities or services by requiring publication of these agreements.
+
+
+
+SOMMAIRE
+Le texte confère un cadre législatif à la société d’État VIA Rail Canada et prévoit une formule de gouvernance et de financement pour celle-ci.  Il exige de VIA Rail Canada qu’elle maintienne un service public de transport de passagers sur les trajets indiqués à l’annexe. 
+De plus, le texte modifie la Loi sur les transports au Canada afin de permettre à une compagnie de chemin de fer d’électrifier les voies ferrées d’une autre compagnie en en faisant la demande à l’Office des transports du Canada.  Il prévoit qu’en cas de conflit d’horaires ou d’exploitation, le service de transport de passagers de VIA Rail Canada a priorité sur le service marchandises. Le texte exige par ailleurs que tout accord conclu entre VIA Rail Canada et une compagnie de chemin de fer doit prévoir des normes de rendement pour le service public de transport de passagers ainsi qu'un régime d'incitation monétaire.  De plus, il permet à l’Office des transports du Canada d'ouvrir des enquêtes et d’imposer des sanctions pécuniaires en cas de retards ou de rendement insuffisant. En outre, le texte favorise la transparence des accords conclus entre VIA Rail Canada et d’autres compagnies de chemin de fer concernant l’utilisation de leurs installations ou services par VIA Rail Canada en rendant obligatoire la publication de ces accords.  
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-614
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-614
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting VIA Rail Canada and making consequential amendments to another Act
+
+
+
+
+
+
+
+
+
+Loi concernant VIA Rail Canada et modifiant une loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas it is desirable that Parliament establish a legislative framework for the provision by VIA Rail Canada of national public rail passenger services that are safe, adequate and efficient;
+
+
+
+
+
+
+
+
+Whereas it is desirable to provide VIA Rail Canada with an effective legislative basis for its operational sustainability and success as Canada’s national public rail passenger service provider;
+
+
+
+
+
+
+
+
+And whereas it is imperative that railway facilities and infrastructure be provided in a reasonable, efficient and adequate manner for VIA Rail Canada’s public passenger services;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+qu’il est souhaitable que le Parlement établisse un cadre législatif pour la prestation par VIA Rail Canada d’un service public national de transport par rail de passagers qui soit sûr, adapté et rentable;
+
+
+
+
+
+
+
+
+qu’il est souhaitable de doter VIA Rail Canada d’une assise législative convenable afin d’en assurer la viabilité et le succès opérationnels en tant que fournisseur national du service public de transport par rail de passagers;
+
+
+
+
+
+
+
+
+qu’il est impératif que des installations et des infrastructures ferroviaires soient mises à la disposition du service de transport de passagers de VIA Rail Canada de manière raisonnable, rentable et judicieuse, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :  
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the VIA Rail Canada Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur VIA Rail Canada. 
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS 
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The following definitions apply in this Act.
+
+
+
+
+“Agency”« Office »
+
+
+
+“Agency” means the Canadian Transportation Agency.
+
+
+
+
+“Board”« conseil »
+
+
+
+“Board” means the Board of Directors of the Corporation.
+
+
+
+
+“Chairperson”« président du conseil »
+
+
+
+“Chairperson” means the Chairperson of the Board, appointed pursuant to section 8.
+
+
+
+
+“Corporation”« société »
+
+
+
+“Corporation” means VIA Rail Canada, a corporation continued under subsection 5(1).
+
+
+
+
+“financial year”« exercice »
+
+
+
+“financial year” means the financial year of the Corporation.
+
+
+
+
+“infrastructure”« infrastructures »
+
+
+
+“infrastructure” means railway track, the railway roadbed and other structures and mecha-nisms that are track-related or are required for the movement or control of rolling stock over the track, but does not include any rolling stock maintenance facilities or railway stations.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Transport.
+
+
+
+
+“operate”« exploitation »
+
+
+
+“operate” in respect of any service, includes the operation of the service through an agent.
+
+
+
+
+“President”« président »
+
+
+
+“President” means the President of the Corporation appointed pursuant to section 9.
+
+
+
+
+“railway company”« compagnie de chemin de fer »
+
+
+
+“railway company” means any railway company, other than the Corporation, that is subject to the jurisdiction of the Parliament of Canada.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions 
+
+
+
+
+« compagnie de chemin de fer » Toute compagnie de chemin de fer, outre la société, qui relève de la compétence du Parlement du Canada.
+
+
+
+« compagnie de chemin de fer »“railway company”
+
+
+
+
+« conseil » Le conseil d’administration de la société.
+
+
+
+« conseil »“Board”
+
+
+
+
+« exercice » L’exercice financier de la société.
+
+
+
+« exercice »“financial year”
+
+
+
+
+« exploitation » S’agissant d’un service, l’exploitation de ce service, y compris par un agent.
+
+
+
+« exploitation »“operate”
+
+
+
+
+« infrastructures » Voies ferrées, plates-formes de chemin de fer et autres structures et mécanismes afférents à la voie ferrée ou nécessaires au mouvement ou à la régulation du matériel roulant sur celle-ci. La présente définition ne vise pas les installations d’entretien du matériel roulant ou les gares et stations.
+
+
+
+« infrastructures »“infrastructure”
+
+
+
+
+« ministre » Le ministre des Transports.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« Office » L’Office des transports du Canada.
+
+
+
+« Office »“Agency”
+
+
+
+
+« président » Le président de la société nommé en vertu de l'article 9.
+
+
+
+« président »“President”
+
+
+
+
+« président du conseil » Le président du conseil nommé en vertu de l'article 8.
+
+
+
+« président du conseil »“Chairperson”
+
+
+
+
+« société » La société VIA Rail Canada prorogée en vertu du paragraphe 5(1).
+
+
+
+« société »“Corporation”
+
+
+
+
+
+
+
+
+
+
+HER MAJESTY
+
+
+
+
+
+
+
+
+
+SA MAJESTÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Binding on Her Majesty
+
+
+
+3. This Act is binding on Her Majesty in right of Canada or a province.
+
+
+
+
+
+
+
+
+
+3. La présente loi lie Sa Majesté du chef du Canada ou d’une province.
+
+
+
+Obligation de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+VIA RAIL CANADA PUBLIC PASSENGER SERVICE POLICY
+
+
+
+
+
+
+
+
+
+POLITIQUE DE VIA RAIL CANADA SUR LE SERVICE PUBLIC DE TRANSPORT DE PASSAGERS
+
+
+
+
+
+
+
+
+
+
+
+
+Public passenger service policy
+
+
+
+4. (1) VIA Rail Canada must provide a safe, modern, efficient and reliable national public passenger service in a manner that is consistent with the National Transportation Policy set out in section 5 of the Canada Transportation Act and respects the basic principle of sustainable development set out in  section 5 of the Federal Sustainable Development Act.
+
+
+
+
+
+
+
+
+
+4. (1) La société exploite sur le territoire canadien un service public de transport de passagers sûr, moderne, rentable et fiable en conformité avec la politique nationale des transports énoncée à l’article 5 de la Loi sur les transports au Canada et avec le principe fondamental énoncé à l’article 5 de la Loi fédérale sur le développement durable.
+
+
+
+Politique sur le service public de transport de passagers 
+
+
+
+
+
+
+
+
+
+
+Agreements
+
+
+
+(2) The Minister may enter into agreements with the Corporation, a railway company or any other person for the purpose of implementing the policy.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut, pour l’application de la politique, conclure des accords avec la société, une compagnie de chemin de fer ou une autre personne.
+
+
+
+Accords 
+
+
+
+
+
+
+
+
+
+
+VIA RAIL CANADA CORPORATION
+
+
+
+
+
+
+
+
+
+SOCIÉTÉ VIA RAIL CANADA  
+
+
+
+
+
+
+
+
+
+
+
+
+VIA Rail Canada continued 
+
+
+
+5. (1) The corporation of VIA Rail Canada Inc. established under the Canada Business Corporations Act is continued as VIA Rail Canada.
+
+
+
+
+
+
+
+
+
+5. (1) La société VIA Rail Canada Inc., constituée  en personne morale en vertu de la Loi canadienne sur les sociétés par actions, est prorogée sous le nom de VIA Rail Canada.
+
+
+
+Prorogation de VIA Rail Canada 
+
+
+
+
+
+
+
+
+
+
+Canada Business Corporations Act ceases to apply
+
+
+
+(2) The Canadian Business Corporations Act ceases to apply to the Corporation except as provided under this Act.
+
+
+
+
+
+
+
+
+
+(2) Sauf disposition contraire de la présente loi, la Loi canadienne sur les sociétés par actions cesse de s’appliquer  à la société. 
+
+
+
+Non-application de la Loi canadienne sur les sociétés par actions
+
+
+
+
+
+
+
+
+
+
+Corporation is a railway company
+
+
+
+(3) The Corporation is a railway company for the purposes of any Act of Parliament other than this Act.
+
+
+
+
+
+
+
+
+
+(3) La société est une compagnie de chemin de fer pour l’application de toute loi fédérale autre que la présente loi.
+
+
+
+Compagnie de chemin de fer 
+
+
+
+
+
+
+
+
+
+
+OBJECTS
+
+
+
+
+
+
+
+
+
+MISSION
+
+
+
+
+
+
+
+
+
+
+
+
+Objects
+
+
+
+6. The Corporation must plan, manage and operate public passenger service in Canada in order to implement the policy referred to in subsection 4(1) and, in carrying out that responsibility, the Corporation must 
+
+
+
+
+
+
+
+
+(a) promote the safe and efficient operation  and development of public passenger service through
+
+
+
+
+
+
+
+
+(i) cooperation with railway companies, other carriers and various levels of government, and 
+
+
+
+
+
+
+
+
+(ii) optimization of the use of its equipment, facilities and other resources;
+
+
+
+
+
+
+
+
+(b) maintain public passenger service on mandated routes; 
+
+
+
+
+
+
+
+
+(c) maximize the financial performance of its public passenger service so as to minimize the need for government financial assistance; and
+
+
+
+
+
+
+
+
+(d) serve the travel and related social and economic needs of Canadians and visitors to Canada, contribute to the economic and social development of Canada and  respect the environment. 
+
+
+
+
+
+
+
+
+
+6. La société planifie, gère et exploite sur le territoire canadien un service public de transport de passagers pour la mise en oeuvre de la politique visée au paragraphe 4(1) et, dans l’exercice de sa mission, elle : 
+
+
+
+Mission
+
+
+
+
+a) encourage l’exploitation et le développement sûrs et rentables du service public de transport de passagers en :
+
+
+
+
+
+
+
+
+(i) collaborant avec les compagnies de chemin de fer, les autres transporteurs et les divers ordres de gouvernement, 
+
+
+
+
+
+
+
+
+(ii) optimisant l’utilisation de ses équipements, installations et autres ressources;
+
+
+
+
+
+
+
+
+b) assure un service public de transport de passagers sur les trajets obligatoires;  
+
+
+
+
+
+
+
+
+c) maximise le rendement financier de son service public de transport de passagers afin de réduire au minimum la nécessité d’une aide financière gouvernementale;
+
+
+
+
+
+
+
+
+d) répond aux besoins en déplacement et aux besoins sociaux et économiques afférents des Canadiens et des visiteurs de l’étranger, contribue au développement social et économique du Canada et respecte l’environnement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BOARD OF DIRECTORS
+
+
+
+
+
+
+
+
+
+CONSEIL D’ADMINISTRATION
+
+
+
+
+
+
+
+
+
+
+
+
+Board of directors
+
+
+
+7. (1) There is established a Board of Directors of the Corporation consisting of 
+the Chairperson, the President and not more than 15 other directors appointed as provided in this Act.
+
+
+
+
+
+
+
+
+
+
+7. (1) Est constitué le conseil d’administration de la société, composé d’au plus quinze administrateurs, dont le président du conseil et le président de la société, nommés conformément à la présente loi.
+
+
+
+Conseil d’administration
+
+
+
+
+
+
+
+
+
+
+Appointment of directors
+
+
+
+(2) Each director, other than the Chairperson and the President, must be appointed by the Minister, with the approval of the Governor in Council, to hold office during pleasure for a term not exceeding four years that will ensure, as far as possible, the expiration in any one year of the terms of office of not more than one half of the directors.
+
+
+
+
+
+
+
+
+
+(2) Les administrateurs, à l’exception du président du conseil et du président de la société, sont nommés à titre amovible par le ministre, avec l’approbation du gouverneur en conseil, pour des mandats respectifs de quatre ans au maximum, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus la moitié des administrateurs. 
+
+
+
+Nomination des administrateurs
+
+
+
+
+
+
+
+
+
+
+Directors 
+
+
+
+(3) The Minister must appoint each director, other than the Chairperson and the President, from among  members of each of the following groups, without regard to their political affiliation:
+
+
+
+
+
+
+
+
+(a) the Canadian Tourism Commission; and
+
+
+
+
+
+
+
+
+(b) the Federation of Canadian Municipalities.
+
+
+
+
+
+
+
+
+
+(3) Les administrateurs, à l’exception du président du conseil et du président de la société, sont nommés par le ministre et choisis parmi chacun des groupes ci-après, sans égard à leur affiliation politique :
+
+
+
+Administrateurs
+
+
+
+
+a) les membres de la Commission canadienne du tourisme;
+
+
+
+
+
+
+
+
+b) les membres de la Fédération canadienne des municipalités.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vacancy
+
+
+
+(4) If the office of a director becomes vacant during the term of that director, the Governor in Council may appoint a director for the remainder of the term.
+
+
+
+
+
+
+
+
+
+(4) Lorsque la charge d’un administrateur devient vacante au cours de son mandat, le gouverneur en conseil peut nommer un autre administrateur pour le reste de ce mandat.
+
+
+
+Vacance
+
+
+
+
+
+
+
+
+
+
+Re-appointment 
+
+
+
+(5) A director may, on the expiration of his or her term of office, be re-appointed to the Board.
+
+
+
+
+
+
+
+
+
+(5) Les administrateurs peuvent recevoir un nouveau mandat.
+
+
+
+Renouvellement de mandat 
+
+
+
+
+
+
+
+
+
+
+Fees
+
+
+
+(6) A director, other than the Chairperson, the President and any director selected from among persons employed in the federal public administration, is entitled to receive the fees fixed by the Governor in Council for attendance at meetings of the Board and any committee of the Board.
+
+
+
+
+
+
+
+
+
+(6) Les administrateurs, à l’exception du président du conseil, du président de la société et des administrateurs choisis au sein de l’administration publique fédérale, ont droit, pour leur participation aux réunions du conseil et des comités de ce dernier, aux jetons de présence que fixe le gouverneur en conseil.
+
+
+
+Jetons de présence
+
+
+
+
+
+
+
+
+
+
+Expenses
+
+
+
+(7) A director is entitled to be paid by the Corporation reasonable travel and living expenses incurred by him or her while absent from his or her ordinary place of residence in the course of his or her duties as a director.
+
+
+
+
+
+
+
+
+
+(7) La Société défraie les administrateurs des dépenses de déplacement et de séjour entraînées par l’accomplissement, hors de leur lieu ordinaire de résidence, de leurs fonctions et qualités.
+
+
+
+Indemnités
+
+
+
+
+
+
+
+
+
+
+CHAIRPERSON OF THE BOARD
+
+
+
+
+
+
+
+
+
+PRÉSIDENT DU CONSEIL
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment of Chairperson of the Board
+
+
+
+8. (1) The Chairperson of the Board is to be appointed by the Governor in Council to hold office during pleasure for a term that the Governor in Council considers appropriate.
+
+
+
+
+
+
+
+
+
+8. (1) Le gouverneur en conseil nomme à titre amovible le président du conseil pour le mandat qu’il estime indiqué.
+
+
+
+
+
+Nomination du président du conseil
+
+
+
+
+
+
+
+
+
+
+Salary
+
+
+
+(2) The Chairperson is to be paid by the Corporation a salary or other remuneration fixed by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(2) La société verse au président du conseil le traitement ou toute autre rémunération que fixe le gouverneur en conseil.
+
+
+
+
+Traitement 
+
+
+
+
+
+
+
+
+
+
+Absence or incapacity
+
+
+
+(3) If the Chairperson is absent or unable to act or if the office of Chairperson is vacant, the Minister may designate another director of the Corporation to act as the Chairperson for the time being, but no director so designated has authority to act as Chairperson for a period exceeding 90 days without the approval of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(3) En cas d’absence ou d’empêchement du président du conseil ou de vacance de son poste, le ministre peut désigner un autre administrateur pour assurer l’intérim pendant un maximum de quatre-vingt-dix jours, sauf prorogation approuvée par le gouverneur en conseil.
+
+
+
+Absence ou empêchement
+
+
+
+
+
+
+
+
+
+
+PRESIDENT OF THE CORPORATION
+
+
+
+
+
+
+
+
+
+PRÉSIDENT DE LA SOCIÉTÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment of President of the Corporation
+
+
+
+9. (1) The President of the Corporation is to be appointed by the Governor in Council to hold office during pleasure for a term that the Governor in Council considers appropriate.
+
+
+
+
+
+
+
+
+
+9. (1) Le gouverneur en conseil nomme à titre amovible le président de la société pour le mandat qu’il estime indiqué.
+
+
+
+Nomination du président de la société
+
+
+
+
+
+
+
+
+
+
+Chief executive officer
+
+
+
+(2) The President is the chief executive officer of the Corporation.
+
+
+
+
+
+
+
+
+
+(2) Le président est le premier dirigeant de la société. 
+
+
+
+Premier dirigeant
+
+
+
+
+
+
+
+
+
+
+Salary
+
+
+
+(3) The President is to be paid by the Corporation a salary or other remuneration fixed by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(3) La société verse à son président le traitement ou toute autre rémunération que fixe le gouverneur en conseil.
+
+
+
+Traitement
+
+
+
+
+
+
+
+
+
+
+Absence or incapacity 
+
+
+
+(4) If the President is absent or unable to act or if the office of President is vacant, the Board may designate another director or an officer of the Corporation to act as the President for the time being, but no director or officer so designated has authority to act as President for a period exceeding 90 days without the approval of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(4) En cas d’absence ou d’empêchement du président de la société ou de vacance de son poste, le conseil peut désigner un autre administrateur ou un dirigeant de la société pour assurer l’intérim pendant un maximum de quatre-vingt-dix jours, sauf prorogation approuvée par le gouverneur en conseil.
+
+
+
+Absence ou empêchement 
+
+
+
+
+
+
+
+
+
+
+HEAD OFFICE 
+
+
+
+
+
+
+
+
+
+SIÈGE SOCIAL 
+
+
+
+
+
+
+
+
+
+
+
+
+Head office 
+
+
+
+10. The head office of the Corporation is to be at the city of Montreal.
+
+
+
+
+
+
+
+
+
+10. Le siège social de la société est fixé dans la ville de Montréal. 
+
+
+
+Siège social 
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATION OF CORPORATION
+
+
+
+
+
+
+
+
+
+GESTION DE LA SOCIÉTÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Administration by Board 
+
+
+
+11. (1) The Board must direct and manage the affairs of the Corporation and may for such purposes exercise all the powers and perform all the duties of the Corporation.
+
+
+
+
+
+
+
+
+
+11. (1) Le conseil assure la direction et la gestion des affaires de la société et, à cette fin, dispose de tous les pouvoirs et remplit toutes les fonctions de celle-ci.
+
+
+
+
+Gestion par le conseil 
+
+
+
+
+
+
+
+
+
+
+Vice-Presidents
+
+
+
+(2) The Board may appoint and fix the salary of the number of Vice-Presidents it considers necessary.
+
+
+
+
+
+
+
+
+
+(2) Le conseil peut nommer autant de vice-présidents qu’il l’estime nécessaire et fixer leur traitement.
+
+
+
+Vice-présidents
+
+
+
+
+
+
+
+
+
+
+By-laws
+
+
+
+12. The Board may make by-laws
+
+
+
+
+
+
+
+
+(a) for the administration, management and control of the property and affairs of the Corporation;
+
+
+
+
+
+
+
+
+(b) for the regulation of the proceedings of the Board, including the establishment of committees of the Board, the time and place for the holding of meetings of the Board or of any of its committee, and the quorum and procedure at all such meetings;
+
+
+
+
+
+
+
+
+
+(c) prescribing the functions, duties and powers of any committee of the Board and of the Chairperson, President, directors, officers, agents and employees of the Corporation; and
+
+
+
+
+
+
+
+
+
+(d) respecting the administration of contracts relating to any business of the Corporation.
+
+
+
+
+
+
+
+
+
+12. Le conseil peut, par règlement administratif, prévoir :  
+
+
+
+Règlements administratifs
+
+
+
+
+a) l’administration, la gestion et la surveillance des biens et des affaires de la société;
+
+
+
+
+
+
+
+
+b) la réglementation de ses travaux, notamment en ce qui concerne la création de ses comités, les date, heure et lieu de ses réunions ou de celles de ses comités, ainsi que le quorum et la procédure à observer lors de ces réunions;
+
+
+
+
+
+
+
+
+
+c) les pouvoirs et fonctions de ses comités, de son président, du président, des administrateurs, des dirigeants, des mandataires et des employés de la société;
+
+
+
+
+
+
+
+
+d) la mise en oeuvre des contrats afférents aux activités de la société.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STAFF
+
+
+
+
+
+
+
+
+
+PERSONNEL
+
+
+
+
+
+
+
+
+
+
+
+
+Officers and employees
+
+
+
+13. The Corporation may employ the officers and employees and engage the services of the agents, advisers and consultants it considers necessary for the proper conduct of its business, and may fix the terms and conditions of their employment or engagement, as the case may be, and pay their remuneration.
+
+
+
+
+
+
+
+
+
+13. La société peut employer le personnel et retenir les services des mandataires, conseillers et experts qu’elle estime nécessaires à l’exercice de ses activités; elle peut en outre fixer les conditions d’emploi ou de prestation de services correspondantes et verser les rémunérations afférentes.
+
+
+
+Personnel
+
+
+
+
+
+
+
+
+
+
+Presumption
+
+
+
+14. (1) Every person employed or engaged pursuant to section 13 is deemed not to be employed in the federal public administration.
+
+
+
+
+
+
+
+
+
+14. (1) Les personnes engagées aux termes de l’article 13 sont réputées ne pas faire partie de l’administration publique fédérale.
+
+
+
+Présomption 
+
+
+
+
+
+
+
+
+
+
+Idem
+
+
+
+(2) The Public Service Superannuation Act does not apply to any director of the Corporation, other than the Chairperson, President and any director selected from among persons employed in the federal public administration, unless, in the case of any one of them, the Governor in Council otherwise directs.
+
+
+
+
+
+
+
+
+
+(2) Sauf instruction contraire du gouverneur en conseil, la Loi sur la pension de la fonction publique ne s’applique pas aux administrateurs de la société autres que le président du conseil, le président et les administrateurs choisis au sein de l’administration publique fédérale.
+
+
+
+Idem
+
+
+
+
+
+
+
+
+
+
+POWERS
+
+
+
+
+
+
+
+
+
+POUVOIRS 
+
+
+
+
+
+
+
+
+
+
+
+
+Powers of Corporation 
+
+
+
+15. (1) In carrying out its objects and duties under this Act, the Corporation has the capacity, and subject to this Act, the rights, powers and privileges of a natural person.
+
+
+
+
+
+
+
+
+
+15. (1) Dans l’exécution de sa mission et l’exercice de ses fonctions, la société a, sous réserve des autres dispositions de la présente loi, la capacité d’une personne physique.
+
+
+
+
+Pouvoirs de la société  
+
+
+
+
+
+
+
+
+
+
+Property
+
+
+
+(2) Without limiting the generality of subsection (1), the Corporation may acquire, hold, lease, sell or dispose of any real or personal property.
+
+
+
+
+
+
+
+
+
+(2) Sans que soit limitée la portée générale du paragraphe (1), la société peut acquérir, détenir, prendre à bail, vendre ou aliéner tous biens meubles ou immeubles.
+
+
+
+Biens
+
+
+
+
+
+
+
+
+
+
+Administration of oaths
+
+
+
+16. The Corporation may, in any case or class of cases approved by the Governor in Council, empower any officer of the Corporation to administer oaths and take and receive affidavits, declarations and affirmations for any purpose relating or incidental to the administration or enforcement of this Act or the regulations.
+
+
+
+
+
+
+
+
+
+16. Dans les cas approuvés par le gouverneur en conseil, la société peut habiliter ses dirigeants à faire prêter les serments et recevoir les déclarations sous serment, solennelles ou autres, utiles à l’application de la présente loi ou de ses règlements. 
+
+
+
+Serments
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS  
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations 
+
+
+
+17. The Corporation may, with the approval of the Governor in Council, make regulations for the efficient operation of the business of the Corporation and for carrying the purposes and provisions of this Act into effect.
+
+
+
+
+
+
+
+
+
+17. La société peut par règlement, avec l’approbation du gouverneur en conseil, prendre toute mesure utile, dans le cadre de la présente loi, à l’efficacité de son exploitation.
+
+
+
+
+Règlements 
+
+
+
+
+
+
+
+
+
+
+REPORT
+
+
+
+
+
+
+
+
+
+RAPPORT
+
+
+
+
+
+
+
+
+
+
+
+
+Report on performance
+
+
+
+18. (1) Within three months after the end of the financial year that ends after the calendar year in which this Act comes into force, and within three months after the end of every financial year after that, the Corporation must prepare and submit to the Minister an annual performance report in respect of that financial year showing
+
+
+
+
+
+
+
+
+(a) its projections, consistent with its corporate plan, and actual data with respect to the number of passengers, costs and revenues for each public passenger service for that financial year;
+
+
+
+
+
+
+
+
+(b) an analysis comparing the projections and actual data and the causes of any significant variations; 
+
+
+
+
+
+
+
+
+(c) whether the financial performance objective in respect of each public passenger service has been met and, if not, planned remedial measures, if any; and
+
+
+
+
+
+
+
+
+(d) the performance of the corporation in applying the principles of sustainable 
+development, and in setting and meeting its environmental, social and economic goals.
+
+
+
+
+
+
+
+
+
+18. (1) Dans les trois mois suivant la fin de l'exercice se terminant après l’année civile au cours de laquelle la présente loi entre en vigueur et dans les trois mois suivant la fin de chaque exercice par la suite, la société établit et remet au ministre son rapport de rendement pour l’exercice, qui comprend :
+
+
+
+Rapport de rendement 
+
+
+
+
+a) ses prévisions, conformes à son plan d’entreprise, et les données réelles concernant le nombre de passagers ainsi que les coûts et recettes pour chaque service public de transport de passagers exploité au cours de l’exercice;
+
+
+
+
+
+
+
+
+b) une analyse comparative des prévisions et des données réelles assortie d'une justification de tout écart considérable;
+
+
+
+
+
+
+
+
+c) pour chaque service public de transport de passagers, une mention indiquant si les objectifs de rendemant financier ont été atteints et, dans la négative, les mesures correctives prévues;
+
+
+
+
+
+
+
+
+d) des données sur son rendement en ce qui a trait, d'une part, à l'application des principes de développement durable et, d'autre part, à l'établissement et à la réalisation de ses objectifs environnementaux, sociaux et économiques.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report to Parliament 
+
+
+
+(2) The Minister must cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the Minister receives it.
+
+
+
+
+
+
+
+
+
+(2) Le ministre fait déposer le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Rapport au Parlement  
+
+
+
+
+
+
+
+
+
+
+DIRECTIVES
+
+
+
+
+
+
+
+
+
+DIRECTIVES
+
+
+
+
+
+
+
+
+
+
+
+
+Directives 
+
+
+
+19. (1) In the exercise of its powers and the performance of its duties, the Corporation must comply with the directives that the Minister may give to it.
+
+
+
+
+
+
+
+
+
+19. (1) Dans l’exercice de ses pouvoirs et fonctions, la société est tenue de se conformer aux instructions du ministre. 
+
+
+
+
+Instructions 
+
+
+
+
+
+
+
+
+
+
+Application of Financial Administration Act 
+
+
+
+(2) Subsections 89(2) to (6) and section 153 of the Financial Administration Act apply, with the modifications that the circumstances require, to a directive given under subsection (1) as though it were a directive referred to in those provisions.
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 89(2) à (6) et l’article 153 de la Loi sur la gestion des finances publiques s’appliquent, compte tenu des adaptations de circonstance, aux instructions données en vertu du paragraphe (1) comme s’il s’agissait de celles qu’ils mentionnent.
+
+
+
+Application de la Loi sur la gestion des finances publiques 
+
+
+
+
+
+
+
+
+
+
+Compensation 
+
+
+
+(3) If the Governor in Council is satisfied that the Corporation has sustained or is likely to sustain financial loss in complying with any directive given to it under subsection (1) or section 89 of the Financial Administration Act, he or she may compensate the Corporation for that loss and, for that purpose, he or she may
+
+
+
+
+
+
+
+
+(a) require an audit of the books and records of the Corporation to determine the amount of the loss;
+
+
+
+
+
+
+
+
+
+(b) determine the amount of the compensation that may be paid or the manner of calculating such amount, including the setting of a maximum amount; and
+
+
+
+
+
+
+
+
+(c) determine the manner in which and the time when the compensation may be paid.
+
+
+
+
+
+
+
+
+
+(3) S’il constate que la société a subi ou risque de subir une perte financière attribuable à l’exécution des instructions visées au paragraphe (1) ou données en vertu de l’article 89 de la Loi sur la gestion des finances publiques, le gouverneur en conseil peut l’en indemniser et, à cet effet :
+
+
+
+
+Indemnité 
+
+
+
+
+a) exiger la vérification des livres et registres de la société pour déterminer le montant de la perte;
+
+
+
+
+
+
+
+
+b) déterminer le montant de l’indemnité qui peut être payée ou le mode de calcul de ce montant et fixer une indemnité maximale; 
+
+
+
+
+
+
+
+
+
+c) fixer le moment et les modalités de paiement de l’indemnité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appropriation
+
+
+
+(4) The amount of any compensation under this section is to be paid out of moneys appropriated by Parliament for that purpose.
+
+
+
+
+
+
+
+
+
+(4) Les indemnités prévues au présent article sont payées sur les crédits votés à cette fin par le Parlement.
+
+
+
+Affectation de crédits
+
+
+
+
+
+
+
+
+
+
+Tabling in Parliament
+
+
+
+(5) The Minister must cause an estimate of any increased costs or losses likely to be incurred by the Corporation as a result of complying with any directive given to it under subsection (1) or section 89 of the Financial Administration Act to be laid before Parliament on any of the first 15 days that either House of Parliament is sitting after the day the directive was so given.
+
+
+
+
+
+
+
+
+
+(5) Dans les quinze premiers jours de séance de l’une ou l’autre des chambres du Parlement qui suivent la date à laquelle une instruction est donnée à la société en vertu du paragraphe (1) ou de l’article 89 de la Loi sur la gestion des finances publiques, le ministre fait déposer, devant le Parlement, cette instruction ainsi qu’une évaluation de toute augmentation de frais ou de pertes que son application risque de faire subir à la société.
+
+
+
+Dépôt devant le Parlement
+
+
+
+
+
+
+
+
+
+
+STATUS OF CORPORATION 
+
+
+
+
+
+
+
+
+
+STATUT DE LA SOCIÉTÉ 
+
+
+
+
+
+
+
+
+
+
+
+
+Agent of Her Majesty 
+
+
+
+20. The Corporation is, for the purposes of this Act, an agent of Her Majesty in right of Canada.
+
+
+
+
+
+
+
+
+
+
+20. Pour l’application de la présente loi, la société est mandataire de Sa Majesté du chef du Canada.
+
+
+
+Qualité de mandataire de Sa Majesté 
+
+
+
+
+
+
+
+
+
+
+Contracts
+
+
+
+21. The Corporation may enter into contracts with Her Majesty as though it were not an agent of Her Majesty.
+
+
+
+
+
+
+
+
+
+
+21. La société peut conclure des contrats avec Sa Majesté comme si elle n’en était pas le mandataire.
+
+
+
+
+Contrats 
+
+
+
+
+
+
+
+
+
+
+Winding-up
+
+
+
+22. No Act relating to the winding-up of a corporation applies in respect of the Corporation and the affairs of the Corporation cannot be wound up unless Parliament so provides.
+
+
+
+
+
+
+
+
+
+22. Les lois concernant la liquidation des personnes morales ne s’appliquent pas à la société. Sa liquidation ne peut se faire que par décision du Parlement.
+
+
+
+Liquidation
+
+
+
+
+
+
+
+
+
+
+Canada Business Corporations Act 
+
+
+
+23. (1) The definitions “beneficial ownership”, “debt obligation”, “redeemable share”, “security”, “security interest” and “special resolution” in subsection 2(1) and sections 23 to 26, 34, 36 to 38, 42, 43, 50, 172 and 257 of the Canada Business Corporations Act apply, with such modifications as the circumstances require, in respect of the Corporation as if the references in those provisions to articles were references to the by-laws of the Corporation.
+
+
+
+
+
+
+
+
+
+23. (1) Les définitions de « action rachetable », « résolution spéciale », « sûreté », « titre de créance », « valeur mobilière » et « véritable propriétaire » énoncées au paragraphe 2(1), aux articles 23 à 26, 34, 36 à 38, 42, 43, 50, 172 et 257 de la Loi canadienne sur les sociétés par actions s’appliquent à la société, avec les adaptations nécessaires, comme si les renvois qu’ils comportent aux statuts étaient des renvois aux règlements administratifs de la société. 
+
+
+
+
+Loi canadienne sur les sociétés par actions 
+
+
+
+
+
+
+
+
+
+
+Assets of Corporation
+
+
+
+(2) For the purposes of applying subsections 34(2), 36(2) and 38(3) and section 42 of the Canada Business Corporations Act in respect of the Corporation, the assets held by the Corporation as an agent of Her Majesty in right of Canada must be deemed to be assets of the Corporation.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application des paragraphes 34(2), 36(2) et 38(3) et de l’article 42 de la Loi canadienne sur les sociétés par actions à la société, les éléments d’actif qu’elle détient au nom de Sa Majesté du chef du Canada sont réputés lui appartenir en propre.
+
+
+
+Actif de la société
+
+
+
+
+
+
+
+
+
+
+FINANCIAL MATTERS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS FINANCIÈRES
+
+
+
+
+
+
+
+
+
+
+
+
+Authorized share capital
+
+
+
+24. (1) The Corporation has an authorized capital consisting of an unlimited number of shares of such classes as the Board may, with the approval of the Governor in Council on the recommendation of the Minister, the Minister of Finance and the Treasury Board, prescribe by by-law. 
+
+
+
+
+
+
+
+
+
+24. (1) La société a un capital autorisé composé d’un nombre illimité d’actions réparties en catégories dont le nombre est fixé par règlement administratif que le conseil adopte avec l’autorisation du gouverneur en conseil, sur la recommandation du ministre, du ministre des Finances et du Conseil du Trésor.
+
+
+
+Capital autorisé
+
+
+
+
+
+
+
+
+
+
+Classes of shares
+
+
+
+(2) Each class of shares of the Corporation has the rights, privileges, restrictions and conditions, and each shareholder and the Corporation have the rights and are subject to the restrictions in respect of the shares, that the Board may, with the approval of the Governor in Council on the recommendation of the Minister, the Minister of Finance and the Treasury Board, prescribe by by-law.
+
+
+
+
+
+
+
+
+
+(2) Le conseil détermine par règlement administratif adopté avec l’autorisation du gouverneur en conseil, sur la recommandation du ministre, du ministre des Finances et du Conseil du Trésor, les droits, privilèges, conditions et restrictions qui se rattachent aux actions de chaque catégorie et les droits et restrictions applicables à chaque actionnaire et à la société à l’égard de ces actions.
+
+
+
+
+Catégories d’actions
+
+
+
+
+
+
+
+
+
+
+By-laws 
+
+
+
+(3) Without limiting the generality of subsection (2), the by-laws may 
+
+
+
+
+
+
+
+
+(a) prescribe voting rights, rights of shareholders to require redemption, rights of the Corporation to redeem, restrictions or prohibitions on transfer, procedures for the enforcement of the restrictions or prohibitions, and rights on liquidation;
+
+
+
+
+
+
+
+
+(b) attach rights, privileges, restrictions or conditions only to shares held by employees of the Corporation or only to shares held in trust for Her Majesty in right of Canada; and
+
+
+
+
+
+
+
+
+
+(c) be inconsistent with any provision referred to in section 23.
+
+
+
+
+
+
+
+
+
+(3) Sans que soit limitée la portée générale du paragraphe (2), les règlements administratifs peuvent : 
+
+
+
+Règlements administratifs
+
+
+
+
+a) prévoir les droits de vote, les droits des actionnaires de demander le rachat, les droits de la société de racheter, les restrictions ou interdictions applicables au transfert, les procédures applicables à l’application des restrictions et des interdictions ainsi que les droits en cas de liquidation;
+
+
+
+
+
+
+
+
+
+b) assortir les actions qui sont détenues par des employés de la société de droits, privilèges, restrictions ou conditions différents de ceux dont sont assorties les actions qui sont détenues en fiducie pour Sa Majesté du chef du Canada;
+
+
+
+
+
+
+
+
+c) être incompatibles avec une disposition mentionnée à l’article 23.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Restriction 
+
+
+
+(4) No shares of the Corporation may be held or beneficially owned by any person, other than
+
+
+
+
+
+
+
+
+(a) Her Majesty in right of Canada or a trustee for Her Majesty in right of Canada; or
+
+
+
+
+
+
+
+
+(b) an employee of the Corporation or a trustee for an employee of the Corporation.
+
+
+
+
+
+
+
+
+
+(4) Seules les personnes suivantes peuvent détenir des actions de la société ou en être les véritables propriétaires : 
+
+
+
+
+Restriction 
+
+
+
+
+a) Sa Majesté du chef du Canada ou un fiduciaire en son nom;
+
+
+
+
+
+
+
+
+b) un employé de la société ou un fiduciaire en son nom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Idem
+
+
+
+(5) Not more than ten per cent of the issued and outstanding shares of the Corporation may be held or beneficially owned by the employees of the Corporation.
+
+
+
+
+
+
+
+
+
+(5) Les employés de la société ne peuvent ensemble détenir plus de dix pour cent de toutes les actions de la société émises et en circulation ou en être les véritables propriétaires.
+
+
+
+
+Idem
+
+
+
+
+
+
+
+
+
+
+Issue of shares to Minister
+
+
+
+25. (1) The Corporation is authorized to issue to the Minister, and the Minister is authorized to acquire, shares of the Corporation in substitution for the equity of the Corporation held by or on behalf of Her Majesty in right of Canada.
+
+
+
+
+
+
+
+
+
+25. (1) La société est autorisée à émettre à l’intention du ministre, et le ministre est autorisé à acquérir, des actions de la société en remplacement de l’avoir que possède Sa Majesté du chef du Canada, ou que possède un fiduciaire en son nom.
+
+
+
+Émission d’actions à l’intention du ministre
+
+
+
+
+
+
+
+
+
+
+
+
+Registration of shares
+
+
+
+(2) Shares of the Corporation acquired by the Minister are to be registered in the name of the Minister in the books of the Corporation and are to be held by the Minister in trust for Her Majesty in right of Canada.
+
+
+
+
+
+
+
+
+
+(2) Les actions de la société acquises par le ministre sont inscrites au registre de la société à son nom et sont détenues par celui-ci en fiducie pour Sa Majesté du chef du Canada.
+
+
+
+Inscription au registre
+
+
+
+
+
+
+
+
+
+
+Consideration
+
+
+
+(3) Subsection 25(3) of the Canada Business Corporations Act does not apply in respect of the first issue of shares to the Minister.
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 25(3) de la Loi canadienne sur les sociétés par actions ne s’applique pas à la première émission d’actions de la société à l’intention du ministre.
+
+
+
+
+Contrepartie
+
+
+
+
+
+
+
+
+
+
+Exclusive right to vote
+
+
+
+(4) The shares held by the Minister have the exclusive right to vote at meetings of the shareholders of the Corporation.
+
+
+
+
+
+
+
+
+
+(4) Seules les actions détenues par le ministre sont assorties du droit de voter aux assemblées des actionnaires de la société.
+
+
+
+Droit de vote exclusif
+
+
+
+
+
+
+
+
+
+
+Allocation 
+
+
+
+(5) The amount standing to the credit of the Equity of Canada on the balance sheet of the Corporation as at the date of the first issue of shares to the Minister is equal to the net asset value of the Corporation on that date and is to be allocated, in the amounts that the Board, with the approval of the Minister and the Treasury Board, may determine, to the initial stated capital for the class of those shares and to one or more contributed surplus accounts, if any.
+
+
+
+
+
+
+
+
+
+(5) Le solde créditeur de l’avoir du Canada inscrit au bilan de la société à la date de la première émission d’actions à l’intention du ministre est égal à la valeur nette de l’actif de la société à cette date et est affecté, en conformité avec les montants que le conseil détermine, avec l’autorisation du ministre et du Conseil du Trésor, au capital déclaré initial de cette catégorie d’actions et à un ou plusieurs comptes de surplus d’apport.
+
+
+
+Affectation 
+
+
+
+
+
+
+
+
+
+
+Net asset value
+
+
+
+(6) For the purposes of subsection (5), the net asset value of the Corporation on the date of the first issue of shares to the Minister is the amount that the Board, with the approval of the Treasury Board, deems appropriate, and any difference from the net asset value as reflected on the last audited balance sheet of the Corporation before that date is to be reflected as a charge or credit, as appropriate, to the Equity of Canada on the balance sheet of the Corporation for that date.
+
+
+
+
+
+
+
+
+
+(6) Pour l’application du paragraphe (5), la valeur nette de l’actif de la société à la date de la première émission d’actions à l’intention du ministre est le montant que le conseil, avec l’approbation du Conseil du Trésor, estime indiqué, toute différence entre ce montant et la valeur nette de l’actif mentionnée au dernier bilan vérifié de la société avant cette date étant imputée au crédit ou au débit, selon le cas, de l’avoir du Canada inscrit au bilan de la société à cette date.
+
+
+
+Valeur nette de l’actif
+
+
+
+
+
+
+
+
+
+
+Presumption
+
+
+
+(7) For the purposes of subsections (5) and (6), the date of the first issue of shares to the Minister must be deemed to be the date that the Board, with the approval of the Treasury Board, may determine, which date may be before the date on which the determination is made.
+
+
+
+
+
+
+
+
+
+(7) Pour l’application des paragraphes (5) et (6), la date de la première émission d’actions à l’intention du ministre est réputée être celle que le conseil, avec l’autorisation du Conseil du Trésor, détermine, cette date pouvant être antérieure à sa détermination.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+Issue or transfer of shares to employees
+
+
+
+26. (1) The Minister, the Corporation and any subsidiary of the Corporation are authorized to issue or transfer to, and to purchase from, directly or indirectly, employees of the Corporation non-voting shares of the Corporation in accordance with the plan that the Board may, with the approval of the Governor in Council on the recommendation of the Minister, the Minister of Finance and the Treasury Board, establish by by-law. 
+
+
+
+
+
+
+
+
+
+26. (1) Le ministre, la société et ses filiales sont autorisés à émettre à l’intention des employés de la société des actions sans droit de vote de la société, à les leur transférer et à les racheter de ceux-ci — directement ou indirectement — en conformité avec le régime que le conseil établit par règlement administratif, avec l’autorisation du gouverneur en conseil, sur recommandation du ministre, du ministre des Finances et du Conseil du Trésor.
+
+
+
+
+Émission et transfert d’actions aux employés
+
+
+
+
+
+
+
+
+
+
+Consideration
+
+
+
+(2) Notwithstanding subsections 25(3) and (4) of the Canada Business Corporations Act, a by-law establishing a plan referred to in subsection (1) may authorize the issue of the shares for no consideration or for the consideration that the by-law may prescribe.
+
+
+
+
+
+
+
+
+
+(2) Par dérogation aux paragraphes 25(3) et (4) de la Loi canadienne sur les sociétés par
+actions, le règlement administratif visé au paragraphe (1) peut autoriser l’émission d’actions sans contrepartie ou pour la contrepartie qu’il fixe.
+
+
+
+
+Contrepartie
+
+
+
+
+
+
+
+
+
+
+Dividends
+
+
+
+27. Subject to section 42 of the Canada Business Corporations Act and sections 130.1
+and 130.2 of the Financial Administration Act, the Corporation must declare and pay a dividend on the issued and outstanding shares of the Corporation in the form and amount that the Board may determine in accordance with the rights, privileges, restrictions and conditions attaching to the shares.
+
+
+
+
+
+
+
+
+
+
+27. Sous réserve de l’article 42 de la Loi canadienne sur les sociétés par actions et des
+articles 130.1 et 130.2 de la Loi sur la gestion des finances publiques, la société déclare et verse un dividende sur ses actions émises et en circulation, la forme et le montant du dividende étant déterminés par le conseil en conformité avec les droits, privilèges, restrictions et conditions dont les actions sont assorties.
+
+
+
+
+Dividendes
+
+
+
+
+
+
+
+
+
+
+Borrowing power
+
+
+
+28. The Corporation may 
+
+
+
+
+
+
+
+
+(a) borrow money on the credit of the Corporation; and
+
+
+
+
+
+
+
+
+(b) issue or reissue, sell or pledge debt obligations, secured or unsecured, of the Corporation.
+
+
+
+
+
+
+
+
+
+28. La société peut :
+
+
+
+Pouvoir d’emprunt
+
+
+
+
+a) contracter des emprunts fondés sur son crédit;
+
+
+
+
+
+
+
+
+b) émettre, réémettre, vendre ou donner en gage ses titres de créance, garantis ou non.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Government assistance 
+
+
+
+29. The Minister of Finance, on the application of the Corporation approved by the Minister, may, with the approval of the Governor in Council, lend money to the Corporation from the Consolidated Revenue Fund on the terms and conditions that are approved by the Governor in Council.
+
+
+
+
+
+
+
+
+
+29. Sur demande de la société approuvée par le ministre, le ministre des Finances peut, aux conditions approuvées par le gouverneur en conseil, consentir des prêts à la société sur le Trésor.
+
+
+
+
+Aide de l’État
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+30. The aggregate amount outstanding of the principal of loans made to the Corporation under section 29 must not exceed five hundred million dollars.
+
+
+
+
+
+
+
+
+
+30. Le principal global des prêts consentis à la société en vertu de l’article 29 mais non remboursés ne doit pas dépasser cinq cents millions de dollars.
+
+
+
+Plafonnement 
+
+
+
+
+
+
+
+
+
+
+Moneys at disposal of Corporation
+
+
+
+31. If at any time the available revenues of the Corporation are not sufficient to pay all the operating and income charges of the Corporation as and when due, the Minister of Finance, on the application of the Corporation approved by the Minister, may, with the approval of the Governor in Council, place at the disposal of the Corporation the amounts that may be required to enable the Corporation to meet all such charges.
+
+
+
+
+
+
+
+
+
+
+31. Dans le cas où les recettes disponibles de la société sont insuffisantes pour acquitter aux échéances tous les frais de fonctionnement et les frais imputables sur le revenu, le ministre des Finances, sur demande de la société approuvée par le ministre, peut, avec l’approbation du gouverneur en conseil, mettre à la disposition de la société les montants nécessaires pour lui permettre de faire face à ces échéances.
+
+
+
+
+Disponibilités 
+
+
+
+
+
+
+
+
+
+
+Reimbursement 
+
+
+
+32. (1) All amounts placed at the disposal of the Corporation pursuant to section 31 must be reimbursed to the Minister of Finance from the annual revenues of the Corporation in so far as such revenues are sufficient.
+
+
+
+
+
+
+
+
+
+32. (1) Tous les montants mis à la disposition de la société en application de l’article 31 doivent être remboursés au ministre des Finances sur les recettes annuelles de la société.
+
+
+
+
+Remboursement 
+
+
+
+
+
+
+
+
+
+
+Deficit appropriation item
+
+
+
+(2) If the annual revenues of the Corporation are insufficient for the purposes of subsection (1), the Minister must cause the amount of the insufficiency to be included, in the form of a deficit appropriation item, in the next estimates laid before Parliament.
+
+
+
+
+
+
+
+
+
+(2) Si les recettes de la société sont insuffisantes pour permettre le remboursement prévu au paragraphe (1), le ministre des Finances fait intégrer le montant du déficit, sous forme d’un article portant affectation de crédits, dans le premier budget déposé devant le Parlement par la suite.
+
+
+
+
+Idem
+
+
+
+
+
+
+
+
+
+
+Financial year 
+
+
+
+33. Unless the Governor in Council otherwise directs, the financial year of the Corporation is the period beginning on April 1 in one year and ending on March 31 in the following year.
+
+
+
+
+
+
+
+
+
+33. Sauf directive contraire du gouverneur en conseil, l’exercice de la société s’étend du 1er avril au 31 mars de l’année suivante.
+
+
+
+Exercice 
+
+
+
+
+
+
+
+
+
+
+PUBLIC PASSENGER SERVICE 
+
+
+
+
+
+
+
+
+
+SERVICE PUBLIC DE TRANSPORT DE PASSAGERS
+
+
+
+
+
+
+
+
+
+
+
+
+Operation of public passenger service and frequency 
+
+
+
+34. (1) The Corporation must operate each public passenger service described in the schedule, in both directions, at a frequency to be determined by the Board.
+
+
+
+
+
+
+
+
+
+34. (1) La société exploite chaque service public de transport de passagers indiqué à l’annexe dans les deux directions et à la fréquence fixée par le conseil.
+
+
+
+Exploitation et fréquence du service public de transport de passagers 
+
+
+
+
+
+
+
+
+
+
+Halifax-Moncton-Montreal and Toronto-Vancouver routes
+
+
+
+(2) The Corporation must operate each public passenger service on the Halifax-Moncton-Montreal route at least six times a week and on the Toronto-Vancouver route at least three times a week, in each direction. 
+
+
+
+
+
+
+
+
+
+(2) Elle exploite chaque service public de transport de passagers au moins six fois par semaine sur le trajet Halifax-Moncton-Montréal et au moins trois fois par semaine sur le trajet Toronto-Vancouver, dans les deux directions.
+
+
+
+Trajets Halifax-Moncton-Montréal et Toronto-Vancouver 
+
+
+
+
+
+
+
+
+
+
+Idem
+
+
+
+(3) The Corporation must operate each public passenger service in a manner that will best enable the Corporation to carry out its objects and meet its financial performance objectives in respect of that service.
+
+
+
+
+
+
+
+
+
+(3) Elle exploite chaque service public de transport de passagers de manière à remplir au mieux sa mission et à atteindre les objectifs de rendement financier fixés pour chaque service.
+
+
+
+Idem
+
+
+
+
+
+
+
+
+
+
+Financial performance objectives
+
+
+
+35. (1) The financial performance objectives of the Corporation must be determined by the Board with the approval of the Minister, on an annual basis, with a view to recovering the specific costs from its operations of each public passenger service described in the schedule.
+
+
+
+
+
+
+
+
+
+35. (1) Chaque année, le conseil, avec l’approbation du ministre, fixe les objectifs de rendement financier de la société en vue du recouvrement des frais spécifiques engagés par suite de l’exploitation par elle de chaque service public de transport de passagers indiqué à l’annexe.
+
+
+
+Objectifs de rendement financier
+
+
+
+
+
+
+
+
+
+
+Definition “specific costs”
+
+
+
+(2) For the purposes of subsection (1), “specific costs”, in respect of a public passenger service, means all costs incurred by the Corporation, including all payments to a railway company, that are specific to the service and would not be incurred if the Corporation ceased to operate the service.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), « frais spécifiques » s’entend, à l’égard d’un service public de transport de passagers, des frais engagés par la société, y compris les paiements versés à des compagnies de chemin de fer, qui sont propres au service en cause et que la société n'engagerait pas si elle cessait d’exploiter ce service.
+
+
+
+Définition de « frais spécifiques »
+
+
+
+
+
+
+
+
+
+
+Review of public passenger service 
+
+
+
+36. (1) The Minister must request that the Agency or any other person review and make recommendations concerning any service being considered by the Corporation for deletion from the schedule and, in any such request, the Minister must indicate the type of review required, the terms of reference of the review and the time within which the recommendations are to be made.  
+
+
+
+
+
+
+
+
+
+36. (1) Le ministre demande à l’Office ou à une autre personne d’examiner, en vue de formuler une recommandation, tout service que la société se propose de supprimer de l’annexe. Il précise dans sa demande le type d’examen requis, les paramètres de l’examen et la date limite pour le dépôt des recommandations. 
+
+
+
+Examen du service public de transport de passagers 
+
+
+
+
+
+
+
+
+
+
+Public consultation
+
+
+
+(2) The Minister must ensure public consultations are held regarding any recommendation by the Agency or any other person for deletion of any service. 
+
+
+
+
+
+
+
+
+
+(2) Le ministre veille à ce que le public soit consulté au sujet de toute recommandation formulée par l’Office ou une autre personne visant la suppression d’un service.
+
+
+
+Consultations publiques 
+
+
+
+
+
+
+
+
+
+
+Report on recommendation 
+
+
+
+(3) Within 30 days of receiving a recommendation for deletion of any service, the Minister must prepare a report on the recommendation.   
+
+
+
+
+
+
+
+
+
+(3) Lorsqu’il reçoit une recommandation visant la suppression d’un service, le ministre dispose de trente jours pour établir un rapport sur la recommandation.
+
+
+
+Rapport sur la recommandation
+
+
+
+
+
+
+
+
+
+
+Tabling in Parliament
+
+
+
+(4) The Minister must cause the report on the recommendation to be laid before each House of Parliament within the first 15 days on which that House is sitting after it is prepared.
+
+
+
+
+
+
+
+
+
+(4) Le ministre dépose le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant son établissement.
+
+
+
+Dépôt devant le Parlement
+
+
+
+
+
+
+
+
+
+
+ 	Filing of motion
+
+
+
+(5) When a report has been laid before a House of Parliament pursuant to subsection (4), a motion for the consideration of that House, to the effect that the recommendation set out in that report be amended or revoked, signed by
+
+
+
+
+
+
+
+
+(a) not less than 20 members of the Senate, in the case of a motion for the consideration of the Senate, or
+
+
+
+
+
+
+
+
+(b) not less than 50 members of the House of Commons, in the case of a motion for the consideration of the House of Commons,
+
+
+
+
+
+
+
+
+may be filed with the Speaker of that House.
+
+
+
+
+
+
+
+
+
+(5) Lorsqu’un rapport a été ainsi déposé, une motion d’examen adressée à l’une ou l’autre chambre en vue de la modification ou de l’annulation de la recommandation contenue dans le rapport et signée, selon le cas, par au moins vingt sénateurs ou cinquante députés peut être remise au président de la Chambre des communes ou du Sénat.
+
+
+
+Présentation d’une motion
+
+
+
+
+
+
+
+
+
+
+Consideration of motion
+
+
+
+(6) When a motion for the consideration of a House of Parliament is filed in accordance with subsection (5), that House must, not later than the sixth sitting day of that House following the filing of the motion, take up and consider the motion, unless a motion to the like effect has earlier been taken up and is being considered in the other House.
+
+
+
+
+
+
+
+
+
+(6) La chambre saisie de la motion étudie celle-ci dans les six jours de séance suivant sa remise, sauf si l’autre chambre a déjà commencé l’étude d’une motion visant la même fin.
+
+
+
+
+Étude de la motion
+
+
+
+
+
+
+
+
+
+
+Time for disposition of motion
+
+
+
+(7) A motion taken up and considered in a House of Parliament in accordance with subsection (6) must be debated without interruption for not more than three hours or any longer period which that House may, with the unanimous consent of its members, fix and, on the conclusion of the debate or on the expiration of the third hour of debate, whichever is earlier, the Speaker of that House must immediately put every question necessary for the disposal of the motion.
+
+
+
+
+
+
+
+
+
+(7) La motion mise à l’étude fait l’objet d’un débat ininterrompu d’une durée maximale de trois heures ou d’une durée maximale supérieure que fixe la chambre, avec le consentement unanime de ses membres; le débat terminé, le président de la chambre saisie met immédiatement aux voix toute question nécessaire pour décider de la motion.
+
+
+
+Procédure devant la chambre saisie
+
+
+
+
+
+
+
+
+
+
+Procedure on adoption of motion
+
+
+
+(8) If a motion taken up and considered in a House of Parliament in accordance with subsection (6) is adopted, with or without amendments, a message must be sent from that House informing the other House that the motion has been so adopted and requesting that the motion be concurred in by that other House.
+
+
+
+
+
+
+
+
+
+(8) En cas d’adoption, avec ou sans modification, de la motion, la chambre saisie adresse un message à l’autre chambre pour l’en informer et requérir son agrément.
+
+
+
+Suite de l’adoption de la motion
+
+
+
+
+
+
+
+
+
+
+Procedure in other House
+
+
+
+(9) Within the first 15 days that it is sitting after receiving a request pursuant to subsection (8), the House receiving the request must take up and consider the motion that is the subject of the request, and all questions in connection with the motion must be debated without interruption for not more than three hours or any longer period which that House may, with the unanimous consent of its members, fix and, on the conclusion of the debate or on the expiration of the third hour of debate, whichever is earlier, the Speaker of that House must immediately put every question necessary to determine whether or not the motion is concurred in.
+
+
+
+
+
+
+
+
+
+(9) Dans les quinze premiers jours de séance suivant la réception du message, l’autre chambre étudie la motion ainsi que toute question connexe dans un débat ininterrompu d’une durée maximale de trois heures ou d’une durée maximale supérieure que fixe la chambre, avec le consentement unanime de ses membres; le débat terminé, le président de cette chambre met immédiatement aux voix toute question nécessaire pour décider de l’agrément.
+
+
+
+
+Procédure dans l’autre chambre
+
+
+
+
+
+
+
+
+
+
+If motion adopted and concurred in
+
+
+
+(10) If a motion taken up and considered in accordance with this section is adopted, with or without amendments, by the House of Parliament in which it was introduced and is concurred in by the other House, the recommendation to which the motion relates is revoked or amended effective on the day specified in the motion, which day may not be earlier than the day of the vote of concurrence.
+
+
+
+
+
+
+
+
+
+(10) La recommandation qui a fait l’objet d’une motion adoptée, avec ou sans modification, et agréée dans les conditions prévues au présent article est annulée ou modifiée à compter de la date de l’agrément ou, si elle est postérieure, de celle que fixe la motion.
+
+
+
+Adoption et agrément
+
+
+
+
+
+
+
+
+
+
+If motion not adopted or not concurred in
+
+
+
+(11) If a motion taken up and considered in accordance with this section is not adopted by the House of Parliament in which it was introduced, or is adopted, with or without amendments, by that House but is not concurred in by the other House, the recommendation to which the motion relates remains unaffected.
+
+
+
+
+
+
+
+
+
+(11) La recommandation qui, dans les conditions prévues par le présent article, a fait l’objet d’une motion rejetée, ou adoptée mais non agréée, demeure inchangée.
+
+
+
+Refus d’adoption ou d’agrément
+
+
+
+
+
+
+
+
+
+
+Tabling order 
+
+
+
+37. (1) An order made under subsection 38(1) must be laid before each House of Parliament within the first 15 sitting days of each House after it is made.
+
+
+
+
+
+
+
+
+
+37. (1) Le décret pris en vertu du paragraphe 38(1) est déposé devant chaque chambre du Parlement dans les quinze premiers jours de séance suivant la date de sa prise.
+
+
+
+Dépôt du décret
+
+
+
+
+
+
+
+
+
+
+Debate re order 
+
+
+
+(2) If, within 30 sitting days after an order has been laid before a House of Parliament under subsection (1), a written notice signed by not less than 15 members of the Senate or 30 members of the House of Commons, as the case may be, is given to the Speaker requesting that the order be debated, the Speaker must assign a sitting day of the House that is not later than 30 sitting days after the request is made for the order to be debated.
+
+
+
+
+
+
+
+
+
+(2) Dans le cas où un avis écrit demandant que le décret soit débattu est signé par au moins quinze sénateurs ou trente députés, selon le cas, et remis au président de la chambre concernée dans les trente jours de séance suivant le dépôt du décret, le président désigne un jour de séance pour la tenue d’un débat au plus tard le trentième jour suivant la date de l’avis. 
+
+
+
+Débat sur le décret 
+
+
+
+
+
+
+
+
+
+
+Experimental service 
+
+
+
+38. (1) The Corporation may, in addition to the services described in the schedule and subject to the approval by order of the Governor in Council, operate a public passenger service on an experimental basis.
+
+
+
+
+
+
+
+
+
+38. (1) Sous réserve de l’approbation du gouverneur en conseil donnée par décret, la société peut exploiter à titre d’essai un service public de transport de passagers outre ceux indiqués à l’annexe.
+
+
+
+Service à titre d’essai
+
+
+
+
+
+
+
+
+
+
+Approval of experimental service
+
+
+
+(2) An order of the Governor in Council under subsection (1) must specify
+
+
+
+
+
+
+
+
+(a) the period of time, not exceeding three years, during which the experimental service may be operated; and 
+
+
+
+
+
+
+
+
+(b) the financial performance objective, from among the financial performance objectives referred to in subsection 35 that would be appropriate for the experimental service if it were a public passenger service described in the schedule, that the Corporation must meet in the operation of the experimental service.
+
+
+
+
+
+
+
+
+
+(2) Le décret pris au titre du paragraphe (1) précise : 
+
+
+
+Approbation  
+
+
+
+
+a) la période, égale ou inférieure à trois ans, durant laquelle le service peut être exploité à titre d’essai; 
+
+
+
+
+
+
+
+
+b) parmi les objectifs de rendement financier fixés en application de l’article 35, celui qu’il conviendrait d’assortir au service à titre d’essai si ce dernier était un service public de transport de passagers indiqué à l’annexe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Result of experimental service
+
+
+
+(3) If the Corporation has operated an experimental service for the period of time specified under paragraph (2)(a) and, as a result of the operation, the Corporation 
+
+
+
+
+
+
+
+
+(a) meets its financial performance objective in respect of that service, the Governor in Council must, by order, add the name of the service to the list of services in the schedule that the Governor in Council deems appropriate; or 
+
+
+
+
+
+
+
+
+(b) fails to meet its financial performance objective in respect of that service, the Corporation must terminate the service after that period.
+
+
+
+
+
+
+
+
+
+(3) Si la société atteint l’objectif de rendement financier fixé pour le service à l’expiration de la période d’essai, le gouverneur en conseil modifie l’annexe par décret en y ajoutant la désignation du service selon ce qu’il juge indiqué; dans le cas contraire, la société met fin au service.
+
+
+
+Résultats
+
+
+
+
+
+
+
+
+
+
+Special or temporary service 
+
+
+
+39. Subject to the approval of the Minister, the Corporation may, for a period not exceeding six months that the Minister may specify, operate on a special or temporary basis a public passenger service other than a service described in the schedule or an experimental service being operated under section 38.
+
+
+
+
+
+
+
+
+
+39. Sous réserve de l’approbation du ministre, la société peut, pour une période maximale de six mois fixée par le ministre, exploiter à titre exceptionnel ou temporaire un service public de transport de passagers outre ceux indiqués à l’annexe ou visés à l’article 38. 
+
+
+
+Service exceptionnel ou temporaire 
+
+
+
+
+
+
+
+
+
+
+Additional service 
+
+
+
+40. (1) Subject to the terms and conditions of an agreement for compensation between the Corporation and any province, the Corporation must, on the request of any province, operate additional public passenger services on the requested routes. 
+
+
+
+
+
+
+
+
+
+40. (1) La société exploite tout autre service public de transport de passagers que peut requérir une province — sur les trajets réclamés par celle-ci —, sous réserve des modalités d’un accord d’indemnisation conclu entre la société et la province.
+
+
+
+Services additionnels
+
+
+
+
+
+
+
+
+
+
+If there is no agreement 
+
+
+
+(2) If the Corporation and any province are unable to agree in respect of any matter raised in the context of the negotiation of an agreement concerning additional public passenger services, the conditions of, or the amount to be paid as compensation for, those additional services, the Corporation may, after reasonable efforts have been made to resolve the matter, apply to the Agency to decide the matter.  
+
+
+
+
+
+
+
+
+
+(2) En cas de différend survenant entre la société et la province sur toute question soulevée dans le cadre de la négociation d’un accord et touchant l’ajout d’un service public de transport de passagers, les conditions afférentes ou le montant de l’indemnité à verser à l’égard de celui-ci, la société peut, à la suite d’efforts raisonnables faits pour régler le différend, demander à l’Office de trancher la question. 
+
+
+
+Différend
+
+
+
+
+
+
+
+
+
+
+Works for the general advantage of Canada 
+
+
+
+41. (1) All works and undertakings of VIA Rail Canada are, and each of them is declared to be, works or a work for the general advantage of Canada.
+
+
+
+
+
+
+
+
+
+41. (1) Les ouvrages et entreprises de VIA Rail Canada sont déclarés à l’avantage général du Canada. 
+
+
+
+Déclaration 
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2) Subsection (1) does not apply to the purchase, sale, lease or operation of motor vehicles of any kind for the carriage of  passengers in conjunction  with or substitution for the rail services managed or controlled by the Corporation.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas à l’égard de l’achat, de la vente, de la location ou de l’exploitation de véhicules automobiles de quelque sorte que ce soit pour le transport de passagers soit en conjonction avec le service par rail administré ou contrôlé par la société ou en remplacement de celui-ci.
+
+
+
+Déclaration sans effet
+
+
+
+
+
+
+
+
+
+
+Application of the Official Languages Act 
+
+
+
+42. The Official Languages Act applies to the Corporation.
+
+
+
+
+
+
+
+
+
+42. La Loi sur les langues officielles s’applique à la société.
+
+
+
+Application de la Loi sur les langues officielles
+
+
+
+
+
+
+
+
+
+
+Conflict with Act
+
+
+
+43. This Act prevails over any other federal law to the extent of any conflict between them.
+
+
+
+
+
+
+
+
+
+43. En cas de conflit, les dispositions de la présente loi l'emportent sur toute autre règle de droit fédérale.
+
+
+
+Primauté de la présente loi
+
+
+
+
+
+
+
+
+1996, c. 10
+
+
+
+CONSEQUENTIAL AMENDMENTS TO THE CANADA TRANSPORTATION ACT
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES À LA LOI SUR LES TRANSPORTS AU CANADA
+
+
+
+1996, ch. 10
+
+
+
+
+
+
+
+
+
+
+
+
+44. The definition “public passenger serv-ice provider” in section 87 of the Canada Transportation Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+44. La définition de « société de transport publique » à l’article  87 de la Loi sur les transports au Canada est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“public passenger service provider”« société de transport publique »
+
+
+
+“public passenger service provider” means VIA Rail Canada, a passenger rail service provider designated by the Minister or an urban transit authority;
+
+
+
+
+
+
+
+
+
+
+« société de transport publique » VIA Rail Canada, tout fournisseur de services de transport par rail de passagers désigné par le ministre ou toute administration de transport de banlieue. 
+
+
+
+« société de transport publique »“public passenger service provider”
+
+
+
+
+
+
+
+
+
+
+
+
+45. The Act is amended by adding the following after section 138:
+
+
+
+
+
+
+
+
+
+45. La même loi est modifiée par adjonction, après l’article 138, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Application by railway company
+
+
+
+138.1 (1) A railway company may apply to the Agency for the right to electrify the whole or any portion of the right-of-way, tracks, ter- minals, stations or station grounds of any other railway company and  run and operate its trains over and on any portion of the electrified railway of any other railway company.
+
+
+
+
+
+
+
+
+
+138.1 (1) Chaque compagnie de chemin de fer peut demander à l’Office d’électrifier tout ou partie de l’emprise, des rails, des têtes de lignes ou des gares, ou terrains de celles-ci, d’une autre compagnie de chemin de fer et de faire circuler et d’exploiter ses trains sur toute partie du chemin de fer électrifié d’une autre compagnie.  
+
+
+
+Demande
+
+
+
+
+
+
+
+
+
+
+Application may be granted
+
+
+
+(2) The Agency may grant the right and may make any order and impose any conditions on either railway company respecting the exercise or restriction of the rights as appear just or desirable to the Agency, having regard to the public interest.
+
+
+
+
+
+
+
+
+
+(2) L’Office peut prendre l’arrêté et imposer les conditions, à l’une ou à l’autre compagnie, concernant l’exercice ou la limitation de ces droits, qui lui paraissent justes ou opportunes, compte tenu de l’intérêt public.
+
+
+
+ 	Délivrance
+
+
+
+
+
+
+
+
+
+
+ 	Compensation
+
+
+
+(3) The railway company must pay compensation to the other railway company for the right granted and, if they do not agree on the compensation, the Agency may, by order, fix the amount to be paid.
+
+
+
+
+
+
+
+
+
+(3) La compagnie de chemin de fer verse une indemnité à l’autre compagnie pour l’exercice de ces droits. Si elles ne s’entendent pas sur le montant de l’indemnité, l’Office peut le fixer par arrêté.
+
+
+
+ 	Indemnité
+
+
+
+
+
+
+
+
+
+
+
+
+46. The Act is amended by adding the following after section 139.
+
+
+
+
+
+
+
+
+
+46. La même loi est modifiée par adjonction, après l’article 139, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Accommodation of passenger and freight services
+
+
+
+139.1 (1) VIA Rail Canada and each railway company whose infrastructure is used by VIA Rail Canada must ensure, to the extent possible, that both public passenger service and freight service are safely, adequately and efficiently accommodated by the infrastructure without one service unduly impairing the other. 
+
+
+
+
+
+
+
+
+
+139.1 (1) La société VIA Rail Canada et chaque compagnie de chemin de fer qui met son infrastructure à la disposition de celle-ci sont tenues de faire en sorte, dans la mesure du possible, que l’infrastructure puisse accueillir de manière sûre, adaptée et rentable le service public de transport de passagers et le service de transport de marchandises sans que l’un ne nuise indûment à l’autre. 
+
+
+
+Coexistence des services passagers et marchandises
+
+
+
+
+
+
+
+
+
+
+Public passenger service preference
+
+
+
+(2) Despite subsection (1), if any conflict arises between the scheduling or operation of freight service and public passenger service by VIA Rail Canada, scheduling and operational preference over the freight service must be accorded to VIA Rail Canada.
+
+
+
+
+
+
+
+
+
+(2) Malgré le paragraphe (1), en cas de conflit d’horaires ou d’exploitation, le service public de transport de passagers de VIA Rail Canada a priorité sur le service de transport de marchandises.
+
+
+
+Priorité du service passagers
+
+
+
+
+
+
+
+
+
+
+Revision of schedule and operations 
+
+
+
+(3) If the scheduling and operational pref-erence for VIA Rail Canada unduly impairs the freight service of a railway company, the railway company that provides such freight service may apply to the Agency for the right to revise its schedules and operations in a manner that does not unduly impair its requirements. 
+
+
+
+
+
+
+
+
+
+(3) La compagnie de chemin de fer dont le service de transport de marchandises est indûment compromis en raison du statut prioritaire conféré aux horaires et à l’exploitation du service de VIA Rail Canada peut demander à l’Office de modifier ses horaires et ses conditions d’exploitation de manière qu’ils ne portent pas 
+atteinte à ses besoins. 
+
+
+
+
+Modification des horaires et des conditions d’exploitation 
+
+
+
+
+
+
+
+
+
+
+Agreement provisions
+
+
+
+139.2 (1) An agreement between VIA Rail Canada and a railway company respecting any right set out in paragraph 138(1)(a), (b) or (c) must
+
+
+
+
+
+
+
+
+(a) provide for reasonable public passenger service performance standards based on VIA Rail Canada’s scheduling and operational requirements, in order to enable VIA Rail Canada to provide public passenger service that reflects the public passenger service policy under section 4 of the VIA Rail Canada Act; and
+
+
+
+
+
+
+
+
+(b) subject to subsection (2), specify the compensation, including an incentive payment, that VIA Rail Canada will pay to the railway company for the services provided or for the use of the infrastructure of the railway company by VIA Rail Canada.
+
+
+
+
+
+
+
+
+
+139.2 (1) Tout accord conclu entre VIA Rail Canada et une compagnie de chemin de fer au sujet des droits énoncés aux alinéas 138(1)a), b) ou c) doit :
+
+
+
+Contenu des accords
+
+
+
+
+a) prévoir des normes de rendement raisonnables pour le service public de transport de passagers en fonction des besoins de VIA Rail Canada en matière d’exploitation et d’établissement des horaires, de manière que ce service soit conforme à la politique sur le service public de transport de passagers visée à l’article 4 de la Loi sur VIA Rail Canada;
+
+
+
+
+
+
+
+
+b) sous réserve du paragraphe (2), prévoir une indemnité, sous forme notamment de paiement incitatif, que VIA Rail Canada versera à la compagnie de chemin de fer en contrepartie des services offerts ou de l’utilisation par VIA Rail Canada de l’infrastructure de la compagnie de chemin de fer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calculation of compensation
+
+
+
+(2) The method of calculating the compensation payable by VIA Rail Canada to a railway company for the use of the infrastructure of the railway company must be based on the amounts established by the Agency under subsection 152.1(1.1) as amounts to be paid for the use of the railway company’s railway, land, equipment, facilities or services by VIA Rail Canada.
+
+
+
+
+
+
+
+
+
+(2) La méthode utilisée pour le calcul de l’indemnité est basée sur les sommes fixées par l’Office par application du paragraphe 152.1(1.1) pour l’utilisation de chemins de fer, de terres, d’installations, d’équipements ou de services de la compagnie de chemin de fer par VIA Rail Canada.
+
+
+
+Calcul de l’indemnité 
+
+
+
+
+
+
+
+
+
+
+Prescribed incentive scheme
+
+
+
+(3) The Governor in Council must, by regulation, prescribe an incentive payment scheme for the payment of amounts that, in the opinion of the Governor in Council, are a sufficient incentive to the railway company to meet the public passenger service performance standards and are a fair and reasonable compensation to the railway company for use of its infrastructure and services.
+
+
+
+
+
+
+
+
+
+
+(3) Le gouverneur en conseil doit, par règlement, établir un régime d’incitation monétaire prévoyant le versement de sommes qui, selon lui, sont suffisantes pour inciter les compagnies de chemin de fer à respecter les normes de rendement du service public de transport de passagers et constituent une indemnité juste et raisonnable à l’endroit des compagnies de chemin de fer pour l’utilisation de leurs infrastructures et services.
+
+
+
+Régime d’incitation réglementaire 
+
+
+
+
+
+
+
+
+
+
+On-time performance and performance standards 
+
+
+
+139.3 (1) Every public passenger service provider must average more than 80 percent for on-time performance and maintain at least the minimum standards of performance 
+under paragraph 139.2(1)(a).
+
+
+
+
+
+
+
+
+
+
+139.3 (1) Chaque société de transport publique doit afficher un taux de ponctualité moyen supérieur à quatre-vingts pour cent et respecter les normes minimales de rendement visées à l’alinéa 139.2(1)a).
+
+
+
+Ponctualité et normes de rendement 
+
+
+
+
+
+
+
+
+
+
+Investigation of delays and performance standards
+
+
+
+(2) The Agency may initiate an investigation if, for a period of any six consecutive months, a passenger service averages less than 80 percent on-time performance, or does not meet the minimum performance standards under paragraph 139.2(1)(a).
+
+
+
+
+
+
+
+
+
+(2) L’Office peut ouvrir une enquête si, durant six mois consécutifs, un service passagers a affiché un taux de ponctualité moyen inférieur  à quatre-vingts pour cent ou n’a pas respecté les normes minimales de rendement visées à l’alinéa 139.2(1)a).
+
+
+
+Enquête sur les retards et les normes de rendement
+
+
+
+
+
+
+
+
+
+
+Complaints
+
+
+
+(3) If a complaint relating to delays has been made by VIA Rail Canada or a railway company that has an agreement with VIA Rail Canada respecting public passenger services or use of infrastructure, the Agency must initiate an investigation to determine whether and to what extent delays or failure to achieve the minimum standards are due to causes that could reasonably be addressed by a railway company on whose tracks VIA Rail Canada operates, by VIA Rail Canada, or by other operators of passenger rail services. 
+
+
+
+
+
+
+
+
+
+(3) Lorsque la société VIA Rail Canada ou une compagnie de chemin de fer ayant conclu avec celle-ci un accord concernant des services publics de transport de passagers ou l’utilisation d’une infrastructure présente une plainte relative à des retards, l’Office ouvre une enquête afin de déterminer dans quelle mesure les retards ou le non-respect des normes minimales de rendement sont attribuables à des causes pouvant être raisonnablement prises en charge par la compagnie de chemin de fer qui possède la voie ferrée sur laquelle VIA Rail Canada exploite son service, par VIA Rail Canada ou par d’autres exploitants de services passagers. 
+
+
+
+Plaintes 
+
+
+
+
+
+
+
+
+
+
+Review of data
+
+
+
+(4) For the purposes of the investigation referred to in this section, the Agency may review the accuracy of the train performance data and the extent to which scheduling and congestion contribute to delays.
+
+
+
+
+
+
+
+
+
+(4) Dans le cadre de l’enquête, l’Office peut examiner l’exactitude des données sur le rendement du train en cause et déterminer dans quelle mesure les horaires et la congestion contribuent aux retards.
+
+
+
+Examen des données
+
+
+
+
+
+
+
+
+
+
+Information
+
+
+
+(5) For the purposes of carrying out an investigation or making a determination, the Agency  must obtain information from all parties involved and identify reasonable measures and make recommendations to improve the service, quality and on-time performance of the train.
+
+
+
+
+
+
+
+
+
+(5) Lorsqu’il mène une enquête ou tranche une question, l’Office sollicite des renseignements de toutes les parties concernées, détermine des mesures raisonnables à prendre et formule des recommandations en vue d’améliorer le service, la qualité et la ponctualité du train. 
+
+
+
+Information
+
+
+
+
+
+
+
+
+
+
+Designation by regulation of administrative monetary penalties 
+
+
+
+(6) The Agency may, by regulation, designate subsection (1) as a provision the contravention of which may be proceeded with as a violation in accordance with sections 179 and 180 and prescribe the maximum amount payable for each violation, but the amount must not exceed
+
+
+
+
+
+
+
+
+(a) $5,000, in the case of an individual; and
+
+
+
+
+
+
+
+
+(b) $25,000, in the case of a corporation.
+
+
+
+
+
+
+
+
+
+(6) L’Office peut, par règlement, désigner le paragraphe (1) comme texte dont la contravention est assujettie aux articles 179 et 180 et prévoir le montant maximal — plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des personnes morales, à 25 000 $ — de la sanction applicable à chaque contravention à un texte ainsi désigné.
+
+
+
+Sanctions administratives pécuniaires prévues par règlement 
+
+
+
+
+
+
+
+
+
+
+
+
+Additional factors
+
+
+
+(7) The Agency must also consider, for the purposes of determining the amount payable for each violation, the following factors:
+
+
+
+
+
+
+
+
+(a) the extent to which VIA Rail Canada suffers financial loss as a result of the railway company’s delays or failure to achieve minimum standards; and
+
+
+
+
+
+
+
+
+(b) the reasonable measures that would adequately prevent likely delays in future to VIA Rail Canada on the route involved.
+
+
+
+
+
+
+
+
+
+(7) Lorsqu’il détermine le montant de la sanction applicable à chaque contravention, l’Office tient compte des facteurs suivants :
+
+
+
+Éléments supplémentaires
+
+
+
+
+a) l’envergure des pertes financières subies par VIA Rail Canada à cause des retards de la compagnie de chemin de fer ou du non-respect par elle des normes minimales;
+
+
+
+
+
+
+
+
+b) les mesures raisonnables qui permettraient de prévenir les retards susceptibles d’être causés à VIA Rail Canada sur les trajets concernés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47. Subsection 152.1(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+47. Le paragraphe 152.1(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application 
+
+
+
+152.1 (1) Subject to subsection (1.1), whenever a public passenger service provider and a railway company or a province are unable to agree in respect of any matter raised in the context of the negotiation of any agreement concerning the use of the railway company’s railway, land, equipment, facilities or services by the public passenger service provider, or the operation of additional services by the public passenger provider, or concerning the conditions, or the amount to be paid, for that use or operation, the public passenger service provider may, after reasonable efforts to resolve the matter have been made, apply to the Agency to decide the matter.
+
+
+
+
+
+
+
+
+
+152.1 (1) Sous réserve du paragraphe (1.1), en cas de différend survenant entre une société de transport publique et une compagnie de chemin de fer ou une province sur toute question soulevée dans le cadre de la négociation d’un accord et touchant l’utilisation de chemins de fer, de terres, d’installations, d’équipements ou de services de la compagnie ou l’exploitation de services additionnels par la société de transport publique, les conditions afférentes ou le prix à payer pour cette utilisation ou exploitation, la société peut, à la suite d’efforts raisonnables faits pour régler le différend, demander à l’Office de trancher la question.
+
+
+
+Demande
+
+
+
+
+
+
+
+
+
+
+Amounts to be fixed by the Agency
+
+
+
+(1.1) VIA Rail Canada may apply to the Agency to fix the amounts to be paid for the use of the railway company’s railway, land, equipment, facilities or services by VIA Rail Canada or for the operation of additional services requested by a province.
+
+
+
+
+
+
+
+
+
+(1.1) VIA Rail Canada peut demander à l’Office de fixer le prix à payer pour l’utilisation de chemins de fer, de terres, d’installations, d’équipements ou de services de la compagnie de chemin de fer ou pour l’exploitation de services additionnels réclamés par une province.
+
+
+
+Somme fixée par l’Office
+
+
+
+
+
+
+
+
+
+
+
+
+48. Subsection 152.2(1) of Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+48. Le paragraphe 152.2(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Amount to be fixed 
+
+
+
+152.2 (1) If, pursuant to an application made under subsection 152.1(1) or (1.1), the Agency fixes the amount to be paid by the public passenger service provider for the use of any of the railway company’s railway, land, equipment, facilities or services, that amount must reflect the cost associated with the public passenger service provider’s use of that railway, land or equipment or those facilities or services.
+
+
+
+
+
+
+
+
+
+152.2 (1) La somme que l’Office fixe éventuellement, au titre de la demande visée au paragraphe 152.1(1) ou (1.1), pour l’utilisation de chemins de fer, de terres, d’installations, d’équipements ou de services de la compagnie de chemin de fer par la société de transport publique doit refléter les coûts liés à leur utilisation par celle-ci.
+
+
+
+Somme fixée par l'Office
+
+
+
+
+
+
+
+
+
+
+
+
+49. Subsection 152.4(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+49. Le paragraphe 152.4(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Providing copies 
+
+
+
+152.4 (1) A railway company or a public passenger service provider must provide to any person who requests it, subject to subsection (2), a copy of any agreement entered into before the day on which this section comes into force
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+concerning the use of the railway company’s railway, land, equipment, facilities or services.
+
+
+
+
+
+
+
+
+
+152.4 (1) La compagnie de chemin de fer ou la société de transport publique est tenue de fournir à quiconque lui en fait la demande, sous réserve du paragraphe (2), une copie de tout accord conclu avant la date d’entrée en vigueur du présent article et concernant l’utilisation des chemins de fer, terres, installations, équipements ou services en cause.
+
+
+
+Obligation de fournir une copie de l’accord 
+
+
+
+
+
+
+
+
+
+
+
+
+50. The Act is amended by adding the following after section 152.4:
+
+
+
+
+
+
+
+
+
+50. La même loi est modifiée par adjonction, après l’article 152.4, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Providing copies to the Agency
+
+
+
+153. If, on or after the day on which this section comes into force, VIA Rail Canada enters into an agreement with a railway company concerning the use of that railway company’s railway, land, equipment, facilities or services, VIA Rail Canada and the company must provide the Agency with a copy of that agreement within 30 days after the day on which it was entered into.
+
+
+
+
+
+
+
+
+
+153. Si, depuis la date d’entrée en vigueur du présent article, VIA Rail Canada conclut avec une compagnie de chemin de fer un accord concernant l’utilisation des chemins de fer, terres, installations, équipement ou services de celle-ci, VIA Rail Canada et la compagnie sont tenues de fournir à l’Office une copie de l’accord dans les trente jours suivant sa conclusion. 
+
+
+
+Obligation de fournir une copie de l’accord à l’Office
+
+
+
+
+
+
+
+
+
+
+Publication by Agency 
+
+
+
+154. The Agency must publish in any manner that it considers appropriate a copy of any agreement referred to in section 153 within 30 days after the day on which the Agency receives it.
+
+
+
+
+
+
+
+
+
+154. L’office publie, de la manière qu'il estime indiquée, tout accord visé à l’article 153 dans les trente jours suivant la date de sa réception.
+
+
+
+Publication par l’Office 
+
+
+
+
+
+
+
+
+
+
+Replacement of “VIA Rail Canada Inc.”
+
+
+
+51. The Act is amended by replacing “VIA Rail Canada Inc.” with “VIA Rail Canada” wherever it occurs in the following provisions:
+
+
+
+
+
+
+
+
+(a) subsection 144.1(2); and
+
+
+
+
+
+
+
+
+(b) paragraph 144.1(3)(a).
+
+
+
+
+
+
+
+
+
+51. Dans les passages ci-après de la même loi, « VIA Rail Canada Inc. » est remplacé par « VIA Rail Canada » :
+
+
+
+Remplacement — VIA Rail Canada Inc.
+
+
+
+
+a) le paragraphe 144.1(2);
+
+
+
+
+
+
+
+
+b) l’alinéa 144.1(3)a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TERMINOLOGY CHANGES
+
+
+
+
+
+
+
+
+
+NOUVELLE TERMINOLOGIE
+
+
+
+
+
+
+
+
+
+
+
+
+Replacement of “VIA Rail Canada Inc.”
+
+
+
+52. A reference in any other Act of Parliament, regulation, agreement or other instrument to “VIA Rail Canada Inc.” is replaced by a reference to “VIA Rail Canada”.
+
+
+
+
+
+
+
+
+
+52. Dans les lois fédérales, leurs textes d’application ainsi que dans tout accord ou autre document, la mention « VIA Rail Canada Inc. » est remplacée par la mention « VIA Rail Canada ». 
+
+
+
+Mentions — VIA Rail Canada Inc.
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+53. This Act comes into force 12 months after the day on which it receives royal assent or on an earlier day that is fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+53. La présente loi entre en vigueur 12 mois après la date de sa sanction ou à la date antérieure fixée par décret.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 
+
+
+
+
+
+ANNEXE 
+
+
+
+
+
+
+(Sections 34, 35, 36, 38 and 39)
+
+
+
+
+
+(articles 34, 35, 36, 38 et 39)
+
+
+
+
+
+
+VIA RAIL CANADA RAILWAY ROUTES
+
+
+
+
+
+TRAJETS ASSURÉS PAR VIA RAIL CANADA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Item
+
+
+Column 1
+Routes
+
+
+Column 2
+Stations
+
+
+
+
+
+
+1.
+
+
+Churchill – Winnipeg
+
+
+Amery
+Arnot
+Atikameg Lake
+Back
+Belcher
+Bird
+Boyd
+Bridgar
+Budd
+Button
+Bylot
+Canora
+Charlebois
+Chesnaye
+Churchill
+Cormorant
+Cromarty
+Dauphin
+Dering
+Digges
+Dunlop
+Dyce
+Earchman
+Endeavour
+Finger
+Gilbert Plains
+Gillam
+Gladstone
+Glenella
+Grandview
+Halcrow
+Herchmer
+Hockin
+Hudson Bay
+Ilford
+Kamsack
+Kellett
+Kettle Rapids
+La Perouse
+Lamprey
+Laurier
+Lawledge
+Leven
+Luke
+Lyddal
+M’Clintock
+McCreary
+Mikado
+Munk
+Nonsuch
+Ochre River
+Oday
+Odhill
+Orok
+Paterson
+Pikwitonei
+Pipun
+Pit Siding
+Plumas
+Ponton
+Portage la Prairie
+Rawebb
+Reserve
+Roblin
+Silcox
+Sipiwesk
+Sturgis
+The Pas
+Thibaudeau
+Thicket Portage
+Thompson
+Tidal
+Togo
+Tremaudan
+Turnbull
+Veregin
+Wabowden
+Weir River
+Wekusko
+Wilde
+Winnipeg
+Wivenhoe
+
+
+
+
+2.
+
+
+Jasper – Prince Rupert
+
+
+Aleza Lake
+Bend
+Burns Lake
+Cedarvale
+Dome Creek
+Dorreen
+Dunster
+Endako
+Fort Fraser
+Goat River
+Harvey
+Houston
+Hutton
+Jasper
+Kitwanga
+Kwinitsa
+Longworth
+Loos
+McBride
+McGregor
+New Hazelton
+Pacific
+Penny
+Prince George
+Prince Rupert
+Sinclair Mills
+Smithers
+Telkwa
+Terrace
+Upper Fraser
+Usk
+Vanderhoof
+Willow River
+
+
+
+
+3.
+
+
+Montreal – Gaspé
+
+
+Amqui
+Barachois
+Bonaventure
+Caplan
+Carleton
+Causapscal
+Chandler
+Charny
+Drummondville
+Gaspé
+Grande Rivière
+La Pocatière
+Matapédia
+Mont-Joli
+Montmagny
+Montreal
+New Carlisle
+New Richmond
+Nouvelle
+Percé
+Port Daniel
+Rimouski
+Rivière-du-Loup
+Saint-Hyacinthe
+Saint-Lambert
+Sayabec
+Trois-Pistoles
+
+
+
+
+4.
+
+
+Montreal – Halifax
+
+
+Amherst
+Amqui
+Bathurst
+Campbellton
+Causapscal
+Charlo
+Charny
+Drummondville
+Halifax
+Jacquet River
+La Pocatière
+Matapédia
+Miramichi
+Moncton
+Mont-Joli
+Montmagny
+Montreal
+Petit Rocher
+Rimouski
+Rivière-du-Loup
+Rogersville
+Sackville
+Saint-Hyacinthe
+Saint-Lambert
+Sayabec
+Springhill Junction
+Trois-Pistoles
+Truro
+
+
+
+
+5.
+
+
+Montreal – Jonquière
+
+
+Ahuntsic
+Bima
+Brooks
+Caribou
+Chambord
+Charette
+Cherokee
+Club Grégoire
+Club Nicol
+Falrie
+Garneau
+Grand-Mère
+Hebertville
+Hervey
+Hirondelle
+Iroquois Club
+Jacques Cartier Club
+Joliette
+Jonquière
+Kiskisink
+Kondiaronk
+L’Assomption
+Lac Bouchette
+Lac des Roches
+Lac Édouard
+Lac Malouin
+Le Gardeur
+Lizotte Club
+Miquick
+Montreal
+Pearl Lake
+Pointe-aux-Trembles
+Pont Beaudet
+Rivière-à-Pierre
+Rousseau
+Saint-Hilaire de Portneuf
+Saint-Justin
+Saint-Paulin
+Saint-Tite
+Sanford
+Shawinigan
+Stadacona
+Summit
+Summit Club
+Triton Club
+Van Bruyssels
+
+
+
+
+6.
+
+
+Montreal – City of Québec
+
+
+Charny
+Drummondville
+Montreal
+City of Québec
+Sainte-Foy
+Saint-Hyacinthe
+Saint-Lambert
+
+
+
+
+7.
+
+
+Montreal – Senneterre
+
+
+Ahuntsic
+Bolger
+Bourmont
+Cann
+Casey
+Charette
+Clova
+Club Beaudin
+Club Bélanger
+Club Rita
+Club Vermillon
+Consolidated Bathurst
+Coquar
+Cressman
+Da-Rou-Lac Lodge
+Dessane
+Dix
+Duplessis
+Ferguson
+Fitzpatrick
+Forsythe
+Gagnon
+Garneau
+Grand-Mère
+Greening
+Hervey
+Hibbard
+Joliette
+Kapitachuan
+L’Assomption
+La Tuque
+Lac Darey
+Langlade
+Le Gardeur
+Maniwawa Club
+Manjobagues
+McCarthy
+McTravis Club
+Megiscane
+Monet
+Montreal
+
+Oskelaneo Lodge
+Oskelaneo River
+Parent
+Press
+Rapide Blanc
+Saint-Justin
+Saint-Maurice Rivière Boom
+Saint-Paulin
+Saint-Tite
+Sanmaur
+Senneterre
+Shawinigan
+Signai
+Sisco Club
+Stratchan
+Timbrell
+Vandry
+Weymont
+Wigwam (Club)
+Windigo
+
+
+
+
+8.
+
+
+Ottawa – Montreal
+
+
+Alexandria
+Casselman
+Coteau
+Dorval
+Montreal
+Ottawa
+
+
+
+
+9.
+
+
+Ottawa – City of Québec
+
+
+Dorval
+Drummondville
+Ottawa
+City of Québec
+Sainte-Foy
+Saint-Hyacinthe
+Saint-Lambert
+
+
+
+
+10.
+
+
+Sudbury – White River
+
+
+Azilda
+Benny
+Biscotasing
+Bolkow
+Cartier
+Chapleau
+Chelmsford
+Dalton
+Devon
+Esher
+Franz
+Girdwood
+Kinogama
+Kormak
+Larchwood
+Levack
+Lochalsh
+Metagama
+Missanabie
+Musk
+Nemegos
+Nicholson
+O’Brien
+Pogamasing
+Ramsey
+Roberts
+Sheahan
+Stralak
+Sudbury
+Sultan
+White River
+Woman River
+
+
+
+
+11.
+
+
+The Pas – Pukatawagan
+
+
+Atik
+Charles
+Cranberry Portage
+Heming Lake
+Optic Lake
+Pawistik
+Prospector
+Pukatawagan
+Root Lake
+Ruddock
+Sherridon
+Simonhouse
+The Pas
+Wanless
+
+
+
+
+
+12.
+
+
+Toronto – Kingston
+
+
+Belleville
+Cobourg
+Guildwood
+Kingston
+Napanee
+Oshawa
+Port Hope
+Toronto
+Trenton Junction
+
+
+
+
+
+13.
+
+
+Toronto – London
+
+
+Aldershot
+Brampton
+Brantford
+Chatham
+Georgetown
+Glencoe
+Guelph
+Ingersoll
+Kitchener
+London
+Oakville
+St. Marys
+Stratford
+Strathroy
+Toronto
+Woodstock
+Wyoming
+
+
+
+
+14.
+
+
+Toronto – Montreal
+
+
+Alexandria
+Belleville
+Brockville
+Casselman
+Cobourg
+Coteau
+DorvalFallowfield
+Gananoque
+Guildwood
+Kingston
+Montreal
+Napanee
+Oshawa
+Ottawa
+Port Hope
+Smiths Falls
+Toronto
+Trenton Junction
+
+
+
+
+15.
+
+
+Toronto – Niagara Falls
+
+
+Aldershot
+Grimsby
+Niagara Falls
+Oakville
+St. Catharines
+Toronto
+
+
+
+
+16.
+
+
+Toronto – Ottawa
+
+
+Belleville
+Brockville
+Cobourg
+Fallowfield
+Gananoque
+Guildwood
+Kingston
+Napanee
+Oshawa
+Ottawa
+Port Hope
+Smiths Falls
+Toronto
+Trenton Junction
+
+
+
+
+17.
+
+
+Toronto – Sarnia
+
+
+Brampton
+Georgetown
+Guelph
+Kitchener
+London
+Malton
+Sarnia
+St. Marys
+Stratford
+Strathroy
+Toronto
+Wyoming
+
+
+
+
+18.
+
+
+Toronto – Windsor
+
+
+Aldershot
+Brantford
+Chatham
+Glencoe
+Ingersoll
+London
+Oakville
+Toronto
+Windsor
+Woodstock
+
+
+
+
+19.
+
+
+Vancouver – Toronto
+
+
+Abbotsford
+Allanwater Bridge
+Armstrong
+Ashcroft
+Auden
+Biggar
+Blue River
+Boston Bar
+Brereton Lake
+Canyon
+Capreol
+Caramat
+Chilliwack
+Clearwater
+Collins
+Copelands Landing
+Edmonton
+Edson
+Elma
+Elsas
+Evansburg
+Farlane
+Felix
+Ferland
+Flindt Landing
+Foleyet
+Gogama
+Hillsport
+Hinton
+Hope
+Hornepayne
+Jasper
+Kamloops North
+Laforest
+Longlac
+Malachi
+McKee’s Camp
+Melville
+Minaki
+Mud River
+Nakina
+Oba
+Ophir
+Ottermere
+Parry Sound
+Portage la Prairie
+Red Lake Road
+Redditt
+Rice Lake
+Richan
+Rivers
+Ruel
+Saskatoon
+Savant Lake
+Sioux Lookout
+Sudbury Junction
+Toronto
+Unity
+Valemount
+Vancouver
+Viking
+Wainwright
+Washago
+Watrous
+Westree
+Winnipeg
+Winnitoba
+
+
+
+
+20.
+
+
+Victoria – Courtenay
+
+
+Buckley Bay
+Cassidy
+Chemainus
+Cobble Hill
+Courtenay
+Duncan
+Dunsmuir
+Esquimalt
+Ladysmith
+Langford
+Palmer
+Parksville
+Qualicum Beach
+Somenos
+Stockett
+Victoria
+Wellcox
+Wellington
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Article
+
+
+Colonne 1
+Trajets
+
+
+Colonne 2
+Gares
+
+
+
+
+
+
+1.
+
+
+Churchill – Winnipeg
+
+
+Amery
+Arnot
+Atikameg Lake
+Back
+Belcher
+Bird
+Boyd
+Bridgar
+Budd
+Button
+Bylot
+Canora
+Charlebois
+Chesnaye
+Churchill
+Cormorant
+Cromarty
+Dauphin
+Dering
+Digges
+Dunlop
+Dyce
+Earchman
+Endeavour
+Finger
+Gilbert Plains
+Gillam
+Gladstone
+Glenella
+Grandview
+Halcrow
+Herchmer
+Hockin
+Hudson Bay
+Ilford
+Kamsack
+Kellett
+Kettle Rapids
+La Perouse
+Lamprey
+Laurier
+Lawledge
+Leven
+Luke
+Lyddal
+M’Clintock
+McCreary
+Mikado
+Munk
+Nonsuch
+Ochre River
+Oday
+Odhill
+Orok
+Paterson
+Pikwitonei
+Pipun
+Pit Siding
+Plumas
+Ponton
+Portage la Prairie
+Rawebb
+Reserve
+Roblin
+Silcox
+Sipiwesk
+Sturgis
+The Pas
+Thibaudeau
+Thicket Portage
+Thompson
+Tidal
+Togo
+Tremaudan
+Turnbull
+Veregin
+Wabowden
+Weir River
+Wekusko
+Wilde
+Winnipeg
+Wivenhoe
+
+
+
+
+2.
+
+
+Jasper – Prince Rupert
+
+
+Aleza Lake
+Bend
+Burns Lake
+Cedarvale
+Dome Creek
+Dorreen
+Dunster
+Endako
+Fort Fraser
+Goat River
+Harvey
+Houston
+Hutton
+Jasper
+Kitwanga
+Kwinitsa
+Longworth
+Loos
+McBride
+McGregor
+New Hazelton
+Pacific
+Penny
+Prince George
+Prince Rupert
+Sinclair Mills
+Smithers
+Telkwa
+Terrace
+Upper Fraser
+Usk
+Vanderhoof
+Willow River
+
+
+
+
+3.
+
+
+Montréal – Gaspé
+
+
+Amqui
+Barachois
+Bonaventure
+Caplan
+Carleton
+Causapscal
+Chandler
+Charny
+Drummondville
+Gaspé
+Grande Rivière
+La Pocatière
+Matapédia
+Mont-Joli
+Montmagny
+Montréal
+New Carlisle
+New Richmond
+Nouvelle
+Percé
+Port Daniel
+Rimouski
+Rivière-du-Loup
+Saint-Hyacinthe
+Saint-Lambert
+Sayabec
+Trois-Pistoles
+
+
+
+
+4.
+
+
+Montréal – Halifax
+
+
+Amherst
+Amqui
+Bathurst
+Campbellton
+Causapscal
+Charlo
+Charny
+Drummondville
+Halifax
+Jacquet River
+La Pocatière
+Matapédia
+Miramichi
+Moncton
+Mont-Joli
+Montmagny
+Montréal
+Petit Rocher
+Rimouski
+Rivière-du-Loup
+Rogersville
+Sackville
+Saint-Hyacinthe
+Saint-Lambert
+Sayabec
+Springhill Junction
+Trois-Pistoles
+Truro
+
+
+
+
+5.
+
+
+Montréal – Jonquière
+
+
+Ahuntsic
+Bima
+Brooks
+Caribou
+Chambord
+Charette
+Cherokee
+Club Grégoire
+Club Nicol
+Falrie
+Garneau
+Grand-Mère
+Hebertville
+Hervey
+Hirondelle
+Iroquois Club
+Jacques Cartier Club
+Joliette
+Jonquière
+Kiskisink
+Kondiaronk
+L’Assomption
+Lac Bouchette
+Lac des Roches
+Lac Édouard
+Lac Malouin
+Le Gardeur
+Lizotte Club
+Miquick
+Montréal
+Pearl Lake
+Pointe-aux-Trembles
+Pont Beaudet
+Rivière-à-Pierre
+Rousseau
+Saint-Hilaire de Portneuf
+Saint-Justin
+Saint-Paulin
+Saint-Tite
+Sanford
+Shawinigan
+Stadacona
+Summit
+Summit Club
+Triton Club
+Van Bruyssels
+
+
+
+
+6.
+
+
+Montréal – Québec
+
+
+Charny
+Drummondville
+Montréal
+Québec
+Sainte-Foy
+Saint-Hyacinthe
+Saint-Lambert
+
+
+
+
+7.
+
+
+Montréal – Senneterre
+
+
+Ahuntsic
+Bolger
+Bourmont
+Cann
+Casey
+Charette
+Clova
+Club Beaudin
+Club Bélanger
+Club Rita
+Club Vermillon
+Consolidated Bathurst
+Coquar
+Cressman
+Da-Rou-Lac Lodge
+Dessane
+Dix
+Duplessis
+Ferguson
+Fitzpatrick
+Forsythe
+Gagnon
+Garneau
+Grand-Mère
+Greening
+Hervey
+Hibbard
+Joliette
+Kapitachuan
+L’Assomption
+La Tuque
+Lac Darey
+Langlade
+Le Gardeur
+Maniwawa Club
+Manjobagues
+McCarthy
+McTravis Club
+Megiscane
+Monet
+Montréal
+
+Oskelaneo Lodge
+Oskelaneo River
+Parent
+Press
+Rapide Blanc
+Saint-Justin
+Saint-Maurice Rivière Boom
+Saint-Paulin
+Saint-Tite
+Sanmaur
+Senneterre
+Shawinigan
+Signai
+Sisco Club
+Stratchan
+Timbrell
+Vandry
+Weymont
+Wigwam (Club)
+Windigo
+
+
+
+
+8.
+
+
+Ottawa – Montréal
+
+
+Alexandria
+Casselman
+Coteau
+Dorval
+Montréal
+Ottawa
+
+
+
+
+9.
+
+
+Ottawa – Québec
+
+
+Dorval
+Drummondville
+Ottawa
+Québec
+Sainte-Foy
+Saint-Hyacinthe
+Saint-Lambert
+
+
+
+
+10.
+
+
+Sudbury – White River
+
+
+Azilda
+Benny
+Biscotasing
+Bolkow
+Cartier
+Chapleau
+Chelmsford
+Dalton
+Devon
+Esher
+Franz
+Girdwood
+Kinogama
+Kormak
+Larchwood
+Levack
+Lochalsh
+Metagama
+Missanabie
+Musk
+Nemegos
+Nicholson
+O’Brien
+Pogamasing
+Ramsey
+Roberts
+Sheahan
+Stralak
+Sudbury
+Sultan
+White River
+Woman River
+
+
+
+
+11.
+
+
+The Pas – Pukatawagan
+
+
+Atik
+Charles
+Cranberry Portage
+Heming Lake
+Optic Lake
+Pawistik
+Prospector
+Pukatawagan
+Root Lake
+Ruddock
+Sherridon
+Simonhouse
+The Pas
+Wanless
+
+
+
+
+
+12.
+
+
+Toronto – Kingston
+
+
+Belleville
+Cobourg
+Guildwood
+Kingston
+Napanee
+Oshawa
+Port Hope
+Toronto
+Trenton Junction
+
+
+
+
+
+13.
+
+
+Toronto – London
+
+
+Aldershot
+Brampton
+Brantford
+Chatham
+Georgetown
+Glencoe
+Guelph
+Ingersoll
+Kitchener
+London
+Oakville
+St. Marys
+Stratford
+Strathroy
+Toronto
+Woodstock
+Wyoming
+
+
+
+
+14.
+
+
+Toronto – Montréal
+
+
+Alexandria
+Belleville
+Brockville
+Casselman
+Cobourg
+Coteau
+Dorval
+Fallowfield
+Gananoque
+Guildwood
+Kingston
+Montréal
+Napanee
+Oshawa
+Ottawa
+Port Hope
+Smiths Falls
+Toronto
+Trenton Junction
+
+
+
+
+15.
+
+
+Toronto – Niagara Falls
+
+
+Aldershot
+Grimsby
+Niagara Falls
+Oakville
+St. Catharines
+Toronto
+
+
+
+
+16.
+
+
+Toronto – Ottawa
+
+
+Belleville
+Brockville
+Cobourg
+Fallowfield
+Gananoque
+Guildwood
+Kingston
+Napanee
+Oshawa
+Ottawa
+Port Hope
+Smiths Falls
+Toronto
+Trenton Junction
+
+
+
+
+17.
+
+
+Toronto – Sarnia
+
+
+Brampton
+Georgetown
+Guelph
+Kitchener
+London
+Malton
+Sarnia
+St. Marys
+Stratford
+Strathroy
+Toronto
+Wyoming
+
+
+
+
+18.
+
+
+Toronto – Windsor
+
+
+Aldershot
+Brantford
+Chatham
+Glencoe
+Ingersoll
+London
+Oakville
+Toronto
+Windsor
+Woodstock
+
+
+
+
+19.
+
+
+Vancouver – Toronto
+
+
+Abbotsford
+Allanwater Bridge
+Armstrong
+Ashcroft
+Auden
+Biggar
+Blue River
+Boston Bar
+Brereton Lake
+Canyon
+Capreol
+Caramat
+Chilliwack
+Clearwater
+Collins
+Copelands Landing
+Edmonton
+Edson
+Elma
+Elsas
+Evansburg
+Farlane
+Felix
+Ferland
+Flindt Landing
+Foleyet
+Gogama
+Hillsport
+Hinton
+Hope
+Hornepayne
+Jasper
+Kamloops North
+Laforest
+Longlac
+Malachi
+McKee’s Camp
+Melville
+Minaki
+Mud River
+Nakina
+Oba
+Ophir
+Ottermere
+Parry Sound
+Portage la Prairie
+Red Lake Road
+Redditt
+Rice Lake
+Richan
+Rivers
+Ruel
+Saskatoon
+Savant Lake
+Sioux Lookout
+Sudbury Junction
+Toronto
+Unity
+Valemount
+Vancouver
+Viking
+Wainwright
+Washago
+Watrous
+Westree
+Winnipeg
+Winnitoba
+
+
+
+
+20.
+
+
+Victoria – Courtenay
+
+
+Buckley Bay
+Cassidy
+Chemainus
+Cobble Hill
+Courtenay
+Duncan
+Dunsmuir
+Esquimalt
+Ladysmith
+Langford
+Palmer
+Parksville
+Qualicum Beach
+Somenos
+Stockett
+Victoria
+Wellcox
+Wellington
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?><!--The data contained in this document is provided in a standard XML format. Once imported into a spreadsheet or database tool of your choice, the data can be filtered and sorted to create customized reports.
+
+Please refer to the instructions within the tool of your choice to find out how to import external data.--><Bill id="9062" lastUpdated="2016-02-09T18:47:43"><BillIntroducedDate>1997-10-02T00:00:00</BillIntroducedDate><ParliamentSession parliamentNumber="36" sessionNumber="1" /><BillNumber prefix="C" number="9" /><BillTitle><Title language="en">An Act for making the system of Canadian ports competitive, efficient and commercially oriented, providing for the establishing of port authorities and the divesting of certain harbours and ports, for the commercialization of the St. Lawrence Seaway and ferry services and other matters related to maritime trade and transport and amending the Pilotage Act and amending and repealing other Acts as a consequence</Title><Title language="fr">Loi favorisant la compétitivité du réseau portuaire canadien par une rationalisation de sa gestion, prévoyant la création des administrations portuaires et l'aliénation de certains ports, régissant la commercialisation de la Voie maritime du Saint-Laurent et des traversiers et des questions connexes liées au commerce et au transport maritimes, modifiant la Loi sur le pilotage et abrogeant et modifiant certaines lois en conséquence</Title></BillTitle><ShortTitle><Title language="en">Canada Marine Act</Title><Title language="fr">Loi maritime du Canada</Title></ShortTitle><BillType><Title language="en">House Government Bill</Title><Title language="fr">Projet de loi émanant du gouvernement (Cdc)</Title></BillType><SponsorAffiliation id="1734"><Title language="en">Minister of Transport</Title><Title language="fr">ministre des Transports</Title><Person id="583" Gender="M"><FullName>David Collenette</FullName><FirstName>David</FirstName><MiddleName /><LastName>Collenette</LastName></Person><PoliticalParty><Title language="en">Liberal</Title><Title language="fr">Libéral</Title><abbreviation><Title language="en">Lib.</Title><Title language="fr">Lib.</Title></abbreviation></PoliticalParty></SponsorAffiliation><ComingIntoForce><Information><Title language="en">&lt;div&gt;His Excellency the Governor General in Council hereby fixes &lt;br&gt;
+(a) pursuant to subsection 205(1) of the Canada Marine Act, assented to on June 11, 1998, being chapter 10 of the Statutes of Canada, 1998, hereby declares that the provisions of that Act set out in subparagraphs (b)(i), (iii) and (iv) and (c)(i), (vi) and (vii), (ix) and (xiii) shall come into force on the days set out in this Order; &lt;br&gt;
+(b) pursuant to section 205 of that Act, hereby fixes August 26, 1998, as the day on which the following provisions of that Act shall come into force:
+(i) sections 1 to 4,&lt;br&gt;
+(ii) Part 3 other than sections 81, 83 to 89, 92 to 95 and 99,&lt;br&gt;
+(iii) sections 130 and 131,&lt;br&gt;
+(iv) sections 138.2 to 138.4, and&lt;br&gt;
+(v) sections 141 and 142; and&lt;br&gt;
+(c) pursuant to section 205 of that Act, hereby fixes October 1,
+1998, as the day on which the following provisions of that Act
+shall come into force:&lt;br&gt;
+(i) sections 56 to 59,&lt;br&gt;
+(ii) section 81,&lt;br&gt;
+(iii) sections 83 to 89,&lt;br&gt;
+(iv) sections 92 to 95,&lt;br&gt;
+(v) section 99,&lt;br&gt;
+(vi) Part 4,&lt;br&gt;
+(vii) section 145,&lt;br&gt;
+(viii) section 146,&lt;br&gt;
+(ix) sections 146.1 to 157,&lt;br&gt;
+(x) section 158,&lt;br&gt;
+(xi) subsection 159(2),&lt;br&gt;
+(xii) section 161,&lt;br&gt;
+(xiii) section 170,&lt;br&gt;
+(xiv) section 172,&lt;br&gt;
+(xv) section 174,&lt;br&gt;
+(xvi) section 176,&lt;br&gt;
+(xvii) section 188,&lt;br&gt;
+(xviii) section 191, and&lt;br&gt;
+(xix) section 193.&lt;br&gt;
+&lt;br&gt;
+SI/98-88&lt;br&gt;
+&lt;br&gt;
+
+His Excellency the Governor General in Council hereby fixes December 1, 1998 as the day on which section 203 of that Act comes into force. SI/98-118&lt;br&gt;
+ &lt;br&gt;
+His Excellency the Governor General in Council hereby fixes December 1, 1998 as the day on which the following provisions of that Act come into force: &lt;br&gt;
+(i) section 160, &lt;br&gt;
+(ii) sections 164 to 166, &lt;br&gt;
+(iii) section 171, &lt;br&gt;
+(iv) section 175, &lt;br&gt;
+(v) section 187, and &lt;br&gt;
+(vi) section 192.  &lt;br&gt;
+ &lt;br&gt;
+SI/98-117 &lt;br&gt;
+ &lt;br&gt;
+His Excellency the Governor General in Council hereby fixes March 1, 1999 as the day on which the following provisions of that Act come into force: &lt;br&gt;
+(a) sections 5 to 55; &lt;br&gt;
+(b) sections 60 to 64; &lt;br&gt;
+(c) subsections 65(1) and (2); &lt;br&gt;
+(d) subsections 65(4) to (7); &lt;br&gt;
+(e) sections 66 to 76; &lt;br&gt;
+(f) section 132; &lt;br&gt;
+(g) section 138.1; &lt;br&gt;
+(h) section 138.5; &lt;br&gt;
+(i) section 144; &lt;br&gt;
+(j) the portion of section 162 before the reference to the Fraser
+River Port Authority, and the references to the Halifax Port
+Authority, the Montreal Port Authority and the Vancouver Port
+Authority; &lt;br&gt;
+(k) section 163; &lt;br&gt;
+(l) sections 167 and 168; &lt;br&gt;
+(m) the portion of section 169 before the reference to the
+Canada Ports Corporation, and the references to the Halifax
+Port Corporation, the Montreal Port Corporation and the
+Vancouver Port Corporation; &lt;br&gt;
+(n) the portion of section 180 before the reference to the
+Canada Ports Corporation, and the references to the Halifax
+Port Corporation, the Montreal Port Corporation and the
+Vancouver Port Corporation; &lt;br&gt;
+(o) section 181; &lt;br&gt;
+(p) the portion of section 184 before the reference to the Fraser
+River Port Authority, and the references to the Halifax Port
+Authority, the Montreal Port Authority and the Vancouver Port
+Authority; &lt;br&gt;
+(q) section 189; &lt;br&gt;
+(r) the portion of section 194 before the reference to the Fraser
+River Port Authority, and the references to the Halifax Port
+Authority, the Montreal Port Authority and the Vancouver Port
+Authority; &lt;br&gt;
+(s) section 202; &lt;br&gt;
+(t) item 2 of Part 1 of the schedule; &lt;br&gt;
+(u) item 4 of Part 1 of the schedule; and &lt;br&gt;
+(v) item 17 of Part 1 of the schedule.  &lt;br&gt;
+SI/99-15&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;His Excellency the Governor General in Council hereby fixes May 1, 1999 as the day on which the following provisions of that Act come into force:&lt;br&gt;
+(a) sections 133 to 138;&lt;br&gt;
+(b) sections 138.6 and 139;&lt;br&gt;
+(c) in section 162, the references to&lt;br&gt;
+(i) the Fraser River Port Authority,&lt;br&gt;
+(ii) the Prince Rupert Port Authority,&lt;br&gt;
+(iii) the Quebec Port Authority,&lt;br&gt;
+(iv) the Saguenay Port Authority,&lt;br&gt;
+(v) the Saint John Port Authority,&lt;br&gt;
+(vi) the Sept-Îles Port Authority,&lt;br&gt;
+(vii) the St. John’s Port Authority, and&lt;br&gt;
+(viii) the Trois-Rivières Port Authority;&lt;br&gt;
+(d) in section 169, the references to&lt;br&gt;
+(i) the Port of Quebec Corporation, and&lt;br&gt;
+(ii) the Prince Rupert Port Corporation;&lt;br&gt;
+(e) in section 180, the references to&lt;br&gt;
+(i) the Port of Quebec Corporation,&lt;br&gt;
+(ii) the Prince Rupert Port Corporation,&lt;br&gt;
+(iii) the Saint John Port Corporation, and&lt;br&gt;
+(iv) the St. John’s Port Corporation;&lt;br&gt;
+(f) sections 182 and 182.1;&lt;br&gt;
+(g) in section 184, the references to&lt;br&gt;
+(i) the Fraser River Port Authority,&lt;br&gt;
+(ii) the Prince Rupert Port Authority,&lt;br&gt;
+(iii) the Quebec Port Authority,&lt;br&gt;
+(iv) the Saguenay Port Authority,&lt;br&gt;
+(v) the Saint John Port Authority,&lt;br&gt;
+(vi) the Sept-Îles Port Authority,&lt;br&gt;
+(vii) the St. John’s Port Authority, and&lt;br&gt;
+(viii) the Trois-Rivières Port Authority;&lt;br&gt;
+(h) in section 194, the references to&lt;br&gt;
+(i) the Fraser River Port Authority,&lt;br&gt;
+(ii) the Prince Rupert Port Authority,&lt;br&gt;
+(iii) the Quebec Port Authority,&lt;br&gt;
+(iv) the Saguenay Port Authority,&lt;br&gt;
+(v) the Saint John Port Authority,&lt;br&gt;
+(vi) the Sept-Îles Port Authority,&lt;br&gt;
+(vii) the St. John’s Port Authority, and&lt;br&gt;
+(viii) the Trois-Rivières Port Authority;&lt;br&gt;
+(i) item 1 of Part 1 of the schedule;&lt;br&gt;
+(j) items 8 to 13 of Part 1 of the schedule; and&lt;br&gt;
+(k) item 16 of Part 1 of the schedule.   &lt;br&gt;
+SI/99-39&lt;br&gt;
+&lt;br&gt;
+His Excellency the Governor General in Council hereby fixes June 8, 1999 as the day on which the following provisions of that Act come into force:&lt;br&gt;&lt;br&gt;
+(a) in section 162, the reference to the Toronto Port Authority;&lt;br&gt;
+(b) in section 184, the reference to the Toronto Port Authority;&lt;br&gt;
+(c) in section 194, the reference to the Toronto Port Authority;&lt;br&gt;
+(d) sections 204 and 204.1; and&lt;br&gt;
+(e) item 15 of Part 1 of the schedule.&lt;br&gt;
+SI/99-55&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+
+
+
+His Excellency the Governor General in Council hereby fixes July 1, 1999 as the day on which the following provisions of that Act come into force:&lt;br&gt;
+(a) in section 162, the references to&lt;br&gt;
+(i) the Nanaimo Port Authority,&lt;br&gt;
+(ii) the North Fraser Port Authority,&lt;br&gt;
+(iii) the Port Alberni Port Authority, and&lt;br&gt;
+(iv) the Thunder Bay Port Authority;&lt;br&gt;
+(b) in section 184, the references to&lt;br&gt;
+(i) the Nanaimo Port Authority,&lt;br&gt;
+(ii) the North Fraser Port Authority,&lt;br&gt;
+(iii) the Port Alberni Port Authority, and&lt;br&gt;
+(iv) the Thunder Bay Port Authority;&lt;br&gt;
+(c) in section 194, the references to&lt;br&gt;
+(i) the Nanaimo Port Authority,&lt;br&gt;
+(ii) the North Fraser Port Authority,&lt;br&gt;
+(iii) the Port Alberni Port Authority, and&lt;br&gt;
+(iv) the Thunder Bay Port Authority;&lt;br&gt;
+(d) items 5 to 7 of Part 1 of the schedule; and&lt;br&gt;
+(e) item 14 of Part 1 of the schedule.&lt;br&gt;
+&lt;br&gt;
+SI/99-62 
+
+&lt;br&gt;
+&lt;br&gt;
+His Excellency the Governor General in Council  hereby fixes July 1, 1999 as the day on which the following provisions of that Act come into force:&lt;br&gt;
+(a) in section 162, the reference to the Windsor Port Authority;&lt;br&gt;
+(b) in section 184, the reference to the Windsor Port Authority;&lt;br&gt;
+(c) in section 194, the reference to the Windsor Port Authority; and&lt;br&gt;
+(d) item 18 of Part 1 of the schedule.&lt;br&gt;
+&lt;br&gt;
+SI/99-63
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+Her Excellency the Governor General in Council hereby fixes November 1, 2000 as the day on which the following provisions of that Act come into force:&lt;br&gt;
+&lt;br&gt;
+(a) subsection 65(3);&lt;br&gt;
+(b) section 143;&lt;br&gt;
+(c) subsection 159(1);&lt;br&gt;
+(d) in section 169, the reference to the Canada Ports Corporation;&lt;br&gt;
+(e) section 173;&lt;br&gt;
+(f) section 177;&lt;br&gt;
+(g) in section 180, the reference to the Canada Ports Corporation;&lt;br&gt;
+(h) section 183;&lt;br&gt;
+(i) section 190; and&lt;br&gt;
+(j) section 197.&lt;br&gt;
+&lt;br&gt;&lt;br&gt;SI/2000-93
+
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+Her Excellency the Governor General in Council hereby fixes May 1, 2001 as the day on which the following provisions of that Act come into force:&lt;br&gt;&lt;br&gt;
+(a) in section 162, the reference to the Hamilton Port Authority;&lt;br&gt;
+(b) in section 184, the reference to the Hamilton Port Authority;&lt;br&gt;
+(c) in section 194, the reference to the Hamilton Port Authority;&lt;br&gt;
+(d) sections 198 to 200; and&lt;br&gt;
+(e) item 3 of Part 1 of the schedule.&lt;br&gt;
+&lt;br&gt;
+SI/2001-55&lt;/div&gt;</Title><Title language="fr">&lt;div&gt;Son Excellence le Gouverneur général en conseil fixe:&lt;br&gt;
+(a) en vertu du paragraphe 205(1) de la Loi maritime du
+Canada, sanctionnée le 11 juin 1998, chapitre 10 des Lois du
+Canada (1998), déclare que les dispositions de la Loi mentionnées
+aux sous-alinéas b)(i), (iii) et (iv) et c)(i), (vi) et (vii), (ix)
+et (xiii) entreront en vigueur aux dates indiquées dans le
+présent décret;&lt;br&gt;
+b) en vertu de l’article 205 de cette loi, fixe au 26 août 1998 la
+date d’entrée en vigueur des dispositions suivantes de cette loi :&lt;br&gt;
+(i) les articles 1 à 4,&lt;br&gt;
+(ii) la partie 3, à l’exception des articles 81, 83 à 89, 92 à 95
+et 99,&lt;br&gt;
+(iii) les articles 130 et 131,&lt;br&gt;
+(iv) les articles 138.2 à 138.4,&lt;br&gt;
+(v) les articles 141 et 142;&lt;br&gt;
+c) en vertu de l’article 205 de cette loi, fixe au 1er octobre 1998
+la date d’entrée en vigueur des dispositions suivantes de cette
+loi :&lt;br&gt;
+(i) les articles 56 à 59,&lt;br&gt;
+(ii) l’article 81,&lt;br&gt;
+(iii) les articles 83 à 89,&lt;br&gt;
+(iv) les articles 92 à 95,&lt;br&gt;
+(v) l’article 99,&lt;br&gt;
+(vi) la partie 4,&lt;br&gt;
+(vii) l’article 145,&lt;br&gt;
+(viii) l’article 146,&lt;br&gt;
+(ix) les articles 146.1 à 157,&lt;br&gt;
+(x) l’article 158,&lt;br&gt;
+(xi) le paragraphe 159(2),&lt;br&gt;
+(xii) l’article 161,&lt;br&gt;
+(xiii) l’article 170,&lt;br&gt;
+(xiv) l’article 172,&lt;br&gt;
+(xv) l’article 174,&lt;br&gt;
+(xvi) l’article 176,&lt;br&gt;
+(xvii) l’article 188,&lt;br&gt;
+(xviii) l’article 191,&lt;br&gt;
+(xix) l’article 193.&lt;br&gt;
+&lt;br&gt;
+TR/98-88&lt;br&gt;
+&lt;br&gt;
+Son Excellence le Gouverneur général en conseil fixe au 1er décembre 1998 la date d’entrée en vigueur de l’article 203 de cette loi. TR/98-118&lt;br&gt;
+ &lt;br&gt;
+Son Excellence le Gouverneur général en conseil fixe au 1er décembre 1998 la date d’entrée en vigueur des dispositions suivantes de cette loi : &lt;br&gt;
+(i) l’article 160, &lt;br&gt;
+(ii) les articles 164 à 166, &lt;br&gt;
+(iii) l’article 171, &lt;br&gt;
+(iv) l’article 175, &lt;br&gt;
+(v) l’article 187, &lt;br&gt;
+(vi) l’article 192. &lt;br&gt;
+ &lt;br&gt;
+TR/98-117 &lt;br&gt;
+ &lt;br&gt;
+Son Excellence le Gouverneur général en conseil fixe au 1er mars 1999 la date d’entrée en vigueur des dispositions suivantes de cette loi : &lt;br&gt;
+a) les articles 5 à 55; &lt;br&gt;
+b) les articles 60 à 64;v
+c) les paragraphes 65(1) et (2); &lt;br&gt;
+d) les paragraphes 65(4) à (7); &lt;br&gt;
+e) les articles 66 à 76; &lt;br&gt;
+f) l’article 132; &lt;br&gt;
+g) l’article 138.1; &lt;br&gt;
+h) l’article 138.5; &lt;br&gt;
+i) l’article 144; &lt;br&gt;
+j) le passage de l’article 162 précédant la mention « Administration
+portuaire de Halifax » et les mentions « Administration
+portuaire de Halifax », « Administration portuaire de Montréal »
+et « Administration portuaire de Vancouver »; &lt;br&gt;
+k) l’article 163; &lt;br&gt;
+l) les articles 167 et 168; &lt;br&gt;
+m) le passage de l’article 169 précédant la mention « Société
+canadienne des ports » et les mentions « Société de port de
+Halifax », « Société du port de Montréal » et « Société du port
+de Vancouver »; &lt;br&gt;
+n) le passage de l’article 180 précédant la mention « Société
+canadienne des ports » et les mentions « Société de port de
+Halifax », « Société du port de Montréal » et « Société du port
+de Vancouver »; &lt;br&gt;
+o) l’article 181; &lt;br&gt;
+p) le passage de l’article 184 précédant la mention « Administration
+portuaire de Halifax » et les mentions « Administration
+portuaire de Halifax », « Administration portuaire de Montréal »
+et « Administration portuaire de Vancouver »; &lt;br&gt;
+q) l’article 189; &lt;br&gt;
+r) le passage de l’article 194 précédant la mention « Administration
+portuaire de Halifax » et les mentions « Administration
+portuaire de Halifax », « Administration portuaire de Montréal »
+et « Administration portuaire de Vancouver »; &lt;br&gt;
+s) l’article 202; &lt;br&gt;
+t) l’article 2 de la partie 1 de l’annexe; &lt;br&gt;
+u) l’article 4 de la partie 1 de l’annexe; &lt;br&gt;
+v) l’article 17 de la partie 1 de l’annexe. &lt;br&gt;
+
+TR/99-15 &lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+Son Excellence le Gouverneur général en conseil fixe au 1er mai 1999 la date d’entrée en vigueur des dispositions suivantes de cette loi :&lt;br&gt;
+a) les articles 133 à 138;&lt;br&gt;
+b) les articles 138.6 et 139;&lt;br&gt;
+c) à l’article 162, les mentions :&lt;br&gt;
+(i) « Administration portuaire de Prince-Rupert »,&lt;br&gt;
+(ii) « Administration portuaire de Québec »,&lt;br&gt;
+(iii) « Administration portuaire de Saint-Jean »,&lt;br&gt;
+(iv) « Administration portuaire de Sept-Îles »,&lt;br&gt;
+(v) « Administration portuaire de St. John’s »,&lt;br&gt;
+(vi) « Administration portuaire de Trois-Rivières »,&lt;br&gt;
+(vii) « Administration portuaire du fleuve Fraser »,&lt;br&gt;
+(viii) « Administration portuaire du Saguenay »;&lt;br&gt;
+d) à l’article 169, les mentions :&lt;br&gt;
+(i) « Société de port de Prince Rupert »,&lt;br&gt;
+(ii) « Société de port de Québec »;&lt;br&gt;
+e) à l’article 180, les mentions :&lt;br&gt;
+(i) « Société de port de Prince Rupert »,&lt;br&gt;
+(ii) « Société de port de Québec »,&lt;br&gt;
+(iii) « Société du port de Saint John »,&lt;br&gt;
+(iv) « Société du port de St. John’s »;&lt;br&gt;
+f) les articles 182 et 182.1;&lt;br&gt;
+g) à l’article 184, les mentions :&lt;br&gt;
+(i) « Administration portuaire de Prince-Rupert »,&lt;br&gt;
+(ii) « Administration portuaire de Québec »,&lt;br&gt;
+(iii) « Administration portuaire de Saint-Jean »,&lt;br&gt;
+(iv) « Administration portuaire de Sept-Îles »,&lt;br&gt;
+(v) « Administration portuaire de St. John’s »,&lt;br&gt;
+(vi) « Administration portuaire de Trois-Rivières »,&lt;br&gt;
+(vii) « Administration portuaire du fleuve Fraser »,&lt;br&gt;
+(viii) « Administration portuaire du Saguenay »;&lt;br&gt;
+h) à l’article 194, les mentions :&lt;br&gt;
+(i) « Administration portuaire de Prince-Rupert »,&lt;br&gt;
+(ii) « Administration portuaire de Québec »,&lt;br&gt;
+(iii) « Administration portuaire de Saint-Jean »,&lt;br&gt;
+(iv) « Administration portuaire de Sept-Îles »,&lt;br&gt;
+(v) « Administration portuaire de St. John’s »,&lt;br&gt;
+(vi) « Administration portuaire de Trois-Rivières »,&lt;br&gt;
+(vii) « Administration portuaire du fleuve Fraser »,&lt;br&gt;
+(viii) « Administration portuaire du Saguenay »;&lt;br&gt;
+i) l’article 1 de la partie 1 de l’annexe;&lt;br&gt;
+j) les articles 8 à 13 de la partie 1 de l’annexe;&lt;br&gt;
+k) l’article 16 de la partie 1 de l’annexe.  &lt;br&gt;
+TR/99-39&lt;br&gt;&lt;br&gt;
+Son Excellence le Gouverneur général en conseil fixe au 8 juin 1999 la date d’entrée en vigueur des dispositions suivantes de cette loi :&lt;br&gt;&lt;br&gt;
+a) à l’article 162, la mention « Administration portuaire de Toronto »;&lt;br&gt;
+b) à l’article 184, la mention « Administration portuaire de Toronto »;&lt;br&gt;
+c) à l’article 194, la mention « Administration portuaire de Toronto »;&lt;br&gt;
+d) les articles 204 et 204.1;&lt;br&gt;
+e) l’article 15 de la partie 1 de l’annexe.&lt;br&gt;&lt;br&gt;
+TR/99-55&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+Son Excellence le Gouverneur général en conseil fixe au 1 er juillet 1999 la date d’entrée en vigueur des dispositions suivantes de cette loi :&lt;br&gt;
+a) à l’article 162, les mentions :&lt;br&gt;
+(i) « Administration portuaire de Nanaïmo »,&lt;br&gt;
+(ii) « Administration portuaire de Port-Alberni »,&lt;br&gt;
+(iii) « Administration portuaire de Thunder Bay »,&lt;br&gt;
+(iv) « Administration portuaire du North-Fraser »;&lt;br&gt;
+b) à l’article 184, les mentions :&lt;br&gt;
+(i) « Administration portuaire de Nanaïmo »,&lt;br&gt;
+(ii) « Administration portuaire de Port-Alberni »,&lt;br&gt;
+(iii) « Administration portuaire de Thunder Bay »,&lt;br&gt;
+(iv) « Administration portuaire du North-Fraser »;&lt;br&gt;
+c) à l’article 194, les mentions :&lt;br&gt;
+(i) « Administration portuaire de Nanaïmo »,&lt;br&gt;
+(ii) « Administration portuaire de Port-Alberni »,&lt;br&gt;
+(iii) « Administration portuaire de Thunder Bay »,&lt;br&gt;
+(iv) « Administration portuaire du North-Fraser »;&lt;br&gt;
+d) les articles 5 à 7 de la partie 1 de l’annexe;&lt;br&gt;
+e) l’article 14 de la partie 1 de l’annexe.&lt;br&gt;
+&lt;br&gt;
+TR/99-62 &lt;br&gt;&lt;br&gt;&lt;br&gt;
+Son Excellence le Gouverneur général en conseil fixe au 1er juillet 1999 la date d’entrée en vigueur des dispositions suivantes de cette loi :&lt;br&gt;
+a) à l’article 162, la mention « Administration portuaire de Windsor »; &lt;br&gt;
+b) à l’article 184, la mention « Administration portuaire de Windsor »;&lt;br&gt;
+c) à l’article 194, la mention « Administration portuaire de Windsor »;&lt;br&gt;
+d) l’article 18 de la partie 1 de l’annexe. &lt;br&gt;
+&lt;br&gt;
+TR/99-63
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+Son Excellence la Gouverneure générale en conseil fixe au 1er novembre 2000 la date d’entrée en vigueur des dispositions suivantes de cette loi :&lt;br&gt;
+a) le paragraphe 65(3);&lt;br&gt;
+b) l’article 143;&lt;br&gt;
+c) le paragraphe 159(1);&lt;br&gt;
+d) à l’article 169, la mention « Société canadienne des ports »;&lt;br&gt;
+e) l’article 173;&lt;br&gt;
+f) l’article 177;&lt;br&gt;
+g) à l’article 180, la mention « Société canadienne des ports »;&lt;br&gt;
+h) l’article 183;&lt;br&gt;
+i) l’article 190;&lt;br&gt;
+j) l’article 197.&lt;br&gt;
+
+&lt;br&gt;&lt;br&gt;TR/2000-93
+
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+Son Excellence la Gouverneure générale en conseil fixe au 1 er mai 2001 la date d’entrée en vigueur des dispositions suivantes de cette loi :&lt;br&gt;&lt;br&gt;
+a) à l’article 162, la mention « Administration portuaire de Hamilton »;&lt;br&gt;
+b) à l’article 184, la mention « Administration portuaire de Hamilton »;&lt;br&gt;
+c) à l’article 194, la mention « Administration portuaire de Hamilton »;&lt;br&gt;
+d) les articles 198 à 200;&lt;br&gt;
+e)l’article 3 de la partie 1 de l’annexe.&lt;br&gt;
+&lt;br&gt;
+TR/2001-55&lt;/div&gt;</Title></Information></ComingIntoForce><LegisInfoNotes><Title language="en" /><Title language="fr" /></LegisInfoNotes><PrimeMinister id="2570"><Title language="en">Prime Minister</Title><Title language="fr">premier ministre</Title><Person id="468" Gender="M"><FullName>Jean Chrétien</FullName><FirstName>Jean</FirstName><MiddleName /><LastName>Chrétien</LastName></Person><PoliticalParty><Title language="en">Liberal</Title><Title language="fr">Libéral</Title><abbreviation><Title language="en">Lib.</Title><Title language="fr">Lib.</Title></abbreviation></PoliticalParty></PrimeMinister><Statute><Year>1998</Year><Chapter>10</Chapter></Statute><Publications><Publication id="2330067"><Title language="en">First Reading</Title><Title language="fr">Première lecture</Title><PublicationFiles><PublicationFile language="en" relativePath="/HousePublications/Publication.aspx?Mode=1&amp;DocId=2330067&amp;Language=E" /><PublicationFile language="fr" relativePath="/HousePublications/Publication.aspx?Mode=1&amp;DocId=2330067&amp;Language=F" /></PublicationFiles></Publication><Publication id="2330068"><Title language="en">As amended by committee</Title><Title language="fr">Tel que modifié par le comité</Title><PublicationFiles><PublicationFile language="en" relativePath="/HousePublications/Publication.aspx?Mode=1&amp;DocId=2330068&amp;Language=E" /><PublicationFile language="fr" relativePath="/HousePublications/Publication.aspx?Mode=1&amp;DocId=2330068&amp;Language=F" /></PublicationFiles></Publication><Publication id="2330069"><Title language="en">As passed by the House of Commons</Title><Title language="fr">Tel qu’adopté par la Chambre des communes</Title><PublicationFiles><PublicationFile language="en" relativePath="/HousePublications/Publication.aspx?Mode=1&amp;DocId=2330069&amp;Language=E" /><PublicationFile language="fr" relativePath="/HousePublications/Publication.aspx?Mode=1&amp;DocId=2330069&amp;Language=F" /></PublicationFiles></Publication><Publication id="2330070"><Title language="en">Royal Assent</Title><Title language="fr">Sanction royale</Title><PublicationFiles><PublicationFile language="en" relativePath="/HousePublications/Publication.aspx?Mode=1&amp;DocId=2330070&amp;Language=E" /><PublicationFile language="fr" relativePath="/HousePublications/Publication.aspx?Mode=1&amp;DocId=2330070&amp;Language=F" /></PublicationFiles></Publication></Publications></Bill>

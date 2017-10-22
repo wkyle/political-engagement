@@ -1,0 +1,1940 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+STATUTES OF CANADA 2015CHAPTER 9
+
+
+
+
+
+LOIS DU CANADA (2015)CHAPITRE 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canadian Security Intelligence Service Act and other Acts
+
+
+
+
+
+Loi modifiant la Loi sur le Service canadien du renseignement de sécurité et d’autres lois
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+23rd APRIL, 2015
+BILL C-44
+
+SANCTIONNÉE
+LE 23 AVRIL 2015
+PROJET DE LOI C-44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Canadian Security Intelligence Service Act to give greater protection to the Canadian Security Intelligence Service’s human sources. Also, so as to enable the Service to more effectively investigate threats to the security of Canada, the enactment clarifies the scope of the Service’s mandate and confirms the jurisdiction of the Federal Court to issue warrants that have effect outside Canada. In addition, it makes a consequential amendment to the Access to Information Act.
+The enactment also amends the Strengthening Canadian Citizenship Act to allow for the coming into force of provisions relating to the revocation of Canadian citizenship on a different day than the day on which certain other provisions of that Act come into force.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur le Service canadien du renseignement de sécurité afin d’accroître la protection des sources humaines du Service canadien du renseignement de sécurité. De plus, afin de permettre au Service d’améliorer l’efficacité des enquêtes qu’il mène sur les menaces envers la sécurité du Canada, le texte précise la portée du mandat du Service et confirme la compétence de la Cour fédérale de décerner des mandats dont la portée s’étend à l’extérieur du Canada. Il apporte aussi une modification corrélative à la Loi sur l’accès à l’information.
+Le texte modifie également la Loi renforçant la citoyenneté canadienne afin de permettre que la date d’entrée en vigueur des dispositions portant sur la révocation de la citoyenneté canadienne soit distincte de celle d’autres dispositions de cette loi.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+62-63-64 ELIZABETH II
+
+
+
+
+
+
+
+
+
+62-63-64 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 9
+
+
+
+
+
+
+
+
+
+CHAPITRE 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canadian Security Intelligence Service Act and other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le Service canadien du renseignement de sécurité et d’autres lois
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 23rd April, 2015]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 23 avril 2015]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Protection of Canada from Terrorists Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la protection du Canada contre les terroristes.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+R.S., c. C-23
+
+
+
+CANADIAN SECURITY INTELLIGENCE SERVICE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE SERVICE CANADIEN DU RENSEIGNEMENT DE SÉCURITÉ
+
+
+
+L.R., ch. C-23
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 2 of the Canadian Security Intelligence Service Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+2. L’article 2 de la Loi sur le Service canadien du renseignement de sécurité est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“human source”« source humaine »
+
+
+
+“human source” means an individual who, after having received a promise of confidentiality, has provided, provides or is likely to provide information to the Service;
+
+
+
+
+
+
+
+
+
+« source humaine » Personne physique qui a reçu une promesse d’anonymat et qui, par la suite, a fourni, fournit ou pourrait vraisemblablement fournir des informations au Service.
+
+
+
+« source humaine »“human source”
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 12 of the Act is renumbered as subsection 12(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+3. L’article 12 de la même loi devient le paragraphe 12(1) et est modifié par adjonction de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+No territorial limit
+
+
+
+(2) For greater certainty, the Service may perform its duties and functions under subsection (1) within or outside Canada.
+
+
+
+
+
+
+
+
+
+(2) Il est entendu que le Service peut exercer les fonctions que le paragraphe (1) lui confère même à l’extérieur du Canada.
+
+
+
+Aucune limite territoriale
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 15 of the Act is renumbered as subsection 15(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+4. L’article 15 de la même loi devient le paragraphe 15(1) et est modifié par adjonction de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+No territorial limit
+
+
+
+(2) For greater certainty, the Service may conduct the investigations referred to in subsection (1) within or outside Canada.
+
+
+
+
+
+
+
+
+
+(2) Il est entendu que le Service peut mener les enquêtes visées au paragraphe (1) même à l’extérieur du Canada.
+
+
+
+Aucune limite territoriale
+
+
+
+
+
+
+
+
+
+
+2001, c. 27, s. 224
+
+
+
+5. (1) Paragraph 16(1)(b) of the French version of the Act is replaced by the follow-ing:
+
+
+
+
+
+
+
+
+
+5. (1) L’alinéa 16(1)b) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 27, art. 224
+
+
+
+
+
+
+
+
+
+
+
+
+b) d’une personne qui n’appartient à aucune des catégories suivantes :
+
+
+
+
+
+
+(i) les citoyens canadiens,
+
+
+
+
+
+
+(ii) les résidents permanents au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés,
+
+
+
+
+
+
+(iii) les personnes morales constituées sous le régime d’une loi fédérale ou provinciale.
+
+
+
+
+
+
+
+
+
+b) d’une personne qui n’appartient à aucune des catégories suivantes :
+
+
+
+
+
+
+(i) les citoyens canadiens,
+
+
+
+
+
+
+(ii) les résidents permanents au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés,
+
+
+
+
+
+
+(iii) les personnes morales constituées sous le régime d’une loi fédérale ou provinciale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 16(3)(b) of the French version of the Act is replaced by the follow-ing:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 16(3)b) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) au consentement personnel écrit du ministre.
+
+
+
+
+
+
+
+
+
+b) au consentement personnel écrit du ministre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Subsection 18(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 18(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offence to disclose identity
+
+
+
+18. (1) Subject to subsection (2), no person shall knowingly disclose any information that they obtained or to which they had access in the course of the performance of their duties and functions under this Act or their participation in the administration or enforcement of this Act and from which could be inferred the identity of an employee who was, is or is likely to become engaged in covert operational activities of the Service or the identity of a person who was an employee engaged in such activities.
+
+
+
+
+
+
+
+
+
+18. (1) Sous réserve du paragraphe (2), nul ne peut sciemment communiquer des informations qu’il a acquises ou auxquelles il avait accès dans l’exercice des fonctions qui lui sont conférées en vertu de la présente loi ou lors de sa participation à l’exécution ou au contrôle d’application de cette loi et qui permettraient de découvrir l’identité d’un employé qui a participé, participe ou pourrait vraisemblablement participer à des activités opérationnelles cachées du Service ou l’identité d’une personne qui était un employé et a participé à de telles activités.
+
+
+
+Infraction — communication de l’identité
+
+
+
+
+
+
+
+
+
+
+
+
+7. The Act is amended by adding the following after section 18:
+
+
+
+
+
+
+
+
+
+7. La même loi est modifiée par adjonction, après l’article 18, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose of section — human sources
+
+
+
+18.1 (1) The purpose of this section is to ensure that the identity of human sources is kept confidential in order to protect their life and security and to encourage individuals to provide information to the Service.
+
+
+
+
+
+
+
+
+
+18.1 (1) Le présent article vise à préserver l’anonymat des sources humaines afin de protéger leur vie et leur sécurité et d’encourager les personnes physiques à fournir des informations au Service.
+
+
+
+Objet de l’article — sources humaines
+
+
+
+
+
+
+
+
+
+
+Prohibition on disclosure
+
+
+
+(2) Subject to subsections (3) and (8), no person shall, in a proceeding before a court, person or body with jurisdiction to compel the production of information, disclose the identity of a human source or any information from which the identity of a human source could be inferred.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve des paragraphes (3) et (8), dans une instance devant un tribunal, un organisme ou une personne qui ont le pouvoir de contraindre à la production d’informations, nul ne peut communiquer l’identité d’une source humaine ou toute information qui permettrait de découvrir cette identité.
+
+
+
+Interdiction de communication
+
+
+
+
+
+
+
+
+
+
+Exception — consent
+
+
+
+(3) The identity of a human source or information from which the identity of a human source could be inferred may be disclosed in a proceeding referred to in subsection (2) if the human source and the Director consent to the disclosure of that information.
+
+
+
+
+
+
+
+
+
+(3) L’identité d’une source humaine ou une information qui permettrait de découvrir cette identité peut être communiquée dans une instance visée au paragraphe (2) si la source humaine et le directeur y consentent.
+
+
+
+Exception — consentement
+
+
+
+
+
+
+
+
+
+
+Application to judge
+
+
+
+(4) A party to a proceeding referred to in subsection (2), an amicus curiae who is appointed in respect of the proceeding or a person who is appointed to act as a special advocate if the proceeding is under the Immigration and Refugee Protection Act may apply to a judge for one of the following orders if it is relevant to the proceeding:
+
+
+
+
+
+
+
+
+(a) an order declaring that an individual is not a human source or that information is not information from which the identity of a human source could be inferred; or
+
+
+
+
+
+
+
+
+(b) if the proceeding is a prosecution of an offence, an order declaring that the disclosure of the identity of a human source or information from which the identity of a human source could be inferred is essential to establish the accused’s innocence and that it may be disclosed in the proceeding.
+
+
+
+
+
+
+
+
+
+(4) La partie à une instance visée au paragraphe (2), l’amicus curiae nommé dans cette instance ou l’avocat spécial nommé sous le régime de la Loi sur l’immigration et la protection des réfugiés peut demander à un juge de déclarer, par ordonnance, si une telle déclaration est pertinente dans l’instance :
+
+
+
+Demande à un juge
+
+
+
+
+a) qu’une personne physique n’est pas une source humaine ou qu’une information ne permettrait pas de découvrir l’identité d’une source humaine;
+
+
+
+
+
+
+
+
+b) dans le cas où l’instance est une poursuite pour infraction, que la communication de l’identité d’une source humaine ou d’une information qui permettrait de découvrir cette identité est essentielle pour établir l’innocence de l’accusé et que cette communication peut être faite dans la poursuite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents and service of application
+
+
+
+(5) The application and the applicant’s affidavit deposing to the facts relied on in support of the application shall be filed in the Registry of the Federal Court. The applicant shall, without delay after the application and affidavit are filed, serve a copy of them on the Attorney General of Canada.
+
+
+
+
+
+
+
+
+
+(5) La demande et l’affidavit du demandeur portant sur les faits sur lesquels il fonde celle-ci sont déposés au greffe de la Cour fédérale. Sans délai après le dépôt, le demandeur signifie copie de la demande et de l’affidavit au procureur général du Canada.
+
+
+
+Contenu et signification de la demande
+
+
+
+
+
+
+
+
+
+
+Attorney General of Canada
+
+
+
+(6) Once served, the Attorney General of Canada is deemed to be a party to the application.
+
+
+
+
+
+
+
+
+
+(6) Le procureur général du Canada est réputé être partie à la demande dès que celle-ci lui est signifiée.
+
+
+
+Procureur général du Canada
+
+
+
+
+
+
+
+
+
+
+Hearing
+
+
+
+(7) The hearing of the application shall be held in private and in the absence of the applicant and their counsel, unless the judge orders otherwise.
+
+
+
+
+
+
+
+
+
+(7) La demande est entendue à huis clos et en l’absence du demandeur et de son avocat, sauf si le juge en ordonne autrement.
+
+
+
+Audition
+
+
+
+
+
+
+
+
+
+
+Order — disclosure to establish innocence
+
+
+
+(8) If the judge grants an application made under paragraph (4)(b), the judge may order the disclosure that the judge considers appropriate subject to any conditions that the judge specifies.
+
+
+
+
+
+
+
+
+
+(8) Si le juge accueille la demande présentée au titre de l’alinéa (4)b), il peut ordonner la communication qu’il estime indiquée sous réserve des conditions qu’il précise.
+
+
+
+Ordonnance de communication pour établir l’innocence
+
+
+
+
+
+
+
+
+
+
+Effective date of order
+
+
+
+(9) If the judge grants an application made under subsection (4), any order made by the judge does not take effect until the time provided to appeal the order has expired or, if the order is appealed and is confirmed, until either the time provided to appeal the judgement confirming the order has expired or all rights of appeal have been exhausted.
+
+
+
+
+
+
+
+
+
+(9) Si la demande présentée au titre du paragraphe (4) est accueillie, l’ordonnance prend effet après l’expiration du délai prévu pour en appeler ou, en cas d’appel, après sa confirmation et l’épuisement des recours en appel.
+
+
+
+Prise d’effet de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+Confidentiality
+
+
+
+(10) The judge shall ensure the confidentiality of the following:
+
+
+
+
+
+
+
+
+(a) the identity of any human source and any information from which the identity of a human source could be inferred; and
+
+
+
+
+
+
+
+
+(b) information and other evidence provided in respect of the application if, in the judge’s opinion, its disclosure would be injurious to national security or endanger the safety of any person.
+
+
+
+
+
+
+
+
+
+(10) Il incombe au juge de garantir la confidentialité :
+
+
+
+Confidentialité
+
+
+
+
+a) d’une part, de l’identité de toute source humaine ainsi que de toute information qui permettrait de découvrir cette identité;
+
+
+
+
+
+
+
+
+b) d’autre part, des informations et autres éléments de preuve qui lui sont fournis dans le cadre de la demande et dont la communication porterait atteinte, selon lui, à la sécurité nationale ou à la sécurité d’autrui.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confidentiality on appeal
+
+
+
+(11) In the case of an appeal, subsection (10) applies, with any necessary modifications, to the court to which the appeal is taken.
+
+
+
+
+
+
+
+
+
+(11) En cas d’appel, le paragraphe (10) s’applique, avec les adaptations nécessaires, aux tribunaux d’appel.
+
+
+
+Confidentialité en appel
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) Subsection 21(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+8. (1) Le paragraphe 21(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application for warrant
+
+
+
+21. (1) If the Director or any employee designated by the Minister for the purpose believes, on reasonable grounds, that a warrant under this section is required to enable the Service to investigate, within or outside Canada, a threat to the security of Canada or to perform its duties and functions under section 16, the Director or employee may, after having obtained the Minister’s approval, make an application in accordance with subsection (2) to a judge for a warrant under this section.
+
+
+
+
+
+
+
+
+
+21. (1) Le directeur ou un employé désigné à cette fin par le ministre peut, après avoir obtenu l’approbation du ministre, demander à un juge de décerner un mandat en conformité avec le présent article s’il a des motifs raisonnables de croire que le mandat est nécessaire pour permettre au Service de faire enquête, au Canada ou à l’extérieur du Canada, sur des menaces envers la sécurité du Canada ou d’exercer les fonctions qui lui sont conférées en vertu de l’article 16.
+
+
+
+Demande de mandat
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 21 of the Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+(2) L’article 21 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Activities outside Canada
+
+
+
+(3.1) Without regard to any other law, including that of any foreign state, a judge may, in a warrant issued under subsection (3), authorize activities outside Canada to enable the Service to investigate a threat to the security of Canada.
+
+
+
+
+
+
+
+
+
+(3.1) Sans égard à toute autre règle de droit, notamment le droit de tout État étranger, le juge peut autoriser l’exercice à l’extérieur du Canada des activités autorisées par le mandat décerné, en vertu du paragraphe (3), pour permettre au Service de faire enquête sur des menaces envers la sécurité du Canada.
+
+
+
+Activités à l’extérieur du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+9. The portion of subsection 39(2) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+9. Le passage du paragraphe 39(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Access to information
+
+
+
+(2) Despite subsection 18.1(2), any other Act of Parliament or any privilege under the law of evidence, but subject to subsection (3), the Review Committee is entitled
+
+
+
+
+
+
+
+
+
+(2) Malgré le paragraphe 18.1(2), toute autre loi fédérale ou toute immunité reconnue par le droit de la preuve, mais sous réserve du paragraphe (3), le comité de surveillance :
+
+
+
+Accès aux informations
+
+
+
+
+
+
+
+
+2014, c. 22
+
+
+
+STRENGTHENING CANADIAN CITIZENSHIP ACT
+
+
+
+
+
+
+
+
+
+LOI RENFORÇANT LA CITOYENNETÉ CANADIENNE
+
+
+
+2014, ch. 22
+
+
+
+
+
+
+
+
+
+
+
+
+10. Subsection 24(5) of the Strengthening Canadian Citizenship Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+10. Le paragraphe 24(5) de la Loi renforçant la citoyenneté canadienne est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+2008, c. 14, s. 12(5)
+
+
+
+(5) Paragraphs 27(i) to (j.1) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Les alinéas 27i) à j.1) de la même loi sont remplacés par ce qui suit :
+
+
+
+2008, ch. 14, par. 12(5)
+
+
+
+
+
+
+
+
+
+
+
+
+(i) providing for the number of copies of any declaration, certificate, or other document made, issued or provided under this Act or prior legislation that any person is entitled to have;
+
+
+
+
+
+
+(i.1) respecting the provision under paragraph 12(1)(b) or (2)(b) of a means of establishing citizenship other than a certificate of citizenship;
+
+
+
+
+
+
+(j) providing for the surrender and retention of certificates of citizenship, certificates of naturalization and certificates of renunciation issued or granted under this Act or prior legislation and of documents provided under paragraph 12(1)(b) or (2)(b) if there is reason to believe that their holder may not be entitled to them or has contravened any of the provisions of this Act;
+
+
+
+
+
+
+(j.1) providing for the renunciation of citizenship by persons
+
+
+
+
+
+
+(i) who are citizens under paragraph 3(1)(f) or (g),
+
+
+
+
+
+
+(ii) who are citizens under any of paragraphs 3(1)(k) to (r) and who did not, before the coming into force of this subparagraph, become citizens by way of grant as defined in subsection 3(9), or
+
+
+
+
+
+
+(iii) who are citizens under paragraph 3(1)(b) for the sole reason that one or both parents are persons referred to in any of paragraphs 3(1)(k) to (n) and who did not, before the coming into force of this subparagraph, become citizens by way of grant as defined in subsection 3(9);
+
+
+
+
+
+
+
+
+
+i) préciser le nombre de copies de déclarations, certificats ou autres documents établis, délivrés ou fournis en vertu de la présente loi ou de la législation antérieure qu’une personne a le droit d’avoir;
+
+
+
+
+
+
+i.1) régir la fourniture, en application des alinéas 12(1)b) ou (2)b), des moyens de prouver la qualité de citoyen autres que les certificats de citoyenneté;
+
+
+
+
+
+
+j) régir la restitution et la rétention des certificats de citoyenneté, de naturalisation ou de répudiation délivrés en vertu de la présente loi ou de la législation antérieure ou des documents fournis en application des alinéas 12(1)b) ou (2)b), lorsqu’il y a des raisons de croire que leur titulaire n’y a peut-être pas droit ou a enfreint la présente loi;
+
+
+
+
+
+
+j.1) régir la répudiation de la citoyenneté de quiconque :
+
+
+
+
+
+
+(i) a qualité de citoyen au titre des alinéas 3(1)f) ou g),
+
+
+
+
+
+
+(ii) a qualité de citoyen au titre des alinéas 3(1)k) à r) et n’a pas obtenu, avant l’entrée en vigueur du présent sous-alinéa, la citoyenneté par attribution au sens du paragraphe 3(9),
+
+
+
+
+
+
+(iii) a qualité de citoyen en vertu de l’alinéa 3(1)b) pour la seule raison que son père ou sa mère ou ses deux parents sont visés à l’un des alinéas 3(1)k) à n) et n’a pas obtenu, avant l’entrée en vigueur du présent sous-alinéa, la citoyenneté par attribution au sens du paragraphe 3(9);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5.1) Section 27 of the Act is amended by adding the following after paragraph (j.1):
+
+
+
+
+
+
+
+
+
+(5.1) L’article 27 de la même loi est modifié par adjonction, après l’alinéa j.1) de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(j.2) prescribing the factors that the Minister shall consider in forming an opinion as to whether a hearing is required under subsection 10(4);
+
+
+
+
+
+
+
+
+
+j.2) établir les facteurs dont le ministre doit tenir compte pour fonder sa décision quant à la nécessité de la tenue d’une audience visée au paragraphe 10(4);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5.2) Paragraph 27(k) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5.2) L’alinéa 27k) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(k) providing for the surrender and cancellation of certificates and documents referred to in paragraph (j) if their holder is not entitled to them;
+
+
+
+
+
+
+(k.1) providing for the collection, retention, use, disclosure and disposal of information for the purposes of this Act;
+
+
+
+
+
+
+(k.2) providing for the disclosure of information for the purposes of national security, the defence of Canada or the conduct of international affairs, including the implementation of an agreement or arrangement entered into under section 5 of the Department of Citizenship and Immigration Act;
+
+
+
+
+
+
+(k.3) providing for the disclosure of information to verify the citizenship status or identity of any person for the purposes of administering any federal or provincial law or law of another country;
+
+
+
+
+
+
+(k.4) providing for the disclosure of information for the purposes of cooperation within the Government of Canada and between the Government of Canada and the government of a province;
+
+
+
+
+
+
+(k.5) respecting the disclosure of information relating to the professional or ethical conduct of a person referred to in any of paragraphs 21.1(2)(a) to (c) in connection with a proceeding — other than a proceeding before a superior court — or application under this Act to a body that is responsible for governing or investigating that conduct or to a person who is responsible for investigating that conduct, for the purposes of ensuring that persons referred to in those paragraphs offer and provide professional and ethical representation and advice to persons in connection with such proceedings and applications; and
+
+
+
+
+
+
+
+
+
+k) régir la restitution et l’annulation des certificats ou des documents mentionnés à l’alinéa j), lorsque leur titulaire n’y a pas droit;
+
+
+
+
+
+
+k.1) prévoir la collecte, la conservation, l’utilisation, la communication et la destruction de renseignements pour l’application de la présente loi;
+
+
+
+
+
+
+k.2) prévoir la communication de renseignements aux fins de sécurité nationale, de défense du Canada, de conduite des affaires internationales, y compris la mise en oeuvre d’accords ou d’ententes conclus au titre de l’article 5 de la Loi sur le ministère de la Citoyenneté et de l’Immigration;
+
+
+
+
+
+
+k.3) prévoir la communication de renseignements aux fins de vérification du statut de citoyenneté et de l’identité d’une personne dans le cadre de l’administration de toute loi fédérale, provinciale ou étrangère;
+
+
+
+
+
+
+k.4) prévoir la communication de renseignements aux fins de coopération au sein de l’administration publique fédérale et entre l’administration publique fédérale et celle d’une province;
+
+
+
+
+
+
+k.5) régir la communication de renseignements relatifs à la conduite, sur le plan professionnel ou de l’éthique, d’une personne visée à l’un des alinéas 21.1(2)a) à c) relativement à une demande ou à une instance prévue par la présente loi — à l’exception d’une instance devant une cour supérieure— à l’organisme qui régit la conduite de cette personne ou à l’organisme ou à la personne qui enquête sur cette conduite, et ce en vue de veiller à ce que la personne visée à l’un ou l’autre de ces alinéas représente ou conseille des personnes, ou offre de le faire, en conformité avec les règles de sa profession et les règles d’éthique relativement à une telle demande ou instance;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. (1) Section 31 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+11. (1) L’article 31 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+(2.1) On the day on which section 8 comes into force, the reference to section 11 in subsection (1) is replaced by a reference to that section 8.
+
+
+
+
+
+
+
+
+
+(2.1) À la date d’entrée en vigueur de l’article 8, le renvoi à l’article 11 visé au paragraphe (1) est remplacé par un renvoi à cet article 8.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 31(3)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 31(3)a) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the reference to section 8 in subsection (1) is replaced by a reference to that subsection 2(2); and
+
+
+
+
+
+
+
+
+
+a) le renvoi à l’article 8 visé au paragraphe (1) est remplacé par un renvoi à ce paragraphe 2(2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Subsection 46(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+12. Le paragraphe 46(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+(2) Subsections 2(2), (3), (5), (6), (8), (11), (15) and (17) to (19), 3(1), (2), (4) to (6) and (8) and 4(2), (3), (5), (6), (8), (10) and (11), section 6, subsections 9(2) and (4), section 10, subsection 12(2), section 15, subsections 16(1) and (3), sections 17 and 18, subsections 19(1) and (3), section 23, subsections 24(2) to (5), (5.2) and (6) and sections 25 and 28 to 30 come into force on a day to be fixed by order of the Governor in Council that is made not earlier than one day after the day on which an order is made under subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 2(2), (3), (5), (6), (8), (11), (15) et (17) à (19), 3(1), (2), (4) à (6) et (8) et 4(2), (3), (5), (6), (8), (10) et (11), l’article 6, les paragraphes 9(2) et (4), l’article 10, le paragraphe 12(2), l’article 15, les paragraphes 16(1) et (3), les articles 17 et 18, les paragraphes 19(1) et (3), l’article 23, les paragraphes 24(2) à (5), (5.2) et (6) et les articles 25 et 28 à 30 entrent en vigueur à la date fixée par décret, lequel peut être pris au plus tôt le jour suivant la date de prise du décret visé au paragraphe (1).
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+(2.1) Subsections 7(1) and (2), section 8, subsection 9(1), section 14, subsection 19(2), section 21, subsection 24(5.1) and sections 42 and 43 come into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(2.1) Les paragraphes 7(1) et (2), l’article 8, le paragraphe 9(1), l’article 14, le paragraphe 19(2), l’article 21, le paragraphe 24(5.1) et les articles 42 et 43 entrent en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+R.S., c. A-1
+
+
+
+CONSEQUENTIAL AMENDMENT TO THE ACCESS TO INFORMATION ACT
+
+
+
+
+
+
+
+
+
+MODIFICATION CORRÉLATIVE À LA LOI SUR L’ACCÈS À L’INFORMATION
+
+
+
+L.R., ch. A-1
+
+
+
+
+
+
+
+
+
+
+
+
+13. Schedule II to the Access to Information Act is amended by replacing the reference to “section 18” opposite the reference to “Canadian Security Intelligence Service Act” with a reference to “sections 18 and 18.1”.
+
+
+
+
+
+
+
+
+
+13. L’annexe II de la Loi sur l’accès à l’information est modifiée par remplacement de la mention « article 18 », figurant en regard de la mention « Loi sur le Service canadien du renseignement de sécurité », par « articles 18 et 18.1 ».
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

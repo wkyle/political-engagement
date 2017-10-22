@@ -1,0 +1,1302 @@
+
+
+
+
+
+
+C-4
+
+
+
+
+
+C-4
+
+
+
+
+
+
+Second Session, Thirty-ninth Parliament,
+
+
+
+
+
+Deuxième session, trente-neuvième législature,
+
+
+
+
+
+
+56 Elizabeth II, 2007
+
+
+
+
+
+56 Elizabeth II, 2007
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-4
+
+
+
+
+
+PROJET DE LOI C-4
+
+
+
+
+
+
+An Act to amend the Pilotage Act
+
+
+
+
+
+Loi modifiant la Loi sur le pilotage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, October 26, 2007
+
+
+
+
+
+première lecture le 26 octobre 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE MINISTER OF TRANSPORT, INFRASTRUCTURE AND COMMUNITIES
+
+90425
+
+
+
+LE MINISTRE DES TRANSPORTS, DE L’INFRASTRUCTURE ET DES COLLECTIVITÉS
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Pilotage Act to give pilotage authorities flexibility in the manner of engaging the services of pilots, to provide the Minister of Transport, Infrastructure and Communities with the authority to choose a commercial arbitrator to resolve disputes between pilotage authorities and corporations providing pilotage services and to make an authority’s corporate plan and its objects considerations in the final offer selection process and in decisions of the Canadian Transportation Agency concerning pilotage tariffs.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur le pilotage en vue de laisser aux administrations de pilotage une latitude dans la manière d’engager les services de pilotes, de prévoir que le ministre peut choisir un arbitre commercial afin de résoudre les différends entre les administrations de pilotage et les corporations de pilotes et de faire du plan d’entreprise et de la mission d’une administration de pilotage des éléments à considérer dans le processus de sélection d’une offre finale et dans les décisions de l’Office des transports du Canada relatives aux tarifs de pilotage.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56 Elizabeth II, 2007
+
+
+
+
+
+
+
+
+
+56 Elizabeth II, 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-4
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Pilotage Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le pilotage
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. P-14
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. P-14
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 15 of the Pilotage Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. L’article 15 de la Loi sur le pilotage est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Employment and contracts
+
+
+
+
+15. An Authority may, as it considers necessary for the proper conduct of its work,
+
+
+
+
+
+
+
+
+
+
+
+(a) employ any officers and employees, including licensed pilots and apprentice pilots; and
+
+
+
+
+
+
+
+
+
+
+
+(b) enter into a contract with a body corporate for the provision of services of licensed pilots and the training of apprentice pilots.
+
+
+
+
+
+
+
+
+
+
+15. Toute Administration peut, si elle l’estime nécessaire à l’exercice de ses activités :
+
+
+
+Personnel et contrats
+
+
+
+
+
+
+a
+) employer du personnel, notamment des pilotes brevetés et des apprentis-pilotes;
+
+
+
+
+
+
+
+
+
+
+
+
+b
+) conclure avec une personne morale un contrat de louage de services pour les services de pilotes brevetés et la formation d’apprentis-pilotes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1998, c. 10, s. 148
+
+
+
+
+2. Subsections 15.1(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Les paragraphes 15.1(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+1998, ch. 10, art. 148
+
+
+
+
+
+
+
+
+
+
+Renewal of contract
+
+
+
+
+15.1 (1) If a contract referred to in paragraph 15(b) does not provide a mechanism for the resolution of disputes in the contract renewal process, at least 50 days before the contract expires, the parties to the contract shall jointly choose a mediator and an arbitrator and shall refer to the mediator all issues related to the renewal of the contract that remain unresolved.
+
+
+
+
+
+
+
+
+
+
+15.1 (1) Au moins cinquante jours avant l’expiration d’un contrat visé à l’alinéa 15b) qui ne comporte aucun mécanisme de règlement des différends dans son processus de renouvellement, les parties au contrat sont tenues de choisir d’un commun accord un médiateur et un arbitre, et de soumettre au médiateur toutes les questions liées au renouvellement du contrat qui demeurent en litige.
+
+
+
+Renouvellement du contrat
+
+
+
+
+
+
+
+
+
+
+No agreement
+
+
+
+(2) The Minister shall choose a mediator or commercial arbitrator if the parties cannot agree on a mediator or arbitrator or if the one they choose is unavailable.
+
+
+
+
+
+
+
+
+
+(2) Le ministre désigne un médiateur ou un arbitre commercial lorsque les parties ne peuvent s’entendre sur leur choix ou lorsque le médiateur ou l’arbitre qu’elles ont choisi n’est pas disponible.
+
+
+
+Absence d’accord
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 15.2 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+
+3. L’article 15.2 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Factors to be considered
+
+
+
+
+(1.1) The arbitrator shall, before making a choice under subsection (2), take into account the objects of the Authority under section 18 and the summary of the Authority’s corporate plan referred to in subsection 125(4) of the Financial Administration Act.
+
+
+
+
+
+
+
+
+
+
+
+(1.1) Avant de faire un choix en vertu du paragraphe (2), l’arbitre prend en compte la mission de l’Administration visée à l’article 18 et le résumé du plan d’entreprise de celle-ci visé au paragraphe 125(4) de la Loi sur la gestion des finances publiques.
+
+
+
+
+Facteurs dont il faut tenir compte
+
+
+
+
+
+
+
+
+
+
+1998, c. 10, s. 148
+
+
+
+
+4. Section 15.3 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. L’article 15.3 de la même loi est remplacé par ce qui suit :
+
+
+
+1998, ch. 10, art. 148
+
+
+
+
+
+
+
+
+
+
+Continuation of services
+
+
+
+
+15.3 A body corporate with which an Authority has entered into a contract under paragraph 15(b) and the members and shareholders of the body corporate are prohibited from refusing to provide pilotage services while the contract is in effect or a renewal is being negotiated.
+
+
+
+
+
+
+
+
+
+
+15.3 Il est interdit à la personne morale qui a conclu un contrat en vertu de l’alinéa 15b) de même qu’à ses membres ou actionnaires de refuser de fournir des services de pilotage pendant la durée de validité du contrat ou au cours des négociations en vue du renouvellement du contrat.
+
+
+
+Maintien des activités
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Section 18 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. L’article 18 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Objects
+
+
+
+
+18. The objects of an Authority are to establish, operate, maintain and administer in the interests of safety an efficient and financially self-sustaining pilotage service within the region set out in respect of the Authority in the schedule.
+
+
+
+
+
+
+
+
+
+
+18. Une Administration a pour mission de mettre sur pied, de faire fonctionner, d’entretenir et de gérer, pour la sécurité de la navigation, un service de pilotage efficace et financièrement autonome dans la région décrite à l’annexe au regard de cette Administration.
+
+
+
+Mission
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) Subsection 21(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. (1) Le paragraphe 21(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Investigation
+
+
+
+(2) If a notice of objection is filed under subsection (1) and the Minister is of the opinion that the matter warrants investigation, the Minister may
+
+
+
+
+
+
+
+
+
+
+
+(a) investigate the proposed regulation; or
+
+
+
+
+
+
+
+
+
+
+
+(b) appoint a person to investigate the proposed regulation and provide a report to the Minister.
+
+
+
+
+
+
+
+
+
+
+
+(2) En cas de dépôt d’un avis d’opposition, le ministre peut, s’il est d’avis que l’affaire justifie une enquête, selon le cas :
+
+
+
+
+Enquête
+
+
+
+
+
+
+a) enquêter sur le projet;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) nommer une personne pour enquêter sur le projet et lui présenter un rapport.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 21(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 21(4) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(4) After conducting an investigation or receiving a report, the Minister may, by order, approve, amend or disapprove the proposed regulation, and the Authority shall make the regulation accordingly.
+
+
+
+
+
+
+
+
+
+(4) Après la tenue de l’enquête ou la réception d’un rapport, le ministre peut, par arrêté, approuver, modifier ou rejeter le projet; l’Administration prend alors le règlement général en conséquence.
+
+
+
+Arrêté du ministre
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Subsection 30(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. Le paragraphe 30(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Pilot ceasing to be employed or to belong to pilots’ corporation
+
+
+
+
+30. (1) A pilot’s licence is valid only if the pilot
+
+
+
+
+
+
+
+
+
+
+(a) is employed by an Authority as a pilot; or
+
+
+
+
+
+
+
+
+
+
+(b) is a member or shareholder of a body corporate with which an Authority entered into a contract under paragraph 15(b) and is an active pilot.
+
+
+
+
+
+
+
+
+
+
+30. (1) Le brevet d’un pilote n’est valide que lorsque celui-ci est :
+
+
+
+Perte de qualité
+
+
+
+
+
+a) soit membre du personnel d’une Administration en sa qualité de pilote;
+
+
+
+
+
+
+
+
+
+
+
+b) soit membre ou actionnaire d’une personne morale qui a conclu un contrat en vertu de l’alinéa 15b) en sa qualité de pilote.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Section 35 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+
+8. L’article 35 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Factors to be considered
+
+
+
+
+(1.1) The Agency shall, before making a recommendation under subsection (1), take into account the objects of the Authority under section 18 and the summary of the Authority’s corporate plan referred to in subsection 125(4) of the Financial Administration Act.
+
+
+
+
+
+
+
+
+
+
+
+(1.1) Avant de faire sa recommandation, l’Office prend en compte la mission de l’Administration visée à l’article 18 et le résumé du plan d’entreprise de celle-ci visé au paragraphe 125(4) de la Loi sur la gestion des finances publiques.
+
+
+
+
+Facteurs dont il faut tenir compte
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Subsection 40(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. Le paragraphe 40(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation of liability — body corporate
+
+
+
+(2) If a body corporate contracts with an Authority under paragraph 15(b) for the services of a licensed pilot, the body corporate is not liable in damages in excess of the amount of $1,000 for any damage or loss occasioned by the fault, neglect or want of skill of the pilot.
+
+
+
+
+
+
+
+
+
+(2) Le montant maximal des dommages-intérêts qu’une personne morale qui conclut avec une Administration un contrat de louage de services pour les services d’un pilote breveté en application de l’alinéa 15b) est tenue de payer pour les dommages ou pertes causés par la faute, la négligence ou l’impéritie du pilote est de mille dollars.
+
+
+
+Limite de responsabilité : personne morale
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Pilotage Act
+
+Clause 1: Existing text of section 15:
+
+15. (1) Subject to subsection (2), an Authority may employ such officers and employees, including licensed pilots and apprentice pilots, as are necessary for the proper conduct of the work of the Authority.
+(2) Where a majority of licensed pilots within the region, or any part thereof, set out in respect of an Authority in the schedule who form or are members or shareholders of a body corporate elect not to become employees of the Authority, the Authority may contract with that body corporate for the services of licensed pilots and the training of apprentice pilots in the region or part thereof where the contract is to be effective, and the Authority shall not employ pilots or apprentice pilots in the region or that part thereof where such a contract is in effect.
+(3) Any body corporate that contracts, pursuant to subsection (2), with an Authority shall permit a licensed pilot or apprentice pilot in the region or part thereof to which the contract relates who is not a member or shareholder of that body corporate to become a member or shareholder on the same terms and conditions as the licensed pilots and apprentice pilots who formed or are members or shareholders of that body corporate.
+
+
+
+Loi sur le pilotage
+
+Article 1 : Texte de l’article 15 :
+
+15. (1) Sous réserve du paragraphe (2), une Administration peut employer le personnel, notamment les pilotes brevetés et les apprentis-pilotes, qu’elle estime nécessaire à l’exercice de ses activités.
+(2) Lorsque la majorité des pilotes brevetés de la région — ou d’une partie de la région — décrite à l’annexe au regard d’une Administration donnée forment une personne morale ou en sont membres ou actionnaires et choisissent de ne pas devenir membres du personnel de l’Administration, celle-ci peut conclure avec la personne morale un contrat de louage de services pour les services de pilotes brevetés et la formation d’apprentis-pilotes dans la région — ou partie de région — visée par le contrat; l’Administration ne peut alors engager de pilotes ou d’apprentis-pilotes dans la région — ou partie de région — en cause.
+(3) La personne morale qui passe un contrat avec une Administration en application du paragraphe (2) doit permettre aux pilotes brevetés ou apprentis-pilotes de la région — ou partie de région — visée par le contrat qui ne sont pas membres ou actionnaires de cette personne morale de le devenir selon les mêmes modalités que les pilotes brevetés et apprentis-pilotes qui l’ont formée ou en sont membres ou actionnaires.
+
+
+
+
+
+Clause 2: Existing text of subsections 15.1(1) and (2):
+
+15.1 (1) Where a contract for services referred to in subsection 15(2) does not provide a mechanism for the resolution of disputes in the contract renewal process, fifty days before the contract expires, the parties to the contract shall jointly choose a mediator and an arbitrator and shall refer to the mediator all issues related to the renewal of the contract that remain unresolved.
+(2) The Minister shall choose the mediator or arbitrator if the parties cannot agree on one or if the one they choose is unavailable.
+
+
+
+
+Article 2 : Texte des paragraphes 15.1(1) et (2) :
+
+15.1 (1) Cinquante jours avant l’expiration d’un contrat de louage de services mentionné au paragraphe 15(2) qui ne comporte aucune disposition sur le règlement des différends à survenir au cours des négociations en vue de son renouvellement, les parties au contrat sont tenues de choisir d’un commun accord un médiateur et un arbitre, et de soumettre au médiateur toutes les questions liées au renouvellement du contrat qui demeurent en litige.
+(2) Le ministre désigne un médiateur ou un arbitre lorsque les parties ne peuvent s’entendre sur leur choix ou lorsque le médiateur ou l’arbitre qu’elles ont choisi n’est pas disponible.
+
+
+
+
+
+Clause 3: New.
+
+
+
+
+Article 3 : Nouveau.
+
+
+
+
+
+Clause 4: Existing text of section 15.3:
+
+15.3 A body corporate with which an Authority has contracted for services under subsection 15(2) and the members and shareholders of the body corporate are prohibited from refusing to provide pilotage services while a contract for services is in effect or being negotiated.
+
+
+
+
+Article 4 : Texte de l’article 15.3 :
+
+15.3 Il est interdit à la personne morale qui a conclu un contrat de louage de services en vertu du paragraphe 15(2) de même qu’à ses membres ou actionnaires de refuser de fournir des services de pilotage pendant la durée de validité d’un contrat ou au cours des négociations en vue du renouvellement d’un contrat.
+
+
+
+
+
+Clause 5: Existing text of section 18:
+
+18. The objects of an Authority are to establish, operate, maintain and administer in the interests of safety an efficient pilotage service within the region set out in respect of the Authority in the schedule.
+
+
+
+
+Article 5 : Texte de l’article 18 :
+
+18. Une Administration a pour mission de mettre sur pied, de faire fonctionner, d’entretenir et de gérer, pour la sécurité de la navigation, un service de pilotage efficace dans la région décrite à l’annexe au regard de cette Administration.
+
+
+
+
+
+Clause 6: (1) Existing text of subsection 21(2):
+(2) Where a notice of objection is filed pursuant to subsection (1), the Minister shall appoint a person to make such investigation of the proposed regulation, including the holding of public hearings, as in the opinion of the Minister is necessary or desirable in the public interest.
+
+
+
+
+Article 6 : (1) Texte du paragraphe 21(2) :
+(2) En cas de dépôt d’un avis d’opposition en application du paragraphe (1), le ministre nomme une personne pour faire, relativement au projet de règlement général, l’enquête qu’il estime nécessaire ou souhaitable dans l’intérêt public, notamment par la tenue d’audiences publiques.
+
+
+
+
+(2) Existing text of subsection 21(4):
+(4) On completion of a hearing under this section, the person holding the hearing shall send a report to the Minister, who may, by order, approve, amend or disapprove the proposed regulation, either in accordance with the report or otherwise, and the Authority shall make the regulation accordingly.
+
+
+
+(2) Texte du paragraphe 21(4) :
+(4) À l’issue des audiences prévues par le présent article, la personne chargée de les tenir fait parvenir son rapport au ministre qui peut, par arrêté, approuver, modifier ou rejeter le projet de règlement général, conformément au rapport ou non; l’Administration prend alors le règlement général en conséquence.
+
+
+
+
+
+Clause 7: Existing text of subsection 30(1):
+
+30. (1) When a licensed pilot
+(a) who is an employee of an Authority ceases to be employed as a licensed pilot, or
+(b) who is a member or shareholder of a body corporate referred to in subsection 15(2) ceases to be a member or shareholder of the body corporate,
+the licence ceases to be valid.
+
+
+
+
+Article 7 : Texte du paragraphe 30(1) :
+
+30. (1) Un brevet cesse d’être valide lorsqu’un pilote breveté :
+
+a) étant membre du personnel d’une Administration cesse de l’être en cette qualité;
+
+b) qui est membre ou actionnaire d’une personne morale visée au paragraphe 15(2) cesse de l’être.
+
+
+
+
+
+Clause 8: New.
+
+
+
+
+Article 8 : Nouveau.
+
+
+
+
+
+Clause 9: Existing text of subsection 40(2):
+(2) Where a body corporate contracts with an Authority pursuant to subsection 15(2) for the services of a licensed pilot, the body corporate is not liable in damages in excess of the amount of one thousand dollars for any damage or loss occasioned by the fault, neglect or want of skill of the pilot.
+
+
+
+
+Article 9 : Texte du paragraphe 40(2) :
+(2) Le montant maximal des dommages-intérêts qu’une personne morale qui conclut avec une Administration un contrat de louage de services pour les services d’un pilote breveté en application du paragraphe 15(2) est tenue de payer pour les dommages ou pertes causés par la faute, la négligence ou l’impéritie du pilote est de mille dollars.
+
+
+
+
+
+

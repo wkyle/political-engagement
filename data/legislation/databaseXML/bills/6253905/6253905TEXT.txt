@@ -1,0 +1,1261 @@
+
+
+
+
+
+
+C-436
+
+
+
+
+
+C-436
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-436
+
+
+
+
+
+PROJET DE LOI C-436
+
+
+
+
+
+
+An Act to develop and provide for the publication of indicators to inform Canadians about the health and well-being of people, communities and ecosystems in Canada
+
+
+
+
+
+Loi visant l'élaboration et la publication d'indicateurs destinés à informer les Canadiens sur la santé et le bien-être de la population, des collectivités et des écosystèmes du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 19, 2012
+
+
+
+
+
+première lecture le 19 juin 2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+2nd Session, 41st Parliament
+
+This bill was introduced during the First Session of the 41st Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+2e session, 41e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 41e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+
+Ms. May
+
+
+411552
+
+
+
+
+Mme May
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment requires the Standing Committee established by the House of Commons to consider matters related to the environment and sustainable development to study the development and publication of a set of indicators to measure the well-being of people, communities and ecosystems in Canada and make its recommendations to the House.
+On adoption of the Committee’s report, the set of indicators will be published by Statistics Canada, in consultation with the Commissioner for the Environment and Sustainable Development.
+
+
+
+SOMMAIRE
+Le texte oblige le Comité permanent établi par la Chambre des communes pour étudier les questions liées à l’environnement et au développement durable à étudier l’élaboration et la publication d’un ensemble d’indicateurs servant à mesurer le bien-être de la population, des collectivités et des écosystèmes du Canada, et à présenter à la Chambre des recommandations à cet égard.
+Dès l’adoption du rapport du Comité, l’ensemble d’indicateurs sera publié par Statistique Canada en consultation avec le commissaire à l’environnement et au développement durable.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-436
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-436
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to develop and provide for the publication of indicators to inform Canadians about the health and well-being of people, communities and ecosystems in Canada
+
+
+
+
+
+
+Whereas promoting the well-being of Canadians is of the first importance in the work of Parliament;
+
+
+
+
+
+
+Whereas the citizens of Canada, including members of Parliament, are better able to promote and enhance the well-being of the nation if they are well informed about the state of well-being of people, communities and ecosystems in Canada;
+
+
+
+
+
+
+And whereas such information would provide a meaningful understanding of genuine progress;
+
+
+
+
+
+
+
+
+
+Loi visant l'élaboration et la publication d'indicateurs destinés à informer les Canadiens sur la santé et le bien-être de la population, des collectivités et des écosystèmes du Canada
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que la promotion du bien-être des Canadiens revêt une importance première dans le travail du Parlement;
+
+
+
+
+
+
+que les citoyens du Canada, notamment les sénateurs et députés fédéraux, sont plus en mesure de promouvoir et d’améliorer le bien-être de la nation s’ils sont bien informés sur le niveau de bien-être de la population, des collectivités et des écosystèmes du Canada;
+
+
+
+
+
+
+que ce type d'information permettrait de bien comprendre le progrès réel,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short Title
+
+
+
+
+1. This Act may be cited as the Canada Genuine Progress Measurement Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la mesure du progrès réel au Canada.
+
+
+
+Titre abrégé 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“Commissioner”« commissaire »
+
+
+
+“Commissioner” means the Commissioner of the Environment and Sustainable Development appointed under subsection 15.1(1) of the Auditor General Act.
+
+
+
+
+“Standing Committee”« Comité permanent »
+
+
+
+“Standing Committee” means the standing committee established by the House of Commons to consider matters related to the environment and sustainable development.
+
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« Comité permanent » Le comité permanent établi par la Chambre des communes pour étudier les questions liées à l’environnement et au développement durable.
+
+
+
+
+« Comité permanent »“Standing Committee”
+
+
+
+
+« commissaire » Le commissaire à l’environnement et au développement durable nommé au titre du paragraphe 15.1(1) de la Loi sur le vérificateur général.
+
+
+
+
+« commissaire »“Commissioner”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STUDY OF INDICATORS
+
+
+
+
+
+
+
+
+
+ÉTUDE SUR LES INDICATEURS
+
+
+
+
+
+
+
+
+
+
+
+
+Committee study and recommen-dations
+
+
+
+
+3. (1) The Standing Committee must carry out a study on a set of indicators of the economic, social and environmental well-being of people, communities and ecosystems in Canada and, on the basis of that study, must make recommendations respecting
+
+
+
+
+
+
+
+
+
+
+(a) the definition, development and periodic publication of the set of indicators;
+
+
+
+
+
+
+
+
+
+
+(b) the broad societal values on which the set of indicators should be based;
+
+
+
+
+
+
+
+
+
+
+(c) the role that the Commissioner should play in the development and publication of those indicators;
+
+
+
+
+
+
+
+
+
+
+(d) the role that the Government of Canada, and particularly Statistics Canada, should play in the development and publication of those indicators;
+
+
+
+
+
+
+
+
+
+
+(e) whether an advisory committee consisting of members of the public, including persons with expertise in economic, social, environmental and statistical matters, should be created to advise, on a continuing basis, on the development, calculation and publication of the set of indicators, and how such an advisory committee should function;
+
+
+
+
+
+
+
+
+
+
+(f) whether further legislation is advisable to govern the development and publication of those indicators; and
+
+
+
+
+
+
+
+
+
+
+(g) other aspects of the definition, development and publication of those indicators.
+
+
+
+
+
+
+
+
+
+
+3. (1) Le Comité permanent procède à une étude sur l'ensemble des indicateurs du bien-être économique, social et environnemental de la population, des collectivités et des écosystèmes du Canada et formule, à la lumière de ses conclusions, des recommandations portant sur :
+
+
+
+Étude et recom-mandations du Comité
+
+
+
+
+
+a) la définition, l’élaboration et la publication périodique de cet ensemble d’indicateurs;
+
+
+
+
+
+
+
+
+
+
+
+b) les grandes valeurs de la société sur lesquelles devrait reposer cet ensemble d’indicateurs;
+
+
+
+
+
+
+
+
+
+
+
+c) le rôle du commissaire dans l’élaboration et la publication de ces indicateurs;
+
+
+
+
+
+
+
+
+
+
+
+d) le rôle du gouvernement du Canada, en particulier de Statistique Canada, dans l’élaboration et la publication de ces indicateurs;
+
+
+
+
+
+
+
+
+
+
+
+e) l’opportunité de constituer un comité consultatif composé de membres du public, notamment d’experts des domaines économique, social, environnemental et statistique, qui serait chargé de donner, de façon continue, des conseils sur l’élaboration, le calcul et la publication de ces indicateurs, et sur le mode de fonctionnement d’un tel comité, le cas échéant;
+
+
+
+
+
+
+
+
+
+
+
+f) l’opportunité d’adopter d’autres dispositions législatives pour régir l’élaboration et la publication de ces indicateurs;
+
+
+
+
+
+
+
+
+
+
+
+g) tout autre aspect de la définition, de l’élaboration et de la publication de ces indicateurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Committee process 
+
+
+
+(2) The Standing Committee, as a part of its considerations with respect to paragraphs 1(a) and (b), must
+
+
+
+
+
+
+
+
+
+
+(a) receive input from the public through written submissions and public hearings; and
+
+
+
+
+
+
+
+
+
+
+(b) seek information and advice from individ­uals and organizations in Canada and other nations, and from international agencies, that have expertise in the measurement of the well-being of people, communities and ecosystems.
+
+
+
+
+
+
+
+
+
+(2) Dans le cadre de l’étude des sujets mentionnés aux alinéas (1)a) et b), le Comité permanent :
+
+
+
+Travaux du Comité
+
+
+
+
+
+a) recueille les commentaires du public en sollicitant des mémoires et en tenant des audiences publiques;
+
+
+
+
+
+
+
+
+
+
+
+b) consulte des particuliers et des organisations établis au Canada et à l’étranger — ainsi que des organismes internationaux — ayant une expertise liée à la mesure du bien-être des personnes, des collectivités et des écosystèmes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specific indica-tors and com-posite indices
+
+
+
+(3) The set of indicators must include indicators that are specific to single aspects of well-being and one or more composite indices calculated from a number of the specific indicators.
+
+
+
+
+
+
+
+
+
+(3) L’ensemble d’indicateurs est constitué notamment d’indicateurs propres à certains aspects du bien-être et d’un ou de plusieurs indices composés calculés à partir de ces indicateurs.
+
+
+
+Indicateurs et indices composés
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+
+(4) The set of indicators must be
+
+
+
+
+
+
+
+
+
+
+(a) published annually in the Canada Ga- zette and in at least one daily newspaper in each official language, subject to any requirement in the report of the Standing Committee as adopted that they be published more frequently; and
+
+
+
+
+
+
+
+
+
+
+(b) made available to the public, in both physical and electronic form, in the manner determined by the management committee established under subsection 4(1).
+
+
+
+
+
+
+
+
+
+(4) L’ensemble d’indicateurs :
+
+
+
+Publication
+
+
+
+
+
+a) est publié annuellement dans la Gazette du Canada et dans au moins un quotidien dans chaque langue officielle, sauf si le rapport du Comité permanent tel qu'il est adopté exige sa publication à des intervalles plus rapprochés;
+
+
+
+
+
+
+
+
+
+
+
+b) est mis à la disposition du public, en formats papier et électronique, selon les modalités prévues par le comité de gestion constitué au titre du paragraphe 4(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(5) The Standing Committee must report to the House of Commons its recommendations on the matters set out in paragraphs (1)(c) to (g) no later than the third day on which the House sits following the expiry of twelve months after the coming into force of this Act. 
+
+
+
+
+
+
+
+
+
+(5) Le Comité permanent fait rapport à la Chambre des communes de ses recommandations portant sur les sujets mentionnés aux alinéas (1)c) à g) dans les trois premiers jours de séance de la Chambre suivant l’expiration des douze mois postérieurs à l’entrée en vigueur de la présente loi.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MANAGEMENT COMMITTEE
+
+
+
+
+
+
+
+
+
+COMITÉ DE GESTION
+
+
+
+
+
+
+
+
+
+
+
+
+Management committee
+
+
+
+
+4. (1) If the report of the Standing Committee as presented by the Committee or as amended by the House of Commons is adopted by the House, the Chief Statistician of Canada and the Commissioner must, subject to the recommendations in the report as adopted, establish a management committee consisting of the Chief Statistician of Canada and the Commissioner and such other members as they jointly appoint.
+
+
+
+
+
+
+
+
+
+
+4. (1) Si le rapport du Comité permanent est adopté par la Chambre des communes, avec ou sans modification, le statisticien en chef du Canada et le commissaire doivent, sous réserve des recommandations formulées dans le rapport tel qu'il est adopté, constituer un comité de gestion dont ils font partie et dont ils nomment conjointement les autres membres. 
+
+
+
+Comité de gestion
+
+
+
+
+
+
+
+
+
+
+Function of management committee
+
+
+
+(2) The management committee must direct the development and publication of the set of indicators subject to the recommendations in the report as adopted.
+
+
+
+
+
+
+
+
+
+(2) Le comité de gestion dirige, sous réserve des recommandations formulées dans le rapport du Comité permanent tel qu'il est adopté, l’élaboration et la publication de l’ensemble d’indicateurs. 
+
+
+
+
+Fonction du comité de gestion
+
+
+
+
+
+
+
+
+
+
+Interim partial publication
+
+
+
+
+5. (1) The specific indicators and composite indices referred to in subsection 3(3) must be published twice by Statistics Canada, namely one year and two years after the date of the adoption of the report.
+
+
+
+
+
+
+
+
+
+
+5. (1) Les indicateurs propres à certains aspects du bien-être et les indices composés qui sont visés au paragraphe 3(3) sont publiés par Statistique Canada à deux reprises, à savoir un an et deux ans après la date d’adoption du rapport.
+
+
+
+Publication partielle
+
+
+
+
+
+
+
+
+
+
+Publication of results of application
+
+
+
+(2) The results of the application of the set of indicators must be published in full, subject to the recommendations in the report as adopted, by Statistics Canada no later than three years after the date of the adoption of the report.
+
+
+
+
+
+
+
+
+
+(2) Les résultats de l'application de l’ensemble d’indicateurs sont publiés intégralement par Statistique Canada, sous réserve des recommandations formulées dans le rapport du Comité permanent tel qu'il est adopté, dans les trois ans suivant l’adoption de celui-ci.
+
+
+
+Publication des résultats de l'application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANNUAL REPORT
+
+
+
+
+
+
+
+
+
+RAPPORT ANNUEL
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report by Commissioner
+
+
+
+
+6. Within 90 days of the first publication of the results referred to in subsection 5(2) and every year thereafter, the Commissioner must prepare and submit to the House of Commons an annual report analysing and evaluating, on the basis of those results, the current well-being of the people, communities and ecosystems in Canada.
+
+
+
+
+
+
+
+
+
+
+6. Dans les quatre-vingt-dix jours suivant la première publication des résultats mentionnés au paragraphe 5(2) et chaque année subséquente, le commissaire établit et présente à la Chambre des communes un rapport annuel qui comporte l’analyse et l’évaluation, d’après ces résultats, du bien-être actuel de la population, des collectivités et des écosystèmes du Canada.
+
+
+
+Rapport annuel du commissaire
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

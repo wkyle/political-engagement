@@ -1,0 +1,1658 @@
+
+
+
+
+
+C-476
+
+
+
+
+
+C-476
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-476
+
+
+
+
+
+PROJET DE LOI C-476
+
+
+
+
+
+
+An Act to amend the Bankruptcy and Insolvency Act and other Acts (unfunded pension plan liabilities)
+
+
+
+
+
+Loi modifiant la Loi sur la faillite et l'insolvabilité et d'autres lois (passif non capitalisé des régimes de pension)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 3, 2009
+
+première lecture le 3 novembre 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+3rd Session, 40th Parliament
+
+This bill was introduced during the Second Session of the 40th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the Second Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+3e session, 40e législature
+
+Le présent projet de loi a été présenté lors de la deuxième session de la 40e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la deuxième session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+Mr. Marston
+
+402395
+
+
+
+M. Marston
+
+
+
+
+
+SUMMARY
+This enactment amends the Bankruptcy and Insolvency Act and the Companies’ Creditors Arrangement Act to ensure that unfunded pension plans, liabilities are accorded the status of secure debts in the event of bankruptcy proceedings.
+The enactment also amends the Canada Business Corporations Act to provide an efficacious procedure by which former employees of a bankrupt corporation who are owed amounts by the corporation can proceed with claims against its directors.
+As well, the enactment amends the Employment Insurance Act to specify that payments made to a claimant out of the proceeds realized from the property of a bankrupt or by a government in the event of bankruptcy will not be deducted from benefits payable to an employment insurance claimant.
+Finally, the enactment amends the Wage Earner Protection Program Act  to include proposals, compromises and arrangements.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur la faillite et l’insolvabilité et la Loi sur les arrangements avec les créanciers des compagnies afin que le passif non capitalisé des régimes de pension soit considéré comme une créance garantie en cas de procédure de faillite.
+Il modifie aussi la Loi canadienne sur les sociétés par actions afin d’instituer une procédure efficace permettant aux anciens employés d’une société en faillite de réclamer à ses administrateurs le paiement des montants qui leur sont dus.
+En outre, le texte modifie la Loi sur l’assurance-emploi afin de préciser que les montants versés à un prestataire par le gouvernement en cas de faillite ou qui proviennent de la vente des biens d’un failli ne peuvent être déduits des prestations de chômage.
+Finalement, il modifie la Loi sur le Programme de protection des salariés afin d’inclure les propositions concordataires, les transactions et les arrangements.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-476
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-476
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Bankruptcy and Insolvency Act and other Acts (unfunded pension plan liabilities)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la faillite et l'insolvabilité et d'autres lois (passif non capitalisé des régimes de pension)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., c. B-3; 1992, c. 27, s. 2
+
+
+
+BANKRUPTCY AND INSOLVENCY ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA FAILLITE ET L’INSOLVABILITÉ
+
+
+
+L.R., ch. B-3; 1992, ch. 27, art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) Clause 60(1.5)(a)(ii)(A) of the Bankruptcy and Insolvency Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. (1) La division 60(1.5)a)(ii)(A) de la Loi sur la faillite et l’insolvabilité est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(A) an amount equal to the normal cost, within the meaning of subsection 2(1) of the Pension Benefits Standards Regulations, 1985, and any amount considered to meet the standards for solvency determined in accordance with section 9 of those Regulations, that were required to be paid by the employer to the fund, and
+
+
+
+
+
+
+
+
+
+(A) les coûts normaux, au sens du paragraphe 2(1) du Règlement de 1985 sur les normes de prestation de pension, et tout montant considéré comme satisfaisant aux normes de solvabilité conformément à l’article 9 de ce règlement, que l’employeur est tenu de verser au fonds,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Clause 60(1.5)(a)(iii)(A) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) La division 60(1.5)a)(iii)(A) de la même loi est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(A) an amount equal to the amount that would be the normal cost, within the meaning of subsection 2(1) of the Pension Benefits Standards Regulations, 1985, and any amount considered to meet the standards for solvency determined in accordance with section 9 of those Regulations, that the employer would be required to pay to the fund if the prescribed plan were regulated by an Act of Parliament, and
+
+
+
+
+
+
+
+
+
+(A) la somme égale aux coûts normaux, au sens du paragraphe 2(1) du Règlement de 1985 sur les normes de prestation de pension, et tout montant considéré comme satisfaisant aux normes de solvabilité conformément à l’article 9 de ce règlement, que l’employeur serait tenu de verser au fonds si le régime était régi par une loi fédérale,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after subsection 81.3(1):
+
+
+
+
+
+
+
+
+
+2. (1) La même loi est modifiée, par adjonction, après le paragraphe 81.3(1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Security for termination or severance pay
+
+
+
+81.3 (1.1) The claim of a clerk, servant, travelling salesperson, labourer or worker who is owed termination and severance pay by a bankrupt, less any amount paid by the trustee or by a receiver for that termination or severance pay, is secured as of the date of the bankruptcy by security on the bankrupt's current assets as of the date of the bankruptcy.
+
+
+
+
+
+
+
+
+
+81.3 (1.1) La réclamation de tout commis, préposé, voyageur de commerce, journalier ou
+ouvrier à qui le failli doit des indemnités de départ ou de préavis, moins toute somme que le syndic ou un séquestre peut lui avoir versée au titre de ces indemnités, est garantie à la date de la faillite par une sûreté portant sur les actifs à court terme appartenant au failli à cette même date.
+
+
+
+Sûreté relative à l’indemnité de départ ou de préavis
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after subsection 81.4(1):
+
+
+
+
+
+
+
+
+
+3. (1) La même loi est modifiée, par adjonction, après le paragraphe 81.4(1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Security for termination or severance pay
+
+
+
+81.4 (1.1) The claim of a clerk, servant, travelling salesperson, labourer or worker who is owed termination and severance pay by a person who is subject to a receivership, less any amount paid by a receiver or trustee for that termination or severance pay, is secured by security on the person's current assets that are in the possession or under the control of the receiver.
+
+
+
+
+
+
+
+
+
+81.4 (1.1) La réclamation de tout commis, préposé, voyageur de commerce, journalier ou
+ouvrier à qui la personne faisant l’objet d’une mise sous séquestre doit des indemnités de départ ou de préavis, moins toute somme qu’un séquestre ou syndic peut lui avoir
+versée au titre de ces indemnités, est garantie par une sûreté portant sur les actifs à court terme en cause qui sont en la possession ou sous la responsabilité du séquestre en fonctions.
+
+
+
+Sûreté relative à l’indemnité de départ ou de préavis
+
+
+
+
+
+
+
+
+
+
+
+
+4. (1) Subparagraph 81.5(1)(b)(i) of the Act is replaced by the following: 
+
+
+
+
+
+
+
+
+
+4. (1) Le sous-alinéa 81.5(1)b)(i) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) an amount equal to the normal cost, within the meaning of subsection 2(1) of the Pension Benefits Standards Regulations, 1985, and any amount considered to meet the standards for solvency determined in accordance with section 9 of those Regulations, that were required to be paid by the employer to the fund, and
+
+
+
+
+
+
+
+
+
+(i) les coûts normaux, au sens du paragraphe 2(1) du Règlement de 1985 sur les normes de prestation de pension, et tout montant considéré comme satisfaisant aux normes de solvabilité conformément à l’article 9 de ce règlement, que l’employeur est tenu de verser au fond,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subparagraph 81.5(1)(c)(i) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le sous-alinéa 81.5(1)c)(i) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) an amount equal to the amount that would be the normal cost, within the meaning of subsection 2(1) of the Pension Benefits Standards Regulations, 1985, and any amount considered to meet the stand- ards for solvency determined in accord- ance with section 9 of those Regulations, that the employer would be required to pay to the fund if the prescribed plan were regulated by an Act of Parliament, and
+
+
+
+
+
+
+
+
+
+(i) la somme égale aux coûts normaux, au sens du paragraphe 2(1) du Règlement de 1985 sur les normes de prestation de pension, et tout montant considéré comme satisfaisant aux normes de solvabilité conformément à l’article 9 de ce règlement, que l’employeur serait tenu de verser au fonds si le régime était régi par une loi fédérale,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. (1) Subparagraph 81.6(1)(b)(i) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. (1) Le sous-alinéa 81.6(1)b)(i) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) an amount equal to the normal cost, within the meaning of subsection 2(1) of the Pension Benefits Standards Regulations, 1985, and any amount considered to meet the standards for solvency determined in accordance with section 9 of those Regulations, that were required to be paid by the employer to the fund, and
+
+
+
+
+
+
+
+
+
+(i) les coûts normaux, au sens du paragraphe 2(1) du Règlement de 1985 sur les normes de prestation de pension, et tout montant considéré comme satisfaisant aux normes de solvabilité conformément à l’article 9 de ce règlement, que l’employeur serait tenu de verser au fonds,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subparagraph 81.6(1)(c)(i) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le sous-alinéa 81.6(1)c)(i) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) an amount equal to the amount that would be the normal cost, within the meaning of subsection 2(1) of the Pension Benefits Standards Regulations, 1985, and any amount considered to meet the stand- ards for solvency determined in accord- ance with section 9 of those Regulations, that the employer would be required to pay to the fund if the prescribed plan were regulated by an Act of Parliament, and 
+
+
+
+
+
+
+
+
+
+(i) la somme égale aux coûts normaux, au sens du paragraphe 2(1) du Règlement de 1985 sur les normes de prestation de pension, et tout montant considéré comme satisfaisant aux normes de solvabilité conformément à l’article 9 de ce règlement, que l’employeur serait tenu de verser au fonds si le régime était régi par une loi fédérale,
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-44; 1994, c. 24, s. 1(F)
+
+
+
+CANADA BUSINESS CORPORATIONS ACT
+
+
+
+
+
+
+
+
+
+LOI CANADIENNE SUR LES SOCIÉTÉS PAR ACTION
+
+
+
+L.R., ch. C-44; 1994, ch. 24, art.1(F)
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Canada Business Corporations Act is amended by adding the following after section 119:
+
+
+
+
+
+
+
+
+
+6. La Loi canadienne sur les sociétés par actions est modifiée par adjonction, après l’article 119, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Claim against directors of corporation
+
+
+
+119.1 (1) Any former employee of a bankrupt corporation, or a trade union acting on behalf of such an employee, may file a claim with the Minister of Labour in accordance with this section against the directors of the corporation for recovery of all debts referred to in subsection 119(1).
+
+
+
+
+
+
+
+
+
+119.1 (1) L’ancien employé d’une société en faillite ou le syndicat qui agit au nom de celui-ci peut déposer auprès du ministre du Travail, conformément au présent article, une réclamation contre les administrateurs de cette société en vue du recouvrement des dettes visées au paragraphe 119(1).
+
+
+
+Réclamations contre les administrateurs d’une société
+
+
+
+
+
+
+
+
+
+
+Appointment of adjudicator
+
+
+
+(2) The Minister of Labour shall, upon receipt of a claim referred to in subsection (1),
+appoint any person that the Minister considers appropriate as an adjudicator to hear and adjudicate the claim.
+
+
+
+
+
+
+
+
+
+(2) Sur réception de la réclamation visée au paragraphe (1), le ministre du Travail désigne en qualité d’arbitre la personne qu’il estime indiquée pour entendre et trancher l’affaire.
+
+
+
+Désignation d’un arbitre
+
+
+
+
+
+
+
+
+
+
+Powers of adjudicator
+
+
+
+(3) The adjudicator may, in relation to any claim before the adjudicator,
+
+
+
+
+
+
+
+
+(a) summon and enforce the attendance of witnesses and compel them to give oral or written evidence on oath and to produce such documents and things as the adjudicator deems requisite to the full investigation and consideration of any claim;
+
+
+
+
+
+
+
+
+(b) administer oaths and solemn affirmations; and
+
+
+
+
+
+
+
+
+(c) receive and accept such evidence and information on oath, affidavit or otherwise as the adjudicator sees fit, whether or not it would be admissible in a court of law.
+
+
+
+
+
+
+
+
+
+(3) L’arbitre peut, à l’égard de toute réclamation dont il est saisi :
+
+
+
+Pouvoirs de l’arbitre
+
+
+
+
+a) convoquer des témoins et les contraindre à comparaître et à déposer sous serment, oralement ou par écrit, ainsi qu’à produire les documents et pièces qu’il estime nécessaires pour mener à bien son enquête et son examen de la réclamation;
+
+
+
+
+
+
+
+
+b) faire prêter serment et recevoir des affirmations solennelles;
+
+
+
+
+
+
+
+
+c) accepter sous serment, par voie d’affidavit ou sous une autre forme, les témoignages et renseignements qu’il juge indiqués, qu’ils soient admissibles ou non en justice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Functions of adjudicator
+
+
+
+(4) The adjudicator shall
+
+
+
+
+
+
+
+
+(a) hear the claim within 30 days after it is filed; 
+
+
+
+
+
+
+
+
+(b) determine the procedure to be followed, while giving full opportunity to the parties to present evidence and make submissions;
+
+
+
+
+
+
+
+
+(c) consider all information relating to the claim;
+
+
+
+
+
+
+
+
+(d) decide, on a balance of probabilities, whether the claim is valid; and
+
+
+
+
+
+
+
+
+(e) within 30 days after hearing the claim, send a copy of the decision with the reasons for the decision to each party and to the Minister of Labour.
+
+
+
+
+
+
+
+
+
+(4) L’arbitre :
+
+
+
+Fonctions de l’arbitre
+
+
+
+
+a) entend la réclamation dans les trente jours suivant son dépôt;
+
+
+
+
+
+
+
+
+b) fixe lui-même la procédure à suivre, tout en donnant aux parties la possibilité de lui présenter des éléments de preuve et des observations;
+
+
+
+
+
+
+
+
+c) tient compte de tous les renseignements concernant la réclamation;
+
+
+
+
+
+
+
+
+d) détermine, selon la prépondérance des probabilités, si la réclamation est valide;
+
+
+
+
+
+
+
+
+e) dans les trente jours après avoir entendu la réclamation, envoie copie de sa décision, accompagnée des motifs à l’appui, à chacune des parties et au ministre du Travail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Order of adjudicator
+
+
+
+(5) If an adjudicator decides in accordance with paragraph (4)(d) that a former employee has a valid claim against the director or directors of a corporation, the adjudicator shall, by order, require the director or directors to
+
+
+
+
+
+
+
+
+(a) pay the former employee compensation not exceeding the amount of money that would, but for the bankruptcy, have been owed by the corporation to the former employee; and
+
+
+
+
+
+
+
+
+(b) do any other like thing that it deems equitable and that would remedy or counteract the consequences of the bankruptcy for the former employee.
+
+
+
+
+
+
+
+
+
+(5) S’il détermine aux termes de l’alinéa (4)d) que la réclamation de l’ancien employé contre les administrateurs de la société est valide, l’arbitre, par ordonnance, enjoint aux administrateurs :
+
+
+
+Ordonnance de l’arbitre
+
+
+
+
+a) de payer à l’ancien employé une indemnité équivalant, au maximum, au montant que lui devrait la société si elle n’avait pas déclaré faillite;
+
+
+
+
+
+
+
+
+
+b) de prendre toute autre mesure qu’il juge équitable de leur imposer et de nature à contrebalancer les effets de la faillite sur l’ancien employé ou à y remédier.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Decision not reviewable
+
+
+
+(6) Every order of an adjudicator made under this section is final and shall not be questioned or reviewed in any court.
+
+
+
+
+
+
+
+
+
+(6) Les ordonnances rendues par l’arbitre aux termes du présent article sont définitives et non susceptibles de recours judiciaires.
+
+
+
+Caractère définitif des décisions
+
+
+
+
+
+
+
+
+
+
+No review by certiorari, etc.
+
+
+
+(7) No order shall be made, process entered or proceeding taken in any court, whether by way of injunction, certiorari, prohibition, quo warranto or otherwise, to question, review,
+prohibit or restrain an adjudicator in any proceedings of the adjudicator under this section.
+
+
+
+
+
+
+
+
+
+(7) Il n’est admis aucun recours ou décision judiciaire — notamment par voie d’injonction, de certiorari, de prohibition ou de quo warranto — visant à contester, réviser, empêcher ou limiter l’action de l’arbitre exercée dans le cadre du présent article.
+
+
+
+Interdictions de recours extraordinaires
+
+
+
+
+
+
+
+
+
+
+Enforcement of orders
+
+
+
+(8) Any person affected by an order of an adjudicator under subsection (5), or the Minister of Labour on the request of any such person, may, after 14 days from the date on which the order is made, or from the date specified in the order for compliance, whichever is the later date, file in the Federal Court a copy of the order, exclusive of the reasons for the order.
+
+
+
+
+
+
+
+
+
+(8) La personne intéressée par l’ordonnance de l’arbitre visée au paragraphe (5), ou le ministre du Travail, sur demande de celle-ci, peut, après l’expiration d’un délai de quatorze jours suivant la date de l’ordonnance ou, si elle est postérieure, la date d’exécution qui y est fixée, déposer à la Cour fédérale une copie du dispositif de l’ordonnance.
+
+
+
+Exécution des ordonnances
+
+
+
+
+
+
+
+
+
+
+Registration in Court
+
+
+
+(9) Once filed in the Federal Court under subsection (8), an order of an adjudicator shall be registered by the Court and, when registered, has the same force and effect, and all proceedings may be taken thereon, as if the order were a judgment obtained in that Court.
+
+
+
+
+
+
+
+
+
+(9) Dès le dépôt de l’ordonnance de l’arbitre, la Cour fédérale procède à l’enregistrement de celle-ci; l’enregistrement confère à l’ordonnance valeur de jugement de ce tribunal et, dès lors, toutes les procédures d’exécution applicables à un tel jugement peuvent être engagées à son égard.
+
+
+
+Enregistrement
+
+
+
+
+
+
+
+
+R.S., c. C-36
+
+
+
+COMPANIES’ CREDITORS ARRANGEMENT ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LES ARRANGEMENTS AVEC LES CRÉANCIERS DES COMPAGNIES
+
+
+
+L.R., ch. C-36
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) Clause 6(6)(a)(ii)(A) of the Companies’ Creditors Arrangement Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+7. (1) La division 6(6)a)(ii)(A) de la Loi sur les arrangements avec les créanciers des compagnies est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(A) an amount equal to the normal cost, within the meaning of subsection 2(1) of the Pension Benefits Standards Regulations, 1985, and any amount considered to meet the standards for solvency determined in accordance with section 9 of those Regulations, that were required to be paid by the employer to the fund, and
+
+
+
+
+
+
+
+
+
+(A) les coûts normaux, au sens du paragraphe 2(1) du Règlement de 1985 sur les normes de prestation de pension, et tout montant considéré comme satisfaisant aux normes de solvabilité conformément à l’article 9 de ce règlement, que l’employeur est tenu de verser au fonds,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Clause 6(6)(a)(iii)(A) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) La division 6(6)a)(iii)(A) de la même loi est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(A) an amount equal to the amount that would be the normal cost, within the meaning of subsection 2(1) of the Pension Benefits Standards Regulations, 1985, and any amount considered to meet the standards for solvency determined in accordance with section 9 of those Regulations, that the employer would be required to pay to the fund if the prescribed plan were regulated by an Act of Parliament, and
+
+
+
+
+
+
+
+
+
+(A) la somme égale aux coûts normaux, au sens du paragraphe 2(1) du Règlement de 1985 sur les normes de prestation de pension, et tout montant considéré comme satisfaisant aux normes de solvabilité conformément à l’article 9 de ce règlement, que l’employeur serait tenu de verser au fonds si le régime était régi par une loi fédérale,
+
+
+
+
+
+
+
+
+
+
+1996, c. 23
+
+
+
+EMPLOYMENT INSURANCE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’ASSURANCE-EMPLOI
+
+
+
+1996, ch. 23
+
+
+
+
+
+
+
+
+
+
+
+
+8. Section 19 of the Employment Insurance Act is amended by adding the following after subsection (4):
+
+
+
+
+
+
+
+
+
+8. L’article 19 de la Loi sur l’assurance-emploi est modifié par adjonction, après le paragraphe (4), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Proceeds from property of bankrupt
+
+
+
+(5) Payments made to a claimant out of proceeds realized from the property of a bankrupt
+or by the government of Canada or of a province in the event of a bankruptcy shall not
+be deducted under this section.
+
+
+
+
+
+
+
+
+
+(5) Les montants versés à un prestataire par le gouvernement du Canada ou d’une province en cas de faillite ou qui proviennent de la vente des biens d’un failli ne sont pas déduits en application du présent article.
+
+
+
+Montants réalisés provenant des biens d’un failli
+
+
+
+
+
+
+
+
+2005, c. 47, s. 1
+
+
+
+WAGE EARNER PROTECTION PROGRAM ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE PROGRAMME DE PROTECTION DES SALARIÉS
+
+
+
+2005, ch. 47, art. 1
+
+
+
+
+
+
+
+
+
+
+
+
+9. Section 4 of the Wage Earner Protection Program Act is replaced  by the following:
+
+
+
+
+
+
+
+
+
+9. L’article 4 de la Loi sur le Programme de protection des salariés est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Establishment
+
+
+
+4. The Wage Earner Protection Program is established to make payments to individuals in respect of wages owed to them by employers
+
+
+
+
+
+
+
+
+(a) who are bankrupt or subject to a receivership; or
+
+
+
+
+
+
+
+
+(b) who have made a proposal under Part III of the Bankruptcy and Insolvency Act or a compromise or an arrangement under the Companies’ Creditors Arrangement Act.
+
+
+
+
+
+
+
+
+
+4. Est établi le Programme de protection des salariés prévoyant le versement de prestations aux personnes physiques titulaires de créances salariales sur un employeur :
+
+
+
+Établissement
+
+
+
+
+a) soit qui est en faillite ou fait l’objet d’une mise sous séquestre;
+
+
+
+
+
+
+
+
+b) soit qui a fait une proposition concordataire au titre de la partie III de la Loi sur la faillite et l’insolvabilité ou une transaction ou un arrangement proposé sous le régime de la Loi sur les arrangements avec les créanciers des compagnies.
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

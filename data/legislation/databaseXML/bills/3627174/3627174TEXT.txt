@@ -1,0 +1,909 @@
+
+
+
+
+
+
+C-424
+
+
+
+
+
+C-424
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-424
+
+
+
+
+
+PROJET DE LOI C-424
+
+
+
+
+
+
+An Act to amend the Youth Criminal Justice Act (protection of the public)
+
+
+
+
+
+Loi modifiant la Loi sur le système de justice pénale pour les adolescents (protection du public)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 17, 2009
+
+
+
+
+
+première lecture le 17 juin 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Regan
+
+
+402090
+
+
+
+
+M. Regan
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Youth Criminal Justice Act to
+(a) specify that the protection of the public is the primary goal of that Act;
+(b) repeal the presumption in subsection 29(2) that detention is unnecessary;
+(c) amend paragraph 31(5)(a) so that when the designated responsible person is relieved of his or her obligations, some of the young person’s obligations may  nevertheless remain in effect; 
+(d) amend subsection 31(6) so that the young person may be detained in custody; and
+(e) remove the time limit for a young person to attend a non-residential program.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur le système de justice pénale pour les adolescents de façon à :
+
+a) préciser que la protection du public constitue l’objectif premier de 
+	cette loi;
+
+
+b) supprimer la présomption, au paragraphe 29(2), voulant que la 	détention ne soit pas nécessaire;
+
+c) modifier l’alinéa 31(5)a) de manière que l’adolescent puisse 	demeurer assujetti à certaines des obligations qu’il a contractées 	même si la personne digne de confiance à laquelle l’adolescent a été 	confié est dégagée des siennes;
+
+d) modifier le paragraphe 31(6) de façon que l’adolescent puisse être 	détenu sous garde;
+
+e) supprimer le délai qui accompagne l’obligation de l’adolescent 
+	de fréquenter un lieu où est offert un programme.
+
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-424
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-424
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Youth Criminal Justice Act (protection of the public)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le système de justice pénale pour les adolescents (protection du public)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 1
+
+
+
+YOUTH CRIMINAL JUSTICE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE SYSTÈME DE JUSTICE PÉNALE POUR LES ADOLESCENTS
+
+
+
+2002, ch. 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Paragraph 3(1)(a) of the Youth Criminal Justice Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. L'alinéa 3(1)a) de la Loi sur le système de justice pénale pour les adolescents est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the youth criminal justice system is intended to
+
+
+
+
+
+
+(i) ensure public safety,
+
+
+
+
+
+
+
+(ii) prevent crime by addressing the circumstances underlying a young person's offending behaviour,
+
+
+
+
+
+
+
+(iii) rehabilitate young persons who commit offences and reintegrate them into society, and
+
+
+
+
+
+
+
+(iv) ensure that a young person is subject to meaningful consequences for his or her offence
+
+
+
+
+
+
+in order to promote the protection of the public;
+
+
+
+
+
+
+
+
+
+
+a) le système de justice pénale pour adolescents vise à assurer la sécurité du public, à prévenir le crime   
+   par la suppression des causes sous-jacentes à la criminalité chez les 
+   adolescents, à les réadapter et à les réinsérer dans la société et à assurer la 
+   prise de mesures leur offrant des perspectives positives en vue de favoriser la protection du public;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 29(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 29(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Detention presumed unnecessary
+
+
+
+(2) In considering whether the detention of a young person is necessary for the protection or safety of the public under paragraph 515(10)(b) of the Criminal Code, a youth justice court or a justice shall presume that detention is not necessary unless the young person
+
+
+
+
+
+
+
+
+
+
+
+(a) is charged with a violent offence or an offence that otherwise endangered the public by creating a substantial likelihood of serious bodily harm to another person;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) has been found guilty of failing to comply with non-custodial sentences or conditions of release; or
+
+
+
+
+
+
+
+
+
+
+
+
+(c) is charged with an indictable offence for which an adult would be liable to imprisonment for a term of more than two years and has a history that indicates a pattern of offences under this Act or the Young Offenders Act, chapter Y-1 of the Revised Statutes of Canada, 1985.
+
+
+
+
+
+
+
+
+
+
+(2) Le tribunal pour adolescents ou le juge présume que la détention de l’adolescent n’est pas nécessaire pour la protection ou la sécurité du public au titre de l’alinéa 515(10)b) du Code criminel, sauf si l’adolescent :
+
+
+
+Présomption
+
+
+
+
+
+
+a) soit est accusé d’une infraction avec violence ou d’une autre infraction qui met en danger le public en créant une probabilité marquée d’infliction de lésions corporelles graves à une autre personne;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) soit a été déclaré coupable de ne pas avoir respecté des peines ne comportant pas de placement sous garde, ou des conditions de mise en liberté;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) soit est accusé d’un acte criminel pour lequel un adulte est passible d’une peine d’emprisonnement de plus de deux ans après avoir commis plusieurs infractions dans le cadre de la présente loi ou de la Loi sur les jeunes contrevenants, chapitre Y-1 des Lois révisées du Canada (1985).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Danger to public
+
+
+
+
+(3) If the youth justice court or the justice finds that none of paragraphs (2)(a) to (c) apply, the court or justice shall not detain the young person unless the court or justice is satisfied that there is a substantial likelihood, having regard to all of the relevant factors, including the nature of the offence the young person is charged with, that the young person will, if released from custody, commit a violent offence or an offence that otherwise endangers the public by creating a substantial likelihood of serious bodily harm to another person.
+
+
+
+
+
+
+
+
+
+
+
+(3) S’il conclut qu’aucun des alinéas (2)a) à c) ne s’applique, le tribunal pour adolescents ou le juge ne peut ordonner la détention de l’adolescent que dans le cas où il est convaincu qu’il existe une probabilité marquée, compte tenu de tous les facteurs pertinents, notamment la nature des infractions dont l’adolescent est accusé, que celui-ci commettra, s’il est mis en liberté, une infraction avec violence ou une autre infraction qui met en danger le public en créant une probabilité marquée d’infliction de lésions corporelles graves à une autre personne.
+
+
+
+
+Danger pour le public
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. (1) Paragraph 31(5)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. (1) L’alinéa 31(5)a) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) make an order relieving the person of the obligations undertaken under subsection (3); and
+
+
+
+
+
+
+
+
+
+
+a) rendre une ordonnance en vue de dégager cette personne des obligations contractées en application du 
+         paragraphe (3);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 31(6) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 31(6) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Effect of arrest
+
+
+
+(6) If a young person is arrested in accord- ance with a warrant issued under paragraph (5)(b), the young person shall be taken before a youth justice court judge or a justice without delay and detained in custody under section 515 of the Criminal Code. 
+
+
+
+
+
+
+
+
+
+(6) L’adolescent arrêté en vertu d’un mandat délivré en application de l’alinéa (5)b) doit être amené sans délai devant un juge du tribunal pour adolescents ou un juge de paix et détenu sous garde conformément à l'article 515 du Code criminel.
+
+
+
+Effet de l’arrestation
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Paragraph 42(2)(m) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. L’alinéa 42(2)m) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(m) subject to subsection (3) (agreement of provincial director) and section 54, order the young person to attend a non-residential program approved by the provincial director, at the times and on the terms that the court may fix;
+
+
+
+
+
+
+
+
+
+
+m) sous réserve du paragraphe (3) (consentement du directeur provincial) 
+   et de l’article 54, l’obligation pour l’adolescent, imposée par ordonnance, 
+   de fréquenter un lieu où est offert un programme approuvé par le directeur 
+   provincial, aux dates et selon les modalités fixées par le tribunal;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+5. This Act comes into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+5. La présente loi entre en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

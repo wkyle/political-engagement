@@ -1,0 +1,3243 @@
+
+
+
+
+
+
+C-18
+
+
+
+
+
+C-18
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+
+
+
+
+
+Troisième session, quarantième législature,
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-18
+
+
+
+
+
+PROJET DE LOI C-18
+
+
+
+
+
+
+An Act to amend the Canada Elections Act
+
+
+
+
+
+Loi modifiant la Loi électorale du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, April 26, 2010
+
+
+
+
+
+première lecture le 26 avril 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ MINISTER OF STATE (DEMOCRATIC REFORM)
+
+90409
+
+
+
+MINISTRE D’ÉTAT (RÉFORME DÉMOCRATIQUE)
+
+
+
+
+
+
+
+
+
+
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the Canada Elections Act”.
+SUMMARY
+This enactment amends the Canada Elections Act to increase the number of days of advance polling.
+
+
+
+RECOMMANDATION
+Son Excellence la gouverneure générale recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi électorale du Canada ».
+SOMMAIRE
+Le texte modifie la Loi électorale du Canada afin d’allonger la période de vote par anticipation.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+3e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-18
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Elections Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi électorale du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Increasing Voter Participation Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi visant à accroître la participation des électeurs.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 9
+
+
+
+CANADA ELECTIONS ACT
+
+
+
+
+
+
+
+
+
+LOI ÉLECTORALE DU CANADA
+
+
+
+2000, ch. 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The definitions “advance polling station” and “spoiled” in subsection 2(1) of the Canada Elections Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Les définitions de « annulé » et « bureau de vote par anticipation », au paragraphe 2(1) de la Loi électorale du Canada, sont respectivement remplacées par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“advance polling station”« bureau de vote par anticipation »
+
+
+
+“advance polling station” means a polling station established for the purposes of Part 10.
+
+
+
+
+“spoiled”« annulé »
+
+
+
+“spoiled”, in relation to a ballot or a special ballot as defined in section 177, means 
+
+
+
+
+
+
+
+
+
+
+(a) one that has not been deposited in the ballot box but has been found by the deputy returning officer to be soiled or improperly printed; or
+
+
+
+
+
+
+
+
+
+
+(b) one that is dealt with under subsection 152(1), including in relation to advance polls by virtue of subsection 167.1(1), or subsection 213(4), 242(1) or 258(3).
+
+
+
+
+
+
+
+
+
+« annulé » S’agissant du bulletin de vote ou du bulletin de vote spécial au sens de l’article 177 : 
+
+
+
+« annulé »“spoiled”
+
+
+
+
+
+a) le bulletin de vote qui n’a pas été déposé dans l’urne mais que le scrutateur a trouvé sali ou imprimé incorrectement;
+
+
+
+
+
+
+
+
+
+
+
+b) le bulletin de vote annulé dans le cadre des paragraphes 152(1), 167.1(1) — dans la mesure où il prévoit l’application du paragraphe 152(1) aux bureaux de vote par anticipation —, 213(4), 242(1) ou 258(3).
+
+
+
+
+
+
+
+
+
+
+« bureau de vote par anticipation » Bureau de vote établi pour l’application de la partie 10.
+
+
+
+« bureau de vote par anticipation »“advance polling station”
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Paragraphs 32(b) and (c) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Les alinéas 32b) et c) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) for the first four days of advance polling, one deputy returning officer and one poll clerk for each advance polling station in the electoral district;
+
+
+
+
+
+
+(c) for the last day of advance polling and polling day, one deputy returning officer and one poll clerk for each advance polling station and each polling station in the electoral district; and
+
+
+
+
+
+
+
+
+
+
+b) un scrutateur et un greffier du scrutin pour chacun des bureaux de vote par anticipation de la circonscription en ce qui touche les quatre premiers jours du vote par anticipation;
+
+
+
+
+
+
+
+c) en ce qui touche le dernier jour du vote par anticipation et le jour du scrutin, un scrutateur et un greffier du scrutin pour chacun des bureaux de vote par anticipation et des bureaux de scrutin de la circonscription;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 106 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. L’article 106 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Official list of electors
+
+
+
+
+106. Each returning officer shall, as soon as possible after the 7th day before polling day but no later than the 3rd day before polling day, prepare the official list of electors for each polling division for use on the last day of advance polling and polling day.
+
+
+
+
+
+
+
+
+
+
+106. Le plus tôt possible après le septième jour précédant le jour du scrutin mais au plus tard le troisième jour précédant celui-ci, le directeur du scrutin dresse, pour utilisation le dernier jour du vote par anticipation et le jour du scrutin, la liste électorale officielle pour chaque section de vote de la circonscription.
+
+
+
+Établissement de la liste électorale officielle
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Section 140 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. L’article 140 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Opening of polling station
+
+
+
+
+140. When the polling station opens, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
+
+
+
+
+
+
+
+
+
+
+
+(a) unseal and open the ballot box, leaving in it the sealed envelopes containing the spoiled ballots and the ballots cast on the last day of advance polling;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) take out and open the envelope that contains the unused ballots and the record of votes cast on the last day of advance polling;
+
+
+
+
+
+
+
+
+
+
+
+(c) seal the ballot box with the seals provided by the Chief Electoral Officer; and
+
+
+
+
+
+
+
+
+
+
+(d) place the ballot box on a table in full view of all present and keep it there until the polling station closes.
+
+
+
+
+
+
+
+
+
+
+140. À l’ouverture du bureau de scrutin, le scrutateur, sous le regard des candidats ou de leurs représentants qui sont sur les lieux :
+
+
+
+Ouverture du bureau de scrutin
+
+
+
+
+
+
+a) descelle et ouvre l’urne, y laissant les enveloppes scellées contenant les bulletins de vote annulés et les bulletins déposés lors du dernier jour du vote par anticipation;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) retire de l’urne et ouvre l’enveloppe contenant le registre du vote et les bulletins de vote inutilisés lors de ce jour;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) scelle l’urne au moyen des sceaux fournis par le directeur général des élections;
+
+
+
+
+
+
+
+
+
+
+
+
+d) place l’urne sur la table, bien en vue des personnes présentes, et l’y laisse jusqu’à la fermeture du bureau de scrutin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Act is amended by adding the following before the heading “Establish- ment of Advance Polling Stations” before section 168:
+
+
+
+
+
+
+
+
+
+
+6. La même loi est modifiée par adjonc- tion, avant l’intertitre « Établissement des bureaux de vote par anticipation » précédant l’article 168, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Holding of Advance Polls
+
+
+
+
+
+
+
+
+
+
+
+Tenue du vote
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conduct of advance polls
+
+
+
+
+
+167.1 (1) Except as provided in this Part, an advance poll shall be conducted in the same manner as the manner in which the vote at a polling station on polling day is conducted and shall be regarded as such for all purposes of this Act.
+
+
+
+
+
+
+
+
+
+
+
+
+167.1 (1) Sauf disposition contraire de la présente partie, le vote par anticipation doit être tenu de la même manière que le vote aux bureaux de scrutin le jour du scrutin et, pour l’application de la présente loi, y est assimilé.
+
+
+
+
+Assimilation aux bureaux de scrutin
+
+
+
+
+
+
+
+
+
+
+When advance polling stations to be open
+
+
+
+
+(2) An advance polling station shall only be open between the hours of noon and 8:00 p.m. on Friday, Saturday, Sunday and Monday the 10th, 9th, 8th and 7th days, respectively, before polling day, and Sunday the day before polling day.
+
+
+
+
+
+
+
+
+
+
+
+(2) Les bureaux de vote par anticipation doivent être ouverts de 12 h à 20 h, les vendredi, samedi, dimanche, lundi et dimanche, soit les dixième, neuvième, huitième, septième et premier jours précédant le jour du scrutin. Ils ne peuvent être ouverts à aucun autre moment.
+
+
+
+
+Heures d’ouverture des bureaux de vote par anticipation
+
+
+
+
+
+
+
+
+
+
+Notice of advance poll
+
+
+
+
+
+167.2 Each returning officer shall, not later than Saturday the 16th day before polling day,
+
+
+
+
+
+
+
+
+
+
+
+
+(a) give a notice, in the prescribed form, in the electoral district of the advance poll, that sets out the following information:
+
+
+
+
+
+
+
+
+
+
+
+
+(i) the numbers of the polling divisions in every advance polling district that is established by the returning officer for the 10th, 9th, 8th and 7th days before polling day,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) the name, if any, and the number of each of the polling divisions established for the day before polling day,
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) the address of each advance polling station,
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) the place where the deputy returning officer appointed under paragraph 32(b) or (c) for each advance polling station is to count the number of votes cast at the advance polling station, and
+
+
+
+
+
+
+
+
+
+
+
+
+(v) the fact that the counting of the votes cast is to take place on polling day as soon after the close of the polling stations as possible; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) send two copies of the notice to each candidate and to the Chief Electoral Officer.
+
+
+
+
+
+
+
+
+
+
+
+
+167.2 Au plus tard le samedi seizième jour précédant le jour du scrutin, le directeur du scrutin :
+
+
+
+
+Avis du vote par anticipation
+
+
+
+
+
+
+a) donne dans la circonscription un avis du vote par anticipation, selon le formulaire prescrit, indiquant :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) les numéros des sections de vote comprises dans chaque district de vote par anticipation qu’il a établi pour les dixième, neuvième, huitième et septième jours de vote précédant le jour du scrutin,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) le nom, s’il y a lieu, et le numéro de chacune des sections de vote établies pour le jour précédant le jour du scrutin,
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) l’adresse de chaque bureau de vote par anticipation,
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) le lieu où le scrutateur — nommé en vertu des alinéas 32b) ou c) — de chaque bureau de vote par anticipation doit compter le nombre de votes donnés à ce bureau,
+
+
+
+
+
+
+
+
+
+
+
+
+(v) l’obligation de procéder au dépouillement le jour du scrutin, le plus tôt possible après la fermeture des bureaux de scrutin;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) expédie deux copies de l’avis à chacun des candidats et au directeur général des élections.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Four Days of Advance Polling
+
+
+
+
+
+
+
+
+
+
+
+Quatre premiers jours du vote par anticipation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Sections 171 and 172 of the Act are repealed.
+
+
+
+
+
+
+
+
+
+
+7. Les articles 171 et 172 de la même loi sont abrogés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) The portion of subsection 175(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. (1) Le passage du paragraphe 175(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Examining and sealing of ballot box
+
+
+
+
+175. (1) At the opening of an advance polling station at noon on the first day of advance polling, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
+
+
+
+
+
+
+
+
+
+
+175. (1) À l’ouverture du bureau de vote par anticipation, à 12 h le premier jour du vote par anticipation, le scrutateur, sous le regard des candidats ou de leurs représentants qui sont sur les lieux :
+
+
+
+Examen de l’urne et apposition des sceaux
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The portion of subsection 175(2) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le passage du paragraphe 175(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Close of advance poll
+
+
+
+(2) At the close of the advance polling station at 8:00 p.m. on each of the first four days of advance polling, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
+
+
+
+
+
+
+
+
+
+(2) À la fermeture du bureau de vote par anticipation, à 20 h chacun des quatre premiers jours du vote par anticipation, le scrutateur, sous le regard des candidats ou de leurs représentants qui sont sur les lieux :
+
+
+
+Mesures à prendre à la fermeture
+
+
+
+
+
+
+
+
+
+
+
+
+(3) The portion of subsection 175(4) of the Act before paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le passage du paragraphe 175(4) de la même loi précédant l’alinéa b) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Re-opening of advance poll
+
+
+
+(4) At the re-opening of the advance polling station at noon on the 2nd, 3rd and 4th days of advance polling, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
+
+
+
+
+
+
+
+
+
+
+(a) unseal and open the ballot box, leaving in it the sealed envelopes containing the spoiled ballots and the ballots cast on the previous day or days of advance polling;
+
+
+
+
+
+
+
+
+
+(4) À la réouverture du bureau de vote par anticipation, à 12 h les deuxième, troisième et quatrième jours du vote par anticipation, le scrutateur, sous le regard des candidats ou de leurs représentants qui sont sur les lieux :
+
+
+
+Réouverture du bureau de vote par anticipation
+
+
+
+
+
+a) descelle et ouvre l’urne, y laissant les enveloppes scellées contenant les bulletins de vote annulés et les bulletins déposés le ou les jours du vote par anticipation précédents;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Subsection 175(6) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 175(6) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Candidates may check seals
+
+
+
+(6) When an advance polling station closes on each of the first four days of advance polling, the candidates or their representatives may take note of the serial number of the seal on the ballot box, and may again take note of the serial number when the advance polling station is re-opened on each of the 2nd, 3rd and 4th days of advance polling and when the votes are counted on polling day.
+
+
+
+
+
+
+
+
+
+(6) À la fermeture du bureau de vote par anticipation chacun des quatre premiers jours du vote par anticipation, les candidats ou leurs représentants peuvent prendre note du numéro de série inscrit sur le sceau utilisé sur l’urne. Ils peuvent encore prendre note de ce numéro de série à la réouverture du bureau les deuxième, troisième et quatrième jours du vote par anticipation et au dépouillement du scrutin le jour du scrutin.
+
+
+
+Vérification du numéro de série du sceau de l’urne
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. The Act is amended by adding the following after section 176:
+
+
+
+
+
+
+
+
+
+
+9. La même loi est modifiée par adjonc- tion, après l’article 176, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last Day of Advance Polling
+
+
+
+
+
+
+
+
+
+
+
+Dernier jour du vote par anticipation
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advance polling stations
+
+
+
+
+
+176.1 Every polling station established for polling day shall be open as an advance polling station on the day before polling day.
+
+
+
+
+
+
+
+
+
+
+
+
+176.1 Les bureaux de scrutin établis pour le jour du scrutin sont ouverts le jour précédant celui-ci à titre de bureaux de vote par anticipation.
+
+
+
+
+Bureaux de vote par anticipation
+
+
+
+
+
+
+
+
+
+
+Registration at advance polling station
+
+
+
+
+
+176.2 (1) Every elector whose name is not on the official list of electors may register in person before the deputy returning officer in the advance polling station where the elector is entitled to vote.
+
+
+
+
+
+
+
+
+
+
+
+
+176.2 (1) L’électeur dont le nom ne figure pas déjà sur la liste électorale officielle peut s’inscrire en personne auprès du scrutateur du bureau de vote par anticipation où il est habile à voter.
+
+
+
+
+Inscription au bureau de vote par anticipation
+
+
+
+
+
+
+
+
+
+
+Conditions
+
+
+
+
+(2) An elector shall not be registered unless he or she
+
+
+
+
+
+
+
+
+
+
+
+
+(a) provides as proof of his or her identity and residence the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, which piece or one of which pieces must contain an address that proves his or her residence; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) proves his or her identity and residence by taking the prescribed oath, and is accompanied by an elector whose name appears on the official list of electors for the same polling division and who
+
+
+
+
+
+
+
+
+
+
+
+
+(i) provides the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, which piece or one of which pieces must contain either an address that proves his or her residence or an address that is consistent with information related to him or her that appears on the official list of electors, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) vouches for him or her on oath in the prescribed form, which form must include a statement as to the residence of both electors.
+
+
+
+
+
+
+
+
+
+
+
+(2) Il ne peut toutefois être inscrit que s’il établit son identité et sa résidence :
+
+
+
+
+Conditions
+
+
+
+
+
+
+a) soit en présentant la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) soit en prêtant le serment prescrit, s’il est accompagné d’un électeur dont le nom figure sur la liste électorale officielle de la même section de vote et qui, à la fois :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) présente soit la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou qui concorde avec les renseignements figurant à son égard sur la liste électorale officielle, soit les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) répond de lui, sous serment, sur le formulaire prescrit, lequel comporte une déclaration portant sur la résidence des deux électeurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Registration certificate
+
+
+
+
+(3) If the elector satisfies the requirements of subsection (2), the deputy returning officer shall complete a registration certificate in the prescribed form and the elector shall sign it.
+
+
+
+
+
+
+
+
+
+
+
+(3) Si l’électeur satisfait aux exigences du paragraphe (2), le scrutateur remplit un certificat d’inscription selon le formulaire prescrit et le lui fait signer.
+
+
+
+
+Certificat d’inscription
+
+
+
+
+
+
+
+
+
+
+Recording of eligible electors
+
+
+
+
+(4) The poll clerk shall indicate on the prescribed form the names of the electors who are permitted to vote under this section.
+
+
+
+
+
+
+
+
+
+
+
+(4) Le greffier du scrutin inscrit sur le formulaire prescrit le nom des électeurs admis à voter en vertu du présent article.
+
+
+
+
+Obligation du greffier du scrutin
+
+
+
+
+
+
+
+
+
+
+Prohibition — vouching for more than one elector
+
+
+
+
+(5) No elector shall vouch for more than one elector at an election.
+
+
+
+
+
+
+
+
+
+
+
+(5) Il est interdit à un électeur de répondre de plus d’un électeur à une élection.
+
+
+
+
+Interdiction de répondre de plus d’un électeur
+
+
+
+
+
+
+
+
+
+
+Prohibition — vouchee acting as voucher
+
+
+
+
+(6) An elector who has been vouched for at an election may not vouch for another elector at that election.
+
+
+
+
+
+
+
+
+
+
+
+(6) L’électeur pour lequel un autre électeur s’est porté répondant ne peut lui-même agir à ce titre à la même élection.
+
+
+
+
+Interdiction d’agir à titre de répondant
+
+
+
+
+
+
+
+
+
+
+Requirement before administering oath
+
+
+
+
+
+176.3 If a person chooses to prove his or her identity and residence by taking the prescribed oath, the person who administers the oath shall, before doing so, orally advise the oath taker of the qualifications for electors.
+
+
+
+
+
+
+
+
+
+
+
+
+176.3 Si une personne décide d’établir son identité et sa résidence en prêtant le serment prescrit, la personne devant laquelle doit être prêté le serment avise verbalement l’intéressé des conditions à remplir pour acquérir la qualité d’électeur.
+
+
+
+
+Avis préalable
+
+
+
+
+
+
+
+
+
+
+List deemed to be modified
+
+
+
+
+
+176.4 When a registration certificate is completed and signed in accordance with subsection 176.2(3), the official list of electors is deemed to have been modified in accordance with the certificate.
+
+
+
+
+
+
+
+
+
+
+
+
+176.4 Lorsqu’un certificat d’inscription est délivré selon le paragraphe 176.2(3), la liste électorale officielle est réputée avoir été modifiée en conséquence.
+
+
+
+
+Présomption de modification
+
+
+
+
+
+
+
+
+
+
+Who may vote at advance polls
+
+
+
+
+
+176.5 (1) An elector whose name is on the official list of electors for a polling division may vote at the advance polling station established for the polling division.
+
+
+
+
+
+
+
+
+
+
+
+
+176.5 (1) L’électeur dont le nom figure sur la liste électorale officielle dressée pour une section de vote peut voter au bureau de vote par anticipation établi pour cette section.
+
+
+
+
+Électeurs autorisés à voter
+
+
+
+
+
+
+
+
+
+
+Elector not on the revised list
+
+
+
+
+(2) An elector whose name is not on the official list of electors may not vote at an advance polling station unless
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the deputy returning officer ascertains with the returning officer that the elector is listed on the preliminary list of electors or was registered during the revision period; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the elector has obtained a registration certificate in accordance with subsection 176.2(3).
+
+
+
+
+
+
+
+
+
+
+
+(2) L’électeur dont le nom ne figure pas sur la liste électorale officielle n’est admis à voter que dans l’un ou l’autre des cas suivants :
+
+
+
+
+Électeurs non inscrits
+
+
+
+
+
+
+a) le scrutateur est convaincu, après vérification auprès du directeur du scrutin, qu’il est inscrit sur la liste électorale préliminaire ou qu’il a été inscrit comme électeur au moment de la révision;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) il a obtenu un certificat d’inscription en conformité avec le paragraphe 176.2(3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Procedure by poll clerk
+
+
+
+
+(3) If an elector whose name is not on the official list of electors has voted, the poll clerk shall indicate on the prescribed form that the elector has voted in accordance with subsection (2).
+
+
+
+
+
+
+
+
+
+
+
+(3) Lorsqu’un électeur dont le nom ne figure pas sur la liste électorale officielle a voté, le greffier du scrutin indique sur le formulaire prescrit que l’électeur a voté conformément au paragraphe (2).
+
+
+
+
+Inscription du greffier du scrutin
+
+
+
+
+
+
+
+
+
+
+Duties of deputy returning officer
+
+
+
+
+
+176.6 (1) If an elector whose name is on the official list of electors makes a request to vote at an advance polling station that is established for his or her polling division, the deputy returning officer shall permit the elector to vote unless
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the elector fails to prove his or her identity and residence in accordance with subsection 143(2) or (3) or to take an oath otherwise required by this Act; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the elector refuses to sign the record of votes cast at an advance polling station referred to in subsection (2), as directed by the poll clerk under that subsection.
+
+
+
+
+
+
+
+
+
+
+
+
+176.6 (1) Lorsque l’électeur dont le nom figure sur la liste électorale officielle demande à voter au bureau de vote par anticipation établi pour sa section de vote, le scrutateur est tenu de l’autoriser à voter, sauf si, selon le cas :
+
+
+
+
+Obligation du scrutateur
+
+
+
+
+
+
+a) il n’établit pas son identité ou sa résidence conformément aux paragraphes 143(2) ou (3), ou ne prête pas serment conformément à la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) il refuse de signer le registre du vote visé au paragraphe (2), malgré la demande du greffier du scrutin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Record of votes cast
+
+
+
+
+(2) The poll clerk at the advance polling station shall, under the direction of the deputy returning officer, keep a record in duplicate, in the prescribed form, of the names of all electors who vote at the advance polling station, in the order in which they vote, and shall
+
+
+
+
+
+
+
+
+
+
+
+
+(a) mark on the record the notations that the poll clerk is required by this Act to make opposite an elector’s name at a polling station on polling day; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) direct the elector to sign the record opposite his or her name.
+
+
+
+
+
+
+
+
+
+
+
+(2) Au bureau de vote par anticipation, le greffier du scrutin, sur les instructions du scrutateur, tient en double, selon le formulaire prescrit, un registre des noms des électeurs qui y votent, dans l’ordre où ils ont voté, et doit :
+
+
+
+
+Registre du vote
+
+
+
+
+
+
+a) faire à côté du nom de chaque électeur les inscriptions qu’il est tenu de faire, aux termes de la présente loi, à un bureau de scrutin le jour du scrutin;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) demander à l’électeur d’apposer sa signature à côté de son nom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opening of advance poll
+
+
+
+
+
+176.7 (1) At the opening of the advance polling station at noon on the day before polling day, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
+
+
+
+
+
+
+
+
+
+
+
+
+(a) open the ballot box and ascertain that it is empty;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) seal the ballot box with the seals provided by the Chief Electoral Officer; and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) place the ballot box on a table in full view of all present and keep it there until the advance polling station closes.
+
+
+
+
+
+
+
+
+
+
+
+
+176.7 (1) À l’ouverture du bureau de vote par anticipation, à 12 h le jour précédant celui du scrutin, le scrutateur, sous le regard des candidats ou de leurs représentants qui sont sur les lieux :
+
+
+
+
+Examen de l’urne et apposition des sceaux
+
+
+
+
+
+
+a) ouvre l’urne et s’assure qu’elle est vide;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) la scelle au moyen des sceaux fournis par le directeur général des élections;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) la place sur une table, bien en vue des personnes présentes, et l’y laisse jusqu’à la fermeture du bureau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close of advance poll
+
+
+
+
+(2) At the close of the advance polling station at 8:00 p.m., the deputy returning officer shall, in full view of the candidates or their representatives who are present,
+
+
+
+
+
+
+
+
+
+
+
+
+(a) unseal and open the ballot box;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) empty the ballots cast during that day, in a manner that does not disclose for whom any elector has voted, into the envelope supplied for the purpose, seal the envelope with the seal provided by the Chief Electoral Officer and indicate on it the number of ballots that it contains;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) count the spoiled ballots, place them in the envelope supplied for the purpose, seal the envelope and indicate on it the number of spoiled ballots that it contains;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) count the unused ballots and the number of electors who have voted at the advance polling station and place the unused ballots and a copy of the record of votes cast at the advance polling station in the envelope supplied for the purpose, seal the envelope with the seal provided by the Chief Electoral Officer and indicate on it the number of unused ballots that it contains and the number of electors who have voted; and
+
+
+
+
+
+
+
+
+
+
+
+
+(e) place the envelopes referred to in paragraphs (b) to (d) in the ballot box after the signatures have been made as described in subsection (3), and seal the ballot box.
+
+
+
+
+
+
+
+
+
+
+
+(2) À la fermeture du bureau de vote par anticipation, à 20 h, le scrutateur, sous le regard des candidats ou de leurs représentants qui sont sur les lieux :
+
+
+
+
+Mesures à prendre à la fermeture
+
+
+
+
+
+
+a) descelle et ouvre l’urne;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) verse les bulletins de vote déposés au cours de la journée, de manière à ne pas révéler en faveur de qui les électeurs ont voté, dans l’enveloppe fournie à cette fin, scelle l’enveloppe avec le sceau fourni par le directeur général des élections et indique sur celle-ci le nombre des bulletins de vote;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) compte les bulletins de vote annulés, les place dans l’enveloppe fournie à cette fin, scelle l’enveloppe et en indique le nombre sur celle-ci;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) compte les bulletins de vote inutilisés et le nombre d’électeurs qui ont voté au bureau et place les bulletins de vote inutilisés ainsi qu’une copie du registre du vote dans l’enveloppe fournie à cette fin, scelle l’enveloppe avec le sceau fourni par le directeur général des élections et indique sur celle-ci le nombre des bulletins de vote inutilisés et des électeurs qui ont voté;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) dépose les enveloppes dans l’urne après que les signatures visées au paragraphe (3) ont été apposées et scelle l’urne.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Affixing of signatures
+
+
+
+
+(3) The deputy returning officer and poll clerk shall place their signatures on the seals affixed to the envelopes referred to in paragraphs (2)(b) to (d). The candidates or their representatives who are present may also place their signatures on the seals.
+
+
+
+
+
+
+
+
+
+
+
+(3) Le scrutateur et le greffier du scrutin signent les sceaux apposés sur les enveloppes mentionnées aux alinéas (2)b) à d); les candidats ou leurs représentants qui sont sur les lieux peuvent aussi apposer leur signature.
+
+
+
+
+Signatures et sceaux
+
+
+
+
+
+
+
+
+
+
+Candidates may check seals
+
+
+
+
+(4) When the advance polling station closes, the candidates or their representatives may take note of the serial number of the seal on the ballot box, and may again take note of the serial number when the advance polling station is re-opened as a polling station on polling day.
+
+
+
+
+
+
+
+
+
+
+
+(4) À la fermeture du bureau de vote par anticipation, les candidats ou leurs représentants peuvent prendre note du numéro de série inscrit sur le sceau utilisé sur l’urne. Ils peuvent encore prendre note de ce numéro à la réouverture du bureau à titre de bureau de scrutin le lendemain.
+
+
+
+
+Vérification du numéro de série du sceau de l’urne
+
+
+
+
+
+
+
+
+
+
+Custody of ballot box
+
+
+
+
+(5) The deputy returning officer shall keep the sealed ballot box in his or her custody until the advance polling station is re-opened as a polling station on polling day.
+
+
+
+
+
+
+
+
+
+
+
+(5) Le scrutateur conserve l’urne scellée sous sa garde jusqu’à la réouverture du bureau à titre de bureau de scrutin le lendemain.
+
+
+
+
+Garde de l’urne
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Subsection 289(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. Le paragraphe 289(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Counting of votes on polling day
+
+
+
+
+289. (1) At the close of the polling stations on polling day, the deputy returning officer of an advance poll shall attend with the poll clerk at the place mentioned in the notice of advance poll in subparagraph 167.2(a)(iv) to count the votes.
+
+
+
+
+
+
+
+
+
+
+289. (1) À la fermeture des bureaux de scrutin, le jour du scrutin, le scrutateur du bureau de vote par anticipation et son greffier du scrutin doivent se trouver au lieu indiqué conformément au sous-alinéa 167.2a)(iv) pour compter les votes.
+
+
+
+Dépouillement le jour du scrutin
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. Subsection 489(2) of the Act is amended by striking out “or” at the end of paragraph (d) and by adding the following after paragraph (e):
+
+
+
+
+
+
+
+
+
+
+11. Le paragraphe 489(2) de la même loi est modifié par adjonction, après l’alinéa e), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(f) contravenes subsection 176.2(5) (vouching for more than one elector); or
+
+
+
+
+
+
+
+
+(g) contravenes subsection 176.2(6) (vouch- ee acting as voucher).
+
+
+
+
+
+
+
+
+
+
+
+
+f) quiconque contrevient au paragraphe 176.2(5) (répondre de plus d’un électeur);
+
+
+
+
+
+
+
+
+
+g) quiconque contrevient au paragraphe 176.2(6) (agir à titre de répondant).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Section 490 of the Act is amended by striking out “or” at the end of paragraph (b) and by adding the following after paragraph (c):
+
+
+
+
+
+
+
+
+
+
+12. L’article 490 de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) being a deputy returning officer, wilfully contravenes subsection 176.6(1) (failure to permit person to vote);
+
+
+
+
+
+
+
+
+(e) being a poll clerk, wilfully contravenes subsection 176.6(2) (failure to record vote); or
+
+
+
+
+
+
+
+
+(f) being a deputy returning officer, contravenes section 176.7 (improper handling of ballot box and ballots at advance poll) with the intention of causing the reception of a vote that should not have been cast or the non-reception of a vote that should have been cast.
+
+
+
+
+
+
+
+
+
+
+
+
+d) le scrutateur qui contrevient volontairement au paragraphe 176.6(1) (défaut de permettre à l’électeur de voter);
+
+
+
+
+
+
+
+
+
+e) le greffier du scrutin qui contrevient volontairement au paragraphe 176.6(2) (défaut de tenir un registre du vote);
+
+
+
+
+
+
+
+
+
+f) s’il a l’intention de faire recevoir un vote qui ne devrait pas l’être ou d’empêcher de recevoir un vote qui devrait l’être, le scrutateur qui contrevient à l’article 176.7 (défaut de prendre les mesures requises concernant l’urne et les bulletins de vote au bureau de vote par anticipation).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+
+13. This Act comes into force three months after the day on which it is assented to unless, before then, the Chief Electoral Officer publishes a notice in the Canada Gazette that the necessary preparations for the bringing into operation of this Act have been made and that this Act may come into force accordingly, in which case it comes into force on the day on which the notice is published.
+
+
+
+
+
+
+
+
+
+
+13. La présente loi entre en vigueur trois mois après la date de sa sanction, à moins que le directeur général des élections ne publie auparavant, dans la Gazette du Canada, un avis portant que les préparatifs nécessaires à sa mise en application ont été faits et qu’elle peut en conséquence entrer en vigueur, auquel cas elle entre en vigueur le jour de la publication de l’avis.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Canada Elections Act
+
+Clause 2: Existing text of the definitions:
+“advance polling station” means a polling station established under subsection 168(3).
+“spoiled”, in relation to a ballot or a special ballot as defined in section 177, means 
+(a) one that has not been deposited in the ballot box but has been found by the deputy returning officer to be soiled or improperly printed; or
+(b) one that is dealt with under subsection 152(1), including in relation to advance polls by virtue of subsection 171(1), or subsection 213(4), 242(1) or 258(3).
+
+
+
+Loi électorale du Canada
+
+Article 2 : Texte des définitions :
+« annulé » S’agissant du bulletin de vote ou du bulletin de vote spécial au sens de l’article 177 : 
+
+a) le bulletin de vote qui n’a pas été déposé dans l’urne mais que le scrutateur a trouvé sali ou imprimé incorrectement;
+
+b) le bulletin de vote annulé dans le cadre des paragraphes 152(1), 171(1) — dans la mesure où il prévoit l’application du paragraphe 152(1) aux bureaux de vote par anticipation —, 213(4), 242(1) ou 258(3).
+« bureau de vote par anticipation » Bureau de vote établi en vertu du paragraphe 168(3). 
+
+
+
+
+
+Clause 3: Relevant portion of section 32:
+
+32. After the issue of the writ, a returning officer shall appoint the following election officers in the prescribed form:
+...  
+(b) one deputy returning officer and one poll clerk for each advance polling station in the electoral district;
+(c) one deputy returning officer and one poll clerk for each polling station in the electoral district; and
+
+
+
+
+Article 3 : Texte du passage visé de l’article 32 :
+
+32. Après la délivrance du bref, le directeur du scrutin nomme, selon le formulaire prescrit :
+[...]  
+
+b) un scrutateur et un greffier du scrutin pour chacun des bureaux de vote par anticipation de la circonscription;
+
+c) un scrutateur et un greffier du scrutin pour chacun des bureaux de scrutin de la circonscription;
+
+
+
+
+
+Clause 4: Existing text of section 106:
+
+106. Each returning officer shall, on the 3rd day before polling day, prepare the official list of electors for each polling division for use on polling day.
+
+
+
+
+Article 4 : Texte de l’article 106 :
+
+106. Le troisième jour précédant le jour du scrutin, le directeur du scrutin dresse, pour utilisation le jour du scrutin, la liste électorale officielle pour chaque section de vote de la circonscription.
+
+
+
+
+
+Clause 5: Existing text of section 140:
+
+140. When the polling station opens, the deputy returning officer shall, in full view of the candidates or their representatives who are present, open the ballot box and ascertain that it is empty, and shall
+(a) seal the ballot box with the seals provided by the Chief Electoral Officer; and
+(b) place the ballot box on a table in full view of all present and ensure that the box remains there until the polling station closes.
+
+
+
+
+Article 5 : Texte de l’article 140 :
+
+140. À l’ouverture du bureau de scrutin, le scrutateur, sous le regard des candidats et des représentants qui sont sur les lieux, ouvre l’urne, s’assure qu’elle est vide et, ensuite :
+
+a) la scelle au moyen de sceaux fournis par le directeur général des élections;
+
+b) la place sur une table, bien en vue des personnes présentes, et l’y laisse jusqu’à la fermeture du bureau de scrutin.
+
+
+
+
+
+Clause 6: New.
+
+
+
+
+Article 6 : Nouveau.
+
+
+
+
+
+Clause 7: Existing text of sections 171 and 172:
+
+171. (1) Except as provided in this Part, an advance poll shall be conducted in the same manner as the manner in which the vote at a polling station on polling day is conducted and shall be regarded as such for all purposes of this Act.
+(2) An advance poll shall only be open between the hours of noon and 8:00 p.m. on Friday, Saturday and Monday, the 10th, 9th and 7th days, respectively, before polling day.
+
+172. Each returning officer shall, not later than Saturday, the 16th day before polling day,
+(a) give a notice, in the prescribed form, in the electoral district of the advance poll, that sets out the following information:
+(i) the numbers of the polling divisions in every advance polling district established by the returning officer,
+(ii) the location of each advance polling station,
+(iii) the place where the deputy returning officer of each advance polling station shall count the number of votes cast at the advance polling station, and
+(iv) that the counting of the votes cast shall take place on polling day as soon after the close of the polling stations as possible; and
+(b) send two copies of the notice to each candidate and to the Chief Electoral Officer.
+
+
+
+
+Article 7 : Texte des articles 171 et 172 :
+
+171. (1) Sauf disposition contraire de la présente partie, le vote par anticipation doit être tenu de la même manière que le vote aux bureaux de scrutin le jour du scrutin et, pour l’application de la présente loi, y est assimilé.
+(2) Les bureaux de vote par anticipation doivent être ouverts de 12 h à 20 h, les vendredi, samedi et lundi, dixième, neuvième et septième jours précédant le jour du scrutin. Ils ne peuvent être ouverts à aucun autre moment.
+
+172. Au plus tard le samedi seizième jour précédant le jour du scrutin, le directeur du scrutin :
+
+a) donne dans la circonscription un avis du vote par anticipation, selon le formulaire prescrit, indiquant :
+(i) les numéros des sections de vote comprises dans chaque district de vote par anticipation qu’il a établi,
+(ii) l’emplacement de chaque bureau de vote par anticipation,
+(iii) l’endroit où le scrutateur de chaque bureau de vote par anticipation doit compter le nombre de votes donnés à ce bureau,
+(iv) l’obligation de procéder au dépouillement le jour du scrutin, le plus tôt possible après la fermeture des bureaux de scrutin;
+
+b) expédie deux copies de l’avis à chacun des candidats et au directeur général des élections.
+
+
+
+
+
+Clause 8: (1) Relevant portion of subsection 175(1):
+
+175. (1) At the opening of an advance polling station at noon on the first day of voting, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
+
+
+
+
+Article 8 : (1) Texte du passage visé du paragraphe 175(1) :
+
+175. (1) À l’ouverture du bureau de vote par anticipation, à 12 h le premier jour du vote, le scrutateur, sous le regard des candidats et des représentants qui sont sur les lieux :
+
+
+
+
+(2) Relevant portion of subsection 175(2):
+(2) At the close of the advance polling station at 8:00 p.m. on each of the three days of voting, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
+
+
+
+(2) Texte du passage visé du paragraphe 175(2) :
+(2) À la fermeture du bureau de vote par anticipation, à 20 h chacun des trois jours du vote, le scrutateur, sous le regard des candidats et des représentants qui sont sur les lieux :
+
+
+
+
+(3) Relevant portion of subsection 175(4):
+(4) At the re-opening of the advance polling station at noon on the 2nd and 3rd days of voting, the deputy returning officer shall, in full view of the candidates or their representatives who are present,
+(a) unseal and open the ballot box, leaving in it the sealed envelopes containing the spoiled ballots and the ballots cast on the previous day or days of voting;
+
+
+
+(3) Texte du passage visé du paragraphe 175(4) :
+(4) À la réouverture du bureau de vote par anticipation, à 12 h les deuxième et troisième jours du vote, le scrutateur, sous le regard des candidats et des représentants qui sont sur les lieux :
+
+a) descelle et ouvre l’urne, y laissant les enveloppes scellées contenant les bulletins de vote annulés et les bulletins déposés le ou les jours de vote précédents;
+
+
+
+
+(4) Existing text of subsection 175(6):
+(6) When an advance polling station closes on each of the three days of the vote, the candidates or their representatives may take note of the serial number of the seal on the ballot box, and may again take note of the serial number when the advance polling station is re-opened on each of the three days of voting and when the votes are counted on polling day.
+
+
+
+(4) Texte du paragraphe 175(6) :
+(6) À la fermeture du bureau de vote par anticipation chacun des trois jours du vote, les candidats ou leurs représentants peuvent prendre note du numéro de série inscrit sur le sceau utilisé sur l’urne. Ils peuvent encore prendre note de ce numéro de série à la réouverture du bureau les deuxième et troisième jours du vote et au dépouillement du scrutin le jour du scrutin.
+
+
+
+
+
+Clause 9: New.
+
+
+
+
+Article 9 : Nouveau.
+
+
+
+
+
+Clause 10: Existing text of subsection 289(1):
+
+289. (1) The deputy returning officer of an advance poll shall, at the close of the polling stations on polling day, attend with the poll clerk at the place mentioned in the notice of advance poll in subparagraph 172(a)(iii) to count the votes.
+
+
+
+
+Article 10 : Texte du paragraphe 289(1) :
+
+289. (1) À la fermeture des bureaux de scrutin, le jour du scrutin, le scrutateur du bureau de vote par anticipation et son greffier du scrutin doivent se trouver au lieu indiqué conformément au sous-alinéa 172a)(iii) pour compter les votes.
+
+
+
+
+
+Clause 11: Relevant portion of subsection 489(2):
+(2) Every person is guilty of an offence who
+
+
+
+
+Article 11 : Texte du passage visé du paragraphe 489(2) :
+(2) Commet une infraction :
+
+
+
+
+
+Clause 12: Relevant portion of section 490:
+
+490. Every person is guilty of an offence who
+
+
+
+
+Article 12 : Texte du passage visé de l’article 490 :
+
+490. Commet une infraction :
+
+
+
+
+
+

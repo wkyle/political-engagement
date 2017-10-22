@@ -1,0 +1,1435 @@
+
+
+
+
+
+C-697
+
+
+
+
+
+C-697
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-697
+
+
+
+
+
+PROJET DE LOI C-697
+
+
+
+
+
+
+An Act to establish a process to recall members of Parliament
+
+
+
+
+
+Loi établissant un processus visant la révocation de députés
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 17, 2015
+
+première lecture le 17 juin 2015
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Rathgeber
+
+412306
+
+
+
+M. Rathgeber
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to allow electors of an electoral district to apply to the Chief Electoral Officer for issuance of a petition for the recall of the member of Parliament who was elected in that electoral district. If the petition is signed by at least 25% of the electors who were eligible to vote in that electoral district at the time the member to be recalled was last elected and who still reside in the district, the seat of the member is declared vacant and a recall election is held on the same basis as a by-election under the Canada Elections Act.
+
+
+
+SOMMAIRE
+Le texte a pour objet de permettre aux électeurs d’une circonscription de demander au directeur général des élections de lancer une pétition visant la révocation de leur député. Si la pétition est signée par au moins 25 % des électeurs qui étaient habiles à voter dans la circonscription concernée lors de la dernière élection du député visé et qui y résident encore, le siège du député visé est déclaré vacant et une élection en révocation, assimilée à une élection partielle, est tenue conformément à la Loi électorale du Canada.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-697
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-697
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to establish a process to recall members of Parliament
+
+
+
+
+
+
+
+
+
+Loi établissant un processus visant la révocation de députés
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Recall of a Member of Parliament Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la révocation de députés.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. In this Act,  “elector”, “electoral district”, “list of electors” and “member” have the same meaning as in subsection 2(1) of the Canada Elections Act.
+
+
+
+
+
+
+
+
+
+2. Dans la présente loi, « circonscription », « député », « électeur » et « liste électorale » s’entendent au sens du paragraphe 2(1) de la Loi électorale du Canada.
+
+
+
+Définitions
+
+
+
+
+
+
+
+
+
+
+Application for recall petition
+
+
+
+3. (1) An elector whose name was included in a list of electors for, or who was entitled to vote in, an electoral district at the last general election, or at a by-election held since the last general election, may apply to the Chief Electoral Officer for the issuance of a petition for the recall of the member of Parliament who was elected in that electoral district at that time.
+
+
+
+
+
+
+
+
+
+3. (1) Peut demander au directeur général des élections de lancer une pétition en révocation d’un député tout électeur inscrit sur une liste électorale de la circonscription représentée par ce député ou qui était habile à voter dans cette circonscription lors de la dernière élection générale ou d’une élection partielle tenue depuis la dernière élection générale.
+
+
+
+Demande de pétition en révocation 
+
+
+
+
+
+
+
+
+
+
+Content of application
+
+
+
+(2) The application for the issuance of a recall petition must contain the following information:
+
+
+
+
+
+
+
+
+(a) the name of the member to be recalled;
+
+
+
+
+
+
+
+
+(b) the name, address and mailing address in Canada of the petitioner at which he or she may be contacted in relation to the petition;
+
+
+
+
+
+
+
+
+(c) a statement, not exceeding 400 words, setting out why, in the opinion of the petitioner, the recall of the member is warranted; and
+
+
+
+
+
+
+
+
+(d) a solemn declaration of the petitioner that he or she is not disqualified under this Act from making the application.
+
+
+
+
+
+
+
+
+
+(2) La demande contient les renseignements suivants :
+
+
+
+Contenu de la demande
+
+
+
+
+a) le nom du député visé;
+
+
+
+
+
+
+
+
+b) le nom et l’adresse du requérant ainsi que l’adresse postale au Canada où il est possible d’entrer en communication avec lui relativement à la pétition;
+
+
+
+
+
+
+
+
+c) une déclaration d’au plus quatre cents mots dans laquelle le requérant explique pourquoi, à son avis, la révocation du député s’impose;
+
+
+
+
+
+
+
+
+d) une déclaration solennelle du requérant attestant qu’il n’est pas inhabile, au titre de la présente loi, à présenter la demande.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fee
+
+
+
+(3) The application for the issuance of a recall petition must be accompanied by a  fee of $500.
+
+
+
+
+
+
+
+
+
+(3) La demande est accompagnée d'un droit de 500 $.
+
+
+
+Droits
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(4) Despite subsection (1), no application for the issuance of a recall petition may be made during the 12 months following the polling day on which the member to be recalled was elected or during the 12 months preceding a fixed election date.
+
+
+
+
+
+
+
+
+
+(4) Malgré le paragraphe (1), aucune demande ne peut être présentée dans les douze mois suivant le jour du scrutin où le député visé a été élu ou dans les douze mois précédant une élection à date fixe.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Issue of recall petition
+
+
+
+4. (1) If satisfied that the requirements of section 3 have been met, the Chief Electoral Officer must
+
+
+
+
+
+
+
+
+(a) notify the petitioner, the member to be recalled and the Speaker of the House of Commons that an application for the issuance of a recall petition has been approved;
+
+
+
+
+
+
+
+
+(b) issue the petition within 14 days after notice is given in accordance with paragraph (a) and provide the petitioner with the form of the pages on which signatures to the petition must be collected; and
+
+
+
+
+
+
+
+
+(c) publish in the Canada Gazette a notice that a recall petition has been approved and issued for the electoral district.
+
+
+
+
+
+
+
+
+
+4. (1) S’il est convaincu que les conditions prévues à l’article 3 sont remplies, le directeur général des élections :
+
+
+
+Lancement de la pétition en révocation
+
+
+
+
+a) avise le requérant, le député visé et le président de la Chambre des communes que la demande de lancement de pétition en révocation a été approuvée; 
+
+
+
+
+
+
+
+
+b) lance la pétition dans les quatorze jours suivant l’avis prévu à l’alinéa a) et remet au requérant la formule sur laquelle les signatures doivent être recueillies;
+
+
+
+
+
+
+
+
+c) publie dans la Gazette du Canada un avis indiquant qu’une pétition en révocation a été approuvée et lancée pour une circonscription.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inspection of  application
+
+
+
+(2) Once a recall petition has been issued, the application for the issuance of the recall petition may be inspected at the office of the Chief Electoral Officer during its regular office hours.
+
+
+
+
+
+
+
+
+
+(2) Après le lancement de la pétition,  il est possible d'examiner la demande au bureau du directeur général des élections durant les heures normales d’ouverture.
+
+
+
+Examen de la demande
+
+
+
+
+
+
+
+
+
+
+Promotion of a recall petition
+
+
+
+5. (1) Any elector may circulate and promote a recall petition on behalf of the petitioner and ask electors to sign it if the elector has registered his or her name and address with the Chief Electoral Officer before the date on which he or she begins canvassing.
+
+
+
+
+
+
+
+
+
+5. (1) Tout électeur peut diffuser une pétition en révocation, en faire la promotion pour le compte du requérant et demander à des électeurs de la signer, à la condition qu’il s’enregistre auprès du directeur général des élections en lui donnant son nom et son adresse avant de commencer à solliciter des signatures.
+
+
+
+Promotion de la pétition
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+(2) A person must not
+
+
+
+
+
+
+
+
+(a) provide money, goods, employment or other valuable consideration to another person for the purpose of obtaining their signature on a recall  petition; or
+
+
+
+
+
+
+
+
+(b) accept money, goods, employment or other valuable consideration in exchange for their signature on such a petition.
+
+
+
+
+
+
+
+
+
+(2) Nul ne peut :
+
+
+
+Interdiction
+
+
+
+
+a) fournir de l’argent, des biens, un emploi ou toute autre contrepartie valable à une personne dans le but d’obtenir sa signature sur une pétition en révocation;
+
+
+
+
+
+
+
+
+b) accepter une telle contrepartie en échange de sa signature sur une pétition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Who may sign a recall petition
+
+
+
+6. (1) An individual may sign a recall petition if
+
+
+
+
+
+
+
+
+(a) he or she was qualified as an elector and entitled to have his or her name included in the list of electors for a polling division of the electoral district at the time the member to be recalled was last elected; and
+
+
+
+
+
+
+
+
+(b) he or she is still a resident of that electoral district.
+
+
+
+
+
+
+
+
+
+6. (1) Peut signer la pétition en révocation quiconque :
+
+
+
+Pétitionnaires
+
+
+
+
+a) avait qualité d’électeur et avait le droit de faire inscrire son nom sur la liste électorale pour une  section de vote de la circonscription concernée lors de la dernière élection du député visé;
+
+
+
+
+
+
+
+
+b) réside encore dans cette circonscription. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limit
+
+
+
+(2) An individual may sign a recall petition only once.
+
+
+
+
+
+
+
+
+
+(2) Nul ne peut signer la pétition en révocation plus d’une fois.
+
+
+
+Limite
+
+
+
+
+
+
+
+
+
+
+Information by those signing
+
+
+
+(3) An individual who signs a recall petition must write legibly beside  the signature his or her full name, the address that qualifies him or her as an elector in the electoral district and the date of the signature.
+
+
+
+
+
+
+
+
+
+(3) La personne qui signe la pétition en révocation est tenue d’inscrire lisiblement, près de sa signature, son nom, l’adresse qui lui confère sa qualité d’électeur ainsi que la date de la signature.
+
+
+
+Renseignements fournis par les pétitionnaires
+
+
+
+
+
+
+
+
+
+
+Time limit to submit petition
+
+
+
+7. The petitioner must submit the signed petition to the Chief Electoral Officer within 90 days after the day on which the petition is issued and must state in writing the number of pages and the number of signatures on each page.
+
+
+
+
+
+
+
+
+
+7. Le requérant dépose la pétition signée auprès du directeur général des élections dans les quatre-vingt-dix jours suivant la date du lancement de la pétition et indique par écrit le nombre de pages et le nombre de signatures sur chacune des pages. 
+
+
+
+Délai pour le dépôt de la pétition
+
+
+
+
+
+
+
+
+
+
+Time limit for certification
+
+
+
+8. The Chief Electoral Officer must, within two months after the date of receipt of the recall petition, either 
+
+
+
+
+
+
+
+
+(a) certify that the petition is valid; or 
+
+
+
+
+
+
+
+
+(b) certify that the petition has lapsed and return it to the petitioner.
+
+
+
+
+
+
+
+
+
+8. Le directeur général des élections, dans les deux mois suivant la date à laquelle il a reçu la pétition certifie :
+
+
+
+Délai pour la certification
+
+
+
+
+a) soit que la pétition est valide; 
+
+
+
+
+
+
+
+
+b) soit que la pétition est caduque, auquel cas il la renvoie au requérant. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certified valid
+
+
+
+9. (1) The Chief Electoral Officer must certify that a recall petition is valid if the petition is in the correct form and if he or she is satisfied that the petition has been signed by a number of electors representing not less than 25% of the total number of electors for the electoral district who are entitled to sign the recall petition under section 6.
+
+
+
+
+
+
+
+
+
+9. (1) Le directeur général des élections est tenu de certifier comme étant valide la pétition qui est conforme et dont il est convaincu qu’elle a été signée par un nombre d’électeurs représentant au moins 25 % du nombre total des électeurs de la circonscription habiles à signer la pétition au titre de l’article 6.
+
+
+
+Pétition valide
+
+
+
+
+
+
+
+
+
+
+Requirement — signatures
+
+
+
+(2) To be counted for the purpose of subsection (1), a signature on the petition must be made in accordance with the requirements of this Act and be witnessed by the individual who canvassed the signature.
+
+
+
+
+
+
+
+
+
+(2) Une signature est comptée pour l’application du paragraphe (1) si elle respecte les exigences de la présente loi et si elle a été apposée en présence de la personne qui l’a sollicitée.
+
+
+
+Exigences — signatures
+
+
+
+
+
+
+
+
+
+
+Original signatures
+
+
+
+(3) A blank petition form may be circulated electronically, but a completed petition form must be delivered to the Chief Electoral Officer in physical form with original signatures.
+
+
+
+
+
+
+
+
+
+(3) La formule de pétition en blanc peut être diffusée électroniquement; toutefois, une fois remplie, la formule de pétition est remise au directeur général des élections en format papier et ne comporte que des signatures originales.
+
+
+
+Signatures manuscrites
+
+
+
+
+
+
+
+
+
+
+Result of valid recall petition
+
+
+
+10. If the Chief Electoral Officer certifies that a recall petition is valid, he or she must notify the petitioner, the member to be recalled and the Speaker of the House of Commons and must publish a notice to that effect in the Canada Gazette.
+
+
+
+
+
+
+
+
+
+10. Dans le cas où le directeur général des élections certifie que la pétition est valide, il en avise le requérant, le député visé ainsi que le président de la Chambre des communes et il publie un avis à cet égard dans la Gazette du Canada.  
+
+
+
+Effet d’une pétition en révocation valide 
+
+
+
+
+
+
+
+
+
+
+Vacant seat
+
+
+
+11. (1) The Speaker of the House of Commons must, on being notified that a recall petition has been certified valid, declare the seat of the recalled member vacant and address a warrant of the Speaker to the Chief Electoral Officer for the issue of a writ for the election of a member to fill the vacancy.
+
+
+
+
+
+
+
+
+
+11. (1) Le président de la Chambre des communes, dès qu’il est avisé qu’une pétition en révocation a été certifiée comme étant valide, déclare vacant le siège du député révoqué et adresse au directeur général des élections l’ordre officiel de délivrance d’un bref en vue de pourvoir à cette vacance. 
+
+
+
+Siège vacant
+
+
+
+
+
+
+
+
+
+
+By-election
+
+
+
+(2) An election held in the circumstances described in subsection (1) is deemed to be a by-election and must be conducted in accord-ance with the Canada Elections Act, but the date for voting at the election must be no more than three months after the issue of the writ.
+
+
+
+
+
+
+
+
+
+(2) L’élection déclenchée dans le cadre du paragraphe (1) est assimilée à une élection partielle  et est tenue conformément à la Loi électorale du Canada, la date du scrutin étant au plus trois mois après la délivrance du bref.  
+
+
+
+Élection partielle
+
+
+
+
+
+
+
+
+
+
+Candidate
+
+
+
+(3) The recalled member may be a candidate at the by-election.
+
+
+
+
+
+
+
+
+
+(3) Le député révoqué peut se porter candidat lors de l’élection partielle.
+
+
+
+Candidat
+
+
+
+
+
+
+
+
+
+
+Certification that petition has lapsed
+
+
+
+12. (1) The Chief Electoral Officer must certify that a recall petition has lapsed if
+
+
+
+
+
+
+
+
+(a) the petition has not been submitted on the form provided by the Chief Electoral Officer under section 4;
+
+
+
+
+
+
+
+
+(b) the petition has not been submitted within the time limit established under section 7;
+
+
+
+
+
+
+
+
+(c) the petition does not have sufficient signatures to be certified valid under section 9; or
+
+
+
+
+
+
+
+
+(d) any of the provisions of this Act have not been complied with.
+
+
+
+
+
+
+
+
+
+12. (1) Le directeur général des élections est tenu de certifier qu’une pétition est caduque dans les cas suivants : 
+
+
+
+Pétition caduque
+
+
+
+
+a) la pétition n’a pas été présentée au moyen de la formule fournie par le directeur général des élections en application du paragraphe 4; 
+
+
+
+
+
+
+
+
+b) la pétition n’a pas été déposée dans le délai prévu à l'article 7;
+
+
+
+
+
+
+
+
+c) la pétition ne compte pas un nombre suffisant de signatures pour être certifiée comme étant valide en application de l'article 9;
+
+
+
+
+
+
+
+
+d) il y a eu manquement aux dispositions de la présente loi. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notification
+
+
+
+(2) The Chief Electoral Officer must notify the petitioner that the petition has lapsed and must publish a notice of the lapse in the Canada Gazette. 
+
+
+
+
+
+
+
+
+
+(2) Le directeur général des élections avise le requérant que la pétition est caduque et il publie un avis à cet égard dans la Gazette du Canada. 
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Member’s and petitioners expenses
+
+
+
+13. (1) Part 18 of the Canada Elections Act applies in relation to a recall petition and any subsequent election, and the petitioner and the recalled  member are deemed to be candidates for the purposes of this part.
+
+
+
+
+
+
+
+
+
+13. (1) La partie 18 de la Loi électorale du Canada s’applique à l’égard de toute pétition en révocation et de toute élection qui en découle; le requérant et le député révoqué sont assimilés à des candidats pour l’application de cette partie.
+
+
+
+Dépenses du député et du requérant
+
+
+
+
+
+
+
+
+
+
+Official agent
+
+
+
+(2) The petitioner and the recalled member  may only accept recall petition contributions and incur recall petition expenses through their respective official agents.
+
+
+
+
+
+
+
+
+
+(2) Le requérant et le député révoqué ne peuvent accepter des contributions ou engager des dépenses relativement à la pétition en révocation que par leur agent officiel.
+
+
+
+Agent officiel
+
+
+
+
+
+
+
+
+
+
+Limit
+
+
+
+14. Only one election may be held under this Act for any electoral district during the period between general elections.
+
+
+
+
+
+
+
+
+
+14. Il ne peut être tenu, en vertu de la présente loi, qu’une seule élection par circonscription entre deux élections générales.
+
+
+
+Limite
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

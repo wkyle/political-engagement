@@ -1,0 +1,2082 @@
+
+
+
+
+
+C-2
+
+
+
+
+
+C-2
+
+
+
+
+
+
+First Session, Forty-second Parliament,
+
+
+
+
+
+Première session, quarante-deuxième législature,
+
+
+
+
+
+
+64 Elizabeth II, 2015
+
+
+
+
+
+64 Elizabeth II, 2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-2
+
+
+
+
+
+PROJET DE LOI C-2
+
+
+
+
+
+
+An Act to amend the Income Tax Act
+
+
+
+
+
+Loi modifiant la Loi de l’impôt sur le revenu
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 9, 2015
+
+première lecture le 9 décembre 2015
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF FINANCE
+
+90782
+
+
+
+MINISTRE DES FINANCES
+
+
+
+
+
+RECOMMENDATION
+His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the Income Tax Act”.
+SUMMARY
+This enactment amends the Income Tax Act to reduce the second personal income tax rate from 22% to 20.5% and to introduce a new personal marginal tax rate of 33% for taxable income in excess of $200,000. It also amends other provisions of that Act to reflect the new 33% rate. In addition, it amends that Act to reduce the annual contribution limit for tax-free savings accounts from $10,000 to its previous level with indexation ($5,500 for 2016) starting January 1, 2016.
+
+
+
+RECOMMANDATION
+Son Excellence le gouverneur général recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi de l’impôt sur le revenu ».
+SOMMAIRE
+Le texte modifie la Loi de l’impôt sur le revenu en vue de réduire le deuxième taux d’imposition du revenu d’un particulier de 22 % à 20,5 % et d’introduire un nouveau taux d’imposition marginal de 33 % sur la partie du revenu imposable d’un particulier qui excède 200 000 $. Il modifie aussi d’autres dispositions de cette loi pour tenir compte du nouveau taux de 33 %. En outre, il modifie cette loi en vue de ramener, à compter du 1er janvier 2016, le plafond de cotisation annuel à un compte d’épargne libre d’impôt de 10 000 $ à son niveau antérieur, y compris l’indexation, soit à 5 500 $ pour l’année 2016.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 42nd Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 42e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+64 Elizabeth II, 2015
+
+
+
+
+
+
+
+
+
+64 Elizabeth II, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-2
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Income Tax Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de l’impôt sur le revenu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., c. 1 (5th Supp.)
+
+
+
+INCOME TAX ACT
+
+
+
+
+
+
+
+
+
+LOI DE L’IMPÔT SUR LE REVENU
+
+
+
+L.R., ch. 1 (5e supp.)
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) Subsection 117(2) of the Income Tax Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. (1) Le paragraphe 117(2) de la Loi de l’impôt sur le revenu est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Rates for taxation years after 2015
+
+
+
+(2) The tax payable under this Part by an individual on the individual’s taxable income or taxable income earned in Canada, as the case may be (in this subdivision referred to as the “amount taxable”) for a taxation year is
+
+
+
+
+
+
+
+
+(a) 15% of the amount taxable, if the amount taxable is equal to or less than the amount determined for the taxation year in respect of $45,282;
+
+
+
+
+
+
+
+
+(b) if the amount taxable is greater than $45,282, but is equal to or less than $90,563, the maximum amount determinable in respect of the taxation year under paragraph (a), plus 20.5% of the amount by which the amount taxable exceeds $45,282 for the year;
+
+
+
+
+
+
+
+
+(c) if the amount taxable is greater than $90,563, but is equal to or less than $140,388, the maximum amount determi-nable in respect of the taxation year under paragraph (b), plus 26% of the amount by which the amount taxable exceeds $90,563 for the year;
+
+
+
+
+
+
+
+
+(d) if the amount taxable is greater than $140,388, but is equal to or less than $200,000, the maximum amount determi-nable in respect of the taxation year under paragraph (c), plus 29% of the amount by which the amount taxable exceeds $140,388 for the year; and
+
+
+
+
+
+
+
+
+(e) if the amount taxable is greater than $200,000, the maximum amount determi-nable in respect of the taxation year under paragraph (d), plus 33% of the amount by which the amount taxable exceeds $200,000 for the year.
+
+
+
+
+
+
+
+
+
+(2) L’impôt payable par un particulier en vertu de la présente partie sur, selon le cas, son revenu imposable ou son revenu imposable gagné au Canada (appelé « montant imposable » à la présente sous-section) pour une année d’imposition correspond à ce qui suit : 
+
+
+
+Taux pour les années d’imposition 2016 et suivantes
+
+
+
+
+a) si le montant imposable n’excède pas la somme déterminée pour l’année par rapport à 45 282 $, 15 % de ce montant;
+
+
+
+
+
+
+
+
+b) si le montant imposable excède 45 282 $ sans excéder 90 563 $, la somme maximale déterminable pour l’année selon l’alinéa a) plus 20,5 % de l’excédent du montant imposable sur 45 282 $ pour l’année;
+
+
+
+
+
+
+
+
+c) si le montant imposable excède 90 563 $ sans excéder 140 388 $, la somme maximale déterminable pour l’année selon l’alinéa b) plus 26 % de l’excédent du montant imposable sur 90 563 $ pour l’année;
+
+
+
+
+
+
+
+
+d) si le montant imposable excède 140 388 $ sans excéder 200 000 $, la somme maximale déterminable pour l’année selon l’alinéa c) plus 29 % de l’excédent du montant imposable sur 140 388 $ pour l’année;
+
+
+
+
+
+
+
+
+e) si le montant imposable excède 200 000 $, la somme maximale déterminable pour l’année selon l’alinéa d) plus 33 % de l’excédent du montant imposable sur 200 000 $ pour l’année.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection (1) applies to the 2016 and subsequent taxation years.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) s’applique aux années d’imposition 2016 et suivantes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) The formula in subsection 118.1(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. (1) La formule figurant au paragraphe 118.1(3) de la même loi est remplacée par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A × B + C × D + E × F
+
+
+
+
+
+
+
+
+
+A × B + C × D + E × F
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The descriptions of C and D in subsection 118.1(3) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les éléments C et D de la formule figurant au paragraphe 118.1(3) de la même loi sont remplacés par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C      is the highest individual percentage for the year;
+
+
+
+
+
+
+D      is the lesser of
+
+
+
+
+
+
+(a) the amount, if any, by which the individual’s total gifts for the year exceeds $200, and
+
+
+
+
+
+
+(b) the amount, if any, by which the individual’s amount taxable for the year for the purposes of subsection 117(2) exceeds the first dollar amount (as adjusted for the year in accordance with section 117.1) referred to in paragraph 117(2)(e);
+
+
+
+
+
+
+E      is 29%; and
+
+
+
+
+
+
+F      is the amount, if any, by which the individual’s total gifts for the year exceed the total of $200 and the amount determined for D.
+
+
+
+
+
+
+
+
+
+C      le taux d’imposition supérieur pour l’année;
+
+
+
+
+
+
+D      le moindre des montants suivants : 
+
+
+
+
+
+
+a) l’excédent éventuel du total des dons du particulier pour l’année sur 200 $,
+
+
+
+
+
+
+b) l’excédent éventuel du montant imposable du particulier pour l’année pour l’application du paragraphe 117(2) sur la première somme, rajustée pour l’année conformément à l’article 117.1, mentionnée à l’alinéa 117(2)e);
+
+
+
+
+
+
+E      29 %;
+
+
+
+
+
+
+F      l’excédent éventuel du total des dons du particulier pour l’année sur le total de 200 $ et du montant déterminé selon l’élément D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsections (1) and (2) apply to gifts made after 2015.
+
+
+
+
+
+
+
+
+
+(3) Les paragraphes (1) et (2) s’appliquent aux dons faits après 2015.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. (1) Subparagraph (b)(i) of the definition “tax otherwise payable under this Part” in subsection 120(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. (1) Le sous-alinéa b)(i) de la définition de « impôt qu’il est par ailleurs tenu de payer en vertu de la présente partie » ou « impôt payable par ailleurs en vertu de la présente partie », au paragraphe 120(4) de la même loi, est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) the highest individual percentage for the year multiplied by the individual’s split income for the year
+
+
+
+
+
+
+
+
+
+(i) le produit du taux d’imposition supérieur pour l’année par le revenu fractionné du particulier pour l’année,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection (1) applies to the 2016 and subsequent taxation years.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) s’applique aux années d’imposition 2016 et suivantes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. (1) Subsection 120.4(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. (1) Le paragraphe 120.4(2) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Tax on split income
+
+
+
+(2) There shall be added to a specified individual’s tax payable under this Part for a taxation year the highest individual percentage for the year multiplied by the individual’s split income for the year.
+
+
+
+
+
+
+
+
+
+(2) Est ajouté à l’impôt payable en vertu de la présente partie par un particulier déterminé pour une année d’imposition le produit du taux d’imposition supérieur pour l’année par le revenu fractionné du particulier pour l’année.
+
+
+
+Impôt sur le revenu fractionné
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection (1) applies to the 2016 and subsequent taxation years.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) s’applique aux années d’imposition 2016 et suivantes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. (1) Paragraph 122(1)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. (1) L’alinéa 122(1)a) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the highest individual percentage for the taxation year multiplied by the trust’s amount taxable for the taxation year,
+
+
+
+
+
+
+
+
+
+a) le produit du taux d’imposition supérieur pour l’année par le montant imposable de la fiducie pour l’année;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection (1) applies to the 2016 and subsequent taxation years.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) s’applique aux années d’imposition 2016 et suivantes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) The portion of section 123.3 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+6. (1) Le passage de l’article 123.3 de la même loi précédant l’alinéa a) est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Refundable tax on CCPC’s investment income
+
+
+
+123.3 There shall be added to the tax otherwise payable under this Part for each taxation year by a corporation that is throughout the year a Canadian-controlled private corporation an amount equal to 10 2/3% of the lesser of
+
+
+
+
+
+
+
+
+
+123.3 Est à ajouter à l’impôt payable par ailleurs en vertu de la présente partie pour chaque année d’imposition par une société qui est une société privée sous contrôle canadien tout au long de l’année le montant représentant 10 2/3 % du moins élevé des montants suivants : 
+
+
+
+Impôt remboursable sur revenu de placement— SPCC
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection (1) applies to taxation years that end after 2015 except that, for taxation years that end after 2015 and begin before 2016, the reference to “10 2/3%” in the portion of section 123.3 of the Act before paragraph (a), as enacted by subsection (1), is to be read as a reference to the percentage determined by the formula
+
+
+
+
+
+
+6 2/3% + 4% (A/B)
+
+
+
+
+
+
+where
+
+
+
+
+
+
+A      is the number of days in the taxation year that are after 2015; and
+
+
+
+
+
+
+B      is the total number of days in the taxation year.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) s’applique aux années d’imposition se terminant après 2015. Toutefois, en ce qui concerne les années d’imposition se terminant après 2015 et commençant avant 2016, la mention « 10 2/3 % » dans le passage de l’article 123.3 de la même loi précédant l’alinéa a), édicté par le paragraphe (1), vaut mention du taux obtenu par la formule suivante : 
+
+
+
+
+
+
+6 2/3 % + 4 % (A/B)
+
+
+
+
+
+
+où : 
+
+
+
+
+
+
+A      représente le nombre de jours de l’année d’imposition qui sont postérieurs à 2015;
+
+
+
+
+
+
+B      le nombre total de jours de l’année d’imposition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) Subparagraph 129(1)(a)(i) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+7. (1) Le sous-alinéa 129(1)a)(i) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) 38 1/3% of all taxable dividends paid by the corporation on shares of its capital stock in the year and at a time when it was a private corporation, and
+
+
+
+
+
+
+
+
+
+(i) 38 1/3 % de l’ensemble des dividendes imposables que la société a versés sur des actions de son capital-actions au cours de l’année et à un moment où elle était une société privée,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The description of A in subparagraph 129(3)(a)(i) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’élément A de la formule figurant au sous-alinéa 129(3)a)(i) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A      is 30 2/3% of the corporation’s aggregate investment income for the year, and
+
+
+
+
+
+
+
+
+
+A      représente 30 2/3 % de son revenu de placement total pour cette année,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subclause (II) of the description of B in subparagraph 129(3)(a)(i) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) La division (B) de l’élément B de la formule figurant au sous-alinéa 129(3)a)(i) de la même loi est remplacée par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(II) 8% of its foreign investment income for the year,
+
+
+
+
+
+
+
+
+
+(B) 8 % de son revenu de placement étranger pour cette année,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) The portion of subparagraph 129(3)(a)(ii) of the Act before clause (A) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le passage du sous-alinéa 129(3)a)(ii) de la même loi précédant la division (A) est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) 30 2/3% of the amount, if any, by which the corporation’s taxable income for the year exceeds the total of
+
+
+
+
+
+
+
+
+
+(ii) 30 2/3 % de l’excédent éventuel de son revenu imposable pour cette année sur le total des montants suivants : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Clause 129(3)(a)(ii)(B) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) La division 129(3)a)(ii)(B) de la même loi est remplacée par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(B) 100/(38 2/3) of the total of amounts deducted under subsection 126(1) from its tax for the year otherwise payable under this Part, and
+
+
+
+
+
+
+
+
+
+(B) les 100/(38 2/3) du total des sommes déduites, en application du paragraphe 126(1), de son impôt payable par ailleurs pour cette année en vertu de la présente partie,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6) Subsection (1) applies to taxation years that end after 2015, except that, for taxation years that end after 2015 and begin before 2016, in computing the amount determined under subparagraph 129(1)(a)(i) of the Act, as enacted by subsection (1), the reference to “38 1/3%” in that subparagraph is to be read as a reference to the percentage determined by the formula
+
+
+
+
+
+
+33 1/3% + 5% (A/B)
+
+
+
+
+
+
+where
+
+
+
+
+
+
+A      is the number of days in the taxation year that are after 2015; and
+
+
+
+
+
+
+B      is the total number of days in the taxation year.
+
+
+
+
+
+
+
+
+
+(6) Le paragraphe (1) s’applique aux années d’imposition se terminant après 2015. Toutefois, en ce qui concerne les années d’imposition se terminant après 2015 et commençant avant 2016, dans le calcul du montant déterminé selon le sous-alinéa 129(1)a)(i) de la même loi, édicté par le paragraphe (1), la mention « 38 1/3 % » à ce sous-alinéa vaut mention du taux obtenu par la formule suivante : 
+
+
+
+
+
+
+33 1/3 % + 5 % (A/B)
+
+
+
+
+
+
+où : 
+
+
+
+
+
+
+A      représente le nombre de jours de l’année d’imposition qui sont postérieurs à 2015;
+
+
+
+
+
+
+B      le nombre total de jours de l’année d’imposition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(7) Subsections (2) and (4) apply to taxation years that end after 2015, except that, for taxation years that end after 2015 and begin before 2016, in computing the amount determined under each of subparagraphs 129(3)(a)(i) and (ii) of the Act, as amended by subsections (2) and (4), the references to “30 2/3%” in those subparagraphs are to be read as references to the percentage determined by the formula
+
+
+
+
+
+
+26 2/3% + 4% (A/B)
+
+
+
+
+
+
+where
+
+
+
+
+
+
+A      is the number of days in the taxation year that are after 2015; and
+
+
+
+
+
+
+B      is the total number of days in the taxation year.
+
+
+
+
+
+
+
+
+
+(7) Les paragraphes (2) et (4) s’appliquent aux années d’imposition se terminant après 2015. Toutefois, en ce qui concerne les années d’imposition se terminant après 2015 et commençant avant 2016, dans le calcul du montant déterminé selon chacun des sous-alinéas 129(3)a)(i) et (ii) de la même loi, modifiés par les paragraphes (2) et (4), les mentions « 30 2/3 % » à ces sous-alinéas valent mention du taux obtenu par la formule suivante : 
+
+
+
+
+
+
+26 2/3 % + 4 % (A/B)
+
+
+
+
+
+
+où : 
+
+
+
+
+
+
+A      représente le nombre de jours de l’année d’imposition qui sont postérieurs à 2015;
+
+
+
+
+
+
+B      le nombre total de jours de l’année d’imposition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(8) Subsection (3) applies to taxation years that end after 2015, except that, for taxation years that end after 2015 and begin before 2016, in computing the amount determined under subparagraph 129(3)(a)(i) of the Act, as amended by subsections (2) and (3), the reference to “8%” in subclause (II) of the description of B in that subparagraph, as amended by subsection (3), is to be read as a reference to the percentage determined by the formula
+
+
+
+
+
+
+9 1/3% – 1 1/3% (A/B)
+
+
+
+
+
+
+where
+
+
+
+
+
+
+A      is the number of days in the taxation year that are after 2015; and
+
+
+
+
+
+
+B      is the total number of days in the taxation year.
+
+
+
+
+
+
+
+
+
+(8) Le paragraphe (3) s’applique aux années d’imposition se terminant après 2015. Toutefois, en ce qui concerne les années d’imposition se terminant après 2015 et commençant avant 2016, dans le calcul du montant déterminé selon le sous-alinéa 129(3)a)(i) de la même loi, modifié par les paragraphes (2) et (3), la mention « 8 % » à la division (B) de l’élément B de la formule figurant à ce sous-alinéa, modifiée par le paragraphe (3), vaut mention du taux obtenu par la formule suivante : 
+
+
+
+
+
+
+9 1/3 % – 1 1/3 % (A/B)
+
+
+
+
+
+
+où : 
+
+
+
+
+
+
+A      représente le nombre de jours de l’année d’imposition qui sont postérieurs à 2015;
+
+
+
+
+
+
+B      le nombre total de jours de l’année d’imposition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(9) Subsection (5) applies to taxation years that end after 2015, except that, for taxation years that end after 2015 and begin before 2016, the reference to “100/(38 2/3)” in clause 129(3)(a)(ii)(B) of the Act, as enacted by subsection (5), is to be read as a reference to the amount determined by the formula
+
+
+
+
+
+
+100/(35 + 3 2/3(A/B))
+
+
+
+
+
+
+where
+
+
+
+
+
+
+A      is the number of days in the taxation year that are after 2015; and
+
+
+
+
+
+
+B      is the total number of days in the taxation year.
+
+
+
+
+
+
+
+
+
+(9) Le paragraphe (5) s’applique aux années d’imposition se terminant après 2015. Toutefois, en ce qui concerne les années d’imposition se terminant après 2015 et commençant avant 2016, la mention « 100/(38 2/3) » à la division 129(3)a)(ii)(B) de la même loi, édictée par le paragraphe (5), vaut mention du montant obtenu par la formule suivante : 
+
+
+
+
+
+
+100/(35 + 3 2/3(A/B))
+
+
+
+
+
+
+où : 
+
+
+
+
+
+
+A      représente le nombre de jours de l’année d’imposition qui sont postérieurs à 2015;
+
+
+
+
+
+
+B      le nombre total de jours de l’année d’imposition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) Paragraph 186(1)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+8. (1) L’alinéa 186(1)a) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) 38 1/3% of all assessable dividends received by the particular corporation in the year from corporations other than payer corporations connected with it, and
+
+
+
+
+
+
+
+
+
+a) 38 1/3 % de l’ensemble des dividendes imposables déterminés qu’elle a reçus au cours de l’année de sociétés autres que des sociétés payantes auxquelles elle est rattachée;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The portion of subsection 186(1) of the Act after paragraph (b) and before paragraph (c) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le passage du paragraphe 186(1) de la même loi suivant l’alinéa b) et précédant l’alinéa c) est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exceeds 38 1/3% of the total of
+
+
+
+
+
+
+
+
+
+sur 38 1/3 % du total des montants suivants : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsections (1) and (2) apply to taxation years of a corporation that end after 2015, except that, for taxation years that end after 2015 and begin before 2016
+
+
+
+
+
+
+(a) in the application of subsection 186(1) of the Act, as amended by subsections (1) and (2), to amounts described in paragraphs 186(1)(a) and (b) of the Act that were received by the corporation in the year and before 2016, the references to “38 1/3%” in that subsection 186(1) are to be read as “1/3”; and
+
+
+
+
+
+
+(b) amounts deducted by the corporation for the year under paragraphs 186(1)(c) and (d) of the Act
+
+
+
+
+
+
+(i) are deemed to have been deducted in respect of amounts described in paragraph 186(1)(a), as enacted by subsection (1), and paragraph 186(1)(b) of the Act that were received by the corporation in the year and after 2015, and
+
+
+
+
+
+
+(ii) to the extent that the amounts so deducted exceed the amounts referred to in subparagraph (i), are deemed to have been deducted in respect of amounts described in paragraph 186(1)(a), as enacted by subsection (1), and  paragraph 186(1)(b) of the Act that were received by the corporation in the year and before 2016.
+
+
+
+
+
+
+
+
+
+(3) Les paragraphes (1) et (2) s’appliquent aux années d’imposition d’une société se terminant après 2015. Toutefois, en ce qui concerne les années d’imposition se terminant après 2015 et commençant avant 2016, les règles ci-après s’appliquent : 
+
+
+
+
+
+
+a) pour l’application du paragraphe 186(1) de la même loi, modifié par les paragraphes (1) et (2), aux montants visés aux alinéas 186(1)a) et b) de la même loi que la société a reçus au cours de l’année et avant 2016, les mentions « 38 1/3 % » à ce paragraphe 186(1) valent mention de « le tiers »;
+
+
+
+
+
+
+b) les montants déduits par la société pour l’année en application des alinéas 186(1)c) et d) de la même loi sont réputés, à la fois : 
+
+
+
+
+
+
+(i) avoir été déduits au titre de montants visés à l’alinéa 186(1)a), édicté par le paragraphe (1), et à l’alinéa 186(1)b) de la même loi que la société a reçus au cours de l’année et après 2015,
+
+
+
+
+
+
+(ii) dans la mesure où les montants ainsi déduits dépassent les montants visés au sous-alinéa (i), avoir été déduits au titre de montants visés à l’alinéa 186(1)a), édicté par le paragraphe (1), et à l’alinéa 186(1)b) de la même loi que la société a reçus au cours de l’année et avant 2016.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. (1) The definition “TFSA dollar limit” in subsection 207.01(1) of the Act is amended by striking out “and” at the end of paragraph (b) and by replacing paragraph (c) with the following:
+
+
+
+
+
+
+
+
+
+9. (1) L’alinéa c) de la définition de « plafond CÉLI », au paragraphe 207.01(1) de la même loi, est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) for 2015, $10,000; and
+
+
+
+
+
+
+(d) for each year after 2015, the amount (rounded to the nearest multiple of $500, or if that amount is equidistant from two such consecutive multiples, to the higher multiple) that is equal to $5,000 adjusted for each year after 2009 in the manner set out in section 117.1.
+
+
+
+
+
+
+
+
+
+c) pour l’année civile 2015, 10 000 $;
+
+
+
+
+
+
+d) pour chaque année civile postérieure à 2015, la somme — arrondie au plus proche multiple de 500 $ ou, si elle est équidistante de deux tels multiples consécutifs, au multiple de 500 $ supérieur — qui est égale à 5 000 $ rajustée pour chaque année postérieure à 2009 de la manière prévue à l’article 117.1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2016.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) entre en vigueur ou est réputé être entré en vigueur le 1er janvier 2016.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. (1) The definition “appropriate percentage” in subsection 248(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+10. (1) La définition de « taux de base pour l’année », au paragraphe 248(1) de la même loi, est remplacée par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+“appropriate percentage”« taux de base pour l’année »
+
+
+
+“appropriate percentage”, for a taxation year, means the lowest percentage referred to in subsection 117(2) for the taxation year;
+
+
+
+
+
+
+
+
+
+« taux de base pour l’année » Le taux le plus bas mentionné au paragraphe 117(2) pour l’année d’imposition en cause.
+
+
+
+« taux de base pour l’année »“appropriate percentage”
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 248(1) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 248(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+“highest individual percentage”« taux d’imposition supérieur pour l’année »
+
+
+
+“highest individual percentage”, for a taxation year, means the highest percentage referred to in subsection 117(2) for the taxation year;
+
+
+
+
+
+
+
+
+
+« taux d’imposition supérieur pour l’année » Le taux le plus élevé mentionné au paragraphe 117(2) pour l’année d’imposition en cause.
+
+
+
+« taux d’imposition supérieur pour l’année »“highest individual percentage”
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsections (1) and (2) apply to the 2016 and subsequent taxation years.
+
+
+
+
+
+
+
+
+
+(3) Les paragraphes (1) et (2) s’appliquent aux années d’imposition 2016 et suivantes.
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

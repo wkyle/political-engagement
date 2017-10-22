@@ -1,0 +1,2477 @@
+
+
+
+
+
+
+C-474
+
+
+
+
+
+C-474
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-474
+
+
+
+
+
+PROJET DE LOI C-474
+
+
+
+
+
+
+An Act respecting the promotion of financial transparency, improved accountability and long-term economic sustainability through the public reporting of payments made by mining, oil and gas corporations to foreign governments
+
+
+
+
+
+Loi visant à favoriser la transparence financière, le renforcement de la responsabilité et la viabilité économique à long terme par la publication des paiements versés à des gouvernements étrangers par les sociétés minières, pétrolières et gazières
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, February 26, 2013
+
+
+
+
+
+première lecture le 26 février 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. McKay
+
+
+411393
+
+
+
+
+M. McKay
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment requires mining, oil and gas corporations to submit annual transparency reports that disclose all payments provided by them or their subsidiaries to a foreign government for the purpose of furthering mining, oil or gas industry activities. It also makes it an offence to fail to comply with this requirement and establishes a penalty for such contravention.
+
+
+
+SOMMAIRE
+Le texte oblige les sociétés minières, pétrolières et gazières à présenter des rapports de transparence annuels indiquant tous les paiements versés par elles ou leurs filiales à des gouvernements étrangers aux fins de l’exercice d’activités minières, pétrolières ou gazières. De plus, il prévoit que le non-respect de cette exigence constitue une infraction passible d’une peine.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-474
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-474
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting the promotion of financial transparency, improved accountability and long-term economic sustainability through the public reporting of payments made by mining, oil and gas corporations to foreign governments
+
+
+
+
+
+
+
+
+
+Loi visant à favoriser la transparence financière, le renforcement de la responsabilité et la viabilité économique à long terme par la publication des paiements versés à des gouvernements étrangers par les sociétés minières, pétrolières et gazières
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas Canada strongly supports international efforts to fight corruption, encourage transparency and promote increased accountability;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada officially supports the Extractive Industries Transparency Initiative (EITI), an international coalition of governments, industries, investors and international and non-governmental organizations that advocates for improved governance through the full publication and verification of payments made to governments by mining, oil and gas corporations and government revenues from those corporations;
+
+
+
+
+
+
+
+
+
+
+Whereas Canadians recognize that proper natural resource management is enabled by transparency and the regular publication of information on public resources and reve-nues, which allows investors to properly assess risk, governments to monitor company compliance and citizens to see the value placed on their natural resource assets;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada and Canadians accept the EITI principle that the prudent use of natural resource wealth should be an important en- gine for sustainable economic growth that contributes to sustainable development and poverty reduction, but that, if not managed properly, it can have negative economic and social impacts;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada’s Sustainable Economic Growth Strategy advocates increased transparency to aid in promoting international development by fostering a stable foundation for viable business and industries to thrive and in helping to maximize the contribution of growth to the public resources available for investment in the welfare of the population by promoting sound fiscal, financial and economic management;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada has ratified the United Nations Convention against Corruption, which requires States Parties to take measures to promote the transparency of private entities and to ensure the public has effective access to information;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada is a signatory to the OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, which came into force in Canada with the adoption of the Corruption of Foreign Public Officials Act;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada is a signatory to the G8 Declaration: Renewed Commitment for Freedom and Democracy and a party to the G8/Africa Joint Declaration: Shared Values, Shared Responsibilities, both issued at the G8 Summit of Deauville in 2011, and thus welcomes efforts to increase revenue transparency and is committed to setting in place transparency legislation that requires mining, oil and gas corporations to disclose the payments they make to foreign governments;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada recognizes that extractive revenue transparency will improve the business climate in which the Canadian extractive industry operates by helping Canadian investors to manage the risks of investing in the extractive industry abroad;
+
+
+
+
+
+
+
+
+
+
+And whereas Canada recognizes that promoting transparency will improve the competitive advantage of Canadian companies operating abroad by further enhancing the reputation of Canada’s extractive sector;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que le Canada appuie fermement les efforts internationaux déployés pour combattre la corruption, favoriser la transparence et renforcer la responsabilité;
+
+
+
+
+
+
+
+
+
+
+que le Canada soutient officiellement l’Initiative pour la transparence dans les industries extractives (ITIE), coalition internationale regroupant des gouvernements, des entreprises, des investisseurs, des organisations internationales et non gouvernementales qui militent en faveur d’une meilleure gouvernance par la publication et la vérification des sommes versées par les sociétés des secteurs minier, pétrolier et gazier aux gouvernements et des recettes de ceux-ci provenant de ces sociétés;  
+
+
+
+
+
+
+
+
+
+
+que la population canadienne reconnaît que la transparence et la publication régulière de renseignements sur les ressources et les recettes publiques sont essentielles à une bonne gestion des ressources naturelles et qu’elles permettent aux investisseurs d’évaluer correctement le risque, aux gouvernements de contrôler le respect des règles par les sociétés et aux citoyens d’apprécier la valeur de leurs ressources naturelles;
+
+
+
+
+
+
+
+
+
+
+que le Canada et sa population souscrivent au principe de l’ITIE selon lequel l’exploitation prudente des richesses en ressources naturelles devrait constituer un moteur important pour la croissance économique durable et contribuer au développement durable et à la réduction de la pauvreté, mais qui, à défaut d’une bonne gestion, peut avoir des répercussions défavorables sur l’économie et la société;
+
+
+
+
+
+
+
+
+
+
+que la Stratégie sur la croissance économique durable du Canada préconise une plus grande transparence afin d’aider, d’une part, à promouvoir le développement international en favorisant l’établissement d’une assise solide pour que le commerce et les industries durables puissent prospérer et, d’autre part, à maximiser l’apport de la croissance aux ressources publiques affectées au bien-être de la population grâce à une saine gestion financière et économique;
+
+
+
+
+
+
+
+
+
+
+que le Canada a ratifié la Convention des Nations Unies contre la corruption, qui oblige les États parties à prendre des mesures pour promouvoir la transparence des entités privées et assurer l’accès effectif du public à l’information;
+
+
+
+
+
+
+
+
+
+
+que le Canada est signataire de la Convention sur la lutte contre la corruption d’agents publics étrangers dans les transactions commerciales internationales de l’OCDE, qui a pris effet au Canada avec l’édiction de la Loi sur la corruption d’agents publics étrangers;
+
+
+
+
+
+
+
+
+
+
+que le Canada est signataire de la déclaration du G8 intitulée « Un nouvel élan pour la liberté et la démocratie » et partie à la Déclaration conjointe G8/Afrique intitulée « Des valeurs communes et des responsabilités partagées », toutes deux adoptées à l’issue du Sommet du G8 tenu à Deauville en 2011, et qu’il est donc favorable à l'amélioration de la transparence des recettes et résolu à imposer, par voie législative, une obligation de transparence aux sociétés minières, pétrolières et gazières en exigeant qu’elles communiquent les paiements versés à des gouvernements étrangers;
+
+
+
+
+
+
+
+
+
+
+que le Canada reconnaît qu’une plus grande transparence des recettes extractives améliorera le climat des affaires dans lequel évoluent les sociétés extractives canadiennes en aidant les investisseurs canadiens à gérer le risque associé aux investissements dans l’industrie extractive à l’étranger;
+
+
+
+
+
+
+
+
+
+
+que le Canada reconnaît que le fait d’encourager la transparence améliorera l’avantage concurrentiel des sociétés canadiennes en activité à l’étranger en rehaussant la réputation du secteur canadien de l’extraction, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Transparency of Payments Made by Mining, Oil and Gas Corporations to Foreign Governments Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la transparence des paiements versés à des gouvernements étrangers par les sociétés minières, pétrolières et gazières. 
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PURPOSE
+
+
+
+
+
+
+
+
+
+OBJET
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+
+2. The purpose of this Act is to promote financial transparency, improved accountability and long-term economic sustainability by publishing payments made to foreign governments by mining, oil and gas corporations.
+
+
+
+
+
+
+
+
+
+
+2. La présente loi a pour objet de favoriser la transparence financière, le renforcement de la responsabilité et la viabilité économique à long terme par la publication des paiements versés à des gouvernements étrangers par les sociétés minières, pétrolières et gazières.  
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+3. The following definitions apply in this Act.
+
+
+
+
+“Canadian corporation”« société canadienne »
+
+
+
+“Canadian corporation” means, for the purposes of this Act, an entity that has been incorporated under the laws of Canada or a province or that is considered to be resident in Canada under the Income Tax Act or any applicable tax treaty.
+
+
+
+
+“EITI”« ITIE »
+
+
+
+“EITI” means the coalition of governments, industries, investors and international and non-governmental organizations that constitutes the Extractive Industries Transparency Initiative and that advocates for improved governance through the full publication and verification of payments made to governments by mining, oil and gas corporations and government revenues from those corporations.
+
+
+
+
+“EITI Rules”« Règles de l’ITIE »
+
+
+
+“EITI Rules” means the rules established by the EITI Board for the purpose of implementing the EITI and published on the EITI website as the EITI Rules, 2011 Edition.
+
+
+
+
+“extractive corporation”« société extractive »
+
+
+
+“extractive corporation” means any Canadian corporation that engages in international mining, oil or gas industry activities, either directly or through a subsidiary.
+
+
+
+
+“extractive project”« projet d’extraction »
+
+
+
+“extractive project” refers to any oil, natural gas or mineral exploration, development, production, transport, refining or marketing activity from which payments above the not-negligible threshold originate, that is governed by a lease, concession or similar legal agreement.
+
+
+
+
+“foreign government”« gouvernement étranger »
+
+
+
+“foreign government” means the government of a foreign state or the government of a political subdivision of a foreign state and includes
+
+
+
+
+
+
+
+
+
+
+(a) any department or branch of a foreign government;
+
+
+
+
+
+
+
+
+
+
+(b) any agency of a foreign government;
+
+
+
+
+
+
+
+
+
+
+(c) any corporation that is at least majority-owned, directly or indirectly, by a foreign government; and
+
+
+
+
+
+
+
+
+
+
+(d) any foreign public official acting in their official capacity.
+
+
+
+
+“foreign public official”« agent public étranger »
+
+
+
+“foreign public official” means
+
+
+
+
+
+
+
+
+
+
+(a) a person who holds a legislative, administrative or judicial position of a foreign state;
+
+
+
+
+
+
+
+
+
+
+(b) a person who performs public duties or functions for a foreign state, including a person employed by a board, commission, corporation or other body or authority that is established to perform a duty or function on behalf of the foreign state, or is performing such a duty or function; and
+
+
+
+
+
+
+
+
+
+
+(c) an official or agent of a public international organization that is formed by two or more states or governments or by two or more such public international organizations.
+
+
+
+
+“gas”« gaz »
+
+
+
+“gas” has the same meaning as in section 2 of the Canada Oil and Gas Operations Act.
+
+
+
+
+“mineral resources”« ressources minérales »
+
+
+
+“mineral resources” means all naturally occurring minerals, but does not include peat, petroleum, natural gas, bitumen, oil shales, limestone, marble, clay, gypsum, earth, ash, marl, gravel, sand or any element that forms part of the agricultural surface of the land.
+
+
+
+
+“mining, oil or gas industry activities”« activités minières, pétrolières ou gazières »
+
+
+
+“mining, oil or gas industry activities” includes the exploration, extraction, production, conservation, processing, transportation and other significant actions relating to mineral resources, oil or gas.
+
+
+
+
+“oil”« pétrole »
+
+
+
+“oil” has the same meaning as in section 2 of the Canada Oil and Gas Operations Act.
+
+
+
+
+“operator”« exploitant »
+
+
+
+“operator” means the party in a joint venture who is designated as the operator of an extractive project by agreement between  or among the parties or who actually conducts the operations of the extractive project.
+
+
+
+
+“payment”« paiement »
+
+
+
+“payment” means a payment that is given for the purposes of furthering the mining, oil or gas industry and that is not negligible and, without limiting the generality of the foregoing, includes
+
+
+
+
+
+
+
+
+
+
+(a) taxes, including but not limited to, corporate taxes, remittance taxes, mining taxes, value-added taxes, import taxes and export taxes;
+
+
+
+
+
+
+
+
+
+
+(b) royalties;
+
+
+
+
+
+
+
+
+
+
+(c) dividends and profit shares;
+
+
+
+
+
+
+
+
+
+
+(d) licence fees, rental fees, entry fees and other consideration paid for licences or concessions;
+
+
+
+
+
+
+
+
+
+
+(e) production entitlements and in-kind payment volumes; 
+
+
+
+
+
+
+
+
+
+
+(f) bonuses, including but not limited to, signature, discovery and production bonuses;
+
+
+
+
+
+
+
+
+
+
+(g) provision of infrastructure and other in-kind payments;
+
+
+
+
+
+
+
+
+
+
+(h) social payments and transfers; 
+
+
+
+
+
+
+
+
+
+
+(i) fees paid for services rendered in the context of a contractual or employment agreement, including consulting fees; and
+
+
+
+
+
+
+
+
+
+
+(j) other prescribed material benefits that are not negligible.
+
+
+
+
+“prescribed”Version anglaise seulement
+
+
+
+“prescribed” means prescribed by regulations made under section 7.
+
+
+
+
+“subsidiary”« filiale »
+
+
+
+“subsidiary”, in the context of a particular extractive project, means a corporation in which a Canadian corporation
+
+
+
+
+
+
+
+
+
+
+(a) holds, directly or indirectly, a voting interest greater than 50%;
+
+
+
+
+
+
+
+
+
+
+(b) holds a voting interest of 50% and is the operator of the extractive project; or
+
+
+
+
+
+
+
+
+
+
+(c) holds a voting interest of less than 50%, is the largest single holder of voting shares and is the operator of the extractive project.
+
+
+
+
+
+
+
+
+
+
+3. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« activités minières, pétrolières ou gazières » Vise notamment la recherche, l'extraction, la production, la rationalisation de l’exploitation, la transformation ou le transport et toute autre opération importante relative aux ressources minérales, au pétrole ou au gaz.
+
+
+
+« activités minières, pétrolières ou gazières »“mining, oil or gas industry activities”
+
+
+
+
+« agent public étranger » Selon le cas :
+
+
+
+« agent public étranger »“foreign public official”
+
+
+
+
+
+a) personne qui détient un mandat législatif, administratif ou judiciaire d’un État étranger;
+
+
+
+
+
+
+
+
+
+
+
+b) personne qui exerce une fonction publique d’un État étranger, y compris une personne employée par un conseil, une commission, une société ou tout autre organisme établi par l’État étranger pour y exercer une telle fonction ou qui exerce une telle fonction;
+
+
+
+
+
+
+
+
+
+
+
+c) fonctionnaire ou agent d’une organisation internationale publique constituée par des États, des gouvernements ou d’autres organisations internationales publiques.
+
+
+
+
+
+
+
+
+
+
+« exploitant » S’agissant d’un projet d’extraction, la partie d’une coentreprise qui est désignée comme l’exploitant de ce projet aux termes d’une entente conclue par les parties ou qui mène effectivement les opérations dans le cadre de ce projet.
+
+
+
+« exploitant »“operator”
+
+
+
+
+« filiale » Dans le contexte d’un projet d’extraction, s’entend d’une société, selon le cas :
+
+
+
+« filiale »“subsidiary”
+
+
+
+
+
+a) dont plus de 50 % des intérêts avec droit de vote sont contrôlés, directement ou indirectement, par une société canadienne;
+
+
+
+
+
+
+
+
+
+
+
+b) dont 50 % des intérêts avec droit de vote sont contrôlés par une société canadienne, si celle-ci est l’exploitant du projet d’extraction;
+
+
+
+
+
+
+
+
+
+
+
+c) dont moins de 50 % des intérêts avec droit de vote sont contrôlés par une société canadienne, si celle-ci est à la fois la principale détentrice d’actions avec droit de vote et l’exploitant du projet d’extraction.
+
+
+
+
+
+
+
+
+
+
+« gaz » S’entend au sens de l’article 2  de la Loi sur les opérations pétrolières au Canada.
+
+
+
+« gaz »“gas”
+
+
+
+
+« gouvernement étranger » Gouvernement d’un État étranger ou d’une subdivision politique de celui-ci, y compris :
+
+
+
+« gouvernement étranger »“foreign government”
+
+
+
+
+
+a) tout ministère ou direction d’un gouvernement étranger;
+
+
+
+
+
+
+
+
+
+
+
+b) tout organisme d’un gouvernement étranger;
+
+
+
+
+
+
+
+
+
+
+
+c) toute société dont un gouvernement étranger détient au moins, directement ou indirectement, 50 % des actions;
+
+
+
+
+
+
+
+
+
+
+
+d) tout agent public étranger agissant dans le cadre de ses attributions.
+
+
+
+
+
+
+
+
+
+
+« ITIE » Coalition regroupant des gouvernements, des entreprises, des investisseurs, des organisations internationales et non gouvernementales qui constitue l’Initiative pour la transparence dans les industries extractives et qui milite en faveur d’une meilleure gouvernance par la publication et la vérification des sommes versées par les sociétés des secteurs minier, pétrolier et gazier aux gouvernements et des recettes de ceux-ci provenant de ces sociétés.
+
+
+
+« ITIE »“EITI”
+
+
+
+
+« paiement » Paiement — d’un montant non négligeable — versé aux fins de l’exercice d’activités minières, pétrolières ou gazières. Sont notamment compris dans la présente définition :
+
+
+
+« paiement »“payment”
+
+
+
+
+
+a) les impôts et taxes, notamment l’impôt sur les sociétés, la taxe sur les versements, l’impôt sur les exploitations minières, les taxes sur la valeur ajoutée, les taxes à l’importation et les taxes à l’exportation;
+
+
+
+
+
+
+
+
+
+
+
+b) les redevances;
+
+
+
+
+
+
+
+
+
+
+
+c) les dividendes et les sommes versées au titre d'une participation aux bénéfices; 
+
+
+
+
+
+
+
+
+
+
+
+d) les frais de licence, frais de location, frais d’entrée et autres            contreparties pour les licences ou concessions;
+
+
+
+
+
+
+
+
+
+
+
+e) les parts de production et les quantités transmises à titre de paiement en nature;
+
+
+
+
+
+
+
+
+
+
+
+f) les primes, notamment les primes de signature, de découverte et de production;
+
+
+
+
+
+
+
+
+
+
+
+g) les paiements en nature, y compris la fourniture d’infrastructures;
+
+
+
+
+
+
+
+
+
+
+
+h) les paiements et transferts sociaux;
+
+
+
+
+
+
+
+
+
+
+
+i) les frais payés pour des services rendus dans le cadre d’une entente contractuelle ou d’un contrat de travail, y compris les honoraires d’expert-conseil; 
+
+
+
+
+
+
+
+
+
+
+
+j) tout autre avantage matériel non négligeable prévu par règlement.
+
+
+
+
+
+
+
+
+
+
+« pétrole » S’entend au sens de l’article 2 de la Loi sur les opérations pétrolières au Canada.
+
+
+
+« pétrole »“oil”
+
+
+
+
+« projet d’extraction » Activité de recherche, de mise en valeur, de production, de transport, de raffinement ou de commercialisation de ressources minérales, de pétrole ou de gaz, qui est à l’origine de paiements non négligeables et qui est régie par un bail, une concession ou toute autre convention semblable.
+
+
+
+« projet d’extraction »“extractive project”
+
+
+
+
+« Règles de l’ITIE » Les règles établies par le conseil d'administration de l’ITIE pour la mise en oeuvre de l’Initiative, publiées sur le site Internet de l’ITIE dans un document intitulé Règles de l’ITIE, édition 2011.
+
+
+
+« Règles de l’ITIE »“EITI Rules”
+
+
+
+
+« ressources minérales » Tous les minéraux d’origine naturelle, sauf la tourbe, le pétrole, le gaz naturel, le bitume, les schistes bitumineux, le calcaire, le marbre, l’argile, le gypse, la terre, la cendre, la marne, le gravier, le sable ou tout élément faisant partie de la surface cultivable de la terre.
+
+
+
+« ressources minérales »“mineral resources”
+
+
+
+
+« société canadienne » Pour l'application de la présente loi, entité constituée en personne morale sous le régime d’une loi fédérale ou provinciale ou considérée comme résidant au Canada aux termes de la Loi de l’impôt sur le revenu ou de tout traité fiscal applicable.  
+
+
+
+« société canadienne »“Canadian corporation”
+
+
+
+
+« société extractive » Société canadienne qui exerce, soit directement ou par l’intermédiaire d’une filiale, des activités minières, pétrolières ou gazières à l’étranger. 
+
+
+
+« société extractive »“extractive corporation”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANNUAL TRANSPARENCY REPORTS
+
+
+
+
+
+
+
+
+
+RAPPORTS DE TRANSPARENCE ANNUELS
+
+
+
+
+
+
+
+
+
+
+
+
+Submission of annual transparency reports
+
+
+
+
+4. (1) Every extractive corporation must submit an annual transparency report, along with proof that the report was independently audited in accordance with subsection (7), to the Minister of Foreign Affairs and the Minister of Natural Resources on or before the 180th day after the end of its fiscal year.
+
+
+
+
+
+
+
+
+
+
+4. (1) La société extractive présente au ministre des Affaires étrangères et au ministre des Ressources naturelles un rapport de transparence annuel accompagné d’une preuve que le rapport a fait l’objet d’une vérification indépendante conformément au paragraphe (7), au plus tard le cent quatre-vingtième jour suivant la fin de son exercice.
+
+
+
+Rapport de transparence annuel
+
+
+
+
+
+
+
+
+
+
+Available to public
+
+
+
+(2) Every extractive corporation must post the annual transparency report submitted under subsection (1) on its website on or before the 180th day after the end of its fiscal year and leave it up until the posting of the annual transparency report for the following fiscal year.
+
+
+
+
+
+
+
+
+
+(2) La société extractive publie le rapport de transparence annuel sur son site Internet au plus tard le cent quatre-vingtième jour suivant la fin de son exercice et elle le conserve sur son site jusqu’à la publication du rapport de l’exercice suivant.
+
+
+
+Publication
+
+
+
+
+
+
+
+
+
+
+Information disclosed
+
+
+
+(3) The annual transparency report submitted under subsection (1) must disclose all payments provided by an extractive corporation or its subsidiaries to a foreign government for the purposes of furthering mining, oil or gas industry activities, and must include the following information:
+
+
+
+
+
+
+
+
+
+
+(a) a statement of total payments made by the extractive corporation or its subsidiaries to foreign governments, categorized by foreign government to which the payments were made;
+
+
+
+
+
+
+
+
+
+
+(b) subject to subsection (4), a statement of total payments made by the extractive corporation or its subsidiaries to foreign governments, categorized by extractive proj-ect; and
+
+
+
+
+
+
+
+
+
+
+(c) subject to subsection (4), a statement of total payments made by the extractive corporation or its subsidiaries to foreign governments related to each extractive proj-ect, categorized as follows:
+
+
+
+
+
+
+
+
+
+
+(i) taxes, including but not limited to, corporate taxes, remittance taxes, mining taxes, value-added taxes, import taxes and export taxes,
+
+
+
+
+
+
+
+
+
+
+(ii) royalties,
+
+
+
+
+
+
+
+
+
+
+(iii) dividends and profit shares,
+
+
+
+
+
+
+
+
+
+
+(iv) licence fees, rental fees, entry fees and other consideration paid for licences or concessions,
+
+
+
+
+
+
+
+
+
+
+(v) production entitlements and in-kind payment volumes,
+
+
+
+
+
+
+
+
+
+
+(vi) bonuses, including but not limited to signature, discovery and production bonuses,
+
+
+
+
+
+
+
+
+
+
+(vii) provision of infrastructure and other in-kind payments,
+
+
+
+
+
+
+
+
+
+
+(viii) social payments and transfers,
+
+
+
+
+
+
+
+
+
+
+(ix) fees paid for services rendered, in the context of a contractual or employment agreement, including consulting fees, and
+
+
+
+
+
+
+
+
+
+
+(x) any other payments not included under subparagraphs (i) to (ix).
+
+
+
+
+
+
+
+
+
+(3) Le rapport de transparence annuel fait état de tous les paiements versés par la société extractive ou ses filiales à des gouvernements étrangers aux fins de l’exercice d’activités minières, pétrolières ou gazières et comporte notamment :
+
+
+
+Contenu du rapport
+
+
+
+
+
+a) un état de l’ensemble des paiements versés par la société extractive ou ses filiales à des gouvernements étrangers, dans lequel les paiements sont regroupés par gouvernement étranger bénéficiaire;
+
+
+
+
+
+
+
+
+
+
+
+b) sous réserve du paragraphe (4), un état de l’ensemble des paiements versés par la société extractive ou ses filiales à des gouvernements étrangers, dans lequel les paiements sont regroupés par projet d’extraction;
+
+
+
+
+
+
+
+
+
+
+
+c) sous réserve du paragraphe (4), un état de l’ensemble des paiements versés par la société extractive ou ses filiales à des gouvernements étrangers dans le cadre de chaque projet d’extraction, dans lequel les paiements sont regroupés selon les catégories suivantes :
+
+
+
+
+
+
+
+
+
+
+(i) les impôts et taxes, notamment l’impôt sur les sociétés, la taxe sur les versements, l’impôt sur les exploitations minières, les taxes sur la valeur ajoutée, les taxes à l’importation et les taxes à l’exportation,
+
+
+
+
+
+
+
+
+
+
+(ii) les redevances,
+
+
+
+
+
+
+
+
+
+
+(iii) les dividendes et sommes versées au titre d'une participation aux bénéfices,
+
+
+
+
+
+
+
+
+
+
+(iv) les frais de licence, frais de location, frais d’entrée et autres contreparties pour les licences ou concessions,
+
+
+
+
+
+
+
+
+
+
+(v) les parts de production et les quantités transmises à titre de paiement en nature,
+
+
+
+
+
+
+
+
+
+
+(vi) les primes, notamment les primes de signature, de découverte et de production,
+
+
+
+
+
+
+
+
+
+
+(vii) les paiements en nature, notamment la fourniture d’infrastructures,
+
+
+
+
+
+
+
+
+
+
+(viii) les paiements et transferts sociaux,
+
+
+
+
+
+
+
+
+
+
+(ix) les frais payés pour des services rendus dans le cadre d’une entente contractuelle ou d’un contrat de travail, y compris les honoraires d’expert-conseil,
+
+
+
+
+
+
+
+
+
+
+(x) tout autre paiement non visé aux sous-alinéas (i) à (ix).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specialized disclosure
+
+
+
+(4) If any payments made by the extractive corporation or its subsidiaries to foreign governments are not attributed to individual extractive projects, the report referred to in subsection (3) must include a statement of those payments and their recipients, indicating the payments made in each of the categories referred to in subparagraphs (3)(c)(i) to (x).
+
+
+
+
+
+
+
+
+
+(4) Si des paiements versés à des gouvernements étrangers par la société extractive ou ses filiales ne sont pas associés à des projets d'extraction, le rapport visé au paragraphe (3) doit comporter un état de ces paiements et de leurs bénéficiaires, dans lequel les paiements sont regroupés selon les catégories mentionnées aux sous-alinéas (3)c)(i) à (x).
+
+
+
+Communication spéciale
+
+
+
+
+
+
+
+
+
+
+Investigation by Minister
+
+
+
+(5) If the Minister of Natural Resources has reasonable grounds to believe that any payments disclosed in accordance with subsection (4) can in fact be attributed to individual extractive projects, the Minister may conduct an investigation into the circumstances relating to the payments.
+
+
+
+
+
+
+
+
+
+(5) Si le ministre des Ressources naturelles a des motifs raisonnables de croire que des paiements communiqués conformément au paragraphe (4) pourraient en fait être associés à des projets d’extraction, il peut faire enquête sur les circonstances entourant ces paiements.
+
+
+
+Enquête du ministre
+
+
+
+
+
+
+
+
+
+
+Contextual details
+
+
+
+(6) The information disclosed in respect of the categories referred to in paragraph (3)(c) must include
+
+
+
+
+
+
+
+
+
+
+(a) the currency used to make the payment;
+
+
+
+
+
+
+
+
+
+
+(b) the financial period in which the payment was made;
+
+
+
+
+
+
+
+
+
+
+(c) the business segment of the extractive corporation or its subsidiary that made the payment;
+
+
+
+
+
+
+
+
+
+
+(d) the foreign government that received the payment, and the country in which the foreign government is located;
+
+
+
+
+
+
+
+
+
+
+(e) the extractive project to which the payment relates; and
+
+
+
+
+
+
+
+
+
+
+(f) any other prescribed information relating to the context of the payment or extractive project.
+
+
+
+
+
+
+
+
+
+(6) Les renseignements communiqués au titre de l’alinéa (3)c) sont accompagnés des détails suivants :
+
+
+
+Détails contextuels 
+
+
+
+
+
+a) la devise utilisée pour faire le paiement;
+
+
+
+
+
+
+
+
+
+
+
+b) la période comptable au cours de laquelle le paiement a été versé;
+
+
+
+
+
+
+
+
+
+
+
+c) le secteur de la société extractive ou de la filiale qui a versé le paiement;
+
+
+
+
+
+
+
+
+
+
+
+d) la désignation du gouvernement étranger ayant reçu le paiement, ainsi que le pays où il se trouve;
+
+
+
+
+
+
+
+
+
+
+
+e) le projet d’extraction visé par le paiement;
+
+
+
+
+
+
+
+
+
+
+
+f) les autres renseignements relatifs au contexte du paiement ou du projet d’extraction prévus par règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Independent audit
+
+
+
+(7) Before an annual transparency report is submitted under subsection (1), it must be audited by a qualified independent auditor, unless the information contained in the report has already been audited by a qualified independent auditor in accordance with international auditing standards.
+
+
+
+
+
+
+
+
+
+(7) La présentation du rapport de transparence annuel est subordonnée à la vérification préalable de celui-ci par un vérificateur indépendant compétent, sauf si les renseignements contenus dans ce rapport ont déjà fait l’objet d’une vérification effectuée par un vérificateur indépendant compétent conformément aux normes de vérification internationales.
+
+
+
+Vérification indépendante
+
+
+
+
+
+
+
+
+
+
+Annual compilation
+
+
+
+
+5. The Minister of Natural Resources must post an annual compilation of the information received in accordance with subsections 4(3) and (4), and organized in accordance with that subsection, on the departmental website. The compilation must be in the form of a publicly accessible and searchable database.
+
+
+
+
+
+
+
+
+
+
+5. Chaque année, le ministre des Ressources naturelles publie sur le site Internet du ministère, sous forme de base de données publique interrogeable, une compilation des renseignements reçus en application des paragraphes 4(3) et (4), organisée selon les catégories mentionnées à ces paragraphes.
+
+
+
+Compilation annuelle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OFFENCES AND PUNISHMENTS
+
+
+
+
+
+
+
+
+
+INFRACTIONS ET PEINES
+
+
+
+
+
+
+
+
+
+
+
+
+Strict liability offence — summary conviction
+
+
+
+
+6. (1) Every extractive corporation that contravenes section 4 is guilty of an offence and is liable on summary conviction to a fine of not less than $20,000 and not more than $5,000,000.
+
+
+
+
+
+
+
+
+
+
+6. (1) La société extractive qui contrevient à l’article 4 est coupable d’une infraction et passible, sur déclaration de culpabilité par procédure sommaire, d’une amende d’au moins 20 000 $ et d’au plus 5 000 000 $. 
+
+
+
+Responsabilité stricte — déclaration de culpabilité par procédure sommaire
+
+
+
+
+
+
+
+
+
+
+Venue
+
+
+
+(2) Any complaint or information in respect of an offence under this Act may be heard, tried or determined by any Canadian court with jurisdiction over the extractive corporation.
+
+
+
+
+
+
+
+
+
+(2) Est compétent pour connaître de toute plainte ou dénonciation en matière d’infraction à la présente loi tout tribunal canadien ayant juridiction sur la société extractive.
+
+
+
+Tribunal compétent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+7. The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+
+
+(a) amending, in order to be consistent with the EITI Rules and other internationally accepted revenue disclosure standards, the information required to be submitted under subsections 4(3),  (4) and (6) to add, modify or remove any information that must be submitted;
+
+
+
+
+
+
+
+
+
+
+(b) amending, in order to be consistent with the principles of the EITI, the definition of the term “payment” to include commonly recognized revenue streams for the commercial development of minerals, oil or gas; and
+
+
+
+
+
+
+
+
+
+
+(c) generally, for carrying into effect the purposes and provisions of this Act.
+
+
+
+
+
+
+
+
+
+
+7. Le gouverneur en conseil peut, par règlement :
+
+
+
+Règlements
+
+
+
+
+
+a) modifier — y compris par l’adjonction ou la suppression d’éléments — les renseignements devant être fournis en application des paragraphes 4(3), (4) et (6), dans le respect  des Règles de l’ITIE et des autres normes internationales reconnues en matière de communication des recettes;
+
+
+
+
+
+
+
+
+
+
+
+b) modifier, dans le respect des principes de l’ITIE, la définition de « paiement » afin d’y inclure les flux de recettes communément reconnus pour l’exploitation commerciale des ressources minérales, du pétrole ou du gaz;
+
+
+
+
+
+
+
+
+
+
+
+c) prendre toute autre mesure d’application de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+
+8. This Act comes into force 30 days after the day on which it receives royal assent.
+
+
+
+
+
+
+
+
+
+
+8. La présente loi entre en vigueur trente jours après la date de sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

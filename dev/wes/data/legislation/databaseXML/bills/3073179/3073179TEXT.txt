@@ -1,0 +1,843 @@
+
+
+
+
+
+C-327
+
+
+
+
+
+C-327
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-327
+
+
+
+
+
+PROJET DE LOI C-327
+
+
+
+
+
+
+An Act to amend the Broadcasting Act (reduction of violence in television broadcasts)
+
+
+
+
+
+Loi modifiant la Loi sur la radiodiffusion (réduction de la violence à la télévision)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 19, 2006
+
+première lecture le 19 juin 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2nd Session, 39th Parliament
+
+This bill was introduced during the First Session of the 39th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2e session, 39e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 39e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+Mr. Bigras
+
+391285
+
+
+
+M. Bigras
+
+
+
+
+
+SUMMARY
+This enactment amends the Broadcasting Act to  grant the Canadian Radio-television and Telecommunications Commission the power to make regulations respecting the broadcasting of violent scenes. 
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur la radiodiffusion afin d'accorder au Conseil de la radiodiffusion et des télécommunications canadiennes le pouvoir de régir, par  règlement,  la diffusion de scènes violentes.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-327
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-327
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Broadcasting Act (reduction of violence in television broadcasts)
+
+
+
+
+
+
+WHEREAS violence is a major cause for concern in our society; 
+
+
+
+
+
+
+WHEREAS, under the Broadcasting Act, broadcasting licensees take full responsibility for the programs they broadcast; 
+
+
+
+
+
+
+WHEREAS it is recognized that the broadcasting of violent scenes is one of the factors related to violence in society; 
+
+
+
+
+
+
+WHEREAS censorship is not a solution; 
+
+
+
+
+
+
+WHEREAS the creative freedom of workers in the television industry must be protected; 
+
+
+
+
+
+
+WHEREAS it is also necessary to assume responsibility for the protection of children; 
+
+
+
+
+
+
+WHEREAS the broadcasting industry has its own codes and classification systems against violence on television, instruments that have been approved by the Canadian Radio-television and Telecommunications Commission; 
+
+
+
+
+
+
+AND WHEREAS the number of violent scenes broadcast on television during the hours when children watch television, namely, before 9 p.m., has nevertheless increased; 
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la radiodiffusion (réduction de la violence à la télévision)
+
+
+
+
+
+
+Attendu : 
+
+
+
+
+
+
+que la violence est une importante source de préoccupation dans la société;
+
+
+
+
+
+
+qu'en vertu de la Loi sur la radiodiffusion, les titulaires de licences d'exploitation d'entreprises de radiodiffusion assument entièrement la responsabilité de leurs émissions;
+
+
+
+
+
+
+qu'il est reconnu que la diffusion de scènes violentes à la télévision est un des facteurs liés à la violence dans la société;
+
+
+
+
+
+
+que la censure ne constitue pas une solution;
+
+
+
+
+
+
+qu'il faut protéger la liberté créatrice des artisans de l'industrie télévisuelle;
+
+
+
+
+
+
+qu'il faut aussi assumer la responsabilité de la protection des enfants;
+
+
+
+
+
+
+que l'industrie de la radiodiffusion s'est dotée de codes et de systèmes de classification contre la violence à la télévision, instruments qui ont été entérinés par le Conseil de la radiodiffusion et des télécommunications canadiennes;
+
+
+
+
+
+
+que le nombre de scènes de violence diffusées à la télévision pendant les heures d'écoute des enfants, soit avant vingt et une heures, a néanmoins augmenté,
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 11 
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows: 
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : 
+
+
+
+1991, ch. 11
+
+
+
+
+
+
+
+
+
+
+
+
+1. Paragraph 3(l)(d) of the Broadcasting Act is amended by striking out the word “and” at the end of subparagraph (iii), by adding the word  “and” at the end of subparagraph (iv) by adding the following after subparagraph (iv): 
+
+
+
+
+
+
+
+
+
+1. L'alinéa 3(l)d) de la Loi sur la radiodiffusion est modifié par adjonction, après le sous-alinéa (iv), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(v) contribute to solving the problem of violence in society by reducing violence in the programming offered to the public, including children;
+
+
+
+
+
+
+
+
+
+(v) contribuer à résoudre le problème de la violence dans la société en réduisant la violence dans la programmation offerte au public, notamment aux enfants; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after paragraph 5(2)(b): 
+
+
+
+
+
+
+
+
+
+2. La même loi est modifiée par adjonction, après l'alinéa 5(2)b), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) takes into account public concerns regarding violence in programming; 
+
+
+
+
+
+
+
+
+
+b.1) tenir compte des préoccupations du public quant à la violence dans les émissions;  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after section 10: 
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l'article 10, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations respecting violence
+
+
+
+10.1 (1) The Commission shall make regulations respecting the broadcasting of violent scenes, including those contained in programs intended for persons under the age of 12 years.
+
+
+
+
+
+
+
+
+
+10.1 (1) Le Conseil régit, par règlement, la diffusion de scènes violentes, notamment dans les émissions destinées aux personnes de moins de douze ans. 
+
+
+
+Règlement sur la violence 
+
+
+
+
+
+
+
+
+
+
+Exam
+
+
+
+(2) At least once every five years, the Commission shall examine every broadcasting undertaking to verify its compliance with the regulations made under subsection (1), and non-compliance with those regulations shall be punished according to law.
+
+
+
+
+
+
+
+
+
+(2) Au moins une fois tous les cinq ans, le Conseil soumet chaque entreprise de radiodiffusion à un examen dans le but de vérifier sa conformité au règlement sur la violence. Tout  manquement est sanctionné conformément à la loi.
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+(3) On the expiration of six months after the coming into force of the regulations made under subsection (1), and every year thereafter, the Commission shall publish a report on the administration of those regulations, including the punishment imposed for non-compliance with the regulations.
+
+
+
+
+
+
+
+
+
+(3) À l'expiration de six mois suivant l'entrée en vigueur du règlement sur la violence, et chaque année par la suite, le Conseil publie un rapport sur l'application du règlement, y compris les pénalités imposées pour manquement à celui-ci.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Five-year review
+
+
+
+10.2 (1) On the expiration of five years after the coming into force of the regulations made under subsection 10.1(1), the Commission shall review the provisions, operation and effectiveness of those regulations with a view to evaluating their ability to meet their objectives. 
+
+
+
+
+
+
+
+
+
+10.2 (1) À l'expiration d'un délai de cinq ans à compter de l'entrée en vigueur du règlement sur la violence visé au paragraphe 10.1(1), le Conseil procède a l'examen du règlement, des conséquences de son application et de son efficacité afin        d'évaluer sa capacité d'atteindre les objectifs visés.
+
+
+
+Examen quinquennale
+
+
+
+
+
+
+
+
+
+
+Public hearing 
+
+
+
+(2) The review shall include a hearing during which members of the public may make representations orally or in writing. 
+
+
+
+
+
+
+
+
+
+(2) L'examen comporte la tenue d'une audience au cours de laquelle les membres du public peuvent présenter, oralement ou par écrit, leurs obversations.
+
+
+
+Audience publique
+
+
+
+
+
+
+
+
+
+
+Report 
+
+
+
+(3) Not later than six months after the date on which the review begins, the Commission shall submit a report to the Minister stating its findings, including any recommendations for amendments to the regulation or the Act, and the Minister shall cause the report to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the day on which the Minister receives it.
+
+
+
+
+
+
+
+
+
+(3) Dans les six mois suivant le début de l'examen, le Conseil présente au ministre un rapport dans lequel il fait état de ses conclusions ainsi que des modifications au règlement ou à la loi qu'il juge souhaitables. Le ministre fait déposer le rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Rapport 
+
+
+
+
+
+
+
+
+
+
+Coming into force 
+
+
+
+4. Section 3 comes into force one year after the day on which this Act is assented to. 
+
+
+
+
+
+
+
+
+
+4. L'article 3 entre en vigueur un an après la date  de  sanction de la présente loi.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

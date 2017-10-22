@@ -1,0 +1,6669 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+STATUTES OF CANADA 2014CHAPTER 6
+
+
+
+
+
+LOIS DU CANADA (2014)CHAPITRE 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code and the National Defence Act (mental disorder)
+
+
+
+
+
+Loi modifiant le Code criminel et la Loi sur la défense nationale (troubles mentaux)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+11th APRIL, 2014
+BILL C-14
+
+
+
+
+
+SANCTIONNÉE
+LE 11 AVRIL 2014
+PROJET DE LOI C-14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the mental disorder regime in the Criminal Code and the National Defence Act to specify that the paramount consideration in the decision-making process is the safety of the public and to create a scheme for finding that certain persons who have been found not criminally responsible on account of mental disorder are high-risk accused. It also enhances the involvement of victims in the regime and makes procedural and technical amendments.
+
+
+
+SOMMAIRE
+Le texte modifie le cadre législatif applicable aux troubles mentaux dans le Code criminel et la Loi sur la défense nationale afin de préciser que la sécurité du public est le facteur prépondérant dans le processus décisionnel. Il crée un mécanisme afin de prévoir que certaines personnes qui reçoivent un verdict de non-responsabilité criminelle pour cause de troubles mentaux peuvent être déclarées des accusés à haut risque et il accroît la participation des victimes. Il apporte aussi des modifications de nature technique ou administrative.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+62-63 ELIZABETH II
+
+
+
+
+
+
+
+
+
+62-63 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 6
+
+
+
+
+
+
+
+
+
+CHAPITRE 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code and the National Defence Act (mental disorder)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel et la Loi sur la défense nationale (troubles mentaux)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 11th April, 2014]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 11 avril 2014]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Not Criminally Responsible Reform Act.
+
+
+
+
+
+
+
+
+
+
+1. Titre abrégé : Loi sur la réforme de la non-responsabilité criminelle.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+2. (1) The definition “disposition” in subsection 672.1(1) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. (1) La définition de « décision », au paragraphe 672.1(1) du Code criminel, est remplacée par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+“disposition”« décision »
+
+
+
+“disposition” means an order made by a court or Review Board under section 672.54, an order made by a court under section 672.58 or a finding made by a court under subsection 672.64(1);
+
+
+
+
+
+
+
+
+
+« décision » Décision rendue par un tribunal ou une commission d’examen en vertu de l’article 672.54, décision rendue par un tribunal en vertu de l’article 672.58 ou déclaration faite par un tribunal en application du paragraphe 672.64(1).
+
+
+
+« décision »“disposition”
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 672.1(1) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 672.1(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“high-risk accused”« accusé à haut risque »
+
+
+
+“high-risk accused” means an accused who is found to be a high-risk accused by a court under subsection 672.64(1);
+
+
+
+
+
+
+
+
+
+« accusé à haut risque » Accusé déclaré tel par un tribunal en vertu du paragraphe 672.64(1).
+
+
+
+« accusé à haut risque »“high-risk accused”
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 672.11 of the Act is amended by striking out “or” at the end of paragraph (d) and by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+
+3. L’article 672.11 de la même loi est modifié par adjonction, après l’alinéa d), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d.1) whether a finding that the accused is a high-risk accused should be revoked under subsection 672.84(3); or
+
+
+
+
+
+
+
+
+
+
+d.1) déterminer si la déclaration portant que l’accusé est un accusé à haut risque devrait être révoquée en application du paragraphe 672.84(3);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 672.121 of the Act is amended by striking out “or” at the end of paragraph (a), by adding “or” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+
+4. L’article 672.121 de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) determine whether to refer to the court for review under subsection 672.84(1) a finding that an accused is a high-risk accused.
+
+
+
+
+
+
+
+
+
+
+c) soit pour déterminer s’il y a lieu de renvoyer l’affaire à la cour pour révision d’une déclaration portant que l’accusé est un accusé à haut risque en application du paragraphe 672.84(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Subsection 672.21(3) of the Act is amended by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 672.21(3) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) determining, under section 672.84, whether to refer to the court for review a finding that an accused is a high-risk accused or whether to revoke such a finding;
+
+
+
+
+
+
+
+
+
+
+c) déterminer en application de l’article 672.84 si l’affaire doit être renvoyée à la cour pour révision d’une déclaration portant que l’accusé est un accusé à haut risque ou si celle-ci doit être révoquée;
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4; 2005, c. 22, par. 42(e)(F)
+
+
+
+
+6. (1) Subsection 672.47(2) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. (1) Le paragraphe 672.47(2) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4; 2005, ch. 22, al. 42e)(F)
+
+
+
+
+
+
+
+
+
+
+Prolongation
+
+
+
+
+(2) Le tribunal, s’il est convaincu qu’il existe des circonstances exceptionnelles le justifiant, peut prolonger le délai préalable à la tenue d’une audience visée au paragraphe (1) jusqu’à un maximum de quatre-vingt-dix jours après le prononcé du verdict.
+
+
+
+
+
+
+
+
+
+
+(2) Le tribunal, s’il est convaincu qu’il existe des circonstances exceptionnelles le justifiant, peut prolonger le délai préalable à la tenue d’une audience visée au paragraphe (1) jusqu’à un maximum de quatre-vingt-dix jours après le prononcé du verdict.
+
+
+
+Prolongation
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 672.47 of the Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+(2) L’article 672.47 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception — high-risk accused
+
+
+
+(4) Despite subsections (1) to (3), if the court makes a disposition under subsection 672.64(3), the Review Board shall, not later than 45 days after the day on which the disposition is made, hold a hearing and make a disposition under paragraph 672.54(c), subject to the restrictions set out in that subsection.
+
+
+
+
+
+
+
+
+
+(4) Malgré les paragraphes (1) à (3), si le tribunal rend une décision en application du paragraphe 672.64(3), la commission d’examen doit, au plus tard quarante-cinq jours après le prononcé de celle-ci, tenir une audience et rendre une décision en application de l’alinéa 672.54c), sous réserve des restrictions énoncées à ce paragraphe.
+
+
+
+Exception — accusé à haut risque
+
+
+
+
+
+
+
+
+
+
+Extension of time for hearing
+
+
+
+(5) If the court is satisfied that there are exceptional circumstances that warrant it, the court may extend the time for holding a hearing under subsection (4) to a maximum of 90 days after the day on which the disposition is made.
+
+
+
+
+
+
+
+
+
+(5) Le tribunal, s’il est convaincu qu’il existe des circonstances exceptionnelles le justifiant, peut prolonger le délai préalable à la tenue d’une audience visée au paragraphe (4) jusqu’à un maximum de quatre-vingt-dix jours après le prononcé de la décision.
+
+
+
+Prolongation
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4; 2005, c. 22, par. 42(g)(F)
+
+
+
+
+7. (1) Subsection 672.5(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. (1) Le paragraphe 672.5(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4; 2005, ch. 22, al. 42g)(F)
+
+
+
+
+
+
+
+
+
+
+Procedure at disposition hearing
+
+
+
+
+672.5 (1) A hearing held by a court or Review Board to make or review a disposition in respect of an accused, including a hearing referred to in subsection 672.84(1) or (3), shall be held in accordance with this section.
+
+
+
+
+
+
+
+
+
+
+672.5 (1) Les règles qui suivent s’appliquent à l’audience que tient un tribunal ou une commission d’examen en vue de rendre ou de réviser une décision à l’égard d’un accusé, notamment celle visée aux paragraphes 672.84(1) et (3).
+
+
+
+Procédure lors de l’audience
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 672.5 of the Act is amended by adding the following after subsection (5.1):
+
+
+
+
+
+
+
+
+
+(2) L’article 672.5 de la même loi est modifié par adjonction, après le paragraphe (5.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Notice of discharge and intended place of residence
+
+
+
+(5.2) If the accused is discharged absolutely under paragraph 672.54(a) or conditionally under paragraph 672.54(b), a notice of the discharge and accused's intended place of residence shall, at the victim's request, be given to the victim within the time and in the manner fixed by the rules of the court or Review Board.
+
+
+
+
+
+
+
+
+
+(5.2) Un avis faisant état soit de la mise en liberté inconditionnelle de l’accusé, en application de l’alinéa 672.54a), soit de sa mise en liberté sous réserve de modalités, en application de l'alinéa 672.54b), ainsi que de son lieu de résidence projeté est remis à la victime lorsque celle-ci en fait la demande, dans le délai et de la manière prévus par les règles du tribunal ou de la commission d’examen.
+
+
+
+Avis faisant état de la libération et du lieu de rési-dence projeté
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 672.5 of the Act is amended by adding the following after subsection (13.2):
+
+
+
+
+
+
+
+
+
+(3) L’article 672.5 de la même loi est modifié par adjonction, après le paragraphe (13.2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Notice to victims — referral of finding to court
+
+
+
+(13.3) If the Review Board refers to the court for review under subsection 672.84(1) a finding that an accused is a high-risk accused, it shall notify every victim of the offence that they are entitled to file a statement with the court in accordance with subsection (14).
+
+
+
+
+
+
+
+
+
+(13.3) Dans le cas où elle renvoie une affaire à la cour pour révision d’une déclaration portant que l’accusé est un accusé à haut risque en application du paragraphe 672.84(1), la commission d’examen avise chacune des victimes de son droit de déposer à la cour une déclaration aux termes du paragraphe (14).
+
+
+
+Avis aux victimes — renvoi à la cour
+
+
+
+
+
+
+
+
+
+
+1999, c. 25, s. 11
+
+
+
+(4) Subsection 672.5(14) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 672.5(14) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 25, art. 11
+
+
+
+
+
+
+
+
+
+
+Déclaration de la victime
+
+
+
+
+(14) La victime peut rédiger et déposer auprès du tribunal ou de la commission d’examen une déclaration écrite qui décrit les dommages — corporels ou autres — ou les pertes qui lui ont été causés par la perpétration de l’infraction.
+
+
+
+
+
+
+
+
+
+
+(14) La victime peut rédiger et déposer auprès du tribunal ou de la commission d’examen une déclaration écrite qui décrit les dommages — corporels ou autres — ou les pertes qui lui ont été causés par la perpétration de l’infraction.
+
+
+
+Déclaration de la victime
+
+
+
+
+
+
+
+
+
+
+2005, c. 22, s. 16(3)
+
+
+
+(5) Subsections 672.5(15.2) to (16) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Les paragraphes 672.5(15.2) à (16) de la même loi sont remplacés par ce qui suit :
+
+
+
+2005, ch. 22 par. 16(3)
+
+
+
+
+
+
+
+
+
+
+Inquiry by court or Review Board
+
+
+
+(15.2) The court or Review Board shall, as soon as practicable after a verdict of not criminally responsible on account of mental disorder is rendered in respect of an offence and before making a disposition under section 672.45, 672.47 or 672.64, inquire of the prosecutor or a victim of the offence, or any person representing a victim of the offence, whether the victim has been advised of the opportunity to prepare a statement referred to in subsection (14).
+
+
+
+
+
+
+
+
+
+(15.2) Dans les meilleurs délais possible suivant le verdict de non-responsabilité criminelle pour cause de troubles mentaux et avant de rendre une décision en conformité avec les articles 672.45, 672.47 ou 672.64, le tribunal ou la commission d’examen est tenu de s’enquérir auprès du poursuivant ou de la victime — ou de toute personne la représentant — si la victime a été informée de la possibilité de rédiger une déclaration au titre du paragraphe (14).
+
+
+
+Obligation de s’enquérir
+
+
+
+
+
+
+
+
+
+
+Adjournment
+
+
+
+(15.3) On application of the prosecutor or a victim or of its own motion, the court or Review Board may adjourn the hearing held under section 672.45, 672.47 or 672.64 to permit the victim to prepare a statement referred to in subsection (14) if the court or Review Board is satisfied that the adjournment would not interfere with the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(15.3) Le tribunal ou la commission d’examen peut, s’il est convaincu que cela ne nuira pas à la bonne administration de la justice, de sa propre initiative ou à la demande de la victime ou du poursuivant, ajourner l’audience visée aux articles 672.45, 672.47 ou 672.64 pour permettre à la victime de rédiger sa déclaration.
+
+
+
+Ajournement
+
+
+
+
+
+
+
+
+
+
+Definition of “victim”
+
+
+
+(16) In subsections (5.1), (5.2), (13.2), (13.3), (14) and (15.1) to (15.3), “victim” has the same meaning as in subsection 722(4).
+
+
+
+
+
+
+
+
+
+(16) Aux paragraphes (5.1), (5.2), (13.2), (13.3), (14) et (15.1) à (15.3), « victime » s’entend au sens du paragraphe 722(4).
+
+
+
+Définition de « victime »
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+8. Subsection 672.51(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. Le paragraphe 672.51(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Definition of “disposition information”
+
+
+
+
+672.51 (1) In this section, “disposition information” means all or part of an assessment report submitted to the court or Review Board and any other written information before the court or Review Board about the accused that is relevant to making or reviewing a disposition.
+
+
+
+
+
+
+
+
+
+
+672.51 (1) Au présent article, « renseignements décisionnels » s’entend de la totalité ou d’une partie du rapport d’évaluation remis au tribunal ou à la commission d’examen et de tout autre document écrit dont ils sont saisis, qui concerne l’accusé et qui est pertinent à la décision à rendre ou à réviser.
+
+
+
+Définition de « renseignements décisionnels »
+
+
+
+
+
+
+
+
+
+
+2005, c. 22, s. 20
+
+
+
+
+9. The portion of section 672.54 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. Le passage de l’article 672.54 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2005, ch. 22, art. 20
+
+
+
+
+
+
+
+
+
+
+Dispositions that may be made
+
+
+
+
+672.54 When a court or Review Board makes a disposition under subsection 672.45(2), section 672.47, subsection 672.64(3) or section 672.83 or 672.84, it shall, taking into account the safety of the public, which is the paramount consideration, the mental condition of the accused, the reintegration of the accused into society and the other needs of the accused, make one of the following dispositions that is necessary and appropriate in the circumstances:
+
+
+
+
+
+
+
+
+
+
+672.54 Dans le cas où une décision est rendue au titre du paragraphe 672.45(2), de l’article 672.47, du paragraphe 672.64(3) ou des articles 672.83 ou 672.84, le tribunal ou la commission d’examen rend, en prenant en considération, d’une part, la sécurité du public qui est le facteur prépondérant et, d’autre part, l’état mental de l’accusé, sa réinsertion sociale et ses autres besoins, celle des décisions ci-après qui est nécessaire et indiquée dans les circonstances :
+
+
+
+Décisions
+
+
+
+
+
+
+
+
+
+
+2005, c. 22, s. 21
+
+
+
+
+10. Section 672.541 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. L’article 672.541 de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 22, art. 21
+
+
+
+
+
+
+
+
+
+
+Significant threat to safety of public
+
+
+
+
+672.5401 For the purposes of section 672.54, a significant threat to the safety of the public means a risk of serious physical or psychological harm to members of the public — including any victim of or witness to the offence, or any person under the age of 18 years — resulting from conduct that is criminal in nature but not necessarily violent.
+
+
+
+
+
+
+
+
+
+
+672.5401 Pour l’application de l’article 672.54, un risque important pour la sécurité du public s’entend du risque que courent les membres du public, notamment les victimes et les témoins de l’infraction et les personnes âgées de moins de dix-huit ans, de subir un préjudice sérieux — physique ou psychologique — par suite d’un comportement de nature criminelle, mais non nécessairement violent.
+
+
+
+Risque important pour la sécurité du public
+
+
+
+
+
+
+
+
+
+
+Victim impact statement
+
+
+
+
+672.541 If a verdict of not criminally responsible on account of mental disorder has been rendered in respect of an accused, the court or Review Board shall
+
+
+
+
+
+
+
+
+
+
+(a) at a hearing held under section 672.45, 672.47, 672.64, 672.81 or 672.82 or subsection 672.84(5), take into consideration any statement filed by a victim in accordance with subsection 672.5(14) in determining the appropriate disposition or conditions under section 672.54, to the extent that the statement is relevant to its consideration of the criteria set out in section 672.54;
+
+
+
+
+
+
+
+
+
+
+(b) at a hearing held under section 672.64 or subsection 672.84(3), take into consideration any statement filed by a victim in accordance with subsection 672.5(14), to the extent that the statement is relevant to its consideration of the criteria set out in subsection 672.64(1) or 672.84(3), as the case may be, in deciding whether to find that the accused is a high-risk accused, or to revoke such a finding; and
+
+
+
+
+
+
+
+
+
+
+(c) at a hearing held under section 672.81 or 672.82 in respect of a high-risk accused, take into consideration any statement filed by a victim in accordance with subsection 672.5(14) in determining whether to refer to the court for review the finding that the accused is a high-risk accused, to the extent that the statement is relevant to its consideration of the criteria set out in subsection 672.84(1).
+
+
+
+
+
+
+
+
+
+
+672.541 En cas de verdict de non-responsabilité criminelle pour cause de troubles mentaux, le tribunal ou la commission d’examen prend en compte :
+
+
+
+Déclaration de la victime
+
+
+
+
+
+a) à l’audience tenue conformément aux articles 672.45, 672.47, 672.64, 672.81 ou 672.82 ou au paragraphe 672.84(5) et dans le cadre des critères énoncés à l’article 672.54, toute déclaration de la victime déposée en conformité avec le paragraphe 672.5(14) en vue de rendre la décision ou de fixer les modalités indiquées au titre de l’article 672.54;
+
+
+
+
+
+
+
+
+
+
+
+b) à l’audience tenue conformément à l’article 672.64 ou au paragraphe 672.84(3) et dans le cadre des critères énoncés aux paragraphes 672.64(1) ou 672.84(3), selon le cas, toute déclaration de la victime déposée en conformité avec le paragraphe 672.5(14) en vue de décider si l’accusé doit être déclaré un accusé à haut risque ou si la déclaration doit être révoquée;
+
+
+
+
+
+
+
+
+
+
+
+c) à l’audience tenue conformément aux articles 672.81 ou 672.82 à l’égard d’un accusé à haut risque et dans le cadre des critères énoncés au paragraphe 672.84(1), toute déclaration de la victime déposée en conformité avec le paragraphe 672.5(14) en vue de décider si l’affaire doit être renvoyée à la cour pour révision de la déclaration portant que l’accusé est un accusé à haut risque.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional conditions — safety and security
+
+
+
+
+672.542 When a court or Review Board holds a hearing referred to in section 672.5, the court or Review Board shall consider whether it is desirable, in the interests of the safety and security of any person, particularly a victim of or witness to the offence or a justice system participant, to include as a condition of the disposition that the accused
+
+
+
+
+
+
+
+
+
+
+(a) abstain from communicating, directly or indirectly, with any victim, witness or other person identified in the disposition, or refrain from going to any place specified in the disposition; or
+
+
+
+
+
+
+
+
+
+
+(b) comply with any other condition specified in the disposition that the court or Review Board considers necessary to ensure the safety and security of those persons.
+
+
+
+
+
+
+
+
+
+
+672.542 Dans le cadre des audiences qu’il tient en vertu de l’article 672.5, le tribunal ou la commission d’examen examine s’il est souhaitable pour la sécurité de toute personne, en particulier celle des victimes, des témoins et des personnes associées au système judiciaire, d’imposer à l’accusé, à titre de modalité de la décision, tout ou partie des obligations suivantes :
+
+
+
+Obligations additionnelles — sécurité
+
+
+
+
+
+a) s’abstenir de communiquer, directement ou indirectement, avec toute personne — victime, témoin ou autre — qui est identifiée dans la décision ou d’aller dans un lieu qui y est mentionné;
+
+
+
+
+
+
+
+
+
+
+
+b) observer telles autres modalités que le tribunal ou la commission d’examen estime nécessaires pour assurer la sécurité de ces personnes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+11. (1) Subsection 672.56(1) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. (1) Le paragraphe 672.56(1) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Délégation
+
+
+
+
+
+672.56 (1) La commission d’examen qui rend une décision à l’égard d’un accusé en vertu des alinéas 672.54b) ou c) peut déléguer au responsable de l’hôpital le pouvoir d’assouplir ou de resserrer les privations de liberté de l’accusé à l’intérieur des limites prévues par la décision et sous réserve des modalités de celle-ci; toute modification qu’ordonne ainsi cette personne est, pour l’application de la présente loi, réputée être une décision de la commission d’examen.
+
+
+
+
+
+
+
+
+
+
+
+672.56 (1) La commission d’examen qui rend une décision à l’égard d’un accusé en vertu des alinéas 672.54b) ou c) peut déléguer au responsable de l’hôpital le pouvoir d’assouplir ou de resserrer les privations de liberté de l’accusé à l’intérieur des limites prévues par la décision et sous réserve des modalités de celle-ci; toute modification qu’ordonne ainsi cette personne est, pour l’application de la présente loi, réputée être une décision de la commission d’examen.
+
+
+
+Délégation
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 672.56 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(2) L’article 672.56 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception — high-risk accused
+
+
+
+(1.1) If the accused is a high-risk accused, any direction is subject to the restrictions set out in subsection 672.64(3).
+
+
+
+
+
+
+
+
+
+(1.1) Le pouvoir d’assouplir les privations de liberté d’un accusé à haut risque est assujetti aux restrictions énoncées au paragraphe 672.64(3).
+
+
+
+Exception — accusé à haut risque
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. The Act is amended by adding the following after section 672.63:
+
+
+
+
+
+
+
+
+
+
+12. La même loi est modifiée par adjonction, après l’article 672.63, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+High-Risk Accused
+
+
+
+
+
+
+
+
+
+Accusé à haut risque
+
+
+
+
+
+
+
+
+
+
+
+
+Finding
+
+
+
+
+672.64 (1) On application made by the prosecutor before any disposition to discharge an accused absolutely, the court may, at the conclusion of a hearing, find the accused to be a high-risk accused if the accused has been found not criminally responsible on account of mental disorder for a serious personal injury offence, as defined in subsection 672.81(1.3), the accused was 18 years of age or more at the time of the commission of the offence and
+
+
+
+
+
+
+
+
+
+
+(a) the court is satisfied that there is a substantial likelihood that the accused will use violence that could endanger the life or safety of another person; or
+
+
+
+
+
+
+
+
+
+
+(b) the court is of the opinion that the acts that constitute the offence were of such a brutal nature as to indicate a risk of grave physical or psychological harm to another person.
+
+
+
+
+
+
+
+
+
+
+672.64 (1) Sur demande du poursuivant faite avant toute décision portant libération inconditionnelle de l’accusé, le tribunal peut, au terme d’une audience, déclarer qu’un accusé âgé de dix-huit ans ou plus au moment de la perpétration de l’infraction qui a fait l’objet d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux pour une infraction grave contre la personne — au sens du paragraphe 672.81(1.3) — est un accusé à haut risque si, selon le cas :
+
+
+
+Déclaration
+
+
+
+
+
+a) il est convaincu qu’il y a une probabilité marquée que l’accusé usera de violence de façon qu’il pourrait mettre en danger la vie ou la sécurité d’une autre personne;
+
+
+
+
+
+
+
+
+
+
+
+b) il est d’avis que les actes à l’origine de l’infraction étaient d’une nature si brutale qu’il y a un risque de préjudice grave — physique ou psychologique — pour une autre personne.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Factors to consider
+
+
+
+(2) In deciding whether to find that the accused is a high-risk accused, the court shall consider all relevant evidence, including
+
+
+
+
+
+
+
+
+
+
+(a) the nature and circumstances of the offence;
+
+
+
+
+
+
+
+
+
+
+(b) any pattern of repetitive behaviour of which the offence forms a part;
+
+
+
+
+
+
+
+
+
+
+(c) the accused’s current mental condition;
+
+
+
+
+
+
+
+
+
+
+(d) the past and expected course of the accused’s treatment, including the accused’s willingness to follow treatment; and
+
+
+
+
+
+
+
+
+
+
+(e) the opinions of experts who have examined the accused.
+
+
+
+
+
+
+
+
+
+(2) Pour décider s’il déclare ou non que l’accusé est un accusé à haut risque, le tribunal prend en compte tout élément de preuve pertinent, notamment :
+
+
+
+Facteurs à considérer
+
+
+
+
+
+a) la nature et les circonstances de l’infraction;
+
+
+
+
+
+
+
+
+
+
+
+b) la répétition d’actes comme celui qui est à l’origine de l’infraction;
+
+
+
+
+
+
+
+
+
+
+
+c) l’état mental actuel de l’accusé;
+
+
+
+
+
+
+
+
+
+
+
+d) les traitements suivis et à venir de l’accusé et la volonté de celui-ci de suivre ces traitements;
+
+
+
+
+
+
+
+
+
+
+
+e) l’avis des experts qui l’ont examiné.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Detention of high-risk accused
+
+
+
+(3) If the court finds the accused to be a high-risk accused, the court shall make a disposition under paragraph 672.54(c), but the accused’s detention must not be subject to any condition that would permit the accused to be absent from the hospital unless
+
+
+
+
+
+
+
+
+
+
+(a) it is appropriate, in the opinion of the person in charge of the hospital, for the accused to be absent from the hospital for medical reasons or for any purpose that is necessary for the accused’s treatment, if the accused is escorted by a person who is authorized by the person in charge of the hospital; and
+
+
+
+
+
+
+
+
+
+
+(b) a structured plan has been prepared to address any risk related to the accused’s absence and, as a result, that absence will not present an undue risk to the public.
+
+
+
+
+
+
+
+
+
+(3) Si le tribunal déclare que l’accusé est un accusé à haut risque, il rend une décision à l’égard de l’accusé aux termes de l’alinéa 672.54c), mais les modalités de détention de l’accusé ne peuvent prévoir de séjours à l’extérieur de l’hôpital, sauf si les conditions suivantes sont réunies :
+
+
+
+Détention de l’accusé à haut risque
+
+
+
+
+
+a) le responsable de l’hôpital estime la sortie appropriée pour des raisons médicales ou pour les besoins de son traitement, si l’accusé est escorté d’une personne qu’il a autorisée à cette fin;
+
+
+
+
+
+
+
+
+
+
+
+b) un projet structuré a été établi pour faire face aux risques relatifs à la sortie, qui, en conséquence, ne présente pas de risque inacceptable pour le public.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appeal
+
+
+
+(4) A decision not to find an accused to be a high-risk accused is deemed to be a disposition for the purpose of sections 672.72 to 672.78.
+
+
+
+
+
+
+
+
+
+(4) Les articles 672.72 à 672.78 s’appliquent à toute décision de ne pas déclarer qu’un accusé est un accusé à haut risque.
+
+
+
+Appel
+
+
+
+
+
+
+
+
+
+
+For greater certainty
+
+
+
+(5) For greater certainty, a finding that an accused is a high-risk accused is a disposition and sections 672.72 to 672.78 apply to it.
+
+
+
+
+
+
+
+
+
+(5) Il est entendu que la déclaration qu’un accusé est un accusé à haut risque est une décision et que les articles 672.72 à 672.78 s’y appliquent.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+13. Section 672.75 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. L’article 672.75 de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Automatic suspension of certain dispositions
+
+
+
+
+672.75 The filing of a notice of appeal against a disposition made under section 672.58 suspends the application of the disposition pending the determination of the appeal.
+
+
+
+
+
+
+
+
+
+
+672.75 Le dépôt d’un avis d’appel interjeté à l’égard d’une décision rendue en vertu de l’article 672.58 suspend l’application de la décision jusqu’à la décision sur l’appel.
+
+
+
+Suspension d’application
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+14. Paragraph 672.76(2)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. L’alinéa 672.76(2)a) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+(a) by order, direct that a disposition made under section 672.58 be carried out pending the determination of the appeal, despite section 672.75;
+
+
+
+
+
+
+(a.1) by order, direct that a disposition made under paragraph 672.54(a) be suspended pending the determination of the appeal;
+
+
+
+
+
+
+
+
+
+
+a) rendre une ordonnance portant que l’application d’une décision rendue en vertu de l’article 672.58 n’est pas suspendue tant que l’appel est en instance, par dérogation à l’article 672.75;
+
+
+
+
+
+
+
+a.1) rendre une ordonnance portant que l’application d’une décision rendue en vertu de l’alinéa 672.54a) est suspendue tant que l’appel est en instance;
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 22, s. 27(2)
+
+
+
+
+15. Subsections 672.81(1.4) and (1.5) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. Les paragraphes 672.81(1.4) et (1.5) de la même loi sont remplacés par ce qui suit :
+
+
+
+2005, ch. 22, par. 27(2)
+
+
+
+
+
+
+
+
+
+
+Extension on consent — high-risk accused
+
+
+
+(1.31) Despite subsections (1) to (1.2), the Review Board may extend the time for holding a hearing in respect of a high-risk accused to a maximum of 36 months after making or reviewing a disposition if the accused is represented by counsel and the accused and the Attorney General consent to the extension.
+
+
+
+
+
+
+
+
+
+(1.31) Par dérogation aux paragraphes (1) à (1.2), la commission d’examen peut, à l’égard d’un accusé à haut risque, proroger le délai préalable à la tenue d’une audience de révision jusqu’à un maximum de trente-six mois après avoir rendu une décision ou l’avoir révisée, si l’accusé est représenté par un avocat et que le procureur général et l’accusé y consentent.
+
+
+
+Prorogation sur consentement — accusé à haut risque
+
+
+
+
+
+
+
+
+
+
+Extension — no likely improvement
+
+
+
+(1.32) Despite subsections (1) to (1.2), at the conclusion of a hearing under subsection 672.47(4) or this section in respect of a high-risk accused, the Review Board may, after making a disposition, extend the time for holding a subsequent hearing under this section to a maximum of 36 months if the Review Board is satisfied on the basis of any relevant information, including disposition information as defined in subsection 672.51(1) and an assessment report made under an assessment ordered under paragraph 672.121(c), that the accused’s condition is not likely to improve and that detention remains necessary for the period of the extension.
+
+
+
+
+
+
+
+
+
+(1.32) Par dérogation aux paragraphes (1) à (1.2), la commission d’examen peut, après avoir rendu une décision au terme de l’audience tenue en application du paragraphe 672.47(4) ou au terme de l’audience de révision tenue en application du présent article à l’égard d’un accusé à haut risque, proroger le délai préalable à la tenue d’une audience de révision subséquente en application du présent article jusqu’à un maximum de trente-six mois, si elle est convaincue, à la lumière de tout renseignement utile, notamment les renseignements décisionnels au sens du paragraphe 672.51(1) et tout rapport d’évaluation fait à la suite d’une ordonnance d’évaluation rendue en vertu de l’alinéa 672.121c), que l’état de l’accusé ne s’améliorera probablement pas et que sa détention demeure nécessaire pendant la période de prorogation.
+
+
+
+Prorogation — amélioration improbable
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(1.4) If the Review Board extends the time for holding a hearing under subsection (1.2) or (1.32), it shall provide notice of the extension to the accused, the prosecutor and the person in charge of the hospital where the accused is detained.
+
+
+
+
+
+
+
+
+
+(1.4) La commission d’examen qui proroge le délai en vertu des paragraphes (1.2) ou (1.32) est tenue de donner avis de la prorogation à l’accusé, au poursuivant et au responsable de l’hôpital où l’accusé est détenu.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Appeal
+
+
+
+(1.5) A decision by the Review Board to extend the time for holding a hearing under subsection (1.2) or (1.32) is deemed to be a disposition for the purpose of sections 672.72 to 672.78.
+
+
+
+
+
+
+
+
+
+(1.5) Les articles 672.72 à 672.78 s’appliquent à la décision de la commission de proroger le délai en vertu des paragraphes (1.2) ou (1.32).
+
+
+
+Appel
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. The Act is amended by adding the following after section 672.83:
+
+
+
+
+
+
+
+
+
+
+16. La même loi est modifiée par adjonction, après l’article 672.83, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Review of finding — high-risk accused
+
+
+
+
+672.84 (1) If a Review Board holds a hearing under section 672.81 or 672.82 in respect of a high-risk accused, it shall, on the basis of any relevant information, including disposition information as defined in subsection 672.51(1) and an assessment report made under an assessment ordered under paragraph 672.121(c), if it is satisfied that there is not a substantial likelihood that the accused — whether found to be a high-risk accused under paragraph 672.64(1)(a) or (b) — will use violence that could endanger the life or safety of another person, refer the finding for review to the superior court of criminal jurisdiction.
+
+
+
+
+
+
+
+
+
+
+672.84 (1) Dans le cas où la commission d’examen tient une audience en vertu des articles 672.81 ou 672.82 à l’égard d’un accusé à haut risque, elle est tenue, à la lumière de tout renseignement utile, notamment les renseignements décisionnels au sens du paragraphe 672.51(1) et tout rapport d’évaluation fait à la suite d’une ordonnance d’évaluation rendue en vertu de l’alinéa 672.121c), si elle est convaincue qu’il n’y a pas de probabilité marquée que l’accusé — qu’il ait fait l’objet d’une déclaration aux termes de l’alinéa 672.64(1)a) ou de l’alinéa 672.64(1)b) — usera de violence de façon qu’il pourrait mettre en danger la vie ou la sécurité d’une autre personne, de renvoyer l’affaire à la cour supérieure de juridiction criminelle pour révision de la déclaration.
+
+
+
+Révision de la déclaration — accusé à haut risque
+
+
+
+
+
+
+
+
+
+
+Review of conditions
+
+
+
+(2) If the Review Board is not so satisfied, it shall review the conditions of detention imposed under paragraph 672.54(c), subject to the restrictions set out in subsection 672.64(3).
+
+
+
+
+
+
+
+
+
+(2) Si elle n’est pas ainsi convaincue, la commission d’examen révise les modalités de détention fixées au titre de l’alinéa 672.54c), sous réserve des restrictions énoncées au paragraphe 672.64(3).
+
+
+
+Révision des modalités
+
+
+
+
+
+
+
+
+
+
+Review of finding by court
+
+
+
+(3) If the Review Board refers the finding to the superior court of criminal jurisdiction for review, the court shall, at the conclusion of a hearing, revoke the finding if the court is satisfied that there is not a substantial likelihood that the accused will use violence that could endanger the life or safety of another person, in which case the court or the Review Board shall make a disposition under any of paragraphs 672.54(a) to (c).
+
+
+
+
+
+
+
+
+
+(3) S’il y a renvoi de l’affaire à la cour pour révision de la déclaration, celle-ci, au terme d’une audience, révoque la déclaration si elle est convaincue qu’il n’y a pas de probabilité marquée que l’accusé usera de violence de façon qu’il pourrait mettre en danger la vie ou la sécurité d’une autre personne; dans ce cas, elle ou la commission d’examen rend une décision en application de l’un des alinéas 672.54a) à c).
+
+
+
+Révision de la déclaration par la cour
+
+
+
+
+
+
+
+
+
+
+Hearing and disposition
+
+
+
+(4) Any disposition referred to in subsection (3) is subject to sections 672.45 to 672.47 as if the revocation is a verdict.
+
+
+
+
+
+
+
+
+
+(4) La décision mentionnée au paragraphe (3) est assujettie aux articles 672.45 à 672.47 comme si la révocation était un verdict.
+
+
+
+Audience et décision
+
+
+
+
+
+
+
+
+
+
+Review of conditions
+
+
+
+(5) If the court does not revoke the finding, it shall immediately send to the Review Board, in original or copied form, a transcript of the hearing, any other document or information related to the hearing, and all exhibits filed with it, if the transcript, document, information or exhibits are in its possession. The Review Board shall, as soon as practicable but not later than 45 days after the day on which the court decides not to revoke the finding, hold a hearing and review the conditions of detention imposed under paragraph 672.54(c), subject to the restrictions set out in subsection 672.64(3).
+
+
+
+
+
+
+
+
+
+(5) Si la cour ne révoque pas la déclaration, elle fait parvenir sans délai à la commission d’examen le procès-verbal de l’audience et tout autre renseignement ou pièce s’y rapportant qui sont en sa possession, ou des copies de ceux-ci. La commission d’examen doit, dans les meilleurs délais, mais au plus tard quarante-cinq jours après que la cour a choisi de ne pas révoquer la déclaration, tenir une audience et réviser les modalités de détention fixées en application de l’alinéa 672.54c), sous réserve des restrictions énoncées au paragraphe 672.64(3).
+
+
+
+Révision des modalités
+
+
+
+
+
+
+
+
+
+
+Appeal
+
+
+
+(6) A decision under subsection (1) about referring the finding to the court for review and a decision under subsection (3) about revoking the finding are deemed to be dispositions for the purpose of sections 672.72 to 672.78.
+
+
+
+
+
+
+
+
+
+(6) Les articles 672.72 à 672.78 s’appliquent à toute décision relative au renvoi de l’affaire à la cour au titre du paragraphe (1) et à toute décision relative à la révocation de la déclaration au titre du paragraphe (3).
+
+
+
+Appel
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+17. Subsection 672.88(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. Le paragraphe 672.88(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Review Board of receiving province
+
+
+
+
+672.88 (1) The Review Board of the prov-ince to which an accused is transferred under section 672.86 has exclusive jurisdiction over the accused, and may exercise the powers and shall perform the duties mentioned in sections 672.5 and 672.81 to 672.84 as if that Review Board had made the disposition in respect of the accused.
+
+
+
+
+
+
+
+
+
+
+672.88 (1) La commission d’examen de la province dans laquelle est transféré l’accusé en vertu de l’article 672.86 a compétence exclusive à son égard et peut exercer toutes les attributions mentionnées aux articles 672.5 et 672.81 à 672.84 comme si elle avait rendu la décision à l’égard de l’accusé.
+
+
+
+Commission d’examen de la province du transfèrement
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+18. Subsection 672.89(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+18. Le paragraphe 672.89(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Other interprovincial transfers
+
+
+
+
+672.89 (1) If an accused who is detained in custody under a disposition made by a Review Board is transferred to another province otherwise than under section 672.86, the Review Board of the province from which the accused is transferred has exclusive jurisdiction over the accused and may continue to exercise the powers and shall continue to perform the duties mentioned in sections 672.5 and 672.81 to 672.84.
+
+
+
+
+
+
+
+
+
+
+672.89 (1) Lorsqu’un accusé détenu en vertu de la décision d’une commission d’examen est transféré dans une autre province dans un cas non visé à l’article 672.86, la commission d’examen de la province d’origine a compétence exclusive à son égard et peut continuer à exercer les attributions mentionnées aux articles 672.5 et 672.81 à 672.84.
+
+
+
+Autres transfèrements interprovinciaux
+
+
+
+
+
+
+
+
+
+
+2005, c. 22, s. 40
+
+
+
+
+19. Form 48 in Part XXVIII of the Act is amended by replacing “pursuant to section 672.54 or 672.58 of the Criminal Code” with “under section 672.54, 672.58 or 672.64 of the Criminal Code or whether the court should, under subsection 672.84(3) of that Act, revoke a finding that the accused is a high-risk accused”.
+
+
+
+
+
+
+
+
+
+
+19. La formule 48 de la partie XXVIII de la même loi est modifiée par remplacement de « 672.54 ou 672.58 du Code criminel » par « 672.54, 672.58 ou 672.64 du Code criminel ou décider si la révocation de la déclaration portant que l’accusé est un accusé à haut risque devrait être prononcée en application du paragraphe 672.84(3) de la même loi ».
+
+
+
+2005, ch. 22, art. 40
+
+
+
+
+
+
+
+
+
+
+2005, c. 22, s. 40
+
+
+
+
+20. Form 48.1 in Part XXVIII of the Act is amended by replacing “section 672.54 of the Criminal Code” with “section 672.54 of the Criminal Code or determine whether the Review Board should, under subsection 672.84(1) of that Act, refer to the superior court of criminal jurisdiction for review a finding that the accused is a high-risk accused”.
+
+
+
+
+
+
+
+
+
+
+20. La formule 48.1 de la partie XXVIII de la même loi est modifiée par remplacement de « l’article 672.54 du Code criminel » par « l’article 672.54 du Code criminel ou décider s’il y a lieu de renvoyer l’affaire à la cour supérieure de juridiction criminelle pour révision de la déclaration portant que l’accusé est un accusé à haut risque en application du paragraphe 672.84(1) de la même loi ».
+
+
+
+2005, ch. 22, art. 40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REVIEW
+
+
+
+
+
+
+
+
+
+EXAMEN
+
+
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+
+20.1 (1) Within five years after sections 2 to 20 come into force, a comprehensive review of the operation of sections 672.1 to 672.89 of the Criminal Code is to be undertaken by a committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established by the Senate, the House of Commons or both Houses of Parliament, as the case may be, for that purpose.
+
+
+
+
+
+
+
+
+
+
+20.1 (1) Dans les cinq ans suivant l’entrée en vigueur des articles 2 à 20, un examen approfondi de l’application des articles 672.1 à 672.89 du Code criminel est entrepris par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(2) Within a year, or such further time as authorized by the Senate, the House of Commons or both Houses of Parliament, as the case may be, after the review is undertaken, the Committee referred to in subsection (1) must submit a report on that review to the Senate, the House of Commons or both Houses of Parliament, as the case may be, including a statement of any changes recommended by the Committee.
+
+
+
+
+
+
+
+
+
+(2) Dans l’année qui suit le début de son examen ou dans le délai supérieur que le Sénat, la Chambre des communes ou les deux chambres, selon le cas, lui accordent, le comité visé au paragraphe (1) remet son rapport au Parlement ou à la chambre en question, selon le cas, accompagné des modifications qu’il recommande.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. N-5
+
+
+
+NATIONAL DEFENCE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA DÉFENSE NATIONALE
+
+
+
+L.R., ch. N-5
+
+
+
+
+
+
+
+
+
+
+
+
+
+21. Section 197 of the National Defence Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+
+21. L’article 197 de la Loi sur la défense nationale est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“disposition”« décision »
+
+
+
+“disposition” means an order made by a court martial under section 201, 202 or 202.16 or a finding made by a court martial under subsection 202.161(4);
+
+
+
+
+“significant threat to the safety of the public”« risque important pour la sécurité du public »
+
+
+
+“significant threat to the safety of the public” means a risk of serious physical or psychological harm to members of the public — including any victim of or witness to the offence, or any person under the age of 18 years — resulting from conduct that is criminal in nature but not necessarily violent.
+
+
+
+
+
+
+
+
+
+« décision » Décision rendue par une cour mar-tiale en vertu des articles 201, 202 ou 202.16 ou déclaration faite par une cour martiale en application du paragraphe 202.161(4).
+
+
+
+« décision »“disposition”
+
+
+
+
+« risque important pour la sécurité du public » S’entend du risque que courent les membres du public, notamment les victimes et les témoins de l’infraction et les personnes âgées de moins de dix-huit ans, de subir un préjudice sérieux — physique ou psychologique — par suite d’un comportement de nature criminelle, mais non nécessairement violent.
+
+
+
+« risque important pour la sécurité du public »“significant threat to the safety of the public”
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18
+
+
+
+
+22. The portion of subsection 201(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+22. Le passage du paragraphe 201(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 18
+
+
+
+
+
+
+
+
+
+
+Disposition
+
+
+
+
+201. (1) When a court martial makes a disposition by virtue of subsection 200(2), it shall, taking into account the safety of the public, which is the paramount consideration, the mental condition of the accused person, the reintegration of the accused person into society and the other needs of the accused person, make one of the following dispositions that is necessary and appropriate in the circumstances:
+
+
+
+
+
+
+
+
+
+
+201. (1) Dans le cas prévu au paragraphe 200(2), la cour martiale rend, en prenant en considération, d’une part, la sécurité du public, qui est le facteur prépondérant, et, d’autre part, l’état mental de l’accusé, sa réinsertion sociale et ses autres besoins, celle des décisions ci-après qui est nécessaire et indiquée dans les circonstances :
+
+
+
+Décision
+
+
+
+
+
+
+
+
+
+
+2005, c. 22, s. 49
+
+
+
+
+23. (1) Subparagraph 202.121(1)(b)(ii) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+23. (1) Le sous-alinéa 202.121(1)b)(ii) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 22, art. 49
+
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) d’autre part, il ne présente aucun risque important pour la sécurité du public.
+
+
+
+
+
+
+
+
+
+
+(ii) d’autre part, il ne présente aucun risque important pour la sécurité du public.
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 22, s. 49
+
+
+
+(2) Paragraph 202.121(4)(b) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 202.121(4)b) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 22, art. 49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, il ne présente aucun risque important pour la sécurité du public.
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, il ne présente aucun risque important pour la sécurité du public.
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 22, s. 49
+
+
+
+(3) Paragraph 202.121(7)(b) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 202.121(7)b) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 22, art. 49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) qu’il ne présente aucun risque important pour la sécurité du public;
+
+
+
+
+
+
+
+
+
+
+
+b) qu’il ne présente aucun risque important pour la sécurité du public;
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18
+
+
+
+
+24. (1) The portion of subsection 202.16(1) of the Act before paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+24. (1) Le passage du paragraphe 202.16(1) de la même loi précédant l’alinéa b) est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 18
+
+
+
+
+
+
+
+
+
+
+Disposition
+
+
+
+
+202.16 (1) When a court martial makes a disposition by virtue of subsection 202.15(1), it shall, taking into account the safety of the public, which is the paramount consideration, the mental condition of the accused person, the reintegration of the accused person into society and the other needs of the accused person, make one of the following dispositions that is necessary and appropriate in the circumstances:
+
+
+
+
+
+
+
+
+
+
+(a) by order, direct that the accused person be released from custody without conditions if, in the opinion of the court martial, the accused person is not a significant threat to the safety of the public;
+
+
+
+
+
+
+
+
+
+
+202.16 (1) Dans le cas prévu au paragraphe 202.15(1), la cour martiale rend, en prenant en considération, d’une part, la sécurité du public, qui est le facteur prépondérant, et, d’autre part, l’état mental de l’accusé, sa réinsertion sociale et ses autres besoins, celle des décisions ci-après qui est nécessaire et indiquée dans les circonstances :
+
+
+
+Décision
+
+
+
+
+
+a) sa mise en liberté inconditionnelle si elle estime que l’accusé ne présente pas un risque important pour la sécurité du public;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18
+
+
+
+(2) Paragraph 202.16(1)(c) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 202.16(1)c) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) la détention de l’accusé dans un hôpital ou un autre lieu approprié choisi par elle, sous réserve des modalités qu’elle estime indiquées.
+
+
+
+
+
+
+
+
+
+
+
+c) la détention de l’accusé dans un hôpital ou un autre lieu approprié choisi par elle, sous réserve des modalités qu’elle estime indiquées.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25. The Act is amended by adding the following after section 202.16:
+
+
+
+
+
+
+
+
+
+
+25. La même loi est modifiée par adjonction, après l’article 202.16, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+High-Risk Accused
+
+
+
+
+
+
+
+
+
+Accusé à haut risque
+
+
+
+
+
+
+
+
+
+
+
+
+Application to court martial
+
+
+
+
+202.161 (1) If a court martial makes a finding under subsection 202.14(1) that an accused person is not responsible on account of mental disorder and it has not terminated its proceedings in respect of the accused person, the Director of Military Prosecutions may make an application to the court martial for a finding that the accused person is a high-risk accused.
+
+
+
+
+
+
+
+
+
+
+202.161 (1) Lorsque la cour martiale a rendu un verdict de non-responsabilité pour cause de troubles mentaux en application du paragraphe 202.14(1) à l’égard d’un accusé et n’a pas mis fin aux procédures, le directeur des poursuites militaires peut lui demander de déclarer que celui-ci est un accusé à haut risque.
+
+
+
+Demande à la cour martiale
+
+
+
+
+
+
+
+
+
+
+Application to Chief Military Judge
+
+
+
+(2) If the court martial has terminated its proceedings in respect of the accused person, the Director of Military Prosecutions may make the application to the Chief Military Judge. On receipt of the application, the Chief Military Judge shall cause the Court Martial Administrator to convene a Standing Court Martial.
+
+
+
+
+
+
+
+
+
+(2) Lorsque la cour martiale a mis fin aux procédures, le directeur des poursuites militaires peut adresser sa demande au juge militaire en chef. Sur réception de la demande, le juge militaire en chef fait convoquer une cour martiale permanente par l’administrateur de la cour martiale.
+
+
+
+Demande au juge militaire en chef
+
+
+
+
+
+
+
+
+
+
+Restriction
+
+
+
+(3) No application shall be made under subsection (1) or (2) if a disposition has been made to release the accused person from custody without conditions or to discharge the accused person absolutely.
+
+
+
+
+
+
+
+
+
+(3) Si une décision portant libération ou mise en liberté inconditionnelle de l’accusé a été rendue, le directeur des poursuites militaires ne peut faire de demande en vertu des paragraphes (1) et (2).
+
+
+
+Limite
+
+
+
+
+
+
+
+
+
+
+Finding
+
+
+
+(4) The court martial referred to in subsection (1) or (2) may, at the conclusion of a hearing, find the accused person to be a high-risk accused if the accused person has been found not responsible on account of mental disorder for a serious personal injury offence, the accused person was 18 years of age or more at the time of the commission of the offence and
+
+
+
+
+
+
+
+
+
+
+(a) the court martial is satisfied that there is a substantial likelihood that the accused person will use violence that could endanger the life or safety of another person; or
+
+
+
+
+
+
+
+
+
+
+(b) the court martial is of the opinion that the acts that constitute the offence were of such a brutal nature as to indicate a risk of grave physical or psychological harm to another person.
+
+
+
+
+
+
+
+
+
+(4) Dans les cas visés aux paragraphes (1) et (2), la cour martiale peut, au terme d’une audience, déclarer qu’un accusé âgé de dix-huit ans ou plus au moment de la perpétration de l’infraction qui a fait l’objet d’un verdict de non-responsabilité pour cause de troubles mentaux pour une infraction grave contre la personne est un accusé à haut risque si, selon le cas :
+
+
+
+Déclaration
+
+
+
+
+
+a) elle est convaincue qu’il y a une probabilité marquée que l’accusé usera de violence de façon qu’il pourrait mettre en danger la vie ou la sécurité d’une autre personne;
+
+
+
+
+
+
+
+
+
+
+
+b) elle est d’avis que les actes à l’origine de l’infraction étaient d’une nature si brutale qu’il y a un risque de préjudice grave — physique ou psychologique — pour une autre personne.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “serious personal injury offence”
+
+
+
+(5) For the purposes of subsection (4), “serious personal injury offence” means
+
+
+
+
+
+
+
+
+
+
+(a) a serious offence, or an offence referred to in section 77, 86, 87, 92, 95, 113, 120, 124 or 127, involving
+
+
+
+
+
+
+
+
+
+
+(i) the use or attempted use of violence against another person, or
+
+
+
+
+
+
+
+
+
+
+(ii) conduct endangering or likely to endanger the life or safety of another person or inflicting or likely to inflict severe psychological damage upon another person; or
+
+
+
+
+
+
+
+
+
+
+(b) an offence referred to in section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 271, 272 or 273 of the Criminal Code that is punishable under section 130 or an attempt to commit such an offence.
+
+
+
+
+
+
+
+
+
+(5) Au paragraphe (4), « infraction grave contre la personne » s’entend, selon le cas :
+
+
+
+Définition de « infraction grave contre la personne »
+
+
+
+
+
+a) d’une infraction grave ou d’une infraction prévue aux articles 77, 86, 87, 92, 95, 113, 120, 124 ou 127 mettant en cause :
+
+
+
+
+
+
+
+
+
+
+(i) soit la violence ou la tentative d’utiliser la violence contre une autre personne,
+
+
+
+
+
+
+
+
+
+
+(ii) soit un comportement qui met ou risque de mettre en danger la vie ou la sécurité d’une autre personne ou qui inflige ou risque d’infliger des dommages psychologiques graves à une autre personne;
+
+
+
+
+
+
+
+
+
+
+
+b) d’une infraction visée aux articles 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 271, 272 ou 273 du Code criminel qui est punissable en application de l’article 130, ou de la tentative de perpétration d’une telle infraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Factors to consider
+
+
+
+(6) In deciding whether to find that the accused person is a high-risk accused, the court martial shall consider all relevant evidence, including
+
+
+
+
+
+
+
+
+
+
+(a) the nature and circumstances of the offence;
+
+
+
+
+
+
+
+
+
+
+(b) any pattern of repetitive behaviour of which the offence forms a part;
+
+
+
+
+
+
+
+
+
+
+(c) the accused person’s current mental condition;
+
+
+
+
+
+
+
+
+
+
+(d) the past and expected course of the accused person’s treatment, including the accused person’s willingness to follow treatment; and
+
+
+
+
+
+
+
+
+
+
+(e) the opinions of experts who have examined the accused person.
+
+
+
+
+
+
+
+
+
+(6) Pour décider si elle déclare ou non que l’accusé est un accusé à haut risque, la cour martiale prend en compte tout élément de preuve pertinent, notamment :
+
+
+
+Facteurs à considérer
+
+
+
+
+
+a) la nature et les circonstances de l’infraction;
+
+
+
+
+
+
+
+
+
+
+
+b) la répétition d’actes comme celui qui est à l’origine de l’infraction;
+
+
+
+
+
+
+
+
+
+
+
+c) l’état mental actuel de l’accusé;
+
+
+
+
+
+
+
+
+
+
+
+d) les traitements suivis et à venir de l’accusé et la volonté de celui-ci de suivre ces traitements;
+
+
+
+
+
+
+
+
+
+
+
+e) l’avis des experts qui l’ont examiné.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Detention of high-risk accused person
+
+
+
+(7) If the court martial finds the accused person to be a high-risk accused, the court martial shall make a disposition under paragraph 202.16(1)(c), but the accused person’s detention must not be subject to any condition that would permit the accused person to be absent from the hospital or other appropriate place unless
+
+
+
+
+
+
+
+
+
+
+(a) it is appropriate, in the opinion of the person in charge of the hospital or other appropriate place, for the accused person to be absent from the hospital or place for medical reasons or for any purpose that is necessary for the accused person’s treatment, if the accused person is escorted by a person who is authorized by the person in charge of the hospital or place; and
+
+
+
+
+
+
+
+
+
+
+(b) a structured plan has been prepared to address any risk related to the accused person’s absence and, as a result, that absence will not present an undue risk to the public.
+
+
+
+
+
+
+
+
+
+(7) Si la cour martiale déclare que l’accusé est un accusé à haut risque, elle rend une décision à l’égard de l’accusé aux termes de l’alinéa 202.16(1)c), mais les modalités de détention de l’accusé ne peuvent prévoir de séjours à l’extérieur de l’hôpital ou autre lieu approprié, sauf si les conditions suivantes sont réunies :
+
+
+
+Détention de l’accusé à haut risque
+
+
+
+
+
+a) le responsable de l’hôpital ou de l’autre lieu approprié estime la sortie appropriée pour des raisons médicales ou pour les besoins de son traitement, si l’accusé est escorté d’une personne qu’il a autorisée à cette fin;
+
+
+
+
+
+
+
+
+
+
+
+b) un projet structuré a été établi pour faire face aux risques relatifs à la sortie, qui, en conséquence, ne présente pas de risque inacceptable pour le public.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessment order
+
+
+
+(8) Subject to regulations, if the court martial has reasonable grounds to believe that evidence of the mental condition of an accused person is necessary for the purpose of determining the appropriate disposition to be made under this section, the court martial may make an order for an assessment of the accused person.
+
+
+
+
+
+
+
+
+
+(8) Sous réserve des règlements, la cour martiale peut rendre une ordonnance portant évaluation de l’accusé si elle a des motifs raisonnables de croire qu’une preuve de l’état mental de l’accusé est nécessaire pour déterminer la décision qui devrait être prise à son égard sous le régime du présent article.
+
+
+
+Ordonnance d’évaluation
+
+
+
+
+
+
+
+
+
+
+Referral to court martial for review
+
+
+
+
+202.162 (1) If a Review Board, in exercising a power under section 202.25, decides to refer to a court martial for review under subsection 672.84(1) of the Criminal Code a finding that an accused person is a high-risk accused, the Review Board shall, immediately after making the decision, cause a copy of it to be sent to the Chief Military Judge.
+
+
+
+
+
+
+
+
+
+
+202.162 (1) Si, dans l’exercice de l’un des pouvoirs que lui confère l’article 202.25, la commission d’examen renvoie à la cour martiale pour révision, au titre du paragraphe 672.84(1) du Code criminel, la déclaration portant qu’un accusé est un accusé à haut risque, elle fait sans délai parvenir une copie de sa décision de renvoi au juge militaire en chef.
+
+
+
+Renvoi devant la cour martiale
+
+
+
+
+
+
+
+
+
+
+Convening court martial
+
+
+
+(2) On receipt of a copy of the decision, the Chief Military Judge shall cause the Court Martial Administrator to convene a Standing Court Martial to review the finding.
+
+
+
+
+
+
+
+
+
+(2) Dès qu’il reçoit copie de la décision de renvoi, le juge militaire en chef fait convoquer une cour martiale permanente par l’administrateur de la cour martiale afin qu’elle révise la déclaration.
+
+
+
+Convocation de la cour martiale
+
+
+
+
+
+
+
+
+
+
+Review of finding by court martial
+
+
+
+(3) The court martial shall, at the conclusion of a hearing, revoke the finding if the court martial is satisfied that there is not a substantial likelihood that the accused person will use violence that could endanger the life or safety of another person, in which case sections 202.15 and 202.21 apply as if the court martial has made a finding of not responsible on account of mental disorder.
+
+
+
+
+
+
+
+
+
+(3) Si elle est convaincue qu’il n’y a pas de probabilité marquée que l’accusé usera de violence de façon qu’il pourrait mettre en danger la vie ou la sécurité d’une autre personne, la cour martiale, au terme d’une audience, révoque la déclaration, auquel cas, les articles 205.15 et 202.21 s’appliquent comme si elle avait rendu un verdict de non-responsabilité pour cause de troubles mentaux.
+
+
+
+Révision de la déclaration par la cour martiale
+
+
+
+
+
+
+
+
+
+
+Finding not revoked
+
+
+
+(4) If the court martial does not revoke the finding, it shall immediately send to the Review Board, in original or copied form, a transcript of the hearing, any other document or information related to the hearing, and all exhibits filed with it, if the transcript, document, information or exhibits are in its possession.
+
+
+
+
+
+
+
+
+
+(4) Si elle ne révoque pas la déclaration, la cour martiale fait parvenir sans délai à la commission d’examen le procès-verbal de l’audience et tout autre renseignement ou pièce s’y rapportant qui sont en sa possession, ou des copies de ceux-ci.
+
+
+
+Cour martiale ne révoque pas la déclaration
+
+
+
+
+
+
+
+
+
+
+Assessment order
+
+
+
+(5) Subject to regulations, if the court martial has reasonable grounds to believe that evidence of the mental condition of the accused person is necessary for the purpose of determining whether to revoke the finding, the court martial may make an order for an assessment of the accused person.
+
+
+
+
+
+
+
+
+
+(5) Sous réserve des règlements, la cour martiale peut rendre une ordonnance portant évaluation de l’accusé si elle a des motifs raisonnables de croire qu’une preuve de l’état mental de l’accusé est nécessaire pour déterminer si la déclaration doit être révoquée.
+
+
+
+Ordonnance d’évaluation
+
+
+
+
+
+
+
+
+
+
+
+
+
+26. The Act is amended by adding the following after section 202.2:
+
+
+
+
+
+
+
+
+
+
+26. La même loi est modifiée par adjonction, après l’article 202.2, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Procedure at disposition hearing
+
+
+
+
+202.201 (1) A hearing by a court martial to make or review a disposition in respect of an accused person shall be held in accordance with this section and the regulations.
+
+
+
+
+
+
+
+
+
+
+202.201 (1) L’audience tenue par la cour martiale en vue de rendre ou de réviser une décision à l’égard d’un accusé l’est conformément au présent article et aux règlements.
+
+
+
+Procédure lors de l’audience
+
+
+
+
+
+
+
+
+
+
+Hearing to be informal
+
+
+
+(2) The hearing may be conducted in as informal a manner as is appropriate in the circumstances.
+
+
+
+
+
+
+
+
+
+(2) L’audience peut être aussi informelle que le permettent les circonstances.
+
+
+
+Audience informelle
+
+
+
+
+
+
+
+
+
+
+Interested person may be party
+
+
+
+(3) The court martial may designate as a party any person who has a substantial interest in protecting the accused person’s interests, if the court martial is of the opinion that it is just to do so.
+
+
+
+
+
+
+
+
+
+(3) Si elle est d’avis que la justice l’exige, la cour martiale peut accorder le statut de partie à toute personne qui possède un intérêt réel dans la protection des intérêts de l’accusé.
+
+
+
+Statut de partie des intéressés
+
+
+
+
+
+
+
+
+
+
+Notice of hearing — parties
+
+
+
+(4) The court martial shall give notice of the hearing to the parties.
+
+
+
+
+
+
+
+
+
+(4) La cour martiale donne avis de l’audience à toutes les parties.
+
+
+
+Avis de l’audience — parties
+
+
+
+
+
+
+
+
+
+
+Notice of hearing — victim
+
+
+
+(5) The court martial shall, at the request of a victim of the offence, give the victim notice of the hearing and of the relevant provisions of this Act.
+
+
+
+
+
+
+
+
+
+(5) Elle fournit à la victime qui en fait la demande un avis de l’audience et des dispositions pertinentes de la présente loi.
+
+
+
+Avis de l’audience — victime
+
+
+
+
+
+
+
+
+
+
+Notice of release from custody and intended place of residence
+
+
+
+(6) If the accused person is released from custody without conditions under paragraph 202.16(1)(a) or with conditions under paragraph 201(1)(a) or 202.16(1)(b), a notice of the release and the accused person's intended place of residence shall, at the victim's request, be given to the victim within the time and in the manner fixed by regulations.
+
+
+
+
+
+
+
+
+
+(6) Un avis faisant état soit de la mise en liberté inconditionnelle de l’accusé, en application de l’alinéa 202.16(1)a), soit de sa mise en liberté sous réserve de modalités, en application des alinéas 201(1)a) ou 202.16(1)b), ainsi que de son lieu de résidence projeté est remis à la victime lorsque celle-ci en fait la demande, dans le délai et de la manière prévus par règlement.
+
+
+
+Avis faisant état de la libération et du lieu de rési-dence projeté
+
+
+
+
+
+
+
+
+
+
+Order excluding public
+
+
+
+(7) If the court martial considers it to be in the accused person’s best interests and not contrary to the public interest, it may order the public or any members of the public to be excluded from the hearing or any part of it.
+
+
+
+
+
+
+
+
+
+(7) L’audience peut, en totalité ou en partie, avoir lieu à huis clos si la cour martiale considère que cela est dans l’intérêt de l’accusé et n’est pas contraire à l’intérêt public.
+
+
+
+Huis clos
+
+
+
+
+
+
+
+
+
+
+Right to counsel
+
+
+
+(8) The accused person or any other party has the right to be represented by counsel.
+
+
+
+
+
+
+
+
+
+(8) L’accusé et toutes les parties ont le droit d’être représentés par avocat.
+
+
+
+Droit à un avocat
+
+
+
+
+
+
+
+
+
+
+Assigning counsel
+
+
+
+(9) A court martial shall, either before or at the time of the hearing of an accused person who is not represented by counsel, direct that counsel be provided by the Director of Defence Counsel Services if the accused person has been found unfit to stand trial or the interests of military justice require that counsel be provided.
+
+
+
+
+
+
+
+
+
+(9) Si l’accusé a été déclaré inapte à subir son procès ou si l’intérêt de la justice militaire l’exige, la cour martiale ordonne, dans le cas où l’accusé n’est pas représenté par avocat, que le directeur du service d’avocats de la défense lui en désigne un, avant l’audience ou au moment de celle-ci.
+
+
+
+Avocat d’office
+
+
+
+
+
+
+
+
+
+
+Right of accused person to be present
+
+
+
+(10) Subject to subsection (11), the accused person has the right to be present during the entire hearing.
+
+
+
+
+
+
+
+
+
+(10) Sous réserve du paragraphe (11), l’accusé a le droit d’être présent durant toute l’audience.
+
+
+
+Présence de l’accusé
+
+
+
+
+
+
+
+
+
+
+Removal or absence of accused person
+
+
+
+(11) The court martial may permit the accused person to be absent during the entire hearing or any part of it on any conditions that the court martial considers appropriate. The court martial may also cause the accused person to be removed and barred from re-entry for the entire hearing or any part of it for any of the following reasons:
+
+
+
+
+
+
+
+
+
+
+(a) the accused person is interrupting the hearing and it is not feasible to continue it in the accused person’s presence;
+
+
+
+
+
+
+
+
+
+
+(b) the court martial is satisfied that the accused person’s presence would likely endanger the life or safety of another person or would seriously impair the treatment or recovery of the accused person; or
+
+
+
+
+
+
+
+
+
+
+(c) the court martial is satisfied that the accused person should not be present for the hearing of evidence, oral or written submissions, or the cross-examination of any witness respecting the existence of grounds for removing the accused person under paragraph (b).
+
+
+
+
+
+
+
+
+
+(11) La cour martiale peut soit permettre à l’accusé d’être absent pendant la totalité ou une partie de l’audience aux conditions qu’elle juge indiquées, soit l’exclure pendant la totalité ou une partie de l’audience dans les cas suivants :
+
+
+
+Exclusion ou absence de l’accusé
+
+
+
+
+
+a) l’accusé interrompt l’audience au point qu’il serait difficile de la continuer en sa présence;
+
+
+
+
+
+
+
+
+
+
+
+b) la cour martiale est convaincue que sa présence mettrait vraisemblablement en danger la vie ou la sécurité d’un tiers ou aurait un effet préjudiciable grave sur le traitement ou la guérison de l’accusé;
+
+
+
+
+
+
+
+
+
+
+
+c) la cour martiale est convaincue qu’il ne devrait pas être présent pour l’audition de la preuve, la présentation des observations orales ou écrites ou le contre-interrogatoire des témoins relativement à l’existence des circonstances visées à l’alinéa b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rights of parties at hearing
+
+
+
+(12) Any party may adduce evidence, make oral or written submissions, call witnesses and cross-examine any witness called by any other party and, on application, cross-examine any person who made an assessment report that was submitted in writing to the court martial.
+
+
+
+
+
+
+
+
+
+(12) Toute partie peut présenter des éléments de preuve, faire des observations, oralement ou par écrit, appeler des témoins et contre-interroger ceux appelés par les autres parties et, si un rapport d’évaluation a été présenté par écrit à la cour martiale, peut en contre-interroger l’auteur après en avoir demandé l’autorisation.
+
+
+
+Droits des parties à l’audience
+
+
+
+
+
+
+
+
+
+
+Witnesses
+
+
+
+(13) A party may not compel the attendance of witnesses, but may request the court martial to do so.
+
+
+
+
+
+
+
+
+
+(13) Une partie ne peut ordonner la présence d’un témoin à l’audience, mais peut demander à la cour martiale de le faire.
+
+
+
+Témoins
+
+
+
+
+
+
+
+
+
+
+Video links
+
+
+
+(14) If the accused person agrees, the court martial may permit them to appear by closed-circuit television or any other means that allows the court martial and the accused person to engage in simultaneous visual and oral communication, for any part of the hearing, so long as the accused person is given the opportunity to communicate privately with counsel if they are represented by counsel.
+
+
+
+
+
+
+
+
+
+(14) La cour martiale peut autoriser l’accusé, avec son consentement, à être présent par télévision en circuit fermé ou par tout autre moyen leur permettant, à elle et à l’accusé, de se voir et de communiquer simultanément durant toute partie de l’audience, pourvu qu’il ait la possibilité, s’il est représenté par un avocat, de communiquer en privé avec lui.
+
+
+
+Télécomparution
+
+
+
+
+
+
+
+
+
+
+Determination of mental condition of accused person
+
+
+
+(15) A court martial that reviews a disposition shall, on receipt of an assessment report, determine if there has been any change in the accused person’s mental condition since the disposition was made or last reviewed that may provide grounds for the accused person’s release from custody under section 202.16. If the court martial determines that there has been such a change, it shall notify every victim of the offence that they may prepare a statement.
+
+
+
+
+
+
+
+
+
+(15) La cour martiale qui reçoit un rapport d’évaluation établit si, depuis la date de la décision rendue à l’égard de l’accusé ou de sa dernière révision, l’état mental de celui-ci a subi un changement pouvant justifier sa libération aux termes de l’article 202.16; le cas échéant, elle avise chacune des victimes de la possibilité de rédiger une déclaration.
+
+
+
+Détermination de l’état mental de l’accusé
+
+
+
+
+
+
+
+
+
+
+Victim impact statement
+
+
+
+(16) For the purpose of making or reviewing a disposition in respect of an accused person, a court martial shall consider the statement of any victim of the offence describing the harm done to, or loss suffered by, the victim arising from the commission of the offence.
+
+
+
+
+
+
+
+
+
+(16) Pour rendre ou réviser une décision à l’égard de l’accusé, la cour martiale prend en considération la déclaration de toute victime sur les dommages — corporels ou autres — ou les pertes qui lui ont été causés par la perpétration de l’infraction.
+
+
+
+Déclaration de la victime
+
+
+
+
+
+
+
+
+
+
+Procedure
+
+
+
+(17) A victim’s statement must be prepared in the form, and filed in accordance with the procedures, provided for by regulations made by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(17) La rédaction et le dépôt de la déclaration de la victime se font selon la forme et suivant la procédure prévues par règlement du gouverneur en conseil.
+
+
+
+Procédure
+
+
+
+
+
+
+
+
+
+
+Presentation of victim statement
+
+
+
+(18) Unless the court martial considers that it would not be in the best interests of the administration of military justice, the court martial shall, at the victim’s request, permit the victim to read their statement or to present the statement in any other manner that the court martial considers appropriate.
+
+
+
+
+
+
+
+
+
+(18) Sur demande de la victime, la cour martiale lui permet de lire sa déclaration ou d’en faire la présentation de toute autre façon qu’elle juge indiquée, sauf si elle est d’avis que cette mesure nuirait à la bonne administration de la justice militaire.
+
+
+
+Présentation de la déclaration
+
+
+
+
+
+
+
+
+
+
+Consideration by court martial
+
+
+
+(19) Whether or not a statement has been prepared and filed, the court martial may consider any other evidence concerning any victim of the offence for the purpose of making or reviewing the disposition.
+
+
+
+
+
+
+
+
+
+(19) Qu’il y ait ou non rédaction et dépôt d’une déclaration, la cour martiale peut prendre en considération tout autre élément de preuve qui concerne toute victime pour rendre ou réviser une décision à l’égard de l’accusé.
+
+
+
+Appréciation de la cour martiale
+
+
+
+
+
+
+
+
+
+
+Copy of statement
+
+
+
+(20) The Court Martial Administrator shall, as soon as feasible after receiving a victim’s statement, ensure that a copy is provided to the prosecutor and to the accused person or their counsel.
+
+
+
+
+
+
+
+
+
+(20) Dans les meilleurs délais après la réception de la déclaration de toute victime, l’administrateur de la cour martiale veille à ce qu’une copie en soit fournie au procureur de la poursuite et à l’accusé ou à son avocat.
+
+
+
+Copie de la déclaration de la victime
+
+
+
+
+
+
+
+
+
+
+Inquiry by court martial
+
+
+
+(21) As soon as feasible after a finding of not responsible on account of mental disorder is made and before making a disposition, the court martial shall inquire of the prosecutor or a victim of the offence, or any person representing a victim of the offence, whether the victim has been advised that they may prepare a statement.
+
+
+
+
+
+
+
+
+
+(21) Dans les meilleurs délais après avoir rendu un verdict de non-responsabilité pour cause de troubles mentaux et avant de rendre une décision, la cour martiale est tenue de s’enquérir auprès du procureur de la poursuite ou de toute victime — ou de toute personne la représentant — si elle a été informée de la possibilité de rédiger une déclaration.
+
+
+
+Obligation de s’enquérir
+
+
+
+
+
+
+
+
+
+
+Adjournment
+
+
+
+(22) On application of the prosecutor or a victim or on its own motion, the court martial may adjourn the hearing to permit a victim to prepare a statement or to present evidence referred to in subsection (19) if it is satisfied that the adjournment would not interfere with the proper administration of military justice.
+
+
+
+
+
+
+
+
+
+(22) La cour martiale peut, si elle est convaincue que cela ne nuira pas à la bonne administration de la justice militaire, de sa propre initiative ou à la demande de toute victime ou du procureur de la poursuite, ajourner l’audience pour permettre à la victime de rédiger sa déclaration ou de présenter tout élément de preuve au titre du paragraphe (19).
+
+
+
+Ajournement
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+(23) The following definitions apply in this section.
+
+
+
+
+“common-law partner”« conjoint de fait »
+
+
+
+“common-law partner” means, in relation to an individual, a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year.
+
+
+
+
+“victim”« victime »
+
+
+
+“victim”, in relation to an offence, means
+
+
+
+
+
+
+
+
+
+
+(a) a person to whom harm was done or who suffered loss as a direct result of the commission of the offence; and
+
+
+
+
+
+
+
+
+
+
+(b) if the person described in paragraph (a) is dead, ill or otherwise incapable of making a statement describing the harm done to, or loss suffered by, the person arising from the commission of the offence, the spouse or common-law partner or any relative of that person, anyone who has in law or fact the custody of that person or is responsible for the care or support of that person or any of their dependants.
+
+
+
+
+
+
+
+
+
+(23) Les définitions qui suivent s’appliquent au présent article.
+
+
+
+Définitions
+
+
+
+
+« conjoint de fait » S’entend de la personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+
+
+
+« conjoint de fait »“common-law partner”
+
+
+
+
+« victime » S’entend :
+
+
+
+« victime »“victim”
+
+
+
+
+
+a) de la personne qui a subi des dommages ou des pertes directement imputables à la perpétration de l’infraction;
+
+
+
+
+
+
+
+
+
+
+
+b) si la personne visée à l’alinéa a) est décédée, malade ou incapable de faire la déclaration sur les dommages ou les pertes qui lui ont été causés par la perpétration de l’infraction, soit de son époux ou conjoint de fait, soit d’un parent, soit de quiconque en a la garde, en droit ou en fait, soit de toute personne aux soins de laquelle elle est confiée ou qui est chargée de son entretien, soit d’une personne à sa charge.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional conditions — safety and security
+
+
+
+
+202.202 If a court martial holds a hearing referred to in section 202.201, the court martial shall consider whether it is desirable, in the interests of the safety and security of any person, particularly a victim of or witness to the offence or a justice system participant, to include as a condition of the disposition that the accused
+
+
+
+
+
+
+
+
+
+
+(a) abstain from communicating, directly or indirectly, with any victim, witness or other person identified in the disposition, or refrain from going to any place specified in the disposition; or
+
+
+
+
+
+
+
+
+
+
+(b) comply with any other condition specified in the disposition that the court martial considers necessary to ensure the safety and security of those persons.
+
+
+
+
+
+
+
+
+
+
+202.202 Dans le cadre des audiences qu’elle tient en vertu de l’article 202.201, la cour martiale examine s’il est souhaitable pour la sécurité de toute personne, en particulier celle des victimes, des témoins et des personnes associées au système judiciaire, d’imposer à l’accusé, à titre de modalité de la décision, tout ou partie des obligations suivantes :
+
+
+
+Obligations additionnelles — sécurité
+
+
+
+
+
+a) s’abstenir de communiquer, directement ou indirectement, avec toute personne — victime, témoin ou autre — qui est identifiée dans la décision ou d’aller dans un lieu qui y est mentionné;
+
+
+
+
+
+
+
+
+
+
+
+b) observer telles autres modalités que la cour martiale estime nécessaires pour assurer la sécurité de ces personnes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27. Subsection 202.24(3) of the Act is amended by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+
+27. Le paragraphe 202.24(3) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) determining under subsection 202.162(3) whether to revoke a finding that an accused person is a high-risk accused;
+
+
+
+
+
+
+
+
+
+
+c) déterminer en application du paragraphe 202.162(3) si la déclaration portant que l’accusé est un accusé à haut risque doit être révoquée;
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 22, s. 58
+
+
+
+
+28. Subsection 202.25(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+28. Le paragraphe 202.25(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 22, art. 58
+
+
+
+
+
+
+
+
+
+
+Powers of Review Board
+
+
+
+
+202.25 (1) Review Boards and their chairpersons may exercise the powers and shall perform the duties assigned to them under the Criminal Code, with any modifications that the circumstances require and unless the context otherwise requires, in relation to findings made by courts martial of unfit to stand trial or not responsible on account of mental disorder, and in relation to dispositions made under section 201 or 202.16 or subsection 202.161(4), except for the powers and duties referred to in sections 672.851 and 672.86 to 672.89 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+
+202.25 (1) Les commissions d’examen et leurs présidents exercent, avec les adaptations nécessaires et sauf indication contraire du contexte, les pouvoirs et fonctions qui leur sont attribués en vertu du Code criminel à l’égard des verdicts d’inaptitude à subir un procès ou de non-responsabilité pour cause de troubles mentaux que rendent les cours martiales et des décisions qu’elles prennent au titre des articles 201 ou 202.16 ou du paragraphe 202.161(4), sauf ceux attribués par les articles 672.851 et 672.86 à 672.89 de cette loi.
+
+
+
+Pouvoirs des commissions d’examen
+
+
+
+
+
+
+
+
+
+
+References to Attorney General
+
+
+
+(1.1) For the purpose of subsection (1), a reference to the Attorney General in subsections 672.81(1.1) and (1.31) of the Criminal Code shall be read as a reference to the Director of Military Prosecutions.
+
+
+
+
+
+
+
+
+
+(1.1) Pour l’application du paragraphe (1), la mention du procureur général aux paragraphes 672.81(1.1) et (1.31) du Code criminel vaut mention du directeur des poursuites militaires.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+
+
+
+29. Section 230 of the Act is amended by adding the following after paragraph (e):
+
+
+
+
+
+
+
+
+
+
+29. L’article 230 de la même loi est modifié par adjonction, après l’alinéa e), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e.1) the legality of a finding made under subsection 202.161(4) or a decision made under subsection 202.162(3) about revoking such a finding;
+
+
+
+
+
+
+
+
+
+
+e.1) la légalité d’une décision de déclarer qu’un accusé est un accusé à haut risque aux termes du paragraphe 202.161(4) ou d’une décision relative à la révocation d’une décla-ration au titre du paragraphe 202.162(3);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30. Section 230.1 of the Act is amended by adding the following after paragraph (f):
+
+
+
+
+
+
+
+
+
+
+30. L’article 230.1 de la même loi est modifié par adjonction, après l’alinéa f), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(f.01) the legality of a decision not to make a finding under subsection 202.161(4) or a decision made under subsection 202.162(3) about revoking such a finding;
+
+
+
+
+
+
+
+
+
+
+f.01) la légalité d’une décision de ne pas déclarer qu’un accusé est un accusé à haut risque aux termes du paragraphe 202.161(4) ou d’une décision relative à la révocation de la déclaration au titre du paragraphe 202.162(3);
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 22
+
+
+
+
+31. (1) Subsection 233(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+31. (1) Le paragraphe 233(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 22
+
+
+
+
+
+
+
+
+
+
+Automatic suspension of certain dispositions
+
+
+
+
+233. (1) Subject to subsection (2), if the disposition appealed from is a disposition made under section 202, the filing of a Notice of Appeal in accordance with section 232 suspends the application of the disposition pending the determination of the appeal.
+
+
+
+
+
+
+
+
+
+
+233. (1) Sous réserve du paragraphe (2), lorsque la décision qui fait l’objet de l’appel a été rendue en vertu de l’article 202, le dépôt d’un avis d’appel fait conformément à l’article 232 suspend l’application de la décision jusqu’à ce que la décision soit rendue sur l’appel.
+
+
+
+Suspension d’application
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 22
+
+
+
+(2) Paragraph 233(2)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 233(2)a) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 22
+
+
+
+
+
+
+
+
+
+
+
+
+(a) by order, direct that the application of a disposition made under section 202 not be suspended pending the determination of the appeal;
+
+
+
+
+
+
+(a.1) by order, direct that the application of a disposition made under paragraph 202.16(1)(a) be suspended pending the determination of the appeal;
+
+
+
+
+
+
+
+
+
+
+a) rendre une ordonnance portant que l’application d’une décision rendue en vertu de l’article 202 ne peut être suspendue jusqu’à la décision sur l’appel;
+
+
+
+
+
+
+
+a.1) rendre une ordonnance portant que l’application d’une décision rendue en vertu de l’alinéa 202.16(1)a) est suspendue jusqu’à ce que la décision soit rendue sur l’appel;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REVIEW
+
+
+
+
+
+
+
+
+
+
+EXAMEN
+
+
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+
+31.1 (1) Within five years after sections 21 to 31 come into force, a comprehensive review of the operation of sections 197 to 233 of the National Defence Act is to be undertaken by a committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established by the Senate, the House of Commons or both Houses of Parliament, as the case may be, for that purpose.
+
+
+
+
+
+
+
+
+
+
+31.1 (1) Dans les cinq ans suivant l’entrée en vigueur des articles 21 à 31, un examen approfondi de l’application des articles 197 à 233 de la Loi sur la défense nationale est entrepris par le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin.
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(2) Within a year, or such further time as authorized by the Senate, the House of Commons or both Houses of Parliament, as the case may be, after the review is undertaken, the Committee referred to in subsection (1) must submit a report on that review to the Senate, the House of Commons or both Houses of Parliament, as the case may be, including a statement of any changes recommended by the Committee.
+
+
+
+
+
+
+
+
+
+(2) Dans l’année qui suit le début de son examen ou dans le délai supérieur que le Sénat, la Chambre des communes ou les deux chambres, selon le cas, lui accordent, le comité visé au paragraphe (1) remet son rapport au Parlement ou à la chambre en question, selon le cas, accompagné des modifications qu’il recommande.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENTS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-15
+
+
+
+
+32. (1) Subsections (2) to (5) apply if Bill C-15, introduced in the 1st session of the 41st Parliament and entitled the Strengthening Military Justice in the Defence of Canada Act (in this section referred to as the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+
+32. (1) Les paragraphes (2) à (5) s'appliquent en cas de sanction du projet de loi C-15, déposé au cours de la 1re session de la 41e législature et intitulé Loi visant à renforcer la justice militaire pour la défense du Canada (appelé « autre loi » au présent article).
+
+
+
+Projet de loi C-15
+
+
+
+
+
+
+
+
+
+
+
+
+(2) If section 59 of the other Act comes into force before section 26 of this Act, then, on the day on which that section 59 comes into force, that section 26 is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Si l’article 59 de l’autre loi entre en vigueur avant l’article 26 de la présente loi, à la date d’entrée en vigueur de cet article 59, l’article 26 de la présente loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26. Section 202.201 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+26. L’article 202.201 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Procedure at disposition hearing
+
+
+
+
+202.201 (1) A hearing by a court martial to make or review a disposition in respect of an accused person shall be held in accordance with this section and the regulations.
+
+
+
+
+
+
+
+
+
+
+202.201 (1) L’audience tenue par la cour martiale en vue de rendre ou de réviser une décision à l’égard d’un accusé l’est conformément au présent article et aux règlements.
+
+
+
+Procédure lors de l’audience
+
+
+
+
+
+
+
+
+
+
+Hearing to be informal
+
+
+
+(2) The hearing may be conducted in as informal a manner as is appropriate in the circumstances.
+
+
+
+
+
+
+
+
+
+(2) L’audience peut être aussi informelle que le permettent les circonstances.
+
+
+
+Audience informelle
+
+
+
+
+
+
+
+
+
+
+Interested person may be party
+
+
+
+(3) The court martial may designate as a party any person who has a substantial interest in protecting the accused person’s interests, if the court martial is of the opinion that it is just to do so.
+
+
+
+
+
+
+
+
+
+(3) Si elle est d’avis que la justice l’exige, la cour martiale peut accorder le statut de partie à toute personne qui possède un intérêt réel dans la protection des intérêts de l’accusé.
+
+
+
+Statut de partie des intéressés
+
+
+
+
+
+
+
+
+
+
+Notice of hearing — parties
+
+
+
+(4) The court martial shall give notice of the hearing to the parties.
+
+
+
+
+
+
+
+
+
+(4) La cour martiale donne avis de l’audience à toutes les parties.
+
+
+
+Avis de l’audience — parties
+
+
+
+
+
+
+
+
+
+
+Notice of hearing — victim
+
+
+
+(5) The court martial shall, at the request of a victim of the offence, give the victim notice of the hearing and of the relevant provisions of this Act.
+
+
+
+
+
+
+
+
+
+(5) Elle fournit à la victime qui en fait la demande un avis de l’audience et des dispositions pertinentes de la présente loi.
+
+
+
+Avis de l’audience — victime
+
+
+
+
+
+
+
+
+
+
+Notice of release from custody and intended place of residence
+
+
+
+(6) If the accused person is released from custody without conditions under paragraph 202.16(1)(a) or with conditions under paragraph 201(1)(a) or 202.16(1)(b), a notice of the release and the accused person's intended place of residence shall, at the victim's request, be given to the victim within the time and in the manner fixed by regulations.
+
+
+
+
+
+
+
+
+
+(6) Un avis faisant état soit de la mise en liberté inconditionnelle de l’accusé, en application de l’alinéa 202.16(1)a), soit de sa mise en liberté sous réserve de modalités, en application des alinéas 201(1)a) ou 202.16(1)b), ainsi que son lieu de résidence projeté est remis à la victime lorsque celle-ci en fait la demande, dans le délai et de la manière prévus par règlement.
+
+
+
+Avis faisant état de la libération et du lieu de rési-dence projeté
+
+
+
+
+
+
+
+
+
+
+Order excluding public
+
+
+
+(7) If the court martial considers it to be in the accused person’s best interests and not contrary to the public interest, it may order the public or any members of the public to be excluded from the hearing or any part of it.
+
+
+
+
+
+
+
+
+
+(7) L’audience peut, en totalité ou en partie, avoir lieu à huis clos si la cour martiale considère que cela est dans l’intérêt de l’accusé et n’est pas contraire à l’intérêt public.
+
+
+
+Huis clos
+
+
+
+
+
+
+
+
+
+
+Right to counsel
+
+
+
+(8) The accused person or any other party has the right to be represented by counsel.
+
+
+
+
+
+
+
+
+
+(8) L’accusé et toutes les parties ont le droit d’être représentés par avocat.
+
+
+
+Droit à un avocat
+
+
+
+
+
+
+
+
+
+
+Assigning counsel
+
+
+
+(9) A court martial shall, either before or at the time of the hearing of an accused person who is not represented by counsel, direct that counsel be provided by the Director of Defence Counsel Services if the accused person has been found unfit to stand trial or the interests of military justice require that counsel be provided.
+
+
+
+
+
+
+
+
+
+(9) Si l’accusé a été déclaré inapte à subir son procès ou si l’intérêt de la justice militaire l’exige, la cour martiale ordonne, dans le cas où l’accusé n’est pas représenté par avocat, que le directeur du service d’avocats de la défense lui en désigne un, avant l’audience ou au moment de celle-ci.
+
+
+
+Avocat d’office
+
+
+
+
+
+
+
+
+
+
+Right of accused person to be present
+
+
+
+(10) Subject to subsection (11), the accused person has the right to be present during the entire hearing.
+
+
+
+
+
+
+
+
+
+(10) Sous réserve du paragraphe (11), l’accusé a le droit d’être présent durant toute l’audience.
+
+
+
+Présence de l’accusé
+
+
+
+
+
+
+
+
+
+
+Removal or absence of accused person
+
+
+
+(11) The court martial may permit the accused person to be absent during the entire hearing or any part of it on any conditions that the court martial considers appropriate. The court martial may also cause the accused person to be removed and barred from re-entry for the entire hearing or any part of it for any of the following reasons:
+
+
+
+
+
+
+
+
+
+
+(a) the accused person is interrupting the hearing and it is not feasible to continue it in the accused person’s presence;
+
+
+
+
+
+
+
+
+
+
+(b) the court martial is satisfied that the accused person’s presence would likely endanger the life or safety of another person or would seriously impair the treatment or recovery of the accused person; or
+
+
+
+
+
+
+
+
+
+
+(c) the court martial is satisfied that the accused person should not be present for the hearing of evidence, oral or written submissions, or the cross-examination of any witness respecting the existence of grounds for removing the accused person under paragraph (b).
+
+
+
+
+
+
+
+
+
+(11) La cour martiale peut soit permettre à l’accusé d’être absent pendant la totalité ou une partie de l’audience aux conditions qu’elle juge indiquées, soit l’exclure pendant la totalité ou une partie de l’audience dans les cas suivants :
+
+
+
+Exclusion ou absence de l’accusé
+
+
+
+
+
+a) l’accusé interrompt l’audience au point qu’il serait difficile de la continuer en sa présence;
+
+
+
+
+
+
+
+
+
+
+
+b) la cour martiale est convaincue que sa présence mettrait vraisemblablement en danger la vie ou la sécurité d’un tiers ou aurait un effet préjudiciable grave sur le traitement ou la guérison de l’accusé;
+
+
+
+
+
+
+
+
+
+
+
+c) la cour martiale est convaincue qu’il ne devrait pas être présent pour l’audition de la preuve, la présentation des observations orales ou écrites ou le contre-interrogatoire des témoins relativement à l’existence des circonstances visées à l’alinéa b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rights of parties at hearing
+
+
+
+(12) Any party may adduce evidence, make oral or written submissions, call witnesses and cross-examine any witness called by any other party and, on application, cross-examine any person who made an assessment report that was submitted in writing to the court martial.
+
+
+
+
+
+
+
+
+
+(12) Toute partie peut présenter des éléments de preuve, faire des observations, oralement ou par écrit, appeler des témoins et contre-interroger ceux appelés par les autres parties et, si un rapport d’évaluation a été présenté par écrit à la cour martiale, peut en contre-interroger l’auteur après en avoir demandé l’autorisation.
+
+
+
+Droits des parties à l’audience
+
+
+
+
+
+
+
+
+
+
+Witnesses
+
+
+
+(13) A party may not compel the attendance of witnesses, but may request the court martial to do so.
+
+
+
+
+
+
+
+
+
+(13) Une partie ne peut ordonner la présence d’un témoin à l’audience, mais peut demander à la cour martiale de le faire.
+
+
+
+Témoins
+
+
+
+
+
+
+
+
+
+
+Video links
+
+
+
+(14) If the accused person agrees, the court martial may permit them to appear by closed-circuit television or any other means that allows the court martial and the accused person to engage in simultaneous visual and oral communication, for any part of the hearing, so long as the accused person is given the opportunity to communicate privately with counsel if they are represented by counsel.
+
+
+
+
+
+
+
+
+
+(14) La cour martiale peut autoriser l’accusé, avec son consentement, à être présent par télévision en circuit fermé ou par tout autre moyen leur permettant, à elle et à l’accusé, de se voir et de communiquer simultanément durant toute partie de l’audience, pourvu qu’il ait la possibilité, s’il est représenté par un avocat, de communiquer en privé avec lui.
+
+
+
+Télécomparution
+
+
+
+
+
+
+
+
+
+
+Determination of mental condition of accused person
+
+
+
+(15) A court martial that reviews a disposition shall, on receipt of an assessment report, determine if there has been any change in the accused person’s mental condition since the disposition was made or last reviewed that may provide grounds for the accused person’s release from custody under section 202.16. If the court martial determines that there has been such a change, it shall notify every victim of the offence that they may prepare a statement.
+
+
+
+
+
+
+
+
+
+(15) La cour martiale qui reçoit un rapport d’évaluation établit si, depuis la date de la décision rendue à l’égard de l’accusé ou de sa dernière révision, l’état mental de celui-ci a subi un changement pouvant justifier sa libération aux termes de l’article 202.16; le cas échéant, elle avise chacune des victimes de la possibilité de rédiger une déclaration.
+
+
+
+Détermination de l’état mental de l’accusé
+
+
+
+
+
+
+
+
+
+
+Victim impact statement
+
+
+
+(16) For the purpose of making or reviewing a disposition in respect of an accused person, a court martial shall consider the statement of any victim of the offence describing the harm done to, or loss suffered by, the victim arising from the commission of the offence.
+
+
+
+
+
+
+
+
+
+(16) Pour rendre ou réviser une décision à l’égard de l’accusé, la cour martiale prend en considération la déclaration de toute victime sur les dommages — corporels ou autres — ou les pertes qui lui ont été causés par la perpétration de l’infraction.
+
+
+
+Déclaration de la victime
+
+
+
+
+
+
+
+
+
+
+Procedure
+
+
+
+(17) A victim’s statement must be prepared in the form, and filed in accordance with the procedures, provided for by regulations made by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(17) La rédaction et le dépôt de la déclaration de la victime se font selon la forme et suivant la procédure prévues par règlement du gouverneur en conseil.
+
+
+
+Procédure
+
+
+
+
+
+
+
+
+
+
+Presentation of victim statement
+
+
+
+(18) Unless the court martial considers that it would not be in the best interests of the administration of military justice, the court martial shall, at the victim’s request, permit the victim to read their statement or to present the statement in any other manner that the court martial considers appropriate.
+
+
+
+
+
+
+
+
+
+(18) Sur demande de la victime, la cour martiale lui permet de lire sa déclaration ou d’en faire la présentation de toute autre façon qu’elle juge indiquée, sauf si elle est d’avis que cette mesure nuirait à la bonne administration de la justice militaire.
+
+
+
+Présentation de la déclaration
+
+
+
+
+
+
+
+
+
+
+Consideration by court martial
+
+
+
+(19) Whether or not a statement has been prepared and filed, the court martial may consider any other evidence concerning any victim of the offence for the purpose of making or reviewing the disposition.
+
+
+
+
+
+
+
+
+
+(19) Qu’il y ait ou non rédaction et dépôt d’une déclaration, la cour martiale peut prendre en considération tout autre élément de preuve qui concerne toute victime pour rendre ou réviser une décision à l’égard de l’accusé.
+
+
+
+Appréciation de la cour martiale
+
+
+
+
+
+
+
+
+
+
+Copy of statement
+
+
+
+(20) The Court Martial Administrator shall, as soon as feasible after receiving a victim’s statement, ensure that a copy is provided to the prosecutor and to the accused person or their counsel.
+
+
+
+
+
+
+
+
+
+(20) Dans les meilleurs délais après la réception de la déclaration de toute victime, l’administrateur de la cour martiale veille à ce qu’une copie en soit fournie au procureur de la poursuite et à l’accusé ou à son avocat.
+
+
+
+Copie de la déclaration de la victime
+
+
+
+
+
+
+
+
+
+
+Inquiry by court martial
+
+
+
+(21) As soon as feasible after a finding of not responsible on account of mental disorder is made and before making a disposition, the court martial shall inquire of the prosecutor or a victim of the offence, or any person representing a victim of the offence, whether the victim has been advised that they may prepare a statement.
+
+
+
+
+
+
+
+
+
+(21) Dans les meilleurs délais après avoir rendu un verdict de non-responsabilité pour cause de troubles mentaux et avant de rendre une décision, la cour martiale est tenue de s’enquérir auprès du procureur de la poursuite ou de toute victime — ou de toute personne la représentant — si elle a été informée de la possibilité de rédiger une déclaration.
+
+
+
+Obligation de s’enquérir
+
+
+
+
+
+
+
+
+
+
+Adjournment
+
+
+
+(22) On application of the prosecutor or a victim or on its own motion, the court martial may adjourn the hearing to permit a victim to prepare a statement or to present evidence referred to in subsection (19) if it is satisfied that the adjournment would not interfere with the proper administration of military justice.
+
+
+
+
+
+
+
+
+
+(22) La cour martiale peut, si elle est convaincue que cela ne nuira pas à la bonne administration de la justice militaire, de sa propre initiative ou à la demande de toute victime ou du procureur de la poursuite, ajourner l’audience pour permettre à la victime de rédiger sa déclaration ou de présenter tout élément de preuve au titre du paragraphe (19).
+
+
+
+Ajournement
+
+
+
+
+
+
+
+
+
+
+Definition of “victim”
+
+
+
+(23) In this section, “victim” has the same meaning as in section 203.
+
+
+
+
+
+
+
+
+
+(23) Au présent article, « victime » s’entend au sens de l’article 203.
+
+
+
+Définition de « victime »
+
+
+
+
+
+
+
+
+
+
+Additional conditions — safety and security
+
+
+
+
+202.202 If a court martial holds a hearing referred to in section 202.201, the court martial shall consider whether it is desirable, in the interests of the safety and security of any person, particularly a victim of or witness to the offence or a justice system participant, to include as a condition of the disposition that the accused
+
+
+
+
+
+
+
+
+
+
+(a) abstain from communicating, directly or indirectly, with any victim, witness or other person identified in the disposition, or refrain from going to any place specified in the disposition; or
+
+
+
+
+
+
+
+
+
+
+(b) comply with any other condition specified in the disposition that the court martial considers necessary to ensure the safety and security of those persons.
+
+
+
+
+
+
+
+
+
+
+202.202 Dans le cadre des audiences qu’elle tient en vertu de l’article 202.201, la cour martiale examine s’il est souhaitable pour la sécurité de toute personne, en particulier celle des victimes, des témoins et des personnes associées au système judiciaire, d’imposer à l’accusé, à titre de modalité de la décision, tout ou partie des obligations suivantes :
+
+
+
+Obligations additionnelles — sécurité
+
+
+
+
+
+a) s’abstenir de communiquer, directement ou indirectement, avec toute personne — victime, témoin ou autre — qui est identifiée dans la décision ou d’aller dans un lieu qui y est mentionné;
+
+
+
+
+
+
+
+
+
+
+
+b) observer telles autres modalités que la cour martiale estime nécessaires pour assurer la sécurité de ces personnes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If section 26 of this Act comes into force before section 59 of the other Act, then, on the day on which that section 26 comes into force, that section 59 is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Si l’article 26 de la présente loi entre en vigueur avant l’article 59 de l'autre loi, à la date d’entrée en vigueur de cet article 26, l’article 59 de l’autre loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59. Subsection 202.201(23) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+59. Le paragraphe 202.201(23) de la loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “victim”
+
+
+
+(23) In this section, “victim” has the same meaning as in section 203.
+
+
+
+
+
+
+
+
+
+(23) Au présent article, « victime » s’entend au sens de l’article 203.
+
+
+
+Définition de « victime »
+
+
+
+
+
+
+
+
+
+
+
+
+(4) If section 59 of the other Act comes into force on the same day as section 26 of this Act, then that section 26 is deemed to have come into force before that section 59 and subsection (3) applies as a consequence.
+
+
+
+
+
+
+
+
+
+(4) Si l’entrée en vigueur de l’article 59 de l’autre loi et celle de l’article 26 de la présente loi sont concomitantes, cet article 26 est réputé être entré en vigueur avant cet article 59, le paragraphe (3) s'appliquant en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) On the first day on which both section 61 of the other Act and section 28 of this Act are in force, subsection 202.25(1) of the National Defence Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Dès le premier jour où l’article 61 de l’autre loi et l'article 28 de la présente loi sont tous deux en vigueur, le paragraphe 202.25(1) de la Loi sur la défense nationale est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Powers of Review Board
+
+
+
+
+202.25 (1) Review Boards and their chairpersons may exercise the powers and shall perform the duties assigned to them under the Criminal Code, with any modifications that the circumstances require and unless the context otherwise requires, in relation to findings made by courts martial of unfit to stand trial or not responsible on account of mental disorder, and in relation to dispositions made under section 201 or 202.16 or subsection 202.161(4), except for the powers and duties referred to in subsections 672.5(8.1) and (8.2) and sections 672.851 and 672.86 to 672.89 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+
+202.25 (1) Les commissions d’examen et leurs présidents exercent, avec les adaptations nécessaires et sauf indication contraire du contexte, les pouvoirs et fonctions qui leur sont attribués en vertu du Code criminel à l’égard des verdicts d’inaptitude à subir un procès ou de non-responsabilité pour cause de troubles mentaux que rendent les cours martiales et des décisions qu’elles prennent au titre des articles 201 ou 202.16 ou du paragraphe 202.161(4), sauf ceux attribués par les paragraphes 672.5(8.1) et (8.2) et les articles 672.851 et 672.86 à 672.89 de cette loi.
+
+
+
+Pouvoirs des commissions d’examen
+
+
+
+
+
+
+
+
+
+
+References to Attorney General
+
+
+
+(1.1) For the purpose of subsection (1), a reference to the Attorney General of a province in which a hearing is held under subsection 672.5(3) of the Criminal Code and a reference to the Attorney General in subsections 672.81(1.1) and (1.31) of that Act shall be read as a reference to the Director of Military Prosecutions.
+
+
+
+
+
+
+
+
+
+(1.1) Pour l’application du paragraphe (1), la mention du procureur général de la province où se tient l’audience au paragraphe 672.5(3) du Code criminel et la mention du procureur général aux paragraphes 672.81(1.1) et (1.31) de cette loi valent mention du directeur des poursuites militaires.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Three months after royal assent
+
+
+
+
+33. (1) Sections 1 to 20 come into force three months after the day on which this Act receives royal assent.
+
+
+
+
+
+
+
+
+
+
+33. (1) Les articles 1 à 20 entrent en vigueur trois mois après la date de sanction de la présente loi.
+
+
+
+Trois mois après la sanction
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+(2) Sections 21 to 31 come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(2) Les articles 21 à 31 entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

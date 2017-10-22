@@ -1,0 +1,1795 @@
+
+
+
+
+
+C-392
+
+
+
+
+
+C-392
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-392
+
+
+
+
+
+PROJET DE LOI C-392
+
+
+
+
+
+
+An Act to amend the Public Service Labour Relations Act (RCMP members and special constables) and the Royal Canadian Mounted Police Act
+
+
+
+
+
+Loi modifiant la Loi sur les relations de travail dans la fonction publique (membres et gendarmes spéciaux de la GRC) et la Loi sur la Gendarmerie royale du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 7, 2006
+
+première lecture le 7 décembre 2006
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. McTeague
+
+391269
+
+
+
+M. McTeague
+
+
+
+
+
+SUMMARY
+This enactment amends the definition “employee” in subsection 2(1) of the Public Service Labour Relations Act so that members and special constables of the Royal Canadian Mounted Police are no longer excluded from enjoying the same rights as other federal public servants with respect to grievance procedures and collective bargaining.
+The enactment repeals Part III of the Royal Canadian Mounted Police Act, which provides for grievance procedures. That Part is no longer necessary, as the grievance procedures set out in Part 2 of the Public Service Labour Relations Act will now be available to members and special constables of the Royal Canadian Mounted Police. In addition, there are a number of consequential amendments to the Royal Canadian Mounted Police Act as a result of the repeal of Part III.
+
+
+
+SOMMAIRE
+Le texte modifie la définition de « fonctionnaire », au paragraphe 2(1) de la Loi sur les relations de travail dans la fonction publique, afin que les membres et les gendarmes spéciaux de la Gendarmerie royale du Canada bénéficient des mêmes droits que les autres fonctionnaires fédéraux en matière de procédure de règlement des griefs et de négociation collective.
+Le texte abroge la partie III de la Loi sur la Gendarmerie royale du Canada, qui prévoit une procédure de présentation des griefs. Cette partie est maintenant superflue, étant donné que la procédure de présentation des griefs établie dans la partie 2 de la Loi sur les relations de travail dans la fonction publique s’applique désormais aux membres et aux gendarmes spéciaux de la Gendarmerie royale du Canada. En outre, il apporte plusieurs modifications corrélatives à la Loi sur la Gendarmerie royale du Canada en raison de l'abrogation de la partie III.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-392
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-392
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Public Service Labour Relations Act (RCMP members and special constables) and the Royal Canadian Mounted Police Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les relations de travail dans la fonction publique (membres et gendarmes spéciaux de la GRC) et la Loi sur la Gendarmerie royale du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+2003, c. 22, s. 2
+
+
+
+PUBLIC SERVICE LABOUR RELATIONS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LES RELATIONS DE TRAVAIL DANS LA FONCTION PUBLIQUE
+
+
+
+2003, ch. 22, art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+1. Paragraph (d) of the definition “employee” in subsection 2(1) of the Public Service Labour Relations Act is repealed.
+
+
+
+
+
+
+
+
+
+1. L’alinéa d) de la définition de « fonctionnaire », au paragraphe 2(1) de la Loi sur les relations de travail dans la fonction publique, est abrogé.
+
+
+
+
+
+
+
+
+
+
+R.S., c. R-10
+
+
+
+ROYAL CANADIAN MOUNTED POLICE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA GENDARMERIE ROYALE DU CANADA
+
+
+
+L.R., ch. R-10
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 5(2) of the Royal Canadian Mounted Police Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 5(2) de la Loi sur la Gendarmerie royale du Canada est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Delegation
+
+
+
+(2) The Commissioner may delegate to any member any of the Commissioner's powers, duties or functions under this Act, except the power to delegate under this subsection, the power to make rules under this Act and the powers, duties or functions under subsections 42(4) and 43(1), section 45.16, subsection 45.19(5), section 45.26 and subsections 45.46(1) and (2).
+
+
+
+
+
+
+
+
+
+(2) Le commissaire peut déléguer à tout membre les pouvoirs ou fonctions que lui attribue la présente loi, à l'exception du pouvoir de délégation que lui accorde le présent paragraphe, du pouvoir que lui accorde la présente loi d'établir des règles et des pouvoirs et fonctions visés aux paragraphes 42(4) et 43(1), à l'article 45.16, au paragraphe 45.19(5), à l'article 45.26 et aux paragraphes 45.46(1) et (2).
+
+
+
+Délégation
+
+
+
+
+
+
+
+
+
+
+
+
+3. Paragraph 24.1(6)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. L’alinéa 24.1(6)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) any answer or statement made in response to a question described in subsection 40(2), 45.1(11), 45.152(8), 45.22(8) or 45.45(9);
+
+
+
+
+
+
+
+
+
+b) les réponses ou déclarations faites à la suite des questions visées aux paragraphes 40(2), 45.1(11), 45.152(8), 45.22(8) ou 45.45(9);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Paragraph 29(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. L’alinéa 29c) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the apportionment of the work of the Committee among its members and the assignment of members to review cases referred to the Committee; and
+
+
+
+
+
+
+
+
+
+c) la répartition de ses travaux entre ses membres et la désignation de ces derniers pour examiner les affaires dont il est saisi;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Part III of the Act is repealed.
+
+
+
+
+
+
+
+
+
+5. La partie III de la même loi est abrogée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Subsection 41(9) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 41(9) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Action not appealable
+
+
+
+(9) The informal disciplinary actions referred to in paragraphs (1)(a) to (d) may not be appealed under this Part.
+
+
+
+
+
+
+
+
+
+(9) Les mesures disciplinaires simples visées aux alinéas (1)a) à d) ne peuvent faire l'objet d'un appel interjeté en vertu de la présente partie.
+
+
+
+Mesures ne pouvant faire l'objet d'un appel
+
+
+
+
+
+
+
+
+
+
+
+
+7. Subsection 45.15(5) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+7. Le paragraphe 45.15(5) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. The Act is amended by adding the following after section 45.15:
+
+
+
+
+
+
+
+
+
+8. La même loi est modifiée par adjonction, après l’article 45.15, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Review by Committee Chairman
+
+
+
+45.151 (1) The Committee Chairman shall review every case referred to the Committee pursuant to section 45.15.
+
+
+
+
+
+
+
+
+
+45.151 (1) Le président du Comité examine toutes les causes qui sont renvoyées devant le Comité conformément à l'article 45.15.
+
+
+
+Examen par le président du Comité
+
+
+
+
+
+
+
+
+
+
+Action by Committee Chairman
+
+
+
+(2) Where, after reviewing a case, the Committee Chairman is satisfied with the disposition of the case by the Force, the Committee Chairman shall prepare and send a report in writing to that effect to the Commissioner and the member whose case is the subject of the appeal.
+
+
+
+
+
+
+
+
+
+(2) Après examen de la cause, le président du Comité, s'il est d'accord avec la décision de la Gendarmerie, rédige et transmet un rapport écrit à cet effet au commissaire et au membre dont la cause fait l'objet de l'appel.
+
+
+
+Rapport du président du Comité
+
+
+
+
+
+
+
+
+
+
+Action by Committee Chairman
+
+
+
+(3) Where, after reviewing a case, the Committee Chairman is not satisfied with the disposition of the case by the Force or considers that further inquiry is warranted, the Committee Chairman may
+
+
+
+
+
+
+
+
+(a) prepare and send to the Commissioner and the member presenting the case a report in writing setting out such findings and recommendations with respect to the case as the Committee Chairman sees fit; or
+
+
+
+
+
+
+
+
+(b) institute a hearing to inquire into the case.
+
+
+
+
+
+
+
+
+
+(3) Après examen de la cause, le président du Comité, s'il n'est pas d'accord avec la décision de la Gendarmerie ou s'il estime qu'une enquête plus approfondie est indiquée, peut :
+
+
+
+Rapport du président du Comité
+
+
+
+
+a) soit rédiger et transmettre au commissaire et au membre qui a présenté cette cause un rapport écrit exposant ses conclusions et recommandations;
+
+
+
+
+
+
+
+
+b) soit ordonner la tenue d'une audience pour enquêter sur la cause.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hearing
+
+
+
+(4) Where the Committee Chairman decides to institute a hearing to inquire into a case, the Committee Chairman shall assign the member or members of the Committee to conduct the hearing and shall send a notice in writing of the decision to the Commissioner and the member whose case is the subject of the appeal.
+
+
+
+
+
+
+
+
+
+(4) Le président du Comité, s'il décide d'ordonner la tenue d'une audience, désigne le ou les membres du Comité qui la tiendront et transmet au commissaire et au membre dont la cause fait l'objet de l'appel un avis écrit de sa décision.
+
+
+
+Audience
+
+
+
+
+
+
+
+
+
+
+Committee
+
+
+
+45.152 (1) For the purposes of this section, the member or members conducting a hearing to inquire into a case are deemed to be the Committee.
+
+
+
+
+
+
+
+
+
+45.152 (1) Pour l'application du présent article, le ou les membres qui tiennent une audience pour enquêter sur une cause sont réputés être le Comité.
+
+
+
+Comité
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(2) The Committee shall serve a notice in writing of the time and place appointed for a hearing on the parties.
+
+
+
+
+
+
+
+
+
+(2) Le Comité signifie aux parties un avis écrit de la date, de l'heure et du lieu de l'audience.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Sittings of Committee
+
+
+
+(3) Where a party wishes to appear before the Committee, the Committee shall sit at such place in Canada and at such time as may be fixed by the Committee, having regard to the convenience of the parties.
+
+
+
+
+
+
+
+
+
+(3) Lorsqu'une partie désire comparaître devant le Comité, celui-ci siège à la date, à l'heure et à l'endroit au Canada qu'il détermine eu égard à la situation des parties.
+
+
+
+Séances du Comité
+
+
+
+
+
+
+
+
+
+
+Powers of Committee
+
+
+
+(4) The Committee has, in relation to the case before it, the powers conferred on a board of inquiry, in relation to the matter before it, by paragraphs 24.1(3)(a), (b) and (c).
+
+
+
+
+
+
+
+
+
+(4) Le Comité dispose, relativement à la cause dont il est saisi, des pouvoirs dont jouit une commission d'enquête en vertu des alinéas 24.1(3)a), b) et c).
+
+
+
+Pouvoirs du Comité
+
+
+
+
+
+
+
+
+
+
+Rights of persons interested
+
+
+
+(5) The parties and any other person who satisfies the Committee that the person has a substantial and direct interest in a case before the Committee shall be afforded a full and ample opportunity, in person or by counsel or a representative, to present evidence, to cross-examine witnesses and to make representations at the hearing.
+
+
+
+
+
+
+
+
+
+(5) Les parties et toute personne qui convainc le Comité qu'elle a un intérêt direct et réel dans la cause dont celui-ci est saisi doivent avoir toute latitude de présenter des éléments de preuve à l'audience, d'y contre-interroger les témoins et d'y faire des observations, soit personnellement, soit par l'intermédiaire d'un avocat ou autre représentant.
+
+
+
+Droits des intéressés
+
+
+
+
+
+
+
+
+
+
+Representation of witnesses
+
+
+
+(6) The Committee shall permit any person who gives evidence at a hearing to be represented by counsel or a representative.
+
+
+
+
+
+
+
+
+
+(6) Le Comité doit permettre aux témoins de se faire représenter à l'audience par avocat ou par un autre représentant.
+
+
+
+Représentation des témoins
+
+
+
+
+
+
+
+
+
+
+Restriction
+
+
+
+(7) Notwithstanding subsection (4) but subject to subsection (8), the Committee may not receive or accept any evidence or other information that would be inadmissible in a court of law by reason of any privilege under the law of evidence.
+
+
+
+
+
+
+
+
+
+(7) Par dérogation au paragraphe (4) mais sous réserve du paragraphe (8), le Comité ne peut recevoir ou accepter des éléments de preuve ou autres renseignements non recevables devant un tribunal du fait qu'ils sont protégés par le droit de la preuve.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+Witness not excused from testifying
+
+
+
+(8) In a hearing, no witness shall be excused from answering any question relating to the case before the Committee when required to do so by the Committee on the ground that the answer to the question may tend to criminate the witness or subject the witness to any proceeding or penalty.
+
+
+
+
+
+
+
+
+
+(8) Au cours d'une audience, un témoin n'est pas dispensé de répondre aux questions portant sur la cause dont est saisi le Comité lorsque ce dernier l'exige, au motif que sa réponse peut l'incriminer ou l'exposer à des poursuites ou à une peine.
+
+
+
+Obligation des témoins de déposer
+
+
+
+
+
+
+
+
+
+
+Answer not receivable
+
+
+
+(9) Where the witness is a member, no answer or statement made in response to a question described in subsection (8) shall be used or receivable against the witness in any hearing under section 45.1 into an allegation of contravention of the Code of Conduct by the witness, other than a hearing into an allegation that with intent to mislead the witness gave the answer or statement knowing it to be false.
+
+
+
+
+
+
+
+
+
+(9) Dans le cas où le témoin est un membre, les réponses ou déclarations faites à la suite des questions visées au paragraphe (8) ne peuvent être utilisées ni ne sont recevables contre lui au cours d'une audience tenue en vertu de l'article 45.1 et portant sur l'allégation selon laquelle il a contrevenu au code de déontologie, autre qu'une audience portant sur l'allégation selon laquelle il a fait une telle réponse ou déclaration, qu'il savait fausse, dans l'intention de tromper.
+
+
+
+Non-recevabilité des réponses
+
+
+
+
+
+
+
+
+
+
+Hearing in private
+
+
+
+(10) A hearing shall be held in private, except that
+
+
+
+
+
+
+
+
+(a) while a child is testifying at the hearing, the child's parent or guardian may attend the hearing; and
+
+
+
+
+
+
+
+
+(b) when authorized by the Committee, a member may attend the hearing as an observer for the purpose of familiarizing the member with procedures under this section.
+
+
+
+
+
+
+
+
+
+(10) Les audiences se tiennent à huis clos; toutefois :
+
+
+
+Huis clos
+
+
+
+
+a) les parents peuvent assister au témoignage de leur enfant à une audience ou le tuteur, à celui de son pupille;
+
+
+
+
+
+
+
+
+b) un membre peut, s'il en reçoit l'autorisation du Comité, assister à une audience à titre d'observateur afin de se familiariser avec la procédure prévue au présent article.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return of documents, etc.
+
+
+
+(11) Any document or thing produced pursuant to this section to the Committee shall, on the request of the person producing the document or thing, be released to the person within a reasonable time after completion of the Committee's report.
+
+
+
+
+
+
+
+
+
+(11) Les documents et autres pièces produits devant le Comité en vertu du présent article sont remis à la personne qui les a produits, si elle en fait la demande, dans un délai raisonnable après l'achèvement du rapport du Comité.
+
+
+
+Remise des pièces
+
+
+
+
+
+
+
+
+
+
+Expenses
+
+
+
+(12) Where the Committee sits at a place in Canada that is not the ordinary place of residence of a member whose case is before the Committee or of the member's counsel or representative, that member, counsel or representative is entitled, in the discretion of the Committee, to receive such travel and living expenses incurred by the member, counsel or representative in appearing before the Committee as may be fixed by the Treasury Board.
+
+
+
+
+
+
+
+
+
+(12) Lorsque le Comité siège, au Canada, ailleurs qu'au lieu de résidence habituel du membre dont il étudie la cause, ou de son avocat ou autre représentant, ce membre ou son avocat ou autre représentant a droit, selon l'appréciation du Comité et selon les normes établies par le Conseil du Trésor, aux frais de déplacement et de séjour engagés par lui pour sa comparution devant le Comité.
+
+
+
+Frais
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(13) On completion of a hearing, the Committee shall prepare and send to the parties and the Commissioner a report in writing setting out such findings and recommendations with respect to the case as the Committee sees fit.
+
+
+
+
+
+
+
+
+
+(13) À la conclusion d'une audience, le Comité établit et transmet aux parties et au commissaire un rapport écrit exposant ses conclusions et recommandations au sujet de la cause dont il a été saisi.
+
+
+
+Rapports
+
+
+
+
+
+
+
+
+
+
+Definition of “parties”
+
+
+
+(14) In this section, “parties” means the appropriate officer and the member whose case has been referred to the Committee pursuant to section 45.15.
+
+
+
+
+
+
+
+
+
+(14) Au présent article, « parties » s'entend de l'officier compétent et du membre dont la cause a été renvoyée devant le Comité conformément à l'article 45.15.
+
+
+
+Définition de « parties »
+
+
+
+
+
+
+
+
+
+
+
+
+9. Subsection 45.25(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+9. Le paragraphe 45.25(4) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Applicable provisions
+
+
+
+(4) Sections 45.151 and 45.152 apply, with such modifications as the circumstances require, with respect to a case referred to the Committee pursuant to this section as though the case was referred to the Committee pursuant to section 45.15.
+
+
+
+
+
+
+
+
+
+(4) Les articles 45.151 et 45.152 s'appliquent, compte tenu des adaptations de circonstance, aux affaires renvoyées devant le Comité conformément au présent article, comme s'il s'agissait d'une cause renvoyée devant ce même Comité conformément à l'article 45.15.
+
+
+
+Dispositions applicables
+
+
+
+
+
+
+
+
+
+
+
+
+10. Paragraph 45.45(8)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+10. L’alinéa 45.45(8)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) any answer or statement made in response to a question described in subsection 24.1(7), 40(2), 45.1(11), 45.152(8) or 45.22(8);
+
+
+
+
+
+
+
+
+
+b) les réponses ou déclarations faites en réponse aux questions visées aux paragraphes 24.1(7), 40(2), 45.1(11), 45.152(8) ou 45.22(8);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. (1) Paragraph 47.1(1)(a) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+11. (1) L’alinéa 47.1(1)a) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsections 47.1(2) and (3) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 47.1(2) et (3) de la même loi  sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Privilege
+
+
+
+(2) Where a member is represented or assisted by another member pursuant to subsection (1), communications passing in confidence between the two members in relation to the proceeding, representations or appeal are, for the purposes of this Act, privileged as if they were communications passing in professional confidence between the member and the member's solicitor.
+
+
+
+
+
+
+
+
+
+(2) Lorsqu'un membre se fait représenter ou assister par un autre membre conformément au paragraphe (1), les communications confidentielles qu'ils échangent relativement  aux procédures, aux observations ou à l'appel sont, pour l'application de la présente loi, protégées comme si elles étaient des communications confidentielles échangées par le membre et son avocat.
+
+
+
+Secret professionnel
+
+
+
+
+
+
+
+
+
+
+Rules
+
+
+
+(3) The Commissioner may make rules prescribing
+
+
+
+
+
+
+
+
+(a) the members or members of any class of members who may not represent or assist another member in any  proceeding, preparation or appeal referred to in subsection (1); and
+
+
+
+
+
+
+
+
+(b) the circumstances in which a member may not represent or assist another member in any proceeding, preparation or appeal referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+(3) Le commissaire peut établir des règles pour prescrire :
+
+
+
+Règles
+
+
+
+
+a) quels sont les membres ou catégories de membres qui ne peuvent représenter ou assister un autre membre lors des procédures, de la préparation d'observations ou d'appels visés au paragraphe (1);
+
+
+
+
+
+
+
+
+b) quelles sont les circonstances dans lesquelles un membre ne peut représenter ou assister un autre membre lors de ces procédures, cette préparation ou ces appels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Subsection 47.4(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+12. Le paragraphe 47.4(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Extensions of time limitations
+
+
+
+47.4 (1) Where the Commissioner is satisfied that the circumstances justify an extension, the Commissioner may, on motion by the Commissioner or on application, and after giving due notice to any member affected thereby, extend the time limited by subsection 44(1), 45.13(2), 45.14(4) or (7), 45.19(4) or (6), 45.23(6) or 45.24(1) or (5) for the doing of any act therein described and specify terms and conditions in connection therewith.
+
+
+
+
+
+
+
+
+
+47.4 (1) Le commissaire, s'il est convaincu que les circonstances le justifient, peut, de sa propre initiative ou sur demande à cet effet, après en avoir dûment avisé les membres intéressés, proroger les délais prévus aux paragraphes 44(1), 45.13(2), 45.14(4) ou (7), 45.19(4) ou (6), 45.23(6) ou 45.24(1) ou (5) pour l'accomplissement d'un acte; il peut également spécifier les conditions applicables à cet égard.
+
+
+
+Prorogation des délais
+
+
+
+
+
+
+
+
+
+
+
+
+13. Section 50 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+13. L’article 50 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Attendance of witnesses, etc.
+
+
+
+50. Every person who
+
+
+
+
+
+
+
+
+(a) on being duly summoned as a witness or otherwise under Part I,  IV, V or VII, makes default in attending,
+
+
+
+
+
+
+
+
+(b) being in attendance as a witness in any proceeding under Part I, IV, V or VII,
+
+
+
+
+
+
+
+
+(i) refuses to take an oath or solemn affirmation required of that person,
+
+
+
+
+
+
+
+
+(ii) refuses to produce any document or thing under that person's control and required to be produced by that person, or
+
+
+
+
+
+
+
+
+(iii) refuses to answer any question that requires an answer,
+
+
+
+
+
+
+
+
+(c) at any proceeding under Part I, IV, V or VII, uses insulting or threatening language or causes any interference or disturbance, or
+
+
+
+
+
+
+
+
+(d) prints observations or uses words likely to influence improperly a board of inquiry under Part I, the Committee under Part IV or V, the Commission under Part VII, an adjudication board under Part IV or a discharge and demotion board under Part V or witnesses at any proceeding under Part I, IV, V or VII or to bring any such proceeding into disrepute, or in any other manner whatever displays contempt of any such proceeding,
+
+
+
+
+
+
+
+
+is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+50. Commet une infraction punissable par procédure sommaire quiconque :
+
+
+
+Comparution des témoins, etc.
+
+
+
+
+a) étant régulièrement convoqué comme témoin ou à un autre titre sous le régime des parties I, IV, V ou VII, ne se présente pas;
+
+
+
+
+
+
+
+
+b) comparaissant comme témoin lors de toute procédure visée aux parties I, IV, V ou VII, refuse, alors qu'on le lui demande :
+
+
+
+
+
+
+
+
+(i) de prêter serment ou de faire une affirmation solennelle,
+
+
+
+
+
+
+
+
+(ii) de produire un document ou une pièce sous sa responsabilité,
+
+
+
+
+
+
+
+
+(iii) de répondre à une question qui exige une réponse;
+
+
+
+
+
+
+
+
+c) lors de toute procédure visée aux parties I, IV, V ou VII, profère des propos insultants ou menaçants ou fait obstruction d'une manière ou d'une autre;
+
+
+
+
+
+
+
+
+d) imprime des remarques ou tient des propos de nature à exercer une influence indue sur une commission d'enquête visée à la partie I, le Comité visé aux parties IV ou V, la Commission visée à la partie VII, un comité d'arbitrage visé à la partie IV, une commission de licenciement et de rétrogradation visée à la partie V ou les témoins comparaissant lors d'une procédure visée aux parties I, IV, V ou VII, ou de nature à jeter le discrédit sur le déroulement des procédures, ou encore a un comportement outrageant à cet égard.
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

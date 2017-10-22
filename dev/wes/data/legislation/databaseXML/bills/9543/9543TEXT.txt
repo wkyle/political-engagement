@@ -1,0 +1,1131 @@
+
+
+
+
+
+
+1st Session, 36th Parliament,
+46-47-48 Elizabeth II, 1997-98-99
+
+
+
+
+
+
+
+
+
+
+The House of Commons of Canada
+
+
+
+
+
+
+
+
+
+
+BILL C-81
+
+
+
+
+
+
+
+
+
+An Act to facilitate combatting the laundering 
+of proceeds of crime, to establish the 
+Financial Transactions and Reports 
+Analysis Centre of Canada and to amend 
+or repeal certain Acts in consequence
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and 
+consent of the Senate and House of Commons 
+of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+Short title
+
+
+1. This Act may be cited as the Proceeds of 
+Crime (Money Laundering) Act.
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+Definitions
+
+
+2. The definitions in this section apply in 
+this Act.
+
+
+
+
+
+
+
+``authorized 
+person''
+« personne 
+autorisée »
+
+
+``authorized person'' means a person who is 
+authorized under subsection 46(2).
+
+
+
+
+
+
+
+``Centre''
+« Centre »
+
+
+``Centre'' means the Financial Transactions 
+and Reports Analysis Centre of Canada 
+established by section 42.
+
+
+
+
+
+
+
+``client''
+« client »
+
+
+``client'' means a person who engages in a 
+financial transaction or activity with a 
+person or an entity referred to in section 5 
+and includes a person or an entity on whose 
+behalf the person who engages in the 
+transaction or activity is acting.
+
+
+
+
+
+
+
+``courier''
+« messager »
+
+
+``courier'' has the same meaning as in 
+subsection 2(1) of the Customs Act.
+
+
+
+
+
+
+
+``customs 
+office''
+« bureau de 
+douane »
+
+
+``customs office'' has the same meaning as in 
+subsection 2(1) of the Customs Act.
+
+
+
+
+
+
+
+``Deputy 
+Minister''
+« sous-ministr
+e »
+
+
+``Deputy Minister'' means the Deputy 
+Minister of National Revenue.
+
+
+
+
+
+
+
+``lawyer''
+« avocat »
+
+
+``lawyer'' means, in the Province of Quebec, 
+an advocate or a notary and, in any other 
+province, a barrister or solicitor.
+
+
+
+
+
+
+
+``mail''
+« envois » ou 
+« courrier »
+
+
+``mail'' has the same meaning as in subsection 
+2(1) of the Canada Post Corporation Act.
+
+
+
+
+
+
+
+``Minister''
+« ministre »
+
+
+``Minister'' means
+
+
+
+
+
+
+
+
+
+
+(a) in relation to sections 26 to 39, the 
+Minister of National Revenue; and
+
+
+
+
+
+
+
+
+
+(b) in relation to any other provision of 
+this Act, the member of the Queen's 
+Privy Council for Canada who is 
+designated by the Governor in Council as 
+the Minister for the purposes of that 
+provision.
+
+
+
+
+
+
+``money 
+laundering 
+offence''
+« infraction 
+de recyclage 
+des produits 
+de la 
+criminalité »
+
+
+``money laundering offence'' means an 
+offence under subsection 462.31(1) of the 
+Criminal Code, section 9 of the Controlled 
+Drugs and Substances Act, section 126.2 of 
+the Excise Act, section 163.2 of the Customs 
+Act or section 5 of the Corruption of 
+Foreign Public Officials Act.
+
+
+
+
+
+
+
+``officer''
+« agent »
+
+
+``officer'' has the same meaning as in 
+subsection 2(1) of the Customs Act.
+
+
+
+
+
+
+
+``prescribed'' 
+Version 
+anglaise 
+seulement
+
+
+``prescribed'' means prescribed by 
+regulations made by the Governor in 
+Council.
+
+
+
+
+
+
+
+
+
+
+OBJECT OF ACT
+
+
+
+
+
+
+Object
+
+
+3. The object of this Act is
+
+
+
+
+
+
+
+
+
+
+(a) to implement specific measures to 
+detect and deter money laundering and to 
+facilitate the investigation and prosecution 
+of money laundering offences, including
+
+
+
+
+
+
+
+
+
+(i) establishing record keeping and client 
+identification requirements for financial 
+services providers and other persons that 
+engage in businesses, professions or 
+activities that are susceptible to being 
+used for money laundering,
+
+
+
+
+
+
+
+
+
+(ii) requiring the reporting of suspicious 
+financial transactions and of cross-border 
+movements of currency and monetary 
+instruments, and
+
+
+
+
+
+
+
+
+
+(iii) establishing an agency that is 
+responsible for dealing with reported and 
+other information;
+
+
+
+
+
+
+
+
+
+(b) to respond to the threat posed by 
+organized crime by providing law 
+enforcement officials with the information 
+they need to deprive criminals of the 
+proceeds of their criminal activities, while 
+ensuring that appropriate safeguards are put 
+in place to protect the privacy of persons 
+with respect to personal information about 
+themselves; and
+
+
+
+
+
+
+
+
+
+(c) to assist in fulfilling Canada's 
+international commitments to participate in 
+the fight against transnational crime, 
+particularly money laundering.
+
+
+
+
+
+
+
+
+
+HER MAJESTY
+
+
+
+
+
+
+Binding on 
+Her Majesty
+
+
+4. This Act is binding on Her Majesty in 
+right of Canada or a province.
+
+
+
+
+
+
+
+
+
+
+PART 1
+
+
+
+
+
+
+
+
+
+RECORD KEEPING AND REPORTING 
+OF SUSPICIOUS TRANSACTIONS
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+
+
+
+Application of 
+Part
+
+
+5. This Part applies to the following persons 
+and entities:
+
+
+
+
+
+
+
+
+
+
+(a) banks to which the Bank Act applies;
+
+
+
+
+
+
+
+
+
+(b) cooperative credit societies, credit 
+unions and caisses populaires regulated by 
+a provincial Act and associations regulated 
+by the Cooperative Credit Associations Act;
+
+
+
+
+
+
+
+
+
+(c) life companies or foreign life companies 
+to which the Insurance Companies Act 
+applies or life insurance companies 
+regulated by a provincial Act;
+
+
+
+
+
+
+
+
+
+(d) companies to which the Trust and Loan 
+Companies Act applies;
+
+
+
+
+
+
+
+
+
+(e) trust companies regulated by a 
+provincial Act;
+
+
+
+
+
+
+
+
+
+(f) loan companies regulated by a provincial 
+Act;
+
+
+
+
+
+
+
+
+
+(g) persons engaged in the business of 
+dealing in securities, including portfolio 
+management and investment counselling;
+
+
+
+
+
+
+
+
+
+(h) persons engaged in the business of 
+foreign exchange dealing;
+
+
+
+
+
+
+
+
+
+(i) persons engaged in a business, a 
+profession or an activity described in 
+regulations made under paragraph 12(1)(a);
+
+
+
+
+
+
+
+
+
+(j) prescribed departments and agents of 
+Her Majesty in right of Canada or of a 
+province, and prescribed entities controlled 
+by Her Majesty in either of those rights, that 
+are engaged in a business that is similar to 
+the business engaged in by a person or an 
+entity referred to in any of paragraphs (a) to 
+(i); and
+
+
+
+
+
+
+
+
+
+(k) for the purposes of sections 7 to 10, 
+employees of a person or an entity referred 
+to in any of paragraphs (a) to (j).
+
+
+
+
+
+
+
+
+
+Record Keeping
+
+
+
+
+
+
+Duties
+
+
+6. Every person or entity shall keep and 
+retain records that relate to financial activities 
+in accordance with the regulations made 
+under subsection 12(1).
+
+
+
+
+
+
+
+
+
+
+Reporting
+
+
+
+
+
+
+Transactions 
+if reasonable 
+grounds to 
+suspect
+
+
+7. Every person or entity shall report to the 
+Centre, in the prescribed form and manner, 
+every financial transaction that occurs in the 
+course of their activities and in respect of 
+which there are reasonable grounds to suspect 
+that the transaction is related to the 
+commission of a money laundering offence.
+
+
+
+
+
+
+
+No disclosure 
+of reports
+
+
+8. No person or entity shall disclose that 
+they have made a report under section 7, or 
+disclose the contents of such a report, with the 
+intent to prejudice a criminal investigation, 
+whether or not a criminal investigation has 
+begun.
+
+
+
+
+
+
+
+Transactions 
+indicative of 
+money 
+laundering
+
+
+9. (1) Every person or entity shall report to 
+the Centre, in the prescribed form and manner, 
+every prescribed financial transaction that 
+occurs in the course of their activities.
+
+
+
+
+
+
+
+Limitation
+
+
+(2) Subsection (1) does not apply to 
+prescribed persons or entities or classes of 
+persons or entities in respect of prescribed 
+transactions, classes of transactions, clients or 
+classes of clients, if the prescribed conditions 
+are met.
+
+
+
+
+
+
+
+List of 
+persons
+
+
+(3) Every person or entity shall maintain a 
+list, in the prescribed form and manner, of 
+their clients in respect of whom a report would 
+have been required under subsection (1) were 
+it not for subsection (2). However, a person or 
+an entity may choose to report a client's 
+transactions under subsection (1) instead of 
+maintaining the list in respect of that client.
+
+
+
+
+
+
+
+Immunity
+
+
+10. No criminal or civil proceedings lie 
+against a person or an entity for making a 
+report in good faith under section 7 or 9.
+
+
+
+
+
+
+
+Solicitor-clien
+t privilege
+
+
+11. Nothing in this Part requires a lawyer to 
+disclose any communication that is subject to 
+solicitor-client privilege.
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+
+
+Regulations
+
+
+12. (1) The Governor in Council may, on the 
+recommendation of the Minister, make 
+regulations
+
+
+
+
+
+
+
+
+
+
+(a) describing businesses, professions and 
+activities for the purpose of paragraph 5(i);
+
+
+
+
+
+
+
+
+
+(b) specifying the types of records to be kept 
+and retained under section 6 and the 
+information to be included in them;
+
+
+
+
+
+
+
+
+
+(c) specifying the period for which, and the 
+methods by which, records referred to in 
+paragraph (b) are to be retained;
+
+
+
+
+
+
+
+
+
+(d) specifying measures that persons or 
+entities are to take to ascertain the identity 
+of their clients, if the transaction is one in 
+respect of which this Part applies;
+
+
+
+
+
+
+
+
+
+(e) prescribing anything that by any 
+provision of this Part is to be prescribed; and
+
+
+
+
+
+
+
+
+
+(f) generally for carrying out the purposes 
+and provisions of this Part.
+
+
+
+
+
+
+Publication of 
+proposed 
+regulations
+
+
+(2) Subject to subsection (3), a copy of each 
+regulation that the Governor in Council 
+proposes to make under subsection (1) shall be 
+published in the Canada Gazette at least 90 
+days before its proposed effective date, and a 
+reasonable opportunity shall be given to 
+interested persons within those 90 days to 
+make representations to the Minister with 
+respect to the proposed regulation.
+
+
+
+
+
+
+
+Publication of 
+changes
+
+
+(3) When a regulation under this Act is 
+changed during the 90-day period referred to 
+in subsection (2), the regulation shall be 
+published in the Canada Gazette at least 30 
+days before its proposed effective date.
+
+
+
+
+
+
+
+
+
+
+PART 2
+
+
+
+
+
+
+
+
+
+REPORTING OF CURRENCY AND 
+MONETARY INSTRUMENTS
+
+
+
+
+
+
+
+
+
+Reporting
+
+
+
+
+
+
+Currency and 
+monetary 
+instruments
+
+
+13. (1) If currency or monetary instruments 
+of a value greater than the prescribed amount 
+are imported into or exported from Canada, 
+the person or entity referred to in subsection 
+(3) shall report the activity to an officer in 
+accordance with the regulations.
+
+
+
+
+
+
+
+Limitation
+
+
+(2) A person or entity is not required to 
+make a report under subsection (1) in respect 
+of an activity if the prescribed conditions are 
+met in respect of the person, entity or activity, 
+and if the person or entity satisfies an officer 
+that those conditions have been met.
+
+
+
+
+
+
+
+Who must 
+report
+
+
+(3) Currency or monetary instruments shall 
+be reported under subsection (1)
+
+
+
+
+
+
+
+
+
+
+(a) in the case of currency or monetary 
+instruments in the actual possession of a 
+person arriving in or departing from 
+Canada, or that form part of their baggage 
+if they and their baggage are being carried 
+on board the same conveyance, by that 
+person;
+
+
+
+
+
+
+
+
+
+(b) in the case of currency or monetary 
+instruments imported into Canada by 
+courier or as mail, by the exporter of the 
+currency or monetary instruments or, on 
+receiving notice under subsection 15(2), by 
+the importer;
+
+
+
+
+
+
+
+
+
+(c) in the case of currency or monetary 
+instruments exported from Canada by 
+courier or as mail, by the exporter of the 
+currency or monetary instruments;
+
+
+
+
+
+
+
+
+
+(d) in the case of currency or monetary 
+instruments, other than those referred to in 
+paragraph (a) or imported or exported as 
+mail, that are on board a conveyance 
+arriving in or departing from Canada, by the 
+person in charge of the conveyance; and
+
+
+
+
+
+
+
+
+
+(e) in any other case, by the person on whose 
+behalf the currency or monetary 
+instruments are imported or exported.
+
+
+
+
+
+
+Duty to 
+answer and 
+comply with 
+the request of 
+an officer
+
+
+(4) If a report is made in respect of currency 
+or monetary instruments, the person arriving 
+in or departing from Canada with the currency 
+or monetary instruments shall
+
+
+
+
+
+
+
+
+
+
+(a) answer truthfully any questions that the 
+officer asks with respect to the information 
+required to be contained in the report; and
+
+
+
+
+
+
+
+
+
+(b) on request of an officer, present the 
+currency or monetary instruments that they 
+are carrying or transporting, unload any 
+conveyance or part of a conveyance or 
+baggage and open or unpack any package or 
+container that the officer wishes to 
+examine.
+
+
+
+
+
+
+Sending 
+reports to 
+Centre
+
+
+(5) Officers shall send the reports they 
+receive under subsection (1) to the Centre.
+
+
+
+
+
+
+
+Decision not 
+to proceed 
+with 
+importing or 
+exporting
+
+
+14. A person or an entity that is required to 
+report currency or monetary instruments may, 
+at any time before they are retained under 
+subsection 15(1) or forfeited as a result of a 
+contravention of subsection 13(1), decide not 
+to proceed further with importing or exporting 
+them.
+
+
+
+
+
+
+
+

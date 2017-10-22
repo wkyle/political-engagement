@@ -1,0 +1,5448 @@
+
+
+
+
+
+
+C-12
+
+
+
+
+
+C-12
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60 Elizabeth II, 2011
+
+
+
+
+
+60 Elizabeth II, 2011
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-12
+
+
+
+
+
+PROJET DE LOI C-12
+
+
+
+
+
+
+An Act to amend the Personal Information Protection and Electronic Documents Act
+
+
+
+
+
+Loi modifiant la Loi sur la protection des renseignements personnels et les documents électroniques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, September 29, 2011
+
+
+
+
+
+première lecture le 29 septembre 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF INDUSTRY AND MINISTER OF STATE (AGRICULTURE)
+
+90544
+
+
+
+MINISTRE DE L’INDUSTRIE ET MINISTRE D’ÉTAT (AGRICULTURE)
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Personal Information Protection and Electronic Documents Act to, among other things,
+(a) exclude, in certain circumstances, business contact information from the application of Part 1 of that Act;
+(b) specify the elements of valid consent for the collection, use or disclosure of personal information;
+(c) permit the disclosure of personal information without the knowledge or consent of the individual for the purposes of
+(i) identifying an injured, ill or deceased individual and communicating with their next of kin,
+(ii) performing police services,
+(iii) preventing, detecting or suppressing fraud, or
+(iv) protecting victims of financial abuse;
+(d) clarify the meaning of lawful authority for the purpose of disclosures to government institutions of personal information without the knowledge or consent of the individual;
+(e) permit organizations, for certain purposes, to collect, use and disclose, without the knowledge or consent of the individual, personal information
+(i) contained in witness statements related to insurance claims, or
+(ii) produced by the individual in the course of their employment, business or profession;
+(f) permit organizations, for certain purposes, to use and disclose, without the knowledge or consent of the individual, personal information related to prospective or completed business transactions;
+(g) permit federal works, undertakings and businesses to collect, use and disclose personal information without the knowledge or consent of the individual to establish, manage or terminate employment relationships;
+(h) provide a framework for organizations to notify individuals proactively about disclosures of their personal information made in certain circumstances to government institutions; and
+(i) require organizations to report material breaches of security safeguards to the Privacy Commissioner and to notify certain individuals and organizations of breaches that create a real risk of significant harm.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur la protection des renseignements personnels et les documents électroniques afin, notamment :
+
+a) de soustraire, dans certaines circonstances, les coordonnées d’affaires à l’application de la partie 1 de la loi;
+
+b) de préciser les éléments nécessaires à la validité du consentement à la collecte, l’utilisation ou la communication de renseignements personnels;
+
+c) de permettre la communication de renseignements personnels à l’insu de l’intéressé ou sans son consentement aux fins suivantes :
+(i) identifier un individu qui est blessé, malade ou décédé, et communiquer avec son parent le plus proche,
+(ii) exercer des fonctions de police,
+(iii) prévenir une fraude, la détecter ou y mettre fin,
+(iv) protéger la victime d’exploitation financière;
+
+d) de clarifier la notion d’autorité légitime aux fins de communication de renseignements personnels à une institution gouvernementale, à l’insu de l’intéressé ou sans son consentement;
+
+e) de permettre à l’organisation de recueillir, d’utiliser ou de communiquer des renseignements personnels, à l’insu de l’intéressé ou sans son consentement et à certaines fins, dans les cas suivants :
+(i) ils sont contenus dans la déclaration d’un témoin relative à la déclaration d’un sinistre,
+(ii) ils sont produits par l’intéressé dans le cadre de son emploi, de son entreprise ou de sa profession;
+
+f) de permettre à l’organisation d’utiliser ou de communiquer, à l’insu de l’intéressé ou sans son consentement et à certaines fins, des renseignements personnels afférents à une éventuelle transaction commerciale ou à une transaction commerciale qui a été effectuée;
+
+g) de permettre à l’entreprise fédérale de recueillir, d’utiliser ou de communiquer des renseignements personnels à l’insu de l’intéressé ou sans son consentement afin d’établir ou de gérer la relation d’emploi entre elle et lui, ou d’y mettre fin;
+
+h) d’établir un cadre pour permettre à l’organisation d’aviser l’intéressé, de sa propre initiative, de la communication de renseignements personnels le concernant faite, dans certaines circonstances, à une institution gouvernementale;
+
+i) d’exiger que l’organisation déclare au Commissaire à la protection de la vie privée les atteintes importantes aux mesures de sécurité et avise des individus et organisations particuliers des atteintes qui présentent un risque réel de préjudice grave.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60 Elizabeth II, 2011
+
+
+
+
+
+
+
+
+
+60 Elizabeth II, 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-12
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Personal Information Protection and Electronic Documents Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la protection des renseignements personnels et les documents électroniques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Safeguarding Canadians’ Personal Information Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi protégeant les renseignements personnels des Canadiens.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 5
+
+
+
+PERSONAL INFORMATION PROTECTION AND ELECTRONIC DOCUMENTS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA PROTECTION DES RENSEIGNEMENTS PERSONNELS ET LES DOCUMENTS ÉLECTRONIQUES
+
+
+
+2000, ch. 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) The definition “personal information” in subsection 2(1) of the Personal Information Protection and Electronic Documents Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. (1) La définition de « renseignement personnel », au paragraphe 2(1) de la Loi sur la protection des renseignements personnels et les documents électroniques, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“personal information”« renseignement personnel »
+
+
+
+“personal information” means information about an identifiable individual.
+
+
+
+
+
+
+
+
+
+« renseignement personnel » Tout renseignement concernant un individu identifiable.
+
+
+
+« renseignement personnel »“personal information”
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph (g) of the definition “federal work, undertaking or business” in subsection 2(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa g) de la définition de « entreprises fédérales », au paragraphe 2(1) de la même loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(g) a bank or an authorized foreign bank as defined in section 2 of the Bank Act;
+
+
+
+
+
+
+
+
+
+
+g) les banques ou les banques étrangères autorisées au sens de l’article 2 de la Loi sur les banques;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 2(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“breach of security safeguards”« atteinte aux mesures de sécurité »
+
+
+
+
+“breach of security safeguards” means the loss of, unauthorized access to, or unauthorized disclosure of, personal information resulting from a breach of an organization’s security safeguards that are referred to in clauses 4.7 to 4.7.5 of Schedule 1 or from a failure to establish those safeguards.
+
+
+
+
+
+“business contact information”« coordonnées d’affaires »
+
+
+
+
+“business contact information” means an individual’s name, position name or title, work address, work telephone number, work facsimile number, work electronic mail address and any similar information about the individual.
+
+
+
+
+
+“business transaction”« transaction commerciale »
+
+
+
+
+“business transaction” includes
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the purchase, sale or other acquisition or disposition of an organization or a portion of an organization, or any of its assets;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the merger or amalgamation of two or more organizations;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the making of a loan or provision of other financing to an organization or a portion of an organization;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) the creating of a charge on, or the taking of a security interest in or a security on, any assets or securities of an organization;
+
+
+
+
+
+
+
+
+
+
+
+
+(e) the lease or licensing of any of an organization’s assets; and
+
+
+
+
+
+
+
+
+
+
+
+
+(f) the arrangement between two or more organizations to conduct a business activity other than the processing of personal information referred to in clause 4.1.3 of Sched- ule 1.
+
+
+
+
+
+“prescribed”Version anglaise seulement
+
+
+
+
+“prescribed” means prescribed by regulations.
+
+
+
+
+
+
+
+
+
+
+
+« atteinte aux mesures de sécurité » Communication non autorisée ou perte de renseignements personnels, ou accès non autorisé à ceux-ci, par suite d’une atteinte aux mesures de sécurité d’une organisation prévues aux articles 4.7 à 4.7.5 de l’annexe 1 ou du fait que ces mesures n’ont pas été mises en place.
+
+
+
+
+« atteinte aux mesures de sécurité »“breach of security safeguards”
+
+
+
+
+
+« coordonnées d’affaires » Le nom d’un individu, son poste ou son titre, l’adresse et les numéros de téléphone et de télécopieur de son lieu de travail, son adresse électronique au travail, et tout autre renseignement semblable le concernant.
+
+
+
+
+« coordonnées d’affaires »“business contact information”
+
+
+
+
+
+« transaction commerciale » S’entend notamment des transactions suivantes :
+
+
+
+
+« transaction commerciale »“business transaction”
+
+
+
+
+
+
+a) l’achat, la vente ou toute autre forme d’acquisition ou de disposition de tout ou partie d’une organisation, ou de ses éléments d’actif;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) la fusion ou le regroupement d’organisations;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) le fait de consentir un prêt à tout ou partie d’une organisation ou de lui fournir toute autre forme de financement;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) le fait de grever d’une charge ou d’une sûreté les éléments d’actif ou les titres d’une organisation;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) la location d’éléments d’actif d’une organisation, ou l’octroi ou l’obtention d’une licence à leur égard;
+
+
+
+
+
+
+
+
+
+
+
+
+
+f) l’arrangement entre des organisations pour la poursuite d’activités d’affaires autres que le traitement de renseignements personnels visé à l’article 4.1.3 de l’annexe 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Paragraph 4(1)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. L’alinéa 4(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) is about an employee of, or an applicant for employment with, the organization and that the organization collects, uses or discloses in connection with the operation of a federal work, undertaking or business.
+
+
+
+
+
+
+
+
+
+
+b) soit qui concernent un de ses employés ou l’individu qui postule pour le devenir et qu’elle recueille, utilise ou communique dans le cadre d’une entreprise fédérale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Act is amended by adding the following after section 4:
+
+
+
+
+
+
+
+
+
+
+4. La même loi est modifiée par adjonction, après l’article 4, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Business contact information
+
+
+
+
+
+4.01 This Part does not apply to an organization in respect of the business contact information of an individual that the organization collects, uses or discloses solely for the purpose of communicating or facilitating communication with the individual in relation to their employment, business or profession.
+
+
+
+
+
+
+
+
+
+
+
+
+4.01 La présente partie ne s’applique pas à une organisation à l’égard des coordonnées d’affaires d’un individu qu’elle recueille, utilise ou communique uniquement pour entrer en contact — ou pour faciliter la prise de contact — avec lui dans le cadre de son emploi, de son entreprise ou de sa profession.
+
+
+
+
+Coordonnées d’affaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Act is amended by adding the following after section 6:
+
+
+
+
+
+
+
+
+
+
+5. La même loi est modifiée par adjonction, après l’article 6, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Valid consent
+
+
+
+
+
+6.1 For the purposes of clauses 4.3 to 4.3.8 of Schedule 1, the consent of an individual is only valid if it is reasonable to expect that the individual understands the nature, purpose and consequences of the collection, use or disclosure of personal information to which they are consenting.
+
+
+
+
+
+
+
+
+
+
+
+
+6.1 Pour l’application des articles 4.3 à 4.3.8 de l’annexe 1, le consentement de l’intéressé n’est valable que s’il est raisonnable de s’attendre à ce que ce dernier comprenne la nature, les fins et les conséquences de la collecte, de l’utilisation ou de la communication des renseignements personnels auxquelles il a consenti.
+
+
+
+
+Validité du consentement
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) The portion of subsection 7(1) of the French version of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. (1) Le passage du paragraphe 7(1) de la version française de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Collecte à l’insu de l’intéressé ou sans son consentement
+
+
+
+
+
+7. (1) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut recueillir de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
+
+
+
+
+
+
+
+
+
+
+
+7. (1) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut recueillir de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
+
+
+
+Collecte à l’insu de l’intéressé ou sans son consentement
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 7(1) of the Act is amended by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 7(1) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) the information is contained in a witness statement and the collection is necessary to assess, process or settle an insurance claim;
+
+
+
+
+
+
+
+
+(b.2) the information was produced by the individual in the course of their employment, business or profession and the collection is consistent with the purposes for which the information was produced;
+
+
+
+
+
+
+
+
+
+
+
+
+b.1) il s’agit d’un renseignement contenu dans la déclaration d’un témoin et dont la collecte est nécessaire pour évaluer ou traiter la déclaration d’un sinistre ou régler celle-ci;
+
+
+
+
+
+
+
+
+
+b.2) il s’agit d’un renseignement produit par l’intéressé dans le cadre de son emploi, de son entreprise ou de sa profession, et dont la collecte est compatible avec les fins auxquelles il a été produit;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) The portion of subsection 7(2) of the French version of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le passage du paragraphe 7(2) de la version française de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Utilisation à l’insu de l’intéressé ou sans son consentement
+
+
+
+
+(2) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut utiliser de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
+
+
+
+
+
+
+
+
+
+
+(2) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut utiliser de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
+
+
+
+Utilisation à l’insu de l’intéressé ou sans son consentement
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Subsection 7(2) of the Act is amended by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 7(2) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) the information is contained in a witness statement and the use is necessary to assess, process or settle an insurance claim;
+
+
+
+
+
+
+
+
+(b.2) the information was produced by the individual in the course of their employment, business or profession and the use is consistent with the purposes for which the information was produced;
+
+
+
+
+
+
+
+
+
+
+
+
+b.1) il s’agit d’un renseignement contenu dans la déclaration d’un témoin et dont l’utilisation est nécessaire pour évaluer ou traiter la déclaration d’un sinistre ou régler celle-ci;
+
+
+
+
+
+
+
+
+
+b.2) il s’agit d’un renseignement produit par l’intéressé dans le cadre de son emploi, de son entreprise ou de sa profession, et dont l’utilisation est compatible avec les fins auxquelles il a été produit;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) The portion of subsection 7(3) of the French version of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Le passage du paragraphe 7(3) de la version française de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Communication à l’insu de l’intéressé ou sans son consentement
+
+
+
+
+(3) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut communiquer de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
+
+
+
+
+
+
+
+
+
+
+(3) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut communiquer de renseignement personnel à l’insu de l’intéressé ou sans son consentement que dans les cas suivants :
+
+
+
+Communication à l’insu de l’intéressé ou sans son consentement
+
+
+
+
+
+
+
+
+
+
+
+
+(6) Paragraph 7(3)(c.1) of the Act is amended by striking out “or” at the end of subparagraph (ii) and by adding the following after subparagraph (iii):
+
+
+
+
+
+
+
+
+
+(6) L’alinéa 7(3)c.1) de la même loi est modifié par adjonction, après le sous-alinéa (iii), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) the disclosure is requested for the purpose of communicating with the next of kin or authorized representative of an injured, ill or deceased individual, or
+
+
+
+
+
+
+
+
+(v) the disclosure is requested for the purpose of performing policing services that are not referred to in subparagraph (i), (ii) or (iv);
+
+
+
+
+
+
+
+
+
+
+
+(iv) qu’elle est demandée afin d’entrer en contact avec le plus proche parent d’un individu blessé, malade ou décédé, ou avec son représentant autorisé,
+
+
+
+
+
+
+
+
+(v) qu’elle est demandée pour l’exercice de fonctions de police qui ne sont pas visées aux alinéas (i), (ii) ou (iv);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(7) Paragraph 7(3)(c.2) of the Act, as enacted by paragraph 97(1)(a) of chapter 17 of the Statutes of Canada, 2000, is repealed.
+
+
+
+
+
+
+
+
+
+(7) L’alinéa 7(3)c.2) de la même loi, édicté par l’alinéa 97(1)a) du chapitre 17 des Lois du Canada (2000), est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(8) The portion of paragraph 7(3)(d) of the Act before subparagraph (ii) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(8) L’alinéa 7(3)d) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) made on the initiative of the organization to a government institution or a part of a government institution and the organization
+
+
+
+
+
+
+(i) has reasonable grounds to believe that the information relates to a contravention of the laws of Canada, a province or a foreign jurisdiction that has been, is being or is about to be committed, or
+
+
+
+
+
+
+
+
+
+
+d) elle est faite, à l’initiative de l’organisation, à une institution gouvernementale ou une subdivision d’une telle institution et l’organisation soit a des motifs raisonnables de croire que le renseignement est afférent à une contravention au droit fédéral, provincial ou étranger qui a été commise ou est en train ou sur le point de l’être, soit soupçonne que le renseignement est afférent à la sécurité nationale, à la défense du Canada ou à la conduite des affaires internationales;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(9) Subsection 7(3) of the Act is amended by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+(9) Le paragraphe 7(3) de la même loi est modifié par adjonction, après l’alinéa d), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d.1) made to another organization and the disclosure is necessary
+
+
+
+
+
+
+
+
+(i) to investigate a breach of an agreement, or a contravention of the laws of Canada or a province, that has been, is being or is about to be committed, or
+
+
+
+
+
+
+
+
+(ii) to prevent, detect or suppress fraud when it is reasonable to expect that the disclosure with the knowledge or consent of the individual would undermine the ability to prevent, detect or suppress the fraud;
+
+
+
+
+
+
+
+
+(d.2) made on the initiative of the organization to a government institution, a part of a government institution or the individual’s next of kin or authorized representative and
+
+
+
+
+
+
+
+
+(i) the organization has reasonable grounds to believe that the individual has been, is or may be the victim of financial abuse, and
+
+
+
+
+
+
+
+
+(ii) the disclosure is made solely for purposes related to preventing or investigating the abuse;
+
+
+
+
+
+
+
+
+(d.3) necessary to identify the individual who is injured, ill or deceased, the disclosure is made to a government institution, a part of a government institution or the individual’s next of kin or authorized representative and, if the individual is alive, the organization informs that individual in writing without delay of the disclosure;
+
+
+
+
+
+
+
+
+
+
+
+
+d.1) elle est faite à une autre organisation et est nécessaire à l’une ou l’autre des fins suivantes :
+
+
+
+
+
+
+
+
+(i) enquêter sur la violation d’un accord ou sur la contravention du droit fédéral ou provincial qui a été commise ou est en train ou sur le point de l’être,
+
+
+
+
+
+
+
+
+(ii) prévenir une fraude, la détecter ou y mettre fin, s’il est raisonnable de s’attendre à ce que la communication effectuée au su ou avec le consentement de l’intéressé puisse compromettre la capacité de la prévenir, de la détecter ou d’y mettre fin;
+
+
+
+
+
+
+
+
+
+d.2) elle est faite, à l’initiative de l’organisation, à une institution gouvernementale ou une subdivision d’une telle institution, au plus proche parent de l’intéressé ou à son représentant autorisé, si l’organisation a des motifs raisonnables de croire que l’intéressé a été, est ou pourrait être victime d’exploitation financière, et si la communication est faite uniquement à des fins liées à la prévention de l’exploitation ou à une enquête y ayant trait;
+
+
+
+
+
+
+
+
+
+d.3) elle est nécessaire aux fins d’identification de l’intéressé qui est blessé, malade ou décédé et est faite à une institution gouvernementale ou une subdivision d’une telle institution, à un proche parent de l’intéressé ou à son représentant autorisé et, si l’intéressé est vivant, l’organisation en informe celui-ci par écrit et sans délai;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(10) Subsection 7(3) of the Act is amended by adding the following after paragraph (e):
+
+
+
+
+
+
+
+
+
+(10) Le paragraphe 7(3) de la même loi est modifié par adjonction, après l’alinéa e), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e.1) of information that is contained in a witness statement, and the disclosure is necessary to assess, process or settle an insurance claim;
+
+
+
+
+
+
+
+
+(e.2) of information that was produced by the individual in the course of their employment, business or profession, and the disclosure is consistent with the purposes for which the information was produced;
+
+
+
+
+
+
+
+
+
+
+
+
+e.1) il s’agit d’un renseignement contenu dans la déclaration d’un témoin et dont la communication est nécessaire pour évaluer ou traiter la déclaration d’un sinistre ou régler celle-ci;
+
+
+
+
+
+
+
+
+
+e.2) il s’agit d’un renseignement produit par l’intéressé dans le cadre de son emploi, de son entreprise, ou de sa profession, et dont la communication est compatible avec les fins auxquelles il a été produit;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(11) Subsection 7(3) of the Act is amended by adding “or” at the end of paragraph (h.1) and by repealing paragraph (h.2).
+
+
+
+
+
+
+
+
+
+(11) L’alinéa 7(3)h.2) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(12) Section 7 of the Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+(12) L’article 7 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Lawful authority
+
+
+
+
+(3.1) For greater certainty, for the purpose of paragraph (3)(c.1)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) lawful authority refers to lawful authority other than
+
+
+
+
+
+
+
+
+
+
+
+
+(i) a subpoena or warrant issued, or an order made, by a court, person or body with jurisdiction to compel the production of information, or
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) rules of court relating to the production of records; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the organization that discloses the per­sonal information is not required to verify the validity of the lawful authority identified by the government institution or the part of a government institution.
+
+
+
+
+
+
+
+
+
+
+
+(3.1) Il est entendu que, pour l’application de l’alinéa (3)c.1) :
+
+
+
+
+Autorité légitime
+
+
+
+
+
+
+a) l’autorité légitime vise l’autorité légitime autre qu’une assignation, un mandat ou une ordonnance d’un tribunal, d’une personne ou d’un organisme ayant le pouvoir de contraindre à la production de renseignements, ou que des règles de procédure se rapportant à la production de documents;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) l’organisation qui communique des renseignements personnels n’est pas tenue de vérifier la validité de l’autorité légitime mentionnée par l’institution gouvernementale ou la subdivision d’une telle institution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(13) Subsection 7(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(13) Le paragraphe 7(5) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure without consent
+
+
+
+(5) Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in any of the circumstances set out in paragraphs (3)(a) to (h.1).
+
+
+
+
+
+
+
+
+
+(5) Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans les cas visés aux alinéas (3)a) à h.1), communiquer un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
+
+
+
+Communication sans le consentement de l’intéressé
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. The Act is amended by adding the following in numerical order:
+
+
+
+
+
+
+
+
+
+
+7. La même loi est modifiée par adjonction, selon l’ordre numérique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Prospective business transaction
+
+
+
+
+
+7.2 (1) In addition to the circumstances set out in subsections 7(2) and (3), for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, organizations that are parties to a prospective business transaction may use and disclose personal information without the knowledge or consent of the individual if
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the organizations have entered into an agreement that requires the organization that receives the personal information
+
+
+
+
+
+
+
+
+
+
+
+
+(i) to use and disclose that information solely for purposes related to the transaction,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) to protect that information by security safeguards appropriate to the sensitivity of the information, and
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) if the transaction does not proceed, to return that information to the organization that disclosed it, or destroy it, within a reasonable time; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the personal information is necessary
+
+
+
+
+
+
+
+
+
+
+
+
+(i) to determine whether to proceed with the transaction, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) if the determination is made to proceed with the transaction, to complete it.
+
+
+
+
+
+
+
+
+
+
+
+
+7.2 (1) En plus des cas visés aux paragraphes 7(2) et (3), pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, les organisations qui sont parties à une éventuelle transaction commerciale peuvent utiliser et communiquer des renseignements personnels à l’insu de l’intéressé ou sans son consentement si, à la fois :
+
+
+
+
+Transaction commerciale éventuelle
+
+
+
+
+
+
+a) elles ont conclu un accord aux termes duquel l’organisation recevant des renseignements s’est engagée :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) à ne les utiliser et communiquer qu’à des fins liées à la transaction,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) à les protéger au moyen de mesures de sécurité correspondant à leur degré de sensibilité,
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) si la transaction n’a pas lieu, à les remettre à l’organisation qui les lui a communiqués ou à les détruire, dans un délai raisonnable;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) les renseignements sont nécessaires pour décider si la transaction aura lieu et, le cas échéant, pour l’effectuer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Completed business transaction
+
+
+
+
+(2) In addition to the circumstances set out in subsections 7(2) and (3), for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, if the business transaction is completed, organizations that are parties to the transaction may use and disclose personal information, which was disclosed under subsection (1), without the knowledge or consent of the individual if
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the organizations have entered into an agreement that requires each of them
+
+
+
+
+
+
+
+
+
+
+
+
+(i) to use and disclose the personal information under its control solely for the purposes for which the personal information was collected or permitted to be used or disclosed before the transaction was completed,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) to protect that information by security safeguards appropriate to the sensitivity of the information, and
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) to give effect to any withdrawal of consent made in accordance with clause 4.3.8 of Schedule 1;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the personal information is necessary for carrying on the business or activity that was the object of the transaction; and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) one of the parties notifies the individual, within a reasonable time after the transaction is completed, that the transaction has been completed and that their personal information has been disclosed under subsection (1).
+
+
+
+
+
+
+
+
+
+
+
+(2) En plus des cas visés aux paragraphes 7(2) et (3), pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, si la transaction commerciale est effectuée, les organisations y étant parties peuvent utiliser et communiquer les renseignements personnels, communiqués en vertu du paragraphe (1), à l’insu de l’intéressé ou sans son consentement dans le cas où :
+
+
+
+
+Transaction commerciale effectuée
+
+
+
+
+
+
+a) elles ont conclu un accord aux termes duquel chaque organisation s’est engagée :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) à n’utiliser et ne communiquer les renseignements dont elle a la gestion qu’aux fins auxquelles ils ont été recueillis ou auxquelles il était permis de les utiliser ou communiquer avant que la transaction ne soit effectuée,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) à les protéger au moyen de mesures de sécurité correspondant à leur degré de sensibilité,
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) à donner effet à tout retrait de consentement fait en conformité avec l’article 4.3.8 de l’annexe 1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) les renseignements sont nécessaires à la poursuite de l’entreprise ou des activités faisant l’objet de la transaction;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) dans un délai raisonnable après que la transaction a été effectuée, l’une des parties avise l’intéressé du fait que la transaction a été effectuée et que ses renseignements personnels ont été communiqués en vertu du paragraphe (1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements binding
+
+
+
+
+(3) An organization shall comply with the terms of any agreement into which it enters under paragraph (1)(a) or (2)(a).
+
+
+
+
+
+
+
+
+
+
+
+(3) L’organisation est tenue de se conformer aux modalités de tout accord conclu aux termes des alinéas (1)a) ou (2)a).
+
+
+
+
+Valeur contraignante des accords
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+
+(4) Subsections (1) and (2) do not apply to a business transaction in which the primary purpose or result of the transaction is the purchase, sale or other acquisition or disposition, or lease, of personal information.
+
+
+
+
+
+
+
+
+
+
+
+(4) Les paragraphes (1) et (2) ne s’appliquent pas à l’égard de la transaction commerciale dont l’objectif premier ou le résultat principal est l’achat, la vente ou toute autre forme d’acquisition ou de disposition de renseignements personnels, ou leur location.
+
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Employment relationship
+
+
+
+
+
+7.3 In addition to the circumstances set out in section 7, for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, a federal work, undertaking or business may collect, use and disclose personal information without the consent of the individual if
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the collection, use or disclosure is necessary to establish, manage or terminate an employment relationship between the federal work, undertaking or business and the individual; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the federal work, undertaking or business has informed the individual that the personal information will be or may be collected, used or disclosed for those purposes.
+
+
+
+
+
+
+
+
+
+
+
+
+7.3 En plus des cas visés à l’article 7, pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, une entreprise fédérale peut recueillir, utiliser ou communiquer des renseignements personnels sans le consentement de l’intéressé si cela est nécessaire pour établir ou gérer la relation d’emploi entre elle et lui, ou pour y mettre fin, et si elle a au préalable informé l’intéressé que ses renseignements personnels seront ou pourraient être recueillis, utilisés ou communiqués à ces fins.
+
+
+
+
+Relation d’emploi
+
+
+
+
+
+
+
+
+
+
+Use without consent
+
+
+
+
+
+7.4 (1) Despite clause 4.5 of Schedule 1, an organization may use personal information for purposes other than those for which it was collected in any of the circumstances set out in subsections 7.2(1) and (2) and section 7.3.
+
+
+
+
+
+
+
+
+
+
+
+
+7.4 (1) Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans les cas visés aux paragraphes 7.2(1) et (2) et à l’article 7.3, utiliser un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
+
+
+
+
+Utilisation sans le consentement de l’intéressé
+
+
+
+
+
+
+
+
+
+
+Disclosure without consent
+
+
+
+
+(2) Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in any of the circumstances set out in subsections 7.2(1) and (2) and section 7.3.
+
+
+
+
+
+
+
+
+
+
+
+(2) Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans les cas visés aux paragraphes 7.2(1) et (2) et à l’article 7.3, communiquer un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
+
+
+
+
+Communication sans le consentement de l’intéressé
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. The Act is amended by adding the following before section 8:
+
+
+
+
+
+
+
+
+
+
+8. La même loi est modifiée par adjonction, avant l’article 8, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Informing an individual on an organization’s initiative
+
+
+
+
+
+7.5 (1) Unless it complies with subsection (2), no organization shall, on its own initiative, take any of the following actions:
+
+
+
+
+
+
+
+
+
+
+
+
+(a) informing an individual about
+
+
+
+
+
+
+
+
+
+
+
+
+(i) any disclosure of their personal information to a government institution or a part of a government institution under paragraph 7(3)(c), subparagraph 7(3)(c.1)(i), (ii) or (v) or paragraph 7(3)(c.2) or (d), or
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) the existence of any information that the organization has relating to a disclosure referred to in subparagraph (i), to a subpoena, warrant or order referred to in paragraph 7(3)(c) or to a request made by a government institution or a part of a government institution under subparagraph 7(3)(c.1)(i), (ii) or (v); or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) giving an individual access to the information referred to in subparagraph (a)(ii).
+
+
+
+
+
+
+
+
+
+
+
+
+7.5 (1) L’organisation ne peut prendre, de sa propre initiative, l’une des mesures ci-après, à moins de se conformer au paragraphe (2) :
+
+
+
+
+Avis à l’initiative de l’organisation
+
+
+
+
+
+
+a) aviser l’intéressé, selon le cas :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) de toute communication de ses renseignements personnels faite à une institution gouvernementale ou à une subdivision d’une telle institution en vertu de l’alinéa 7(3)c), des sous-alinéas 7(3)c.1)(i), (ii) ou (v) ou des alinéas 7(3)c.2) ou d),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) de l’existence de renseignements détenus par l’organisation relativement à une telle communication, à une assignation, un mandat ou une ordonnance visés à l’alinéa 7(3)c), ou à une demande de communication faite par une institution gouvernementale ou une subdivision d’une telle institution en vertu des sous-alinéas 7(3)c.1)(i), (ii) ou (v);
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) lui communiquer les renseignements visés au sous-alinéa a)(ii).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notification and response
+
+
+
+
+(2) Each time an organization intends, on its own initiative, to take an action referred to in subsection (1), it
+
+
+
+
+
+
+
+
+
+
+
+
+(a) shall, in writing and without delay, notify the government institution or part concerned of its intention; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) shall not take the action before the earlier of
+
+
+
+
+
+
+
+
+
+
+
+
+(i) 30 days after the day on which the institution or part was notified, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) the day on which the organization is notified under subsection (3) that the institution or part does not object to the action.
+
+
+
+
+
+
+
+
+
+
+
+(2) Chaque fois qu’elle a l’intention de prendre, de sa propre initiative, une telle mesure, l’organisation est tenue :
+
+
+
+
+Notification et réponse
+
+
+
+
+
+
+a) de notifier, par écrit et sans délai, son intention à l’institution gouvernementale ou à la subdivision concernée;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) de ne pas prendre la mesure avant le trentième jour suivant la notification de l’institution ou de la subdivision ou, s’il est antérieur, le jour où elle reçoit l’avis de non-opposition au titre du paragraphe (3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Objection
+
+
+
+
+(3) Within 30 days after the day on which it is notified under paragraph (2)(a), the institution or part shall notify the organization of whether or not it objects to the organization’s intended action. The institution or part may object only if it is of the opinion that the action could reasonably be expected to be injurious to
+
+
+
+
+
+
+
+
+
+
+
+
+(a) national security, the defence of Canada or the conduct of international affairs;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the detection, prevention or deterrence of money laundering or the financing of terrorist activities; or
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the enforcement of any law of Canada, a province or a foreign jurisdiction, an investigation relating to the enforcement of any such law or the gathering of intelligence for the purpose of enforcing any such law.
+
+
+
+
+
+
+
+
+
+
+
+(3) Dans les trente jours suivant celui où elle reçoit la notification visée à l’alinéa (2)a), l’institution ou la subdivision avise l’organisation du fait qu’elle s’oppose ou non à la mesure envisagée. Elle ne peut s’y opposer que si elle est d’avis que la mesure risquerait vraisemblablement de nuire :
+
+
+
+
+Opposition
+
+
+
+
+
+
+a) à la sécurité nationale, à la défense du Canada ou à la conduite des affaires internationales;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) à la détection, à la prévention ou à la dissuasion du recyclage des produits de la criminalité ou du financement des activités terroristes;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) au contrôle d’application du droit canadien, provincial ou étranger, à une enquête liée à ce contrôle d’application ou à la collecte de renseignements en matière de sécurité en vue de ce contrôle d’application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+
+(4) If an organization is notified under subsection (3) that the institution or part objects to the organization’s intended action, the organization
+
+
+
+
+
+
+
+
+
+
+
+
+(a) shall not take the action;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) shall notify the Commissioner, in writing and without delay, of the objection; and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) shall not disclose to the individual
+
+
+
+
+
+
+
+
+
+
+
+
+(i) that the organization intended to take the action,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) that the organization notified a government institution or part under paragraph (2)(a) or the Commissioner under paragraph (b), or
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) that the institution or part objects.
+
+
+
+
+
+
+
+
+
+
+
+(4) Si elle est informée que l’institution ou la subdivision s’oppose à ce qu’elle prenne la mesure envisagée, l’organisation :
+
+
+
+
+Refus d’acquiescer à la mesure
+
+
+
+
+
+
+a) s’abstient de prendre la mesure;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) avise par écrit et sans délai le commissaire de l’opposition;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) ne communique à l’intéressé :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) ni le fait qu’elle a eu l’intention de prendre la mesure,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) ni le fait qu’il y a eu notification à l’institution gouvernementale ou à une subdivision en application de l’alinéa (2)a) ou que le commissaire en a été avisé en application de l’alinéa b),
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) ni le fait que l’institution ou la subdivision s’oppose à ce que l’organisation prenne la mesure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Subsection 8(8) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. Le paragraphe 8(8) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Conservation des renseignements
+
+
+
+
+(8) Malgré l’article 4.5 de l’annexe 1, l’organisation qui détient un renseignement faisant l’objet d’une demande doit le conserver le temps nécessaire pour permettre au demandeur d’épuiser tous les recours qu’il a en vertu de la présente partie.
+
+
+
+
+
+
+
+
+
+
+(8) Malgré l’article 4.5 de l’annexe 1, l’organisation qui détient un renseignement faisant l’objet d’une demande doit le conserver le temps nécessaire pour permettre au demandeur d’épuiser tous les recours qu’il a en vertu de la présente partie.
+
+
+
+Conservation des renseignements
+
+
+
+
+
+
+
+
+
+
+2000, c. 17, par. 97(1)(b)
+
+
+
+
+10. (1) Subparagraphs 9(2.1)(a)(i) and (ii) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. (1) Les sous-alinéas 9(2.1)a)(i) et (ii) de la même loi sont remplacés par ce qui suit :
+
+
+
+2000, ch. 17, al. 97(1)b)
+
+
+
+
+
+
+
+
+
+
+
+
+(i) any disclosure of information to a government institution or a part of a government institution under paragraph 7(3)(c), subparagraph 7(3)(c.1)(i), (ii) or (v) or paragraph 7(3)(c.2) or (d), or
+
+
+
+
+
+
+(ii) the existence of any information that the organization has relating to a disclosure referred to in subparagraph (i), to a subpoena, warrant or order referred to in paragraph 7(3)(c) or to a request made by a government institution or a part of a government institution under subparagraph 7(3)(c.1)(i), (ii) or (v); or
+
+
+
+
+
+
+
+
+
+(i) de toute communication faite à une institution gouvernementale ou à une subdivision d’une telle institution en vertu de l’alinéa 7(3)c), des sous-alinéas 7(3)c.1)(i), (ii) ou (v) ou des alinéas 7(3)c.2) ou d),
+
+
+
+
+
+
+(ii) de l’existence de renseignements détenus par l’organisation et relatifs soit à une telle communication, soit à une assignation, un mandat ou une ordonnance visés à l’alinéa 7(3)c), soit à une demande de communication faite par une institution gouvernementale ou une subdivision d’une telle institution en vertu des sous-alinéas 7(3)c.1)(i), (ii) ou (v);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subparagraphs 9(2.2)(b)(i) and (ii) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 9(2.2)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) 30 days after the day on which the institution or part was notified, and
+
+
+
+
+
+
+(ii) the day on which the organization is notified under subsection (2.3) that the institution or part does not object to it complying with the request.
+
+
+
+
+
+
+
+
+
+
+b) ne peut donner suite à la demande avant le trentième jour suivant la notification de l’institution ou de la subdivision ou, s’il est antérieur, le jour où elle reçoit l’avis de non-opposition au titre du paragraphe (2.3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Paragraph 9(2.3)(a.1) of the Act, as enacted by paragraph 97(1)(c) of chapter 17 of the Statutes of Canada, 2000, is repealed.
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 9(2.3)a.1) de la même loi, édicté par l’alinéa 97(1)c) du chapitre 17 des Lois du Canada (2000), est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Subparagraph 9(2.4)(c)(iii) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le sous-alinéa 9(2.4)c)(iii) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) ni le fait que l’institution ou la subdivision s’oppose à ce que l’organisation acquiesce à la demande.
+
+
+
+
+
+
+
+
+
+
+(iii) ni le fait que l’institution ou la subdivision s’oppose à ce que l’organisation acquiesce à la demande.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Paragraph 9(3)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) L’alinéa 9(3)a) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the information is protected by solicitor-client privilege or, in civil law, by the professional secrecy of lawyers and notaries;
+
+
+
+
+
+
+
+
+
+
+a) les renseignements sont protégés par le secret professionnel liant l’avocat ou le notaire à son client;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. The Act is amended by adding the following after section 10:
+
+
+
+
+
+
+
+
+
+
+11. La même loi est modifiée par adjonction, après l’article 10, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division 1.1
+
+
+
+
+
+
+
+
+
+
+
+Section 1.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breaches of Security Safeguards
+
+
+
+
+
+
+
+
+
+
+
+Atteintes aux mesures de sécurité
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report to Commissioner
+
+
+
+
+
+10.1 (1) An organization shall report to the Commissioner any material breach of security safeguards involving personal information under its control.
+
+
+
+
+
+
+
+
+
+
+
+
+10.1 (1) L’organisation est tenue de déclarer au commissaire toute atteinte importante aux mesures de sécurité qui a trait à des renseignements personnels dont elle a la gestion.
+
+
+
+
+Déclaration au commissaire
+
+
+
+
+
+
+
+
+
+
+Material breach of security safeguards — factors
+
+
+
+
+(2) The factors that are relevant to determining whether a breach of security safeguards is material include
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the sensitivity of the personal information;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the number of individuals whose personal information was involved; and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) an assessment by the organization that the cause of the breach or a pattern of breaches indicates a systemic problem.
+
+
+
+
+
+
+
+
+
+
+
+(2) Les éléments servant à constater si une atteinte aux mesures de sécurité est importante comprennent :
+
+
+
+
+Atteinte importante aux mesures de sécurité
+
+
+
+
+
+
+a) le degré de sensibilité des renseignements personnels en cause;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) le nombre d’individus dont les renseignements personnels ont été touchés par l’atteinte;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) l’évaluation faite par l’organisation selon laquelle la cause de l’atteinte ou la récurrence d’atteintes dénote un problème d’ordre systémique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report requirements
+
+
+
+
+(3) The report must contain the prescribed information and be made in the prescribed form and manner as soon as feasible after the organization determines that a material breach of its security safeguards has occurred.
+
+
+
+
+
+
+
+
+
+
+
+(3) La déclaration contient les renseignements prévus par règlement et est faite selon les modalités réglementaires, le plus tôt possible après que l’organisation a constaté qu’il y a eu atteinte importante à ses mesures de sécurité.
+
+
+
+
+Modalités de la déclaration
+
+
+
+
+
+
+
+
+
+
+Notification to individual
+
+
+
+
+
+10.2 (1) Unless otherwise prohibited by law, an organization shall notify an individual of any breach of security safeguards involving the individual’s personal information under the organization’s control if it is reasonable in the circumstances to believe that the breach creates a real risk of significant harm to the individual.
+
+
+
+
+
+
+
+
+
+
+
+
+10.2 (1) À moins qu’une règle de droit ne l’interdise, l’organisation est tenue d’aviser l’intéressé de toute atteinte aux mesures de sécurité qui a trait à des renseignements personnels le concernant et dont elle a la gestion, s’il est raisonnable de croire, dans les circonstances, que l’atteinte présente un risque réel de préjudice grave à son endroit.
+
+
+
+
+Avis à l’intéressé
+
+
+
+
+
+
+
+
+
+
+Definition of “significant harm”
+
+
+
+
+(2) For the purpose of subsection (1), “significant harm” includes bodily harm, humiliation, damage to reputation or relationships, loss of employment, business or professional opportunities, financial loss, identity theft, negative effects on the credit record and damage to or loss of property.
+
+
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), « préjudice grave » vise notamment la lésion corporelle, l’humiliation, le dommage à la réputation ou aux relations, la perte financière, le vol d’identité, l’effet négatif sur le dossier de crédit, le dommage aux biens ou leur perte, et la perte de possibilités d’emploi ou d’occasions d’affaires ou d’activités professionnelles.
+
+
+
+
+Définition de « préjudice grave »
+
+
+
+
+
+
+
+
+
+
+Real risk of significant harm — factors
+
+
+
+
+(3) The factors that are relevant to determining whether a breach of security safeguards creates a real risk of significant harm to the individual include the following:
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the sensitivity of the personal information involved in the breach; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the probability that the personal information has been, is being or will be misused.
+
+
+
+
+
+
+
+
+
+
+
+(3) Les éléments servant à établir si une atteinte aux mesures de sécurité présente un risque réel de préjudice grave à l’endroit de l’intéressé sont notamment le degré de sensibilité des renseignements personnels en cause et la probabilité que les renseignements aient été mal utilisés ou soient en train ou sur le point de l’être.
+
+
+
+
+Risque réel
+
+
+
+
+
+
+
+
+
+
+Contents of notification
+
+
+
+
+(4) The notification must contain sufficient information to allow the individual to understand the significance to them of the breach and to take steps, if any are possible, to reduce the risk of the harm that could result from it or to mitigate that harm, as well as any other prescribed information.
+
+
+
+
+
+
+
+
+
+
+
+(4) L’avis contient suffisamment d’information pour permettre à l’intéressé de comprendre l’importance, pour lui, de l’atteinte et de prendre, si cela est possible, des mesures pour réduire le risque de préjudice qui pourrait en résulter ou pour atténuer un tel préjudice. Il contient aussi tout autre renseignement réglementaire.
+
+
+
+
+Contenu de l’avis
+
+
+
+
+
+
+
+
+
+
+Time to give notification
+
+
+
+
+(5) The notification must be given as soon as feasible after the organization confirms that the breach has occurred and concludes that it is required to give the notification under subsection (1).
+
+
+
+
+
+
+
+
+
+
+
+(5) L’avis est donné le plus tôt possible après que l’organisation a confirmé qu’il y a eu atteinte et a conclu qu’elle est tenue de le donner en vertu du paragraphe (1).
+
+
+
+
+Délai de l’avis
+
+
+
+
+
+
+
+
+
+
+Form and manner
+
+
+
+
+(6) The notification must be conspicuous and given directly to the individual in the prescribed form and manner, except in the prescribed circumstances where it is not feasible to do so, in which case it must be given indirectly in the prescribed form and manner.
+
+
+
+
+
+
+
+
+
+
+
+(6) L’avis est manifeste et est donné à l’intéressé directement, selon les modalités réglementaires. Dans les circonstances, prévues par règlement, où cela n’est pas possible, il est donné indirectement, selon les modalités réglementaires.
+
+
+
+
+Modalités de l’avis
+
+
+
+
+
+
+
+
+
+
+Notification to organizations
+
+
+
+
+
+10.3 (1) An organization that notifies an individual of a breach of security safeguards under section 10.2 shall notify another organization, a government institution or a part of a government institution of the breach if that organization, government institution or part may be able to reduce the risk of the harm that could result from it or mitigate that harm, or if any of the prescribed conditions are satisfied.
+
+
+
+
+
+
+
+
+
+
+
+
+10.3 (1) L’organisation qui, en application de l’article 10.2, avise un individu d’une atteinte aux mesures de sécurité est tenue d’en aviser toute autre organisation, ou toute institution gouvernementale ou subdivision d’une telle institution, si celle-ci peut être en mesure de réduire le risque de préjudice pouvant résulter de l’atteinte ou d’atténuer ce préjudice, ou s’il est satisfait à des conditions précisées par règlement.
+
+
+
+
+Avis à une organisation
+
+
+
+
+
+
+
+
+
+
+Time to give notification
+
+
+
+
+(2) The notification required by subsection (1) must be given as soon as feasible after the organization confirms that the breach has occurred and concludes that it is required to give the notification under subsection 10.2(1).
+
+
+
+
+
+
+
+
+
+
+
+(2) Elle le fait le plus tôt possible après que l’organisation a confirmé qu’il y a eu atteinte et a conclu qu’elle est tenue de donner un avis en vertu du paragraphe 10.2(1).
+
+
+
+
+Modalités de l’avis
+
+
+
+
+
+
+
+
+
+
+Disclosure of personal information
+
+
+
+
+(3) In addition to the circumstances set out in subsection 7(3), for the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may disclose personal information without the knowledge or consent of the individual if
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the disclosure is made to the other organization, the government institution or the part of a government institution that was notified of the breach under subsection (1); and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the disclosure is made solely for the purposes of reducing the risk of the harm to the individual that could result from the breach or mitigating that harm.
+
+
+
+
+
+
+
+
+
+
+
+(3) En plus des cas visés au paragraphe 7(3), pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation peut communiquer des renseignements personnels à l’insu de l’intéressé ou sans son consentement si :
+
+
+
+
+Communication de renseignements personnels
+
+
+
+
+
+
+a) d’une part, la communication est faite à toute autre organisation, ou à toute institution gouvernementale ou subdivision d’une telle institution qui a été avisée de l’atteinte en application du paragraphe (1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, elle n’est faite que pour réduire le risque de préjudice pour l’intéressé qui pourrait résulter de l’atteinte ou atténuer ce préjudice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure without consent
+
+
+
+
+(4) Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in the circumstance set out in subsection (3).
+
+
+
+
+
+
+
+
+
+
+
+(4) Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans le cas visé au paragraphe (3), communiquer un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
+
+
+
+
+Communication sans le consentement de l’intéressé
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Subsection 11(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. Le paragraphe 11(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Contravention
+
+
+
+
+11. (1) An individual may file with the Commissioner a written complaint against an organization for contravening a provision of Division 1 or 1.1 or for not following a recommendation set out in Schedule 1.
+
+
+
+
+
+
+
+
+
+
+11. (1) Tout intéressé peut déposer auprès du commissaire une plainte contre une organisation qui contrevient à l’une des dispositions des sections 1 ou 1.1, ou qui omet de mettre en oeuvre une recommandation énoncée dans l’annexe 1.
+
+
+
+Violation
+
+
+
+
+
+
+
+
+
+
+2010, c. 23, s. 85
+
+
+
+
+13. Subsection 14(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 14(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2010, ch. 23, art. 85
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+
+14. (1) A complainant may, after receiving the Commissioner’s report or being notified under subsection 12.2(3) that the investigation of the complaint has been discontinued, apply to the Court for a hearing in respect of any matter in respect of which the complaint was made, or that is referred to in the Commissioner’s report, and that is referred to in clause 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 or 4.8 of Schedule 1, in clause 4.3, 4.5 or 4.9 of that Schedule as modified or clarified by Division 1 or 1.1, in subsection 5(3) or 8(6) or (7) or in section 10 or 10.2.
+
+
+
+
+
+
+
+
+
+
+14. (1) Après avoir reçu le rapport du commissaire ou l’avis l’informant de la fin de l’examen de la plainte au titre du paragraphe 12.2(3), le plaignant peut demander que la Cour entende toute question qui a fait l’objet de la plainte — ou qui est mentionnée dans le rapport — et qui est visée aux articles 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 ou 4.8 de l’annexe 1, aux articles 4.3, 4.5 ou 4.9 de cette annexe tels qu’ils sont modifiés ou clarifiés par les sections 1 ou 1.1, aux paragraphes 5(3) ou 8(6) ou (7) ou aux articles 10 ou 10.2.
+
+
+
+Demande
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. Paragraph 16(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. L’alinéa 16a) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) order an organization to correct its practices in order to comply with sections 5 to 10 and 10.2 and subsections 10.3(3) and (4);
+
+
+
+
+
+
+
+
+
+
+a) ordonner à l’organisation de revoir ses pratiques de façon à se conformer aux articles 5 à 10 et 10.2 et aux paragraphes 10.3(3) et (4);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. (1) The portion of subsection 22(2) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. (1) Le passage du paragraphe 22(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Defamation
+
+
+
+
+(2) No action lies in defamation with respect to
+
+
+
+
+
+
+
+
+
+
+(2) Ne peuvent donner lieu à poursuites pour diffamation :
+
+
+
+Diffamation
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraphs 22(2)(a) and (b) of the English version of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les alinéas 22(2)a) et b) de la version anglaise de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) anything said, any information supplied or any record or thing produced in good faith in the course of an investigation or audit carried out by or on behalf of the Commissioner under this Part; and
+
+
+
+
+
+
+(b) any report made in good faith by the Commissioner under this Part and any fair and accurate account of the report made in good faith for the purpose of news reporting.
+
+
+
+
+
+
+
+
+
+
+(a) anything said, any information supplied or any record or thing produced in good faith in the course of an investigation or audit carried out by or on behalf of the Commissioner under this Part; and
+
+
+
+
+
+
+
+
+(b) any report made in good faith by the Commissioner under this Part and any fair and accurate account of the report made in good faith for the purpose of news reporting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. Paragraph 24(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+16. L’alinéa 24c) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) encourage organizations to develop detailed policies and practices, including organ­izational codes of practice, to comply with Divisions 1 and 1.1; and
+
+
+
+
+
+
+
+
+
+
+c) encourage les organisations à élaborer des politiques détaillées — notamment des codes de pratiques — en vue de se conformer aux sections 1 et 1.1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17. Subsection 25(2) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. Le paragraphe 25(2) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Consultation
+
+
+
+(2) Before preparing the report, the Commissioner shall consult with those persons in the provinces who, in the Commissioner’s opinion, are in a position to assist the Commissioner in making a report respecting personal information that is collected, used or disclosed interprovincially or internationally.
+
+
+
+
+
+
+
+
+
+
+(2) Before preparing the report, the Commissioner shall consult with those persons in the provinces who, in the Commissioner’s opinion, are in a position to assist the Commissioner in making a report respecting personal information that is collected, used or disclosed interprovincially or internationally.
+
+
+
+
+Consultation
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. (1) Paragraph 26(1)(a.01) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+18. (1) L’alinéa 26(1)a.01) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 26(1) of the Act is amended by striking out “and” at the end of paragraph (a.1) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 26(1) de la même loi est modifié par adjonction, après l’alinéa a.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a.2) prescribing the form and manner in which the report referred to in section 10.1 must be made and the information that it must contain;
+
+
+
+
+
+
+
+
+(a.3) prescribing the form and manner in which the notification referred to in section 10.2 must be given directly or indirectly and the information that it must contain;
+
+
+
+
+
+
+
+
+(a.4) prescribing the circumstances referred to in subsection 10.2(6);
+
+
+
+
+
+
+
+
+(a.5) prescribing conditions for the purpose of subsection 10.3(1); and
+
+
+
+
+
+
+
+
+
+
+
+
+a.2) préciser les modalités de la déclaration visée à l’article 10.1 et les renseignements devant y figurer;
+
+
+
+
+
+
+
+
+
+a.3) préciser les modalités de l’avis visé à l’article 10.2, selon qu’il est donné directement ou indirectement, et les renseignements devant y figurer;
+
+
+
+
+
+
+
+
+
+a.4) préciser les circonstances visées au paragraphe 10.2(6);
+
+
+
+
+
+
+
+
+
+a.5) préciser les conditions pour l’application du paragraphe 10.3(1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 26 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(3) L’article 26 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Incorporation by reference
+
+
+
+
+(1.1) Regulations made under subsection (1) may incorporate by reference any standards or specifications produced by a government or organization, either as they exist on a particular date or as amended from time to time.
+
+
+
+
+
+
+
+
+
+
+
+(1.1) Les règlements pris en vertu du paragraphe (1) peuvent incorporer par renvoi toute norme ou spécification produite par un gouvernement ou une organisation, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+
+
+
+Incorporation par renvoi
+
+
+
+
+
+
+
+
+
+
+
+
+
+19. Subsection 27(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+19. Le paragraphe 27(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Whistleblowing
+
+
+
+
+27. (1) Any person who has reasonable grounds to believe that a person has contravened or intends to contravene a provision of Division 1 or 1.1 may notify the Commissioner of the particulars of the matter and may request that their identity be kept confidential with respect to the notification.
+
+
+
+
+
+
+
+
+
+
+27. (1) Toute personne qui a des motifs raisonnables de croire qu’une autre personne a contrevenu à l’une des dispositions des sections 1 ou 1.1, ou a l’intention d’y contrevenir, peut notifier au commissaire des détails sur la question et exiger l’anonymat relativement à cette dénonciation.
+
+
+
+Dénonciation
+
+
+
+
+
+
+
+
+
+
+
+
+
+20. Paragraphs 27.1(1)(a) to (c) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+20. Les alinéas 27.1(1)a) à c) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the employee, acting in good faith and on the basis of reasonable belief, has disclosed to the Commissioner that the employer or any other person has contravened or intends to contravene a provision of Division 1 or 1.1;
+
+
+
+
+
+
+(b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is a contravention of a provision of Division 1 or 1.1;
+
+
+
+
+
+
+(c) the employee, acting in good faith and on the basis of reasonable belief, has done or stated an intention of doing anything that is required to be done in order that a provision of Division 1 or 1.1 not be contravened; or
+
+
+
+
+
+
+
+
+
+
+a) l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a informé le commissaire que l’employeur ou une autre personne a contrevenu à l’une des dispositions des sections 1 ou 1.1, ou a l’intention d’y contrevenir;
+
+
+
+
+
+
+
+b) l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a refusé ou a fait part de son intention de refuser d’accomplir un acte qui constitue une contravention à l’une des dispositions des sections 1 ou 1.1;
+
+
+
+
+
+
+
+c) l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a accompli ou a fait part de son intention d’accomplir un acte nécessaire pour empêcher la contravention à l’une des dispositions des sections 1 ou 1.1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+21. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+21. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Personal Information Protection and Electronic Documents Act
+
+Clause 2: (1) Existing text of the definition:
+“personal information” means information about an identifiable individual, but does not include the name, title or business address or telephone number of an employee of an organization.
+
+
+
+Loi sur la protection des renseignements personnels et les documents électroniques
+
+Article 2 : (1) Texte de la définition :
+« renseignement personnel » Tout renseignement concernant un individu identifiable, à l’exclusion du nom et du titre d’un employé d’une organisation et des adresse et numéro de téléphone de son lieu de travail.
+
+
+
+
+(2) Relevant portion of the definition:
+“federal work, undertaking or business” means any work, undertaking or business that is within the legislative authority of Parliament. It includes
+... 
+(g) a bank;
+
+
+
+(2) Texte du passage visé de la définition :
+« entreprises fédérales » Les installations, ouvrages, entreprises ou secteurs d’activité qui relèvent de la compétence législative du Parlement. Sont compris parmi les entreprises fédérales :
+[...]  
+
+g) les banques;
+
+
+
+
+(3) New.
+
+
+
+(3) Nouveau.
+
+
+
+
+
+Clause 3: Relevant portion of subsection 4(1):
+
+4. (1) This Part applies to every organization in respect of personal information that
+...  
+(b) is about an employee of the organization and that the organization collects, uses or discloses in connection with the operation of a federal work, undertaking or business.
+
+
+
+
+Article 3 : Texte du passage visé du paragraphe 4(1) :
+
+4. (1) La présente partie s’applique à toute organisation à l’égard des renseignements personnels :
+[ ... ]  
+
+b) soit qui concernent un de ses employés et qu’elle recueille, utilise ou communique dans le cadre d’une entreprise fédérale.
+
+
+
+
+
+Clause 4: New.
+
+
+
+
+Article 4 : Nouveau.
+
+
+
+
+
+Clause 5: New.
+
+
+
+
+Article 5 : Nouveau.
+
+
+
+
+
+Clause 6: (1) and (2) Relevant portion of subsection 7(1):
+
+7. (1) For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may collect personal information without the knowledge or consent of the individual only if
+
+
+
+
+Article 6 : (1) et (2) Texte du passage visé du paragraphe 7(1) :
+
+7. (1) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut recueillir de renseignement personnel à l’insu de l’intéressé et sans son consentement que dans les cas suivants :
+
+
+
+
+(3) and (4) Relevant portion of subsection 7(2):
+(2) For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may, without the knowledge or consent of the individual, use personal information only if
+
+
+
+(3) et (4) Texte du passage visé du paragraphe 7(2) :
+(2) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut utiliser de renseignement personnel à l’insu de l’intéressé et sans son consentement que dans les cas suivants :
+
+
+
+
+(5) to (11) Relevant portion of subsection 7(3):
+(3) For the purpose of clause 4.3 of Schedule 1, and despite the note that accompanies that clause, an organization may disclose personal information without the knowledge or consent of the individual only if the disclosure is
+...  
+(c.1) made to a government institution or part of a government institution that has made a request for the information, identified its lawful authority to obtain the information and indicated that
+...  
+(c.2) made to the government institution mentioned in section 7 of the Proceeds of Crime (Money Laundering) Act as required by that section;
+(d) made on the initiative of the organization to an investigative body, a government institution or a part of a government institution and the organization
+(i) has reasonable grounds to believe that the information relates to a breach of an agreement or a contravention of the laws of Canada, a province or a foreign jurisdiction that has been, is being or is about to be committed, or
+...  
+(h.2) made by an investigative body and the disclosure is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province; or
+
+
+
+(5) à (11) Texte du passage visé du paragraphe 7(3) :
+(3) Pour l’application de l’article 4.3 de l’annexe 1 et malgré la note afférente, l’organisation ne peut communiquer de renseignement personnel à l’insu de l’intéressé et sans son consentement que dans les cas suivants :
+[...]  
+
+c.1) elle est faite à une institution gouvernementale — ou à une subdivision d’une telle institution — qui a demandé à obtenir le renseignement en mentionnant la source de l’autorité légitime étayant son droit de l’obtenir et le fait, selon le cas :
+[...]  
+
+c.2) elle est faite au titre de l’article 7 de la Loi sur le recyclage des produits de la criminalité à l’institution gouvernementale mentionnée à cet article;
+
+d) elle est faite, à l’initiative de l’organisation, à un organisme d’enquête, une institution gouvernementale ou une subdivision d’une telle institution et l’organisation, selon le cas, a des motifs raisonnables de croire que le renseignement est afférent à la violation d’un accord ou à une contravention au droit fédéral, provincial ou étranger qui a été commise ou est en train ou sur le point de l’être ou soupçonne que le renseignement est afférent à la sécurité nationale, à la défense du Canada ou à la conduite des affaires internationales;
+[...]  
+
+h.2) elle est faite par un organisme d’enquête et est raisonnable à des fins liées à une enquête sur la violation d’un accord ou la contravention du droit fédéral ou provincial;
+
+
+
+
+(12) New.
+
+
+
+(12) Nouveau.
+
+
+
+
+(13) Existing text of subsection 7(5):
+(5) Despite clause 4.5 of Schedule 1, an organization may disclose personal information for purposes other than those for which it was collected in any of the circumstances set out in paragraphs (3)(a) to (h.2).
+
+
+
+(13) Texte du paragraphe 7(5) :
+(5) Malgré l’article 4.5 de l’annexe 1, l’organisation peut, dans les cas visés aux alinéas (3)a) à h.2), communiquer un renseignement personnel à des fins autres que celles auxquelles il a été recueilli.
+
+
+
+
+
+Clause 7: New.
+
+
+
+
+Article 7 : Nouveau.
+
+
+
+
+
+Clause 8: New.
+
+
+
+
+Article 8 : Nouveau.
+
+
+
+
+
+Clause 9: Existing text of subsection 8(8):
+(8) Despite clause 4.5 of Schedule 1, an organization that has personal information that is the subject of a request shall retain the information for as long as is necessary to allow the individual to exhaust any recourse under this Part that they may have.
+
+
+
+
+Article 9 : Texte du paragraphe 8(8) :
+(8) Malgré l’article 4.5 de l’annexe 1, l’organisation qui détient un renseignement faisant l’objet d’une demande doit le conserver le temps nécessaire pour permettre au demandeur d’épuiser ses recours.
+
+
+
+
+
+Clause 10: (1) Relevant portion of subsection 9(2.1):
+(2.1) An organization shall comply with subsection (2.2) if an individual requests that the organization
+(a) inform the individual about
+(i) any disclosure of information to a government institution or a part of a government institution under paragraph 7(3)(c), subparagraph 7(3)(c.1)(i) or (ii) or paragraph 7(3)(c.2) or (d), or
+(ii) the existence of any information that the organization has relating to a disclosure referred to in subparagraph (i), to a subpoena, warrant or order referred to in paragraph 7(3)(c) or to a request made by a government institution or a part of a government institution under subparagraph 7(3)(c.1)(i) or (ii); or
+
+
+
+
+Article 10 : (1) Texte du passage visé du paragraphe 9(2.1) :
+(2.1) L’organisation est tenue de se conformer au paragraphe (2.2) si l’intéressé lui demande :
+
+a) de l’aviser, selon le cas :
+(i) de toute communication faite à une institution gouvernementale ou à une subdivision d’une telle institution en vertu de l’alinéa 7(3)c), des sous-alinéas 7(3)c.1)(i) ou (ii) ou des alinéas 7(3)c.2) ou d),
+(ii) de l’existence de renseignements détenus par l’organisation et relatifs soit à toute telle communication, soit à une assignation, un mandat ou une ordonnance visés à l’alinéa 7(3)c), soit à une demande de communication faite par une institution gouvernementale ou une subdivision d’une telle institution en vertu de ces sous-alinéas;
+
+
+
+
+(2) Relevant portion of subsection 9(2.2):
+(2.2) An organization to which subsection (2.1) applies
+...  
+(b) shall not respond to the request before the earlier of
+(i) the day on which it is notified under subsection (2.3), and
+(ii) thirty days after the day on which the institution or part was notified.
+
+
+
+(2) Texte du passage visé du paragraphe 9(2.2) :
+(2.2) Le cas échéant, l’organisation :
+[...] 
+
+b) ne peut donner suite à la demande avant le jour où elle reçoit l’avis prévu au paragraphe (2.3) ou, s’il est antérieur, le trentième jour suivant celui où l’institution ou la subdivision reçoit notification.
+
+
+
+
+(3) Relevant portion of subsection 9(2.3):
+(2.3) Within thirty days after the day on which it is notified under subsection (2.2), the institution or part shall notify the organization whether or not the institution or part objects to the organization complying with the request. The institution or part may object only if the institution or part is of the opinion that compliance with the request could reasonably be expected to be injurious to
+... 
+(a.1) the detection, prevention or deterrence of money laundering; or
+
+
+
+(3) Texte du passage visé du paragraphe 9(2.3) :
+(2.3) Dans les trente jours suivant celui où la demande lui est notifiée, l’institution ou la subdivision avise l’organisation du fait qu’elle s’oppose ou non à ce que celle-ci acquiesce à la demande. Elle ne peut s’y opposer que si elle est d’avis que faire droit à la demande risquerait vraisemblablement de nuire :
+[...]  
+
+a.1) à la détection, à la prévention ou à la dissuasion du recyclage des produits de la criminalité;
+
+
+
+
+(4) Relevant portion of subsection 9(2.4):
+(2.4) Despite clause 4.9 of Schedule 1, if an organization is notified under subsection (2.3) that the institution or part objects to the organization complying with the request, the organization
+...  
+(c) shall not disclose to the individual
+...  
+(iii) that the institution or part objects.
+
+
+
+(4) Texte du passage visé du paragraphe 9(2.4) :
+(2.4) Malgré l’article 4.9 de l’annexe 1, si elle est informée que l’institution ou la subdivision s’oppose à ce qu’elle acquiesce à la demande, l’organisation :
+[...] 
+
+c) ne communique à l’intéressé :
+[...] 
+(iii) ni le fait que l’institution ou la subdivision s’oppose à ce que l’organisme acquiesce à la demande.
+
+
+
+
+(5) Relevant portion of subsection 9(3):
+(3) Despite the note that accompanies clause 4.9 of Schedule 1, an organization is not required to give access to personal information only if
+(a) the information is protected by solicitor-client privilege;
+
+
+
+(5) Texte du passage visé du paragraphe 9(3) :
+(3) Malgré la note afférente à l’article 4.9 de l’annexe 1, l’organisation n’est pas tenue de communiquer à l’intéressé des renseignements personnels dans les cas suivants seulement :
+
+a) les renseignements sont protégés par le secret professionnel liant l’avocat à son client;
+
+
+
+
+
+Clause 11: New.
+
+
+
+
+Article 11 : Nouveau.
+
+
+
+
+
+Clause 12: Existing text of subsection 11(1):
+
+11. (1) An individual may file with the Commissioner a written complaint against an organization for contravening a provision of Division 1 or for not following a recommendation set out in Schedule 1.
+
+
+
+
+Article 12 : Texte du paragraphe 11(1) :
+
+11. (1) Tout intéressé peut déposer auprès du commissaire une plainte contre une organisation qui contrevient à l’une des dispositions de la section 1 ou qui omet de mettre en oeuvre une recommandation énoncée dans l’annexe 1.
+
+
+
+
+
+Clause 13: Existing text of subsection 14(1):
+
+14. (1) A complainant may, after receiving the Commissioner’s report or being notified under subsection 12.2(3) that the investigation of the complaint has been discontinued, apply to the Court for a hearing in respect of any matter in respect of which the complaint was made, or that is referred to in the Commissioner’s report, and that is referred to in clause 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 or 4.8 of Schedule 1, in clause 4.3, 4.5 or 4.9 of that Schedule as modified or clarified by Division 1, in subsection 5(3) or 8(6) or (7) or in section 10.
+
+
+
+
+Article 13 : Texte du paragraphe 14(1) :
+
+14. (1) Après avoir reçu le rapport du commissaire ou l’avis l’informant de la fin de l’examen de la plainte au titre du paragraphe 12.2(3), le plaignant peut demander que la Cour entende toute question qui a fait l’objet de la plainte — ou qui est mentionnée dans le rapport — et qui est visée aux articles 4.1.3, 4.2, 4.3.3, 4.4, 4.6, 4.7 ou 4.8 de l’annexe 1, aux articles 4.3, 4.5 ou 4.9 de cette annexe tels qu’ils sont modifiés ou clarifiés par la section 1, aux paragraphes 5(3) ou 8(6) ou (7) ou à l’article 10.
+
+
+
+
+
+Clause 14: Relevant portion of section 16:
+
+16. The Court may, in addition to any other remedies it may give,
+(a) order an organization to correct its practices in order to comply with sections 5 to 10;
+
+
+
+
+Article 14 : Texte du passage visé de l’article 16 :
+
+16. La Cour peut, en sus de toute autre réparation qu’elle accorde :
+
+a) ordonner à l’organisation de revoir ses pratiques de façon à se conformer aux articles 5 à 10;
+
+
+
+
+
+Clause 15: (1) and (2) Existing text of subsection 22(2):
+(2) For the purposes of any law relating to libel or slander,
+(a) anything said, any information supplied or any record or thing produced in good faith in the course of an investigation or audit carried out by or on behalf of the Commissioner under this Part is privileged; and
+(b) any report made in good faith by the Commissioner under this Part and any fair and accurate account of the report made in good faith for the purpose of news reporting is privileged.
+
+
+
+
+Article 15 : (1) et (2) Texte du paragraphe 22(2) :
+(2) Ne peuvent donner lieu à poursuites pour diffamation verbale ou écrite :
+
+a) les paroles prononcées, les renseignements fournis ou les documents ou pièces produits de bonne foi au cours d’une vérification ou de l’examen d’une plainte effectué par le commissaire ou en son nom dans le cadre de la présente partie;
+
+b) les rapports établis de bonne foi par le commissaire dans le cadre de la présente partie, ainsi que les relations qui en sont faites de bonne foi pour des comptes rendus d’événements d’actualités.
+
+
+
+
+
+Clause 16: Relevant portion of section 24:
+
+24. The Commissioner shall
+...  
+(c) encourage organizations to develop detailed policies and practices, including organizational codes of practice, to comply with sections 5 to 10; and
+
+
+
+
+Article 16 : Texte du passage visé de l’article 24 :
+
+24. Le commissaire :
+[...]  
+
+c) encourage les organisations à élaborer des politiques détaillées — notamment des codes de pratiques — en vue de se conformer aux articles 5 à 10;
+
+
+
+
+
+Clause 17: Existing text of subsection 25(2):
+(2) Before preparing the report, the Commissioner shall consult with those persons in the provinces who, in the Commissioner’s opinion, are in a position to assist the Commissioner in reporting respecting personal information that is collected, used or disclosed interprovincially or internationally.
+
+
+
+
+Article 17 : Texte du paragraphe 25(2) :
+(2) Avant de rédiger son rapport, le commissaire consulte les personnes dans les provinces qui, à son avis, sont en mesure de l’aider à faire un rapport concernant les renseignements personnels recueillis, utilisés ou communiqués d’une province à l’autre ou d’un pays à l’autre.
+
+
+
+
+
+Clause 18: (1) and (2) Relevant portion of subsection 26(1):
+
+26. (1) The Governor in Council may make regulations
+... 
+(a.01) specifying, by name or by class, what is an investigative body for the purposes of paragraph 7(3)(d) or (h.2);
+
+
+
+
+Article 18 : (1) et (2) Texte du passage visé du paragraphe 26(1) :
+
+26. (1) Le gouverneur en conseil peut, par règlement :
+[...]  
+
+a.01) préciser, pour l’application des alinéas 7(3)d) ou h.2), les organismes d’enquête, à titre particulier ou par catégorie;
+
+
+
+
+(3) New.
+
+
+
+(3) Nouveau.
+
+
+
+
+
+Clause 19: Existing text of subsection 27(1):
+
+27. (1) Any person who has reasonable grounds to believe that a person has contravened or intends to contravene a provision of Division 1, may notify the Commissioner of the particulars of the matter and may request that their identity be kept confidential with respect to the notification.
+
+
+
+
+Article 19 : Texte du paragraphe 27(1) :
+
+27. (1) Toute personne qui a des motifs raisonnables de croire qu’une autre personne a contrevenu à l’une des dispositions de la section 1, ou a l’intention d’y contrevenir, peut notifier au commissaire des détails sur la question et exiger l’anonymat relativement à cette dénonciation.
+
+
+
+
+
+Clause 20: Relevant portion of subsection 27.1(1):
+
+27.1 (1) No employer shall dismiss, suspend, demote, discipline, harass or otherwise disadvantage an employee, or deny an employee a benefit of employment, by reason that
+(a) the employee, acting in good faith and on the basis of reasonable belief, has disclosed to the Commissioner that the employer or any other person has contravened or intends to contravene a provision of Division 1;
+(b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention of refusing to do anything that is a contravention of a provision of Division 1;
+(c) the employee, acting in good faith and on the basis of reasonable belief, has done or stated an intention of doing anything that is required to be done in order that a provision of Division 1 not be contravened; or
+
+
+
+
+Article 20 : Texte du passage visé du paragraphe 27.1(1) :
+
+27.1 (1) Il est interdit à l’employeur de congédier un employé, de le suspendre, de le rétrograder, de le punir, de le harceler ou de lui faire subir tout autre inconvénient, ou de le priver d’un avantage lié à son emploi parce que :
+
+a) l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a informé le commissaire que l’employeur ou une autre personne a contrevenu à l’une des dispositions de la section 1, ou a l’intention d’y contrevenir;
+
+b) l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a refusé ou a fait part de son intention de refuser d’accomplir un acte qui constitue une contravention à l’une des dispositions de la section 1;
+
+c) l’employé, agissant de bonne foi et se fondant sur des motifs raisonnables, a accompli ou a fait part de son intention d’accomplir un acte nécessaire pour empêcher la contravention à l’une des dispositions de la section 1;
+
+
+
+
+
+

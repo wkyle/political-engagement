@@ -1,0 +1,4919 @@
+
+
+
+
+
+C-69
+
+
+
+
+
+C-69
+
+
+
+
+
+
+First Session, Thirty-eighth Parliament,
+
+
+
+
+
+Première session, trente-huitième législature,
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-69
+
+
+
+
+
+PROJET DE LOI C-69
+
+
+
+
+
+
+An Act to amend the Agricultural Marketing Programs Act
+
+
+
+
+
+Loi modifiant la Loi sur les programmes de commercialisation agricole
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, October 27, 2005
+
+première lecture le 27 octobre 2005
+
+
+
+
+
+
+
+
+
+
+
+
+THE MINISTER OF AGRICULTURE AND AGRI-FOOD
+
+90296
+
+
+
+LE MINISTRE DE L’AGRICULTURE ET DE L’AGROALIMENTAIRE
+
+
+
+
+
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the Agricultural Marketing Programs Act”.
+SUMMARY
+This enactment extends Part I of the Agricultural Marketing Programs Act to a wider range of agricultural products and makes benefits under that Part more accessible to producers throughout the production cycle of agricultural products.
+
+
+
+RECOMMANDATION
+Son Excellence la gouverneure générale recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi sur les programmes de commercialisation agricole ».
+SOMMAIRE
+Le texte étend l’application de la partie I de la Loi sur les programmes de commercialisation agricole à un éventail plus large de produits agricoles et il rend le programme de paiement anticipé accessible aux producteurs tout au long du cycle de production des produits agricoles.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 38th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 38e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-69
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-69
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Agricultural Marketing Programs Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les programmes de commercialisation agricole
+
+
+
+
+
+
+
+
+
+
+
+
+1997, c. 20
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+1997, ch. 20
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) The definitions “crop” and “crop unit” in subsection 2(1) of the Agricultural Marketing Programs Act are repealed.
+
+
+
+
+
+
+
+
+
+1. (1) Les définitions de « récolte » et « unité de récolte », au paragraphe 2(1) de la Loi sur les programmes de commercialisation agricole, sont abrogées.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definition “crop year” in subsection 2(1) of the English version of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) La définition de « crop year », au paragraphe 2(1) de la version anglaise de la même loi, est abrogée.
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 27, s. 203
+
+
+
+(3) The definitions “administrator”, “advance” and “producer” in subsection 2(1) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Les définitions de « agent d’exécution », « avance » et « producteur », au paragraphe 2(1) de la même loi, sont respectivement remplacées par ce qui suit :
+
+
+
+2001, ch. 27, art. 203
+
+
+
+
+
+
+
+
+
+
+“administrator”« agent d’exécution »
+
+
+
+“administrator” means the Board or, if it has the power to sue and be sued in its own name, 
+
+
+
+
+
+
+
+
+(a) an organization of producers that is involved in marketing an agricultural product to which Part I applies;
+
+
+
+
+
+
+
+
+(b) an organization, other than a lender, that the Minister, taking into account any criteria prescribed by regulation, determines to be an organization that represents producers who produce, in an area, a significant portion of an agricultural product for which advances will be made; or
+
+
+
+
+
+
+
+
+(c) an organization, including a lender, that the Minister determines to be an organization that would be able to make advances more accessible to producers and that the Minister designates as an administrator.
+
+
+
+
+“advance”« avance »
+
+
+
+“advance” means an advance payment to an eligible producer for an agricultural product.
+
+
+
+
+“producer”« producteur »
+
+
+
+“producer” means a producer of an agricultural product who is
+
+
+
+
+
+
+
+
+(a) a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act;
+
+
+
+
+
+
+
+
+(b) a corporation a majority of whose voting shares are held by Canadian citizens or permanent residents;
+
+
+
+
+
+
+
+
+(c) a cooperative a majority of whose members are Canadian citizens or permanent residents; or
+
+
+
+
+
+
+
+
+(d) a partnership or other association of persons where partners or members who are Canadian citizens or permanent residents are entitled to at least 50% of the profits of the partnership or association.
+
+
+
+
+
+
+
+
+For the purposes of Parts I and IV, “producer” includes a person or entity mentioned in any of paragraphs (a) to (d) that is entitled to an agricultural product or a share in it as lessor, vendor, mortgagee or hypothecary creditor on a date specified for the purposes of this definition in an advance guarantee agreement.
+
+
+
+
+
+
+
+
+
+« agent d’exécution » La Commission ou, s’ils ont la capacité d’ester en justice :
+
+
+
+« agent d’exécution »“administrator”
+
+
+
+
+a) toute association de producteurs qui participe à la commercialisation d’un produit agricole assujetti à la partie I;
+
+
+
+
+
+
+
+
+b) tout organisme — autre qu’un prêteur — dont le ministre conclut, compte tenu de tout critère réglementaire, qu’il représente, dans une région, des producteurs y produisant une proportion importante d’un produit agricole pour lequel les avances seront octroyées;
+
+
+
+
+
+
+
+
+c) tout organisme — notamment un prêteur — que le ministre désigne à ce titre et dont celui-ci conclut qu’il pourrait accroître l’accès des producteurs à des avances.
+
+
+
+
+
+
+
+
+« avance » Paiement versé par anticipation à un producteur admissible pour son produit agricole.
+
+
+
+« avance »“advance”
+
+
+
+
+« producteur » Le producteur d’un produit agricole qui est, selon le cas :
+
+
+
+« producteur »“producer”
+
+
+
+
+a) un citoyen canadien ou un résident permanent — au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés;
+
+
+
+
+
+
+
+
+b) une personne morale dont la majorité des actions avec droit de vote sont détenues par des citoyens canadiens ou des résidents permanents;
+
+
+
+
+
+
+
+
+c) une coopérative dont la majorité des membres sont des citoyens canadiens ou des résidents permanents;
+
+
+
+
+
+
+
+
+d) une société de personnes ou autre association de personnes dont les associés ou membres qui sont des citoyens canadiens ou des résidents permanents ont droit à au moins la moitié des profits.
+
+
+
+
+
+
+
+
+Pour l’application des parties I et IV, est assimilée au producteur toute personne ou entité mentionnée aux alinéas a) à d) qui a droit, à la date prévue pour l’application de la présente définition dans l’accord de garantie d’avance, à titre de locateur, de vendeur ou de créancier hypothécaire, à tout ou partie du produit agricole.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) The definition “agricultural product” in subsection 2(1) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) La définition de « agricultural prod­uct », au paragraphe 2(1) de la version anglaise de la même loi, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“agricultural product”« produit agricole »
+
+
+
+“agricultural product” means an animal or a plant or a product, including any food or drink, that is wholly or partly derived from an animal or a plant.
+
+
+
+
+
+
+
+
+
+“agricultural product” means an animal or a plant or a product, including any food or drink, that is wholly or partly derived from an animal or a plant.
+
+
+
+“agricultural product”« produit agricole »
+
+
+
+
+
+
+
+
+
+
+
+
+(5) The definition “campagne agricole” in subsection 2(1) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) La définition de « campagne agricole », au paragraphe 2(1) de la version française de la même loi, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+« campagne agricole »“production period”
+
+
+
+« campagne agricole » En ce qui concerne tel produit agricole, toute période d’au plus dix-huit mois — ou le nombre de mois supérieur fixé par le ministre — prévue par l’accord de garantie d’avance relativement à ce produit.
+
+
+
+
+
+
+
+
+
+« campagne agricole » En ce qui concerne tel produit agricole, toute période d’au plus dix-huit mois — ou le nombre de mois supérieur fixé par le ministre — prévue par l’accord de garantie d’avance relativement à ce produit.
+
+
+
+« campagne agricole »“production period”
+
+
+
+
+
+
+
+
+
+
+
+
+(6) Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(6) Le paragraphe 2(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“production unit”« unité de production »
+
+
+
+“production unit”, in respect of an agricultural product, means the production unit specified in the advance guarantee agreement relating to the agricultural product.
+
+
+
+
+
+
+
+
+
+« unité de production » En ce qui concerne tel produit agricole, l’unité de production prévue par l’accord de garantie d’avance relativement à ce produit.
+
+
+
+« unité de production »“production unit”
+
+
+
+
+
+
+
+
+
+
+
+
+(7) Subsection 2(1) of the English version of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(7) Le paragraphe 2(1) de la version anglaise de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“production period”« campagne agricole »
+
+
+
+“production period”, in respect of an agricultural product, means the period of up to 18 months — or any longer period that is fixed by the Minister — specified in the advance guarantee agreement relating to the agricultural product.
+
+
+
+
+
+
+
+
+
+“production period”, in respect of an agricultural product, means the period of up to 18 months — or any longer period that is fixed by the Minister — specified in the advance guarantee agreement relating to the agricultural product.
+
+
+
+“production period”« campagne agricole »
+
+
+
+
+
+
+
+
+
+
+
+
+(8) Subsection 2(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(8) Le paragraphe 2(2) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 4 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. L’article 4 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+4. The purpose of this Part is to improve marketing opportunities for the agricultural products of eligible producers by guaranteeing the repayment of the advances made to them as a means of improving their cash-flow.
+
+
+
+
+
+
+
+
+
+4. La présente partie a pour objet de favoriser la commercialisation des produits agricoles des producteurs admissibles en garantissant le remboursement des avances qui leur sont octroyées afin d’augmenter leurs liquidités.
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+Eligible agricultural products
+
+
+
+4.1 (1) Subject to subsections (2) and (3), this Part applies only in respect of an agricultural product that meets the following criteria:
+
+
+
+
+
+
+
+
+(a) the agricultural product is
+
+
+
+
+
+
+
+
+(i) an animal that is raised in Canada or the fur pelt of such an animal,
+
+
+
+
+
+
+
+
+(ii) a plant that is grown in Canada or the product of such a plant, or
+
+
+
+
+
+
+
+
+(iii) honey or maple syrup that is produced in Canada;
+
+
+
+
+
+
+
+
+(b) the Minister has determined, taking into account any criteria prescribed by regulation, that it is possible to establish an average price for the agricultural product; and
+
+
+
+
+
+
+
+
+(c) the Minister has determined, taking into account any criteria prescribed by regulation, that the agricultural product is not processed or, in the case of a perishable agricultural product, not processed beyond what is necessary to store it and prevent spoilage.
+
+
+
+
+
+
+
+
+
+4.1 (1) Sous réserve des paragraphes (2) et (3), la présente partie ne s’applique qu’aux produits agricoles remplissant les conditions suivantes :
+
+
+
+Produits agricoles admissibles
+
+
+
+
+a) il s’agit de l’un des produits suivants :
+
+
+
+
+
+
+
+
+(i) un animal élevé au Canada ou la fourrure d’un tel animal,
+
+
+
+
+
+
+
+
+(ii) une plante d’origine canadienne ou un produit en provenant,
+
+
+
+
+
+
+
+
+(iii) le miel et le sirop d’érable d’origine canadienne;
+
+
+
+
+
+
+
+
+b) le ministre conclut, compte tenu de tout critère réglementaire, qu’il est possible d’en établir un prix moyen;
+
+
+
+
+
+
+
+
+c) le ministre conclut, compte tenu de tout critère réglementaire, que le produit est non transformé ou, s’il est périssable, qu’il n’a subi que la transformation nécessaire à sa conservation et son entreposage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Designation by Governor in Council
+
+
+
+(2) The Governor in Council may, by regulation, designate any other agricultural product as being subject to this Part.
+
+
+
+
+
+
+
+
+
+(2) Le gouverneur en conseil peut, par règlement, assujettir tout autre produit agricole à la présente partie.
+
+
+
+Désignation de produits agricoles par le gouverneur en conseil
+
+
+
+
+
+
+
+
+
+
+Breeding animals
+
+
+
+(3) Animals that are or were used as breeding animals are not agricultural products that are subject to this Part.
+
+
+
+
+
+
+
+
+
+(3) Les animaux qui sont utilisés à titre d’animaux reproducteurs ou qui l’ont été ne sont pas des produits agricoles assujettis à la présente partie.
+
+
+
+Animaux reproducteurs
+
+
+
+
+
+
+
+
+
+
+1999, c. 26, s. 42
+
+
+
+3. (1) Subsections 5(1.1) to (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+3. (1) Les paragraphes 5(1.1) à (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+1999, ch. 26, art. 42
+
+
+
+
+
+
+
+
+
+
+Restriction
+
+
+
+(1.1) An advance guarantee agreement may be made with an administrator and a lender, or with an administrator that is a lender, only if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance.
+
+
+
+
+
+
+
+
+
+(1.1) Un accord ne peut être conclu avec un agent d’exécution et un prêteur ou avec un agent d’exécution qui est un prêteur que si le ministre est convaincu de pouvoir réaliser ainsi des économies d’intérêts et que les conditions afférentes sont approuvées par le ministre des Finances.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+Conditions concerning the guarantee
+
+
+
+(1.2) If a guarantee under the advance guarantee agreement is made to a lender, or to an administrator that is a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender, or by the administrator, as the case may be, will not exceed the rate specified in the agreement.
+
+
+
+
+
+
+
+
+
+(1.2) Lorsque la garantie est donnée à un prêteur ou à un agent d’exécution qui est un prêteur, l’accord, en plus de toutes les autres conditions qui peuvent y être énoncées, stipule que le taux d’intérêt applicable à l’emprunt ne peut excéder celui qu’il fixe.
+
+
+
+Obligations concernant la garantie
+
+
+
+
+
+
+
+
+
+
+Administrator to demonstrate ability
+
+
+
+(2) An administrator must demonstrate to the Minister that it is capable of meeting its obligations under the advance guarantee agreement.
+
+
+
+
+
+
+
+
+
+(2) L’agent d’exécution doit démontrer au ministre qu’il peut remplir les obligations que l’accord lui impose.
+
+
+
+Agent d’exécution
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The portion of subsection 5(3) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le passage du paragraphe 5(3) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Terms and conditions
+
+
+
+(3) In addition to identifying the agricultural products and specifying the terms and conditions governing advances and their repayment, an advance guarantee agreement must provide that the administrator agrees
+
+
+
+
+
+
+
+
+
+(3) L’accord de garantie d’avance prévoit, outre la désignation du produit agricole et les modalités régissant l’octroi et le remboursement des avances, l’obligation de l’agent d’exécution :
+
+
+
+Modalités
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Paragraph 5(3)(e) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 5(3)e) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e) to take steps, in accordance with the terms and conditions of the advance guarantee agreement, to ensure that, before an advance is made,
+
+
+
+
+
+
+(i) in the case of an agricultural product that is storable, it is of marketable quality and stored so as to remain of marketable quality until disposed of in accordance with the repayment agreement or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable, and
+
+
+
+
+
+
+(ii) in the case of an agricultural product that is not storable, it is of marketable quality and maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable;
+
+
+
+
+
+
+
+
+
+e) de prendre des mesures, conformément à l’accord de garantie d’avance, en vue de s’assurer, avant le versement de l’avance :
+
+
+
+
+
+
+(i) s’agissant d’un produit agricole entreposable, soit qu’il est commercialisable et entreposé de façon qu’il le reste jusqu’à ce qu’il en soit disposé en conformité avec l’accord de remboursement soit, s’il est en cours de production ou à produire, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible,
+
+
+
+
+
+
+(ii) s’agissant d’un produit agricole non entreposable, soit qu’il est commercialisable et gardé de façon qu’il le reste jusqu’à ce qu’il en soit disposé en conformité avec l’accord de remboursement, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible soit, s’il est en cours de production ou à produire, que ce montant est couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme est cessible;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Section 5 of the Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+(4) L’article 5 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(3.1) The terms described in paragraphs (3)(c) and (f) and subparagraph (3)(g)(i) — and in paragraph (3)(h) in relation to payments required by paragraph (3)(f) and subparagraph (3)(g)(i) — are not required if the Minister and an administrator are the only parties to the agreement.
+
+
+
+
+
+
+
+
+
+(3.1) L’accord de garantie d’avance ne prévoit pas les obligations visées aux alinéas (3)c) et f), au sous-alinéa (3)g)(i) et, s’agissant des paiements visés à l’alinéa (3)f) et au sous-alinéa (3)g)(i), à l’alinéa (3)h) dans le cas où le ministre et l’agent d’exécution sont les seules parties à l’accord.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Schedule
+
+
+
+(3.2) The Governor in Council may, by order, on the recommendation of the Minister, amend the schedule by adding to it, or deleting from it, the name of a program. The order is not a statutory instrument within the meaning of the Statutory Instruments Act.
+
+
+
+
+
+
+
+
+
+(3.2) Sur la recommandation du ministre, le gouverneur en conseil peut, par décret, ajouter à l’annexe ou en radier le nom d’un programme. Le décret n’est pas un texte réglementaire au sens de la Loi sur les textes réglementaires.
+
+
+
+Annexe
+
+
+
+
+
+
+
+
+
+
+Restriction
+
+
+
+(3.3) An amendment to an advance guarantee agreement may not be made during the period specified in it that constitutes the production period if doing so would extend that period beyond 18 months, or the longer period fixed by the Minister, if one was so fixed before the advance guarantee agreement was entered into.
+
+
+
+
+
+
+
+
+
+(3.3) L’accord de garantie d’avance ne peut être modifié pendant la campagne agricole qui y est prévue pour faire en sorte que celle-ci s’étende sur une période supérieure à dix-huit mois ou le nombre de mois supérieur fixé par le ministre avant la conclusion de l’accord.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Subsection 5(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe 5(5) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Maximum contingent liability
+
+
+
+(5) The aggregate contingent liability of Her Majesty in relation to principal outstanding under guarantees made under advance guarantee agreements must not at any time exceed $5 billion or the amount fixed by regulation.
+
+
+
+
+
+
+
+
+
+(5) La totalité des obligations dont Sa Majesté se rend éventuellement débiteur en vertu d’accords de garantie d’avance ne peut dépasser, en capital impayé, cinq milliards de dollars ou le montant fixé par règlement.
+
+
+
+Garantie maximale
+
+
+
+
+
+
+
+
+
+
+Administrator’s percentage
+
+
+
+(6) The administrator’s percentage mentioned in paragraph (3)(g), as determined under the regulations, must be at least 1% and not more than 15%. If the regulations establish a method of calculating that percentage, the percentage is deemed to be 1% if the calculation results in a lower percentage, and 15% if the calculation results in a higher percentage.
+
+
+
+
+
+
+
+
+
+(6) Le pourcentage visé à l’alinéa (3)g) qui est déterminé conformément à tout règlement doit être d’au moins 1 % et d’au plus 15 %. Si un règlement détermine une méthode de calcul à cet égard, le pourcentage est réputé être de 1 % si le résultat du calcul est de moins de 1 % et il est réputé être de 15 % si ce résultat est de plus de 15 %.
+
+
+
+Pourcentage visé à l’alinéa (3)g)
+
+
+
+
+
+
+
+
+
+
+1999, c. 26, s. 43
+
+
+
+4. Sections 6 and 7 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+4. Les articles 6 et 7 de la même loi sont remplacés par ce qui suit :
+
+
+
+1999, ch. 26, art. 43
+
+
+
+
+
+
+
+
+
+
+Agreement where guarantee already exists
+
+
+
+5.1 (1) The Minister may enter into an advance guarantee agreement with an administrator without making the guarantee referred to in paragraph 5(1)(a) if the Minister is satisfied that the repayment of the advances to be made under the agreement will be guaranteed by another person or entity.
+
+
+
+
+
+
+
+
+
+5.1 (1) Le ministre peut conclure un accord de garantie d’avance avec un agent d’exécution sans donner la garantie visée à l’alinéa 5(1)a) s’il est convaincu que le remboursement des avances qui seront octroyées au titre de l’accord sera garanti par une autre personne ou entité.
+
+
+
+Accord de garantie d’avance — garantie donnée par un tiers
+
+
+
+
+
+
+
+
+
+
+Provisions do not apply
+
+
+
+(2) Paragraph 5(3)(i) and, unless the agreement specifies otherwise, section 23 do not apply in respect of an advance guarantee agreement that the Minister enters into without making the guarantee referred to in paragraph 5(1)(a).
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 5(3)i) et, sauf indication contraire qui est précisée dans l’accord, l’article 23 ne s’appliquent pas aux accords de garantie d’avance que le ministre a conclus sans donner la garantie.
+
+
+
+Non application
+
+
+
+
+
+
+
+
+
+
+Obligations of administrators
+
+
+
+6. A guarantee given to an administrator is not effective unless the administrator complies with this Act and the advance guarantee agreement.
+
+
+
+
+
+
+
+
+
+6. La garantie donnée à l’agent d’exécution n’a d’effet que si celui-ci se conforme à l’accord de garantie d’avance et à la présente loi.
+
+
+
+Obligations de l’agent d’exécution
+
+
+
+
+
+
+
+
+
+
+Emergency advance
+
+
+
+7. (1) Despite paragraph 5(3)(e), the advance guarantee agreement may authorize the administrator to pay, subject to any terms and conditions set out in the advance guarantee agreement, a portion of an advance as an emergency advance to an eligible producer who has difficulty producing the producer’s agricultural product because of unusual production conditions attributable to weather or natural disaster if it is reasonable to expect that the agricultural product will be marketable.
+
+
+
+
+
+
+
+
+
+7. (1) Malgré l’alinéa 5(3)e), l’accord de garantie d’avance peut autoriser l’agent d’exécution à verser, sous réserve des conditions qui y sont établies, une partie de l’avance à titre d’avance de secours au producteur admissible qui éprouve des difficultés de production en raison de conditions de production anormales attribuables au climat ou à un désastre naturel, s’il est raisonnable de s’attendre à ce que le produit agricole soit commercialisable.
+
+
+
+Avance de secours
+
+
+
+
+
+
+
+
+
+
+Maximum amount
+
+
+
+(2) The maximum amount of the emergency advance is the lesser of $25,000, or the amount fixed by regulation, and 50%, or the percentage fixed by regulation, of the advance that the administrator expects to make to the producer in respect of the agricultural product on the basis of the amount of that product that is expected to be produced.
+
+
+
+
+
+
+
+
+
+(2) Le montant maximal de l’avance de secours se limite à 50 % ou le pourcentage fixé par règlement — à concurrence de 25 000 $ ou le montant fixé par règlement — de l’avance qui, selon l’agent d’exécution, pourrait être octroyée pour la quantité du produit agricole qui sera produite.
+
+
+
+Plafond
+
+
+
+
+
+
+
+
+
+
+
+
+5. Subsection 9(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 9(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Payment of interest
+
+
+
+9. (1) The Minister must, in relation to each producer, pay to the lender specified in the advance guarantee agreement — or, if the agreement was made with only an administrator, to the administrator — the interest accruing during a production period on the amounts borrowed by the administrator to pay the first $60,000 — or the amount fixed by regulation — of the total of the following amounts advanced during the production period, or during any shorter period specified in the agreement:
+
+
+
+
+
+
+
+
+(a) amounts advanced to the producer for all of their agricultural products, and
+
+
+
+
+
+
+
+
+(b) the percentage of the amounts advanced to all related producers, for all of their agricultural products, that is attributable to the producer under subsection (2).
+
+
+
+
+
+
+
+
+
+9. (1) Le ministre paye, relativement à chaque producteur, au prêteur mentionné dans l’accord de garantie d’avance — ou, si l’accord n’a été conclu qu’avec l’agent d’exécution, à celui-ci — les intérêts courus pendant une campagne agricole sur les sommes empruntées par l’agent d’exécution pour verser la première tranche de 60 000 $ — ou le montant fixé par règlement — du total des avances ci-après qui ont été octroyées au cours de cette campagne agricole ou au cours de la période plus courte prévue par l’accord de garantie d’avance :
+
+
+
+Intérêts
+
+
+
+
+a) la somme que le producteur reçoit à titre d’avance pour tous ses produits agricoles;
+
+
+
+
+
+
+
+
+b) la somme correspondant au pourcentage des avances reçues par des producteurs liés, pour tous leurs produits agricoles, qui est attribuable, aux termes du paragraphe (2), au producteur visé à l’alinéa a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) Subsection 10(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+6. (1) Le paragraphe 10(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Eligibility requirements for producers
+
+
+
+10. (1) For a producer to be eligible for a guaranteed advance during a production period,
+
+
+
+
+
+
+
+
+(a) the producer must own the agricultural product continuously and be responsible for marketing it, as determined by the Minister, taking into account any criteria prescribed by regulation;
+
+
+
+
+
+
+
+
+(b) if the producer is an individual, the producer must have attained the age of majority in the province where the producer’s farming operation is carried on and must be principally occupied in that operation or be entitled to the agricultural product or a share in it as lessor, vendor, mortgagee or hypothecary creditor;
+
+
+
+
+
+
+
+
+(c) if the producer is a corporation with only one shareholder, the shareholder must
+
+
+
+
+
+
+
+
+(i) have attained the age of majority in the province where the producer’s farming operation is carried on,
+
+
+
+
+
+
+
+
+(ii) be principally occupied in that operation or be entitled to the agricultural product or a share in it as lessor, vendor, mortgagee or hypothecary creditor, and
+
+
+
+
+
+
+
+
+(iii) agree in writing to be personally liable to the administrator for any liability of the producer under section 22 and to provide any security for the repayment of the advance that the administrator may require;
+
+
+
+
+
+
+
+
+(d) if the producer is a corporation with two or more shareholders, a partnership, a cooperative or another association of persons,
+
+
+
+
+
+
+
+
+(i) at least one of the shareholders, partners or members, as the case may be, must have attained the age of majority in the province where the producer’s farming operation is carried on and must be principally occupied in that operation or be entitled to the agricultural product or a share in it as lessor, vendor, mortgagee or hypothecary creditor, and
+
+
+
+
+
+
+
+
+(ii) each of the shareholders, partners or members, as the case may be, must agree in writing to be jointly and severally, or solidarily, liable to the administrator for any liability of the producer under section 22 and must provide any security for the repayment of the advance that the administrator may require;
+
+
+
+
+
+
+
+
+(e) the producer and, to the extent provided in the advance guarantee agreement, any related producers must not be in default under a repayment agreement;
+
+
+
+
+
+
+
+
+(f) the producer must not be ineligible under subsection 21(4);
+
+
+
+
+
+
+
+
+(g) the producer must not have given the agricultural product, or any amount to be received under a program listed in the schedule, as security ranking in priority to the security created by section 12; and
+
+
+
+
+
+
+
+
+(h) the producer must demonstrate that
+
+
+
+
+
+
+
+
+(i) in the case of an agricultural product that is storable, it is of marketable quality and stored so as to remain of marketable quality until disposed of or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable, and
+
+
+
+
+
+
+
+
+(ii) in the case of an agricultural product that is not storable, it is of marketable quality and maintained so as to remain of marketable quality until disposed of, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable.
+
+
+
+
+
+
+
+
+
+10. (1) Le producteur est admissible à l’octroi d’une avance garantie pour une campagne agricole donnée si les conditions suivantes sont réunies :
+
+
+
+Producteur admissible
+
+
+
+
+a) le ministre conclut, compte tenu de tout critère réglementaire, que le producteur est propriétaire du produit agricole de façon continue et est responsable de sa commercialisation;
+
+
+
+
+
+
+
+
+b) s’agissant d’un particulier, d’une part, le producteur a atteint l’âge de la majorité dans la province où est située son exploitation agricole et, d’autre part, les travaux agricoles y constituent son activité principale ou il a droit à tout ou partie du produit agricole à titre de locateur, de vendeur ou de créancier hypothécaire;
+
+
+
+
+
+
+
+
+c) s’agissant d’une personne morale à actionnaire unique, celui-ci satisfait aux exigences suivantes :
+
+
+
+
+
+
+
+
+(i) il a atteint l’âge de la majorité dans la province où est située l’exploitation agricole,
+
+
+
+
+
+
+
+
+(ii) les travaux agricoles y constituent son activité principale ou il a droit à tout ou partie du produit agricole à titre de locateur, de vendeur ou de créancier hypothécaire,
+
+
+
+
+
+
+
+
+(iii) il s’engage personnellement par écrit envers l’agent d’exécution pour les sommes visées à l’article 22 et donne en garantie du remboursement de l’avance les sûretés que peut exiger celui-ci;
+
+
+
+
+
+
+
+
+d) s’agissant d’une personne morale à plusieurs actionnaires, d’une société de personnes, d’une coopérative ou de toute autre association de personnes, elle répond aux exigences suivantes :
+
+
+
+
+
+
+
+
+(i) d’une part, au moins un des actionnaires, associés ou membres, selon le cas, a atteint l’âge de la majorité dans la province où est située l’exploitation agricole et, d’autre part, les travaux agricoles y constituent l’activité principale de celui-ci ou il a droit à tout ou partie du produit agricole à titre de locateur, de vendeur ou de créancier hypothécaire,
+
+
+
+
+
+
+
+
+(ii) tous les actionnaires, associés ou membres, selon le cas, s’engagent solidairement par écrit envers l’agent d’exécution pour les sommes visées à l’article 22 et donnent en garantie du remboursement de l’avance les sûretés que peut exiger l’agent d’exécution;
+
+
+
+
+
+
+
+
+e) ni lui ni les producteurs liés visés par l’accord de garantie d’avance ne sont en défaut relativement à un accord de remboursement;
+
+
+
+
+
+
+
+
+f) il n’est pas inadmissible aux termes du paragraphe 21(4);
+
+
+
+
+
+
+
+
+g) il n’a consenti, ni sur le produit agricole visé par l’avance garantie ni sur toute somme qu’il peut recevoir au titre de l’un des programmes figurant à l’annexe, aucune sûreté prenant rang avant la sûreté visée à l’article 12;
+
+
+
+
+
+
+
+
+h) il démontre :
+
+
+
+
+
+
+
+
+(i) dans le cas où le produit agricole visé par l’avance garantie est entreposable, soit que celui-ci est commercialisable et entreposé de façon qu’il le reste jusqu’à ce qu’il en soit disposé soit, s’il est en cours de production ou à produire, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible,
+
+
+
+
+
+
+
+
+(ii) dans le cas où le produit agricole visé par l’avance garantie est non entreposable, soit que celui-ci est commercialisable et gardé de façon qu’il le reste jusqu’à ce qu’il en soit disposé, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible soit, s’il est en cours de production ou à produire, que ce montant est couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme est cessible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 26, s. 45
+
+
+
+(2) Subsection 10(1.1) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 10(1.1) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 26, art. 45
+
+
+
+
+
+
+
+
+
+
+Sharing security
+
+
+
+(1.1) For the purpose of paragraph (1)(h), the producer’s eligibility is not affected by the administrator sharing its security with another creditor in accordance with terms and conditions specified in the advance guarantee agreement.
+
+
+
+
+
+
+
+
+
+(1.1) For the purpose of paragraph (1)(h), the producer’s eligibility is not affected by the administrator sharing its security with another creditor in accordance with terms and conditions specified in the advance guarantee agreement.
+
+
+
+Sharing security
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 10(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 10(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Eligible producers must make repayment agreements
+
+
+
+(2) An eligible producer must make a repayment agreement with the administrator under which the producer agrees
+
+
+
+
+
+
+
+
+(a) to repay the advance
+
+
+
+
+
+
+
+
+(i) by selling the agricultural product for which the advance is to be made to a buyer or buyers named by the administrator, and authorizing in writing each buyer to withhold from any amount they pay to the producer for each production unit an amount determined in accordance with the repayment schedule specified in the agreement,
+
+
+
+
+
+
+
+
+(ii) by selling, in accordance with the terms and conditions specified in the agreement, the agricultural product for which the advance is to be made and paying directly to the administrator, for each production unit, an amount determined in accordance with the repayment schedule specified in the agreement,
+
+
+
+
+
+
+
+
+(iii) by paying directly to the administrator any amount received under a program listed in the schedule,
+
+
+
+
+
+
+
+
+(iv) by assigning to the administrator amounts payable to the producer under a program listed in the schedule,
+
+
+
+
+
+
+
+
+(v) without proof that the agricultural product has been sold, by paying the administrator an amount up to an amount prescribed by the regulations, or
+
+
+
+
+
+
+
+
+(vi) by paying the administrator by a combination of the methods described in subparagraphs (i) to (v);
+
+
+
+
+
+
+
+
+(b) to ensure that
+
+
+
+
+
+
+
+
+(i) in the case of an agricultural product that is storable, it will be stored so as to remain of marketable quality until disposed of in accordance with the repayment agreement or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable, and
+
+
+
+
+
+
+
+
+(ii) in the case of an agricultural product that is not storable, it will be maintained so as to remain of marketable quality until disposed of in accordance with the repayment agreement, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable or, if that agricultural product is in the course of being produced, or is not yet produced, the amount of the advance is covered by a program listed in the schedule and amounts that may be received under that program are assignable;
+
+
+
+
+
+
+
+
+(c) to repay the amount of the overpayment, if any, of the advance within the period that begins on the earlier of the day the producer becomes aware of the overpayment and the day the administrator mails or delivers a notice to the producer stating that there has been an overpayment of the advance and ends on the expiry of the number of days set out in the agreement; and
+
+
+
+
+
+
+
+
+(d) to comply with any other terms and conditions set out in the agreement, including terms and conditions governing the delivery of the agricultural product and the payment of interest, both before and after any default.
+
+
+
+
+
+
+
+
+
+(2) Le producteur admissible signe avec l’agent d’exécution un accord de remboursement dans lequel il s’engage :
+
+
+
+Accord de remboursement
+
+
+
+
+a) à rembourser l’avance :
+
+
+
+
+
+
+
+
+(i) en vendant le produit agricole visé par l’avance à un ou plusieurs acheteurs que l’agent désigne et en autorisant par écrit ceux-ci à retenir sur le prix de chaque unité de production la somme déterminée conformément au calendrier prévu dans l’accord,
+
+
+
+
+
+
+
+
+(ii) en vendant, selon les conditions établies par l’accord, le produit agricole visé par l’avance et en remettant à l’agent, pour chaque unité de production, la somme déterminée conformément au calendrier prévu dans l’accord,
+
+
+
+
+
+
+
+
+(iii) en versant à l’agent toute somme reçue au titre d’un programme figurant à l’annexe,
+
+
+
+
+
+
+
+
+(iv) en cédant à l’agent toute somme à laquelle il a droit au titre d’un tel programme,
+
+
+
+
+
+
+
+
+(v) en versant à l’agent, sans preuve de vente du produit agricole, toute somme, à concurrence du maximum fixé par règlement,
+
+
+
+
+
+
+
+
+(vi) en combinant les moyens visés aux sous-alinéas (i) à (v);
+
+
+
+
+
+
+
+
+b) à faire en sorte :
+
+
+
+
+
+
+
+
+(i) dans le cas où le produit agricole visé par l’avance garantie est entreposable, soit qu’il soit entreposé de façon qu’il reste commercialisable jusqu’à ce qu’il en soit disposé en conformité avec l’accord soit, s’il est en cours de production ou à produire, que le montant de l’avance soit couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme soit cessible,
+
+
+
+
+
+
+
+
+(ii) dans le cas où le produit agricole visé par l’avance est non entreposable, soit qu’il soit gardé de façon qu’il reste commercialisable jusqu’à ce qu’il en soit disposé en conformité avec l’accord, que le montant de l’avance soit couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme soit cessible soit, s’il est en cours de production ou à produire, que ce montant soit couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme soit cessible;
+
+
+
+
+
+
+
+
+c) à rembourser le trop-perçu éventuel sur l’avance dans le délai prévu dans l’accord, lequel délai commence à courir le jour où le producteur prend connaissance de ce versement excédentaire ou, s’il est antérieur, le jour où l’agent lui envoie par la poste ou lui remet un avis à cet effet;
+
+
+
+
+
+
+
+
+d) à respecter toutes autres modalités de l’accord, notamment en ce qui concerne la livraison du produit agricole ou le paiement d’intérêts, et ce, avant et après toute défaillance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Sections 11 and 12 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+7. Les articles 11 et 12 de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Unmarketable agricultural product
+
+
+
+11. If an agricultural product for which a guaranteed advance is made ceases to be in marketable condition, in whole or in part, through no fault of the producer, the producer becomes liable to repay immediately, to the administrator that made the advance, the portion of the guaranteed advance that is attributable to the unmarketable portion of the agricultural product, together with the interest on that portion from the date of the advance.
+
+
+
+
+
+
+
+
+
+11. Lorsque tout ou partie du produit agricole faisant l’objet d’une avance garantie n’est plus commercialisable sans que ce fait lui soit attribuable, le producteur doit sans délai remettre à l’agent d’exécution qui lui a consenti cette avance la partie de celle-ci correspondant à la partie non commercialisable du produit agricole ainsi que les intérêts courus à partir de la date d’octroi de l’avance.
+
+
+
+Détérioration
+
+
+
+
+
+
+
+
+
+
+Security in agricultural product
+
+
+
+12. An administrator that makes a guaranteed advance to a producer in a production period in respect of an agricultural product has a security, for the amount of the producer’s liability under sections 22 and 23, in the agricultural product for which the advance was made, in any agricultural product produced in a subsequent production period by the producer and, subject to the repayment agreement, in any amount that may be received by the producer under a program listed in the schedule.
+
+
+
+
+
+
+
+
+
+12. S’il consent une avance garantie à un producteur pour le produit agricole d’une campagne agricole donnée, l’agent d’exécution dispose, pour les sommes dont le producteur est redevable au titre des articles 22 et 23, d’une sûreté sur ce produit, sur les produits agricoles de campagnes agricoles subséquentes et, sous réserve de l’accord de remboursement, sur toute somme que le producteur peut recevoir au titre de l’un des programmes figurant à l’annexe.
+
+
+
+Sûreté sur le produit agricole
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) Subsection 13(1) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+8. (1) Le paragraphe 13(1) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Powers to make arrangements and agreements
+
+
+
+13. (1) For the purpose of making guaranteed advances under this Act, the Board may make any arrangements, contracts or agreements that it considers necessary or advisable for the administration of this Part and it may borrow or raise money by any means, including by issuing, reissuing, selling and pledging bonds, debentures, notes and other evidences of indebtedness of the Board.
+
+
+
+
+
+
+
+
+
+13. (1) For the purpose of making guaranteed advances under this Act, the Board may make any arrangements, contracts or agreements that it considers necessary or advisable for the administration of this Part and it may borrow or raise money by any means, including by issuing, reissuing, selling and pledging bonds, debentures, notes and other evidences of indebtedness of the Board.
+
+
+
+Powers to make arrangements and agreements
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 13(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 13(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Minister of Finance to guarantee repayment
+
+
+
+(2) The Minister of Finance may, subject to any terms and conditions approved by the Governor in Council, guarantee the repayment of money borrowed under subsection (1) together with the interest on it if the money is borrowed or raised in order to make an advance under a guaranteed advance agreement to which the only parties are the Minister and the Board.
+
+
+
+
+
+
+
+
+
+(2) Le ministre des Finances peut, aux conditions que le gouverneur en conseil approuve, garantir le remboursement des fonds visés au paragraphe (1) ainsi que des intérêts afférents, si les fonds ont été empruntés ou recueillis en vue de l’octroi d’avances au titre d’un accord de garantie d’avance et que les seules parties à celui-ci sont le ministre et la Commission.
+
+
+
+Garantie du ministre des Finances
+
+
+
+
+
+
+
+
+
+
+
+
+9. Section 14 of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+9. L’article 14 de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Cash purchase tickets
+
+
+
+14. Despite the Canada Grain Act, every person, including the manager or operator of an elevator, authorized by the Board to make guaranteed advances on its behalf may make advances by means of cash purchase tickets.
+
+
+
+
+
+
+
+
+
+14. Despite the Canada Grain Act, every person, including the manager or operator of an elevator, authorized by the Board to make guaranteed advances on its behalf may make advances by means of cash purchase tickets.
+
+
+
+Cash purchase tickets
+
+
+
+
+
+
+
+
+
+
+
+
+10. Sections 15 to 19 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+10. Les articles 15 à 19 de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Delivery of documents 
+
+
+
+16. (1) At any time after a producer applies to the Board for an advance, the Board may require the producer to deliver to it any document, including a permit book, that the Board issued to the producer or to a related producer.
+
+
+
+
+
+
+
+
+
+16. (1) La Commission peut en tout temps exiger qu’un producteur ayant fait une demande d’avance garantie lui remette tout document — notamment un carnet de livraison — qu’elle lui a délivré ou qu’elle a délivré à un producteur lié.
+
+
+
+Remise de documents
+
+
+
+
+
+
+
+
+
+
+Endorsement
+
+
+
+(2) The Board may require an endorsement to be made in any of those documents, in a form specified by the Board, indicating that amounts must be deducted in accordance with the repayment agreement with the producer and paid to the Board in priority to all other persons.
+
+
+
+
+
+
+
+
+
+(2) La Commission peut exiger qu’un tel document porte la mention, en la forme prévue par elle, selon laquelle des déductions doivent être faites, aux termes de l’accord de remboursement, au profit de la Commission en priorité sur toute autre personne.
+
+
+
+Mention : avance
+
+
+
+
+
+
+
+
+
+
+Deductions
+
+
+
+17. (1) If an agricultural product for which the Board has required the delivery of a document bearing an endorsement required under subsection 16(2) is sold, the producer of the agricultural product or, if the person purchasing it has been authorized by the Board to make remittances to the Board in respect of amounts paid for agricultural products, the person purchasing the agricultural product, shall
+
+
+
+
+
+
+
+
+(a) deduct and pay to the Board, in priority to all other persons, the portion of the payment for the agricultural product that the repayment agreement with the producer authorizes to be deducted from each payment until the advance has been repaid; and
+
+
+
+
+
+
+
+
+(b) make an appropriate entry of the deduction in the document and in any other document that has the same endorsement and that is presented to the person purchasing the agricultural product.
+
+
+
+
+
+
+
+
+
+17. (1) Au moment de la vente d’un produit agricole pour lequel la Commission a exigé la remise d’un document portant la mention prévue au paragraphe 16(2), le producteur ou, dans le cas où il a été autorisé par la Commission à lui faire des paiements sur les sommes versées pour l’achat de produits agricoles, l’acheteur :
+
+
+
+Déductions
+
+
+
+
+a) déduit et paye à la Commission, en priorité sur toute autre personne, la fraction du paiement relatif au produit agricole que l’accord de remboursement autorise à déduire sur chaque acompte, tant que l’avance n’a pas été remboursée;
+
+
+
+
+
+
+
+
+b) porte la déduction à ce document ainsi qu’à tout autre document qui porte la même mention et qui est présenté à l’acheteur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cancellation of endorsement
+
+
+
+(2) When the guaranteed advance has been repaid, the Board must cancel the endorsement.
+
+
+
+
+
+
+
+
+
+(2) Lorsque l’avance garantie a été remboursée, la Commission annule la mention.
+
+
+
+Annulation de la mention
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+18. A producer whose document has been endorsed under subsection 16(2) is not entitled to receive and shall not use any other document, including a document of a related producer, in substitution for the endorsed document for the same or any subsequent production period, unless the guaranteed advance is repaid or the endorsement is also made in the other document.
+
+
+
+
+
+
+
+
+
+18. Lorsque le document porte la mention prévue au paragraphe 16(2), le producteur n’a pas le droit de recevoir ou d’utiliser un autre document, notamment celui d’un producteur lié, en remplacement de ce premier document, pour la même campagne agricole ou une campagne subséquente, sauf si la mention y est également faite ou que l’avance est remboursée.
+
+
+
+Interdiction
+
+
+
+
+
+
+
+
+
+
+Amount of Advances
+
+
+
+
+
+
+
+
+
+Montant de l’avance
+
+
+
+
+
+
+
+
+
+
+
+
+Amount of advance to be guaranteed
+
+
+
+19. (1) Subject to subsection (3), the amount of an advance eligible for a guarantee under this Part is calculated by multiplying
+
+
+
+
+
+
+
+
+(a) the number of production units for which the advance is to be made
+
+
+
+
+
+
+
+
+by
+
+
+
+
+
+
+
+
+(b) the rate per production unit specified in the advance guarantee agreement for the agricultural product for the production period for which the advance is made, or for a specified portion of the production period for which the advance is made.
+
+
+
+
+
+
+
+
+
+19. (1) Sous réserve du paragraphe (3), le montant de l’avance susceptible d’être garantie au titre de la présente partie se calcule par multiplication des facteurs suivants :
+
+
+
+Montant de l’avance
+
+
+
+
+a) le nombre d’unités de production visées par l’avance proposée;
+
+
+
+
+
+
+
+
+b) le taux unitaire fixé dans l’accord de garantie d’avance pour le produit agricole visé par l’avance proposée pour la campagne agricole en cause ou une partie de celle-ci.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rate per production unit
+
+
+
+(2) The rate per production unit may be specified for a particular agricultural product in a particular area, but it must not exceed 50%, or the percentage fixed by regulation, of the average price that in the Minister’s opinion will be payable to producers of the agricultural product in that area.
+
+
+
+
+
+
+
+
+
+(2) L’accord de garantie d’avance peut prévoir le taux unitaire applicable à tel produit agricole dans telle région de production, mais ce taux ne peut dépasser 50 % — ou le pourcentage fixé par règlement — de ce que le ministre estime être le prix moyen qui sera payé aux producteurs pour ce produit agricole dans cette région.
+
+
+
+Taux unitaire
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(3) If, because of paragraph 10(1)(h), the amount of the advance must be covered by a program listed in the schedule, the maximum amount of an advance eligible for a guarantee under this Part is the lesser of the amount calculated under subsection (1) and the percent­age, specified in the advance guarantee agreement, of the maximum amount that the producer could receive under that program.
+
+
+
+
+
+
+
+
+
+(3) Si le montant de l’avance doit, au titre de l’alinéa 10(1)h), être couvert par l’un des programmes figurant à l’annexe, le montant de l’avance susceptible d’être garantie au titre de la présente partie est égal au résultat du calcul prévu au paragraphe (1) ou, s’il est inférieur, au pourcentage — prévu dans l’accord de garantie d’avance — du montant maximal que le producteur pourrait recevoir au titre de ce programme.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+
+
+11. Subsection 20(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+11. Le paragraphe 20(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Annual maximum guarantee for each producer
+
+
+
+20. (1) Subject to subsection (1.1), the maximum amount of advances in any production period that are eligible for a guarantee under this Act is
+
+
+
+
+
+
+
+
+(a) for a particular agricultural product produced by a producer, the amount specified in the advance guarantee agreement for that agricultural product; and
+
+
+
+
+
+
+
+
+(b) for all agricultural products produced by a producer or a related producer, to the extent that advances for the agricultural products are attributable to the producer under subsection (2), $300,000 or the amount fixed by regulation.
+
+
+
+
+
+
+
+
+
+20. (1) Sous réserve du paragraphe (1.1), le montant maximal des avances qui peuvent être garanties sous le régime de la présente loi durant une campagne agricole est :
+
+
+
+Maximum annuel
+
+
+
+
+a) à l’égard du producteur de tel produit agricole, celui prévu par l’accord de garantie d’avance;
+
+
+
+
+
+
+
+
+b) relativement à l’ensemble des produits agricoles produits par le producteur ou, dans la mesure où les avances lui sont attribuables conformément au paragraphe (2), produits par les producteurs liés pendant cette campagne agricole, 300 000 $ ou le montant fixé par règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overlapping production periods
+
+
+
+(1.1) The maximum amount of all advances that are eligible for a guarantee under this Act in relation to a producer, or to a related producer to the extent that the advances are attributable to the producer under subsection (2), may not, at any one time, exceed $300,000, or the amount fixed by regulation.
+
+
+
+
+
+
+
+
+
+(1.1) Le montant maximal des avances qui peuvent être garanties sous le régime de la présente loi relativement à un producteur ou, dans la mesure où les avances lui sont attribuables conformément au paragraphe (2), aux producteurs liés ne peut à aucun moment dépasser 300 000 $ ou le montant fixé par règlement.
+
+
+
+Campagnes agricoles chevauchantes
+
+
+
+
+
+
+
+
+
+
+
+
+12. (1) Paragraph 21(1)(b) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+12. (1) L’alinéa 21(1)b) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) has not met all of their obligations under the agreement at the end of the production period for which the advance was made;
+
+
+
+
+
+
+
+
+
+(b) has not met all of their obligations under the agreement at the end of the production period for which the advance was made;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 21(1)(d) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 21(1)d) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) at any time breaches an obligation under the agreement and, if the breach relates to the obligation to store the agricultural product or to maintain it so that it remains of marketable quality, section 11 does not apply; or
+
+
+
+
+
+
+
+
+
+d) il manque, à un moment quelconque, à une obligation de cet accord et, dans le cas où il s’agit d’un manquement à l’obligation d’entreposer le produit agricole ou de le garder de façon qu’il reste commercialisable, l’article 11 ne s’applique pas;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. Subsection 24(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 24(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Board deductions
+
+
+
+24. (1) If a producer is in default under a repayment agreement with the Board or any other administrator, the Board may, for the purpose of repaying the producer’s liability under sections 22 and 23, make deductions from any amounts owing under the Canadian Wheat Board Act to the producer or to another producer whose permit book the producer uses.
+
+
+
+
+
+
+
+
+
+24. (1) Dans le cas où le producteur est en défaut aux termes de l’accord de remboursement — quel que soit l’agent d’exécution —, la Commission peut déduire, des paiements dus au producteur au titre de la Loi sur la Commission canadienne du blé, les sommes dont ce dernier ou tout autre producteur dont il a utilisé le carnet de livraison est redevable au titre des articles 22 et 23.
+
+
+
+Déductions faites par la Commission
+
+
+
+
+
+
+
+
+
+
+
+
+14. The Act is amended by adding the following after section 33:
+
+
+
+
+
+
+
+
+
+14. La même loi est modifiée par adjonction, après l’article 33, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Crown debts assignable
+
+
+
+33.1 The following may be assigned in whole or in part:
+
+
+
+
+
+
+
+
+(a) for the purposes of Part I, an amount payable under a program listed in the schedule that is a Crown debt within the meaning of section 66 of the Financial Administration Act; and
+
+
+
+
+
+
+
+
+(b) for the purposes of Part II, an amount payable by the Minister under a price guarantee agreement.
+
+
+
+
+
+
+
+
+
+33.1 Les sommes suivantes peuvent être cédées en tout ou en partie :
+
+
+
+Cessibilité des créances sur Sa Majesté
+
+
+
+
+a) pour l’application de la partie I, toute somme qui peut être payée au titre d’un programme figurant à l’annexe et qui est une créance sur Sa Majesté au sens de l’article 66 de la Loi sur la gestion des finances publiques;
+
+
+
+
+
+
+
+
+b) pour l’application de la partie II, toute somme qui peut être payée par le ministre en vertu d’un accord de garantie des prix.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. Subsection 34(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+15. Le paragraphe 34(4) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Use of document
+
+
+
+(4) A person who uses a document in contravention of section 18 commits an offence.
+
+
+
+
+
+
+
+
+
+(4) Commet une infraction quiconque utilise un document en contravention de l’article 18.
+
+
+
+Infraction : utilisation de documents
+
+
+
+
+
+
+
+
+
+
+
+
+16. (1) The portion of subsection 40(1) of the Act before paragraph (g) is replaced by the following:
+
+
+
+
+
+
+
+
+
+16. (1) Le passage du paragraphe 40(1) de la même loi précédant l’alinéa g) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Governor in Council regulations
+
+
+
+40. (1) The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+(a) for the purposes of the definition “administrator” in subsection 2(1), prescribing criteria for determining
+
+
+
+
+
+
+
+
+(i) whether organizations represent pro­ducers in an area, or
+
+
+
+
+
+
+
+
+(ii) what constitutes a significant portion of an agricultural product, either generally or with respect to any specified area;
+
+
+
+
+
+
+
+
+(b) for the purpose of subsection 4.1(1), prescribing criteria for
+
+
+
+
+
+
+
+
+(i) establishing an average price for an agricultural product, or
+
+
+
+
+
+
+
+
+(ii) determining whether an agricultural product is not processed or not processed beyond what is necessary to store it and prevent spoilage;
+
+
+
+
+
+
+
+
+(c) determining the administrator’s percent­age mentioned in paragraph 5(3)(g), or establishing a method of calculating it, which percentage may differ among administrators depending on their experience and past performance;
+
+
+
+
+
+
+
+
+(d) determining a method of calculating the Minister’s percentage mentioned in paragraph 5(3)(i) and subsection 23(1);
+
+
+
+
+
+
+
+
+(d.1) fixing an amount for the purposes of each of subsections 5(5), 7(2) and 9(1), paragraph 20(1)(b) and subsection 20(1.1), which amount may, for the purposes of subsection 9(1), paragraph 20(1)(b) or subsection 20(1.1), differ with regard to classes of producers;
+
+
+
+
+
+
+
+
+(e) fixing a percentage for the purposes of each of subsection 7(2), paragraph 9(2)(c), subsection 19(2) and paragraph 20(2)(c);
+
+
+
+
+
+
+
+
+(e.1) prescribing criteria for determining, for the purpose of paragraph 10(1)(a), when a producer ceases to own an agricultural product or ceases to be responsible for its marketing;
+
+
+
+
+
+
+
+
+(f) prescribing an amount for the purposes of subparagraph 10(2)(a)(v);
+
+
+
+
+
+
+
+
+(f.1) for the purposes of paragraph 10(2)(c), defining “overpayment”;
+
+
+
+
+
+
+
+
+
+40. (1) Le gouverneur en conseil peut, par règlement :
+
+
+
+Règlements du gouverneur en conseil
+
+
+
+
+a) prévoir, pour l’application de la définition de « agent d’exécution » au paragraphe 2(1), les critères devant servir :
+
+
+
+
+
+
+
+
+(i) à établir si un organisme représente des producteurs dans une région,
+
+
+
+
+
+
+
+
+(ii) à déterminer, généralement ou pour une région donnée, ce qui constitue une proportion importante d’un produit agricole;
+
+
+
+
+
+
+
+
+b) prévoir, pour l’application du paragraphe 4.1(1), les critères devant servir à établir :
+
+
+
+
+
+
+
+
+(i) le prix moyen d’un produit agricole,
+
+
+
+
+
+
+
+
+(ii) si un produit agricole est non transformé ou s’il n’a subi que la transformation nécessaire à sa conservation et à son entreposage;
+
+
+
+
+
+
+
+
+c) déterminer le pourcentage visé à l’alinéa 5(3)g) ou la méthode de calcul de celui-ci, ce pourcentage pouvant différer selon l’expérience et le rendement antérieur de l’agent d’exécution;
+
+
+
+
+
+
+
+
+d) déterminer la méthode de calcul du pourcentage visé à l’alinéa 5(3)i) et au paragraphe 23(1);
+
+
+
+
+
+
+
+
+d.1) fixer les montants visés aux paragraphes 5(5), 7(2) et 9(1), à l’alinéa 20(1)b) et au paragraphe 20(1.1), lesquels peuvent différer, pour l’application du paragraphe 9(1), de l’alinéa 20(1)b) ou du paragraphe 20(1.1), à l’égard de catégories de producteurs;
+
+
+
+
+
+
+
+
+e) fixer les pourcentages visés au paragraphe 7(2), à l’alinéa 9(2)c), au paragraphe 19(2) et à l’alinéa 20(2)c);
+
+
+
+
+
+
+
+
+e.1) prévoir, pour l’application de l’alinéa 10(1)a), les critères devant servir à déterminer quand le producteur cesse d’être le propriétaire du produit agricole ou cesse d’être responsable de sa commercialisation;
+
+
+
+
+
+
+
+
+f) fixer un montant pour l’application du sous-alinéa 10(2)a)(v);
+
+
+
+
+
+
+
+
+f.1) définir, pour l’application de l’alinéa 10(2)c), « trop-perçu »;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 40(1) of the Act is amended by striking out the word “and” at the end of paragraph (h) and by adding the following after paragraph (h):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 40(1) de la même loi est modifié par adjonction, après l’alinéa h), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(h.1) respecting the assignment of the amounts referred to in paragraphs 33.1(a) and (b); and
+
+
+
+
+
+
+
+
+
+h.1) régir la cession des sommes visées aux alinéas 33.1a) et b);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 40(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 40(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Recommendation
+
+
+
+(2) Regulations made under paragraphs (1)(d.1), and regulations made under paragraph (1)(e) to the extent that they fix a percentage for the purposes of subsection 7(2) or 19(2), may only be made on the recommendation of the Minister with the concurrence of the Minister of Finance.
+
+
+
+
+
+
+
+
+
+(2) Les règlements visés à l’alinéa (1)d.1) et ceux visés à l’alinéa (1)e) dans la mesure où ils fixent les pourcentages visés aux paragraphes 7(2) et 19(2) ne peuvent être pris que sur la recommandation du ministre, à laquelle doit souscrire le ministre des Finances.
+
+
+
+Recommandation
+
+
+
+
+
+
+
+
+
+
+
+
+17. Subsection 42(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+17. Le paragraphe 42(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Five-year review
+
+
+
+42. (1) Every five years after the coming into force of this subsection, the Minister must review the provisions and operation of this Act in consultation with the Minister of Finance.
+
+
+
+
+
+
+
+
+
+42. (1) Tous les cinq ans après l’entrée en vigueur du présent paragraphe, le ministre procède à l’examen des dispositions et de l’application de la présente loi en consultation avec le ministre des Finances.
+
+
+
+Examen complet
+
+
+
+
+
+
+
+
+
+
+
+
+18. Section 51.1 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+18. L’article 51.1 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Defaults
+
+
+
+51.1 For the purpose of applying paragraph 10(1)(e), a default under a repayment agreement includes a default in repaying an advance made under the Advance Payments for Crops Act on or before March 31, 1997.
+
+
+
+
+
+
+
+
+
+51.1 Pour l’application de l’alinéa 10(1)e), est assimilé à un défaut relativement à un accord de remboursement le défaut d’un producteur relativement à une avance accordée aux termes de la Loi sur le paiement anticipé des récoltes avant le 1er avril 1997.
+
+
+
+Défaut
+
+
+
+
+
+
+
+
+
+
+
+
+19. Section 52.1 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+19. L’article 52.1 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Defaults
+
+
+
+52.1 For the purpose of applying paragraph 10(1)(e), a default under a repayment agreement includes a default in repaying an advance payment made under the Prairie Grain Advance Payments Act on or before May 31, 1997.
+
+
+
+
+
+
+
+
+
+52.1 Pour l’application de l’alinéa 10(1)e), est assimilé à un défaut relativement à un accord de remboursement le défaut d’un producteur relativement à une avance accordée aux termes de la Loi sur les paiements anticipés pour le grain des Prairies avant le 1er juin 1997.
+
+
+
+Défaut
+
+
+
+
+
+
+
+
+
+
+
+
+20. The Act is amended by adding, at the end of the Act, the schedule set out in the schedule to this Act.
+
+
+
+
+
+
+
+
+
+20. La même loi est modifiée par adjonction, à la fin de la loi, de l’annexe figurant à l’annexe de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+Transitional
+
+
+
+21. (1) The following definitions apply in this section.
+
+
+
+
+“new Act”« nouvelle loi »
+
+
+
+“new Act” means the Agricultural Marketing Programs Act as it reads on the day this Act comes into force.
+
+
+
+
+“old Act”« ancienne loi »
+
+
+
+“old Act” means the Agricultural Marketing Programs Act as it read immediately before the day this Act comes into force.
+
+
+
+
+
+
+
+
+
+21. (1) Les définitions ci-après s’appliquent au présent article.
+
+
+
+Dispositions transitoires
+
+
+
+
+« ancienne loi » La Loi sur les programmes de commercialisation agricole dans sa version antérieure à l’entrée en vigueur de la présente loi.
+
+
+
+« ancienne loi »“old act”
+
+
+
+
+« nouvelle loi » La Loi sur les programmes de commercialisation agricole dans sa version à l’entrée en vigueur de la présente loi.
+
+
+
+« nouvelle loi »“new act”
+
+
+
+
+
+
+
+
+
+
+Old Act continues to apply
+
+
+
+(2) The old Act continues to apply after the day this Act comes into force with respect to advance guarantee agreements and repayment agreements entered into under the old Act that are still in existence on the day this Act comes into force.
+
+
+
+
+
+
+
+
+
+(2) L’ancienne loi continue de s’appliquer, après la date d’entrée en vigueur de la présente loi, aux accords de garantie d’avance et aux accords de remboursement qui ont été conclus en vertu de l’ancienne loi et qui existent à cette date.
+
+
+
+Application de l’ancienne loi
+
+
+
+
+
+
+
+
+
+
+Unpaid amounts
+
+
+
+(3) Amounts remaining unpaid in respect of advances made under advance guarantee agreements entered into under the old Act that are still in existence on the day this Act comes into force are to be taken into account for the purposes of applying the new Act.
+
+
+
+
+
+
+
+
+
+(3) Les sommes non remboursées à l’égard des avances octroyées au titre des accords de garantie d’avance qui ont été conclus en vertu de l’ancienne loi et qui existent à la date d’entrée en vigueur de la présente loi sont prises en considération aux fins d’application de la nouvelle loi.
+
+
+
+Sommes non remboursées
+
+
+
+
+
+
+
+
+
+
+Unpaid amounts — Spring Credit Advance Program
+
+
+
+(4) Amounts remaining unpaid in respect of advances made under agreements entered into under a Spring Credit Advance Program that are still in existence on the day this Act comes into force are to be taken into account for the purposes of applying the new Act.
+
+
+
+
+
+
+
+
+
+(4) Les sommes non remboursées à l’égard des avances octroyées au titre d’accords qui ont été conclus en vertu de tout Programme d’avance de crédit printanière ou Programme d’avances printanières et qui existent à la date d’entrée en vigueur de la présente loi sont prises en considération aux fins d’application de la nouvelle loi.
+
+
+
+Sommes non remboursées — Programme d’avance de crédit printanière et Programme d’avances printanières
+
+
+
+
+
+
+
+
+
+
+Default — Spring Credit Advance Program
+
+
+
+(5) A default under a repayment agreement entered into under a Spring Credit Advance Program is deemed to be a default under a repayment agreement entered into under the new Act.
+
+
+
+
+
+
+
+
+
+(5) Tout défaut relativement aux accords de remboursement conclus en vertu de tout Programme d’avance de crédit printanière ou Programme d’avances printanières est réputé être un défaut relativement aux accords de remboursement conclus en vertu de la nouvelle loi.
+
+
+
+Défaut — Programme d’avance de crédit printanière et Programme d’avances printanières
+
+
+
+
+
+
+
+
+
+
+Retroactive effect of regulations
+
+
+
+(6) For the purpose of implementing the amendments to the Agricultural Marketing Programs Act enacted by this Act, a regulation made under that Act, as so amended, shall, if it so provides, be retroactive and be deemed to have come into force on a day earlier than the day on which the regulation was made, which earlier day may not be before the day on which this Act comes into force.
+
+
+
+
+
+
+
+
+
+(6) Afin de permettre la mise en oeuvre des modifications de la Loi sur les programmes de commercialisation agricole édictées par la présente loi, un règlement pris en vertu de cette loi, dans sa version modifiée, est rétroactif, s’il comporte une disposition en ce sens, et est réputé être entré en vigueur à une date antérieure à sa prise, cette dernière date ne pouvant toutefois être elle-même antérieure à la date de l’entrée en vigueur de la présente loi.
+
+
+
+Effet rétroactif des règlements
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+22. This Act comes into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+22. La présente loi entre en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Agricultural Marketing Programs Act
+Clause 1: (1) to (5) Existing text of the definitions:
+“administrator” means the Board or any of the following organizations that has the power to sue and be sued in its own name:
+(a) an organization of producers that is involved in marketing a crop; or
+(b) any other organization that the Minister considers is supported by producers and designates as an administrator.
+“advance” means an advance payment to an eligible producer for a crop.
+“agricultural product” means
+(a) an animal, a plant or an animal or plant product; or
+(b) a product, including any food or drink, that is wholly or partly derived from an animal or a plant.
+“crop” means
+(a) one or more field crops, or a portion of one or more field crops, grown in Canada, either cultivated or uncultivated, and stored in a non-processed form;
+(b) maple syrup or honey produced in Canada; or
+(c) any other agricultural product designated by the Governor in Council under subsection (2).
+“crop year” means a period of 12 months or less specified for a crop in the advance guarantee agreement relating to the crop.
+“crop unit” means a unit of a crop, as defined in the advance guarantee agreement relating to the crop.
+“producer” means a producer of an agricultural product who is
+(a) a Canadian citizen or a permanent resident;
+(b) a corporation a majority of whose voting shares are held by Canadian citizens or permanent residents;
+(c) a cooperative a majority of whose members are Canadian citizens or permanent residents; or
+(d) a partnership or other association of persons where partners or members who are Canadian citizens or permanent residents are entitled to at least 50% of the profits of the partnership or association.
+For the purposes of Parts I and IV, “producer” includes a person or entity mentioned in any of paragraphs (a) to (d) that is entitled to a crop or a share in it as landlord, vendor, mortgagee or hypothecary creditor on a date specified for the purposes of this definition in an advance guarantee agreement. In this definition, “permanent resident” has the same meaning as in subsection 2(1) of the Immigration and Refugee Protection Act.
+
+
+
+Loi sur les programmes de commercialisation agricole
+Article 1 : (1) à (5) Texte des définitions :
+« agent d’exécution » La Commission ou, s’ils ont la capacité d’ester en justice, toute association de producteurs qui participe à la commercialisation de récoltes ou tout organisme que le ministre estime approuvé par les producteurs et qu’il désigne.
+« avance » Paiement versé par anticipation à un producteur admissible pour sa récolte.
+« campagne agricole » En ce qui concerne une récolte donnée, toute période d’au plus douze mois prévue par l’accord de garantie d’avance.
+« producteur » Le producteur d’un produit agricole qui est, selon le cas :
+a) un citoyen canadien ou un résident permanent au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés;
+b) une personne morale dont la majorité des actions avec droit de vote sont détenues par des citoyens canadiens ou des résidents permanents;
+c) une coopérative dont la majorité des membres sont des citoyens canadiens ou des résidents permanents;
+d) une société de personnes ou autre association de personnes dont les associés ou membres qui sont des citoyens canadiens ou des résidents permanents ont droit à au moins la moitié des profits.
+Pour l’application des parties I et IV, y sont assimilées toutes autres personnes ou entités mentionnées aux alinéas a) à d) qui ont droit, à la date prévue pour l’application de la présente définition dans l’accord de garantie d’avance, à titre de propriétaire, de vendeur ou de créancier hypothécaire, à tout ou partie de la récolte produite.
+« produit agricole » Animal ou plante, ainsi que les aliments, les boissons et les autres produits qui en proviennent en tout ou en partie.
+« récolte » Selon le cas :
+a) tout ou partie d’une ou de plusieurs productions végétales, issues de cultures ou naturelles, d’origine canadienne, non transformées et entreposées;
+b) le sirop d’érable ou le miel d’origine canadienne;
+c) tout autre produit agricole désigné par le gouverneur en conseil en vertu du paragraphe (2).
+« unité de récolte » En ce qui concerne une récolte donnée, l’unité de récolte au sens de l’accord de garantie d’avance.
+
+
+
+
+(6) and (7) New.
+
+
+
+(6) et (7) Nouveau.
+
+
+
+
+(8) Existing text of subsection 2(2):
+(2) The Governor in Council may, by regulation, designate as a crop for the purposes of this Act any agricultural product grown or produced in Canada.
+
+
+
+(8) Texte du paragraphe 2(2) :
+(2) Le gouverneur en conseil peut, par règlement, pour l’application de la présente loi, désigner comme récolte tout produit agricole d’origine canadienne.
+
+
+
+
+Clause 2: Existing text of section 4:
+4. The purpose of this Part is to improve marketing opportunities for crops of eligible producers by guaranteeing the repayment of the advances made to them as a means of improving cash-flow at or after harvest.
+
+
+
+Article 2 : Texte de l’article 4 :
+4. La présente partie a pour objet de favoriser la commercialisation des récoltes des producteurs admissibles en garantissant le remboursement des avances qui leur sont octroyées afin d’augmenter leurs liquidités au moment de la récolte ou par la suite.
+
+
+
+
+Clause 3: (1) Existing text of subsections 5(1.1) to (2):
+(1.1) An advance guarantee agreement may be made only with an administrator and a lender if the Minister is satisfied that doing so will reduce the interest payable to the lender and the agreement is made subject to terms and conditions approved by the Minister of Finance.
+(1.2) If a guarantee under the advance guarantee agreement is made to a lender, the agreement must provide, in addition to any other terms and conditions, that the interest rate on the money provided by the lender will not exceed the rate specified in the agreement.
+(2) The administrator must demonstrate to the Minister that
+(a) it represents eligible producers in an area who produce in that area a significant portion of the crop for which the advances will be made; and
+(b) the administrator is capable of meeting its obligations under the advance guarantee agreement.
+
+
+
+Article 3 : (1) Texte des paragraphes 5(1.1) à (2) :
+(1.1) Un accord auquel un prêteur est partie ne peut être conclu que si, à la fois, le ministre est convaincu de pouvoir réaliser ainsi des économies d’intérêts et les conditions afférentes sont approuvées par le ministre des Finances.
+(1.2) Lorsque la garantie est donnée directement à un prêteur, l’accord, en plus de toutes les autres conditions qui peuvent y être énoncées, stipule que le taux d’intérêt applicable à l’emprunt ne peut excéder celui qu’il fixe.
+(2) L’agent d’exécution doit démontrer au ministre qu’il représente, dans une région, des producteurs admissibles y ayant produit une partie importante de la récolte pour laquelle les avances seront octroyées et qu’il peut remplir les obligations découlant de l’accord.
+
+
+
+
+(2) and (3) Relevant portion of subsection 5(3):
+(3) In addition to designating the crop and specifying any other terms and conditions governing advances and their repayment, the advance guarantee agreement must provide that the administrator agrees
+...  
+(e) to take steps, in accordance with the terms and conditions of the advance guarantee agreement, to ensure that before an advance is made the crop is harvested, of marketable quality and adequately stored by the producer so as to remain of marketable quality until disposed of in accordance with the repayment agreement;
+
+
+
+(2) et (3) Texte du passage visé du paragraphe 5(3) :
+(3) L’accord de garantie d’avance prévoit, outre la désignation de la récolte et les modalités régissant l’octroi et le remboursement des avances, l’obligation de l’agent d’exécution :
+[...]  
+e) de prendre des mesures, conformément à l’accord de garantie d’avance, en vue de s’assurer, avant le versement de l’avance, que la récolte a été produite, est commercialisable et est entreposée de façon qu’elle reste commercialisable jusqu’à son aliénation en conformité avec l’accord de remboursement;
+
+
+
+
+(4) New.
+
+
+
+(4) Nouveau.
+
+
+
+
+(5) Existing text of subsection 5(5):
+(5) The aggregate contingent liability of Her Majesty in relation to principal outstanding under guarantees made under advance guarantee agreements must not at any time exceed $1.9 billion, or any greater amount that the Governor in Council may prescribe by regulation.
+
+
+
+(5) Texte du paragraphe 5(5) :
+(5) La totalité des obligations dont Sa Majesté se rend éventuellement débiteur en vertu d’accords de garantie d’avance ne peut dépasser, en capital impayé, 1,9 milliard de dollars ou tout montant supérieur fixé par règlement du gouverneur en conseil.
+
+
+
+
+Clause 4: Existing text of sections 6 and 7:
+6. A guarantee, other than a guarantee made to a lender, is not effective unless the administrator complies with this Act and the advance guarantee agreement.
+7. (1) Despite paragraph 5(3)(e), the advance guarantee agreement may authorize the administrator to pay a portion of an advance as an emergency advance to an eligible producer if the producer has difficulty harvesting a crop because of unusual weather conditions and it is reasonable to expect the crop to be harvested in a marketable condition. Payment of the emergency advance is subject to any terms and conditions set out in the advance guarantee agreement.
+(2) The maximum amount of the emergency advance is the lesser of $25,000 and 50% of the advance that the administrator expects to make to the producer on the basis of the amount of the crop that will be harvested.
+
+
+
+Article 4 : Texte des articles 6 et 7 :
+6. La garantie, quand elle n’est pas donnée au prêteur, n’a d’effet que si l’agent d’exécution se conforme aux dispositions de l’accord de garantie d’avance et de la présente loi.
+7. (1) Malgré l’alinéa 5(3)e), l’agent d’exécution peut, en conformité avec l’accord de garantie d’avance et les modalités qui y sont fixées, verser une partie de l’avance à titre d’avance de secours au producteur admissible qui éprouve des difficultés à faire une récolte en raison de conditions climatiques anormales, s’il est raisonnable de s’attendre à ce que la récolte pourra être faite et sera commercialisable.
+(2) Le montant maximal de l’avance de secours se limite à 50 % — à concurrence de 25 000 $ — du montant qui, selon l’agent d’exécution, pourrait être octroyé à titre d’avance garantie pour la partie de la récolte qui sera produite.
+
+
+
+
+Clause 5:  Existing text of subsection 9(1):
+9. (1) The Minister must, in relation to each producer, pay to the lender specified in the advance guarantee agreement the interest accruing during a crop year on the amounts borrowed by the administrator to pay the first $50,000 of the total of the following amounts advanced during the crop year, or any shorter period specified in the advance guarantee agreement:
+(a) amounts advanced to the producer for all their crops; and
+(b) the percentage of the amounts advanced to all related producers for all their crops that is attributable to the producer under subsection (2).
+
+
+
+Article 5 : Texte du paragraphe 9(1) :
+9. (1) Le ministre paye au prêteur mentionné dans l’accord de garantie d’avance, relativement à chaque producteur, les intérêts courus pendant une campagne agricole sur les sommes empruntées par l’agent d’exécution pour verser la première tranche de 50 000 $ du total des avances ci-après octroyées au cours de cette campagne agricole ou au cours de la période plus courte prévue par l’accord de garantie d’avance :
+a) la somme que le producteur reçoit à titre d’avance pour toutes ses récoltes;
+b) la somme correspondant au pourcentage des avances reçues par des producteurs liés, pour toutes leurs récoltes, qui est attribuable, aux termes du paragraphe (2), au producteur visé à l’alinéa a).
+
+
+
+
+Clause 6: (1) to (3) Existing text of subsections 10(1) to (2):
+10. (1) For a producer to be eligible for a guaranteed advance during a crop year,
+(a) the producer must, in accordance with any regulations, own the crop continuously and be responsible for marketing it;
+(b) if the producer is an individual, the producer must have attained the age of majority in the province where his or her farming operation is carried on and must be principally occupied in that operation or be entitled to the crop or a share in it as landlord, vendor, mortgagee or hypothecary creditor;
+(c) if the producer is a corporation with only one shareholder, the shareholder must
+(i) have attained the age of majority in the province where the producer’s farming operation is carried on,
+(ii) be principally occupied in that operation or be entitled to the crop or a share in it as landlord, vendor, mortgagee or hypothecary creditor, and
+(iii) agree in writing to be personally liable to the administrator for any liability of the producer under section 22 and to provide any security for the repayment of the advance that the administrator may require;
+(d) if the producer is a corporation with two or more shareholders, a partnership, a cooperative or another association of persons,
+(i) at least one of the shareholders, partners or members, as the case may be, must have attained the age of majority in the province where the producer’s farming operation is carried on and must be principally occupied in that operation or be entitled to the crop or a share in it as landlord, vendor, mortgagee or hypothecary creditor, and
+(ii) each of the shareholders, partners or members, as the case may be, must agree in writing to be jointly and severally liable to the administrator for any liability of the producer under section 22 and must provide any security for the repayment of the advance that the administrator may require;
+(e) the producer and, to the extent provided in the advance guarantee agreement, any related producers must have repaid all guaranteed advances received during the previous crop year for a crop of the same designation, unless the Minister otherwise directs when staying a default under subsection 21(2) by the producer or any of the related producers;
+(f) the producer and, to the extent provided in the advance guarantee agreement, any related producers must not be in default under a repayment agreement;
+(g) the producer must not be ineligible under subsection 21(4); and
+(h) the producer must not have given the crop as security ranking in priority to the security interest created by section 12.
+(1.1) For the purpose of paragraph (1)(h), the producer’s eligibility is not affected by the administrator sharing its security interest with another creditor in accordance with terms and conditions specified in the advance guarantee agreement.
+(2) An eligible producer must make a repayment agreement with the administrator under which the producer agrees
+(a) to repay the advance
+(i) by selling the crop for which the advance is to be made to a buyer or buyers named by the administrator, and authorizing in writing each buyer to withhold from any amount they pay to the producer for each crop unit an amount determined in accordance with the repayment schedule specified in the agreement,
+(ii) by selling or otherwise disposing of the crop for which the advance is to be made and paying directly to the administrator, for each crop unit in accordance with the terms and conditions specified in the agreement, an amount determined in accordance with the repayment schedule specified in the agreement,
+(iii) without proof that the crop has been sold, up to an amount prescribed by the regulations, or
+(iv) by a combination of the methods described in subparagraphs (i) to (iii);
+(b) to keep the crop adequately stored so as to remain of marketable quality until disposed of under the agreement; and
+(c) to comply with any other terms and conditions set out in the agreement, including terms and conditions governing the delivery of the crop and the payment of interest, both before and after any default.
+
+
+
+Article 6  : (1) à (3) Texte des paragraphes 10(1) à (2) :
+10. (1) Le producteur est admissible à l’octroi d’une avance garantie pour une campagne agricole donnée si les conditions suivantes sont réunies :
+a) il est, sous réserve des règlements, propriétaire de la récolte de façon continue et responsable de sa commercialisation;
+b) dans le cas où il s’agit d’un particulier, d’une part, il a atteint l’âge de la majorité dans la province où est située son exploitation agricole et, d’autre part, les travaux agricoles y constituent son activité principale ou il a droit à tout ou partie de la récolte à titre de propriétaire, de vendeur ou de créancier hypothécaire;
+c) dans le cas où il s’agit d’une personne morale à actionnaire unique, celui-ci répond aux exigences suivantes :
+(i) il a atteint l’âge de la majorité dans la province où est située l’exploitation agricole,
+(ii) les travaux agricoles y constituent son activité principale ou il a droit à tout ou partie de la récolte à titre de propriétaire, de vendeur ou de créancier hypothécaire,
+(iii) il s’engage personnellement par écrit envers l’agent d’exécution pour les sommes visées à l’article 22 et doit donner en garantie du remboursement de l’avance les sûretés que peut exiger l’agent d’exécution;
+d) dans le cas où il s’agit d’une personne morale à plusieurs actionnaires, d’une société de personnes, d’une coopérative ou de toute autre association de personnes, elle répond aux exigences suivantes :
+(i) d’une part, au moins un des actionnaires, associés ou membres, selon le cas, a atteint l’âge de la majorité dans la province où est située l’exploitation agricole et, d’autre part, les travaux agricoles y constituent l’activité principale de celui-ci ou il a droit à tout ou partie de la récolte à titre de propriétaire, de vendeur ou de créancier hypothécaire,
+(ii) tous les actionnaires, associés ou membres, selon le cas, s’engagent solidairement par écrit envers l’agent d’exécution pour les sommes visées à l’article 22 et doivent donner en garantie du remboursement de l’avance les sûretés que peut exiger l’agent d’exécution;
+e) toutes les avances garanties, pour la récolte désignée dans l’accord de garantie d’avance de la campagne agricole antérieure, qui lui avaient été octroyées de même que celles octroyées aux producteurs liés visés par cet accord ont été remboursées ou ont fait l’objet d’un sursis en vertu du paragraphe 21(2);
+f) ni lui, ni les producteurs liés visés par l’accord de garantie d’avance ne sont en défaut relativement à un accord de remboursement;
+g) il n’est pas inadmissible aux termes du paragraphe 21(4);
+h) il n’a consenti, sur la récolte visée par l’avance garantie, aucune sûreté prenant rang avant la sûreté visée à l’article 12.
+(1.1) Il est entendu que, pour l’application de l’alinéa (1)h), le fait que l’agent d’exécution partage la sûreté visée à l’article 12 avec un autre créancier dans les conditions prévues à l’accord de garantie d’avance ne change en rien l’admissibilité du producteur.
+(2) Le producteur admissible signe avec l’agent d’exécution un accord de remboursement dans lequel il s’engage :
+a) à rembourser l’avance :
+(i) en vendant la récolte visée par l’avance à un ou plusieurs acheteurs que l’agent d’exécution désigne et en autorisant par écrit ceux-ci à retenir sur le prix de chaque unité de récolte le montant déterminé conformément au calendrier prévu dans l’accord,
+(ii) en aliénant, notamment par vente, selon les conditions établies par l’accord, la récolte faisant l’objet de l’avance et en remettant à l’agent d’exécution, pour chaque unité de récolte, le montant déterminé conformément au calendrier prévu dans l’accord,
+(iii) en lui versant, sans preuve de vente de la récolte, telle somme, à concurrence du maximum fixé par règlement,
+(iv) en combinant les moyens visés aux sous-alinéas (i), (ii) et (iii);
+b) à s’assurer que la récolte sera entreposée de façon à rester commercialisable jusqu’à son aliénation en conformité avec l’accord;
+c) à respecter toutes autres modalités de l’accord, notamment en ce qui concerne la livraison des récoltes ou le paiement d’intérêts, et ce, avant et après la défaillance.
+
+
+
+
+Clause 7: Existing text of sections 11 and 12:
+11. If a crop for which a guaranteed advance is made ceases to be in marketable condition, in whole or in part, the producer becomes liable to repay immediately to the administrator that portion of the guaranteed advance, together with the interest on it from the date of the advance, that is attributable to the unmarketable portion of the crop.
+12. An administrator that makes a guaranteed advance to a producer has a security interest in the crop for which the advance was made, and in any crop subsequently grown by the producer, for the amount of the producer’s liability under sections 22 and 23.
+
+
+
+Article 7 : Texte des articles 11 et 12 :
+11. Lorsque la récolte faisant l’objet d’une avance garantie n’est plus commercialisable en tout ou en partie, le producteur admissible doit sans délai remettre à l’agent d’exécution qui lui a consenti cette avance la partie de celle-ci correspondant à la partie non commercialisable de la récolte ainsi que les intérêts courus à partir de la date d’octroi de l’avance.
+12. S’il consent une avance garantie à un producteur pour la récolte d’une campagne agricole donnée, l’agent d’exécution dispose d’une sûreté sur cette récolte et sur les récoltes de campagnes agricoles subséquentes pour les sommes dont le producteur est redevable au titre des articles 22 et 23.
+
+
+
+
+Clause 8: (1) and (2) Existing text of section 13:
+13. (1) For the purpose of making guaranteed advances under this Act, the Board may make any arrangements, contracts or agreements that it considers necessary or advisable for the administration of this Part, including borrowing money by any means, for example, by issuing, reissuing, selling and pledging bonds, debentures, notes and other evidences of indebtedness of the Board.
+(2) The Minister of Finance may, subject to any terms and conditions approved by the Governor in Council, guarantee the repayment of money borrowed under subsection (1) together with the interest on it.
+
+
+
+Article 8 : (1) et (2) Texte de l’article 13 :
+13. (1) La Commission peut, en vue d’octroyer des avances en application d’un accord de garantie d’avance, prendre les dispositions et conclure les contrats ou accords qu’elle estime utiles à l’application de la présente partie et notamment emprunter des fonds ou en recueillir au moyen, entre autres, de l’émission, de la réémission, de la vente et de la mise en gage de ses propres obligations, débentures, billets ou autres titres de créance.
+(2) Le ministre des Finances peut, aux conditions que le gouverneur en conseil approuve, garantir le remboursement des fonds visés au paragraphe (1) ainsi que des intérêts afférents.
+
+
+
+
+Clause 9: Existing text of section 14:
+14. Despite the Canada Grain Act, the manager or operator of an elevator or other person authorized by the Board to make guaranteed advances on its behalf may make advances by means of cash purchase tickets.
+
+
+
+Article 9 : Texte de l’article 14 :
+14. Par dérogation à la Loi sur les grains du Canada, toute personne — y compris le directeur ou l’exploitant d’un silo — autorisée par la Commission à verser des avances en son nom peut verser celles-ci sous forme de bons de paiement.
+
+
+
+
+Clause 10: Existing text of sections 15 to 19:
+15. (1) Paragraphs 5(3)(c) and (f), subparagraph 5(3)(g)(i) and paragraph 5(3)(h) do not apply to the Board.
+(2) Interest payable by the Minister under subsection 9(1) in relation to amounts borrowed by the Board is payable to the Board.
+16. (1) At any time after a producer applies to the Board for an advance, the Board may require the producer to deliver to it any permit book issued to the producer or to any related producer.
+(2) The Board may require an endorsement to be made in the permit book in a form specified by the Board, indicating that amounts for all crops delivered under the permit book must be deducted and paid to the Board in accordance with the repayment agreement with the producer.
+17. (1) If a delivery of a crop is made under a permit book that bears an endorsement, the person receiving the delivery shall
+(a) deduct and pay to the Board, in priority to all other persons, the portion of the payment for the crop that the repayment agreement with the producer authorizes to be deducted from each payment until the advance has been repaid; and
+(b) make an appropriate entry of the deduction in the permit book and in any other permit book that has the same endorsement and is presented to the person receiving the delivery.
+(2) When the guaranteed advance has been repaid, the Board must cancel the endorsement.
+18. A producer whose permit book has been endorsed under subsection 16(2) is not entitled to receive and shall not use any other permit book, including a permit book of any related producer, in substitution for the endorsed permit book for the same or any subsequent crop year, unless the guaranteed advance is repaid or the endorsement is also made in the other permit book.
+Amount of Advances
+19. (1) The amount of an advance eligible for a guarantee under this Part is calculated by multiplying
+(a) the number of crop units for which the advance is to be made
+by
+(b) the rate per crop unit specified in the advance guarantee agreement for that crop in the crop year in which the advance is made.
+(2) The rate per crop unit may be specified for a particular crop in a particular area, but it must not exceed one half of the average price that, in the Minister’s opinion, will be payable to producers of the crop in that area.
+
+
+
+Article 10 : Texte des articles 15 à 19 :
+15. (1) Les alinéas 5(3)c) et f), le sous-alinéa 5(3)g)(i) et l’alinéa 5(3)h) ne s’appliquent pas à la Commission.
+(2) Dans les cas où la Commission est l’agent d’exécution, le ministre lui paye les intérêts visés au paragraphe 9(1).
+16. (1) La Commission peut en tout temps exiger qu’un producteur ayant fait une demande d’avance garantie lui remette un ou plusieurs carnets de livraison de même qu’un ou plusieurs de ceux, le cas échéant, des producteurs liés.
+(2) La Commission peut exiger que le carnet porte la mention, en la forme prévue par celle-ci, selon laquelle des déductions doivent être faites au profit de la Commission relativement à la totalité des récoltes livrées au titre du carnet aux termes de l’accord de remboursement.
+17. (1) Lorsque la livraison d’une récolte est faite aux termes d’un carnet de livraison portant la mention prévue au paragraphe 16(2), quiconque prend livraison de la récolte :
+a) déduit et paye à la Commission, en priorité sur toute autre personne, la fraction du paiement relatif à la récolte que l’accord de remboursement autorise à déduire sur chaque acompte à la livraison, tant que l’avance n’a pas été remboursée;
+b) porte la déduction à ce carnet de livraison ainsi qu’à tout autre carnet qui porte la même mention et qui lui est présenté.
+(2) Lorsque l’avance garantie a été remboursée, la Commission annule la mention.
+18. Lorsque le carnet de livraison porte la mention prévue au paragraphe 16(2), le producteur n’a pas le droit, tant qu’il n’a pas remboursé l’avance, de recevoir ou d’utiliser un autre carnet, notamment celui d’un producteur lié, en remplacement de ce premier carnet, pour la même campagne agricole ou une campagne subséquente, sauf si la mention y est également faite.
+Montant de l’avance
+19. (1) La détermination du montant de l’avance susceptible d’être garantie en vertu de la présente partie se fait par la multiplication des facteurs suivants :
+a) le nombre d’unités de récolte visées par l’avance proposée;
+b) le taux unitaire fixé dans l’accord de garantie d’avance pour cette récolte au cours de la campagne agricole en cause.
+(2) L’accord de garantie d’avance peut prévoir, pour les différentes régions où une récolte est produite, différents taux unitaires pour celle-ci qui ne peuvent dépasser la moitié de ce que le ministre estime être le prix moyen qui sera payé aux producteurs pour cette récolte dans la région concernée.
+
+
+
+
+Clause 11: Existing text of subsection 20(1):
+20. (1) The maximum amount of advances in any crop year that are eligible for a guarantee under this Act
+(a) for a particular crop produced by an eligible producer, is an amount specified in the advance guarantee agreement for that crop; and
+(b) for all crops produced by the producer or by any related producers, to the extent that advances for the crops are attributable to the producer under subsection (2), is the lesser of $250,000 and an amount determined by the Minister.
+
+
+
+Article 11 : Texte du paragraphe 20(1) :
+20. (1) Durant une campagne agricole, le montant maximal des avances qui peuvent être garanties en vertu de la présente loi :
+a) est, à l’égard du producteur admissible pour une récolte donnée, prévu par l’accord de garantie d’avance;
+b) relativement à l’ensemble des récoltes produites par le producteur admissible ou, dans la mesure où les avances lui sont attribuables conformément au paragraphe (2), produites par les producteurs liés pendant cette campagne agricole ne peut dépasser 250 000 $ ou le montant inférieur fixé par le ministre.
+
+
+
+
+Clause 12: (1) and (2) Relevant portion of subsection 21(1):
+21. (1) For the purposes of this Part, a producer is in default under a repayment agreement if the producer
+...  
+(b) has not met all of their obligations under the agreement at the end of the crop year in which the advance was made;
+...  
+(d) at any time breaches an obligation under the agreement; or
+
+
+
+Article 12 : (1) et (2) Texte du passage visé du paragraphe 21(1) :
+21. (1) Pour l’application de la présente partie, un producteur est en défaut relativement à l’accord de remboursement dans les cas suivants :
+[...]  
+b) il ne s’est pas acquitté de toutes les obligations que lui impose l’accord à la date où se termine la campagne agricole au cours de laquelle l’avance a été consentie;
+[...]  
+d) il manque, à un moment quelconque, à une obligation de cet accord;
+
+
+
+
+Clause 13: Existing text of subsection 24(1):
+24. (1) If a producer is in default under a repayment agreement with the Board or any other administrator, the Board may, for the purpose of repaying the producer’s liability under sections 22 and 23, make deductions from any amounts owing under section 33 of the Canadian Wheat Board Act to the producer or to another producer whose permit book the producer uses.
+
+
+
+Article 13 : Texte du paragraphe 24(1) :
+24. (1) Dans le cas où le producteur est en défaut aux termes de l’accord de remboursement — quel que soit l’agent d’exécution —, la Commission peut déduire, des paiements dus au producteur au titre de l’article 33 de la Loi sur la Commission canadienne du blé, les sommes dont ce dernier ou tout autre producteur dont il a utilisé le carnet de livraison est redevable au titre des articles 22 et 23.
+
+
+
+
+Clause 14: New.
+
+
+
+Article 14 : Nouveau.
+
+
+
+
+Clause 15: Existing text of subsection 34(4):
+(4) A person who uses a permit book in contravention of section 18 commits an offence.
+
+
+
+Article 15 : Texte du paragraphe 34(4) :
+(4) Commet une infraction quiconque utilise un carnet de livraison en contravention de l’article 18.
+
+
+
+
+Clause 16: (1)  Relevant portion of subsection 40(1):
+40. (1) The Governor in Council may make regulations
+(a) defining
+(i) “supported” for the purposes of the definition “administrator” in subsection 2(1),
+(ii) “non-processed” for the purposes of the definition “crop” in subsection 2(1), and
+(iii) “continuously own” and “responsible for marketing” for the purposes of paragraph 10(1)(a);
+(b) for determining for the purposes of paragraph 5(2)(a) what is a significant portion of a crop;
+(c) for determining a method of calculating the administrator’s percentage mentioned in paragraph 5(3)(g), but the percentage must be at least 1% and not more than 15%;
+(d) for determining a method of calculating the Minister’s percentage mentioned in paragraph 5(3)(i) and subsection 23(1);
+(e) prescribing attributable percentages for the purposes of paragraphs 9(2)(c) and 20(2)(c);
+(f) prescribing an amount for the purposes of subparagraph 10(2)(a)(iii);
+
+
+
+Article 16 : (1) Texte du passage visé du paragraphe 40(1) :
+40. (1) Le gouverneur en conseil peut, par règlement :
+a) définir « approuvé » pour l’application de la définition de « agent d’exécution » au paragraphe 2(1), « non transformée » pour l’application de la définition de « récolte » au paragraphe 2(1), « propriétaire de la récolte de façon continue » et « responsable de la commercialisation » pour l’application de l’alinéa 10(1)a);
+b) déterminer, pour l’application du paragraphe 5(2), ce qui constitue une partie importante de la récolte;
+c) déterminer la formule devant servir au calcul du pourcentage visé à l’alinéa 5(3)g); ce pourcentage doit être d’au moins 1 % et d’au plus 15 %;
+d) déterminer la formule devant servir au calcul du pourcentage visé à l’alinéa 5(3)i) et au paragraphe 23(1);
+e) déterminer le pourcentage visé aux alinéas 9(2)c) et 20(2)c);
+f) fixer un montant pour l’application du sous-alinéa 10(2)a)(iii);
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+(3) Existing text of subsection 40(2):
+(2) Despite any regulations made under paragraph (1)(c), the administrator’s percentage for crop years beginning in 1997 or 1998 is 2%, except for crops for which the Board is the administrator, in which case the prescribed percentage is 0%.
+
+
+
+(3) Texte du paragraphe 40(2) :
+(2) Malgré les règlements d’application de l’alinéa (1)c), le pourcentage visé à l’alinéa 5(3)g) est, pour les campagnes agricoles commençant en 1997 et en 1998, de 0 % si la Commission est l’agent d’exécution et de 2 % dans les autres cas.
+
+
+
+
+Clause 17: Existing text of subsection 42(1):
+42. (1) During the fifth year after this Act is assented to, the Minister must review the provisions and operation of this Act in consultation with the Minister of Finance.
+
+
+
+Article 17 : Texte du paragraphe 42(1) :
+42. (1) Au cours de la cinquième année qui suit la sanction de la présente loi, le ministre procède à l’examen des dispositions et de l’application de la présente loi en consultation avec le ministre des Finances.
+
+
+
+
+Clause 18: Existing text of section 51.1:
+51.1 For the purpose of applying paragraph 10(1)(f), a default under a repayment agreement includes a default in repaying an advance under the Advance Payments for Crops Act.
+
+
+
+Article 18 : Texte de l’article 51.1 :
+51.1 Pour l’application de l’alinéa 10(1)f), est assimilé à un défaut relativement à un accord de remboursement le défaut d’un producteur relativement à une avance accordée aux termes de la Loi sur le paiement anticipé des récoltes.
+
+
+
+
+Clause 19: Existing text of section 52.1:
+52.1 For the purpose of applying paragraph 10(1)(f), a default under a repayment agreement includes a default in repaying an advance payment under the Prairie Grain Advance Payments Act.
+
+
+
+Article 19 : Texte de l’article 52.1 :
+52.1 Pour l’application de l’alinéa 10(1)f), est assimilé à un défaut relativement à un accord de remboursement le défaut d’un producteur relativement à une avance accordée aux termes de la Loi sur les paiements anticipés pour le grain des Prairies.
+
+
+
+
+
+
+SCHEDULE 
+
+
+
+
+
+ANNEXE 
+
+
+
+
+
+
+(Section 20)
+
+
+
+
+
+(article 20)
+
+
+
+
+
+
+SCHEDULE 
+
+
+
+
+
+ANNEXE 
+
+
+
+
+
+
+(Subsection 5(3.2))
+
+
+
+
+
+(paragraphe 5(3.2))
+
+
+
+
+
+
+PROGRAMS
+
+
+
+
+
+PROGRAMMES
+
+
+
+
+
+
+Canadian Agricultural Income Stabilization Program
+
+
+
+
+
+Compte de stabilisation du revenu net
+
+
+
+
+
+
+Net Income Stabilization Account
+
+
+
+
+
+Programme canadien de stabilisation du revenu agricole
+
+
+
+
+
+
+Production Insurance Program
+
+
+
+
+
+Programme d’assurance-production
+
+
+
+
+
+
+Programme d’assurance stabilisation des revenus agricoles
+
+
+
+
+
+Programme d’assurance stabilisation des revenus agricoles
+
+
+
+
+
+
+Self Directed Risk Management
+
+
+
+
+
+Self Directed Risk Management
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+

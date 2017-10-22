@@ -1,0 +1,712 @@
+
+
+
+
+
+C-368
+
+
+
+
+
+C-368
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-368
+
+
+
+
+
+PROJET DE LOI C-368
+
+
+
+
+
+
+An Act to amend the Employment Insurance Act (change of title to Unemployment Insurance Act) and another Act in consequence
+
+
+
+
+
+Loi modifiant la Loi sur l'assurance-emploi (modification du titre) et une autre loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, October 25, 2006
+
+première lecture le 25 octobre 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2nd Session, 39th Parliament
+
+This bill was introduced during the First Session of the 39th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2e session, 39e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 39e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+Mr. Godin
+
+391162
+
+
+
+M. Godin
+
+
+
+
+
+SUMMARY
+This enactment changes the title of the Employment Insurance Act back to its original version, the Unemployment Insurance Act.
+The enactment also changes the name of that of Employment Insurance Account to that of Unemployment Insurance Account.
+
+
+
+SOMMAIRE
+Le texte rétablit l’ancien titre de la loi, soit la Loi sur l’assurance-chômage.
+Le texte change également le nom du Compte d’assurance-emploi, qui devient le Compte d’assurance-chômage.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-368
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-368
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Employment Insurance Act (change of title to Unemployment Insurance Act) and another Act in consequence
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur l'assurance-emploi (modification du titre) et une autre loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+1996, c. 23
+
+
+
+EMPLOYMENT INSURANCE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’ASSURANCE-EMPLOI
+
+
+
+1996, ch. 23
+
+
+
+
+
+
+
+
+
+
+
+
+1. The long title of the Employment Insurance Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. Le titre intégral de la Loi sur  l’assurance-emploi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting unemployment insurance in Canada
+
+
+
+
+
+
+
+
+
+Loi concernant l’assurance-chômage au Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) Section 1 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. (1) L’article 1 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Unemployment Insurance Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur l’assurance-chômage.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+Replacement of “Employment Insurance Act” with “Unemploy-ment Insurance Act”
+
+
+
+(2) A reference in any other Act of Parliament, regulation, agreement or other instrument to the Employment Insurance Act is replaced, with such modifications as the circumstances require, by a reference to the Unemployment Insurance Act.
+
+
+
+
+
+
+
+
+
+(2) Dans les lois fédérales, leurs textes d’application ainsi que dans tout accord ou autre document, la mention de la Loi sur l’assurance-emploi est remplacée, compte tenu des adaptations de circonstance, par la Loi sur l’assurance-chômage.
+
+
+
+Remplacement de « Loi sur l’assurance-emploi » par « Loi sur l’assurance-chômage »
+
+
+
+
+
+
+
+
+
+
+Replacement of “Employment Insurance Account”
+
+
+
+3. The Act is amended by replacing the expression “Employment Insurance Account” with the expression “Unemployment Insurance Account” wherever it occurs.
+
+
+
+
+
+
+
+
+
+3. Dans la même loi, « Compte d’assurance-emploi » est remplacé par « Compte d’assurance-chômage ».
+
+
+
+Remplacement de « Compte d’assurance-emploi »
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENT
+
+
+
+
+
+
+
+
+
+MODIFICATION CORRÉLATIVE
+
+
+
+
+
+
+
+
+
+
+2005, c. 34
+
+
+
+Department of Human Resources 
+and Skills Development Act
+
+
+
+
+
+
+
+
+
+
+Loi sur le ministère des Ressources humaines et du Développement des compétences
+
+
+
+
+2005, ch. 34
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 29 of the Department of Human Resources and Skills Development Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. L’article 29 de la Loi sur le ministère des Ressources humaines et du Développement des compétences est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Audit
+
+
+
+
+
+
+
+
+
+Vérification
+
+
+
+
+
+
+
+
+
+
+
+
+Audit by Auditor General
+
+
+
+29. The Auditor General of Canada shall annually audit the accounts and financial transactions of the Commission for the previous fiscal year. The Auditor General shall also audit the Unemployment Insurance Account established by section 71 of the Unemployment Insurance Act, and a report of that audit shall be made to the Minister.
+
+
+
+
+
+
+
+
+
+29. Le vérificateur général examine chaque année les comptes et les opérations financières de la Commission pour l’exercice précédent; il examine également, pour la même période, le Compte d'assurance-chômage créé par l’article 71 de la Loi sur l’assurance-chômage et en fait rapport au ministre.
+
+
+
+Vérification
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1045 @@
+
+
+
+
+
+C-431
+
+
+
+
+
+C-431
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-431
+
+
+
+
+
+PROJET DE LOI C-431
+
+
+
+
+
+
+An Act to amend the Contraventions Act and the Controlled Drugs and Substances Act (marihuana)
+
+
+
+
+
+Loi modifiant la Loi sur les contraventions et la Loi réglementant certaines drogues et autres substances (marihuana)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, April 20, 2007
+
+première lecture le 20 avril 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2nd Session, 39th Parliament
+
+This bill was introduced during the First Session of the 39th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2e session, 39e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 39e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+Mr. Martin (Esquimalt—Juan de Fuca)
+
+391439
+
+
+
+M. Martin (Esquimalt—Juan de Fuca)
+
+
+
+
+
+SUMMARY
+This enactment amends the Contraventions Act and the Controlled Drugs and Substances Act. It changes the type of proceedings and legal regime governing the offences of possession of, possession for the purpose of trafficking and trafficking in, one gram or less of cannabis resin or thirty grams or less of cannabis (marihuana). 
+Under this enactment, these offences are deemed to be contraventions within the meaning of the Contraventions Act. Thus, an enforcement authority who believes on reasonable grounds that a person has committed a contravention may complete a ticket in respect of that contravention and cause it to be served on the person. A person may, within 30 days after being served with a ticket,
+(a) plead guilty and pay the amount of the fine set out in the ticket;
+(b) plead guilty but make representations concerning the penalty, that is, the fine and fees imposed and whether the person ought to be given time to pay them; or
+(c) request a trial.
+A person who has been convicted of a contravention has not been convicted of a criminal offence, and a contravention does not constitute an offence for the purposes of the Criminal Records Act. 
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur les contraventions et la Loi réglementant certaines drogues et autres substances afin de changer le mode de poursuite et le régime juridique des infractions de possession, possession en vue de faire le trafic et trafic d'un gramme ou moins de résine de cannabis ou de trente grammes ou moins de cannabis (marihuana). 
+Selon ce texte, ces infractions sont réputées être des contraventions au sens de la Loi sur les contraventions. Ainsi, un agent de l'autorité peut, s'il a des motifs raisonnables de croire à la perpétration d'une de ces contraventions, en dresser le procès-verbal et le faire signifier à l'auteur de la contravention. Ce dernier peut, dans les trente jours suivant la signification du procès-verbal,  se prévaloir de l'une des options suivantes : 
+a) présenter un plaidoyer de culpabilité et payer le montant indiqué sur le procès-verbal;
+b) présenter un plaidoyer de culpabilité accompagné d'observations quant à la peine — notamment l'amende et les frais — à imposer et le délai de paiement à accorder, s'il y a lieu;
+c) demander un procès.
+Quiconque est déclaré coupable d'une contravention n'est pas coupable d'une infraction criminelle, et la contravention ne constitue pas une infraction pour l'application de la Loi sur le casier judiciaire. 
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-431
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-431
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Contraventions Act and the Controlled Drugs and Substances Act (marihuana)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les contraventions et la Loi réglementant certaines drogues et autres substances (marihuana)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+1992, c. 47 
+
+
+
+CONTRAVENTIONS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LES CONTRAVENTIONS
+
+
+
+1992, ch. 47 
+
+
+
+
+
+
+
+
+
+
+
+
+1. The definition “contravention” in section 2 of the Contraventions Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. La définition de « contravention », à l'article 2 de la Loi sur les contraventions, est remplacée par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+“contravention”« contravention »
+
+
+
+“contravention” means
+
+
+
+
+
+
+
+
+(a) an offence that is created by an enactment and is designated as a contravention by regulation of the Governor in Council; or
+
+
+
+
+
+
+
+
+(b) an offence under subsection 4(5) or 5(4.1) of the Controlled Drugs and Substances Act;
+
+
+
+
+
+
+
+
+
+« contravention »  Selon le cas :
+
+
+
+« contravention »“contravention”
+
+
+
+
+a) infraction créée par un texte et qualifiée de contravention par règlement du gouverneur en conseil;
+
+
+
+
+
+
+
+
+b) infraction visée aux paragraphes 4(5) ou 5(4.1) de la Loi réglementant certaines drogues et autres substances.
+
+
+
+
+
+
+
+
+
+
+
+
+1996, c. 19 
+
+
+
+CONTROLLED DRUGS AND SUBSTANCES ACT
+
+
+
+
+
+
+
+
+
+LOI RÉGLEMENTANT CERTAINES DROGUES ET AUTRES SUBSTANCES
+
+
+
+ 1996, ch. 19 
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 4(5) of the Controlled Drugs and Substances Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 4(5) de la Loi réglementant certaines drogues et autres substances est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(5) Every person who contravenes subsection (1) where the subject-matter of the offence is a substance included in Schedule II in an amount that does not exceed the amount set out for that substance in Schedule VIII is guilty of an offence punishable by a proceeding commenced by means of a ticket under the Contraventions Act and liable 
+
+
+
+
+
+
+
+
+(a) for a first offence, to a fine of $200;
+
+
+
+
+
+
+
+
+(b) for a second offence, to a fine of $500; and
+
+
+
+
+
+
+
+
+(c) for any subsequent offence, to a fine of $1,000.
+
+
+
+
+
+
+
+
+For greater certainty, an information shall not be laid under the Criminal Code in respect of this offence. 
+
+
+
+
+
+
+
+
+
+(5) Quiconque contrevient au paragraphe (1) commet, dans le cas de substances inscrites à la fois à l'annexe II et à l'annexe VIII, et ce, pourvu que la quantité en cause n'excède pas celle mentionnée à cette dernière annexe, une infraction punissable au terme de procédures introduites par procès-verbal en vertu de la Loi sur les contraventions et passible :
+
+
+
+Peine — cas particuliers 
+
+
+
+
+a) pour une première infraction, d'une amende de 200 $;
+
+
+
+
+
+
+
+
+b) pour une deuxième infraction, d'une amende de 500 $;
+
+
+
+
+
+
+
+
+c) pour toute autre récidive, d'une amende de 1 000 $.
+
+
+
+
+
+
+
+
+ Il demeure entendu qu'il ne peut être déposé de dénonciation sous le régime du Code criminel pour cette infraction. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. (1) Subsection 5(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. (1) Le paragraphe 5(4) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment in respect of specified substance 
+
+
+
+(4) Every person who contravenes subsection (1) or (2), where the subject-matter of the offence is a substance included in Schedule II in an amount that is within the limits set out for that substance in Schedule VII, is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years less a day.
+
+
+
+
+
+
+
+
+
+(4) Quiconque contrevient aux paragraphes (1) ou (2) commet, dans le cas de substances inscrites à la fois à l'annexe II et à l'annexe VII, et ce, pourvu que la quantité en cause se situe dans les limites prévues à cette dernière annexe, un acte criminel passible d'un emprisonnement maximal de cinq ans moins un jour. 
+
+
+
+Peine — cas particuliers 
+
+
+
+
+
+
+
+
+
+
+Punishment in respect of specified substance 
+
+
+
+(4.1) Every person who contravenes subsection (1) or (2), where the subject-matter of the offence is a substance included in Schedule II in an amount that does not exceed the amount set out for that substance in Schedule VIII, is guilty of an offence punishable by a proceeding commenced by means of a ticket under the Contraventions Act and liable
+
+
+
+
+
+
+
+
+(a) for a first contravention, to a fine of $200;
+
+
+
+
+
+
+
+
+(b) for a second contravention, to a fine of $500; and
+
+
+
+
+
+
+
+
+(c) for any subsequent contravention, to a fine of $1,000.
+
+
+
+
+
+
+
+
+For greater certainty, an information shall not be laid under the Criminal Code in respect of this offence. 
+
+
+
+
+
+
+
+
+
+(4.1) Quiconque contrevient aux paragraphes (1) ou (2) commet, dans le cas de substances inscrites à la fois à l'annexe II et à l'annexe VIII, et ce, pourvu que la quantité en cause n'excède pas celle mentionnée à cette dernière annexe, une infraction punissable au terme de procédures introduites par procès-verbal en vertu de la Loi sur les contraventions  et passible : 
+
+
+
+Peine — cas particuliers  
+
+
+
+
+a) pour une première infraction, d'une amende de 200 $;
+
+
+
+
+
+
+
+
+b) pour une deuxième infraction, d'une amende de 500 $;
+
+
+
+
+
+
+
+
+c) pour toute autre récidive, d'une amende de 1 000 $.
+
+
+
+
+
+
+
+
+Il demeure entendu qu'il ne peut être déposé de dénonciation sous le régime du Code criminel pour cette infraction. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 5(6) of the Act is replaced by the following: 
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 5(6) de la même loi est remplacé par ce qui suit :  
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation 
+
+
+
+(6) For the purposes of subsections (4) and (4.1) and Schedules VII and VIII, the amount of the substance means the entire amount of any mixture or substance, or the whole of any plant, that contains a detectable amount of the substance. 
+
+
+
+
+
+
+
+
+
+(6) Pour l'application des paragraphes (4) et (4.1) et des annexes VII et VIII, « quantité » s'entend du poids total de tout mélange, substance ou plante dans lequel on peut déceler la présence de la substance en cause.
+
+
+
+Interprétation 
+
+
+
+
+
+
+
+
+
+
+
+
+4. Schedule VII to the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. L'annexe VII de la même loi est remplacée par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE VII 
+
+
+
+
+
+
+
+
+
+ANNEXE VII 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Sections 5 and 60)
+
+
+
+
+
+
+
+
+
+(articles 5 et 60)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Substance  
+
+
+Amount 
+
+
+
+
+1. Cannabis resin
+
+
+more than 1 g and less 
+than 3 kg 
+
+
+
+
+2. Cannabis (marihuana)
+
+
+more than 30 g and less than 3 kg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Substance
+
+
+Quantité
+
+
+
+
+1. Résine de cannabis
+
+
+plus de 1 g mais moins de 3 kg 
+
+
+
+
+2. Cannabis (marihuana)
+
+
+plus de 30 g mais moins de 3 kg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

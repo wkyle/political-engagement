@@ -1,0 +1,801 @@
+
+
+
+
+
+
+S-210
+
+
+
+
+
+S-210
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-210
+
+
+
+
+
+PROJET DE LOI S-210
+
+
+
+
+
+
+An Act to amend the Criminal Code (criminal interest rate)
+
+
+
+
+
+Loi modifiant le Code criminel (taux d’intérêt criminel)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 20, 2013
+
+
+
+
+
+première lecture le 20 novembre 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR RINGUETTE
+
+1017
+
+
+
+L’HONORABLE SÉNATRICE RINGUETTE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+     This enactment amends the Criminal Code to reduce the criminal rate of interest from sixty per cent to the Bank of Canada’s overnight rate plus twenty per cent on credit advanced for certain purposes, which would include personal, family and household purposes.  It maintains the criminal rate at sixty per cent on credit advanced for business or commercial purposes.  However, business or commercial agreements under which the credit advanced equals or exceeds one million dollars are exempt from the offence of charging a criminal rate of interest.  
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel afin de diminuer le taux criminel, le faisant passer de soixante pour cent au taux de financement à un jour de la Banque du Canada majoré de vingt pour cent si le capital est prêté à certaines fins, notamment à des fins personnelles, familiales ou ménagères. Il maintient le taux criminel à soixante pour cent si le capital prêté est destiné à des fins professionnelles ou commerciales. Toutefois, les conventions ou ententes aux termes desquelles le capital prêté égale ou excède un million de dollars et est destiné à des fins professionnelles ou commerciales ne sont pas visées par ces dispositions.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-210
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-210
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (criminal interest rate)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (taux d’intérêt criminel)
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) The definition “criminal rate” in subsection 347(2) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. (1) La définition de « taux criminel », au paragraphe 347(2) du Code criminel, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“criminal rate”« taux criminel »
+
+
+
+“criminal rate” means an effective annual rate of interest calculated in accordance with generally accepted actuarial practices and principles
+
+
+
+
+
+
+
+
+
+
+
+(a) that exceeds
+sixty per cent on the credit
+advanced under an agreement or arrangement,
+if the credit is or is to be advanced for
+business or commercial purposes, or
+
+
+
+
+
+
+
+
+
+
+
+(b) that exceeds the Bank of Canada’s overnight rate plus twenty per cent on the credit
+advanced under an agreement or arrangement, in  any other case;
+
+
+
+
+
+
+
+
+
+
+« taux criminel » Tout taux d’intérêt annuel effectif, appliqué au capital prêté et calculé conformément aux règles et pratiques actuarielles généralement admises, qui dépasse :
+
+
+
+« taux criminel »“criminal rate”
+
+
+
+
+
+
+a) soixante pour cent, si le capital prêté ou à prêter est destiné à des fins professionnelles ou commerciales;
+
+
+
+
+
+
+
+
+
+
+
+
+b) le taux de financement à un jour de la Banque du Canada majoré de vingt pour cent si le capital prêté ou à prêter est destiné à toute autre fin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 347(2) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 347(2) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“Bank of Canada’s overnight rate”« taux de financement à un jour de la Banque du Canada »
+
+
+
+
+“Bank of Canada’s overnight rate”, in relation to credit advanced, means the Bank of Canada’s overnight rate on the day on which the agreement or arrangement under which the credit is or is to be advanced is entered into or renewed;
+
+
+
+
+
+
+
+
+
+
+
+« taux de financement à un jour de la Banque du Canada » Relativement à du capital prêté, le taux de financement à un jour en vigueur le jour où est conclue ou renouvelée la convention ou l’entente aux termes de laquelle le capital est prêté ou sera prêté;
+
+
+
+
+« taux de financement à un jour de la Banque du Canada »“Bank of Canada’s overnight rate”
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 347 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(3) L’article 347 de la même loi est modifié par adjonction, après le paragraphe  (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Meaning of business or commercial purposes
+
+
+
+
+(2.1) For the purposes of this section, credit is advanced for business or commercial purposes if
+
+
+
+
+
+
+
+
+
+
+
+
+(a) it is advanced to an organization that operates for profit or to an individual who operates a business or engages in a commercial activity for profit; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) it is not advanced for personal, family or household purposes.
+
+
+
+
+
+
+
+
+
+
+
+(2.1) Pour l'application du présent article, le capital prêté est destiné à des fins professionnelles ou commerciales si :
+
+
+
+
+Fins professionnelles ou commerciales
+
+
+
+
+
+
+a) d’une part, l’emprunteur est une organisation à but lucratif ou un particulier qui exploite une entreprise ou exerce des activités commerciales dans un but lucratif;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, il n’est pas destiné à des fins personnelles, familiales ou ménagères.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Section 347 of the Act is amended by adding the following after subsection (8):
+
+
+
+
+
+
+
+
+
+(4) L’article 347 de la même loi est modifié par adjonction, après le paragraphe (8), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application —  advancing credit over $1,000,000 for business purposes
+
+
+
+
+(9) This section does not apply in respect of an agreement or arrangement under which credit is or is to be advanced for business or commercial purposes if the credit advanced at any one time under the agreement or arrangement equals or exceeds one million dollars.
+
+
+
+
+
+
+
+
+
+
+
+(9)  Le présent article ne s’applique pas à la convention ou à l’entente aux termes de laquelle le capital prêté égale ou excède un million de dollars et est destiné à des fins professionnelles ou commerciales.
+
+
+
+
+Domaine d’application — prêt excédant 1 000 000 $ destiné à des fins professionnelles
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+
+2. This Act comes into force 60 days after the day on which it receives royal assent.
+
+
+
+
+
+
+
+
+
+
+2. La présente loi entre en vigueur soixante jours après la date de sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Criminal Code
+
+Clause 1: (1) Existing text of the definition:
+“criminal rate” means an effective annual rate of interest calculated in accordance with generally accepted actuarial practices and principles that exceeds sixty per cent on the credit advanced under an agreement or arrangement;
+
+
+
+ Code criminel
+
+Article 1 : (1) Texte de la  définition:
+« taux criminel » Tout taux d’intérêt annuel effectif, appliqué au capital prêté et calculé conformément aux règles et pratiques actuarielles généralement admises, qui dépasse soixante pour cent.
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+(3) New.
+
+
+
+(3) Nouveau.
+
+
+
+
+(4) New.
+
+
+
+(4) Nouveau.
+
+
+
+
+
+

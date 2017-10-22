@@ -1,0 +1,3369 @@
+
+
+
+
+
+
+C-27
+
+
+
+
+
+C-27
+
+
+
+
+
+
+Second Session, Thirty-ninth Parliament,
+
+
+
+
+
+Deuxième session, trente-neuvième législature,
+
+
+
+
+
+
+56 Elizabeth II, 2007
+
+
+
+
+
+56 Elizabeth II, 2007
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-27
+
+
+
+
+
+PROJET DE LOI C-27
+
+
+
+
+
+
+An Act to amend the Criminal Code (identity theft and related misconduct)
+
+
+
+
+
+Loi modifiant le Code criminel (vol d’identité et inconduites connexes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 21, 2007
+
+
+
+
+
+première lecture le 21 novembre 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE MINISTER OF JUSTICE
+
+90423
+
+
+
+LE MINISTRE DE LA JUSTICE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code to create a new offence of identity theft, of trafficking in identity information and of unlawful possession or trafficking in certain government-issued identity documents, to clarify and expand certain offences related to identity theft and identity fraud, to exempt certain persons from liability for certain forgery offences, and to allow for an order that the offender make restitution to a victim of identity theft or identity fraud for the expenses associated with rehabilitating their identity.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel afin de créer de nouvelles infractions pour le vol d’identité, le trafic de renseignements identificateurs et la possession illégale ou le trafic de certaines pièces d’identité délivrées par le gouvernement et apporte des précisions et des ajouts à certaines infractions existantes liées au vol d’identité et à la fraude à l’identité. Il prévoit une exemption à certaines infractions relatives aux faux documents. Il prévoit enfin le dédommagement des victimes de vol d’identité ou de fraude à l’identité qui ont engagé des dépenses pour rétablir leur identité.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56 Elizabeth II, 2007
+
+
+
+
+
+
+
+
+
+56 Elizabeth II, 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-27
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (identity theft and related misconduct)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (vol d’identité et inconduites connexes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. The heading before section 57 of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. L’intertitre précédant l’article 57 du Code criminel est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Official Documents
+
+
+
+
+
+
+
+
+
+
+
+Documents officiels
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identity documents
+
+
+
+
+
+56.1 (1) Every person commits an offence who, without lawful excuse, procures to be made, possesses, transfers, sells or offers for sale an identity document that relates or purports to relate, in whole or in part, to another person.
+
+
+
+
+
+
+
+
+
+
+
+
+56.1 (1) Commet une infraction quiconque, sans excuse légitime, fait fabriquer, a en sa possession, transmet, vend ou offre en vente une pièce d’identité concernant ou censée concerner, en totalité ou en partie, une autre personne.
+
+
+
+
+Pièces d’identité
+
+
+
+
+
+
+
+
+
+
+Defences
+
+
+
+
+(2) No person shall be convicted of an offence under subsection (1) if the act that is alleged to constitute the offence was carried out
+
+
+
+
+
+
+
+
+
+
+
+
+(a) in good faith in the ordinary course of the person’s business, employment or office;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) for genealogical purposes;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) with the consent of the person to whom the identity document relates or of a person authorized to consent on behalf of the person to whom the document relates, or of the entity that issued the identity document; or
+
+
+
+
+
+
+
+
+
+
+
+
+(d) for a legitimate purpose related to the administration of justice.
+
+
+
+
+
+
+
+
+
+
+
+(2) Nul ne peut être déclaré coupable d’une infraction visée au paragraphe (1) si l’acte qui constituerait l’infraction a été commis :
+
+
+
+
+Défense
+
+
+
+
+
+
+a) de bonne foi dans le cours normal des affaires de cette personne, de son emploi ou de ses fonctions;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) à des fins généalogiques;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) avec le consentement de la personne visée par la pièce d’identité ou de la personne autorisée à donner son consentement en son nom ou avec celui de l’administration qui l’a délivrée;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) dans un but légitime lié à l’administration de la justice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “identity document”
+
+
+
+
+(3) For the purposes of this section, “identity document” means a Social Insurance Number card, a driver’s licence, a health insurance card, a birth certificate, a passport as defined in subsection 57(5), a document that simplifies the process of entry into Canada, a certificate of citizenship, a document indicating immigration status in Canada or a certificate of Indian status, issued or purported to be issued by a department or agency of the federal or a provincial government, or any similar document issued or purported to be issued by a foreign government.
+
+
+
+
+
+
+
+
+
+
+
+(3) Pour l’application du présent article, « pièce d’identité » s’entend de la carte d’assurance sociale, du permis de conduire, de la carte d’assurance-maladie, du certificat de naissance, du passeport au sens du paragraphe 57(5), d’un document simplifiant les formalités d’entrée au Canada, du certificat de citoyenneté, de tout document indiquant un statut d’immigration au Canada ou du certificat du statut d’Indien, délivré ou censé être délivré par un ministère ou un organisme public fédéral ou provincial, ou de tout autre document semblable délivré ou censé être délivré par un gouvernement étranger.
+
+
+
+
+Définition de « pièce d’identité »
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+
+(4) Every person who commits an offence under subsection (1)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term not exceeding five years; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+
+
+(4) Quiconque commet une infraction prévue au paragraphe (1) est coupable :
+
+
+
+
+Peine
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1995, c. 5, par. 25(1)(g)
+
+
+
+
+2. Subsection 57(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 57(5) de la même loi est remplacé par ce qui suit :
+
+
+
+1995, ch. 5, al. 25(1)g)
+
+
+
+
+
+
+
+
+
+
+Definition of “passport”
+
+
+
+(5) In this section, “passport” means an official Canadian document that shows the identity and nationality of a person for the purpose of facilitating travel by that person outside Canada.
+
+
+
+
+
+
+
+
+
+
+(5) Au présent article, « passeport » s’entend d’un document officiel canadien qui établit l’identité et la nationalité d’une personne afin de faciliter ses déplacements hors du Canada.
+
+
+
+
+Définition de « passeport »
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 130 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. L’article 130 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Personating peace officer
+
+
+
+
+130. (1) Everyone commits an offence who
+
+
+
+
+
+
+
+
+
+
+(a) falsely represents themself to be a peace officer or a public officer; or
+
+
+
+
+
+
+
+
+
+
+(b) not being a peace officer or public officer, uses a badge or article of uniform or equipment in a manner that is likely to cause persons to believe that they are a peace officer or a public officer, as the case may be.
+
+
+
+
+
+
+
+
+
+
+130. (1) Commet une infraction quiconque, selon le cas :
+
+
+
+Prétendre faussement être un agent de la paix
+
+
+
+
+
+a) se présente faussement comme agent de la paix ou fonctionnaire public;
+
+
+
+
+
+
+
+
+
+
+
+b) n’étant pas un agent de la paix ni un fonctionnaire public, emploie un insigne ou article d’uniforme ou équipement de façon à faire croire vraisemblablement qu’il est un agent de la paix ou un fonctionnaire public, selon le cas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+
+(2) Everyone who commits an offence under subsection (1)
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term not exceeding five years; or
+
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+
+(2) Quiconque commet une infraction prévue au paragraphe (1) est coupable :
+
+
+
+
+Peine
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans;
+
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1997, c. 18, s. 16(2)
+
+
+
+
+4. The portion of subsection 342(3) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. Le passage du paragraphe 342(3) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1997, ch. 18, par. 16(2)
+
+
+
+
+
+
+
+
+
+
+Unauthorized use of credit card data
+
+
+
+(3) Every person who, fraudulently and without colour of right, possesses, uses, traffics in or permits another person to use credit card data, including a personal identification number, whether or not the data is authentic, that would enable a person to use a credit card or to obtain the services that are provided by the issuer of a credit card to credit card holders is guilty of
+
+
+
+
+
+
+
+
+
+(3) Quiconque, frauduleusement et sans apparence de droit, a en sa possession ou utilise des données, authentiques ou non, relatives à une carte de crédit, notamment un numéro d’identification personnel, qui permettraient l’utilisation de celle-ci ou l’obtention de services liés à son utilisation, fait le trafic de ces données ou permet à une autre personne de les utiliser est coupable :
+
+
+
+Utilisation non autorisée de données relatives à une carte de crédit
+
+
+
+
+
+
+
+
+
+
+1997, c. 18, s. 17
+
+
+
+
+5. Subsection 342.01(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 342.01(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1997, ch. 18, art. 17
+
+
+
+
+
+
+
+
+
+
+Instruments for copying credit card data or forging or falsifying credit cards
+
+
+
+
+342.01 (1) Every person is guilty of an indictable offence and is liable to imprisonment for a term not exceeding 10 years, or is guilty of an offence punishable on summary conviction, who, without lawful justification or excuse, makes, repairs, buys, sells, exports from Canada, imports into Canada or possesses any instrument, device, apparatus, material or thing that they know has been used or know is adapted or intended for use
+
+
+
+
+
+
+
+
+
+
+
+(a) in the copying of credit card data for use in the commission of an offence under subsection 342(3); or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) in the forging or falsifying of credit cards.
+
+
+
+
+
+
+
+
+
+
+342.01 (1) Est coupable soit d’un acte criminel et passible d’un emprisonnement maximal de dix ans, soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque, sans excuse légitime, fabrique, répare, achète, vend, exporte du Canada, importe au Canada ou a en sa possession quelque instrument, dispositif, appareil, matière ou chose qu’il sait utilisé, modifié ou destiné à l’une ou l’autre des fins suivantes :
+
+
+
+Instruments — copie de données relatives à une carte de crédit ou fabrication, falsification de cartes de crédit
+
+
+
+
+
+
+a) copier des données relatives à une carte de crédit devant servir à la commission d’une infraction visée au paragraphe 342(3);
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) falsifier des cartes de crédit ou en fabriquer des fausses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) Subsection 356(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. (1) Le paragraphe 356(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Theft from mail
+
+
+
+
+356. (1) Everyone commits an offence who
+
+
+
+
+
+
+
+
+
+
+(a) steals
+
+
+
+
+
+
+
+
+
+
+(i) any thing sent by post, after it is deposited at a post office and before it is delivered, or after it is delivered but before it is in the possession of the addressee or of a person who may reasonably be considered to be authorized by the addressee to receive mail,
+
+
+
+
+
+
+
+
+
+
+(ii) a bag, sack or other container or covering in which mail is conveyed, whether or not it contains mail, or
+
+
+
+
+
+
+
+
+
+
+(iii) a key suited to a lock adopted for use by the Canada Post Corporation;
+
+
+
+
+
+
+
+
+
+
+
+(b) with intent to commit an offence under paragraph (a), makes, possesses or uses a copy of a key suited to a lock adopted for use by the Canada Post Corporation, or a key suited to obtain access to a receptacle or device provided for the receipt of mail;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) has in their possession anything that they know has been used to commit an offence under paragraph (a) or (b); or
+
+
+
+
+
+
+
+
+
+
+
+(d) fraudulently redirects, or causes the redirection of, any thing sent by post.
+
+
+
+
+
+
+
+
+
+
+
+356. (1) Commet une infraction quiconque, selon le cas :
+
+
+
+Vol de courrier
+
+
+
+
+
+a) vole :
+
+
+
+
+
+
+
+
+
+
+(i) soit une chose envoyée par la poste, après son dépôt à un bureau de poste et avant sa livraison, ou après sa livraison mais avant que son destinataire ou toute personne qu’il est raisonnable de considérer comme autorisée par lui à recevoir le courrier l’ait en sa possession,
+
+
+
+
+
+
+
+
+
+
+(ii) soit un sac ou autre contenant ou couverture dans lequel le courrier est transporté, qu’ils contiennent ou non du courrier,
+
+
+
+
+
+
+
+
+
+
+(iii) soit une clef correspondant à un cadenas ou à une serrure adoptée pour l’usage de la Société canadienne des postes;
+
+
+
+
+
+
+
+
+
+
+
+
+b) dans l’intention de commettre une infraction prévue à l’alinéa a), fait, a en sa possession ou utilise une copie d’une clef correspondant à un cadenas ou à une serrure adoptée pour l’usage de la Société canadienne des postes ou d’une clef pouvant donner accès à un contenant ou dispositif prévu pour le dépôt du courrier;
+
+
+
+
+
+
+
+
+
+
+
+
+c
+) a en sa possession une chose  dont il sait qu’elle a servi à commettre une infraction prévue aux alinéas a) ou b);
+
+
+
+
+
+
+
+
+
+
+
+
+d) réexpédie ou fait réexpédier frauduleusement une chose envoyée par la poste.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 356 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(2) L’article 356 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+
+(3) Everyone who commits an offence under subsection (1)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term not exceeding 10 years; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+
+
+(3) Quiconque commet une infraction prévue au paragraphe (1) est coupable :
+
+
+
+
+Peine
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Section 366 of the Act is amended by adding the following after subsection (4):
+
+
+
+
+
+
+
+
+
+
+7. L’article 366 de la même loi est modifié par adjonction, après le paragraphe (4), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+
+(5) No person commits forgery by reason only that the person, in good faith, makes a false document at the request of a police force, the Canadian Forces or a department or agency of the federal or a provincial government.
+
+
+
+
+
+
+
+
+
+
+
+(5) Nul ne commet un faux du seul fait qu’il a fait de bonne foi un faux document à la demande des forces policières, des Forces canadiennes ou d’un ministère ou organisme public fédéral ou provincial.
+
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+1992, c. 1, s. 60 (Sch. I, s. 26(F)); 1997, c. 18, s. 25
+
+
+
+
+8. Subsection 368(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. Le paragraphe 368(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1992, ch. 1, art. 60, ann. I, art. 26(F); 1997, ch. 18, art. 25
+
+
+
+
+
+
+
+
+
+
+Uttering, trafficking or possessing with intent forged document
+
+
+
+
+368. (1) Everyone commits an offence who, knowing or believing that a document is forged,
+
+
+
+
+
+
+
+
+
+
+(a) uses, deals with or acts on it as if the document were genuine;
+
+
+
+
+
+
+
+
+
+
+(b) causes or attempts to cause any person to use, deal with or act on it as if the document were genuine;
+
+
+
+
+
+
+
+
+
+
+(c) transfers, sells or offers to sell it or makes it available, to any person, knowing or being reckless as to whether an offence will be committed under paragraph (a) or (b); or
+
+
+
+
+
+
+
+
+
+
+(d) possesses it with intent to commit an offence under any of paragraphs (a) to (c).
+
+
+
+
+
+
+
+
+
+
+368. (1) Commet une infraction quiconque, sachant ou croyant qu’un document est contrefait, selon le cas :
+
+
+
+Emploi, possession, trafic d’un document contrefait
+
+
+
+
+
+a) s’en sert, le traite ou agit à son égard comme s’il était authentique;
+
+
+
+
+
+
+
+
+
+
+
+b) fait ou tente de faire accomplir l’un des actes prévus à l’alinéa a), comme s’il était authentique;
+
+
+
+
+
+
+
+
+
+
+
+c) le transmet, le vend, l’offre en vente ou le rend accessible à toute personne, sachant qu’une infraction prévue aux alinéas a) ou b) sera commise ou ne se souciant pas de savoir si tel est le cas;
+
+
+
+
+
+
+
+
+
+
+
+d) l’a en sa possession dans l’intention de commettre une infraction prévue à l’un des alinéas a) à c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+
+(1.1) Everyone who commits an offence under subsection (1)
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term not exceeding 10 years; or
+
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+
+(1.1) Quiconque commet une infraction prévue au paragraphe (1), est coupable :
+
+
+
+
+Peine
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Section 369 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. L’article 369 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Forgery instruments
+
+
+
+
+
+368.1 Everyone is guilty of an indictable offence and is liable to imprisonment for a term not exceeding 14 years, or is guilty of an offence punishable on summary conviction, who, without lawful authority or excuse, makes, repairs, buys, sells, exports from Canada, imports into Canada or possesses any instrument, device, apparatus, material or thing that they know has been used or know is adapted or intended for use by any person to commit forgery.
+
+
+
+
+
+
+
+
+
+
+
+
+368.1 Est coupable soit d’un acte criminel et passible d’un emprisonnement maximal de quatorze ans, soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire, quiconque, sans autorisation ni excuse légitime, fait, répare, achète, vend, exporte du Canada ou importe au Canada ou a en sa possession quelque instrument, dispositif, appareil, matière ou chose qu’il sait utilisé ou modifié pour commettre un faux ou destiné à cette fin.
+
+
+
+
+Instruments pour commettre un faux
+
+
+
+
+
+
+
+
+
+
+Public officers acting in the course of their duties or employment
+
+
+
+
+
+368.2 No public officer as defined in subsection 25.1(1) is guilty of an offence under any of sections 366 to 368.1 if the acts alleged to constitute the offence were committed by the public officer for the sole purpose of establishing or maintaining a covert identity for use in the course of the public officer’s duties or employment.
+
+
+
+
+
+
+
+
+
+
+
+
+368.2 Le fonctionnaire public, au sens du paragraphe 25.1(1), ne peut être reconnu coupable d’une infraction prévue à l’un des articles 366 à 368.1 si les actes qui constitueraient l’infraction ont été commis dans le seul but d’établir ou de préserver une identité cachée pour son utilisation dans le cadre de ses fonctions ou de son emploi.
+
+
+
+
+Exemption : fonctionnaire public dans le cadre de ses fonctions
+
+
+
+
+
+
+
+
+
+
+Exchequer bill paper, public seals, etc.
+
+
+
+
+369. Everyone is guilty of an indictable offence and is liable to imprisonment for a term not exceeding 14 years who, without lawful authority or excuse,
+
+
+
+
+
+
+
+
+
+
+(a) makes, uses or possesses
+
+
+
+
+
+
+
+
+
+
+(i) any exchequer bill paper, revenue paper or paper that is used to make bank-notes, or
+
+
+
+
+
+
+
+
+
+
+(ii) any paper that is intended to resemble paper mentioned in subparagraph (i); or
+
+
+
+
+
+
+
+
+
+
+(b) makes, reproduces or uses a public seal of Canada or of a province, or the seal of a public body or authority in Canada, or of a court of law.
+
+
+
+
+
+
+
+
+
+
+369. Est coupable d’un acte criminel et passible d’un emprisonnement maximal de quatorze ans, quiconque, sans autorisation ni excuse légitime, selon le cas :
+
+
+
+Papier de bons du Trésor, sceaux publics, etc.
+
+
+
+
+
+a) fait, utilise ou a en sa possession :
+
+
+
+
+
+
+
+
+
+
+(i) soit du papier de bons du Trésor, papier du revenu ou papier employé pour billets de banque,
+
+
+
+
+
+
+
+
+
+
+(ii) soit tout papier destiné à ressembler à celui mentionné au sous-alinéa (i);
+
+
+
+
+
+
+
+
+
+
+
+b) fait, reproduit ou utilise un sceau public du Canada ou d’une province, le sceau d’un organisme public ou d’une autorité publique au Canada, ou celui d’un tribunal judiciaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1994, c. 44, s. 27
+
+
+
+
+10. Section 403 of the Act and the heading before it are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. L’article 403 de la même loi et l’intertitre le précédant sont remplacés par ce qui suit :
+
+
+
+1994, ch. 44, art. 27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identity Theft and Identity Fraud
+
+
+
+
+
+
+
+
+
+
+
+Vol d’identité et fraude à l’identité
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “identity information”
+
+
+
+
+
+402.1 For the purposes of sections 402.2 and 403, “identity information” means any information — including biological or physiological information — of a type that is commonly used alone or in combination with other information to identify or purport to identify an individual, such as a fingerprint, voice print, retina image, iris image, DNA profile, name, address, date of birth, written signature, electronic signature, digital signature, user name, credit card number, debit card number, financial institution account number, passport number, Social Insurance Number, health insurance number, driver’s licence number or password.
+
+
+
+
+
+
+
+
+
+
+
+
+402.1 Pour l’application des articles 402.2 et 403, « renseignement identificateur » s’entend de tout renseignement — y compris un renseignement biologique ou physiologique — d’un type qui est ordinairement utilisé, seul ou avec d’autres renseignements, pour identifier ou pour viser à identifier une personne physique, notamment empreinte digitale ou vocale, image de la rétine ou de l’iris, profil de l’ADN, nom, adresse, date de naissance, signature manuscrite, électronique ou numérique, code d’usager, numéro de carte de crédit ou de débit, numéro de compte d’une institution financière, numéro de passeport, numéro d’assurance sociale, d’assurance maladie ou de permis de conduire ou mot de passe.
+
+
+
+
+Définition de « renseignement identificateur »
+
+
+
+
+
+
+
+
+
+
+Identity theft
+
+
+
+
+
+402.2 (1) Everyone commits an offence who knowingly obtains or possesses another person’s identity information in circumstances giving rise to a reasonable inference that the information is intended to be used to commit an indictable offence that includes fraud, deceit or falsehood as an element of the offence.
+
+
+
+
+
+
+
+
+
+
+
+
+402.2 (1) Commet une infraction quiconque, sciemment, obtient ou a en sa possession des renseignements identificateurs sur une autre personne dans des circonstances qui permettent raisonnablement de conclure qu’ils seront utilisés dans l’intention de commettre un acte criminel dont l’un des éléments constitutifs est la fraude, la supercherie ou le mensonge.
+
+
+
+
+Vol d’identité
+
+
+
+
+
+
+
+
+
+
+Trafficking in identity information
+
+
+
+
+(2) Everyone commits an offence who transmits, makes available, distributes, sells or offers for sale another person’s identity information, or has it in their possession for any of those purposes, knowing or believing that or being reckless as to whether the information will be used to commit an indictable offence that includes fraud, deceit or falsehood as an element of the offence.
+
+
+
+
+
+
+
+
+
+
+
+(2) Commet une infraction quiconque transmet, rend accessible, distribue, vend, offre en vente, ou a en sa possession à une telle fin, des renseignements identificateurs sur une autre personne sachant ou croyant qu’ils seront utilisés pour commettre un acte criminel dont l’un des éléments constitutifs est la fraude, la supercherie ou le mensonge ou ne se souciant pas de savoir si tel est le cas.
+
+
+
+
+Trafic de renseignements identificateurs
+
+
+
+
+
+
+
+
+
+
+Clarification
+
+
+
+
+(3) For the purposes of subsections (1) and (2), an indictable offence referred to in either of those subsections includes an offence under any of the following sections:
+
+
+
+
+
+
+
+
+
+
+
+
+(a) section 57 (forgery of or uttering forged passport);
+
+
+
+
+
+
+
+
+
+
+
+
+(b) section 58 (fraudulent use of certificate of citizenship);
+
+
+
+
+
+
+
+
+
+
+
+
+(c) section 130 (personating peace officer);
+
+
+
+
+
+
+
+
+
+
+
+
+(d) section 131 (perjury);
+
+
+
+
+
+
+
+
+
+
+
+
+(e) section 342 (theft, forgery, etc., of credit card);
+
+
+
+
+
+
+
+
+
+
+
+
+(f) section 362 (false pretence or false statement);
+
+
+
+
+
+
+
+
+
+
+
+
+(g) section 366 (forgery);
+
+
+
+
+
+
+
+
+
+
+
+
+(h) section 368 (uttering, trafficking or possessing with intent forged document);
+
+
+
+
+
+
+
+
+
+
+
+
+(i) section 380 (fraud); and
+
+
+
+
+
+
+
+
+
+
+
+
+(j) section 403 (identity fraud).
+
+
+
+
+
+
+
+
+
+
+
+(3) Pour l’application des paragraphes (1) et (2), les actes criminels en question sont, notamment, ceux prévus aux articles suivants :
+
+
+
+
+Clarification
+
+
+
+
+
+
+a) l’article 57 (faux ou usage de faux en matière de passeport);
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) l’article 58 (emploi frauduleux d’un certificat de citoyenneté);
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) l’article 130 (prétendre faussement être un agent de la paix);
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) l’article 131 (parjure);
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) l’article 342 (vols, etc. de cartes de crédit);
+
+
+
+
+
+
+
+
+
+
+
+
+
+f) l’article 362 (escroquerie : faux semblant ou fausse déclaration);
+
+
+
+
+
+
+
+
+
+
+
+
+
+g) l’article 366 (faux);
+
+
+
+
+
+
+
+
+
+
+
+
+
+h) l’article 368 (emploi, possession, trafic d’un document contrefait);
+
+
+
+
+
+
+
+
+
+
+
+
+
+i) l’article 380 (fraude);
+
+
+
+
+
+
+
+
+
+
+
+
+
+j) l’article 403 (fraude à l’identité).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jurisdiction
+
+
+
+
+(4) An accused who is charged with an offence under subsection (1) or (2) may be tried and punished by any court having jurisdiction to try that offence in the place where the offence is alleged to have been committed or in the place where the accused is found, is arrested or is in custody, but if the place where the accused is found, is arrested or is in custody is outside the province in which the offence is alleged to have been committed, no proceedings in respect of that offence shall be commenced in that place without the consent of the Attorney General of that province.
+
+
+
+
+
+
+
+
+
+
+
+(4) Le prévenu qui est inculpé d’une infraction prévue aux paragraphes (1) ou (2) peut être jugé et puni par tout tribunal compétent au lieu où l’infraction est présumée avoir été commise ou au lieu où le prévenu est trouvé, arrêté ou gardé; toutefois, si ce lieu se trouve à l’extérieur de la province où l’infraction est présumée avoir été commise, aucune procédure relative à l’infraction ne peut y être engagée sans le consentement du procureur général de cette province.
+
+
+
+
+Compétence
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+
+(5) Everyone who commits an offence under subsection (1) or (2)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term not exceeding five years; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+
+
+(5) Quiconque commet une infraction prévue aux paragraphes (1) ou (2) est coupable :
+
+
+
+
+Peine
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identity fraud
+
+
+
+
+403. (1) Everyone commits an offence who fraudulently personates any person, living or dead,
+
+
+
+
+
+
+
+
+
+
+(a) with intent to gain advantage for themself or another person;
+
+
+
+
+
+
+
+
+
+
+(b) with intent to obtain any property or an interest in any property;
+
+
+
+
+
+
+
+
+
+
+(c) with intent to cause disadvantage to the person being personated or another person; or
+
+
+
+
+
+
+
+
+
+
+
+(d) with intent to avoid arrest or prosecution, or to obstruct, pervert or defeat the course of justice.
+
+
+
+
+
+
+
+
+
+
+
+403. (1) Commet une infraction quiconque, frauduleusement, se fait passer pour une personne, vivante ou morte :
+
+
+
+Fraude à l’identité
+
+
+
+
+
+a) soit avec l’intention d’obtenir un avantage pour lui-même ou pour une autre personne;
+
+
+
+
+
+
+
+
+
+
+
+b) soit avec l’intention d’obtenir un bien ou un intérêt dans un bien;
+
+
+
+
+
+
+
+
+
+
+
+c) soit avec l’intention de causer un désavantage à la personne pour laquelle il se fait passer, ou à une autre personne;
+
+
+
+
+
+
+
+
+
+
+
+
+d) soit avec l’intention d’éviter une arrestation ou une poursuite, ou d’entraver, de détourner ou de contrecarrer le cours de la justice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clarification
+
+
+
+
+(2) For the purposes of subsection (1), personating a person includes pretending to be the person or using the person’s identity information — whether by itself or in combination with identity information pertaining to any person — as if it pertains to the person using it.
+
+
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), se fait passer pour une personne quiconque prétend être celle-ci ou utilise comme s’il se rapportait à lui tout renseignement identificateur ayant trait à elle, que ce renseignement soit utilisé seul ou en conjonction avec d’autres renseignements identificateurs relatifs à toute personne.
+
+
+
+
+Clarification
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+
+(3) Everyone who commits an offence under subsection (1)
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term not exceeding 10 years; or
+
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+
+(3) Quiconque commet une infraction prévue au paragraphe (1) est coupable :
+
+
+
+
+Peine
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. Subsection 738(1) of the Act is amended by striking out the word “and” at the end of paragraph (b), by adding the word “and” at the end of paragraph (c) and by adding the following after paragraph (c):
+
+
+
+
+
+
+
+
+
+
+11. Le paragraphe 738(1) de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) in the case of an offence under section 402.2 or 403, by paying to any person who, as a result of the offence, incurs expenses to re-establish their identity, including expenses to replace their identity documents and to correct their credit history and credit rating, an amount not exceeding the amount of those expenses, to the extent that they are reasonable, if the amount is readily ascertainable.
+
+
+
+
+
+
+
+
+
+
+
+
+d) dans le cas de la perpétration d’une infraction visée aux articles 402.2 et 403, de verser à la personne qui, du fait de l’infraction, a engagé des dépenses raisonnables liées au rétablissement de son identité — notamment pour corriger son dossier et sa cote de crédit et remplacer ses pièces d’identité — des dommages-intérêts non supérieurs à ces dépenses si ces dommages peuvent être facilement déterminés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENT
+
+
+
+
+
+
+
+
+
+DISPOSITION DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-299
+
+
+
+
+12. If Bill C-299, introduced in the 1st session of the 39th Parliament and entitled An Act to amend the Criminal Code (identification information obtained by fraud or false pretence), receives royal assent, then, on the first day on which both section 1 of that Act and section 10 of this Act are in force,
+
+
+
+
+
+
+
+
+
+
+(a) subsection 362(1) of the Criminal Code is amended by adding the word “or” at the end of paragraph (c) and by repealing paragraphs (e) and (f);
+
+
+
+
+
+
+
+
+
+
+(b) subsection 362(1.1) of that Act is repealed; and
+
+
+
+
+
+
+
+
+
+
+(c) subsection 362(3.1) of that Act is repealed.
+
+
+
+
+
+
+
+
+
+
+12. En cas de sanction du projet de loi C-299, déposé au cours de la 1re session de la 39e législature et intitulé Loi modifiant le Code criminel (obtention de renseignements identificateurs par fraude ou par un faux semblant), dès le premier jour où l’article 1 de cette loi et l’article 10 de la présente loi sont tous deux en vigueur :
+
+
+
+Projet de loi C-299
+
+
+
+
+
+a) les alinéas 362(1)e) et f) du Code criminel sont abrogés;
+
+
+
+
+
+
+
+
+
+
+
+b) le paragraphe 362(1.1) de la même loi est abrogé;
+
+
+
+
+
+
+
+
+
+
+
+c) le paragraphe 362(3.1) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+13. The provisions of this Act, other than section 12, come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+13. Les dispositions de la présente loi, à l’exception de l’article 12, entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Criminal Code
+
+Clause 1: Existing text of the heading:
+Passports
+
+
+
+Code criminel
+
+Article 1 : Texte de l’intertitre :
+Passeports
+
+
+
+
+
+Clause 2: Existing text of subsection 57(5):
+(5) In this section, “passport” means a document issued by or under the authority of the Minister of Foreign Affairs for the purpose of identifying the holder thereof.
+
+
+
+
+Article 2 : Texte du paragraphe 57(5) :
+(5) Au présent article, « passeport » désigne un document émis par le ministre des Affaires étrangères, ou sous son autorité, en vue d’en identifier le titulaire.
+
+
+
+
+
+Clause 3: Existing text of section 130:
+
+130. Every one who
+(a) falsely represents himself to be a peace officer or a public officer, or
+(b) not being a peace officer or public officer, uses a badge or article of uniform or equipment in a manner that is likely to cause persons to believe that he is a peace officer or a public officer, as the case may be,
+is guilty of an offence punishable on summary conviction.
+
+
+
+
+Article 3 : Texte de l’article 130 :
+
+130. Est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque, selon le cas :
+
+a) se présente faussement comme agent de la paix ou fonctionnaire public;
+
+b) n’étant pas un agent de la paix ni un fonctionnaire public, emploie un insigne ou article d’uniforme ou équipement de façon à faire croire vraisemblablement qu’il est un agent de la paix ou un fonctionnaire public, selon le cas.
+
+
+
+
+
+Clause 4: Relevant portion of subsection 342(3):
+(3) Every person who, fraudulently and without colour of right, possesses, uses, traffics in or permits another person to use credit card data, whether or not authentic, that would enable a person to use a credit card or to obtain the services that are provided by the issuer of a credit card to credit card holders is guilty of
+
+
+
+
+Article 4 : Texte du passage visé du paragraphe 342(3) :
+(3) Quiconque, frauduleusement et sans apparence de droit, a en sa possession ou utilise des données — authentiques ou non — qui permettraient l’utilisation d’une carte de crédit ou l’obtention de services liés à son utilisation, fait le trafic de ces données ou permet à une autre personne de les utiliser est coupable :
+
+
+
+
+
+Clause 5: Existing text of subsection 342.01(1):
+
+342.01 (1) Every person who, without lawful justification or excuse,
+(a) makes or repairs,
+(b) buys or sells,
+(c) exports from or imports into Canada, or
+(d) possesses
+any instrument, device, apparatus, material or thing that the person knows has been used or knows is adapted or intended for use in forging or falsifying credit cards is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years, or is guilty of an offence punishable on summary conviction.
+
+
+
+
+Article 5 : Texte du paragraphe 342.01(1) :
+
+342.01 (1) Quiconque, sans justification ou excuse légitime, selon le cas:
+
+a) fabrique ou répare,
+
+b) achète ou vend,
+
+c) exporte du Canada ou importe au Canada,
+
+d) a en sa possession,
+un instrument, un appareil, une matière ou une chose qu’il sait utilisé pour falsifier des cartes de crédit ou en fabriquer des fausses, ou qu’il sait modifié ou destiné à cette fin est coupable soit d’un acte criminel et passible d’un emprisonnement maximal de dix ans, soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+Clause 6: (1) Existing text of subsection 356(1):
+
+356. (1) Every one who
+(a) steals
+(i) any thing sent by post, after it is deposited at a post office and before it is delivered,
+(ii) a bag, sack or other container or covering in which mail is conveyed, whether or not it contains mail, or
+(iii) a key suited to a lock adopted for use in the Canada Post Corporation, or
+(b) has in his possession anything in respect of which he knows that an offence has been committed under paragraph (a),
+is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years.
+
+
+
+
+Article 6 : (1) Texte du paragraphe 356(1) :
+
+356. (1) Est coupable d’un acte criminel et passible d’un emprisonnement maximal de dix ans quiconque, selon le cas :
+
+a) vole :
+(i) soit une chose envoyée par la poste, après son dépôt à un bureau de poste et avant sa livraison,
+(ii) soit un sac ou autre contenant ou couverture dans lequel le courrier est transporté, qu’ils contiennent ou non du courrier,
+(iii) soit une clef correspondant à un cadenas ou à une serrure adoptée pour l’usage de la Société canadienne des postes;
+
+b) a en sa possession une chose au sujet de laquelle il sait qu’une infraction a été commise aux termes de l’alinéa a).
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+
+Clause 7: New.
+
+
+
+
+Article 7 : Nouveau.
+
+
+
+
+
+Clause 8: Existing text of subsection 368(1):
+
+368. (1) Every one who, knowing that a document is forged,
+(a) uses, deals with or acts on it, or
+(b) causes or attempts to cause any person to use, deal with or act on it,
+as if the document were genuine,
+(c) is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years; or
+(d) is guilty of an offence punishable on summary conviction.
+
+
+
+
+Article 8 : Texte du paragraphe 368(1) :
+
+368. (1) Quiconque, sachant qu’un document est contrefait, selon le cas :
+
+a) s’en sert, le traite, ou agit à son égard;
+
+b) fait, ou tente de faire, accomplir l’un des actes visés à l’alinéa a),
+comme si le document était authentique, est coupable :
+
+c) soit d’un acte criminel et passible d’un emprisonnement maximal de dix ans;
+
+d) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+Clause 9: Existing text of section 369:
+
+369. Every one who, without lawful authority or excuse, the proof of which lies on him,
+(a) makes, uses or knowingly has in his possession
+(i) any exchequer bill paper, revenue paper or paper that is used to make bank-notes, or
+(ii) any paper that is intended to resemble paper mentioned in subparagraph (i),
+(b) makes, offers or disposes of or knowingly has in his possession any plate, die, machinery, instrument or other writing or material that is adapted and intended to be used to commit forgery, or
+(c) makes, reproduces or uses a public seal of Canada or of a province, or the seal of a public body or authority in Canada, or of a court of law,
+is guilty of an indictable offence and liable to imprisonment for a term not exceeding fourteen years.
+
+
+
+
+Article 9 : Texte de l’article 369 :
+
+369. Quiconque, sans autorisation ni excuse légitime, dont la preuve lui incombe, selon le cas :
+
+a) fait, utilise ou sciemment a en sa possession :
+(i) soit du papier de bons du Trésor, papier du revenu ou papier employé pour billets de banque,
+(ii) soit tout papier destiné à ressembler à celui mentionné au sous-alinéa (i);
+
+b) fait, offre ou aliène ou sciemment a en sa possession quelque plaque, matrice, appareil, instrument ou autre écrit ou matière adaptés et destinés à servir pour commettre un faux;
+
+c) fait, reproduit ou utilise un sceau public du Canada ou d’une province, ou le sceau d’un organisme public ou d’une autorité publique au Canada, ou d’un tribunal judiciaire,
+est coupable d’un acte criminel et passible d’un emprisonnement maximal de quatorze ans.
+
+
+
+
+
+Clause 10: Existing text of the heading and section 403:
+Personation
+
+403. Every one who fraudulently personates any person, living or dead,
+(a) with intent to gain advantage for himself or another person,
+(b) with intent to obtain any property or an interest in any property, or
+(c) with intent to cause disadvantage to the person whom he personates or another person,
+is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years or an offence punishable on summary conviction.
+
+
+
+
+Article 10 : Texte de l’intertitre et de l’article 403 :
+Supposition de personne 
+
+403. Est coupable soit d’un acte criminel et passible d’un emprisonnement maximal de dix ans, soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque, frauduleusement, se fait passer pour une personne, vivante ou morte :
+
+a) soit avec l’intention d’obtenir un avantage pour lui-même ou pour une autre personne;
+
+b) soit avec l’intention d’obtenir un bien ou un intérêt dans un bien;
+
+c) soit avec l’intention de causer un désavantage à la personne pour laquelle il se fait passer, ou à une autre personne.
+
+
+
+
+
+Clause 11: Relevant portion of subsection 738(1):
+
+738. (1) Where an offender is convicted or discharged under section 730 of an offence, the court imposing sentence on or discharging the offender may, on application of the Attorney General or on its own motion, in addition to any other measure imposed on the offender, order that the offender make restitution to another person as follows:
+
+
+
+
+Article 11 : Texte du passage visé du paragraphe 738(1) :
+
+738. (1) Lorsque le délinquant est condamné ou absous sous le régime de l’article 730, le tribunal qui inflige la peine ou prononce l’absolution peut, en plus de toute autre mesure, à la demande du procureur général ou d’office, lui ordonner :
+
+
+
+
+
+

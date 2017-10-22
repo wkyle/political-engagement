@@ -1,0 +1,2175 @@
+
+
+
+
+
+C-312
+
+
+
+
+
+C-312
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-312
+
+
+
+
+
+PROJET DE LOI C-312
+
+
+
+
+
+
+An Act to establish and maintain a national Breast Implant Registry
+
+
+
+
+
+Loi prévoyant l'établissement et la tenue d'un registre national des implants mammaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 29, 2006
+
+première lecture le 29 mai 2006
+
+
+
+
+
+
+
+
+
+
+
+
+Ms. Wasylycia-Leis
+
+391190
+
+
+
+Mme Wasylycia-Leis
+
+
+
+
+
+SUMMARY
+This enactment requires the Minister of Health to establish and maintain a national Breast Implant Registry. The Registry will contain information relating to persons who have undergone breast implant surgery, including surgery to explant a breast implant, along with a description of the implant and other prescribed information. The information in the Registry will be available only to the Registrar for the purpose of notifying those persons of a risk to their health.
+
+
+
+SOMMAIRE
+Le texte confie au ministre de la Santé la responsabilité d’établir et de tenir un registre national des implants mammaires. Ce registre contiendra des renseignements sur les personnes qui subissent une chirurgie pour la pose ou l’extraction d’implants mammaires, ainsi que la description des implants et tout autre renseignement réglementaire. Seul le directeur aura accès aux renseignements figurant au registre afin d’être en mesure d’aviser ces personnes, au besoin, des risques pour leur santé.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-312
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-312
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to establish and maintain a national Breast Implant Registry
+
+
+
+
+
+
+
+
+
+Loi prévoyant l'établissement et la tenue d'un registre national des implants mammaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Breast Implant Registry Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur le Registre des implants mammaires.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“medical practitioner”« médecin »
+
+
+
+“medical practitioner” means a person lawfully entitled to practise medicine in the place in which the practice is carried on by that person.
+
+
+
+
+“prescribed”Version anglaise seulement
+
+
+
+“prescribed” means prescribed by regulation.
+
+
+
+
+“Registry”« Registre »
+
+
+
+“Registry” means the Breast Implant Registry established under subsection 4(1).
+
+
+
+
+“user”« utilisateur »
+
+
+
+“user” means a person who has had the breast implant implanted, whether or not it has been explanted.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« médecin » Personne légalement autorisée à exercer la médecine au lieu où elle se livre à cet exercice.
+
+
+
+« médecin »“medical practitioner”
+
+
+
+
+« Registre » Le Registre des implants mam-maires établi en application du paragraphe 4(1).
+
+
+
+« Registre »“Registry”
+
+
+
+
+« utilisateur » Personne qui a reçu des implants mammaires, qu’ils aient été ou non extraits par la suite.
+
+
+
+« utilisateur »“user”
+
+
+
+
+
+
+
+
+
+
+BREAST IMPLANT REGISTRY
+
+
+
+
+
+
+
+
+
+REGISTRE DES IMPLANTS MAMMAIRES
+
+
+
+
+
+
+
+
+
+
+
+
+Registrar appointed
+
+
+
+3. The Minister of Health shall appoint a Registrar for the purposes of this Act.
+
+
+
+
+
+
+
+
+
+3. Le ministre de la Santé nomme un directeur pour l’application de la présente loi.
+
+
+
+Nomination du directeur
+
+
+
+
+
+
+
+
+
+
+Breast Implant Registry
+
+
+
+4. (1) The Registrar shall establish and maintain a registry, to be known as the Breast Implant Registry, containing
+
+
+
+
+
+
+
+
+(a) information submitted by medical practitioners on persons who have undergone breast implant surgery, including surgery to explant a breast implant;
+
+
+
+
+
+
+
+
+(b) a record of information supplied by the manufacturer, importer or distributor of a breast implant that identifies any health risk to the user; and
+
+
+
+
+
+
+
+
+(c) any other prescribed information.
+
+
+
+
+
+
+
+
+
+4. (1) Le directeur établit et tient un regis- tre, appelé Registre des implants mammaires, qui contient les renseignements suivants :
+
+
+
+Registre des implants mammaires
+
+
+
+
+a) les renseignements fournis par les médecins au sujet des personnes qui ont subi une chirurgie pour la pose ou l’extraction d’implants mammaires;
+
+
+
+
+
+
+
+
+b) une mention de tout renseignement fourni par le fabricant, l’importateur ou le distri-buteur d’un implant mammaire qui fait état des risques pour la santé de l’utilisateur;
+
+
+
+
+
+
+
+
+c) tout autre renseignement réglementaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operation
+
+
+
+(2) The Registrar is responsible for the day-to-day operation of the Registry.
+
+
+
+
+
+
+
+
+
+(2) Le directeur est chargé de tenir à jour le Registre.
+
+
+
+Gestion du Registre
+
+
+
+
+
+
+
+
+
+
+Destruction of information
+
+
+
+(3) The Registrar may destroy information kept in the Registry at the times and in the circumstances that may be prescribed.
+
+
+
+
+
+
+
+
+
+(3) Le directeur peut détruire les renseigne- ments conservés dans le Registre aux moments et dans les circonstances prévus par règlement.
+
+
+
+Destruction des renseignements
+
+
+
+
+
+
+
+
+
+
+Reporting by medical practitioners
+
+
+
+5. (1) A medical practitioner who performs breast implant surgery on a person, including surgery to explant a breast implant, shall as soon as possible after completing the surgery submit to the Registrar the following information:
+
+
+
+
+
+
+
+
+(a) the name, date of birth and address of the person who underwent the surgery;
+
+
+
+
+
+
+
+
+(b) the medical practitioner’s name, the date of the surgery and the name and address of the health care facility at which the surgery was performed;
+
+
+
+
+
+
+
+
+(c) in respect of each breast implant that was implanted or explanted,
+
+
+
+
+
+
+
+
+(i) the name and address of the manufacturer of the breast implant,
+
+
+
+
+
+
+
+
+(ii) the lot or serial number and the nomi- nal and actual volume of the breast  implant,
+
+
+
+
+
+
+
+
+(iii) the type of filler used in the breast implant, and
+
+
+
+
+
+
+
+
+(iv) whether the surgery was to the right or left breast;
+
+
+
+
+
+
+
+
+(d) in the case of an implant, the technique used for the implantation, the position of the breast implant, the type of incision and the indications for the implantation;
+
+
+
+
+
+
+
+
+(e) in the case of an explant, any intra-operative findings related to the breast implant and the indications for the explantation; and
+
+
+
+
+
+
+
+
+(f) any other prescribed information.
+
+
+
+
+
+
+
+
+
+5. (1) Le médecin qui effectue une chirurgie pour poser ou extraire des implants mammaires est tenu de communiquer au directeur, le plus tôt possible après la chirurgie, les renseignements suivants :
+
+
+
+Rapport du médecin
+
+
+
+
+a) les nom, date de naissance et adresse de la personne qui a subi la chirurgie;
+
+
+
+
+
+
+
+
+b) son propre nom, la date de la chirurgie ainsi que les nom et adresse de l’établissement de santé où la chirurgie a été effectuée;
+
+
+
+
+
+
+
+
+c) pour chaque implant mammaire posé ou extrait :
+
+
+
+
+
+
+
+
+(i) les nom et adresse du fabricant de l’implant mammaire,
+
+
+
+
+
+
+
+
+(ii) le numéro de lot ou de série ainsi que le volume nominal et le volume réel de l’implant mammaire,
+
+
+
+
+
+
+
+
+(iii) le type du produit de remplissage utilisé dans l’implant mammaire,
+
+
+
+
+
+
+
+
+(iv) une mention indiquant quel sein, droit ou gauche, a fait l’objet de la chirurgie;
+
+
+
+
+
+
+
+
+d) dans le cas de la pose d’implants mammaires, la technique utilisée à cette fin, la position des implants mammaires, le type d’incision et les indications de la pose de ces implants;
+
+
+
+
+
+
+
+
+e) dans le cas de l’extraction d’implants mammaires, les constatations peropératoires s’y rapportant et les indications de l’extraction;
+
+
+
+
+
+
+
+
+f) tout autre renseignement réglementaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Format of report
+
+
+
+(2) The information submitted under subsection (1) shall be in a format established by the Minister of Health.
+
+
+
+
+
+
+
+
+
+(2) Les renseignements prévus au paragraphe (1) sont communiqués en la forme prescrite par le ministre de la Santé.
+
+
+
+Forme du rapport
+
+
+
+
+
+
+
+
+
+
+Obligation to inform
+
+
+
+(3) The medical practitioner referred to in subsection (1) shall inform the person who is to undergo the surgery of the existence and purpose of the Registry, the requirement to submit information to the Registrar and the subsequent opportunity under section 6 to correct the personal information on file.
+
+
+
+
+
+
+
+
+
+(3) Le médecin visé au paragraphe (1) avise la personne qui doit subir la chirurgie de l’existence et de l’objet du Registre, de l’obligation de communiquer les renseignements au directeur et de la possibilité prévue à l’article 6 de corriger les renseignements personnels versés au dossier.
+
+
+
+Obligation du médecin
+
+
+
+
+
+
+
+
+
+
+Change of address
+
+
+
+6. The Registrar shall, on receipt of the information submitted under subsection 5(1), provide the person in respect of whom the information is submitted, by notice in writing delivered personally or sent by registered mail, with a copy of the information and a statement advising the person to notify the Registrar of any change in the person’s permanent address.
+
+
+
+
+
+
+
+
+
+6. Sur réception des renseignements prévus au paragraphe 5(1), le directeur en remet copie à la personne visée au moyen d’un avis écrit remis en main propre ou envoyé par courrier recommandé avec un avis demandant à celle-ci de l’informer de tout changement de son adresse permanente.
+
+
+
+Changement d’adresse
+
+
+
+
+
+
+
+
+
+
+Obligation of manufacturer, importer or distributor to report
+
+
+
+7. (1) A manufacturer, importer or distributor of a breast implant that has been sold shall notify the Registrar immediately after becoming aware that the implant may present a health risk to the user.
+
+
+
+
+
+
+
+
+
+7. (1) Si le fabricant, l’importateur ou le distributeur d’un implant mammaire qui a été vendu se rend compte que cet implant peut présenter un risque pour la santé de l’utilisateur, il est tenu d’en aviser sans délai le directeur.
+
+
+
+Obligation du fabricant, de l’importateur ou du distributeur
+
+
+
+
+
+
+
+
+
+
+Information to be provided
+
+
+
+(2) The manufacturer, importer or distributor shall, as soon as possible after notifying the Registrar in accordance with subsection (1), provide the Registrar with the following:
+
+
+
+
+
+
+
+
+(a) information as to the nature of the health risk that has been identified in respect of the breast implant and the date on and circumstances under which the health risk or potential health risk was discovered;
+
+
+
+
+
+
+
+
+(b) an evaluation of the health risk associated with the breast implant;
+
+
+
+
+
+
+
+
+(c) a copy of any communication issued with respect to that risk; and
+
+
+
+
+
+
+
+
+(d) any other prescribed information.
+
+
+
+
+
+
+
+
+
+(2) Aussitôt que possible après avoir avisé le directeur conformément au paragraphe (1), le fabricant, l’importateur ou le distributeur lui transmet les renseignements suivants :
+
+
+
+Renseignements à fournir
+
+
+
+
+a) des renseignements sur la nature du risque pour la santé décelé au sujet de l’implant mammaire, ainsi que la date et les circonstances de la découverte du risque, réel ou potentiel, pour la santé;
+
+
+
+
+
+
+
+
+b) une évaluation du risque pour la santé que présente l’implant mammaire;
+
+
+
+
+
+
+
+
+c) une copie de chaque communication envoyée au sujet de ce risque;
+
+
+
+
+
+
+
+
+d) tout autre renseignement réglementaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obligation of Registrar to notify persons of risks to health
+
+
+
+8. (1) When the Registrar receives a notification under subsection 7(1), or otherwise has reasonable grounds to believe that a breast implant may pose a health risk to the user, the Registrar shall, without delay, contact each user listed in the Registry.
+
+
+
+
+
+
+
+
+
+8. (1) Lorsque le directeur reçoit un avis conformément au paragraphe 7(1) ou a par ailleurs des motifs raisonnables de croire qu’un implant mammaire peut présenter un risque pour la santé de l’utilisateur, il communique sans délai avec chaque utilisateur inscrit au Registre.
+
+
+
+Obligation du directeur de signaler les risques pour la santé
+
+
+
+
+
+
+
+
+
+
+Information to be provided
+
+
+
+(2) When the Registrar contacts a person under subsection (1), the Registrar shall provide to the person any information that the Registrar considers necessary to assist the person in assessing the risk to their health.
+
+
+
+
+
+
+
+
+
+(2) Lorsqu’il communique avec une personne en application du paragraphe (1), le directeur lui fournit tous les renseignements qu’il estime nécessaires pour l’aider à évaluer le risque pour sa santé.
+
+
+
+Renseignements à fournir
+
+
+
+
+
+
+
+
+
+
+ELECTRONIC FILING
+
+
+
+
+
+
+
+
+
+TRANSMISSION ÉLECTRONIQUE
+
+
+
+
+
+
+
+
+
+
+
+
+Electronic filing
+
+
+
+9. Subject to the regulations, information, notices and documents that are sent to or issued by the Registrar under this or any other Act of Parliament may be sent or issued in electronic or other form in any manner specified by the Registrar.
+
+
+
+
+
+
+
+
+
+9. Sous réserve des règlements, les renseignements, avis et documents que le directeur envoie ou reçoit aux termes de la présente loi ou de toute autre loi fédérale peuvent être transmis sur support électronique ou autre, de la manière précisée par lui.
+
+
+
+Transmission électronique
+
+
+
+
+
+
+
+
+
+
+Records of Registrar
+
+
+
+10. Information that is required to be kept by the Registrar under subsection 4(1) may
+
+
+
+
+
+
+
+
+(a) be in bound or loose-leaf form or in photographic film form; or
+
+
+
+
+
+
+
+
+(b) be entered or recorded by any system of mechanical or electronic data processing or by any other information storage device that is capable of reproducing any required information in intelligible written or printed form within a reasonable time.
+
+
+
+
+
+
+
+
+
+10. Les renseignements que le directeur conserve dans le Registre aux termes du paragraphe 4(1) peuvent être :
+
+
+
+Forme des renseignements
+
+
+
+
+a) soit dans une reliure ou sous forme de feuilles mobiles ou de films;
+
+
+
+
+
+
+
+
+b) soit enregistrés à l’aide de tout procédé mécanique ou électronique de traitement des données ou de mise en mémoire de l’information capable de restituer en clair sous une forme écrite ou imprimée, dans un délai raisonnable, les renseignements demandés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRIVACY AND DISCLOSURE OF INFORMATION
+
+
+
+
+
+
+
+
+
+PROTECTION ET COMMUNICATION DES RENSEIGNEMENTS PERSONNELS
+
+
+
+
+
+
+
+
+
+
+
+
+Consent to disclosure
+
+
+
+11. Despite section 8 of the Privacy Act but subject to sections 12 to 14, information contained in the Registry respecting the identity, personal characteristics and medical history of a person who has undergone breast implant surgery, including surgery to explant a breast implant, is confidential and shall be disclosed only with the written consent of the person, which may not be given unless the person giving the consent has been informed of the purpose for which the consent is sought.
+
+
+
+
+
+
+
+
+
+11. Malgré l’article 8 de la Loi sur la protection des renseignements personnels et sous réserve des articles 12 à 14, les renseignements que contient le Registre au sujet de l’identité, des caractéristiques personnelles et du bilan médical d’une personne ayant subi une chirurgie pour la pose ou l’extraction d’implants mammaires sont confidentiels et ne peuvent être communiqués qu’avec le consentement écrit de la personne, laquelle ne peut donner son consentement qu’après avoir été informée des motifs pour lesquels celui-ci est requis.
+
+
+
+Consentement
+
+
+
+
+
+
+
+
+
+
+Obligation to disclose
+
+
+
+12. The Registrar shall disclose confidential information contained in the Registry
+
+
+
+
+
+
+
+
+(a) for the purpose of complying with a subpoena or warrant issued or order made by a court, person or body with jurisdiction to compel the production of information, or for the purpose of complying with rules of court relating to the production of information; and
+
+
+
+
+
+
+
+
+(b) to the extent required by provisions of any federal or provincial law respecting health and safety that are specified in the regulations.
+
+
+
+
+
+
+
+
+
+12. Le directeur est tenu de communiquer les renseignements confidentiels figurant au Registre :
+
+
+
+Communication obligatoire
+
+
+
+
+a) afin de se conformer à une assignation, un mandat ou une ordonnance d’un tribunal, d’une personne ou d’un organisme ayant compétence pour contraindre à la production de renseignements, ou afin de se conformer à des règles d’un tribunal relatives à la production de renseignements;
+
+
+
+
+
+
+
+
+b) dans la mesure où l’exige une disposition — mentionnée dans les règlements — d’un texte législatif fédéral ou provincial portant sur la santé et la sécurité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discretion to disclose
+
+
+
+13. (1) The Registrar may disclose confidential information contained in the Registry
+
+
+
+
+
+
+
+
+(a) for the purposes of enforcing this Act;
+
+
+
+
+
+
+
+
+(b) to the extent required for the administration of a health care insurance plan within the meaning of the Canada Health Act; and
+
+
+
+
+
+
+
+
+(c) for the purposes of disciplinary proceedings undertaken by any professional licensing or disciplinary body established under the laws of Canada or a province and specified in the regulations.
+
+
+
+
+
+
+
+
+
+13. (1) Le directeur peut communiquer les renseignements confidentiels figurant au Registre :
+
+
+
+Communication facultative
+
+
+
+
+a) dans le cadre du contrôle d’application de la présente loi;
+
+
+
+
+
+
+
+
+b) dans la mesure où la communication est requise dans le cadre de la gestion d’un régime d’assurance-santé au sens de la Loi canadienne sur la santé;
+
+
+
+
+
+
+
+
+c) dans le cadre de mesures disciplinaires prises par un ordre professionnel ou un organisme disciplinaire constitués sous le régime d’une loi fédérale ou provinciale et visés par règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research and statistics
+
+
+
+(2) The Registrar may disclose confidential information contained in the Registry to an individual or organization for scientific research or statistical purposes, other than information that identifies any person or information that can reasonably be expected to be used in the identification of any person.
+
+
+
+
+
+
+
+
+
+(2) Le directeur peut communiquer les renseignements confidentiels figurant au Registre — sauf l’identité d’une personne ou les renseignements dont il est raisonnable de croire qu’ils peuvent servir à identifier une personne — à tout individu ou à toute organisation à des fins statistiques ou de recherche scientifique.
+
+
+
+Communication à des fins statistiques ou de recherche
+
+
+
+
+
+
+
+
+
+
+Disclosure to address health risk
+
+
+
+14. The Registrar may disclose to a medical practitioner the identity of a person whose name is recorded in the Registry if, in the Registrar’s opinion, the disclosure is necessary to address a risk to the health of the person. The medical practitioner may not disclose that identity.
+
+
+
+
+
+
+
+
+
+14. Le directeur peut communiquer à un médecin l’identité d’une personne dont le nom est inscrit au Registre s’il l’estime nécessaire pour contrer tout risque pour la santé de celle-ci. Le médecin ne peut pas communiquer cette identité.
+
+
+
+Communication à un médecin
+
+
+
+
+
+
+
+
+
+
+OFFENCES
+
+
+
+
+
+
+
+
+
+INFRACTIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Offence and punishment
+
+
+
+15. Every person who contravenes any provision of this Act is guilty of an offence and
+
+
+
+
+
+
+
+
+(a) is liable, on conviction on indictment, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding five years, or to both; or
+
+
+
+
+
+
+
+
+(b) is liable, on summary conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding two years, or to both.
+
+
+
+
+
+
+
+
+
+15. Quiconque contrevient à une disposition de la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
+
+
+
+Infractions et peines
+
+
+
+
+a) par mise en accusation, une amende maximale de 250 000 $ et un emprisonne- ment maximal de cinq ans, ou l’une de ces peines;
+
+
+
+
+
+
+
+
+b) par procédure sommaire, une amende maximale de 100 000 $ et un emprisonnement maximal de deux ans, ou l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Court order
+
+
+
+16. A court that imposes a fine or term of imprisonment on a person in respect of an offence under this Act may, on application by the Attorney General of Canada, order the person not to engage in any activity that, in the court’s opinion, may lead to the commission of an offence under this Act.
+
+
+
+
+
+
+
+
+
+16. Lorsqu’il inflige une amende ou une peine d’emprisonnement sous le régime de la présente loi, le tribunal peut, à la demande du procureur général du Canada, interdire au contrevenant tout acte qui, à son avis, est susceptible d’entraîner la perpétration d’une infraction à la présente loi.
+
+
+
+Ordonnance
+
+
+
+
+
+
+
+
+
+
+Consent of Attorney General
+
+
+
+17. A prosecution for an offence under this Act may be instituted only with the consent of the Attorney General of Canada.
+
+
+
+
+
+
+
+
+
+17. Il ne peut être engagé de poursuite pour infraction à la présente loi sans le consentement du procureur général du Canada.
+
+
+
+Consentement du procureur général
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+18. The Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including regulations
+
+
+
+
+
+
+
+
+(a) for the purposes of paragraph 4(1)(c), specifying information to be contained in the Registry;
+
+
+
+
+
+
+
+
+(b) for the purposes of subsection 4(3), respecting the destruction of information kept in the Registry;
+
+
+
+
+
+
+
+
+(c) for the purposes of paragraph 5(1)(f), specifying information to be submitted by a medical practitioner;
+
+
+
+
+
+
+
+
+(d) for the purposes of paragraph 7(2)(d), respecting information to be provided by manufacturers, importers or distributors;
+
+
+
+
+
+
+
+
+(e) for the purposes of paragraph 12(b), specifying the provisions of any federal or provincial law;
+
+
+
+
+
+
+
+
+(f) for the purposes of paragraph 13(1)(c), identifying professional licensing and disciplinary bodies; and
+
+
+
+
+
+
+
+
+(g) excluding any type of breast implant from the application of this Act if the Governor in Council is of the opinion that the exclusion is in the public interest and consistent with public health and safety.
+
+
+
+
+
+
+
+
+
+18. Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application de la présente loi et, notamment :
+
+
+
+Règlements
+
+
+
+
+a) pour l’application de l’alinéa 4(1)c), préciser les renseignements que doit contenir le Registre;
+
+
+
+
+
+
+
+
+b) pour l’application du paragraphe 4(3), régir la destruction des renseignements conservés dans le Registre;
+
+
+
+
+
+
+
+
+c) pour l’application de l’alinéa 5(1)f), déterminer les renseignements devant être communiqués par le médecin;
+
+
+
+
+
+
+
+
+d) pour l’application de l’alinéa 7(2)d), préciser les renseignements devant être fournis par les fabricants, les importateurs ou les distributeurs;
+
+
+
+
+
+
+
+
+e) pour l’application de l’alinéa 12b), préciser les dispositions visées des textes législatifs fédéraux ou provinciaux;
+
+
+
+
+
+
+
+
+f) pour l’application de l’alinéa 13(1)c), désigner les ordres professionnels et organismes disciplinaires;
+
+
+
+
+
+
+
+
+g) soustraire tout type d’implant mammaire à l’application de la présente loi s’il est d’avis que cette exemption est dans l’intérêt public et est compatible avec la santé et la sécurité publiques.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+R.S., c. A-1
+
+
+
+Access to Information Act
+
+
+
+
+
+
+
+
+
+Loi sur l’accès à l’information
+
+
+
+L.R., ch. A-1
+
+
+
+
+
+
+
+
+
+
+
+
+19. Schedule I to the Access to Information Act is amended by adding the following in alphabetical order under the heading “Other Government Institutions”:
+
+
+
+
+
+
+
+
+
+19. L’annexe I de la Loi sur l’accès à l’information est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre
+« Autres institutions fédérales », de ce qui 
+suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Registrar of the Breast Implant Registry
+
+
+
+
+
+
+Directeur du Registre des implants     mammaires
+
+
+
+
+
+
+
+
+
+Directeur du Registre des implants mammaires
+
+
+
+
+
+
+ Registrar of the Breast Implant Registry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20. Schedule II to the Act is amended by adding, in alphabetical order, a reference to
+
+
+
+
+
+
+
+
+
+20. L’annexe II de la même loi est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Breast Implant Registry Act
+
+
+
+
+
+
+Loi sur le Registre des implants mammaires
+
+
+
+
+
+
+and a corresponding reference to “section 11”.
+
+
+
+
+
+
+
+
+
+Loi sur le Registre des implants mammaires
+
+
+
+
+
+
+Breast Implant Registry Act
+
+
+
+
+
+
+ainsi que de la mention « article 11 » en regard de ce titre de loi.
+
+
+
+
+
+
+
+
+
+
+R.S., c. P-21
+
+
+
+Privacy Act
+
+
+
+
+
+
+
+
+
+Loi sur la protection des renseignements personnels
+
+
+
+L.R., ch. P-21
+
+
+
+
+
+
+
+
+
+
+
+
+21. The schedule to the Privacy Act is amended by adding the following in alphabetical order under the heading “Other Government Institutions”:
+
+
+
+
+
+
+
+
+
+21. L’annexe de la Loi sur la protection des renseignements personnels est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « Autres institutions fédérales », de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Registrar of the Breast Implant Registry
+
+
+
+
+
+
+Directeur du Registre des implants mammaires
+
+
+
+
+
+
+
+
+
+Directeur du Registre des implants mammaires
+
+
+
+
+
+
+ Registrar of the Breast Implant Registry
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

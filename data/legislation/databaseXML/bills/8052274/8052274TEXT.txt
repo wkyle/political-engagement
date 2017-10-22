@@ -1,0 +1,8227 @@
+
+
+
+
+
+S-232
+
+
+
+
+
+S-232
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-232
+
+
+
+
+
+PROJET DE LOI S-232
+
+
+
+
+
+
+An Act to amend the Royal Canadian Mounted Police Act (Civilian Review and Oversight Council for the Royal Canadian Mounted Police and the Royal Canadian Mounted Police Ombudsperson) and to make consequential amendments to other Acts
+
+
+
+
+
+Loi modifiant la Loi sur la Gendarmerie royale du Canada (Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada et ombudsman de la Gendarmerie royale du Canada) et modifiant d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 17, 2015
+
+première lecture le 17 juin 2015
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR MITCHELL
+
+1418
+
+
+
+L’HONORABLE SÉNATEUR MITCHELL
+
+
+
+
+
+SUMMARY
+This enactment amends the Royal Canadian Mounted Police Act in order to enhance the accountability of the Royal Canadian Mounted Police by establishing the Civilian Review and Oversight Council for the Royal Canadian Mounted Police and the office of the Royal Canadian Mounted Police Ombudsperson.  It also makes consequential amendments to other Acts.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur la Gendarmerie royale du Canada afin de renforcer la responsabilité de la Gendarmerie royale du Canada en établissant le Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada ainsi que la charge d’ombudsman de la Gendarmerie royale du Canada. Il modifie également d’autres lois en conséquence.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+TABLE OF PROVISIONS
+
+
+
+TABLE ANALYTIQUE
+
+
+
+
+AN ACT TO AMEND THE ROYAL CANADIAN MOUNTED POLICE ACT (CIVILIAN REVIEW AND OVERSIGHT COUNCIL FOR THE ROYAL CANADIAN MOUNTED POLICE AND THE ROYAL CANADIAN MOUNTED POLICE OMBUDSPERSON) AND TO MAKE CONSEQUENTIAL AMENDMENTS TO OTHER ACTS
+
+
+
+LOI MODIFIANT LA LOI SUR LA GENDARMERIE ROYALE DU CANADA (CONSEIL CIVIL D’EXAMEN ET DE SURVEILLANCE DE LA GENDARMERIE ROYALE DU CANADA ET OMBUDSMAN DE LA GENDARMERIE ROYALE DU CANADA) ET MODIFIANT D’AUTRES LOIS EN CONSÉQUENCE
+
+
+
+
+SHORT TITLE
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+1.       Enhancement of Civilian Review and Oversight in the Royal Canadian Mounted Police Act
+
+
+
+
+
+
+
+
+
+1.       Loi sur le renforcement de l’examen et de la surveillance civils de la Gendarmerie royale du Canada.
+
+
+
+
+
+
+
+ROYAL CANADIAN MOUNTED POLICE ACT
+
+
+
+LOI SUR LA GENDARMERIE ROYALE DU CANADA
+
+
+
+
+
+
+
+2-7.       Amendments
+
+
+
+
+
+
+
+
+
+2-7.       Modifications
+
+
+
+
+
+
+
+CONSEQUENTIAL AND RELATED AMENDMENTS
+
+
+
+MODIFICATIONS CORRÉLATIVES ET CONNEXES
+
+
+
+
+
+
+
+8.       Access to Information Act
+
+
+
+
+
+
+
+
+
+8.       Loi sur l’accès à l’information
+
+
+
+
+
+
+
+
+
+
+9.       Financial Administration Act
+
+
+
+
+
+
+
+
+
+9.       Loi sur la gestion des finances publiques
+
+
+
+
+
+
+
+
+
+
+10.       Privacy Act
+
+
+
+
+
+
+
+
+
+10.       Loi sur la protection des renseignements personnels 
+
+
+
+
+
+
+
+
+
+
+11.       Public Sector Compensation Act
+
+
+
+
+
+
+
+
+
+11.       Loi sur la rémunération du secteur public 
+
+
+
+
+
+
+
+
+
+
+12.       Language Skills Act
+
+
+
+
+
+
+
+
+
+12.       Loi sur les compétences linguistiques 
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+13.       Coming into force
+
+
+
+
+
+
+
+
+
+13.       Entrée en vigueur
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-232
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-232
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Royal Canadian Mounted Police Act (Civilian Review and Oversight Council for the Royal Canadian Mounted Police and the Royal Canadian Mounted Police Ombudsperson) and to make consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la Gendarmerie royale du Canada (Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada et ombudsman de la Gendarmerie royale du Canada) et modifiant d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : 
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Enhancement of Civilian Review and Oversight in the Royal Canadian Mounted Police Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur le renforcement de l’examen et de la surveillance civils de la Gendarmerie royale du Canada.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+R.S., c. R-10
+
+
+
+ROYAL CANADIAN MOUNTED POLICE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA GENDARMERIE ROYALE DU CANADA
+
+
+
+L.R., ch. R-10
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 2(1) of the Royal Canadian Mounted Police Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 2(1) de la Loi sur la Gendarmerie royale du Canada est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“Council”« Conseil »
+
+
+
+“Council” means the Civilian Review and Oversight Council for the Royal Canadian Mounted Police established by subsection 45.992(1).
+
+
+
+
+“Ombudsperson” « ombudsman »
+
+
+
+“Ombudsperson” means the person appointed under subsection 54(2).
+
+
+
+
+
+
+
+
+
+« Conseil » Le Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada, constitué par le paragraphe 45.992(1).
+
+
+
+« Conseil »“Council”
+
+
+
+
+« ombudsman » L’ombudsman nommé en application du paragraphe 54(2).
+
+
+
+« ombudsman » “Ombudsperson”
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsection 14(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 14(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Oaths
+
+
+
+14. (1) Every member shall, before entering on the duties of the member’s office, take the oath of allegiance and the oaths set out in schedule I.
+
+
+
+
+
+
+
+
+
+14. (1) Avant d’entrer en fonctions, les membres prêtent le serment d’allégeance de même que les serments figurant à l’annexe I.
+
+
+
+Serments
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Act is amended by adding the following after section 45.991:
+
+
+
+
+
+
+
+
+
+4. La même loi est modifiée par adjonction, après l’article 45.991, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+PART VII.3
+
+
+
+
+
+
+
+
+
+PARTIE VII.3
+
+
+
+
+
+
+
+
+
+
+
+
+CIVILIAN REVIEW AND OVERSIGHT COUNCIL FOR THE ROYAL CANADIAN MOUNTED POLICE
+
+
+
+
+
+
+
+
+
+CONSEIL CIVIL D’EXAMEN ET DE SURVEILLANCE DE LA GENDARMERIE ROYALE DU CANADA
+
+
+
+
+
+
+
+
+
+
+
+
+Establishment and Organization
+
+
+
+
+
+
+
+
+
+Constitution et organisation
+
+
+
+
+
+
+
+
+
+
+
+
+Establishment
+
+
+
+45.992 (1) There is hereby established a council to be known as the Civilian Review and Oversight Council for the Royal Canadian Mounted Police, consisting of a Chairperson, a Vice-chairperson and not more than 11 other members, to be appointed by the Governor in Council.
+
+
+
+
+
+
+
+
+
+45.992 (1) Est constitué le Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada, composé de treize membres, dont le président et le vice-président, nommés par décret du gouverneur en conseil.
+
+
+
+Constitution
+
+
+
+
+
+
+
+
+
+
+Objects
+
+
+
+(2) The objects of the Council are to
+
+
+
+
+
+
+
+
+(a) review and oversee, in an independent manner, the operations of the Force in order to enhance its effectiveness and efficiency; and
+
+
+
+
+
+
+
+
+(b) provide an essential balance between public accountability and police independence.
+
+
+
+
+
+
+
+
+
+(2) Le Conseil a pour mission :  
+
+
+
+Mission
+
+
+
+
+a) d’examiner et de surveiller, en toute indépendance, les opérations de la Gendarmerie afin d’en améliorer l’efficacité et l’efficience;
+
+
+
+
+
+
+
+
+b) d’assurer l’équilibre essentiel entre l’obligation de rendre des comptes au public et l’indépendance policière.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Selection
+
+
+
+45.993 (1) The Governor in Council must appoint every member of the Council from among eligible persons after approval by the committees of the Senate and of the House of Commons that normally consider matters relating to the Royal Canadian Mounted Police or any other committee that the Houses may designate for the purposes of this section.
+
+
+
+
+
+
+
+
+
+45.993 (1) Le gouverneur en conseil choisit les membres du Conseil parmi les personnes admissibles après approbation par les comités du Sénat et de la Chambre des communes qui étudient normalement les questions liées à la Gendarmerie royale du Canada ou tout autre comité désigné par les chambres pour l’application du présent article.
+
+
+
+Sélection
+
+
+
+
+
+
+
+
+
+
+Ineligibility
+
+
+
+(2) A person is not eligible to be appointed or to continue as a member of the Council if the person is
+
+
+
+
+
+
+
+
+(a) a member or former member; or
+
+
+
+
+
+
+
+
+(b) not a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act.
+
+
+
+
+
+
+
+
+
+(2) Est inadmissible à exercer la charge de membre du Conseil quiconque :
+
+
+
+Inadmissibilité
+
+
+
+
+a) est un membre ou un ancien membre;
+
+
+
+
+
+
+
+
+b) n’est ni citoyen canadien ni résident permanent au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment consideration
+
+
+
+(3) The Governor in Council must, before appointing a person as a member of the Council, consider the need for regional representation in the membership of the Council.
+
+
+
+
+
+
+
+
+
+(3) Le gouverneur en conseil, avant de nommer une personne membre du Conseil, tient compte de la nécessité d’assurer la représentation des régions.
+
+
+
+Considération avant la nomination
+
+
+
+
+
+
+
+
+
+
+Full- or part-time
+
+
+
+45.994 (1) The Chairperson is to be appointed as a full-time member of the Council, and the other members of the Council as full-time or part-time members.
+
+
+
+
+
+
+
+
+
+45.994 (1) Le président est membre à temps plein du Conseil. Les autres membres peuvent être nommés à temps plein ou à temps partiel. 
+
+
+
+Temps plein ou temps partiel
+
+
+
+
+
+
+
+
+
+
+Tenure
+
+
+
+(2) Each member of the Council holds office during good behaviour for a term not exceeding five years, but may be removed for cause at any time by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(2) Les membres du Conseil occupent leur charge à titre inamovible pour un mandat d’au plus cinq ans, sous réserve de révocation par le gouverneur en conseil pour motif valable.
+
+
+
+Mandat
+
+
+
+
+
+
+
+
+
+
+Reappointment
+
+
+
+(3) A member of the Council may be reappointed for a second or subsequent term of office.
+
+
+
+
+
+
+
+
+
+(3) Le mandat des membres du Conseil est renouvelable.
+
+
+
+Nouveau mandat
+
+
+
+
+
+
+
+
+
+
+Remuneration
+
+
+
+(4) Members of the Council are to be paid the remuneration that is to be determined by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(4) Les membres du Conseil reçoivent la rémunération fixée par le gouverneur en conseil.
+
+
+
+Rémunération
+
+
+
+
+
+
+
+
+
+
+Travel, living and other expenses
+
+
+
+(5) Members of the Council are entitled to be reimbursed, in accordance with Treasury Board directives, for the travel, living and other expenses incurred in connection with their work for the Council while absent, in the case of full-time members, from their ordinary place of work or, in the case of part-time members, from their ordinary place of residence.
+
+
+
+
+
+
+
+
+
+(5) Les membres du Conseil sont indemnisés des frais de déplacement et de séjour engagés dans l’exercice de leurs fonctions hors de leur lieu habituel soit de travail, s’ils sont à temps plein, soit de résidence, s’ils sont à temps partiel, conformément aux directives du Conseil du Trésor.
+
+
+
+Indemnités
+
+
+
+
+
+
+
+
+
+
+Benefits of full-time members
+
+
+
+(6) The full-time members of the Council are deemed to be employed in the public service for the purposes of the Public Service Superannuation Act and in the federal public administration for the purposes of the Government Employees Compensation Act and any regulations made under section 9 of the Aeronautics Act.
+
+
+
+
+
+
+
+
+
+
+(6) Les membres à temps plein du Conseil sont réputés faire partie de la fonction publique pour l’application de la Loi sur la pension de la fonction publique et de l’administration publique fédérale pour l’application de la Loi sur l’indemnisation des agents de l’État et des règlements pris en vertu de l’article 9 de la Loi sur l’aéronautique.
+
+
+
+Avantages sociaux des membres à temps plein
+
+
+
+
+
+
+
+
+
+
+Functions — full-time
+
+
+
+(7) In the case of a full-time appointment, members of the Council must engage exclusively in the duties and functions of the Council and may not hold any other office under Her Majesty or engage in any other employment for reward.
+
+
+
+
+
+
+
+
+
+(7) S’il est nommé à temps plein, un membre du Conseil se consacre à l’exercice de ses fonctions à l’exclusion de toute autre charge au service de Sa Majesté ou de tout autre emploi rétribué.
+
+
+
+Exercice des fonctions — temps plein
+
+
+
+
+
+
+
+
+
+
+Functions — part-time
+
+
+
+(8) In the case of a part-time appointment, members of the Council may not accept or hold any office or employment, or carry on any activity, inconsistent with his or her duties and functions under this Act.
+
+
+
+
+
+
+
+
+
+(8) S’il est nommé à temps partiel, un membre du Conseil ne détient, ni n’accepte, de charge ou d’emploi ni n’exerce d’activité incompatibles avec ses fonctions.
+
+
+
+Exercice des fonctions — temps partiel
+
+
+
+
+
+
+
+
+
+
+Chairperson
+
+
+
+45.995  (1) The Chairperson is the chief executive officer of the Council and has supervision over and direction of the work and staff of the Council.
+
+
+
+
+
+
+
+
+
+45.995  (1) Le président est le premier dirigeant du Conseil; à ce titre, il en assure la direction et contrôle la gestion de son personnel.
+
+
+
+Président du Conseil
+
+
+
+
+
+
+
+
+
+
+ 	Delegation
+
+
+
+(2) The Chairperson may delegate to the Vice-chairperson any of the powers, duties and functions of the Chairperson under this Act, except the power to delegate under this subsection.
+
+
+
+
+
+
+
+
+
+(2) Le président du Conseil peut déléguer au vice-président les pouvoirs et fonctions que lui attribue la présente loi, à l’exception du pouvoir de délégation que lui accorde le présent paragraphe.
+
+
+
+ 	 	Délégation
+
+
+
+
+
+
+
+
+
+
+Absence or incapacity of Chairperson
+
+
+
+(3) In the event of the absence or incapacity of the Chairperson or if the office is vacant, the Vice-chairperson has all the powers, duties and functions of the Chairperson.
+
+
+
+
+
+
+
+
+
+(3) En cas d’absence ou d’empêchement du président du Conseil ou de vacance de son poste, le vice-président exerce les pouvoirs et fonctions attribués au président.
+
+
+
+Absence ou empêchement du président
+
+
+
+
+
+
+
+
+
+
+Absence or incapacity of Vice-chairperson
+
+
+
+(4) In the event of the absence or incapacity of the Vice-chairperson or if the office is vacant, the Minister may authorize another member of the Council to exercise the powers and perform the duties and functions of the Chairperson, but a member of the Council so authorized is not entitled to act as Chairperson for more than 90 days without the approval of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(4) En cas d’absence ou d’empêchement du vice-président ou en cas de vacance de son poste, le ministre peut autoriser un autre membre du Conseil à remplacer le président et à exercer les pouvoirs et fonctions de celui-ci; l’autorisation ne peut cependant dépasser quatre-vingt-dix jours sans l’approbation du gouverneur en conseil.
+
+
+
+Absence ou empêchement du vice-président
+
+
+
+
+
+
+
+
+
+
+Head office
+
+
+
+45.996 (1) The head office of the Council must be in Ottawa.
+
+
+
+
+
+
+
+
+
+45.996 (1) Le siège du Conseil est fixé dans la ville d’Ottawa.
+
+
+
+Siège
+
+
+
+
+
+
+
+
+
+
+Regional offices
+
+
+
+(2) The Council may establish any other office in any region of Canada.
+
+
+
+
+
+
+
+
+
+(2) Le Conseil peut établir des bureaux dans toute région du Canada.
+
+
+
+Bureaux
+
+
+
+
+
+
+
+
+
+
+Staff
+
+
+
+(3) The employees necessary for the proper conduct of the work of the Council must be appointed in accordance with the Public Service Employment Act. 
+
+
+
+
+
+
+
+
+
+(3) Le personnel nécessaire à l’exécution des travaux du Conseil est nommé conformément à la Loi sur l’emploi dans la fonction publique. 
+
+
+
+Personnel
+
+
+
+
+
+
+
+
+
+
+Technical assistance
+
+
+
+(4) The Council may, with the approval of the Treasury Board,
+
+
+
+
+
+
+
+
+(a) engage, on a temporary basis, the services of persons having technical or specialized knowledge of any matter relating to the work of the Council to advise and assist the Council in the exercise of its powers or performance of its duties and functions under this Act; and
+
+
+
+
+
+
+
+
+(b) fix and pay the remuneration and expenses of persons engaged under paragraph (a).
+
+
+
+
+
+
+
+
+
+(4) Le Conseil peut, avec l’approbation du Conseil du Trésor : 
+
+
+
+Assistance d’un expert
+
+
+
+
+a) engager, à titre temporaire, des experts compétents dans des domaines relevant de son champ d’activité pour le conseiller et l’assister dans l’exercice des pouvoirs et fonctions que lui attribue  la présente loi;
+
+
+
+
+
+
+
+
+b) fixer et payer leur rémunération et leurs frais.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powers, Duties and Functions
+
+
+
+
+
+
+
+
+
+Pouvoirs et fonctions
+
+
+
+
+
+
+
+
+
+
+
+
+Objects
+
+
+
+45.997 In order to fulfil its objects, the Council must exercise the powers and perform the duties and functions that are assigned to it by this Act.
+
+
+
+
+
+
+
+
+
+45.997 Afin de remplir sa mission, le Conseil exerce les pouvoirs et fonctions que lui attribue la présente loi.
+
+
+
+Mission
+
+
+
+
+
+
+
+
+
+
+Powers, duties and functions
+
+
+
+45.998 (1) The Council may, on the request of the Minister or on its own initiative,
+
+
+
+
+
+
+
+
+(a) review draft budgets and other financial reports and statements of the Force;
+
+
+
+
+
+
+
+
+(b) monitor the allocation and expenditure of funds by the Force;
+
+
+
+
+
+
+
+
+(c) review the planning, development and implementation of the strategic priorities and plans of the Force;
+
+
+
+
+
+
+
+
+(d) review programs and initiatives of the Force and their implementation by the Force;
+
+
+
+
+
+
+
+
+(e) review existing and proposed amendments to policies, procedures, guidelines or practices of the Force;
+
+
+
+
+
+
+
+
+(f) oversee any internal audit of the Force; and
+
+
+
+
+
+
+
+
+(g) conduct studies of any matter relating to the operations of the Force.
+
+
+
+
+
+
+
+
+
+45.998 (1) Le Conseil peut, de sa propre initiative ou à la demande du ministre :
+
+
+
+Pouvoirs et fonctions
+
+
+
+
+a) examiner les avant-projets de budget et les autres rapports et états financiers de la Gendarmerie;
+
+
+
+
+
+
+
+
+b) contrôler les allocations et dépenses de fonds par la Gendarmerie; 
+
+
+
+
+
+
+
+
+c) examiner la planification, l’élaboration et la mise en oeuvre des priorités et plans stratégiques de la Gendarmerie; 
+
+
+
+
+
+
+
+
+d) examiner les programmes et initiatives de la Gendarmerie ainsi que leur mise en oeuvre;
+
+
+
+
+
+
+
+
+e) examiner les politiques, procédures, lignes directrices et pratiques existantes de la Gendarmerie ainsi que les modifications envisagées;
+
+
+
+
+
+
+
+
+f) surveiller la vérification interne de la Gendarmerie;
+
+
+
+
+
+
+
+
+g) mener des études sur toute question liée aux opérations de la Gendarmerie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conditions
+
+
+
+(2) In order to perform any of the specified functions in subsection (1) on its own initiative, the Council must be satisfied that
+
+
+
+
+
+
+
+
+(a) sufficient resources exist for performing the function; and
+
+
+
+
+
+
+
+
+(b) no other review or inquiry on substantially the same issue by a federal or provincial entity is pending.
+
+
+
+
+
+
+
+
+
+(2) Pour exercer de sa propore initiative les fonctions prévues au paragraphe (1), le Conseil doit être convaincu :
+
+
+
+Conditions
+
+
+
+
+a) qu’il dispose des ressources nécessaires pour exercer cette fonction;
+
+
+
+
+
+
+
+
+b) qu’aucun autre examen ou enquête n’a été entrepris sur une question similaire par une entité fédérale ou provinciale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(3) Before performing any of the specified functions in subsection (1) on its own initiative, the Council must give a notice to the Minister indicating that it is satisfied that the conditions set out in subsection (2) have been met and providing the rationale for performing the function.
+
+
+
+
+
+
+
+
+
+(3) Avant d’exercer les fonctions prévues au paragraphe (1), le Conseil est tenu de transmettre un avis au ministre indiquant qu’il estime s’être acquitté des exigences prévues au paragraphe (2) et donnant les motifs à l’appui de cet exercice.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(4) The Council must provide a report to the Minister and the Commissioner on any function it performs under this section.
+
+
+
+
+
+
+
+
+
+(4) Le Conseil présente au ministre et au commissaire un rapport sur la fonction qu’il a exercée sous le régime du présent article.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+Findings and recommendations
+
+
+
+(5) The Council must include in its report any findings and recommendations that it sees fit, including findings and recommendations regarding the adequacy, appropriateness, sufficiency, clarity, efficiency and effectiveness of any subject matter referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+(5) Le Conseil inclut dans son rapport les conclusions et les recommandations qu’il estime indiquées relativement au bien-fondé, à la pertinence, à l’adéquation, à la clarté, à l’efficience et à l’efficacité  des éléments visés au paragraphe (1).
+
+
+
+Conclusions et recommandations
+
+
+
+
+
+
+
+
+
+
+Copy of report to provincial minister
+
+
+
+(6) The Council may provide a copy of the report to the provincial minister who has the primary responsibility for policing in that minister’s province where the subject matter of the report concerns policing in that province.
+
+
+
+
+
+
+
+
+
+(6) Le Conseil peut fournir une copie du rapport au ministre de qui relève au premier chef l’administration des forces de police dans la province si son objet concerne l’administration des forces de police dans la province de ce ministre.
+
+
+
+Copie au ministre provincial 
+
+
+
+
+
+
+
+
+
+
+Review for province
+
+
+
+45.999 (1) If there is an arrangement between the government of a province and the Minister under section 20, the provincial minister who has the primary responsibility for policing in that province may ask the Minister to request that the Council carry out any of the specified functions in subsection 45.998(1) in respect of the Force in that province.
+
+
+
+
+
+
+
+
+
+45.999 (1) Si le ministre a conclu des arrangements avec le gouvernement d’une province en vertu de l’article 20, le ministre de qui relève au premier chef l’administration des forces de police dans la province peut demander au ministre qu’il demande au Conseil d’exercer une des fonctions prévues au paragraphe 48.998(1) relativement à des activités exercées par la Gendarmerie dans cette province.
+
+
+
+Examen pour faire suite à la demande d’une province
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(2) If the Council carries out a function following a request under subsection (1), it must provide the Minister, the provincial minister and the Commissioner with a report.
+
+
+
+
+
+
+
+
+
+(2) Lorsqu’il exerce une activité à la suite d’une demande faite au titre du paragraphe (1), le Conseil fournit un rapport au ministre, au ministre de la province et au commissaire.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+Findings and recommendations
+
+
+
+(3) The Council must include in its report any findings and recommendations that it sees fit, including findings and recommendations regarding the adequacy, appropriateness, sufficiency, clarity, efficiency and effectiveness of any subject matter referred to in subsection 45.998(1) in respect of the Force in that province.
+
+
+
+
+
+
+
+
+
+(3) Le Conseil inclut dans son rapport les conclusions et les recommandations qu’il estime indiquées relativement au bien-fondé, à la pertinence, à l’adéquation, à la clarté, à l’efficience et à l’efficacité des éléments visés au paragraphe 45.998 (1) relativement à la province concernée.
+
+
+
+Conclusions et recommandations
+
+
+
+
+
+
+
+
+
+
+Rules
+
+
+
+
+
+
+
+
+
+Règles
+
+
+
+
+
+
+
+
+
+
+
+
+Rules
+
+
+
+45.1000 The Council may make rules respecting
+
+
+
+
+
+
+
+
+(a) its the sittings;
+
+
+
+
+
+
+
+
+(b) the fixing of the quorum for the performance of its duties and functions;
+
+
+
+
+
+
+
+
+(c) the manner of dealing with matters and business before it, including its practice and procedure;
+
+
+
+
+
+
+
+
+(d) the apportionment of  its work among its members; and
+
+
+
+
+
+
+
+
+(e) the exercise of its powers and performance of its duties and functions under this Act.
+
+
+
+
+
+
+
+
+
+45.1000 Le Conseil peut établir des règles concernant :
+
+
+
+Règles
+
+
+
+
+a) ses séances;
+
+
+
+
+
+
+
+
+b) la fixation du quorum pour l’exercice des fonctions que lui attribue la présente loi;
+
+
+
+
+
+
+
+
+c) l’expédition de ses affaires et des questions dont il est saisi, y compris la pratique et la procédure qui lui sont applicables;
+
+
+
+
+
+
+
+
+d) la répartition de ses travaux entre ses membres;
+
+
+
+
+
+
+
+
+e) l’exercice des fonctions que lui attribue la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information Provisions
+
+
+
+
+
+
+
+
+
+Dispositions relatives aux renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+Right of access
+
+
+
+45.1001 (1) Subject to subsection (2), the Council is entitled to have access to any information under the control or in the possession of the Force that it considers relevant to the exercise of its powers or the performance of its duties and functions.
+
+
+
+
+
+
+
+
+
+45.1001 (1) Sous réserve du paragraphe (2), le Conseil a un droit d’accès aux renseignements qui relèvent de la Gendarmerie ou qui sont en sa possession et qu’il considère comme pertinents à l’égard de l’exercice de ses pouvoirs et fonctions.
+
+
+
+Droit d’accès
+
+
+
+
+
+
+
+
+
+
+Exceptions
+
+
+
+(2) The Council may not have access to information under the control or in the possession of the Force if the information reveals
+
+
+
+
+
+
+
+
+(a) information relating to a request made by  a member or other person appointed or employed under the authority of Part I for legal assistance or indemnification from Her Majesty in right of Canada;
+
+
+
+
+
+
+
+
+
+(b) communications referred to in subsection
+47.1(2);
+
+
+
+
+
+
+
+
+(c) information that is protected by the privilege that exists between legal counsel and their client and that relates to the provision of advice to a member or other person appointed or employed under the authority of Part I when the privilege may be claimed by the member or other person and not the Force;
+
+
+
+
+
+
+
+
+(d) information that is protected by the privilege that exists between legal counsel and their client when the privilege may be claimed by the Force and that relates to the Force’s dealings with the Council, including
+
+
+
+
+
+
+
+
+(i) legal opinions relating to the way in which the Force should conduct itself in regard to the Council, and
+
+
+
+
+
+
+
+
+(ii) minutes of meetings held by the Force relating to the way in which the Force should conduct itself in regard to the Council; and
+
+
+
+
+
+
+
+
+(e) any report prepared for the Commissioner in  respect of a meeting held or to be held between the Council and the Force and containing analysis or advice relating to the meeting.
+
+
+
+
+
+
+
+
+
+(2) Le Conseil n’a pas de droit d’accès aux renseignements qui relèvent de la Gendarmerie ou qui sont en sa possession si ceux-ci révèlent :
+
+
+
+Exception
+
+
+
+
+a) des renseignements ayant trait à une demande de services juridiques ou d’indemnisation par Sa Majesté du chef du Canada faite par un membre ou toute autre personne nommée ou employée sous le régime de la partie I;
+
+
+
+
+
+
+
+
+b) des communications visées au paragraphe 47.1(2);
+
+
+
+
+
+
+
+
+c) des renseignements qui sont protégés par le privilège du secret professionnel liant le conseiller juridique à son client et qui concernent les avis à un membre ou à toute autre personne nommée ou employée sous le régime de la partie I lorsque le privilège peut être invoqué par le membre ou toute autre personne mais non par la Gendarmerie;
+
+
+
+
+
+
+
+
+d) des renseignements protégés par le privilège du secret professionnel liant le conseiller juridique à son client qui concernent les rapports de la Gendarmerie avec le Conseil lorsque ce privilège peut être invoqué par la Gendarmerie, notamment :
+
+
+
+
+
+
+
+
+(i) des avis juridiques sur la façon d’agir de la Gendarmerie avec le Conseil,
+
+
+
+
+
+
+
+
+(ii) les procès-verbaux de réunions tenues par la Gendarmerie portant sur sa façon d’agir avec le Conseil;
+
+
+
+
+
+
+
+
+(e) tout rapport qui est établi à l’intention du commissaire pour toute réunion de la Gendarmerie et du Conseil et qui contient une analyse ou des conseils concernant la réunion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception — Confidences
+
+
+
+(3) Nothing in this Part authorizes a person to disclose to the Council a confidence of the Queen’s Privy Council for Canada in respect of which subsection 39(1) of the Canada
+Evidence Act applies, and the Council may not use the confidence if it is disclosed.
+
+
+
+
+
+
+
+
+
+(3) La présente partie n’a pas pour effet d’autoriser la communication au Conseil des renseignements confidentiels du Conseil privé de la Reine pour le Canada visés au paragraphe 39(1) de la Loi sur la preuve au Canada. Si de tels renseignements lui sont communiqués, le Conseil ne peut les utiliser.
+
+
+
+Restriction — caractère confidentiel
+
+
+
+
+
+
+
+
+
+
+Access to records
+
+
+
+(4) The entitlement to access includes the right to examine and, subject to the Commissioner’s approval, to be given a copy of all or any part of a record.
+
+
+
+
+
+
+
+
+
+(4) Le Conseil exerce son droit d’accès notamment par la consultation de tout ou partie de documents et par l’obtention, avec l’approbation du commissaire, de copies de tout ou partie de ceux-ci.
+
+
+
+Accès aux documents
+
+
+
+
+
+
+
+
+
+
+Identification
+
+
+
+(5) If the Commissioner is of the opinion that the disclosure of any information referred to in subsection (1), other than privileged information as defined in subsection 45.1002(1), to any person or entity, other than a member or employee of the Council or a person acting on its behalf, gives rise to a risk of serious harm to a person, the Commissioner must identify the information to the Council when providing the Council with access to it.
+
+
+
+
+
+
+
+
+
+(5) Lorsqu’il est d’avis que la communication des renseignements visés au paragraphe (1) qui ne sont pas des renseignements protégés au sens du paragraphe 45.1002(1), à toute personne ou entité autre que les membres et le personnel du Conseil ou les personnes agissant pour son compte risquerait de causer un préjudice sérieux à une personne, le commissaire désigne ces renseignements au Conseil lorsqu’il lui donne accès à ceux-ci.
+
+
+
+Indication des renseignements
+
+
+
+
+
+
+
+
+
+
+Definition of “privileged information”
+
+
+
+45.1002 (1) In this Part, “privileged information” means information that is subject to any type of privilege that exists and may be claimed, including
+
+
+
+
+
+
+
+
+(a) information that is protected by the privilege that exists between legal counsel and their client or that is subject to informer privilege;
+
+
+
+
+
+
+
+
+(b) information the disclosure of which is described in subsection 11(1) of the Witness Protection Program Act;
+
+
+
+
+
+
+
+
+(c) special operational information as defined in subsection 8(1) of the Security of Information Act;
+
+
+
+
+
+
+
+
+(d) information or intelligence that is similar in nature to information or intelligence referred to in any of paragraphs (a) to (f) of the definition “special operational information” in subsection 8(1) of the Security of Information Act and that is in relation to, or is received from, any police force or Interpol or other similar international police organization; and
+
+
+
+
+
+
+
+
+(e) medical information about a member or other person appointed or employed under the authority of Part I.
+
+
+
+
+
+
+
+
+
+45.1002 (1) Pour l’application de la présente partie, « renseignement protégé » s’entend de tout renseignement à l’égard duquel un privilège ou la confidentialité peut être invoqué, notamment :
+
+
+
+Définition de « renseignement protégé »
+
+
+
+
+a) tout renseignement protégé par le secret professionnel liant le conseiller juridique à son client ou par le privilège de l’informateur;
+
+
+
+
+
+
+
+
+b) tout renseignement dont la communication est visée au paragraphe 11(1) de la Loi sur le Programme de protection des témoins;
+
+
+
+
+
+
+
+
+c) tout renseignement opérationnel spécial, au sens du paragraphe 8(1) de la Loi sur la protection de l’information;
+
+
+
+
+
+
+
+
+d) tout élément d’information ou renseignement de la nature de ceux mentionnés à l’un des alinéas a) à f) de la définition de « renseignements opérationnels spéciaux », au paragraphe 8(1) de la Loi sur la protection de l’information, concernant toute force de police ou Interpol ou toute autre organisation policière internationale similaire, ou reçu de celles-ci;
+
+
+
+
+
+
+
+
+e) tout renseignement médical qui a trait à un membre ou à toute autre personne nommée ou employée sous le régime de la partie I.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Access to privileged information
+
+
+
+(2) Despite any privilege that exists and may be claimed, the Council is entitled to have access to privileged information under the control or in the possession of the Force if that information is relevant and necessary to the exercise of its powers or the performance of  its duties and functions under this Act.
+
+
+
+
+
+
+
+
+
+(2) Malgré la confidentialité des renseignements protégés, le Conseil a un droit d’accès à ceux d’entre eux qui relèvent de la Gendarmerie ou qui sont en sa possession, s’ils sont pertinents et nécessaires pour l’exercice des pouvoirs et fonctions que lui attribue la présente loi.
+
+
+
+Renseignements protégés
+
+
+
+
+
+
+
+
+
+
+Access to records
+
+
+
+(3) The entitlement to access includes the right to examine all or any part of a record and, subject to the Commissioner’s approval, to be given a copy of all or any part of a record.
+
+
+
+
+
+
+
+
+
+(3) Le droit d’accès du Conseil comprend le droit de consulter tout ou partie des documents et, sous réserve de l’approbation du commissaire, d’obtenir des copies de tout ou partie de ceux-ci.
+
+
+
+Accès aux dossiers
+
+
+
+
+
+
+
+
+
+
+Refusal and reasons
+
+
+
+(4) If the Commissioner refuses access to privileged information sought by the Council under this section, the Commissioner must, without disclosing the privileged information,
+
+
+
+
+
+
+
+
+(a) indicate to the Council why the privileged information is not relevant or necessary to the matter before the Council; and
+
+
+
+
+
+
+
+
+(b) provide the Council with information about the nature and date of the privileged information.
+
+
+
+
+
+
+
+
+
+(4) Si le commissaire refuse au Conseil l’accès à des renseignements protégés prévu au présent article, il indique au Conseil, tout en évitant de divulguer les renseignements :
+
+
+
+Motivation du refus
+
+
+
+
+a) les raisons pour lesquelles ces renseignements ne sont pas pertinents ou nécessaires relativement aux fins visées par le Conseil;
+
+
+
+
+
+
+
+
+b) la nature et la date des renseignements protégés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use of privileged information
+
+
+
+(5) If the Council obtains access to privileged information, the Council may use that information only in respect of the matter for which it was given access.
+
+
+
+
+
+
+
+
+
+(5) Lorsqu’il a obtenu accès à des renseignements protégés, le Conseil ne peut les utiliser qu’aux fins pour lesquelles il a obtenu l’accès.
+
+
+
+Utilisation des renseignements protégés
+
+
+
+
+
+
+
+
+
+
+Memorandum of understanding
+
+
+
+(6) The Chairperson and the Commissioner may enter into a memorandum of understanding setting out principles and procedures respecting access to privileged information under this section and principles and procedures to protect that information.
+
+
+
+
+
+
+
+
+
+(6) Le président du Conseil et le commissaire peuvent conclure un protocole d’entente qui établit les principes et la procédure relatifs à l’accès aux renseignements protégés prévu au présent article et ceux relatifs à leur protection.
+
+
+
+Protocole d’entente
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+(7) The Governor in Council may make regulations respecting procedures that govern the Council’s access to privileged information under this section and procedures to protect that information.
+
+
+
+
+
+
+
+
+
+(7) Le gouverneur en conseil peut prendre des règlements concernant la procédure d’exercice du droit d’accès du Conseil aux renseignements protégés prévu au présent article et la procédure relative à leur protection.
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+Immunity
+
+
+
+
+
+
+
+
+
+Immunité
+
+
+
+
+
+
+
+
+
+
+
+
+Protection
+
+
+
+45.1003 (1) No criminal, civil or administrative action or proceeding lies against the members or employees of the Council, or any person acting on behalf or under the direction of the Council, for anything done or omitted to be done in good faith in the exercise or purported exercise of any power, or the performance or purported performance of any duty or function, of the Council under this Act.
+
+
+
+
+
+
+
+
+
+45.1003 (1) Les membres et le personnel du Conseil et les personnes agissant pour son compte ou sous sa direction bénéficient de l’immunité en matière pénale, civile ou administrative pour les actes accomplis ou omis de bonne foi dans l’exercice effectif ou censé tel des pouvoirs et fonctions attribués au Conseil par la présente loi.
+
+
+
+Immunité
+
+
+
+
+
+
+
+
+
+
+ 	No summons
+
+
+
+(2) A member or employee of the Council, or any person acting on behalf or under the direction of the Council, is not a competent or compellable witness, in respect of any matter coming to the knowledge of the Council or that person as a result of exercising a power or performing a duty or function of the Council, in any proceeding other than a prosecution for an offence under this Act, a prosecution for an offence under the Security of Information Act or a prosecution for an offence under section 132 or 136 of the Criminal Code. 
+
+
+
+
+
+
+
+
+
+(2) En ce qui concerne les questions portées à leur connaissance ou à celle du Conseil dans l’exercice des pouvoirs et fonctions attribués au Conseil, les membres et le personnel du Conseil et les personnes agissant pour son compte ou sous sa direction ne peuvent être contraints à témoigner et ne sont des témoins compétents que dans le cadre des poursuites intentées pour une infraction prévue par la présente loi ou par la Loi sur la protection de l’information ou dans celles intentées sur le fondement des articles 132 ou 136 du Code criminel.
+
+
+
+ 	 	Non-assignation
+
+
+
+
+
+
+
+
+
+
+Reporting
+
+
+
+
+
+
+
+
+
+Rapports
+
+
+
+
+
+
+
+
+
+
+
+
+Special report
+
+
+
+45.1004 (1) The Council may, on the request of the Minister or on its own initiative, provide the Minister and the Commissioner with a special report concerning any matter that relates to the exercise of its powers or the performance of its duties and functions under this Act.
+
+
+
+
+
+
+
+
+
+45.1004 (1) Le Conseil peut, de sa propre initiative ou à la demande du ministre, présenter à celui-ci et au commissaire un rapport spécial sur toute question relevant des pouvoirs et fonctions que lui attribue la présente loi.
+
+
+
+Rapport spécial
+
+
+
+
+
+
+
+
+
+
+Tabling
+
+
+
+(2) The Minister must cause every special report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the Minister receives it.
+
+
+
+
+
+
+
+
+
+(2) Le ministre fait déposer le rapport spécial devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+45.1005 (1) The Chairperson must, within three months after the end of each fiscal year, submit to the Minister a report of the activities of the Council during that year and its recommendations relating to the operations of the Force, if any, and the Minister must cause a copy of the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the Minister receives the report.
+
+
+
+
+
+
+
+
+
+45.1005 (1) Le président du Conseil présente au ministre, dans les trois premiers mois suivant la fin de chaque exercice, le rapport d’activité du Conseil pour cet exercice et y joint les recommandations du Conseil quant aux opérations de la Gendarmerie, le cas échéant. Le ministre fait déposer une copie du rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Annual report — provinces
+
+
+
+(2) The Council must, for each fiscal year and in respect of each province the government of which has entered into an arrangement with the Minister under section 20, submit to the provincial minister who has the primary responsibility for policing in that province, as well as to the Minister and the Commissioner, a report of the activities of the Council during that year and its recommendations relating to the operations of the Force in that province.
+
+
+
+
+
+
+
+
+
+(2) Le Conseil présente à chaque ministre provincial de qui relève au premier chef l’administration des forces de police d’une province à l’égard de laquelle le gouvernement a conclu des arrangements avec le ministre en vertu de l’article 20, ainsi qu’au ministre et au commissaire, un rapport d’activité du Conseil pour cet exercice et y joint les recommandations du Conseil quant aux opérations de la Gendarmerie dans cette province.
+
+
+
+Rapport annuel — provinces
+
+
+
+
+
+
+
+
+
+
+
+
+5. Subsection 50.1(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 50.1(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offences — harassment, obstruction, destroying documents etc.
+
+
+
+50.1 (1) No person shall
+
+
+
+
+
+
+
+
+(a) harass, intimidate or threaten any person with the intent to compel that other person to abstain from making a complaint under Part VII, VII.2 or IX;
+
+
+
+
+
+
+
+
+(b) harass, intimidate or threaten
+
+
+
+
+
+
+
+
+(i) an individual who makes a complaint under Part VII, VII.2 or IX,
+
+
+
+
+
+
+
+
+(ii) an individual at whom the conduct that is the subject of a complaint made under any of those Parts was directed,
+
+
+
+
+
+
+
+
+(iii) a person whom the person has reasonable grounds to believe will be questioned or summoned by the Commission or the Ombudsperson when the Commission or Ombudsperson deals with a complaint made under any of those Parts, or
+
+
+
+
+
+
+
+
+(iv) a person who is carrying out any power, duty or function under any of Parts VI to VII.2 or IX;
+
+
+
+
+
+
+
+
+(c) wilfully obstruct a person who is carrying out any power, duty or function under any of Parts VI to VII.2 or IX, or knowingly make any false or misleading statement or knowingly provide false or misleading information to that person;
+
+
+
+
+
+
+
+
+(d) destroy, mutilate, alter, falsify or conceal a document or thing, or make a false document or thing, knowing that the document or thing is likely to be relevant to an investigation of, or hearing to inquire into, a complaint made under Part VII, VII.2 or IX or to a review under any of those Parts; or
+
+
+
+
+
+
+
+
+(e) direct, counsel or cause, in any manner, any person to do anything mentioned in any of paragraphs (a) to (d), or propose, in any manner, to any person that they do anything mentioned in any of those paragraphs. 
+
+
+
+
+
+
+
+
+
+50.1 (1) Il est interdit à toute personne :
+
+
+
+Infractions — harceler, gêner, détruire des documents, etc.
+
+
+
+
+a) de harceler, d’intimider ou de menacer une autre personne dans le dessein de la forcer à s’abstenir de déposer une plainte sous le régime des parties VII, VII.2 ou IX;
+
+
+
+
+
+
+
+
+b) de harceler, d’intimider ou de menacer les personnes suivantes :
+
+
+
+
+
+
+
+
+(i) le particulier qui dépose une plainte sous le régime des parties VII, VII.2 ou IX,
+
+
+
+
+
+
+
+
+(ii) le particulier affecté par la conduite visée par la plainte déposée sous le régime de l’une ou l’autre de ces parties,
+
+
+
+
+
+
+
+
+(iii) la personne dont elle croit raisonnablement qu’elle sera assignée à témoigner ou questionnée par la Commission ou l’ombudsman lorsque ceux-ci examinent une plainte déposée sous le régime de l’une ou l’autre de ces parties,
+
+
+
+
+
+
+
+
+(iv) la personne qui exerce des pouvoirs ou fonctions que lui attribue l’une ou l’autre des parties VI à VII.2 ou IX;
+
+
+
+
+
+
+
+
+c) de gêner sciemment une personne dans l’exercice des pouvoirs et fonctions que lui attribue l’une ou l’autre des parties VI à VII. 2 ou IX, ou de lui faire sciemment une déclaration fausse ou trompeuse ou de lui communiquer sciemment des renseignements faux ou trompeurs;
+
+
+
+
+
+
+
+
+d) de détruire, de tronquer ou de modifier un document ou une chose, de les cacher, de les falsifier ou de les contrefaire sachant qu’ils seront vraisemblablement pertinents dans le cadre d’une enquête ou d’une audience tenue sur la plainte au titre des parties VII, VII.2 ou IX ou d’une révision sous le régime de l’une ou l’autre de ces parties;
+
+
+
+
+
+
+
+
+e) d’ordonner, de proposer ou de conseiller à une personne de commettre un acte visé à l’un des alinéas a) à d), ou de l’amener de n’importe quelle façon à le faire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Act is amended by adding the following after section 52:
+
+
+
+
+
+
+
+
+
+6. La même loi est modifiée par adjonction, après l’article 52, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+PART IX
+
+
+
+
+
+
+
+
+
+PARTIE IX
+
+
+
+
+
+
+
+
+
+
+
+
+ROYAL CANADIAN MOUNTED POLICE OMBUDSPERSON
+
+
+
+
+
+
+
+
+
+OMBUDSMAN DE LA GENDARMERIE ROYALE DU CANADA
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+
+
+
+
+
+
+Définitions
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “provincial minister”
+
+
+
+53. In this Part “provincial minister” means the minister who has the primary responsibility for policing in a province in respect of which there is an arrangement between the government of the province and the Minister under section 20.
+
+
+
+
+
+
+
+
+
+53. Pour l’application de la présente partie, « ministre provincial » s’entend du ministre de qui relève au premier chef l’administration des forces de police d’une province à l’égard de laquelle le gouvernement a conclu des arrangements avec le ministre en vertu de l’article 20.
+
+
+
+Définition de « ministre provincial »
+
+
+
+
+
+
+
+
+
+
+ Establishment and Organization
+
+
+
+
+
+
+
+
+
+Constitution et Organisation
+
+
+
+
+
+
+
+
+
+
+
+
+Establishment
+
+
+
+54. (1) There is hereby established the office of the Royal Canadian Mounted Police Ombudsperson.
+
+
+
+
+
+
+
+
+
+54. (1) Est instituée la charge d’ombudsman de la Gendarmerie royale du Canada
+
+
+
+Institution
+
+
+
+
+
+
+
+
+
+
+Appointment
+
+
+
+(2) The Governor in Council must appoint the Royal Canadian Mounted Police Ombudsperson after approval by resolution of the Senate and House of Commons.
+
+
+
+
+
+
+
+
+
+(2) Le gouverneur en conseil nomme l’ombudsman de la Gendarmerie royale du Canada après approbation par résolution du Sénat et de la Chambre des communes.
+
+
+
+Nomination
+
+
+
+
+
+
+
+
+
+
+Ineligibility
+
+
+
+(3) A person is not eligible to be appointed or to continue as the Ombudsperson if that person
+
+
+
+
+
+
+
+
+(a) is a member or former member;
+
+
+
+
+
+
+
+
+(b) is not a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act; or
+
+
+
+
+
+
+
+
+(c) engages in any other employment for reward.
+
+
+
+
+
+
+
+
+
+(3) Ne peut exercer la charge d’ombudsman quiconque :
+
+
+
+Inadmissibilité
+
+
+
+
+a) est un membre ou un ancien membre; 
+
+
+
+
+
+
+
+
+b) n’est ni citoyen canadien ni résident permanent au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés;
+
+
+
+
+
+
+
+
+c) exerce toute autre activité rétribuée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Term
+
+
+
+(4) The Ombudsperson is to hold office during good behaviour for a term not exceeding five years.
+
+
+
+
+
+
+
+
+
+(4) L’ombudsman est nommé à titre inamovible pour un mandat d’au plus cinq ans.
+
+
+
+Mandat
+
+
+
+
+
+
+
+
+
+
+Reappointment
+
+
+
+(5) The Ombudsperson may be reappointed for a second or subsequent term of office.
+
+
+
+
+
+
+
+
+
+(5) Le mandat de l’ombudsman est renouvelable.
+
+
+
+Renouvellement du mandat
+
+
+
+
+
+
+
+
+
+
+Removal
+
+
+
+55. (1) The Ombudsperson may be removed for cause by the Governor in Council at any time on address of the Senate and House of Commons.
+
+
+
+
+
+
+
+
+
+55. (1) L’ombudsman peut être révoqué pour motif valable par décret du gouverneur sur adresse du Sénat et de la Chambre des communes.
+
+
+
+Révocation
+
+
+
+
+
+
+
+
+
+
+Absence, incapacity or vacancy
+
+
+
+(2) In the event of the absence or incapacity of the Ombudsperson, or if the office is vacant, the Governor in Council may authorize another eligible person to exercise the powers and perform the duties and functions of the Ombudsperson.
+
+
+
+
+
+
+
+
+
+(2) En cas d’absence ou d’empêchement de l’ombudsman ou de vacance de son poste, le gouverneur en conseil peut autoriser une autre personne admissible à exercer les pouvoirs et fonctions attribués à l’ombudsman.
+
+
+
+Absence, empêchement ou vacance
+
+
+
+
+
+
+
+
+
+
+Salary
+
+
+
+56. (1) The Ombudsperson is to be paid the remuneration that is to be determined by the Governor in Council.
+
+
+
+
+
+
+
+
+
+56. (1) L’ombudsman reçoit la rémunération fixée par le gouverneur en conseil.
+
+
+
+Rémunération
+
+
+
+
+
+
+
+
+
+
+Expenses
+
+
+
+(2) The Ombudsperson is to be paid reasonable travel and living expenses incurred in the performance of duties under this Part while absent from his or her ordinary place of work.
+
+
+
+
+
+
+
+
+
+(2) Il est indemnisé des frais de déplacement et de séjour engagés dans le cadre de l’exercice, hors de son lieu habituel de résidence, des fonctions que lui attribue la présente loi.
+
+
+
+Indemnités
+
+
+
+
+
+
+
+
+
+
+Pension benefits
+
+
+
+(3) The provisions of the Public Service Superannuation Act, other than those relating to tenure of office, apply to the Ombudsperson.
+
+
+
+
+
+
+
+
+
+(3) Les dispositions de la Loi sur la pension de la fonction publique qui ne traitent pas d’occupation de poste s’appliquent à l’ombudsman.
+
+
+
+Pension
+
+
+
+
+
+
+
+
+
+
+Other benefits
+
+
+
+(4) The Ombudsperson is deemed to be employed in the federal public administration for the purposes of the Government Employees Compensation Act and any regulations made under section 9 of the Aeronautics Act.
+
+
+
+
+
+
+
+
+
+(4) L’ombudsman est réputé appartenir à l’administration publique fédérale pour l’application de la Loi sur l’indemnisation des agents de l’État et des règlements pris en vertu de l’article 9 de la Loi sur l’aéronautique.
+
+
+
+Autres avantages
+
+
+
+
+
+
+
+
+
+
+Staff
+
+
+
+57. (1) The Ombudsperson may employ any employees and engage the services of any agents, advisers and experts that the Ombudsperson considers necessary to exercise his or her powers or perform his or her duties and functions, and may fix the terms and conditions of their employment or engagement and pay their remuneration.
+
+
+
+
+
+
+
+
+
+57. (1) L’ombudsman peut s’assurer les services, à titre de membres du personnel, mandataires, conseillers ou experts, des personnes nécessaires à l’exécution de sa mission, fixer leurs conditions d’engagement ou d’emploi et payer leur rémunération.
+
+
+
+Personnel
+
+
+
+
+
+
+
+
+
+
+Appointment under Public Service Employment Act
+
+
+
+(2) The employees referred to in subsection (1) are to be appointed in accordance with the Public Service Employment Act.
+
+
+
+
+
+
+
+
+
+(2) Les personnes visées au paragraphe (1) sont nommées conformément à la Loi sur l’emploi dans la fonction publique.
+
+
+
+Nomination conforme à la Loi sur l’emploi dans la fonction publique
+
+
+
+
+
+
+
+
+
+
+Budget
+
+
+
+58. The budget for the Ombudsperson must be reported as a separate line item in the Force’s estimates and must be set out in the annual report that is prepared by the Ombudsperson.
+
+
+
+
+
+
+
+
+
+58. Le budget de l’ombudsman fait l’objet d’un poste distinct dans les prévisions budgétaires de la Gendarmerie et est énoncé dans le rapport annuel préparé par l’ombudsman.
+
+
+
+Budget
+
+
+
+
+
+
+
+
+
+
+Oath
+
+
+
+
+
+
+
+
+
+Serment
+
+
+
+
+
+
+
+
+
+
+
+
+Oath
+
+
+
+59. The Ombudsperson and every person appointed pursuant to subsection 57(2) must, before commencing the duties of office, take the oath set out in schedule II.
+
+
+
+
+
+
+
+
+
+59. Avant d’entrer en fonctions, l’ombudsman ainsi que les personnes nommées conformément au paragraphe 57(2)  prêtent le serment figurant à l’annexe II.
+
+
+
+Serment
+
+
+
+
+
+
+
+
+
+
+Powers, Duties and Functions
+
+
+
+
+
+
+
+
+
+Pouvoirs et fonctions
+
+
+
+
+
+
+
+
+
+
+
+
+Powers, duties and functions
+
+
+
+60. (1) The mandate of the Ombudsperson is to
+
+
+
+
+
+
+
+
+(a) act as a neutral and objective mediator, intervener, investigator and reporter on matters related to the Force to ensure that individuals are treated in a fair and equitable manner;
+
+
+
+
+
+
+
+
+(b) contribute to substantial and long-lasting improvements in the welfare of members and civilian employees of the Force;
+
+
+
+
+
+
+
+
+(c) identify and review emerging and systemic issues related to the Force that affect members, former members, civilian employees or former civilian employees of the Force, either individually or as a group;
+
+
+
+
+
+
+
+
+(d) assist members, former members, civilian employees or former civilian employees of the Force in accessing existing channels of assistance and redress within the Force; and
+
+
+
+
+
+
+
+
+(e) facilitate access of members, former members, civilian employees or former civilian employees of the Force to programs and services by providing them with information and referrals.
+
+
+
+
+
+
+
+
+
+60. (1) L’ombudsman a pour mission :
+
+
+
+Mission
+
+
+
+
+a) d’agir, en toute neutralité et objectivité, comme médiateur, intervenant, enquêteur et rapporteur pour les questions relatives à la Gendarmerie afin que chacun soit traité avec justice et équité;
+
+
+
+
+
+
+
+
+b) de contribuer à améliorer, de manière substantielle et durable, le bien-être des membres et du personnel civil  de la Gendarmerie;
+
+
+
+
+
+
+
+
+c) de cerner et d’examiner tout problème nouveau ou d’ordre systémique qui concerne la Gendarmerie et qui touche ses membres, ses anciens membres, les membres de son personnel civil ou les anciens membres de son personnel civil, à titre individuel ou en groupe;
+
+
+
+
+
+
+
+
+d) de diriger les membres, les anciens membres, les membres du personnel civil et les anciens membres du personnel civil de la Gendarmerie vers les services d’aide et de redressement des griefs déjà en place au sein de la Gendarmerie;
+
+
+
+
+
+
+
+
+e) de favoriser, pour les membres, les anciens membres, les membres du personnel civil et les anciens membres du personnel civil de la Gendarmerie, l’accès aux programmes et services en leur fournissant de l’information et des services d’aiguillage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(2) In performing his or her mandate, the Ombudsperson may not investigate
+
+
+
+
+
+
+
+
+(a) a decision of an authority made in the exercise of its exclusive jurisdiction under this Act; or
+
+
+
+
+
+
+
+
+(b) a decision, recommendation, act or omission of an official of a province, pursuant to an arrangement between the government of Canada and the government of the province where the matter has been, is being or is going to be investigated by an ombudsperson of that province.
+
+
+
+
+
+
+
+
+
+(2) Dans l’exercice de ses pouvoirs et fonctions, l’ombudsman n’est pas habilité à faire enquête sur :
+
+
+
+Limites
+
+
+
+
+a) une décision rendue par une autorité dans l’exercice des pouvoirs et fonctions exclusives que lui attribue la présente loi;
+
+
+
+
+
+
+
+
+b) une décision, une recommandation, un acte ou une omission d’un fonctionnaire provincial qui agissait au titre d’une entente conclue entre le gouvernement fédéral et celui de la province si la question a déjà été, est ou doit être étudiée par le protecteur du citoyen de cette province.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delegation
+
+
+
+(3) The Ombudsperson may delegate to any employee of the Ombudsperson his or her powers, duties and functions under this Part, except the
+
+
+
+
+
+
+
+
+(a) power to delegate under this section; and
+
+
+
+
+
+
+
+
+(b) duty or power to make a report to the Minister under subsection 72(3),  83(1) or 84(1).
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman peut déléguer à son personnel ses pouvoirs et fonctions, sauf :
+
+
+
+Délégation
+
+
+
+
+a) le pouvoir de délégation visé par le présent article; 
+
+
+
+
+
+
+
+
+b) l’obligation ou l’autorisation de faire des rapports au ministre sous le régime du paragraphe 72(3), 83(1) ou 84(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Independence
+
+
+
+61. The Ombudsperson is independent of rank and level within the Force and reports directly to and is accountable to the Minister.
+
+
+
+
+
+
+
+
+
+61. L’ombudsman n’a ni grade ni échelon; il se rapporte directement au ministre.
+
+
+
+Indépendance
+
+
+
+
+
+
+
+
+
+
+Investigations
+
+
+
+
+
+
+
+
+
+Enquêtes
+
+
+
+
+
+
+
+
+
+
+
+
+Right to complain
+
+
+
+62. (1) A complaint under this Part must be made in good faith and may only be made by the following individuals if it relates directly to the operations of the Force:
+
+
+
+
+
+
+
+
+(a) a member or former member;
+
+
+
+
+
+
+
+
+(b) a civilian employee or former civilian employee of the Force;
+
+
+
+
+
+
+
+
+(c) a person who applies to become a member or civilian employee of the Force; or
+
+
+
+
+
+
+
+
+(d) a person acting on behalf of an individual referred to in paragraphs (a) to (c).
+
+
+
+
+
+
+
+
+
+62. (1) Une plainte déposée au titre de la présente partie doit être directement  liée aux opérations de la Gendarmerie et être déposée de bonne foi par une des personnes suivantes :
+
+
+
+Plainte
+
+
+
+
+a) un membre ou un ancien membre;
+
+
+
+
+
+
+
+
+b) un membre du personnel civil ou un ancien membre du personnel civil de la Gendarmerie;
+
+
+
+
+
+
+
+
+c) une personne qui présente sa candidature pour devenir membre ou membre du personnel civil de la Gendarmerie;
+
+
+
+
+
+
+
+
+d) une personne agissant au nom d’une personne visée aux alinéas a) à c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complainant need not be affected
+
+
+
+(2) A complaint may be made whether or not the complainant is affected by the subject matter of the complaint.
+
+
+
+
+
+
+
+
+
+(2) La plainte peut être déposée même en l’absence de préjudice pour le plaignant.
+
+
+
+Absence de préjudice
+
+
+
+
+
+
+
+
+
+
+Investigation — mandatory
+
+
+
+63. (1) The Ombudsperson must conduct an investigation at the request of the Minister.
+
+
+
+
+
+
+
+
+
+63. (1) L’ombudsman est tenu de mener une enquête lorsque le ministre le demande.
+
+
+
+Enquête — obligatoire
+
+
+
+
+
+
+
+
+
+
+Investigation — discretionary
+
+
+
+(2) The Ombudsperson may conduct an investigation
+
+
+
+
+
+
+
+
+(a) on his or her own initiative; or
+
+
+
+
+
+
+
+
+(b) on receipt of a complaint by an individual listed in subsection 62(1).
+
+
+
+
+
+
+
+
+
+(2) Il peut mener une enquête :
+
+
+
+Enquête — discrétionnaire
+
+
+
+
+a) soit de sa propre initiative;
+
+
+
+
+
+
+
+
+b) soit sur réception d’une plainte déposée par une personne visée au paragraphe 62(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Discretion
+
+
+
+(3) The Ombudsperson may
+
+
+
+
+
+
+
+
+(a) refuse to conduct an investigation referred to in paragraph 63(2)(b); or
+
+
+
+
+
+
+
+
+(b) terminate an investigation before its completion.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman peut :
+
+
+
+Pouvoir discrétionnaire
+
+
+
+
+a) refuser d’enquêter sur la plainte visée à l’alinéa 63(2)b);
+
+
+
+
+
+
+
+
+b) mettre fin à une enquête à tout moment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Considerations
+
+
+
+(4) In exercising the discretion set out in subsection (3), the Ombudsperson must consider such factors as:
+
+
+
+
+
+
+
+
+(a) when the facts giving rise to the complaint arose;
+
+
+
+
+
+
+
+
+(b) the amount of time that has elapsed since the complainant became aware of the facts that gave rise to the complaint;
+
+
+
+
+
+
+
+
+(c) the nature and seriousness of the complaint;
+
+
+
+
+
+
+
+
+(d) whether the complaint was made in good faith;
+
+
+
+
+
+
+
+
+(e) the findings of another redress or complaint mechanism under this Act;
+
+
+
+
+
+
+
+
+(f) the need for a judicious and efficient use of the Ombudsperson’s resources; or
+
+
+
+
+
+
+
+
+(g) whether the complainant has already received compensation in relation to the subject matter of the complaint.
+
+
+
+
+
+
+
+
+
+(4) Dans l’exercice du pouvoir discrétionnaire que lui confère le paragraphe (3), l’ombudsman prend en considération les facteurs suivants :
+
+
+
+Facteurs
+
+
+
+
+a) le moment auquel les faits donnant lieu à la plainte se sont produits;
+
+
+
+
+
+
+
+
+b) le temps écoulé depuis que le plaignant a pris connaissance de ces faits;
+
+
+
+
+
+
+
+
+c) la nature et la gravité de ces faits;
+
+
+
+
+
+
+
+
+d) la bonne foi du plaignant;
+
+
+
+
+
+
+
+
+e) l’existence d’autres recours ou mécanismes de redressement sous le régime de la présente loi;
+
+
+
+
+
+
+
+
+f) l’utilisation judicieuse et efficace des ressources de l’ombudsman;
+
+
+
+
+
+
+
+
+g) les réparations, le cas échéant, qu’a déjà obtenues le plaignant relativement aux mêmes faits.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Decision not to investigate or to continue investigation
+
+
+
+(5) If, pursuant to subsection (3), the Ombudsperson refuses to conduct an investigation or terminates an investigation before its completion, the Ombudsperson must notify the complainant of that decision and provide reasons for the decision.
+
+
+
+
+
+
+
+
+
+(5) Lorsque l’ombudsman refuse de faire enquête ou met fin à une enquête en vertu du paragraphe (3), il en avise le plaignant et lui fournit les raisons de sa décision.
+
+
+
+Décision de ne pas enquêter ou de mettre fin à l’enquête
+
+
+
+
+
+
+
+
+
+
+Restrictions
+
+
+
+64. (1) The Ombudsperson must not conduct an investigation if the complainant has not exhausted every redress or complaint mechanism available under this Act for dealing with the subject matter of his or her complaint.
+
+
+
+
+
+
+
+
+
+64. (1) L’ombudsman ne peut mener une enquête que si le plaignant a épuisé tous les recours et mécanismes de redressement dont il peut se prévaloir sous le régime de la présente loi.
+
+
+
+Restrictions
+
+
+
+
+
+
+
+
+
+
+Compelling circumstances
+
+
+
+(2) Despite subsection (1), the Ombudsperson may reconsider a decision not   to conduct an investigation  if the Ombudsperson determines that there are compelling circumstances to investigate.
+
+
+
+
+
+
+
+
+
+(2) Malgré le paragraphe (1), l’ombudsman peut revenir sur sa décision de ne pas examiner une plainte s’il est convaincu que des circonstances exceptionnelles le justifient.
+
+
+
+Circonstances exceptionnelles
+
+
+
+
+
+
+
+
+
+
+Factors
+
+
+
+(3) To determine whether there are compelling circumstances, the Ombudsperson must consider such factors as to whether
+
+
+
+
+
+
+
+
+(a) the complaint raises systemic issues;
+
+
+
+
+
+
+
+
+(b) exhausting the redress or complaint mechanism available under this Act will cause undue hardship to the complainant; or
+
+
+
+
+
+
+
+
+(c) exhausting the redress or complaint mechanism under this Act is unlikely to produce a result within a period of time that the Ombudsperson considers reasonable.
+
+
+
+
+
+
+
+
+
+(3) Pour conclure à l’existence ou non de circonstances exceptionnelles, l’ombudsman examine les facteurs suivants :
+
+
+
+Facteurs
+
+
+
+
+a) le plaignant soulève des problèmes d’ordre systémique;
+
+
+
+
+
+
+
+
+b) exiger du plaignant qu’il épuise les recours et mécanismes de redressement dont il peut se prévaloir sous le régime de la présente loi constituerait une contrainte excessive;
+
+
+
+
+
+
+
+
+c) exiger du plaignant qu’il épuise les recours et mécanismes de redressement dont il peut se prévaloir sous le régime de la présente loi est peu susceptible de donner les résultats escomptés dans un délai que l’ombudsman juge raisonnable;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice of investigation
+
+
+
+65. (1) If the Ombudsperson commences an investigation in relation to a complaint, the Ombudsperson must inform the complainant and the following individuals of the investigation:
+
+
+
+
+
+
+
+
+a) the Commissioner;
+
+
+
+
+
+
+
+
+b) the provincial minister where the subject matter of the investigation concerns policing in that minister’s province; and
+
+
+
+
+
+
+
+
+c) any interested persons the Ombudsperson considers appropriate to notify in the circumstances.
+
+
+
+
+
+
+
+
+
+65. (1) Lorsque l’ombudsman mène une enquête à la demande du ministre ou de sa propre initiative, il en avise le ministre ainsi que les personnes suivantes :
+
+
+
+Avis — demande du ministre
+
+
+
+
+a) le commissaire; 
+
+
+
+
+
+
+
+
+b) le ministre provincial concerné dans le cas où l’enquête vise les forces de police d’une province;
+
+
+
+
+
+
+
+
+c) toute personne qu’il juge indiqué d’aviser dans les circonstances.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice of investigation
+
+
+
+(2) Where the Ombudsperson commences an investigation in relation to a complaint, the Ombudsperson must inform the complainant and the following individuals of the investigation:
+
+
+
+
+
+
+
+
+(a) the Minister;
+
+
+
+
+
+
+
+
+(b) the Commissioner;
+
+
+
+
+
+
+
+
+(c) the provincial minister where the subject matter of the investigation concerns policing in that minister’s province; and
+
+
+
+
+
+
+
+
+(d) any interested persons the Ombudsperson considers appropriate to notify in the circumstances.
+
+
+
+
+
+
+
+
+
+(2) Lorsque l’ombudsman mène une enquête sur réception d’une plainte, il en avise le plaignant ainsi que les personnes suivantes :
+
+
+
+Avis — plainte
+
+
+
+
+(a) le ministre;
+
+
+
+
+
+
+
+
+(b) le commissaire;
+
+
+
+
+
+
+
+
+(c) le ministre provincial concerné dans le cas où l’enquête vise les forces de police d’une province;  
+
+
+
+
+
+
+
+
+(d) toute personne qu’il juge indiqué d’aviser dans les circonstances.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Service standards respecting time limits
+
+
+
+66. The Ombudsperson must establish and make public service standards respecting the time limits within which he or she  is to conduct an investigation and specifying the circumstances under which those time limits do not apply or the circumstances under which they may be extended.
+
+
+
+
+
+
+
+
+
+66. L’ombudsman établit et rend publiques des normes de service concernant les délais pour la conduite des enquêtes et prévoyant les circonstances dans lesquelles ces délais ne s’appliquent pas ou peuvent être prorogés.
+
+
+
+Normes de service régissant les délais
+
+
+
+
+
+
+
+
+
+
+Right to hold hearing
+
+
+
+67. (1) In the course of conducting an investigation, the Ombudsperson may hold any hearing and make such inquiries as the Ombudsperson considers appropriate, but no person is entitled as of right to be heard by the Ombudsperson.
+
+
+
+
+
+
+
+
+
+67. (1) Dans le cadre d’une enquête, l’ombudsman a toute compétence pour tenir des audiences et prendre les mesures d’enquête qu’il estime indiquées; toutefois, nul n’a le droit d’exiger de comparaître devant lui.
+
+
+
+Pouvoir de tenir des audiences
+
+
+
+
+
+
+
+
+
+
+Opportunity to answer allegations
+
+
+
+(2) If, at any time during the course of an investigation, it appears to the Ombudsperson that there may be sufficient grounds to make a report or recommendation that may adversely affect any individual or any portion of the Force, the Ombudsperson must, before completing the investigation, take every reasonable measure to give to give to those affected a full and ample opportunity to answer any allegation.
+
+
+
+
+
+
+
+
+
+(2) Si, au cours de l’enquête, l’ombudsman estime qu’il peut y avoir des motifs suffisants pour faire un rapport ou une recommandation susceptibles de nuire à un particulier ou à un élément de la Gendarmerie, il prend, avant de clore l’enquête, les mesures indiquées pour leur donner toute possibilité de répondre aux allégations soulevées.
+
+
+
+Droit de réponse
+
+
+
+
+
+
+
+
+
+
+Hearings to be in camera
+
+
+
+(3) Every hearing held by the Ombudsperson must be in camera unless the Ombudsperson decides otherwise.
+
+
+
+
+
+
+
+
+
+(3) Les audiences de l’ombudsman se tiennent à huis clos, sauf si celui-ci en décide autrement.
+
+
+
+Audiences à huis clos
+
+
+
+
+
+
+
+
+
+
+Reasons for public hearings
+
+
+
+(4) If the Ombudsperson decides to hold hearings in public in relation to an investigation, the Ombudsperson must indicate in the report submitted under subsection 72(3) the reasons why the hearings were held in public.
+
+
+
+
+
+
+
+
+
+(4) Dans le cas où l’ombudsman décide de tenir des audiences publiques à l’égard d’une enquête, il indique dans le rapport prévu au paragraphe 72(3) qui traite de cette enquête, les motifs de sa décision.
+
+
+
+Motifs des audiences publiques
+
+
+
+
+
+
+
+
+
+
+Representation
+
+
+
+(5) An individual appearing before a hearing may be assisted by any person or represented by counsel.
+
+
+
+
+
+
+
+
+
+(5) La personne qui comparaît à une audience peut se faire représenter par un conseiller juridique ou par toute autre personne.
+
+
+
+Représentation
+
+
+
+
+
+
+
+
+
+
+Duty to suspend
+
+
+
+68. (1) The Ombudsperson must suspend an investigation if 
+
+
+
+
+
+
+
+
+(a) he or she is of the opinion that continuing the investigation would compromise or seriously hinder an ongoing criminal investigation or proceeding; or
+
+
+
+
+
+
+
+
+(b) the Minister who is of the opinion that the investigation would compromise or seriously hinder an ongoing criminal investigation or proceeding makes a written request to that effect setting out the reasons for his or her opinion.
+
+
+
+
+
+
+
+
+
+68. (1) L’ombudsman est tenu de suspendre une enquête dans les cas suivants :
+
+
+
+Obligation de suspendre
+
+
+
+
+a) il est d’avis que sa poursuite compromettrait une enquête ou une procédure en matière pénale en cours, ou y nuirait sérieusement;
+
+
+
+
+
+
+
+
+b) le ministre lui indique par écrit, avec motifs à l’appui, qu’il est  d’avis que sa poursuite compromettrait une enquête ou une procédure en matière pénale en cours, ou y nuirait sérieusement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power to suspend
+
+
+
+(2) The Ombudsperson may suspend an investigation if he or she is of the opinion that continuing it would compromise or seriously hinder an ongoing civil or administrative proceeding.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman peut suspendre une enquête s’il est d’avis que sa poursuite compromettrait une procédure civile ou administrative en cours, ou y nuirait sérieusement.
+
+
+
+Pouvoir de suspendre
+
+
+
+
+
+
+
+
+
+
+Information and Confidentiality
+
+
+
+
+
+
+
+
+
+Renseignements et confidentialité
+
+
+
+
+
+
+
+
+
+
+
+
+Right to require information and documents
+
+
+
+69. (1) In the course of an investigation, the Ombudsperson may require,
+
+
+
+
+
+
+
+
+(a) from the Force, any document or thing that, in the opinion of the Ombudsperson, is relevant to the complaint, and the Force must provide the information requested; or
+
+
+
+
+
+
+
+
+(b) any person to furnish any information that, in the opinion of the Ombudsperson, the person may be able to furnish in relation to the investigation that may be in the possession or under the control of that person.
+
+
+
+
+
+
+
+
+
+69. (1) Dans le cadre d’une enquête, l’ombudsman peut demander :
+
+
+
+Pouvoir d’exiger des documents et des renseignements
+
+
+
+
+a) à la Gendarmerie de produire les documents ou objets qui, selon lui, sont utiles à l’enquête, auquel cas la Gendarmerie est tenue de fournir les renseignements demandés; 
+
+
+
+
+
+
+
+
+b) à toute personne de fournir les renseignements qu’elle peut, selon lui, lui donner au sujet de l’enquête et qui sont en la possession de cette personne ou sous son contrôle. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confidential information
+
+
+
+(2) The Ombudsperson may, under subsection (1), with the written consent of the complainant, include a request for information respecting the complainant that is confidential, and the Force or any other person must, despite any other Act of Parliament, provide the information covered by the consent.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman peut, au titre du paragraphe (1), si le plaignant a donné son consentement écrit, demander à la Gendarmerie ou à toute personne de lui fournir également les renseignements confidentiels concernant le plaignant et, malgré toute autre loi fédérale, la Gendarmerie et la personne sont tenues d’obtempérer à la demande.
+
+
+
+Renseignements confidentiels 
+
+
+
+
+
+
+
+
+
+
+Information to be kept confidential
+
+
+
+(3) The Ombudsperson must keep confidential all information provided by the Force or any other person under subsection (2), except as necessary for a report under subsection 72(3), 83(1) or 84(1) that contains such information without identifying the complainant.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman protège la confidentialité de tous les renseignements que lui ont fourni la Gendarmerie ou la personne au titre du paragraphe (2), sauf dans la mesure nécessaire à l’établissement du rapport visé aux paragraphes 72(3), 83(1) et 84(1), lequel fait état des renseignements sans toutefois révéler l’identité du plaignant.
+
+
+
+Confidentialité des renseignements
+
+
+
+
+
+
+
+
+
+
+Return of document, etc.
+
+
+
+(4) The Ombudsperson must return any document or thing produced pursuant to subsection (1) within a reasonable time after a request for it is made to the Ombudsperson, but nothing in this subsection precludes the Ombudsperson from again requiring its production in accordance with that subsection.
+
+
+
+
+
+
+
+
+
+(4) Les personnes qui produisent les documents ou les objets demandés en vertu du paragraphe (1) peuvent exiger de l’ombudsman qu’il les leur renvoie dans un délai raisonnable suivant la requête qu’elles lui présentent à cette fin, mais rien n’empêche l’ombudsman d’en réclamer une nouvelle production en conformité avec ce paragraphe.
+
+
+
+Renvoi des documents
+
+
+
+
+
+
+
+
+
+
+Summon
+
+
+
+70. (1) In the course of an investigation, the Ombudsperson may summon and examine any person who, in the opinion of the Ombudsperson, is able to furnish any information relating to the issue being investigated, and for that purpose may administer an oath.
+
+
+
+
+
+
+
+
+
+70. (1) Durant une enquête, l’ombudsman peut assigner et interroger sous toute personne qui,  à son avis, peut fournir des renseignements relatifs à l’enquête; il est alors autorisé à faire prêter serment.
+
+
+
+Assignation
+
+
+
+
+
+
+
+
+
+
+Representation by counsel
+
+
+
+(2) If a person is summoned pursuant to subsection (1), that person may be represented by counsel during the examination in respect of which the person is summoned.
+
+
+
+
+
+
+
+
+
+(2) La personne qui est assignée en vertu du paragraphe (1) peut être représentée par un avocat durant l’interrogation.
+
+
+
+Représentation par avocat
+
+
+
+
+
+
+
+
+
+
+Findings, Reports and Recommendations
+
+
+
+
+
+
+
+
+
+Conclusions, rapports et recommandations
+
+
+
+
+
+
+
+
+
+
+
+
+Complaint not substantiated
+
+
+
+71. If, after conducting an investigation, the Ombudsperson concludes that a complaint has not been substantiated, the Ombudsperson must inform the complainant or the Minister, as the case may be, and all the other persons notified pursuant to section 65 of that conclusion and, where the Ombudsperson considers it appropriate, provide reasons for the decision.
+
+
+
+
+
+
+
+
+
+71. Dans le cas où l’ombudsman conclut, après avoir fait enquête sur une plainte, que celle-ci n’est pas fondée, il en informe le plaignant ou le ministre, selon le cas, ainsi que les personnes avisées au titre de l’article 65 et, s’il le juge indiqué, il motive sa décision.
+
+
+
+Plainte non fondée
+
+
+
+
+
+
+
+
+
+
+Findings
+
+
+
+72. (1) After conducting an investigation, the Ombudsperson may conclude that
+
+
+
+
+
+
+
+
+(a) a decision, recommendation, act or omission
+
+
+
+
+
+
+
+
+(i) appears to have been contrary to a rule of  law or to a policy of the Force,
+
+
+
+
+
+
+
+
+(ii) was unreasonable, unjust, oppressive or discriminatory,
+
+
+
+
+
+
+
+
+(iii) was in accordance with a rule of law or a policy or practice of the Force that  is or may be unreasonable, unjust, oppressive or improperly discriminatory, or
+
+
+
+
+
+
+
+
+(iv) was based wholly or partly on a mistake of law or fact, or on irrelevant grounds or consideration,
+
+
+
+
+
+
+
+
+(v) related to the application of arbitrary, unreasonable or unfair procedures, or
+
+
+
+
+
+
+
+
+(vi) is otherwise wrong;
+
+
+
+
+
+
+
+
+(b) in doing or omitting an act or in making or acting on a decision or recommendation, an authority
+
+
+
+
+
+
+
+
+(i) did so for an improper purpose,
+
+
+
+
+
+
+
+
+(ii) failed to give adequate and appropriate reasons in relation to the nature of the matter, or
+
+
+
+
+
+
+
+
+(iii) was negligent or acted improperly; or
+
+
+
+
+
+
+
+
+(c) there was unreasonable delay in dealing with the subject matter of the investigation.
+
+
+
+
+
+
+
+
+
+72. (1) Après l’enquête, l’ombudsman peut tirer les conclusions suivantes :
+
+
+
+Conclusions
+
+
+
+
+a) la décision, la recommandation, l’acte ou l’omission en cause, selon le cas :
+
+
+
+
+
+
+
+
+(i) est apparemment contraire à une disposition législative ou à une politique de la Gendarmerie,
+
+
+
+
+
+
+
+
+(ii) est déraisonnable, injuste, oppressant ou discriminatoire,
+
+
+
+
+
+
+
+
+(iii) résulte d’une disposition législative, d’une pratique ou d’une politique qui est ou peut être déraisonnable, injuste, oppressante ou abusivement discriminatoire,
+
+
+
+
+
+
+
+
+(iv) est fondé en tout et en partie sur une erreur de droit ou de fait,
+
+
+
+
+
+
+
+
+(v) résulte de l’application de procédures arbitraires, déraisonnables ou injustes,
+
+
+
+
+
+
+
+
+(vi) est généralement répréhensible;
+
+
+
+
+
+
+
+
+b) l’autorité responsable de la décision, de la recommandation, de l’acte ou de l’omission, selon le cas :
+
+
+
+
+
+
+
+
+(i) a agi à des fins irrégulières,
+
+
+
+
+
+
+
+
+(ii) n’a pas fourni de motifs pertinents,
+
+
+
+
+
+
+
+
+(iii) a fait preuve de négligence ou a agi de façon inappropriée;
+
+
+
+
+
+
+
+
+c) un délai déraisonnable s’est écoulé avant que des mesures soient prises relativement aux faits en cause.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recommendations
+
+
+
+(2) The Ombudsperson may recommend that
+
+
+
+
+
+
+
+
+(a) a matter be referred to an authority for further consideration;
+
+
+
+
+
+
+
+
+(b) an act be remedied;
+
+
+
+
+
+
+
+
+(c) an omission or delay be rectified;
+
+
+
+
+
+
+
+
+(d) a decision or recommendation be cancelled or changed;
+
+
+
+
+
+
+
+
+(e) reasons be given;
+
+
+
+
+
+
+
+
+(f) a practice, procedure or course of conduct be altered;
+
+
+
+
+
+
+
+
+(g) an enactment or other rule of law be reconsidered; or
+
+
+
+
+
+
+
+
+(h) any other measure be taken.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman peut recommander :
+
+
+
+Recommandations
+
+
+
+
+a) le renvoi de l’affaire à une autorité pour réexamen;
+
+
+
+
+
+
+
+
+b) la correction de l’acte;
+
+
+
+
+
+
+
+
+c) la correction de l’omission ou du retard;
+
+
+
+
+
+
+
+
+d) l’annulation ou la modification de la décision ou de la recommandation;
+
+
+
+
+
+
+
+
+e) la fourniture de motifs;
+
+
+
+
+
+
+
+
+f) la modification de la pratique, de la procédure ou de la ligne de conduite;
+
+
+
+
+
+
+
+
+g) l’examen d’une disposition législative ou d’une autre règle de droit;
+
+
+
+
+
+
+
+
+h) la prise de toute autre mesure indiquée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report on investigation
+
+
+
+(3) The Ombudsperson must report his or her findings, including the reasons for it, to the complainant or the Minister, as the case may be, and all other persons notified pursuant to section 65, and may make any recommendation the Ombudsperson considers appropriate.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman fait rapport de ses conclusions, et y inclut ses motifs à l’appui, au plaignant ou au ministre, selon le cas, ainsi qu’aux personnes avisées au titre de l’article 65, et il formule toute recommandation qu’il estime indiquée.
+
+
+
+Rapport d’enquête
+
+
+
+
+
+
+
+
+
+
+Recommendations not binding
+
+
+
+(4) The recommendations of the Ombudsperson are not binding.
+
+
+
+
+
+
+
+
+
+(4) Nul n’est lié par les recommandations de l’ombudsman.
+
+
+
+Non lié par les recommandations
+
+
+
+
+
+
+
+
+
+
+Request to respond
+
+
+
+73. (1) If a recommendation is made under subsection 72(3) in respect of  an authority under this Act, the Ombudsperson may request that the authority notify the Ombudsperson within a specified time
+
+
+
+
+
+
+
+
+(a) on the measures that have been or are proposed to be 
+taken to implement the recommendation; or
+
+
+
+
+
+
+
+
+
+(b) if no measures have been or are proposed to be taken, the reasons for not implementing the recommendation.
+
+
+
+
+
+
+
+
+
+73. (1) Lorsqu’il formule une recommandation à une autorité en vertu du paragraphe 72(2), l’ombudsman peut exiger qu’elle lui communique, dans un délai donné :
+
+
+
+Mesures ou motifs communiqués
+
+
+
+
+a) les mesures prises ou envisagées pour donner suite à la recommandation;
+
+
+
+
+
+
+
+
+b) si aucune mesure n’est prise ou envisagée, les raisons pour lesquelles elle ne donne pas suite à la recommandation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Further request to respond
+
+
+
+(2) If, after considering a response made by an authority under this Act, the Ombudsperson believes it advisable to modify or further modify the recommendation, the Ombudsperson must notify the authority of the modified  recommendation  and may request that the authority notify the Ombudsperson within a specified time
+
+
+
+
+
+
+
+
+(a) on the measures that have been or are proposed to be taken to implement  the modified recommendation; or
+
+
+
+
+
+
+
+
+(b) where no measures have been or are proposed to be taken, of the reasons for not implementing the modified recommendation.
+
+
+
+
+
+
+
+
+
+(2) Lorsque l’ombudsman estime, après avoir pris en considération la réponse donnée par l’autorité en application du paragraphe (1), que la recommandation doit être modifiée, il avise l’autorité de la modification et peut exiger qu’elle lui communique, dans un délai donné :
+
+
+
+Mesures ou motifs communiqués à nouveau
+
+
+
+
+a) les mesures prises ou envisagées pour donner suite à la recommandation modifiée;
+
+
+
+
+
+
+
+
+b) si aucune mesure n’est prise ou envisagée, les raisons pour lesquelles elle ne donne pas suite à la recommandation modifiée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report where no suitable measure taken
+
+
+
+74. (1) If no measure is taken that the Ombudsperson believes is adequate or appropriate within the specified time after a request has been made under section 73, the Ombudsperson may submit a report on the matter to the complainant or the Minister, as the case may be, and all other persons notified pursuant to section 65 after considering any reasons given by the authority.
+
+
+
+
+
+
+
+
+
+74. (1) Lorsqu’il n’a pas été donné suite, dans le délai imparti, à une recommandation par la prise de mesures que l’ombudsman estime appropriées, celui-ci peut en faire rapport au plaignant ou au ministre, selon le cas, ainsi qu’aux personnes avisées au titre de l’article 65 après avoir pris en considération les raisons fournies par l’autorité.
+
+
+
+Aucune mesure appropriée — rapport
+
+
+
+
+
+
+
+
+
+
+Contents of report
+
+
+
+(2) The Ombudsperson must attach to a report under subsection (1) a copy of the Ombudsperson’s recommendation and any response made to it under section 73, but the Ombudsperson must delete from the recommendation and from the response any material that would unreasonably invade a person’s privacy, and may delete material revealing the identity of a member or civilian employee of the Force.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman joint au rapport prévu au paragraphe (1) une copie de sa recommandation et toute réponse qui y a été donnée en application de l’article 73; toutefois, il en supprime tout élément susceptible de porter déraisonnablement atteinte à la vie privée d’une personne et il peut en supprimer tout élément susceptible de révéler l’identité d’un membre ou d’un membre du personnel civil de la Gendarmerie.
+
+
+
+Contenu du rapport
+
+
+
+
+
+
+
+
+
+
+Complainant to be informed
+
+
+
+75. The Ombudsperson must in every case inform a complainant  of the result of an investigation.
+
+
+
+
+
+
+
+
+
+75. Dans tous les cas, l’ombudsman informe le plaignant dans un délai raisonnable du résultat de l’enquête.
+
+
+
+Plaignant informé
+
+
+
+
+
+
+
+
+
+
+Criminal Act or Breach of the Code of Conduct
+
+
+
+
+
+
+
+
+
+Acte criminel ou manquement au code de déontologie 
+
+
+
+
+
+
+
+
+
+
+
+
+Reporting the matter
+
+
+
+76. If, at any time during the course of conducting an investigation, the Ombudsperson finds that there is evidence of a criminal act or a breach of the Code of Conduct, the Ombudsperson must report the matter to the Commissioner, the Minister, the provincial minister where the subject matter of the investigation concerns policing in that minister’s province, and any other official or authority under this Act the Ombudsperson considers appropriate.
+
+
+
+
+
+
+
+
+
+76. Si, au cours de l’enquête, l’ombudsman constate qu’il y a preuve qu’un acte criminel a été commis ou qu’il y a eu manquement au code de déontologie, l’ombudsman le signale au commissaire, au ministre et, s’il y a lieu, au ministre provincial concerné par l’enquête, ainsi qu’à tout dirigeant ou à toute autorité de la Gendarmerie qu’il juge indiqué.
+
+
+
+Signalement
+
+
+
+
+
+
+
+
+
+
+Assistance to the Ombudsperson
+
+
+
+
+
+
+
+
+
+Collaboration avec l’ombudsman
+
+
+
+
+
+
+
+
+
+
+
+
+Duty to assist — Force
+
+
+
+77. (1) In accordance with this Act, the Force must provide the Ombudsperson with all the assistance required by the Ombudsperson to exercise his or her powers and perform his or her duties and functions.
+
+
+
+
+
+
+
+
+
+77. (1) Conformément à la présente loi, la Gendarmerie est tenue de fournir à l’ombudsman l’aide qu’il demande dans l’exercice de ses pouvoirs et fonctions.
+
+
+
+Obligation d’aider — Gendarmerie  
+
+
+
+
+
+
+
+
+
+
+Duty to cooperate — members and civilian employees
+
+
+
+(2) Members and civilian employees of the Force must cooperate fully with the Ombudsperson to facilitate the Ombudsperson’s  exercise of his or her powers and performance of  his or her duties and functions unless legal requirements or compelling operational or security priorities dictate otherwise.
+
+
+
+
+
+
+
+
+
+(2) Les membres et les membres du personnel civil de la Gendarmerie sont tenus de collaborer pleinement avec l’ombudsman afin de faciliter l’exercice de ses pouvoirs et fonctions, sauf obligation juridique contraire ou priorité concurrente impérieuse liée aux opérations ou à la sécurité.
+
+
+
+Obligation de collaborer — membres et personnel  
+
+
+
+
+
+
+
+
+
+
+Powers of investigation frustrated
+
+
+
+(3) If the Ombudsperson is prevented from properly exercising his or her powers or performing his or her duties and functions in relation to an investigation due to the failure of the Force to comply with subsection (1) or the failure of the members and civilian employees of the Force to comply with subsection (2), the Ombudsperson may make a report on the matter to the Minister and the provincial minister where the subject matter of the investigation concerns policing in that minister’s province, and publish the report if the Ombudsperson considers that it is in the public interest to do so.
+
+
+
+
+
+
+
+
+
+(3) Si l’ombudsman ne peut exercer adéquatement ses pouvoirs et fonctions parce que la Gendarmerie ne s’est pas conformée au paragraphe (1) ou les membres ou les membres du personnel civil de la Gendarmerie ne se sont pas conformés au paragraphe (2), il peut en faire rapport au ministre et, s’il y a lieu, au ministre provincial concerné par l’enquête et publier ce rapport s’il estime qu’il est dans l’intérêt public de le faire.
+
+
+
+Obstruction
+
+
+
+
+
+
+
+
+
+
+Advisory Committee
+
+
+
+
+
+
+
+
+
+Comité consultatif 
+
+
+
+
+
+
+
+
+
+
+
+
+Advisory committee
+
+
+
+78. (1) The Minister may establish an advisory committee to  provide advice  to the Ombudsperson on matters relating to the Ombudsperson’s mandate.
+
+
+
+
+
+
+
+
+
+78. (1) Le ministre peut établir un comité consultatif chargé de donner des conseils à l’ombudsman sur des questions liées à la mission de l’ombudsman.
+
+
+
+Comité consultatif 
+
+
+
+
+
+
+
+
+
+
+Composition of committee
+
+
+
+(2) The composition of the advisory committee must be determined by the Minister taking into consideration the need for representation from the Force’s stakeholders groups.
+
+
+
+
+
+
+
+
+
+(2) Le ministre détermine la composition du Comité consultatif en tenant compte du besoin de représentation des différents groupes d’intéressés de la Gendarmerie.
+
+
+
+Composition du comité
+
+
+
+
+
+
+
+
+
+
+Legal Proceedings
+
+
+
+
+
+
+
+
+
+Procédures judiciaires
+
+
+
+
+
+
+
+
+
+
+
+
+No review by court
+
+
+
+79. Except on the ground of lack of jurisdiction, nothing done by the Ombudsperson, including the making of any report or recommendation, is to be questioned or reviewed in any court.
+
+
+
+
+
+
+
+
+
+79. Sauf au motif d’une absence de compétence, aucune procédure de l’ombudsman, y compris tout rapport ou recommandation, n’est susceptible de contestation ou de contrôle judiciaire.
+
+
+
+Contrôle judiciaire
+
+
+
+
+
+
+
+
+
+
+Protection of Ombudsperson
+
+
+
+80. No criminal or civil proceedings lie against the Ombudsperson, or against any person acting on behalf or under the direction of the Ombudsperson, for anything done or not done, reported or said in actual or purported exercise of any power or actual or purported performance of any duty or function of the Ombudsperson.
+
+
+
+
+
+
+
+
+
+80. L’ombudsman et les personnes qui agissent en son nom ou sous son autorité bénéficient de l’immunité en matière civile ou criminelle pour les actes accomplis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif, ou censé tel, des pouvoirs et fonctions qui sont attribués à l’ombudsman en vertu de la présente loi.
+
+
+
+Immunité de l’ombudsman
+
+
+
+
+
+
+
+
+
+
+No summons
+
+
+
+81. The Ombudsperson or any person acting on behalf or under the direction of the Ombudsperson is not a competent or compellable witness in respect of any matter coming to the knowledge of the Ombudsperson or that person as a result of performing any duties under this Act in any proceedings other than a prosecution for an offence under this Part or a prosecution for an offence under section 132 or 136 of the Criminal Code in respect of a statement made under this Part.
+
+
+
+
+
+
+
+
+
+81. En ce qui concerne les questions venues à leur connaissance du fait de l’exercice de leurs fonctions au titre de la loi, l’ombudsman et les personnes qui agissent en son nom ou sous son autorité n’ont qualité pour témoigner ou ne peuvent y être contraints que dans les procédures intentées pour infraction à la présente loi ou pour une infraction aux articles 132 ou 136 du Code criminel se rapportant à une déclaration faite en vertu de la présente partie.
+
+
+
+Non-assignation
+
+
+
+
+
+
+
+
+
+
+Libel or slander
+
+
+
+82. For the purposes of any law relating to libel or slander,
+
+
+
+
+
+
+
+
+(a) anything said, any information furnished or any document or thing produced in the course of an investigation by or on behalf of the Ombudsperson under this Part is privileged; and
+
+
+
+
+
+
+
+
+(b) any report made by the Ombudsperson under this Part and any fair and accurate account of the report made in a newspaper or any other periodical publication or in a broadcast is privileged.
+
+
+
+
+
+
+
+
+
+82. Ne peuvent donner lieu à des poursuites pour diffamation verbale ou écrite :
+
+
+
+Libelle ou diffamation
+
+
+
+
+a) les paroles prononcées, les renseignements fournis ou les documents ou objets produits au cours d’une enquête menée par l’ombudsman ou en son nom dans le cadre de la présente partie;
+
+
+
+
+
+
+
+
+b) les rapports ou comptes rendus établis par l’ombudsman dans le cadre de la présente partie, ainsi que la relation qui en est faite par la presse écrite ou audio-visuelle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reports
+
+
+
+
+
+
+
+
+
+Rapports
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+83. (1) The Ombudsperson must, within three months after the end of each fiscal year, submit to the Minister a report of the activities of the Ombudsperson during that year and his or her recommendations relating to the operations of the Force, if any.
+
+
+
+
+
+
+
+
+
+83. (1) Dans les trois premiers mois de chaque exercice, l’ombudsman présente au ministre le rapport de ses activités pour l’exercice précédent et y joint ses recommandations, le cas échéant, quant aux opérations de la Gendarmerie.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Tabling
+
+
+
+(2) The Minister must cause a copy of the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the Minister receives the report.
+
+
+
+
+
+
+
+
+
+(2) Le ministre fait déposer le rapport annuel devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+
+(3) The Ombudsperson may publish an annual report as soon as it has been tabled by the Minister.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman peut publier le rapport annuel dès son dépôt par le ministre.
+
+
+
+Publication
+
+
+
+
+
+
+
+
+
+
+Special report
+
+
+
+84. (1) The Ombudsperson may, at any time, submit a special report to the Minister referring to and commenting on any matter within the scope of his or her powers, duties and functions if, in the opinion of the Ombudsperson, the matter is of such urgency or importance that a report should not be deferred until the time provided for the submission of the annual report.
+
+
+
+
+
+
+
+
+
+84. (1) L’ombudsman peut, en tout temps, présenter au ministre un rapport spécial sur toute question relevant de ses pouvoirs et fonctions et dont l’urgence ou l’importance sont telles, selon lui, qu’il serait contre-indiqué d’en différer le compte rendu jusqu’au prochain rapport annuel.
+
+
+
+Rapport spécial
+
+
+
+
+
+
+
+
+
+
+Tabling
+
+
+
+(2) The Minister must cause every special report to be laid before each House of Parliament on any of the 15 days on which that House is sitting after the day on which he or she receives it.
+
+
+
+
+
+
+
+
+
+(2) Le ministre fait déposer les rapports spéciaux devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant leur réception.
+
+
+
+Dépôt
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+
+(3) The Ombudsperson may publish a special report as soon as it has been tabled by the Minister.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman peut publier le rapport spécial dès son dépôt par le ministre.
+
+
+
+Publication
+
+
+
+
+
+
+
+
+
+
+Adverse impact
+
+
+
+85. If it appears to the Ombudsperson that information in a report would reflect adversely on any person or organization, the Ombudsperson must give those affected an opportunity to comment and must include a fair and accurate summary of the comments in the report.
+
+
+
+
+
+
+
+
+
+85. Lorsque l’ombudsman est d’avis que le rapport contient des commentaires ou renseignements qui pourraient avoir un effet défavorable sur une personne ou un organisme, il leur donne la possibilité de présenter leurs observations et en inclus un résumé fidèle dans son rapport.
+
+
+
+Effet défavorable
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+
+
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+
+
+Governor in Council may make regulations
+
+
+
+86. The Governor in Council may make regulations for carrying out the purposes of this Part.
+
+
+
+
+
+
+
+
+
+86. Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application de la présente partie.
+
+
+
+Pouvoir du gouverneur en conseil
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) The schedule to the Act is renumbered as schedule I.
+
+
+
+
+
+
+
+
+
+7. (1) L’annexe de la même loi devient l’annexe I.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) This Act is amended by adding the following after schedule I:
+
+
+
+
+
+
+
+
+
+(2) La même loi est modifiée par adjonction, après l’annexe I, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE II 
+
+
+
+
+
+
+
+
+
+ANNEXE II 
+
+
+
+
+
+
+
+
+
+
+
+
+(Subsection 60(1))
+
+
+
+
+
+
+OATH OF OFFICE
+
+
+
+
+
+
+(Ombudsperson)
+
+
+
+
+
+
+I, ….., do solemnly affirm (or swear) that I will faithfully, diligently and impartially execute and perform to the best of my abilities the duties required of me as Royal Canadian Mounted Police Ombudsperson (on an acting basis, if applicable),  and that I will not disclose or make known to any person not legally entitled to it any knowledge or information obtained by me by reason of my office. (And in the case of an oath: So help me God.)
+
+
+
+
+
+
+OATH OF OFFICE
+
+
+
+
+
+
+(Employee)
+
+
+
+
+
+
+I, ….., do solemnly affirm (or swear) that I will faithfully, diligently and impartially execute and perform to the best of my abilities the duties required of me as an employee of the Royal Canadian Mounted Police Ombudsperson, and that I will not disclose or make known to any person not legally entitled to it any knowledge or information obtained by me by reason of my office or in the course of my employment. (And in the case of an oath: So help me God.)
+
+
+
+
+
+
+
+
+
+(Paragraph 60(1))
+
+
+
+
+
+
+SERMENT
+
+
+
+
+
+
+(Ombudsman)
+
+
+
+
+
+
+Moi, ….., j’affirme solennellement (ou je jure) que je m’acquitterai fidèlement, honnêtement et impartialement des devoirs qui m’incombent en ma qualité d’ombudsman de la Gendarmerie royale du Canada (s’il y a lieu, par intérim), et que je ne révélerai ni ne communiquerai à quiconque n’y a pas légitimement droit ce qui est parvenu à ma connaissance ou les renseignements que j’ai obtenus en raison de mes fonctions. (Dans le cas du serment, ajouter : Ainsi Dieu me soit en aide.) 
+
+
+
+
+
+
+SERMENT
+
+
+
+
+
+
+(Membre du personnel)
+
+
+
+
+
+
+Moi, ….., j’affirme solennellement (ou je jure) que je m’acquitterai fidèlement, honnêtement et impartialement des devoirs qui m’incombent en ma qualité de membre du personnel de l’ombudsman de la Gendarmerie royale du Canada et que je ne révélerai ni ne communiquerai à quiconque n’y a pas légitimement droit ce qui est parvenu à ma connaissance ou les renseignements que j’ai obtenus en raison de mes fonctions. (Dans le cas du serment, ajouter : Ainsi Dieu me soit en aide.)
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AND RELATED AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES ET CONNEXES
+
+
+
+
+
+
+
+
+
+
+R.S., c. A-1
+
+
+
+Access to Information Act
+
+
+
+
+
+
+
+
+
+Loi sur l’accès à l’information
+
+
+
+L.R., ch. A-1
+
+
+
+
+
+
+
+
+
+
+
+
+8. Schedule I to the Access to Information Act is amended by adding the following in alphabetical order under the heading “OTHER GOVERNMENT INSTITUTIONS”:
+
+
+
+
+
+
+
+
+
+8. L’annexe I de la Loi sur l’accès à l’information est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « AUTRES INSTITUTIONS FÉDÉRALES »,  de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+Ombudsman de la Gendarmerie royale du Canada
+
+
+
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+Ombudsman de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+
+
+
+
+R.S., c. F-11
+
+
+
+Financial Administration Act
+
+
+
+
+
+
+
+
+
+Loi sur la gestion des finances publiques
+
+
+
+L.R., ch. F-11
+
+
+
+
+
+
+
+
+
+
+
+
+9. (1) Schedule I.1 to the Financial Administration Act is amended by adding the following in alphabetical order in column I:
+
+
+
+
+
+
+
+
+
+9. (1) L’annexe I.1 de la Loi sur la gestion des finances publiques est modifiée par adjonction, selon l’ordre alphabétique, dans la colonne I, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+Ombudsman de la Gendarmerie royale du Canada
+
+
+
+
+
+
+and by adding for each a corresponding reference in column II to the “Minister of Public Safety and Emergency Preparedness”.
+
+
+
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+Ombudsman de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+ainsi que la mention « Le ministre de la Sécurité publique et de la Protection civile », dans la colonne II, en regard de ces secteurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Schedule IV to the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) L’annexe IV de la même loi est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+Ombudsman de la Gendarmerie royale du Canada
+
+
+
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+Ombudsman de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Part III of Schedule VI to the Act is amended
+
+
+
+
+
+
+(a) by adding the following in alphabetical order in column I:
+
+
+
+
+
+
+
+
+
+(3) La partie III de l’annexe VI de la même loi est modifiée :
+
+
+
+
+
+
+a) par adjonction, selon l’ordre alphabétique, dans la colonne I, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+and by adding a corresponding reference in column II to the “Chairperson”; and
+
+
+
+
+
+
+(b) by adding the following in alphabetical order in column I:
+
+
+
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+ainsi que la mention « Président », dans la colonne II, au regard de ce ministère;
+
+
+
+
+
+
+b) par adjonction, selon l’ordre alphabétique, dans la colonne I, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+Ombudsman de la Gendarmerie royale du Canada
+
+
+
+
+
+
+and by adding a corresponding reference in column II to the “Ombudsperson”.
+
+
+
+
+
+
+
+
+
+Ombudsman de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+ainsi que la mention « Ombudsman », dans la colonne II, en regard de ce ministère.
+
+
+
+
+
+
+
+
+
+
+R.S., c. P-21
+
+
+
+Privacy Act
+
+
+
+
+
+
+
+
+
+Loi sur la protection des renseignements personnels 
+
+
+
+L.R., ch. P-21
+
+
+
+
+
+
+
+
+
+
+
+
+10. The schedule to the Privacy Act is amended by adding the following in alphabetical order under the heading “OTHER GOVERNMENT INSTITUTIONS”: 
+
+
+
+
+
+
+
+
+
+10. L’annexe de la Loi sur la protection des renseignements personnels est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « AUTRES INSTITUTIONS FÉDÉRALES », de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+Ombudsman de la Gendarmerie royale du Canada
+
+
+
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+Ombudsman de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+
+
+
+
+1991, c. 30
+
+
+
+Public Sector Compensation Act
+
+
+
+
+
+
+
+
+
+Loi sur la rémunération du secteur public
+
+
+
+1991, ch. 30
+
+
+
+
+
+
+
+
+
+
+
+
+11. Schedule I to the Public Sector Compensation Act is amended by adding the following in alphabetical order under the heading “OTHER PORTIONS OF THE PUBLIC SERVICE”: 
+
+
+
+
+
+
+
+
+
+11. L’annexe I de la Loi sur la rémunération du secteur public est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « ADMINISTRATIONS FÉDÉRALES », de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+Ombudsman de la Gendarmerie royale du Canada
+
+
+
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Civilian Review and Oversight Council for the Royal Canadian Mounted Police
+
+
+
+
+
+
+Conseil civil d’examen et de surveillance de la Gendarmerie royale du Canada
+
+
+
+
+
+
+Royal Canadian Mounted Police Ombudsperson
+
+
+
+
+
+
+
+
+
+
+2013, c. 36
+
+
+
+Language Skills Act
+
+
+
+
+
+
+
+
+
+Loi sur les compétences linguistiques
+
+
+
+2013, ch. 36
+
+
+
+
+
+
+
+
+
+
+
+
+12. Section 2 of the Language Skills Act is amended by adding the following after paragraph (j):
+
+
+
+
+
+
+
+
+
+12. L’article 2 de la Loi sur les compétences linguistiques est modifié par adjonction, après l’alinéa j), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(k) the Royal Canadian Mounted Police Ombudsperson, appointed pursuant to subsection 54(1) of the Royal Canadian Mounted Police Act.
+
+
+
+
+
+
+
+
+
+k) ombudsman de la Gendarmerie royale du Canada, dont le titulaire est nommé en vertu du paragraphe 54(1) de la Loi sur la Gendarmerie royale du Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order of Governor in Council
+
+
+
+13. (1) Subject to subsection (2), the provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+13. (1) Sous réserve du paragraphe (2), les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+Royal recommendation
+
+
+
+(2) No order may be made under subsection (1) unless the appropriation of moneys for the purposes of this Act has been recommended by the Governor General and such moneys have been appropriated by Parliament. 
+
+
+
+
+
+
+
+
+
+(2) Le décret visé au paragraphe (1) ne peut être pris que si le gouverneur général a recommandé l’affectation de crédits pour l’application de la présente loi et que le Parlement a affecté ces crédits.
+
+
+
+Recommandation royale
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Royal Canadian Mounted Police Act
+Clause 2: New.
+
+
+
+Loi sur la Gendarmerie royale du Canada
+Article 2 : Nouveau.
+
+
+
+
+Clause  3: Existing text of subsection 14(1):
+(1) Every member shall, before entering on the duties of the member’s office, take the oath of allegiance and the oaths set out in the schedule.
+
+
+
+Article  3 : Texte du paragraphe 14(1) :
+(1) Avant d’entrer en fonctions, les membres prêtent le serment d’allégeance de même que les serments figurant à l’annexe.
+
+
+
+
+Clause 4: New.
+
+
+
+Article 4 : Nouveau.
+
+
+
+
+Clause 5: Existing text of relevant portions of subsection 50.1(1):
+50.1 (1) No person shall
+(a) harass, intimidate or threaten any person with the intent to compel that other person to abstain from making a complaint under Part VII or VII.2;
+(b) harass, intimidate or threaten
+(i) an individual who makes a complaint under Part VII or VII.2,
+. . . 
+(iii) a person whom the person has reasonable grounds to believe will be questioned or summoned by the Commission when it deals with a complaint made under any of those Parts, or
+
+(iv) a person who is carrying out any power, duty or function under any of Parts VI to VII.2;
+(c) wilfully obstruct a person who is carrying out any power, duty or function under any of Parts VI to VII.2, or knowingly make any false or misleading statement or knowingly provide false or misleading information to that person;
+(d) destroy, mutilate, alter, falsify or conceal a document or thing, or make a false document or thing, knowing that the document or thing is likely to be relevant to an investigation of, or hearing to inquire into, a complaint made under Part VII or VII.2 or to a review under any of those Parts; or
+
+
+
+Article 5 : Texte des passages visés du paragraphe 50.1(1) :
+50.1 (1) Il est interdit à toute personne :
+a) de harceler, d’intimider ou de menacer une autre personne dans le dessein de la forcer à s’abstenir de déposer une plainte sous le régime des parties VII ou VII.2;
+b) de harceler, d’intimider ou de menacer les personnes suivantes :
+(i) le particulier qui dépose une plainte sous le régime des parties VII ou VII.2,
+[. . .] 
+(iii) la personne dont elle croit raisonnablement qu’elle sera assignée à témoigner ou questionnée par la Commission lorsque celle-ci examine une plainte déposée sous le régime de l’une ou l’autre de ces parties,
+
+(iv) la personne qui exerce des pouvoirs ou fonctions que lui attribue l’une ou l’autre des parties VI à VII.2;
+c) de gêner sciemment une personne dans l’exercice des pouvoirs et fonctions que lui attribue l’une ou l’autre des parties VI à VII.2, ou de lui faire sciemment une déclaration fausse ou trompeuse ou de lui communiquer sciemment des renseignements faux ou trompeurs;
+d) de détruire, de tronquer ou de modifier un document ou une chose, de les cacher, de les falsifier ou de les contrefaire sachant qu’ils seront vraisemblablement pertinents dans le cadre d’une enquête ou d’une audience tenue sur la plainte au titre des parties VII ou VII.2 ou d’une révision sous le régime de l’une ou l’autre de ces parties;
+
+
+
+
+Clause 6: New.
+
+
+
+Article 6 : Nouveau.
+
+
+
+
+Clause 7: New.
+
+
+
+Article 7 : Nouveau
+
+
+
+
+Clause 8: New.
+
+
+
+Article  8 : Nouveau.
+
+
+
+
+Clause 9: New.
+
+
+
+Article  9 : Nouveau.
+
+
+
+
+Clause 10: New.
+
+
+
+Article  10 : Nouveau.
+
+
+
+
+Clause 11: New.
+
+
+
+Article  11 : Nouveau.
+
+
+
+
+Clause 12: New.
+
+
+
+Article  12 : Nouveau.
+
+
+
+

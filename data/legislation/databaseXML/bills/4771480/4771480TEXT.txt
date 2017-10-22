@@ -1,0 +1,692 @@
+
+
+
+
+
+S-12
+
+
+
+
+
+S-12
+
+
+
+
+
+
+First Session, Thirty-sixth Parliament,
+
+
+
+
+
+Première session, trente-sixième législature,
+
+
+
+
+
+
+46-47 Elizabeth II, 1997-98
+
+
+
+
+
+46-47 Elizabeth II, 1997-98
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-12
+
+
+
+
+
+PROJET DE LOI S-12
+
+
+
+
+
+
+An Act to amend the Criminal Code (abuse of process)
+
+
+
+
+
+Loi modifiant le Code criminel (détournement de la justice)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, February 10, 1998
+
+première lecture le 10 février 1998
+
+
+
+
+
+
+
+
+
+
+
+
+The Honourable Senator Cools
+
+2305
+
+
+
+L’honorable sénateur Cools
+
+
+
+
+
+Summary
+This enactment creates three new offences in the Criminal Code making it an offence for counsel in judicial proceedings to
+(a) make public statements outside the tribunal that are known by counsel to be false or that counsel failed to take reasonable measures to ascertain were false;
+(b) institute or proceed with proceedings known by counsel to be brought primarily to intimidate or injure another person; or
+(c) knowingly to deceive or participate in deceiving the tribunal or to rely on false, deceptive, exaggerated or inflamatory documents.
+
+
+
+Sommaire
+Ce texte crée trois infractions.  Ainsi en commet une l’avocat qui, dans une procédure judiciaire :
+a) hors de la présence du tribunal, fait une déclaration publique qu’il sait fausse ou dont il a omis, par des précautions raisonnables, de vérifier la fausseté;
+b) engage ou poursuit des procédures qu’il sait principalement motivées par le souci d’intimider ou de léser un tiers;
+c) trompe sciemment le tribunal ou participe à un tel agissement, ou encore invoque des documents faux, trompeurs, exagérés ou incendiaires.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 36th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 36e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46-47 Elizabeth II, 1997-98
+
+
+
+
+
+
+
+
+
+46-47 Elizabeth II, 1997-98
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-12
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (abuse of process)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (détournement de la justice)
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+WHEREAS the pervasive, intrusive and instantaneous nature of modern media news coverage increases the pressure on counsel in judicial proceedings to participate publicly in news events in the interests of their clients or in other ways extend their activities as counsel to include conduct considered unethical under the rules of their profession;
+
+
+
+
+
+
+
+
+AND WHEREAS it is in the public interest that conduct of that kind be made criminal and not merely unethical in order to prevent the administration of justice being adversely affected;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que le caractère omniprésent, envahissant et instantané de l’information diffusée par les grands moyens de communication modernes incite  les avocats engagés dans des procédures judiciaires à participer davantage publiquement à des événements d’actualité pour le compte de leurs clients ou, d’une façon générale, à outrepasser leur rôle normal en se livrant à des activités jugées contraires à la déontologie de leur profession;
+
+
+
+
+
+
+
+
+qu’il est d’intérêt public que la répression d’un pareil comportement ne se limite pas à une simple condamnation d’ordre déontologique mais fasse l’objet d’une qualification criminelle, de façon à éviter de compromettre l’administration de la justice,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46; R.S., cc. 2, 11, 27, 31, 47, 51 52 (1st Supp.), cc. 1, 24, 27, 35 (2nd Supp.), cc. 10, 19, 30, 34 (3rd Supp.), cc. 1, 23, 29, 30, 31, 32, 40, 42, 50 (4th Supp.); 1989, c. 2; 1990, cc. 15, 16, 17, 44; 1991, cc. 1, 4, 28, 40, 43; 1992, cc. 1, 11, 20, 21, 22, 27, 38, 41, 47, 51; 1993, cc. 7, 25, 28, 34, 37, 40, 45, 46; 1994, cc. 12, 13, 38, 44; 1995, cc. 5, 19, 22, 27, 29, 32, 39, 42; 1996, cc. 8, 16, 19, 31, 34; 1997, cc. 9, 16, 17, 18, 23, 30, 39
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. C–46; L.R., ch. 2, 11, 27, 31, 47, 51, 52 (1er suppl.), ch. 1, 24, 27, 35 (2e suppl.), ch. 10, 19, 30, 34 (3e suppl), ch. 1, 23, 29, 30, 31, 32, 40, 42, 50, (4e suppl.); 1989, ch. 2; 1990, ch. 15, 16, 17, 44; 1991, ch. 1, 4, 28, 40, 43, 1992, ch. 1, 11, 20, 21, 22, 27, 38, 41, 47, 51; 1993 ch. 7, 25, 28, 34, 37, 40, 45, 46; 1994, ch. 12, 13, 38, 44; 1995, ch. 5, 19, 22, 27, 29, 32,  39, 42; 1996, ch. 8, 16, 19, 31, 34; 1997, ch. 9, 16, 17, 18, 23, 30, 39
+
+
+
+
+
+
+
+
+
+
+1997, c. 17, s. 29
+
+
+
+1. The Criminal Code is amended by adding immediately after section 134 the following:
+
+
+
+
+
+
+
+
+
+1. Le Code criminel est modifié par adjonction, après l’article 134, de ce qui suit :
+
+
+
+1997, ch. 17, art. 29
+
+
+
+
+
+
+
+
+
+
+Public statements by counsel
+
+
+
+135. (1) Every person who, while acting or purporting to act as counsel in respect of any anticipated, current or completed judicial proceedings, makes any public statement of facts in relation to the judicial proceedings out of the presence of the tribunal or body authorized by law to conduct the proceedings
+
+
+
+
+
+
+
+
+(a) knowing that some or all of the facts asserted in the statement are not true,
+
+
+
+
+
+
+
+
+(b) having no reasonable grounds for believing that the facts asserted in the statement are true, or
+
+
+
+
+
+
+
+
+(c) having failed to take reasonable measures before making the statement to ascertain the truth of the facts asserted in the statement,
+
+
+
+
+
+
+
+
+is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years.
+
+
+
+
+
+
+
+
+
+135. (1) Est coupable d’un acte criminel et passible d’une peine maximale d’emprisonnement de deux ans quiconque fait une déclaration publique alors qu’il agit ou prétend agir à titre d’avocat à l’égard d’une procédure judiciaire en cours, à venir ou terminée, relativement à des faits concernant cette procédure, hors de la présence du tribunal ou de l’organisme légalement chargé de la procédure, dans l’une ou l’autre des circonstances suivantes :
+
+
+
+Déclarations publiques d’un avocat
+
+
+
+
+a) il sait que certains des faits ou tous les faits énoncés dans la déclaration sont faux;
+
+
+
+
+
+
+
+
+b) il n’a pas de motif raisonnable de croire à la véracité de ces faits;
+
+
+
+
+
+
+
+
+c) il a omis de prendre des précautions raisonnables, avant de faire la déclaration, pour s’assurer de la véracité des faits.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statement includes court documents
+
+
+
+(2) For the purpose of subsection (1), a statement of facts in relation to the judicial proceedings includes a reading from or an express reference to documents
+
+
+
+
+
+
+
+
+(a) deposited or filed with or intended to be deposited or filed with the tribunal or body authorized by law to conduct the proceedings, or
+
+
+
+
+
+
+
+
+(b) deposited or filed in any other judicial proceedings.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), sont assimilées à la déclaration la citation d’un extrait ou la mention expresse de documents :
+
+
+
+Assimilation
+
+
+
+
+a) soit déposés ou produits — ou destinés à l’être — auprès du tribunal ou de l’organisme en question;
+
+
+
+
+
+
+
+
+b) soit déposés ou produits dans d’autres procédures judiciaires.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abuse of process
+
+
+
+135.1 (1) Every person is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years who, as counsel in any judicial proceedings, institutes or prosecutes proceedings that he or she knows are brought primarily for the purpose of intimidating or injuring another person.
+
+
+
+
+
+
+
+
+
+135.1. (1) Est coupable d’un acte criminel et passible d’une peine maximale d’emprisonnement de deux ans quiconque, étant avocat dans une procédure judiciaire, engage ou poursuit des procédures qu’il sait avoir principalement pour objet d’intimider ou de léser un tiers.
+
+
+
+Détournement de la justice
+
+
+
+
+
+
+
+
+
+
+Idem
+
+
+
+(2) Every person is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years who, as counsel in any judicial proceedings,
+
+
+
+
+
+
+
+
+(a) wilfully deceives or knowingly participates in deceiving the tribunal or other body legally authorized to conduct the proceedings, or
+
+
+
+
+
+
+
+
+(b) wilfully presents or knowingly relies upon a false, deceptive, exaggerated or inflammatory document, whether or not under oath.
+
+
+
+
+
+
+
+
+
+(2) Est coupable d’un acte criminel et passible d’une peine maximale d’emprisonnement de deux ans quiconque, étant avocat dans une procédure judiciaire :
+
+
+
+Idem
+
+
+
+
+a) soit trompe délibérément le tribunal ou tout autre organisme légalement chargé de la procédure, ou participe sciemment à un tel agissement;
+
+
+
+
+
+
+
+
+b) soit produit délibérément ou invoque sciemment un document faux, trompeur, exagéré ou incendiaire, que le document soit attesté par serment ou non.
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

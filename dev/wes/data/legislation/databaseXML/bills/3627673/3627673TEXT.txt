@@ -1,0 +1,839 @@
+
+
+
+
+
+C-231
+
+
+
+
+
+C-231
+
+
+
+
+
+
+First Session, Fortieth Parliament,
+
+
+
+
+
+Première session, quarantième législature,
+
+
+
+
+
+
+57 Elizabeth II, 2008
+
+
+
+
+
+57 Elizabeth II, 2008
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-231
+
+
+
+
+
+PROJET DE LOI C-231
+
+
+
+
+
+
+An Act to amend the Criminal Code and the Corrections and Conditional Release Act (consecutive sentences)
+
+
+
+
+
+Loi modifiant le Code criminel et la Loi sur le système correctionnel et la mise en liberté sous condition (peines consécutives)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 26, 2008
+
+première lecture le 26 novembre 2008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2nd Session, 40th Parliament
+
+This bill was introduced during the First Session of the 40th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2e session, 40e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 40e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+Ms. Guarnieri
+
+401087
+
+
+
+Mme Guarnieri
+
+
+
+
+
+SUMMARY
+This enactment provides that a sentence imposed for the offence of sexual assault under section 271 of the Criminal Code is to be served consecutively to any other sentence for an offence under that section or section 272 or 273 to which the offender is subject at the time the sentence for sexual assault is imposed. However, the enactment also gives the sentencing judge discretion to order that the sentence be served concurrently rather than consecutively where he or she is satisfied that it is appropriate to do so. Where the judge makes such an order, he or she must give both oral and written reasons for that decision.
+The enactment also provides that, where an offender is sentenced for first or second degree murder and is, at the time the sentence is imposed, subject to a sentence for any offence other than murder, the offender will not be eligible for parole until he or she has served the parole ineligibility period required by law to be served for that other sentence — the lesser of one third of that sentence and seven years — and the parole ineligibility period required by law to be served for the first or second degree murder. 
+The enactment further provides that, where an offender is sentenced for first or second degree murder and is, at the time the sentence is imposed, subject to a sentence for another first or second degree murder, the sentencing judge has the discretion to order, where he or she is satisfied that it is appropriate to do so, that the offender must — on the expiration of the parole ineligibility period the person is required by law to serve for that other murder — serve a further parole ineligibility period not exceeding 25 years for the murder for which he or she is being sentenced. However, in no case must the total parole ineligibility period required to be served by the offender exceed 50 years. The enactment also provides that, where the sentencing judge does not make an order for a further period of parole ineligibility, he or she must explain, both orally and in writing, why he or she did not make that order. 
+
+
+
+SOMMAIRE
+Le texte exige que la peine imposée à un contrevenant pour une agression sexuelle — infraction prévue à l'article 271 du Code criminel — soit purgée consécutivement à toute autre peine infligée pour une infraction prévue à cet article ou aux articles 272 ou 273 qu'il purge à ce moment-là. Il donne cependant au juge qui prononce la peine le pouvoir discrétionnaire d'ordonner, s'il l'estime indiqué, que celle-ci soit purgée concurremment plutôt que consécutivement. Le juge doit alors donner les motifs d'une telle ordonnance oralement et par écrit. 
+Le texte prévoit également le temps d'épreuve auquel est assujetti le délinquant à qui est imposée une peine pour meurtre au premier ou au deuxième degré et qui purge à ce moment-là une peine infligée pour une infraction autre qu'un meurtre. Celui-ci doit purger le temps d'épreuve prévu par la loi pour le meurtre plus le tiers, jusqu'à concurrence de sept ans, de la peine infligée pour l'autre infraction. 
+En outre, il prévoit, dans le cas du délinquant à qui est imposée une peine pour meurtre au premier ou au deuxième degré et qui purge à ce moment-là une peine infligée pour un autre meurtre au premier ou au deuxième degré, que le juge peut, s'il l'estime indiqué, lui ordonner de purger — à l'expiration du temps d'épreuve prévu par la loi pour l'autre meurtre — un temps d'épreuve supplémentaire d'au plus vingt-cinq ans pour le meurtre visé par la peine qu'il prononce. Toutefois, le temps d'épreuve total ne peut en aucun cas dépasser cinquante ans. Si le juge n'ordonne pas de temps d'épreuve supplémentaire, il est tenu d'en donner la justification oralement et par écrit. 
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2008
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-231
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-231
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code and the Corrections and Conditional Release Act (consecutive sentences)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel et la Loi sur le système correctionnel et la mise en liberté sous condition (peines consécutives)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 271 of the Criminal Code is amended by adding the following after subsection (1): 
+
+
+
+
+
+
+
+
+
+1. L'article 271 du Code criminel est modifié par adjonction, après le paragraphe (1), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Sentences to be served consecutively 
+
+
+
+(2) Subject to subsections (3) and (4), a sentence imposed on an offender for an offence under subsection (1) shall be served consecutively to any other sentence for an offence under subsection (1) or section 272 or 273 to which the offender is subject at the time the sentence is imposed on the offender for an offence under subsection (1), unless the judge who sentences the offender is satisfied that the serving of that sentence consecutively would be inconsistent with the principles of sentencing contained in sections 718 to 718.2, in which case the judge may order that the sentence be served concurrently. 
+
+
+
+
+
+
+
+
+
+(2) Sous réserve des paragraphes (3) et (4), la peine imposée à un contrevenant pour une infraction prévue au paragraphe (1) est purgée consécutivement à toute peine imposée pour une infraction prévue à ce paragraphe ou aux articles 272 ou 273 qu'il purge à ce moment-là, sauf si le juge qui la prononce est convaincu que le fait de la purger consécutivement ne serait pas conforme aux principes de détermination de la peine prévus à l'un des articles 718 à 718.2, auquel cas il peut ordonner que la peine soit purgée concurremment.
+
+
+
+Peines consécutives  
+
+
+
+
+
+
+
+
+
+
+Factors
+
+
+
+(3) In deciding whether to make an order under subsection (2), the judge shall have regard to 
+
+
+
+
+
+
+
+
+(a) the nature of the offence;
+
+
+
+
+
+
+
+
+(b) the circumstances surrounding the commission of the offence;
+
+
+
+
+
+
+
+
+(c) the degree of physical or emotional harm suffered by the victim as a result of the commission of the offence;
+
+
+
+
+
+
+
+
+(d) whether the offender abused a position of trust, power or authority in the commission of the offence;
+
+
+
+
+
+
+
+
+(e) the criminal record of the offender; and
+
+
+
+
+
+
+
+
+(f) the attitude of the offender respecting the offence committed by the offender.
+
+
+
+
+
+
+
+
+
+(3) Pour décider s'il y a lieu de rendre l'ordonnance visée au paragraphe (2), le juge tient compte des facteurs suivants :  
+
+
+
+Facteurs 
+
+
+
+
+a) la nature de l'infraction;
+
+
+
+
+
+
+
+
+b) les circonstances de sa perpétration;
+
+
+
+
+
+
+
+
+c) l'ampleur des dommages corporels ou émotionnels que la perpétration de l'infraction a causés à la victime;
+
+
+
+
+
+
+
+
+d) la question de savoir si l'infraction perpétrée par le contrevenant constitue un abus de pouvoir ou de confiance;
+
+
+
+
+
+
+
+
+e) le casier judiciaire du contrevenant;
+
+
+
+
+
+
+
+
+f) l'attitude du contrevenant à l'égard de l'infraction qu'il a commise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reasons 
+
+
+
+(4) Where the judge makes an order under subsection (2), the judge shall give both oral and written reasons for that order.
+
+
+
+
+
+
+
+
+
+(4) Le juge donne oralement et par écrit les motifs de toute ordonnance rendue aux termes du paragraphe (2). 
+
+
+
+Motifs  
+
+
+
+
+
+
+
+
+1992, c. 20
+
+
+
+CORRECTIONS AND CONDITIONAL RELEASE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE SYSTÈME CORRECTIONNEL ET LA MISE EN LIBERTÉ SOUS CONDITION
+
+
+
+1992, ch. 20
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 120 of the Corrections and Conditional Release Act is amended by adding the following after subsection (2): 
+
+
+
+
+
+
+
+
+
+2. L'article 120 de la Loi sur le système correctionnel et la mise en liberté sous condition est modifié par adjonction, après le paragraphe (2), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Sentences to be served consecutively 
+
+
+
+(3) The portion of a sentence of imprisonment for life that an offender who has been convicted of first degree murder or second degree murder must serve before the offender may be released on full parole is, subject to subsection (4), the one provided for in section 745 or 745.1 of the Criminal Code and, in addition, where the offender is under another sentence of imprisonment for another offence arising out of the same event or series of events or under any other sentence at the time the sentence of imprisonment for life is imposed on the offender, the lesser of one third of any other sentence of imprisonment and seven years. 
+
+
+
+
+
+
+
+
+
+(3) Dans le cas du délinquant condamné à l'emprisonnement à perpétuité pour meurtre au premier ou au deuxième degré, le temps d'épreuve pour l'admissibilité à la libération conditionnelle totale est, sous réserve du paragraphe (4), celui prévu aux articles 745 ou 745.1 du Code criminel, plus le tiers, jusqu'à concurrence de sept ans, de toute autre peine imposée pour une autre infraction basée sur les mêmes faits ou de toute autre peine d'emprisonnement que le délinquant purge à ce moment-là.
+
+
+
+Peines consécutives 
+
+
+
+
+
+
+
+
+
+
+Subsequent murder conviction 
+
+
+
+(4) Subject to subsections (5), (6) and (7), where a judge sentences an offender to a term of imprisonment for life for first degree murder or second degree murder and the offender is, at the time the sentence is imposed, under a sentence of imprisonment for life for another first degree murder or second degree murder, the judge may order that the offender serve — on the expiration of the parole ineligibility period referred to in section 745 or 745.1 of the Criminal Code to which the offender is subject in respect of the conviction for the other first degree murder or second degree murder — a further parole ineligibility period not exceeding 25 years in respect of the first degree murder or second degree murder for which the judge is sentencing the offender. 
+
+
+
+
+
+
+
+
+
+(4) Sous réserve des paragraphes (5), (6) et (7), lorsque le juge condamne un délinquant à l'emprisonnement à perpétuité pour meurtre au premier ou au deuxième degré et que celui-ci  purge, au moment de l'imposition de la peine, une peine d'emprisonnement à perpétuité pour un autre meurtre au premier ou au deuxième degré, le juge peut ordonner que le délinquant purge — à l'expiration du temps d'épreuve prévu aux articles 745 ou 745.1 du Code criminel pour l'autre meurtre — un temps d'épreuve supplémentaire d'au plus vingt-cinq ans pour le dernier meurtre commis.  
+
+
+
+Meurtre : récidive  
+
+
+
+
+
+
+
+
+
+
+Maximum parole ineligibility 
+
+
+
+(5) Where an offender  is required to serve more than one further parole ineligibility period referred to in subsection (4), the periods shall be served consecutively but in no case shall the total period of parole ineligibility exceed 50 years. 
+
+
+
+
+
+
+
+
+
+(5) Tout temps d'épreuve supplémentaire auquel est assujetti un délinquant aux termes du paragraphe (4) est purgé consécutivement à l'autre temps d'épreuve, le temps d'épreuve total ne pouvant en aucun cas dépasser cinquante ans. 
+
+
+
+Temps d'épreuve maximal 
+
+
+
+
+
+
+
+
+
+
+Factors 
+
+
+
+(6) In deciding whether to order a further parole ineligibility period under subsection (4), and in deciding the length of that period, the sentencing judge shall have regard to whether the total period of parole ineligibility would adequately denounce the murder and whether it would adequately acknowledge the harm done to the victim. 
+
+
+
+
+
+
+
+
+
+(6) Pour décider s'il y a lieu d'ordonner un temps d'épreuve supplémentaire aux termes du paragraphe (4) et en fixer la durée, le juge qui prononce la peine évalue si le temps d'épreuve total est suffisant pour bien dénoncer le meurtre et reconnaître le tort causé à la victime.
+
+
+
+Facteurs 
+
+
+
+
+
+
+
+
+
+
+Reasons 
+
+
+
+(7) Where the judge does not make an order under subsection (4), the judge shall, orally and in writing, explain why he or she did not make that order. 
+
+
+
+
+
+
+
+
+
+(7) Si le juge ne rend pas d'ordonnance aux termes du paragraphe (4), il en donne la justification oralement et par écrit.
+
+
+
+Motifs 
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

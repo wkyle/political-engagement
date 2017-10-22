@@ -1,0 +1,776 @@
+
+
+
+
+
+
+C-556
+
+
+
+
+
+C-556
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-556
+
+
+
+
+
+PROJET DE LOI C-556
+
+
+
+
+
+
+An Act to amend the Criminal Code (breath alcohol analysis)
+
+
+
+
+
+Loi modifiant le Code criminel (contrôle de l'alcoolémie)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 28, 2013
+
+
+
+
+
+première lecture le 28 novembre 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Brahmi
+
+
+412012
+
+
+
+
+M. Brahmi
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code to authorize peace officers to require, at random or in the event of an accident involving a motor vehicle, any person who is operating that motor vehicle to provide a breath sample for analysis by means of an approved screening device.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel afin d’autoriser les agents de la paix à ordonner, que ce soit dans le cadre d'un accident ou d'un choix aléatoire, à quiconque conduit un véhicule à moteur de fournir un échantillon d’haleine pour analyse à l’aide d’un appareil de détection approuvé.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-556
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-556
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (breath alcohol analysis)
+
+
+
+
+
+
+Whereas alcohol-impaired driving often results in tragedies that each year devastate many Canadian families and communities, causing irreparable damage to victims and their loved ones;
+
+
+
+
+
+
+Whereas random roadside breath testing has already proved effective in a number of countries, such as New Zealand, Ireland and Australia, saving up to 200 lives annually;
+
+
+
+
+
+
+Whereas impaired driving is responsible for more deaths in Canada than any other criminal offence;
+
+
+
+
+
+
+Whereas, in 2009, the Standing Committee on Justice and Human Rights unanimously recommended the implementation of random roadside testing;
+
+
+
+
+
+
+And whereas the Government of Canada at the time acknowledged the importance of giving a priority response to the recommendations of this committee;
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (contrôle de l'alcoolémie)
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que la conduite en état d’ébriété entraîne souvent des tragédies qui, chaque année, dévastent un nombre important de familles et de collectivités canadiennes et causent des dommages irrémédiables aux victimes et à leurs proches;
+
+
+
+
+
+
+que, dans plusieurs pays, notamment la Nouvelle-Zélande, l’Irlande et l’Australie, les contrôles routiers aléatoires de l’alcoolémie par alcootest ont déjà démontré leur efficacité en permettant de sauver jusqu'à deux cents vies par année;
+
+
+
+
+
+
+que la conduite avec facultés affaiblies est l’infraction criminelle qui cause le plus grand nombre de décès au Canada;
+
+
+
+
+
+
+que la mise en oeuvre au Canada de ces contrôles aléatoires a été unanimement recommandée en 2009 par le Comité permanent de la justice et des droits de la personne de la Chambre des communes;
+
+
+
+
+
+
+que le gouvernement canadien a alors reconnu l'importance de donner suite de façon prioritaire aux recommandations de ce comité,
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) Section 254 of the Criminal Code is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+
+1. (1) L’article 254 du Code criminel est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Testing — motor vehicle
+
+
+
+
+(2.01) If a peace officer has in his or her possession an approved screening device, the peace officer may, by demand, require the person who is operating a motor vehicle or has the care or control of it, whether it was in motion or not, to provide forthwith a sample of breath that, in the peace officer’s opinion, will enable a proper analysis to be made by means of that device and, if necessary, to accompany the peace officer for that purpose.
+
+
+
+
+
+
+
+
+
+
+
+(2.01) L’agent de la paix qui a en sa possession un appareil de détection approuvé peut ordonner à la personne qui conduit un véhicule à moteur ou qui en a la garde ou le contrôle, le véhicule ayant été en mouvement ou non, de fournir immédiatement l’échantillon d’haleine qu’il estime nécessaire à la réalisation d’une analyse convenable à l’aide de cet appareil et, au besoin, de le suivre à cette fin.
+
+
+
+
+Contrôle — véhicule à moteur
+
+
+
+
+
+
+
+
+
+
+Testing — accident
+
+
+
+
+(2.02) If  a peace officer has reasonable grounds to suspect a person of having operated a motor vehicle involved in an accident resulting in death or bodily harm to another person, the peace officer may, by demand, require the suspected person to provide, as soon as practicable, a sample of breath that, in the peace officer’s opinion, will enable a proper analysis to be made by means of an approved screening device and, if necessary, to accompany the peace officer for that purpose.
+
+
+
+
+
+
+
+
+
+
+
+(2.02) L’agent de la paix qui a des motifs raisonnables de soupçonner une personne d’avoir conduit un véhicule à moteur impliqué dans un accident ayant occasionné la mort d’une autre personne ou des lésions corporelles à celle-ci peut ordonner à la personne soupçonnée de fournir dans les meilleurs délais l’échantillon d’haleine qu’il estime nécessaire à la réalisation d’une analyse convenable à l’aide d’un appareil de détection approuvé et, au besoin, de le suivre à cette fin.
+
+
+
+
+Contrôle — accident
+
+
+
+
+
+
+
+
+
+
+Uncertainty as to operator
+
+
+
+
+(2.03) For greater certainty, for the purposes of subsection (2.02), if the peace officer cannot identify with certainty the person who was operating the motor vehicle, the peace officer may make the demand under this subsection of any person that he or she has reasonable grounds to suspect was operating the vehicle.
+
+
+
+
+
+
+
+
+
+
+
+(2.03) Il est entendu que, pour l’application du paragraphe (2.02), si l’agent de la paix ne peut identifier avec certitude la personne qui conduisait le véhicule à moteur, il peut donner l’ordre prévu à ce paragraphe à toute personne dont il a des motifs raisonnables de soupçonner qu’elle conduisait le véhicule.
+
+
+
+
+Incertitude quant au conducteur
+
+
+
+
+
+
+
+
+
+
+Legal assistance — for greater certainty
+
+
+
+
+(2.04) For greater certainty, the provision of the sample of breath required, by demand, by the peace officer pursuant to subsections (2.01) and (2.02) may not be delayed in order to exercise the right to legal assistance.
+
+
+
+
+
+
+
+
+
+
+
+(2.04) Il est entendu que la fourniture de l’échantillon d’haleine sur ordre de l’agent de la paix au titre des paragraphes (2.01) ou (2.02) ne peut être retardée pour permettre à la personne d’exercer son droit de recourir à l’assistance d’un avocat.
+
+
+
+
+Assistance d’un avocat — précision
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 254(3.3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 254(3.3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Testing for presence of alcohol
+
+
+
+(3.3) If the evaluating officer has reasonable grounds to suspect that the person has alcohol in their body and if a demand was not made under paragraph (2)(b) or subsection (2.01), (2.02) or (3), the evaluating officer may, by demand made as soon as practicable, require the person to provide, as soon as practicable, a sample of breath that, in the evaluating officer’s opinion, will enable a proper analysis to be made by means of an approved instrument.
+
+
+
+
+
+
+
+
+
+(3.3) Dans le cas où aucun ordre n’a été donné en vertu de l’alinéa (2)b) ou des paragraphes (2.01), (2.02) ou (3), l’agent évaluateur, s’il a des motifs raisonnables de soupçonner la présence d’alcool dans l’organisme de la personne, peut, à condition de le faire dans les meilleurs délais, ordonner à celle-ci de lui fournir dans les meilleurs délais l’échantillon d’haleine qu’il estime nécessaire à la réalisation d’une analyse convenable à l’aide d’un alcootest approuvé.
+
+
+
+Contrôle pour vérifier la présence d’alcool
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 258(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 258(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Evidence of failure to give sample
+
+
+
+(2) Unless a person is required to give a sample of a bodily substance under paragraph 254(2)(b) or subsection 254(2.01), (2.02), (3), (3.3) or (3.4), evidence that they failed or refused to give a sample for analysis for the purposes of this section or that a sample was not taken is not admissible and the failure, refusal or fact that a sample was not taken shall not be the subject of comment by any person in the proceedings.
+
+
+
+
+
+
+
+
+
+(2) Sauf si une personne est tenue de fournir un échantillon d’une substance corporelle aux termes de l’alinéa 254(2)b) ou des paragraphes 254(2.01), (2.02), (3), (3.3) ou (3.4), la preuve qu’elle a omis ou refusé de fournir pour analyse un échantillon pour l’application du présent article, ou que l’échantillon n’a pas été prélevé, n’est pas admissible; de plus, l’omission ou le refus ou le fait qu’un échantillon n’a pas été prélevé ne peut faire l’objet de commentaires par qui que ce soit au cours des procédures.
+
+
+
+Preuve de l’omission de fournir un échantillon
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsection 258.1(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 258.1(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Unauthorized use of bodily substance
+
+
+
+
+258.1 (1) Subject to subsections 258(4) and (5) and subsection (3), no person shall use a bodily substance taken under paragraph 254(2)(b), subsection 254(2.01), (2.02), (3), (3.3) or (3.4) or section 256 or with the consent of the person from whom it was taken after a request by a peace officer or medical samples that are provided by consent and subsequently seized under a warrant, except for the purpose of an analysis that is referred to in that provision or for which the consent is given.
+
+
+
+
+
+
+
+
+
+
+258.1 (1) Sous réserve des paragraphes 258(4) et (5) et du paragraphe (3), il est interdit d’utiliser les substances corporelles prélevées sur une personne en vertu de l’alinéa 254(2)b), des paragraphes 254(2.01), (2.02), (3), (3.3) ou (3.4) ou de l’article 256 ou prélevées avec son consentement à la demande d’un agent de la paix ou les échantillons médicaux prélevés avec son consentement et subséquemment saisis en vertu d’un mandat à d’autres fins que pour les analyses qui y sont prévues ou auxquelles elle a consenti.
+
+
+
+Utilisation des substances
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

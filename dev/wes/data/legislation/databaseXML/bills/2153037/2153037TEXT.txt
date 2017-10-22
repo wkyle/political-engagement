@@ -1,0 +1,1529 @@
+
+
+
+
+
+
+C-319
+
+
+
+
+
+C-319
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-319
+
+
+
+
+
+PROJET DE LOI C-319
+
+
+
+
+
+
+An Act to establish the Energy Price Commission
+
+
+
+
+
+Loi portant création de la Commission des prix de l’énergie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 6, 2006
+
+
+
+
+
+première lecture le 6 juin 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Martin (Winnipeg Centre)
+
+391066
+
+
+
+
+M. Martin (Winnipeg-Centre)
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment establishes an Energy Price Commission to regulate the wholesale and retail price of motor fuels, including diesel and propane, as well as heating oil and electric power. The purpose of price regulation is to avoid unreasonable increases that affect the cost of living and depress business activity.
+Existing supply contracts are exempt for the first year.
+The enactment will facilitate reasonable consistency in prices from province to province, allowing for production and distribution costs. The regulation further minimizes the risk of collusion in pricing and prevents dominant suppliers from setting unreasonable prices.
+The enactment also links the issue of price control to competition. Any investigation of an alleged offence under the Competition Act that is related to energy pricing is referred by the Competition Tribunal to the Commission for investigation and report to the Tribunal before the Tribunal makes a determination or order on the matter.
+
+
+
+SOMMAIRE
+Le texte constitue la Commission des prix de l’énergie afin de régulariser le prix de vente en gros et au détail des carburants, y compris le diesel et le propane, de l’huile de chauffage et de l’électricité. L’objet de cette régularisation est d’éviter une augmentation abusive des prix qui aurait pour effet d’augmenter le coût de la vie et de décourager l’activité commerciale.
+Les contrats d’approvisionnement existants sont dispensés de cette régularisation des prix pendant la première année.
+Le texte aura pour effet de favoriser une uniformité raisonnable des prix d’une province à l’autre, compte tenu des coûts de production et de distribution. La régularisation aura aussi pour effet de diminuer le risque de collusion dans la fixation des prix et d’empêcher les fournisseurs principaux de fixer des prix excessifs.
+Le texte établit également un lien entre le contrôle des prix et la concurrence. Les enquêtes sur les infractions possibles à la Loi sur la concurrence en matière de fixation du prix de l’énergie sont renvoyées par le Tribunal de la concurrence à la Commission pour qu’elle enquête et fasse rapport au Tribunal avant que celui-ci ne rende une décision ou une ordonnance sur la question.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-319
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-319
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to establish the Energy Price Commission
+
+
+
+
+
+
+WHEREAS the price of energy affects the cost of most commodities and goods and the health of interprovincial trade in all parts of Canada;
+
+
+
+
+
+
+AND WHEREAS it is essential for the stability of the cost of living and the growth of interprovincial trade across Canada that energy prices be regulated and that unjustifiable increases be prevented;
+
+
+
+
+
+
+
+
+
+Loi portant création de la Commission des prix de l’énergie
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que le prix de l’énergie a des répercussions sur le coût de la plupart des marchandises et des biens et sur la vigueur du commerce interprovincial dans toutes les régions du Canada;
+
+
+
+
+
+
+qu’il est essentiel à la stabilité du coût de la vie et à la croissance du commerce interpro-vincial à l’échelle du Canada que les prix de l’énergie soient réglementés et que les augmentations injustifiées de ces prix soient évitées,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Energy Price Commission Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la Commission des prix de l’énergie.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“Commission”« Commission »
+
+
+
+“Commission” means the Energy Price Commission.
+
+
+
+
+“energy”« énergie »
+
+
+
+“energy” means motor fuel, heating oil or electric power.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Industry.
+
+
+
+
+“motor fuel”« carburant »
+
+
+
+“motor fuel” means any hydrocarbon fuel that is to be used in the engine of a motor vehicle.
+
+
+
+
+“supply contract”« contrat d’approvision-nement »
+
+
+
+“supply contract” means a contract for the supply of motor fuel over a period of time by delivery direct to the vehicles of the purchaser or to storage owned by or operated for supply to the purchaser.
+
+
+
+
+“Tribunal”« Tribunal »
+
+
+
+“Tribunal” means the Competition Tribunal established by subsection 3(1) of the Competition Tribunal Act.
+
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« carburant » Tout carburant d’hydrocarbures utilisable dans un moteur de véhicule automobile.
+
+
+
+« carburant »“motor fuel”
+
+
+
+
+« Commission » La Commission des prix de l’énergie.
+
+
+
+« Commission »“Commission”
+
+
+
+
+« contrat d’approvisionnement » Contrat d’approvisionnement de carburant pour une période déterminée visant la  livraison  de  carburant  directement dans les véhicules de l’acquéreur ou dans des réservoirs dont il est propriétaire ou qui servent à son approvisionnement.
+
+
+
+« contrat d’approvisionnement »“supply contract”
+
+
+
+
+« énergie » Carburant, huile de chauffage ou électricité.
+
+
+
+« énergie »“energy”
+
+
+
+
+« ministre » Le ministre de l’Industrie.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« Tribunal » Le Tribunal de la concurrence constitué en vertu du paragraphe 3(1) de la Loi sur le Tribunal de la concurrence.
+
+
+
+« Tribunal »“Tribunal”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENERGY PRICE COMMISSION
+
+
+
+
+
+
+
+
+
+COMMISSION DES PRIX DE L’ÉNERGIE
+
+
+
+
+
+
+
+
+
+
+
+
+Commission established
+
+
+
+
+3. (1) There is hereby established a Commission to be known as the Energy Price Commission, consisting of not more than five full-time members and not more than ten part-time members to be appointed by the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+3. (1) Est constituée la Commission des prix de l’énergie, composée d’au plus cinq commissaires à plein temps et d’au plus dix commissaires à temps partiel nommés par le gouverneur en conseil.
+
+
+
+Constitution de la Commission
+
+
+
+
+
+
+
+
+
+
+Term of office
+
+
+
+(2) A full-time member shall be appointed to hold office during good behaviour for a term not exceeding seven years and may be removed at any time by the Governor in Council for cause.
+
+
+
+
+
+
+
+
+
+(2) Les commissaires à plein temps sont nommés à titre inamovible pour un mandat d’au plus sept ans, sous réserve de révocation motivée par le gouverneur en conseil.
+
+
+
+Mandat
+
+
+
+
+
+
+
+
+
+
+Second term
+
+
+
+(3) Subject to subsections (4) and (5), a member may be appointed for a second term, but not a third or subsequent term.
+
+
+
+
+
+
+
+
+
+(3) Sous réserve des paragraphes (4) et (5), un commissaire ne peut remplir plus de deux mandats.
+
+
+
+Renouvellement du mandat
+
+
+
+
+
+
+
+
+
+
+Age limit
+
+
+
+(4) No person shall continue as a member of the Commission after attaining the age of 65 years.
+
+
+
+
+
+
+
+
+
+(4) Nul ne peut remplir la charge de commissaire après avoir atteint l’âge de soixante-cinq ans.
+
+
+
+Limite d’âge
+
+
+
+
+
+
+
+
+
+
+Disqualification
+
+
+
+(5) No person shall be appointed to or remain in office as a member of the Commission who
+
+
+
+
+
+
+
+
+
+
+(a) is not a Canadian citizen; or
+
+
+
+
+
+
+
+
+
+
+(b) is or becomes a shareholder, director, officer, partner or employee of a corporation or enterprise whose business includes the exploration, transportation, marketing, manufacture or sale of energy that is under the jurisdiction of the Commission or has any financial interest in any such corporation or enterprise.
+
+
+
+
+
+
+
+
+
+(5) Nul ne peut être nommé commissaire ni continuer de remplir cette charge :
+
+
+
+Incapacité
+
+
+
+
+
+a) s’il n’est pas citoyen canadien;
+
+
+
+
+
+
+
+
+
+
+
+b) s’il est ou devient actionnaire, adminis-trateur, dirigeant, associé ou employé d’une société ou entreprise dont l’activité commerciale porte notamment sur l’exploration, le transport, la mise en marché, la fabrication ou la vente d’énergie assujettie à la compétence de la Commission, ou s’il a un intérêt financier dans une telle société ou entreprise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(6) Paragraph (5)(b) does not apply to an interest that vests beneficially in a member by will or succession and is disposed of absolutely by the member within three months of the vesting.
+
+
+
+
+
+
+
+
+
+(6) L’alinéa (5)b) ne s’applique pas à un droit de propriété ou un intérêt bénéficiaire qu’obtient un commissaire par testament ou succession et dont il se départit en totalité dans les trois mois suivant cette obtention.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Spouses
+
+
+
+(7) For the purpose of this section, a position or interest described in paragraph (5)(b) that is held by the spouse of a member is deemed to be held by the member.
+
+
+
+
+
+
+
+
+
+(7) Pour l’application du présent article, le commissaire dont le conjoint se trouve dans l’une des situations visées à l’alinéa (5)b) est réputé se trouver lui-même dans cette situation.
+
+
+
+Conjoint
+
+
+
+
+
+
+
+
+
+
+Presiding officers
+
+
+
+
+4. The Governor in Council shall name one of the full-time members to be the Chairperson of the Commission and two of the full-time members to be Vice-Chairpersons of the Commission.
+
+
+
+
+
+
+
+
+
+
+4. Le gouverneur en conseil choisit le président et deux vice-présidents parmi les commissaires à plein temps de la Commission.
+
+
+
+Président et vice-présidents
+
+
+
+
+
+
+
+
+
+
+Remuneration of full-time members
+
+
+
+
+5. (1) A full-time member shall be paid such remuneration and reasonable expenses as the Governor in Council may order.
+
+
+
+
+
+
+
+
+
+
+5. (1) Les commissaires à plein temps reçoivent la rémunération fixée par le gouverneur en conseil et sont indemnisés de leurs dépenses raisonnables.
+
+
+
+Rémunéra- tion des commissaires 
+à plein temps
+
+
+
+
+
+
+
+
+
+
+
+Expenses of part-time members
+
+
+
+(2) A part-time member shall be paid such reasonable expenses as the Governor in Council may order.
+
+
+
+
+
+
+
+
+
+(2) Le gouverneur en conseil peut ordonner l’indemnisation des commissaires à temps partiel de leurs dépenses raisonnables.
+
+
+
+Indemnisa-
+tion des commissaires 
+à temps partiel
+
+
+
+
+
+
+
+
+
+
+
+Head office
+
+
+
+
+6. The head office of the Commission shall be in such place in Canada as is ordered by the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+6. La Commission a son siège social au lieu au Canada fixé par le gouverneur en conseil.
+
+
+
+Siège social
+
+
+
+
+
+
+
+
+
+
+Panels
+
+
+
+
+7. (1) The Commission may operate in one or more panels of five or more persons named by the Commission.
+
+
+
+
+
+
+
+
+
+
+7. (1) La Commission peut fonctionner par groupes constitués d’au moins cinq commissaires qu’elle désigne.
+
+
+
+Groupes
+
+
+
+
+
+
+
+
+
+
+Quorum
+
+
+
+(2) A quorum for transaction of the business of the Commission or a panel is one third of the membership of the Commission or panel.
+
+
+
+
+
+
+
+
+
+(2) Le tiers des membres de la Commission ou du groupe, selon le cas, constitue le quorum.
+
+
+
+Quorum
+
+
+
+
+
+
+
+
+
+
+Open 
+meetings
+
+
+
+(3) The Commission and any panel of the Commission shall meet in public at a time and place that has been previously advertised to the public, unless the Commission has ordered that the meeting may be held in private in order to protect the confidentiality of a bona fide interest of any person.
+
+
+
+
+
+
+
+
+
+(3) Toute réunion de la Commission ou de ses groupes est publique et doit faire l’objet d’un avis public préalable, à moins que la Commission n’ait statué que la réunion peut être tenue à huis clos afin de protéger le caractère confidentiel des intérêts légitimes d’une personne.
+
+
+
+Réunions publiques
+
+
+
+
+
+
+
+
+
+
+Frequency 
+of meetings
+
+
+
+(4) The Commission shall meet at least ten times a year.
+
+
+
+
+
+
+
+
+
+(4) La Commission se réunit au moins dix fois par an.
+
+
+
+Fréquence 
+des réunions
+
+
+
+
+
+
+
+
+
+
+Object of Commission
+
+
+
+
+8. (1) The object of the Commission is to regulate the wholesale and retail price of energy in Canada.
+
+
+
+
+
+
+
+
+
+
+8. (1) La Commission a pour mission de régulariser le prix de vente en gros et au détail de l’énergie au Canada.
+
+
+
+Mission de la Commission
+
+
+
+
+
+
+
+
+
+
+Powers
+
+
+
+(2) In carrying out its object or an investigation referred to in section 11, the Commission has the powers of a commissioner under the Inquiries Act.
+
+
+
+
+
+
+
+
+
+(2) Pour l’accomplissement de sa mission ou les fins de l’enquête visée à l’article 11, la Commission a les pouvoirs d’un commissaire nommé en vertu de la Loi sur les enquêtes.
+
+
+
+Pouvoirs
+
+
+
+
+
+
+
+
+
+
+Price factors
+
+
+
+
+9. In setting the prices of energy, the Commission shall take into account
+
+
+
+
+
+
+
+
+
+
+(a) the interest of the public in having energy available at a reasonable and consistent price for personal, commercial and industrial use; and
+
+
+
+
+
+
+
+
+
+
+(b) the reasonable costs of the manufacturer, distributor, wholesaler and retailer of the energy that have been incurred in Canada in respect of the energy.
+
+
+
+
+
+
+
+
+
+
+9. Pour déterminer les prix de l’énergie, la Commission tient compte des facteurs sui-vants :
+
+
+
+Facteurs de détermination des prix
+
+
+
+
+
+a) l’intérêt du public à ce que le prix de l’énergie destinée à des usages personnels, commerciaux et industriels soit raisonnable et uniforme;
+
+
+
+
+
+
+
+
+
+
+
+b) le caractère raisonnable des coûts de l'énergie supportés au Canada par les fabricants, les distributeurs et les détaillants de l’énergie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sale only at regulated price
+
+
+
+
+10. (1) No person shall sell energy or offer it for sale at a wholesale or retail price that exceeds a level set by the Commission.
+
+
+
+
+
+
+
+
+
+
+10. (1) Nul ne peut vendre ou offrir en vente de l’énergie à des prix de gros ou de détail qui dépassent le niveau fixé par la Commission.
+
+
+
+Réglementation des prix de vente
+
+
+
+
+
+
+
+
+
+
+Existing supply contracts
+
+
+
+(2) In the case of a supply contract that is in effect on the day on which this Act comes into force, subsection (1) does not apply until one year after that day.
+
+
+
+
+
+
+
+
+
+(2) Les contrats d’approvisionnement en cours à la date d’entrée en vigueur de la présente loi sont exemptés de l’application du paragraphe (1) pendant un an à compter de cette date.
+
+
+
+Contrats d’approvision-nement
+
+
+
+
+
+
+
+
+
+
+Competition Tribunal
+
+
+
+
+11. If the Tribunal refers to the Commission a question respecting competition in the wholesale or retail marketing of energy, the Commission shall investigate the matter and submit a report to the Tribunal.
+
+
+
+
+
+
+
+
+
+
+11. La Commission fait enquête et rapport au Tribunal sur les questions dont il la saisit en matière de concurrence dans la commercialisation en gros ou au détail de l’énergie.
+
+
+
+Tribunal de la concurrence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENT
+
+
+
+
+
+
+
+
+
+
+
+MODIFICATION CORRÉLATIVE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-34; R.S., c. 19 
+(2nd Supp.), 
+s. 19
+
+
+
+
+
+Competition Act
+
+
+
+
+
+
+
+
+
+
+
+Loi sur la concurrence
+
+
+
+
+L.R., ch. C-34; L.R., ch. 19 
+(2e suppl.), 
+art. 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. The Competition Act is amended by adding the following after section 103.3:
+
+
+
+
+
+
+
+
+
+
+12. La Loi sur la concurrence est modifiée par adjonction, après l’article 103.3, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Referral to Energy Price Commission
+
+
+
+
+
+103.4 If any matter that relates to the wholesale or retail pricing of energy comes before the Tribunal, the Tribunal shall refer the matter to the Energy Price Commission established by section 3 of the Energy Price Commission Act for investigation and report, and shall not make any determination or order on the matter until the Commission has submitted the report to the Tribunal.
+
+
+
+
+
+
+
+
+
+
+
+
+103.4 Le Tribunal saisit la Commission des prix de l’énergie constituée en vertu de l’article 3 de la Loi sur la Commission des prix de l’énergie de toute question relative au prix de vente en gros ou au détail de l’énergie qui lui est soumise, pour enquête et rapport. Il ne peut rendre aucune décision ou ordonnance relativement à cette question avant que la Commission ne lui ait remis son rapport.
+
+
+
+
+Renvoi à la Commission des prix de l’énergie
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

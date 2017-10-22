@@ -1,0 +1,969 @@
+
+
+
+
+
+
+C-593
+
+
+
+
+
+C-593
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-593
+
+
+
+
+
+PROJET DE LOI C-593
+
+
+
+
+
+
+An Act to amend the Department of Veterans Affairs Act, the National Defence Act, the Royal Canadian Mounted Police Act and the Access to Information Act (personal information and medical records)
+
+
+
+
+
+Loi modifiant la Loi sur le ministère des Anciens Combattants, la Loi sur la défense nationale, la Loi sur la Gendarmerie royale du Canada et la Loi sur l’accès à l’information (renseignements personnels et dossier médical)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, April 9, 2014
+
+
+
+
+
+première lecture le 9 avril 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Hawn
+
+
+412154
+
+
+
+
+M. Hawn
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment guarantees that members of the Canadian Forces and members of the Royal Canadian Mounted Police will receive a certified copy of their medical records at the time of their release or when they leave the Force, or at any time thereafter upon request. It also provides that the Minister of Veterans Affairs may release the personal information relating to a veteran to the appropriate authorities if the disclosure is in the public interest or would clearly benefit the individual to whom the information relates.
+
+
+
+SOMMAIRE
+Le texte garantit que les membres des Forces canadiennes et de la Gendarmerie royale du Canada recevront une copie certifiée de leur dossier médical à leur libération ou à leur départ de la Gendarmerie, ou en tout temps à leur demande par la suite. Il prévoit également que le ministre des Anciens Combattants peut communiquer les renseignements personnels d’un ancien combattant aux autorités compétentes si l’intérêt public le justifie ou si la personne concernée en tirerait un avantage certain. 
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-593
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-593
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Department of Veterans Affairs Act, the National Defence Act, the Royal Canadian Mounted Police Act and the Access to Information Act (personal information and medical records)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le ministère des Anciens Combattants, la Loi sur la défense nationale, la Loi sur la Gendarmerie royale du Canada et la Loi sur l’accès à l’information (renseignements personnels et dossier médical)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Canadian Forces and Royal Canadian Mounted Police Former Members Personal Information Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur les renseignements personnels des anciens membres des Forces canadiennes et de la Gendarmerie royale du Canada.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. V-1; 2000, c. 34, par. 95(a)(F)
+
+
+
+DEPARTMENT OF VETERANS AFFAIRS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE MINISTÈRE DES ANCIENS COMBATTANTS 
+
+
+
+L.R., ch. V-1; 2000, ch. 34, al. 95a)(F)
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Department of Veterans Affairs Act is amended by adding the following after section 6.6:
+
+
+
+
+
+
+
+
+
+
+2. La Loi sur le ministère des Anciens Combattants est modifiée par adjonction, après l’article 6.6, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Personal information
+
+
+
+
+
+6.61 (1) Personal information relating to a person referred to in subparagraph 4(a)(i) may be made available to appropriate authorities if the Minister is of the opinion that the public interest in disclosure clearly outweighs any invasion of privacy that could result from the disclosure or that disclosure would clearly benefit the individual to whom the information relates.
+
+
+
+
+
+
+
+
+
+
+
+
+6.61 (1) Les renseignements personnels concernant une personne visée au sous-alinéa 4a)(i) peuvent être communiqués aux autorités compétentes si, de l’avis du ministre, des raisons d’intérêt public justifieraient nettement une éventuelle violation de la vie privée ou la personne concernée en tirerait un avantage certain.  
+
+
+
+
+Renseignements personnels
+
+
+
+
+
+
+
+
+
+
+Notice to Privacy Commissioner
+
+
+
+
+(2) The Minister shall notify the Privacy Commissioner appointed under section 53 of the Privacy Act in writing of any disclosure of information under subsection (1) prior to the disclosure where reasonably practicable or in any other case without delay after the disclosure. The Privacy Commissioner may, if he or she deems it appropriate, notify the individual to whom the information relates of the disclosure.
+
+
+
+
+
+
+
+
+
+
+
+(2) Dans le cas prévu au paragraphe (1), le ministre donne un préavis écrit de la communication des renseignements personnels au Commissaire à la protection de la vie privée, nommé en vertu de l’article 53 de la Loi sur la protection des renseignements personnels, si les circonstances le justifient; sinon, il en avise par écrit le Commissaire immédiatement après la communication. La décision de mettre au courant la personne concernée est laissée à l’appréciation du Commissaire.
+
+
+
+
+Avis au Commissaire à la protection de la vie privée
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. N-5
+
+
+
+NATIONAL DEFENCE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA DÉFENSE NATIONALE
+
+
+
+L.R., ch. N-5
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The National Defence Act is amended by adding the following after section 30:
+
+
+
+
+
+
+
+
+
+
+3. La Loi sur la défense nationale est modifiée par adjonction, après l'article 30, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Medical records
+
+
+
+
+
+30.1 (1) At the time of his or her release, an officer or a non-commissioned member must be given a certified copy of his or her medical records and a copy of the medical records must be sent to the Department of Veterans Affairs.
+
+
+
+
+
+
+
+
+
+
+
+
+30.1 (1) À sa libération, l’officier ou le militaire du rang reçoit une copie certifiée de son dossier médical et une copie de celui-ci est envoyée au ministère des Anciens Combattants.
+
+
+
+
+Dossier médical
+
+
+
+
+
+
+
+
+
+
+Former officer or non-commissioned member
+
+
+
+
+(2) At any time upon request, a former officer or non-commissioned member must be given a certified copy of his or her medical records. 
+
+
+
+
+
+
+
+
+
+
+
+(2) L’ancien officier ou militaire du rang reçoit, à sa demande, une copie certifiée de son dossier médical.
+
+
+
+
+Ancien officier ou militaire du rang
+
+
+
+
+
+
+
+
+
+
+Transfer of medical records
+
+
+
+
+(3) Upon request from an officer or a non-commissioned member, his or her medical records shall be transferred to the Department of Veterans Affairs three months before his or her release.
+
+
+
+
+
+
+
+
+
+
+
+(3) Le dossier médical de l’officier ou du militaire du rang est transféré, à la demande de celui-ci, au ministère des Anciens Combattants trois mois avant sa libération.
+
+
+
+
+Transfert du dossier médical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. R-10
+
+
+
+ROYAL CANADIAN MOUNTED POLICE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA GENDARMERIE ROYALE DU CANADA
+
+
+
+L.R., ch. R-10
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Royal Canadian Mounted Police Act is amended by adding the following after subsection 21(2):
+
+
+
+
+
+
+
+
+
+
+4. L’article 21 de la Loi sur la Gendarmerie royale du Canada est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception — medical records
+
+
+
+
+(3) Despite any regulations made pursuant to subsection (1) and any rules made pursuant to subsection (2), at the time he or she leaves the Force, a member must be given a certified copy of his or her medical records.
+
+
+
+
+
+
+
+
+
+
+
+(3) Malgré tout règlement pris en vertu du paragraphe (1) et toute règle établie en vertu du paragraphe (2), le membre reçoit une copie certifiée de son dossier médical à son départ de la Gendarmerie. 
+
+
+
+
+Exception — dossier médical
+
+
+
+
+
+
+
+
+
+
+Exception — medical records
+
+
+
+
+(4) Despite any regulations made pursuant to subsection (1) and any rules made pursuant to subsection (2), at any time upon request, a former member must be given a certified copy of his or her medical records.
+
+
+
+
+
+
+
+
+
+
+
+(4) Malgré tout règlement pris en vertu du paragraphe (1) et toute règle établie en vertu du paragraphe (2), l’ancien membre reçoit, à sa demande, une copie certifiée de son dossier médical.
+
+
+
+
+Exception — dossier médical
+
+
+
+
+
+
+
+
+
+
+Transfer of medical records
+
+
+
+
+(5) Upon request from a member, his or her medical records shall be transferred to the Department of Veterans Affairs three months before he or she leaves the Force.
+
+
+
+
+
+
+
+
+
+
+
+(5) Le dossier médical du membre est transféré, à la demande de celui-ci, au ministère des Anciens Combattants trois mois avant son départ de la Gendarmerie.
+
+
+
+
+Transfert du dossier médical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. A-1
+
+
+
+ACCESS TO INFORMATION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’ACCÈS À L’INFORMATION
+
+
+
+L.R., ch. A-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Access to Information Act is amended by adding the following after subsection 4(1):
+
+
+
+
+
+
+
+
+
+
+5. L’article 4 de la Loi sur l’accès à l’information est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Medical records
+
+
+
+
+(1.1) At any time upon request, a former member of the Canadian Forces or the Royal Canadian Mounted Police shall be given a certified copy of his or her medical records by any government institution listed in Schedule I.
+
+
+
+
+
+
+
+
+
+
+
+(1.1) L’ancien membre des Forces canadiennes et l’ancien membre de la Gendarmerie royale du Canada reçoit, à sa demande, une copie certifiée de son dossier médical de toute institution fédérale figurant à l’annexe I. 
+
+
+
+
+Dossier médical
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

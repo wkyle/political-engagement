@@ -1,0 +1,998 @@
+
+
+
+
+
+
+C-579
+
+
+
+
+
+C-579
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-579
+
+
+
+
+
+PROJET DE LOI C-579
+
+
+
+
+
+
+An Act to reduce the effects of urban heat islands on the health of Canadians
+
+
+
+
+
+Loi visant à diminuer les effets des îlots de chaleur urbains sur la santé des Canadiens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, March 24, 2014
+
+
+
+
+
+première lecture le 24 mars 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ms. Ayala
+
+
+412143
+
+
+
+
+Mme Ayala
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment provides that the Minister of Health must
+(a) in consultation with the Minister of the Environment, the provincial ministers responsible for health and with representatives of municipalities, establish a national strategy to reduce the effects of urban heat islands; and
+(b) table a report in the House of Commons on the implementation of this Act that sets out the results of the efforts to reduce the effects of urban heat islands.
+
+
+
+SOMMAIRE
+Le texte prévoit que le ministre de la Santé :
+
+a) en consultation avec le ministre de l'Environnement, les ministres provinciaux responsables de la santé et avec des représentants des municipalités, établit une stratégie nationale de diminution des effets des îlots de chaleur urbains;
+
+b) dépose un rapport à la Chambre des communes sur la mise en oeuvre de la présente loi, lequel présente les résultats des activités visant la diminution des effets des îlots de chaleur urbains.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-579
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-579
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to reduce the effects of urban heat islands on the health of Canadians
+
+
+
+
+
+
+Whereas about 80% of Canadians live in urban environments, where the atmosphere is greatly affected by the buildings and by changes introduced by humans;
+
+
+
+
+
+
+Whereas, in urban environments, the infrastructure tends to absorb large amounts of solar radiation and release it in the form of heat, thus creating heat islands;
+
+
+
+
+
+
+Whereas heat islands raise daytime temperatures, interfere with nighttime cooling and can amplify the effects of heat waves and impair the health of Canadians;
+
+
+
+
+
+
+Whereas smog generally forms above urban areas and heat islands, adds to water pollution and air pollution, and leads to an increase in the morbidity and mortality rates of the exposed population;
+
+
+
+
+
+
+Whereas, according to studies conducted by the American Lawrence Berkeley National Laboratory, every one-degree-Celsius increase in warm weather temperature increases the pollution caused by smog by some 5%;
+
+
+
+
+
+
+Whereas the people most  vulnerable to the effects of smog are often children or the financially disadvantaged, socially isolated, ill or elderly;
+
+
+
+
+
+
+Whereas smog is one of the main causes of the increase in the number of cases of asthma, throat irritation and even premature death, and it scars lung tissue;
+
+
+
+
+
+
+Whereas natural surfaces, such as vegetation, absorb a relatively significant portion of solar energy during the process of evapotranspiration and thus help cool the air;
+
+
+
+
+
+
+And whereas it is important to coordinate the efforts to combat heat islands and smog in order to protect the health of Canadians;
+
+
+
+
+
+
+
+
+
+Loi visant à diminuer les effets des îlots de chaleur urbains sur la santé des Canadiens
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+qu’environ 80 % des Canadiens résident en milieu urbain, où les bâtiments et les modifications apportées par l’être humain ont une influence considérable sur l’atmosphère; 
+
+
+
+
+
+
+que, dans les milieux urbains, les infrastructures ont tendance à absorber le rayonnement solaire en grande quantité et à le diffuser sous forme de chaleur, créant ainsi des îlots de chaleur;
+
+
+
+
+
+
+que les îlots de chaleur font augmenter les températures diurnes, nuisent au refroidissement nocturne et peuvent amplifier les effets des vagues de chaleur et nuire à la santé des Canadiens;
+
+
+
+
+
+
+que le smog se forme généralement au-dessus des milieux urbains et des îlots de chaleur, qu’il aggrave la pollution de l’eau et de l’air et qu’il provoque une augmentation des taux de morbidité et de mortalité de la population exposée;
+
+
+
+
+
+
+que, selon des études menées par le Lawrence Berkeley National Laboratory des États-Unis, par temps chaud, chaque degré Celsius de réchauffement fait augmenter d’environ 5 % la pollution causée par le smog;
+
+
+
+
+
+
+que les personnes les plus vulnérables aux effets du smog sont souvent des enfants ou des personnes démunies financièrement, isolées socialement, malades ou âgées;
+
+
+
+
+
+
+que le smog est l’une des principales causes de l’augmentation du nombre de cas d’asthme, d’irritation de la gorge ou même de mort prématurée et qu’il laisse des cicatrices sur le tissu pulmonaire;
+
+
+
+
+
+
+que les surfaces naturelles, par exemple la végétation, absorbent une part relativement importante de l'énergie solaire dans le  processus d'évapotranspiration et contribuent ainsi au refroidissement de l'air;
+
+
+
+
+
+
+qu’il est important de coordonner les mesures visant à  combattre les îlots de chaleur et le smog afin de protéger la santé des Canadiens,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the House of Commons and Senate of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Reducing the effects of urban heat islands Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la diminution des effets des îlots de chaleur urbains.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITION
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+
+
+
+
+2. The following definition applies in this Act.
+
+
+
+
+“urban heat island”« îlot de chaleur urbain »
+
+
+
+“urban heat island” means a built-up area in an urban environment in which the average air temperature is markedly greater — as much as 12 degrees Celsius hotter — than that in nearby rural areas.
+
+
+
+
+
+
+
+
+
+
+2. La définition qui suit s’applique à la présente loi.
+
+
+
+Définition
+
+
+
+
+« îlot de chaleur urbain » Zone bâtie d’un milieu urbain dans laquelle la température moyenne de l’air est considérablement plus élevée — jusqu’à 12 degrés Celsius — que dans les zones rurales environnantes.
+
+
+
+« îlot de chaleur urbain »“urban heat island”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NATIONAL STRATEGY TO REDUCE THE EFFECTS OF URBAN HEAT ISLANDS
+
+
+
+
+
+
+
+
+
+STRATÉGIE NATIONALE DE DIMINUTION DES EFFETS DES ÎLOTS DE CHALEUR URBAINS
+
+
+
+
+
+
+
+
+
+
+
+
+National Strategy
+
+
+
+
+3. The Minister of Health, in consultation with the Minister of the Environment, the provincial ministers responsible for health and with representatives of municipalities, must develop a National Strategy to Reduce the Effects of Urban Heat Islands that includes
+
+
+
+
+
+
+
+
+
+
+(a) the inventorying of urban heat islands and their ranking in order of priority determined by the risk they pose to residents’ health;
+
+
+
+
+
+
+
+
+
+
+(b) the content of plans to reduce the effects of heat islands, which must, among other things, deal with
+
+
+
+
+
+
+
+
+
+
+(i) the management of urban biodiversity,
+
+
+
+
+
+
+
+
+
+
+(ii) the promotion of community green projects,
+
+
+
+
+
+
+
+
+
+
+(iii) the protection of natural areas,
+
+
+
+
+
+
+
+
+
+
+(iv) the establishment of greening areas to be developed; and
+
+
+
+
+
+
+
+
+
+
+(v) the promotion of public transit and sustainable transportation;
+
+
+
+
+
+
+
+
+
+
+(c) the establishment of campaigns to raise public awareness about the air quality level deemed acceptable in urban heat islands; and
+
+
+
+
+
+
+
+
+
+
+(d) the establishment of a public register that will contain all the information on heat islands, including their location and the measures put in place to reduce their effect on public health.
+
+
+
+
+
+
+
+
+
+
+3. Le ministre de la Santé, en consultation avec le ministre de l'Environnement, les ministres provinciaux responsables de la santé et avec des représentants des municipalités, établit une stratégie nationale visant à diminuer les effets des îlots de chaleur urbains qui prévoit notamment :
+
+
+
+Stratégie nationale
+
+
+
+
+
+a) le recensement des îlots de chaleur urbains et leur classement en ordre de priorité selon les risques qu’ils comportent  pour la santé des résidents;
+
+
+
+
+
+
+
+
+
+
+
+b) le contenu des plans de réduction des effets des îlots de chaleur urbains, lesquels doivent notamment porter sur ce qui suit :
+
+
+
+
+
+
+
+
+
+
+(i) la gestion de la biodiversité en milieu urbain,
+
+
+
+
+
+
+
+
+
+
+(ii) la promotion de projets écologiques communautaires,
+
+
+
+
+
+
+
+
+
+
+(iii) la protection des espaces naturels,
+
+
+
+
+
+
+
+
+
+
+(iv) l’établissement de zones de verdissement à aménager;
+
+
+
+
+
+
+
+
+
+
+(v) la promotion du transport en commun et du transport durable;
+
+
+
+
+
+
+
+
+
+
+
+c) l’établissement de campagnes de sensibilisation de la population quant au niveau de qualité de l’air jugé acceptable dans les îlots de chaleur urbains;
+
+
+
+
+
+
+
+
+
+
+
+d) l’établissement d’un registre public dans lequel seront consignés tous les renseignements portant sur les îlots de chaleur urbains, entre autres leur emplacement et les mesures mises en oeuvre pour diminuer leurs effets  sur la santé publique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+National conference
+
+
+
+
+4. Within 90 days after this Act comes into force, the Minister of Health must convene a national conference of the people referred to in section 3 in order to establish a working plan to achieve the objectives set out in that section.
+
+
+
+
+
+
+
+
+
+
+4. Dans les quatre-vingt-dix jours suivant l’entrée en vigueur de la présente loi, le ministre de la Santé convoque les personnes visées à l’article 3 à une conférence nationale en vue d’établir un plan de travail pour la réalisation des objectifs énoncés à cet article.
+
+
+
+Conférence nationale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT TO HOUSE OF COMMONS
+
+
+
+
+
+
+
+
+
+RAPPORT À LA CHAMBRE DES COMMUNES
+
+
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+
+5. Within one year after this Act comes into force, and every year after that, the Minister of Health must cause to be laid before the House of Commons a report on the implementation of this Act that sets out the results of the efforts to reduce the effects of urban heat islands.
+
+
+
+
+
+
+
+
+
+
+5. Dans l’année suivant l’entrée en vigueur de la présente loi et chaque année par la suite, le ministre de la Santé fait déposer à la Chambre des communes un rapport sur la mise en oeuvre de la présente loi, lequel expose les résultats des activités visant la diminution des effets des îlots de chaleur urbains.
+
+
+
+Rapport
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

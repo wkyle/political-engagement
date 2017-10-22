@@ -1,0 +1,1737 @@
+
+
+
+
+
+
+C-486
+
+
+
+
+
+C-486
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-486
+
+
+
+
+
+PROJET DE LOI C-486
+
+
+
+
+
+
+An Act respecting corporate practices relating to the extraction, processing, purchase, trade and use of conflict minerals from the Great Lakes Region of Africa
+
+
+
+
+
+Loi concernant les pratiques des entreprises relativement à l'extraction, à la transformation, à l'achat, au commerce et à l'utilisation des minéraux des conflits provenant de la région des Grands Lacs africains
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, March 26, 2013
+
+
+
+
+
+première lecture le 26 mars 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Dewar
+
+
+411687
+
+
+
+
+M. Dewar
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment requires Canadian companies to exercise due diligence in respect of the exploitation and trading of designated minerals originating in the Great Lakes Region of Africa in seeking to ensure that no armed rebel organization or criminal entity or public or private security force that is engaged in illegal activities or serious human rights abuses has benefited from any transaction involving such minerals.
+
+
+
+SOMMAIRE
+Le texte exige des entreprises canadiennes qu’elles exercent une diligence raisonnable à l’égard de l’exploitation et du commerce des minéraux désignés provenant de la région des Grands Lacs africains en veillant à ce qu’aucune organisation rebelle armée, entité criminelle ou force de sécurité publique ou privée se livrant à des activités illégales ou à de graves violations des droits de la personne ne tire profit de transactions liées à de tels minéraux.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-486
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-486
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting corporate practices relating to the extraction, processing, purchase, trade and use of conflict minerals from the Great Lakes Region of Africa
+
+
+
+
+
+
+
+
+
+Loi concernant les pratiques des entreprises relativement à l'extraction, à la transformation, à l'achat, au commerce et à l'utilisation des minéraux des conflits provenant de la région des Grands Lacs africains
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas Canada recognizes that the illegal exploitation and trading of gold, cassiterite, wolframite and coltan and their derivatives, such as tin, tungsten and tantalum, can be directly linked to the fuelling of armed conflict and to the funding of armed groups engaged in illegal activities or serious human rights abuses in the Great Lakes Region of Africa;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada recognizes that these conflicts have devastating impacts on the peace, safety and security of people in the countries of the Great Lakes Region of Africa;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada strongly supports international efforts to fight the illegal exploitation and trading of natural resources, encourages transparency in relation to activities involving conflict minerals and is committed to preventing the extraction and trading of minerals from protracting or becoming a direct or indirect source of conflict, human rights abuses and insecurity;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada believes that the responsible management of natural resources should enable countries to derive and sustain social and economic benefits from their natural resources;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada officially supports the Extractive Industries Transparency Initiative, an international coalition of governments, companies, civil society groups, investors and international organizations that advocates for revenue transparency at the local level for mining, oil and gas industries;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada is a signatory to the Organisation for Economic Co-operation and Development (OECD) Declaration on International Investment and Multinational Enterprises —which is implemented nationally by Canada’s National Contact Point for the OECD Guidelines for Multinational Enterprises — and, by extension, supports the OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas, which provides management recommendations for responsible global supply chains of minerals to help companies to respect human rights and avoid contributing to conflict through their mineral or metal purchasing decisions and practices;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada has shown international leadership in promoting responsible supply chain management through its roles in developing the OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas and the Kimberley Process regulating the international trade in diamonds;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada has been instrumental in the establishment of the  International Conference on the Great Lakes Region and supports its Regional Initiative on Natural Resources which aims to break the links between armed conflict and  the illegal exploitation of natural resources;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada has adopted Building the Canadian Advantage: a Corporate Social Responsibility (CSR) Strategy for the Canadian International Extractive Sector through which it commits to the promotion and support of corporate social responsibility for the Canadian extractive sector operating abroad, and encourages socially responsible corporate practices in all sectors and industries;
+
+
+
+
+
+
+
+
+
+
+Whereas the responsible management of natural resources may contribute to international development as defined by CIDA's Sustainable Economic Growth Strategy by contributing to a stable investment environment and by maximizing the availability of public resources to be reinvested in the welfare of local communities;
+
+
+
+
+
+
+
+
+
+
+Whereas promoting responsible management of natural resources can improve the competitive advantage of Canadian companies using minerals from the Great Lakes Region of Africa by further enhancing the reputation of Canadian industries, reducing supply chain risk and increasing transparency and accountability in the corporate operating environment;
+
+
+
+
+
+
+
+
+
+
+And whereas Canada is committed to encouraging the responsible exploitation of natural resources and strongly supports continued responsible investment in the mining economies of the Great Lakes Region and the responsible sourcing of the region’s minerals as a critical potential contributor to stability and development;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que le Canada reconnaît que l’exploitation et le commerce illégaux de l'or, de la cassitérite, de la wolframite, du coltan ainsi que de leurs dérivés, notamment l’étain, le tungstène et le tantale, peuvent avoir un lien direct avec l’alimentation des conflits armés et le financement de groupes armés se livrant à des activités illégales ou à de graves violations des droits de la personne dans la région des Grands Lacs africains;
+
+
+
+
+
+
+
+
+
+
+que le Canada est conscient des effets dévastateurs de ces conflits sur la paix et la sécurité des populations des pays de la région des Grands Lacs africains;
+
+
+
+
+
+
+
+
+
+
+que le Canada, qui appuie fermement les efforts internationaux de lutte contre l’exploitation illégale et le commerce illicite des ressources naturelles et encourage la transparence concernant les activités liées aux minéraux des conflits, est résolu à empêcher que l’extraction et le commerce des minéraux deviennent ou continuent d’être une source directe ou indirecte de conflits, de violations des droits de la personne et d’insécurité;
+
+
+
+
+
+
+
+
+
+
+que le Canada estime qu’une gestion responsable des ressources naturelles devrait permettre aux pays de tirer et de maintenir des avantages aussi bien sociaux qu’économiques de leurs ressources naturelles;
+
+
+
+
+
+
+
+
+
+
+que le Canada soutient officiellement l’Initiative pour la transparence dans les industries extractives, une coalition internationale formée de gouvernements, d’entreprises, de groupes de la société civile, d’investisseurs et d’organisations internationales qui fait la promotion de la transparence des revenus pour les industries minières, gazières et pétrolières au niveau local;
+
+
+
+
+
+
+
+
+
+
+que le Canada est signataire de la Déclaration sur l'investissement international et les entreprises multinationales de l’Organisation de coopération et de développement économiques (OCDE) — dont la mise en oeuvre, à l’échelle nationale, est assurée par le Point de contact national du Canada pour les Principes directeurs de l'OCDE à l'intention des entreprises multinationales — et que, par extension, il appuie le Guide OCDE sur le devoir de diligence pour des chaînes d’approvisionnement responsables en minerais provenant de zones de conflit ou à haut risque (Guide OCDE), lequel fournit des recommandations en matière d’approvisionnement mondial responsable en minéraux pour aider les entreprises minières à respecter les droits de la personne et à éviter que leurs pratiques et décisions d’achat concernant les minéraux et les métaux ne contribuent à un conflit;
+
+
+
+
+
+
+
+
+
+
+que le Canada a fait preuve de leadership sur la scène internationale en promouvant une gestion responsable de la chaîne d’approvisionnement grâce à sa contribution à l’élaboration du Guide OCDE et du Processus de Kimberley réglementant le commerce international des diamants;
+
+
+
+
+
+
+
+
+
+
+que le Canada, qui a joué un rôle de premier plan dans la mise sur pied de la Conférence internationale sur la région des Grands Lacs, appuie l’Initiative régionale sur les ressources naturelles qui y est rattachée et qui vise à briser les liens entre les conflits armés et l’exploitation illégale des ressources naturelles;
+
+
+
+
+
+
+
+
+
+
+que le Canada, par l’adoption de la stratégie intitulée Renforcer l’avantage canadien : Stratégie de responsabilité sociale des entreprises (RSE) pour les sociétés extractives canadiennes présentes à l’étranger, s’est engagé à promouvoir et à appuyer la responsabilité sociale des entreprises canadiennes du secteur extractif en activité à l’étranger et encourage les pratiques d’entreprise responsables dans tous les secteurs et industries;
+
+
+
+
+
+
+
+
+
+
+qu’une gestion responsable des ressources naturelles est susceptible de concourir au développement international, tel qu'il est défini dans la Stratégie de l'ACDI sur la croissance économique durable, en contribuant à créer un environnement d’investissement stable et en optimisant la disponibilité des ressources publiques à réinvestir dans le bien-être des collectivités locales;
+
+
+
+
+
+
+
+
+
+
+que la promotion d’une gestion responsable des ressources naturelles peut accroître l’avantage concurrentiel des entreprises canadiennes qui recourent aux minéraux de la région des Grands Lacs africains en améliorant la réputation des industries canadiennes, en réduisant les risques concernant la chaîne d’approvisionnement et en accroissant la transparence et la responsabilité dans le contexte opérationnel des entreprises;
+
+
+
+
+
+
+
+
+
+
+que le Canada, résolu à encourager l’exploitation responsable des ressources naturelles, appuie fortement les investissements responsables continus dans les économies minières de la région des Grands Lacs de même que l’approvisionnement responsable en minéraux de la région en tant que facteur pouvant contribuer grandement à la stabilité et au développement,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follow:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Conflict Minerals Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur les minéraux des conflits.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+
+2. The following definitions apply in this Act.
+
+
+
+
+“company”« entreprise »
+
+
+
+“company” means any corporation or legal person incorporated by or under an Act of Parliament or the legislature of a province, or a subsidiary of such an entity.
+
+
+
+
+“Department”« ministère »
+
+
+
+“Department” means the Department of Foreign Affairs and International Trade.
+
+
+
+
+“designated mineral”« minéral désigné »
+
+
+
+“designated mineral” means a mineral originating in the Great Lakes Region of Africa that is
+
+
+
+
+
+
+
+
+
+
+(a) gold, cassiterite, wolframite, coltan or any of their derivatives, such as tin, tungsten and tantalum; or
+
+
+
+
+
+
+
+
+
+
+(b) any other mineral or derivative specified by order of the Minister.
+
+
+
+
+“Great Lakes Region of Africa”« région des Grands Lacs africains »
+
+
+
+“Great Lakes Region of Africa” means the region of Africa that consists of Angola, Burundi, the Central African Republic, the Democratic Republic of the Congo, Kenya, Rwanda, Sudan, Tanzania, Uganda and Zambia, and any additional country specified by the International Conference on the Great Lakes Region.
+
+
+
+
+“illegal activity”« activité illégale »
+
+
+
+“illegal activity” means
+
+
+
+
+
+
+
+
+
+
+(a) any illegal activity that is intended to undermine or overthrow a legitimate government by violent means; and
+
+
+
+
+
+
+
+
+
+
+(b) the illegal engagement in or profiting from the extraction, trade or transport of a designated mineral.
+
+
+
+
+“International Conference on the Great Lakes Region”« Conférence internationale sur la région des Grands Lacs »
+
+
+
+“International Conference on the Great Lakes Region” means the intergovernmental organization of countries in the Great Lakes Region of Africa, the members of which are Angola, Burundi, the Central African Republic, the Republic of Congo, the Democratic Republic of Congo, Kenya, Uganda, Rwanda, Sudan, Tanzania and Zambia.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Foreign Affairs.
+
+
+
+
+“non-state armed group”« groupe armé non étatique »
+
+
+
+“non-state armed group” means an armed rebel organization or other armed criminal entity.
+
+
+
+
+“OECD”« OCDE »
+
+
+
+“OECD” means the Organisation for Economic Co-operation and Development.
+
+
+
+
+“public security force”« force de sécurité publique »
+
+
+
+“public security force” means a lawful armed unit that is part of an army or a police force or other national force.
+
+
+
+
+“private security force”« force de sécurité privée »
+
+
+
+“private security force” means an armed individual or group of individuals employed or hired to provide private security services.
+
+
+
+
+“serious human rights abuse”« graves violations des droits de la personne »
+
+
+
+“serious human rights abuse” includes
+
+
+
+
+
+
+
+
+
+
+(a) any form of torture or other cruel, inhuman or degrading treatment;
+
+
+
+
+
+
+
+
+
+
+(b) any form of forced or compulsory labour;
+
+
+
+
+
+
+
+
+
+
+(c) child labour;
+
+
+
+
+
+
+
+
+
+
+(d) sexual violence and any other gross human rights violation; and
+
+
+
+
+
+
+
+
+
+
+(e) war crimes, crimes against humanity, genocide and other serious violations of international humanitarian law.
+
+
+
+
+“supply chain”« chaîne d’approvisionnement »
+
+
+
+“supply chain” means the system that includes all of the activities, organizations, actors, technology, information, resources and services involved in moving a designated mineral from the extraction site to its incorporation in the final product for end consumers.
+
+
+
+
+“supply chain policy”« politique relative à la chaîne d’approvisionnement »
+
+
+
+“supply chain policy” means the policy described in the document entitled Model Supply Chain Policy for a Responsible Global Supply Chain of Minerals from Conflict-Affected and High-Risk Areas, as set out in Annex II of the OECD document entitled Due Diligence Guid-ance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas, as amended from time to time.
+
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« activité illégale » S’entend :
+
+
+
+« activité illégale »“illegal activity”
+
+
+
+
+
+a) d’une part, de toute activité illégale visant à ébranler ou à renverser un gouvernement légitime par des moyens violents;
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, du fait de se livrer illégalement à l’extraction, au commerce ou au transport de minéraux désignés ou d’en tirer profit.
+
+
+
+
+
+
+
+
+
+
+« chaîne d’approvisionnement » L’ensemble des activités, organisations, acteurs, technologies, renseignements, ressources et services intervenant dans le parcours du minéral désigné depuis le site de son extraction jusqu’à son incorporation dans le produit final destiné aux consommateurs finaux.
+
+
+
+« chaîne d’approvisionnement »“supply chain”
+
+
+
+
+« Conférence internationale sur la région des Grands Lacs » L’organisation intergouvernementale formée de pays de la région des Grands Lacs africains dont les membres sont l’Angola, le Burundi, la République centrafricaine, le Congo, la République démocratique du Congo, le Kenya, l’Ouganda, le Rwanda, le Soudan, la Tanzanie et la Zambie.
+
+
+
+« Conférence internationale sur la région des Grands Lacs »“International Conference on the Great Lakes Region”
+
+
+
+
+« entreprise » Personne morale constituée sous le régime d’une loi fédérale ou provinciale, ou l’une de ses filiales.
+
+
+
+« entreprise »“company”
+
+
+
+
+« force de sécurité privée  » Individu ou groupe d’individus armés employés ou embauchés pour fournir des services de sécurité privés.
+
+
+
+« force de sécurité privée  »“private security force”
+
+
+
+
+« force de sécurité publique » Unité armée légale faisant partie d’une armée, d’une force policière ou d’une autre force nationale.
+
+
+
+« force de sécurité publique »“public security force”
+
+
+
+
+« graves violations des droits de la personne » Désigne notamment :
+
+
+
+« graves violations des droits de la personne »“serious human rights abuse”
+
+
+
+
+
+a) toute forme de torture ou autre traitement cruel, inhumain ou dégradant;
+
+
+
+
+
+
+
+
+
+
+
+b) toute forme de travail forcé ou obligatoire;
+
+
+
+
+
+
+
+
+
+
+
+c) le travail d’enfants;
+
+
+
+
+
+
+
+
+
+
+
+d) les violences sexuelles ou toute autre violation flagrante des droits de la personne;
+
+
+
+
+
+
+
+
+
+
+
+e) les crimes de guerre, les crimes contre l’humanité, le génocide ou d’autres violations graves du droit international humanitaire.
+
+
+
+
+
+
+
+
+
+
+« groupe armé non étatique » Organisation rebelle ou autre entité criminelle armée.
+
+
+
+« groupe armé non étatique »“non-state armed group”
+
+
+
+
+« minéral désigné » Minéral qui provient de la région des Grands Lacs africains et qui est, selon le cas :
+
+
+
+« minéral désigné »“designated mineral”
+
+
+
+
+
+a) de l’or, de la cassitérite, de la wolframite, du coltan ou l’un de leurs dérivés, notamment l’étain, le tungstène ou le tantale;
+
+
+
+
+
+
+
+
+
+
+
+b) tout autre minéral ou dérivé précisé par arrêté du ministre.
+
+
+
+
+
+
+
+
+
+
+« ministère » Le ministère des Affaires étrangères et du Commerce international.
+
+
+
+« ministère »“Department”
+
+
+
+
+« ministre  » Le ministre des Affaires étrangères.
+
+
+
+« ministre  »“Minister”
+
+
+
+
+« OCDE » L’Organisation de coopération et de développement économiques.
+
+
+
+« OCDE »“OECD”
+
+
+
+
+« politique relative à la chaîne d’approvisionnement » La politique décrite dans le document intitulé Modèle de politique pour une chaîne d’approvisionnement globale responsable en minerais provenant de zones de conflit ou à haut risque, qui figure à l’annexe II du document de l’OCDE intitulé Guide OCDE sur le devoir de diligence pour des chaînes d’approvisionnement responsables en minerais provenant de zones de conflit ou à haut risque, avec ses modifications successives.
+
+
+
+« politique relative à la chaîne d’approvisionnement »“supply chain policy”
+
+
+
+
+« région des Grands Lacs africains » La région d’Afrique constituée de l’Angola, du Burundi, de la République centrafricaine, de la République démocratique du Congo, du Kenya, du Rwanda, du Soudan, de la Tanzanie, de l’Ouganda, de la Zambie et de tout autre pays précisé par la Conférence internationale sur la région des Grands Lacs.
+
+
+
+« région des Grands Lacs africains »“Great Lakes Region of Africa”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DUE DILIGENCE
+
+
+
+
+
+
+
+
+
+DILIGENCE RAISONNABLE
+
+
+
+
+
+
+
+
+
+
+
+
+Requirement of due diligence
+
+
+
+
+3. (1) A company must exercise due diligence in respect of any extraction, processing, purchasing, trading in or use of designated minerals that it carries out in the course of its activities, or that it contracts to have carried out.
+
+
+
+
+
+
+
+
+
+
+3. (1) Toute entreprise est tenue d’exercer une diligence raisonnable à l’égard de l’extraction, du traitement, de l’achat, du commerce ou de l’utilisation des minéraux désignés qu’elle effectue dans le cadre de ses activités ou fait effectuer en sous-traitance.
+
+
+
+Obligation de diligence raisonnable
+
+
+
+
+
+
+
+
+
+
+For greater certainty
+
+
+
+(2) For greater certainty, the requirement to exercise due diligence applies as soon as a company commences any of the activities referred to in subsection (1) and continues until those activities have been completed.
+
+
+
+
+
+
+
+
+
+(2) Il est entendu que l’obligation d’exercer une diligence raisonnable s’applique dès que l’entreprise entreprend l’une ou l’autre des activités visées au paragraphe (1) et se poursuit jusqu’à ce qu’elles soient terminées.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Exercise of due diligence
+
+
+
+(3) For the purposes of this Act, the exercise of due diligence means conforming to the supply chain policy and includes, but is not limited to,
+
+
+
+
+
+
+
+
+
+
+(a) the establishment of strong company management systems by, for example, adopting and committing to the supply chain policy for designated minerals and strengthening the company engagement with suppliers;
+
+
+
+
+
+
+
+
+
+
+(b) the identification of any risk that the supplier is sourcing from, or is directly or indirectly linked to, any non-state armed group or any public or private security force that is engaged in illegal activity or serious human rights abuse, and an assessment of the level of the risk;
+
+
+
+
+
+
+
+
+
+
+(c) the design and implementation of strategies to respond to any identified risk by, for example, immediately suspending or discontinuing engagement with a supplier; and
+
+
+
+
+
+
+
+
+
+
+(d) carrying out an independent third-party audit of the company’s due diligence practices.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application de la présente loi, l’exercice d’une diligence raisonnable s’entend du fait, pour l’entreprise, de se conformer à la politique relative à la chaîne d’approvisionnement, notamment :
+
+
+
+Exercice d’une diligence raisonnable
+
+
+
+
+
+a) en mettant en place de solides systèmes de gestion, par exemple en adoptant la politique relative à la chaîne d’approvisionnement en minéraux désignés et en s’engageant à la respecter, de même qu’en renforçant sa coopération avec les fournisseurs;
+
+
+
+
+
+
+
+
+
+
+
+b) en déterminant s’il y a des risques qu’un fournisseur soit directement ou indirectement lié à un groupe armé non étatique ou à une force de sécurité publique ou privée se livrant à des activités illégales ou à de graves violations des droits de la personne ou qu’il s’approvisionne auprès de ceux-ci, et, le cas échéant, en évaluant le niveau de risque;
+
+
+
+
+
+
+
+
+
+
+
+c) en élaborant et en mettant en oeuvre des stratégies pour répondre aux risques déterminés, par exemple en suspendant ou en interrompant immédiatement ses relations avec le fournisseur;
+
+
+
+
+
+
+
+
+
+
+
+d) en faisant vérifier par une tierce partie indépendante ses pratiques en matière de diligence raisonnable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANNUAL REPORT
+
+
+
+
+
+
+
+
+
+RAPPORT ANNUEL
+
+
+
+
+
+
+
+
+
+
+
+
+Report to Minister
+
+
+
+
+4. If a company has, during a fiscal year that commences after the date on which this Act comes into force, processed, purchased, traded in, used or extracted a designated mineral, or contracted to do so, the company must, within 60 days after the end of that fiscal year, submit to the Minister and publish on its website
+
+
+
+
+
+
+
+
+
+
+(a) a report that specifies the measures taken by the company to exercise due diligence in respect of the source and supply chain of designated minerals; 
+
+
+
+
+
+
+
+
+
+
+(b) an independent third party audit of the report that has been conducted in accordance with the supply chain policy and the particulars of the entity that conducted the audit;
+
+
+
+
+
+
+
+
+
+
+(c) a description of any use by the company of the designated mineral and of any products containing the designated mineral that were manufactured, or contracted to be manufactured, by the company;
+
+
+
+
+
+
+
+
+
+
+(d) a description of any commercial and financial transactions that have occurred in relation to the designated mineral to which the company was a party;
+
+
+
+
+
+
+
+
+
+
+(e) if applicable, a description of the facilities used by the company to process the designated mineral;
+
+
+
+
+
+
+
+
+
+
+(f) the country of origin of any such designated mineral; and
+
+
+
+
+
+
+
+
+
+
+(g) a detailed description of the efforts made to determine the mine or location of origin of the designated mineral and the results of those efforts.
+
+
+
+
+
+
+
+
+
+
+4. L’entreprise qui, au cours d’un exercice commençant après la date d’entrée en vigueur de la présente loi, a transformé, acheté, utilisé ou extrait un minéral désigné ou en a fait le commerce ou a fait effectuer l’une de ces activités en sous-traitance doit, dans les soixante jours suivant la fin de l’exercice visé, soumettre au ministre et publier sur son site Internet les éléments suivants :
+
+
+
+Rapport au ministre
+
+
+
+
+
+a) un rapport précisant les mesures qu’elle a prises pour exercer une diligence raisonnable relativement à la chaîne d’approvisionnement en minéraux désignés et à la source de ceux-ci;
+
+
+
+
+
+
+
+
+
+
+
+b) une vérification de ce rapport réalisée par une tierce partie indépendante conformément à la politique relative à la chaîne d’approvisionnement, ainsi que les renseignements concernant l’entité ayant réalisé la vérification;
+
+
+
+
+
+
+
+
+
+
+
+c) la description de toute utilisation qu’elle a faite du minéral désigné et de tout produit contenant celui-ci qu’elle a fabriqué ou fait fabriquer par contrat;
+
+
+
+
+
+
+
+
+
+
+
+d) la description de toute opération commerciale ou financière à laquelle elle a pris part relativement au minéral désigné;
+
+
+
+
+
+
+
+
+
+
+
+e) s’il y a lieu, la description des installations qu’elle a utilisées pour transformer le minéral désigné;
+
+
+
+
+
+
+
+
+
+
+
+f) le pays d’origine du minéral désigné; 
+
+
+
+
+
+
+
+
+
+
+
+g) la description détaillée des mesures prises pour déterminer la mine ou le lieu dont provient le minéral désigné, ainsi que les résultats de ces mesures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publication by Minister
+
+
+
+
+5. Upon receiving a report referred to in section 4, the Minister must
+
+
+
+
+
+
+
+
+
+
+(a) publish it on the departmental website and cause it to be laid before both Houses of Parliament; and
+
+
+
+
+
+
+
+
+
+
+(b) share the report with the government of every country from which the reporting company obtained designated minerals during the fiscal year to which the report relates.
+
+
+
+
+
+
+
+
+
+
+5. Sur réception du rapport visé à l’article 4, le ministre :
+
+
+
+Publication par le ministre
+
+
+
+
+
+a) le publie sur le site Internet du ministère et le fait déposer devant chaque chambre du Parlement;
+
+
+
+
+
+
+
+
+
+
+
+b) le communique au gouvernement de chaque pays où l’entreprise s’est procuré des minéraux désignés au cours de l’exercice auquel le rapport a trait. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

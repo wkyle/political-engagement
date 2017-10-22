@@ -1,0 +1,7910 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+57-58 Elizabeth II, 2009
+
+
+
+
+
+Deuxième session, quarantième législature,
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+STATUTES OF CANADA 2009CHAPTER 9
+
+
+
+
+
+LOIS DU CANADA (2009)CHAPITRE 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Transportation of Dangerous Goods Act, 1992
+
+
+
+
+
+Loi modifiant la Loi de 1992 sur le transport des marchandises dangereuses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+14th MAY, 2009
+BILL C-9
+
+
+
+
+
+SANCTIONNÉE
+LE 14 MAI 2009
+PROJET DE LOI C-9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the Transportation of Dangerous Goods Act, 1992”.
+SUMMARY
+This enactment amends the Transportation of Dangerous Goods Act, 1992, in order to enhance public safety — the safety of human life and health and of property and the environment.
+The main amendments fall into two categories: new security requirements and safety amendments. These amendments include the following:
+(a) requirements for security plans and security training;
+(b) a requirement that prescribed persons must hold transportation security clearances to transport dangerous goods, and the establishment of regulatory authority in relation to appeals and reviews of any decision in respect of those clearances;
+(c) the creation of a choice of instruments — regulations, security measures and interim orders — to govern security in relation to dangerous goods;
+(d) the use of industry emergency response assistance plans approved by Transport Canada to respond to an actual or apprehended release of dangerous goods during their transportation;
+(e) the establishment of regulatory authority to require that dangerous goods be tracked during transport or reported if lost or stolen;
+(f) clarification of the Act to ensure that it is applicable uniformly throughout Canada, including to local works and undertakings;
+(g) reinforcement and strengthening of the Emergency Response Assistance Plan Program; and
+(h) authority for inspectors to inspect any place in which standardized means of containment are being manufactured, repaired or tested.
+
+
+
+RECOMMANDATION
+Son Excellence la gouverneure générale recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi de 1992 sur le transport des marchandises dangereuses ».
+SOMMAIRE
+Le texte modifie la Loi de 1992 sur le transport des marchandises dangereuses dans le but d’accroître la sécurité publique en ce qui a trait à la vie et la santé humaines, aux biens et à l’environnement.
+Les modifications principales proposées à la Loi peuvent être divisées en deux catégories : les modifications touchant la sécurité et les nouvelles exigences en matière de sûreté. Les modifications proposées sont notamment :
+
+a) l’obligation de disposer de plans de sûreté et d’avoir une formation en sécurité;
+
+b) l’obligation, pour les personnes désignées par règlement, de détenir une habilitation de sécurité pour transporter des marchandises dangereuses et la création d’une autorité réglementaire en ce qui a trait aux modalités d’appel et de révision des décisions relatives aux habilitations;
+
+c) l’élaboration de différents textes — règlements, mesures de sûreté et arrêtés d’urgence — afin de régir la sûreté en matière de transport de marchandises dangereuses;
+
+d) le recours aux plans d’intervention d’urgence de l’industrie approuvés par Transports Canada pour réagir à un rejet réel ou appréhendé de marchandises dangereuses pendant leur transport;
+
+e) la création d’une autorité réglementaire qui veillera à ce qu’il y ait un suivi des marchandises dangereuses pendant leur transport et qu’il y ait signalement en cas de perte ou de vol;
+
+f) des précisions sur la portée de la Loi de façon qu’elle s’applique uniformément partout au Canada, notamment aux travaux et activités de nature locale;
+
+g) le renforcement du programme de plan d’intervention d’urgence;
+
+h) l’octroi aux inspecteurs du pouvoir d’inspecter tout endroit où ont lieu des activités de fabrication, de réparation ou de mise à l’essai de contenants normalisés.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+57-58 ELIZABETH II
+
+
+
+
+
+
+
+
+
+57-58 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 9
+
+
+
+
+
+
+
+
+
+CHAPITRE 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Transportation of Dangerous Goods Act, 1992
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de 1992 sur le transport des marchandises dangereuses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 14th May, 2009]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 14 mai 2009]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1992, c. 34
+
+
+
+TRANSPORTATION OF DANGEROUS GOODS ACT, 1992
+
+
+
+
+
+
+
+
+
+LOI DE 1992 SUR LE TRANSPORT DES MARCHANDISES DANGEREUSES
+
+
+
+1992, ch. 34
+
+
+
+
+
+
+
+
+
+
+1997, c. 9, s. 122
+
+
+
+
+1. (1) The definitions “accidental release”, “import”, “safety requirements”, “safety standards” and “ship” in section 2 of the Transportation of Dangerous Goods Act, 1992 are repealed.
+
+
+
+
+
+
+
+
+
+
+1. (1) Les définitions de « importer », « navire », « normes de sécurité », « règles de sécurité » et « rejet accidentel », à l’article 2 de la Loi de 1992 sur le transport des marchandises dangereuses, sont abrogées.
+
+
+
+1997, ch. 9, art. 122
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definition “indication de danger” in section 2 of the French version of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) La définition de « indication de danger », à l’article 2 de la version française de la même loi, est abrogée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) The definitions “means of containment”, “means of transport”, “shipping record” and “standardized means of containment” in section 2 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Les définitions de « contenant », « contenant normalisé », « moyen de transport » et « registre d’expédition », à l’article 2 de la même loi, sont respectivement remplacées par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“means of containment”« contenant »
+
+
+
+“means of containment” means a container or packaging, or any part of a means of transport that is or can be used to contain goods;
+
+
+
+
+“means of transport”« moyen de transport »
+
+
+
+“means of transport” means a road or railway vehicle, aircraft, vessel, pipeline or any other contrivance that is or can be used to transport persons or goods;
+
+
+
+
+“shipping record”« registre d’expédition »
+
+
+
+“shipping record” means a record that relates to dangerous goods being imported, offered for transport, handled or transported and that describes or contains information relating to the goods, and includes electronic records of information;
+
+
+
+
+“standardized means of containment”« contenant normalisé »
+
+
+
+“standardized means of containment” means a means of containment to which a safety standard applies under the regulations.
+
+
+
+
+
+
+
+
+
+« contenant » Emballage, conteneur ou toute partie d’un moyen de transport servant ou pouvant servir à contenir des marchandises.
+
+
+
+« contenant »“means of containment”
+
+
+
+
+« contenant normalisé » Tout contenant à l’égard duquel s’appliquent des normes de sécurité réglementaires.
+
+
+
+« contenant normalisé »“standardized means of containment”
+
+
+
+
+« moyen de transport » Tout véhicule routier ou ferroviaire, aéronef, bâtiment, pipeline ou autre moyen servant ou pouvant servir au transport de personnes ou de marchandises.
+
+
+
+« moyen de transport »“means of transport”
+
+
+
+
+« registre d’expédition » Tout document — sous forme électronique ou autre — qui se rapporte à des marchandises dangereuses importées, présentées au transport, manutentionnées ou transportées et qui fournit des renseignements sur celles-ci. 
+
+
+
+« registre d’expédition »“shipping record”
+
+
+
+
+
+
+
+
+
+
+
+
+(4) The definition “safety mark” in section 2 of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) La définition de « safety mark », à l’article 2 de la version anglaise de la même loi, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“safety mark”« indication de sécurité »
+
+
+
+“safety mark” means a dangerous goods mark or a compliance mark;
+
+
+
+
+
+
+
+
+
+
+“safety mark” means a dangerous goods mark or a compliance mark;
+
+
+
+
+“safety mark”« indication de sécurité »
+
+
+
+
+
+
+
+
+
+
+
+
+(5) The definition “sécurité publique” in section 2 of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) La définition de « sécurité publique », à l’article 2 de la version française de la même loi, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+« sécurité publique »“public safety”
+
+
+
+
+« sécurité publique » Sécurité pour la santé et la vie humaines, les biens et l’environnement.
+
+
+
+
+
+
+
+
+
+
+« sécurité publique » Sécurité pour la santé et la vie humaines, les biens et l’environnement.
+
+
+
+« sécurité publique »“public safety”
+
+
+
+
+
+
+
+
+
+
+
+
+(6) Section 2 of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(6) L’article 2 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“compliance mark”« indication de conformité »
+
+
+
+“compliance mark” means a symbol, device, sign, label, placard, letter, word, number or abbreviation, or any combination of those things, that is to be displayed on a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods to indicate compliance with a safety standard that applies under the regulations;
+
+
+
+
+“dangerous goods mark”« indication de marchandises dangereuses »
+
+
+
+“dangerous goods mark” means a symbol, device, sign, label, placard, letter, word, number or abbreviation, or any combination of those things, that is to be displayed to indicate the presence or nature of danger on dangerous goods, or on a means of containment or means of transport used in importing, offering for transport, handling or transporting dangerous goods;
+
+
+
+
+“organization”« organisation »
+
+
+
+“organization” has the same meaning as in section 2 of the Criminal Code;
+
+
+
+
+“person”« personne »
+
+
+
+“person” means an individual or an organization;
+
+
+
+
+“release”« rejet »
+
+
+
+“release” means, in relation to dangerous goods,
+
+
+
+
+
+
+
+
+
+
+(a) a discharge, emission, explosion, outgassing or other escape of dangerous goods, or any component or compound evolving from dangerous goods, from a means of containment being used to handle or transport the dangerous goods, or
+
+
+
+
+
+
+
+
+
+
+(b) an emission, from a means of containment being used to handle or transport dangerous goods, of ionizing radiation that exceeds a level or limit established under the Nuclear Safety and Control Act;
+
+
+
+
+“safety requirement”« règle de sécurité »
+
+
+
+“safety requirement” means
+
+
+
+
+
+
+
+
+
+
+(a) a requirement for persons engaged in importing, offering for transport, handling or transporting dangerous goods,
+
+
+
+
+
+
+
+
+
+
+(b) a requirement for persons engaged in designing, manufacturing, repairing, testing or equipping a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods, or
+
+
+
+
+
+
+
+
+
+
+(c) a requirement for reporting by persons referred to in paragraphs (a) and (b) or a requirement for their training or registration;
+
+
+
+
+“safety standard”« norme de sécurité »
+
+
+
+“safety standard” means a standard for a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods, including standards for the means of containment’s design, manufacture, repair, testing, equipping, functioning, use or performance;
+
+
+
+
+“security requirement”« règle de sûreté »
+
+
+
+“security requirement” means a requirement for persons engaged in importing, offering for transport, handling or transporting dangerous goods established under regulations made under section 27.1;
+
+
+
+
+“vessel”« bâtiment »
+
+
+
+“vessel” has the same meaning as in section 2 of the Canada Shipping Act, 2001.
+
+
+
+
+
+
+
+
+
+« bâtiment » S’entend au sens de l’article 2 de la Loi de 2001 sur la marine marchande du Canada.
+
+
+
+« bâtiment »“vessel”
+
+
+
+
+« indication de conformité » Tout symbole, dispositif, signe, étiquette, plaque, lettre, mot, chiffre ou abréviation, ou toute combinaison de ces éléments, à apposer sur des contenants utilisés pour l’importation, la présentation au transport, la manutention ou le transport de marchandises dangereuses — ou destinés à de tels usages — pour indiquer la conformité à une norme de sécurité réglementaire. 
+
+
+
+« indication de conformité »“compliance mark”
+
+
+
+
+« indication de marchandises dangereuses » Tout symbole, dispositif, signe, étiquette, plaque, lettre, mot, chiffre ou abréviation, ou toute combinaison de ces éléments, à apposer sur des marchandises dangereuses, ou sur des contenants ou moyens de transport utilisés pour l’importation, la présentation au transport, la manutention ou le transport de marchandises dangereuses pour indiquer la présence ou la nature d’un danger.
+
+
+
+« indication de marchandises dangereuses »“dangerous goods mark”
+
+
+
+
+« norme de sécurité » Norme régissant les contenants qui servent à l’importation, à la présentation au transport, à la manutention ou au transport de marchandises dangereuses ou qui sont destinés à de tels usages et régissant notamment leur conception, fabrication, réparation, mise à l’essai, équipement, fonctionnement, utilisation et efficacité.
+
+
+
+« norme de sécurité »“safety standard”
+
+
+
+
+« organisation » S’entend au sens de l’article 2 du Code criminel.
+
+
+
+« organisation »“organization”
+
+
+
+
+« personne » Personne physique ou organisation.
+
+
+
+« personne »“person”
+
+
+
+
+« règle de sécurité » Règle régissant :
+
+
+
+« règle de sécurité »“safety requirement”
+
+
+
+
+
+a) les personnes qui se livrent à l’importation, à la présentation au transport, à la manutention ou au transport de marchandises dangereuses;
+
+
+
+
+
+
+
+
+
+
+
+b) les personnes qui se livrent à la conception, à la fabrication, à la réparation, à la mise à l’essai ou à l’équipement de contenants utilisés pour l’importation, la présentation au transport, la manutention ou le transport de marchandises dangereuses ou qui sont destinés à de tels usages;
+
+
+
+
+
+
+
+
+
+
+
+c) l’établissement de rapports par ces personnes, leur formation et leur enregistrement.
+
+
+
+
+
+
+
+
+
+
+« règle de sûreté » Règle régissant les personnes qui se livrent à l’importation, à la présentation au transport, à la manutention ou au transport de marchandises dangereuses établie par règlement pris en vertu de l’article 27.1.
+
+
+
+« règle de sûreté »“security requirement”
+
+
+
+
+« rejet » Tout dégagement ou explosion de marchandises dangereuses ou de substances en émanant, ou toute émission d’un rayonnement ionisant d’une intensité supérieure à celle établie en vertu de la Loi sur la sûreté et la réglementation nucléaires, qui provient d’un contenant utilisé pour la manutention ou le transport de telles marchandises.
+
+
+
+« rejet »“release”
+
+
+
+
+
+
+
+
+
+
+
+
+(7) Section 2 of the French version of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(7) L’article 2 de la version française de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+« indication de sécurité »“safety mark”
+
+
+
+
+« indication de sécurité » Toute indication de marchandises dangereuses ou toute indication de conformité.
+
+
+
+
+
+
+
+
+
+
+« indication de sécurité » Toute indication de marchandises dangereuses ou toute indication de conformité.
+
+
+
+« indication de sécurité »“safety mark”
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after section 2:
+
+
+
+
+
+
+
+
+
+
+2. La même loi est modifiée par adjonction, après l’article 2, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+
+2.1 For the purposes of this Act, a person who is named in a shipping record accompanying dangerous goods or a means of containment on entry into Canada as the person in Canada to whom the dangerous goods or the means of containment is to be delivered is deemed to be importing the dangerous goods or means of containment.
+
+
+
+
+
+
+
+
+
+
+2.1 Pour l’application de la présente loi, est assimilée à la personne qui importe des marchandises dangereuses ou des contenants la personne qui est mentionnée sur le registre d’expédition qui les accompagne à leur entrée au Canada comme étant la personne au Canada à qui les marchandises dangereuses ou les contenants seront livrés.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsections 3(2) to (4) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Les paragraphes 3(2) à (4) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) In addition to its application in Canada,  this Act applies to vessels and aircraft outside Canada that are registered in Canada.
+
+
+
+
+
+
+
+
+
+(2) La présente loi, en plus de s’appliquer au Canada, s’applique aux bâtiments et aux aéronefs qui ne se trouvent pas au Canada mais qui y sont immatriculés.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Exceptions — regulations and certificates
+
+
+
+(3) This Act does not apply to the extent that its application is excluded by a regulation made under paragraph 27(1)(e) or by a certificate issued under section 31.
+
+
+
+
+
+
+
+
+
+(3) La présente loi ne s’applique que dans la mesure où un règlement pris en vertu de l’alinéa 27(1)e) ou le certificat délivré en vertu de l’article 31 n’en exclut pas l’application.
+
+
+
+Exception — règlements et certificats
+
+
+
+
+
+
+
+
+
+
+Other exceptions
+
+
+
+(4) This Act does not apply in relation to
+
+
+
+
+
+
+
+
+
+
+(a) any activity or thing under the sole direction or control of the Minister of National Defence, including in circumstances in which the regulations provide that it is under that Minister’s sole direction or control;
+
+
+
+
+
+
+
+
+
+
+(b) commodities transported by a pipeline governed by the National Energy Board Act, the Canada Oil and Gas Operations Act or the law of a province; or
+
+
+
+
+
+
+
+
+
+
+(c) dangerous goods confined only by the permanent structure of a vessel.
+
+
+
+
+
+
+
+
+
+(4) Elle ne s’applique pas non plus :
+
+
+
+Autres exceptions
+
+
+
+
+
+a) aux activités ou choses sous la seule responsabilité du ministre de la Défense nationale ou sous sa maîtrise effective, notamment dans les circonstances prévues par règlement;
+
+
+
+
+
+
+
+
+
+
+
+b) au transport de produits par des pipelines régis par la Loi sur l’Office national de l’énergie, la Loi sur les opérations pétrolières au Canada ou une loi provinciale;
+
+
+
+
+
+
+
+
+
+
+
+c) aux marchandises dangereuses contenues seulement par la structure permanente du bâtiment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 5 of the Act and the heading before it are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. L’article 5 de la même loi et l’intertitre le précédant sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAFETY AND SECURITY
+
+
+
+
+
+
+
+
+
+SÉCURITÉ ET SÛRETÉ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safety Requirements, Security Requirements, Safety Standards and Safety Marks
+
+
+
+
+
+
+
+
+
+Règles de sécurité, règles de sûreté, normes de sécurité et indications de sécurité
+
+
+
+
+
+
+
+
+
+
+
+
+General prohibition
+
+
+
+
+5. No person shall import, offer for transport, handle or transport any dangerous goods unless
+
+
+
+
+
+
+
+
+
+
+(a) the person complies with all safety requirements and security requirements that apply under the regulations;
+
+
+
+
+
+
+
+
+
+
+(b) the goods are accompanied by all documents that are required under the regulations;
+
+
+
+
+
+
+
+
+
+
+(c) a means of containment is used for the goods that is required or permitted under the regulations; and
+
+
+
+
+
+
+
+
+
+
+(d) the means of containment and means of transport comply with all safety standards that apply under the regulations and display all applicable safety marks in accordance with the regulations.
+
+
+
+
+
+
+
+
+
+
+5. Il est interdit à toute personne de se livrer à l’importation, à la présentation au transport, à la manutention ou au transport de marchandises dangereuses sauf si, à la fois :
+
+
+
+Interdiction
+
+
+
+
+
+a) elle observe les règles de sécurité et de sûreté prévues par règlement;
+
+
+
+
+
+
+
+
+
+
+
+b) les documents réglementaires accompagnent les marchandises dangereuses;
+
+
+
+
+
+
+
+
+
+
+
+c) un contenant réglementaire est utilisé pour chacune des marchandises;
+
+
+
+
+
+
+
+
+
+
+
+d) les contenants et les moyens de transport sont conformes aux normes de sécurité réglementaires et portent les indications de sécurité réglementaires.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibition — means of containment
+
+
+
+
+5.1 No person shall design, manufacture, repair, test or equip a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods unless the person complies with all safety requirements that apply under the regulations.
+
+
+
+
+
+
+
+
+
+
+5.1 Il est interdit à quiconque de se livrer à la conception, à la fabrication, à la réparation, à la mise à l’essai ou à l’équipement de contenants qui sont utilisés pour l’importation, la présentation au transport, la manutention ou le transport de marchandises dangereuses — ou qui sont prévus à ces fins —, à moins de respecter les règles de sécurité réglementaires.
+
+
+
+Interdiction — contenants
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Act is amended by adding the following after section 5.1:
+
+
+
+
+
+
+
+
+
+
+5. La même loi est modifiée par adjonction, après l’article 5.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Transportation Security Clearances
+
+
+
+
+
+
+
+
+
+Habilitations de sécurité en matière de transport
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+
+5.2 (1) No prescribed person shall import, offer for transport, handle or transport dangerous goods in a quantity or concentration that is specified by regulation — or that is within a range of quantities or concentrations that is specified by regulation — unless the person has a transportation security clearance granted under subsection (2).
+
+
+
+
+
+
+
+
+
+
+5.2 (1) Il est interdit à toute personne désignée par règlement de se livrer à l’importation, à la présentation au transport, à la manutention ou au transport de marchandises dangereuses, en quantité ou concentration — ou plage de quantités ou de concentrations — précisée par règlement, à moins d’être titulaire d’une habilitation de sécurité en matière de transport octroyée en vertu du paragraphe (2).
+
+
+
+Interdiction
+
+
+
+
+
+
+
+
+
+
+Granting, suspending, etc.
+
+
+
+(2) The Minister may, for the purposes of this Act, grant or refuse to grant a transportation security clearance to any person or suspend or revoke such a clearance.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut, pour l’application de la présente loi, octroyer, refuser, suspendre ou révoquer une habilitation de sécurité en matière de transport.
+
+
+
+Octroi, refus, etc.
+
+
+
+
+
+
+
+
+
+
+1994, c. 26, s. 69
+
+
+
+
+6. Sections 6 and 7 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. Les articles 6 et 7 de la même loi sont remplacés par ce qui suit :
+
+
+
+1994, ch. 26, art. 69
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance Marks and Dangerous Goods Marks
+
+
+
+
+
+
+
+
+
+Indications de conformité et indications de marchandises dangereuses
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibition — compliance mark
+
+
+
+
+6. No person shall affix or display on a means of containment a compliance mark that is required or permitted under the regulations — or another mark that is likely to be mistaken for such a mark — in respect of the manufacture, repair or testing of the means of containment, unless the manufacture, repair or testing was done in compliance with all safety requirements and safety standards applicable to that compliance mark.
+
+
+
+
+
+
+
+
+
+
+6. Il est interdit à quiconque d’apposer ou d’afficher sur un contenant une indication de conformité exigée ou autorisée par les règlements concernant la fabrication, la réparation ou la mise à l’essai de ce contenant, ou une autre indication susceptible d’être confondue avec une telle indication, sauf si le contenant a été fabriqué, réparé ou mis à l’essai, selon le cas, conformément aux règles de sécurité et normes de sécurité applicables à l’indication de conformité.
+
+
+
+Interdiction — indication de conformité
+
+
+
+
+
+
+
+
+
+
+Prohibition — dangerous goods mark
+
+
+
+
+6.1 No person shall affix or display on dangerous goods, a means of containment or a means of transport a dangerous goods mark that is required or permitted under the regulations — or another mark that is likely to be mistaken for such a mark — if the mark is misleading as to the presence of danger or the nature of any danger.
+
+
+
+
+
+
+
+
+
+
+6.1 Il est interdit à quiconque d’apposer ou d’afficher sur des marchandises dangereuses, sur un contenant ou sur un moyen de transport une indication de marchandises dangereuses exigée ou autorisée par les règlements ou une autre indication susceptible d’être confondue avec une telle indication de marchandises dangereuses, qui est trompeuse quant à la présence ou à la nature d’un danger.
+
+
+
+Interdiction — indication de marchandises dangereuses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EMERGENCY RESPONSE ASSISTANCE PLANS AND SECURITY PLANS
+
+
+
+
+
+
+
+
+
+PLAN D’INTERVENTION D’URGENCE ET PLAN DE SÛRETÉ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emergency Response Assistance Plans
+
+
+
+
+
+
+
+
+
+Plan d’intervention d’urgence
+
+
+
+
+
+
+
+
+
+
+
+
+Emergency response assistance plan
+
+
+
+
+7. (1) No person shall import, offer for transport, handle or transport dangerous goods in a quantity or concentration that is specified by regulation — or that is within a range of quantities or concentrations that is specified by regulation — unless the person has an emergency response assistance plan that is approved under this section before
+
+
+
+
+
+
+
+
+
+
+(a) importing the dangerous goods;
+
+
+
+
+
+
+
+
+
+
+(b) offering the dangerous goods for transport; or
+
+
+
+
+
+
+
+
+
+
+(c) handling or transporting the dangerous goods, in the case where no other person is required to have an emergency response assistance plan under paragraph (a) or (b) in respect of that handling or transporting.
+
+
+
+
+
+
+
+
+
+
+7. (1) Il est interdit à toute personne de se livrer aux activités ci-après à l’égard de marchandises dangereuses en quantité ou concentration — ou plage de quantités ou concentrations — précisée par règlement, à moins de disposer d’un plan d’intervention d’urgence agréé en vertu du présent article :
+
+
+
+Plan d’intervention d’urgence — agrément
+
+
+
+
+
+a) l’importation;
+
+
+
+
+
+
+
+
+
+
+
+b) la présentation au transport;
+
+
+
+
+
+
+
+
+
+
+
+c) la manutention ou le transport, si aucune autre personne n’est tenue d’avoir un plan d’urgence en vertu des alinéas a) ou b) à l’égard des activités du présent alinéa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+
+
+(2) The plan shall outline what is to be done to respond to an actual or anticipated release of the dangerous goods in the course of their handling or transporting that endangers, or could endanger, public safety.
+
+
+
+
+
+
+
+
+
+(2) Le plan expose brièvement les mesures à prendre pour réagir à un rejet réel ou appréhendé de marchandises dangereuses en cours de manutention ou de transport qui compromet ou pourrait compromettre la sécurité publique.
+
+
+
+Contenu
+
+
+
+
+
+
+
+
+
+
+Approval
+
+
+
+(3) The Minister may approve the plan for a specified period, if the Minister believes on reasonable grounds that it can be implemented and will be effective in responding to such a release.
+
+
+
+
+
+
+
+
+
+(3) Le ministre peut agréer le plan d’intervention d’urgence pour une période déterminée s’il a des motifs raisonnables de croire qu’il peut être mis en oeuvre et sera efficace pour réagir à un tel rejet.
+
+
+
+Agrément du plan
+
+
+
+
+
+
+
+
+
+
+Interim approval
+
+
+
+(4) The Minister may grant an interim approval of the plan for a specified period before finishing the investigation of the matters to be considered under subsection (3) if the Minister has no reason to suspect that the plan cannot be implemented or will be ineffective in responding to such a release.
+
+
+
+
+
+
+
+
+
+(4) Le ministre peut agréer provisoirement et pour une période déterminée le plan avant d’avoir terminé son enquête sur les questions à examiner dans le cadre du paragraphe (3) s’il n’a aucune raison de soupçonner qu’il ne pourra pas être mis en oeuvre ou ne sera pas efficace pour réagir à un tel rejet.
+
+
+
+Agrément provisoire du plan
+
+
+
+
+
+
+
+
+
+
+Revocation of approval
+
+
+
+(5) The Minister may revoke an approval of an emergency response assistance plan if
+
+
+
+
+
+
+
+
+
+
+(a) in the case of an interim approval, the Minister subsequently believes on reasonable grounds that the plan cannot be implemented or will be ineffective in responding to such a release;
+
+
+
+
+
+
+
+
+
+
+(b) the Minister believes on reasonable grounds that the plan can no longer be implemented or will no longer be effective in responding to such a release;
+
+
+
+
+
+
+
+
+
+
+(c) the Minister has requested changes to the plan that the Minister believes on reasonable grounds are needed to make it effective in responding to such a release and the changes have not been made within a reasonable time or have been refused;
+
+
+
+
+
+
+
+
+
+
+(d) the Minister believes on reasonable grounds that there has been a release of dangerous goods to which the plan applies — or that such a release has been anticipated — and that the plan was not used to respond to the actual or anticipated release; or
+
+
+
+
+
+
+
+
+
+
+(e) a direction made in respect of the plan under paragraph 7.1(a) has not been complied with.
+
+
+
+
+
+
+
+
+
+(5) Le ministre peut révoquer l’agrément du plan dans les cas suivants :
+
+
+
+Révocation d’un agrément
+
+
+
+
+
+a) s’agissant d’un agrément provisoire, le ministre a des motifs raisonnables de croire que, en fin de compte, le plan ne pourra pas être mis en oeuvre ou ne sera pas efficace pour réagir à un tel rejet;
+
+
+
+
+
+
+
+
+
+
+
+b) il a des motifs raisonnables de croire que le plan ne peut plus être mis en oeuvre ou ne sera plus efficace pour réagir à un tel rejet;
+
+
+
+
+
+
+
+
+
+
+
+c) il a demandé que soient apportées au plan les modifications qu’il a des motifs raisonnables de croire nécessaires à son efficacité et elles n’ont pas été effectuées dans un délai raisonnable ou ont été refusées;
+
+
+
+
+
+
+
+
+
+
+
+d) il a des motifs raisonnables de croire que le plan n’a pas été mis en oeuvre à l’égard d’un rejet réel ou appréhendé visé par ce plan;
+
+
+
+
+
+
+
+
+
+
+
+e) l’ordre donné en vertu de l’alinéa 7.1a) à l’égard du plan n’a pas été respecté.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Direction and permission
+
+
+
+
+7.1 The Minister may, if the Minister believes that doing so is necessary for the protection of public safety,
+
+
+
+
+
+
+
+
+
+
+(a) direct a person with an approved emergency response assistance plan to implement the plan, within a reasonable time as specified in the direction, in order to respond to an actual or anticipated release of dangerous goods to which the plan applies; or
+
+
+
+
+
+
+
+
+
+
+(b) authorize a person with an approved emergency response assistance plan to implement the plan in order to respond to an actual or anticipated release of dangerous goods if the Minister does not know the identity of any person required under subsection 7(1) to have an emergency response assistance plan in respect of the release.
+
+
+
+
+
+
+
+
+
+
+7.1 Le ministre, s’il croit que la mise en oeuvre d’un plan d’intervention d’urgence agréé est nécessaire pour la protection de la sécurité publique, peut, selon le cas :
+
+
+
+Ordre et autorisation
+
+
+
+
+
+a) ordonner à la personne qui dispose d’un tel plan de le mettre en oeuvre, dans le délai raisonnable prévu dans l’ordre, pour réagir au rejet réel ou appréhendé de marchandises dangereuses visé par le plan;
+
+
+
+
+
+
+
+
+
+
+
+b) autoriser la personne qui dispose d’un tel plan à le mettre en oeuvre pour réagir à un rejet réel ou appréhendé de marchandises dangereuses, s’il ne connaît l’identité d’aucune des personnes tenues par le paragraphe 7(1) de disposer d’un plan d’intervention d’urgence agréé pour ce rejet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compensation
+
+
+
+
+7.2 (1) The Minister shall compensate, in accordance with the regulations, any person who is authorized to implement an approved emergency response assistance plan under paragraph 7.1(b) for expenses authorized to be compensated under the regulations that are incurred by that person as a result of implementing the plan.
+
+
+
+
+
+
+
+
+
+
+7.2 (1) Le ministre indemnise, conformément aux règlements, toute personne autorisée au titre de l’alinéa 7.1b) pour les dépenses supportées par elle dans la mise en oeuvre d’un plan d’intervention d’urgence agréé.
+
+
+
+Indemnisation
+
+
+
+
+
+
+
+
+
+
+Payment out of C.R.F.
+
+
+
+(2) The compensation shall be paid out of the Consolidated Revenue Fund.
+
+
+
+
+
+
+
+
+
+(2) L’indemnité à payer est prélevée sur le Trésor.
+
+
+
+Versement sur le Trésor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Security Plans
+
+
+
+
+
+
+
+
+
+Plan de sûreté
+
+
+
+
+
+
+
+
+
+
+
+
+Security plan
+
+
+
+
+7.3 (1) No prescribed person shall import, offer for transport, handle or transport dangerous goods in a quantity or concentration that is specified by regulation — or that is within a range of quantities or concentrations that is specified by regulation — before the person has undergone security training in accordance with the regulations, has a security plan that meets the requirements of subsection (2) and has implemented the plan in accordance with the regulations.
+
+
+
+
+
+
+
+
+
+
+7.3 (1) Il est interdit à toute personne désignée par règlement de se livrer à l’importation, à la présentation au transport, à la manutention ou au transport de marchandises dangereuses en quantité ou concentration — ou plage de quantités ou concentrations — précisée par règlement, avant que la personne n’ait suivi une formation en sécurité, ne dispose d’un plan de sûreté qui satisfait aux exigences du paragraphe (2) et n’ait mis en oeuvre ce plan conformément aux règlements.
+
+
+
+Plan de sûreté
+
+
+
+
+
+
+
+
+
+
+Contents
+
+
+
+(2) The plan shall, in accordance with the regulations, set out measures to prevent the dangerous goods from being stolen or otherwise unlawfully interfered with in the course of the importing, offering for transport, handling or transporting.
+
+
+
+
+
+
+
+
+
+(2) Conformément aux règlements, le plan expose les mesures à prendre relativement à la prévention du vol de marchandises dangereuses, ou de toute autre atteinte illicite à celles-ci, en cours d’importation, de présentation au transport, de manutention ou de transport.
+
+
+
+Contenu
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Section 8 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. L’article 8 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Improper means of containment
+
+
+
+
+8. No person shall sell, offer for sale, deliver, distribute, import or use a standardized means of containment unless it displays all applicable safety marks in accordance with the regulations.
+
+
+
+
+
+
+
+
+
+
+8. Il est interdit à quiconque de vendre, d’offrir en vente, de livrer, de distribuer, d’importer ou d’utiliser des contenants normalisés qui ne portent pas toutes les indications de sécurité réglementaires applicables.
+
+
+
+Conformité des contenants
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) Subsection 9(1) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. (1) Le paragraphe 9(1) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Registre des clients
+
+
+
+
+
+9. (1) Les fabricants ou les importateurs de contenants normalisés tiennent un registre des personnes à qui ils les fournissent.
+
+
+
+
+
+
+
+
+
+
+
+9. (1) Les fabricants ou les importateurs de contenants normalisés tiennent un registre des personnes à qui ils les fournissent.
+
+
+
+Registre des clients
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 9(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 9(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Notice of defective construction or recall
+
+
+
+(2) If the Minister believes on reasonable grounds that any standardized means of containment is unsafe as supplied by the manufacturer or as imported for handling or transporting dangerous goods, the Minister may direct the manufacturer or importer to issue a notice of defective construction or recall to the person to whom it was supplied.
+
+
+
+
+
+
+
+
+
+(2) Le ministre, s’il a des motifs raisonnables de croire que des contenants normalisés, fournis par un fabricant ou importés, ne sont pas sécuritaires pour la manutention ou le transport des marchandises dangereuses, peut ordonner au fabricant ou à l’importateur de faire parvenir un avis de défectuosité ou de rappel aux personnes à qui ces contenants ont été fournis.
+
+
+
+Avis de défectuosité ou de rappel
+
+
+
+
+
+
+
+
+
+
+Notice of defective repair or defective testing
+
+
+
+(3) The Minister may direct a person who repaired or tested a standardized means of containment to issue a notice of defective repair or defective testing, as the case may be, to the person for whom it was repaired or tested, or to publish the notice in a manner such that the notice is likely to come to that person’s attention, if the Minister believes on reasonable grounds that the person who repaired or tested the standardized means of containment
+
+
+
+
+
+
+
+
+
+
+(a) failed to comply with an applicable safety requirement or safety standard; and
+
+
+
+
+
+
+
+
+
+
+(b) affixed to the standardized means of containment — or did not remove from it — the safety mark that indicates that the safety requirement or safety standard had been complied with.
+
+
+
+
+
+
+
+
+
+(3) Le ministre peut ordonner à la personne qui a effectué la réparation ou la mise à l’essai de contenants normalisés de faire parvenir un avis d’échec de cette opération à la personne pour laquelle l’opération a été effectuée ou de publier un tel avis de manière que l’intéressé en prendra vraisemblablement connaissance, s’il a des motifs raisonnables de croire que la personne qui a effectué la réparation ou la mise à l’essai :
+
+
+
+Avis de réparation ou de mise à l’essai
+
+
+
+
+
+a) a omis de se conformer à une règle ou à une norme de sécurité;
+
+
+
+
+
+
+
+
+
+
+
+b) a apposé sur le contenant ou omis d’en enlever une indication de sécurité attestant la conformité de celui-ci avec les normes ou les règles de sécurité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. The heading before section 10 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. L’intertitre précédant l’article 10 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INSPECTORS
+
+
+
+
+
+
+
+
+
+INSPECTEURS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Subsections 10(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. Les paragraphes 10(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Designation of inspectors
+
+
+
+
+10. (1) The Minister may designate persons or classes of persons whom the Minister considers qualified to act as inspectors for any of the purposes of this Act, and may revoke such a designation.
+
+
+
+
+
+
+
+
+
+
+10. (1) Le ministre peut désigner toute personne — individuellement ou au titre de son appartenance à une catégorie déterminée — qu’il estime qualifiée pour remplir des fonctions d’inspecteur dans le cadre de la présente loi; il peut révoquer la désignation en question.
+
+
+
+Désignation des inspecteurs
+
+
+
+
+
+
+
+
+
+
+Certificate of designation
+
+
+
+(2) The Minister shall give every inspector a certificate of designation showing the matters in respect of which the inspector is designated, including the purposes, classes of dangerous goods, means of containment, means of transport and places for which the inspector is designated.
+
+
+
+
+
+
+
+
+
+(2) Le ministre remet à chaque inspecteur un certificat de désignation attestant sa compétence et indiquant notamment les fins, les classes de marchandises dangereuses, les contenants, les moyens de transport et les lieux pour lesquels il a compétence.
+
+
+
+Certificat
+
+
+
+
+
+
+
+
+
+
+1994, c. 26, s. 70
+
+
+
+
+11. Sections 11 and 12 of the Act are repealed.
+
+
+
+
+
+
+
+
+
+
+11. Les articles 11 et 12 de la même loi sont abrogés.
+
+
+
+1994, ch. 26, art. 70
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Section 13 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. L’article 13 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Obstruction of inspectors
+
+
+
+
+13. (1) When an inspector is exercising powers or carrying out duties and functions under this Act, no person shall
+
+
+
+
+
+
+
+
+
+
+(a) fail to comply with any reasonable request of the inspector;
+
+
+
+
+
+
+
+
+
+
+(b) knowingly make any false or misleading statement either orally or in writing to the inspector;
+
+
+
+
+
+
+
+
+
+
+(c) except with the authority of the inspector, remove, alter or interfere in any way with anything detained or removed by or under the direction of the inspector; or
+
+
+
+
+
+
+
+
+
+
+(d) otherwise obstruct or hinder the inspector.
+
+
+
+
+
+
+
+
+
+
+13. (1) Lorsque l’inspecteur agit dans l’exercice de ses fonctions, il est interdit à quiconque :
+
+
+
+Entrave — inspecteur
+
+
+
+
+
+a) de manquer de répondre à toute demande qu’il peut raisonnablement formuler;
+
+
+
+
+
+
+
+
+
+
+
+b) de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse;
+
+
+
+
+
+
+
+
+
+
+
+c) sans son autorisation, de déplacer les choses retenues ou déplacées par lui ou à sa demande, ou d’en modifier l’état de quelque manière que ce soit;
+
+
+
+
+
+
+
+
+
+
+
+d) d’une façon générale, d’entraver son action.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obstruction of qualified person
+
+
+
+(2) When a qualified person is exercising powers under subsection 15(3), no person shall
+
+
+
+
+
+
+
+
+
+
+(a) fail to comply with any reasonable request of the qualified person;
+
+
+
+
+
+
+
+
+
+
+(b) knowingly make any false or misleading statement either orally or in writing to the qualified person; or
+
+
+
+
+
+
+
+
+
+
+(c) otherwise obstruct or hinder the qualified person.
+
+
+
+
+
+
+
+
+
+(2) Lorsqu’une personne compétente exerce les attributions prévues au paragraphe 15(3), il est interdit à quiconque :
+
+
+
+Entrave — personne compétente
+
+
+
+
+
+a) de manquer de répondre à toute demande qu’elle peut raisonnablement formuler;
+
+
+
+
+
+
+
+
+
+
+
+b) de lui faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse;
+
+
+
+
+
+
+
+
+
+
+
+c) d’une façon générale, d’entraver son action.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. Subsections 14(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. Les paragraphes 14(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Financial responsibility
+
+
+
+
+14. (1) No person shall import, offer for transport, handle or transport dangerous goods, or manufacture or import standardized means of containment, unless the person is financially responsible in accordance with the regulations.
+
+
+
+
+
+
+
+
+
+
+14. (1) Il est interdit à toute personne de se livrer à l’importation, à la présentation au transport, à la manutention ou au transport de marchandises dangereuses ou à la fabrication ou à l’importation de contenants normalisés sans satisfaire aux exigences réglementaires de solvabilité.
+
+
+
+Solvabilité
+
+
+
+
+
+
+
+
+
+
+Proof of financial responsibility
+
+
+
+(2) A person who carries on any of those activities shall provide to an inspector on request the proof that is required under the regulations of financial responsibility.
+
+
+
+
+
+
+
+
+
+(2) La personne qui se livre à une activité visée au paragraphe (1) est tenue de présenter, sur demande d’un inspecteur, une preuve réglementaire de solvabilité.
+
+
+
+Preuve de solvabilité
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. Section 15 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. L’article 15 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Powers of inspector
+
+
+
+
+15. (1) For the purpose of ensuring compliance with this Act, an inspector may, subject to section 16 but at any reasonable time, stop any means of transport for which the inspector is designated and enter and inspect any place, or any such means of transport, if the inspector believes on reasonable grounds that in or on the place or means of transport there are
+
+
+
+
+
+
+
+
+
+
+(a) dangerous goods being offered for transport, handled or transported;
+
+
+
+
+
+
+
+
+
+
+(b) means of containment being manufactured, repaired or tested on which a compliance mark is displayed or will be affixed;
+
+
+
+
+
+
+
+
+
+
+(c) standardized means of containment;
+
+
+
+
+
+
+
+
+
+
+(d) books, shipping records, emergency response assistance plans, security plans or other documents that contain any information relevant to the purposes of this Act; or
+
+
+
+
+
+
+
+
+
+
+(e) computer systems, data processing systems or any other electronic devices or media that contain information relevant to the purposes of this Act, or that have such information available to them.
+
+
+
+
+
+
+
+
+
+
+15. (1) En vue de faire respecter la présente loi, l’inspecteur peut, dans le cadre de sa compétence et sous réserve de l’article 16, procéder, à toute heure convenable, à la visite de tout lieu et à l’immobilisation et la visite de tout moyen de transport s’il a des motifs raisonnables de croire, selon le cas :
+
+
+
+Pouvoirs de l’inspecteur
+
+
+
+
+
+a) qu’il s’y exerce des activités de présentation au transport, de manutention ou de transport de marchandises dangereuses;
+
+
+
+
+
+
+
+
+
+
+
+b) qu’il s’y exerce des activités de fabrication, de réparation ou de mise à l’essai de contenants sur lesquels est affichée ou sera apposée une indication de conformité;
+
+
+
+
+
+
+
+
+
+
+
+c) qu’il s’y trouve des contenants normalisés;
+
+
+
+
+
+
+
+
+
+
+
+d) qu’il s’y trouve des livres, registres d’expédition, plans d’intervention d’urgence, plans de sûreté ou autres documents renfermant des renseignements utiles à l’application de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+e) qu’il s’y trouve un système d’ordinateur, un système de traitement des renseignements ou tout autre appareil électronique ou support matériel contenant des renseignements utiles à l’application de la présente loi ou donnant accès à de tels renseignements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powers of inspector
+
+
+
+(2) In the course of carrying out an inspection under subsection (1), an inspector may
+
+
+
+
+
+
+
+
+
+
+(a) open and inspect, or request the opening and inspection of, any means of containment for which the inspector is designated, including any closures, valves, safety release devices or other appurtenances that are essential to the use of the means of containment to contain dangerous goods, if the inspector believes on reasonable grounds that it is being used to handle or transport dangerous goods or to contain dangerous goods offered for transport;
+
+
+
+
+
+
+
+
+
+
+(b) open and inspect, or request the opening and inspection of, any means of containment described in paragraph (1)(b) or (c), including any closures, valves, safety release devices or other appurtenances that are essential to the use of the means of containment to contain dangerous goods;
+
+
+
+
+
+
+
+
+
+
+(c) for the purpose of analysis, take, or request the taking of, a reasonable quantity of anything the inspector believes on reasonable grounds to be dangerous goods;
+
+
+
+
+
+
+
+
+
+
+(d) examine, or request the examining of, information described in paragraph (1)(d) or (e) that the inspector believes on reasonable grounds is relevant to the purposes of this Act and make, or request the making of, copies of any of it; and
+
+
+
+
+
+
+
+
+
+
+(e) ask questions of any person for the purposes of this Act.
+
+
+
+
+
+
+
+
+
+(2) L’inspecteur peut, dans le cadre de la visite prévue au paragraphe (1) :
+
+
+
+Pouvoirs de l’inspecteur
+
+
+
+
+
+a) ouvrir ou faire ouvrir pour examen, ou examiner ou faire examiner, les contenants — y compris les fermetures, vannes, dispositifs de détente ou autre équipement connexe essentiel à leur utilisation comme contenants de marchandises dangereuses — qu’il croit, pour des motifs raisonnables, servir à la manutention ou au transport de telles marchandises ou en contenir qui sont présentées au transport;
+
+
+
+
+
+
+
+
+
+
+
+b) ouvrir ou faire ouvrir pour examen, ou examiner ou faire examiner, les contenants visés aux alinéas (1)b) et c), y compris les fermetures, vannes, dispositifs de détente ou autre équipement connexe essentiel à leur utilisation comme contenants de marchandises dangereuses;
+
+
+
+
+
+
+
+
+
+
+
+c) prélever ou faire prélever pour analyse une quantité raisonnable de toute chose qu’il croit, pour des motifs raisonnables, être une marchandise dangereuse;
+
+
+
+
+
+
+
+
+
+
+
+d) procéder à l’examen ou faire examiner des documents et données visés aux alinéas (1)d) et e) qu’il croit, pour des motifs raisonnables, renfermer des renseignements utiles à l’application de la présente loi, et en faire ou en faire faire des copies;
+
+
+
+
+
+
+
+
+
+
+
+e) interroger toute personne pour l’application de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authorized person
+
+
+
+(3) An inspector may, in accordance with the regulations, authorize any qualified person to enter any place or means of transport that the inspector may enter under subsection (1) and to exercise any of the powers set out in subsection (2).
+
+
+
+
+
+
+
+
+
+(3) L’inspecteur peut, conformément aux règlements, autoriser toute personne compétente à pénétrer dans tout lieu ou moyen de transport visé au paragraphe (1) et à y exercer les pouvoirs prévus au paragraphe (2).
+
+
+
+Personne autorisée
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. Paragraph 16(2)(b) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. L’alinéa 16(2)b) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) entry is necessary for the purposes of this Act, and
+
+
+
+
+
+
+
+
+
+
+(b) entry is necessary for the purposes of this Act, and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. The Act is amended by adding the following after section 16:
+
+
+
+
+
+
+
+
+
+
+16. La même loi est modifiée par adjonction, après l’article 16, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Certificate of inspection
+
+
+
+
+16.1 (1) If an inspector or a person authorized under subsection 15(3) opens anything, or requests that anything be opened, for inspection or for the taking of a reasonable quantity of anything that is sealed or closed up, the inspector shall provide the person who has the charge, management or control of the thing that was opened with a certificate in prescribed form as proof that it was opened for that purpose.
+
+
+
+
+
+
+
+
+
+
+16.1 (1) Lorsque l’inspecteur, ou toute personne autorisée par lui en vertu du paragraphe 15(3), ouvre ou fait ouvrir un objet scellé ou fermé, aux fins d’examen ou de prise d’une quantité raisonnable d’une chose qui s’y trouve, l’inspecteur délivre à la personne qui en est responsable ou en a la maîtrise effective une attestation réglementaire prouvant que l’objet a été ouvert à ces fins.
+
+
+
+Attestation
+
+
+
+
+
+
+
+
+
+
+Effect of inspector’s certificate
+
+
+
+(2) The person to whom, or for whose benefit, the certificate is provided is not liable, either civilly or criminally, in respect of any act or omission of the inspector or authorized person in the course of the inspection of the thing or the taking of the reasonable quantity from it, but is not otherwise exempt from compliance with this Act and the regulations.
+
+
+
+
+
+
+
+
+
+(2) L’attestation libère la personne à qui ou en faveur de qui elle est remise de toute responsabilité, civile ou pénale, découlant de tout acte ou omission commis par l’inspecteur ou la personne autorisée au cours de l’examen ou de la prise d’une quantité raisonnable d’une chose, mais ne la dispense pas de se conformer à la présente loi et à ses règlements.
+
+
+
+Effets de l’attestation
+
+
+
+
+
+
+
+
+
+
+
+
+
+17. Section 17 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. L’article 17 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Remedying non-compliance — dangerous goods
+
+
+
+
+17. (1) An inspector may remove to an appropriate place any dangerous goods, the means of containment being used to handle or transport them or a standardized means of containment, or direct a person to do so, and may detain the thing removed until satisfied that the activity will be done in compliance with this Act, if the inspector believes on reasonable grounds that any of the following activities is being carried out in a way that does not comply with this Act:
+
+
+
+
+
+
+
+
+
+
+(a) importing, offering for transport, handling or transporting dangerous goods; or
+
+
+
+
+
+
+
+
+
+
+(b) selling, offering for sale, delivering, distributing, importing or using a standard- ized means of containment.
+
+
+
+
+
+
+
+
+
+
+17. (1) L’inspecteur, s’il a des motifs raisonnables de croire que l’une ou l’autre des activités ci-après est exercée en contravention avec la présente loi, peut placer ou ordonner à une personne de placer les marchandises dangereuses, les contenants utilisés pour leur manutention ou leur transport ou les contenants normalisés en cause dans un endroit convenable et les retenir jusqu’à ce qu’il soit convaincu de la conformité de ces activités avec la présente loi :
+
+
+
+Mesures correctives pour contravention : marchandises dangereuses
+
+
+
+
+
+a) l’importation, la présentation au transport, la manutention ou le transport de marchandises dangereuses;
+
+
+
+
+
+
+
+
+
+
+
+b) la vente, l’offre de vente, la livraison, la distribution, l’importation ou l’utilisation de contenants normalisés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other measures
+
+
+
+(2) The inspector may also take any other measures necessary to remedy the non-compliance or direct a person to take the necessary measures.
+
+
+
+
+
+
+
+
+
+(2) Il peut en outre prendre ou ordonner à une personne de prendre tout autre correctif nécessaire quant à ces activités.
+
+
+
+Autres mesures correctives
+
+
+
+
+
+
+
+
+
+
+Direction not to bring into Canada
+
+
+
+(3) If the dangerous goods or means of containment originates from outside Canada and the inspector believes on reasonable grounds that measures to remedy the non-compliance are not possible or desirable, the inspector may direct that the goods or means of containment not be brought into Canada or that they be returned to their place of origin.
+
+
+
+
+
+
+
+
+
+(3) Dans le cas de marchandises ou de contenants provenant de l’étranger, si l’inspecteur a des motifs raisonnables de croire qu’il n’est pas possible ou souhaitable d’apporter des correctifs, il peut en interdire l’entrée au Canada ou les faire renvoyer à leur point de départ.
+
+
+
+Entrée au Canada et renvoi
+
+
+
+
+
+
+
+
+
+
+Persons liable to direction
+
+
+
+(4) A direction may be issued under this section only to a person who, at the time of the non-compliance or at any time afterward, owns, imports or has the charge, management or control of the dangerous goods or means of containment.
+
+
+
+
+
+
+
+
+
+(4) Seule la personne qui, au moment de la contravention ou par la suite, est propriétaire des marchandises dangereuses ou des contenants, les importe, en est responsable ou en a la maîtrise effective peut être assujettie à un ordre donné en vertu du présent article.
+
+
+
+Personne tenue de prendre les mesures
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. (1) Subsection 18(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+18. (1) Le paragraphe 18(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Duty to report
+
+
+
+
+18. (1) Any person who has the charge, management or control of a means of containment shall report to every person prescribed for the purposes of this subsection any actual or anticipated release of dangerous goods that is or could be in excess of a quantity or concentration specified by regulation from the means of containment if the release endangers, or could endanger, public safety.
+
+
+
+
+
+
+
+
+
+
+18. (1) Quiconque a la responsabilité ou la maîtrise effective d’un contenant de marchandises dangereuses doit faire rapport à chacune des personnes désignées par règlement pour l’application du présent paragraphe de tout rejet réel ou appréhendé provenant de ce contenant en une quantité ou en une concentration qui est ou pourrait être supérieure à celle précisée par règlement et qui compromet ou pourrait compromettre la sécurité publique.
+
+
+
+Obligation de faire rapport
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 18(2) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 18(2) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Obligation de prendre des mesures d’urgence
+
+
+
+
+(2) La personne tenue de faire rapport prend, dans les meilleurs délais possibles, les mesures d’urgence raisonnables pour atténuer ou prévenir tout danger pour la sécurité publique qui résulte d’un tel rejet ou qu’un tel rejet peut raisonnablement faire craindre.
+
+
+
+
+
+
+
+
+
+
+(2) La personne tenue de faire rapport prend, dans les meilleurs délais possibles, les mesures d’urgence raisonnables pour atténuer ou prévenir tout danger pour la sécurité publique qui résulte d’un tel rejet ou qu’un tel rejet peut raisonnablement faire craindre.
+
+
+
+Obligation de prendre des mesures d’urgence
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 18 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(3) L’article 18 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Loss or theft
+
+
+
+(3) If dangerous goods in excess of a quantity or concentration that is specified by regulation are lost or stolen during their handling or transporting, any person who had the charge, management or control of the goods immediately before the loss or theft shall report it to every person prescribed for the purposes of this subsection.
+
+
+
+
+
+
+
+
+
+(3) Si des marchandises dangereuses, en quantité ou concentration supérieure à celle précisée par règlement, sont perdues ou volées au cours d’activités de manutention ou de transport, la personne qui en avait la responsabilité ou la maîtrise effective immédiatement avant le vol ou la perte en fait rapport à toute personne désignée par règlement pour l’application du présent paragraphe.
+
+
+
+Perte ou vol
+
+
+
+
+
+
+
+
+
+
+
+
+
+19. Sections 19 and 20 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+19. Les articles 19 et 20 de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Grounds for intervention
+
+
+
+
+19. (1) If an inspector believes on reasonable grounds that doing so is necessary to prevent an anticipated release of dangerous goods that could endanger public safety, or to reduce any danger to public safety that results or could result from an actual release of dangerous goods, the inspector may do any of the following:
+
+
+
+
+
+
+
+
+
+
+(a) remove the dangerous goods, or a means of containment being used to handle or transport the dangerous goods, to an appropriate place, or direct a person to remove the dangerous goods or the means of containment to such a place;
+
+
+
+
+
+
+
+
+
+
+(b) direct a person to do anything else to prevent the release or reduce any resulting danger to public safety, or to refrain from doing anything that might impede the prevention of the release or the reduction of the danger; and
+
+
+
+
+
+
+
+
+
+
+(c) exercise any power set out in section 15.
+
+
+
+
+
+
+
+
+
+
+19. (1) L’inspecteur, s’il a des motifs raisonnables de croire qu’une mesure est nécessaire pour empêcher qu’un rejet appréhendé de marchandises dangereuses ne compromette la sécurité publique ou pour atténuer tout danger pour la sécurité publique résultant ou pouvant résulter d’un rejet réel, peut :
+
+
+
+Pouvoirs de l’inspecteur
+
+
+
+
+
+a) placer les marchandises ou les contenants utilisés pour la manutention ou le transport des marchandises dangereuses dans un endroit convenable ou ordonner à une personne de le faire;
+
+
+
+
+
+
+
+
+
+
+
+b) ordonner à une personne de prendre toutes autres mesures pour empêcher le rejet ou pour atténuer tout danger pour la sécurité publique en résultant ou lui ordonner de s’abstenir de faire quoi que ce soit qui pourrait nuire à la réalisation de ces mesures;
+
+
+
+
+
+
+
+
+
+
+
+c) exercer les pouvoirs prévus à l’article 15.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Persons liable to direction
+
+
+
+(2) Such a direction may be issued only to any person
+
+
+
+
+
+
+
+
+
+
+(a) who, when the release occurs or is anticipated or at any time afterward, owns, imports or has the charge, management or control of the dangerous goods or means of containment;
+
+
+
+
+
+
+
+
+
+
+(b) who is required under section 7 to have an emergency response assistance plan that applies to the actual or anticipated release;
+
+
+
+
+
+
+
+
+
+
+(c) who is responding to the actual or anticipated release in accordance with an emergency response assistance plan approved under section 7; or
+
+
+
+
+
+
+
+
+
+
+(d) who causes or contributes to the occurrence of the actual or anticipated release.
+
+
+
+
+
+
+
+
+
+(2) Les seules personnes qui peuvent être assujetties à l’ordre sont celles qui :
+
+
+
+Personnes tenues de prendre des mesures
+
+
+
+
+
+a) au moment du rejet réel ou appréhendé ou par la suite, sont propriétaires des marchandises dangereuses ou des contenants, les importent, en sont responsables ou en ont la maîtrise effective;
+
+
+
+
+
+
+
+
+
+
+
+b) doivent, aux termes de l’article 7, disposer d’un plan d’intervention d’urgence qui s’applique à un rejet réel ou appréhendé;
+
+
+
+
+
+
+
+
+
+
+
+c) dans le cas d’un rejet réel ou appréhendé, participent à une intervention conformément au plan d’intervention d’urgence agréé en vertu de l’article 7;
+
+
+
+
+
+
+
+
+
+
+
+d) sont à l’origine du rejet réel ou appréhendé ou y contribuent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PERSONAL LIABILITY
+
+
+
+
+
+
+
+
+
+RESPONSABILITÉ PERSONNELLE
+
+
+
+
+
+
+
+
+
+
+
+
+Personal liability
+
+
+
+
+20. The following persons are not personally liable, either civilly or criminally, in respect of any act or omission done in good faith and without negligence:
+
+
+
+
+
+
+
+
+
+
+(a) any person who responds to an actual or anticipated release using an emergency response assistance plan that applies to the release, acts in accordance with the plan and informs the Canadian Transport Emergency Centre of the Department of Transport of their response to the release;
+
+
+
+
+
+
+
+
+
+
+(b) any person who is directed or required under paragraph 7.1(a), section 17, subsection 18(2) or paragraph 19(1)(a) or (b) to do or refrain from doing anything and acts in accordance with the direction or requirement; and
+
+
+
+
+
+
+
+
+
+
+(c) any person who acts in accordance with an authorization given under paragraph 7.1(b).
+
+
+
+
+
+
+
+
+
+
+20. N’encourt aucune responsabilité personnelle, civile ou pénale, pour tout fait — acte ou omission — accompli de bonne foi et sans négligence, la personne :
+
+
+
+Responsabilité personnelle
+
+
+
+
+
+a) qui participe à une intervention à l’occasion d’un rejet réel ou appréhendé auquel s’applique un plan d’intervention d’urgence, qui agit en conformité avec le plan et qui a informé le Centre canadien des urgences en transport du ministère des Transports de sa participation;
+
+
+
+
+
+
+
+
+
+
+
+b) qui est tenue d’agir ou de s’abstenir de faire quoi que ce soit aux termes de l’alinéa 7.1a), de l’article 17, du paragraphe 18(2) ou des alinéas 19(1)a) ou b) et qui agit en conséquence;
+
+
+
+
+
+
+
+
+
+
+
+c) qui est autorisée à agir en vertu de l’alinéa 7.1b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20. Subsection 21(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+20. Le paragraphe 21(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Minister may order inquiry
+
+
+
+
+21. (1) If a release of dangerous goods from a means of containment being used to handle or transport dangerous goods has resulted in death or injury to any person or damage to any property or the environment, the Minister may direct a public inquiry to be made, subject to the Canadian Transportation Accident Investigation and Safety Board Act, and may authorize any person or persons that the Minister considers qualified to conduct the inquiry.
+
+
+
+
+
+
+
+
+
+
+21. (1) Le ministre peut ordonner la tenue, sous réserve de la Loi sur le bureau canadien d’enquête sur les accidents de transport et de la sécurité des transports, d’une enquête publique, sous la direction d’une personne qu’il estime qualifiée et autorise à cette fin, sur les rejets provenant de contenants utilisés pour la manutention ou le transport des marchandises dangereuses qui ont fait des victimes — morts ou blessés — ou causé des dommages aux biens ou à l’environnement.
+
+
+
+Ministre — pouvoir d’enquête
+
+
+
+
+
+
+
+
+
+
+
+
+
+21. Subsection 22(3) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+21. Le paragraphe 22(3) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Présomption
+
+
+
+
+(3) Le défendeur qui se livre à une activité visée par la présente loi est présumé, lors d’une action intentée en vertu du présent article, coupable de faute ou de négligence, sauf s’il établit, par prépondérance des probabilités, que lui-même et les personnes dont il est légalement responsable ont pris toutes les précautions voulues pour se conformer à la présente loi et à ses règlements.
+
+
+
+
+
+
+
+
+
+
+(3) Le défendeur qui se livre à une activité visée par la présente loi est présumé, lors d’une action intentée en vertu du présent article, coupable de faute ou de négligence, sauf s’il établit, par prépondérance des probabilités, que lui-même et les personnes dont il est légalement responsable ont pris toutes les précautions voulues pour se conformer à la présente loi et à ses règlements.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+
+
+
+22. Subsection 23(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+22. Le paragraphe 23(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Notice for disclosure of information
+
+
+
+
+23. (1) The Minister may, by registered mail, send a written notice to any manufacturer, producer, distributor or importer of any product, substance or organism requesting the disclosure of information relating to its formula, composition or chemical ingredients and any similar information that the Minister considers necessary for the administration or enforcement of this Act.
+
+
+
+
+
+
+
+
+
+
+23. (1) Le ministre peut demander, dans un avis envoyé par courrier recommandé, aux fabricants, producteurs, distributeurs ou importateurs de tout produit, substance ou organisme de lui en communiquer la formule, la composition chimique ou les éléments constitutifs, et de lui fournir tous renseignements de même nature qu’il juge nécessaires pour l’exécution ou le contrôle d’application de la présente loi.
+
+
+
+Avis de communication
+
+
+
+
+
+
+
+
+
+
+
+
+
+23. (1) Subsection 24(1) of the Act is amended by striking out the word “and” at the end of paragraph (a) and by replacing paragraph (b) with the following:
+
+
+
+
+
+
+
+
+
+
+23. (1) L’alinéa 24(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) information in a record of a communication between any person and the Canadian Transport Emergency Centre of the Department of Transport relating to an actual or anticipated release of dangerous goods; and
+
+
+
+
+
+
+(c) information relating to security that is obtained under paragraph 15(2)(d).
+
+
+
+
+
+
+
+
+
+
+b) échangés entre toute personne et le Centre canadien des urgences en transport du ministère des Transports au sujet d’un rejet réel ou appréhendé de marchandises dangereuses, si la communication est consignée sur un support quelconque;
+
+
+
+
+
+
+
+c) relatifs à la sûreté et obtenus en vertu de l’alinéa 15(2)d).
+
+
+
+
+
+
+
+
+
+
+
+
+1994, c. 26, s. 71(F)
+
+
+
+(2) Subsection 24(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 24(4) de la même loi est remplacé par ce qui suit :
+
+
+
+1994, ch. 26, art. 71(F)
+
+
+
+
+
+
+
+
+
+
+Disclosure
+
+
+
+(4) No person shall knowingly communicate privileged information or allow it to be communicated to any person, or allow any other person to have access to the information, except
+
+
+
+
+
+
+
+
+
+
+(a) with the written consent of the person from whom the information was obtained under section 15 or who disclosed the information under section 23 or in a record of a communication referred to in paragraph (1)(b);
+
+
+
+
+
+
+
+
+
+
+(b) for the purposes of the administration or enforcement of this Act, in the case of information obtained under section 15 or disclosed under section 23; or
+
+
+
+
+
+
+
+
+
+
+(c) to an inspector for the purposes of emergency response analysis or training of inspectors, in the case of information obtained in a record of a communication referred to in paragraph (1)(b).
+
+
+
+
+
+
+
+
+
+(4) Nul ne peut sciemment communiquer des renseignements protégés en sa possession, en autoriser la communication ou en permettre la consultation, sauf dans les cas suivants :
+
+
+
+Interdiction
+
+
+
+
+
+a) la personne de qui ils ont été obtenus a donné son consentement écrit, s’il s’agit des renseignements visés à l’alinéa (1)b) et obtenus en application des articles 15 ou 23;
+
+
+
+
+
+
+
+
+
+
+
+b) ils doivent servir à l’exécution et au contrôle d’application de la présente loi, s’il s’agit de renseignements obtenus en application des articles 15 et 23;
+
+
+
+
+
+
+
+
+
+
+
+c) ils doivent être communiqués à un inspecteur ou consultés par lui pour l’analyse des interventions d’urgence ou la formation des inspecteurs, s’il s’agit des renseignements visés à l’alinéa (1)b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24. The heading before section 27 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+24. L’intertitre précédant l’article 27 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REGULATIONS, MEASURES AND ORDERS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS, MESURES ET ARRÊTÉS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25. (1) Paragraph 27(1)(b) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+25. (1) L’alinéa 27(1)b) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) déterminer des divisions, subdivisions et groupes pour les marchandises dangereuses ou pour chacune des classes de marchandises dangereuses;
+
+
+
+
+
+
+
+
+
+
+
+b) déterminer des divisions, subdivisions et groupes pour les marchandises dangereuses ou pour chacune des classes de marchandises dangereuses;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraphs 27(1)(e) to (u) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les alinéas 27(1)e) à u) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e) exempting from the application of this Act and the regulations, or any of their provisions, the importing, offering for transport, handling or transporting of dangerous goods;
+
+
+
+
+
+
+(f) respecting, for the purposes of paragraph (e), any quantities or concentrations of dangerous goods or ranges of them, respecting the manner of determining those quantities, concentrations or ranges and respecting any circumstances or conditions — including circumstances or conditions regarding prem- ises, facilities or means of containment — under which an activity is exempted under paragraph (e);
+
+
+
+
+
+
+(g) respecting circumstances in which any activity or thing is under the sole direction or control of the Minister of National Defence;
+
+
+
+
+
+
+(h) respecting circumstances in which dangerous goods must not be imported, offered for transport, handled or transported;
+
+
+
+
+
+
+(i) specifying dangerous goods that must not be imported, offered for transport, handled or transported in any circumstances;
+
+
+
+
+
+
+(j) respecting safety marks, safety requirements and safety standards of general or particular application;
+
+
+
+
+
+
+(j.1) requiring safety management systems to be established by prescribed persons or classes of persons with respect to specified quantities or concentrations of dangerous goods or ranges of them, specifying those quantities, concentrations or ranges, respecting the manner of determining those quantities, concentrations or ranges and respecting the content or requirements of those systems;
+
+
+
+
+
+
+(j.2) respecting, in respect of particular dangerous goods, or classes, divisions, subdivisions and groups of dangerous goods, the means of containment to be used in importing, offering for transport, handling or transporting those goods;
+
+
+
+
+
+
+(k) specifying quantities or concentrations of dangerous goods, or ranges of them, in relation to which emergency response assist- ance plans are required to be approved under section 7, and respecting the manner of determining those quantities, concentrations or ranges;
+
+
+
+
+
+
+(k.1) respecting the information to be provided in an application for approval of the emergency response assistance plan referred to in section 7;
+
+
+
+
+
+
+(k.2) respecting compensation of persons under section 7.2, and specifying the expenses that are authorized to be compensated;
+
+
+
+
+
+
+(l) respecting the manner in which records are to be kept under section 9, the information to be included in them and the notices to be issued under that section;
+
+
+
+
+
+
+(m) respecting the issuance of notices under section 9, and the contents of those notices;
+
+
+
+
+
+
+(n) respecting shipping records and other documents to be used in offering for transport, handling or transporting dangerous goods, the information to be included in those documents and the persons by whom and the manner in which they are to be used and kept;
+
+
+
+
+
+
+(o) respecting the qualification, training and examination of inspectors, prescribing the forms of the certificates described in sections 10 and 16.1 and respecting the manner in which inspectors are to carry out their duties and functions under this Act;
+
+
+
+
+
+
+(p) respecting levels of financial responsibility required under subsection 14(1) in respect of any activity referred to in that subsection, and the nature and form of proof that may be requested under subsection 14(2);
+
+
+
+
+
+
+(p.1) respecting the authorization of qualified persons referred to in subsection 15(3) and the manner in which they may exercise powers set out in subsection 15(2);
+
+
+
+
+
+
+(q) specifying quantities or concentrations of dangerous goods or ranges of them for the purposes of section 18, and respecting the manner of determining those quantities, concentrations or ranges;
+
+
+
+
+
+
+(r) prescribing persons or classes of persons who are to receive reports under section 18, and respecting the manner of making the reports, the information to be included in them and the circumstances in which they are not required;
+
+
+
+
+
+
+(r.1) respecting the information to be provided in an application for a certificate under section 31;
+
+
+
+
+
+
+(s) respecting the manner of applying for, issuing and revoking approvals of emergency response assistance plans under section 7 or certificates under section 31 and providing for the appeal or review of a refusal to issue an approval or certificate or of a revocation of one;
+
+
+
+
+
+
+(t) providing for the notification of persons directed to do anything under paragraph 7.1(a), subsection 9(2) or (3), section 17, paragraph 19(1)(a) or (b) or subsection 32(1), for the coming into effect, duration and appeal or review of those directions and for any other incidental matters;
+
+
+
+
+
+
+(u) respecting the manner in which amounts are to be paid under paragraph 34(1)(d); and
+
+
+
+
+
+
+(v) prescribing persons or classes of persons who are to be prescribed under this Act.
+
+
+
+
+
+
+
+
+
+
+e) soustraire à l’application de la présente loi et de ses règlements, ou de certaines de leurs dispositions, l’importation, la présentation au transport, la manutention ou le transport de marchandises dangereuses;
+
+
+
+
+
+
+
+f) régir, pour l’application de l’alinéa e), les quantités et concentrations de marchandises dangereuses — ou les plages de quantités ou de concentrations de marchandises dangereuses —, la façon de déterminer ces quantités, concentrations ou plages et régir les circonstances et les conditions — notamment celles concernant les lieux, les installations ou les contenants — en vertu desquelles l’une des activités visées à l’alinéa e) est exclue;
+
+
+
+
+
+
+
+g) prévoir les circonstances dans lesquelles le ministre de la Défense nationale a seul la responsabilité ou la maîtrise effective d’activités ou de choses;
+
+
+
+
+
+
+
+h) prévoir les circonstances dans lesquelles l’importation, la présentation au transport, la manutention ou le transport de marchandises dangereuses sont interdits;
+
+
+
+
+
+
+
+i) préciser les marchandises dangereuses dont l’importation, la présentation au transport, la manutention ou le transport sont interdits;
+
+
+
+
+
+
+
+j) prévoir les indications de sécurité et les règles et normes de sécurité d’application générale ou particulière;
+
+
+
+
+
+
+
+j.1) exiger l’établissement de systèmes de gestion de la sécurité par des personnes ou catégories de personnes désignées par règlement à l’égard de quantités ou concentrations, ou de plages de quantités ou de concentrations, de marchandises dangereuses précisées par règlement, préciser ces quantités, concentrations ou plages et la façon de déterminer ces quantités, concentrations ou plages et régir le contenu et les exigences de ces systèmes;
+
+
+
+
+
+
+
+j.2) régir, pour des marchandises dangereuses spécifiques ou pour des classes, des divisions, des subdivisions ou des groupes de marchandises dangereuses, les contenants à utiliser pour l’importation, la présentation au transport, la manutention et le transport de celles-ci;
+
+
+
+
+
+
+
+k) préciser la quantité ou la concentration, ou les plages de quantités ou de concentrations, de marchandises dangereuses pour lesquelles un plan d’intervention d’urgence doit être agréé aux termes de l’article 7 et la façon de déterminer ces quantités, concentrations ou plages;
+
+
+
+
+
+
+
+k.1) prévoir les renseignements à fournir dans la demande d’agrément du plan d’intervention d’urgence visé à l’article 7;
+
+
+
+
+
+
+
+k.2) prévoir des règles d’indemnisation pour l’application de l’article 7.2 et préciser les dépenses qui pourront faire l’objet d’une indemnisation;
+
+
+
+
+
+
+
+l) régir la manière de tenir le registre visé à l’article 9, son contenu et celui des avis visés à cet article;
+
+
+
+
+
+
+
+m) régir la délivrance des avis d’échec, de défectuosité et de rappel prévus à l’article 9, ainsi que leur contenu;
+
+
+
+
+
+
+
+n) prévoir les registres d’expédition ou autres documents à utiliser relativement aux activités de présentation au transport, de manutention ou de transport de marchandises dangereuses, les renseignements à y porter, la manière de les utiliser et de les tenir, ainsi que les personnes qui doivent le faire;
+
+
+
+
+
+
+
+o) prévoir les conditions de compétence, de formation et d’examens à satisfaire par les inspecteurs, déterminer les formulaires à utiliser lors de la délivrance des certificats prévus à l’article 10 et des attestations prévues à l’article 16.1 et prévoir la façon dont les inspecteurs doivent exécuter les fonctions que leur confère la présente loi;
+
+
+
+
+
+
+
+p) régir les niveaux de la solvabilité exigée au paragraphe 14(1) à l’égard des activités qui y sont visées, ainsi que la nature et la forme de la preuve, notamment celle visée au paragraphe 14(2), qui peut en être faite;
+
+
+
+
+
+
+
+p.1) régir l’autorisation des personnes compétentes visées au paragraphe 15(3) et les modalités d’exercice par ces personnes des pouvoirs visés au paragraphe 15(2);
+
+
+
+
+
+
+
+q) préciser la quantité ou la concentration, ou les plages de quantités ou de concentrations, de marchandises dangereuses pour l’application de l’article 18 et la façon de déterminer ces quantités, concentrations ou plages;
+
+
+
+
+
+
+
+r) désigner les personnes et les catégories de personnes qui doivent recevoir les rapports visés à l’article 18, prévoir la forme de ceux-ci, les renseignements à y porter ainsi que les cas dans lesquels ils ne sont pas obligatoires;
+
+
+
+
+
+
+
+r.1) prévoir les renseignements à fournir dans la demande des certificats visés à l’article 31;
+
+
+
+
+
+
+
+s) régir les modalités de demande, de délivrance et de révocation des agréments visés à l’article 7 et des certificats visés à l’article 31, et prévoir les modalités d’appel ou de révision des décisions relatives au refus de délivrer un agrément ou un certificat ou relatives à leur révocation;
+
+
+
+
+
+
+
+t) prévoir la notification des ordres prévus à l’alinéa 7.1a), aux paragraphes 9(2) et (3), à l’article 17, aux alinéas 19(1)a) et b) et au paragraphe 32(1), ainsi que leurs prise d’effet et durée d’application, les modalités d’appel ou de révision de ces ordres et toute question connexe;
+
+
+
+
+
+
+
+u) régir les modalités de versement des sommes d’argent prévues à l’alinéa 34(1)d);
+
+
+
+
+
+
+
+v) désigner les personnes et les catégories de personnes qui doivent être désignées par règlement en vertu de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) The portion of subsection 27(2) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le passage du paragraphe 27(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+References in regulations
+
+
+
+(2) The regulations may refer to any document, in whole or in part, as it exists when the regulations are made and, for the purpose of providing for alternative ways of complying with this Act, may refer to any of the following documents as amended from time to time:
+
+
+
+
+
+
+
+
+
+(2) Les règlements peuvent renvoyer à tout ou partie d’un document dans sa version au moment de la prise de ceux-ci et, en vue de prévoir d’autres moyens de respecter la présente loi, aux documents ci-après, avec leurs modifications successives :
+
+
+
+Renvoi dans les règlements
+
+
+
+
+
+
+
+
+
+
+
+
+
+26. The Act is amended by adding the following after section 27:
+
+
+
+
+
+
+
+
+
+
+26. La même loi est modifiée par adjonction, après l’article 27, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Security regulations
+
+
+
+
+27.1 (1) The Governor in Council may make regulations respecting the security of the importing, offering for transport, handling or transporting of dangerous goods, including regulations
+
+
+
+
+
+
+
+
+
+
+(a) respecting the prevention of unlawful interference with the importing, offering for transport, handling or transporting of dangerous goods and the action that is to be taken if that interference occurs or is likely to occur;
+
+
+
+
+
+
+
+
+
+
+(b) prescribing persons or classes of persons, specifying quantities or concentrations of dangerous goods or ranges of them, and respecting the manner of determining those quantities, concentrations or ranges, for the purposes of section 5.2;
+
+
+
+
+
+
+
+
+
+
+(c) respecting the conditions that a person is to meet to receive a transportation security clearance;
+
+
+
+
+
+
+
+
+
+
+(d) respecting the manner of applying for, issuing, suspending and revoking a transportation security clearance and providing for the appeal or review of a refusal to issue such a clearance or of a suspension or revocation of one;
+
+
+
+
+
+
+
+
+
+
+(e) prescribing persons or classes of persons, respecting the contents and implementation of security plans, and specifying quantities or concentrations of dangerous goods or ranges of them, for the purposes of subsection 7.3(1);
+
+
+
+
+
+
+
+
+
+
+(f) respecting security training, including its content and its implementation, and the measures described in subsection 7.3(2);
+
+
+
+
+
+
+
+
+
+
+(g) requiring security management systems to be established by prescribed persons or classes of persons with respect to specified quantities or concentrations of dangerous goods or ranges of them, specifying those quantities, concentrations or ranges and respecting the content or requirements of those systems;
+
+
+
+
+
+
+
+
+
+
+(h) establishing security requirements for equipment, systems and processes used in importing, offering for transport, handling or transporting dangerous goods, including means of transport tracking and identification protocols;
+
+
+
+
+
+
+
+
+
+
+(i) respecting the provision to the Minister of security-related information;
+
+
+
+
+
+
+
+
+
+
+(j) prescribing persons or classes of persons who are to receive reports under section 18, and respecting the manner of making the reports, the information to be included in them and the circumstances in which they are not required; and
+
+
+
+
+
+
+
+
+
+
+(k) prescribing persons or classes of persons who are to be prescribed under this Act.
+
+
+
+
+
+
+
+
+
+
+27.1 (1) Le gouverneur en conseil peut prendre des règlements sur la sûreté de l’importation, de la présentation au transport, de la manutention ou du transport des marchandises dangereuses, notamment pour :
+
+
+
+Règlements sur la sûreté
+
+
+
+
+
+a) prévoir les mesures à prendre en cas d’entraves illicites réelles ou éventuelles à ces activités ainsi que les mesures destinées à y remédier ou à les prévenir;
+
+
+
+
+
+
+
+
+
+
+
+b) désigner toute personne ou catégorie de personnes et préciser toute quantité ou concentration de marchandises dangereuses — ou toute plage de quantités ou de concentrations de marchandises dangereuses — et la façon de déterminer ces quantités, concentrations ou plages, pour l’application de l’article 5.2;
+
+
+
+
+
+
+
+
+
+
+
+c) régir les conditions d’octroi des habilitations de sécurité en matière de transport;
+
+
+
+
+
+
+
+
+
+
+
+d) régir les modalités de demande, d’octroi, de suspension et de révocation des habilitations de sécurité en matière de transport et prévoir les modalités d’appel ou de révision des décisions relatives au refus d’octroyer une habilitation ou relatives à une suspension ou révocation d’une telle habilitation;
+
+
+
+
+
+
+
+
+
+
+
+e) désigner toute personne ou catégorie de personnes et régir le contenu et la mise en oeuvre des plans de sûreté, et préciser les quantités ou concentrations, ou les plages de quantités ou de concentrations, des marchandises dangereuses pour l’application du paragraphe 7.3(1);
+
+
+
+
+
+
+
+
+
+
+
+f) régir la formation en matière de sûreté, notamment son contenu et sa mise en oeuvre, et les mesures à prendre visées au paragraphe 7.3(2);
+
+
+
+
+
+
+
+
+
+
+
+g) exiger l’établissement de systèmes de gestion de la sûreté par des personnes ou catégories de personnes désignées par règlement à l’égard de quantités ou concentrations, ou de plages de quantités ou de concentrations, de marchandises dangereuses précises, préciser ces quantités, concentrations ou plages et régir le contenu et les exigences de ces systèmes;
+
+
+
+
+
+
+
+
+
+
+
+h) établir des exigences de sûreté pour le matériel, les systèmes et les procédés utilisés pour l’importation, la présentation au transport, la manutention ou le transport des marchandises dangereuses, notamment les systèmes de localisation des moyens de transport et les protocoles d’identification;
+
+
+
+
+
+
+
+
+
+
+
+i) régir la présentation au ministre de renseignements sur la sûreté;
+
+
+
+
+
+
+
+
+
+
+
+j) désigner les personnes et les catégories de personnes qui doivent recevoir les rapports visés à l’article 18, prévoir la forme de ceux-ci, les renseignements à y porter ainsi que les cas dans lesquels ils ne sont pas obligatoires;
+
+
+
+
+
+
+
+
+
+
+
+k) désigner les personnes et les catégories de personnes qui doivent être désignées par règlement en vertu de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References in regulations
+
+
+
+(2) The regulations may refer to any document, in whole or in part, as it exists when the regulations are made.
+
+
+
+
+
+
+
+
+
+(2) Les règlements peuvent renvoyer à tout ou partie d’un document, dans sa version au moment de la prise de ceux-ci.
+
+
+
+Renvoi dans les règlements
+
+
+
+
+
+
+
+
+
+
+Security measures
+
+
+
+
+27.2 (1) The Minister may make measures — referred to in this Act as security measures — respecting the security of the importing, offering for transport, handling or transporting of dangerous goods.
+
+
+
+
+
+
+
+
+
+
+27.2 (1) Le ministre peut prendre des mesures (appelées dans la présente loi « mesures de sûreté ») concernant l’importation, la présentation au transport, la manutention ou le transport des marchandises dangereuses.
+
+
+
+Mesures de sûreté
+
+
+
+
+
+
+
+
+
+
+Restriction
+
+
+
+(2) The Minister may make a security measure in relation to a particular matter only if
+
+
+
+
+
+
+
+
+
+
+(a) a regulation could be made in relation to that matter under subsection 27.1(1); and
+
+
+
+
+
+
+
+
+
+
+(b) the publication of the regulation would compromise the security of the importing, offering for transport, handling or transporting of dangerous goods or would endanger public safety.
+
+
+
+
+
+
+
+
+
+(2) Il ne peut toutefois prendre de mesure de sûreté sur une question que si :
+
+
+
+Réserve
+
+
+
+
+
+a) d’une part, la question peut faire l’objet d’un règlement visé au paragraphe 27.1(1);
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, la publication d’un tel règlement compromet la sûreté des activités mentionnées au paragraphe (1) ou la sécurité publique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+(3) A security measure comes into force immediately when it is made, but the Minister shall review the security measure within two years after the day on which it is made and within every following two years to determine whether the disclosure of the particular matter that is the subject of the security measure would no longer compromise the security of the importing, offering for transport, handling or transporting of dangerous goods or endanger public safety.
+
+
+
+
+
+
+
+
+
+(3) La mesure de sûreté entre en vigueur au moment de sa prise; le ministre l’examine dans les deux années suivant la date de sa prise et chaque deux ans par la suite afin de décider si la divulgation de la question faisant l’objet de la mesure compromet toujours la sûreté des activités mentionnées au paragraphe (1) ou la sécurité publique.
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+Suspension of s. 27.5(1) and repeal of security measure
+
+
+
+(4) If the Minister is of the opinion that the disclosure of the particular matter that is the subject of a security measure would no longer compromise the security of the importing, offering for transport, handling or transporting of dangerous goods or endanger public safety, the Minister shall
+
+
+
+
+
+
+
+
+
+
+(a) within 23 days after the day on which the Minister forms that opinion, publish in the Canada Gazette a notice that sets out the substance of the security measure and states that subsection 27.5(1) no longer applies in respect of the security measure; and
+
+
+
+
+
+
+
+
+
+
+(b) repeal the security measure before the earlier of
+
+
+
+
+
+
+
+
+
+
+(i) the day that is one year after the day on which the notice is published, and
+
+
+
+
+
+
+
+
+
+
+(ii) the day on which a regulation is made under subsection 27.1(1) in respect of the matter dealt with by the security measure.
+
+
+
+
+
+
+
+
+
+(4) S’il estime que la divulgation de la question faisant l’objet de la mesure ne compromet plus la sûreté des activités mentionnées au paragraphe (1) ou la sécurité publique, il prend les dispositions suivantes :
+
+
+
+Suspension d’application du par. 27.5(1) et abrogation de la mesure de sûreté
+
+
+
+
+
+a) il publie dans la Gazette du Canada, dans un délai de vingt-trois jours après s’être formé une opinion, un avis énonçant la teneur de la mesure et précisant que le paragraphe 27.5(1) ne s’applique plus à celle-ci;
+
+
+
+
+
+
+
+
+
+
+
+b) il abroge la mesure au plus tard un an après la publication de l’avis ou, si la question fait entre-temps l’objet d’un règlement visé au paragraphe 27.1(1), dès la prise du règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effect of notice
+
+
+
+(5) If a notice is published under paragraph (4)(a), subsection 27.5(1) ceases to apply in respect of the security measure as of the day the notice is published.
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe 27.5(1) cesse de s’appliquer à la mesure à la date de publication de l’avis mentionné à l’alinéa (4)a).
+
+
+
+Effet de l’avis
+
+
+
+
+
+
+
+
+
+
+Consultation
+
+
+
+(6) Before making a security measure, the Minister shall consult with any person or organization that the Minister considers appropriate in the circumstances.
+
+
+
+
+
+
+
+
+
+(6) Avant la prise de mesures de sûreté, le ministre consulte les personnes ou organismes qu’il estime opportun de consulter.
+
+
+
+Consultation
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(7) Subsection (6) does not apply if, in the opinion of the Minister, the security measure is immediately required for the security of the importing, offering for transport, handling or transporting of dangerous goods or for public safety.
+
+
+
+
+
+
+
+
+
+(7) Le paragraphe (6) ne s’applique pas à la mesure de sûreté qui, de l’avis du ministre, est immédiatement requise pour la sûreté de l’importation, de la présentation au transport, de la manutention ou du transport de marchandises dangereuses ou pour la sécurité publique.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Deputy may make security measures
+
+
+
+
+27.3 (1) The Minister may authorize his or her deputy to make, subject to any restrictions or conditions that the Minister specifies, secu- rity measures whenever the deputy is of the opinion that the measures are immediately required for public safety, provided that the conditions in paragraphs 27.2(2)(a) and (b) are met.
+
+
+
+
+
+
+
+
+
+
+27.3 (1) Le ministre peut, sous réserve des restrictions et conditions qu’il précise, autoriser le sous-ministre des Transports à prendre des mesures de sûreté dans les cas où celui-ci estime que de telles mesures sont immédiatement requises pour la sûreté publique et où les conditions prévues aux alinéas 27.2(2)a) et b) sont réunies.
+
+
+
+Mesure de sûreté prise par le sous-ministre autorisé par le ministre
+
+
+
+
+
+
+
+
+
+
+Duration
+
+
+
+(2) The security measure comes into force immediately when it is made but ceases to have force 90 days after the day on which it is made unless the Minister or his or her deputy repeals it earlier.
+
+
+
+
+
+
+
+
+
+(2) La mesure de sûreté entre en vigueur dès sa prise et le demeure pendant quatre-vingt-dix jours, à moins que le ministre ou le sous-ministre ne la révoque plus tôt.
+
+
+
+Période de validité
+
+
+
+
+
+
+
+
+
+
+Relationship with regulations
+
+
+
+
+27.4 (1) A security measure may provide that it applies in lieu of or in addition to any regulation under subsection 27.1(1).
+
+
+
+
+
+
+
+
+
+
+27.4 (1) Les mesures de sûreté peuvent prévoir qu’elles s’appliquent en plus ou à la place des règlements visés au paragraphe 27.1(1).
+
+
+
+Substitution ou adjonction des mesures aux règlements
+
+
+
+
+
+
+
+
+
+
+Conflict
+
+
+
+(2) If there is a conflict between a regulation under subsection 27.1(1) and a security meas- ure, the security measure prevails to the extent of the conflict.
+
+
+
+
+
+
+
+
+
+(2) Les dispositions des mesures de sûreté l’emportent sur les dispositions incompatibles des règlements visés au paragraphe 27.1(1).
+
+
+
+Incompatibilité
+
+
+
+
+
+
+
+
+
+
+Unauthorized disclosure — security measures
+
+
+
+
+27.5 (1) Unless the Minister states under subsection 27.2(4) that this subsection does not apply in respect of a security measure, no person other than the person who made the security measure shall disclose its substance to any other person unless the disclosure is required by law or is necessary to give the security measure effect.
+
+
+
+
+
+
+
+
+
+
+27.5 (1) Sauf si le ministre soustrait la mesure de sûreté à l’application du présent paragraphe en vertu du paragraphe 27.2(4), seule la personne qui a pris la mesure peut en communiquer la teneur, sauf si la communication est soit légalement exigée, soit nécessaire pour que la mesure ait un effet.
+
+
+
+Secret des mesures de sûreté
+
+
+
+
+
+
+
+
+
+
+Court to inform Minister
+
+
+
+(2) If, in any proceedings before a court or other body having jurisdiction to compel the production or discovery of information, a request is made for the production or discovery of any security measure, the court or other body shall, if the Minister is not a party to the proceedings, cause a notice of the request to be given to the Minister, and, in camera, examine the security measure and give the Minister a reasonable opportunity to make representations with respect to it.
+
+
+
+
+
+
+
+
+
+(2) Dans le cadre d’une procédure engagée devant lui, le tribunal ou tout autre organisme habilité à exiger la production et l’examen de renseignements qui est saisi d’une demande à cet effet relativement à une mesure de sûreté fait notifier la demande au ministre si celui-ci n’est pas déjà partie à la procédure et, à huis clos, examine la mesure de sûreté et donne au ministre la possibilité de présenter ses observations à ce sujet.
+
+
+
+Avis au ministre
+
+
+
+
+
+
+
+
+
+
+Order
+
+
+
+(3) If the court or other body concludes in the circumstances of the case that the public interest in the proper administration of justice outweighs in importance the public interest in the security of the importing, offering for transport, handling or transporting of dangerous goods, the court or other body shall order the production or discovery of the security measure, subject to any restrictions or conditions that it considers appropriate, and may require any person to give evidence that relates to the security measure.
+
+
+
+
+
+
+
+
+
+(3) S’il conclut que, en l’espèce, l’intérêt du public dans la bonne administration de la justice l’emporte sur l’intérêt de celui-ci dans la sûreté de l’importation, de la présentation au transport, de la manutention ou du transport des marchandises dangereuses, le tribunal ou l’autre organisme ordonne la production et l’examen de la mesure de sûreté, sous réserve des restrictions ou conditions qu’il juge indiquées; il peut en outre enjoindre à toute personne de témoigner au sujet de la mesure.
+
+
+
+Ordonnance
+
+
+
+
+
+
+
+
+
+
+Interim orders
+
+
+
+
+27.6 (1) The Minister may make an interim order that contains any provision that may be contained in a regulation under subsection 27.1(1) if the Minister believes that immediate action is required to deal with an immediate threat to the security of the importing, offering for transport, handling or transporting of dangerous goods or to public safety.
+
+
+
+
+
+
+
+
+
+
+27.6 (1) Le ministre peut prendre un arrêté d’urgence comportant toute disposition que peut contenir un règlement visé au paragraphe 27.1(1), s’il estime qu’une intervention immédiate est nécessaire pour qu’il soit remédié à une menace imminente pour la sûreté de l’importation, de la présentation au transport, de la manutention ou du transport de marchandises dangereuses ou pour la sécurité publique.
+
+
+
+Arrêté d’urgence
+
+
+
+
+
+
+
+
+
+
+Deputy may make interim orders
+
+
+
+(2) The Minister may authorize his or her deputy to make, subject to any restrictions or conditions that the Minister specifies, an interim order whenever the deputy believes that immediate action is required to deal with an immediate threat to the security of the importing, offering for transport, handling or transporting of dangerous goods or to public safety.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut, sous réserve des restrictions et conditions qu’il précise, autoriser le sous-ministre des Transports à prendre des arrêtés d’urgence dans les cas où celui-ci estime que des arrêtés sont immédiatement requis pour la sécurité publique et où les conditions prévues aux alinéas 27.2(2)a) et b) sont réunies.
+
+
+
+Arrêté d’urgence pris par le sous-ministre
+
+
+
+
+
+
+
+
+
+
+Duration
+
+
+
+(3) An interim order comes into force immediately when it is made but ceases to have effect on the earliest of
+
+
+
+
+
+
+
+
+
+
+(a) the day that is 14 days after the day on which it is made, unless it is approved by the Governor in Council,
+
+
+
+
+
+
+
+
+
+
+(b) the day on which it is repealed,
+
+
+
+
+
+
+
+
+
+
+(c) the day on which a regulation made under subsection 27.1(1) that has the same effect as the interim order comes into force, and
+
+
+
+
+
+
+
+
+
+
+(d) the day that is two years after the day on which the interim order is made or that is at the end of any shorter period that the interim order specifies.
+
+
+
+
+
+
+
+
+
+(3) L’arrêté entre en vigueur dès sa prise et cesse d’avoir effet à celui des moments suivants qui a lieu en premier :
+
+
+
+Période de validité
+
+
+
+
+
+a) quatorze jours après sa prise, sauf agrément du gouverneur en conseil;
+
+
+
+
+
+
+
+
+
+
+
+b) le jour de son abrogation;
+
+
+
+
+
+
+
+
+
+
+
+c) le jour de l’entrée en vigueur d’un règlement visé au paragraphe 27.1(1) au même effet;
+
+
+
+
+
+
+
+
+
+
+
+d) deux ans — ou la période plus courte qui y est précisée — après sa prise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+
+(4) An interim order shall be published in the Canada Gazette within 23 days after the day on which it is made.
+
+
+
+
+
+
+
+
+
+(4) L’arrêté est publié dans la Gazette du Canada dans les vingt-trois jours suivant sa prise.
+
+
+
+Publication
+
+
+
+
+
+
+
+
+
+
+Tabling of order
+
+
+
+(5) A copy of each interim order shall be tabled in each House of Parliament within 15 days after the day on which it is made.
+
+
+
+
+
+
+
+
+
+(5) Une copie de l’arrêté est déposée devant chaque chambre du Parlement dans les quinze jours suivant sa prise.
+
+
+
+Dépôt devant les chambres du Parlement
+
+
+
+
+
+
+
+
+
+
+House not sitting
+
+
+
+(6) In order to comply with subsection (5), the interim order may be sent to the Clerk of the House if the House is not sitting.
+
+
+
+
+
+
+
+
+
+(6) Il suffit, pour se conformer à l’obligation prévue au paragraphe (5), de la communiquer au greffier de la chambre dans le cas où celle-ci ne siège pas.
+
+
+
+Communication au greffier
+
+
+
+
+
+
+
+
+
+
+Exemption from Statutory Instruments Act
+
+
+
+
+27.7 (1) Security measures and interim orders are not statutory instruments for the purposes of the Statutory Instruments Act.
+
+
+
+
+
+
+
+
+
+
+27.7 (1) Les mesures de sûreté et les arrêtés d’urgence ne sont pas des textes réglementaires pour l’application de la Loi sur les textes réglementaires.
+
+
+
+Non-application de la Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+Precondition for contravention
+
+
+
+(2) No person shall be found to have contravened any security measure, or any interim order that has not been published in the Canada Gazette under subsection 27.6(4) at the time of the alleged contravention, unless it is proved that, at the time of the alleged contravention, the person had been notified of the security measure or interim order or reasonable steps had been taken to bring its purport to the notice of those persons likely to be affected by it.
+
+
+
+
+
+
+
+
+
+(2) Nul ne peut être reconnu coupable d’avoir contrevenu à une mesure de sûreté ou à un arrêté d’urgence qui, à la date du fait reproché, n’avait pas encore été publié dans la Gazette du Canada en application du paragraphe 27.6(4), sauf s’il est établi qu’à cette date les intéressés avaient été avisés de la mesure ou de l’arrêté ou que des mesures raisonnables avaient été prises pour que les intéressés soient informés de sa teneur.
+
+
+
+Contravention d’une mesure de sûreté ou d’un arrêté d’urgence non publié
+
+
+
+
+
+
+
+
+
+
+Certificate
+
+
+
+(3) A certificate purporting to be signed by the Minister or the Secretary of the Department of Transport and stating that a notice containing the security measure or interim order was given to persons likely to be affected by it or that reasonable steps had been taken to bring its purport to their notice is, in the absence of evidence to the contrary, proof that notice was given to those persons.
+
+
+
+
+
+
+
+
+
+(3) Le certificat apparemment signé par le ministre ou par le secrétaire du ministère des Transports faisant état qu’un avis accompagné du texte de la mesure de sûreté ou de l’arrêté d’urgence a été communiqué aux intéressés ou que des mesures raisonnables ont été prises pour informer les intéressés de sa teneur, fait foi, sauf preuve contraire, de la communication de l’avis aux intéressés.
+
+
+
+Certificat
+
+
+
+
+
+
+
+
+
+
+
+
+
+27. Section 28 of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+27. L’article 28 de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28. (1) The portion of subsection 29(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+28. (1) Le passage du paragraphe 29(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Ministerial fees orders
+
+
+
+
+29. (1) The Minister may make orders fixing any fees or charges, or determining the manner of calculating any fees or charges, to be paid
+
+
+
+
+
+
+
+
+
+
+29. (1) Le ministre peut, par arrêté, fixer le montant ou déterminer le mode de calcul de celui-ci, en ce qui touche les droits à percevoir, selon le cas :
+
+
+
+Arrêté ministériel
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 29(1)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 29(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) in relation to applying for transportation security clearances described in subsection 5.2(2), equivalency certificates described in subsection 31(1), approvals or registrations under this Act.
+
+
+
+
+
+
+
+
+
+
+b) pour les demandes d’agrément, d’inscription, d’habilitation de sécurité en matière de transport visée au paragraphe 5.2(2) ou de certificat d’équivalence visé au paragraphe 31(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29. (1) Subsection 30(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+29. (1) Le paragraphe 30(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Proposed regulations and orders to be published
+
+
+
+
+30. (1) Subject to subsection (2), a copy of each regulation that the Governor in Council proposes to make under section 27 or 27.1 and each order that the Minister proposes to make under section 29 shall be published in the Canada Gazette and a reasonable opportunity shall be given to interested persons to make representations to the Minister with respect to the regulation or order.
+
+
+
+
+
+
+
+
+
+
+30. (1) Sous réserve du paragraphe (2), les projets de règlements d’application des articles 27 et 27.1 et les arrêtés prévus à l’article 29 sont publiés dans la Gazette du Canada, les intéressés se voyant accorder la possibilité de présenter leurs observations au ministre.
+
+
+
+Publication des projets de règlement et arrêtés
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 30(2) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 30(2) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+
+(2) Ne sont pas visés les projets de règlement ou d’arrêté déjà publiés, qu’ils aient été modifiés ou non à la suite des observations.
+
+
+
+
+
+
+
+
+
+
+(2) Ne sont pas visés les projets de règlement ou d’arrêté déjà publiés, qu’ils aient été modifiés ou non à la suite des observations.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 30 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(3) L'article 30 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Review of regulations — House of Commons
+
+
+
+(3) The Standing Committee on Transport, Infrastructure and Communities of the House of Commons or, if there is not a Standing Committee on Transport, Infrastructure and Communities, the appropriate committee of that House may review any regulations made under this Act, either on its own initiative or on receiving a written complaint regarding a specific safety concern. The Committee may hold public hearings and may table its report on its review in the House of Commons.
+
+
+
+
+
+
+
+
+
+(3) Le Comité permanent des transports, de l'infrastructure et des collectivités de la Chambre des communes ou, à défaut, le comité compétent de la Chambre peut, de sa propre initiative ou à la suite du dépôt d’une plainte écrite portant sur une question spécifique de sécurité, examiner les règlements pris en vertu de la présente loi. Il peut également tenir des audiences publiques à cet égard et faire rapport de ses conclusions à la Chambre.
+
+
+
+Examen des règlements : Chambre des communes
+
+
+
+
+
+
+
+
+
+
+Review of regulations — Senate
+
+
+
+(4) The Standing Senate Committee on Transport and Communications or, if there is not a Standing Senate Committee on Transport and Communications, the appropriate committee of the Senate  may review any regulations  made under this Act, either on its own initiative or on receiving a written complaint regarding a specific safety concern. The committee may hold public hearings and may table its report on its review in the Senate.
+
+
+
+
+
+
+
+
+
+(4) Le Comité sénatorial permanent des transports et des communications ou, à défaut, le comité compétent du Sénat peut, de sa propre initiative ou à la suite du dépôt d'une plainte écrite portant sur une question spécifique de sécurité, examiner les règlements pris en vertu de la présente loi. Il peut également tenir des audiences publiques à cet égard et faire rapport de ses conclusions au Sénat.
+
+
+
+Examen des règlements : Sénat
+
+
+
+
+
+
+
+
+
+
+1994, c. 26, ss. 72(F) and 73
+
+
+
+
+30. The heading before section 31 and sections 31 to 33 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+30. L’intertitre précédant l’article 31 et les articles 31 à 33 de la même loi sont remplacés par ce qui suit :
+
+
+
+1994, ch. 26, art. 72(F) et 73
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CERTIFICATES AND DIRECTIONS
+
+
+
+
+
+
+
+
+
+CERTIFICATS ET ORDRES
+
+
+
+
+
+
+
+
+
+
+
+
+Equivalency certificate
+
+
+
+
+31. (1) The Minister may issue an equivalency certificate authorizing any activity to be carried on in a manner that does not comply with this Act if the Minister is satisfied that the manner in which the authorized activity will be carried on provides a level of safety at least equivalent to that provided by compliance with this Act.
+
+
+
+
+
+
+
+
+
+
+31. (1) Le ministre peut délivrer un certificat d’équivalence autorisant toute activité qui n’est pas conforme à la présente loi s’il est convaincu que son déroulement offre un niveau de sécurité au moins équivalent à celui que procurerait la conformité avec la loi.
+
+
+
+Certificat d’équivalence
+
+
+
+
+
+
+
+
+
+
+Emergency certificate
+
+
+
+(2) The Minister may issue an emergency certificate authorizing any activity to be carried on in a manner that does not comply with this Act if the Minister is satisfied that the authorized activity is necessary to deal with an emergency in which there is danger to public safety.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut délivrer un certificat d’urgence autorisant toute activité qui n’est pas conforme à la présente loi s’il est convaincu que l’activité est nécessaire pour qu’il soit remédié à une situation d’urgence comportant une menace pour la sécurité publique.
+
+
+
+Certificat d’urgence
+
+
+
+
+
+
+
+
+
+
+Temporary certificate
+
+
+
+(2.1) The Minister may, in the public interest, issue a temporary certificate authorizing any activity to be carried on in a manner that does not comply with this Act.
+
+
+
+
+
+
+
+
+
+(2.1) Le ministre peut, dans l’intérêt public, délivrer un certificat temporaire autorisant toute activité qui n’est pas conforme à la présente loi.
+
+
+
+Certificat temporaire
+
+
+
+
+
+
+
+
+
+
+Immunity
+
+
+
+(2.2) No action lies against Her Majesty in right of Canada, the Minister, his or her Deputy or any person employed in the Department of Transport for anything done or omitted to be done in good faith under subsection (2.1).
+
+
+
+
+
+
+
+
+
+(2.2) Sa Majesté du chef du Canada, le ministre et son sous-ministre, de même que les employés du ministère des Transports, bénéficient de l’immunité judiciaire pour les actes ou omissions accomplis de bonne foi en application du paragraphe (2.1).
+
+
+
+Responsabilité de l’État
+
+
+
+
+
+
+
+
+
+
+Exemption from Statutory Instruments Act
+
+
+
+(3) An equivalency, emergency or temporary certificate is not a statutory instrument for the purposes of the Statutory Instruments Act and the contents of an emergency certificate or a temporary certificate may be issued orally, but the emergency certificate or temporary certificate shall be issued in writing as soon as possible and the writing is conclusive proof of its content.
+
+
+
+
+
+
+
+
+
+(3) Un certificat d’équivalence, d’urgence ou temporaire n’est pas un texte réglementaire pour l’application de la Loi sur les textes réglementaires; la teneur d’un certificat d’urgence ou temporaire peut être communiquée verbalement, mais le certificat doit être établi par écrit dès que possible, l’écrit faisant dès lors foi de son contenu.
+
+
+
+Non-application de la Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+Terms and conditions
+
+
+
+(4) An equivalency, emergency or temporary certificate may include terms and conditions governing the authorized activity and, if any of the terms or conditions is not complied with in the course of carrying on the activity, the Act and regulations apply to the activity as though the certificate did not exist.
+
+
+
+
+
+
+
+
+
+(4) Un certificat d’équivalence, d’urgence ou temporaire peut être assorti de conditions régissant l’activité autorisée, auquel cas l’inobservation de l’une d’entre elles entraîne à l’égard de cette activité l’application des dispositions de la loi et des règlements comme si le certificat n’existait pas.
+
+
+
+Conditions
+
+
+
+
+
+
+
+
+
+
+Scope of certificate
+
+
+
+(5) An equivalency, emergency or temporary certificate may specify the persons who may carry on the activity and the dangerous goods or means of containment that it may involve.
+
+
+
+
+
+
+
+
+
+(5) Un certificat d’équivalence, d’urgence ou temporaire peut en outre préciser les personnes qui peuvent exercer l’activité autorisée ainsi que les marchandises dangereuses ou les contenants qui peuvent faire l’objet du certificat.
+
+
+
+Étendue du certificat
+
+
+
+
+
+
+
+
+
+
+Revocation of certificate
+
+
+
+(6) The Minister may revoke an equivalency, emergency or temporary certificate — including an emergency or temporary certificate the contents of which have been issued orally — if the Minister is no longer satisfied of the matter described in subsection (1), (2) or (2.1), respectively, or the regulations have been amended and have the same effect as the certificate.
+
+
+
+
+
+
+
+
+
+(6) Le ministre peut révoquer le certificat d’équivalence, le certificat d’urgence ou le certificat temporaire, y compris celui dont la teneur a été communiquée verbalement, s’il est d’avis que le paragraphe (1), (2) ou (2.1), selon le cas, ne s’applique plus ou si les règlements ont été modifiés au même effet et régissent dorénavant l’activité autorisée par le certificat.
+
+
+
+Révocation du certificat d’équivalence, d’urgence ou temporaire
+
+
+
+
+
+
+
+
+
+
+Protective directions
+
+
+
+
+32. (1) The Minister may, if satisfied of the conditions described in subsection (2), direct a person engaged in importing, offering for transport, handling or transporting dangerous goods, or supplying or importing standardized means of containment, to cease that activity or to conduct other activities to reduce any danger to public safety.
+
+
+
+
+
+
+
+
+
+
+32. (1) Le ministre peut, dès qu’il est convaincu que les conditions visées au paragraphe (2) ont été réalisées, ordonner aux personnes qui se livrent à l’importation, à la présentation au transport, à la manutention ou au transport de marchandises dangereuses, ou qui fournissent ou importent des contenants normalisés, de cesser ces activités ou d’accomplir toute autre chose en vue d’atténuer toute menace pour la sécurité publique.
+
+
+
+Ordre du ministre
+
+
+
+
+
+
+
+
+
+
+Emergency
+
+
+
+(2) The Minister may not make the direction unless the Minister is satisfied that the direction is necessary to deal with an emergency that involves danger to public safety and that cannot be effectively dealt with under any other provision of this Act.
+
+
+
+
+
+
+
+
+
+(2) Il doit être convaincu que l’ordre est nécessaire pour qu’il soit remédié à une situation d’urgence comportant une menace pour la sécurité publique et à laquelle il ne peut être remédié efficacement sur le fondement d’une autre disposition de la présente loi.
+
+
+
+Condition
+
+
+
+
+
+
+
+
+
+
+Revocation of protective direction
+
+
+
+(3) The Minister may suspend or revoke the direction if the Minister is satisfied that it is no longer needed.
+
+
+
+
+
+
+
+
+
+(3) Il peut suspendre ou révoquer l’ordre s’il est d’avis qu’il n’est plus nécessaire.
+
+
+
+Révocation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OFFENCES AND PUNISHMENT
+
+
+
+
+
+
+
+
+
+INFRACTIONS ET PEINES
+
+
+
+
+
+
+
+
+
+
+
+
+Contraventions
+
+
+
+
+33. (1) Every person is guilty of an offence who contravenes a provision of
+
+
+
+
+
+
+
+
+
+
+(a) this Act;
+
+
+
+
+
+
+
+
+
+
+(b) a direction issued under paragraph 7.1(a), subsection 9(2) or (3), section 17, paragraph 19(1)(a) or (b) or subsection 32(1);
+
+
+
+
+
+
+
+
+
+
+(c) the regulations;
+
+
+
+
+
+
+
+
+
+
+(d) a security measure; or
+
+
+
+
+
+
+
+
+
+
+(e) an interim order.
+
+
+
+
+
+
+
+
+
+
+33. (1) Commet une infraction quiconque contrevient à une disposition :
+
+
+
+Contravention à la loi ou à ses règlements
+
+
+
+
+
+a) de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+b) d’un ordre donné en vertu de l’alinéa 7.1a), des paragraphes 9(2) ou (3), de l’article 17, des alinéas 19(1)a) ou b) ou du paragraphe 32(1);
+
+
+
+
+
+
+
+
+
+
+
+c) d’un règlement;
+
+
+
+
+
+
+
+
+
+
+
+d) d’une mesure de sûreté;
+
+
+
+
+
+
+
+
+
+
+
+e) d’un arrêté d’urgence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(2) Every person who commits an offence under subsection (1)
+
+
+
+
+
+
+
+
+
+
+(a) is liable on indictment to imprisonment for a term not exceeding two years; or
+
+
+
+
+
+
+
+
+
+
+(b) is liable on summary conviction to a fine not exceeding $50,000 for a first offence, and not exceeding $100,000 for each subsequent offence.
+
+
+
+
+
+
+
+
+
+(2) Quiconque commet une infraction visée au paragraphe (1) encourt, sur déclaration de culpabilité :
+
+
+
+Peines
+
+
+
+
+
+a) par mise en accusation, un emprisonnement maximal de deux ans;
+
+
+
+
+
+
+
+
+
+
+
+b) par procédure sommaire, une amende maximale de cinquante mille dollars pour la première infraction et de cent mille dollars pour chaque récidive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exemption from Statutory Instruments Act
+
+
+
+(3) For greater certainty, a direction referred to in paragraph (1)(b) is not a statutory instrument for the purposes of the Statutory Instruments Act, but no person shall be convicted of an offence under paragraph (1)(b) unless the person was notified of the direction and, if any applicable regulations have been made under paragraph 27(1)(t), the notification was in accordance with the regulations.
+
+
+
+
+
+
+
+
+
+(3) Il est entendu qu’un ordre visé à l’alinéa (1)b) n’est pas un texte réglementaire pour l’application de la Loi sur les textes réglementaires, mais nul ne peut être déclaré coupable d’une infraction à l’alinéa (1)b) s’il n’a pas eu notification de l’ordre ou si celui-ci n’est pas conforme aux éventuels règlements d’application de l’alinéa 27(1)t).
+
+
+
+Non-application de la Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+31. Paragraph 34(1)(d) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+31. L’alinéa 34(1)d) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) requiring the person to conduct programs of technical research and investigation into the development and improvement of safety marks, safety requirements and safety stand- ards, or to pay an amount in accordance with the regulations to be used to conduct the research.
+
+
+
+
+
+
+
+
+
+
+d) ordonner que le contrevenant mette en oeuvre des programmes de recherches techniques portant sur l’établissement et l’amélioration des indications de sécurité, règles de sécurité et normes de sécurité ou ordonner le versement, à cette fin, d’une somme d’argent selon les modalités réglementaires.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32. Section 35 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+32. L’article 35 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation period for summary conviction offences
+
+
+
+
+35. Proceedings by way of summary conviction may be instituted at any time within, but not later than, five years after the day on which the subject matter of the proceedings arose.
+
+
+
+
+
+
+
+
+
+
+35. Les poursuites par voie de procédure sommaire se prescrivent par cinq ans à compter de la date de survenance de l’événement.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+
+
+
+33. Section 38 of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+33. L’article 38 de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offences by employee, agent or mandatary
+
+
+
+
+38. In any prosecution for an offence, it is sufficient proof of the offence to establish that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary is identified or has been prosecuted for the offence.
+
+
+
+
+
+
+
+
+
+
+
+38. In any prosecution for an offence, it is sufficient proof of the offence to establish that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary is identified or has been prosecuted for the offence.
+
+
+
+
+Offences by employee, agent or mandatary
+
+
+
+
+
+
+
+
+
+
+
+
+
+34. Section 39 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+34. L’article 39 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Representative of organization
+
+
+
+
+39. If an organization commits an offence, a representative who plays an important role in the establishment of the organization’s policies or is responsible for managing an important aspect of the organization’s activities — and, in the case of a corporation, an officer, director, agent or mandatary — who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the organization has been prosecuted for the offence.
+
+
+
+
+
+
+
+
+
+
+39. En cas de perpétration d’une infraction par une organisation, ceux de ses représentants jouant un rôle important dans l’élaboration des orientations de l’organisation ou assurant la gestion d’un important domaine d’activités de celle-ci — les dirigeants, administrateurs ou mandataires dans le cas d’un corps constitué — qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que l’organisation ait été ou non poursuivie.
+
+
+
+Dirigeants d’une organisation
+
+
+
+
+
+
+
+
+
+
+
+
+
+35. Section 42 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+35. L’article 42 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prima facie proof
+
+
+
+
+42. In any prosecution for an offence, evidence that a means of containment or transport bore a dangerous goods mark — or another mark that is likely to be mistaken for a dangerous goods mark — or was accompanied by a shipping record is, in the absence of evidence to the contrary, proof of the presence and identification of dangerous goods indicated by the dangerous goods mark or other mark or the shipping record.
+
+
+
+
+
+
+
+
+
+
+42. Dans toute poursuite pour infraction, l’indication de marchandises dangereuses, ou une indication susceptible d’être confondue avec une telle indication de marchandises dangereuses, apparaissant sur un contenant ou sur un moyen de transport, ou les renseignements sur le registre d’expédition les accompagnant, font foi de la présence et de l’identifica- tion des marchandises dangereuses, sauf preuve contraire.
+
+
+
+Preuve prima facie
+
+
+
+
+
+
+
+
+
+
+Terminology
+
+
+
+
+36. The French version of the Act is amended by replacing “indications de danger” with “indications de sécurité” in the following provisions:
+
+
+
+
+
+
+
+
+
+
+(a) paragraph 25(a); and
+
+
+
+
+
+
+
+
+
+
+(b) paragraph 26(1)(a).
+
+
+
+
+
+
+
+
+
+
+36. Dans les passages ci-après de la version française de la même loi, « indications de danger » est remplacé par « indications de sécurité » :
+
+
+
+Terminologie
+
+
+
+
+
+a) l’alinéa 25a);
+
+
+
+
+
+
+
+
+
+
+
+b) l’alinéa 26(1)a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+37. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+37. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

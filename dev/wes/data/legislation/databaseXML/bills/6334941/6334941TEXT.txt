@@ -1,0 +1,2088 @@
+
+
+
+
+
+
+C-559
+
+
+
+
+
+C-559
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-559
+
+
+
+
+
+PROJET DE LOI C-559
+
+
+
+
+
+
+An Act to amend the Canada Elections Act and the Parliament of Canada Act (reforms)
+
+
+
+
+
+Loi modifiant la Loi électorale du Canada et la Loi sur le Parlement du Canada (réformes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 3, 2013
+
+
+
+
+
+première lecture le 3 décembre 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Chong
+
+
+412100
+
+
+
+
+M. Chong
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Canada Elections Act to provide that
+(a) nomination contests are to be held by a party’s electoral district association;
+(b) proof of the party’s endorsement of a prospective candidate is to be provided by the nomination officer of the party’s electoral district association;
+(c) a nomination officer is appointed by a majority vote of the electoral district association; and
+(d) an application for registration of a political party must include an extract of the party by-laws that sets out the process for leadership review.
+It also amends the Parliament of Canada Act to provide for the expulsion and readmission of a caucus member and for the election and removal of a caucus chair.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi électorale du Canada afin de prévoir ce qui suit :
+
+a) les courses à l’investiture sont tenues par l’association de circonscription du parti;
+
+b) l’agent à l'investiture de l’association de circonscription du parti doit démontrer qu’il soutient une personne qui désire se porter candidat pour le parti;
+
+c) l’agent à l’investiture est nommé à la majorité des voix de l’association de circonscription;
+
+d) la demande d’enregistrement d’un parti politique doit comporter les extraits des règlements administratifs du parti prévoyant le processus d’examen de la direction.
+Il modifie également la Loi sur le Parlement du Canada afin de prévoir les modalités relatives à l’expulsion et à la réadmission d’un député d’un groupe parlementaire ainsi qu’à l’élection et à la destitution du président d’un groupe parlementaire.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-559
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-559
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Elections Act and the Parliament of Canada Act (reforms)
+
+
+
+
+
+
+Whereas Members of Parliament are elected by their constituents to represent them in the Parliament of Canada;
+
+
+
+
+
+
+Whereas the leadership of political parties must maintain the confidence of their caucuses;
+
+
+
+
+
+
+And whereas, in Canada, the executive branch of government is accountable to the legislative branch in accordance with the concept of responsible government, which is the foundation of the Westminster system of parliamentary democracy;
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi électorale du Canada et la Loi sur le Parlement du Canada (réformes)
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que les députés sont élus par les citoyens de leur circonscription afin qu’ils les représentent au Parlement du Canada;
+
+
+
+
+
+
+que la direction d’un parti politique doit garder la confiance de son groupe parlementaire;
+
+
+
+
+
+
+qu’au Canada, le pouvoir exécutif doit rendre des comptes au pouvoir législatif suivant le principe de la responsabilité gouvernementale, qui constitue le fondement de la démocratie parlementaire de type Westmin-ster,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Reform Act, 2013.
+
+
+
+
+
+
+
+
+
+
+1. Loi de 2013 instituant des réformes.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 9
+
+
+
+CANADA ELECTIONS ACT
+
+
+
+
+
+
+
+
+
+LOI ÉLECTORALE DU CANADA
+
+
+
+2000, ch. 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) Subsection 2(1) of the Canada Elections Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+
+2. (1) Le paragraphe 2(1) de la Loi électorale du Canada est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“leadership review”« examen de la direction »
+
+
+
+
+“leadership review” means a process to endorse or replace the leader of a registered party.
+
+
+
+
+
+“nomination officer”« agent à l’investiture »
+
+
+
+
+“nomination officer” means a person who is appointed by the electoral district association of a political party to endorse the prospective candidate for the party in that electoral district in accordance with section 68.
+
+
+
+
+
+
+
+
+
+
+
+« agent à l’investiture » Personne nommée par l’association de circonscription d’un parti politique afin de soutenir la personne qui désire se porter candidat pour le parti dans cette circonscription conformément à l’article 68.
+
+
+
+
+« agent à l’investiture »“nomination officer”
+
+
+
+
+
+« examen de la direction » Processus visant à soutenir ou à remplacer le chef d’un parti enregistré.
+
+
+
+
+« examen de la direction »“leadership review”
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definition “nomination contest” in subsection 2(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) La définition de « course à l’investiture », au paragraphe 2(1) de la même loi, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“nomination contest”« course à l’investiture »
+
+
+
+“nomination contest” means a competition for the selection of a person to be proposed to the nomination officer of the electoral district association of a political party for his or her endorsement as the party’s prospective candidate in an electoral district.
+
+
+
+
+
+
+
+
+
+« course à l’investiture » Compétition visant à choisir la personne dont la candidature dans une circonscription sera proposée à l’agent à l’investiture de l’association de circonscription d’un parti politique en vue de l’obtention de son soutien.
+
+
+
+« course à l’investiture »“nomination contest”
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after  the heading “Nomination of Candidates” before section 66:
+
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l’intertitre « Candidatures » précédant l’article 66, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Nomination contests
+
+
+
+
+
+65.1 Nomination contests shall be held by the registered association for the electoral district to which the nomination relates at a time and date fixed by the association and in accordance with the rules established by the association.
+
+
+
+
+
+
+
+
+
+
+
+
+65.1 La course à l’investiture est tenue par l’association enregistrée de la circonscription concernée à la date et à l’heure qu’elle fixe et en conformité avec les règles qu’elle a établies.
+
+
+
+
+Courses à l’investiture
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Paragraph 67(4)(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. L’alinéa 67(4)c) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) if applicable, an instrument in writing, signed by the nomination officer of the political party’s electoral district association for the electoral district that states that the prospective candidate is endorsed by the party.
+
+
+
+
+
+
+
+
+
+
+c) s’il y a lieu, un acte écrit, signé par l’agent à l’investiture de l’association de circonscription du parti politique, énonçant que la personne qui désire se porter candidat est soutenue par le parti.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Act is amended by adding the following after section 68:
+
+
+
+
+
+
+
+
+
+
+5. La même loi est modifiée par adjonction, après l’article 68, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Endorsement by nominating officer
+
+
+
+
+
+68.1 (1) A prospective candidate for a political party in an electoral district must be endorsed by the nomination officer of the party’s electoral district association of the party in that electoral district.
+
+
+
+
+
+
+
+
+
+
+
+
+68.1 (1) La personne qui désire se porter candidat pour un parti politique dans une circonscription doit être soutenue par l’agent à l’investiture de l’association de circonscription concernée du parti.
+
+
+
+
+Soutien de l’agent à l’investiture
+
+
+
+
+
+
+
+
+
+
+Appointment of nominating officer
+
+
+
+
+(2) The nomination officer referred to in subsection (1) shall be appointed by the members of the electoral district association by a majority vote.
+
+
+
+
+
+
+
+
+
+
+
+(2) L’agent à l’investiture visé au paragraphe (1) est nommé par les membres de l’association de circonscription, à la majorité des voix.
+
+
+
+
+Nomination de l’agent à l’investiture
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) Subsection 366(2) of the Act is amended by striking out “and” at the end of paragraph (i), by adding “and” at the end of paragraph (j) and by adding the following after paragraph (j):
+
+
+
+
+
+
+
+
+
+
+6. (1) Le paragraphe 366(2) de la même loi est modifié par adjonction, après l’alinéa j), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(k) the extract of the party by-laws that provides that
+
+
+
+
+
+
+
+
+(i) a leadership review may be initiated by the submission of a written notice to the caucus chair signed by at least 15% of the members of the party’s caucus,
+
+
+
+
+
+
+
+
+(ii) a leadership review is to be conducted by secret ballot, with the result to be determined by a majority vote of the caucus members present at a meeting of the caucus, and
+
+
+
+
+
+
+
+
+(iii) if a majority of caucus members present at the meeting referred to in subparagraph (ii) vote to replace the leader of the party, a second vote of the caucus shall be conducted immediately by secret ballot to appoint a person to serve as the interim leader of the party until a new leader has been duly elected by the party.
+
+
+
+
+
+
+
+
+
+
+
+
+k) les extraits des règlements administratifs du parti prévoyant que :
+
+
+
+
+
+
+
+
+(i) l’examen de la direction est déclenché sur présentation au président du groupe parlementaire d’un avis écrit signé par au moins 15 % des députés du groupe parlementaire du parti,
+
+
+
+
+
+
+
+
+(ii) l’examen de la direction se fait au scrutin secret, à la majorité des voix exprimées par les députés du groupe parlementaire présents à la réunion,
+
+
+
+
+
+
+
+
+(iii) dans le cas où la majorité des députés du groupe parlementaire présents à la réunion visée au sous-alinéa (ii) votent pour le remplacement du chef du parti, un second vote au scrutin secret est tenu sans délai afin de nommer la personne qui occupera par intérim les fonctions de chef du parti jusqu’à l’élection en bonne et due forme du nouveau chef.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 366 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(2) L’article 366 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “caucus”
+
+
+
+
+(2.1) For the purposes of paragraph (2)(k), “caucus” has the same meaning as in section 49.1 of the Parliament of Canada Act.  
+
+
+
+
+
+
+
+
+
+
+
+(2.1) Pour l’application de l’alinéa (2)k), « groupe parlementaire » s’entend au sens de l’article 49.1 de la Loi sur le Parlement du Canada.
+
+
+
+
+Définition de « groupe parlementaire »
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) Subsection 369(2) of the Act is amended by striking out “or” at the end of paragraph (c), by adding “or” at the end of paragraph (d) and by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+
+7. (1) Le paragraphe 369(2) de la même loi est modifié par adjonction, après l’alinéa d), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e) the party by-laws do not provide for a  leadership review as set out in paragraph 366(2)(k).
+
+
+
+
+
+
+
+
+
+
+
+
+e) les règlements administratifs du parti ne prévoient pas l’examen de la direction visé à l’alinéa 366(2)k).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 369 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 369 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Leadership review
+
+
+
+
+(3) A political party that is registered on the day this Act comes into force shall have 12 months to satisfy the Chief Electoral Officer that the party by-laws provide for a  leadership review as set out in paragraph 366(2)(k).
+
+
+
+
+
+
+
+
+
+
+
+(3) Le parti politique déjà enregistré à la date d’entrée en vigueur de la présente loi doit, dans les douze mois suivants, convaincre le directeur général des élections que ses règlements administratifs prévoient l’examen de la direction visé à l’alinéa 366(2)k).
+
+
+
+
+Examen de la direction
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Subsection 383(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+8. Le paragraphe 383(2) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Subsections 403.2(2) and (3) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. Les paragraphes 403.2(2) et (3) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2) Subsection (1) does not apply during an election period in the electoral district of the registered association.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas durant une période électorale dans la circonscription de l’association enregistrée.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. The portion of subsection 478.02(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. Le passage du paragraphe 478.02(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Notice of nomination contest
+
+
+
+
+478.02 (1) When a nomination contest is held, the registered association shall, within 60 days after the selection date, file with the Chief Electoral Officer a report setting out
+
+
+
+
+
+
+
+
+
+
+478.02 (1) Lorsqu’est tenue une course à l’investiture, l’association enregistrée dépose auprès du directeur général des élections, dans les soixante jours suivant la date de désignation, un rapport comportant :
+
+
+
+Notification de la course à l'investiture
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. The Act is amended by adding the following after section 553:
+
+
+
+
+
+
+
+
+
+
+11. La même loi est modifiée par adjonction, après l’article 553, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Constitution and by-laws of registered parties
+
+
+
+
+
+
+
+
+
+
+
+Constitution et règlements administratifs des partis enregistrés
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conflict with constitution and by-laws
+
+
+
+
+
+553.1 In the event of  a conflict or inconsistency between a provision of this Act and a provision of the constitution or by-laws of a registered party, the provision of this Act prevails to the extent of the conflict or inconsistency.
+
+
+
+
+
+
+
+
+
+
+
+
+553.1 Les dispositions de la présente loi l’emportent sur toute disposition incompatible de la constitution ou des règlements administratifs des partis enregistrés.
+
+
+
+
+Incompatibilité— constitution et règlements administratifs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. P-1
+
+
+
+PARLIAMENT OF CANADA ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE PARLEMENT DU CANADA
+
+
+
+L.R., ch. P-1
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. The Parliament of Canada Act is amended by adding the following after section 49:
+
+
+
+
+
+
+
+
+
+
+12. La Loi sur le Parlement du Canada est modifiée par adjonction, après l’article 49, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division C.1
+
+
+
+
+
+
+
+
+
+
+
+Section C.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caucuses
+
+
+
+
+
+
+
+
+
+
+
+Groupes parlementaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+
+
+49.1 The following definition applies in this Division.
+
+
+
+
+
+“caucus”« groupe parlementaire »
+
+
+
+
+“caucus” means a group composed solely of members of the House of Commons who are members of the same recognized party.
+
+
+
+
+
+
+
+
+
+
+
+
+49.1 La définition qui suit s’applique à la présente section.
+
+
+
+
+Définition
+
+
+
+
+
+« groupe parlementaire » Groupe  composé exclusivement des députés qui adhèrent à un même parti reconnu.
+
+
+
+
+« groupe parlementaire »“caucus”
+
+
+
+
+
+
+
+
+
+
+Expulsion of caucus member
+
+
+
+
+
+49.2 A member of a caucus may only be expelled from it if
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the caucus chair has received a written notice signed by at least 15% of the members of the caucus requesting that the member’s membership be reviewed at a meeting of the caucus; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the expulsion of the member is approved by a majority vote by secret ballot of the caucus members present at that meeting.
+
+
+
+
+
+
+
+
+
+
+
+
+49.2 Un député ne peut être expulsé d'un groupe parlementaire que si, à la fois :
+
+
+
+
+Expulsion d’un député du groupe parlementaire
+
+
+
+
+
+
+a) le président du groupe parlementaire reçoit un avis écrit, signé par au moins 15 % des députés du groupe parlementaire, demandant que l’adhésion du député soit examinée lors d’une réunion du groupe parlementaire;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) l’expulsion du député est approuvée, à la majorité des voix exprimées au scrutin secret, par les députés du groupe parlementaire présents à la réunion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Readmission of  member
+
+
+
+
+
+49.3 A member of the House of Commons who has been expelled from the caucus of a party may only be readmitted to the caucus
+
+
+
+
+
+
+
+
+
+
+
+
+(a) if the member is re-elected to the House of Commons as a candidate for that party; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) if
+
+
+
+
+
+
+
+
+
+
+
+
+(i) the caucus chair has received a written notice signed by at least 15% of the members of the caucus requesting that the member’s readmission to the caucus be considered at a meeting of the caucus, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) the readmission of the member is approved by a majority vote by secret ballot of the caucus members present at that meeting.
+
+
+
+
+
+
+
+
+
+
+
+
+49.3 Le député qui a été expulsé du groupe parlementaire d’un parti ne peut y être réadmis que dans l’un ou l’autre des cas suivants :
+
+
+
+
+Réadmission d’un député
+
+
+
+
+
+
+a) il est réélu à la Chambre des communes à titre de candidat de ce parti;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) les conditions suivantes sont réunies :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) le président du groupe parlementaire reçoit un avis écrit, signé par au moins 15 % des députés du groupe parlementaire, demandant que la réadmission du député soit examinée lors d’une réunion du groupe parlementaire,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) la réadmission du député est approuvée, à la majorité des voix exprimées au scrutin secret, par les députés du groupe parlementaire présents à la réunion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Election of chair
+
+
+
+
+
+49.4 (1) After every general election or following the death, incapacity, resignation or removal of the chair of a caucus in accordance with subsection (2), a chair shall be elected by a majority vote by secret ballot of the members of that caucus who are present at a meeting of the caucus.
+
+
+
+
+
+
+
+
+
+
+
+
+49.4 (1) Après chaque élection générale ou à la suite du décès, de l’empêchement, de la démission ou de la destitution, conformément au paragraphe (2), du président du groupe parlementaire, un président est élu à la majorité des voix exprimées au scrutin secret par les députés présents à la réunion du groupe parlementaire.
+
+
+
+
+Élection du président
+
+
+
+
+
+
+
+
+
+
+Removal of caucus chair
+
+
+
+
+(2) The chair of the caucus of a party may only be removed if
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the chair has received a written notice signed by at least 15% of the caucus members requesting that the occupancy of the chair be reviewed at a meeting of the caucus; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the removal of the chair is approved by a majority vote by secret ballot of the caucus members present at that meeting.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le président du groupe parlementaire d’un parti ne peut être destitué que si, à la fois :
+
+
+
+
+Destitution du président du groupe parlementaire
+
+
+
+
+
+
+a) il reçoit un avis écrit, signé par au moins 15 % des députés du groupe parlementaire, demandant que la présidence soit examinée lors d’une réunion du groupe parlementaire;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) sa destitution est approuvée, à la majorité des voix exprimées au scrutin secret, par les députés du groupe parlementaire présents à la réunion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Senior caucus member
+
+
+
+
+(3) Any vote that is taken under subsection (1) or (2) shall be presided over by the caucus member with the greatest number of years of service in the House of Commons.
+
+
+
+
+
+
+
+
+
+
+
+(3) Le vote tenu au titre des paragraphes (1) ou (2) est présidé par le député du groupe parlementaire comptant le plus d’années de service à la Chambre des communes.
+
+
+
+
+Député comptant le plus d’années de service
+
+
+
+
+
+
+
+
+
+
+Bar against judicial review
+
+
+
+
+
+49.5 Any determination of a matter relating to the internal operations of a party by the caucus, a committee of the caucus or the caucus chair is final and not subject to judicial review.
+
+
+
+
+
+
+
+
+
+
+
+
+49.5 Toute décision relative au fonctionnement interne d’un parti prise par le groupe parlementaire, un comité du groupe parlementaire ou le président du groupe parlementaire est définitive et n’est pas susceptible de contrôle judiciaire.
+
+
+
+
+Interdiction du contrôle judiciaire
+
+
+
+
+
+
+
+
+
+
+Conflict with constitution and by-laws
+
+
+
+
+
+49.6 In the event of a conflict or inconsistency between a provision of sections 49.1 to 49.5 and a provision of the constitution or by-laws of a party, the provision of sections 49.1 to 49.5 prevails to the extent of the conflict or inconsistency.
+
+
+
+
+
+
+
+
+
+
+
+
+49.6 Les articles 49.1 à 49.5 de la présente loi l’emportent sur toute disposition incompatible de la constitution ou des règlements administratifs des partis.
+
+
+
+
+Incompatibilité— constitution et règlements administratifs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+
+13. This Act comes into force seven days after the day on which the next general election following the day on which this Act receives royal assent is held.
+
+
+
+
+
+
+
+
+
+
+13. La présente loi entre en vigueur sept jours après la date de la première élection générale suivant la date de la sanction de la présente loi.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

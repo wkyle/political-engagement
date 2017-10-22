@@ -1,0 +1,1378 @@
+
+
+
+
+
+
+C-70
+
+
+
+
+
+C-70
+
+
+
+
+
+
+First Session, Thirty-eighth Parliament,
+
+
+
+
+
+Première session, trente-huitième législature,
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-70
+
+
+
+
+
+PROJET DE LOI C-70
+
+
+
+
+
+
+An Act to amend the Criminal Code (conditional sentence of imprisonment)
+
+
+
+
+
+Loi modifiant le Code criminel (emprisonnement avec sursis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, October 27, 2005
+
+
+
+
+
+première lecture le 27 octobre 2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE MINISTER OF JUSTICE
+
+90346
+
+
+
+LE MINISTRE DE LA JUSTICE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code to create a presumption that courts shall not make conditional sentence orders when sentencing offenders convicted of serious personal injury offences, terrorism offences, criminal organization offences or any other offences whose nature and circumstances are such that they require the paramount sentencing objective of the court to be the expression of society’s denunciation. It also allows a court to suspend a conditional sentence order pending appeal, and, before doing so, to order the accused to enter into an undertaking or recognizance. In addition, this enactment clarifies that the minimum punishment provided for offences under sections 253 and 254 of the Criminal Code applies to impaired driving offences causing bodily harm or death and provides that a court may order that the time served under an order prohibiting the operation of a means of transport be served consecutively to the time served under any other similar order that is in force.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel pour créer une présomption contre le recours à l’emprisonnement avec sursis en cas de sévices graves à la personne, d’infraction de terrorisme, d’infraction d’organisation criminelle et d’infraction dont la nature et les circonstances de la perpétration sont telles qu’elles commandent au tribunal d’accorder prépondérance à l’objectif de dénonciation pour déterminer la peine. Il permet au tribunal de suspendre l’application d’une condamnation à l’emprisonnement avec sursis jusqu’à l’issue de l’appel et d’ordonner, avant une telle suspension, la remise d’une promesse ou la prise d’un engagement par l’accusé. Il vise également à préciser que les peines minimales prévues pour les infractions aux articles 253 et 254 du Code criminel s’appliquent aussi aux infractions de conduite avec facultés affaiblies causant la mort ou des lésions corporelles. Enfin, il habilite le tribunal à prononcer une ordonnance d’interdiction de conduire un véhicule à moteur ou autre moyen de transport dont l’application est consécutive à toute ordonnance au même effet toujours en vigueur.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 38th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 38e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-70
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-70
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (conditional sentence of imprisonment)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (emprisonnement avec sursis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 255 of the Criminal Code is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+
+1. L’article 255 du Code criminel est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+
+(3.1) For greater certainty, every one who is liable to the punishment described in subsection (2) or (3) is also liable to the minimum punishment described in paragraph (1)(a).
+
+
+
+
+
+
+
+
+
+
+
+(3.1) Il demeure entendu que les peines minimales prévues à l’alinéa (1)a) s’appliquent dans les cas visés aux paragraphes (2) et (3).
+
+
+
+
+Règle d’interprétation
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 259 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+
+2. L’article 259 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Consecutive prohibition periods
+
+
+
+
+(2.1) The court may, when it makes an order under this section prohibiting the operation of a motor vehicle, a vessel, an aircraft or railway equipment, as the case may be, order that the time served under that order be served consecutively to the time served under any other order made under this section that prohibits the operation of the same means of transport and that is in force.
+
+
+
+
+
+
+
+
+
+
+
+(2.1) Le tribunal peut ordonner que l’ordonnance d’interdiction qu’il rend en vertu du présent article relativement à un véhicule à moteur, un bateau, un aéronef ou du matériel ferroviaire s’applique consécutivement à toute autre ordonnance d’interdiction rendue en vertu du présent article qui vise la conduite par l’accusé du même moyen de transport et qui est toujours en vigueur.
+
+
+
+
+Ordonnances consécutives
+
+
+
+
+
+
+
+
+
+
+R.S., c. 23 (4th Supp.), s. 5; 1995, c. 22, s. 10 (Sch. I, item 28); 1997, c. 18, s. 97(1) and par. 141(b); 1999, c. 25, s. 15
+
+
+
+
+3. (1) Subsection 683(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. (1) Le paragraphe 683(5) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 23 (4e suppl.), art. 5; 1995, ch. 22, art. 10, ann. I, art. 28; 1997, ch. 18, par. 97(1) et al. 141b); 1999, ch. 25, art. 15
+
+
+
+
+
+
+
+
+
+
+Power to order suspension
+
+
+
+(5) If an appeal or an application for leave to appeal has been filed in the court of appeal, that court, or a judge of that court, may, when the court, or the judge, considers it to be in the interests of justice, order that any of the following be suspended until the appeal has been determined:
+
+
+
+
+
+
+
+
+
+
+(a) an obligation to pay a fine;
+
+
+
+
+
+
+
+
+
+
+(b) an order of forfeiture or disposition of forfeited property;
+
+
+
+
+
+
+
+
+
+
+(c) an order to make restitution under section 738 or 739;
+
+
+
+
+
+
+
+
+
+
+(d) an obligation to pay a victim surcharge under section 737;
+
+
+
+
+
+
+
+
+
+
+(e) a probation order under section 731; and
+
+
+
+
+
+
+
+
+
+
+
+(f) a conditional sentence order under section 742.1.
+
+
+
+
+
+
+
+
+
+
+(5) Lorsqu’un appel ou une demande d’autorisation d’appel ont été déposés, la cour d’appel ou l’un de ses juges peut, s’il est convaincu que l’intérêt de la justice l’exige, ordonner de suspendre jusqu’à décision définitive sur l’appel :
+
+
+
+Pouvoir de suspendre l’exécution
+
+
+
+
+
+a) le paiement de l’amende;
+
+
+
+
+
+
+
+
+
+
+
+b) l’ordonnance de confiscation ou de disposition de biens confisqués;
+
+
+
+
+
+
+
+
+
+
+
+c) l’ordonnance de dédommagement visée aux articles 738 ou 739;
+
+
+
+
+
+
+
+
+
+
+
+d) le paiement de la suramende compensatoire visée à l’article 737;
+
+
+
+
+
+
+
+
+
+
+
+e) l’ordonnance de probation visée à l’article 731;
+
+
+
+
+
+
+
+
+
+
+
+
+f) l’ordonnance de sursis visée à l’article 742.1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Undertaking or recognizance
+
+
+
+
+(5.1) Before making an order under paragraph (5)(e) or (f), the court of appeal, or a judge of that court, may order the offender to enter into an undertaking or recognizance.
+
+
+
+
+
+
+
+
+
+
+
+(5.1) Avant de rendre une ordonnance de suspension en vertu des alinéas (5)e) ou f), la cour d’appel ou l’un de ses juges peut ordonner que le délinquant remette une promesse ou contracte un engagement.
+
+
+
+
+Promesse ou engagement
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 683 of the Act is amended by adding the following after subsection (6):
+
+
+
+
+
+
+
+
+
+(2) L’article 683 de la même loi est modifié par adjonction, après le paragraphe (6), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Undertaking or recognizance to be taken into account
+
+
+
+
+(7) If the offender has been ordered to enter into an undertaking or recognizance under subsection (5.1), the court of appeal shall, in determining whether to vary the sentence of the offender, take into account the conditions of that undertaking or recognizance and the period during which they were imposed.
+
+
+
+
+
+
+
+
+
+
+
+(7) Dans le cas où le délinquant est tenu de remettre une promesse ou de contracter un engagement aux termes d’une ordonnance rendue en vertu du paragraphe (5.1), la cour d’appel doit, lorsqu’elle décide si elle modifie ou non la peine, prendre en considération les conditions afférentes à la promesse ou à l’engagement et la période pour laquelle elles lui ont été imposées.
+
+
+
+
+Facteurs à prendre en considération
+
+
+
+
+
+
+
+
+
+
+1995, c. 22, s. 6; 1997, c. 18, s. 107.1
+
+
+
+
+4. Section 742.1 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. L’article 742.1 de la même loi est remplacé par ce qui suit :
+
+
+
+1995, ch. 22, art. 6; 1997, ch. 18, art. 107.1
+
+
+
+
+
+
+
+
+
+
+Imposing of conditional sentence
+
+
+
+
+742.1 (1) If a person is convicted of an offence, other than an offence that is punishable by a minimum term of imprisonment, and the court imposes a sentence of imprisonment of less than two years and is satisfied that the service of the sentence in the community would not endanger the safety of the community and would be consistent with the fundamental purpose and principles of sentencing set out in sections 718 to 718.2, the court may, for the purpose of supervising the offender’s behaviour in the community, order that the offender serve the sentence in the community, subject to the offender’s compliance with the conditions imposed under section 742.3.
+
+
+
+
+
+
+
+
+
+
+742.1 (1) S’il est convaincu que la mesure ne met pas en danger la sécurité de la collectivité et est conforme à l’objectif et aux principes visés aux articles 718 à 718.2, le tribunal peut ordonner à toute personne déclarée coupable d’une infraction — autre qu’une infraction pour laquelle une peine minimale d’emprisonnement est prévue — et condamnée à un emprisonnement de moins de deux ans de purger sa peine dans la collectivité afin que soit surveillée la conduite de cette personne, sous réserve de l’observation des conditions qui lui sont imposées en application de l’article 742.3.
+
+
+
+Octroi du sursis
+
+
+
+
+
+
+
+
+
+
+Exceptions
+
+
+
+
+(2) Despite subsection (1), the court shall not order that an offender serve his or her sentence in the community if the offender has been convicted of any of the following offences, unless the court is satisfied that it is in the interests of justice to do so because of exceptional circumstances:
+
+
+
+
+
+
+
+
+
+
+
+
+(a) a serious personal injury offence as defined in section 752;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) a terrorism offence;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) a criminal organization offence; and
+
+
+
+
+
+
+
+
+
+
+
+
+(d) an offence in respect of which, on the basis of the nature and circumstances of the offence, the expression of society’s denunciation should take precedence over any other sentencing objectives.
+
+
+
+
+
+
+
+
+
+
+
+(2) Toutefois, à moins d’être convaincu qu’une telle mesure servirait les intérêts de la justice en raison de circonstances exceptionnelles, le tribunal ne peut rendre l’ordonnance à l’égard de la personne déclarée coupable de l’une des infractions suivantes :
+
+
+
+
+Cas particuliers
+
+
+
+
+
+
+a) infraction constituant des sévices graves à la personne au sens de l’article 752;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) infraction de terrorisme;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) infraction d’organisation criminelle;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) infraction dont la nature et les circonstances de la perpétration sont telles que la dénonciation devrait avoir prépondérance sur les autres objectifs servant à déterminer la peine, afin d’exprimer la réprobation de la société à son égard.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statement of exceptional circumstances
+
+
+
+
+(3) If the court orders the offender to serve his or her sentence in the community because of exceptional circumstances, the court shall include in the record a statement of those circumstances.
+
+
+
+
+
+
+
+
+
+
+
+(3) Le cas échéant, le tribunal consigne les circonstances exceptionnelles au dossier de l’instance.
+
+
+
+
+Motifs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENT
+
+
+
+
+
+
+
+
+
+DISPOSITION DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-65
+
+
+
+
+5. If Bill C-65, introduced in the 1st session of the 38th Parliament and entitled An Act to amend the Criminal Code (street racing) and to make a consequential amendment to another Act (referred to in this section as the “other Act”), receives royal assent, then, on the later of the coming into force of subsection 4(1) of the other Act and section 2 of this Act,
+
+
+
+
+
+
+
+
+
+
+(a) subsection 259(2.1) of the Criminal Code, as enacted by section 2 of this Act, is repealed;
+
+
+
+
+
+
+
+
+
+
+(b) subsection 259(2.1) of the Criminal Code, as enacted by subsection 4(1) of the other Act, is repealed; and
+
+
+
+
+
+
+
+
+
+
+(c) section 259 of the Criminal Code is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+
+5. En cas de sanction du projet de loi C-65, déposé au cours de la 1re session de la 38e législature et intitulé Loi modifiant le Code criminel (courses de rue) et une autre loi en conséquence (appelé « autre loi » au présent article), à l’entrée en vigueur du paragraphe 4(1) de l’autre loi ou à celle de l’article 2 de la présente loi, la dernière en date étant à retenir :
+
+
+
+Projet de loi C-65
+
+
+
+
+
+a) le paragraphe 259(2.1) du Code criminel, dans sa version édictée par l’article 2 de la présente loi, est abrogé;
+
+
+
+
+
+
+
+
+
+
+
+b) le paragraphe 259(2.1) du Code criminel, dans sa version édictée par le paragraphe 4(1) de l’autre loi, est abrogé;
+
+
+
+
+
+
+
+
+
+
+
+c) l’article 259 du Code criminel est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mandatory order of prohibition
+
+
+
+(2.1) Despite subsection (2), when an offender is convicted of an offence committed under section 220 or 221 or subsection 249(3) or (4) and was street racing at the time the offence was committed, the court that sentences the offender shall, in addition to any other punishment that may be imposed for that offence, make an order prohibiting the offender from operating a motor vehicle on any street, road, highway or other public place
+
+
+
+
+
+
+
+
+
+
+(a) in the case of an offence under section 221 or subsection 249(3) or (4), during a period of not more than ten years and not less than one year, plus any period to which the offender is sentenced to imprisonment; and
+
+
+
+
+
+
+
+
+
+
+(b) in the case of an offence under section 220, during any period that the court considers proper but for not less than one year, plus any period to which the offender is sentenced to imprisonment.
+
+
+
+
+
+
+
+
+
+(2.1) Malgré le paragraphe (2), lorsqu’il inflige une peine au délinquant qui a été déclaré coupable d’une infraction prévue aux articles 220 ou 221 ou aux paragraphes 249(3) ou (4) et commise à l’occasion d’une course de rue, le tribunal, en plus de toute autre peine applicable à cette infraction, rend une ordonnance lui interdisant de conduire un véhicule à moteur dans une rue, un chemin, une grande route ou tout autre lieu public :
+
+
+
+Ordonnance d’interdiction obligatoire
+
+
+
+
+
+a) dans le cas d’une infraction prévue à l’article 221 ou aux paragraphes 249(3) ou (4), durant une période d’au moins un an et d’au plus dix ans, sans compter la période d’emprisonnement à laquelle il est condamné;
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas d’une infraction prévue à l’article 220, durant la période d’au moins un an que le tribunal estime appropriée, sans compter la période d’emprisonnement à laquelle il est condamné.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consecutive prohibition periods
+
+
+
+(2.2) The court may, when it makes an order under this section prohibiting the operation of a motor vehicle, a vessel, an aircraft or railway equipment, as the case may be, order that the time served under that order be served consecutively to the time served under any other order made under this section that prohibits the operation of the same means of transport and that is in force.
+
+
+
+
+
+
+
+
+
+(2.2) Le tribunal peut ordonner que l’ordonnance d’interdiction qu’il rend en vertu du présent article relativement à un véhicule à moteur, un bateau, un aéronef ou du matériel ferroviaire s’applique consécutivement à toute autre ordonnance d’interdiction rendue en vertu du présent article qui vise la conduite par l’accusé du même moyen de transport et qui est toujours en vigueur.
+
+
+
+Ordonnances consécutives
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Criminal Code
+
+Clause 1: New.
+
+
+
+Code criminel
+
+Article 1 : Nouveau.
+
+
+
+
+
+Clause 2: New.
+
+
+
+
+Article 2 : Nouveau.
+
+
+
+
+
+Clause 3: (1) Existing text of subsection 683(5):
+(5) Where an appeal or an application for leave to appeal has been filed in the court of appeal, that court, or a judge of that court, may, where it considers it to be in the interests of justice, order that
+(a) any obligation to pay a fine,
+(b) any order of forfeiture or disposition of forfeited property,
+(c) any order to make restitution under section 738 or 739,
+(d) any obligation to pay a victim surcharge under section 737, or
+(e) the conditions prescribed in a probation order under subsections 732.1(2) and (3)
+be suspended until the appeal has been determined.
+
+
+
+
+Article 3 : (1) Texte du paragraphe 683(5) :
+(5) Lorsqu’un appel ou une demande d’autorisation d’appel ont été déposés, la cour d’appel ou un de ses juges peut, si elle est convaincue que l’intérêt de la justice l’exige, ordonner de suspendre jusqu’à décision définitive sur l’appel :
+
+a) le paiement de l’amende;
+
+b) l’ordonnance de confiscation ou de disposition de biens confisqués;
+
+c) l’ordonnance de dédommagement visée aux articles 738 ou 739;
+
+d) le paiement de la suramende compensatoire visée à l’article 737;
+
+e) les conditions inscrites dans l’ordonnance de probation visée aux paragraphes 732.1(2) et (3).
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+
+Clause 4: Existing text of section 742.1:
+
+742.1 Where a person is convicted of an offence, except an offence that is punishable by a minimum term of imprisonment, and the court
+(a) imposes a sentence of imprisonment of less than two years, and
+(b) is satisfied that serving the sentence in the community would not endanger the safety of the community and would be consistent with the fundamental purpose and principles of sentencing set out in sections 718 to 718.2,
+the court may, for the purpose of supervising the offender’s behaviour in the community, order that the offender serve the sentence in the community, subject to the offender’s complying with the conditions of a conditional sentence order made under section 742.3.
+
+
+
+
+Article 4 : Texte de l’article 742.1 :
+
+742.1 Lorsqu’une personne est déclarée coupable d’une infraction — autre qu’une infraction pour laquelle une peine minimale d’emprisonnement est prévue — et condamnée à un emprisonnement de moins de deux ans, le tribunal peut, s’il est convaincu que le fait de purger la peine au sein de la collectivité ne met pas en danger la sécurité de celle-ci et est conforme à l’objectif et aux principes visés aux articles 718 à 718.2, ordonner au délinquant de purger sa peine dans la collectivité afin d’y surveiller le comportement de celui-ci, sous réserve de l’observation des conditions qui lui sont imposées en application de l’article 742.3.
+
+
+
+
+
+

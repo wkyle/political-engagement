@@ -1,0 +1,2031 @@
+
+
+
+
+
+
+C-53
+
+
+
+
+
+C-53
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-53
+
+
+
+
+
+PROJET DE LOI C-53
+
+
+
+
+
+
+An Act to amend the Corrections and Conditional Release Act (accelerated parole review) and to make consequential amendments to other Acts
+
+
+
+
+
+Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition (procédure d’examen expéditif) et apportant des modifications corrélatives à d’autres lois
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, October 26, 2009
+
+
+
+
+
+première lecture le 26 octobre 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF PUBLIC SAFETY
+
+90537
+
+
+
+MINISTRE DE LA SÉCURITÉ PUBLIQUE
+
+
+
+
+
+
+
+
+
+
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the Corrections and Conditional Release Act (accelerated parole review) and to make consequential amendments to other Acts”.
+SUMMARY
+This enactment amends the Corrections and Conditional Release Act to eliminate accelerated parole review and makes consequential amendments to other Acts. This enactment also makes coordinating amendments in the event that the Strengthening Canada’s Corrections System Act receives royal assent.
+
+
+
+RECOMMANDATION
+Son Excellence la gouverneure générale recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition (procédure d’examen expéditif) et apportant des modifications corrélatives à d’autres lois ».
+SOMMAIRE
+Le texte modifie la Loi sur le système correctionnel et la mise en liberté sous condition pour supprimer la procédure d’examen expéditif et apporte des modifications corrélatives à d’autres lois. Il prévoit aussi des dispositions de coordination en cas de sanction de la Loi sur le renforcement du système correctionnel fédéral.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-53
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-53
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Corrections and Conditional Release Act (accelerated parole review) and to make consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition (procédure d’examen expéditif) et apportant des modifications corrélatives à d’autres lois
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Protecting Canadians by Ending Early Release for Criminals Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi visant à protéger les Canadiens par l’abolition de la libération anticipée des criminels.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1992, c. 20
+
+
+
+CORRECTIONS AND CONDITIONAL RELEASE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE SYSTÈME CORRECTIONNEL ET LA MISE EN LIBERTÉ SOUS CONDITION
+
+
+
+1992, ch. 20
+
+
+
+
+
+
+
+
+
+
+1995, c. 42, s. 23(2)
+
+
+
+
+2. Subsection 93(3.1) of the Corrections and Conditional Release Act is repealed.
+
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 93(3.1) de la Loi sur le système correctionnel et la mise en liberté sous condition est abrogé.
+
+
+
+1995, ch. 42, par. 23(2)
+
+
+
+
+
+
+
+
+
+
+1997, c. 17, s. 21(1)
+
+
+
+
+3. Section 119.1 of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+3. L’article 119.1 de la même loi est abrogé.
+
+
+
+1997, ch. 17, par. 21(1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. (1) Subsection 124(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. (1) Le paragraphe 124(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offenders unlawfully at large
+
+
+
+
+124. (1) The Board is not required to review the case of an offender who is unlawfully at large at the time prescribed for a review under section 122 or 123, but shall do so as soon as possible after being informed of the offender’s return to custody.
+
+
+
+
+
+
+
+
+
+
+124. (1) La Commission n’est pas tenue d’examiner le cas du délinquant qui se trouve illégalement en liberté au moment prévu pour l’un des examens visés aux articles 122 ou 123; elle doit cependant le faire dans les meilleurs délais possible après avoir été informée de sa réincarcération.
+
+
+
+Délinquant illégalement en liberté
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 124(3) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 124(3) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Cancellation of parole
+
+
+
+(3) If an offender has been granted parole under section 122 or 123, the Board may, after a review of the case based on information that could not reasonably have been provided to it at the time parole was granted, cancel the parole if the offender has not been released or terminate the parole if the offender has been released.
+
+
+
+
+
+
+
+
+
+
+(3) If an offender has been granted parole under section 122 or 123, the Board may, after a review of the case based on information that could not reasonably have been provided to it at the time parole was granted, cancel the parole if the offender has not been released or terminate the parole if the offender has been released.
+
+
+
+
+Cancellation of parole
+
+
+
+
+
+
+
+
+
+
+1995, c. 42, ss. 39 and 40; 1997, c. 17, ss. 24 and 25; 1999, c. 5, ss. 50 and 53; 2001, c. 41, s. 90
+
+
+
+
+5. The heading before section 125 and sections 125 to 126.1 of the Act are repealed.
+
+
+
+
+
+
+
+
+
+
+5. L’intertitre précédant l’article 125 et les articles 125 à 126.1 de la même loi sont abrogés.
+
+
+
+1995, ch. 42, art. 39 et 40; 1997, ch. 17, art. 24 et 25; 1999, ch. 5, art. 50 et 53; 2001, ch. 41, art. 90
+
+
+
+
+
+
+
+
+
+
+1995, c. 42, s. 55(1)(E)
+
+
+
+
+6. Paragraph 140(1)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. L’alinéa 140(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+1995, ch. 42, par. 55(1)(E)
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the first review for full parole pursuant to subsection 123(1) and subsequent reviews pursuant to subsection 123(5);
+
+
+
+
+
+
+
+
+
+
+b) l’examen prévu au paragraphe 123(1) et chaque réexamen prévu en vertu du paragraphe 123(5);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Subsection 225(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+7. Le paragraphe 225(2) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Schedule I to the Act is amended by replacing “(Subsections 107(1), 125(1) and 126(7) and sections 129 and 130)” after the heading “SCHEDULE I” with “(Subsections 107(1), 129(1) and (2), 130(3) and (4), 133(4.1) and 156(3))”.
+
+
+
+
+
+
+
+
+
+
+8. La mention « (paragraphes 107(1), 125(1) et 126(7) et articles 129 et 130) » qui suit le titre « ANNEXE I », à l’annexe I de la même loi, est remplacée par « (paragraphes 107(1), 129(1) et (2), 130(3) et (4), 133(4.1) et (4.3) et 156(3)) ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Schedule II to the Act is amended by replacing “(Subsections 107(1) and 125(1) and sections 129, 130 and 132)” after the heading “SCHEDULE II” with “(Subsections 107(1), 129(1), (2) and (9), 130(3) and (4) and 156(3))”.
+
+
+
+
+
+
+
+
+
+
+9. La mention « (paragraphes 107(1) et 125(1) et articles 129, 130 et 132) » qui suit le titre « ANNEXE II », à l’annexe II de la même loi, est remplacée par « (paragraphes 107(1), 129(1), (2) et (9), 130(3) et (4) et 156(3)) ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISION
+
+
+
+
+
+
+
+
+
+DISPOSITION TRANSITOIRE
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+
+10. The accelerated parole review process in the Corrections and Conditional Release Act, as that Act read on the day before the day on which this Act comes into force, continues to apply to offenders who were sentenced, committed or transferred to penitentiary for the first time — other than under an agreement referred to in paragraph 16(1)(b) of the Corrections and Conditional Release Act — before the day on which this Act comes into force.
+
+
+
+
+
+
+
+
+
+
+10. La procédure d’examen expéditif prévue par la Loi sur le système correctionnel et la mise en liberté sous condition, dans sa version antérieure à la date d’entrée en vigueur de la présente loi, continue de s’appliquer au cas des délinquants condamnés ou transférés pour la première fois au pénitencier — autrement qu’en vertu de l’accord visé au paragraphe 16(1) de la Loi sur le système correctionnel et la mise en liberté sous condition — avant cette date.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1995, c. 42
+
+
+
+An Act to Amend the Corrections and Conditional Release Act, the Criminal Code, the Criminal Records Act, the Prisons and Reformatories Act and the Transfer of Offenders Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition, le Code criminel, la Loi sur le casier judiciaire, la Loi sur les prisons et les maisons de correction et la Loi sur le transfèrement des délinquants
+
+
+
+1995, ch. 42
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. Section 89 of An Act to amend the Corrections and Conditional Release Act, the Criminal Code, the Criminal Records Act, the Prisons and Reformatories Act and the Transfer of Offenders Act is repealed.
+
+
+
+
+
+
+
+
+
+
+11. L’article 89 de la Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition, le Code criminel, la Loi sur le casier judiciaire, la Loi sur les prisons et les maisons de correction et la Loi sur le transfèrement des délinquants est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1997, c. 17
+
+
+
+An Act to Amend the Criminal Code (high risk offenders), the Corrections and Conditional Release Act, the Criminal Records Act, the Prisons and Reformatories Act and the Department of the Solicitor General Act
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (délinquants présentant un risque élevé de récidive), la Loi sur le système correctionnel et la mise en liberté sous condition, la Loi sur le casier judiciaire, la Loi sur les prisons et les maisons de correction et la Loi sur le ministère du Solliciteur général
+
+
+
+1997, ch. 17
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Subsection 21(2) of An Act to amend the Criminal Code (high risk offenders), the Corrections and Conditional Release Act, the Criminal Records Act, the Prisons and Reformatories Act and the Department of the Solicitor General Act is repealed.
+
+
+
+
+
+
+
+
+
+
+12. Le paragraphe 21(2) de la Loi modifiant le Code criminel (délinquants présentant un risque élevé de récidive), la Loi sur le système correctionnel et la mise en liberté sous condition, la Loi sur le casier judiciaire, la Loi sur les prisons et les maisons de correction et la Loi sur le ministère du Solliciteur général est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41
+
+
+
+Anti-terrorism Act
+
+
+
+
+
+
+
+
+
+Loi antiterroriste
+
+
+
+2001, ch. 41
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. (1) Paragraph 94(1)(a) of the Anti-terrorism Act is repealed.
+
+
+
+
+
+
+
+
+
+
+13. (1) L’alinéa 94(1)a) de la Loi antiterroriste est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 94(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 94(2) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENTS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-43
+
+
+
+
+14. (1) Subsections (2) to (16) apply if Bill C-43, introduced in the 2nd session of the 40th Parliament and entitled the Strengthening Canada’s Corrections System Act (in this section referred to as the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+
+14. (1) Les paragraphes (2) à (16) s’appliquent en cas de sanction du projet de loi C-43, déposé au cours de la 2e session de la 40e législature et intitulé Loi sur le renforcement du système correctionnel fédéral (appelé « autre loi  » au présent article).
+
+
+
+Projet de loi C-43
+
+
+
+
+
+
+
+
+
+
+
+
+(2) If section 3 of this Act comes into force before section 24 of the other Act, then that section 24 is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Si l’article 3 de la présente loi entre en vigueur avant l’article 24 de l’autre loi, cet article 24 est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24. The Act is amended by adding the following after section 119:
+
+
+
+
+
+
+
+
+
+
+24. La même loi est modifiée par adjonction, après l’article 119, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “sentence”
+
+
+
+
+119.1 For the purpose of sections 120 to 120.3, and unless the context requires otherwise, a sentence is one that is not constituted under subsection 139(1).
+
+
+
+
+
+
+
+
+
+
+119.1 Pour l’application des articles 120 à 120.3, sauf indication contraire du contexte, « peine » s’entend de la peine qui n’est pas déterminée conformément au paragraphe 139(1).
+
+
+
+Définition de « peine »
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If section 24 of the other Act comes into force on the same day as section 3 of this Act, then that section 24 is deemed to have come into force before that section 3.
+
+
+
+
+
+
+
+
+
+(3) Si l’entrée en vigueur de l’article 24 de l’autre loi et celle de l’article 3 de la présente loi sont concomitantes, cet article 24 est réputé être entré en vigueur avant cet article 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) On the first day on which both section 29 of the other Act and subsection 4(1) of this Act are in force, subsection 124(1) of the Corrections and Conditional Release Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Dès le premier jour où l’article 29 de l’autre loi et le paragraphe 4(1) de la présente loi sont tous deux en vigueur, le paragraphe 124(1) de la Loi sur le système correctionnel et la mise en liberté sous condition est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offenders unlawfully at large
+
+
+
+
+124. (1) The Board is not required to review the case of an offender who is unlawfully at large during the period prescribed by the regulations for a review under section 122 or 123 but it shall review the case as soon as possible after being informed of the offender’s return to custody.
+
+
+
+
+
+
+
+
+
+
+124. (1) La Commission n’est pas tenue d’examiner le dossier du délinquant qui se trouve illégalement en liberté au cours de la période prévue par les règlements pour l’un des examens visés aux articles 122 ou 123; elle doit cependant le faire dans les meilleurs délais possible après avoir été informée de sa réincarcération.
+
+
+
+Délinquant illégalement en liberté
+
+
+
+
+
+
+
+
+
+
+
+
+(5) If section 5 of this Act comes into force before section 30 of the other Act, then that section 30 is repealed.
+
+
+
+
+
+
+
+
+
+(5) Si l’article 5 de la présente loi entre en vigueur avant l’article 30 de l’autre loi, cet article 30 est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6) If section 30 of the other Act comes into force on the same day as section 5 of this Act, then that section 30 is deemed to have come into force before that section 5.
+
+
+
+
+
+
+
+
+
+(6) Si l’entrée en vigueur de l’article 30 de l’autre loi et celle de l’article 5 de la présente loi sont concomitantes, cet article 30 est réputé être entré en vigueur avant cet article 5.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(7) On the first day on which both subsection 46(1) of the other Act and section 6 of this Act are in force, paragraph 140(1)(b) of the Corrections and Conditional Release Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(7) Dès le premier jour où le paragraphe 46(1) de l’autre loi et l’article 6 de la présente loi sont tous deux en vigueur, l’alinéa 140(1)b) de la Loi sur le système correctionnel et la mise en liberté sous condition est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the first review for full parole under subsection 123(1) and subsequent reviews under subsection 123(5) or (5.1);
+
+
+
+
+
+
+
+
+
+
+b) l’examen prévu au paragraphe 123(1) et chaque réexamen prévu en vertu des paragraphes 123(5) et (5.1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(8) If section 53 of the other Act comes into force before section 7 of this Act, then that section 7 is repealed.
+
+
+
+
+
+
+
+
+
+(8) Si l’article 53 de l’autre loi entre en vigueur avant l’article 7 de la présente loi, cet article 7 est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(9) If section 7 of this Act comes into force before section 53 of the other Act, then that section 53 is repealed.
+
+
+
+
+
+
+
+
+
+(9) Si l’article 7 de la présente loi entre en vigueur avant l’article 53 de l’autre loi, cet article 53 est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(10) If section 53 of the other Act comes into force on the same day as section 7 of this Act, then that section 53 is deemed to have come into force before that section 7 and subsection (8) applies as a consequence.
+
+
+
+
+
+
+
+
+
+(10) Si l’entrée en vigueur de l’article 53 de l’autre loi et celle de l’article 7 de la présente loi sont concomitantes, cet article 53 est réputé être entré en vigueur avant cet article 7, le paragraphe (8) s’appliquant en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(11) If section 54 of the other Act comes into force before section 8 of this Act, then that section 8 is replaced by the following:
+
+
+
+
+
+
+
+
+
+(11) Si l’article 54 de l’autre loi entre en vigueur avant l’article 8 de la présente loi, cet article 8 est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Schedule I to the Act is amended by replacing “(Subsections 107(1), 125(1), 126(7), 129(1) and (2), 130(3) and (4), 133(4.1) and 156(3))” after the heading “SCHEDULE I” with “(Subsections 107(1), 129(1) and (2), 130(3) and (4), 133(4.1) and 156(3))”.
+
+
+
+
+
+
+
+
+
+
+8. La mention « (paragraphes 107(1), 125(1), 126(7), 129(1) et (2), 130(3) et (4), 133(4.1) et 156(3)) » qui suit le titre « ANNEXE I », à l’annexe I de la même loi, est remplacée par « (paragraphes 107(1), 129(1) et (2), 130(3) et (4), 133(4.1) et (4.3) et 156(3)) ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(12) If section 8 of this Act comes into force before section 54 of the other Act, then that section 54 is repealed.
+
+
+
+
+
+
+
+
+
+(12) Si l’article 8 de la présente loi entre en vigueur avant l’article 54 de l’autre loi, cet article 54 est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(13) If section 54 of the other Act comes into force on the same day as section 8 of this Act, then that section 54 is deemed to have come into force before that section 8 and subsection (11) applies as a consequence.
+
+
+
+
+
+
+
+
+
+(13) Si l’entrée en vigueur de l’article 54 de l’autre loi et celle de l’article 8 de la présente loi sont concomitantes, cet article 54 est réputé être entré en vigueur avant cet article 8, le paragraphe (11) s’appliquant en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(14) If section 57 of the other Act comes into force before section 9 of this Act, then that section 9 is replaced by the following:
+
+
+
+
+
+
+
+
+
+(14) Si l’article 57 de l’autre loi entre en vigueur avant l’article 9 de la présente loi, cet article 9 est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Schedule II to the Act is amended by replacing “(Subsections 107(1), 125(1), 129(1), (2) and (9), 130(3) and (4) and 156(3))” after the heading “SCHEDULE II” with “(Subsections 107(1), 129(1), (2) and (9), 130(3) and (4) and 156(3))”.
+
+
+
+
+
+
+
+
+
+
+9. La mention « (paragraphes 107(1), 125(1), 129(1), (2) et (9), 130(3) et (4) et 156(3)) » qui suit le titre « ANNEXE II », à l’annexe II de la même loi, est remplacée par « (paragraphes 107(1), 129(1), (2) et (9), 130(3) et (4) et 156(3)) ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(15) If section 9 of this Act comes into force before section 57 of the other Act, then that section 57 is repealed.
+
+
+
+
+
+
+
+
+
+(15) Si l’article 9 de la présente loi entre en vigueur avant l’article 57 de l’autre loi, cet article 57 est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(16) If section 57 of the other Act comes into force on the same day as section 9 of this Act, then that section 57 is deemed to have come into force before that section 9, and subsection (14) applies as a consequence.
+
+
+
+
+
+
+
+
+
+(16) Si l’entrée en vigueur de l’article 57 de l’autre loi et celle de l’article 9 de la présente loi sont concomitantes, cet article 57 est réputé être entré en vigueur avant cet article 9, le paragraphe (14) s’appliquant en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+15. This Act, other than section 14, comes into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+15. La présente loi, à l’exception de l’article 14, entre en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Corrections and Conditional Release Act
+
+Clause 2: Existing text of subsection 93(3.1):
+(3.1) An inmate who is to be released on full parole by virtue of a direction of the Board under section 126 shall be released during normal business hours on the day established pursuant to section 120, or, if that day is not a working day, during normal business hours on the following working day.
+
+
+
+Loi sur le système correctionnel et la mise en liberté sous condition
+
+Article 2 : Texte du paragraphe 93(3.1) :
+(3.1) La libération conditionnelle totale d’un détenu ordonnée par la Commission en vertu de l’article 126 s’effectue pendant les heures normales de travail du jour fixé conformément à l’article 120 ou, si celui-ci n’est pas un jour ouvrable, pendant les heures normales de travail du jour ouvrable suivant.
+
+
+
+
+
+Clause 3: Existing text of section 119.1:
+
+119.1 The portion of the sentence of an offender who is eligible for accelerated parole review under sections 125 and 126 that must be served before the offender may be released on day parole is six months, or one sixth of the sentence, whichever is longer.
+
+
+
+
+Article 3 : Texte de l’article 119.1 :
+
+119.1 Le temps d’épreuve pour l’admissibilité à la semi-liberté est, dans le cas d’un délinquant admissible à la procédure d’examen expéditif en vertu des articles 125 et 126, six mois ou, si elle est supérieure, la période qui équivaut au sixième de la peine.
+
+
+
+
+
+Clause 4: (1) Existing text of subsection 124(1):
+
+124. (1) The Board is not required to review the case of an offender who is unlawfully at large at the time prescribed for a review under section 122, 123 or 126, but shall do so as soon as possible after being informed of the offender’s return to custody.
+
+
+
+
+Article 4 : (1) Texte du paragraphe 124(1) :
+
+124. (1) La Commission n’est pas tenue d’examiner le cas du délinquant qui se trouve illégalement en liberté au moment prévu pour l’un des examens visés aux articles 122, 123 ou 126; elle doit cependant le faire dans les meilleurs délais possible après avoir été informée de sa réincarcération.
+
+
+
+
+(2) Existing text of subsection 124(3):
+(3) Where an offender has been granted parole under section 122, 123 or 126, the Board may, after a review of the case based on information that could not reasonably have been provided to it at the time parole was granted, cancel the parole if the offender has not been released or terminate the parole if the offender has been released.
+
+
+
+(2) Texte du paragraphe 124(3) :
+(3) Après réexamen du dossier à la lumière de renseignements nouveaux qui ne pouvaient raisonnablement avoir été portés à sa connaissance au moment où elle a accordé la libération conditionnelle, la Commission peut annuler sa décision avant la mise en liberté ou mettre fin à la libération conditionnelle si le délinquant est déjà en liberté.
+
+
+
+
+
+Clause 5: Existing text of the heading and sections 125 to 126.1:
+Accelerated Parole Reviews
+
+125. (1) This section and section 126 apply to an offender sentenced, committed or transferred to penitentiary for the first time, otherwise than pursuant to an agreement entered into under paragraph 16(1)(b), other than an offender
+(a) serving a sentence for one of the following offences, namely,
+(i) murder,
+(ii) an offence set out in Schedule I or a conspiracy to commit such an offence,
+(ii.1) an offence under section 83.02 (providing or collecting property for certain activities), 83.03 (providing, making available, etc. property or services for terrorist purposes), 83.04 (using or possessing property for terrorist purposes), 83.18 (participation in activity of terrorist group), 83.19 (facilitating terrorist activity), 83.2 (to carry out activity for terrorist group), 83.21 (instructing to carry out activity for terrorist group), 83.22 (instructing to carry out terrorist activity) or 83.23 (harbouring or concealing) of the Criminal Code or a conspiracy to commit such an offence,
+(iii) an offence under section 463 of the Criminal Code that was prosecuted by indictment in relation to an offence set out in Schedule I, other than the offence set out in paragraph (1)(q) of that Schedule,
+(iv) an offence set out in Schedule II in respect of which an order has been made under section 743.6 of the Criminal Code,
+(v) an offence contrary to section 130 of the National Defence Act where the offence is murder, an offence set out in Schedule I or an offence set out in Schedule II in respect of which an order has been made under section 140.4 of the National Defence Act, or
+(vi) a criminal organization offence within the meaning of section 2 of the Criminal Code, including an offence under subsection 82(2);
+(a.1) convicted of an offence under section 240 of the Criminal Code;
+(b) serving a life sentence imposed otherwise than as a minimum punishment; or
+(c) whose day parole has been revoked.
+(1.1) For greater certainty, this section and section 126
+(a) apply to an offender referred to in subsection (1) who, after being sentenced, committed or transferred to penitentiary for the first time, is sentenced in respect of an offence, other than an offence referred to in paragraph (1)(a), that was committed before the offender was sentenced, committed or transferred to penitentiary for the first time; and
+(b) do not apply to an offender referred to in subsection (1) who, after being sentenced, committed or transferred to penitentiary for the first time, commits an offence under an Act of Parliament for which the offender receives an additional sentence.
+(2) The Service shall, at the time prescribed by the regulations, review the case of an offender to whom this section applies for the purpose of referral of the case to the Board for a determination under section 126.
+(3) A review made pursuant to subsection (2) shall be based on all reasonably available information that is relevant, including
+(a) the social and criminal history of the offender obtained pursuant to section 23;
+(b) information relating to the performance and behaviour of the offender while under sentence; and
+(c) any information that discloses a potential for violent behaviour by the offender.
+(4) On completion of a review pursuant to subsection (2), the Service shall, within such period as is prescribed by the regulations preceding the offender’s eligibility date for full parole, refer the case to the Board together with all information that, in its opinion, is relevant to the case.
+(5) The Service may delegate to the correctional authorities of a province its powers under this section in relation to offenders who are serving their sentences in provincial correctional facilities in that province.
+
+126. (1) The Board shall review without a hearing, at or before the time prescribed by the regulations, the case of an offender referred to it pursuant to section 125.
+(2) Notwithstanding section 102, if the Board is satisfied that there are no reasonable grounds to believe that the offender, if released, is likely to commit an offence involving violence before the expiration of the offender’s sentence according to law, it shall direct that the offender be released on full parole.
+(3) If the Board does not direct, pursuant to subsection (2), that the offender be released on full parole, it shall report its refusal to so direct, and its reasons, to the offender.
+(4) The Board shall refer any refusal and reasons reported to the offender pursuant to subsection (3) to a panel of members other than those who reviewed the case under subsection (1), and the panel shall review the case at the time prescribed by the regulations.
+(5) Notwithstanding section 102, if the panel reviewing a case pursuant to subsection (4) is satisfied as described in subsection (2), the panel shall direct that the offender be released on full parole.
+(6) An offender who is not released on full parole pursuant to subsection (5) is entitled to subsequent reviews in accordance with subsection 123(5).
+(7) In this section, “offence involving violence” means murder or any offence set out in Schedule I, but, in determining whether there are reasonable grounds to believe that an offender is likely to commit an offence involving violence, it is not necessary to determine whether the offender is likely to commit any particular offence.
+(8) Where the parole of an offender released pursuant to this section is terminated or revoked, the offender is not entitled to another review pursuant to this section.
+
+126.1 Sections 125 and 126 apply, with such modifications as the circumstances require, to a review to determine if an offender referred to in subsection 119.1 should be released on day parole.
+
+
+
+
+Article 5 : Texte de l’intertitre et des articles 125 à 126.1 :
+Procédure d’examen expéditif
+
+125. (1) Le présent article et l’article 126 s’appliquent aux délinquants condamnés ou transférés pour la première fois au pénitencier — autrement qu’en vertu de l’accord visé au paragraphe 16(1) —, à l’exception de ceux :
+
+a) qui y purgent une peine pour une des infractions suivantes :
+(i) le meurtre,
+(ii) une infraction mentionnée à l’annexe I ou un complot en vue d’en commettre une,
+(ii.1) une infraction mentionnée aux articles 83.02 (fournir ou réunir des biens en vue de certains actes), 83.03 (fournir, rendre disponibles, etc. des biens ou services à des fins terroristes), 83.04 (utiliser ou avoir en sa possession des biens à des fins terroristes), 83.18 (participation à une activité d’un groupe terroriste), 83.19 (facilitation d’une activité terroriste), 83.2 (infraction au profit d’un groupe terroriste), 83.21 (charger une personne de se livrer à une activité pour un groupe terroriste), 83.22 (charger une personne de se livrer à une activité terroriste) ou 83.23 (héberger ou cacher) du Code criminel, ou un complot en vue d’en commettre une,
+(iii) l’infraction prévue à l’article 463 du Code criminel et relative à une infraction mentionnée à l’annexe I — sauf celle qui est prévue à l’alinéa (1)q) de celle-ci — et ayant fait l’objet d’une poursuite par mise en accusation,
+(iv) une infraction mentionnée à l’annexe II et sanctionnée par une peine ayant fait l’objet d’une ordonnance rendue en vertu de l’article 743.6 du Code criminel,
+(v) le meurtre, lorsqu’il constitue une infraction à l’article 130 de la Loi sur la défense nationale, une infraction mentionnée à l’annexe I ou une infraction mentionnée à l’annexe II pour laquelle une ordonnance a été rendue en vertu de l’article 140.4 de la Loi sur la défense nationale,
+(vi) un acte de gangstérisme, au sens de l’article 2 du Code criminel, y compris l’infraction visée au paragraphe 82(2);
+
+a.1) qui ont été déclarés coupables de l’infraction visée à l’article 240 du Code criminel;
+
+b) qui purgent une peine d’emprisonnement à perpétuité à condition que cette peine n’ait pas constitué un minimum en l’occurrence;
+
+c) dont la semi-liberté a été révoquée.
+(1.1) Il est entendu que le présent article et l’article 126 :
+
+a) s’appliquent aux délinquants visés au paragraphe (1) et qui, après leur condamnation ou leur transfèrement au pénitencier pour la première fois, sont condamnés pour une infraction — autre qu’une infraction visée à l’alinéa (1)a) — commise avant cette condamnation ou ce transfert;
+
+b) ne s’appliquent pas aux délinquants visés au paragraphe (1) et qui, après leur condamnation ou leur transfèrement au pénitencier pour la première fois, commettent une infraction à une loi fédérale pour laquelle une peine d’emprisonnement supplémentaire est infligée.
+(2) Le Service procède, au cours de la période prévue par règlement, à l’étude des dossiers des délinquants visés par le présent article en vue de leur transmission à la Commission pour décision conformément à l’article 126.
+(3) L’étude du dossier se fonde sur tous les renseignements pertinents qui sont normalement disponibles, notamment :
+
+a) les antécédents sociaux et criminels du délinquant obtenus en vertu de l’article 23;
+
+b) l’information portant sur sa conduite pendant la détention;
+
+c) tout autre renseignement révélant une propension à la violence de sa part.
+(4) Au terme de l’étude, le Service transmet à la Commission, dans les délais réglementaires impartis mais avant la date d’admissibilité du délinquant à la libération conditionnelle totale, les renseignements qu’il juge utiles.
+(5) Le Service peut déléguer aux autorités correctionnelles d’une province les pouvoirs que lui confère le présent article en ce qui concerne les délinquants qui purgent leur peine dans un établissement correctionnel de la province.
+
+126. (1) La Commission procède sans audience, au cours de la période prévue par règlement ou antérieurement, à l’examen des dossiers transmis par le Service ou les autorités correctionnelles d’une province.
+(2) Par dérogation à l’article 102, quand elle est convaincue qu’il n’existe aucun motif raisonnable de croire que le délinquant commettra une infraction accompagnée de violence s’il est remis en liberté avant l’expiration légale de sa peine, la Commission ordonne sa libération conditionnelle totale.
+(3) Si elle est convaincue du contraire, la Commission communique au délinquant ses conclusions et motifs.
+(4) La Commission transmet ses conclusions et motifs à un comité constitué de commissaires n’ayant pas déjà examiné le cas et chargé, au cours de la période prévue par règlement, du réexamen du dossier.
+(5) Si le réexamen lui apporte la conviction précisée au paragraphe (2), le comité ordonne la libération conditionnelle totale du délinquant.
+(6) Dans le cas contraire, la libération conditionnelle totale est refusée, le délinquant continuant toutefois d’avoir droit au réexamen de son dossier selon les modalités prévues au paragraphe 123(5).
+(7) Pour l’application du présent article, une infraction accompagnée de violence s’entend du meurtre ou de toute infraction mentionnée à l’annexe I; toutefois, il n’est pas nécessaire, en déterminant s’il existe des motifs raisonnables de croire que le délinquant en commettra une, de préciser laquelle.
+(8) En cas de révocation ou de cessation de la libération conditionnelle, le délinquant perd le bénéfice de la procédure expéditive.
+
+126.1 Les articles 125 et 126 s’appliquent, avec les adaptations nécessaires, à la procédure d’examen expéditif visant à déterminer si la semi-liberté sera accordée au délinquant visé à l’article 119.1.
+
+
+
+
+
+Clause 6: Relevant portion of subsection 140(1):
+
+140. (1) The Board shall conduct the review of the case of an offender by way of a hearing, conducted in whichever of the two official languages of Canada is requested by the offender, unless the offender waives the right to a hearing in writing or refuses to attend the hearing, in the following classes of cases:
+...  
+(b) the first review for full parole pursuant to subsection 123(1), including the review conducted pursuant to subsection 126(4), and subsequent reviews pursuant to subsection 123(5);
+
+
+
+
+Article 6 : Texte du passage visé du paragraphe 140(1) :
+
+140. (1) La Commission tient une audience, dans la langue officielle du Canada que choisit le délinquant, dans les cas suivants, sauf si le délinquant a renoncé par écrit à son droit à une audience ou refuse d’être présent :
+[...]  
+
+b) l’examen prévu au paragraphe 123(1), le réexamen visé au paragraphe 126(4) et chaque réexamen prévu en vertu du paragraphe 123(5);
+
+
+
+
+
+Clause 7: Existing text of subsection 225(2):
+(2) Sections 125 and 126 do not apply to an offender serving a sentence on the commencement day whose case was reviewed under the former Act during that sentence for the purpose of full parole.
+
+
+
+
+Article 7 : Texte du paragraphe 225(2) :
+(2) Les articles 125 et 126 ne s’appliquent pas au délinquant qui purge une peine à l’entrée en vigueur et dont l’examen du dossier en vue de la libération conditionnelle totale a eu lieu en vertu de la loi antérieure pendant qu’il purgeait cette peine.
+
+
+
+
+An Act to amend the Corrections and Conditional Release Act, the Criminal Code, the Criminal Records Act, the Prisons and Reformatories Act and the Transfer of Offenders Act
+
+Clause 11: Existing text of section 89:
+
+89. Subsections 125(1) and (1.1) of the Corrections and Conditional Release Act, as enacted by section 39 of this Act, apply to all offenders, regardless of the day on which they were sentenced, committed or transferred to penitentiary, including offenders whose cases have, before the day on which those subsections came into force, been referred to the Board pursuant to section 126 of that Act but not including offenders in respect of whose cases the Board has, before the day on which those subsections came into force, made a direction under section 126 of that Act.
+
+
+
+Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition, le Code criminel, la Loi sur le casier judiciaire, la Loi sur les prisons et les maisons de correction et la Loi sur le transfèrement des délinquants
+
+Article 11 : Texte de l’article 89 :
+
+89. Les paragraphes 125(1) et (1.1) de la Loi sur le système correctionnel et la mise en liberté sous condition, dans leur version édictée par l’article 39 de la présente loi, s’appliquent à tous les délinquants, indépendamment de la date de leur condamnation ou transfert au pénitencier, y compris ceux pour lesquels la Commission a procédé à l’examen du dossier en vertu de l’article 126 de cette première loi avant la date d’entrée en vigueur de ces paragraphes, sauf si la Commission a rendue une décision à leur égard avant cette date.
+
+
+
+
+An Act to amend the Criminal Code (high risk offenders), the Corrections and Conditional Release Act, the Criminal Records Act, the Prisons and Reformatories Act and the Department of the Solicitor General Act
+
+Clause 12: Existing text of subsection 21(2):
+
+(2) Section 119.1 of the Act, as enacted by subsection (1), does not apply to an offender serving a sentence on the date on which this subsection comes into force whose case was reviewed for the purpose of day parole before that date.
+
+
+
+Loi modifiant le Code criminel (délinquants présentant un risque élevé de récidive), la Loi sur le système correctionnel et la mise en liberté sous condition, la Loi sur le casier judiciaire, la Loi sur les prisons et les maisons de correction et la Loi sur le ministère du Solliciteur général
+
+Article 12 : Texte du paragraphe 21(2) :
+
+(2) L’article 119.1 de la même loi, édicté par le paragraphe (1), ne s’applique pas au délinquant qui purge une peine à l’entrée en vigueur du présent paragraphe et dont l’examen du dossier en vue de la semi-liberté a eu lieu avant cette entrée en vigueur.
+
+
+
+
+Anti-terrorism Act
+
+Clause 13: (1) Relevant portion of subsection 94(1):
+
+94. (1) The following provisions apply to an offender regardless of the day on which the offender was sentenced, committed or transferred to penitentiary:
+
+(a) subparagraph 125(1)(a)(ii) of the Act as amended by section 90, if the offence was a conspiracy to commit an offence set out in Schedule I to the Act; and
+
+
+
+Loi antiterroriste
+
+Article 13 : (1) Texte du passage visé du paragraphe 94(1) :
+
+94. (1) Les dispositions qui suivent s’appliquent, indépendamment de la date à laquelle le contrevenant a été condamné à une peine d’emprisonnement ou a été incarcéré ou transféré dans un pénitencier :
+
+
+a) le sous-alinéa 125(1)a)(ii) de la même loi, dans sa version modifiée par l’article 90, dans le cas du complot en vue de commettre une infraction mentionnée à l’annexe I de la même loi;
+
+
+
+
+(2) Existing text of subsection 94(2):
+
+(2) Subsection (1) does not apply to an offender in respect of whom the National Parole Board has made a direction under section 126 of the Act before the coming into force of sections 90 to 93.
+
+
+
+(2) Texte du paragraphe 94(2) :
+
+(2) Les dispositions énumérées au paragraphe (1) ne s’appliquent pas au contrevenant qui a fait l’objet d’une décision de la Commission nationale des libérations conditionnelles rendue sous le régime de l’article 126 de la même loi avant l’entrée en vigueur des articles 90 à 93.
+
+
+
+
+
+

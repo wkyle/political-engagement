@@ -1,0 +1,838 @@
+
+
+
+
+
+
+C-222
+
+
+
+
+
+C-222
+
+
+
+
+
+
+First Session, Fortieth Parliament,
+
+
+
+
+
+Première session, quarantième législature,
+
+
+
+
+
+
+57 Elizabeth II, 2008
+
+
+
+
+
+57 Elizabeth II, 2008
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-222
+
+
+
+
+
+PROJET DE LOI C-222
+
+
+
+
+
+
+An Act to amend the Income Tax Act (physical activity and amateur sport fees)
+
+
+
+
+
+Loi modifiant la Loi de l’impôt sur le revenu (frais liés à la pratique d’une activité physique et d’un sport amateur)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 21, 2008
+
+
+
+
+
+première lecture le 21 novembre 2008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2nd Session, 40th Parliament
+
+This bill was introduced during the First Session of the 40th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2e session, 40e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 40e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+
+Mr. Stoffer
+
+
+401039
+
+
+
+
+M. Stoffer
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Income Tax Act to allow the deduction of fees paid by an individual for his or her participation, or the participation of a dependant of the individual, in physical activity or amateur sport.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi de l’impôt sur le revenu afin d’autoriser la déduction des  frais payés par un particulier pour la pratique d’une activité physique ou d’un sport amateur par lui ou une personne à sa charge.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2008
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-222
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-222
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Income Tax Act (physical activity and amateur sport fees)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de l’impôt sur le revenu (frais liés à la pratique d’une activité physique et d’un sport amateur)
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas physical activity and amateur sport are key elements in promoting the physical and mental health of Canadians and need to the encouraged;
+
+
+
+
+
+
+
+
+
+
+Whereas the fees for participating in physical activity or amateur sport are often high;
+
+
+
+
+
+
+
+
+
+
+And whereas tax laws must allow the deduction of those fees in order to lower the tax burden of Canadians;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que l’activité physique et le sport amateur sont des éléments clés de la promotion de la santé physique et mentale des Canadiens et doivent être encouragés;
+
+
+
+
+
+
+
+
+
+
+que les frais entraînés par la pratique d’une activité physique ou d’un sport amateur sont souvent élevés;
+
+
+
+
+
+
+
+
+
+
+que les lois fiscales doivent permettre la déduction de ces frais afin d’alléger le fardeau fiscal des Canadiens,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 1
+(5th Supp.)
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. 1
+(5e suppl.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.  The Income Tax Act is amended by adding the following after section 118.95:
+
+
+
+
+
+
+
+
+
+
+1.  La Loi de l’impôt sur le revenu est modifiée par adjonction, après l’article 118.95, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Credit for the cost of participating in physical activity or amateur sport
+
+
+
+
+
+118.96 (1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+
+
+
+
+
+
+
+
+
+
+
+
+A x B
+
+
+
+
+
+
+
+
+
+
+
+
+where
+
+
+
+
+
+
+
+
+
+
+
+
+A      is the appropriate percentage for the year; and
+
+
+
+
+
+
+
+
+
+
+
+
+B      is the total of all fees paid by the individual in the year for the individual or a dependant of the individual to participate in physical activity or amateur sport. 
+
+
+
+
+
+
+
+
+
+
+
+
+118.96 (1) Le montant obtenu par la formule suivante peut être déduit dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année 
+d’imposition :
+
+
+
+
+Crédit pour frais liés à la pratique d’une activité physique ou d’un sport amateur
+
+
+
+
+
+A x B
+
+
+
+
+
+
+
+
+
+
+
+
+où :
+
+
+
+
+
+
+
+
+
+
+
+
+A      représente le taux de base pour l’année;
+
+
+
+
+
+
+
+
+
+
+
+
+B      le total des montants qu’il a payés au cours de l’année pour la pratique d’une activité physique et d’un sport amateur par lui-même ou une personne à sa charge. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+(2) The definitions in this subsection apply in this section. 
+
+
+
+
+
+“amateur sport
+”« sport 
+amateur »
+
+
+
+
+“amateur sport” means any sport in which the individual or a dependant participates without receiving any remuneration.
+
+
+
+
+
+“dependant”« personne à charge »
+
+
+
+
+“dependant” means a person who in a taxation year is the child, grandchild, niece or nephew of the individual or of the individual’s spouse or common-law partner, and who resides with the individual or the individual’s spouse or common-law partner in Canada at any time in the year.
+
+
+
+
+
+“physical activity”« activité physique »
+
+
+
+
+“physical activity” means any activity that requires the person performing it to develop specific skills and expend energy beyond what is required by the person for basic living functions. 
+
+
+
+
+
+
+
+
+
+
+
+(2) Les définitions qui suivent s’appliquent au présent article.
+
+
+
+
+Définitions
+
+
+
+
+
+« activité physique »  Activité qui exige de l’exécutant l’acquisition d’habiletés spécifiques et une dépense énergétique supérieure à celle requise pour accomplir les activités élémentaires de la vie.
+
+
+
+
+« activité physique »“physical activity”
+
+
+
+
+
+« personne à charge »  Personne qui, au cours d’une année d’imposition, est l’enfant, le petit-enfant, le neveu ou la nièce du particulier ou de son époux ou conjoint de fait, et qui réside avec lui au Canada à un moment de l’année.
+
+
+
+
+« personne à charge »“dependant”
+
+
+
+
+
+« sport amateur »  Tout sport que le particulier ou une personne à sa charge pratique sans rémunération.
+
+
+
+
+« sport 
+amateur »“amateur sport”
+
+
+
+
+
+
+
+
+
+
+Filing of vouchers
+
+
+
+
+(3) The individual shall file, with the individual’s return of income for the year, vouchers setting out the fees paid by the individual for the participation of the individual or a dependant of the individual in physical activity or amateur sport. 
+
+
+
+
+
+
+
+
+
+
+
+(3) Le particulier doit joindre à sa déclaration de revenu pour l’année les pièces justificatives indiquant les montants qu’il a payés pour la pratique d’une activité physique ou d’un sport amateur par lui-même ou une personne à sa charge. 
+
+
+
+
+Pièces justificatives
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+(4) The Governor in Council may make regulations prescribing the types of fees that may be deducted under subsection (1). 
+
+
+
+
+
+
+
+
+
+
+
+(4) Le gouverneur en conseil peut, par règlement, préciser le type de frais pouvant être déduits aux termes du paragraphe (1).
+
+
+
+
+Règlements
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

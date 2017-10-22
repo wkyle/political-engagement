@@ -1,0 +1,764 @@
+
+
+
+
+
+
+C-433
+
+
+
+
+
+C-433
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-433
+
+
+
+
+
+PROJET DE LOI C-433
+
+
+
+
+
+
+An Act to amend the Income Tax Act (student transportation)
+
+
+
+
+
+Loi modifiant la Loi de l'impôt sur le revenu (transport scolaire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 12, 2012
+
+
+
+
+
+première lecture le 12 juin 2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+2nd Session, 41st Parliament
+
+This bill was introduced during the First Session of the 41st Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+2e session, 41e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 41e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+
+Mr. Lapointe
+
+
+411463
+
+
+
+
+M. Lapointe
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Income Tax Act to provide a non-refundable tax credit applicable to the cost of lunchtime transportation for students between their elementary school and residence.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi de l’impôt sur le revenu afin de prévoir un crédit d’impôt non remboursable applicable aux frais engagés pour le transport des élèves entre leur école primaire et leur résidence sur l’heure du dîner.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-433
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-433
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Income Tax Act (student transportation)
+
+
+
+
+
+
+Whereas the Government of Canada gives due regard to differing lifestyle choices in developing initiatives for the benefit of families;
+
+
+
+
+
+
+Whereas a deduction is allowed for daycare expenses in the determination of the income tax payable by parents of young children;
+
+
+
+
+
+
+And whereas it would enhance fairness and equity for all families to include a deduction for the cost of lunchtime student transportation among measures in support of family solidarity;
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de l'impôt sur le revenu (transport scolaire)
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que le gouvernement du Canada tient dûment compte de la diversité des choix de modes de vie lorsqu’il met en place des mesures au profit des familles;
+
+
+
+
+
+
+qu’une déduction pour les services de garde est accordée aux parents de jeunes enfants dans le calcul de l’impôt sur le revenu à payer;
+
+
+
+
+
+
+que le fait de prévoir, parmi les mesures d’appui à la solidarité familiale, une déduction pour les frais du transport scolaire sur l’heure du dîner assurerait un traitement plus juste et équitable pour toutes les familles,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c.1 (5th Supp.)
+
+
+
+
+1. The Income Tax Act is amended by adding the following after section 118.02:
+
+
+
+
+
+
+
+
+
+
+1. La Loi de l’impôt sur le revenu est modifiée par adjonction, après l’article 118.02, de ce qui suit :
+
+
+
+L.R., ch. 1 (5e suppl.)
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+
+118.021 (1) The following definitions apply in this section.
+
+
+
+
+
+“eligible transportation expense”« frais de transport admissibles »
+
+
+
+
+“eligible transportation expense” in respect of a qualifying child of an individual for a taxation year, means the amount of a fee paid to a school authority for the transportation of the child between the child’s school and residence for the purpose of a meal break during the course of the school day.
+
+
+
+
+
+“qualifying child”« enfant admissible »
+
+
+
+
+“qualifying child” of an individual for a taxation year, means a child of the individual who is, at any time in the taxation year, a student enrolled in courses at the elementary level of education in a school operated by a school authority.
+
+
+
+
+
+“school authority”« administration scolaire »
+
+
+
+
+“school authority” means an organization that operates an elementary school in which it provides instruction that meets the standards of educational instruction established by the government of the province in which the school is operated.
+
+
+
+
+
+
+
+
+
+
+
+
+118.021 (1) Les définitions qui suivent s’appliquent au présent article.
+
+
+
+
+Définitions
+
+
+
+
+
+« administration scolaire » Institution qui administre une école primaire dont le programme d’études est conforme aux normes en matière d’enseignement établies par le gouvernement de la province où l’école est administrée.
+
+
+
+
+« administration scolaire »“school authority”
+
+
+
+
+
+« enfant admissible » Est un enfant admissible d’un particulier pour une année d’imposition tout enfant du particulier qui, au cours de cette année, est inscrit à des cours d’enseignement primaire dans une école administrée par une administration scolaire.
+
+
+
+
+« enfant admissible »“qualifying child”
+
+
+
+
+
+« frais de transport admissibles » En ce qui concerne l’enfant admissible d’un particulier pour une année d’imposition, la somme versée à une administration scolaire relativement au transport de l’enfant entre son école et sa résidence pour une pause-repas durant la journée scolaire.
+
+
+
+
+« frais de transport admissibles »“eligible transportation expense”
+
+
+
+
+
+
+
+
+
+
+Student transportation expense tax credit
+
+
+
+
+(2) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted the amount determined by the formula
+
+
+
+
+
+
+
+
+
+
+
+
+A × B
+
+
+
+
+
+
+
+
+
+
+
+
+where
+
+
+
+
+
+
+
+
+
+
+
+
+A      is the appropriate percentage for the taxation year; and
+
+
+
+
+
+
+
+
+
+
+
+
+B      is the total of all amounts each of which is an amount paid in the taxation year by the individual, or by the individual’s spouse or common-law partner, that is an eligible transportation expense in respect of the qualifying child of the individual for the taxation year.
+
+
+
+
+
+
+
+
+
+
+
+(2) Est déductible dans le calcul de l’impôt à payer par un particulier en vertu de la présente partie pour une année d’imposition la somme obtenue par la formule suivante :
+
+
+
+
+Crédit d'impôt pour frais de transport scolaire
+
+
+
+
+
+A × B
+
+
+
+
+
+
+
+
+
+
+
+
+où :
+
+
+
+
+
+
+
+
+
+
+
+
+A      représente le taux de base pour l’année;
+
+
+
+
+
+
+
+
+
+
+
+
+B      le total des sommes représentant chacune une somme versée au cours de l’année par le particulier, ou par son époux ou conjoint de fait, qui constitue des frais de transport admissibles relativement à l’enfant admissible pour l’année.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apportionment of credit
+
+
+
+
+(3) If more than one individual is entitled to a deduction under this section for a taxation year in respect of a qualifying child, the total of all amounts so deductible shall not exceed the maximum amount that would be so deductible for the year by any one of those individuals in respect of that qualifying child if that individual were the only individual entitled to deduct an amount for the year under this section in respect of that qualifying child, and if the individuals cannot agree as to what portion of the amount each can so deduct, the Minister may fix the portions.
+
+
+
+
+
+
+
+
+
+
+
+(3) Si plus d’un particulier a droit, pour une année d’imposition, à la déduction prévue au présent article au titre d’un enfant admissible, le total des sommes ainsi déductibles ne peut excéder le maximum qu’un seul de ces particuliers pourrait déduire pour l’année. En cas de désaccord entre les particuliers sur la répartition de ce maximum entre eux, le ministre peut faire cette répartition.
+
+
+
+
+Répartition du crédit
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

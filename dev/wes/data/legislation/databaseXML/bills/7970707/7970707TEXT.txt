@@ -1,0 +1,4846 @@
+
+
+
+
+
+C-60
+
+
+
+
+
+C-60
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-60
+
+
+
+
+
+PROJET DE LOI C-60
+
+
+
+
+
+
+An Act to amend the Criminal Records Act, the Corrections and Conditional Release Act, the Immigration and Refugee Protection Act and the International Transfer of Offenders Act
+
+
+
+
+
+Loi modifiant la Loi sur le casier judiciaire, la Loi sur le système correctionnel et la mise en liberté sous condition, la Loi sur l’immigration et la protection des réfugiés et la Loi sur le transfèrement international des délinquants
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 12, 2015
+
+première lecture le 12 mai 2015
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF PUBLIC SAFETY AND EMERGENCY PREPAREDNESS
+
+90766
+
+
+
+MINISTRE DE LA SÉCURITÉ PUBLIQUE ET DE LA PROTECTION CIVILE
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Records Act to provide that foreign nationals and certain permanent residents may not apply for a record suspension. It also amends the Corrections and Conditional Release Act to authorize the disclosure to victims of information relating to the release of foreign offenders under the Immigration and Refugee Protection Act. In addition, the enactment amends the Immigration and Refugee Protection Act to, among other things, streamline the removal process in respect of certain foreign offenders, provide for the revocation and renunciation of protected person status, and allow certain foreign nationals to waive an admissibility hearing if specific requirements are met. Finally, the enactment amends the International Transfer of Offenders Act to provide for the transfer of certain offenders without their consent.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur le casier judiciaire pour faire en sorte que les étrangers et certains résidents permanents ne puissent pas demander une suspension de leur casier. Il modifie également la Loi sur le système correctionnel et la mise en liberté sous condition pour autoriser la communication de renseignements aux victimes au sujet de la mise en liberté de contrevenants étrangers en vertu de la Loi sur l’immigration et la protection des réfugiés. En outre, il modifie la Loi sur l’immigration et la protection des réfugiés, entre autres, pour simplifier le processus de renvoi de certains contrevenants étrangers, prévoir la révocation du statut de personne protégée ou la renonciation à ce statut et permettre à certains étrangers de renoncer à une enquête si certaines exigences précises sont observées. Enfin, il modifie la Loi sur le transfèrement international des délinquants pour prévoir le transfèrement de certains contrevenants sans leur consentement.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-60
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Records Act, the Corrections and Conditional Release Act, the Immigration and Refugee Protection Act and the International Transfer of Offenders Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le casier judiciaire, la Loi sur le système correctionnel et la mise en liberté sous condition, la Loi sur l’immigration et la protection des réfugiés et la Loi sur le transfèrement international des délinquants
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : 
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Removal of Serious Foreign Criminals Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur le renvoi des criminels étrangers dangereux.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+R.S., c. C-47
+
+
+
+CRIMINAL RECORDS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE CASIER JUDICIAIRE
+
+
+
+L.R., ch. C-47
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 4 of the Criminal Records Act is amended by adding the following after subsection (4):
+
+
+
+
+
+
+
+
+
+2. L’article 4 de la Loi sur le casier judiciaire est modifié par adjonction, après le paragraphe (4), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Foreign nationals and certain permanent residents
+
+
+
+(4.1) A person is ineligible to apply for a record suspension if he or she
+
+
+
+
+
+
+
+
+(a) is a foreign national as defined in subsection 2(1) of the Immigration and Refugee Protection Act; or
+
+
+
+
+
+
+
+
+(b) is a permanent resident as defined in subsection 2(1) of the Immigration and Refugee Protection Act and has been convicted in Canada of an offence under an Act of Parliament for which a term of imprisonment of more than six months has been imposed.
+
+
+
+
+
+
+
+
+
+(4.1) N’est pas admissible à présenter une demande de suspension du casier : 
+
+
+
+Étrangers et certains résidents permanents
+
+
+
+
+a) la personne qui est un étranger au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés;
+
+
+
+
+
+
+
+
+b) le résident permanent au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés qui a été condamné au Canada pour une infraction à une loi fédérale et s’est vu infliger une peine d’emprisonnement de plus de six mois.
+
+
+
+
+
+
+
+
+
+
+
+
+1992, c. 20
+
+
+
+CORRECTIONS AND CONDITIONAL RELEASE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE SYSTÈME CORRECTIONNEL ET LA MISE EN LIBERTÉ SOUS CONDITION
+
+
+
+1992, ch. 20
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsection 23(1) of the Corrections and Conditional Release Act is amended by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 23(1) de la Loi sur le système correctionnel et la mise en liberté sous condition est modifié par adjonction, après l’alinéa b), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) any relevant information about the person’s status under the Immigration and Refugee Protection Act, including, if applica-ble, in relation to their removal from Canada;
+
+
+
+
+
+
+
+
+
+b.1) les renseignements pertinents concernant le statut de la personne aux termes de la Loi sur l’immigration et la protection des réfugiés, notamment au sujet de son renvoi hors du Canada, le cas échéant;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Act is amended by adding the following after section 25:
+
+
+
+
+
+
+
+
+
+4. La même loi est modifiée par adjonction, après l’article 25, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure of information
+
+
+
+25.1 The Commissioner or a person designated, by name or by position, by the Commissioner may disclose to the Canada Border Services Agency any information under his or her control about an offender that is relevant to the administration of the Immigration and Refugee Protection Act as it relates to the enforcement of that Act.
+
+
+
+
+
+
+
+
+
+25.1 Le commissaire ou la personne qu’il désigne nommément ou par indication de son poste peut communiquer à l’Agence des services frontaliers du Canada les renseignements dont il dispose concernant un délinquant et qui sont utiles à l’administration de la Loi sur l’immigration et la protection des réfugiés relativement aux mesures d’exécution de cette loi.
+
+
+
+Communication de renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+5. Subsection 26(1) of the Act is amended by striking out “and” at the end of paragraph (a), by adding “and” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 26(1) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) shall, in respect of an offender who is released under the Immigration and Refugee Protection Act, disclose to the victim the date on which the offender was released and the destination of the offender on release, if, in the Commissioner’s opinion, the disclosure would not have a negative impact on the safety of the public.
+
+
+
+
+
+
+
+
+
+c) lui communique les renseignements ci-après sur le délinquant lorsque celui-ci a été mis en liberté en vertu de la Loi sur l’immigration et la protection des réfugiés si, à son avis, cette communication n’aurait pas d’incidence négative sur la sécurité du public : 
+
+
+
+
+
+
+(i) la date de la mise en liberté du délinquant,
+
+
+
+
+
+
+(ii) sa destination lors de sa libération.
+
+
+
+
+
+
+
+
+
+
+2001, c. 27
+
+
+
+IMMIGRATION AND REFUGEE PROTECTION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’IMMIGRATION ET LA PROTECTION DES RÉFUGIÉS
+
+
+
+2001, ch. 27
+
+
+
+
+
+
+
+
+
+
+
+
+6. Section 23 of the Immigration and Refugee Protection Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+6. L’article 23 de la Loi sur l’immigration et la protection des réfugiés est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Authorized entry
+
+
+
+23. An officer may authorize a person to enter Canada for the purpose of further examination or an admissibility hearing under this Part or in relation to a proceeding under section 44.1.
+
+
+
+
+
+
+
+
+
+23. L’entrée peut aussi être autorisée en vue du contrôle complémentaire ou de l’enquête prévus par la présente partie ou relativement à une procédure en vertu de l’article 44.1.
+
+
+
+Entrée autorisée
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) Section 44 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+7. (1) L’article 44 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Factors
+
+
+
+(1.1) In determining whether to prepare a report, the officer must take the prescribed factors, if any, into account.
+
+
+
+
+
+
+
+
+
+(1.1) Pour décider si un rapport doit être établi, l’agent prend en compte les facteurs prévus par règlement, le cas échéant.
+
+
+
+Facteurs
+
+
+
+
+
+
+
+
+
+
+Obligation to prepare report
+
+
+
+(1.2) In the circumstances prescribed by the regulations, the officer must prepare the report under subsection (1).
+
+
+
+
+
+
+
+
+
+(1.2) Dans les circonstances prévues par règlement, il établit le rapport visé au paragraphe (1).
+
+
+
+Obligation d’établir un rapport
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 44(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 44(2) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Referral or removal order
+
+
+
+(2) If the Minister is of the opinion that the report is well-founded, the Minister may refer the report to the Immigration Division for an admissibility hearing, except
+
+
+
+
+
+
+
+
+(a) in the circumstances prescribed by the regulations, in the case of a permanent resident who is inadmissible on the grounds that they have failed to comply with the residency obligation under section 28 or on grounds of serious criminality; and
+
+
+
+
+
+
+
+
+(b) in the circumstances prescribed by the regulations, in the case of a foreign national.
+
+
+
+
+
+
+
+
+In those cases, the Minister may make the applicable removal order.
+
+
+
+
+
+
+
+
+
+(2) S’il estime le rapport bien fondé, le ministre peut déférer l’affaire à la Section de l’immigration pour enquête, sauf s’il s’agit : 
+
+
+
+Suivi
+
+
+
+
+a) dans les circonstances prévues par règlement, d’un résident permanent interdit de territoire pour le motif qu’il n’a pas respecté l’obligation de résidence énoncée à l’article 28 ou pour grande criminalité;
+
+
+
+
+
+
+
+
+b) dans les circonstances prévues par règlement, d’un étranger.
+
+
+
+
+
+
+
+
+Il peut alors prendre la mesure de renvoi applicable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) The portion of subsection 44(2) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le passage du paragraphe 44(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Referral or removal order
+
+
+
+(2) If the Minister is of the opinion that the report is well-founded, the Minister may refer the report to the Immigration Division for an admissibility hearing or for a proceeding under section 44.1, except
+
+
+
+
+
+
+
+
+
+(2) S’il estime le rapport bien fondé, le ministre peut déférer l’affaire à la Section de l’immigration pour enquête — ou pour une procédure en vertu de l’article 44.1 —, sauf s’il s’agit : 
+
+
+
+Suivi
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Section 44 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(4) L’article 44 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Factors
+
+
+
+(2.1) In determining whether to refer a report or make a removal order, the Minister must take the prescribed factors, if any, into account.
+
+
+
+
+
+
+
+
+
+(2.1) Pour décider si un rapport doit être déféré ou si une mesure de renvoi doit être prise, le ministre prend en compte les facteurs prévus par règlement, le cas échéant.
+
+
+
+Facteurs
+
+
+
+
+
+
+
+
+
+
+Referral or removal order — obligation
+
+
+
+(2.2) In the circumstances prescribed by the regulations, the Minister must, under subsection (2),
+
+
+
+
+
+
+
+
+(a) refer the report to the Immigration Division; or
+
+
+
+
+
+
+
+
+(b) in respect of the cases described in paragraphs (2)(a) and (b), make a removal order.
+
+
+
+
+
+
+
+
+
+(2.2) Dans les circonstances prévues par règlement et en vertu du paragraphe (2), le ministre : 
+
+
+
+Obligation de déférer l’affaire ou de prendre une mesure de renvoi
+
+
+
+
+a) défère l’affaire à la Section de l’immigration;
+
+
+
+
+
+
+
+
+b) dans les cas prévus aux alinéas (2)a) et b), prend une mesure de renvoi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Subsection 44(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe 44(3) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Conditions
+
+
+
+(3) An officer or the Immigration Division may impose any conditions, including the payment of a deposit or the posting of a guarantee for compliance with the conditions, that the officer or the Division considers necessary on a permanent resident or a foreign national who is the subject of a report, an admissibility hearing, a proceeding under section 44.1 or, being in Canada, a removal order.
+
+
+
+
+
+
+
+
+
+(3) L’agent ou la Section de l’immigration peut imposer les conditions qu’il estime nécessaires, notamment la remise d’une garantie d’exécution, au résident permanent ou à l’étranger qui fait l’objet d’un rapport, d’une enquête, d’une procédure en vertu de l’article 44.1 ou, étant au Canada, d’une mesure de renvoi.
+
+
+
+Conditions
+
+
+
+
+
+
+
+
+
+
+
+
+8. The Act is amended by adding the following after section 44:
+
+
+
+
+
+
+
+
+
+8. La même loi est modifiée par adjonction, après l’article 44, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Uncontested Removal Orders
+
+
+
+
+
+
+
+
+
+Mesure de renvoi non contestée
+
+
+
+
+
+
+
+
+
+
+
+
+Waiver of admissibility hearing
+
+
+
+44.1 (1) A foreign national — other than a protected person or a person who has made a claim for refugee protection — who is the subject of a report that has been or could be referred to the Immigration Division for an admissibility hearing may, subject to the regulations and the consent of the Minister, waive the admissibility hearing, in which case the report is to be referred to the Immigration Division for a proceeding under this section.
+
+
+
+
+
+
+
+
+
+44.1 (1) Sous réserve des règlements, tout étranger — sauf une personne protégée ou un demandeur d’asile — qui fait l’objet d’un rapport déféré à la Section de l’immigration pour enquête, ou qui pourrait l’être, peut, avec le consentement du ministre, renoncer à l’enquête, auquel cas l’affaire est déférée à la Section de l’immigration pour examen dans le cadre de la procédure prévue au présent article.
+
+
+
+Renonciation à l’enquête
+
+
+
+
+
+
+
+
+
+
+Minister’s consent
+
+
+
+(2) The Minister may consent to the waiver if he or she is satisfied that the prescribed conditions are met; if the regulations prescribe factors that must be taken into account in the determination of whether those conditions are met, the Minister must take only those factors into account.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut consentir à la renonciation s’il est convaincu que les conditions réglementaires sont réunies; si les règlements prévoient des critères dont il doit être tenu compte pour décider si ces conditions sont réunies, il doit tenir compte de ces seuls critères.
+
+
+
+Consentement du ministre
+
+
+
+
+
+
+
+
+
+
+Waiver — consequence
+
+
+
+(3) A foreign national who waives the admissibility hearing is deemed to have consented to being the subject of a removal order.
+
+
+
+
+
+
+
+
+
+(3) L’étranger qui renonce à l’enquête est réputé avoir accepté de faire l’objet d’une mesure de renvoi.
+
+
+
+Renonciation :  conséquence
+
+
+
+
+
+
+
+
+
+
+Decision respecting waiver
+
+
+
+(4) The Immigration Division must make a decision whether to accept the waiver within 48 hours after the referral or without delay afterward.
+
+
+
+
+
+
+
+
+
+(4) Dans les quarante-huit heures après que l’affaire lui a été déférée ou dans les meilleurs délais par la suite, la Section de l’immigration décide si elle accepte ou non la renonciation.
+
+
+
+Renonciation :  décision
+
+
+
+
+
+
+
+
+
+
+Appearance in person
+
+
+
+(5) The foreign national must appear in person before the Immigration Division to receive notice of the decision, unless the regulations provide that they are to receive notice in another manner, in which case the foreign national must comply with those regulations.
+
+
+
+
+
+
+
+
+
+(5) Pour recevoir la notification de la décision, l’étranger doit comparaître en personne devant la Section de l’immigration, sauf si les règlements prévoient une autre manière de la recevoir; le cas échéant, il est tenu de se conformer à ces règlements.
+
+
+
+Comparution en personne
+
+
+
+
+
+
+
+
+
+
+Acceptance of waiver
+
+
+
+(6) The Immigration Division must accept the waiver if it is satisfied, taking into account only the prescribed factors, that the prescribed conditions are met.
+
+
+
+
+
+
+
+
+
+(6) La Section de l’immigration accepte la renonciation si elle est convaincue, en tenant compte uniquement des critères réglementaires, que les conditions réglementaires sont réunies.
+
+
+
+Renonciation acceptée
+
+
+
+
+
+
+
+
+
+
+Removal order
+
+
+
+(7) If the Immigration Division accepts the waiver, it must make the applicable removal order without holding an admissibility hearing.
+
+
+
+
+
+
+
+
+
+(7) Si elle accepte la renonciation, la Section de l’immigration prend la mesure de renvoi applicable sans procéder à une enquête.
+
+
+
+Mesure de renvoi
+
+
+
+
+
+
+
+
+
+
+Rejection of waiver
+
+
+
+(8) If the Immigration Division rejects the waiver, it must hold an admissibility hearing, after providing the foreign national and the Minister with notice.
+
+
+
+
+
+
+
+
+
+(8) Si elle n’accepte pas la renonciation, la Section de l’immigration procède à une enquête après avoir donné à l’étranger et au ministre un avis.
+
+
+
+Renonciation non acceptée
+
+
+
+
+
+
+
+
+
+
+
+
+9. (1) The Act is amended by adding the following after section 47:
+
+
+
+
+
+
+
+
+
+9. (1) La même loi est modifiée par adjonction, après l’article 47, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Protected person
+
+
+
+47.1 A foreign national loses protected person status on a decision of the Minister under subsection 115(2) that they
+
+
+
+
+
+
+
+
+(a) constitute a danger to the public in Canada; or
+
+
+
+
+
+
+
+
+(b) should not be allowed to remain in Canada on the basis of the nature and severity of acts committed or of danger to the security of Canada.
+
+
+
+
+
+
+
+
+
+47.1 Emporte perte du statut de personne protégée la décision rendue par le ministre au titre du paragraphe 115(2) selon laquelle l’intéressé, selon le cas : 
+
+
+
+Personne protégée
+
+
+
+
+a) constitue un danger pour le public au Canada,
+
+
+
+
+
+
+
+
+b) ne devrait pas être présent au Canada en raison soit de la nature et de la gravité de ses actes passés, soit du danger qu’il constitue pour la sécurité du Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 47.1 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’article 47.1 de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Protected person
+
+
+
+47.1 (1) A foreign national loses protected person status
+
+
+
+
+
+
+
+
+(a) on approval by the Minister of their application to renounce that status; or
+
+
+
+
+
+
+
+
+(b) on a decision of the Minister under subsection 115(2) that they
+
+
+
+
+
+
+
+
+(i) constitute a danger to the public in Canada, or
+
+
+
+
+
+
+
+
+(ii) should not be allowed to remain in Canada on the basis of the nature and severity of acts committed or of danger to the security of Canada.
+
+
+
+
+
+
+
+
+
+47.1 (1) Emporte perte du statut de personne protégée : 
+
+
+
+Personne protégée
+
+
+
+
+a) soit l’acceptation par le ministre de la demande de renonciation au statut de personne protégée;
+
+
+
+
+
+
+
+
+b) soit la décision rendue par le ministre au titre du paragraphe 115(2) selon laquelle l’intéressé, selon le cas : 
+
+
+
+
+
+
+
+
+(i) constitue un danger pour le public au Canada,
+
+
+
+
+
+
+
+
+(ii) ne devrait pas être présent au Canada en raison soit de la nature et de la gravité de ses actes passés, soit du danger qu’il constitue pour la sécurité du Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Restriction
+
+
+
+(2) The Minister may refuse to approve an application for the renunciation of protected person status if, in the Minister’s opinion, the renunciation would not be in the applicant’s best interests.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut refuser d’accepter une demande de renonciation au statut de personne protégée s’il estime que la renonciation ne serait pas dans l’intérêt du demandeur.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+2013, c. 16, s. 21
+
+
+
+10. (1) Paragraph 53(a.1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+10. (1) L’alinéa 53a.1) de la même loi est remplacé par ce qui suit : 
+
+
+
+2013, ch. 16, art. 21
+
+
+
+
+
+
+
+
+
+
+
+
+(a.1) the form and manner in which an application to renounce permanent resident status or protected person status must be made and the conditions that must be met before such an application may be approved;
+
+
+
+
+
+
+
+
+
+a.1) les modalités de présentation d’une demande de renonciation au statut de résident permanent ou de personne protégée et les conditions à respecter pour qu’une telle demande soit acceptée;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 53(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 53b) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the circumstances in which a report shall be prepared or referred or a removal order made or confirmed;
+
+
+
+
+
+
+(b.1) the factors to be taken into account in determining whether to prepare or refer a report or make or confirm a removal order;
+
+
+
+
+
+
+
+
+
+b) les cas de prise ou de maintien des mesures de renvoi ou d’établissement des rapports ou de transmission de ceux-ci à la Section de l’immigration;
+
+
+
+
+
+
+b.1) les facteurs à prendre en compte pour décider si un rapport doit être établi ou déféré ou si une mesure de renvoi doit être prise ou maintenue;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 53 of the Act is amended by adding the following after paragraph (b.1):
+
+
+
+
+
+
+
+
+
+(3) L’article 53 de la même loi est modifié par adjonction, après l’alinéa b.1), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.2) waivers made under section 44.1, including the circumstances in which a waiver may be made, the form and manner in which it must be made, the conditions to be met before it may be consented to by the Minister or accepted by the Immigration Division and the factors to be taken into account in determining whether a condition is met;
+
+
+
+
+
+
+(b.3) the time within which a foreign national must receive notice of a decision made under subsection 44.1(4), as well as reasons for the decision, and, unless they appear in person under subsection 44.1(5) to receive the notice, the manner in which the foreign national must receive the notice and reasons;
+
+
+
+
+
+
+(b.4) the circumstances in which an officer may require a foreign national who is the subject of an admissibility hearing or a proceeding under section 44.1 to leave Canada;
+
+
+
+
+
+
+
+
+
+b.2) les renonciations visées à l’article 44.1, y compris les cas où elles peuvent être faites, les modalités de présentation des renonciations, les conditions à respecter pour que le ministre y consente ou qu’elles soient acceptées par la Section de l’immigration, et les facteurs à prendre en compte pour déterminer si une condition est respectée;
+
+
+
+
+
+
+b.3) les modalités de temps relatives à la réception par l’étranger de la notification et des motifs de la décision visée au paragraphe 44.1(4) et, sauf si l’étranger comparaît en personne en application du paragraphe 44.1(5) pour recevoir la notification, les modalités de réception par l’étranger de la notification et des motifs;
+
+
+
+
+
+
+b.4) les cas où un agent peut exiger d’un étranger qui fait l’objet d’une enquête, ou d’une procédure en vertu de l’article 44.1, qu’il quitte le Canada;
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 17, s. 23(1)
+
+
+
+11. (1) Subsection 55(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+11. (1) Le paragraphe 55(1) de la même loi est remplacé par ce qui suit : 
+
+
+
+2012, ch. 17, par. 23(1)
+
+
+
+
+
+
+
+
+
+
+Arrest and detention with warrant
+
+
+
+55. (1) An officer may issue a warrant for the arrest and detention of a permanent resident or a foreign national who the officer has reasonable grounds to believe is inadmissible and is a danger to the public or is unlikely to appear for examination, for an admissibility hearing, for removal from Canada, at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2) or at a proceeding under section 44.1.
+
+
+
+
+
+
+
+
+
+55. (1) L’agent peut lancer un mandat pour l’arrestation et la détention du résident permanent ou de l’étranger dont il a des motifs raisonnables de croire qu’il est interdit de territoire et qu’il constitue un danger pour la sécurité publique ou se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi, à la procédure pouvant mener à la prise d’une mesure de renvoi par le ministre en vertu du paragraphe 44(2) ou à la procédure en vertu de l’article 44.1.
+
+
+
+Arrestation sur mandat et détention
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 55(2)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 55(2)a) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) who the officer has reasonable grounds to believe is inadmissible and is a danger to the public or is unlikely to appear for examination, an admissibility hearing, removal from Canada, at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2) or at a proceeding under section 44.1; or
+
+
+
+
+
+
+
+
+
+a) il a des motifs raisonnables de croire que celui-ci est interdit de territoire et constitue un danger pour la sécurité publique ou se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi, à la procédure pouvant mener à la prise d’une mesure de renvoi par le ministre en vertu du paragraphe 44(2) ou à la procédure en vertu de l’article 44.1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. (1) Paragraph 58(1)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+12. (1) L’alinéa 58(1)b) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) they are unlikely to appear for examination, an admissibility hearing, removal from Canada, at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2) or at a proceeding under section 44.1;
+
+
+
+
+
+
+
+
+
+b) le résident permanent ou l’étranger se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi, à la procédure pouvant mener à la prise d’une mesure de renvoi par le ministre en vertu du paragraphe 44(2) ou à la procédure en vertu de l’article 44.1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 58(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 58(2) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Detention — Immigration Division
+
+
+
+(2) The Immigration Division may order the detention of a permanent resident or a foreign national if it is satisfied that the permanent resident or the foreign national is the subject of an examination, an admissibility hearing or a proceeding under section 44.1 or is subject to a removal order and that the permanent resident or the foreign national is a danger to the public or is unlikely to appear for examination, an admissibility hearing, a proceeding under section 44.1 or removal from Canada.
+
+
+
+
+
+
+
+
+
+(2) La section peut ordonner la mise en détention du résident permanent ou de l’étranger sur preuve qu’il fait l’objet d’un contrôle, d’une enquête, d’une mesure de renvoi ou d’une procédure en vertu de l’article 44.1 et qu’il constitue un danger pour la sécurité publique ou qu’il se soustraira vraisemblablement au contrôle, à l’enquête, au renvoi ou à une procédure en vertu de l’article 44.1.
+
+
+
+Mise en détention par la Section de l’immigration
+
+
+
+
+
+
+
+
+
+
+
+
+13. Subsection 110(2) of the Act is amended by adding the following after paragraph (c):
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 110(2) de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c.1) a decision of the Refugee Protection Division rejecting a claim for refugee protection on the basis of section E or F of Article 1 of the Refugee Convention;
+
+
+
+
+
+
+
+
+
+c.1) la décision de la Section de la protection des réfugiés rejetant une demande d’asile pour un motif prévu aux sections E ou F de l’article premier de la Convention sur les réfugiés;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. The heading of Division 3 of Part 2 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+14. Le titre de la section 3 de la partie 2 de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Pre-removal or Pre-transfer Risk Assessment
+
+
+
+
+
+
+
+
+
+Examen des risques avant le renvoi ou le transfèrement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. (1) Subsection 112(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+15. (1) Le paragraphe 112(1) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Application for protection
+
+
+
+112. (1) A person in Canada, other than a person referred to in subsection 115(1), may, in accordance with the regulations, apply to the Minister for protection if they are subject to a removal order that is in force, are named in a certificate described in subsection 77(1) or are an offender who is being considered for transfer under subsection 8(2.1) of the International Transfer of Offenders Act.
+
+
+
+
+
+
+
+
+
+112. (1) La personne se trouvant au Canada et qui n’est pas visée au paragraphe 115(1) peut, conformément aux règlements, demander la protection au ministre si elle est visée par une mesure de renvoi ayant pris effet ou nommée au certificat visé au paragraphe 77(1) ou si elle est un délinquant dont le transfèrement est envisagé en vertu de la Loi sur le transfèrement international des délinquants, aux termes du paragraphe 8(2.1) de cette loi.
+
+
+
+Demande de protection
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 112(2) of the Act is amended by adding the following after paragraph (a):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 112(2) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a.1) they have lost protected person status under section 47.1;
+
+
+
+
+
+
+
+
+
+a.1) elle a perdu son statut de personne protégée en vertu de l’article 47.1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Paragraph 112(2)(a.1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 112(2)a.1) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a.1) they have lost protected person status under paragraph 47.1(1)(b);
+
+
+
+
+
+
+
+
+
+a.1) elle a perdu son statut de personne protégée en vertu de l’alinéa 47.1(1)b);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Subsection 112(2) of the Act is amended by adding “or” at the end of paragraph (c) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 112(2) de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) they are an offender who is being considered for transfer under subsection 8(2.1) of the International Transfer of Offenders Act and are described in subsection (3).
+
+
+
+
+
+
+
+
+
+d) elle est un délinquant dont le transfèrement est envisagé en vertu de la Loi sur le transfèrement international des délinquants, aux termes du paragraphe 8(2.1) de cette loi, et elle est visée au paragraphe (3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. (1) The Act is amended by adding the following before section 150.1:
+
+
+
+
+
+
+
+
+
+16. (1) La même loi est modifiée par adjonction, avant l’article 150.1, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure — Canada Border Services Agency
+
+
+
+150.01 The Canada Border Services Agency may disclose to the Correctional Service of Canada any information collected under this Act about an offender, as defined in subsection 2(1) of the Corrections and Conditional Release Act, that is relevant to the administration of that Act.
+
+
+
+
+
+
+
+
+
+150.01 L’Agence des services frontaliers du Canada peut communiquer au Service correctionnel du Canada les renseignements recueillis sous le régime de la présente loi concernant un délinquant au sens du paragraphe 2(1) de la Loi sur le système correctionnel et la mise en liberté sous condition qui sont utiles à l’exécution de cette loi.
+
+
+
+Communication de renseignements :  Agence des services frontaliers du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 150.01 of the Act is renumbered as subsection 150.01(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+(2) L’article 150.01 de la même loi devient le paragraphe 150.01(1) et est modifié par adjonction de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure — Minister of Citizenship and Immigration
+
+
+
+(2) The Minister of Citizenship and Immigration may disclose to the Minister of Public Safety and Emergency Preparedness or the Correctional Service of Canada any information collected under this Act that is relevant to the transfer of an offender under the International Transfer of Offenders Act.
+
+
+
+
+
+
+
+
+
+(2) Le ministre de la Citoyenneté et de l’Immigration peut communiquer au ministre de la Sécurité publique et de la Protection civile et au Service correctionnel du Canada les renseignements recueillis sous le régime de la présente loi qui se rapportent au transfèrement du délinquant en vertu de la Loi sur le transfèrement international des délinquants.
+
+
+
+Communication des renseignements :  ministre de la Citoyenneté et de l’Immigration
+
+
+
+
+
+
+
+
+
+
+
+
+17. (1) Section 169 of the Act is amended by adding the following after paragraph (c):
+
+
+
+
+
+
+
+
+
+17. (1) L’article 169 de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c.1) with respect to a decision made by the Immigration Division under subsection 44.1(4), that Division must provide the Minister and the foreign national with written reasons for the decision in accordance with the regulations unless the foreign national appears in person before that Division under subsection 44.1(5) to receive notice of the decision;
+
+
+
+
+
+
+(c.2) in the circumstances prescribed by the regulations, notice of a decision of the Immigration Division made under subsection 44.1(4), as well as written reasons for the decision, must be provided to the Minister in accordance with the regulations, who must then provide the notice and reasons to the foreign national in accordance with the regulations;
+
+
+
+
+
+
+
+
+
+c.1) s’agissant des décisions rendues par la Section de l’immigration en vertu du paragraphe 44.1(4), leurs motifs écrits sont communiqués au ministre et à l’étranger conformément aux règlements, sauf si l’étranger comparaît en personne en vertu du paragraphe 44.1(5) pour recevoir la notification de la décision;
+
+
+
+
+
+
+c.2) dans les cas prévus par règlement, la notification d’une décision de la Section de l’immigration rendue en vertu du paragraphe 44.1(4) ainsi que les motifs écrits de la décision sont, conformément aux règlements, communiqués au ministre, qui alors les communique à l’étranger conformément à ceux-ci;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 169 of the Act is renumbered as subsection 169(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+(2) L’article 169 de la même loi devient le paragraphe 169(1) et est modifié par adjonction de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+(2) The regulations may
+
+
+
+
+
+
+
+
+(a) govern the time within which and the manner in which notice of a decision made under subsection 44.1(4), as well as reasons for the decision, must be provided; and
+
+
+
+
+
+
+
+
+(b) prescribe the circumstances in which the notice and reasons must be provided to the Minister for the purposes of paragraph (1)(c.2).
+
+
+
+
+
+
+
+
+
+(2) Les règlements peuvent : 
+
+
+
+Règlements
+
+
+
+
+a) régir les modalités de communication de la notification et des motifs des décisions visées au paragraphe 44.1(4);
+
+
+
+
+
+
+
+
+b) prévoir les cas pour lesquels la notification et les motifs doivent être fournis au ministre pour l’application de l’alinéa (1)c.2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. Paragraph 173(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+18. L’alinéa 173a) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) except in relation to a removal order made under section 44.1, must, if practicable, hold a hearing;
+
+
+
+
+
+
+
+
+
+a) sauf dans les cas d’une mesure de renvoi prise en vertu de l’article 44.1, dispose de celle-ci, dans la mesure du possible, par la tenue d’une audience;
+
+
+
+
+
+
+
+
+
+
+2004, c. 21
+
+
+
+INTERNATIONAL TRANSFER OF OFFENDERS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE TRANSFÈREMENT INTERNATIONAL DES DÉLINQUANTS
+
+
+
+2004, ch. 21
+
+
+
+
+
+
+
+
+
+
+
+
+19. Section 6 of the International Transfer of Offenders Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+19. L’article 6 de la Loi sur le transfèrement international des délinquants est modifié par adjonction, après le paragraphe (2), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Designation by Minister — collection and disclosure of information
+
+
+
+(3) The Minister may, in writing, designate by name or position, a staff member within the meaning of subsection 2(1) of the Corrections and Conditional Release Act to collect and disclose personal information on the Minister’s behalf for the purposes of sections 10 to 10.2.
+
+
+
+
+
+
+
+
+
+(3) Le ministre peut désigner par écrit — nommément ou par désignation de poste — tout agent au sens du paragraphe 2(1) de la Loi sur le système correctionnel et la mise en liberté sous condition pour qu’il effectue la collecte et la communication de renseignements personnels au nom du ministre pour l’application des articles 10 à 10.2.
+
+
+
+Désignation par le ministre :  collecte et communication de renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+20. Section 7 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+20. L’article 7 de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Request for transfer
+
+
+
+7. A person may not be transferred under a treaty, or an administrative arrangement entered into under section 31 or 32, unless a request is made, in writing, to the Minister, or a request is made, in writing, by the Minister to the foreign entity to which the person is to be transferred.
+
+
+
+
+
+
+
+
+
+7. Le transfèrement d’une personne en vertu d’un traité ou d’une entente administrative conclue en vertu des articles 31 ou 32 est subordonné à la présentation d’une demande écrite au ministre ou d’une demande écrite de celui-ci à l’entité étrangère où la personne sera transférée.
+
+
+
+Demande de transfèrement
+
+
+
+
+
+
+
+
+
+
+
+
+21. (1) Subsection 8(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+21. (1) Le paragraphe 8(1) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Consent of three parties
+
+
+
+8. (1) Subject to subsection (2.1), the consent of the three parties to a transfer — the offender, the foreign entity and Canada — is required.
+
+
+
+
+
+
+
+
+
+8. (1) Sous réserve du paragraphe (2.1), le transfèrement nécessite le consentement des trois parties en cause, soit le délinquant, l’entité étrangère et le Canada.
+
+
+
+Consentement des trois parties
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 8 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(2) L’article 8 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+When offender’s consent not required
+
+
+
+(2.1) The Minister may, without the consent of the offender, unless they are a person described in any of paragraphs (5)(a) to (c), request the transfer of a foreign offender or, on the request of a foreign entity, consent to the transfer of a Canadian offender, if Canada and the foreign entity have entered into a treaty on the transfer of offenders that provides for the transfer of offenders without their consent.
+
+
+
+
+
+
+
+
+
+(2.1) Le ministre peut demander le transfèrement d’un délinquant étranger qui n’est pas visé à l’un des alinéas (5)a) à c) sans le consentement de celui-ci ou, à la demande d’une entité étrangère, consentir au transfèrement d’un délinquant canadien sans le consentement de celui-ci, si le Canada et l’entité étrangère ont conclu un traité portant sur le transfèrement des délinquants qui autorise leur transfèrement sans leur consentement.
+
+
+
+Consentement du délinquant non requis
+
+
+
+
+
+
+
+
+
+
+When transfer without consent not permitted
+
+
+
+(2.2) The Minister shall not make a request under subsection (2.1) if the foreign offender
+
+
+
+
+
+
+
+
+(a) is also a Canadian citizen within the meaning of the Citizenship Act;
+
+
+
+
+
+
+
+
+(b) is a protected person within the meaning of subsection 95(2) of the Immigration and Refugee Protection Act; or
+
+
+
+
+
+
+
+
+(c) is the subject of a provisional arrest warrant issued under section 13 of the Extradition Act or an authority to proceed issued under section 15 of that Act and has not been finally discharged under that Act.
+
+
+
+
+
+
+
+
+
+(2.2) Le ministre ne peut demander le transfèrement d’un délinquant étranger au titre du paragraphe (2.1) si, selon le cas : 
+
+
+
+Transfèrement sans consentement non permis
+
+
+
+
+a) le délinquant est aussi un citoyen canadien au sens de la Loi sur la citoyenneté;
+
+
+
+
+
+
+
+
+b) il a le statut de personne protégée au titre du paragraphe 95(2) de la Loi sur l’immigration et la protection des réfugiés;
+
+
+
+
+
+
+
+
+c) il est visé par un mandat d’arrestation provisoire lancé en vertu de l’article 13 de la Loi sur l’extradition ou par un arrêté introductif d’instance pris en vertu de l’article 15 de cette loi et il n’est pas remis en liberté sans conditions aux termes de cette loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22. The Act is amended by adding the following after section 10:
+
+
+
+
+
+
+
+
+
+22. La même loi est modifiée par adjonction, après l’article 10, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Obligation to consider whether offender at substantial risk
+
+
+
+10.1 (1) In determining whether to make a request under subsection 8(2.1), the Minister shall, after having consulted with the Minister of Citizenship and Immigration, consider whether the foreign offender would, if transferred, be at a substantial risk of a serious violation of their right to life, liberty or security of the person, including from the foreign entity to which the offender is to be transferred or its prison system.
+
+
+
+
+
+
+
+
+
+10.1 (1) Pour décider s’il demande le transfèrement d’un délinquant étranger au titre du paragraphe 8(2.1), le ministre, après avoir consulté le ministre de la Citoyenneté et de l’Immigration, examine si ce transfèrement entraînerait un risque important de violation grave du droit à la vie, à la liberté ou à la sécurité du délinquant, notamment de la part de l’entité étrangère vers laquelle celui-ci serait transféré ou de son système carcéral.
+
+
+
+Obligation d’examiner :  risque important
+
+
+
+
+
+
+
+
+
+
+Imprisonment — less than 10 years
+
+
+
+(2) In the case of an offender who has been convicted of an offence under Canadian law that is punishable under an Act of Parliament by a maximum term of imprisonment of less than 10 years and who is entitled, under the Immigration and Refugee Protection Act, to make a claim for refugee protection or an application for protection, the offender shall not be transferred before a final determination is made in respect of any such claim or application.
+
+
+
+
+
+
+
+
+
+(2) Le délinquant qui a été condamné au Canada pour une infraction à une loi fédérale punissable d’un emprisonnement d’une durée maximale inférieure à dix ans et qui a droit, en vertu de la Loi sur l’immigration et la protection des réfugiés, de faire une demande d’asile ou une demande de protection, ne peut être transféré tant qu’il n’a pas été statué en dernier ressort sur sa demande.
+
+
+
+Emprisonnement :  durée inférieure à dix ans
+
+
+
+
+
+
+
+
+
+
+Other factors
+
+
+
+(3) In determining whether to make a request under subsection 8(2.1), the Minister may consider the following factors:
+
+
+
+
+
+
+
+
+(a) whether, in the Minister’s opinion, the offender will, after the transfer, commit a terrorism offence or criminal organization offence, as defined in section 2 of the Criminal Code;
+
+
+
+
+
+
+
+
+(b) whether the offender has social or family ties in Canada or in the foreign entity to which they are to be transferred;
+
+
+
+
+
+
+
+
+(c) the offender’s health; and
+
+
+
+
+
+
+
+
+(d) any other factor that the Minister considers relevant.
+
+
+
+
+
+
+
+
+
+(3) Pour décider s’il demande le transfèrement d’un délinquant étranger au titre du paragraphe 8(2.1), le ministre peut tenir compte des facteurs suivants : 
+
+
+
+Autres facteurs à considérer
+
+
+
+
+a) si, à son avis, le délinquant commettra, après son transfèrement, une infraction de terrorisme ou une infraction d’organisation criminelle au sens de l’article 2 du Code criminel;
+
+
+
+
+
+
+
+
+b) si le délinquant a des liens sociaux ou familiaux au Canada ou dans l’entité étrangère où il sera transféré;
+
+
+
+
+
+
+
+
+c) la santé du délinquant;
+
+
+
+
+
+
+
+
+d) tout autre facteur qu’il juge pertinent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For greater certainty
+
+
+
+(4) For greater certainty, the transfer of a foreign offender without their consent does not constitute removal within the meaning of the Immigration and Refugee Protection Act.
+
+
+
+
+
+
+
+
+
+(4) Il est entendu que le transfèrement d’un délinquant étranger sans son consentement ne constitue pas un renvoi au sens de la Loi sur l’immigration et la protection des réfugiés.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Submissions
+
+
+
+10.2 If the Minister is considering the transfer of an offender without their consent, the Minister shall give the offender a reasonable opportunity to make submissions in writing with respect to any facts relevant to the proposed transfer.
+
+
+
+
+
+
+
+
+
+10.2 Si le ministre envisage le transfèrement d’un délinquant sans son consentement, il donne à celui-ci l’occasion de présenter par écrit des observations relativement à tout fait pertinent lié au transfèrement.
+
+
+
+Observations
+
+
+
+
+
+
+
+
+
+
+
+
+23. Subsection 11(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+23. Le paragraphe 11(2) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Reasons
+
+
+
+(2) If the Minister does not consent under subsection 8(1) to a transfer, the Minister shall give reasons.
+
+
+
+
+
+
+
+
+
+(2) Le ministre est tenu de motiver tout refus de consentement en vertu du paragraphe 8(1).
+
+
+
+Refus du ministre
+
+
+
+
+
+
+
+
+
+
+Reasons
+
+
+
+(3) If a determination is made to transfer an offender without the offender’s consent, the Minister shall provide the offender with written reasons for the transfer.
+
+
+
+
+
+
+
+
+
+(3) Il est tenu de fournir au délinquant des motifs écrits justifiant toute décision de procéder à son transfèrement sans son consentement.
+
+
+
+Motifs
+
+
+
+
+
+
+
+
+
+
+
+
+24. Section 15 of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+24. L’article 15 de la version anglaise de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Equivalent offence
+
+
+
+15. For the purposes of the application of any Act of Parliament to a Canadian offender, the Minister shall identify the criminal offence that, at the time the Minister receives a request for a transfer, is equivalent to the offence of which the Canadian offender was convicted.
+
+
+
+
+
+
+
+
+
+15. For the purposes of the application of any Act of Parliament to a Canadian offender, the Minister shall identify the criminal offence that, at the time the Minister receives a request for a transfer, is equivalent to the offence of which the Canadian offender was convicted.
+
+
+
+Equivalent offence
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISIONS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS TRANSITOIRES
+
+
+
+
+
+
+
+
+
+
+
+
+Paragraph 44(2)(a)
+
+
+
+25. (1) Paragraph 44(2)(a) of the Immigration and Refugee Protection Act, as enacted by subsection 7(2), applies in respect of a report that has not been referred to the Immigration Division under subsection 44(2) of that Act before the day on which that subsection 7(2) comes into force.
+
+
+
+
+
+
+
+
+
+25. (1) L’alinéa 44(2)a) de la Loi sur l’immigration et la protection des réfugiés, édicté par le paragraphe 7(2), s’applique à l’affaire qui n’a pas été déférée à la Section de l’immigration en vertu du paragraphe 44(2) de cette loi avant la date d’entrée en vigueur de ce paragraphe 7(2).
+
+
+
+Alinéa 44(2)a)
+
+
+
+
+
+
+
+
+
+
+Subsection 44(2.2)
+
+
+
+(2) Subsection 44(2.2) of the Immigration and Refugee Protection Act, as enacted by subsection 7(4), applies in respect of a report that has not been transmitted to the Minister under subsection 44(1) of that Act before the day on which that subsection 7(4) comes into force.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 44(2.2) de la Loi sur l’immigration et la protection des réfugiés, édicté par le paragraphe 7(4), s’applique au rapport qui n’a pas été transmis au ministre en vertu du paragraphe 44(1) de cette loi avant la date d’entrée en vigueur de ce paragraphe 7(4).
+
+
+
+Paragraphe 44(2.2)
+
+
+
+
+
+
+
+
+
+
+Section 44.1
+
+
+
+26. Section 44.1 of the Immigration and Refugee Protection Act, as enacted by section 8, does not apply to a foreign national in respect of whom the Minister has referred a report to the Immigration Division under subsection 44(2) of that Act before the day on which that section 8 comes into force.
+
+
+
+
+
+
+
+
+
+26. L’article 44.1 de la Loi sur l’immigration et la protection des réfugiés, édicté par l’article 8, ne s’applique pas à un étranger à l’égard duquel le ministre a déféré l’affaire à la Section de l’immigration en vertu du paragraphe 44(2) de cette loi avant la date d’entrée en vigueur de cet article 8.
+
+
+
+Article 44.1
+
+
+
+
+
+
+
+
+
+
+Section 47.1
+
+
+
+27. Section 47.1 of the Immigration and Refugee Protection Act, as enacted by subsection 9(1), applies to a person in respect of whom the Minister made a decision referred to in that section after June 28, 2002.
+
+
+
+
+
+
+
+
+
+27. L’article 47.1 de la Loi sur l’immigration et la protection des réfugiés, édicté par le paragraphe 9(1), s’applique aux personnes qui ont fait l’objet d’une décision visée à cet article rendue par le ministre après le 28 juin 2002.
+
+
+
+Article 47.1
+
+
+
+
+
+
+
+
+
+
+Paragraph 110(2)(c.1)
+
+
+
+28. Paragraph 110(2)(c.1) of the Immigration and Refugee Protection Act, as enacted by section 13, does not apply in respect of a person who files a notice of appeal to the Refugee Appeal Division in accordance with the regulations before the day on which that section comes into force.
+
+
+
+
+
+
+
+
+
+28. L’alinéa 110(2)c.1) de la Loi sur l’immigration et la protection des réfugiés, édicté par l’article 13, ne s’applique pas aux personnes qui ont déposé un avis d’appel à la Section d’appel des réfugiés conformément aux règlements avant la date d’entrée en vigueur de cet article.
+
+
+
+Alinéa 110(2)c.1)
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENTS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 8
+
+
+
+29. (1) In this section, “other Act” means the Balanced Refugee Reform Act, chapter 8 of the Statutes of Canada, 2010.
+
+
+
+
+
+
+
+
+
+29. (1) Au présent article, « autre loi » s’entend de la Loi sur des mesures de réforme équitables concernant les réfugiés, chapitre 8 des Lois du Canada (2010).
+
+
+
+2010, ch. 8
+
+
+
+
+
+
+
+
+
+
+
+
+(2) On the first day on which both subsection 15(1) of this Act and subsection 15(1) of the other Act are in force, subsection 112(1) of the Immigration and Refugee Protection Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Dès le premier jour où le paragraphe 15(1) de la présente loi et le paragraphe 15(1) de l’autre loi sont tous deux en vigueur, le paragraphe 112(1) de la Loi sur l’immigration et la protection des réfugiés est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Application for protection
+
+
+
+112. (1) Subject to subsection (1.1), a person in Canada, other than a person referred to in subsection 115(1), may, in accordance with the regulations and the rules of the Board, apply to the Refugee Protection Division for protection if they are subject to a removal order that is in force or are an offender who is being considered for transfer under subsection 8(2.1) of the International Transfer of Offenders Act.
+
+
+
+
+
+
+
+
+
+112. (1) Sous réserve du paragraphe (1.1), la personne se trouvant au Canada et qui n’est pas visée au paragraphe 115(1) peut, conformément aux règlements et aux règles de la Commission, demander la protection à la Section de la protection des réfugiés si elle est visée par une mesure de renvoi ayant pris effet ou si elle est un délinquant dont le transfèrement est envisagé en vertu de la Loi sur le transfèrement international des délinquants, aux termes du paragraphe 8(2.1) de cette loi.
+
+
+
+Demande de protection
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If subsection 17(2) of this Act comes into force before subsection 25(3) of the other Act, then that subsection 25(3) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Si le paragraphe 17(2) de la présente loi entre en vigueur avant le paragraphe 25(3) de l’autre loi, ce paragraphe 25(3) est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 169 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(3) L’article 169 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+(3) The regulations may govern the time within which and the manner in which notice of a decision of the Refugee Protection Division in respect of an application for protection, as well as written reasons for the decision, must be provided.
+
+
+
+
+
+
+
+
+
+(3) Les règlements régissent les modalités de temps ou autres relatives à la communication de la notification des décisions de la Section de la protection des réfugiés portant sur les demandes de protection ainsi que de leurs motifs écrits.
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+
+
+(4) If subsection 25(3) of the other Act comes into force before subsection 17(2) of this Act, then that subsection 17(2) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Si le paragraphe 25(3) de l’autre loi entre en vigueur avant le paragraphe 17(2) de la présente loi, ce paragraphe 17(2) est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 169 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(2) L’article 169 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+(3) The regulations may
+
+
+
+
+
+
+
+
+(a) govern the time within which and the manner in which notice of a decision made under subsection 44.1(4), as well as reasons for the decision, must be provided; and
+
+
+
+
+
+
+
+
+(b) prescribe the circumstances in which the notice and reasons must be provided to the Minister for the purposes of paragraph (1)(c.2).
+
+
+
+
+
+
+
+
+
+(3) Les règlements peuvent : 
+
+
+
+Règlements
+
+
+
+
+a) régir les modalités de communication de la notification et des motifs écrits des décisions visées au paragraphe 44.1(4);
+
+
+
+
+
+
+
+
+b) prévoir les cas pour lesquels la notification et les motifs écrits doivent être fournis au ministre pour l’application de l’alinéa (1)c.2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) If subsection 17(2) of this Act comes into force on the same day as subsection 25(3) of the other Act, then that subsection 17(2) is deemed to have come into force before that subsection 25(3) and subsection (3) applies as a consequence.
+
+
+
+
+
+
+
+
+
+(5) Si l’entrée en vigueur du paragraphe 17(2) de la présente loi et celle du paragraphe 25(3) de l’autre loi sont concomitantes, ce paragraphe 17(2) est réputé être entré en vigueur avant ce paragraphe 25(3), le paragraphe (3) s’appliquant en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+
+2015, c. 13
+
+
+
+30. (1) In this section, “other Act” means the Victims Bill of Rights Act, chapter 13 of the Statutes of Canada, 2015.
+
+
+
+
+
+
+
+
+
+30. (1) Au présent article, « autre loi » s’entend de la Loi sur la Charte des droits des victimes, chapitre 13 des Lois du Canada (2015).
+
+
+
+2015, ch. 13
+
+
+
+
+
+
+
+
+
+
+
+
+(2) If section 5 of this Act comes into force before subsection 46(3) of the other Act, then that subsection 46(3) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Si l’article 5 de la présente loi entre en vigueur avant le paragraphe 46(3) de l’autre loi, ce paragraphe 46(3) est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 26(1) of the Act is amended by striking out “and” at the end of paragraph (b) and by adding the following after paragraph (c):
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 26(1) de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) shall disclose to the victim any of the following information about the offender, if, in the Commissioner’s opinion, the disclosure would not have a negative impact on the safety of the public:
+
+
+
+
+
+
+(i) the date, if any, on which the offender is to be released on temporary absence, work release, parole or statutory release,
+
+
+
+
+
+
+(ii) the conditions attached to the offend-er’s temporary absence, work release, parole or statutory release,
+
+
+
+
+
+
+(iii) the destination of the offender on any temporary absence, work release, parole or statutory release, whether the offender will be in the vicinity of the victim while travelling to that destination and the reasons for any temporary absence; and
+
+
+
+
+
+
+(e) shall provide the victim with access to a photograph of the offender taken on the occurrence of the earliest of any of the following — and any subsequent photograph of the offender taken by the Service — if, in the Commissioner’s opinion, to do so would not have a negative impact on the safety of the public:
+
+
+
+
+
+
+(i) the release of the offender on unescorted temporary absence,
+
+
+
+
+
+
+(ii) the offender’s work release,
+
+
+
+
+
+
+(iii) the offender’s release on parole, and
+
+
+
+
+
+
+(iv) the offender’s release by virtue of statutory release or the expiration of the sentence.
+
+
+
+
+
+
+
+
+
+d) lui communique tout ou partie des renseignements ci-après si, à son avis, cette communication n’aurait pas d’incidence négative sur la sécurité du public : 
+
+
+
+
+
+
+(i) la date de la mise en liberté du délinquant au titre d’une permission de sortir, d’un placement à l’extérieur ou de la libération conditionnelle ou d’office,
+
+
+
+
+
+
+(ii) les conditions dont est assortie la permission de sortir, le placement à l’extérieur ou la libération conditionnelle ou d’office,
+
+
+
+
+
+
+(iii) la destination du délinquant lors de sa permission de sortir et les raisons de celle-ci, sa destination lors de son placement à l’extérieur, sa libération conditionnelle ou d’office et son éventuel rapprochement de la victime, selon son itinéraire;
+
+
+
+
+
+
+e) lui donne accès à une photographie du délinquant au premier des événements ci-après, ou à toute nouvelle photographie du délinquant prise par le Service par la suite, si, à son avis, cet accès n’aurait pas d’incidence négative sur la sécurité du public : 
+
+
+
+
+
+
+(i) la mise en liberté du délinquant lors d’une permission de sortir sans escorte,
+
+
+
+
+
+
+(ii) son placement à l’extérieur,
+
+
+
+
+
+
+(iii) sa libération conditionnelle,
+
+
+
+
+
+
+(iv) sa libération d’office ou l’expiration de sa peine.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If subsection 46(3) of the other Act comes into force before section 5 of this Act, then
+
+
+
+
+
+
+(a) that section 5 is deemed never to have come into force and is repealed; and
+
+
+
+
+
+
+(b) subsection 26(1) of the Corrections and Conditional Release Act is amended by striking out “and” at the end of paragraph (c), by adding “and” at the end of paragraph (d) and by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+(3) Si le paragraphe 46(3) de l’autre loi entre en vigueur avant l’article 5 de la présente loi : 
+
+
+
+
+
+
+a) cet article 5 est réputé ne pas être entré en vigueur et est abrogé;
+
+
+
+
+
+
+b) le paragraphe 26(1) de la Loi sur le système correctionnel et la mise en liberté sous condition est modifié par adjonction, après l’alinéa d), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e) shall, in respect of an offender who is released under the Immigration and Refugee Protection Act, disclose to the victim the date on which the offender was released and the destination of the offender on release, if, in the Commissioner’s opinion, the disclosure would not have a negative impact on the safety of the public.
+
+
+
+
+
+
+
+
+
+e) lui communique les renseignements ci-après sur le délinquant lorsque celui-ci a été mis en liberté en vertu de la Loi sur l’immigration et la protection des réfugiés si, à son avis, cette communication n’aurait pas d’incidence négative sur la sécurité du public : 
+
+
+
+
+
+
+(i) la date de la mise en liberté du délinquant,
+
+
+
+
+
+
+(ii) sa destination lors de sa libération.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) If section 5 of this Act comes into force on the same day as subsection 46(3) of the other Act, then that section 5 is deemed to have come into force before that subsection 46(3) and subsection (2) applies as a consequence.
+
+
+
+
+
+
+
+
+
+(4) Si l’entrée en vigueur de l’article 5 de la présente loi et celle du paragraphe 46(3) de l’autre loi sont concomitantes, cet article 5 est réputé être entré en vigueur avant ce paragraphe 46(3), le paragraphe (2) s’appliquant en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-642
+
+
+
+31. If Bill C-642, introduced in the 2nd session of the 41st Parliament and entitled An Act to amend the Corrections and Conditional Release Act (high profile offender), receives royal assent, then, on the first day on which both section 1 of that Act and section 4 of this Act are in force, section 25.1 of the Corrections and Conditional Release Act, as enacted by that section 4, is renumbered as section 25.2 and is repositioned accordingly if required.
+
+
+
+
+
+
+
+
+
+31. En cas de sanction du projet de loi C-642, déposé au cours de la 2e session de la 41e législature et intitulé Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition (délinquant notoire), dès le premier jour où l’article 1 de cette loi et l’article 4 de la présente loi sont tous deux en vigueur, l’article 25.1 de la Loi sur le système correctionnel et la mise en liberté sous condition, édicté par cet article 4, devient l’article 25.2 et est déplacé en conséquence.
+
+
+
+Projet de loi C-642
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+32. (1) Subsections 7(1) and (4) and 10(2) come into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+32. (1) Les paragraphes 7(1) et (4) et 10(2) entrent en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+(2) Subsection 7(2) comes into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 7(2) entre en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+(3) Section 6, subsections 7(3) and (5), section 8, subsection 10(3) and sections 11, 12, 17 and 18 come into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(3) L’article 6, les paragraphes 7(3) et (5), l’article 8, le paragraphe 10(3) et les articles 11, 12, 17 et 18 entrent en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+(4) Subsections 9(2), 10(1) and 15(3) come into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(4) Les paragraphes 9(2), 10(1) et 15(3) entrent en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+(5) Section 14, subsections 15(1) and (4) and 16(2) and sections 19 to 24 come into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(5) L’article 14, les paragraphes 15(1) et (4) et 16(2) et les articles 19 à 24 entrent en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Criminal Records Act
+Clause 2: New.
+
+
+
+Loi sur le casier judiciaire
+Article 2 :  Nouveau.
+
+
+
+
+Corrections and Conditional Release Act
+Clause 3: Relevant portion of subsection 23(1):
+23. (1) When a person is sentenced, committed or transferred to penitentiary, the Service shall take all reasonable steps to obtain, as soon as is practicable,
+... 
+
+
+
+Loi sur le système correctionnel et la mise en liberté sous condition
+Article 3 :  Texte du passage visé du paragraphe 23(1) :
+23. (1) Le Service doit, dans les meilleurs délais après la condamnation ou le transfèrement d’une personne au pénitencier, prendre toutes mesures possibles pour obtenir : 
+[...] 
+
+
+
+
+Clause 4: New.
+
+
+
+Article 4 :  Nouveau.
+
+
+
+
+Clause 5: Relevant portion of subsection 26(1):
+26. (1) At the request of a victim of an offence committed by an offender, the Commissioner
+... 
+
+
+
+Article 5 :  Texte du passage visé du paragraphe 26(1) :
+26. (1) Sur demande de la victime, le commissaire : 
+[...] 
+
+
+
+
+Immigration and Refugee Protection Act
+Clause 6: Existing text of section 23:
+23. An officer may authorize a person to enter Canada for the purpose of further examination or an admissibility hearing under this Part.
+
+
+
+Loi sur l’immigration et la protection des réfugiés
+Article 6 :  Texte de l’article 23 : 
+23. L’entrée peut aussi être autorisée en vue du contrôle complémentaire ou de l’enquête prévus par la présente partie.
+
+
+
+
+Clause 7: (1) New.
+
+
+
+Article 7 :  (1) Nouveau.
+
+
+
+
+(2) and (3) Existing text of subsection 44(2):
+(2) If the Minister is of the opinion that the report is well-founded, the Minister may refer the report to the Immigration Division for an admissibility hearing, except in the case of a permanent resident who is inadmissible solely on the grounds that they have failed to comply with the residency obligation under section 28 and except, in the circumstances prescribed by the regulations, in the case of a foreign national. In those cases, the Minister may make a removal order.
+
+
+
+(2) et (3) Texte du paragraphe 44(2) :
+(2) S’il estime le rapport bien fondé, le ministre peut déférer l’affaire à la Section de l’immigration pour enquête, sauf s’il s’agit d’un résident permanent interdit de territoire pour le seul motif qu’il n’a pas respecté l’obligation de résidence ou, dans les circonstances visées par les règlements, d’un étranger; il peut alors prendre une mesure de renvoi.
+
+
+
+
+(4) New.
+
+
+
+(4) Nouveau.
+
+
+
+
+(5) Existing text of subsection 44(3):
+(3) An officer or the Immigration Division may impose any conditions, including the payment of a deposit or the posting of a guarantee for compliance with the conditions, that the officer or the Division considers necessary on a permanent resident or a foreign national who is the subject of a report, an admissibility hearing or, being in Canada, a removal order.
+
+
+
+(5) Texte du paragraphe 44(3) :
+(3) L’agent ou la Section de l’immigration peut imposer les conditions qu’il estime nécessaires, notamment la remise d’une garantie d’exécution, au résident permanent ou à l’étranger qui fait l’objet d’un rapport ou d’une enquête ou, étant au Canada, d’une mesure de renvoi.
+
+
+
+
+Clause 8: New.
+
+
+
+Article 8 :  Nouveau.
+
+
+
+
+Clause 9: (1) and (2) New.
+
+
+
+Article 9 :  (1) et (2) Nouveau.
+
+
+
+
+Clause 10: (1) to (3) Relevant portion of section 53:
+53. The regulations may provide for any matter relating to the application of this Division, and may include provisions respecting
+... 
+(a.1) the form and manner in which an application to renounce permanent resident status must be made and the conditions that must be met before such an application may be approved;
+(b) the circumstances in which a removal order shall be made or confirmed against a permanent resident or a foreign national;
+
+
+
+Article 10 :  (1) à (3) Texte du passage visé de l’article 53 : 
+53. Les règlements régissent l’application de la présente section et portent notamment sur : 
+[...]  
+a.1) les modalités de présentation d’une demande de renonciation au statut de résident permanent et les conditions à respecter pour qu’une telle demande soit acceptée;
+b) les cas de prise ou de maintien des mesures de renvoi;
+
+
+
+
+Clause 11: (1) Existing text of subsection 55(1):
+55. (1) An officer may issue a warrant for the arrest and detention of a permanent resident or a foreign national who the officer has reasonable grounds to believe is inadmissible and is a danger to the public or is unlikely to appear for examination, for an admissibility hearing, for removal from Canada or at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2).
+
+
+
+Article 11 :  (1) Texte du paragraphe 55(1) :
+55. (1) L’agent peut lancer un mandat pour l’arrestation et la détention du résident permanent ou de l’étranger dont il a des motifs raisonnables de croire qu’il est interdit de territoire et qu’il constitue un danger pour la sécurité publique ou se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi, ou à la procédure pouvant mener à la prise par le ministre d’une mesure de renvoi en vertu du paragraphe 44(2).
+
+
+
+
+(2) Relevant portion of subsection 55(2):
+(2) An officer may, without a warrant, arrest and detain a foreign national, other than a protected person,
+(a) who the officer has reasonable grounds to believe is inadmissible and is a danger to the public or is unlikely to appear for examination, an admissibility hearing, removal from Canada, or at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2); or
+
+
+
+(2) Texte du passage visé du paragraphe 55(2) :
+(2) L’agent peut, sans mandat, arrêter et détenir l’étranger qui n’est pas une personne protégée dans les cas suivants : 
+a) il a des motifs raisonnables de croire que celui-ci est interdit de territoire et constitue un danger pour la sécurité publique ou se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi, ou à la procédure pouvant mener à la prise par le ministre d’une mesure de renvoi en vertu du paragraphe 44(2);
+
+
+
+
+Clause 12: (1) Relevant portion of subsection 58(1):
+58. (1) The Immigration Division shall order the release of a permanent resident or a foreign national unless it is satisfied, taking into account prescribed factors, that
+... 
+(b) they are unlikely to appear for examination, an admissibility hearing, removal from Canada, or at a proceeding that could lead to the making of a removal order by the Minister under subsection 44(2);
+
+
+
+Article 12 :  (1) Texte du passage visé du paragraphe 58(1) :
+58. (1) La section prononce la mise en liberté du résident permanent ou de l’étranger, sauf sur preuve, compte tenu des critères réglementaires, de tel des faits suivants : 
+[...] 
+b) le résident permanent ou l’étranger se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi, ou à la procédure pouvant mener à la prise par le ministre d’une mesure de renvoi en vertu du paragraphe 44(2);
+
+
+
+
+(2) Existing text of subsection 58(2):
+(2) The Immigration Division may order the detention of a permanent resident or a foreign national if it is satisfied that the permanent resident or the foreign national is the subject of an examination or an admissibility hearing or is subject to a removal order and that the permanent resident or the foreign national is a danger to the public or is unlikely to appear for examination, an admissibility hearing or removal from Canada.
+
+
+
+(2) Texte du paragraphe 58(2) :
+(2) La section peut ordonner la mise en détention du résident permanent ou de l’étranger sur preuve qu’il fait l’objet d’un contrôle, d’une enquête ou d’une mesure de renvoi et soit qu’il constitue un danger pour la sécurité publique, soit qu’il se soustraira vraisemblablement au contrôle, à l’enquête ou au renvoi.
+
+
+
+
+Clause 13: Relevant portion of subsection 110(2):
+(2) No appeal may be made in respect of any of the following:
+... 
+
+
+
+Article 13 :  Texte du passage visé du paragraphe 110(2) :
+(2) Ne sont pas susceptibles d’appel : 
+[...] 
+
+
+
+
+Clause 14: Existing text of the heading:
+Pre-removal Risk Assessment
+
+
+
+Article 14 :  Texte du titre : 
+Examen des risques avant renvoi
+
+
+
+
+Clause 15: (1) Existing text of subsection 112(1):
+112. (1) A person in Canada, other than a person referred to in subsection 115(1), may, in accordance with the regulations, apply to the Minister for protection if they are subject to a removal order that is in force or are named in a certificate described in subsection 77(1).
+
+
+
+Article 15 :  (1) Texte du paragraphe 112(1) :
+112. (1) La personne se trouvant au Canada et qui n’est pas visée au paragraphe 115(1) peut, conformément aux règlements, demander la protection au ministre si elle est visée par une mesure de renvoi ayant pris effet ou nommée au certificat visé au paragraphe 77(1).
+
+
+
+
+(2) to (4) Relevant portion of subsection 112(2):
+(2) Despite subsection (1), a person may not apply for protection if
+... 
+
+
+
+(2) à (4) Texte du passage visé du paragraphe 112(2) :
+(2) Elle n’est pas admise à demander la protection dans les cas suivants : 
+[...] 
+
+
+
+
+Clause 16: (1) and (2) New.
+
+
+
+Article 16 :  (1) et (2) Nouveau.
+
+
+
+
+Clause 17: (1) Relevant portion of section 169:
+169. In the case of a decision of a Division, other than an interlocutory decision:
+... 
+
+
+
+Article 17 :  (1) Texte du passage visé de l’article 169 : 
+169. Les dispositions qui suivent s’appliquent aux décisions, autres qu’interlocutoires, des sections : 
+[...] 
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+Clause 18: Relevant portion of section 173:
+173. The Immigration Division, in any proceeding before it,
+(a) must, where practicable, hold a hearing;
+
+
+
+Article 18 :  Texte du passage visé de l’article 173 : 
+173. Dans toute affaire dont elle est saisie, la Section de l’immigration : 
+a) dispose de celle-ci, dans la mesure du possible, par la tenue d’une audience;
+
+
+
+
+International Transfer of Offenders Act
+Clause 19: New.
+
+
+
+Loi sur le transfèrement international des délinquants
+Article 19 :  Nouveau.
+
+
+
+
+Clause 20: Existing text of section 7:
+7. A person may not be transferred under a treaty, or an administrative arrangement entered into under section 31 or 32, unless a request is made, in writing, to the Minister.
+
+
+
+Article 20 :  Texte de l’article 7 : 
+7. Le transfèrement d’une personne en vertu d’un traité ou d’une entente administrative conclue en vertu des articles 31 ou 32 est subordonné à la présentation d’une demande écrite au ministre.
+
+
+
+
+Clause 21: (1) Existing text of subsection 8(1):
+8. (1) The consent of the three parties to a transfer — the offender, the foreign entity and Canada — is required.
+
+
+
+Article 21 :  (1) Texte du paragraphe 8(1) :
+8. (1) Le transfèrement nécessite le consentement des trois parties en cause, soit le délinquant, l’entité étrangère et le Canada.
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+Clause 22: New.
+
+
+
+Article 22 :  Nouveau.
+
+
+
+
+Clause 23: Existing text of subsection 11(2):
+(2) If the Minister does not consent to a transfer, the Minister shall give reasons.
+
+
+
+Article 23 :  Texte du paragraphe 11(2) :
+(2) Le ministre est tenu de motiver tout refus de consentement.
+
+
+
+
+Clause 24: Existing text of section 15:
+15. For the purposes of the application of any Act of Parliament to a Canadian offender, the Minister shall identify the criminal offence that, at the time the Minister receives their request for a transfer, is equivalent to the offence of which the Canadian offender was convicted.
+
+
+
+Article 24 :  Texte de l’article 15 : 
+15. Pour l’application des lois fédérales au délinquant canadien, le ministre détermine l’infraction criminelle qui correspond, au moment où il reçoit la demande de transfèrement, à l’infraction dont le délinquant a été déclaré coupable.
+
+
+
+

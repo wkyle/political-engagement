@@ -1,0 +1,1450 @@
+
+
+
+
+
+
+S-12
+
+
+
+
+
+S-12
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-12
+
+
+
+
+
+PROJET DE LOI S-12
+
+
+
+
+
+
+An Act to amend the Statutory Instruments Act and to make consequential amendments to the Statutory Instruments Regulations
+
+
+
+
+
+Loi modifiant la Loi sur les textes réglementaires et le Règlement sur les textes réglementaires en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AS PASSED
+BY THE SENATEDECEMBER 10, 2012
+
+
+
+
+
+ADOPTÉ
+PAR LE SÉNATLE 10 DÉCEMBRE 2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+90673
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Statutory Instruments Act to provide for the express power to incorporate by reference in regulations. It imposes an obligation on regulation-making authorities to ensure that a document, index, rate or number that is incorporated by reference is accessible. It also provides that a person is not liable to be found guilty of an offence or subjected to an administrative sanction for a contravention relating to a document, index, rate or number that is incorporated by reference unless certain requirements in relation to accessibility are met. Finally, it makes consequential amendments to the Statutory Instruments Regulations.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur les textes réglementaires afin de prévoir une habilitation expresse permettant l’incorporation par renvoi dans les règlements. Il impose aux autorités réglementaires l’obligation de veiller à ce que les documents, indices, taux ou nombres incorporés par renvoi soient accessibles. Il prévoit également qu’une déclaration de culpabilité ou une sanction administrative ne peut découler d’une contravention se rapportant à tout document, indice, taux ou nombre incorporé par renvoi que si les exigences en matière d’accessibilité sont respectées. Finalement, il apporte des modifications corrélatives au Règlement sur les textes réglementaires.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-12
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Statutory Instruments Act and to make consequential amendments to the Statutory Instruments Regulations
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les textes réglementaires et le Règlement sur les textes réglementaires en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Incorporation by Reference in Regulations Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur l’incorporation par renvoi dans les règlements.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. S-22
+
+
+
+STATUTORY INSTRUMENTS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LES TEXTES RÉGLEMENTAIRES
+
+
+
+L.R., ch. S-22
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Statutory Instruments Act is amended by adding the following after section 18:
+
+
+
+
+
+
+
+
+
+
+2. La Loi sur les textes réglementaires est modifiée par adjonction, après l’article 18, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INCORPORATION BY REFERENCE
+
+
+
+
+
+
+
+
+
+INCORPORATION PAR RENVOI
+
+
+
+
+
+
+
+
+
+
+
+
+Power to incorporate documents by reference
+
+
+
+
+18.1 (1) Subject to subsection (2), the power to make a regulation includes the power to incorporate in it by reference a document — or a part of a document — as it exists on a particular date or as it is amended from time to time.
+
+
+
+
+
+
+
+
+
+
+18.1 (1) Sous réserve du paragraphe (2), le pouvoir de prendre un règlement comporte celui d’y incorporer par renvoi tout ou partie d’un document, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+
+
+Pouvoir d’incorporer des documents par renvoi
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(2) In the case of a document produced by the regulation-making authority, either alone or jointly with a person or body in the federal public administration, the document or part may be incorporated only if it
+
+
+
+
+
+
+
+
+
+
+(a) contains only elements that are incidental to or elaborate on the rules set out in the regulation and is incorporated as it exists on a particular date;
+
+
+
+
+
+
+
+
+
+
+(b) is reproduced or translated from a document, or part of a document, produced by a person or body other than the regulation-making authority, with any adaptations of form or reference that will facilitate its incorporation in the regulation; or
+
+
+
+
+
+
+
+
+
+
+(c) is a regulation.
+
+
+
+
+
+
+
+
+
+(2) Ne peut être incorporé par renvoi tout ou partie d’un document établi par l’autorité réglementaire, seule ou conjointement avec une personne ou un organisme qui appartiennent à l’administration publique fédérale, sauf si le document ou la partie en cause, selon le cas:
+
+
+
+Restriction
+
+
+
+
+
+a) contient uniquement des éléments accessoires aux règles énoncées dans le règlement ou étoffant celles-ci et est incorporé dans sa version à une date donnée;
+
+
+
+
+
+
+
+
+
+
+
+b) est issu de la reproduction ou de la traduction de tout ou partie d’un document établi par une personne ou un organisme autre que l’autorité réglementaire, compte tenu des adaptations quant à la forme et aux renvois destinées à en faciliter l’incorporation;
+
+
+
+
+
+
+
+
+
+
+
+c) est un règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Index, rate or number
+
+
+
+(3) The power to make a regulation also includes the power to incorporate by reference an index, rate or number — as it exists on a particular date or as it is varied from time to time — established by Statistics Canada, the Bank of Canada or a person or body other than the regulation-making authority.
+
+
+
+
+
+
+
+
+
+(3) Le pouvoir de prendre un règlement comporte aussi celui d’y incorporer par renvoi des indices, taux ou nombres — considérés à une date donnée ou fixés au besoin — établis par Statistique Canada, par la Banque du Canada ou par une personne ou un organisme autre que l’autorité réglementaire.
+
+
+
+Indices, taux ou nombres
+
+
+
+
+
+
+
+
+
+
+Meaning of “regulation-making authority”
+
+
+
+(4) For the purposes of subsections (2) and (3), “regulation-making authority” includes the following:
+
+
+
+
+
+
+
+
+
+
+(a) if the regulation-making authority is the Governor in Council or the Treasury Board,
+
+
+
+
+
+
+
+
+
+
+(i) the minister who recommends the making of the regulation,
+
+
+
+
+
+
+
+
+
+
+(ii) the minister who is accountable to Parliament for the administration of the regulation, and
+
+
+
+
+
+
+
+
+
+
+(iii) any person or body — other than Statistics Canada and standards development organizations accredited by the Standards Council of Canada — for which either of those ministers is accountable to Parliament;
+
+
+
+
+
+
+
+
+
+
+(b) if the regulation-making authority is a minister, any person or body — other than Statistics Canada and standards development organizations accredited by the Standards Council of Canada — for which that minister is accountable to Parliament; and
+
+
+
+
+
+
+
+
+
+
+(c) in any other case, any minister who is accountable to Parliament for the regulation-making authority.
+
+
+
+
+
+
+
+
+
+(4) Pour l’application des paragraphes (2) et (3), sont assimilés à l’autorité réglementaire :
+
+
+
+Sens de « autorité réglementaire »
+
+
+
+
+
+a) dans le cas où le gouverneur en conseil ou le Conseil du Trésor est l’autorité réglementaire :
+
+
+
+
+
+
+
+
+
+
+(i) le ministre qui recommande la prise du règlement,
+
+
+
+
+
+
+
+
+
+
+(ii) le ministre responsable devant le Parlement de son exécution,
+
+
+
+
+
+
+
+
+
+
+(iii) tout organisme ou personne — autre que Statistique Canada ou un organisme de normalisation accrédité par le Conseil canadien des normes — dont l’un ou l’autre de ces ministres est responsable devant le Parlement;
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas où un ministre est l’autorité réglementaire, tout organisme ou personne — autre que Statistique Canada ou un organisme de normalisation accrédité par le Conseil canadien des normes — dont ce ministre est responsable devant le Parlement;
+
+
+
+
+
+
+
+
+
+
+
+c) dans tout autre cas, tout ministre responsable devant le Parlement de l’autorité réglementaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Impact of section 18.1
+
+
+
+
+18.2 The powers conferred by section 18.1 are in addition to any power to incorporate by reference that is conferred by the Act under which a regulation is made and that section does not limit such a power.
+
+
+
+
+
+
+
+
+
+
+18.2 Les pouvoirs conférés par l’article 18.1 s’ajoutent à tout pouvoir d’incorporation par renvoi que confère la loi habilitante en cause et cet article ne limite pas ce pouvoir.
+
+
+
+Effets de l’article 18.1
+
+
+
+
+
+
+
+
+
+
+Accessibility
+
+
+
+
+18.3 (1) The regulation-making authority shall ensure that a document, index, rate or number that is incorporated by reference is accessible.
+
+
+
+
+
+
+
+
+
+
+18.3 (1) L’autorité réglementaire veille à ce que le document, l’indice, le taux ou le nombre incorporé par renvoi soit accessible.
+
+
+
+Accessibilité
+
+
+
+
+
+
+
+
+
+
+Governor in Council and Treasury Board regulations
+
+
+
+(2) If the Governor in Council or the Treasury Board is the regulation-making authority, the obligation under subsection (1) rests with the minister who is accountable to Parliament for the administration of the regulation.
+
+
+
+
+
+
+
+
+
+(2) Dans le cas où l’autorité réglementaire est le gouverneur en conseil ou le Conseil du Trésor, cette obligation incombe au ministre responsable devant le Parlement de l’exécution du règlement.
+
+
+
+Règlement du gouverneur en conseil ou du Conseil du Trésor
+
+
+
+
+
+
+
+
+
+
+No registration or publication
+
+
+
+
+18.4 For greater certainty, a document, index, rate or number that is incorporated by reference in a regulation is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
+
+
+
+
+
+
+
+
+
+
+18.4 Il est entendu que les documents, indices, taux et nombres qui sont incorporés par renvoi dans un règlement n’ont pas à être transmis pour enregistrement ni à être publiés dans la Gazette du Canada du seul fait de leur incorporation.
+
+
+
+Ni enregistrement ni publication
+
+
+
+
+
+
+
+
+
+
+Proof of incorporated document, index, rate or number
+
+
+
+
+18.5 (1) In any proceeding in which a document, index, rate or number — that is incorporated by reference in a regulation — is relevant, a certificate appearing to be issued by or on behalf of the regulation-making authority that includes any of the following statements is, in the absence of evidence to the contrary, presumed to be authentic and proof of the matters set out in those statements:
+
+
+
+
+
+
+
+
+
+
+(a) a statement that the document attached to the certificate, or the index, rate or number set out in it, is the document, index, rate or number that was incorporated in the regulation on a specified date or during a specified period; or
+
+
+
+
+
+
+
+
+
+
+(b) a statement regarding the manner in which the incorporated document, index, rate or number was accessible on that date or during that period.
+
+
+
+
+
+
+
+
+
+
+18.5 (1) Dans toute instance faisant intervenir un document, indice, taux ou nombre incorporé par renvoi dans un règlement, le certificat apparemment délivré par l’autorité réglementaire ou en son nom qui comporte l’un ou l’autre des énoncés ci-après fait foi, sauf preuve contraire, de son authenticité et, selon le cas, des faits qui sont mentionnés dans ces énoncés :
+
+
+
+Preuve du document, de l’indice, du taux ou du nombre
+
+
+
+
+
+a) un énoncé portant que le document qui est joint au certificat ou l’indice, le taux ou le nombre qui y figure est bien celui qui était incorporé par renvoi dans le règlement à la date précisée ou au cours de la période précisée;
+
+
+
+
+
+
+
+
+
+
+
+b) un énoncé faisant état de la façon dont ce document, indice, taux ou nombre était accessible à cette date ou au cours de cette période.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Governor in Council and Treasury Board regulations
+
+
+
+(2) If the Governor in Council or the Treasury Board is the regulation-making authority, the certificate may be issued by the minister who is accountable to Parliament for the administration of the regulation.
+
+
+
+
+
+
+
+
+
+(2) Dans le cas où l’autorité réglementaire est le gouverneur en conseil ou le Conseil du Trésor, le certificat peut être délivré par le ministre responsable devant le Parlement de l’exécution du règlement.
+
+
+
+Règlement du gouverneur en conseil ou du Conseil du Trésor
+
+
+
+
+
+
+
+
+
+
+No finding of guilt or administrative sanction
+
+
+
+
+18.6 A person is not liable to be found guilty of an offence or subjected to an administrative sanction for any contravention in respect of which a document, index, rate or number — that is incorporated by reference in a regulation — is relevant unless, at the time of the alleged contravention, it was accessible as required by section 18.3 or it was otherwise accessible to that person.
+
+
+
+
+
+
+
+
+
+
+18.6 Aucune déclaration de culpabilité ni aucune sanction administrative ne peut découler d’une contravention faisant intervenir un document, indice, taux ou nombre — incorporé par renvoi dans un règlement — se rapportant au fait reproché, sauf si, au moment de ce fait, le document, l’indice, le taux ou le nombre était accessible en application de l’article 18.3 ou était autrement accessible à la personne en cause.
+
+
+
+Ni déclaration de culpabilité ni sanction administrative
+
+
+
+
+
+
+
+
+
+
+Validity of incorporation
+
+
+
+
+18.7 The validity of an incorporation by reference that conforms with section 18.1 and that was made before the day on which that section comes into force is confirmed.
+
+
+
+
+
+
+
+
+
+
+18.7 Est confirmée la validité de toute incorporation par renvoi conforme à l’article 18.1 qui a été effectuée avant l’entrée en vigueur de cet article.
+
+
+
+Validité confirmée
+
+
+
+
+
+
+
+
+
+
+Replacement of “autorité réglementante” with “autorité réglementaire”
+
+
+
+
+3. The French version of the Act is amended by replacing “autorité réglementante” with “autorité réglementaire” in the following provisions:
+
+
+
+
+
+
+
+
+
+
+(a) the definition “autorité réglementante” in subsection 2(1);
+
+
+
+
+
+
+
+
+
+
+(b) subsections 3(1) and (3);
+
+
+
+
+
+
+
+
+
+
+(c) sections 4 and 5;
+
+
+
+
+
+
+
+
+
+
+(d) the portion of section 8 after paragraph (b);
+
+
+
+
+
+
+
+
+
+
+(e) subsection 9(2);
+
+
+
+
+
+
+
+
+
+
+(f) subsection 15(1); and
+
+
+
+
+
+
+
+
+
+
+(g) paragraphs 20(e) and (i).
+
+
+
+
+
+
+
+
+
+
+3. Dans les passages ci-après de la version française de la même loi, « autorité réglementante » est remplacé par « autorité réglementaire  » :
+
+
+
+Remplacement de « autorité réglementante » par « autorité réglementaire  »
+
+
+
+
+
+a) la définition de « autorité réglementante » au paragraphe 2(1);
+
+
+
+
+
+
+
+
+
+
+
+b) les paragraphes 3(1) et (3);
+
+
+
+
+
+
+
+
+
+
+
+c) les articles 4 et 5;
+
+
+
+
+
+
+
+
+
+
+
+d) le passage de l’article 8 suivant l’alinéa b);
+
+
+
+
+
+
+
+
+
+
+
+e) le paragraphe 9(2);
+
+
+
+
+
+
+
+
+
+
+
+f) le paragraphe 15(1);
+
+
+
+
+
+
+
+
+
+
+
+g) les alinéas 20e) et i).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C.R.C., c. 1509
+
+
+
+CONSEQUENTIAL AMENDMENTS TO THE STATUTORY INSTRUMENTS REGULATIONS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES AU RÈGLEMENT SUR LES TEXTES RÉGLEMENTAIRES
+
+
+
+C.R.C., ch. 1509
+
+
+
+
+
+
+
+
+
+
+Replacement of “autorité réglementante” with “autorité réglementaire”
+
+
+
+
+4. The French version of the Statutory Instruments Regulations is amended by replacing “autorité réglementante” with “autorité réglementaire” in the following provisions:
+
+
+
+
+
+
+
+
+
+
+(a) subparagraph 5(a)(ii);
+
+
+
+
+
+
+
+
+
+
+(b) subsection 8(2); and
+
+
+
+
+
+
+
+
+
+
+(c) the portion of section 18 before paragraph (a).
+
+
+
+
+
+
+
+
+
+
+4. Dans les passages ci-après de la version française du Règlement sur les textes réglementaires, « autorité réglementante » est remplacé par « autorité réglementaire » :
+
+
+
+Remplacement de « autorité réglementante » par « autorité réglementaire »
+
+
+
+
+
+a) le sous-alinéa 5a)(ii);
+
+
+
+
+
+
+
+
+
+
+
+b) le paragraphe 8(2);
+
+
+
+
+
+
+
+
+
+
+
+c) le passage de l’article 18 précédant l’alinéa a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Senate of CanadaAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du Sénat du CanadaDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

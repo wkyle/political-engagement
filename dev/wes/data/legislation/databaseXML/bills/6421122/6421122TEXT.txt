@@ -1,0 +1,969 @@
+
+
+
+
+
+C-610
+
+
+
+
+
+C-610
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-610
+
+
+
+
+
+PROJET DE LOI C-610
+
+
+
+
+
+
+An Act to amend the Criminal Code (cruelty to animals)  
+
+
+
+
+
+Loi modifiant le Code criminel (cruauté envers les animaux)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 6, 2014
+
+première lecture le 6 juin 2014
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Cotler
+
+412076
+
+
+
+M. Cotler
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code to expand the scope of existing offence-creating provisions related to animal cruelty and to create new offences.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel de façon à élargir la portée des dispositions constitutives d'infractions en matière de cruauté envers les animaux et à créer de nouvelles infractions.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-610
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-610
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (cruelty to animals)  
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (cruauté envers les animaux)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+1. The portion of subsection 445.1(1) of the Criminal Code before paragraph (e) is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. Le passage du paragraphe 445.1(1) du Code criminel précédant l'alinéa e) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Causing unnecessary suffering
+
+
+
+445.1 (1) Every one commits an offence who, wilfully or recklessly,
+
+
+
+
+
+
+
+
+(a) causes or, being the owner, permits to be caused unnecessary pain, suffering or injury to an animal or a bird;
+
+
+
+
+
+
+
+
+(a.1) kills an animal or a bird or, being the owner, permits an animal or a bird to be killed, brutally or viciously, regardless of whether the animal or bird dies immediately;
+
+
+
+
+
+
+
+
+(a.2) kills an animal or a bird without lawful excuse;
+
+
+
+
+
+
+
+
+(b) in any manner encourages, promotes, arranges, assists at or receives money for the fighting or baiting of animals or birds, including training an animal or a bird to fight another animal or bird;
+
+
+
+
+
+
+
+
+(c) without reasonable excuse, administers a poisonous or an injurious drug or substance to a domestic animal or bird or an animal or a bird wild by nature that is kept in captivity or, being the owner of such an animal or a bird, permits a poisonous or an injurious drug or substance to be administered to it;
+
+
+
+
+
+
+
+
+(c.1) without lawful excuse places poison in such a position that it may easily be consumed by an animal or a bird;
+
+
+
+
+
+
+
+
+(d) promotes, arranges, conducts, assists in, receives money for or takes part in any meeting, competition, exhibition, pastime, practice, display or event at or in the course of which captive animals or birds are liberated by hand, trap, contrivance or any other means for the purpose of being shot when they are liberated; or
+
+
+
+
+
+
+
+
+
+445.1 (1) Commet une infraction quiconque, volontairement ou sans se soucier des conséquences de son acte, selon le cas :
+
+
+
+Faire souffrir inutilement un animal
+
+
+
+
+a) cause ou, s’il en est le propriétaire, permet que soient causées à un animal ou à un oiseau de la douleur, des souffrances ou des blessures inutiles;
+
+
+
+
+
+
+
+
+a.1) tue sauvagement ou cruellement ou, s’il en est le propriétaire, permet que soit tué ainsi un animal ou un oiseau, que la mort soit immédiate ou non;
+
+
+
+
+
+
+
+
+a.2) tue un animal ou un oiseau sans excuse légitime;
+
+
+
+
+
+
+
+
+b) de quelque façon que ce soit, encourage ou organise le combat ou le harcèlement d’animaux ou d’oiseaux, en fait la promotion, y assiste ou reçoit de l’argent à cet égard, notamment en dressant un animal ou un oiseau à combattre un autre animal ou un autre oiseau;
+
+
+
+
+
+
+
+
+c) sans excuse raisonnable, administre une drogue ou une substance empoisonnée ou nocive à un animal ou un oiseau domestiques ou à un animal ou un oiseau sauvages en captivité ou, étant le propriétaire d’un tel animal ou oiseau, permet qu’une drogue ou une substance empoisonnée ou nocive lui soit administrée;
+
+
+
+
+
+
+
+
+c.1) sans excuse légitime, place du poison de manière qu’il puisse être facilement consommé par un animal ou un oiseau;
+
+
+
+
+
+
+
+
+d) organise, prépare, dirige, facilite quelque réunion, concours, exposition, divertissement, exercice, démonstration ou événement au cours duquel des animaux ou des oiseaux captifs sont mis en liberté avec la main ou par une trappe, un dispositif ou un autre moyen pour essuyer un coup de feu au moment de leur libération, ou y prend part ou reçoit de l’argent à cet égard;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after section 445.1:
+
+
+
+
+
+
+
+
+
+2. La même loi est modifiée par adjonction, après l’article 445.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Failing to provide adequate care
+
+
+
+445.2 (1) Every one commits an offence who
+
+
+
+
+
+
+
+
+(a) negligently causes unnecessary pain, suffering or injury to an animal or a bird;
+
+
+
+
+
+
+
+
+(b) being the owner, or the person having the custody or control of an animal or a bird, wilfully or recklessly abandons it or negligently fails to provide suitable and adequate food, water, air, shelter and care for it; or
+
+
+
+
+
+
+
+
+(c) negligently injures an animal or a bird while it is being conveyed.
+
+
+
+
+
+
+
+
+
+445.2 (1) Commet une infraction quiconque, selon le cas :
+
+
+
+Omission d'accorder des soins suffisants
+
+
+
+
+a) par négligence, cause à un animal ou à un oiseau de la douleur, des souffrances ou des blessures inutiles;
+
+
+
+
+
+
+
+
+b) s’il est le propriétaire d’un animal ou d’un oiseau ou la personne qui en a la garde ou le contrôle, l’abandonne volontairement ou sans se soucier des conséquences de son acte ou, par négligence, omet de lui fournir les aliments, l’eau, l’air, l’abri et les soins convenables et suffisants;
+
+
+
+
+
+
+
+
+c) par négligence, cause des blessures à un animal ou à un oiseau lors de son transport.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of  “negligently”
+
+
+
+(2) For the purposes of subsection (1), “negligently” means departing markedly from the standard of care that a reasonable person would use. 
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), « par négligence » se dit d’un comportement qui s’écarte de façon marquée de la norme de diligence qu’une personne raisonnable adopterait.
+
+
+
+Définition de « par négligence »
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(3) Every one who commits an offence under subsection (1) is guilty of 
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to imprisonment for a term of not more than two years; or
+
+
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and liable to a fine not exceeding five thousand dollars or to imprisonment for a term of not more than six months or to both.
+
+
+
+
+
+
+
+
+
+(3) Quiconque commet une infraction visée au paragraphe (1) est coupable :
+
+
+
+Peine
+
+
+
+
+a) soit d’un acte criminel et passible d’un emprisonnement maximal de deux ans;
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’une amende maximale de cinq mille dollars et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsection 447(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 447(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Keeping pit
+
+
+
+447. (1) Every one commits an offence who builds, makes, maintains or keeps a cockpit or any other pit or arena for the fighting of animals or birds on premises that he or she owns or occupies, or who allows such a structure to be built, made, maintained or kept on those premises.
+
+
+
+
+
+
+
+
+
+447. (1) Commet une infraction quiconque construit, fait, entretient ou garde ou permet que soit construite, faite, entretenue ou gardée une arène pour les combats de coqs ou d’autres oiseaux ou animaux sur les lieux qu’il possède ou occupe.
+
+
+
+Arène
+
+
+
+
+
+
+
+
+
+
+
+
+4. The portion of subsection 447.1(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. Le passage du paragraphe 447.1(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit  :
+
+
+
+
+
+
+
+
+
+
+
+
+Order of prohibition or restitution
+
+
+
+447.1 (1) The court may, in addition to any other sentence that it may impose under subsection 444(2), 445(2), 445.1(2), 445.2(3), 446(2) or 447(2),
+
+
+
+
+
+
+
+
+
+447.1 (1) Le tribunal peut, en plus de toute autre peine infligée en vertu des paragraphes 444(2), 445(2), 445.1(2), 445.2(3), 446(2) ou 447(2)  :
+
+
+
+Ordonnance de prohibition ou de dédommagement
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Act is amended by adding the following after section 447.1:
+
+
+
+
+
+
+
+
+
+5. La même loi est modifiée par adjonction, après l’article 447.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Aboriginal rights
+
+
+
+447.2 For greater certainty, nothing in this Part shall be construed so as to abrogate or derogate from the protection provided for existing aboriginal or treaty rights of the aboriginal peoples of Canada by the recognition and affirmation of those rights in section 35 of the Constitution Act, 1982.
+
+
+
+
+
+
+
+
+
+447.2 Il est entendu que la présente partie ne porte pas atteinte à la protection des droits existants — ancestraux ou issus de traités — des peuples autochtones du Canada découlant de leur reconnaissance et de leur confirmation au titre de l’article 35 de la Loi constitutionnelle de 1982.
+
+
+
+Droits existants des autochtones
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+6. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+6. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

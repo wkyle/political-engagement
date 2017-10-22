@@ -1,0 +1,1577 @@
+
+
+
+
+
+
+C-525
+
+
+
+
+
+C-525
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-525
+
+
+
+
+
+PROJET DE LOI C-525
+
+
+
+
+
+
+An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act and the Public Service Labour Relations Act (certification and revocation — bargaining agent)
+
+
+
+
+
+Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement et la Loi sur les relations de travail dans la fonction publique (accréditation et révocation — agent négociateur)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 5, 2013
+
+
+
+
+
+première lecture le 5 juin 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Calkins
+
+
+411746
+
+
+
+
+M. Calkins
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Canada Labour Code, the Parliamentary Employment and Staff Relations Act and the Public Service Labour Relations Act to provide that the certification and decertification of a bargaining agent under these Acts must be achieved by a secret ballot vote-based majority.
+
+
+
+SOMMAIRE
+Le texte modifie le Code canadien du travail, la Loi sur les relations de travail au Parlement et la Loi sur les relations de travail dans la fonction publique afin de prévoir que l’accréditation d’un syndicat à titre d’agent négociateur ou la révocation d’une telle accréditation sous le régime de ces lois est subordonnée à l’obtention d’une majorité de votes exprimés lors d’un scrutin secret.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-525
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-525
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Labour Code, the Parliamentary Employment and Staff Relations Act and the Public Service Labour Relations Act (certification and revocation — bargaining agent)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code canadien du travail, la Loi sur les relations de travail au Parlement et la Loi sur les relations de travail dans la fonction publique (accréditation et révocation — agent négociateur)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Employees' Voting Rights Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur le droit de vote des employés.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. L-2
+
+
+
+
+CANADA LABOUR CODE
+
+
+
+
+
+
+
+
+
+
+
+CODE CANADIEN DU TRAVAIL
+
+
+
+
+L.R., ch. L-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 28 of the Canada Labour Code is amended by striking out “and” at the end of paragraph (b) and by replacing paragraph (c) by the following:
+
+
+
+
+
+
+
+
+
+
+2. L’alinéa 28c) du Code canadien du travail est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) is satisfied on the basis of evidence of membership in the trade union that, as of the date of the filing of the application, at least 45% of the employees in the unit wish to have the trade union represent them as their bargaining agent, and
+
+
+
+
+
+
+
+(d) is satisfied on the basis of the results of a secret ballot representation vote ordered under subsection 29(1) that a majority of the employees in the unit have voted to have the trade union represent them as their bargaining agent,
+
+
+
+
+
+
+
+
+
+
+c) il est convaincu, au vu du nombre d’employés membres du syndicat, qu’à la date du dépôt de la demande, au moins 45 % des employés de l’unité désirent que le syndicat les représente à titre d’agent négociateur;
+
+
+
+
+
+
+
+
+d) il est convaincu, au vu des résultats d’un scrutin de représentation secret ordonné aux termes du paragraphe 29(1), que la majorité des employés de l’unité désirent que le syndicat les représente à titre d’agent négociateur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. (1) Subsection 29(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. (1) Le paragraphe 29(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Representation vote
+
+
+
+
+29. (1) The Board shall, for the purpose of satisfying itself as to whether the majority of employees in a unit wish to have a particular trade union represent them as their bargaining agent, order that a secret ballot representation vote be taken among the employees in the unit.
+
+
+
+
+
+
+
+
+
+
+29. (1) Le Conseil doit ordonner la tenue d’un scrutin de représentation secret afin de s’assurer que la majorité des employés d’une unité désirent être représentés par un syndicat déterminé à titre d’agent négociateur.
+
+
+
+Scrutin de représentation
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 29(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 29(2) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. (1) Subsection 38(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. (1) Le paragraphe 38(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application for revocation of certification
+
+
+
+
+38. (1) If a trade union has been certified as the bargaining agent for a bargaining unit, any employee who claims to represent at least 45% of the employees in the bargaining unit may, subject to subsection (5), apply to the Board for an order revoking the certification of that trade union.
+
+
+
+
+
+
+
+
+
+
+38. (1) Tout employé prétendant représenter au moins 45 % des employés d’une unité de négociation peut, sous réserve du paragraphe (5), demander au Conseil de révoquer par ordonnance l’accréditation du syndicat à titre d’agent négociateur de l’unité.
+
+
+
+Demande de révocation
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 38(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 38(3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application for order that bargaining agent not entitled to represent bargaining unit
+
+
+
+(3) If a collective agreement applicable to a bargaining unit is in force but the bargaining agent that is a party to the collective agreement has not been certified by the Board, any employee who claims to represent at least 45% of the employees in the bargaining unit may, subject to subsection (5), apply to the Board for an order declaring that the bargaining agent is not entitled to represent the employees in the bargaining unit.
+
+
+
+
+
+
+
+
+
+(3) Dans les cas où l’agent négociateur partie à une convention collective n’a pas été accrédité par le Conseil, tout employé prétendant représenter au moins 45 % des employés de l’unité de négociation régie par la convention peut, sous réserve du paragraphe (5), demander au Conseil de rendre une ordonnance déclarant que l’agent négociateur n’a pas qualité pour représenter les employés de cette unité.
+
+
+
+Demande d’ordonnance mettant fin à la représentativité d’un agent négociateur
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Subsections 39(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. Les paragraphes 39(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Order revoking certification or declaring bargaining agent not entitled to represent bargaining unit
+
+
+
+
+39. If the Board has received an application for an order made under subsection 38(1) or (3) in respect of a bargaining agent for a bargaining unit, and it
+
+
+
+
+
+
+
+
+
+
+(a) is satisfied on the basis of written evidence that, as of the date of the filing of the application, at least 45% of the employees in the bargaining unit no longer wish to have the bargaining agent represent them, and
+
+
+
+
+
+
+
+
+
+
+(b) is satisfied on the basis of the results of a secret ballot representation vote that a majority of the employees in the bargaining unit have not voted in favour of continued representation by the bargaining agent,
+
+
+
+
+
+
+
+
+
+
+the Board shall, by order,
+
+
+
+
+
+
+
+
+
+
+
+(c) in the case of an application made under subsection 38(1), revoke the certification of the trade union as the bargaining agent for the bargaining unit; or
+
+
+
+
+
+
+
+
+
+
+
+(d) in the case of an application made under subsection 38(3), declare that the bargaining agent is not entitled to represent the employees in the bargaining unit.
+
+
+
+
+
+
+
+
+
+
+39. Lorsqu’il est saisi d’une demande présentée en vertu des paragraphes 38(1) ou (3), le Conseil rend l’ordonnance visée par la demande s’il est convaincu, à la fois :
+
+
+
+Révocation d’accréditation et perte de la qualité d’agent négociateur
+
+
+
+
+
+a) au vu d’une preuve documentaire, qu’à la date du dépôt de la demande, au moins 45 % des employés de l’unité de négociation ne désirent plus être représentés par leur agent négociateur;
+
+
+
+
+
+
+
+
+
+
+
+b) au vu des résultats d’un scrutin de représentation secret, que la majorité des employés de l’unité ne désirent plus être représentés par leur agent négociateur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c.33 (2nd Supp.)
+
+
+
+
+PARLIAMENTARY EMPLOYMENT AND STAFF RELATIONS ACT
+
+
+
+
+
+
+
+
+
+
+
+LOI SUR LES RELATIONS DE TRAVAIL AU PARLEMENT
+
+
+
+
+L.R., ch. 33 (2e suppl.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Paragraph 25(c) of the Parliamentary Employment and Staff Relations Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. L’alinéa 25c) de la Loi sur les relations de travail au Parlement est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) is satisfied on the basis of evidence of membership in the employee organization  that, as of the date of the filing of the application, at least 45% of the employees in the bargaining unit wish to have the employee organization represent them as their bargaining agent,
+
+
+
+
+
+
+
+(c.1) is satisfied on the basis of the results of a secret ballot representation vote ordered under subsection 26(2) that a majority of the employees in the bargaining unit have voted to have the employee organization represent them as their bargaining agent, and
+
+
+
+
+
+
+
+
+
+
+c) elle est convaincue, au vu du nombre d’employés membres de l'organisation syndicale, qu’à la date du dépôt de la demande, au moins 45 % des employés de l’unité de négociation désirent que l'organisation syndicale les représente à titre d’agent négociateur;
+
+
+
+
+
+
+
+
+c.1) elle est convaincue, au vu des résultats d’un scrutin de représentation secret ordonné aux termes  du paragraphe 26(2), que la majorité des employés de l’unité de négociation désirent que l'organisation syndicale les représente à titre d’agent négociateur;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) The portion of subsection 26(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. (1) Le passage du paragraphe 26(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Powers of Board in relation to certification
+
+
+
+
+26. (1) For the purpose of enabling the Board to discharge any obligation imposed by section 25 to satisfy itself as to the matters described in paragraphs (c), (c.1) and (d) of that section, the Board may
+
+
+
+
+
+
+
+
+
+
+26. (1) Pour former sa conviction quant aux conditions prévues aux alinéas 25c), c.1) et d), la Commission peut :
+
+
+
+Pouvoirs de la Commission en matière d'accréditation
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 26(2) of the Act is replaced by the following: 
+
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 26(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Representation vote
+
+
+
+(2) For the purpose of satisfying itself under paragraph 25(c.1) that a majority of employees in the bargaining unit wish the employee organization to represent them as their bargaining agent, the Board shall direct that a secret ballot representation vote be taken among the employees in the bargaining unit.
+
+
+
+
+
+
+
+
+
+(2) La Commission ordonne la tenue d’un scrutin de représentation secret afin de vérifier si la majorité des employés de l’unité de négociation désirent être représentés par l’organisation qui sollicite l’accréditation.
+
+
+
+Scrutin de représentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) Subsection 29(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. (1) Le paragraphe 29(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application for declaration that employee organization no longer represents employees
+
+
+
+
+29. (1) If a collective agreement or an arbitral award is in force in respect of a bargaining unit, any person claiming to represent at least 45% of the employees in the bargaining unit may, in accordance with subsection (2), apply to the Board for a declaration that the employee organization certified as bargaining agent for that bargaining unit no longer represents a majority of the employees therein.
+
+
+
+
+
+
+
+
+
+
+29. (1) Quiconque prétendant représenter au moins 45 % des employés d’une unité de négociation régie par une convention collective ou une décision arbitrale encore en vigueur peut demander à la Commission de déclarer non représentative l’organisation syndicale accréditée jusque-là pour cette unité.
+
+
+
+
+Demande de déclaration mettant fin à la représentativité d’une organisation syndicale
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsections 29(3) to (5) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 29(3) à (5) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Where no collective agreement or award in force
+
+
+
+(3) If no collective agreement or arbitral award is in force in respect of a bargaining unit, any person claiming to represent at least 45% of the employees in the bargaining unit may, at any time after the expiration of twelve months from the date of certification of the bargaining agent for that bargaining unit, apply to the Board for a declaration that the employee organization certified as bargaining agent for that bargaining unit no longer represents a majority of the employees therein.
+
+
+
+
+
+
+
+
+
+(3) En cas d’absence de convention collective ou de décision arbitrale, quiconque prétend représenter au moins 45 % des employés d’une unité de négociation donnée peut, douze mois après l’accréditation de l’agent négociateur de l’unité, demander à la Commission de déclarer non représentative l’organisation syndicale accréditée jusque-là pour cette unité.
+
+
+
+Absence de convention collective
+
+
+
+
+
+
+
+
+
+
+Taking of representation vote
+
+
+
+(4) On an application under subsection (1) or (3), if the Board is satisfied on the basis of written evidence that, as of the date of the filing of an application for a declaration made under subsection (1), at least 45% of the employees in the bargaining unit no longer wish to have the employee organization represent them, the Board shall order that a representation vote be taken.  The provisions of subsection 26(3) apply in relation to the taking of the vote.
+
+
+
+
+
+
+
+
+
+(4) Saisie d’une demande au titre du paragraphe (1) ou (3), si la Commission est convaincue, au vu de la preuve documentaire, qu’à la date du dépôt de la demande visée au paragraphe (1), au moins 45 % des employés de l’unité de négociation ne désirent plus que l'organisation syndicale les représente à titre d’agent négociateur, la Commission ordonne la tenue d’un scrutin de représentation. Le paragraphe 26(3) s’applique à l’égard de la tenue du scrutin. 
+
+
+
+Tenue d’un scrutin de représentation
+
+
+
+
+
+
+
+
+
+
+Revocation of certification of employee organization
+
+
+
+(5) On an application under subsection (1) or (3), if after conducting the representation vote referred to in subsection (4), the Board is satisfied that a majority of the employees in the bargaining unit have not voted in favour of continued representation by the employee organization, it must revoke the certification of the employee organization as the bargaining agent.
+
+
+
+
+
+
+
+
+
+(5) Si elle est saisie d’une demande au titre du paragraphe (1) ou (3) et que, après la tenue du scrutin de représentation prévu au paragraphe (4), elle est convaincue que la majorité des employés de l’unité de négociation ne désirent plus être représentés par l’organisation syndicale qui en est l’agent négociateur, la Commission révoque l’accréditation de l’organisation syndicale en cause.
+
+
+
+Révocation de l’accréditation d’une organisation syndicale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2003, c. 22, s. 2
+
+
+
+
+PUBLIC SERVICE LABOUR RELATIONS ACT
+
+
+
+
+
+
+
+
+
+
+
+LOI SUR LES RELATIONS DE TRAVAIL DANS LA FONCTION PUBLIQUE
+
+
+
+
+2003, ch. 22, art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Paragraph 64(1)(a) of the Public Service Labour Relations Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. L’alinéa 64(1)a) de la Loi sur les relations de travail dans la fonction publique est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) on the basis of evidence of membership in the employee organization that, as of the date of the filing of the application, at least 45% of the employees in the bargaining unit wish to have the employee organization represent them as their bargaining agent;
+
+
+
+
+
+
+
+(a.1) on the basis of the results of a secret ballot representation vote ordered under subsection 65(1), that a majority of the employees in the bargaining unit have voted to have the employee organization represent them as their bargaining agent;
+
+
+
+
+
+
+
+
+
+
+a) que, au vu du nombre de fonctionnaires membres de l'organisation syndicale, à la date du dépôt de la demande, au moins 45 % des fonctionnaires de l’unité de négociation souhaitent que l’organisation syndicale les représente à titre d’agent négociateur;
+
+
+
+
+
+
+
+
+a.1) que, au vu des résultats d’un scrutin de représentation secret ordonné aux termes du paragraphe 65(1), la majorité des fonctionnaires de l’unité de négociation souhaitent que l’organisation syndicale les représente à titre d’agent négociateur;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Subsection 65(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. Le paragraphe 65(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Representation vote
+
+
+
+
+65. (1) The Board shall order that a secret ballot representation vote be taken among the employees in the bargaining unit for the purpose of satisfying itself that a majority of them wish the applicant employee organization to represent them as their bargaining agent.
+
+
+
+
+
+
+
+
+
+
+65. (1) La Commission ordonne la tenue d’un scrutin de représentation secret afin de vérifier si la majorité des fonctionnaires de l’unité de négociation souhaitent être représentés par l’organisation qui sollicite l’accréditation.
+
+
+
+Scrutin de représentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. Subsection 94(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. Le paragraphe 94(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+When employee organization no longer represents employees
+
+
+
+
+94. (1) Any person claiming to represent at least 45% of the employees in the bargaining unit bound by a collective agreement or an arbitral award may apply to the Board for a declaration that the employee organization that is certified as the bargaining agent for the bargaining unit no longer represents a majority of the employees in the bargaining unit.
+
+
+
+
+
+
+
+
+
+
+94. (1) Quiconque affirme représenter au moins 45 % des fonctionnaires d’une unité de négociation régie par une convention collective ou une décision arbitrale encore en vigueur peut demander à la Commission de déclarer non représentative l’organisation syndicale accréditée pour cette unité.
+
+
+
+Non-représentativité de l’organisation syndicale
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Sections 95 and 96 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. Les articles 95 et 96 de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Taking of representation vote
+
+
+
+
+95. If the Board is satisfied on the basis of written evidence that, as of the date of the filing of an application for a declaration made under subsection 94(1), at least 45% of the employees in the bargaining unit no longer wish to have the employee organization represent them, the Board shall order that a representation vote be taken. The provisions of subsection 65(2) apply in relation to the taking of the vote.
+
+
+
+
+
+
+
+
+
+
+95. Saisie de la demande au titre du paragraphe 94(1),  si la Commission est convaincue, au vu de la preuve documentaire, qu’à la date du dépôt de la demande, au moins 45 % des fonctionnaires de l’unité ne souhaitent plus que l'organisation syndicale les représente à titre d’agent négociateur, elle ordonne la tenue d’un scrutin de représentation. Le paragraphe 65(2) s’applique à l’égard de la tenue du scrutin.
+
+
+
+Tenue d’un scrutin de représentation
+
+
+
+
+
+
+
+
+
+
+Revocation of certification
+
+
+
+
+96. If, after conducting the representation vote referred to in section 95, the Board is satisfied that at least 45% of the employees in the bargaining unit have not voted in favour of continued representation by the employee organization, it must revoke the certification of the employee organization as the bargaining agent.
+
+
+
+
+
+
+
+
+
+
+96. Si, à la suite de la tenue du scrutin de représentation prévu à l’article 95, la Commission est convaincue qu'au moins 45 % des fonctionnaires de l'unité de négociation ne souhaitent plus être représentés par l'organisation syndicale qui en est l'agent négociateur, elle révoque l’accréditation de l’organisation syndicale en cause.
+
+
+
+Révocation de l’accréditation
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

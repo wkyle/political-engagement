@@ -1,0 +1,757 @@
+
+
+
+
+
+
+C-407
+
+
+
+
+
+C-407
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-407
+
+
+
+
+
+PROJET DE LOI C-407
+
+
+
+
+
+
+An Act to amend the Financial Administration Act (gender balanced representation)
+
+
+
+
+
+Loi modifiant la Loi sur la gestion des finances publiques (représentation équilibrée entre les sexes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, March 8, 2012
+
+
+
+
+
+première lecture le 8 mars 2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ms. Mathyssen
+
+
+411440
+
+
+
+
+Mme Mathyssen
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Financial Administration Act to achieve balanced representation in the number of women and men serving as directors on  boards of parent Crown corporations by requiring that the proportion of each sex on those boards is not less than 40 per cent.
+The enactment provides that the obligation to achieve parity of each sex takes effect incrementally, at the end of three-year and six-year periods.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur la gestion des finances publiques afin d’exiger une représentation équilibrée des femmes et des hommes au sein des conseils d’administration des sociétés d’État mères en fixant à quarante pour cent la proportion minimale d’administrateurs de chaque sexe.
+Le texte prévoit que l’obligation de parité femmes-hommes sera mise en oeuvre graduellement, soit à la fin d’une période de trois ans et d’une période de six ans. 
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+
+
+
+60-61 Elizabeth II, 2011-2012
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-407
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-407
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Financial Administration Act (gender balanced representation)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la gestion des finances publiques (représentation équilibrée entre les sexes)
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas women in Canada continue to be under-represented on the boards of directors of corporations;
+
+
+
+
+
+
+
+
+
+
+Whereas a growing body of research has shown that gender-diverse corporate boards are more effective, perform better, access the widest talent pool, are more responsive to the market and lead to better decision-making;
+
+
+
+
+
+
+
+
+
+
+Whereas the majority of parent Crown corporations have many more men than women appointed as directors, with women representing only 27% of directors appointed;
+
+
+
+
+
+
+
+
+
+
+Whereas women are active participants in the democratic government of the country, both as voters and as politicians, and should have balanced representation in the management of parent Crown corporations;
+
+
+
+
+
+
+
+
+
+
+Whereas there are many women in Canada who have the qualifications and experience to act on boards of directors;
+
+
+
+
+
+
+
+
+
+
+And whereas women should be provided with equal opportunity to be appointed to the boards of directors of parent Crown corporations;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que les femmes au Canada demeurent sous-représentées au sein des conseils d’administration des sociétés;
+
+
+
+
+
+
+
+
+
+
+que de plus en plus de recherches démontrent que les conseils d’administration composés de membres des deux sexes sont plus efficaces, ont un meilleur rendement, ont accès à un plus grand bassin de talents, réagissent mieux au marché et prennent de meilleures décisions;
+
+
+
+
+
+
+
+
+
+
+que la majorité des sociétés d’État mères comptent beaucoup plus d’hommes que de femmes au sein de leur conseil d’administration, les femmes ne représentant que vingt-sept pour cent des administrateurs;
+
+
+
+
+
+
+
+
+
+
+que les femmes participent activement au gouvernement démocratique du pays, que ce soit comme électrices ou politiciennes, et qu’elles devraient jouir d’une représentation équilibrée dans la gestion des sociétés d’État mères;
+
+
+
+
+
+
+
+
+
+
+que bon nombre de femmes au Canada possèdent les compétences et l’expérience voulues pour siéger à un conseil d’administration;
+
+
+
+
+
+
+
+
+
+
+que les femmes devraient avoir autant de chances que les hommes d’être nommées au conseil d’administration d’une société d’État mère,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. F-11
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. F-11
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Financial Administration Act is amended by adding the following after section 105:
+
+
+
+
+
+
+
+
+
+
+1. La Loi sur la gestion des finances publiques est modifiée par adjonction, après l’article 105, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Gender parity requirement
+
+
+
+
+
+105.1 (1) Subject to subsection (2), the composition of the board of directors of a parent Crown corporation shall be such that the proportion of directors of each sex is not less that forty per cent.
+
+
+
+
+
+
+
+
+
+
+
+
+105.1 (1) Sous réserve du paragraphe (2), la composition du conseil d’administration d’une société d’État mère doit être telle que la proportion d’administrateurs de chaque sexe ne soit pas inférieure à quarante pour cent.
+
+
+
+
+Obligation de parité femmes-hommes
+
+
+
+
+
+
+
+
+
+
+Board of eight members
+
+
+
+
+(2) When the board of directors of a parent Crown corporation consists of no more than eight members, the difference between the number of directors of each sex may not be greater than two.
+
+
+
+
+
+
+
+
+
+
+
+(2) Lorsque le conseil d’administration d’une société d’État mère compte au plus huit membres, l’écart entre le nombre d’administrateurs de chaque sexe ne peut être supérieur à deux.
+
+
+
+
+Conseil d’administration de huit membres
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+
+
+105.2 (1) Subject to subsection (2), section 105.1 applies to a parent Crown corporation as of March 31 of the sixth year after the day on which that section comes into force.
+
+
+
+
+
+
+
+
+
+
+
+
+105.2 (1) Sous réserve du paragraphe (2), l’article 105.1 s’applique aux sociétés d’État mères à compter du 31 mars de la sixième année suivant la date de son entrée en vigueur.
+
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Interim measure
+
+
+
+
+(2) The proportion of directors of each sex provided for in subsection 105.1(1) may not be less than twenty per cent as of the third year after the coming into force of that subsection.
+
+
+
+
+
+
+
+
+
+
+
+(2) La proportion d’administrateurs de cha-que sexe prévue au paragraphe 105.1(1) ne peut être inférieure à vingt pour cent à compter de la troisième année suivant l’entrée en vigueur de ce paragraphe.
+
+
+
+
+Mesure intérimaire
+
+
+
+
+
+
+
+
+
+
+Invalid appointment
+
+
+
+
+
+105.3 Any appointment of a director of a parent Crown corporation in violation of section 105.1 is invalid and the vacant position shall be filled without delay by the appropriate Minister, with the approval of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+
+
+105.3 Toute nomination d’un administrateur d’une société d’État mère faite en violation de l’article 105.1 est nulle et le ministre compétent, avec l’approbation du gouverneur en conseil, pourvoit au poste vacant dès que possible.
+
+
+
+
+Nomination nulle
+
+
+
+
+
+
+
+
+
+
+Validity of acts
+
+
+
+
+
+105.4 An act of the board of directors of a parent Crown corporation to which section 105.1 applies is not invalid on the sole ground that the composition of the board is not in compliance with that section.
+
+
+
+
+
+
+
+
+
+
+
+
+105.4 Les actes du conseil d’administration de la société d’État mère à laquelle s’applique l’article 105.1 ne sont pas invalides du seul fait que la composition du conseil n’est pas conforme à cet article.
+
+
+
+
+Validité des actes
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

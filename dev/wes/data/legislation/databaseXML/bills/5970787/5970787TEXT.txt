@@ -1,0 +1,1720 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+Première session, quarante et unième législature,
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+STATUTES OF CANADA 2013CHAPTER 8
+
+
+
+
+
+LOIS DU CANADA (2013)CHAPITRE 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code
+
+
+
+
+
+Loi modifiant le Code criminel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+27th MARCH, 2013
+BILL C-55
+
+
+
+
+
+SANCTIONNÉE
+LE 27 MARS 2013
+PROJET DE LOI C-55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code to provide, in response to the Supreme Court’s decision in R. v. Tse, safeguards related to the authority to intercept private communications without prior judicial authorization under section 184.4 of that Act. Notably, the enactment
+(a) requires the Minister of Public Safety and Emergency Preparedness and the Attorney General of each province to report on the interceptions of private communications made under section 184.4;
+(b) provides that a person who has been the object of such an interception must be notified of the interception within a specified period; 
+(c) narrows the class of individuals who can make such an interception; and
+(d) limits those interceptions to offences listed in section 183 of the Criminal Code. 
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel afin de prévoir, en réponse à la décision de la Cour suprême dans l’arrêt R. c. Tse, des mesures de protection à l’égard du pouvoir d’intercepter des communications privées sans autorisation judiciaire préalable en vertu de l’article 184.4 de cette loi. Notamment, le texte : 
+
+a) impose au ministre de la Sécurité publique et de la Protection civile et au procureur général de chaque province l’obligation de faire rapport sur les interceptions de communications privées faites en vertu de l’article 184.4;
+
+b) prévoit que toute personne qui a fait l’objet d’une telle interception doit en être avisée à l’intérieur d’un certain délai; 
+
+c) restreint la catégorie de personnes pouvant procéder à une telle interception; 
+
+d) limite ces interceptions aux infractions visées à l’article 183 du Code criminel. 
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+60-61-62 ELIZABETH II
+
+
+
+
+
+
+
+
+
+60-61-62 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 8
+
+
+
+
+
+
+
+
+
+CHAPITRE 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 27th March, 2013]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 27 mars 2013]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALTERNATIVE TITLE
+
+
+
+
+
+
+
+
+
+TITRE SUBSIDIAIRE
+
+
+
+
+
+
+
+
+
+
+
+
+Alternative title
+
+
+
+
+1. This Act may be cited as the Response to the Supreme Court of Canada Decision in R. v. Tse Act.
+
+
+
+
+
+
+
+
+
+
+1. La présente loi peut être ainsi désignée : Loi donnant suite à la décision de la Cour suprême du Canada dans l’affaire R. c. Tse.
+
+
+
+Titre subsidiaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 183 of the Criminal Code is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+
+2. L’article 183 du Code criminel est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“police officer”« policier »
+
+
+
+“police officer” means any officer, constable or other person employed for the preservation and maintenance of the public peace;
+
+
+
+
+
+
+
+
+
+« policier » S’entend d’un officier ou d’un agent de police ou de toute autre personne chargée du maintien de la paix publique.
+
+
+
+« policier »“police officer”
+
+
+
+
+
+
+
+
+
+
+1993, c. 40, s. 4
+
+
+
+
+3. Section 184.4 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. L’article 184.4 de la même loi est remplacé par ce qui suit :
+
+
+
+1993, ch. 40, art. 4
+
+
+
+
+
+
+
+
+
+
+Immediate interception — imminent harm
+
+
+
+
+184.4 A police officer may intercept, by means of any electro-magnetic, acoustic, mechanical or other device, a private communication if the police officer has reasonable grounds to believe that
+
+
+
+
+
+
+
+
+
+
+(a) the urgency of the situation is such that an authorization could not, with reasonable diligence, be obtained under any other provision of this Part;
+
+
+
+
+
+
+
+
+
+
+(b) the interception is immediately necessary to prevent an offence that would cause serious harm to any person or to property; and
+
+
+
+
+
+
+
+
+
+
+(c) either the originator of the private communication or the person intended by the originator to receive it is the person who would commit the offence that is likely to cause the harm or is the victim, or intended victim, of the harm.
+
+
+
+
+
+
+
+
+
+
+184.4 Le policier peut intercepter, au moyen d’un dispositif électromagnétique, acoustique, mécanique ou autre, une communication privée s’il a des motifs raisonnables de croire que, à la fois :
+
+
+
+Interception immédiate — dommage imminent
+
+
+
+
+
+a) l’urgence de la situation est telle qu’une autorisation ne peut, avec toute la diligence raisonnable, être obtenue sous le régime de la présente partie;
+
+
+
+
+
+
+
+
+
+
+
+b) une interception immédiate est nécessaire pour empêcher une infraction qui causerait des dommages sérieux à une personne ou un bien;
+
+
+
+
+
+
+
+
+
+
+
+c) l’auteur de la communication ou la personne à qui celui-ci la destine est soit la personne dont l’infraction causerait des dommages, soit la victime de ces dommages ou la cible de ceux-ci.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Paragraphs 191(2)(a) and (b.1) of the Act are amended by replacing “police officer or police constable” and “officer or constable” with “police officer” and “officer”, respectively.
+
+
+
+
+
+
+
+
+
+
+4.  Aux alinéas 191(2)a) et b.1) de la même loi, « un officier de police ou un agent de police » et « d’un officier de police ou d’un agent de police » sont respectivement remplacés par « un policier » et « d’un policier ».
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 10, subpar. 34(1)(f)(ix)
+
+
+
+
+5. (1) Subsection 195(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5.  (1)  Le paragraphe 195(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 10, s.-al. 34(1)f)(ix)
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+
+195. (1) The Minister of Public Safety and Emergency Preparedness shall, as soon as possible after the end of each year, prepare a report relating to
+
+
+
+
+
+
+
+
+
+
+(a) authorizations for which that Minister and agents to be named in the report who were specially designated in writing by that Minister for the purposes of section 185 applied and to the interceptions made under those authorizations in the immediately preceding year;
+
+
+
+
+
+
+
+
+
+
+(b) authorizations given under section 188 for which peace officers to be named in the report who were specially designated by that Minister for the purposes of that section applied and to the interceptions made under those authorizations in the immediately preceding year; and
+
+
+
+
+
+
+
+
+
+
+(c) interceptions made under section 184.4 in the immediately preceding year if the interceptions relate to an offence for which proceedings may be commenced by the Attorney General of Canada.
+
+
+
+
+
+
+
+
+
+
+195. (1) Le ministre de la Sécurité publique et de la Protection civile établit, après la fin de chaque année, aussitôt que possible, un rapport comportant l’information relative :
+
+
+
+Rapport annuel
+
+
+
+
+
+a) aux autorisations demandées par lui-même et les mandataires, nommés dans le rapport, qu’il a spécialement désignés par écrit pour l’application de l’article 185 et aux interceptions faites en vertu de ces autorisations au cours de l’année précédente;
+
+
+
+
+
+
+
+
+
+
+
+b) aux autorisations données en vertu de l’article 188 et demandées par les agents de la paix nommés dans le rapport, qu’il a spécialement désignés pour l’application de cet article et aux interceptions faites en vertu de ces autorisations au cours de l’année précédente;
+
+
+
+
+
+
+
+
+
+
+
+c) aux interceptions faites en vertu de l’article 184.4 au cours de l’année précédente, si elles ont trait à une infraction pour laquelle des poursuites peuvent être intentées par le procureur général du Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The portion of subsection 195(2) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2)  Le passage du paragraphe 195(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Information respecting authorizations — sections 185 and 188
+
+
+
+(2) The report shall, in relation to the authorizations and interceptions referred to in paragraphs (1)(a) and (b), set out
+
+
+
+
+
+
+
+
+
+(2) Le rapport indique, en ce qui concerne les autorisations et les interceptions visées aux alinéas (1)a) et b) :
+
+
+
+Renseignements concernant les autorisations — articles 185 et 188
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 195 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(3)  L’article 195 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Information respecting interceptions — section 184.4
+
+
+
+(2.1) The report shall, in relation to the interceptions referred to in paragraph (1)(c), set out
+
+
+
+
+
+
+
+
+
+
+(a) the number of interceptions made;
+
+
+
+
+
+
+
+
+
+
+(b) the number of parties to each intercepted private communication against whom proceedings were commenced in respect of the offence that the police officer sought to prevent in intercepting the private communication or in respect of any other offence that was detected as a result of the interception;
+
+
+
+
+
+
+
+
+
+
+(c) the number of persons who were not parties to an intercepted private communication but whose commission or alleged commission of an offence became known to a police officer as a result of the interception of a private communication, and against whom proceedings were commenced in respect of the offence that the police officer sought to prevent in intercepting the private communication or in respect of any other offence that was detected as a result of the interception;
+
+
+
+
+
+
+
+
+
+
+(d) the number of notifications given under section 196.1;
+
+
+
+
+
+
+
+
+
+
+(e) the offences in respect of which interceptions were made and any other offences for which proceedings were commenced as a result of an interception, as well as the number of interceptions made with respect to each offence;
+
+
+
+
+
+
+
+
+
+
+(f) a general description of the methods of interception used for each interception;
+
+
+
+
+
+
+
+
+
+
+(g) the number of persons arrested whose identity became known to a police officer as a result of an interception;
+
+
+
+
+
+
+
+
+
+
+(h) the number of criminal proceedings commenced in which private communications obtained by interception were adduced in evidence and the number of those proceedings that resulted in a conviction;
+
+
+
+
+
+
+
+
+
+
+(i) the number of criminal investigations in which information obtained as a result of the interception of a private communication was used even though the private communication was not adduced in evidence in criminal proceedings commenced as a result of the investigations; and
+
+
+
+
+
+
+
+
+
+
+(j) the duration of each interception and the aggregate duration of all the interceptions related to the investigation of the offence that the police officer sought to prevent in intercepting the private communication.
+
+
+
+
+
+
+
+
+
+(2.1) Le rapport indique aussi, en ce qui concerne les interceptions qui sont visées à l’alinéa (1)c) :
+
+
+
+Renseignements concernant les interceptions — article 184.4
+
+
+
+
+
+a) le nombre d’interceptions qui ont été effectuées;
+
+
+
+
+
+
+
+
+
+
+
+b) le nombre de personnes qui sont parties à chaque communication privée interceptée et contre lesquelles des poursuites ont été intentées relativement à l’infraction que le policier a tenté de prévenir par l’interception de la communication privée ou à toute autre infraction découverte à cette occasion;
+
+
+
+
+
+
+
+
+
+
+
+c) le nombre de personnes qui ne sont parties à aucune communication privée interceptée — lorsque la perpétration ou prétendue perpétration de l’infraction a été découverte par un policier par suite de l’interception d’une communication privée — et contre lesquelles des poursuites ont été intentées relativement à l’infraction que le policier a tenté de prévenir en interceptant la communication privée et à toute autre infraction découverte à cette occasion;
+
+
+
+
+
+
+
+
+
+
+
+d) le nombre d’avis donnés conformément à l’article 196.1;
+
+
+
+
+
+
+
+
+
+
+
+e) les infractions visées par des interceptions, celles qui ont donné lieu à des poursuites par suite d’une interception, ainsi que le nombre d’interceptions effectuées pour chacune des infractions;
+
+
+
+
+
+
+
+
+
+
+
+f) une description sommaire des méthodes d’interception utilisées pour chaque interception;
+
+
+
+
+
+
+
+
+
+
+
+g) le nombre de personnes arrêtées dont l’identité a été découverte par un policier par suite d’une interception;
+
+
+
+
+
+
+
+
+
+
+
+h) le nombre de poursuites pénales intentées dans lesquelles des communications privées interceptées ont été produites en preuve et le nombre de ces poursuites qui ont donné lieu à une condamnation;
+
+
+
+
+
+
+
+
+
+
+
+i) le nombre d’enquêtes en matière pénale au cours desquelles des renseignements obtenus par suite de l’interception d’une communication privée ont été utilisés, même si la communication n’a pas été produite en preuve dans des poursuites pénales intentées par suite des enquêtes;
+
+
+
+
+
+
+
+
+
+
+
+j) la durée de chaque interception et la durée totale des interceptions liées à l’enquête relative à l’infraction que le policier a tenté de prévenir en interceptant la communication privée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) The portion of subsection 195(3) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le passage du paragraphe 195(3) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Other information
+
+
+
+(3) The report shall, in addition to the information referred to in subsections (2) and (2.1), set out
+
+
+
+
+
+
+
+
+
+(3) Le rapport contient, outre les renseignements visés aux paragraphes (2) et (2.1) :
+
+
+
+Autres renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Subsection 195(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe 195(5) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Report by Attorneys General
+
+
+
+(5) The Attorney General of each province shall, as soon as possible after the end of each year, prepare and publish or otherwise make available to the public a report relating to
+
+
+
+
+
+
+
+
+
+
+(a) authorizations for which the Attorney General and agents specially designated in writing by the Attorney General for the purposes of section 185 applied and to the interceptions made under those authorizations in the immediately preceding year;
+
+
+
+
+
+
+
+
+
+
+(b) authorizations given under section 188 for which peace officers specially designated by the Attorney General for the purposes of that section applied and to the interceptions made under those authorizations in the immediately preceding year; and
+
+
+
+
+
+
+
+
+
+
+(c) interceptions made under section 184.4 in the immediately preceding year, if the interceptions relate to an offence not referred to in paragraph (1)(c).
+
+
+
+
+
+
+
+
+
+
+The report must set out, with any modifications that the circumstances require, the information described in subsections (2) to (3).
+
+
+
+
+
+
+
+
+
+(5) Aussitôt que possible après la fin de chaque année, le procureur général de chaque province établit et publie — ou met à la disposition du public de toute autre façon — un rapport comportant l’information relative :
+
+
+
+Rapport par les procureurs généraux
+
+
+
+
+
+a) aux autorisations demandées par lui-même et les mandataires qu’il a spécialement désignés par écrit pour l’application de l’article 185 et aux interceptions faites en vertu de ces autorisations au cours de l’année précédente;
+
+
+
+
+
+
+
+
+
+
+
+b) aux autorisations données en vertu de l’article 188 et demandées par les agents de la paix qu’il a spécialement désignés pour l’application de cet article et aux interceptions faites en vertu de ces autorisations au cours de l’année précédente;
+
+
+
+
+
+
+
+
+
+
+
+c) aux interceptions faites en vertu de l’article 184.4 au cours de l’année précédente, dans les cas non visés à l’alinéa (1)c).
+
+
+
+
+
+
+
+
+
+
+Le rapport contient les renseignements visés aux paragraphes (2) à (3), compte tenu des adaptations nécessaires.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Act is amended by adding the following after section 196:
+
+
+
+
+
+
+
+
+
+
+6. La même loi est modifiée par adjonction, après l’article 196, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Written notice — interception in accordance with section 184.4
+
+
+
+
+196.1 (1) Subject to subsections (3) and (5), the Attorney General of the province in which a police officer intercepts a private communication under section 184.4 or, if the interception relates to an offence for which proceedings may be commenced by the Attorney General of Canada, the Minister of Public Safety and Emergency Preparedness shall give notice in writing of the interception to any person who was the object of the interception within 90 days after the day on which it occurred.
+
+
+
+
+
+
+
+
+
+
+196.1 (1) Sous réserve des paragraphes (3) et (5), soit le procureur général de la province dans laquelle le policier a intercepté une communication privée en vertu de l’article 184.4, soit le ministre de la Sécurité publique et de la Protection civile, si l’interception vise une infraction pour laquelle des poursuites peuvent être intentées par le procureur général du Canada, avise par écrit, dans les quatre-vingt-dix jours suivant l’interception, toute personne qui en a fait l’objet.
+
+
+
+Avis écrit — interception aux termes de l’article 184.4
+
+
+
+
+
+
+
+
+
+
+Extension of period for notification
+
+
+
+(2) The running of the 90-day period or of any extension granted under subsection (3) or (5) is suspended until any application made by the Attorney General of the province or the Minister to a judge of a superior court of criminal jurisdiction or a judge as defined in section 552 for an extension or a subsequent extension of the period has been heard and disposed of.
+
+
+
+
+
+
+
+
+
+(2) Le délai initial de quatre-vingt-dix jours ou la période de la prolongation obtenue en vertu des paragraphes (3) ou (5) est interrompu par toute demande de prolongation présentée par le procureur général de la province ou par le ministre à un juge d’une cour supérieure de juridiction criminelle ou à un juge au sens de l’article 552 jusqu’à ce qu’il soit statué sur la demande.
+
+
+
+Prolongation du délai
+
+
+
+
+
+
+
+
+
+
+Where extension to be granted
+
+
+
+(3) The judge to whom an application under subsection (2) is made shall grant an extension or a subsequent extension of the 90-day period — each extension not to exceed three years — if the judge is of the opinion that the interests of justice warrant granting the application and is satisfied, on the basis of an affidavit submitted in support of the application, that one of the following investigations is continuing:
+
+
+
+
+
+
+
+
+
+
+(a) the investigation of the offence to which the interception relates; or
+
+
+
+
+
+
+
+
+
+
+(b) a subsequent investigation of an offence commenced as a result of information obtained from the investigation referred to in paragraph (a).
+
+
+
+
+
+
+
+
+
+(3) Le juge saisi de la demande visée au paragraphe (2), s’il l’estime dans l’intérêt de la justice et s’il est convaincu par l’affidavit appuyant la demande que l’une des enquêtes ci-après continue, accorde une prolongation — initiale ou ultérieure — du délai de quatre-vingt-dix jours, d’une durée maximale de trois ans :
+
+
+
+Cas où la prolongation est accordée
+
+
+
+
+
+a) l’enquête au sujet de l’infraction visée par l’interception;
+
+
+
+
+
+
+
+
+
+
+
+b) toute enquête subséquente à l’égard d’une infraction entreprise en raison de renseignements obtenus lors de l’enquête visée à l’alinéa a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application to be accompanied by affidavit
+
+
+
+(4) An application shall be accompanied by an affidavit deposing to
+
+
+
+
+
+
+
+
+
+
+(a) the facts known or believed by the deponent and relied on to justify the belief that an extension should be granted; and
+
+
+
+
+
+
+
+
+
+
+(b) the number of instances, if any, on which an application has, to the knowledge or belief of the deponent, been made under subsection (2) in relation to the particular interception and on which the application was withdrawn or the application was not granted, the date on which each application was made and the judge to whom each application was made.
+
+
+
+
+
+
+
+
+
+(4) La demande est accompagnée d’un affidavit indiquant ce qui suit :
+
+
+
+Demande accompagnée d’un affidavit
+
+
+
+
+
+a) les faits connus du déclarant ou auxquels il croit et sur lesquels il se fonde pour justifier que, à son avis, il y a lieu d’accorder une prolongation;
+
+
+
+
+
+
+
+
+
+
+
+b) le nombre de cas, s’il y a lieu, où, à la connaissance ou selon la croyance du déclarant, une demande a été faite en vertu du paragraphe (2) au sujet de cette interception et où la demande a été retirée ou refusée, la date de chacune de ces demandes et le juge auquel chacune a été présentée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception — criminal organization or terrorism offence
+
+
+
+(5) Despite subsection (3), the judge to whom an application under subsection (2) is made shall grant an extension or a subsequent extension of the 90-day period — each extension not to exceed three years — if the judge is of the opinion that the interests of justice warrant granting the application and is satisfied, on the basis of an affidavit submitted in support of the application, that the interception of the communication relates to an investigation of
+
+
+
+
+
+
+
+
+
+
+(a) an offence under section 467.11, 467.12 or 467.13;
+
+
+
+
+
+
+
+
+
+
+(b) an offence committed for the benefit of, at the direction of or in association with a criminal organization; or
+
+
+
+
+
+
+
+
+
+
+(c) a terrorism offence.
+
+
+
+
+
+
+
+
+
+(5) Malgré le paragraphe (3), le juge saisi de la demande visée au paragraphe (2) accorde une prolongation — initiale ou ultérieure — du délai de quatre-vingt-dix jours, d’une durée maximale de trois ans, s’il l’estime dans l’intérêt de la justice et s’il est convaincu par l’affidavit appuyant la demande que l’interception est liée à une enquête visant l’une des infractions suivantes :
+
+
+
+Exception dans le cas d’une organisation criminelle ou d’une infraction de terrorisme
+
+
+
+
+
+a) une infraction prévue aux articles 467.11, 467.12 ou 467.13;
+
+
+
+
+
+
+
+
+
+
+
+b) une infraction commise au profit ou sous la direction d’une organisation criminelle, ou en association avec elle;
+
+
+
+
+
+
+
+
+
+
+
+c) une infraction de terrorisme.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Six months after royal assent
+
+
+
+
+7. Section 5 comes into force six months after the day on which this Act receives royal assent.
+
+
+
+
+
+
+
+
+
+
+7. L’article 5 entre en vigueur six mois après la date de sanction de la présente loi.
+
+
+
+Six mois après la sanction
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

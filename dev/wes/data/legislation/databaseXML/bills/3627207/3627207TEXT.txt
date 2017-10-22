@@ -1,0 +1,750 @@
+
+
+
+
+
+C-414
+
+
+
+
+
+C-414
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-414
+
+
+
+
+
+PROJET DE LOI C-414
+
+
+
+
+
+
+An Act to amend the Income Tax Act (refundable tax credit for low-income earners)
+
+
+
+
+
+Loi modifiant la Loi de l'impôt sur le revenu (crédit d'impôt remboursable pour personnes à faible revenu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 10, 2009
+
+première lecture le 10 juin 2009
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Martin (Esquimalt—Juan de Fuca)
+
+402110
+
+
+
+M. Martin (Esquimalt—Juan de Fuca)
+
+
+
+
+
+SUMMARY
+This enactment amends the Income Tax Act to provide for a refundable tax credit of up to $2,000 for taxpayers earning up to $40,000.
+
+
+
+SOMMAIRE
+ Le texte modifie la Loi de l’impôt sur le revenu afin de prévoir un crédit d’impôt remboursable maximum de 2 000 $ pour les contribuables ayant un revenu maximum de 40 000 $.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-414
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-414
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Income Tax Act (refundable tax credit for low-income earners)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de l'impôt sur le revenu (crédit d'impôt remboursable pour personnes à faible revenu)
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c.1 (5th Supp.)
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch.1 (5e suppl.)
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Income Tax Act is amended by adding the following after section 122.51:
+
+
+
+
+
+
+
+
+
+1. La Loi de l’impôt sur le revenu est modifiée par adjonction, après l’article 122.51, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions 
+
+
+
+122.52 (1) The definitions in this subsection apply in this section.
+
+
+
+
+“adjusted income”« revenu modifié »
+
+
+
+“adjusted income” of an individual for a taxation year has the meaning assigned by section 122.6.
+
+
+
+
+“cohabiting spouse or common-law partner”« époux ou conjoint de fait visé »
+
+
+
+“cohabiting spouse or common-law partner” has the meaning assigned by section 122.6.
+
+
+
+
+“eligible individual”« particulier admissible »
+
+
+
+“eligible individual” for a taxation year means an individual (other than a trust)
+
+
+
+
+
+
+
+
+(a) who is resident in Canada throughout the year (or, if the individual dies in the year, throughout the portion of the year before the individual's death);
+
+
+
+
+
+
+
+
+(b) who, before the end of the year, has attained the age of 18 years; and
+
+
+
+
+
+
+
+
+(c) whose incomes for the year from all
+
+
+
+
+
+
+
+
+(i) offices and employments (computed without reference to paragraph 6(1)(f)), and
+
+
+
+
+
+
+
+
+(ii) businesses each of which is a business carried on by the individual either alone or as a partner actively engaged in the business
+
+
+
+
+
+
+
+
+total the amount used under paragraph (c) of the description of B in subsection 118(1) for the year or more.
+
+
+
+
+
+
+
+
+
+122.52 (1) Les définitions qui suivent s’appliquent au présent article.
+
+
+
+Définitions
+
+
+
+
+« époux ou conjoint de fait visé » S'entend au sens de l'article 122.6.
+
+
+
+« époux ou conjoint de fait visé »“cohabiting spouse or common-law partner”
+
+
+
+
+« particulier admissible » Est un particulier admissible pour une année d'imposition le particulier, à l'exception d'une fiducie, qui répond aux conditions suivantes :
+
+
+
+« particulier admissible »“eligible individual”
+
+
+
+
+a) il réside au Canada tout au long de l'année ou, s'il est décédé dans l'année, tout au long de la partie de l'année ayant précédé son décès;
+
+
+
+
+
+
+
+
+b) il atteint l'âge de dix-huit ans avant la fin de l'année;
+
+
+
+
+
+
+
+
+c) son revenu pour l'année provenant des sources ci-après est d’au moins le montant applicable pour l'année selon l'alinéa 118(1)c) :
+
+
+
+
+
+
+
+
+(i) les charges et emplois qu'il a occupés (le revenu en provenant étant calculé compte non tenu de l'alinéa 6(1)f)),
+
+
+
+
+
+
+
+
+(ii) les entreprises dont chacune est une entreprise qu'il a exploitée soit seul, soit à titre d'associé participant activement à l'exploitation de l'entreprise.
+
+
+
+
+
+
+
+
+« revenu modifié » Quant à un particulier pour une année d'imposition, s'entend au sens de l'article 122.6.
+
+
+
+« revenu modifié »“adjusted income”
+
+
+
+
+
+
+
+
+
+
+Deemed payment on account of tax
+
+
+
+(2) Where a return of income (other than a return of income filed under subsection 70(2), paragraph 104(23)(d) or 128(2)(e) or subsection 150(4)) is filed in respect of an eligible individual for a particular taxation year that ends at the end of a calendar year, there is deemed to be paid at the end of the particular taxation year on account of the individual's tax payable under this Part for the particular taxation year the amount determined by the formula
+
+
+
+
+
+
+
+
+$2,000 – A
+
+
+
+
+
+
+
+
+where
+
+
+
+
+
+
+
+
+A      is 10% of the amount, if any, by which
+
+
+
+
+
+
+
+
+(a) the sum of
+
+
+
+
+
+
+
+
+(i) the total of all amounts each of which is the individual’s adjusted income for the particular taxation year, and
+
+
+
+
+
+
+
+
+(ii) the total of all amounts each of which is the adjusted income of the individual’s cohabiting spouse or common-law partner for the particular taxation year
+
+
+
+
+
+
+
+
+exceeds
+
+
+
+
+
+
+
+
+(b) $20,000.
+
+
+
+
+
+
+
+
+
+(2) Lorsqu'une déclaration de revenu (sauf celle produite en application du paragraphe 70(2), des alinéas 104(23)d) ou 128(2)e) ou du paragraphe 150(4)) est produite relativement à un particulier admissible pour une année d'imposition donnée se terminant à la fin d'une année civile, le montant déterminé selon la formule ci-après est réputé avoir été payé à la fin de l'année d'imposition donnée au titre de l'impôt payable par le particulier en vertu de la présente partie pour cette année d'imposition :
+
+
+
+Présomption de paiement au titre de l'impôt
+
+
+
+
+2 000 $ – A
+
+
+
+
+
+
+
+
+où:
+
+
+
+
+
+
+
+
+A      représente 10 % de l'excédent éventuel du montant visé à l'alinéa a) sur la somme établie à l'alinéa b) :
+
+
+
+
+
+
+
+
+a) la somme des montants suivants :
+
+
+
+
+
+
+
+
+(i) le revenu modifié du particulier pour l'année d'imposition donnée,
+
+
+
+
+
+
+
+
+(ii) le revenu modifié de l’époux ou du conjoint de fait visé du particulier pour l'année d'imposition donnée;
+
+
+
+
+
+
+
+
+b) 20 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Only one eligible individual
+
+
+
+(3) If an individual is the cohabiting spouse or common-law partner of another individual, only one of them is an eligible individual, and if both of them claim to be eligible individuals, the individual that the Minister designates is the eligible individual.
+
+
+
+
+
+
+
+
+
+(3) Si un particulier est l’époux ou le conjoint de fait visé d’un autre particulier, seulement l’un d’eux est un particulier admissible. S’ils prétendent tous deux être des particuliers admissibles, le particulier désigné par le ministre est le particulier admissible.
+
+
+
+Un seul particulier admissible
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

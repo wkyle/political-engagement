@@ -1,0 +1,1053 @@
+
+
+
+
+
+C-598
+
+
+
+
+
+C-598
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-598
+
+
+
+
+
+PROJET DE LOI C-598
+
+
+
+
+
+
+An Act to amend the Immigration and Refugee Protection Act and the Corrections and Conditional Release Act (notification of victims)
+
+
+
+
+
+Loi modifiant la Loi sur l’immigration et la protection des réfugiés et la Loi sur le système correctionnel et la mise en liberté sous condition (avis donné aux victimes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 15, 2014
+
+première lecture le 15 mai 2014
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Allen (Welland)
+
+412010
+
+
+
+M. Allen (Welland)
+
+
+
+
+
+SUMMARY
+This enactment amends the Immigration and Refugee Protection Act to allow a victim of an offence committed by a permanent resident or a foreign national to submit a statement to the Immigration Division to be taken into consideration when a decision is made concerning the release of that permanent resident or foreign national. It also amends that Act to require the Minister of Public Safety and Emergency Preparedness to notify such victims when the permanent resident or foreign national in question is removed from the country — or detained for the purpose of such removal — or illegally re-enters Canada after being removed.
+In addition, this enactment amends the Corrections and Conditional Release Act to require the Correctional Service of Canada to provide the Minister of Public Safety and Emergency Preparedness with all information under its control that is relevant to the release of permanent residents and foreign nationals and the notification of victims under the Immigration and Refugee Protection Act.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur l’immigration et la protection des réfugiés afin d’autoriser la victime d’une infraction commise par un résident permanent ou un étranger à présenter une déclaration à la Section de l'immigration lorsque celle-ci prend une décision concernant la mise en liberté du résident permanent ou de l’étranger. Il prévoit également que le ministre de la Sécurité publique et de la Protection civile doit aviser la victime si le résident permanent ou l’étranger est renvoyé du Canada — ou est maintenu en détention en vue de son renvoi — ou si, ayant été renvoyé, il rentre au Canada sans autorisation légitime.
+De plus, le texte modifie la Loi sur le système correctionnel et la mise en liberté sous condition afin de prévoir que le Service correctionnel du Canada est tenu de communiquer au ministre de la Sécurité publique et de la Protection civile les renseignements pertinents dont il dispose en ce qui concerne la mise en liberté d’un résident permanent ou d’un étranger et la communication d’avis aux victimes aux termes de la Loi sur l’immigration et la protection des réfugiés.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-598
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-598
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Immigration and Refugee Protection Act and the Corrections and Conditional Release Act (notification of victims)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur l’immigration et la protection des réfugiés et la Loi sur le système correctionnel et la mise en liberté sous condition (avis donné aux victimes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+2001, c. 27
+
+
+
+IMMIGRATION AND REFUGEE PROTECTION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’IMMIGRATION ET LA PROTECTION DES RÉFUGIÉS
+
+
+
+2001, ch. 27
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) The Immigration and Refugee Protection Act is amended by adding the following after paragraph 58(1)(a):
+
+
+
+
+
+
+
+
+
+1. (1) La Loi sur l'immigration et la protection des réfugiés est modifiée par adjonction, après l’alinéa 58(1)a), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a.1) they are likely to endanger the safety of any victim;
+
+
+
+
+
+
+
+
+
+a.1) le résident permanent ou l’étranger est susceptible de porter atteinte à la sécurité d’une victime;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 58 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(2) L’article 58 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Victim statement
+
+
+
+(1.01) In considering whether to order the release of a permanent resident or a foreign national under this section, the Immigration Division shall, if practicable under the circumstances, allow every victim of an offence committed in Canada by the permanent resident or foreign national to submit a statement to the Immigration Division in a format that it considers appropriate, describing the harm done to them or loss suffered by them as a result of the commission of the offence and the continuing impact of the commission of the offence — including any safety concerns — and commenting on the possible release of the permanent resident or foreign national.
+
+
+
+
+
+
+
+
+
+(1.01) Lorsqu’elle décide si elle doit ordonner la mise en liberté d’un résident permanent ou d'un étranger au titre du présent article, la section doit, si les circonstances le permettent, autoriser la victime d’une infraction commise au Canada par le résident permanent ou l’étranger à faire une déclaration à son intention — sur le support que la section juge convenable — à l’égard des pertes ou des dommages qui lui ont été causés par la perpétration de l’infraction et des effets que celle-ci a encore sur elle, notamment les préoccupations qu’elle a quant à sa sécurité, et à l’égard de l’éventuelle libération du résident permanent ou de l’étranger.
+
+
+
+Déclaration de la victime
+
+
+
+
+
+
+
+
+
+
+Notification of victims
+
+
+
+(1.02) If the Immigration Division orders the release of a permanent resident or a foreign national under this section, it shall, subject to subsection (1.03) and as soon as practicable, notify every victim referred to in subsection (1.01) who has advised the Immigration Division in writing that they wish to be notified of the release and of the last known whereabouts of the permanent resident or foreign national. 
+
+
+
+
+
+
+
+
+
+(1.02) Si elle ordonne la mise en liberté d’un résident permanent ou d’un étranger au titre du présent article, la section doit, sous réserve du paragraphe (1.03) et dès que possible, en informer toute victime visée au paragraphe (1.01) qui lui a demandé par écrit d’être informée de la libération du résident permanent ou de l’étranger et du dernier lieu connu où se trouve celui-ci.
+
+
+
+Avis donné à la victime
+
+
+
+
+
+
+
+
+
+
+Opinion of Chairperson
+
+
+
+(1.03) The Immigration Division may notify the victim of the release of a permanent resident or a foreign national and of the last known whereabouts of the permanent resident or foreign national only if, in the opinion of the Chairperson of the Board, the interest of the victim in the disclosure of this information clearly outweighs any invasion of the permanent resident’s or foreign national’s privacy that could result from such disclosure.
+
+
+
+
+
+
+
+
+
+(1.03) La section ne peut informer la victime de la libération du résident permanent ou de l’étranger et du dernier lieu connu où se trouve celui-ci que si le président de la Commission est d’avis que l’intérêt de la victime justifierait nettement une éventuelle violation de la vie privée du résident permanent ou de l’étranger.
+
+
+
+Avis du président
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+(1.04) The following definitions apply in this subsection, in subsections (1.01), (1.02) and (1.03) and in section 58.2.
+
+
+
+
+“offence”« infraction »
+
+
+
+“offence” means an offence that involves
+
+
+
+
+
+
+
+
+(a) the use or attempted use of violence against another person; or 
+
+
+
+
+
+
+
+
+(b) conduct endangering or likely to endanger the life or safety of another person or inflicting or likely to inflict severe psycho- logical damage on another person.
+
+
+
+
+“victim”« victime »
+
+
+
+“victim” means a person in Canada who has suffered physical or emotional harm, property damage or economic loss as the result of the commission or alleged commission of an offence.
+
+
+
+
+
+
+
+
+
+(1.04) Les définitions qui suivent s’appliquent au présent paragraphe, aux paragraphes (1.01),  (1.02) et (1.03) et à l’article 58.2.
+
+
+
+Définitions
+
+
+
+
+« infraction » S’entend d’une infraction impliquant :
+
+
+
+« infraction »“offence”
+
+
+
+
+a) soit l’emploi, ou une tentative d’emploi, de la violence contre une autre personne;
+
+
+
+
+
+
+
+
+b) soit une conduite dangereuse, ou susceptible de l’être, pour la vie ou la sécurité d’une autre personne ou une conduite ayant infligé, ou susceptible d’infliger, des dommages psychologiques graves à une autre personne.
+
+
+
+
+
+
+
+
+« victime » Personne au Canada qui a subi des dommages — matériels, corporels ou moraux— ou des pertes économiques par suite de la perpétration ou prétendue perpétration d'une infraction.
+
+
+
+« victime »“victim”
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after section 58.1:
+
+
+
+
+
+
+
+
+
+2. La même loi est modifiée par adjonction, après l’article 58.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Notification of removal 
+
+
+
+58.2 (1) When the Minister obtains information that a permanent resident or a foreign national has, pursuant to a removal order, been removed from Canada or been detained for the purpose of removal from Canada, the Minister shall, subject to subsection (2) and as soon as practicable, provide this information to every victim of an offence committed in Canada by the permanent resident or foreign national if the victim has advised the Immigration Division in writing that they wish to be so informed. 
+
+
+
+
+
+
+
+
+
+58.2 (1) Lorsqu’il obtient des renseignements indiquant qu’un résident permanent ou un étranger a été renvoyé du Canada ou est maintenu en détention en vue de son renvoi du Canada conformément à une mesure de renvoi, le ministre doit, sous réserve du paragraphe (2) et dès que possible,  communiquer les renseignements à toute victime d’une infraction commise au Canada par le résident permanent ou l’étranger en question si elle a signifié par écrit à la section qu’elle souhaitait recevoir de tels renseignements.
+
+
+
+Avis de renvoi du Canada
+
+
+
+
+
+
+
+
+
+
+Opinion of Minister
+
+
+
+(2) The Minister may inform the victim of the removal from Canada of a permanent resident or a foreign national or of his or her detention for the purpose of removal from Canada only if, in the opinion of the Minister, the interest of the victim in the disclosure of this information clearly outweighs any invasion of the permanent resident’s or foreign national’s privacy that could result from such disclosure.
+
+
+
+
+
+
+
+
+
+(2) Le ministre ne peut informer la victime qu’un résident permanent ou un étranger a été renvoyé du Canada ou est maintenu en détention en vue de son renvoi du Canada que s’il est d’avis que l’intérêt de la victime justifierait nettement une éventuelle violation de la vie privée du résident permanent ou de l’étranger.
+
+
+
+Avis du ministre
+
+
+
+
+
+
+
+
+
+
+Notification of re-entry 
+
+
+
+(3) When the Minister obtains information that a foreign national who was removed from Canada pursuant to a removal order has re-entered Canada without the lawful authority to do so, the Minister shall, subject to subsection (4) and as soon as practicable, notify every victim of an offence committed in Canada by the foreign national if the victim has advised the Immigration Division in writing that they wish to be notified of 
+
+
+
+
+
+
+
+
+(a) the foreign national’s re-entry into Canada;
+
+
+
+
+
+
+
+
+(b) the date on which and the place at which the re-entry took place, if known; and
+
+
+
+
+
+
+
+
+(c) the last known whereabouts of the foreign national.
+
+
+
+
+
+
+
+
+
+(3) Lorsqu’il obtient des renseignements indiquant qu’un étranger ayant été renvoyé du Canada conformément à une mesure de renvoi est rentré au Canada sans autorisation légitime, le ministre doit, sous réserve du paragraphe (4) et dès que possible, communiquer les renseignements à toute victime d’une infraction commise au Canada par l’étranger en question si elle a signifié par écrit à la section qu’elle souhaitait être avisée : 
+
+
+
+Avis de rentrée au Canada
+
+
+
+
+a) de la rentrée au Canada de l’étranger; 
+
+
+
+
+
+
+
+
+b) de la date et du lieu de la rentrée, si ces renseignements sont connus; 
+
+
+
+
+
+
+
+
+c) du dernier lieu connu où se trouve l’étranger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Opinion of Minister
+
+
+
+(4) The Minister may notify the victim of information relating to a foreign national referred to in paragraphs 3(a) to (c) only if, in the opinion of the Minister, the interest of the victim in the disclosure of this information clearly outweighs any invasion of the foreign national’s privacy that could result from such disclosure.
+
+
+
+
+
+
+
+
+
+(4) Le ministre ne peut communiquer à la victime les renseignements au sujet d’un étranger visés aux alinéas 3a) à c) que s’il est d’avis que l’intérêt de la victime justifierait nettement une éventuelle violation de la vie privée de l’étranger.
+
+
+
+Avis du ministre
+
+
+
+
+
+
+
+
+
+
+New information
+
+
+
+(5) If, after a notification has been given under subsection (3), the Minister obtains new information about the whereabouts of the foreign national, the Minister shall, subject to subsection (6) and as soon as practicable, provide this information to the victim.
+
+
+
+
+
+
+
+
+
+(5) Si, après avoir donné l’avis visé au paragraphe (3), le ministre obtient de nouveaux renseignements au sujet du lieu où se trouve l’étranger, il doit, sous réserve du paragraphe (6) et dès que possible, communiquer ces renseignements à la victime.
+
+
+
+Nouveaux renseignements
+
+
+
+
+
+
+
+
+
+
+Opinion of Minister
+
+
+
+(6) The Minister may notify the victim of new information relating to the whereabouts of the foreign national only if, in the opinion of the Minister, the interest of the victim in the disclosure of this information clearly outweighs any invasion of the foreign national’s privacy that could result from such disclosure.
+
+
+
+
+
+
+
+
+
+(6) Le ministre ne peut communiquer à la victime de nouveaux renseignements au sujet du lieu où se trouve l’étranger que s’il est d’avis que l’intérêt de la victime justifierait nettement une éventuelle violation de la vie privée de l’étranger.
+
+
+
+Avis du ministre
+
+
+
+
+
+
+
+
+1992, c. 20
+
+
+
+CORRECTIONS AND CONDITIONAL RELEASE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE SYSTÈME CORRECTIONNEL ET LA MISE EN LIBERTÉ SOUS CONDITION
+
+
+
+1992, ch. 20
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 25 of the Corrections and Conditional Release Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+3. L’article 25 de la Loi sur le système correctionnel et la mise en liberté sous condition est modifié par adjonction, après le paragraphe (3), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Service to give information to Minister
+
+
+
+(4) The Service shall give to the Minister, at the appropriate times, all information under its control that is relevant to the release of permanent residents and foreign nationals under sections 56, 58 and 58.1 of the Immigration and Refugee Protection Act and the notification of victims under section 58.2 of that Act. 
+
+
+
+
+
+
+
+
+
+(4) Aux moments opportuns, le Service est tenu de communiquer au ministre les renseignements pertinents dont il dispose en ce qui concerne la mise en liberté d’un résident permanent ou d’un étranger aux termes des articles 56, 58 et 58.1 de la Loi sur l’immigration et la protection des réfugiés et la communication d’avis aux victimes en application de l’article 58.2 de cette loi.    
+
+
+
+Communication de renseignements par le Service
+
+
+
+
+
+
+
+
+
+
+Idem
+
+
+
+(5) No provision in the Privacy Act or the Access to Information Act shall operate so as to limit or prevent the Service from giving the information referred to in subsection (4).
+
+
+
+
+
+
+
+
+
+(5) Aucune disposition de la Loi sur la protection des renseignements personnels ou de la Loi sur l’accès à l’information n’a pour effet d’empêcher ou de limiter la communication, par le Service, des renseignements visés au paragraphe (4).
+
+
+
+Idem
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in Council
+
+
+
+4. This Act comes into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+4. La présente loi entre en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

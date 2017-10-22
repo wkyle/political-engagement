@@ -1,0 +1,11214 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+55 Elizabeth II, 2006
+
+
+
+
+
+Première session, trente-neuvième législature,
+55 Elizabeth II, 2006
+
+
+
+
+
+
+STATUTES OF CANADA 2006CHAPTER 12
+
+
+
+
+
+LOIS DU CANADA (2006)CHAPITRE 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and the Income Tax Act and to make a consequential amendment to another Act
+
+
+
+
+
+Loi modifiant la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, la Loi de l’impôt sur le revenu et une autre loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+14th DECEMBER, 2006
+BILL C-25
+
+
+
+
+
+SANCTIONNÉE
+LE 14 DÉCEMBRE 2006
+PROJET DE LOI C-25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and the Income Tax Act and to make a consequential amendment to another Act”.
+SUMMARY
+This enactment amends the Proceeds of Crime (Money Laundering) and Terrorist Financing Act to enhance the client identification, record-keeping and reporting measures applicable to financial institutions and intermediaries. It establishes a registration regime for money services businesses and foreign exchange dealers and creates a new offence for not registering.
+It allows the Financial Transactions and Reports Analysis Centre of Canada to disclose additional information to law enforcement and intelligence agencies, and to make disclosures to additional agencies.
+It permits the Centre to exchange compliance-related information with its foreign counterparts and permits the Canada Border Services Agency to share information about the application of the cross-border currency reporting regime with its foreign counterparts. It also includes a consequential amendment to the Canada Border Services Agency Act.
+It creates an administrative monetary penalty regime.
+It amends the Income Tax Act to allow the Canada Revenue Agency to disclose to the Centre, the Royal Canadian Mounted Police and the Canadian Security Intelligence Service information about charities suspected of being involved in terrorist financing activities.
+
+
+
+RECOMMANDATION
+Son Excellence la gouverneure générale recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, la Loi de l’impôt sur le revenu et une autre loi en conséquence ».
+SOMMAIRE
+Le texte modifie la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes en vue d’améliorer les mesures relatives à l’identification des clients, à la tenue de documents et à la production de déclarations qui incombent aux institutions financières et aux intermédiaires financiers. Il établit un régime d’enregistrement pour les entreprises de transfert de fonds et les bureaux de change, et crée une nouvelle infraction concernant le défaut d’inscription.
+Il permet au Centre d’analyse des opérations et déclarations financières du Canada de communiquer des renseignements supplémentaires aux organismes chargés du contrôle d’application de la loi et aux organismes de renseignements et de communiquer des renseignements à d’autres organismes.
+Il habilite le Centre à échanger avec ses homologues étrangers des renseignements concernant la vérification de la conformité à certaines obligations prévues par la loi et permet à l’Agence des services frontaliers du Canada de fournir à ses homologues étrangers des renseignements sur l’application du régime de déclaration des mouvements transfrontaliers d’espèces. Il prévoit également une modification corrélative à la Loi sur l’Agence des services frontaliers du Canada.
+Il crée un régime de pénalités.
+Il modifie la Loi de l’impôt sur le revenu en vue de permettre à l’Agence du revenu du Canada de communiquer au Centre, à la Gendarmerie royale du Canada et au Service canadien du renseignement de sécurité des renseignements sur les organismes de bienfaisance soupçonnés d’être impliqués dans des activités de financement du terrorisme.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+55 ELIZABETH II
+
+
+
+
+
+
+
+
+
+55 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 12
+
+
+
+
+
+
+
+
+
+CHAPITRE 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Proceeds of Crime (Money Laundering) and Terrorist Financing Act and the Income Tax Act and to make a consequential amendment to another Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, la Loi de l’impôt sur le revenu et une autre loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 14th December, 2006]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 14 décembre 2006]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 17; 2001, c. 41, s. 48
+
+
+
+AMENDMENTS TO THE PROCEEDS OF CRIME (MONEY LAUNDERING) AND TERRORIST FINANCING ACT
+
+
+
+
+
+
+
+
+
+MODIFICATION DE LA LOI SUR LE RECYCLAGE DES PRODUITS DE LA CRIMINALITÉ ET LE FINANCEMENT DES ACTIVITÉS TERRORISTES
+
+
+
+2000, ch. 17; 2001, ch. 41, art. 48
+
+
+
+
+
+
+
+
+
+
+2005, c. 38, s. 124(2) and par. 145(2)(h)
+
+
+
+
+1. (1) The definition “Minister” in section 2 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. (1) La définition de « ministre », à l’article 2 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, est remplacée par ce qui suit :
+
+
+
+2005, ch. 38, par. 124(2) et al. 145(2)h)
+
+
+
+
+
+
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means, in relation to sections 24.1 to 39, the Minister of Public Safety and Emergency Preparedness and, in relation to any other provision of this Act, the Minister of Finance.
+
+
+
+
+
+
+
+
+
+« ministre » Le ministre de la Sécurité publique et de la Protection civile pour l’application des articles 24.1 à 39, et le ministre des Finances pour l’application des autres dispositions de la présente loi.
+
+
+
+« ministre »“Minister”
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 2 of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) L’article 2 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“violation”« violation »
+
+
+
+“violation” means a contravention of this Act or the regulations that is designated as a violation by regulations made under subsection 73.1(1).
+
+
+
+
+
+
+
+
+
+« violation » Toute contravention à la présente loi ou à ses règlements qui est ainsi qualifiée par les règlements pris en vertu du paragraphe 73.1(1).
+
+
+
+« violation »“violation”
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The heading of Part 1 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le titre de la partie 1 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECORD KEEPING, VERIFYING IDENTITY, REPORTING OF SUSPICIOUS TRANSACTIONS AND REGISTRATION
+
+
+
+
+
+
+
+
+
+TENUE DE DOCUMENTS, VÉRIFICATION D’IDENTITÉS, DÉCLARATION DES OPÉRATIONS DOUTEUSES ET INSCRIPTION
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 51(1)
+
+
+
+
+3. (1) Paragraphs 5(g) and (h) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. (1) Les alinéas 5g) et h) de la même loi sont remplacés par ce qui suit :
+
+
+
+2001, ch. 41, par. 51(1)
+
+
+
+
+
+
+
+
+
+
+
+
+(g) persons and entities authorized under provincial legislation to engage in the business of dealing in securities or any other financial instruments, or to provide portfolio management or investment advising services;
+
+
+
+
+
+
+(h) persons and entities engaged in the business of foreign exchange dealing, of remitting funds or transmitting funds by any means or through any person, entity or electronic funds transfer network, or of issuing or redeeming money orders, traveller’s cheques or other similar negotiable instruments except for cheques payable to a named person or entity;
+
+
+
+
+
+
+
+
+
+
+g) les personnes et les entités autorisées en vertu de la législation provinciale à se livrer au commerce des valeurs mobilières ou d’autres instruments financiers, ou à la fourniture de services de gestion de portefeuille et de conseils en placement;
+
+
+
+
+
+
+
+h) les personnes et les entités qui se livrent aux opérations de change, ou qui exploitent une entreprise qui remet des fonds ou transmet des fonds par tout moyen ou par l’intermédiaire d’une personne, d’une entité ou d’un réseau de télévirement ou qui émet ou rachète des mandats-poste, des chèques de voyage ou d’autres titres négociables semblables, à l’exclusion des chèques libellés au nom d’une personne ou d’une entité;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 5(l) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 5l) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(l) departments and agents of Her Majesty in right of Canada or of a province that are engaged in the business of accepting deposit liabilities, that sell money orders to the public or that sell prescribed precious metals, while carrying out the activities described in regulations made under paragraph 73(1)(c); and
+
+
+
+
+
+
+
+
+
+
+l) les ministères et mandataires de Sa Majesté du chef du Canada ou d’une province qui se livrent à l’acceptation de dépôts, qui vendent des mandats-poste au public ou qui vendent des métaux précieux réglementaires, lorsqu’ils exercent les activités mentionnées aux règlements pris en vertu de l’alinéa 73(1)c);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 6 of the Act and the heading before it are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. L’article 6 de la même loi et l’intertitre le précédant sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Record Keeping and Verifying Identity
+
+
+
+
+
+
+
+
+
+Tenue et conservation de documents et vérification d’identités
+
+
+
+
+
+
+
+
+
+
+
+
+Record keeping
+
+
+
+
+6. Every person or entity referred to in section 5 shall keep and retain prescribed records in accordance with the regulations.
+
+
+
+
+
+
+
+
+
+
+6. Il incombe à toute personne ou entité visée à l’article 5 de tenir et de conserver, conformément aux règlements, les documents prévus par règlement.
+
+
+
+Tenue de document
+
+
+
+
+
+
+
+
+
+
+Verifying identity
+
+
+
+
+6.1 Every person or entity referred to in section 5 shall verify, in the prescribed circumstances and in accordance with the regulations, the identity of any person or entity.
+
+
+
+
+
+
+
+
+
+
+6.1 Il incombe à toute personne ou entité visée à l’article 5 de vérifier, dans les cas prévus par les règlements et en conformité avec ceux-ci, l’identité de toute personne ou entité.
+
+
+
+Vérification d’identités
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 52
+
+
+
+
+5. Section 7 of the Act and the heading before it are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. L’article 7 de la même loi et l’intertitre le précédant sont remplacés par ce qui suit :
+
+
+
+2001, ch. 41, art. 52
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reporting and Other Requirements
+
+
+
+
+
+
+
+
+
+Déclaration et autres obligations
+
+
+
+
+
+
+
+
+
+
+
+
+Transactions if reasonable grounds to suspect
+
+
+
+
+7. Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in the prescribed form and manner, every financial transaction that occurs or that is attempted in the course of their activities and in respect of which there are reasonable grounds to suspect that
+
+
+
+
+
+
+
+
+
+
+(a) the transaction is related to the commission or the attempted commission of a money laundering offence; or
+
+
+
+
+
+
+
+
+
+
+(b) the transaction is related to the commission or the attempted commission of a terrorist activity financing offence.
+
+
+
+
+
+
+
+
+
+
+7. Il incombe, sous réserve de l’article 10.1, à toute personne ou entité visée à l’article 5 de déclarer au Centre, selon les modalités réglementaires, toute opération financière qu’on a effectuée ou tentée dans le cours de ses activités et à l’égard de laquelle il y a des motifs raisonnables de soupçonner qu’elle est liée à la perpétration — réelle ou tentée —, selon le cas :
+
+
+
+Opérations à déclarer
+
+
+
+
+
+a) d’une infraction de recyclage des produits de la criminalité;
+
+
+
+
+
+
+
+
+
+
+
+b) d’une infraction de financement des activités terroristes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 52
+
+
+
+
+6. Subsection 7.1(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 7.1(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 52
+
+
+
+
+
+
+
+
+
+
+Disclosure
+
+
+
+
+7.1 (1) Every person or entity referred to in section 5 that is required to make a disclosure under section 83.1 of the Criminal Code or under section 8 of the Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism shall also make a report on it to the Centre, in the prescribed form and manner.
+
+
+
+
+
+
+
+
+
+
+7.1 (1) Il incombe à toute personne ou entité visée à l’article 5 qui est tenue de communiquer des renseignements en vertu de l’article 83.1 du Code criminel ou en vertu de l’article 8 du Règlement d’application des résolutions des Nations Unies sur la lutte contre le terrorisme de faire une déclaration au Centre selon les modalités réglementaires.
+
+
+
+Communication
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) Subsection 9(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. (1) Le paragraphe 9(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Prescribed financial transactions
+
+
+
+
+9. (1) Subject to section 10.1, every person or entity referred to in section 5 shall report to the Centre, in the prescribed form and manner, every prescribed financial transaction that occurs in the course of their activities.
+
+
+
+
+
+
+
+
+
+
+9. (1) Il incombe, sous réserve de l’article 10.1, à toute personne ou entité visée à l’article 5 de déclarer au Centre, selon les modalités réglementaires, les opérations financières visées par règlement qui sont effectuées dans le cours de ses activités.
+
+
+
+Opérations à déclarer aux termes des règlements
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 9(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 9(3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+List of persons
+
+
+
+(3) Every person or entity referred to in section 5 shall establish and maintain a list, in the prescribed form and manner, of their clients in respect of whom a report would have been required under subsection (1) were it not for subsection (2). However, a person or an entity may choose to report a client’s transactions under subsection (1) instead of maintaining the list in respect of that client.
+
+
+
+
+
+
+
+
+
+(3) Il incombe à toute personne ou entité visée à l’article 5 de dresser et de maintenir, selon les modalités réglementaires, une liste des clients à l’égard desquels elle aurait été tenue, n’était le paragraphe (2), de faire une déclaration en application du paragraphe (1). Néanmoins, elle peut choisir de se conformer au paragraphe (1) à l’égard d’un client au lieu d’inscrire celui-ci sur une telle liste.
+
+
+
+Liste des exemptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. The Act is amended by adding the following after section 9.1:
+
+
+
+
+
+
+
+
+
+
+8. La même loi est modifiée par adjonction, après l’article 9.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Inability to establish identity
+
+
+
+
+9.2 No person or entity referred to in section 5 shall open an account for a client, in the prescribed circumstances, if it cannot establish the identity of the client in accordance with the prescribed measures.
+
+
+
+
+
+
+
+
+
+
+9.2 Il est interdit, dans les cas prévus par règlement, à toute personne ou entité visée à l’article 5 d’ouvrir un compte pour lequel elle ne peut établir l’identité du client en conformité avec les mesures réglementaires.
+
+
+
+Impossibilité d’établir l’identité
+
+
+
+
+
+
+
+
+
+
+Politically exposed foreign persons
+
+
+
+
+9.3 (1) Every person or entity that is referred to in section 5 and that is prescribed shall determine, in the prescribed circumstances and in accordance with the regulations, whether it is dealing with a politically exposed foreign person.
+
+
+
+
+
+
+
+
+
+
+9.3 (1) Il incombe à toute personne ou entité mentionnée à l’article 5 et visée par règlement d’établir, dans les cas prévus par les règlements et en conformité avec ceux-ci, si elle fait affaire avec un étranger politiquement vulnérable.
+
+
+
+Mesures
+
+
+
+
+
+
+
+
+
+
+Measures
+
+
+
+(2) If the person or entity determines that it is dealing with a politically exposed foreign person, the person or entity shall obtain the approval of senior management in the prescribed circumstances and take prescribed measures.
+
+
+
+
+
+
+
+
+
+(2) Si elle fait affaire avec un étranger politiquement vulnérable, elle obtient l’agrément de la haute direction dans les cas prévus par règlement et prend les mesures réglementaires.
+
+
+
+Mesures
+
+
+
+
+
+
+
+
+
+
+Definition of “politically exposed foreign person”
+
+
+
+(3) For the purposes of this section, “politically exposed foreign person” means a person who holds or has held one of the following offices or positions in or on behalf of a foreign state:
+
+
+
+
+
+
+
+
+
+
+(a) head of state or head of government;
+
+
+
+
+
+
+
+
+
+
+(b) member of the executive council of government or member of a legislature;
+
+
+
+
+
+
+
+
+
+
+(c) deputy minister or equivalent rank;
+
+
+
+
+
+
+
+
+
+
+(d) ambassador or attaché or counsellor of an ambassador;
+
+
+
+
+
+
+
+
+
+
+(e) military officer with a rank of general or above;
+
+
+
+
+
+
+
+
+
+
+(f) president of a state-owned company or a state-owned bank;
+
+
+
+
+
+
+
+
+
+
+(g) head of a government agency;
+
+
+
+
+
+
+
+
+
+
+(h) judge;
+
+
+
+
+
+
+
+
+
+
+(i) leader or president of a political party represented in a legislature; or
+
+
+
+
+
+
+
+
+
+
+(j) holder of any prescribed office or position.
+
+
+
+
+
+
+
+
+
+
+It includes any prescribed family member of such a person.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application du présent article, « étranger politiquement vulnérable » s’entend de la personne qui occupe ou a occupé l’une des charges ci-après au sein d’un État étranger ou pour son compte :
+
+
+
+Définition de « étranger politiquement vulnérable »
+
+
+
+
+
+a) chef d’État ou chef de gouvernement;
+
+
+
+
+
+
+
+
+
+
+
+b) membre du conseil exécutif de gouvernement ou membre d’une assemblée législative;
+
+
+
+
+
+
+
+
+
+
+
+c) sous-ministre ou titulaire d’une charge de rang équivalent;
+
+
+
+
+
+
+
+
+
+
+
+d) ambassadeur, ou attaché ou conseiller d’un ambassadeur;
+
+
+
+
+
+
+
+
+
+
+
+e) officier ayant le rang de général ou un rang supérieur;
+
+
+
+
+
+
+
+
+
+
+
+f) dirigeant d’une société d’État ou d’une banque d’État;
+
+
+
+
+
+
+
+
+
+
+
+g) chef d’un organisme gouvernemental;
+
+
+
+
+
+
+
+
+
+
+
+h) juge;
+
+
+
+
+
+
+
+
+
+
+
+i) leader ou président d’un parti politique représenté au sein d’une assemblée législative;
+
+
+
+
+
+
+
+
+
+
+
+j) titulaire d’un poste ou d’une charge visés par règlement.
+
+
+
+
+
+
+
+
+
+
+Est assimilé à la personne tout membre de sa famille visé par règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Correspondent banking
+
+
+
+
+9.4 (1) Every entity referred to in any of paragraphs 5(a), (b), (d) and (e) and every other entity that is referred to in section 5 and that is prescribed shall take the following measures before entering into a correspondent banking relationship with a prescribed foreign entity:
+
+
+
+
+
+
+
+
+
+
+(a) obtain prescribed information about the foreign entity and its activities;
+
+
+
+
+
+
+
+
+
+
+(b) ensure that the foreign entity is not a shell bank as defined in the regulations;
+
+
+
+
+
+
+
+
+
+
+(c) obtain the approval of senior management;
+
+
+
+
+
+
+
+
+
+
+(d) set out in writing their obligations and those of the foreign entity in respect of the correspondent banking services; and
+
+
+
+
+
+
+
+
+
+
+(e) any prescribed measures.
+
+
+
+
+
+
+
+
+
+
+9.4 (1) Il incombe à toute entité visée aux alinéas 5a), b), d) et e) et à toute autre entité mentionnée à l’article 5 et visée par règlement de prendre les mesures ci-après avant d’établir avec une entité étrangère visée par règlement une relation de correspondant bancaire :
+
+
+
+Correspondant bancaire
+
+
+
+
+
+a) obtenir les renseignements réglementaires concernant l’entité étrangère et ses activités;
+
+
+
+
+
+
+
+
+
+
+
+b) vérifier que l’entité étrangère n’est pas une banque fictive au sens des règlements;
+
+
+
+
+
+
+
+
+
+
+
+c) obtenir l’agrément de la haute direction;
+
+
+
+
+
+
+
+
+
+
+
+d) consigner leurs obligations et celles de l’entité étangère à l’égard des services de correspondant bancaire;
+
+
+
+
+
+
+
+
+
+
+
+e) prendre toutes autres mesures prévues par règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibition — shell bank
+
+
+
+(2) No person or entity shall enter into a correspondent banking relationship with a shell bank as defined in the regulations.
+
+
+
+
+
+
+
+
+
+(2) Il est interdit d’établir une relation de correspondant bancaire avec une banque fictive au sens des règlements.
+
+
+
+Interdiction : banque fictive
+
+
+
+
+
+
+
+
+
+
+Definition of “correspondent banking relationship”
+
+
+
+(3) For the purposes of this section, “correspondent banking relationship” means a relationship created by an agreement or arrangement under which an entity referred to in any of paragraphs 5(a), (b), (d) and (e) or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a prescribed foreign entity services such as international electronic funds transfers, cash management, cheque clearing  and any prescribed services.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application du présent article, « relation de correspondant bancaire » s’entend de la relation découlant de tout accord au titre duquel une entité visée aux alinéas 5a), b), d) et e) ou une autre entité mentionnée à l’article 5 et visée par règlement s’engage à fournir à une entité étrangère visée par règlement des services tels les télévirements internationaux, la gestion de trésorerie, la compensation de chèques et tout autre service prévu par règlement.
+
+
+
+Définition de « relation de correspondant bancaire »
+
+
+
+
+
+
+
+
+
+
+Electronic funds transfer
+
+
+
+
+9.5 Every person or entity that is referred to in section 5 and that is prescribed shall, in respect of a prescribed electronic funds transfer that occurs in the course of their financial activities,
+
+
+
+
+
+
+
+
+
+
+(a) include with the transfer the name, address, and account number or other reference number, if any, of the client who requested it, and any prescribed information;
+
+
+
+
+
+
+
+
+
+
+(b) take reasonable measures to ensure that any transfer that the person or entity receives includes that information; and
+
+
+
+
+
+
+
+
+
+
+(c) take any prescribed measures.
+
+
+
+
+
+
+
+
+
+
+9.5 Il incombe à toute personne ou entité mentionnée à l’article 5 et visée par règlement, relativement aux télévirements réglementaires effectués dans le cours de ses activités financières :
+
+
+
+Télévirements
+
+
+
+
+
+a) d’inclure avec le télévirement les nom, adresse et, le cas échéant, numéro de compte ou tout autre numéro de référence du client qui demande le télévirement et tout renseignement prévu par règlement;
+
+
+
+
+
+
+
+
+
+
+
+b) de prendre des mesures raisonnables afin de veiller à ce que ces renseignements accompagnent tout télévirement qu’elle reçoit;
+
+
+
+
+
+
+
+
+
+
+
+c) de prendre toute autre mesure prévue par règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance program
+
+
+
+
+9.6 (1) Every person or entity referred to in section 5 shall establish and implement, in accordance with the regulations, a program intended to ensure their compliance with this Part.
+
+
+
+
+
+
+
+
+
+
+9.6 (1) Il incombe à toute personne ou entité visée à l’article 5 d’établir et de mettre en oeuvre, en conformité avec les règlements, un programme destiné à assurer l’observation de la présente partie.
+
+
+
+Programme de conformité
+
+
+
+
+
+
+
+
+
+
+Risk assessment
+
+
+
+(2) The program shall include the development and application of policies and procedures for the person or entity to assess, in the course of their activities, the risk of a money laundering offence or a terrorist activity financing offence.
+
+
+
+
+
+
+
+
+
+(2) Le programme doit notamment prévoir l’élaboration et la mise en application de principes et de mesures permettant à la personne ou à l’entité d’évaluer, dans le cours de ses activités, les risques de perpétration d’infractions de recyclage des produits de la criminalité et d’infractions de financement des activités terroristes.
+
+
+
+Évaluation de risques
+
+
+
+
+
+
+
+
+
+
+Special measures
+
+
+
+(3) If the person or entity considers that the risk referred to in subsection (2) is high, the person or entity shall take prescribed special measures for identifying clients, keeping records and monitoring financial transactions in respect of the activities that pose the high risk.
+
+
+
+
+
+
+
+
+
+(3) Si elle estime que les risques visés au paragraphe (2) sont élevés, la personne ou entité prend, relativement aux activités en cause, les mesures spéciales réglementaires relatives à l’identification des clients, à la tenue des documents et au contrôle des opérations financières.
+
+
+
+Mesures spéciales
+
+
+
+
+
+
+
+
+
+
+Foreign subsidiaries
+
+
+
+
+9.7 (1) Every person or entity referred to in any of paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the Bank Act and for authorized foreign companies within the meaning of section 2 of the Insurance Companies Act, shall ensure that their wholly owned subsidiaries, that are located in a country that is not a member of the Financial Action Task Force and that carry out activities similar to those of persons and entities referred to in those paragraphs, develop and apply policies and procedures that are consistent with the requirements of sections 6, 6.1 and 9.6 when the laws of the country permit it.
+
+
+
+
+
+
+
+
+
+
+9.7 (1) Il incombe à toute personne ou entité visée aux alinéas 5a) à g), à l’exclusion des banques étrangères autorisées, au sens de l'article 2 de la Loi sur les banques, et des sociétés étrangères autorisées, au sens de l'article 2 de la Loi sur les sociétés d'assurances, de veiller à ce que ses filiales à cent pour cent qui sont situées dans un pays ne faisant pas partie du Groupe d’action financière et qui exercent des activités semblables à celles des personnes et entités visées à ces alinéas, élaborent et mettent en application les principes et les mesures compatibles avec les obligations prévues aux articles 6, 6.1 et 9.6 lorsque les lois de ce pays le permettent.
+
+
+
+Filiales étrangères
+
+
+
+
+
+
+
+
+
+
+Record keeping
+
+
+
+(2) If the development or application by a subsidiary of a policy or procedure referred to in subsection (1) would contravene the laws of the country in which the subsidiary is located, the person or entity shall keep and retain a record of that fact in accordance with section 6.
+
+
+
+
+
+
+
+
+
+(2) La personne ou l’entité documente en conformité avec l’article 6 les cas où une de ces filiales ne peut ni élaborer ni mettre en application un principe ou une mesure parce que cela contreviendrait aux lois du pays dans lequel elle se trouve.
+
+
+
+Tenue de documents
+
+
+
+
+
+
+
+
+
+
+Definition of “Financial Action Task Force”
+
+
+
+(3) For the purposes of this section, “Financial Action Task Force” means the Financial Action Task Force on Money Laundering established in 1989.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application du présent article, « Groupe d’action financière » s’entend du Groupe d’action financière sur le blanchiment de capitaux créé en 1989.
+
+
+
+Définition de « Groupe d’action financière »
+
+
+
+
+
+
+
+
+
+
+Foreign branches
+
+
+
+
+9.8 Every entity referred to in paragraphs 5(a) to (g), except for authorized foreign banks within the meaning of section 2 of the Bank Act and for authorized foreign companies within the meaning of section 2 of the Insurance Companies Act, shall ensure that their branches, that are located in a country that is not a member of the Financial Action Task Force and that carry out activities similar to those of persons and entities referred to in those paragraphs, develop and apply policies and procedures that are consistent with the requirements of sections 6, 6.1 and 9.6 when the laws of the country permit it.
+
+
+
+
+
+
+
+
+
+
+9.8 Les entités visées aux alinéas 5a) à g), à l’exclusion des banques étrangères autorisées au sens de l'article 2 de la Loi sur les banques et des sociétés étrangères autorisées au sens de l'article 2 de la Loi sur les sociétés d'assurances, veillent à ce que leurs succursales situées dans un pays ne faisant pas partie du Groupe d'action financière et qui exercent des activités semblables à celles des personnes et entités visées à ces alinéas, élaborent et mettent en application les principes et les mesures compatibles avec les obligations prévues aux articles 6, 6.1 et 9.6 lorsque les lois de ce pays le permettent.
+
+
+
+Succursales
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. The Act is amended by adding the following after section 10:
+
+
+
+
+
+
+
+
+
+
+9. La même loi est modifiée par adjonction, après l’article 10, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Non-application to legal counsel
+
+
+
+
+10.1 Sections 7 and 9 do not apply to persons or entities referred to in paragraph 5(i) or (j) who are, as the case may be, legal counsel or legal firms, when they are providing legal services.
+
+
+
+
+
+
+
+
+
+
+10.1 Les articles 7 et 9 ne s’appliquent pas aux personnes ni aux entités visées aux alinéas 5i) ou j) qui sont, selon le cas, des conseillers juridiques ou des cabinets d’avocats, lorsqu’elles fournissent des services juridiques.
+
+
+
+Non-application aux conseillers juridiques
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. The Act is amended by adding the following after section 11:
+
+
+
+
+
+
+
+
+
+
+10. La même loi est modifiée par adjonction, après l’article 11, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Registration
+
+
+
+
+
+
+
+
+
+Inscription
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application and Revocation
+
+
+
+
+
+
+
+
+
+Demande d’inscription et révocation
+
+
+
+
+
+
+
+
+
+
+
+
+Registration requirement
+
+
+
+
+11.1 Except as otherwise provided in the regulations, every person or entity referred to in paragraph 5(h), those referred to in paragraph 5(l) that sell money orders to the public, and every other person or entity that is referred to in section 5 and that is prescribed must be registered with the Centre in accordance with this section and sections 11.11 to 11.2.
+
+
+
+
+
+
+
+
+
+
+11.1 Sauf disposition contraire des règlements, sont inscrites auprès du Centre, en conformité avec le présent article et les articles 11.11 à 11.2, les personnes ou entités visées à l’alinéa 5h), celles visées à l’alinéa 5l) qui vendent des mandats-poste au public ainsi que toutes celles qui sont mentionnées à l’article 5 et visées par règlement.
+
+
+
+Obligation de s’inscrire
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. The Act is amended by adding the following before the heading “PART 2”:
+
+
+
+
+
+
+
+
+
+
+11. La même loi est modifiée par adjonction, avant l’intertitre « PARTIE 2 », de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Ineligible for registration
+
+
+
+
+11.11 (1) The following persons or entities are not eligible for registration with the Centre:
+
+
+
+
+
+
+
+
+
+
+(a) a listed person as defined in section 1 of the Regulations Implementing the United Nations Resolutions on the Suppression of Terrorism;
+
+
+
+
+
+
+
+
+
+
+(b) a listed entity as defined in subsection 83.01(1) of the Criminal Code;
+
+
+
+
+
+
+
+
+
+
+(c) a person or entity that has been convicted of any of the following:
+
+
+
+
+
+
+
+
+
+
+(i) a money laundering offence,
+
+
+
+
+
+
+
+
+
+
+(ii) a terrorist activity financing offence,
+
+
+
+
+
+
+
+
+
+
+(iii) an offence under this Act when convicted on indictment,
+
+
+
+
+
+
+
+
+
+
+(iv) an offence under any of sections 83.18 to 83.231, 354 or 467.11 to 467.13 of the Criminal Code, or
+
+
+
+
+
+
+
+
+
+
+(v) a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in subparagraphs (i) to (iv);
+
+
+
+
+
+
+
+
+
+
+(d) a person or entity that has been convicted on indictment or convicted more than once for an offence under Part X of the Criminal Code or under the Controlled Drugs and Substances Act except for the offence under subsection 4(1) of that Act;
+
+
+
+
+
+
+
+
+
+
+(e) an entity that is a corporation in respect of which a director, the chief executive officer, the president or the person who owns or controls, directly or indirectly, 20 per cent or more of the shares has been convicted on indictment of an offence under this Act; or
+
+
+
+
+
+
+
+
+
+
+(f) any prescribed person or entity.
+
+
+
+
+
+
+
+
+
+
+11.11 (1) Est inadmissible à l’inscription auprès du Centre :
+
+
+
+Inadmissibilité
+
+
+
+
+
+a) la personne inscrite au sens de l’article 1 du Règlement d’application des résolutions des Nations Unies sur la lutte contre le terrorisme;
+
+
+
+
+
+
+
+
+
+
+
+b) l’entité inscrite au sens du paragraphe 83.01(1) du Code criminel;
+
+
+
+
+
+
+
+
+
+
+
+c) la personne ou entité condamnée pour l’une ou l’autre des infractions ci-après : infraction de recyclage des produits de la criminalité, infraction de financement des activités terroristes, infraction prévue par la présente loi ayant fait l’objet d’une poursuite par mise en accusation ou infraction prévue à l’un ou l’autre des articles 83.18 à 83.231, 354 et 467.11 à 467.13 du Code criminel, ou complot ou tentative en vue de commettre l’une ou l’autre de ces infractions ou le fait d’en être complice après le fait ou d’en conseiller la perpétration;
+
+
+
+
+
+
+
+
+
+
+
+d) la personne ou entité condamnée par voie de mise en accusation ou condamnée plus d’une fois pour une infraction prévue à la partie X du Code criminel ou prévue par la Loi réglementant certaines drogues et autres substances, à l’exception de celle prévue au paragraphe 4(1) de cette loi;
+
+
+
+
+
+
+
+
+
+
+
+e) l’entité qui est une personne morale dont l’un des administrateurs, le premier dirigeant, le président, ou la personne qui détient ou contrôle, directement ou indirectement, au moins vingt pour cent des actions a été déclaré coupable, par mise en accusation, d’une infraction prévue par la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+f) toute personne ou entité visée par règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Revocation of registration
+
+
+
+(2) If the Centre becomes aware that a person or entity referred to in subsection (1) is registered, the Centre shall revoke the registration and shall, without delay, inform the person or entity of the revocation.
+
+
+
+
+
+
+
+
+
+(2) Si le Centre prend connaissance du fait qu’une personne ou entité visée au paragraphe (1) est inscrite, il révoque l’inscription et en avise sans délai la personne ou entité.
+
+
+
+Révocation
+
+
+
+
+
+
+
+
+
+
+Application for registration
+
+
+
+
+11.12 (1) An application for registration shall be submitted to the Centre in the prescribed form and manner, shall include a list of the applicant’s agents, mandataries or branches that are engaged, on behalf of the applicant, in the activities referred to in paragraph 5(h), in selling money orders to the public if the applicant is a person or entity referred to in paragraph 5(l), or in any prescribed activities, and shall include any prescribed information.
+
+
+
+
+
+
+
+
+
+
+11.12 (1) La demande d’inscription est présentée au Centre selon les modalités réglementaires et est accompagnée d’une liste des mandataires ou succursales du demandeur qui se livrent, pour le compte de celui-ci, aux activités visées à l’alinéa 5h), à la vente de mandats-poste au public si le demandeur est une personne ou entité visée à l’alinéa 5l) ou à toute autre activité qui est visée par règlement, ainsi que de tout autre renseignement prévu par règlement.
+
+
+
+Demande d’inscription
+
+
+
+
+
+
+
+
+
+
+Agents, mandataries and branches
+
+
+
+(2) Any agent, mandatary or branch included on the list is not required to register with the Centre when they are acting in that capacity.
+
+
+
+
+
+
+
+
+
+(2) Les mandataires et succursales qui figurent sur la liste ne sont pas tenus de s’inscrire auprès du Centre pour les activités qu’ils exercent à ce titre.
+
+
+
+Mandataires et succursales
+
+
+
+
+
+
+
+
+
+
+Changes to information
+
+
+
+
+11.13 An applicant or a person or entity registered with the Centre shall notify the Centre, in the prescribed form and manner, of any change to the information provided in the application or of any newly obtained information that should have been included in the application within 30 days after the day on which the applicant or the registered person or entity becomes aware of the change or obtains the new information.
+
+
+
+
+
+
+
+
+
+
+11.13 Dans les trente jours suivant la date où il prend connaissance de toute modification des renseignements fournis dans sa demande ou qu’il obtient de nouveaux renseignements qui auraient dû y figurer, le demandeur ou l’inscrit, selon le cas, communique les renseignements modifiés ou nouveaux au Centre selon les modalités réglementaires.
+
+
+
+Modifications
+
+
+
+
+
+
+
+
+
+
+Clarifications — applicant
+
+
+
+
+11.14 (1) An applicant shall provide the Centre, in the prescribed form and manner, with any clarifications that the Centre may request in respect of the prescribed information and the list referred to in subsection 11.12(1) within 30 days after the day on which the request is made.
+
+
+
+
+
+
+
+
+
+
+11.14 (1) Le demandeur apporte à sa demande d’inscription les précisions requises par le Centre relativement aux renseignements réglementaires et à la liste visés au paragraphe 11.12(1) et les lui transmet, selon les modalités réglementaires, dans les trente jours suivant la requête de celui-ci.
+
+
+
+Précisions : demandeur
+
+
+
+
+
+
+
+
+
+
+Denial of application
+
+
+
+(2) If the applicant does not provide the Centre with the clarifications within the 30 days, the Centre may deny the application and shall, without delay, inform the applicant of the denial.
+
+
+
+
+
+
+
+
+
+(2) Faute par le demandeur d’obtempérer dans le délai prévu au paragraphe (1), le Centre peut refuser la demande et, le cas échéant, en avise sans délai le demandeur.
+
+
+
+Refus
+
+
+
+
+
+
+
+
+
+
+Notice of registration
+
+
+
+
+11.15 The applicant is registered with the Centre once the Centre adds the applicant to the registry referred to in subsection 54.1(1). The Centre shall, without delay, send the applicant notice of their registration.
+
+
+
+
+
+
+
+
+
+
+11.15 L’inscription auprès du Centre prend effet dès qu’elle est faite sur le registre visé au paragraphe 54.1(1); le Centre avise sans délai le demandeur de l’inscription.
+
+
+
+Confirmation
+
+
+
+
+
+
+
+
+
+
+Denial of application
+
+
+
+
+11.16 The Centre shall deny the application of any person or entity referred to in subsection 11.11(1) and shall, without delay, inform the applicant of the denial.
+
+
+
+
+
+
+
+
+
+
+11.16 Le Centre refuse la demande d’inscription de la personne ou entité visée au paragraphe 11.11(1) et l’en avise sans délai.
+
+
+
+Demande refusée
+
+
+
+
+
+
+
+
+
+
+Clarifications — registrant
+
+
+
+
+11.17 (1) A registered person or entity shall provide the Centre, in the prescribed form and manner, with any clarifications that the Centre may request in respect of the prescribed information and the list referred to in subsection 11.12(1) within 30 days after the day on which the request is made.
+
+
+
+
+
+
+
+
+
+
+11.17 (1) Tout inscrit fournit les précisions requises par le Centre relativement aux renseignements réglementaires et à la liste visés au paragraphe 11.12(1) et les lui transmet, selon les modalités réglementaires, dans les trente jours suivant la requête de celui-ci.
+
+
+
+Précisions : inscrit
+
+
+
+
+
+
+
+
+
+
+Revocation of registration
+
+
+
+(2) If the registered person or entity does not provide the Centre with the clarifications within the 30 days, the Centre may revoke the registration and shall, without delay, inform the person or entity of the revocation.
+
+
+
+
+
+
+
+
+
+(2) Si l’inscrit ne lui fournit pas les précisions dans le délai prévu au paragraphe (1), le Centre peut révoquer son inscription et, le cas échéant, l’en avise sans délai.
+
+
+
+Révocation
+
+
+
+
+
+
+
+
+
+
+Written reasons
+
+
+
+
+11.18 Any decision to deny an application or revoke a registration must be in writing with reasons.
+
+
+
+
+
+
+
+
+
+
+11.18 La décision de refuser une demande d’inscription ou de révoquer une inscription est écrite et motivée.
+
+
+
+Décision écrite et motivée
+
+
+
+
+
+
+
+
+
+
+Renewal of registration
+
+
+
+
+11.19 A registered person or entity shall renew their registration in the prescribed form and manner every two years or within any longer prescribed period.
+
+
+
+
+
+
+
+
+
+
+11.19 Tout inscrit auprès du Centre est tenu de renouveler son inscription, selon les modalités réglementaires, tous les deux ans ou dans le délai plus long prévu par règlement.
+
+
+
+Renouvellement de l’inscription
+
+
+
+
+
+
+
+
+
+
+Cessation of activity
+
+
+
+
+11.2 When a registered person or entity ceases an activity for which they are registered, they shall notify the Centre in the prescribed form and manner within 30 days after the day on which they cease the activity.
+
+
+
+
+
+
+
+
+
+
+11.2 Tout inscrit auprès du Centre qui cesse une activité pour laquelle il est inscrit est tenu d’en aviser le Centre, selon les modalités réglementaires, dans les trente jours suivant la cessation.
+
+
+
+Cessation d’activité
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+
+
+
+
+
+
+Révision
+
+
+
+
+
+
+
+
+
+
+
+
+Application for review by Director
+
+
+
+
+11.3 (1) Within 30 days after the day on which the person or entity receives a decision to deny their application or revoke their registration, the person or entity may apply in writing to the Director of the Centre for a review of the decision and may provide any information in support of their application for review.
+
+
+
+
+
+
+
+
+
+
+11.3 (1) Dans les trente jours suivant la date de réception d’une décision concernant le refus de sa demande d’inscription ou la révocation de son inscription, l’intéressé peut présenter par écrit au directeur du Centre une demande de révision qui peut être accompagnée de renseignements à l’appui.
+
+
+
+Demande de révision
+
+
+
+
+
+
+
+
+
+
+Review by Director
+
+
+
+(2) The Director shall review the decision as soon as possible and shall take into consideration any information that the Director deems relevant.
+
+
+
+
+
+
+
+
+
+(2) Le directeur révise la décision dans les meilleurs délais et prend en compte tous les renseignements qu’il estime pertinents en l’occurrence.
+
+
+
+Révision par le directeur
+
+
+
+
+
+
+
+
+
+
+Decision of Director
+
+
+
+(3) The Director may either confirm the decision or substitute his or her own decision, and shall, without delay, serve notice of the decision with reasons on the person or entity, together with notice of the right of appeal under subsection 11.4(1).
+
+
+
+
+
+
+
+
+
+(3) Il peut soit confirmer la décision soit y substituer sa propre décision. Il fait signifier sans délai sa décision, motifs à l’appui, à l’intéressé, et avise celui-ci par la même occasion de son droit d’interjeter appel en vertu du paragraphe 11.4(1).
+
+
+
+Décision du directeur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appeal to Federal Court
+
+
+
+
+
+
+
+
+
+Appel auprès de la Cour fédérale
+
+
+
+
+
+
+
+
+
+
+
+
+Appeal
+
+
+
+
+11.4 (1) A person or entity that applied for a review under subsection 11.3(1) may appeal the Director’s decision to the Federal Court within 30 days after the day on which the decision is served, or within any longer period that the Court allows.
+
+
+
+
+
+
+
+
+
+
+11.4 (1) L’auteur de la demande de révision prévue au paragraphe 11.3(1) peut interjeter appel de la décision du directeur à la Cour fédérale dans les trente jours suivant la date de la signification de la décision ou dans le délai plus long accordé par la Cour.
+
+
+
+Appel
+
+
+
+
+
+
+
+
+
+
+Appeal
+
+
+
+(2) If the Director does not make a decision within 90 days after the day on which the Director received the application for review, the applicant may appeal to the Federal Court, within 30 days after the day on which the 90-day period expires, the decision to deny the application for registration or revoke the registration.
+
+
+
+
+
+
+
+
+
+(2) Si le directeur ne rend pas de décision dans les quatre-vingt-dix jours suivant la réception de la demande de révision, le demandeur peut interjeter appel à la Cour fédérale du refus de sa demande d’inscription ou de la révocation de son inscription. Ce droit est à exercer dans les trente jours suivant l’expiration de la période de quatre-vingt-dix jours.
+
+
+
+Appel
+
+
+
+
+
+
+
+
+
+
+Precautions against disclosure
+
+
+
+(3) In an appeal, the Court shall take every reasonable precaution, including, when appropriate, conducting hearings in private, to avoid the disclosure by the Court or any person or entity of information referred to in subsection 55(1).
+
+
+
+
+
+
+
+
+
+(3) À l’occasion d’un appel, la Cour fédérale prend toutes les précautions possibles, notamment en ordonnant le huis clos si elle le juge indiqué, pour éviter que ne soient communiqués de par son propre fait ou celui de quiconque des renseignements prévus au paragraphe 55(1).
+
+
+
+Huis clos
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 54(2)
+
+
+
+
+12. Paragraph 12(3)(a) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. L’alinéa 12(3)a) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, par. 54(2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a) la personne ayant en sa possession effective ou parmi ses bagages les espèces ou effets se trouvant à bord du moyen de transport par lequel elle arrive au Canada ou quitte le pays ou la personne qui, dans les circonstances réglementaires, est responsable du moyen de transport;
+
+
+
+
+
+
+
+
+
+
+
+a) la personne ayant en sa possession effective ou parmi ses bagages les espèces ou effets se trouvant à bord du moyen de transport par lequel elle arrive au Canada ou quitte le pays ou la personne qui, dans les circonstances réglementaires, est responsable du moyen de transport;
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 56
+
+
+
+
+13. Section 16 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. L’article 16 de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 56
+
+
+
+
+
+
+
+
+
+
+Search of conveyance
+
+
+
+
+16. (1) An officer may, in order to determine whether there are, on or about a conveyance, currency or monetary instruments of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection, stop, board and search the conveyance, examine anything in or on it and open or cause to be opened any package or container in or on it and direct that the conveyance be moved to a customs office or other suitable place for the search, examination or opening.
+
+
+
+
+
+
+
+
+
+
+16. (1) L’agent peut, afin de vérifier si des espèces ou des effets d’une valeur égale ou supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1) se trouvent à bord d’un moyen de transport et n’ont pas été déclarés conformément à ce paragraphe, immobiliser le moyen de transport, monter à son bord et le fouiller, examiner toute chose qui s’y trouve et en ouvrir ou faire ouvrir tous colis ou contenants, et le faire conduire à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
+
+
+
+Fouille d’un moyen de transport
+
+
+
+
+
+
+
+
+
+
+Search of baggage
+
+
+
+(2) An officer may, in order to determine whether there are, in baggage, currency or monetary instruments that are of a value equal to or greater than the amount prescribed for the purpose of subsection 12(1) and that have not been reported in accordance with that subsection, search the baggage, examine anything in it and open or cause to be opened any package or container in it and direct that the baggage be moved to a customs office or other suitable place for the search, examination or opening.
+
+
+
+
+
+
+
+
+
+(2) L’agent peut, afin de vérifier si des espèces ou des effets d’une valeur égale ou supérieure au montant réglementaire prévu pour l’application du paragraphe 12(1) se trouvent parmi des bagages et n’ont pas été déclarés conformément à ce paragraphe, fouiller les bagages, examiner toute chose qui s’y trouve et en ouvrir ou faire ouvrir tous colis ou contenants, et faire conduire les bagages à un bureau de douane ou à tout autre lieu indiqué pour ces opérations.
+
+
+
+Fouille des bagages
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. Section 24 of the Act is replaced with the following:
+
+
+
+
+
+
+
+
+
+
+14. L’article 24 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Review of forfeiture
+
+
+
+
+24. The forfeiture of currency or monetary instruments seized under this Part is final and is not subject to review or to be set aside or otherwise dealt with except to the extent and in the manner provided by sections 24.1 and 25.
+
+
+
+
+
+
+
+
+
+
+24. La saisie-confiscation d’espèces ou d’effets effectuée en vertu de la présente partie est définitive et n’est susceptible de révision, de rejet ou de toute autre forme d’intervention que dans la mesure et selon les modalités prévues aux articles 24.1 et 25.
+
+
+
+Conditions de révision
+
+
+
+
+
+
+
+
+
+
+Corrective measures
+
+
+
+
+24.1 (1) The Minister, or any officer delegated by the President for the purposes of this section, may, within 30 days after a seizure made under subsection 18(1) or an assessment of a penalty referred to in subsection 18(2),
+
+
+
+
+
+
+
+
+
+
+(a) cancel the seizure, or cancel or refund the penalty, if the Minister is satisfied that there was no contravention; or
+
+
+
+
+
+
+
+
+
+
+(b) reduce the penalty or refund the excess amount of the penalty collected if there was a contravention but the Minister considers that there was an error with respect to the penalty assessed or collected, and that the penalty should be reduced.
+
+
+
+
+
+
+
+
+
+
+24.1 (1) Le ministre ou l’agent que le président délègue pour l’application du présent article peut, dans les trente jours suivant la saisie effectuée en vertu du paragraphe 18(1) ou l’établissement de la pénalité réglementaire visée au paragraphe 18(2) :
+
+
+
+Mesures de redressement
+
+
+
+
+
+a) si le ministre est convaincu qu’aucune infraction n’a été commise, annuler la saisie, ou annuler ou rembourser la pénalité;
+
+
+
+
+
+
+
+
+
+
+
+b) s’il y a eu infraction mais que le ministre est d’avis qu’une erreur a été commise concernant la somme établie ou versée et que celle-ci doit être réduite, réduire la pénalité ou rembourser le trop-perçu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interest
+
+
+
+(2) If an amount is refunded to a person or entity under paragraph (1)(a), the person or entity shall be given interest on that amount at the prescribed rate for the period beginning on the day after the day on which the amount was paid by that person or entity and ending on the day on which it was refunded.
+
+
+
+
+
+
+
+
+
+(2) La somme qui est remboursée à une personne ou entité en vertu de l’alinéa (1)a) est majorée des intérêts au taux réglementaire, calculés à compter du lendemain du jour du paiement de la somme par celle-ci jusqu’à celui de son remboursement.
+
+
+
+Intérêt
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. The portion of subsection 29(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. Le paragraphe 29(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+If there is a contravention
+
+
+
+
+29. (1) If the Minister decides that subsection 12(1) was contravened, the Minister may, subject to the terms and conditions that the Minister may determine,
+
+
+
+
+
+
+
+
+
+
+29. (1) S’il décide qu’il y a eu contravention au paragraphe 12(1), le ministre peut, aux conditions qu’il fixe :
+
+
+
+Cas de contravention
+
+
+
+
+
+a) soit restituer les espèces ou effets ou, sous réserve du paragraphe (2), la valeur de ceux-ci à la date où le ministre des Travaux publics et des Services gouvernementaux est informé de la décision, sur réception de la pénalité réglementaire ou sans pénalité;
+
+
+
+
+
+
+
+
+
+
+
+b) soit restituer tout ou partie de la pénalité versée en application du paragraphe 18(2);
+
+
+
+
+
+
+
+
+
+
+
+c) soit confirmer la confiscation des espèces ou effets au profit de Sa Majesté du chef du Canada, sous réserve de toute ordonnance rendue en application des articles 33 ou 34.
+
+
+
+
+
+
+
+
+
+
+Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en est informé, prend les mesures nécessaires à l’application des alinéas a) ou b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. Subsection 30(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+16. Le paragraphe 30(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Appeal to Federal Court
+
+
+
+
+30. (1) A person who requests a decision of the Minister under section 27 may, within 90 days after being notified of the decision, appeal the decision by way of an action in the Federal Court in which the person is the plaintiff and the Minister is the defendant.
+
+
+
+
+
+
+
+
+
+
+30. (1) La personne qui a demandé que soit rendue une décision en vertu de l’article 27 peut, dans les quatre-vingt-dix jours suivant la communication de cette décision, en appeler par voie d’action à la Cour fédérale à titre de demandeur, le ministre étant le défendeur.
+
+
+
+Cour fédérale
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 63
+
+
+
+
+17. (1) Subsection 32(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. (1) Le paragraphe 32(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 63
+
+
+
+
+
+
+
+
+
+
+Interest as owner
+
+
+
+
+32. (1) If currency or monetary instruments have been seized as forfeit under this Part, any person or entity, other than the person or entity in whose possession the currency or monetary instruments were when seized, who claims in respect of the currency or monetary instruments an interest as owner or, in Quebec, a right as owner or trustee may, within 90 days after the seizure, apply by notice in writing to the court for an order under section 33.
+
+
+
+
+
+
+
+
+
+
+32. (1) En cas de saisie-confiscation effectuée en vertu de la présente partie, toute personne ou entité, autre que le saisi, qui revendique sur les espèces ou effets un intérêt en qualité de propriétaire ou, au Québec, un droit en qualité de propriétaire ou de fiduciaire peut, dans les quatre-vingt-dix jours suivant la saisie, requérir par avis écrit le tribunal de rendre l’ordonnance visée à l’article 33.
+
+
+
+Droits de propriété
+
+
+
+
+
+
+
+
+
+
+2005, c. 38, par. 127(d)
+
+
+
+(2) Subsection 32(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 32(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 38, al. 127d)
+
+
+
+
+
+
+
+
+
+
+Notice to President
+
+
+
+(3) The applicant shall serve notice of the application and of the hearing on the President, or an officer delegated by the President for the purpose of this section, not later than 15 days after a day is fixed under subsection (2) for the hearing of the application.
+
+
+
+
+
+
+
+
+
+(3) Dans les quinze jours suivant la date ainsi fixée, le requérant signifie au président, ou à l’agent que celui-ci délègue pour l’application du présent article, un avis de la requête et de l’audition.
+
+
+
+Signification au président
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. Section 33 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+18. L’article 33 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Order
+
+
+
+
+33. If, on the hearing of an application made under subsection 32(1), the court is satisfied
+
+
+
+
+
+
+
+
+
+
+(a) that the applicant acquired the interest or right in good faith before the contravention in respect of which the seizure was made,
+
+
+
+
+
+
+
+
+
+
+(b) that the applicant is innocent of any complicity in the contravention of subsection 12(1) that resulted in the seizure and of any collusion in relation to that contravention, and
+
+
+
+
+
+
+
+
+
+
+(c) that the applicant exercised all reasonable care to ensure that any person permitted to obtain possession of the currency or monetary instruments seized would report them in accordance with subsection 12(1),
+
+
+
+
+
+
+
+
+
+
+the applicant is entitled to an order declaring that their interest or right is not affected by the seizure and declaring the nature and extent of their interest or right at the time of the contravention.
+
+
+
+
+
+
+
+
+
+
+33. Après l’audition de la requête visée au paragraphe 32(1), le requérant est en droit d’obtenir une ordonnance disposant que la saisie ne porte pas atteinte à son droit ou à ses intérêts et précisant la nature et l’étendue de l’un comme des autres au moment de la contravention si le tribunal constate qu’il remplit les conditions suivantes :
+
+
+
+Ordonnance
+
+
+
+
+
+a) il a acquis son droit ou ses intérêts de bonne foi avant la contravention;
+
+
+
+
+
+
+
+
+
+
+
+b) il est innocent de toute complicité relativement à la contravention qui a entraîné la saisie ou de toute collusion à l’égard de la contravention;
+
+
+
+
+
+
+
+
+
+
+
+c) il a pris des précautions suffisantes concernant toute personne admise à la possession des espèces ou effets saisis pour que ceux-ci soient déclarés conformément au paragraphe 12(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19. Subsection 34(1) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+19. Le paragraphe 34(1) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Appeal
+
+
+
+
+34. (1) A person or entity that makes an application under section 32 or Her Majesty in right of Canada may appeal to the court of appeal from an order made under section 33 and the appeal shall be asserted, heard and decided according to the ordinary procedure governing appeals to the court of appeal from orders or judgments of a court.
+
+
+
+
+
+
+
+
+
+
+
+34. (1) A person or entity that makes an application under section 32 or Her Majesty in right of Canada may appeal to the court of appeal from an order made under section 33 and the appeal shall be asserted, heard and decided according to the ordinary procedure governing appeals to the court of appeal from orders or judgments of a court.
+
+
+
+
+Appeal
+
+
+
+
+
+
+
+
+
+
+2005, c. 38, par. 127(e)
+
+
+
+
+20. The portion of subsection 35(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+20. Le passage du paragraphe 35(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2005, ch. 38, al. 127e)
+
+
+
+
+
+
+
+
+
+
+Delivery after final order
+
+
+
+
+35. (1) The Minister of Public Works and Government Services shall, after the forfeiture of currency or monetary instruments has become final and on being informed by the President that a person or entity has obtained a final order under section 33 or 34 in respect of the currency or monetary instruments, give to the person or entity
+
+
+
+
+
+
+
+
+
+
+35. (1) Le ministre des Travaux publics et des Services gouvernementaux, une fois la confiscation devenue définitive et dès qu’il a été informé par le président que la personne ou l’entité a, en vertu des articles 33 ou 34, obtenu une ordonnance définitive au sujet des espèces ou effets saisis, fait remettre à cette personne ou entité :
+
+
+
+Restitution au requérant
+
+
+
+
+
+
+
+
+
+
+
+
+
+21. The heading before section 36 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+21. L’intertitre précédant l’article 36 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure and Use of Information
+
+
+
+
+
+
+
+
+
+Communication et utilisation de renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22. (1) Section 36 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+
+22. (1) L’article 36 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Use of information
+
+
+
+(1.1) An officer who has reasonable grounds to suspect that the information referred to in subsection (1) is relevant to determining whether a person is a person described in sections 34 to 42 of the Immigration and Refugee Protection Act or is relevant to an offence under any of sections 117 to 119, 126 or 127 of that Act may use that information.
+
+
+
+
+
+
+
+
+
+(1.1) L’agent peut utiliser les renseignements visés au paragraphe (1) s’il a des motifs raisonnables de soupçonner qu’ils seraient utiles afin d’établir si une personne est visée par les articles 34 à 42 de la Loi sur l’immigration et la protection des réfugiés ou qu’ils se rapportent à toute infraction prévue aux articles 117 à 119, 126 et 127 de cette loi.
+
+
+
+Utilisation des renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The portion of subsection 36(5) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le passage du paragraphe 36(5) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Immunity from compulsory processes
+
+
+
+(5) Subject to section 36 of the Access to Information Act and sections 34 and 37 of the Privacy Act, an official is required to comply with a subpoena, an order for production of documents, a summons or any other compulsory process only if it is issued in the course of
+
+
+
+
+
+
+
+
+
+(5) Sous réserve de l’article 36 de la Loi sur l’accès à l’information et des articles 34 et 37 de la Loi sur la protection des renseignements personnels, le fonctionnaire ne peut être contraint par citation, assignation, sommation, ordonnance ou autre acte de procédure obligatoire à comparaître ou à produire des documents, sauf s’ils sont délivrés ou rendus dans le cadre :
+
+
+
+Non-contraignabilité
+
+
+
+
+
+
+
+
+
+
+
+
+
+23. The Act is amended by adding the following after section 38:
+
+
+
+
+
+
+
+
+
+
+23. La même loi est modifiée par adjonction, après l’article 38, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements with foreign states
+
+
+
+
+38.1 The Minister, with the consent of the Minister designated for the purpose of section 42, may enter into an agreement or arrangement in writing with the government of a foreign state, or an institution or agency of that state, that has powers and duties similar to those of the Canada Border Services Agency, whereby the Canada Border Services Agency may, if it has reasonable grounds to suspect that the information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, provide information set out in a report made under section 20 to that government, institution or agency.
+
+
+
+
+
+
+
+
+
+
+38.1 Le ministre, avec le consentement du ministre chargé de l’application de l’article 42, peut conclure, avec le gouvernement d’un État étranger ou un organisme de celui-ci dont les attributions sont similaires à celles de l’Agence des services frontaliers du Canada, un accord écrit stipulant que celle-ci peut fournir à ce gouvernement ou à cet organisme les renseignements qui figurent dans le rapport visé à l’article 20, si elle a des motifs raisonnables de soupçonner que ces renseignements seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes.
+
+
+
+Accord avec des États étrangers
+
+
+
+
+
+
+
+
+
+
+2001, c. 12, s. 1; 2004, c. 11, s. 42
+
+
+
+
+24. Paragraphs 54(d) and (e) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+24. Les alinéas 54d) et e) de la même loi sont remplacés par ce qui suit :
+
+
+
+2001, ch. 12, art. 1; 2004, ch. 11, art. 42
+
+
+
+
+
+
+
+
+
+
+
+
+(d) subject to section 6 of the Privacy Act, shall retain each report referred to in paragraph (a) and all information referred to in paragraph (a) or (b) for 10 years beginning on the day on which the report is received or the information is received or collected; and
+
+
+
+
+
+
+(e) despite the Library and Archives of Canada Act, shall destroy, 15 years after the day on which a report referred to in paragraph (a) is received, any identifying information contained in the report if the report was not disclosed under subsection 55(3), 55.1(1) or 56.1(1) or (2).
+
+
+
+
+
+
+
+
+
+
+d) sous réserve de l’article 6 de la Loi sur la protection des renseignements personnels, conserve les rapports et déclarations visés à l’alinéa a) et les renseignements visés aux alinéas a) ou b), pendant dix ans à compter de la date de leur réception ou de leur collecte, selon le cas;
+
+
+
+
+
+
+
+e) par dérogation à la Loi sur la Bibliothèque et les Archives du Canada, supprime tous les renseignements identificateurs des rapports ou déclarations visés à l’alinéa a) quinze ans après la réception ou la collecte de ceux-ci, si ces rapports ou déclarations n’ont pas fait l’objet d’une communication au titre des paragraphes 55(3), 55.1(1) ou 56.1(1) ou (2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25. The Act is amended by adding the following after section 54:
+
+
+
+
+
+
+
+
+
+
+25. La même loi est modifiée par adjonction, après l’article 54, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Registrar
+
+
+
+
+54.1 (1) The Centre is responsible for establishing and maintaining a registry of the prescribed information submitted under sections 11.12 to 11.3.
+
+
+
+
+
+
+
+
+
+
+54.1 (1) Le Centre est chargé de créer et de tenir un registre des renseignements réglementaires fournis sous le régime des articles 11.12 à 11.3.
+
+
+
+Registraire
+
+
+
+
+
+
+
+
+
+
+Registry
+
+
+
+(2) The registry shall be organized in any manner and kept in any form that the Centre may determine.
+
+
+
+
+
+
+
+
+
+(2) Le registre est établi et tenu en la forme et selon les modalités fixées par le Centre.
+
+
+
+Registre
+
+
+
+
+
+
+
+
+
+
+Public access
+
+
+
+(3) The Centre shall make available to the public the part of the information referred to in subsection (1) that is identifying information as defined in the regulations.
+
+
+
+
+
+
+
+
+
+(3) Le Centre rend accessible au public ceux des renseignements visés au paragraphe (1) qui sont des renseignements identificateurs au sens des règlements.
+
+
+
+Accessibilité au public
+
+
+
+
+
+
+
+
+
+
+Verification of information
+
+
+
+(4) The Centre may verify the information contained in any application for registration or any other information submitted under sections 11.12 to 11.3.
+
+
+
+
+
+
+
+
+
+(4) Il peut vérifier les renseignements qui figurent dans une demande d’inscription ou tout autre renseignement fourni sous le régime des articles 11.12 à 11.3.
+
+
+
+Vérification des renseignements
+
+
+
+
+
+
+
+
+
+
+Analysis of information
+
+
+
+(5) The Centre may analyse and assess the information referred to in subsection (4) and, in that case, that analysis or assessment is deemed to be an analysis or assessment conducted under paragraph 54(c).
+
+
+
+
+
+
+
+
+
+(5) Il peut analyser et apprécier les renseignements visés au paragraphe (4), auquel cas, cette analyse ou cette appréciation est réputée être faite aux termes de l’alinéa 54c).
+
+
+
+Analyse et appréciation
+
+
+
+
+
+
+
+
+
+
+Retention of information
+
+
+
+(6) Subject to section 6 of the Privacy Act, the Centre shall retain information referred to in subsection (4) for 10 years beginning on the day on which the Centre denies the registration of an applicant, on which a registered person or entity notifies the Centre that they have ceased their activities, or on which a person or entity is no longer registered with the Centre.
+
+
+
+
+
+
+
+
+
+(6) Sous réserve de l’article 6 de la Loi sur la protection des renseignements personnels, il conserve les renseignements visés au paragraphe (4) pendant dix ans à compter de la date où l’inscription d’un demandeur est refusée, où l’inscrit l’avise de la cessation de ses activités ou à laquelle une personne ou entité n’est plus inscrite.
+
+
+
+Conservation de renseignements
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 67(1)
+
+
+
+
+26. (1) The portion of subsection 55(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+26. (1) Le passage du paragraphe 55(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, par. 67(1)
+
+
+
+
+
+
+
+
+
+
+Disclosure by Centre prohibited
+
+
+
+
+55. (1) Subject to subsection (3), sections 52, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 and 65.1 of this Act and to subsection 12(1) of the Privacy Act, the Centre shall not disclose the following:
+
+
+
+
+
+
+
+
+
+
+55. (1) Sous réserve du paragraphe (3), des articles 52, 55.1, 56.1 et 56.2, du paragraphe 58(1) et des articles 65 et 65.1 de la présente loi et du paragraphe 12(1) de la Loi sur la protection des renseignements personnels, il est interdit au Centre de communiquer les renseignements :
+
+
+
+Interdiction : Centre
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 55(1) of the Act is amended by adding the following after paragraph (b.1):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 55(1) de la même loi est modifié par adjonction, après l’alinéa b.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.2) information provided under sections 11.12 to 11.3 except for identifying information referred to in subsection 54.1(3);
+
+
+
+
+
+
+
+
+
+
+b.2) qui ont été fournis sous le régime des articles 11.12 à 11.3, à l’exclusion des renseignements identificateurs visés au paragraphe 54.1(3);
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 38, s. 126(1)
+
+
+
+(3) Paragraph 55(3)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 55(3)b) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 38, par. 126(1)
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the Canada Revenue Agency, if the Centre also determines that the information is relevant to an offence of obtaining or attempting to obtain a rebate, refund or credit to which a person or entity is not entitled, or of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Minister of National Revenue;
+
+
+
+
+
+
+
+
+
+
+b) à l’Agence du revenu du Canada, si en outre il estime que les renseignements se rapportent à une infraction, consommée ou non, relative à l’obtention illicite d’un remboursement ou d’un crédit ou à l’évasion fiscale, y compris le non-paiement de droits, définie par une loi fédérale dont l’application relève du ministre du Revenu national;
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 38, s. 126(2)
+
+
+
+(4) Subsection 55(3) of the Act is amended by striking out the word “and” at the end of paragraph (b.1) and by replacing paragraph (d) with the following:
+
+
+
+
+
+
+
+
+
+(4) L’alinéa 55(3)d) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 38, par. 126(2)
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the Canada Revenue Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to determining
+
+
+
+
+
+
+(i) whether a registered charity, as defined in subsection 248(1) of the Income Tax Act, has ceased to comply with the requirements of that Act for its registration as such, or
+
+
+
+
+
+
+(ii) whether a person or entity that the Centre has reasonable grounds to suspect has applied to be a registered charity, as defined in subsection 248(1) of the Income Tax Act, is eligible to be registered as such;
+
+
+
+
+
+
+(d) the Canada Border Services Agency, if the Centre also determines that the information is relevant to determining whether a person is a person described in sections 34 to 42 of the Immigration and Refugee Protection Act or is relevant to an offence under any of sections 117 to 119, 126 or 127 of that Act;
+
+
+
+
+
+
+(e) the Canada Border Services Agency, if the Centre also determines that the information is relevant to investigating or prosecuting an offence of smuggling or attempting to smuggle goods subject to duties or an offence related to the importation of goods that are prohibited, controlled or regulated under the Customs Act or under any other Act of Parliament; and
+
+
+
+
+
+
+(f) the Communications Security Establishment, if the Centre also determines that the information is relevant to the mandate of the Communications Security Establishment referred to in paragraph 273.64(1)(a) of the National Defence Act.
+
+
+
+
+
+
+
+
+
+
+c) à l’Agence du revenu du Canada, si en outre il soupçonne, pour des motifs raisonnables, que les renseignements sont utiles pour établir si un organisme de bienfaisance enregistré au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu a cessé de se conformer aux exigences de cette loi relatives à son enregistrement comme tel ou pour établir l’admissibilité au statut d’organisme de bienfaisance enregistré au sens de ce paragraphe de toute personne ou entité qu’il soupçonne, pour des motifs raisonnables, d’avoir fait une demande d’enregistrement à cet effet;
+
+
+
+
+
+
+
+d) à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles pour établir si une personne est visée aux articles 34 à 42 de la Loi sur l’immigration et la protection des réfugiés ou qu’ils se rapportent à une infraction prévue aux articles 117 à 119, 126 et 127 de cette loi;
+
+
+
+
+
+
+
+e) à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles aux fins d’enquête ou de poursuite relativement à une infraction qui consiste dans la contrebande — ou la tentative de contrebande — de marchandises passibles de droits ou à une infraction qui a trait à des marchandises dont l’importation est prohibée, contrôlée ou réglementée en vertu de la Loi sur les douanes ou de toute autre loi fédérale;
+
+
+
+
+
+
+
+f) au Centre de la sécurité des télécommunications, si en outre il estime que les renseignements concernent le mandat de ce centre visé à l’alinéa 273.64(1)a) de la Loi sur la défense nationale.
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 67(8)
+
+
+
+(5) The portion of subsection 55(7) of the Act before paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Le passage du paragraphe 55(7) de la même loi précédant l’alinéa b) est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, par. 67(8)
+
+
+
+
+
+
+
+
+
+
+Definition of “designated information”
+
+
+
+(7) For the purposes of subsection (3), “designated information” means, in respect of a financial transaction, an attempted financial transaction or an importation or exportation of currency or monetary instruments,
+
+
+
+
+
+
+
+
+
+
+(a) the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation, or any person or entity acting on their behalf;
+
+
+
+
+
+
+
+
+
+(7) Pour l’application du paragraphe (3), « renseignements désignés » s’entend, relativement à toute opération financière effectuée ou tentée ou à l’importation ou à l’exportation d’espèces ou d’effets, des renseignements suivants :
+
+
+
+Définition de « renseignements désignés »
+
+
+
+
+
+a) le nom de toute personne ou entité qui participe à l’opération financière, à l’importation ou à l’exportation ou de toute personne ou entité agissant pour son compte;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 67(9)
+
+
+
+(6) Subsection 55(7) of the Act is amended by striking out the word “and” at the end of paragraph (d) and by replacing paragraph (e) with the following:
+
+
+
+
+
+
+
+
+
+(6) L’alinéa 55(7)e) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, par. 67(9)
+
+
+
+
+
+
+
+
+
+
+
+
+(e) the name, address, electronic mail address and telephone number of each partner, director or officer of an entity referred to in paragraph (a), and the address and telephone number of its principal place of business;
+
+
+
+
+
+
+(f) any other similar identifying information that may be prescribed for the purposes of this section;
+
+
+
+
+
+
+(g) the details of the criminal record of a person or entity referred to in paragraph (a) and any criminal charges laid against them that the Centre considers relevant in the circumstances;
+
+
+
+
+
+
+(h) the relationships suspected by the Centre on reasonable grounds to exist between any persons or entities referred to in paragraph (a) and any other persons or entities;
+
+
+
+
+
+
+(i) the financial interest that a person or entity referred to in paragraph (a) has in the entity on whose behalf the transaction was made or attempted, or on whose behalf the importation or exportation was made;
+
+
+
+
+
+
+(j) the name of the person or entity referred to in paragraph (a) suspected by the Centre on reasonable grounds to direct, either directly or indirectly, the transaction, attempted transaction, importation or exportation;
+
+
+
+
+
+
+(k) the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and that the Centre considers relevant in the circumstances;
+
+
+
+
+
+
+(l) the number and types of reports on which a disclosure is based;
+
+
+
+
+
+
+(m) the number and categories of persons or entities that made those reports; and
+
+
+
+
+
+
+(n) indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation.
+
+
+
+
+
+
+
+
+
+
+e) les nom, adresse, adresse électronique et numéro de téléphone des associés, administrateurs et dirigeants de l’entité visée à l’alinéa a), ainsi que les adresse et numéro de téléphone du principal établissement de celle-ci;
+
+
+
+
+
+
+
+f) tout renseignement identificateur analogue désigné par règlement pour l’application du présent article;
+
+
+
+
+
+
+
+g) les détails du casier judiciaire de toute personne ou entité visée à l’alinéa a) et des accusations criminelles portée contre elle que le Centre estime pertinents en l’occurrence;
+
+
+
+
+
+
+
+h) les liens dont le Centre a des motifs raisonnables de soupçonner l’existence entre toute personne ou entité visée à l’alinéa a) et toute autre personne ou entité;
+
+
+
+
+
+
+
+i) les intérêts financiers que toute personne ou entité visée à l’alinéa a) a dans l’entité pour laquelle a été effectuée ou tentée l’opération financière, ou a été effectuée l’importation ou l’exportation;
+
+
+
+
+
+
+
+j) le nom de toute personne ou entité visée à l’alinéa a) que le Centre soupçonne, pour des motifs raisonnables, de diriger, directement ou indirectement, l’opération financière, l’importation ou l’exportation;
+
+
+
+
+
+
+
+k) les motifs sur lesquels une personne ou entité s’est fondée pour faire une déclaration visée à l’article 7 relative à l’opération financière et que le Centre estime utiles en l’occurrence;
+
+
+
+
+
+
+
+l) le nombre et les types de déclarations sur lesquelles une communication est fondée;
+
+
+
+
+
+
+
+m) le nombre et les catégories de personnes ou entités ayant fait ces déclarations;
+
+
+
+
+
+
+
+n) les indices de toute infraction de recyclage des produits de la criminalité ou d’infraction de financement des activités terroristes entachant l’opération financière, l’importation ou l’exportation.
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 68
+
+
+
+
+27. (1) The portion of subsection 55.1(3) of the Act before paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+27. (1) Le passage du paragraphe 55.1(3) de la même loi précédant l’alinéa b) est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 68
+
+
+
+
+
+
+
+
+
+
+Definition of “designated information”
+
+
+
+(3) For the purposes of subsection (1), “designated information” means, in respect of a financial transaction, an attempted financial transaction or an importation or exportation of currency or monetary instruments,
+
+
+
+
+
+
+
+
+
+
+(a) the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation, or any person or entity acting on their behalf;
+
+
+
+
+
+
+
+
+
+(3) Pour l’application du paragraphe (1), « renseignements désignés » s’entend, relativement à toute opération financière effectuée ou tentée ou à l’importation ou l’exportation d’espèces ou d’effets, des renseignements suivants :
+
+
+
+Définition de « renseignements désignés »
+
+
+
+
+
+a) le nom de toute personne ou entité qui participe à l’opération financière, à l’importation ou à l’exportation ou de toute personne ou entité agissant pour son compte;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 68
+
+
+
+(2) Subsection 55.1(3) of the Act is amended by striking out the word “and” at the end of paragraph (d) and by replacing paragraph (e) with the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 55.1(3)e) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 68
+
+
+
+
+
+
+
+
+
+
+
+
+(e) the name, address, electronic mail address and telephone number of each partner, director or officer of an entity referred to in paragraph (a), and the address and telephone number of its principal place of business;
+
+
+
+
+
+
+(f) any other similar identifying information that may be prescribed for the purposes of this section;
+
+
+
+
+
+
+(g) the details of the criminal record of a person or entity referred to in paragraph (a) and any criminal charges laid against them that the Centre considers relevant in the circumstances;
+
+
+
+
+
+
+(h) the relationships suspected by the Centre on reasonable grounds to exist between any persons or entities referred to in paragraph (a) and any other persons or entities;
+
+
+
+
+
+
+(i) the financial interest that a person or entity referred to in paragraph (a) has in the entity on whose behalf the transaction was made or attempted, or on whose behalf the importation or exportation was made;
+
+
+
+
+
+
+(j) the name of the person or entity referred to in paragraph (a) suspected by the Centre on reasonable grounds to direct, either directly or indirectly, the transaction, attempted transaction, importation or exportation;
+
+
+
+
+
+
+(k) the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and that the Centre considers relevant in the circumstances;
+
+
+
+
+
+
+(l) the number and types of reports on which a disclosure is based;
+
+
+
+
+
+
+(m) the number and categories of persons or entities that made those reports; and
+
+
+
+
+
+
+(n) indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation.
+
+
+
+
+
+
+
+
+
+
+e) les nom, adresse, adresse électronique et numéro de téléphone des associés, administrateurs et dirigeants de l’entité visée à l’alinéa a), ainsi que les adresse et numéro de téléphone du principal établissement de celle-ci;
+
+
+
+
+
+
+
+f) tout renseignement identificateur analogue désigné par règlement pour l’application du présent article;
+
+
+
+
+
+
+
+g) les détails du casier judiciaire de toute personne ou entité visée à l’alinéa a) et des accusations criminelles portées contre elle que le Centre estime pertinents en l’occurrence;
+
+
+
+
+
+
+
+h) les liens dont le Centre a des motifs raisonnables de soupçonner l’existence entre toute personne ou entité visée à l’alinéa a) et toute autre personne ou entité;
+
+
+
+
+
+
+
+i) les intérêts financiers que toute personne ou entité visée à l’alinéa a) a dans l’entité pour laquelle a été effectuée ou tentée l’opération financière, ou a été effectuée l’importation ou l’exportation;
+
+
+
+
+
+
+
+j) le nom de toute personne ou entité visée à l’alinéa a) que le Centre soupçonne, pour des motifs raisonnables, de diriger, directement ou indirectement, l’opération financière, l’importation ou l’exportation;
+
+
+
+
+
+
+
+k) les motifs sur lesquels une personne ou entité s’est fondée pour faire une déclaration visée à l’article 7 relative à l’opération financière et que le Centre estime utiles en l’occurrence;
+
+
+
+
+
+
+
+l) le nombre et les types de déclarations sur lesquelles une communication est fondée;
+
+
+
+
+
+
+
+m) le nombre et les catégories de personnes ou entités ayant fait ces déclarations;
+
+
+
+
+
+
+
+n) les indices de toute infraction de recyclage des produits de la criminalité ou d’infraction de financement des activités terroristes entachant l’opération financière, l’importation ou l’exportation.
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 68
+
+
+
+
+28. (1) Subsection 56.1(3) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+28. (1) Le paragraphe 56.1(3) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 68
+
+
+
+
+
+
+
+
+
+
+Other disclosure
+
+
+
+(3) In order to perform its functions under paragraph 54(c), the Centre may direct queries to an institution or agency in respect of which an agreement or arrangement referred to in subsection (1) or (2) has been entered into, and in doing so it may disclose designated information.
+
+
+
+
+
+
+
+
+
+
+(3) In order to perform its functions under paragraph 54(c), the Centre may direct queries to an institution or agency in respect of which an agreement or arrangement referred to in subsection (1) or (2) has been entered into, and in doing so it may disclose designated information.
+
+
+
+
+Other disclosure
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 68
+
+
+
+(2) The portion of subsection 56.1(5) of the Act before paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le passage du paragraphe 56.1(5) de la même loi précédant l’alinéa b) est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 68
+
+
+
+
+
+
+
+
+
+
+Definition of “designated information”
+
+
+
+(5) For the purposes of this section, “designated information” means, in respect of a financial transaction, an attempted financial transaction or an importation or exportation of currency or monetary instruments,
+
+
+
+
+
+
+
+
+
+
+(a) the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation, or any person or entity acting on their behalf;
+
+
+
+
+
+
+
+
+
+(5) Pour l’application du présent article, « renseignements désignés » s’entend, relativement à toute opération financière effectuée ou tentée ou à l’importation ou à l’exportation d’espèces ou d’effets, des renseignements suivants :
+
+
+
+Définition de « renseignements désignés »
+
+
+
+
+
+a) le nom de toute personne ou entité qui participe à l’opération financière, à l’importation ou à l’exportation ou de toute personne ou entité agissant pour son compte;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 68
+
+
+
+(3) Subsection 56.1(5) of the Act is amended by striking out the word “and” at the end of paragraph (d) and by replacing paragraph (e) with the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 56.1(5)e) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 68
+
+
+
+
+
+
+
+
+
+
+
+
+(e) the name, address, electronic mail address and telephone number of each partner, director or officer of an entity referred to in paragraph (a), and the address and telephone number of its principal place of business;
+
+
+
+
+
+
+(f) any other similar identifying information that may be prescribed for the purposes of this section;
+
+
+
+
+
+
+(g) the details of the criminal record of a person or entity referred to in paragraph (a) and any criminal charges laid against them that the Centre considers relevant in the circumstances;
+
+
+
+
+
+
+(h) the relationships suspected by the Centre on reasonable grounds to exist between any persons or entities referred to in paragraph (a) and any other persons or entities;
+
+
+
+
+
+
+(i) the financial interest that a person or entity referred to in paragraph (a) has in the entity on whose behalf the transaction was made or attempted, or on whose behalf the importation or exportation was made;
+
+
+
+
+
+
+(j) the name of the person or entity referred to in paragraph (a) suspected by the Centre on reasonable grounds to direct, either directly or indirectly, the transaction, attempted transaction, importation or exportation;
+
+
+
+
+
+
+(k) the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and that the Centre considers relevant in the circumstances;
+
+
+
+
+
+
+(l) the number and types of reports on which a disclosure is based;
+
+
+
+
+
+
+(m) the number and categories of persons or entities that made those reports; and
+
+
+
+
+
+
+(n) indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation.
+
+
+
+
+
+
+
+
+
+
+e) les nom, adresse, adresse électronique et numéro de téléphone des associés, administrateurs et dirigeants de l’entité visée à l’alinéa a), ainsi que les adresse et numéro de téléphone du principal établissement de celle-ci;
+
+
+
+
+
+
+
+f) tout renseignement identificateur analogue désigné par règlement pour l’application du présent article;
+
+
+
+
+
+
+
+g) les détails du casier judiciaire de toute personne ou entité visée à l’alinéa a) et des accusations criminelles portée contre elle que le Centre estime pertinents en l’occurrence;
+
+
+
+
+
+
+
+h) les liens dont le Centre a des motifs raisonnables de soupçonner l’existence entre toute personne ou entité visée à l’alinéa a) et toute autre personne ou entité;
+
+
+
+
+
+
+
+i) les intérêts financiers que toute personne ou entité visée à l’alinéa a) a dans l’entité pour laquelle a été effectuée ou tentée l’opération financière, ou a été effectuée l’importation ou l’exportation;
+
+
+
+
+
+
+
+j) le nom de toute personne ou entité visée à l’alinéa a) que le Centre soupçonne, pour des motifs raisonnables, de diriger, directement ou indirectement, l’opération financière, l’importation ou l’exportation;
+
+
+
+
+
+
+
+k) les motifs sur lesquels une personne ou entité s’est fondée pour faire une déclaration visée à l’article 7 relative à l’opération financière et que le Centre estime utiles en l’occurrence;
+
+
+
+
+
+
+
+l) le nombre et les types de déclarations sur lesquelles une communication est fondée;
+
+
+
+
+
+
+
+m) le nombre et les catégories de personnes ou entités ayant fait ces déclarations;
+
+
+
+
+
+
+
+n) les indices de toute infraction de recyclage des produits de la criminalité ou d’infraction de financement des activités terroristes entachant l’opération financière, l’importation ou l’exportation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29. The Act is amended by adding the following after section 56.1:
+
+
+
+
+
+
+
+
+
+
+29. La même loi est modifiée par adjonction, après l’article 56.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Usefulness of information
+
+
+
+
+56.2 When the Centre receives information from an institution or agency under an agreement or arrangement referred to in subsection 56(1) or (2), the Centre may provide it with an evaluation of whether the information is useful to the Centre.
+
+
+
+
+
+
+
+
+
+
+56.2 Le Centre peut fournir à l’organisme lui ayant communiqué des renseignements au titre d’un accord visé aux paragraphes 56(1) ou (2) une évaluation de leur utilité pour lui.
+
+
+
+Utilité de renseignements
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 70
+
+
+
+
+30. Subsection 59(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+30. Le paragraphe 59(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 70
+
+
+
+
+
+
+
+
+
+
+Immunity from compulsory processes
+
+
+
+
+59. (1) Subject to section 36 of the Access to Information Act and sections 34 and 37 of the Privacy Act, the Centre, and any person who has obtained or who has or had access to any information or documents in the course of exercising powers or performing duties and functions under this Act, other than Part 2, is required to comply with a subpoena, a summons, an order for production of documents, or any other compulsory process only if it is issued in the course of court proceedings in respect of a money laundering offence, a terrorist activity financing offence or an offence under this Act in respect of which an information has been laid or an indictment preferred or, in the case of an order for production of documents, if it is issued under section 60, 60.1 or 60.3.
+
+
+
+
+
+
+
+
+
+
+59. (1) Sous réserve de l’article 36 de la Loi sur l’accès à l’information et des articles 34 et 37 de la Loi sur la protection des renseignements personnels, le Centre, ainsi que toute personne qui a obtenu un renseignement ou document, ou y a ou a eu accès dans le cadre de l’exercice des attributions qui lui sont conférées sous le régime de la présente loi, à l’exception de la partie 2, ne peut être contraint, que ce soit par citation, assignation, sommation, ordonnance ou autre acte obligatoire, à comparaître ou à produire un tel document, sauf dans le cadre de poursuites intentées pour infraction de recyclage des produits de la criminalité, infraction de financement des activités terroristes ou infraction à la présente loi à l’égard desquelles une dénonciation ou une mise en accusation a été déposée ou dans le cadre d’une ordonnance de production de documents rendue en vertu des articles 60, 60.1 ou 60.3.
+
+
+
+Non-contraignabilité
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 71(1)
+
+
+
+
+31. (1) Subsection 60(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+31. (1) Le paragraphe 60(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, par. 71(1)
+
+
+
+
+
+
+
+
+
+
+Limitation on orders for disclosure of information
+
+
+
+
+60. (1) Despite the provisions of any other Act, except sections 49 and 50 of the Access to Information Act and sections 48 and 49 of the Privacy Act, an order for disclosure of information may be issued in respect of the Centre only under subsection (4) or section 60.1 or 60.3.
+
+
+
+
+
+
+
+
+
+
+60. (1) Malgré les dispositions de toute autre loi, à l’exception des articles 49 et 50 de la Loi sur l’accès à l’information et des articles 48 et 49 de la Loi sur la protection des renseignements personnels, le Centre ne peut faire l’objet d’aucune ordonnance de communication autre que celles prévues au paragraphe (4) et aux articles 60.1 et 60.3.
+
+
+
+Exception : ordonnance de communication
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 60(3)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 60(3)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the person or entity in relation to which the information or documents referred to in paragraph (c) are required;
+
+
+
+
+
+
+
+
+
+
+b) désignation de la personne ou entité visée par les renseignements ou les documents demandés;
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 71(2)
+
+
+
+(3) Paragraph 60(3)(d) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 60(3)d) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, par. 71(2)
+
+
+
+
+
+
+
+
+
+
+
+
+(d) the facts relied on to justify the belief, on reasonable grounds, that the person or entity referred to in paragraph (b) has committed or benefited from the commission of a money laundering offence or a terrorist activity financing offence and that the information or documents referred to in paragraph (c) are likely to be of substantial value, whether alone or together with other material, to an investigation in respect of that offence;
+
+
+
+
+
+
+
+
+
+
+d) les faits sur lesquels reposent les motifs raisonnables de croire que la personne ou entité mentionnée à l’alinéa b) a commis une infraction de recyclage des produits de la criminalité ou une infraction de financement des activités terroristes ou en a bénéficié, et que les renseignements ou documents demandés ont vraisemblablement une valeur importante, en soi ou avec d’autres éléments, pour l’enquête mentionnée dans la demande;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Paragraph 60(3)(f) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) L’alinéa 60(3)f) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(f) information respecting all previous applications brought under this section in respect of any person or entity being investigated for the offence.
+
+
+
+
+
+
+
+
+
+
+f) les renseignements relatifs aux demandes présentées antérieurement en vertu du présent article à l’égard de toute personne ou entité qui fait l’objet d’une enquête relativement à l’infraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Subsection 60(8) of the Act is amended by striking out the word “or” at the end of paragraph (c) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe 60(8) de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c.1) disclosure of the information or document would be injurious to national security; or
+
+
+
+
+
+
+
+
+
+
+c.1) soit que la communication des renseignements ou documents porterait atteinte à la sécurité nationale;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6) Subsection 60(16) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(6) Le paragraphe 60(16) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Copies
+
+
+
+(16) Where any information or document is examined or provided under subsection (4), the person by whom it is examined or to whom it is provided or any employee of the Centre may make, or cause to be made, one or more copies of it and any copy purporting to be certified by the Director to be a copy made under this subsection is evidence of the nature and content of the original information or document and has the same probative force as the original information or document would have had if it had been proved in the ordinary way.
+
+
+
+
+
+
+
+
+
+(16) Lorsque des renseignements ou documents sont remis à une personne en application du paragraphe (4) ou lorsqu’elle est autorisée à les examiner, celle-ci ou un employé du Centre peut en faire ou faire faire des copies; toute copie apparemment certifiée par le directeur comme étant faite en vertu du présent paragraphe fait preuve de la nature et du contenu de l’original et a la même valeur probante que celui-ci aurait eue s’il avait été déposé en preuve de la façon normale.
+
+
+
+Copies
+
+
+
+
+
+
+
+
+
+
+
+
+
+32. (1) Subsection 60.1(7) of the Act is amended by striking out the word “or” at the end of paragraph (c) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+
+32. (1) Le paragraphe 60.1(7) de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c.1) disclosure of the information or document would be injurious to national security; or
+
+
+
+
+
+
+
+
+
+
+c.1) soit que la communication des renseignements ou documents porterait atteinte à la sécurité nationale;
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 72
+
+
+
+(2) Subsection 60.1(15) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 60.1(15) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 72
+
+
+
+
+
+
+
+
+
+
+Copies
+
+
+
+(15) Where any information or document is examined or provided under subsection (3), the person by whom it is examined or to whom it is provided or any employee of the Centre may make, or cause to be made, one or more copies of it and any copy purporting to be certified by the Director to be a copy made under this subsection is evidence of the nature and content of the original information or document and has the same probative force as the original information or document would have had if it had been proved in the ordinary way.
+
+
+
+
+
+
+
+
+
+(15) Si des renseignements ou documents sont remis à une personne en application du paragraphe (3) ou qu’elle est autorisée à les examiner, celle-ci ou un employé du Centre peut en faire ou en faire faire des copies; toute copie apparemment certifiée par le directeur comme étant faite en vertu du présent paragraphe fait preuve de la nature et du contenu de l’original et a la même valeur probante que celui-ci aurait eue s’il avait été déposé en preuve de la façon normale.
+
+
+
+Copies
+
+
+
+
+
+
+
+
+
+
+
+
+
+33. The Act is amended by adding the following after section 60.2:
+
+
+
+
+
+
+
+
+
+
+33. La même loi est modifiée par adjonction, après l’article 60.2, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose of application
+
+
+
+
+60.3 (1) If the Centre makes a disclosure under paragraph 55(3)(b), the Commissioner of Revenue, appointed under section 25 of the Canada Revenue Agency Act, may, for the purposes of an investigation in respect of an offence that is the subject of the disclosure, after having obtained the approval of the Minister of National Revenue, make an application for an order for disclosure of information.
+
+
+
+
+
+
+
+
+
+
+60.3 (1) Dans le cas d’une communication faite en vertu de l’alinéa 55(3)b), le commissaire du revenu nommé en vertu de l’article 25 de la Loi sur l’Agence du revenu du Canada peut, après avoir obtenu l’approbation du ministre du Revenu national, demander une ordonnance de communication dans le cadre d’une enquête sur l’infraction visée par la communication.
+
+
+
+Fins de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) An application shall be made ex parte in writing to a judge and be accompanied by an affidavit sworn on the information and belief of the Commissioner — or a person specially designated by the Commissioner for that purpose — deposing to the following matters:
+
+
+
+
+
+
+
+
+
+
+(a) the offence under investigation;
+
+
+
+
+
+
+
+
+
+
+(b) the person or entity in relation to which the information or documents referred to in paragraph (c) are required;
+
+
+
+
+
+
+
+
+
+
+(c) the type of information or documents — whether in written form, in the form of a report or record or in any other form — obtained by or on behalf of the Director in respect of which disclosure is sought;
+
+
+
+
+
+
+
+
+
+
+(d) the facts relied on to justify the belief, on reasonable grounds, that the person or entity referred to in paragraph (b) has committed or benefited from the commission of an offence referred to in subsection (1) and that the information or documents referred to in paragraph (c) are likely to be of substantial value, whether alone or together with other material, to an investigation in respect of that offence;
+
+
+
+
+
+
+
+
+
+
+(e) a summary of any information already received from the Centre in respect of the offence; and
+
+
+
+
+
+
+
+
+
+
+(f) information respecting all previous applications brought under this section in respect of any person or entity being investigated for the offence.
+
+
+
+
+
+
+
+
+
+(2) La demande d’ordonnance est présentée ex parte par écrit à un juge; elle est accompagnée de l’affidavit du commissaire — ou de la personne qu’il désigne expressément à cette fin — comportant les éléments suivants :
+
+
+
+Demande d’ordonnance
+
+
+
+
+
+a) la désignation de l’infraction visée par l’enquête;
+
+
+
+
+
+
+
+
+
+
+
+b) la désignation de la personne ou entité visée par les renseignements ou les documents demandés;
+
+
+
+
+
+
+
+
+
+
+
+c) la désignation du genre de renseignement ou de document — notamment leur forme ou leur support — qu’a obtenus le directeur du Centre ou qui ont été obtenus en son nom et dont la communication est demandée;
+
+
+
+
+
+
+
+
+
+
+
+d) les faits sur lesquels reposent les motifs raisonnables de croire que la personne ou entité mentionnée à l’alinéa b) a commis l’infraction visée au paragraphe (1) ou en a bénéficié, et que les renseignements ou documents demandés ont vraisemblablement une valeur importante, en soi ou avec d’autres éléments, pour l’enquête mentionnée dans la demande;
+
+
+
+
+
+
+
+
+
+
+
+e) un sommaire des renseignements déjà reçus du Centre à l’égard de l’infraction;
+
+
+
+
+
+
+
+
+
+
+
+f) les renseignements relatifs aux demandes présentées antérieurement en vertu du présent article à l’égard de toute personne ou entité qui fait l’objet d’une enquête relativement à l’infraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Order for disclosure of information
+
+
+
+(3) Subject to the conditions that the judge considers advisable in the public interest, the judge to whom an application is made may order the Director — or any person specially designated in writing by the Director for the purposes of this section — to allow an employee of the Canada Revenue Agency named in the order to have access to and examine all information and documents to which the application relates or, if the judge considers it necessary in the circumstances, to produce the information and documents to the employee and allow the employee to remove them, if the judge is satisfied
+
+
+
+
+
+
+
+
+
+
+(a) of the matters referred to in paragraph (2)(d); and
+
+
+
+
+
+
+
+
+
+
+(b) that there are reasonable grounds for believing that it is in the public interest to allow access to the information or documents, having regard to the benefit likely to accrue to the investigation if the access is obtained.
+
+
+
+
+
+
+
+
+
+
+The order must be complied with within the period following the service of the order that the judge may specify.
+
+
+
+
+
+
+
+
+
+(3) Sous réserve des conditions qu’il estime indiquées dans l’intérêt public, le juge saisi de la demande peut ordonner au directeur — ou à la personne que celui-ci a désignée expressément par écrit pour l’application du présent article — de permettre à l’employé de l’Agence du revenu du Canada nommé dans l’ordonnance d’avoir accès aux renseignements ou documents demandés et de les examiner ou, si le juge l’estime nécessaire dans les circonstances, de permettre à cet employé de les emporter, s’il est convaincu de l’existence :
+
+
+
+Ordonnance de communication
+
+
+
+
+
+a) d’une part, des faits mentionnés à l’alinéa (2)d);
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, de motifs raisonnables de croire qu’il est dans l’intérêt public d’en permettre l’accès, compte tenu des avantages pouvant vraisemblablement en résulter pour l’enquête en question.
+
+
+
+
+
+
+
+
+
+
+L’ordonnance doit être exécutée dans le délai, suivant la signification, que précise le juge.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Execution in another province
+
+
+
+(4) A judge may, if the information or documents in respect of which disclosure is sought are in a province other than the one in which the judge has jurisdiction, issue an order for disclosure and the order may be executed in the other province after it has been endorsed by a judge who has jurisdiction in that other province.
+
+
+
+
+
+
+
+
+
+(4) L’ordonnance peut viser des renseignements ou documents se trouvant dans un lieu situé dans une province où le juge n’a pas compétence; elle y est exécutoire une fois visée par un juge ayant compétence dans la province en question.
+
+
+
+Exécution hors du ressort
+
+
+
+
+
+
+
+
+
+
+Service of order
+
+
+
+(5) A copy of the order shall be served on the person to whom it is addressed in the manner that the judge directs or as may be prescribed by rules of court.
+
+
+
+
+
+
+
+
+
+(5) Une copie de l’ordonnance est signifiée à la personne qu’elle vise; la signification se fait selon les règles du tribunal ou de la façon que le juge ordonne.
+
+
+
+Signification
+
+
+
+
+
+
+
+
+
+
+Extension of period for compliance with order
+
+
+
+(6) A judge who makes an order under subsection (3) may, on application of the Director, extend the period within which it is to be complied with.
+
+
+
+
+
+
+
+
+
+(6) Le juge qui rend une ordonnance en vertu du paragraphe (3) peut, à la demande du directeur, en prolonger la période d’exécution.
+
+
+
+Prolongation
+
+
+
+
+
+
+
+
+
+
+Objection to disclosure of information
+
+
+
+(7) The Director — or any person specially designated in writing by the Director for the purposes of this section — may object to the disclosure of any information or document in respect of which an order under subsection (3) has been made by certifying orally or in writing that it should not be disclosed on the ground that
+
+
+
+
+
+
+
+
+
+
+(a) the Director is prohibited from disclosing the information or document by any bilateral or international treaty, convention or other agreement to which the Government of Canada is a signatory respecting the sharing of information related to a money laundering offence or a terrorist activity financing offence, or an offence that is substantially similar to either offence;
+
+
+
+
+
+
+
+
+
+
+(b) a privilege is attached by law to the information or document;
+
+
+
+
+
+
+
+
+
+
+(c) the information or document has been placed in a sealed package pursuant to law or an order of a court of competent jurisdiction;
+
+
+
+
+
+
+
+
+
+
+(d) disclosure of the information or document would be injurious to national security; or
+
+
+
+
+
+
+
+
+
+
+(e) disclosure of the information or document would not, for any other reason, be in the public interest.
+
+
+
+
+
+
+
+
+
+(7) Le directeur — ou la personne qu’il a désignée expressément par écrit pour l’application du présent article — peut s’opposer à la communication des renseignements ou documents visés par une ordonnance rendue sous le régime du paragraphe (3) en attestant, oralement ou par écrit :
+
+
+
+Opposition à la communication
+
+
+
+
+
+a) soit qu’un accord bilatéral ou international en matière de partage de renseignements relatifs aux infractions de recyclage des produits de la criminalité ou aux infractions de financement des activités terroristes, ou à des infractions essentiellement similaires, que le gouvernement du Canada a signé, interdit au directeur de les communiquer;
+
+
+
+
+
+
+
+
+
+
+
+b) soit qu’ils sont protégés par la loi;
+
+
+
+
+
+
+
+
+
+
+
+c) soit qu’ils ont été placés sous scellés en conformité avec la loi ou sur l’ordre d’un tribunal compétent;
+
+
+
+
+
+
+
+
+
+
+
+d) soit que leur communication porterait atteinte à la sécurité nationale;
+
+
+
+
+
+
+
+
+
+
+
+e) soit que leur communication serait, pour toute autre raison, contraire à l’intérêt public.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Determination of objection
+
+
+
+(8) An objection made under subsection (7) may be determined, on application, in accord­ance with subsection (9), by the Chief Justice of the Federal Court, or by any other judge of that Court that the Chief Justice may designate to hear those applications.
+
+
+
+
+
+
+
+
+
+(8) Il est statué, sur demande et conformément au paragraphe (9), sur la validité de toute opposition fondée sur le paragraphe (7) par le juge en chef de la Cour fédérale ou tout autre juge de cette cour que celui-ci charge de l’audition de ce genre de demande.
+
+
+
+Juge en chef de la Cour fédérale
+
+
+
+
+
+
+
+
+
+
+Judge may examine information
+
+
+
+(9) A judge who is to determine an objection may, if the judge considers it necessary to determine the objection, examine the information or document in relation to which the objection is made. The judge shall grant the objection and order that disclosure be refused if the judge is satisfied of any of the grounds mentioned in subsection (7).
+
+
+
+
+
+
+
+
+
+(9) Le juge saisi d’une opposition peut examiner les documents ou renseignements dont la communication est demandée, s’il l’estime nécessaire pour rendre sa décision. Il déclare l’opposition fondée et interdit la communication s’il constate l’existence d’un des cas prévus au paragraphe (7).
+
+
+
+Décision
+
+
+
+
+
+
+
+
+
+
+Limitation period
+
+
+
+(10) An application under subsection (8) shall be made within 10 days after the objection is made or within any greater or lesser period that the Chief Justice of the Federal Court, or any other judge of that Court that the Chief Justice may designate to hear those applications, considers appropriate in the circumstances.
+
+
+
+
+
+
+
+
+
+(10) La demande visée au paragraphe (8) doit être présentée dans les dix jours suivant l’opposition, mais le juge en chef de la Cour fédérale ou le juge de cette cour que le juge en chef charge de l’audition de ce genre de demande peut modifier ce délai s’il l’estime indiqué dans les circonstances.
+
+
+
+Délai
+
+
+
+
+
+
+
+
+
+
+Appeal to Federal Court of Appeal
+
+
+
+(11) An appeal lies from a determination under subsection (8) to the Federal Court of Appeal.
+
+
+
+
+
+
+
+
+
+(11) La décision visée au paragraphe (8) est susceptible d’appel à la Cour d’appel fédérale.
+
+
+
+Appel à la Cour d’appel fédérale
+
+
+
+
+
+
+
+
+
+
+Limitation period for appeal
+
+
+
+(12) An appeal under subsection (11) shall be brought within 10 days after the date of the determination appealed from or within any further time that the Federal Court of Appeal considers appropriate in the circumstances.
+
+
+
+
+
+
+
+
+
+(12) L’appel doit être interjeté dans les dix jours suivant la date de la décision, mais la Cour d’appel fédérale peut proroger ce délai si elle l’estime indiqué dans les circonstances.
+
+
+
+Délai d’appel
+
+
+
+
+
+
+
+
+
+
+Special rules for hearings
+
+
+
+(13) An application under subsection (8) or an appeal brought in respect of that application shall be heard in private and, on the request of the person objecting to the disclosure of the information or documents, be heard and determined in the National Capital Region described in the schedule to the National Capital Act.
+
+
+
+
+
+
+
+
+
+(13) Les demandes visées au paragraphe (8) font, en premier ressort ou en appel, l’objet d’une audition à huis clos; celle-ci a lieu dans la région de la capitale nationale définie à l’annexe de la Loi sur la capitale nationale si l’auteur de l’opposition le demande.
+
+
+
+Règles spéciales
+
+
+
+
+
+
+
+
+
+
+
+Ex parte representations
+
+
+
+(14) During the hearing of an application under subsection (8) or an appeal brought in respect of that application, the person who made the objection in respect of which the application was made or the appeal was brought shall, on his or her request, be given the opportunity to make representations ex parte.
+
+
+
+
+
+
+
+
+
+(14) L’auteur de l’opposition qui fait l’objet d’une demande ou d’un appel a, au cours de l’audition, en première instance ou en appel et sur demande, le droit de présenter des arguments ex parte.
+
+
+
+Présentation ex parte
+
+
+
+
+
+
+
+
+
+
+Copies
+
+
+
+(15) Where any information or document is examined or provided under subsection (3), the person by whom it is examined or to whom it is provided or any employee of the Centre may make, or cause to be made, one or more copies of it and any copy purporting to be certified by the Director to be a copy made under this subsection is evidence of the nature and content of the original information or document and has the same probative force as the original information or document would have had if it had been proved in the ordinary way.
+
+
+
+
+
+
+
+
+
+(15) Lorsque des renseignements ou documents sont remis à une personne en application du paragraphe (3) ou lorsqu’elle est autorisée à les examiner, celle-ci ou un employé du Centre peut en faire ou faire faire des copies; toute copie apparemment certifiée par le directeur comme étant faite en vertu du présent paragraphe fait preuve de la nature et du contenu de l’original et a la même valeur probante que celui-ci aurait eue s’il avait été déposé en preuve de la façon normale.
+
+
+
+Copies
+
+
+
+
+
+
+
+
+
+
+Definition of “judge”
+
+
+
+(16) For the purposes of this section, “judge” means a provincial court judge as defined in section 2 of the Criminal Code or a judge as defined in subsection 462.3(1) of that Act.
+
+
+
+
+
+
+
+
+
+(16) Pour l’application du présent article, « juge » s’entend du juge d’une cour provinciale, au sens de l’article 2 du Code criminel, et du juge au sens du paragraphe 462.3(1) de cette loi.
+
+
+
+Définition de « juge »
+
+
+
+
+
+
+
+
+
+
+
+
+
+34. The Act is amended by adding the following after section 63:
+
+
+
+
+
+
+
+
+
+
+34. La même loi est modifiée par adjonction, après l’article 63, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Information demand
+
+
+
+
+63.1 (1) For an examination under subsection 62(1), an authorized person may also serve notice to require that the person or entity provide, at the place and in accordance with the time and manner stipulated in the notice, any document or other information relevant to the administration of Part 1 in the form of electronic data, a printout or other intelligible output.
+
+
+
+
+
+
+
+
+
+
+63.1 (1) La personne autorisée peut en outre, dans le cadre d’un examen visé au paragraphe 62(1), par avis signifié, exiger de la personne ou entité qu’elle fournisse, au lieu et selon les modalités de temps ou autres qui sont précisés dans l’avis, tout document ou autre information utile à l’application de la partie 1, sous forme de données électroniques ou d’imprimé, ou sous toute autre forme intelligible.
+
+
+
+Demandes d’information
+
+
+
+
+
+
+
+
+
+
+Obligation to provide information
+
+
+
+(2) The person or entity on whom the notice is served shall provide, in accordance with the notice, the documents or other information with respect to the administration of Part 1 that the authorized person may reasonably require.
+
+
+
+
+
+
+
+
+
+(2) La personne ou l’entité à qui l’avis est signifié doit fournir, en conformité avec celui-ci, les documents ou autre information que la personne autorisée peut valablement exiger quant à l’application de la partie 1.
+
+
+
+Obligation de fournir de l’information
+
+
+
+
+
+
+
+
+
+
+
+
+
+35. Subsection 64(2) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+35. Le paragraphe 64(2) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+No examination or copying of certain documents when privilege claimed
+
+
+
+(2) If an authorized person acting under section 62, 63 or 63.1 is about to examine or copy a document in the possession of a legal counsel who claims that a named client or former client of the legal counsel has a solicitor-client privilege in respect of the document, the authorized person shall not examine or make copies of the document.
+
+
+
+
+
+
+
+
+
+
+(2) If an authorized person acting under section 62, 63 or 63.1 is about to examine or copy a document in the possession of a legal counsel who claims that a named client or former client of the legal counsel has a solicitor-client privilege in respect of the document, the authorized person shall not examine or make copies of the document.
+
+
+
+
+No examination or copying of certain documents when privilege claimed
+
+
+
+
+
+
+
+
+
+
+2004, c. 15, s. 101
+
+
+
+
+36. Subsection 65(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+36. Le paragraphe 65(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2004, ch. 15, art. 101
+
+
+
+
+
+
+
+
+
+
+Disclosure to law enforcement agencies
+
+
+
+
+65. (1) The Centre may disclose to the appropriate law enforcement agencies any information of which it becomes aware under section 62, 63 or 63.1 and that it suspects on reasonable grounds is evidence of a contravention of Part 1.
+
+
+
+
+
+
+
+
+
+
+65. (1) Le Centre peut communiquer aux organismes compétents chargés de l’application de la loi tout renseignement dont il prend connaissance en vertu des articles 62, 63 ou 63.1 et soupçonne, pour des motifs raisonnables, de constituer une preuve de la contravention à la partie 1.
+
+
+
+Organismes chargés de l’application de la loi
+
+
+
+
+
+
+
+
+
+
+
+
+
+37. The Act is amended by adding the following after section 65:
+
+
+
+
+
+
+
+
+
+
+37. La même loi est modifiée par adjonction, après l’article 65, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements and arrangements
+
+
+
+
+65.1 (1) The Centre may enter into an agreement or arrangement, in writing, with an institution or agency of a foreign state that has powers and duties, similar to those of the Centre, with respect to verifying compliance with requirements to identify persons or entities, keep and retain records or make reports, or with an international organization made up of such institutions or agencies and established by the governments of states, that stipulates
+
+
+
+
+
+
+
+
+
+
+(a) that the Centre and the institution, agency or organization may exchange information about the compliance of persons and entities with those requirements and about the assessment of risk related to their compliance;
+
+
+
+
+
+
+
+
+
+
+(b) that the information may only be used for purposes relevant to ensuring compliance with the requirements and to assessing risk related to compliance; and
+
+
+
+
+
+
+
+
+
+
+(c) that the information will be treated in a confidential manner and not be further disclosed without the express consent of the Centre.
+
+
+
+
+
+
+
+
+
+
+65.1 (1) Le Centre peut conclure avec tout organisme d’un État étranger ayant des attributions similaires aux siennes concernant la vérification de la conformité aux obligations portant sur l’identification de personnes ou d’entités, la tenue et la conservation de documents ou la production de déclarations ou avec toute organisation internationale regroupant de tels organismes, créée par les gouvernements de divers États, un accord écrit stipulant :
+
+
+
+Accord de collaboration
+
+
+
+
+
+a) que le Centre peut échanger avec cet organisme ou cette organisation des renseignements relatifs au respect par une personne ou une entité de ces obligations et relatifs à l’évaluation des risques liés au respect de ces obligations;
+
+
+
+
+
+
+
+
+
+
+
+b) que les renseignements doivent être utilisés uniquement en vue d’assurer la conformité à ces obligations et d’évaluer les risques liés au respect de ces obligations;
+
+
+
+
+
+
+
+
+
+
+
+c) que les renseignements seront traités de manière confidentielle et ne seront pas autrement communiqués sans le consentement exprès du Centre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure
+
+
+
+(2) The Centre may, in accordance with the agreement or arrangement, provide the institution, agency or organization with information referred to in the agreement or arrangement.
+
+
+
+
+
+
+
+
+
+(2) Il peut communiquer à l’organisme ou à l’organisation, en conformité avec l’accord, les renseignements qui y sont visés.
+
+
+
+Communication
+
+
+
+
+
+
+
+
+
+
+Usefulness of information
+
+
+
+(3) When the Centre receives information from an institution, agency or organization under an agreement or arrangement, the Centre may provide it with an evaluation of whether the information is useful to the Centre.
+
+
+
+
+
+
+
+
+
+(3) Il peut fournir à l’organisme ou à l’organisation lui ayant communiqué des renseignements au titre de l’accord une évaluation de leur utilité pour lui.
+
+
+
+Utilité des renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+
+38. Section 72 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+38. L’article 72 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Review of Act by parliamentary committee
+
+
+
+
+72. (1) Every five years beginning on the day on which this section comes into force, the administration and operation of this Act shall be reviewed by the committee of the House of Commons, of the Senate or of both Houses that is designated or established for that purpose.
+
+
+
+
+
+
+
+
+
+
+72. (1) Tous les cinq ans à compter de la date d’entrée en vigueur du présent article, le comité, soit de la Chambre des communes, soit du Sénat, soit mixte, désigné ou constitué à cette fin procède à l’examen de l’application de la présente loi.
+
+
+
+Examen par un comité parlementaire
+
+
+
+
+
+
+
+
+
+
+Review by Privacy Commissioner
+
+
+
+(2) Every two years beginning on the day on which this section comes into force, the Privacy Commissioner, appointed under section 53 of the Privacy Act, shall review the measures taken by the Centre to protect information it receives or collects under this Act and shall, within three months after the review, submit a report on those measures to the Speaker of the Senate and the Speaker of the House of Commons, who shall each table the report in the House over which he or she presides without delay after receiving it or, if that House is not then sitting, on any of the first 15 days on which that House is sitting after the Speaker receives it.
+
+
+
+
+
+
+
+
+
+(2) Tous les deux ans à compter de la date d’entrée en vigueur du présent article, le Commissaire à la protection de la vie privée, nommé au titre de l’article 53 de la Loi sur la protection des renseignements personnels, procède à l’examen des mesures prises par le Centre en vue de protéger les renseignements qu’il recueille en application de la présente loi, et, dans les trois mois suivant l’examen, il remet un rapport à l’égard de ces mesures au président de chaque chambre, qui le dépose immédiatement devant la chambre qu’il préside ou, si elle ne siège pas, dans les quinze premiers jours de séance ultérieurs.
+
+
+
+Examen par le Commissaire à la protection de la vie privée
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 73(1)
+
+
+
+
+39. (1) Paragraph 73(1)(f) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+39. (1) L’alinéa 73(1)f) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, par. 73(1)
+
+
+
+
+
+
+
+
+
+
+
+
+(e.2) prescribing the form and manner in which persons or entities or classes of persons or entities shall report under section 7, 7.1, 9 or 9.1;
+
+
+
+
+
+
+(f) specifying measures, and the periods within which those measures must be taken, that persons or entities are to take to identify any person or entity that requests the opening of an account or any person or entity in respect of which a record is required to be kept or a report made;
+
+
+
+
+
+
+
+
+
+
+e.2) préciser, pour les personnes ou entités — individuellement ou au titre de leur appartenance à telle catégorie de personnes ou entités —, les modalités à respecter pour l’application des articles 7, 7.1, 9 et 9.1;
+
+
+
+
+
+
+
+f) préciser les mesures à prendre par les personnes ou entités afin de vérifier l’identité des personnes ou entités qui demandent l’ouverture d’un compte ou pour lesquelles un document doit être tenu ou une déclaration faite et prévoir les délais pour la prise de ces mesures;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 73(1) of the Act is amended by striking out the word “and” at the end of paragraph (h) and by replacing paragraph (i) with the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 73(1)i) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) prescribing the circumstances referred to in section 9.2;
+
+
+
+
+
+
+(j) prescribing, for the purposes of subsection 9.3(1), the manner for determining whether a person is a politically exposed foreign person and the circumstances in which it is necessary to make that determination;
+
+
+
+
+
+
+(k) prescribing, for the purposes of subsection 9.3(2), the circumstances in which it is necessary to obtain the approval of senior management and the measures to be taken when dealing with a politically exposed foreign person;
+
+
+
+
+
+
+(l) prescribing the offices and positions whose holders are politically exposed foreign persons for the purposes of paragraph 9.3(3)(j), prescribing the family members that are included in the definition “politically exposed foreign person” in subsection 9.3(3) and defining “foreign state” for the purposes of that subsection;
+
+
+
+
+
+
+(m) prescribing the foreign entities to which subsection 9.4(1) applies and, for the purposes of that subsection, prescribing the information to be obtained about those entities and prescribing the measures to be taken;
+
+
+
+
+
+
+(n) defining the expression “shell bank” referred to in section 9.4;
+
+
+
+
+
+
+(o) prescribing the services referred to in the definition “correspondent banking relationship” in subsection 9.4(3);
+
+
+
+
+
+
+(p) prescribing the electronic funds transfers to which section 9.5 applies, the information to be included with those transfers and the measures to be taken under that section;
+
+
+
+
+
+
+(q) specifying the manner for establishing and implementing the program referred to in subsection 9.6(1);
+
+
+
+
+
+
+(r) prescribing the special measures to be taken under subsection 9.6(3);
+
+
+
+
+
+
+(s) prescribing persons and entities that must be registered with the Centre under section 11.1;
+
+
+
+
+
+
+(t) prescribing persons or entities or classes of persons or entities that are not subject to section 11.1;
+
+
+
+
+
+
+(u) prescribing, for the purposes of paragraph 11.11(1)(f), persons or entities that are not eligible for registration;
+
+
+
+
+
+
+(v) prescribing the form and manner of submitting an application for registration under subsection 11.12(1) and the information that must be included with the application;
+
+
+
+
+
+
+(w) prescribing the form and manner of notifying the Centre of any information that must be provided under section 11.13;
+
+
+
+
+
+
+(x) prescribing the form and manner of providing the Centre with any clarifications under subsection 11.14(1) and any clarifications under subsection 11.17(1);
+
+
+
+
+
+
+(y) prescribing, for the purposes of section 11.19, the form and manner for renewing registration and any longer renewal period;
+
+
+
+
+
+
+(z) defining “identifying information” for the purposes of subsection 54.1(3); and
+
+
+
+
+
+
+(z.1) prescribing anything else that by this Act is to be prescribed.
+
+
+
+
+
+
+
+
+
+
+i) prévoir les cas visés par l’article 9.2;
+
+
+
+
+
+
+
+j) prévoir, pour l’application du paragraphe 9.3(1), la façon d’établir qu’une personne est un étranger politiquement vulnérable et les circonstances dans lesquelles il est nécessaire de le faire;
+
+
+
+
+
+
+
+k) prévoir, pour l’application du paragraphe 9.3(2), les cas où l’agrément de la haute direction est nécessaire et les mesures à prendre dans le cas où une personne ou entité fait affaire avec un étranger politiquement vulnérable;
+
+
+
+
+
+
+
+l) prévoir, pour l’application de l’alinéa 9.3(3)j), les postes ou charges dont les titulaires sont des étrangers politiquement vulnérables, préciser quels membres de leur famille sont assimilés à un « étranger politiquement vulnérable » au sens du paragraphe 9.3(3) et définir « État étranger » pour l’application de ce paragraphe;
+
+
+
+
+
+
+
+m) prévoir quelles entités étrangères sont visées par le paragraphe 9.4(1), et pour l’application de ce paragraphe, préciser les renseignements à obtenir à leur égard et prévoir toute autre mesure nécessaire;
+
+
+
+
+
+
+
+n) définir l’expression « banque fictive » visée à l’article 9.4;
+
+
+
+
+
+
+
+o) prévoir les services visés par l’expression « relation de correspondant bancaire  » au sens du paragraphe 9.4(3);
+
+
+
+
+
+
+
+p) prévoir les télévirements visés par l’article 9.5, les renseignements à inclure avec ceux-ci et les mesures à prendre pour l’application de cet article;
+
+
+
+
+
+
+
+q) prévoir le mode d’établissement et de mise en oeuvre du programme visé au paragraphe 9.6(1);
+
+
+
+
+
+
+
+r) prévoir les mesures spéciales à prendre en vertu du paragraphe 9.6(3);
+
+
+
+
+
+
+
+s) préciser les personnes et entités qui sont tenues de s’inscrire auprès du Centre en vertu de l’article 11.1;
+
+
+
+
+
+
+
+t) préciser les personnes ou entités — individuellement ou au titre de leur appartenance à telle catégorie de personnes ou entités — qui ne sont pas assujetties à l’application de l’article 11.1;
+
+
+
+
+
+
+
+u) préciser les personnes ou entités inadmissibles à l’inscription pour l’application de l’alinéa 11.11(1)f);
+
+
+
+
+
+
+
+v) préciser les modalités de présentation de la demande d’inscription visée au paragraphe 11.12(1) ainsi que les renseignements qui doivent l’accompagner;
+
+
+
+
+
+
+
+w) prévoir les modalités à remplir pour communiquer au Centre tout renseignement à lui fournir en application de l’article 11.13;
+
+
+
+
+
+
+
+x) prévoir les modalités à remplir en vue de communiquer au Centre les précisions visées au paragraphe 11.14(1) et celles visées au paragraphe 11.17(1);
+
+
+
+
+
+
+
+y) prévoir, pour l’application de l’article 11.19, les modalités de renouvellement d’inscription et fixer le délai plus long applicable au renouvellement de l’inscription;
+
+
+
+
+
+
+
+z) définir « renseignements identificateurs » pour l’application du paragraphe 54.1(3);
+
+
+
+
+
+
+
+z.1) prendre toute autre mesure réglementaire prévue par la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40. The Act is amended by adding the following after section 73:
+
+
+
+
+
+
+
+
+
+
+40. La même loi est modifiée par adjonction, après l’article 73, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART 4.1
+
+
+
+
+
+
+
+
+
+PARTIE 4.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTICES OF VIOLATION, COMPLIANCE AGREEMENTS AND PENALTIES
+
+
+
+
+
+
+
+
+
+PROCÈS-VERBAUX, TRANSACTIONS ET PÉNALITÉS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Violations
+
+
+
+
+
+
+
+
+
+Violations
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+73.1 (1) The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+
+
+(a) designating, as a violation that may be proceeded with under this Part, the contravention of a specified provision of this Act or the regulations;
+
+
+
+
+
+
+
+
+
+
+(b) classifying each violation as a minor violation, a serious violation or a very serious violation, and classifying a series of minor violations as a serious violation or a very serious violation;
+
+
+
+
+
+
+
+
+
+
+(c) having regard to subsection (2), fixing a penalty, or a range of penalties, in respect of any violation;
+
+
+
+
+
+
+
+
+
+
+(d) prescribing the additional penalty to be paid for the purposes of subsection 73.18(1);
+
+
+
+
+
+
+
+
+
+
+(e) respecting the service of documents under this Part, including the manner and proof of service and the circumstances under which documents are deemed to be served; and
+
+
+
+
+
+
+
+
+
+
+(f) generally for carrying out the purposes and provisions of this Part.
+
+
+
+
+
+
+
+
+
+
+73.1 (1) Le gouverneur en conseil peut, par règlement :
+
+
+
+Pouvoir réglementaire
+
+
+
+
+
+a) désigner comme violation à sanctionner au titre de la présente partie la contravention à telle ou telle disposition de la présente loi ou de ses règlements;
+
+
+
+
+
+
+
+
+
+
+
+b) qualifier les violations, selon le cas, de mineures, de graves ou de très graves et assimiler une série de violations mineures à une violation grave ou très grave;
+
+
+
+
+
+
+
+
+
+
+
+c) compte tenu du paragraphe (2), fixer le montant de la pénalité — ou établir un barème de pénalités — applicable à telle violation;
+
+
+
+
+
+
+
+
+
+
+
+d) prévoir la pénalité additionnelle à payer pour l’application du paragraphe 73.18(1);
+
+
+
+
+
+
+
+
+
+
+
+e) régir, notamment par l’établissement de présomptions et de règles de preuve, la signification des documents visés par la présente partie;
+
+
+
+
+
+
+
+
+
+
+
+f) prendre toute autre mesure d’application de la présente partie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maximum penalties
+
+
+
+(2) The maximum penalty for a violation is $100,000 if the violation is committed by a person and $500,000 if the violation is committed by an entity.
+
+
+
+
+
+
+
+
+
+(2) La pénalité maximale pour une violation est de 100 000 $ si l’auteur est une personne physique et de 500 000 $ si l’auteur est une entité.
+
+
+
+Plafond de la pénalité
+
+
+
+
+
+
+
+
+
+
+Criteria for penalty
+
+
+
+
+73.11 Except if a penalty is fixed under paragraph 73.1(1)(c), the amount of a penalty shall, in each case, be determined taking into account that penalties have as their purpose to encourage compliance with this Act rather than to punish, the harm done by the violation and any other criteria that may be prescribed by regulation.
+
+
+
+
+
+
+
+
+
+
+73.11 Sauf s’il est fixé en application de l’alinéa 73.1(1)c), le montant de la pénalité est déterminé, dans chaque cas, compte tenu du caractère non punitif de la pénalité, celle-ci étant destinée à encourager l’observation de la présente loi, de la gravité du tort causé et de tout autre critère prévu par règlement.
+
+
+
+Critères
+
+
+
+
+
+
+
+
+
+
+How contravention may be proceeded with
+
+
+
+
+73.12 If a contravention that is designated under paragraph 73.1(1)(a) can be proceeded with either as a violation or as an offence under this Act, proceeding in one manner precludes proceeding in the other.
+
+
+
+
+
+
+
+
+
+
+73.12 S’agissant d’une contravention désignée au titre de l’alinéa 73.1(1)a) et qualifiable à la fois de violation et d’infraction à la présente loi, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Commission of violation
+
+
+
+
+73.13 (1) Every contravention that is designated under paragraph 73.1(1)(a) constitutes a violation and the person who commits the violation is liable to a penalty determined in accordance with sections 73.1 and 73.11.
+
+
+
+
+
+
+
+
+
+
+73.13 (1) Toute contravention désignée au titre de l’alinéa 73.1(1)a) constitue une violation exposant son auteur à une pénalité dont le montant est déterminé en application des articles 73.1 et 73.11.
+
+
+
+Violation
+
+
+
+
+
+
+
+
+
+
+Notice of violation or compliance agreement
+
+
+
+(2) If the Centre believes on reasonable grounds that a person or entity has committed a violation, the Centre may
+
+
+
+
+
+
+
+
+
+
+(a) issue and cause to be served on the person or entity a notice of violation; or
+
+
+
+
+
+
+
+
+
+
+(b) issue and cause to be served on the person or entity a notice of violation with an offer to reduce by half the penalty proposed in the notice if the person or entity enters into a compliance agreement with the Centre in respect of the provision to which the violation relates.
+
+
+
+
+
+
+
+
+
+(2) Le Centre peut, s’il a des motifs raisonnables de croire qu’une violation a été commise :
+
+
+
+Procès-verbal ou transaction
+
+
+
+
+
+a) soit dresser un procès-verbal qu’il fait signifier à l’auteur présumé;
+
+
+
+
+
+
+
+
+
+
+
+b) soit dresser un procès-verbal qu’il fait signifier à l’auteur présumé avec une offre de réduire de moitié la pénalité qui figure au procès-verbal si celui-ci accepte de conclure avec lui une transaction visant l’observation de la disposition enfreinte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notices of Violation
+
+
+
+
+
+
+
+
+
+Procès-verbaux
+
+
+
+
+
+
+
+
+
+
+
+
+Contents of notice
+
+
+
+
+73.14 (1) When the Centre issues a notice of violation under subsection 73.13(2), the notice shall name the person or entity believed to have committed a violation, identify the violation and set out
+
+
+
+
+
+
+
+
+
+
+(a) the penalty that the Centre proposes to impose;
+
+
+
+
+
+
+
+
+
+
+(b) the right of the person or entity, within 30 days after the day on which the notice is served or within any longer period that the Centre specifies, to pay the penalty or to make representations to the Director with respect to the violation and the proposed penalty, and the manner for doing so; and
+
+
+
+
+
+
+
+
+
+
+(c) the fact that, if the person or entity does not pay the penalty or make representations in accordance with the notice, the person or entity will be deemed to have committed the violation and the Centre will impose the penalty in respect of it.
+
+
+
+
+
+
+
+
+
+
+73.14 (1) Dans les cas où le Centre dresse un procès-verbal en vertu du paragraphe 73.13(2), celui-ci mentionne, outre le nom de l’auteur présumé et les faits reprochés :
+
+
+
+Contenu du procès-verbal
+
+
+
+
+
+a) la pénalité que le Centre a l’intention d’imposer;
+
+
+
+
+
+
+
+
+
+
+
+b) la faculté qu’a l’auteur présumé soit de payer la pénalité, soit de présenter des observations au directeur relativement à la violation ou à la pénalité, et ce, dans les trente jours suivant la signification du procès-verbal — ou dans le délai plus long que peut préciser le Centre —, ainsi que les modalités d’exercice de cette faculté;
+
+
+
+
+
+
+
+
+
+
+
+c) le fait que le non-exercice de cette faculté dans le délai imparti vaut aveu de responsabilité et emporte application de la pénalité par le Centre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Administrative corrections
+
+
+
+(2) If a notice of violation contains any error or omission, the Centre may serve a corrected notice of violation on the person or entity at any time during the period referred to in paragraph (1)(b).
+
+
+
+
+
+
+
+
+
+(2) Si le procès-verbal contient une erreur ou une omission, le Centre peut durant la période visée à l’alinéa (1)b) en signifier à l’auteur présumé une version corrigée.
+
+
+
+Erreur ou omission
+
+
+
+
+
+
+
+
+
+
+Payment of penalty
+
+
+
+
+73.15 (1) If the person or entity pays the penalty proposed in the notice of violation, the person is deemed to have committed the violation and proceedings in respect of it are ended.
+
+
+
+
+
+
+
+
+
+
+73.15 (1) Le paiement de la pénalité en conformité avec le procès-verbal vaut aveu de responsabilité et met fin à la procédure.
+
+
+
+Paiement
+
+
+
+
+
+
+
+
+
+
+Representations to Director
+
+
+
+(2) If the person or entity makes representations in accordance with the notice, the Director shall decide, on a balance of probabilities, whether the person or entity committed the violation and, if so, may, subject to any regulations made under paragraph 73.1(1)(c), impose the penalty proposed, a lesser penalty or no penalty.
+
+
+
+
+
+
+
+
+
+(2) Si des observations sont présentées, le directeur détermine, selon la prépondérance des probabilités, la responsabilité de l’intéressé. Le cas échéant, il peut, sous réserve des règlements pris en vertu de l’alinéa 73.1(1)c), imposer la pénalité mentionnée au procès-verbal ou une pénalité réduite, ou encore n’imposer aucune pénalité.
+
+
+
+Présentation d’observations
+
+
+
+
+
+
+
+
+
+
+Failure to pay or make representations
+
+
+
+(3) A person or entity that neither pays the penalty nor makes representations in accordance with the notice is deemed to have committed the violation and the Centre shall impose the penalty proposed in the notice.
+
+
+
+
+
+
+
+
+
+(3) Le non-exercice de la faculté mentionnée au procès-verbal dans le délai imparti vaut aveu de responsabilité et emporte application de la pénalité mentionnée au procès-verbal par le Centre.
+
+
+
+Défaut de payer ou de faire des observations
+
+
+
+
+
+
+
+
+
+
+Notice of decision and right of appeal
+
+
+
+(4) The Director shall cause notice of any decision made under subsection (2) or the penalty imposed under subsection (3) to be issued and served on the person or entity together with, in the case of a decision made under subsection (2) in respect of a serious violation or very serious violation, notice of the right of appeal under subsection 73.21(1).
+
+
+
+
+
+
+
+
+
+(4) Le directeur fait signifier à l’auteur de la violation la décision prise au titre du paragraphe (2) ou la pénalité imposée en vertu du paragraphe (3) et, dans le cas de la décision prise au titre du paragraphe (2), l’avise par la même occasion de son droit d’interjeter appel en vertu du paragraphe 73.21(1) dans le cas d’une violation grave ou très grave.
+
+
+
+Avis de décision et droit d’appel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance Agreements
+
+
+
+
+
+
+
+
+
+Transactions
+
+
+
+
+
+
+
+
+
+
+
+
+Contents of compliance agreement
+
+
+
+
+73.16 (1) When the Centre offers to enter into a compliance agreement under paragraph 73.13(2)(b), the agreement shall
+
+
+
+
+
+
+
+
+
+
+(a) identify the violation and provide that the person or entity will comply with the provision to which the violation relates within the period, and be subject to the terms and conditions, specified in the agreement; and
+
+
+
+
+
+
+
+
+
+
+(b) set out the amount that the person or entity will have to pay as the reduced penalty for the violation if the compliance agreement is entered into.
+
+
+
+
+
+
+
+
+
+
+73.16 (1) Dans les cas où le Centre offre de conclure une transaction en vertu de l’alinéa 73.13(2)b), il doit y préciser la disposition enfreinte et l’obligation pour l’intéressé de s’y conformer ainsi que le délai, les conditions de l’exécution de la transaction et le montant de la pénalité réduite que l’intéressé aura à payer s’il conclut la transaction.
+
+
+
+Transactions
+
+
+
+
+
+
+
+
+
+
+Refusal to enter into agreement
+
+
+
+(2) The person or entity shall enter into the compliance agreement and pay the reduced penalty within 10 days after receiving the notice of violation and, if it does not do so, the person or entity is deemed to have refused to enter into the agreement, and the full penalty proposed in the notice of violation and section 73.15 apply.
+
+
+
+
+
+
+
+
+
+(2) L’intéressé a dix jours après la réception du procès-verbal pour accepter la transaction et payer la pénalité réduite, faute de quoi il est réputé avoir refusé la transaction, l’application de l’article 73.15 et de la pénalité figurant au procès-verbal étant dès lors rétablie.
+
+
+
+Refus de conclure la transaction
+
+
+
+
+
+
+
+
+
+
+Extension of period
+
+
+
+(3) The Centre may extend the period referred to in paragraph (1)(a) if the Centre is satisfied that the person or entity with which the compliance agreement was entered into is unable to comply with it within that period for reasons beyond their control.
+
+
+
+
+
+
+
+
+
+(3) S’il estime que l’intéressé ne peut exécuter la transaction dans le délai imparti pour des raisons indépendantes de sa volonté, le Centre peut proroger celui-ci.
+
+
+
+Prorogation du délai
+
+
+
+
+
+
+
+
+
+
+Compliance agreement complied with
+
+
+
+
+73.17 If the Centre considers that a compliance agreement has been complied with, the Centre shall serve a notice to that effect on the person or entity and, on the service of the notice, no further proceedings may be taken against the person or entity with respect to the violation.
+
+
+
+
+
+
+
+
+
+
+73.17 Lorsqu’il est d’avis que l’intéressé a exécuté la transaction, le Centre lui signifie un avis en ce sens. Aucune autre procédure ne peut dès lors être intentée contre l’intéressé pour la même violation.
+
+
+
+Avis d’exécution
+
+
+
+
+
+
+
+
+
+
+Compliance agreement not complied with
+
+
+
+
+73.18 (1) If the Centre considers that a compliance agreement has not been complied with, the Centre may issue and serve a notice of default on the person or entity to the effect that the person or entity is liable to pay the remainder of the penalty set out in the notice of violation and a prescribed additional penalty.
+
+
+
+
+
+
+
+
+
+
+73.18 (1) Lorsqu’il est d’avis que la transaction n’a pas été exécutée, le Centre peut signifier à l’intéressé un avis de défaut l’informant qu’il doit payer le reste de la pénalité prévue au procès-verbal et la pénalité additionnelle prévue par règlement.
+
+
+
+Avis de défaut d’exécution
+
+
+
+
+
+
+
+
+
+
+Contents of notice
+
+
+
+(2) A notice of default shall include the date, which shall be 30 days after the day on which the notice is served, on or before which an application for review may be filed and particulars of how the application may be filed.
+
+
+
+
+
+
+
+
+
+(2) Sont indiquées dans l’avis la date limite de la présentation d’une éventuelle demande de révision, à savoir trente jours après la signification de l’avis, et les autres modalités de présentation de la demande.
+
+
+
+Contenu de l’avis
+
+
+
+
+
+
+
+
+
+
+No set-off or compensation
+
+
+
+(3) On the service of a notice of default, the person or entity served has no right of set-off or compensation against any amount that they spent under the compliance agreement.
+
+
+
+
+
+
+
+
+
+(3) Sur signification de l’avis, l’intéressé perd tout droit à la compensation pour les sommes exposées dans le cadre de la transaction.
+
+
+
+Effet de l’inexécution
+
+
+
+
+
+
+
+
+
+
+Application for review
+
+
+
+
+73.19 (1) A person or entity served with a notice of default under subsection 73.18(1) may, on or before the date specified in the notice or within any further time that the Centre allows, file an application for review by the Director.
+
+
+
+
+
+
+
+
+
+
+73.19 (1) L’intéressé peut faire réviser la décision du Centre en présentant une demande à cet effet au directeur au plus tard à la date limite qui est indiquée dans l’avis de défaut visé au paragraphe 73.18(1) ou dans le délai supérieur éventuellement accordé par le Centre.
+
+
+
+Demande de révision
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+(2) The Director may confirm the Centre’s decision or decide that the person or entity has complied with the compliance agreement.
+
+
+
+
+
+
+
+
+
+(2) Le directeur peut confirmer la décision du Centre ou conclure que l’intéressé a exécuté la transaction.
+
+
+
+Décision
+
+
+
+
+
+
+
+
+
+
+Failure to pay or apply for review
+
+
+
+(3) A person or entity that neither pays the amounts set out in the notice of default nor files an application for review in accordance with the notice is deemed to have not complied with the compliance agreement and shall pay the amounts without delay.
+
+
+
+
+
+
+
+
+
+(3) Si la faculté mentionnée dans l’avis de défaut n’est pas exercée dans le délai imparti, la transaction est réputée non exécutée et l’intéressé est tenu de payer les sommes visées dans l’avis de défaut sans délai.
+
+
+
+Défaut de payer ou de faire une demande de révision
+
+
+
+
+
+
+
+
+
+
+Notice of decision and right of appeal
+
+
+
+(4) The Director shall cause notice of the decision to be issued and served on the person or entity together with, in the case of a serious violation or very serious violation, notice of the right of appeal under subsection 73.21(1).
+
+
+
+
+
+
+
+
+
+(4) Le directeur fait signifier à l’intéressé sa décision et l’avise par la même occasion de son droit d’interjeter appel en vertu du paragraphe 73.21(1) dans le cas d’une violation grave ou très grave.
+
+
+
+Avis de décision et droit d’appel
+
+
+
+
+
+
+
+
+
+
+Deemed violation
+
+
+
+
+73.2 A person or entity that enters into a compliance agreement is deemed to have committed the violation in respect of which the agreement was entered into.
+
+
+
+
+
+
+
+
+
+
+73.2 L’intéressé qui conclut une transaction est réputé avoir commis la violation en cause.
+
+
+
+Commission de la violation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appeal to Federal Court
+
+
+
+
+
+
+
+
+
+Appel à la Cour fédérale
+
+
+
+
+
+
+
+
+
+
+
+
+Right of appeal
+
+
+
+
+73.21 (1) A person or entity on which a notice of a decision made under subsection 73.15(2) or 73.19(2) is served, in respect of a serious violation or very serious violation, may, within 30 days after the day on which the notice is served, or within any longer period that the Court allows, appeal the decision to the Federal Court.
+
+
+
+
+
+
+
+
+
+
+73.21 (1) S’agissant d’une violation grave ou très grave, il peut être interjeté appel à la Cour fédérale de la décision prise au titre des paragraphes 73.15(2) ou 73.19(2), selon le cas, dans les trente jours suivant la signification ou dans le délai supplémentaire que la Cour peut accorder.
+
+
+
+Droit d’appel
+
+
+
+
+
+
+
+
+
+
+Appeal — no notice of decision
+
+
+
+(2) If the Director does not cause notice of a decision to be issued and served under subsection 73.15(4) within 90 days after the completion of representations made under subsection 73.15(2), the person or entity that made the representations may appeal the penalty proposed in the notice of violation to the Federal Court, within 30 days after the day on which the 90-day period expires.
+
+
+
+
+
+
+
+
+
+(2) Faute par le directeur de signifier sa décision en vertu du paragraphe 73.15(4) dans les quatre-vingt-dix jours suivant la présentation des observations faites au titre du paragraphe 73.15(2), l’intéressé peut interjeter appel à la Cour fédérale du montant de la pénalité mentionnée au procès-verbal de violation. Ce droit est à exercer dans les trente jours suivant l’expiration de la période de quatre-vingt-dix jours.
+
+
+
+Appel : défaut de signification de décision
+
+
+
+
+
+
+
+
+
+
+Appeal — no notice of decision
+
+
+
+(3) If the Director does not cause notice of a decision to be issued and served under subsection 73.19(4) within 90 days after the day on which the Director received the application for review under subsection 73.19(1), the person or entity that filed the application may appeal to the Federal Court the amounts set out in the notice of default referred to in subsection 73.18(1), within 30 days after the day on which the 90-day period expires.
+
+
+
+
+
+
+
+
+
+(3) Faute par le directeur de signifier sa décision en vertu du paragraphe 73.19(4) dans les quatre-vingt-dix jours suivant la réception de la demande de révision visée au paragraphe 73.19(1), l’intéressé peut interjeter appel à la Cour fédérale des sommes qui figurent à l’avis de défaut visé au paragraphe 73.18(1). Ce droit est à exercer dans les trente jours suivant l’expiration de la période de quatre-vingt-dix jours.
+
+
+
+Appel : défaut de signification de décision
+
+
+
+
+
+
+
+
+
+
+Precautions against disclosure
+
+
+
+(4) In an appeal, the Court shall take every reasonable precaution, including, when appropriate, conducting hearings in private, to avoid the disclosure by the Court or any person or entity of information referred to in subsection 55(1).
+
+
+
+
+
+
+
+
+
+(4) À l’occasion d’un appel, la Cour fédérale prend toutes les précautions possibles, notamment en ordonnant le huis clos si elle le juge indiqué, pour éviter que ne soient communiqués de par son propre fait ou celui de quiconque des renseignements visés au paragraphe 55(1).
+
+
+
+Huis clos
+
+
+
+
+
+
+
+
+
+
+Powers of Court
+
+
+
+(5) On an appeal, the Court may confirm, set aside or, subject to any regulations made under paragraph 73.1(1)(c), vary the decision of the Director.
+
+
+
+
+
+
+
+
+
+(5) Saisie de l’appel, la Cour fédérale confirme, annule ou, sous réserve des règlements pris en vertu de l’alinéa 73.1(1)c), modifie la décision.
+
+
+
+Pouvoir de la Cour fédérale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+
+
+
+
+
+
+
+Publication
+
+
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+
+
+73.22 When proceedings in respect of a violation are ended, the Centre may make public the nature of the violation, the name of the person or entity that committed it, and the amount of the penalty imposed.
+
+
+
+
+
+
+
+
+
+
+73.22 Au terme de la procédure en violation, le Centre peut rendre public la nature de la violation, le nom de son auteur et la pénalité imposée.
+
+
+
+Publication
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rules about Violations
+
+
+
+
+
+
+
+
+
+Règles propres aux violations
+
+
+
+
+
+
+
+
+
+
+
+
+Violations not offences
+
+
+
+
+73.23 (1) For greater certainty, a violation is not an offence.
+
+
+
+
+
+
+
+
+
+
+73.23 (1) Il est entendu que les violations ne sont pas des infractions.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Non-application of section 126 of the Criminal Code
+
+
+
+(2) Section 126 of the Criminal Code does not apply in respect of any obligation or prohibition under this Act whose contravention is a violation under this Act.
+
+
+
+
+
+
+
+
+
+(2) L’article 126 du Code criminel ne s’applique pas aux obligations ou interdictions prévues par la présente loi dont la contravention constitue une violation aux termes de celle-ci.
+
+
+
+Non-application de l’article 126 du Code criminel
+
+
+
+
+
+
+
+
+
+
+Due diligence available
+
+
+
+
+73.24 (1) Due diligence is a defence in a proceeding in relation to a violation.
+
+
+
+
+
+
+
+
+
+
+73.24 (1) La prise des précautions voulues peut être invoquée dans le cadre de toute procédure en violation.
+
+
+
+Prise de précautions
+
+
+
+
+
+
+
+
+
+
+Common law principles
+
+
+
+(2) Every rule and principle of the common law that renders any circumstance a justification or an excuse in relation to a charge for an offence applies in respect of a violation to the extent that it is not inconsistent with this Act.
+
+
+
+
+
+
+
+
+
+(2) Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction s’appliquent à l’égard d’une violation, sauf dans la mesure où ils sont incompatibles avec la présente loi.
+
+
+
+Principes de la common law
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Collection of Penalties
+
+
+
+
+
+
+
+
+
+Recouvrement des pénalités
+
+
+
+
+
+
+
+
+
+
+
+
+Debts to Her Majesty
+
+
+
+
+73.25 (1) A penalty and any interest due in respect of the penalty constitute a debt due to Her Majesty in right of Canada and may be recovered in the Federal Court.
+
+
+
+
+
+
+
+
+
+
+73.25 (1) La pénalité et les intérêts exigibles y afférents constituent une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale.
+
+
+
+Créance de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+Time limit
+
+
+
+(2) No proceedings to recover a debt referred to in subsection (1) may be commenced after the period of five years that begins on the day on which the debt became payable.
+
+
+
+
+
+
+
+
+
+(2) Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Proceeds payable to Receiver General
+
+
+
+(3) A penalty paid or recovered under this Part is payable to and shall be remitted to the Receiver General.
+
+
+
+
+
+
+
+
+
+(3) Toute pénalité perçue sous le régime de la présente partie est versée au receveur général.
+
+
+
+Receveur général
+
+
+
+
+
+
+
+
+
+
+Certificate
+
+
+
+
+73.26 (1) The unpaid amount of any debt referred to in subsection 73.25(1) may be certified by the Director.
+
+
+
+
+
+
+
+
+
+
+73.26 (1) Le directeur peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe 73.25(1).
+
+
+
+Certificat de non-paiement
+
+
+
+
+
+
+
+
+
+
+Registration in Federal Court
+
+
+
+(2) Registration in the Federal Court of a certificate made under subsection (1) has the same effect as a judgment of that Court for a debt of the amount specified in the certificate and all related registration costs.
+
+
+
+
+
+
+
+
+
+(2) L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais d’enregistrement afférents.
+
+
+
+Enregistrement en Cour fédérale
+
+
+
+
+
+
+
+
+
+
+Collecting penalties
+
+
+
+
+73.27 (1) The Centre may, for the purpose of collecting penalties proposed in a notice of violation issued under subsection 73.13(2) or imposed under this Part, enter into a contract, memorandum of understanding or other agreement with a department or an agency of the Government of Canada or the government of a province and with any other person or organization, inside Canada, in its own name or in the name of Her Majesty in right of Canada.
+
+
+
+
+
+
+
+
+
+
+73.27 (1) En vue de percevoir les pénalités prévues au procès-verbal visé au paragraphe 73.13(2) ou imposées sous le régime de la présente partie, le Centre peut conclure, avec tout ministère ou tout organisme du gouvernement fédéral ou d’un gouvernement provincial ou toute autre organisation ou toute personne au Canada, un accord au nom de Sa Majesté du chef du Canada ou en son propre nom.
+
+
+
+Perception des pénalités
+
+
+
+
+
+
+
+
+
+
+Disclosure of information
+
+
+
+(2) The Centre may disclose to the other party of the contract, memorandum or agreement any information required to collect the penalties.
+
+
+
+
+
+
+
+
+
+(2) Il peut communiquer à l’autre partie à un tel accord les renseignements nécessaires à la perception des pénalités.
+
+
+
+Communication de renseigne-ments
+
+
+
+
+
+
+
+
+
+
+Use of information
+
+
+
+(3) The other party shall not use the information referred to in subsection (2) for any purpose other than collecting the penalties.
+
+
+
+
+
+
+
+
+
+(3) Cette autre partie ne peut utiliser les renseignements visés au paragraphe (2) que dans la mesure où elle en a besoin pour percevoir les pénalités.
+
+
+
+Utilisation des renseignements
+
+
+
+
+
+
+
+
+
+
+Interest
+
+
+
+
+73.28 If a person or entity fails to remit a penalty payable under this Part to the Receiver General, the person or entity shall pay to the Receiver General interest on the amount of the penalty. The interest shall be calculated at the prescribed rate for the period beginning on the first day after the day on which the amount was required to be paid and ending on the day on which the amount is paid.
+
+
+
+
+
+
+
+
+
+
+73.28 La pénalité exigible au titre de la présente partie porte intérêt, au taux réglementaire, à compter du lendemain de l’expiration du délai de versement et jusqu’au jour du versement.
+
+
+
+Intérêts
+
+
+
+
+
+
+
+
+
+
+Garnishment
+
+
+
+
+73.29 (1) If the Director is of the opinion that a person or entity is or is about to become liable to make a payment to a person or entity liable to pay a penalty or interest under this Part, the Director may, by written notice, require the first person or entity to pay without delay to the Receiver General, on account of the second person’s or entity’s liability, all or part of the money otherwise payable to the second person or entity.
+
+
+
+
+
+
+
+
+
+
+73.29 (1) S’il estime qu’une personne ou entité doit ou va bientôt devoir verser une somme à une personne ou entité tenue de payer une pénalité ou des intérêts afférents au titre de la présente partie, le directeur peut, par avis écrit, exiger qu’elle remette sans délai au receveur général, pour imputation sur ce paiement, tout ou partie des sommes dues à cette autre personne.
+
+
+
+Saisie-arrêt
+
+
+
+
+
+
+
+
+
+
+Applicability to future payments
+
+
+
+(2) If the Director requires an employer to pay to the Receiver General money otherwise payable to an employee as remuneration,
+
+
+
+
+
+
+
+
+
+
+(a) the requirement is applicable to all future payments of remuneration until the liability is satisfied; and
+
+
+
+
+
+
+
+
+
+
+(b) the employer shall pay to the Receiver General out of each payment of remuneration the amount that the Director stipulates in the notice.
+
+
+
+
+
+
+
+
+
+(2) Dans le cas d’un employeur, l’obligation vaut pour tous les versements de rémunération à faire jusqu’à extinction de la dette, l’employeur devant remettre au receveur général, par prélèvement sur chacun de ces versements, la somme mentionnée dans l’avis.
+
+
+
+Ordre valable pour versements à venir
+
+
+
+
+
+
+
+
+
+
+Discharge of liability
+
+
+
+(3) The receipt of the Director is a good and sufficient discharge of the original liability to the extent of the payment.
+
+
+
+
+
+
+
+
+
+(3) Le reçu du directeur constitue une quittance valable et suffisante de l’obligation envers le débiteur de Sa Majesté, à concurrence du versement.
+
+
+
+Quittance
+
+
+
+
+
+
+
+
+
+
+Write-off
+
+
+
+
+73.3 (1) The Director may write off in whole or in part a penalty or interest payable by a person or entity under this Part.
+
+
+
+
+
+
+
+
+
+
+73.3 (1) Le directeur peut radier en totalité ou en partie toute pénalité et tous intérêts à payer au titre de la présente partie.
+
+
+
+Radiation
+
+
+
+
+
+
+
+
+
+
+Effect of write-off
+
+
+
+(2) The writing off of a penalty or interest under this section does not affect any right of Her Majesty to collect or recover the penalty or interest.
+
+
+
+
+
+
+
+
+
+(2) La radiation ne porte pas atteinte au droit de Sa Majesté de recouvrer la pénalité ou les intérêts en cause.
+
+
+
+Effet de la radiation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Provisions
+
+
+
+
+
+
+
+
+
+Dispositions générales
+
+
+
+
+
+
+
+
+
+
+
+
+Evidence
+
+
+
+
+73.4 In a proceeding in respect of a violation or a prosecution for an offence, a notice of violation purporting to be issued under subsection 73.13(2), a notice of decision purporting to be issued under subsection 73.15(4) or 73.19(4), a notice of default purporting to be issued under subsection 73.18(1) or a certificate purporting to be made under subsection 73.26(1) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
+
+
+
+
+
+
+
+
+
+
+73.4 Dans toute procédure en violation ou poursuite pour infraction, le procès-verbal apparemment signifié en vertu du paragraphe 73.13(2), la décision apparemment signifiée en vertu des paragraphes 73.15(4) ou 73.19(4), l’avis de défaut apparemment signifié en vertu du paragraphe 73.18(1) et le certificat de non-paiement apparemment établi en vertu du paragraphe 73.26(1) sont admissibles en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+
+
+Admissibilité du procès-verbal de violation
+
+
+
+
+
+
+
+
+
+
+Time limit
+
+
+
+
+73.5 (1) No proceedings in respect of a violation may be commenced later than two years after the subject-matter of the proceedings became known to the Centre.
+
+
+
+
+
+
+
+
+
+
+73.5 (1) La procédure en violation se prescrit par deux ans à compter de la date où le Centre a eu connaissance des éléments constitutifs de la violation.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Certificate of Centre
+
+
+
+(2) A document appearing to have been issued by the Centre, certifying the day on which the subject-matter of any proceedings became known to the Centre, is admissible in evidence without proof of the signature or official character of the person appearing to have signed it and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
+
+
+
+
+
+
+
+
+
+(2) Tout document apparemment délivré par le Centre et attestant la date où ces éléments sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+
+
+Certificat du Centre
+
+
+
+
+
+
+
+
+
+
+
+
+
+41. The portion of section 74 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+41. Le passage de l’article 74 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+General offences
+
+
+
+
+74. Every person or entity that knowingly contravenes any of sections 6, 6.1 or 9.1 to 9.3, subsection 9.4(2), sections 9.5 to 9.7 or 11.1, subsection 12(1) or (4) or 36(1), section 37, subsection 55(1) or (2), section 57 or subsection 62(2), 63.1(2) or 64(3) or the regulations is guilty of an offence and liable
+
+
+
+
+
+
+
+
+
+
+74. Toute personne ou entité qui sciemment contrevient à l’un ou l’autre des articles 6, 6.1, 9.1, 9.2 et 9.3, du paragraphe 9.4(2), des articles 9.5, 9.6, 9.7 et 11.1, des paragraphes 12(1) et (4) et 36(1), de l’article 37, des paragraphes 55(1) et (2), de l’article 57 et des paragraphes 62(2), 63.1(2) et 64(3) ou aux règlements commet une infraction passible, sur déclaration de culpabilité :
+
+
+
+Infractions générales
+
+
+
+
+
+
+
+
+
+
+
+
+
+42. The Act is amended by adding the following after section 77:
+
+
+
+
+
+
+
+
+
+
+42. La même loi est modifiée par adjonction, après l’article 77, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Registry
+
+
+
+
+77.1 Every person or entity that provides information to the Centre under section 11.12, 11.13, 11.14 or 11.3 and that knowingly makes any false or misleading statement or knowingly provides false or misleading information to a person responsible for carrying out functions under this Act is guilty of an offence and liable
+
+
+
+
+
+
+
+
+
+
+(a) on summary conviction, to a fine of not more than $50,000 or to imprisonment for a term of not more than six months, or to both; or
+
+
+
+
+
+
+
+
+
+
+(b) on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than five years, or to both.
+
+
+
+
+
+
+
+
+
+
+77.1 Toute personne ou entité qui fournit des renseignements au Centre au titre des articles 11.12, 11.13, 11.14 ou 11.3 et qui sciemment fait une déclaration fausse ou trompeuse ou fournit un renseignement faux ou trompeur à une personne chargée de l’application de la présente loi commet une infraction passible, sur déclaration de culpabilité :
+
+
+
+Autres interdictions
+
+
+
+
+
+a) par procédure sommaire, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines;
+
+
+
+
+
+
+
+
+
+
+
+b) par mise en accusation, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43. The portion of section 79 of the Act before paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+43. L’article 79 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offence by employee, agent or mandatary
+
+
+
+
+79. In a prosecution for an offence under section 75, 77 or 77.1,
+
+
+
+
+
+
+
+
+
+
+(a) it is sufficient proof of the offence to establish that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary is identified or has been prosecuted for the offence; and
+
+
+
+
+
+
+
+
+
+
+79. Dans les poursuites pour infraction aux articles 75, 77 et 77.1, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par un employé ou un mandataire de celui-ci, que cet employé ou mandataire ait été ou non identifié ou poursuivi. Toutefois, nul ne peut être déclaré coupable de l’infraction s’il prouve qu’il a exercé la diligence convenable pour l’empêcher.
+
+
+
+Perpétration par un employé ou mandataire
+
+
+
+
+
+
+
+
+
+
+
+
+
+44. Section 81 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+44. L’article 81 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Time limitation
+
+
+
+
+81. Proceedings under paragraph 74(a), 75(1)(a) or 76(a), subsection 77(1) or paragraph 77.1(a) may be instituted within, but not after, five years after the time when the subject-matter of the proceedings arose.
+
+
+
+
+
+
+
+
+
+
+81. Les poursuites fondées sur les alinéas 74a), 75(1)a) ou 76a), le paragraphe 77(1) ou l’alinéa 77.1a) se prescrivent par cinq ans à compter du fait en cause.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 1 (5th Supp.)
+
+
+
+AMENDMENTS TO THE INCOME TAX ACT
+
+
+
+
+
+
+
+
+
+MODIFICATION DE LA LOI DE L’IMPÔT SUR LE REVENU
+
+
+
+L.R., ch. 1 (5e suppl.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+45. (1) Paragraph 241(4)(f.1) of the Income Tax Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+45. (1) L’alinéa 241(4)f.1) de la Loi de l’impôt sur le revenu est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(f.1) provide taxpayer information to an official for the purposes of the administration and enforcement of the Charities Registration (Security Information) Act, and where an official has so received taxpayer information, the official may provide that information to another official as permitted by subsection (9.1);
+
+
+
+
+
+
+
+
+
+
+f.1) fournir un renseignement confidentiel à un fonctionnaire pour l’application et le contrôle d’application de la Loi sur l’enregistrement des organismes de bienfaisance (renseignements de sécurité); le fonctionnaire qui a ainsi reçu un renseignement confidentiel peut le fournir à un autre fonctionnaire en conformité avec le paragraphe (9.1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 241 of the Act is amended by adding the following after subsection (8):
+
+
+
+
+
+
+
+
+
+(2) L’article 241 de la même loi est modifié par adjonction, après le paragraphe (8), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Threats to security
+
+
+
+(9) An official may provide, to an official of the Canadian Security Intelligence Service, of the Royal Canadian Mounted Police or of the Financial Transactions and Reports Analysis Centre of Canada,
+
+
+
+
+
+
+
+
+
+
+(a) publicly accessible charity information;
+
+
+
+
+
+
+
+
+
+
+(b) designated taxpayer information, if there are reasonable grounds to suspect that the information would be relevant to
+
+
+
+
+
+
+
+
+
+
+(i) an investigation by the Canadian Security Intelligence Service of whether the activity of any person may constitute threats to the security of Canada, as defined in section 2 of the Canadian Security Intelligence Service Act,
+
+
+
+
+
+
+
+
+
+
+(ii) an investigation of whether an offence may have been committed under
+
+
+
+
+
+
+
+
+
+
+(A) Part II.1 of the Criminal Code, or
+
+
+
+
+
+
+
+
+
+
+(B) section 462.31 of the Criminal Code, if that investigation is related to an offence under Part II.1 of that Act, or
+
+
+
+
+
+
+
+
+
+
+(iii) the prosecution of an offence referred to in subparagraph (ii); and
+
+
+
+
+
+
+
+
+
+
+(c) information setting out the reasonable grounds referred to in paragraph (b), to the extent that any such grounds rely on information referred to in paragraph (a) or (b).
+
+
+
+
+
+
+
+
+
+(9) Un fonctionnaire peut fournir les renseignements ci-après aux fonctionnaires du Service canadien du renseignement de sécurité, de la Gendarmerie royale du Canada et du Centre d’analyse des opérations et déclarations financières du Canada :
+
+
+
+Menaces à la sécurité
+
+
+
+
+
+a) les renseignements d’organismes de bienfaisance accessibles au public;
+
+
+
+
+
+
+
+
+
+
+
+b) les renseignements confidentiels désignés, s’il existe des motifs raisonnables de soupçonner qu’ils seraient utiles aux fins suivantes :
+
+
+
+
+
+
+
+
+
+
+(i) toute enquête par le Service canadien du renseignement de sécurité visant à vérifier si les activités d’une personne sont de nature à constituer des menaces envers la sécurité du Canada, au sens de l’article 2 de la Loi sur le Service canadien du renseignement de sécurité,
+
+
+
+
+
+
+
+
+
+
+(ii) toute enquête visant à établir si une infraction prévue aux dispositions ci-après peut avoir été commise :
+
+
+
+
+
+
+
+
+
+
+(A) les dispositions de la partie II.1 du Code criminel,
+
+
+
+
+
+
+
+
+
+
+(B) l’article 462.31 du Code criminel, si l’enquête en cause est liée à une infraction prévue à la partie II.1 de cette loi,
+
+
+
+
+
+
+
+
+
+
+(iii) la poursuite relative à une infraction mentionnée au sous-alinéa (ii);
+
+
+
+
+
+
+
+
+
+
+
+c) les renseignements établissant les motifs raisonnables mentionnés à l’alinéa b), dans la mesure où ces motifs sont fondés sur les renseignements visés aux alinéas a) ou b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Threats to security
+
+
+
+(9.1) Information — other than designated donor information — provided to an official of the Canadian Security Intelligence Service or the Royal Canadian Mounted Police, as permitted by paragraph (4)(f.1), may be used by such an official, or communicated by such an official to another official of the Canadian Security Intelligence Service or the Royal Canadian Mounted Police for use by that other official, for the purpose of
+
+
+
+
+
+
+
+
+
+
+(a) investigating whether an offence may have been committed, ascertaining the identity of a person or persons who may have committed an offence, or prosecuting an offence, which offence is
+
+
+
+
+
+
+
+
+
+
+(i) described in Part II.1 of the Criminal Code, or
+
+
+
+
+
+
+
+
+
+
+(ii) described in section 462.31 of the Criminal Code, if that investigation, ascertainment or prosecution is related to an investigation, ascertainment or prosecution in respect of an offence described in Part II.1 of that Act; or
+
+
+
+
+
+
+
+
+
+
+(b) investigating whether the activities of any person may constitute threats to the security of Canada, as defined in section 2 of the Canadian Security Intelligence Service Act.
+
+
+
+
+
+
+
+
+
+(9.1) Tout fonctionnaire du Service canadien du renseignement de sécurité ou de la Gendarmerie royale du Canada à qui des renseignements, sauf les renseignements désignés sur les donateurs, sont fournis en conformité avec l’alinéa (4)f.1) peut les utiliser, ou les communiquer à un autre fonctionnaire du Service canadien du renseignement de sécurité ou de la Gendarmerie royale du Canada pour que celui-ci les utilise, en vue :
+
+
+
+Menaces à la sécurité
+
+
+
+
+
+a) de mener une enquête pour établir si une infraction prévue aux dispositions ci-après peut avoir été commise, de vérifier l’identité de toute personne pouvant avoir commis une telle infraction ou d’intenter une poursuite relative à une telle infraction :
+
+
+
+
+
+
+
+
+
+
+(i) les dispositions de la partie II.1 du Code criminel,
+
+
+
+
+
+
+
+
+
+
+(ii) l’article 462.31 du Code criminel, si l’enquête, la vérification ou la poursuite en cause est liée à une enquête, à une vérification ou à une poursuite relatives à une infraction prévue à la partie II.1 de cette loi;
+
+
+
+
+
+
+
+
+
+
+
+b) de mener une enquête pour établir si les activités d’une personne sont de nature à constituer des menaces envers la sécurité du Canada, au sens de la Loi sur le Service canadien du renseignement de sécurité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 241(10) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 241(10) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“designated donor information”« renseignements désignés sur les donateurs »
+
+
+
+“designated donor information” means information of a charity, or of a person who has at any time made an application for registration as a registered charity, that is directly attributable to a gift that has been made or proposed to be made to the charity or applicant and that is presented in any form that directly or indirectly reveals the identity of the donor or prospective donor, other than a donor or prospective donor who is not resident in Canada and is neither a citizen of Canada nor a person described in subsection 2(3);
+
+
+
+
+“designated taxpayer information”« renseignement confidentiel désigné »
+
+
+
+“designated taxpayer information” means taxpayer information — other than designated donor information — of a registered charity, or of a person who has at any time made an application for registration as a registered charity, that is
+
+
+
+
+
+
+
+
+
+
+(a) in respect of a financial transaction
+
+
+
+
+
+
+
+
+
+
+(i) relating to the importation or exportation of currency or monetary instruments by the charity or applicant, or
+
+
+
+
+
+
+
+
+
+
+(ii) in which the charity or applicant has engaged a person to whom section 5 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act applies,
+
+
+
+
+
+
+
+
+
+
+(b) information provided to the Minister by the Canadian Security Intelligence Service, the Royal Canadian Mounted Police or the Financial Transactions and Reports Analysis Centre of Canada,
+
+
+
+
+
+
+
+
+
+
+(c) the name, address, date of birth and citizenship of any current or former director, trustee or like official, or of any agent, mandatary or employee, of the charity or applicant,
+
+
+
+
+
+
+
+
+
+
+(d) information submitted by the charity or applicant in support of an application for registration as a registered charity that is not publicly accessible charity information,
+
+
+
+
+
+
+
+
+
+
+(e) publicly available, including commercially available databases, or
+
+
+
+
+
+
+
+
+
+
+(f) information prepared from publicly accessible charity information and information referred to in paragraphs (a) to (e);
+
+
+
+
+“publicly accessible charity information”« renseignement d’organismes de bienfaisance accessible au public »
+
+
+
+“publicly accessible charity information” means taxpayer information that is
+
+
+
+
+
+
+
+
+
+
+(a) described in subsection (3.2), or that would be described in that subsection if the words “that was at any time a registered charity” were read as “that has at any time made an application for registration as a registered charity”,
+
+
+
+
+
+
+
+
+
+
+(b) information — other than designated donor information — submitted to the Minister with, or required to be contained in, any public information return filed or required to be filed under subsection 149.1(14), or
+
+
+
+
+
+
+
+
+
+
+(c) information prepared from information referred to in paragraph (a) or (b);
+
+
+
+
+
+
+
+
+
+« renseignement confidentiel désigné » Renseignement confidentiel, sauf les renseignements désignés sur les donateurs, d’un organisme de bienfaisance enregistré, ou d’une personne ayant présenté à un moment donné une demande d’enregistrement à ce titre, constitué :
+
+
+
+« renseignement confidentiel désigné »“designated taxpayer information”
+
+
+
+
+
+a) de renseignements concernant une opération financière, selon le cas :
+
+
+
+
+
+
+
+
+
+
+(i) qui a trait à l’importation ou à l’exportation d’espèces ou d’effets par l’organisme ou le demandeur,
+
+
+
+
+
+
+
+
+
+
+(ii) à laquelle l’organisme ou le demandeur se livre avec une personne visée à l’article 5 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes;
+
+
+
+
+
+
+
+
+
+
+
+b) de renseignements fournis au ministre par le Service canadien du renseignement de sécurité, la Gendarmerie royale du Canada ou le Centre d’analyse des opérations et déclarations financières du Canada;
+
+
+
+
+
+
+
+
+
+
+
+c) des nom, adresse, date de naissance et citoyenneté de tout administrateur, fidu-­ ciaire ou représentant semblable — actuel ou ancien —, ou de tout mandataire ou employé, de l’organisme ou du demandeur;
+
+
+
+
+
+
+
+
+
+
+
+d) de renseignements fournis par l’organisme ou le demandeur à l’appui d’une demande d’enregistrement à titre d’organisme de bienfaisance enregistré qui ne sont pas des renseignements d’organismes de bienfaisance accessibles au public;
+
+
+
+
+
+
+
+
+
+
+
+e) de bases de données accessibles au public, y compris celles offertes sur le marché;
+
+
+
+
+
+
+
+
+
+
+
+f) de renseignements tirés de renseignements d’organismes de bienfaisance accessibles au public ou des renseignements visés aux alinéas a) à e).
+
+
+
+
+
+
+
+
+
+
+« renseignement d’organismes de bienfaisance accessible au public » Renseignement confidentiel qui, selon le cas :
+
+
+
+« renseignement d’organismes de bienfaisance accessible au public »“publicly accessible charity information”
+
+
+
+
+
+a) est visé au paragraphe (3.2), ou le serait si le passage « qui a été un organisme de bienfaisance enregistré à un moment donné » était remplacé par « qui a présenté une demande d’enregistrement à titre d’organisme de bienfaisance enregistré à un moment donné »;
+
+
+
+
+
+
+
+
+
+
+
+b) est un renseignement (sauf des renseignements désignés sur les donateurs) qui est présenté au ministre avec toute déclaration publique de renseignements produite ou à produire en application du paragraphe 149.1(14), ou qui doit figurer dans une telle déclaration;
+
+
+
+
+
+
+
+
+
+
+
+c) est un renseignement tiré des renseignements visés aux alinéas a) ou b).
+
+
+
+
+
+
+
+
+
+
+« renseignements désignés sur les donateurs » Renseignements d’un organisme de bienfaisance, ou d’une personne ayant présenté à un moment donné une demande d’enregistrement à ce titre, qui sont directement attribuables à un don effectif ou projeté à l’organisme ou à la personne et qui sont présentés sous une forme qui révèle, directement ou indirectement, l’identité du donateur effectif ou éventuel, sauf si ce donateur ne réside pas au Canada et n’est ni un citoyen du Canada ni une personne visée au paragraphe 2(3).
+
+
+
+« renseignements désignés sur les donateurs »“designated donor information”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENT
+
+
+
+
+
+
+
+
+
+MODIFICATION CORRÉLATIVE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 38
+
+
+
+Canada Border Services Agency Act
+
+
+
+
+
+
+
+
+
+Loi sur l’Agence des services frontaliers du Canada
+
+
+
+2005, ch. 38
+
+
+
+
+
+
+
+
+
+
+
+
+
+46. Subsection 13(1) of the Canada Border Services Agency Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+46. Le paragraphe 13(1) de la Loi sur l’Agence des services frontaliers du Canada est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements
+
+
+
+
+13. (1) Subject to sections 38 and 38.1 of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, the Agency may, with the approval of the Governor in Council, on the recommendation of the Minister and the Minister of Foreign Affairs, enter into an agreement with a foreign state or an international organization, for the purposes of carrying out the mandate of the Agency.
+
+
+
+
+
+
+
+
+
+
+13. (1) Sous réserve des articles 38 et 38.1 de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, l’Agence peut dans le cadre de sa mission, avec l’agrément du gouverneur en conseil donné sur recommandation du ministre et du ministre des Affaires étrangères, conclure des accords avec un État étranger ou toute organisation internationale.
+
+
+
+Accords
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+47. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+47. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

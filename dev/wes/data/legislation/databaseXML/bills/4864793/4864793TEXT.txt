@@ -1,0 +1,891 @@
+
+
+
+
+
+C-605
+
+
+
+
+
+C-605
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+
+
+
+
+
+Troisième session, quarantième législature,
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-605
+
+
+
+
+
+PROJET DE LOI C-605
+
+
+
+
+
+
+An Act respecting a Comprehensive National Strategy for Sickle Cell Disease and Thalassemic Disorders
+
+
+
+
+
+Loi concernant une stratégie nationale globale sur la drépanocytose et les thalassémies
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 13, 2010
+
+première lecture le 13 décembre 2010
+
+
+
+
+
+
+
+
+
+
+
+
+Ms. Duncan (Etobicoke North)
+
+403202
+
+
+
+Mme Duncan (Etobicoke-Nord)
+
+
+
+
+
+SUMMARY
+This enactment requires the Minister of Health to initiate discussions with the provincial and territorial ministers responsible for health for the purpose of developing a comprehensive national strategy for the health care of persons afflicted with sickle cell disease and thalassemic disorders.
+
+
+
+SOMMAIRE
+Le texte exige du ministre de la Santé qu’il entame des discussions avec les ministres provinciaux et territoriaux chargés de la santé dans le but d’élaborer une stratégie nationale globale sur les soins de santé destinés aux personnes atteintes de drépanocytose et de thalassémies.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+3e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-605
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-605
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting a Comprehensive National Strategy for Sickle Cell Disease and Thalassemic Disorders
+
+
+
+
+
+
+
+
+
+Loi concernant une stratégie nationale globale sur la drépanocytose et les thalassémies
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas sickle cell disease is characterized by a mutation in the shape of the red blood cell from a smooth, circular shape to a crescent shape, which can result in the blockage of small blood vessels and the impairment of blood flow, thus leading to a reduction in red blood cell survival and subsequent anemia;
+
+
+
+
+
+
+
+
+Whereas the poor blood oxygen levels and blood vessel blockages that result from sickle cell disease can lead to severe chronic pain, serious bacterial infections and tissue death;
+
+
+
+
+
+
+
+
+Whereas the life span of persons with severe sickle cell disease can be reduced by as much as 30 years;
+
+
+
+
+
+
+
+
+Whereas approximately 5% of the world’s population carries the trait gene for sickle cell disease, with the percentage of carriers of the gene being as high as 25% in some regions;
+
+
+
+
+
+
+
+
+Whereas sickle cell disease is particularly common among people whose ancestors come from sub-Saharan Africa, India, Saudi Arabia and Mediterranean countries;  
+
+
+
+
+
+
+
+
+Whereas thalassemic disorders are also inherited and result in the afflicted not being able to make enough hemoglobin, which is found in red blood cells and carries oxygen to all parts of the body;
+
+
+
+
+
+
+
+
+Whereas a lack of hemoglobin in red blood cells prevents  oxygen from getting to all parts of the body, which results in organs becoming starved for oxygen and unable to function properly;
+
+
+
+
+
+
+
+
+Whereas thalassemic disorders are most commonly found in Asia, the Mediterranean basin and the Middle East;
+
+
+
+
+
+
+
+
+Whereas the management of sickle cell disease and thalassemic disorders is inadequate in Canada;
+
+
+
+
+
+
+
+
+And whereas the Parliament of Canada believes that the prospects and life circumstances of patients suffering from sickle cell disease and thalassemic disorders must be improved through the development of a comprehensive national strategy for patient care;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que la drépanocytose se caractérise par une modification de la forme des globules rouges qui, normalement circulaires et lisses, prennent une forme de croissant, ce qui peut entraîner une obstruction des petits vaisseaux sanguins et bloquer la circulation sanguine, réduisant ainsi la durée de vie des globules rouges et causant l’anémie;
+
+
+
+
+
+
+
+
+que la mauvaise oxygénation du sang et l’obstruction des vaisseaux sanguins causées par la drépanocytose peuvent entraîner des douleurs chroniques aiguës, de graves infections bactériennes et des nécroses;
+
+
+
+
+
+
+
+
+que la réduction de l’espérance de vie peut atteindre trente ans chez les personnes atteintes de drépanocytose grave;
+
+
+
+
+
+
+
+
+qu’environ 5 % de la population mondiale sont porteurs d’un gène drépanocytaire et que ce pourcentage atteint 25 % dans certaines régions;
+
+
+
+
+
+
+
+
+que la drépanocytose est particulièrement fréquente chez les personnes dont les ancêtres proviennent de l’Afrique subsaharienne, de l’Inde, de l’Arabie saoudite et des pays méditerranéens; 
+
+
+
+
+
+
+
+
+que les thalassémies sont aussi des anomalies héréditaires  et que les sujets atteints ne produisent pas assez d’hémoglobine, une substance présente dans les globules rouges qui transporte l’oxygène vers toutes les parties du corps;
+
+
+
+
+
+
+
+
+que  l’insuffisance d’hémoglobine dans les globules rouges empêche l’oxygène d’atteindre toutes les parties du corps, de sorte que les organes manquent d’oxygène et ne peuvent fonctionner normalement;
+
+
+
+
+
+
+
+
+que c’est en Asie, dans le bassin méditerranéen et au Moyen-Orient que les thalassémies sont les plus fréquentes;
+
+
+
+
+
+
+
+
+que la gestion de la drépanocytose et des thalassémies est inadéquate au Canada;
+
+
+
+
+
+
+
+
+que le Parlement du Canada est d’avis qu’il faut améliorer les perspectives d’avenir et les conditions de vie des patients atteints de drépanocytose et de thalassémies en élaborant une stratégie nationale globale en matière de soins aux patients,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : 
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the National Strategy for Sickle Cell Disease and Thalassemic Disorders Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la stratégie nationale relative à la drépanocytose et aux thalassémies. 
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+FEDERAL-PROVINCIAL DISCUSSIONS
+
+
+
+
+
+
+
+
+
+DISCUSSIONS FÉDÉRALES-PROVINCIALES
+
+
+
+
+
+
+
+
+
+
+
+
+Federal-provincial discussions
+
+
+
+2. Within 30 days after this Act comes into force, the Minister of Health shall initiate discussions with the provincial and territorial ministers responsible for health for the purpose of 
+
+
+
+
+
+
+
+
+(a) developing a comprehensive national strategy for the health care of persons afflicted with sickle cell disease and thalassemic disorders, including medical services and lifelong emotional and social support;  
+
+
+
+
+
+
+
+
+(b) developing national standards on universal screening to identify infants with sickle cell disease, other hemoglobinopathies and hemoglobinopathy carriers; 
+
+
+
+
+
+
+
+
+(c) developing centres of excellence for both pediatric care and adult care; 
+
+
+
+
+
+
+
+
+(d) assessing best practices for providing the support structure that is necessary for patients to succeed at school and in the workplace and for minimizing the impacts on their families, such as underemployment and unemployment; 
+
+
+
+
+
+
+
+
+(e) developing information regarding sickle cell disease and thalassemic disorders to be available for medical education in order to prepare physicians, nurses and other health care providers to meet the needs of Canada's diverse populations; and
+
+
+
+
+
+
+
+
+(f) developing adequate clinical guidelines and strategies for prompt pain management for patients in crisis.
+
+
+
+
+
+
+
+
+
+2. Dans les trente jours suivant l’entrée en vigueur de la présente loi, le ministre de la Santé entame des discussions avec les ministres provinciaux et territoriaux chargés de la santé dans le but : 
+
+
+
+Discussions fédérales-provinciales
+
+
+
+
+a) d’élaborer une stratégie nationale globale sur les soins destinés aux personnes atteintes de drépanocytose et de thalassémies, qui prévoit notamment la prestation de services médicaux et d’un soutien affectif et social continu; 
+
+
+
+
+
+
+
+
+b) de fixer des normes nationales pour le dépistage universel chez les nourrissons de la drépanocytose, des autres hémoglobinopathies et des gènes porteurs d’hémoglobinopathies; 
+
+
+
+
+
+
+
+
+c) de mettre sur pied des centres d’excellence en soins destinés tant aux enfants qu’aux adultes; 
+
+
+
+
+
+
+
+
+d) d’établir les pratiques exemplaires permettant de fournir le soutien structuré nécessaire à la réussite des patients à l’école et au travail et d’atténuer les conséquences de la maladie sur leurs familles, comme le sous-emploi et le chômage; 
+
+
+
+
+
+
+
+
+e) de créer des produits d’information sur la drépanocytose et les thalassémies qui serviront à la formation médicale des médecins, infirmières et autres fournisseurs de soins de santé afin qu’ils soient en mesure de répondre aux besoins de la population diversifiée du Canada;
+
+
+
+
+
+
+
+
+f) d’élaborer des lignes directrices cliniques et des stratégies adéquates pour la gestion rapide de la douleur chez les patients en crise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADVOCACY GROUPS
+
+
+
+
+
+
+
+
+
+GROUPES DE DÉFENSE 
+
+
+
+
+
+
+
+
+
+
+
+
+Funding for advocacy groups
+
+
+
+3. In recognition of the role of advocacy groups in enhancing the quality of life of persons afflicted with sickle cell disease and thalassemic disorders, the Minister of Health shall, within six months after this Act comes into force, introduce legislation to establish a program for providing funding to such groups.
+
+
+
+
+
+
+
+
+
+3. Compte tenu du rôle joué par les groupes de défense pour l’amélioration de la qualité de vie des personnes atteintes de drépanocytose et de thalassémies, le ministre de la Santé, dans les six mois suivant l’entrée en vigueur de la présente loi, dépose un projet de loi établissant un programme qui accorde un financement à ces groupes.
+
+
+
+Financement des groupes de défense 
+
+
+
+
+
+
+
+
+
+
+SICKLE CELL DISEASE AND THALASSEMIC DISORDERS AWARENESS DAY
+
+
+
+
+
+
+
+
+
+JOURNÉE DE LA SENSIBILISATION À LA DRÉPANOCYTOSE ET AUX THALASSÉMIES 
+
+
+
+
+
+
+
+
+
+
+
+
+Sickle Cell Disease and Thalassemic Disorders Awareness Day
+
+
+
+4. Throughout Canada, in each and every year, the 19th day of June shall be known as “Sickle Cell Disease and Thalassemic Disorders Awareness Day”.
+
+
+
+
+
+
+
+
+
+4. Le 19 juin est, dans tout le Canada, désigné comme « Journée de la sensibilisation à la drépanocytose et aux thalassémies ». 
+
+
+
+Journée de la sensibilisation à la drépanocytose et aux thalassémies
+
+
+
+
+
+
+
+
+
+
+Not a legal holiday
+
+
+
+5. For greater certainty, Sickle Cell Disease and Thalassemic Disorders Awareness Day is not a legal holiday or a non-juridical day.
+
+
+
+
+
+
+
+
+
+5. Il est entendu que la Journée de la sensibilisation à la drépanocytose et aux thalassémies n’est pas une fête légale ni un jour non juridique.
+
+
+
+Statut
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

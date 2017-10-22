@@ -1,0 +1,619 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+STATUTES OF CANADA 2015CHAPTER 30
+
+
+
+
+
+LOIS DU CANADA (2015)CHAPITRE 30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Corrections and Conditional Release Act
+
+
+
+
+
+Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+18th JUNE, 2015
+BILL C-12
+
+SANCTIONNÉE
+LE 18 JUIN 2015
+PROJET DE LOI C-12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Corrections and Conditional Release Act to require the Parole Board of Canada (or a provincial parole board, if applicable) to cancel parole granted to an offender if, before the offender’s release, the offender tests positive in a urinalysis, or fails or refuses to provide a urine sample, and the Board considers that the criteria for granting parole are no longer met. It also amends that Act to clarify that any conditions set by a releasing authority on an offender’s parole, statutory release or unescorted temporary absence may include conditions regarding the offender’s use of drugs or alcohol, including in cases when that use has been identified as a risk factor in the offender’s criminal behaviour.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur le système correctionnel et la mise en liberté sous condition afin que la Commission des libérations conditionnelles du Canada (ou la commission provinciale, s’il y a lieu) soit tenue d’annuler l’octroi d’une libération conditionnelle à un délinquant si, avant sa mise en liberté, il fournit un échantillon d’urine positif ou s’il omet ou refuse de fournir un échantillon et que, selon la Commission, les critères d’autorisation de cette libération ne sont plus remplis. Le texte modifie également la Loi afin de préciser que l’autorité compétente qui impose des conditions au délinquant bénéficiant d’une libération conditionnelle ou d’office ou d’une permission de sortir sans escorte peut prévoir toute condition relative à la consommation de drogues ou d’alcool, notamment lorsqu’il a été établi qu’elle est un facteur de risque dans le comportement criminel du délinquant.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+62-63-64 ELIZABETH II
+
+
+
+
+
+
+
+
+
+62-63-64 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 30
+
+
+
+
+
+
+
+
+
+CHAPITRE 30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Corrections and Conditional Release Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 18th June, 2015]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 18 juin 2015]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Drug-Free Prisons Act.
+
+
+
+
+
+
+
+
+
+1. Loi concernant l’éradication des drogues dans les prisons.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+1992, c. 20
+
+
+
+CORRECTIONS AND CONDITIONAL RELEASE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE SYSTÈME CORRECTIONNEL ET LA MISE EN LIBERTÉ SOUS CONDITION
+
+
+
+1992, ch. 20
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Corrections and Conditional Release Act is amended by adding the following after section 123:
+
+
+
+
+
+
+
+
+
+2. La Loi sur le système correctionnel et la mise en liberté sous condition est modifiée par adjonction, après l’article 123, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Urine sample positive or not provided
+
+
+
+123.1 If an offender has been granted parole under section 122 or 123 but has not yet been released and the offender fails or refuses to provide a urine sample when demanded to provide one under section 54, or provides under that section a urine sample for which the result of the urinalysis is positive, as that term is defined in the regulations, then the Service shall inform the Board of the failure or refusal or the test result.
+
+
+
+
+
+
+
+
+
+123.1 Lorsque le délinquant à qui la libération conditionnelle a été accordée en application des articles 122 ou 123 refuse ou omet, avant sa mise en liberté, de fournir un échantillon d’urine exigé au titre de l’article 54 ou qu’il fournit un tel échantillon et que le résultat de son analyse est positif, au sens des règlements, le Service en informe la Commission.
+
+
+
+Échantillon d’urine positif ou refus
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 124 of the Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+3. L’article 124 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Cancellation of parole — drug test
+
+
+
+(3.1) If the Board is informed of the matters under section 123.1 and the offender has still not yet been released, the Board shall can- cel the parole if, in its opinion, based on the information received under that section, the criteria set out in paragraphs 102(a) and (b) are no longer met.
+
+
+
+
+
+
+
+
+
+(3.1) Lorsque la Commission est informée d’une des situations prévues à l’article 123.1 avant la mise en liberté du délinquant, elle annule l’octroi de la libération conditionnelle si elle est d’avis que, en raison de cette situation, les critères prévus à l’article 102 ne sont plus remplis.
+
+
+
+Annulation de la libération conditionnelle — analyse
+
+
+
+
+
+
+
+
+
+
+1995, c. 42, subpar. 71(a)(xvii)(F)
+
+
+
+4. Subsection 133(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. Le paragraphe 133(3) de la même loi est remplacé par ce qui suit :
+
+
+
+1995, ch. 42, s.-al. 71a)(xvii)(F)
+
+
+
+
+
+
+
+
+
+
+Conditions set by releasing authority
+
+
+
+(3) The releasing authority may impose any conditions on the parole, statutory release or unescorted temporary absence of an offender that it considers reasonable and necessary in order to protect society and to facilitate the offender’s successful reintegration into society. For greater certainty, the conditions may include any condition regarding the offender’s use of drugs or alcohol, including in cases when that use has been identified as a risk factor in the offender’s criminal behaviour.
+
+
+
+
+
+
+
+
+
+(3) L’autorité compétente peut imposer au délinquant qui bénéficie d’une libération conditionnelle ou d’office ou d’une permission de sortir sans escorte les conditions qu’elle juge raisonnables et nécessaires pour protéger la société et favoriser la réinsertion sociale du délinquant. Il est entendu que les conditions peuvent porter sur la consommation de drogues ou d’alcool par le délinquant, notamment lorsqu’il a été établi qu’elle est un facteur de risque dans le comportement criminel du délinquant. 
+
+
+
+Conditions particulières
+
+
+
+
+
+
+
+
+
+
+
+
+5. Subsection 156(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 156(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+156. (1) The Governor in Council may make regulations providing for anything that by this Part is to be provided for by regulation, including defining terms that are to be defined in the regulations for the purposes of this Part, and, generally, for carrying out the purposes and provisions of this Part.
+
+
+
+
+
+
+
+
+
+156. (1) Le gouverneur en conseil peut, par règlement, prendre les mesures d’ordre réglementaire prévues par la présente partie ou nécessaires à sa mise en oeuvre, notamment définir tout terme qui doit être défini par règlement pour l’application de la présente partie.
+
+
+
+Règlements
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

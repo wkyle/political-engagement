@@ -1,0 +1,1409 @@
+
+
+
+
+
+S-44
+
+
+
+
+
+S-44
+
+
+
+
+
+
+First Session, Thirty-seventh Parliament,
+
+
+
+
+
+Première session, trente-septième législature,
+
+
+
+
+
+
+49-50-51 Elizabeth II, 2001-2002
+
+
+
+
+
+49-50-51 Elizabeth II, 2001-2002
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-44
+
+
+
+
+
+PROJET DE LOI S-44
+
+
+
+
+
+
+An Act to amend the National Capital Act
+
+
+
+
+
+Loi modifiant la Loi sur la capitale nationale
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 6, 2002
+
+première lecture le 6 juin 2002
+
+
+
+
+
+
+
+
+
+
+
+
+The Honourable Senator Kinsella
+
+2512
+
+
+
+L’honorable sénateur Kinsella
+
+
+
+
+
+Summary
+This enactment ensures that the public interest is promoted and protected in the management of property under the control of the National Capital Commission.
+It requires the Commission to submit proposals for the disposition of land to each House prior to proceeding with the proposal. Dealings with property with a value of less than one hundred thousand dollars are exempted, as are leases for ten years or less and easements that will not affect the use or appearance of the property. Property received as a gift is covered by the requirement.
+The Clerk of the House receiving a notice of a proposal is required to publish it in the records of the House.
+Any member of either House may move a motion that the proposal be referred to a committee of that House. If a petition is received by the House concerning the proposal, signed by no less than one thousand qualified electors, any motion made by a member of the House to refer the proposal to a committee must be voted on.
+The Commission may proceed with the proposal if no motion is moved in either House by the third sitting day following the last day a petition may be submitted, or if any motion moved is not adopted within thirty sitting days. If the matter is referred to a committee of either House, the Commission is bound by any report of the committee concurred in by the House within a further thirty sitting days.
+The Commission may amend a proposal that is being considered by the committee. This enables the Commission to amend a proposal to secure a committee’s support.
+Finally, the Governor in Council’s previous power to approve a department’s proposal for the development or sale of property, even if the Commission does not, is augmented by giving the Governor in Council the power to direct the Commission not to approve a proposal or to place conditions on the approval.
+
+
+
+Sommaire
+Le texte vise à assurer la promotion et la protection de l’intérêt public relativement à la gestion des biens sous le contrôle de la Commission de la capitale nationale.
+Il exige, lorsque la Commission projette d’aliéner des terrains, qu’elle remette à chaque chambre un préavis du projet. Les biens donnés à la Commission sous forme de libéralités sont soumis à cette obligation, mais non les biens d’une valeur de moins de cent mille dollars, les baux d’au plus de dix ans ou l’octroi de servitudes qui n’ont pas d’incidence sur l’utilisation ou l’apparence des biens.
+Le greffier de chaque chambre du Parlement qui reçoit un avis de projet doit le faire publier dans les comptes rendus de la chambre.
+Tout membre de l’une ou l’autre chambre du Parlement peut présenter une motion demandant qu’un comité de cette chambre soit saisi du projet. Si la chambre reçoit une pétition visant le projet, signée par au moins mille personnes ayant qualité d’électeurs, la motion de renvoi du projet à un comité doit être mise aux voix.
+Si aucune motion n’est présentée dans l’une ou l’autre chambre dans les trois premiers jours de séance suivant le dernier jour où il est permis de présenter une pétition ou si la motion présentée n’est pas adoptée dans les trente jours de séance suivants, la Commission peut procéder à la réalisation du projet. Si un comité de l’une ou l’autre chambre est saisi du projet, la Commission doit respecter tout rapport du comité adopté par la Chambre dans les trente jours de séance suivants.
+La Commission peut modifier un projet à l’étude par le comité afin d’obtenir l’appui de celui-ci.
+En dernier lieu, le pouvoir, dont dispose le gouverneur en conseil, d’approuver les projets d’aménagement ou de vente de biens par un ministère, même si la Commission ne donne pas son approbation, est élargi puisque le gouverneur en conseil peut maintenant ordonner à la Commission de refuser un projet ou de ne l’approuver que si certaines conditions sont respectées.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 37th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 37e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+49-50-51 Elizabeth II, 2001-2002
+
+
+
+
+
+
+
+
+
+49-50-51 Elizabeth II, 2001-2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-44
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the National Capital Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la capitale nationale
+
+
+
+
+
+
+
+
+
+
+
+
+RS 1985 c. N-4
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R. 1985, ch. N-4
+
+
+
+
+
+
+
+
+
+
+
+
+1. The portion of subsection 10(1) of the National Capital Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. Le passage du paragraphe 10(1) de la Loi sur la capitale nationale précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Objects and purposes of Commission
+
+
+
+10. (1) The objects and purposes of the Commission are to promote and protect the public  interest in matters related to the history, culture, public property and development of the National Capital Region and to preserve its function and dignity as the capital of Canada, and for those purposes to
+
+
+
+
+
+
+
+
+
+10. (1) La Commission a pour mission de  promouvoir et de protéger l’intérêt public quant aux questions relatives à l’histoire, à la culture, aux biens publics et à l’aménagement de la région de la capitale nationale, ainsi que de protéger le rôle et la dignité de la capitale du Canada et, à ces fins :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Paragraph 10(2)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. L’alinéa 10(2)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) subject to section 10.1, sell, grant, convey, lease or otherwise dispose of or make available to any person any property, subject to such conditions and limitations as it considers necessary or desirable;
+
+
+
+
+
+
+
+
+
+b) sous réserve de l’article 10.1, prendre, à l’égard de biens, toute mesure compatible avec les conditions et restrictions qu’elle juge utiles, et notamment les vendre, les concéder, les transférer, les louer ou encore les mettre à la disposition de qui que ce soit;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after section 10:
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l’article 10, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Disposition of land
+
+
+
+10.1. (1) Where the Commission proposes to
+
+
+
+
+
+
+
+
+(a) sell, grant, convey or otherwise dispose of any property of the Commission,
+
+
+
+
+
+
+
+
+(b) make available any property of the Commission to any person by lease or other arrangement, if the lease or arrangement
+
+
+
+
+
+
+
+
+(i) endures for a period in excess of ten years,
+
+
+
+
+
+
+
+
+(ii) permits a change in the use of the property, or
+
+
+
+
+
+
+
+
+(iii) permits any significant addition to or change in the appearance of the exterior of any building or other structure on the property, or
+
+
+
+
+
+
+
+
+(c) grant any easement or other interest in any property of the Commission, if it will permit a change in the use of the property or any significant addition to or change in the appearance of the exterior of any building or other structure on the property,
+
+
+
+
+
+
+
+
+the Commission shall, prior to proceeding with the proposal, deliver a notice of the proposal to the Senate and to the House of Commons.
+
+
+
+
+
+
+
+
+
+10.1 (1) La Commission remet un avis au Sénat et à la Chambre des communes avant de procéder à la réalisation des projets visant :
+
+
+
+Aliénation de biens
+
+
+
+
+a) soit l’aliénation, notamment par vente, concession ou transfert, de tout bien de la Commission;
+
+
+
+
+
+
+
+
+b) soit la mise à la disposition d’une personne de tout bien de la Commission aux termes d’un bail ou autre arrangement qui, selon le cas :
+
+
+
+
+
+
+
+
+(i) est d’une durée de plus de dix ans,
+
+
+
+
+
+
+
+
+(ii) autorise un changement de l’utilisation du bien,
+
+
+
+
+
+
+
+
+(iii) autorise un ajout ou changement important à l’apparence de l’extérieur de tout bâtiment ou autre ouvrage qui s’y trouve;
+
+
+
+
+
+
+
+
+c) soit l’octroi d’une servitude ou autre droit sur tout bien de la Commission qui autorise un changement de l’utilisation du bien ou un ajout ou changement important à l’apparence de l’extérieur de tout bâtiment ou autre ouvrage qui s’y trouve.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice printed in the records of the House
+
+
+
+(2) On receiving a notice of a proposal under subsection (1), the Clerk of each House shall cause the notice to be published in the records of the House at the earliest opportunity.
+
+
+
+
+
+
+
+
+
+(2) Sur réception d’un avis de projet mentionné au paragraphe (1), le greffier de chaque chambre du Parlement le fait publier dans les comptes rendus de la chambre à la première occasion.
+
+
+
+Publication de l’avis dans les comptes rendus de la Chambre
+
+
+
+
+
+
+
+
+
+
+Details in notice
+
+
+
+(3) A notice of a proposal under subsection (1) shall provide details of
+
+
+
+
+
+
+
+
+(a) the property that is the subject of the proposal;
+
+
+
+
+
+
+
+
+(b) the nature of the proposed disposition, arrangement or encumbrance;
+
+
+
+
+
+
+
+
+(c) the reasons for the proposal; and
+
+
+
+
+
+
+
+
+(d) the appraised value of the property.
+
+
+
+
+
+
+
+
+
+(3) L’avis de projet contient les renseignements suivants :
+
+
+
+Contenu de l’avis
+
+
+
+
+a) la description du bien visé par le projet;
+
+
+
+
+
+
+
+
+b) le mode d’aliénation ou le type d’arrangement ou de servitude qui est proposé;
+
+
+
+
+
+
+
+
+c) les motifs du projet;
+
+
+
+
+
+
+
+
+d) la valeur estimative du bien.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(4) Subsection (1) does not apply to a property that has an appraised value of less than one hundred thousand dollars.
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe (1) ne s’applique pas aux biens dont la valeur estimative est inférieure à cent mille dollars.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Motion to refer to committee
+
+
+
+(5) A member of either House may, no later than the third day on which the House sits after the expiry of thirty calendar days following the day a notice of a proposal is published by the House under subsection (2), move that the proposal be referred to a committee of the House.
+
+
+
+
+
+
+
+
+
+(5) Tout membre de l’une ou l’autre chambre peut, au plus tard le troisième jour de séance suivant l’expiration des trente jours civils qui suivent à la date de publication de l’avis de projet conformément au paragraphe (2), présenter une motion demandant que le projet soit renvoyé à un comité de la chambre visée.
+
+
+
+Motion de renvoi au comité
+
+
+
+
+
+
+
+
+
+
+Petition concerning proposal
+
+
+
+(6) If, within thirty calendar days after the day a notice of a proposal is published by a House under subsection (2), a petition concerning the proposal is received by the House, signed by no less than one thousand persons who are qualified to vote at a general election for members of the House of Commons, any motion moved under subsection (5) must be voted on no later than the tenth day on which the House sits after the later of
+
+
+
+
+
+
+
+
+(a) the day the petition is received, and
+
+
+
+
+
+
+
+
+(b) the day the motion is moved.
+
+
+
+
+
+
+
+
+
+(6) Si, dans les trente jours civils suivant la date où elle a publié l’avis conformément au paragraphe (2), l’une ou l’autre chambre du Parlement reçoit une pétition à l’égard du projet signée par au moins mille personnes habiles à voter aux élections générales des députés à la Chambre des communes, toute motion présentée en vertu du paragraphe (5) doit être mise aux voix au plus tard le dixième jour de séance de la chambre suivant le dernier en date des jours suivants :
+
+
+
+Pétition visant le projet
+
+
+
+
+a) le jour où la pétition est reçue;
+
+
+
+
+
+
+
+
+b) le jour où la motion est présentée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disposition of motion
+
+
+
+(7) A motion moved under subsection (5) may not be disposed of, other than by adopting it, until the third day on which the House sits following the day on which a petition mentioned in subsection (6) is received by the House, or, if no petition is received by the day that is thirty calendar days after a notice of a proposal is published under subsection (2), until the day on which the House next sits following that day.
+
+
+
+
+
+
+
+
+
+(7) Si une motion est présentée en vertu du paragraphe (5), il ne peut en être décidé, sauf s’il s’agit de l’adopter, avant le troisième jour de séance de la chambre suivant le jour où elle reçoit la pétition visée au paragraphe (6) ou, si elle n’en reçoit aucune dans les trente jours suivant la publication de l’avis de projet selon le paragraphe (2), avant le premier jour de séance suivant l’expiration de ce délai.
+
+
+
+Décision sur la motion
+
+
+
+
+
+
+
+
+
+
+Petition deemed referred to committee
+
+
+
+(8) Where a motion moved under subsection (5) is adopted and a proposal referred to a committee, every petition concerning the proposal received by the House under subsection (6) is deemed also to be referred to the committee.
+
+
+
+
+
+
+
+
+
+(8) En cas d’adoption de la motion visée au paragraphe (5) et de renvoi du projet à un comité, celui-ci est saisi d’office de chaque pétition visant le projet que reçoit la chambre en application du paragraphe (6).
+
+
+
+Pétition réputée renvoyée au comité
+
+
+
+
+
+
+
+
+
+
+Right to proceed if no motion made or adopted
+
+
+
+(9) The Commission may proceed with the proposal
+
+
+
+
+
+
+
+
+(a) if no motion is moved in either House under subsection (5) by the last day a motion may be moved under that subsection; or
+
+
+
+
+
+
+
+
+(b) if one or more motions have been moved under subsection (5), but none has been adopted by the end of the thirtieth day on which the House sits following the day on which it was moved.
+
+
+
+
+
+
+
+
+
+(9) La Commission peut procéder à la réalisation du projet :
+
+
+
+Droit de procéder en l’absence d’une motion
+
+
+
+
+a) si aucune motion n’est présentée dans l’une ou l’autre chambre du Parlement en vertu du paragraphe (5) au plus tard le dernier jour où il est permis de présenter une motion en vertu de ce paragraphe;
+
+
+
+
+
+
+
+
+b) si une ou plusieurs motions ont été présentées en vertu du paragraphe (5) mais qu’aucune n’a été adoptée à l’expiration du trentième jour de séance suivant la date de leur présentation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commission bound by report as concurred in
+
+
+
+(10) Where one or both Houses adopt a motion moved under subsection (5) and, by the end of the thirtieth day on which the House sits following the day on which the motion was adopted,
+
+
+
+
+
+
+
+
+(a) no report from a committee on the proposal has been concurred in by either House, the Commission may proceed with the proposal;
+
+
+
+
+
+
+
+
+(b) a report from a committee has been concurred in, or amended and concurred in, by either House stating that the proposal may proceed or may proceed only on the conditions stated in it, the Commission may, subject to paragraph (c), proceed with the proposal only in accordance with any conditions in the report as concurred in;
+
+
+
+
+
+
+
+
+(c) a report from a committee has been concurred in, or amended and concurred in, by either House stating that the proposal should not proceed, the Commission may not proceed with the proposal.
+
+
+
+
+
+
+
+
+
+(10) Si l’une ou l’autre chambre ou les deux chambres adoptent une motion présentée en vertu du paragraphe (5) et que, dans les trente jours de séance qui en suivent l’adoption  :
+
+
+
+Commission liée par le rapport adopté
+
+
+
+
+a) aucune des deux chambres n’adopte un rapport du comité sur le projet, la Commission peut procéder à la réalisation du projet;
+
+
+
+
+
+
+
+
+b) la chambre visée adopte, avec ou sans modifications, le rapport du comité appuyant la réalisation du projet sans conditions ou aux conditions qui y sont précisées, la Commission peut, sous réserve de l’alinéa c), procéder à la réalisation du projet d’aliénation pourvu qu’elle respecte les conditions imposées, le cas échéant;
+
+
+
+
+
+
+
+
+c) l’une ou l’autre chambre adopte, avec ou sans modifications, le rapport du comité indiquant son opposition à la réalisation du projet, la Commission ne peut procéder à la réalisation du projet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conditions required by both Houses
+
+
+
+(11) Where each House has concurred in, or amended and concurred in, a report respecting a proposal and each report states that the proposal may proceed only on conditions stated in the report, the Commission may only proceed in a manner that meets the conditions in each report.
+
+
+
+
+
+
+
+
+
+(11) Lorsque chacune des deux chambres a adopté, avec ou sans modifications, un rapport du comité sur le projet indiquant que la réalisation du projet est subordonnée au respect des conditions qui y sont précisées, la Commission ne peut procéder à la réalisation du projet que si elle respecte les conditions énoncées dans chaque rapport.
+
+
+
+Conditions imposées par les deux chambres
+
+
+
+
+
+
+
+
+
+
+Amending proposal
+
+
+
+(12) Where a proposal has been referred to a committee, the Commission may, with the approval of a committee, amend the proposal.
+
+
+
+
+
+
+
+
+
+(12) La Commission peut, avec l’approbation du comité, modifier un projet dont celui-ci est déjà saisi.
+
+
+
+Modification du projet
+
+
+
+
+
+
+
+
+
+
+Other rights unaffected
+
+
+
+(13) Nothing in this section affects the right of a member of the Senate or the House of Commons to move that a matter be referred to a committee.
+
+
+
+
+
+
+
+
+
+(13) Le présent article n’a pas pour effet de porter atteinte au droit d’un membre du Sénat ou de la Chambre des communes de présenter une motion visant à saisir un comité d’une question particulière.
+
+
+
+Maintien des autres droits
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 12.2 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+4. L’article 12.2 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Notice of intent to approve
+
+
+
+(1.1) Where the Commission intends to give its approval to a proposal made under section 12 or 12.1, the Commission shall, before so doing, submit a notice of its intent to the Governor in Council and the Governor in Council shall, within thirty days of receiving the notice,
+
+
+
+
+
+
+
+
+(a) advise the Commission that it has no comment to make on the intended approval;
+
+
+
+
+
+
+
+
+(b) order the Commission not to give its intended approval to the proposal; or
+
+
+
+
+
+
+
+
+(c) authorize the Commission to give its intended approval only on the conditions specified by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(1.1) Si elle entend approuver un projet visé aux articles 12 ou 12.1, la Commission donne au préalable un avis de son intention au gouverneur en conseil et celui-ci prend l’une ou l’autre des mesures suivantes dans les trente jours suivant la réception de l’avis :
+
+
+
+Avis de l’intention d’approuver le projet
+
+
+
+
+a) il avise la Commission qu’il n’a aucun commentaire à formuler sur l’approbation projetée;
+
+
+
+
+
+
+
+
+b) il ordonne à la Commission de ne pas approuver le projet;
+
+
+
+
+
+
+
+
+c) il autorise la Commission à approuver le projet uniquement aux conditions qu’il précise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Section 23 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. L’article 23 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Gifts
+
+
+
+23. The Commission may, if it sees fit, accept any property by way of gift, bequest or devise and may, subject to section 10.1, paragraph 10(2)(b) and subsection 15(1) but notwithstanding any other provision of this Act, expend, administer or dispose of any such property for the purposes of this Act, subject to the terms, if any, on which such property was given, bequeathed or devised to the Commission.
+
+
+
+
+
+
+
+
+
+23. À son appréciation, la Commission peut accepter des biens à titre de don ou legs et, indépendamment des autres dispositions de la présente loi, mais sous réserve de l’article 10.1, de l’alinéa 10(2)b), du paragraphe 15(1) et des conditions régissant ces libéralités, administrer ou aliéner, pour les besoins de la présente loi, les biens ainsi reçus.
+
+
+
+Libéralités
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+National Capital Act
+Clause 1: The relevant portion of subsection 10(1) reads as follows:
+10. (1) The objects and purposes of the Commission are to
+
+
+
+Loi sur la capitale nationale
+Article 1 : Texte du passage visé du paragraphe 10(1) :
+10. (1) La Commission a pour mission :
+
+
+
+
+Clause 2: Paragraph 10(2)(b) reads as follows:
+(b) sell, grant, convey, lease or otherwise dispose of or make available to any person any property, subject to such conditions and limitations as it considers necessary or desirable;
+
+
+
+Article 2 : Texte de l’alinéa 10(2)b) :
+b) prendre, à l’égard de biens, toute mesure compatible avec les conditions et restrictions qu’elle juge utiles, et notamment les vendre, les concéder, les transférer, les louer ou encore les mettre à la disposition de qui que ce soit;
+
+
+
+
+Clause 3: New.
+
+
+
+Article 3 : Nouveau.
+
+
+
+
+Clause 4: New
+
+
+
+Article  4 : Nouveau.
+
+
+
+
+Clause 5: Section 23 reads as follows:
+23. The Commission may, if it sees fit, accept any property by way of gift, bequest or devise and may, subject to paragraph 10(2)(b) and subsection 15(1) but notwithstanding any other provision of this Act, expend, administer or dispose of any such property for the purposes of this Act, subject to the terms, if any, on which such property was given, bequeathed or devised to the Commission.
+
+
+
+Article 5 : Texte de l’article 23 :
+23. À son appréciation, la Commission peut accepter des biens à titre de don ou legs et, indépendamment des autres dispositions de la présente loi, mais sous réserve de l’alinéa 10(2)b), du paragraphe 15(1) et des conditions régissant ces libéralités, administrer ou aliéner, pour les besoins de la présente loi, les biens ainsi reçus.
+
+
+
+

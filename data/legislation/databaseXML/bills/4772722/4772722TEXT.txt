@@ -1,0 +1,3200 @@
+
+
+
+
+
+S-238
+
+
+
+
+
+S-238
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-238
+
+
+
+
+
+PROJET DE LOI S-238
+
+
+
+
+
+
+An Act to establish gender parity on the board of directors of certain corporations, financial institutions and parent Crown corporations
+
+
+
+
+
+Loi visant à assurer la parité de genre dans le conseil d’administration de certaines personnes morales, institutions financières et sociétés d’État mères
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 2, 2009
+
+première lecture le 2 juin 2009
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR HERVIEUX-PAYETTE,  P.C.
+
+3810418
+
+
+
+L’HONORABLE SÉNATEUR HERVIEUX-PAYETTE,   C.P.
+
+
+
+
+
+SUMMARY
+This enactment requires the following corporations and financial institutions to achieve parity in the number of women and men serving as directors:
+(a) every corporation that is a distributing corporation under the Canada Business Corporations Act and has issued securities that remain outstanding and that are held by more than one person;
+(b) every bank that is listed in Schedule I to the Bank Act;
+(c) every insurance company and every trust and loan company that is a distributing company;
+(d) every cooperative credit association; and
+(e) other publicly traded corporations.
+The requirement must be met whenever directors are elected or appointed, starting at the second annual meeting following the day on which the relevant provision comes into force. The organization may apply for a deferral to the third annual meeting if it would have to amend its articles or incorporating instrument and suffer undue hardship in order to comply earlier.
+The requirements are enforced by making compliance by an organization a condition for the issuance of a certificate or letters patent, or the exercise of a power, required to make effective certain processes, proposals or amendments.
+The requirement for gender parity also applies to the parent Crown corporations listed in Schedule III to the Financial Administration Act. In these cases the requirement applies three years after the relevant provision comes into force.
+
+
+
+SOMMAIRE
+Le texte exige que les sociétés et institutions financières suivantes assurent la parité de représentation des femmes et des hommes au sein de leur conseil d’administration :
+a) toute société qui est une société ayant fait appel au public, au sens de la Loi canadienne sur les sociétés par actions, dont les valeurs mobilières sont émises et en circulation et sont détenues par plus d’une personne;
+b) toute banque mentionnée à l’annexe I de la Loi sur les banques;
+c) toute société d’assurances ou société de fiducie et de prêt qui est une société ayant fait appel au public;
+d) toute association coopérative de crédit;
+e) toute autre société cotée en bourse.
+Cette exigence doit être remplie lors de l’élection ou de la nomination des administrateurs, à compter de la deuxième assemblée annuelle suivant la date d’entrée en vigueur de la disposition pertinente. L’entité peut demander un sursis jusqu’à la troisième assemblée annuelle s’il lui faut modifier ses statuts ou son acte constitutif et que le faire plus tôt lui occasionnerait un préjudice injustifié.
+Pour assurer le respect de l’exigence, on en fait une condition à remplir pour obtenir la délivrance d’un certificat ou de lettres patentes ou pour exercer les pouvoirs nécessaires à la mise en œuvre de certains processus ou de certaines propositions ou modifications.
+L’exigence relative à la parité de genre vise également les sociétés d’État mères mentionnées à l’annexe III de la Loi sur la gestion des finances publiques. Dans ce cas, cette exigence s’applique trois ans après l’entrée en vigueur de la disposition pertinente.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-238
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-238
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to establish gender parity on the board of directors of certain corporations, financial institutions and parent Crown corporations
+
+
+
+
+
+
+
+
+
+Loi visant à assurer la parité de genre dans le conseil d’administration de certaines personnes morales, institutions financières et sociétés d’État mères
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas the majority of corporations, financial institutions and parent Crown corporations have many more men than women as directors;
+
+
+
+
+
+
+
+
+Whereas women are active participants in the business community, as business owners, shareholders, officers, managers and employees, and in the market as consumers, and should have equal representation in the management of business;
+
+
+
+
+
+
+
+
+Whereas women are active participants in the democratic government of the country as voters and politicians and should have equal representation in the management of parent Crown corporations;
+
+
+
+
+
+
+
+
+And whereas there are many women in Canada who have the qualifications and experience to act as corporate directors;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que la majorité des personnes morales, institutions financières et sociétés d’État mères comptent beaucoup plus d’hommes que de femmes au sein de leur conseil d’administration;
+
+
+
+
+
+
+
+
+que, puisque les femmes participent activement au milieu des affaires à titre de propriétaires d’entreprise, d’actionnaires, de dirigeantes, de gestionnaires et d’employées et qu’elles jouent un rôle tout aussi important sur le marché en tant que consommatrices, elles devraient jouir d’une représentation égale dans la gestion des affaires;
+
+
+
+
+
+
+
+
+que les femmes participent activement au gouvernement démocratique du pays comme électrices et politiciennes et qu’elles devraient jouir d’une représentation égale dans la gestion des sociétés d’État mères;
+
+
+
+
+
+
+
+
+que bon nombre de femmes au Canada possèdent les compétences et l’expérience voulues pour siéger au conseil d’administration des sociétés,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Board of Directors Gender Parity Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la parité de genre dans les conseils d’administration.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+PART 1
+
+
+
+
+
+
+
+
+
+PARTIE 1
+
+
+
+
+
+
+
+
+
+
+
+
+BUSINESS CORPORATIONS
+
+
+
+
+
+
+
+
+
+SOCIÉTÉS PAR ACTIONS
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-44
+
+
+
+Canada Business Corporations Act
+
+
+
+
+
+
+
+
+
+Loi canadienne sur les sociétés par actions
+
+
+
+L.R., ch. C-44
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Canada Business Corporations Act is amended by adding the following after section 105:
+
+
+
+
+
+
+
+
+
+2. La Loi canadienne sur les sociétés par actions est modifiée par adjonction, après l’article 105, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “distributing corporation”
+
+
+
+105.1 (1) In this section and sections 105.2 and 105.3, “distributing corporation” means a distributing corporation as defined in subsection 2(1), any of the issued securities of which remain outstanding and are held by more than one person.
+
+
+
+
+
+
+
+
+
+105.1 (1) Dans le présent article et les articles 105.2 et 105.3, « société ayant fait appel au public » s’entend d’une société ayant fait appel au public, au sens du paragraphe 2(1), dont des valeurs mobilières émises et en circulation sont détenues par plus d’une personne.
+
+
+
+Définition de « société ayant fait appel au public »
+
+
+
+
+
+
+
+
+
+
+Gender parity requirement
+
+
+
+(2) The composition of the board of directors of a distributing corporation shall be such that, immediately after any election or appointment of directors,
+
+
+
+
+
+
+
+
+(a) 50 per cent of the directors are women, if the corporation has an even number of directors; or
+
+
+
+
+
+
+
+
+(b) the difference between the number of directors who are women and the number who are men is equal to one, if the corporation has an odd number of directors.
+
+
+
+
+
+
+
+
+
+(2) La composition du conseil d’administration d’une société ayant fait appel au public doit être telle que, aussitôt après toute élection ou nomination d’administrateurs :
+
+
+
+Obligation de parité de genre
+
+
+
+
+a) cinquante pour cent des administrateurs sont des femmes, si le conseil est constitué d’un nombre pair d’administrateurs;
+
+
+
+
+
+
+
+
+b) la différence entre le nombre de femmes et d’hommes qui sont administrateurs est égale à un, si le conseil est constitué d’un nombre impair d’administrateurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(3) Subsection (2) does not apply to a distributing corporation until the opening of the second annual meeting of shareholders following the day on which that subsection comes into force.
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe (2) s’applique à la société ayant fait appel au public à compter du début de la deuxième assemblée annuelle des actionnaires suivant la date de son entrée en vigueur.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Deferral
+
+
+
+105.2 The Director may, on application by a distributing corporation, defer the time from which subsection 105.1(2) applies to the corporation to the opening of the third annual meeting of shareholders following the day on which that subsection comes into force, if the Director is satisfied that
+
+
+
+
+
+
+
+
+(a) the articles would have to be amended to increase the number of directors, or the maximum number of directors, to achieve compliance with that subsection without replacing directors who are officers or employees of the corporation or any of its affiliates; and
+
+
+
+
+
+
+
+
+(b) filling the increased number of directors’ positions would cause the corporation undue hardship.
+
+
+
+
+
+
+
+
+
+105.2 Sur demande présentée par une société ayant fait appel au public, le directeur peut reporter la prise d’effet du paragraphe 105.1(2), à l’égard de la société, au début de la troisième assemblée annuelle des actionnaires suivant la date d’entrée en vigueur de ce paragraphe, s’il estime :
+
+
+
+Report
+
+
+
+
+a) d’une part, qu’il faudrait modifier les statuts pour augmenter le nombre d’administrateurs, ou le nombre maximum d’administrateurs, afin d’assurer le respect de ce paragraphe sans remplacer les administrateurs qui sont des dirigeants ou des employés de la société ou de l’une des sociétés de son groupe;
+
+
+
+
+
+
+
+
+b) d’autre part, qu’une telle augmentation causerait un préjudice injustifié à la société.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validity of acts
+
+
+
+105.3 An act of the board of directors of a distributing corporation to which subsection 105.1(2) applies is not invalid on the sole ground that the composition of the board is not in compliance with that subsection.
+
+
+
+
+
+
+
+
+
+105.3 Les actes du conseil d’administration de la société ayant fait appel au public à laquelle s’applique le paragraphe 105.1(2) ne sont pas invalides du seul fait que la composition du conseil n’est pas conforme à ce paragraphe.
+
+
+
+Validité des actes
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 260 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. L’article 260 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment of Director
+
+
+
+260. The Minister may appoint a Director and one or more Deputy Directors to carry out the duties and exercise the powers of the Director under this Act or any other Act of Parliament.
+
+
+
+
+
+
+
+
+
+260. Le ministre peut nommer un directeur et un ou plusieurs directeurs adjoints pour exercer les attributions que la présente loi ou toute autre loi fédérale confère au directeur.
+
+
+
+Nomination du directeur
+
+
+
+
+
+
+
+
+
+
+
+
+4. (1) Subsection 262(2) of the Act is amended by striking out “and” at the end of paragraph (a) and by adding the following after paragraph (a):
+
+
+
+
+
+
+
+
+
+4. (1) Le paragraphe 262(2) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a.1) in the case of a corporation to which subsection 105.1(2) applies, the articles or the statement shall have attached thereto a statutory declaration or certificate made by a director or officer of the corporation stating whether the corporation and those of its affiliates to which subsection 105.1(2) applies have complied with that subsection; and
+
+
+
+
+
+
+
+
+
+a.1) dans le cas d’une société à laquelle s’applique le paragraphe 105.1(2), les statuts ou la déclaration doivent être accompagnés d’une déclaration solennelle ou d’une attestation, établie par un administrateur ou un dirigeant de la société, indiquant si celle-ci et les sociétés de son groupe auxquelles s’applique le paragraphe 105.1(2) se sont conformées à ce paragraphe;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 262 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(2) L’article 262 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Condition
+
+
+
+(2.1) Despite any other provision of this Act but subject to subsection (2.2), the Director shall not issue a certificate under this section in respect of a corporation to which subsection 105.1(2) applies unless the Director is satisfied that the corporation and those of its affiliates to which subsection 105.1(2) applies are in compliance with subsection 105.1(2).
+
+
+
+
+
+
+
+
+
+(2.1) Malgré toute autre disposition de la présente loi et sous réserve du paragraphe (2.2), le directeur ne peut délivrer un certificat visé au présent article à une société à laquelle s’applique le paragraphe 105.1(2) que s’il est convaincu que celle-ci et les sociétés de son groupe auxquelles s’applique ce paragraphe respectent les exigences de celui-ci.
+
+
+
+Condition
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2.2) Subsection (2.1) does not apply to a certificate related to a matter that will enable a corporation to comply with subsection 105.1(2).
+
+
+
+
+
+
+
+
+
+(2.2) Le paragraphe (2.1) ne s’applique pas au certificat qui se rapporte à une question permettant à la société de se conformer aux exigences du paragraphe 105.1(2).
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+PART 2
+
+
+
+
+
+
+
+
+
+PARTIE 2
+
+
+
+
+
+
+
+
+
+
+
+
+FINANCIAL INSTITUTIONS
+
+
+
+
+
+
+
+
+
+INSTITUTIONS FINANCIÈRES
+
+
+
+
+
+
+
+
+
+
+1991, c. 46
+
+
+
+Bank Act
+
+
+
+
+
+
+
+
+
+Loi sur les banques
+
+
+
+1991, ch. 46
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Bank Act is amended by adding the following after section 159:
+
+
+
+
+
+
+
+
+
+5. La Loi sur les banques est modifiée par adjonction, après l’article 159, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “bank”
+
+
+
+159.1 (1) In this section and section 159.2, “bank” means a bank listed in Schedule I.
+
+
+
+
+
+
+
+
+
+159.1 (1) Dans le présent article et l’article 159.2, « banque » s’entend d’une banque mentionnée à l’annexe I.
+
+
+
+Définition de « banque »
+
+
+
+
+
+
+
+
+
+
+Gender parity requirement
+
+
+
+(2) The composition of the board of directors of a bank shall be such that, immediately after any election or appointment of directors,
+
+
+
+
+
+
+
+
+(a) 50 per cent of the directors are women, if the bank has an even number of directors; or
+
+
+
+
+
+
+
+
+(b) the difference between the number of directors who are women and the number who are men is equal to one, if the bank has an odd number of directors.
+
+
+
+
+
+
+
+
+
+(2) La composition du conseil d’administration d’une banque doit être telle que, aussitôt après toute élection ou nomination d’administrateurs :
+
+
+
+Obligation de parité de genre
+
+
+
+
+a) cinquante pour cent des administrateurs sont des femmes, si le conseil est constitué d’un nombre pair d’administrateurs;
+
+
+
+
+
+
+
+
+b) la différence entre le nombre de femmes et d’hommes qui sont administrateurs est égale à un, si le conseil est constitué d’un nombre impair d’administrateurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(3) Subsection (2) does not apply to a bank until the opening of the second annual meeting of shareholders following the day on which that subsection comes into force.
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe (2) s’applique à la banque à compter du début de la deuxième assemblée annuelle des actionnaires suivant la date de son entrée en vigueur.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Deferral
+
+
+
+159.2 The Superintendent may, on application by a bank, defer the time from which subsection 159.1(2) applies to the bank to the opening of the third annual meeting of shareholders following the day on which that subsection comes into force, if the Superintendent is satisfied that
+
+
+
+
+
+
+
+
+(a) the incorporating instrument would have to be amended to increase the number of directors, or the maximum number of directors, to achieve compliance with that subsection without replacing directors who are officers or employees of the bank; and
+
+
+
+
+
+
+
+
+(b) filling the increased number of directors’ positions would cause the bank undue hardship.
+
+
+
+
+
+
+
+
+
+159.2 Sur demande présentée par une banque, le surintendant peut reporter la prise d’effet du paragraphe 159.1(2), à l’égard de la banque, au début de la troisième assemblée annuelle des actionnaires suivant la date d’entrée en vigueur de ce paragraphe, s’il estime :
+
+
+
+Report
+
+
+
+
+a) d’une part, qu’il faudrait modifier l’acte constitutif pour augmenter le nombre d’administrateurs, ou le nombre maximum d’administrateurs, afin d’assurer le respect de ce paragraphe sans remplacer les administrateurs qui sont des dirigeants ou des employés de la banque;
+
+
+
+
+
+
+
+
+b) d’autre part, qu’une telle augmentation causerait un préjudice injustifié à la banque.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Section 216 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+6. L’article 216 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Condition
+
+
+
+(1.1) The Minister shall not issue letters patent pursuant to this section to effect a proposal in respect of a bank to which subsection 159.1(2) applies unless the Minister is satisfied that the bank is in compliance with that subsection.
+
+
+
+
+
+
+
+
+
+(1.1) Le ministre ne peut délivrer des lettres patentes, en vertu du présent article,  pour mettre en œuvre la proposition d’une banque à laquelle s’applique le paragraphe 159.1(2) que s’il est convaincu que la banque respecte les exigences de ce paragraphe.
+
+
+
+Condition
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(1.2) Subsection (1.1) does not apply to a proposal that will enable the bank to be in compliance with subsection 159.1(2).
+
+
+
+
+
+
+
+
+
+(1.2) Le paragraphe (1.1) ne s’applique pas à la proposition visant à permettre à la banque de se conformer aux exigences du paragraphe  159.1(2).
+
+
+
+Exception
+
+
+
+
+
+
+
+
+1991, c. 48
+
+
+
+Cooperative Credit Associations Act
+
+
+
+
+
+
+
+
+
+Loi sur les associations coopératives de crédit
+
+
+
+1991, ch. 48
+
+
+
+
+
+
+
+
+
+
+
+
+7. The Cooperative Credit Associations Act is amended by adding the following after section 169:
+
+
+
+
+
+
+
+
+
+7. La Loi sur les associations coopératives de crédit est modifiée par adjonction, après l’article 169, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Gender parity requirement
+
+
+
+169.1 (1) The composition of the board of directors of an association shall be such that, immediately after any election or appointment of directors,
+
+
+
+
+
+
+
+
+(a) 50 per cent of the directors are women, if the association has an even number of directors; or
+
+
+
+
+
+
+
+
+(b) the difference between the number of directors who are women and the number who are men is equal to one, if the association has an odd number of directors.
+
+
+
+
+
+
+
+
+
+169.1 (1) La composition du conseil d’administration d’une association doit être telle que, aussitôt après toute élection ou nomination d’administrateurs :
+
+
+
+Obligation de parité de genre
+
+
+
+
+a) cinquante pour cent des administrateurs sont des femmes, si le conseil est constitué d’un nombre pair d’administrateurs;
+
+
+
+
+
+
+
+
+b) la différence entre le nombre de femmes et d’hommes qui sont administrateurs est égale à un, si le conseil est constitué d’un nombre impair d’administrateurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) Subsection (1) does not apply to an association until the opening of the second annual meeting of the association following the day on which that subsection comes into force.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) s’applique à l’association à compter du début de la deuxième assemblée annuelle de celle-ci suivant la date de son entrée en vigueur.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Deferral
+
+
+
+169.2 The Superintendent may, on application by an association, defer the time from which subsection 169.1(1) applies to the association to the opening of the third annual meeting of the association following the day on which that subsection comes into force, if the Superintendent is satisfied that
+
+
+
+
+
+
+
+
+(a) the incorporating instrument would have to be amended to increase the number of directors, or the maximum number of directors, to achieve compliance with that subsection without replacing directors who are officers or employees of the association; and
+
+
+
+
+
+
+
+
+(b) filling the increased number of directors’ positions would cause the association undue hardship.
+
+
+
+
+
+
+
+
+
+169.2 Sur demande présentée par une association, le surintendant peut reporter la prise d’effet du paragraphe 169.1(1), à l’égard de l’association, au début de la troisième assemblée annuelle de celle-ci suivant la date d’entrée en vigueur de ce paragraphe, s’il estime :
+
+
+
+Report
+
+
+
+
+a) d’une part, qu’il faudrait modifier l’acte constitutif pour augmenter le nombre d’administrateurs, ou le nombre maximum d’administrateurs, afin d’assurer le respect de ce paragraphe sans remplacer les administrateurs qui sont des dirigeants ou des employés de l’association;
+
+
+
+
+
+
+
+
+b) d’autre part, qu’une telle augmentation causerait un préjudice injustifié à l’association.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Section 220 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+8. L’article 220 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Condition
+
+
+
+(1.1) The Minister shall not issue letters patent pursuant to this section to effect a proposal in respect of an association to which subsection 169.1(1) applies unless the Minister is satisfied that the association is in compliance with that subsection.
+
+
+
+
+
+
+
+
+
+(1.1) Le ministre ne peut délivrer des lettres patentes, en vertu du présent article, pour mettre en œuvre la proposition d’une association à laquelle s’applique le paragraphe 169.1(1) que s’il est convaincu que l’association respecte les exigences de ce paragraphe.
+
+
+
+Condition
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(1.2) Subsection (1.1) does not apply to a proposal that will enable the association to be in compliance with subsection 169.1(1).
+
+
+
+
+
+
+
+
+
+(1.2) Le paragraphe (1.1) ne s’applique pas à la proposition visant à permettre à l’association de se conformer aux exigences du paragraphe  169.1(1).
+
+
+
+Exception
+
+
+
+
+
+
+
+
+1991, c. 47
+
+
+
+Insurance Companies Act
+
+
+
+
+
+
+
+
+
+Loi sur les sociétés d’assurances
+
+
+
+1991, ch. 47
+
+
+
+
+
+
+
+
+
+
+
+
+9. The Insurance Companies Act is amended by adding the following after section 167:
+
+
+
+
+
+
+
+
+
+9. La Loi sur les sociétés d’assurances est modifiée par adjonction, après l’article 167, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Gender parity requirement
+
+
+
+167.1 (1) The composition of the board of directors of a distributing company shall be such that, immediately after any election or appointment of directors,
+
+
+
+
+
+
+
+
+(a) 50 per cent of the directors are women, if the company has an even number of directors; or
+
+
+
+
+
+
+
+
+(b) the difference between the number of directors who are women and the number who are men is equal to one, if the company has an odd number of directors.
+
+
+
+
+
+
+
+
+
+167.1 (1) La composition du conseil d’administration d’une société ayant fait appel au public doit être telle que, aussitôt après toute élection ou nomination d’administrateurs :
+
+
+
+Obligation de parité de genre
+
+
+
+
+a) cinquante pour cent des administrateurs sont des femmes, si le conseil est constitué d’un nombre pair d’administrateurs;
+
+
+
+
+
+
+
+
+b) la différence entre le nombre de femmes et d’hommes qui sont administrateurs est égale à un, si le conseil est constitué d’un nombre impair d’administrateurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) Subsection (1) does not apply to a distributing company until the opening of the second annual meeting of shareholders and policyholders following the day on which that subsection comes into force.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) s’applique à la société ayant fait appel au public à compter du début de la deuxième assemblée annuelle des actionnaires et souscripteurs suivant la date de son entrée en vigueur.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Deferral
+
+
+
+167.2 The Superintendent may, on application by a distributing company, defer the time from which subsection 167.1(1) applies to the distributing company to the opening of the third annual meeting of shareholders and policyholders following the day on which that subsection comes into force, if the Superintendent is satisfied that
+
+
+
+
+
+
+
+
+(a) the incorporating instrument would have to be amended to increase the number of directors, or the maximum number of directors, to achieve compliance with that subsection without replacing directors who are officers or employees of the distributing company; and
+
+
+
+
+
+
+
+
+(b) filling the increased number of directors’ positions would cause the distributing company undue hardship.
+
+
+
+
+
+
+
+
+
+167.2 Sur demande présentée par une société ayant fait appel au public, le surintendant peut reporter la prise d’effet du paragraphe 167.1(1), à l’égard de la société, au début de la troisième assemblée annuelle des actionnaires et souscripteurs suivant la date d’entrée en vigueur de ce paragraphe, s’il estime :
+
+
+
+Report
+
+
+
+
+a) d’une part, qu’il faudrait modifier l’acte constitutif pour augmenter le nombre d’administrateurs, ou le nombre maximum d’administrateurs, afin d’assurer le respect de ce paragraphe sans remplacer les administrateurs qui sont des dirigeants ou des employés de la société;
+
+
+
+
+
+
+
+
+b) d’autre part, qu’une telle augmentation causerait un préjudice injustifié à la société.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Section 225 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+10. L’article 225 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Condition
+
+
+
+(1.1) The Minister shall not issue letters patent pursuant to this section to effect a proposal in respect of a company to which subsection 167.1(1) applies unless the Minister is satisfied that the company is in compliance with that subsection.
+
+
+
+
+
+
+
+
+
+(1.1) Le ministre ne peut délivrer des lettres patentes, en vertu du présent article, pour mettre en œuvre la proposition d’une société à laquelle s’applique le paragraphe 167.1(1) que s’il est convaincu que la société respecte les exigences de ce paragraphe.
+
+
+
+Condition
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(1.2) Subsection (1.1) does not apply to a proposal that will enable the company to be in compliance with subsection 167.1(1).
+
+
+
+
+
+
+
+
+
+(1.2) Le paragraphe (1.1) ne s’applique pas à la proposition visant à permettre à la société de se conformer aux exigences du paragraphe 167.1(1).
+
+
+
+Exception
+
+
+
+
+
+
+
+
+1991, c. 45
+
+
+
+Trust and Loan Companies Act
+
+
+
+
+
+
+
+
+
+Loi sur les sociétés de fiducie et de prêt
+
+
+
+1991, ch. 45
+
+
+
+
+
+
+
+
+
+
+
+
+11. The Trust and Loan Companies Act is amended by adding the following after section 163:
+
+
+
+
+
+
+
+
+
+11. La Loi sur les sociétés de fiducie et de prêt est modifiée par adjonction, après l’article 163, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Gender parity requirement
+
+
+
+163.1 (1) The composition of the board of directors of a distributing company shall be such that, immediately after any election or appointment of directors,
+
+
+
+
+
+
+
+
+(a) 50 per cent of the directors are women, if the company has an even number  of directors; or
+
+
+
+
+
+
+
+
+(b) the difference between the number of directors who are women and the number who are men is equal to one, if the company has an odd number of directors.
+
+
+
+
+
+
+
+
+
+163.1 (1) La composition du conseil d’administration d’une société ayant fait appel au public doit être telle que, aussitôt après toute élection ou nomination d’administrateurs :
+
+
+
+Obligatioan de parité de genre
+
+
+
+
+a) cinquante pour cent des administrateurs sont des femmes, si le conseil est constitué d’un nombre pair d’administrateurs;
+
+
+
+
+
+
+
+
+b) la différence entre le nombre de femmes et d’hommes qui sont administrateurs est égale à un, si le conseil est constitué d’un nombre impair d’administrateurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) Subsection (1) does not apply to a distributing company until the opening of the second annual meeting of shareholders following the day on which that subsection comes into force.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) s’applique à la société ayant fait appel au public à compter du début de la deuxième assemblée annuelle des actionnaires suivant la date de son entrée en vigueur.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Deferral
+
+
+
+163.2 The Superintendent may, on application by a distributing company, defer the time from which subsection 163.1(1) applies to the distributing company to the opening of the third annual meeting of shareholders following the day on which that subsection comes into force, if the Superintendent is satisfied that
+
+
+
+
+
+
+
+
+(a) the incorporating instrument would have to be amended to increase the number of directors, or the maximum number of directors, to achieve compliance with that subsection without replacing directors who are officers or employees of the distributing company; and
+
+
+
+
+
+
+
+
+(b) filling the increased number of directors’ positions would cause the distributing company undue hardship.
+
+
+
+
+
+
+
+
+
+163.2 Sur demande présentée par une société ayant fait appel au public, le surintendant peut reporter la prise d’effet du paragraphe 163.1(1), à l’égard de la société, au début de la troisième assemblée annuelle des actionnaires suivant la date d’entrée en vigueur de ce paragraphe, s’il estime :
+
+
+
+Report
+
+
+
+
+a) d’une part, qu’il faudrait modifier l’acte constitutif pour augmenter le nombre d’administrateurs, ou le nombre maximum d’administrateurs, afin d’assurer le respect de ce paragraphe sans remplacer les administrateurs qui sont des dirigeants ou des employés de la société;
+
+
+
+
+
+
+
+
+b) d’autre part, qu’une telle augmentation causerait un préjudice injustifié à la société.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Section 221 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+12. L’article 221 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Condition
+
+
+
+(1.1) The Minister shall not issue letters patent pursuant to this section to effect a proposal in respect of a company to which subsection 163.1(1) applies unless the Minister is satisfied that the company is in compliance with that subsection.
+
+
+
+
+
+
+
+
+
+(1.1) Le ministre ne peut délivrer des lettres patentes, en vertu du présent article, pour mettre en œuvre la proposition d’une société à laquelle s’applique le paragraphe 163.1(1) que s’il est convaincu que la société respecte les exigences de ce paragraphe.
+
+
+
+Condition
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(1.2) Subsection (1.1) does not apply to a proposal that will enable the company to be in compliance with subsection 163.1(1).
+
+
+
+
+
+
+
+
+
+(1.2) Le paragraphe (1.1) ne s’applique pas à la proposition visant à permettre à la société de se conformer aux exigences du paragraphe  163.1(1).
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+PART 3
+
+
+
+
+
+
+
+
+
+PARTIE 3
+
+
+
+
+
+
+
+
+
+
+
+
+OTHER PUBLICLY TRADED CORPORATIONS
+
+
+
+
+
+
+
+
+
+AUTRES SOCIÉTÉS COTÉES EN BOURSE
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+13. The following definitions apply in this Part.
+
+
+
+
+“corporation”« société »
+
+
+
+“corporation” means
+
+
+
+
+
+
+
+
+(a) a corporation that is a reporting issuer under any legislation that is set out in column 2 of an item of Schedule 1 to the Canada Business Corporations Regulations, 2001, or
+
+
+
+
+
+
+
+
+(b) in the case of a corporation that is not a reporting issuer referred to in paragraph (a), a corporation
+
+
+
+
+
+
+
+
+(i) that has filed a prospectus or registration statement under provincial or foreign legislation,
+
+
+
+
+
+
+
+
+(ii) any of the securities of which are listed and posted for trading on a stock exchange in or outside Canada, or
+
+
+
+
+
+
+
+
+(iii) that is involved in, is formed for, results from or is continued after an amalgamation, a reorganization, an arrangement or a statutory procedure, if one of the participating bodies corporate is a corporation referred to in subparagraph (i) or (ii),
+
+
+
+
+
+
+
+
+but does not include a corporation
+
+
+
+
+
+
+
+
+(c) that is subject to an exemption under provincial securities legislation or to an order of the relevant provincial securities regulator that provides that the corporation is not a reporting issuer for the purposes of the applicable legislation,
+
+
+
+
+
+
+
+
+(d) listed in any of the schedules to the Financial Administration Act, or
+
+
+
+
+
+
+
+
+(e) to which the Bank Act, the Canada Business Corporations Act, the Cooperative Credit Associations Act, the Insurance Companies Act or the Trust and Loan Companies Act applies.
+
+
+
+
+“Director”« directeur »
+
+
+
+“Director” means the Director appointed under section 260 of the Canada Business Corporations Act.
+
+
+
+
+“incorporating instrument”« acte constitutif »
+
+
+
+“incorporating instrument” means the special Act, letters patent, instrument of continuance or other constating instrument by which a body corporate was incorporated or continued and includes any amendment to or restatement of the constating instrument.
+
+
+
+
+
+
+
+
+
+13. Les définitions qui suivent s’appliquent à la présente partie.
+
+
+
+Définitions
+
+
+
+
+« acte constitutif  » Loi spéciale, lettres patentes, acte de prorogation ou tout autre acte — avec ses modifications ou mises à jour éventuelles — constituant ou prorogeant une personne morale.
+
+
+
+« acte constitutif »“incorporating instrument”
+
+
+
+
+« directeur » Le directeur nommé en application de l’article 260 de la Loi canadienne sur les sociétés par actions.
+
+
+
+« directeur »“Director”
+
+
+
+
+« société » S’entend, selon le cas :
+
+
+
+« société »“corporation”
+
+
+
+
+a) d’une société qui est un émetteur assujetti au sens de toute loi mentionnée à la colonne 2 de l’annexe du Règlement sur les sociétés par actions de régime fédéral (2001);
+
+
+
+
+
+
+
+
+b) d’une société qui, sans être un émetteur assujetti visé à l’alinéa a), se trouve néanmoins dans l’une ou l’autre des situations suivantes :
+
+
+
+
+
+
+
+
+(i) elle a déposé un prospectus ou une déclaration d’enregistrement sous le régime d’une loi provinciale ou étrangère,
+
+
+
+
+
+
+
+
+(ii) ses valeurs mobilières sont cotées et négociables dans une bourse au Canada ou à l’étranger,
+
+
+
+
+
+
+
+
+(iii) elle prend part à une fusion, à une réorganisation ou à un arrangement, ou encore à une procédure prévue par la loi, elle est constituée à ces fins, elle en résulte ou elle est prorogée par la suite, si l’une des personnes morales participantes est une société visée aux sous-alinéas (i) ou (ii),
+
+
+
+
+
+
+
+
+mais ne vise pas :
+
+
+
+
+
+
+
+
+c) la société qui fait l’objet d’une dispense sous le régime d’une loi provinciale sur les valeurs mobilières, ou d’un arrêté pris par un organisme de réglementation provincial compétent et portant que, pour l’application de la loi applicable, elle n’est pas un émetteur assujetti;
+
+
+
+
+
+
+
+
+d) toute personne morale mentionnée à l’une des annexes de la Loi sur la gestion des finances publiques;
+
+
+
+
+
+
+
+
+e) toute personne morale visée par la Loi sur les banques, la Loi canadienne sur les sociétés par actions, la Loi sur les associations coopératives de crédit, la Loi sur les sociétés d’assurances ou la Loi sur les sociétés de fiducie et de prêt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gender parity requirement
+
+
+
+14. (1) The composition of the board of directors of a corporation shall be such that, immediately after any election or appointment of directors,
+
+
+
+
+
+
+
+
+(a) 50 per cent of the directors are women, if the corporation has an even number of directors; or
+
+
+
+
+
+
+
+
+(b) the difference between the number of directors who are women and the number who are men is equal to one, if the corporation has an odd number of directors.
+
+
+
+
+
+
+
+
+
+14. (1) La composition du conseil d’administration d’une société doit être telle que, aussitôt après toute élection ou nomination d’administrateurs :
+
+
+
+Obligation de parité de genre
+
+
+
+
+a) cinquante pour cent des administrateurs sont des femmes, si le conseil est constitué d’un nombre pair d’administrateurs;
+
+
+
+
+
+
+
+
+b) la différence entre le nombre de femmes et d’hommes qui sont administrateurs est égale à un, si le conseil est constitué d’un nombre impair d’administrateurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) Subsection (1) does not apply to a corporation until the opening of the second annual meeting of the corporation following the day on which that subsection comes into force.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) s’applique à la société à compter du début de la deuxième assemblée annuelle de celle-ci suivant la date de son entrée en vigueur.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Deferral
+
+
+
+15. The Director may, on application by a corporation, defer the time from which subsection 14(1) applies to the corporation to the opening of the third annual meeting of the corporation following the day on which that subsection comes into force, if the Director is satisfied that
+
+
+
+
+
+
+
+
+(a) the incorporating instrument would have to be amended to increase the number of directors, or the maximum number of directors, to achieve compliance with that subsection without replacing directors who are officers or employees of the corporation; and
+
+
+
+
+
+
+
+
+(b) filling the increased number of directors’ positions would cause the corporation undue hardship.
+
+
+
+
+
+
+
+
+
+15. Sur demande présentée par une société, le directeur peut reporter la prise d’effet du paragraphe 14(1), à l’égard de la société, au début de la troisième assemblée annuelle de celle-ci suivant la date d’entrée en vigueur de ce paragraphe, s’il estime :
+
+
+
+Report
+
+
+
+
+a) d’une part, qu’il faudrait modifier l’acte constitutif pour augmenter le nombre d’administrateurs, ou le nombre maximum d’administrateurs, afin d’assurer le respect de ce paragraphe sans remplacer les administrateurs qui sont des dirigeants ou des employés de la société;
+
+
+
+
+
+
+
+
+b) d’autre part, qu’une telle augmentation causerait un préjudice injustifié à la société.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amendment of by-laws or incorporating instruments
+
+
+
+16. (1) If a corporation to which subsection 14(1) applies amends its by-laws or incorporating instruments and the amendment becomes effective on the exercise of a power by any person under an Act of Parliament, that person shall not exercise the power unless satisfied that the corporation is in compliance with subsection 14(1).
+
+
+
+
+
+
+
+
+
+16. (1) Si la société à laquelle s’applique le paragraphe 14(1) modifie ses règlements administratifs ou son acte constitutif et que la prise d’effet de la modification exige l’exercice d’un pouvoir par une personne sous le régime d’une loi fédérale, cette personne ne peut exercer ce pouvoir que si elle est convaincue que la société respecte les exigences du paragraphe 14(1).
+
+
+
+Modification des règlements administratifs ou de l’acte constitutif
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2) Subsection (1) does not apply to an amendment that will enable the corporation to be in compliance with subsection 14(1).
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas à la modification visant à permettre à la société de se conformer aux exigences du paragraphe 14(1).
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Validity of acts
+
+
+
+17. An act of the board of directors of a corporation to which subsection 14(1) applies is not invalid on the sole ground that the composition of the board is not in compliance with that subsection.
+
+
+
+
+
+
+
+
+
+17. Les actes du conseil d’administration de la société à laquelle s’applique le paragraphe 14(1) ne sont pas invalides du seul fait que la composition du conseil n’est pas conforme à ce paragraphe.
+
+
+
+Validité des actes
+
+
+
+
+
+
+
+
+
+
+PART 4
+
+
+
+
+
+
+
+
+
+PARTIE 4
+
+
+
+
+
+
+
+
+
+
+
+
+PARENT CROWN CORPORATIONS
+
+
+
+
+
+
+
+
+
+SOCIÉTÉS D’ÉTAT MÈRES
+
+
+
+
+
+
+
+
+
+
+R.S., c. F-11
+
+
+
+Financial Administration Act
+
+
+
+
+
+
+
+
+
+Loi sur la gestion des finances publiques
+
+
+
+L.R., ch. F-11
+
+
+
+
+
+
+
+
+
+
+
+
+18. The Financial Administration Act is amended by adding the following after section 105:
+
+
+
+
+
+
+
+
+
+18. La Loi sur la gestion des finances publiques est modifiée par adjonction, après l’article 105, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Gender parity requirement
+
+
+
+105.1 (1) The composition of the board of directors of a parent Crown corporation shall be such that, immediately after any appointment of directors,
+
+
+
+
+
+
+
+
+(a) 50 per cent of the directors are women, if the parent Crown corporation has an even number of directors; or
+
+
+
+
+
+
+
+
+(b) the difference between the number of directors who are women and the number who are men is equal to one, if the parent Crown corporation has an odd number of directors.
+
+
+
+
+
+
+
+
+
+105.1 (1) La composition du conseil d’administration d’une société d’État mère doit être telle que, aussitôt après toute élection ou nomination d’administrateurs :
+
+
+
+Obligation de parité de genre
+
+
+
+
+a) cinquante pour cent des administrateurs sont des femmes, si le conseil est constitué d’un nombre pair d’administrateurs;
+
+
+
+
+
+
+
+
+b) la différence entre le nombre de femmes et d’hommes qui sont administrateurs est égale à un, si le conseil est constitué d’un nombre impair d’administrateurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) Subsection (1) applies to a parent Crown corporation from the day that is three years after the day on which that subsection comes into force.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) commence à s’appliquer aux sociétés d’État mères trois ans après la date de son entrée en vigueur.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Validity of acts
+
+
+
+(3) An act of the board of directors of a parent Crown corporation to which subsection (1) applies is not invalid on the sole ground that the composition of the board is not in compliance with that subsection.
+
+
+
+
+
+
+
+
+
+(3) Les actes du conseil d’administration de la société d’État mère à laquelle s’applique le paragraphe (1) ne sont pas invalides du seul fait que la composition du conseil n’est pas conforme à ce paragraphe.
+
+
+
+Validité des actes
+
+
+
+
+
+
+
+
+
+
+PART 5
+
+
+
+
+
+
+
+
+
+PARTIE 5
+
+
+
+
+
+
+
+
+
+
+
+
+COMMENCEMENT
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+19. This Act comes into force 180 days after the day on which it receives royal assent.
+
+
+
+
+
+
+
+
+
+19. La présente loi entre en vigueur cent quatre-vingt jours après la date de sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Canada Business Corporations Act
+Clause 2: New.
+
+
+
+Loi canadienne sur les sociétés par actions
+Article  2 : Nouveau.
+
+
+
+
+Clause 3: Existing text of section 260:
+260. The Minister may appoint a Director and one or more Deputy Directors to carry out the duties and exercise the powers of the Director under this Act.
+
+
+
+Article  3 : Texte de l’article 260 :
+260. Le ministre peut nommer un directeur et un ou plusieurs directeurs adjoints pour exercer les attributions que la présente loi confère au directeur.
+
+
+
+
+Clause 4: (1) Relevant portion of subsection 262(2):
+(2) Where this Act requires that articles or a statement relating to a corporation be sent to the Director,
+
+
+
+Article 4 : (1) Texte du passage visé du paragraphe 262(2) :
+(2) Dans le cas où la présente loi prévoit l’envoi au directeur de statuts ou d’une déclaration relativement à une société :
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+Bank Act
+Clauses 5 and 6: New.
+
+
+
+Loi sur les banques
+Articles 5 et 6 : Nouveaux.
+
+
+
+
+Cooperative Credit Associations Act
+Clauses 7 and 8: New.
+
+
+
+Loi sur les associations coopératives de crédit
+Articles 7 et 8 : Nouveaux.
+
+
+
+
+Insurance Companies Act
+Clauses 9 and 10: New.
+
+
+
+Loi sur les sociétés d’assurances
+Articles 9 et 10 : Nouveaux.
+
+
+
+
+Trust and Loan Companies Act
+Clauses 11 and 12: New.
+
+
+
+Loi sur les sociétés de fiducie et de prêt
+Articles 11 et 12 : Nouveaux.
+
+
+
+
+Financial Administration Act
+Clause 18: New.
+
+
+
+Loi sur la gestion des finances publiques
+Article 18 : Nouveau.
+
+
+
+

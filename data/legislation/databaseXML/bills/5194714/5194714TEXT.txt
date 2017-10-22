@@ -1,0 +1,2878 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+60 Elizabeth II, 2011
+
+
+
+
+
+Première session, quarante et unième législature,
+60 Elizabeth II, 2011
+
+
+
+
+
+
+STATUTES OF CANADA 2011CHAPTER 26
+
+
+
+
+
+LOIS DU CANADA (2011)CHAPITRE 26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Constitution Act, 1867, the Electoral Boundaries Readjustment Act and the Canada Elections Act
+
+
+
+
+
+Loi modifiant la Loi constitutionnelle de 1867, la Loi sur la révision des limites des circonscriptions électorales et la Loi électorale du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+16th DECEMBER, 2011
+BILL C-20
+
+
+
+
+
+SANCTIONNÉE
+LE 16 DÉCEMBRE 2011
+PROJET DE LOI C-20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECOMMENDATION
+His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the Constitution Act, 1867, the Electoral Boundaries Readjustment Act and the Canada Elections Act”.
+SUMMARY
+This enactment amends the rules in the Constitution Act, 1867 for readjusting the number of members of the House of Commons and the representation of the provinces in that House.
+It amends the time periods in several provisions of the Electoral Boundaries Readjustment Act and requires that electronic versions of maps be provided to registered parties.
+It also amends the Canada Elections Act to permit a returning officer to be appointed for a new term of office in certain circumstances.
+
+
+
+RECOMMANDATION
+Son Excellence le gouverneur général recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi constitutionnelle de 1867, la Loi sur la révision des limites des circonscriptions électorales et la Loi électorale du Canada ».
+SOMMAIRE
+Le texte modifie les règles de révision du nombre de députés et de la représentation des provinces à la Chambre des communes dans la Loi constitutionnelle de 1867.
+Il modifie également les délais dans un certain nombre de dispositions de la Loi sur la révision des limites des circonscriptions électorales et prévoit la fourniture aux partis enregistrés de versions électroniques de cartes.
+Enfin, il modifie la Loi électorale du Canada pour permettre à un directeur du scrutin d’être nommé pour un nouveau mandat dans certaines circonstances.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+60 ELIZABETH II
+
+
+
+
+
+
+
+
+
+60 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 26
+
+
+
+
+
+
+
+
+
+CHAPITRE 26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Constitution Act, 1867, the Electoral Boundaries Readjustment Act and the Canada Elections Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi constitutionnelle de 1867, la Loi sur la révision des limites des circonscriptions électorales et la Loi électorale du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 16th December, 2011]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 16 décembre 2011]
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas the composition of the House of Commons must reflect the principle of proportionate representation of the provinces and the democratic representation of the Canadian people;
+
+
+
+
+
+
+
+
+
+
+Whereas the principle of proportionate rep-resentation of the provinces must balance the fair and equitable representation of faster-growing provinces and the effective representation of smaller and slower-growing provinces;
+
+
+
+
+
+
+
+
+
+
+Whereas the populations of faster-growing provinces are currently under-represented in the House of Commons and members of the House of Commons for those provinces therefore represent, on average, significantly more populous electoral districts than members for other provinces;
+
+
+
+
+
+
+
+
+
+
+Whereas estimates of the population of Canada and of each province using modern statistical methodologies and techniques are accurate in determining those populations;
+
+
+
+
+
+
+
+
+
+
+Whereas the electoral quotient for the re-adjustment that follows the completion of the 2011 decennial census should be 111,166, that number being the average population of the electoral districts on July 1, 2001, which was determined by using the estimate of the population of each province as at that date, multiplied by the average of the rates of population growth of the provinces;
+
+
+
+
+
+
+
+
+
+
+Whereas the electoral quotient for the re-adjustment that follows each subsequent decennial census should be determined by multiplying the electoral quotient used for the previous readjustment by the average of the rates of population growth of the provinces;
+
+
+
+
+
+
+
+
+
+
+And whereas the Constitution Act, 1985 (Representation) was enacted by Parliament by virtue of its exclusive authority, in section 44 of the Constitution Act, 1982, to amend the Constitution of Canada in relation to the House of Commons so long as the principle of proportionate representation of the provinces is not disturbed;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que la composition de la Chambre des communes doit refléter le principe de la représentation proportionnelle des provinces et la représentation démocratique des Canadiens;
+
+
+
+
+
+
+
+
+
+
+que le principe de la représentation proportionnelle des provinces exige un équilibre entre la représentation juste et équitable des provinces dont la population augmente plus rapidement et la représentation efficace des plus petites provinces et de celles dont la population augmente moins rapidement;
+
+
+
+
+
+
+
+
+
+
+que les populations des provinces dont la population augmente plus rapidement sont actuellement sous-représentées à la Chambre des communes et que les députés de ces provinces représentent donc, en moyenne, des circonscriptions électorales considérablement plus populeuses que ceux des autres provinces;
+
+
+
+
+
+
+
+
+
+
+que les estimations de la population du Canada et de celle de chacune des provinces établies au moyen de méthodes et de techniques statistiques modernes sont précises aux fins d’établissement de ces populations;
+
+
+
+
+
+
+
+
+
+
+que le quotient électoral pour la révision à effectuer à l’issue du recensement décennal de 2011 devrait être de 111 166, soit le chiffre qui correspond au produit de la population moyenne des circonscriptions électorales au 1er juillet 2001, déterminée au moyen des estimations de la population de chacune des provinces à cette date, par la moyenne des taux d’accroissement de la population des provinces;
+
+
+
+
+
+
+
+
+
+
+que le quotient électoral pour la révision qui suit chaque recensement décennal subséquent devrait être déterminé par la multiplication du quotient électoral utilisé pour la dernière révision par la moyenne des taux d’accroissement de la population des provinces;
+
+
+
+
+
+
+
+
+
+
+que la Loi constitutionnelle de 1985 (représentation électorale) a été édictée par le Parlement en vertu de sa compétence exclusive, prévue à l’article 44 de la Loi constitutionnelle de 1982, de modifier les dis-positions de la Constitution du Canada relatives à la Chambre des communes pourvu que le principe de la représentation proportionnelle des provinces reste intact,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Fair Rep-resentation Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la représentation équitable.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30-31 Vict., c. 3 (U.K.); 1982, c. 11 (U.K.)
+
+
+
+CONSTITUTION ACT, 1867
+
+
+
+
+
+
+
+
+
+LOI CONSTITUTIONNELLE DE 1867
+
+
+
+30-31 Vict., ch. 3 (R.-U.); 1982, ch. 11 (R.-U.)
+
+
+
+
+
+
+
+
+
+
+1986, c. 8, s. 2
+
+
+
+
+2. Subsection 51(1) of the Constitution Act, 1867 is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 51(1) de la Loi constitutionnelle de 1867 est remplacé par ce qui suit :
+
+
+
+1986, ch. 8, art. 2
+
+
+
+
+
+
+
+
+
+
+Readjustment of representation in Commons
+
+
+
+
+51. (1) The number of members of the House of Commons and the representation of the provinces therein shall, on the completion of each decennial census, be readjusted by such authority, in such manner, and from such time as the Parliament of Canada provides from time to time, subject and according to the following rules:
+
+
+
+
+
+
+
+
+
+
+51. (1) À l’issue de chaque recensement décennal, il est procédé à la révision du nombre de députés et de la représentation des provinces à la Chambre des communes selon les pouvoirs conférés et les modalités de temps ou autres fixées en tant que de besoin par le Parlement du Canada, compte tenu des règles suivantes :
+
+
+
+Révisions électorales
+
+
+
+
+
+
+
+
+
+
+Rules
+
+
+
+
+1.       There shall be assigned to each of the provinces a number of members equal to the number obtained by dividing the population of the province by the electoral quotient and rounding up any fractional remainder to one.
+
+
+
+
+
+
+
+
+
+
+1.       Il est attribué à chaque province le nombre de députés résultant de la division du chiffre de sa population par le quotient électoral, le résultat final comportant une partie décimale étant arrondi à l’unité supérieure.
+
+
+
+Règles
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.       If the number of members assigned to a province by the application of rule 1 and section 51A is less than the total number assigned to that province on the date of the coming into force of the Constitution Act, 1985 (Representation), there shall be added to the number of members so assigned such number of members as will result in the province having the same number of members as were assigned on that date.
+
+
+
+
+
+
+
+
+
+
+2.       Le nombre de députés d’une province demeure inchangé par rapport à la représentation qu’elle avait à la date d’entrée en vigueur de la Loi constitutionnelle de 1985 (représentation électorale) si par application de la règle 1 et de l’article 51A il lui est attribué un nombre inférieur à cette représentation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.       After the application of rules 1 and 2 and section 51A, there shall, in respect of each province that meets the condition set out in rule 4, be added, if necessary, a number of members such that, on the completion of the readjustment, the number obtained by dividing the number of members assigned to that province by the total number of members assigned to all the provinces is as close as possible to, without being below, the number obtained by dividing the population of that province by the total population of all the provinces.
+
+
+
+
+
+
+
+
+
+
+3.       Après application des règles 1 et 2 et de l’article 51A, il est attribué, au besoin, à toute province qui remplit la condition énoncée à la règle 4 le nombre supplémentaire de députés nécessaire pour que, par suite de la révision, le résultat de la division du nombre de ses députés par le nombre total de députés des provinces se rapproche le plus possible du résultat de la division du chiffre de sa population par le chiffre de la population totale des provinces, sans toutefois lui être inférieur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.       Rule 3 applies to a province if, on the completion of the preceding readjustment, the number obtained by dividing the number of members assigned to that province by the total number of members assigned to all the provinces was equal to or greater than the number obtained by dividing the population of that province by the total population of all the prov-inces, the population of each province being its population as at July 1 of the year of the decennial census that preceded that readjustment according to the estimates prepared for the purpose of that readjustment.
+
+
+
+
+
+
+
+
+
+
+4.       La règle 3 s’applique à la province si, par suite de la révision précédente, le résultat de la division du nombre de ses députés par le nombre total de députés des provinces est égal ou supérieur au résultat de la division du chiffre de sa population par le chiffre de la population totale des provinces, ces chiffres étant ceux de la population au 1er juillet de l’année du recensement décennal qui a précédé cette révision selon les estimations établies pour celle-ci.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.       Unless the context indicates otherwise, in these rules, the population of a province is the estimate of its population as at July 1 of the year of the most recent decennial census.
+
+
+
+
+
+
+
+
+
+
+5.       Sauf indication contraire du contexte, dans les présentes règles, le chiffre de la population d’une province correspond à l’estimation du chiffre de sa population au 1er juillet de l’année du recensement décennal le plus récent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6.       In these rules, “electoral quotient” means
+
+
+
+
+
+
+(a)   111,166, in relation to the readjustment following the completion of the 2011 decennial census, and
+
+
+
+
+
+
+(b)   in relation to the readjustment following the completion of any subsequent decennial census, the number obtained by multiplying the electoral quotient that was applied in the preceding readjustment by the number that is the average of the numbers obtained by dividing the population of each province by the population of the province as at July 1 of the year of the preceding decennial census according to the estimates prepared for the purpose of the preceding readjustment, and rounding up any fractional remainder of that multiplication to one.
+
+
+
+
+
+
+
+
+
+
+6.       Dans les présentes règles, « quotient électoral » s’entend de ce qui suit :
+
+
+
+
+
+
+
+a)       111 166, pour la révision à effectuer à l’issue du recensement décennal de 2011;
+
+
+
+
+
+
+
+b)       pour la révision à effectuer à l’issue de tout recensement décennal subséquent, le produit du quotient électoral appliqué lors de la révision précédente par la moyenne des résultats des divisions du chiffre de la population de chacune des provinces par le chiffre de sa population au 1er juillet de l’année du recensement décennal précédent, selon les estimations établies pour la révision précédente, ce produit étant arrondi à l’unité supérieure s’il comporte une partie décimale.
+
+
+
+
+
+
+
+
+
+
+
+
+Population estimates
+
+
+
+(1.1) For the purpose of the rules in subsection (1), there is required to be prepared an estimate of the population of Canada and of each province as at July 1, 2001 and July 1, 2011 — and, in each year following the 2011 decennial census in which a decennial census is taken, as at July 1 of that year — by such authority, in such manner, and from such time as the Parliament of Canada provides from time to time.
+
+
+
+
+
+
+
+
+
+(1.1) Pour l’application des règles du paragraphe (1) et selon les pouvoirs conférés et les modalités de temps ou autres fixées en tant que de besoin par le Parlement du Canada, il est procédé à une estimation du chiffre de la population du Canada et de chacune des provinces au 1er juillet 2001 et au 1er juillet 2011 et, au cours de chaque année de recensement décennal qui suit celui de 2011, à une estimation du chiffre de la population du Canada et de chacune des provinces au 1er juillet de l’année en cause.
+
+
+
+Estimations de la population
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. E-3
+
+
+
+ELECTORAL BOUNDARIES READJUSTMENT ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA RÉVISION DES LIMITES DES CIRCONSCRIPTIONS ÉLECTORALES
+
+
+
+L.R., ch. E-3
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsection 3(1) of the Electoral Boundaries Readjustment Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 3(1) de la Loi sur la révision des limites des circonscriptions électorales est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Commissions to be established
+
+
+
+
+3. (1) For each decennial census, the Governor in Council shall establish by proclamation, published in the Canada Gazette, an electoral boundaries commission for each prov-ince before the earlier of
+
+
+
+
+
+
+
+
+
+
+(a) the expiry of a period of 60 days after the day on which the Minister receives a return certified by the Chief Statistician under subsection 13(1), and
+
+
+
+
+
+
+
+
+
+
+(b) the expiry of a period of six months after the first day of the month that is fixed by the Governor in Council under subsection 19(1) of the Statistics Act as the month in which the census is to be taken.
+
+
+
+
+
+
+
+
+
+
+3. (1) À chaque recensement décennal, le gouverneur en conseil constitue, par proclamation publiée dans la Gazette du Canada, une commission de délimitation des circonscriptions électorales pour chaque province avant la première en date des éventualités suivantes :
+
+
+
+Constitution
+
+
+
+
+
+a) l’expiration d’un délai de soixante jours après la date à laquelle le ministre a reçu le document certifié par le statisticien en chef en application du paragraphe 13(1);
+
+
+
+
+
+
+
+
+
+
+
+b) l’expiration d’un délai de six mois après le premier jour du mois fixé par le gouverneur en conseil au titre du paragraphe 19(1) de la Loi sur la statistique pour faire ce recensement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Act is amended by adding the following before section 13:
+
+
+
+
+
+
+
+
+
+
+4. La même loi est modifiée par adjonction, avant l’article 13, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Population estimates
+
+
+
+
+12.1 The Chief Statistician shall prepare the estimates of the population of Canada and of each province required by subsection 51(1.1) of the Constitution Act, 1867 and send them, without delay, to the Minister and to the Chief Electoral Officer along with the estimates of the population of each province that were prepared for the purpose of the readjustment following the completion of the preceding decennial census.
+
+
+
+
+
+
+
+
+
+
+12.1 Le statisticien en chef établit les estimations du chiffre de la population du Canada et de chacune des provinces exigées au paragraphe 51(1.1) de la Loi constitutionnelle de 1867 et les envoie immédiatement au ministre et au directeur général des élections avec les estimations de la population de chacune des provinces établies pour la révision effectuée à l’issue du recensement décennal précédent.
+
+
+
+Estimations de la population
+
+
+
+
+
+
+
+
+
+
+1994, c. 41, par. 38(1)(a)
+
+
+
+
+5. Subsection 13(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 13(3) de la même loi est remplacé par ce qui suit :
+
+
+
+1994, ch. 41, al. 38(1)a)
+
+
+
+
+
+
+
+
+
+
+Duty to assist
+
+
+
+(3) The Chief Statistician and the Department of Natural Resources shall make available their services and facilities, and render all other assistance that may be necessary, to the Chief Electoral Officer in order to enable the Chief Electoral Officer to discharge his or her duties under paragraph (2)(b).
+
+
+
+
+
+
+
+
+
+(3) Le statisticien en chef et le ministère des Ressources naturelles doivent mettre leurs services et leurs moyens à la disposition du directeur général des élections et, d’une manière générale, lui prêter toute l’assistance nécessaire pour lui permettre de s’acquitter des obligations que lui impose l’alinéa (2)b).
+
+
+
+Obligation d’assistance
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Subsection 14(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 14(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Calculation of members
+
+
+
+
+14. (1) On receipt of the estimates referred to in section 12.1, the Chief Electoral Officer shall calculate the number of members of the House of Commons to be assigned to each province, subject and according to the provisions of section 51 of the Constitution Act, 1867 and the rules in that section, and on the completion of that calculation shall cause a statement to be published in the Canada Gazette setting out the results.
+
+
+
+
+
+
+
+
+
+
+14. (1) Dès réception des estimations visées à l’article 12.1, le directeur général des élections procède au calcul du nombre de sièges de député à attribuer à chacune des provinces, compte tenu des règles de l’article 51 de la Loi constitutionnelle de 1867, et en fait publier sans délai les résultats dans la Gazette du Canada.
+
+
+
+Calcul du nombre de sièges et établissement du rapport
+
+
+
+
+
+
+
+
+
+
+1994, c. 41, par. 38(1)(a)
+
+
+
+
+7. Section 17 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. L’article 17 de la même loi est remplacé par ce qui suit :
+
+
+
+1994, ch. 41, al. 38(1)a)
+
+
+
+
+
+
+
+
+
+
+Duty to assist
+
+
+
+
+17. The Chief Statistician and the Department of Natural Resources shall make available their services and facilities, and render all other assistance that may be necessary, to a commission in order to enable the commission to discharge its duties under this Act.
+
+
+
+
+
+
+
+
+
+
+17. Le statisticien en chef et le ministère des Ressources naturelles doivent mettre leurs services et leurs moyens à la disposition des commissions et, d’une manière générale, leur prêter toute l’assistance nécessaire pour leur permettre de s’acquitter des obligations que leur impose la présente loi.
+
+
+
+Obligation d’assistance
+
+
+
+
+
+
+
+
+
+
+R.S., c. 6 (2nd Supp.), s. 3
+
+
+
+
+8. (1) Subsection 19(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. (1) Le paragraphe 19(2) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 6 (2e suppl.), art. 3
+
+
+
+
+
+
+
+
+
+
+Notice to be given by public advertisement
+
+
+
+(2) Notice of the time and place fixed by the commission for any sittings to be held by it for the hearing of representations from interested persons shall be given by advertisement published in the Canada Gazette and in at least one newspaper of general circulation in the province at least 30 days before the day on which the sittings commence.
+
+
+
+
+
+
+
+
+
+(2) Au moins trente jours avant la date du début des séances qu’elle tient pour entendre les observations des intéressés, la commission fait publier, dans la Gazette du Canada et au moins un journal à grand tirage de la province, un avis en fixant les dates, heures et lieux.
+
+
+
+Avis public des réunions
+
+
+
+
+
+
+
+
+
+
+R.S., c. 6 (2nd Supp.), s. 3
+
+
+
+(2) Subsection 19(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 19(5) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 6 (2e suppl.), art. 3
+
+
+
+
+
+
+
+
+
+
+Notice of representation to be given before sittings
+
+
+
+(5) No representation shall be heard by a commission at any sittings held by it for the hearing of representations from interested persons unless notice in writing is given to the secretary of the commission within 23 days after the date of the publication of the last advertisement under subsection (2), stating the name and address of the person who seeks to make the representation and indicating concisely the nature of the representation and of the interest of the person.
+
+
+
+
+
+
+
+
+
+(5) La commission ne peut entendre les observations n’ayant pas fait l’objet d’un avis écrit. Celui-ci doit être adressé au secrétaire de la commission dans les vingt-trois jours suivant la publication du dernier avis dans le cadre du paragraphe (2) et préciser les nom et adresse de la personne désirant présenter les observations, ainsi que la nature de celles-ci et de l’intérêt en cause.
+
+
+
+Avis obligatoire pour la présentation d’observations
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(6) Despite subsection (5), a commission may hear the representation without the notice having been given if the commission considers it to be in the public interest to do so.
+
+
+
+
+
+
+
+
+
+(6) La commission peut toutefois entendre des observations sans qu’un avis ait été donné si elle estime qu’il y va de l’intérêt public.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+R.S., c. 6 (2nd Supp.), s. 4
+
+
+
+
+9. Section 20 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. L’article 20 de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 6 (2e suppl.), art. 4
+
+
+
+
+
+
+
+
+
+
+Time for completing report
+
+
+
+
+20. (1) Each commission shall, not later than 10 months after the day on which the chairman receives the copy of the return referred to in paragraph 13(2)(a), complete a report for presentation to the House of Commons setting out the considerations and proposals of the commission concerning the division of the province into electoral districts, the descriptions and boundaries of the districts and the population of and name to be given to each district and, on the completion of the report, shall cause two certified copies of the report to be transmitted to the Chief Electoral Officer.
+
+
+
+
+
+
+
+
+
+
+20. (1) Dans un délai maximal de dix mois à compter de la date de réception par son président de l’état visé à l’alinéa 13(2)a), chaque commission établit, pour présentation à la Chambre des communes, un rapport dans lequel elle expose ses réflexions et ses propositions concernant le partage de la province en circonscriptions électorales, les limites et les populations respectives de celles-ci, ainsi que le nom à leur attribuer. Le rapport terminé, elle en fait remettre deux exemplaires certifiés conformes au directeur général des élections.
+
+
+
+Délai imparti
+
+
+
+
+
+
+
+
+
+
+Extension of time
+
+
+
+(2) The Chief Electoral Officer may, on request by a commission, extend the time for the completion of its report for a further period or periods not exceeding two months in the aggregate.
+
+
+
+
+
+
+
+
+
+(2) À la demande de la commission, le directeur général des élections peut proroger le délai de deux mois au plus, en une seule ou plusieurs fois.
+
+
+
+Prorogation
+
+
+
+
+
+
+
+
+
+
+Obligations of Chief Electoral Officer
+
+
+
+
+20.1 (1) On receiving the certified copies referred to in section 20 of the report of any commission, the Chief Electoral Officer shall
+
+
+
+
+
+
+
+
+
+
+(a) transmit one of the copies to the Speaker; and
+
+
+
+
+
+
+
+
+
+
+(b) with the cooperation of the Department of Natural Resources and in accordance with the descriptions and definitions proposed in the report, prepare and print
+
+
+
+
+
+
+
+
+
+
+(i) individual maps of each electoral district showing the proposed boundaries of each district,
+
+
+
+
+
+
+
+
+
+
+(ii) individual maps of each province showing the proposed boundaries of the electoral districts in the province, and
+
+
+
+
+
+
+
+
+
+
+(iii) individual maps of all cities and metropolitan municipalities, portions of which are in more than one proposed electoral district.
+
+
+
+
+
+
+
+
+
+
+20.1 (1) Sur réception des deux exemplaires certifiés conformes du rapport, le directeur général des élections :
+
+
+
+Obligations du directeur général des élections
+
+
+
+
+
+a) d’une part, en transmet un au président de la Chambre des communes;
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, en collaboration avec le ministère des Ressources naturelles et conformément aux propositions contenues dans le rapport, prépare et fait imprimer des cartes distinctes pour :
+
+
+
+
+
+
+
+
+
+
+(i) chacune des circonscriptions électorales dans sa délimitation proposée,
+
+
+
+
+
+
+
+
+
+
+(ii) chaque province, avec la délimitation proposée des circonscriptions électorales qui la composent,
+
+
+
+
+
+
+
+
+
+
+(iii) toutes les villes et autres agglomérations urbaines qui débordent le cadre d’une seule circonscription électorale proposée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electronic version of maps
+
+
+
+(2) The Chief Electoral Officer shall provide an electronic version of each map containing its digital geospatial data to each registered party, as defined in subsection 2(1) of the Canada Elections Act.
+
+
+
+
+
+
+
+
+
+(2) Le directeur général des élections fournit une version électronique de chaque carte, qui comprend ses données géospatiales numériques, à chaque parti enregistré, au sens du paragraphe 2(1) de la Loi électorale du Canada.
+
+
+
+Versions électroniques des cartes
+
+
+
+
+
+
+
+
+
+
+R.S., c. 6 (2nd Supp.), s. 5
+
+
+
+
+10. Subsection 21(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. Le paragraphe 21(1) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 6 (2e suppl.), art. 5
+
+
+
+
+
+
+
+
+
+
+Report to be referred to committee
+
+
+
+
+21. (1) Subject to subsection (2), the Speaker shall cause the certified copy of the report that has been transmitted to him or her to be laid before the House of Commons and referred to the committee of the House of Commons that it may establish for the purposes of dealing with electoral matters without delay on receipt of the copy by the Speaker if Parliament is then sitting or, if Parliament is not then sitting, on any of the first five days of the next sitting of Parliament.
+
+
+
+
+
+
+
+
+
+
+21. (1) Sous réserve du paragraphe (2), le président de la Chambre des communes fait déposer à cette Chambre l’exemplaire certifié conforme du rapport qui lui a été transmis pour étude par le comité des questions électorales soit immédiatement, soit, si le Parlement ne siège pas, dans les cinq premiers jours de séance ultérieurs.
+
+
+
+Rapport au comité
+
+
+
+
+
+
+
+
+
+
+2004, c. 1, s. 2
+
+
+
+
+11. Section 25 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. L’article 25 de la même loi est remplacé par ce qui suit :
+
+
+
+2004, ch. 1, art. 2
+
+
+
+
+
+
+
+
+
+
+Order in force
+
+
+
+
+25. (1) Within five days after the day on which the Minister receives the representation order, the Governor in Council shall by proclamation declare the representation order to be in force, effective on the first dissolution of Parliament that occurs at least seven months after the day on which that proclamation was issued, and on the issue of the proclamation the order has the force of law accordingly.
+
+
+
+
+
+
+
+
+
+
+25. (1) Dans les cinq jours qui suivent la date de la réception par le ministre du décret de représentation électorale, le gouverneur en conseil lui donne, par proclamation, force de loi, avec effet à compter de la première dissolution du Parlement survenant au moins sept mois après la date de la proclamation.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2) Despite subsection (1), if a proclamation under the Canada Elections Act for the holding of a general election is issued during the period beginning on the day on which the proclamation under subsection (1) is issued and ending seven months after that day, the representation order becomes effective on the first dissolution of Parliament that occurs at least seven months after the date fixed by the proclamation under that Act for the return of the writ for that election.
+
+
+
+
+
+
+
+
+
+(2) Toutefois, si, à la date de la proclamation visée au paragraphe (1) ou dans les sept mois qui suivent, une proclamation est prise en vertu de la Loi électorale du Canada pour déclencher une élection générale, le décret de représentation électorale ne prend effet qu’à la première dissolution du Parlement survenant au moins sept mois après la date du retour du bref de cette élection fixée par la proclamation prise en vertu de cette loi.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Returning officers and electoral district associations
+
+
+
+(3) For the purpose of authorizing and enabling, whenever required, the appointment of returning officers under section 24 of the Canada Elections Act or the registration of electoral district associations under subsection 403.22(4) of that Act, the representation order is deemed to be effective on the day on which the proclamation under subsection (1) is issued.
+
+
+
+
+
+
+
+
+
+(3) Le décret est réputé prendre effet à la date de prise de la proclamation visée au paragraphe (1) pour permettre la nomination des directeurs du scrutin conformément à l’article 24 de la Loi électorale du Canada et l’enregistrement des associations de circonscription conformément au paragraphe 403.22(4) de cette loi.
+
+
+
+Directeurs du scrutin et associations de circonscription
+
+
+
+
+
+
+
+
+
+
+1994, c. 41, par. 38(1)(a)
+
+
+
+
+12. Section 28 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. L’article 28 de la même loi est remplacé par ce qui suit :
+
+
+
+1994, ch. 41, al. 38(1)a)
+
+
+
+
+
+
+
+
+
+
+Maps to be prepared and printed
+
+
+
+
+28. (1) As soon as feasible after the issue of the proclamation declaring the representation order to be in force, the Chief Electoral Officer shall, with the cooperation of the Department of Natural Resources and in accordance with the descriptions and definitions set out in the order, prepare and print
+
+
+
+
+
+
+
+
+
+
+(a) individual maps of each electoral district showing the boundaries of each district;
+
+
+
+
+
+
+
+
+
+
+(b) individual maps of each province showing the boundaries of the electoral districts established in the province; and
+
+
+
+
+
+
+
+
+
+
+(c) individual maps of all cities and metropolitan municipalities, portions of which are in more than one electoral district.
+
+
+
+
+
+
+
+
+
+
+28. (1) Dans les meilleurs délais après la proclamation donnant effet au décret, le directeur général des élections, en collaboration avec le ministère des Ressources naturelles et conformément aux dispositions du décret, prépare et fait imprimer des cartes distinctes pour :
+
+
+
+Impression de cartes
+
+
+
+
+
+a) chacune des circonscriptions électorales dans sa nouvelle délimitation;
+
+
+
+
+
+
+
+
+
+
+
+b) chaque province, avec la délimitation des circonscriptions électorales qui la composent;
+
+
+
+
+
+
+
+
+
+
+
+c) toutes les villes et autres agglomérations urbaines qui débordent le cadre d’une seule circonscription électorale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electronic version of maps
+
+
+
+(2) The Chief Electoral Officer shall provide an electronic version of each map containing its digital geospatial data to each registered party, as defined in subsection 2(1) of the Canada Elections Act.
+
+
+
+
+
+
+
+
+
+(2) Le directeur général des élections fournit une version électronique de chaque carte, qui comprend ses données géospatiales numériques, à chaque parti enregistré, au sens du paragraphe 2(1) de la Loi électorale du Canada.
+
+
+
+Versions électroniques des cartes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 9
+
+
+
+CANADA ELECTIONS ACT
+
+
+
+
+
+
+
+
+
+LOI ÉLECTORALE DU CANADA
+
+
+
+2000, ch. 9
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 174(1)
+
+
+
+
+13. Subsection 24(1.4) of the Canada Elections Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 24(1.4) de la Loi électorale du Canada est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, par. 174(1)
+
+
+
+
+
+
+
+
+
+
+New term
+
+
+
+(1.4) The Chief Electoral Officer may, after consultation with the leader of every recognized political party in the House of Commons, appoint for a new term any returning officer who has performed the functions of a returning officer in a satisfactory manner, whether or not other persons are considered for the appointment, if the office of returning officer is vacant by reason of
+
+
+
+
+
+
+
+
+
+
+(a) the expiry of the returning officer’s term of office; or
+
+
+
+
+
+
+
+
+
+
+(b) the revision of the boundaries of the electoral district as a result of a representation order made under section 25 of the Electoral Boundaries Readjustment Act.
+
+
+
+
+
+
+
+
+
+(1.4) Le directeur général des élections peut, après consultation du chef de chacun des partis reconnus à la Chambre des communes, nommer pour un nouveau mandat le directeur du scrutin qui s’est acquitté de ses fonctions de façon satisfaisante sans qu’il soit tenu de prendre en compte la candidature d’autres personnes si le poste de directeur du scrutin est vacant pour l’une des raisons suivantes :
+
+
+
+Nouveau mandat
+
+
+
+
+
+a) le mandat du directeur du scrutin a expiré;
+
+
+
+
+
+
+
+
+
+
+
+b) les limites de la circonscription ont été modifiées en raison d’un décret de représentation électorale pris au titre de l’article 25 de la Loi sur la révision des limites des circonscriptions électorales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISIONS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS TRANSITOIRES
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “the Act”
+
+
+
+
+14. (1) In this section and sections 15 to 22, “the Act” means the Electoral Boundaries Readjustment Act.
+
+
+
+
+
+
+
+
+
+
+14. (1) Au présent article et aux articles 15 à 22, « la Loi  » s’entend de la Loi sur la révision des limites des circonscriptions électorales.
+
+
+
+Sens de « la Loi »
+
+
+
+
+
+
+
+
+
+
+Words and expressions
+
+
+
+(2) Words and expressions used in sections 15 to 22 have the same meaning as in the Act.
+
+
+
+
+
+
+
+
+
+(2) Les termes des articles 15 à 22 s’entendent au sens de la Loi.
+
+
+
+Terminologie
+
+
+
+
+
+
+
+
+
+
+Population estimates as at July 1, 2001
+
+
+
+
+15. For the purpose of the readjustment following the 2011 decennial census, the population estimates as at July 1, 2001 prepared under section 12.1 of the Act, as enacted by section 4, are deemed, for the purpose of the application of rule 4 in subsection 51(1) of the Constitution Act, 1867, as enacted by section 2, and the sending of estimates referred to in that section 12.1, to have been prepared for the purpose of the readjustment following the 2001 decennial census.
+
+
+
+
+
+
+
+
+
+
+15. Pour la révision à effectuer à l’issue du recensement décennal de 2011, les estimations de la population au 1er juillet 2001 établies en vertu de l’article 12.1 de la Loi, édicté par l’article 4, sont, pour l’application de la règle 4 du paragraphe 51(1) de la Loi constitutionnelle de 1867, dans sa version édictée par l’article 2, et aux fins de l’envoi prévu à cet article 12.1, réputées avoir été établies pour la révision effectuée à l’issue du recensement décennal de 2001.
+
+
+
+Estimations de la population au 1er juillet 2001
+
+
+
+
+
+
+
+
+
+
+Time for establishing commissions
+
+
+
+
+16. (1) If this Act comes into force on or before the day on which the Minister receives a return certified by the Chief Statistician under subsection 13(1) of the Act in respect of the 2011 decennial census then, despite subsection 3(1) of the Act, as enacted by section 3, the Governor in Council shall, for that decennial census, establish, for the purpose of the Act, by proclamation published in the Canada Gazette, a commission for each province no later than 60 days after the day on which the Minister receives the return. Nothing in this section precludes a commission from being established before the receipt of that return.
+
+
+
+
+
+
+
+
+
+
+16. (1) Si la présente loi entre en vigueur avant la date à laquelle le ministre reçoit le document certifié par le statisticien en chef en application du paragraphe 13(1) de la Loi relativement au recensement décennal de 2011 ou à cette date, malgré le paragraphe 3(1) de la Loi, dans sa version édictée par l’article 3, le gouverneur en conseil constitue par proclamation publiée dans la Gazette du Canada, pour l’application de la Loi, pour ce recensement décennal, une commission pour chaque province au plus tard soixante jours après la date à laquelle le ministre a reçu le document. Le présent article n’a pas pour effet d’empêcher la constitution d’une commission avant la réception du document.
+
+
+
+Délai pour constituer les commissions
+
+
+
+
+
+
+
+
+
+
+Time for establishing commissions
+
+
+
+(2) If this Act comes into force after the day on which the Minister receives a return certified by the Chief Statistician under subsection 13(1) of the Act in respect of the 2011 decennial census and, with respect to a particular province, a commission has not yet been established, the Governor in Council shall, for that decennial census, despite subsection 3(1) of the Act, as enacted by section 3, establish, for the purpose of the Act, by proclamation published in the Canada Gazette, a commission for that province no later than 60 days after the day on which the Minister receives the return.
+
+
+
+
+
+
+
+
+
+(2) Si la présente loi entre en vigueur après la date à laquelle le ministre reçoit le document certifié par le statisticien en chef en application du paragraphe 13(1) de la Loi relativement au recensement décennal de 2011 et que, relativement à une province, une commission n’a pas encore été constituée, malgré le paragraphe 3(1) de la Loi, dans sa version édictée par l’article 3, le gouverneur en conseil constitue, par proclamation publiée dans la Gazette du Canada, pour l’application de la Loi, pour ce recensement décennal, une commission pour cette province au plus tard soixante jours après la date à laquelle le ministre a reçu le document.
+
+
+
+Délai pour constituer les commissions
+
+
+
+
+
+
+
+
+
+
+Application of sections 18 to 22
+
+
+
+
+17. Sections 18 to 22 apply only in respect of the readjustment of the representation of the provinces in the House of Commons that is required to be made on the completion of the 2011 decennial census and only if
+
+
+
+
+
+
+
+
+
+
+(a) this Act comes into force on or after the day on which the Chief Statistician sends to the Chief Electoral Officer the return, in respect of that census, that is referred to in subsection 13(1) of the Act; and
+
+
+
+
+
+
+
+
+
+
+(b) a representation order has not been proclaimed in the period beginning on the day on which that return is sent and ending on the day on which this Act comes into force.
+
+
+
+
+
+
+
+
+
+
+17. Les articles 18 à 22 ne s’appliquent qu’à la révision à effectuer en matière de représentation des provinces à la Chambre des communes à l’issue du recensement décennal de 2011, et ce seulement si les conditions suivantes sont réunies :
+
+
+
+Application des articles 18 à 22
+
+
+
+
+
+a) la présente loi entre en vigueur à la date à laquelle le statisticien en chef envoie au directeur général des élections l’état certifié des résultats de ce recensement visé au paragraphe 13(1) de la Loi ou après cette date;
+
+
+
+
+
+
+
+
+
+
+
+b) aucun décret de représentation électorale n’a été pris au cours de la période commençant à la date à laquelle l’état a été envoyé et se terminant à la date d’entrée en vigueur de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sending of estimates
+
+
+
+
+18. The Chief Statistician shall comply with section 12.1 of the Act, as enacted by section 4, as soon as feasible after the coming into force of this Act.
+
+
+
+
+
+
+
+
+
+
+18. Dès que possible après l’entrée en vigueur de la présente loi, le statisticien en chef se conforme à l’article 12.1 de la Loi, édicté par l’article 4.
+
+
+
+Envoi des estimations
+
+
+
+
+
+
+
+
+
+
+Coming into force before statement
+
+
+
+
+19. If this Act comes into force before the day on which a statement referred to in subsection 14(1) of the Act is published in the Canada Gazette in respect of the 2011 decennial census,
+
+
+
+
+
+
+
+
+
+
+(a) the amendments made by sections 2 and 6 apply for the purpose of the calculation referred to in that subsection; and
+
+
+
+
+
+
+
+
+
+
+(b) despite subsection 20(1) of the Act, as enacted by section 9, the 10-month period referred to in that subsection during which each commission is to complete a report is deemed to begin on the later of the day on which the statement referred to in subsection 14(1) of the Act is published in the Canada Gazette and the day on which the commission is established.
+
+
+
+
+
+
+
+
+
+
+19. Si la présente loi entre en vigueur avant la date de publication dans la Gazette du Canada des résultats visés au paragraphe 14(1) de la Loi relativement au recensement décennal de 2011 :
+
+
+
+Entrée en vigueur avant la publication des résultats
+
+
+
+
+
+a) les modifications apportées par les articles 2 et 6 s’appliquent au calcul visé à ce paragraphe;
+
+
+
+
+
+
+
+
+
+
+
+b) malgré le paragraphe 20(1) de la Loi, dans sa version édictée par l’article 9, le délai de dix mois visé à ce paragraphe, au cours duquel chaque commission doit établir un rapport, est réputé commencer à courir à la date de publication dans la Gazette du Canada des résultats visés au paragraphe 14(1) de la Loi ou, si elle est postérieure, à la date de la constitution de la commission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obligations of Chief Electoral Officer
+
+
+
+
+20. If this Act comes into force on or after the day on which a statement (in sections 21 and 22 referred to as the “first statement”) referred to in subsection 14(1) of the Act is published in the Canada Gazette in respect of the 2011 decennial census, the Chief Electoral Officer shall
+
+
+
+
+
+
+
+
+
+
+(a) as soon as feasible after receiving the estimates referred to in section 12.1 of the Act, as enacted by section 4, calculate the number of members of the House of Commons to be assigned to each province, subject and according to the provisions of section 51 of the Constitution Act, 1867 and the rules in that section, as amended by section 2; and
+
+
+
+
+
+
+
+
+
+
+(b) on the completion of that calculation, cause a statement (in sections 21 and 22 referred to as the “second statement”) to be published in the Canada Gazette setting out the results of the calculation.
+
+
+
+
+
+
+
+
+
+
+20. Si la présente loi entre en vigueur à la date de publication dans la Gazette du Canada des résultats (les « premiers résultats » aux articles 21 et 22) visés au paragraphe 14(1) de la Loi relativement au recensement décennal de 2011 ou après cette date, le directeur général des élections :
+
+
+
+Obligations du directeur général des élections
+
+
+
+
+
+a) dès que possible après avoir reçu les estimations visée à l’article 12.1 de la Loi, édicté par l’article 4, procède au calcul du nombre de sièges de député à attribuer à chacune des provinces, compte tenu des règles de l’article 51 de la Loi constitutionnelle de 1867, dans sa version modifiée par l’article 2;
+
+
+
+
+
+
+
+
+
+
+
+b) fait publier sans délai les résultats de ce calcul (les « seconds résultats » aux articles 21 et 22) dans la Gazette du Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Identical number of members
+
+
+
+
+21. If the number of members of the House of Commons to be assigned to a province is the same in the second statement as in the first statement and this Act comes into force after the establishment of a commission for that province but before the expiry of one year after the day on which the commission’s chairman receives the return referred to in paragraph 13(2)(a) of the Act, then, despite subsection 20(1) of the Act, as enacted by section 9, the commission must complete its report under the Act before the earlier of
+
+
+
+
+
+
+
+
+
+
+(a) the expiry of a period of 10 months after the day on which this Act comes into force, and
+
+
+
+
+
+
+
+
+
+
+(b) the expiry of a period of one year after the day on which the chairman receives the return.
+
+
+
+
+
+
+
+
+
+
+21. Si le nombre de sièges de député à attribuer à une province donnée en fonction des premiers résultats est le même que le nombre de sièges à attribuer en fonction des seconds résultats, et si la présente loi entre en vigueur après la date à laquelle une commission a été constituée pour cette province, mais avant l’expiration d’un délai d’un an à compter de la date de la réception par son président de l’état visé à l’alinéa 13(2)a) de la Loi, malgré le paragraphe 20(1) de la Loi, dans sa version édictée par l’article 9, la commission est tenue de terminer son rapport en vertu de la Loi avant la première en date des éventualités suivantes :
+
+
+
+Égalité de sièges
+
+
+
+
+
+a) l’expiration d’un délai de dix mois après la date d’entrée en vigueur de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+b) l’expiration d’un délai d’un an après la date de réception de l’état par son président.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Different numbers of members
+
+
+
+
+22. (1) If the number of members of the House of Commons to be assigned to a province is not the same in the second statement as in the first statement, the commission established for the province under the Act shall perform its duties under the Act subject to subsection (2) or (3).
+
+
+
+
+
+
+
+
+
+
+22. (1) Si le nombre de sièges de député à attribuer à une province donnée en fonction des premiers résultats n’est pas le même que le nombre de sièges à attribuer en fonction des seconds résultats, la commission constituée en vertu de la Loi pour cette province exerce les fonctions qui lui sont conférées par cette loi sous réserve des paragraphes (2) ou (3).
+
+
+
+Inégalité de sièges
+
+
+
+
+
+
+
+
+
+
+Report not completed
+
+
+
+(2) If, with respect to a province, a com-mission has not yet been established on the day on which the second statement is published in the Canada Gazette or if, with respect to a province, a commission has been established on or before that day but it has not yet completed its report,
+
+
+
+
+
+
+
+
+
+
+(a) for the purpose of subsection 14(2) of the Act and the rule in paragraph 15(1)(a) of the Act, the number of members of the House of Commons to be assigned to the province, as calculated by the Chief Electoral Officer under subsection 14(1) of the Act, is the number set out in the second statement in respect of the province; and
+
+
+
+
+
+
+
+
+
+
+(b) the 10-month period referred to in subsection 20(1) of the Act, as enacted by section 9, is deemed to begin on the later of the day on which the second statement is published in the Canada Gazette and the day on which the commission is established.
+
+
+
+
+
+
+
+
+
+(2) Si, relativement à une province, une commission n’est pas encore constituée à la date à laquelle les seconds résultats sont publiés dans la Gazette du Canada ou si, relativement à une province, une commission est constituée à cette date, mais n’a pas encore terminé son rapport :
+
+
+
+Rapport non terminé
+
+
+
+
+
+a) pour l’application du paragraphe 14(2) de la Loi et du principe énoncé à l’alinéa 15(1)a) de la Loi, le nombre de sièges de député à pourvoir pour cette province, d’après le calcul du directeur général des élections en vertu du paragraphe 14(1) de la Loi, est celui des seconds résultats;
+
+
+
+
+
+
+
+
+
+
+
+b) le délai de dix mois visé au paragraphe 20(1) de la Loi, dans sa version édictée par l’article 9, est réputé commencer à courir à la date à laquelle les seconds résultats sont publiés dans la Gazette du Canada ou, si elle est postérieure, à la date de la constitution de la commission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report completed
+
+
+
+(3) If, with respect to a province, a commission has been established on or before the day on which the second statement is published in the Canada Gazette and it has completed its report on or before that day, that report is no longer valid and the commission shall prepare a new report under the Act. Paragraphs (2)(a) and (b) apply in respect of the preparation of the new report.
+
+
+
+
+
+
+
+
+
+(3) Si, relativement à une province, une commission a été constituée à la date à laquelle les seconds résultats ont été publiés dans la Gazette du Canada ou avant cette date et a terminé son rapport à cette date ou avant cette date, ce rapport est sans effet; la commission rédige un nouveau rapport en vertu de la Loi, et ce en conformité avec les alinéas (2)a) et b).
+
+
+
+Rapport terminé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DISPOSITION INTERPRÉTATIVE
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+
+23. A reference to the Constitution Acts, 1867 to 1982 is deemed to include a reference to sections 2, 14, 15 and 17 to 20.
+
+
+
+
+
+
+
+
+
+
+23. La mention des Lois constitutionnelles de 1867 à 1982 vise notamment les articles 2, 14, 15 et 17 à 20.
+
+
+
+Disposition interprétative
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

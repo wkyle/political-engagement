@@ -1,0 +1,709 @@
+
+
+
+
+
+C-609
+
+
+
+
+
+C-609
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-609
+
+
+
+
+
+PROJET DE LOI C-609
+
+
+
+
+
+
+An Act to amend the Criminal Code (critical infrastructure)
+
+
+
+
+
+Loi modifiant le Code criminel (infrastructure essentielle)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 3, 2014
+
+première lecture le 3 juin 2014
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Garrison
+
+412084
+
+
+
+M. Garrison
+
+
+
+
+
+SUMMARY
+This enactment creates an offence for stealing copper wire or copper pipes from a critical infrastructure.
+
+
+
+SOMMAIRE
+Le texte érige en infraction le fait de voler le fil de cuivre ou les tuyaux en cuivre d’une infrastructure essentielle.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-609
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-609
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (critical infrastructure)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (infrastructure essentielle)
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) The heading “WILFUL AND FORBIDDEN ACTS IN RESPECT OF CERTAIN PROPERTY” before section 428 of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. (1) Les intertitres « ACTES VOLONTAIRES ET PROHIBÉS CONCERNANT CERTAINS BIENS » et « Définitions et interprétation » précédant l'article 428 du Code criminel sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+WILFUL AND FORBIDDEN ACTS IN RESPECT OF CERTAIN PROPERTY AND CRITICAL INFRASTRUCTURE
+
+
+
+
+
+
+
+
+
+ACTES VOLONTAIRES ET PROHIBÉS CONCERNANT DES BIENS ET INFRASTRUCTURES ESSENTIELLES
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Définitions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 428 of the Act is renumbered as subsection 428(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+(2) L’article 428 de la même loi devient le paragraphe 428(1) et est modifié par adjonction de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “critical infrastructure”
+
+
+
+(2) In this Part, “critical infrastructure” means those physical and information technology facilities, networks, services and assets whose disruption or destruction would have a serious impact on the health, safety, security or economic well-being of Canadians or the effective functioning of governments in Canada, including the facilities, networks, services and assets in the following fields:
+
+
+
+
+
+
+
+
+(a) energy and utilities (e.g., electrical power, natural gas and oil production and transmission systems);
+
+
+
+
+
+
+
+
+(b) communications and information technology (e.g., telecommunications and broadcasting systems, software, hardware and networks, including the Internet);
+
+
+
+
+
+
+
+
+(c) finances (e.g., banking, securities and investments);
+
+
+
+
+
+
+
+
+(d) health care (e.g., hospitals, health care facilities,  blood banks, laboratories and pharmaceutical facilities);
+
+
+
+
+
+
+
+
+(e) food (e.g., safety, distribution, agriculture and food industry);
+
+
+
+
+
+
+
+
+(f) water (e.g., drinking water and wastewater management);
+
+
+
+
+
+
+
+
+(g) transportation (e.g., air, rail, marine and surface);
+
+
+
+
+
+
+
+
+(h) safety (e.g.,  chemical, biological, radiological and nuclear safety, hazardous materials, search and rescue, emergency services and dams);
+
+
+
+
+
+
+
+
+(i) government (e.g., services, facilities, information networks, assets and key national sites and monuments); and
+
+
+
+
+
+
+
+
+(j) manufacturing (e.g., defence industrial base and chemical industry).
+
+
+
+
+
+
+
+
+
+(2) Dans la présente partie, « infrastructure essentielle » s'entend des  installations, réseaux, services ou biens, qu’ils soient physiques ou liés aux technologies de l’information, dont la défaillance ou la destruction entraînerait de graves répercussions sur la santé, la sécurité,  la sûreté  ou le bien-être économique des Canadiens ou sur le bon fonctionnement des gouvernements au Canada. La présente définition vise notamment les domaines suivants :
+
+
+
+Définition de « infrastructure essentielle »
+
+
+
+
+a) l’énergie et les services d’utilité publique (par exemple, les systèmes de production d'énergie électrique, de gaz naturel et de pétrole, ainsi que leurs réseaux de transport);
+
+
+
+
+
+
+
+
+b) les communications et les technologies de l’information (par exemple, les systèmes, logiciels, matériel et réseaux de télécommunications et de radiodiffusion, y compris Internet);
+
+
+
+
+
+
+
+
+c) les finances (par exemple, les services  bancaires, valeurs mobilières et investissements);
+
+
+
+
+
+
+
+
+d) les soins de santé (par exemple, les hôpitaux, établissements de soins de santé, banques de sang, laboratoires et installations pharmaceutiques);
+
+
+
+
+
+
+
+
+e) l’alimentation (par exemple, l'innocuité, la distribution, l'agriculture et l'industrie alimentaire);
+
+
+
+
+
+
+
+
+f) l’eau (par exemple, la gestion de l’eau potable et des eaux usées);
+
+
+
+
+
+
+
+
+g) les transports (par exemple, par voie aérienne, ferroviaire, maritime ou terrestre);
+
+
+
+
+
+
+
+
+h) la sécurité (par exemple, la sécurité chimique, biologique, radiologique et nucléaire, les matières dangereuses, la recherche et le sauvetage, les services d’urgence et les barrages);
+
+
+
+
+
+
+
+
+i) le gouvernement (par exemple, les services, installations, réseaux d’information, biens et principaux sites et monuments nationaux);
+
+
+
+
+
+
+
+
+j) la fabrication (par exemple, l'infrastructure industrielle de défense et l'industrie chimique).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 430 of the Act is amended by adding the following after subsection (1.1):
+
+
+
+
+
+
+
+
+
+2. L’article 430 de la même loi est modifié par adjonction, après le paragraphe (1.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Mischief in relation to a critical infrastructure
+
+
+
+(1.2) Every one commits mischief who steals copper wire or copper pipes from a critical infrastructure.
+
+
+
+
+
+
+
+
+
+(1.2) Commet un méfait quiconque vole le fil de cuivre ou les tuyaux en cuivre d’une infrastructure essentielle.
+
+
+
+Méfait concernant une infrastructure essentielle
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

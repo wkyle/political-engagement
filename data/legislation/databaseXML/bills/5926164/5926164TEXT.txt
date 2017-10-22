@@ -1,0 +1,3725 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+Première session, quarante et unième législature,
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+STATUTES OF CANADA 2013CHAPTER 31
+
+
+
+
+
+LOIS DU CANADA (2013)CHAPITRE 31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Transportation Act (administration, air and railway transportation and arbitration)
+
+
+
+
+
+Loi modifiant la Loi sur les transports au Canada (administration, transports aérien et ferroviaire et arbitrage)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+26th JUNE, 2013
+BILL C-52
+
+
+
+
+
+SANCTIONNÉE
+LE 26 JUIN 2013
+PROJET DE LOI C-52
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Canada Transportation Act to require a railway company, on a shipper’s request, to make the shipper an offer to enter into a contract respecting the manner in which the railway company must fulfil its service obligations to the shipper. It also creates an arbitration process to establish the terms of such a contract if the shipper and the railway company are unable to agree on them. The enactment also amends provisions related to air transportation to streamline internal processes and certain administrative provisions of that Act.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur les transports au Canada afin d’exiger d’une compagnie de chemin de fer qu’elle présente à un expéditeur, sur demande de celui-ci, une offre en vue de conclure un contrat concernant les moyens qu’elle doit prendre pour s’acquitter de ses obligations envers l’expéditeur. Il crée également un processus d’arbitrage afin d’établir les stipulations d’un tel contrat si l’expéditeur et la compagnie de chemin de fer ne parviennent pas à s’entendre à cet égard. Il modifie en outre les dispositions relatives au transport aérien afin de rationaliser les procédures internes, ainsi que certaines dispositions relatives à l’administration de la loi.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+60-61-62 ELIZABETH II
+
+
+
+
+
+
+
+
+
+60-61-62 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 31
+
+
+
+
+
+
+
+
+
+CHAPITRE 31
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Transportation Act (administration, air and railway transportation and arbitration)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les transports au Canada (administration, transports aérien et ferroviaire et arbitrage)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 26th June, 2013]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 26 juin 2013]
+
+
+
+
+
+
+
+
+
+
+
+
+1996, c. 10
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+1996, ch. 10
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Fair Rail Freight Service Act.
+
+
+
+
+
+
+
+
+
+
+1. Titre abrégé : Loi sur les services équitables de transport ferroviaire des marchandises.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The portion of section 42(1) of the Canada Transportation Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le passage du paragraphe 42(1) de la Loi sur les transports au Canada précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Agency’s report
+
+
+
+
+42. (1) Each year the Agency shall, before the end of July, make a report on its activities for the preceding year and submit it, through the Minister, to the Governor in Council describing briefly, in respect of that year,
+
+
+
+
+
+
+
+
+
+
+42. (1) Chaque année, avant la fin du mois de juillet, l’Office présente au gouverneur en conseil, par l’intermédiaire du ministre, un rapport de ses activités de l’année précédente résumant :
+
+
+
+Rapport de l’Office
+
+
+
+
+
+
+
+
+
+
+2007, c. 19, s. 8(1)
+
+
+
+
+3. The portion of subsection 50(1) of the French version of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Le passage du paragraphe 50(1) de la version française de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2007, ch. 19, par. 8(1)
+
+
+
+
+
+
+
+
+
+
+Règlements relatifs aux renseignements
+
+
+
+
+
+50. (1) Le gouverneur en conseil peut, par règlement, exiger des personnes visées au paragraphe (1.1) qui sont assujetties à la compétence législative du Parlement qu’elles fournissent au ministre des renseignements, autres que les renseignements personnels au sens de l’article 3 de la Loi sur la protection des renseignements personnels, aux dates, en la forme et de la manière que le règlement peut préciser, en vue :
+
+
+
+
+
+
+
+
+
+
+
+50. (1) Le gouverneur en conseil peut, par règlement, exiger des personnes visées au paragraphe (1.1) qui sont assujetties à la compétence législative du Parlement qu’elles fournissent au ministre des renseignements, autres que les renseignements personnels au sens de l’article 3 de la Loi sur la protection des renseignements personnels, aux dates, en la forme et de la manière que le règlement peut préciser, en vue :
+
+
+
+Règlements relatifs aux renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Act is amended by adding the following after section 50:
+
+
+
+
+
+
+
+
+
+
+4. La même loi est modifiée par adjonction, après l’article 50, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Externally produced documents
+
+
+
+
+50.01 (1) A regulation made under subsection 50(1) may incorporate by reference any document that is produced by a person or body other than the Minister.
+
+
+
+
+
+
+
+
+
+
+50.01 (1) Le règlement pris en vertu du paragraphe 50(1) peut incorporer par renvoi tout document établi par une personne ou un organisme autre que le ministre.
+
+
+
+Documents externes
+
+
+
+
+
+
+
+
+
+
+Type of incorporation by reference
+
+
+
+(2) A document may be incorporated by reference either as it exists on a particular date or as it is amended from time to time.
+
+
+
+
+
+
+
+
+
+(2) L’incorporation par renvoi peut viser le document soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+
+
+Portée de l’incorporation par renvoi
+
+
+
+
+
+
+
+
+
+
+Accessibility of incorporated document
+
+
+
+(3) The Minister must ensure that a document that is incorporated by reference is accessible.
+
+
+
+
+
+
+
+
+
+(3) Le ministre veille à ce que le document incorporé par renvoi soit accessible.
+
+
+
+Accessibilité
+
+
+
+
+
+
+
+
+
+
+No finding of guilt or administrative sanction
+
+
+
+(4) A person is not liable to be found guilty of an offence or subjected to an administrative sanction for any contravention in respect of which a document that is incorporated by reference is relevant unless, at the time of the alleged contravention, the document was accessible as required by subsection (3) or it was otherwise accessible to that person.
+
+
+
+
+
+
+
+
+
+(4) Aucune déclaration de culpabilité ni aucune sanction administrative ne peut découler d’une contravention faisant intervenir un document qui est incorporé par renvoi et qui se rapporte au fait reproché, sauf si, au moment de ce fait, le document était accessible en application du paragraphe (3) ou était autrement accessible à la personne en cause.
+
+
+
+Ni déclaration de culpabilité ni sanction administrative
+
+
+
+
+
+
+
+
+
+
+No registration or publication
+
+
+
+(5) For greater certainty, a document that is incorporated by reference is not required to be transmitted for registration or published in the Canada Gazette by reason only that it is incorporated by reference.
+
+
+
+
+
+
+
+
+
+(5) Il est entendu que le document incorporé par renvoi n’a pas à être transmis pour enregistrement ni à être publié dans la Gazette du Canada du seul fait de son incorporation.
+
+
+
+Ni enregis- trement ni publication
+
+
+
+
+
+
+
+
+
+
+Existing power not limited
+
+
+
+
+50.02 For greater certainty, an express power in this Act to incorporate by reference does not limit the power that otherwise exists to incorporate by reference in a regulation made under this Act.
+
+
+
+
+
+
+
+
+
+
+50.02 Il est entendu que l’octroi dans la présente loi d’un pouvoir exprès d’incorporer par renvoi ne restreint pas le pouvoir qui existe par ailleurs de recourir à l’incorporation par renvoi dans un règlement pris en vertu de la présente loi.
+
+
+
+Pouvoir existant non restreint
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Section 62 of the Act is renumbered as subsection 62(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+
+5. L’article 62 de la même loi devient le paragraphe 62(1) et est modifié par adjonction de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statutory Instruments Act
+
+
+
+
+
+
+(2) The order is not a regulation for the purposes of the Statutory Instruments Act.
+
+
+
+
+
+
+
+
+
+(2) L’arrêté n’est pas un règlement pour l’application de la Loi sur les textes réglementaires.
+
+
+
+
+Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+
+(3) The Minister must, as soon as feasible, make the name of the person who is exempted and the exemption’s duration accessible to the public through the Internet or by any other means that the Minister considers appropriate.
+
+
+
+
+
+
+
+
+
+(3) Dès que possible, le ministre rend le nom de la personne bénéficiant de l’exemption et la durée de celle-ci accessibles au public par Internet ou par tout autre moyen qu’il estime indiqué.
+
+
+
+Publication
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Subsection 69(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 69(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Eligibility of Canadians
+
+
+
+(2) The Minister may, in writing, designate any Canadian as eligible to hold a scheduled international licence. That Canadian remains eligible while the designation remains in force.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut, par écrit, désigner des Canadiens qu’il habilite à détenir une licence pour l’exploitation d’un service international régulier; l’habilitation reste valide tant que la désignation est en vigueur.
+
+
+
+Habilitation des Canadiens
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Section 80 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+
+7. L’article 80 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exemption not to provide certain relief — section 69
+
+
+
+(3) No exemption shall be granted under subsection (1) that has the effect of relieving a person from the provisions of section 69 that require, in order to be eligible to hold a scheduled international licence,
+
+
+
+
+
+
+
+
+
+
+(a) a Canadian to be designated by the Minister to hold such a licence; or
+
+
+
+
+
+
+
+
+
+
+(b) a non-Canadian to be designated by a foreign government or an agent of a foreign government to operate an air service under the terms of an agreement or arrangement between that government and the Government of Canada.
+
+
+
+
+
+
+
+
+
+(3) L’exemption ne peut avoir pour effet de soustraire quiconque aux dispositions de l’article 69 qui exigent, en vue de permettre la détention d’une licence pour l’exploitation d’un service international régulier, selon le cas :
+
+
+
+Exception — article 69
+
+
+
+
+
+a) la désignation d’un Canadien, par le ministre, l’habilitant à détenir une telle licence;
+
+
+
+
+
+
+
+
+
+
+
+b) la désignation d’un non-Canadien, par un gouvernement étranger ou un mandataire de celui-ci, l’habilitant à exploiter un service aérien aux termes d’un accord ou d’une entente entre ce gouvernement et celui du Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) Section 126 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+
+8. (1) L’article 126 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Request for confidential contract
+
+
+
+(1.1) If a shipper wishes to enter into a contract under subsection (1) with a railway company respecting the manner in which the railway company must fulfil its service obligations under section 113, the shipper may request that the railway company make it an offer to enter into such a contract.
+
+
+
+
+
+
+
+
+
+(1.1) L’expéditeur qui souhaite conclure avec une compagnie de chemin de fer un contrat en application du paragraphe (1) concernant les moyens que celle-ci doit prendre pour s’acquitter de ses obligations en application de l’article 113 peut demander à cette compagnie de lui présenter une offre en vue de la conclusion d’un tel contrat.
+
+
+
+Demande de contrat confidentiel
+
+
+
+
+
+
+
+
+
+
+Content of request
+
+
+
+(1.2) The request must describe the traffic to which it relates, the services requested by the shipper with respect to the traffic and any undertaking that the shipper is prepared to give to the railway company with respect to the traffic or services.
+
+
+
+
+
+
+
+
+
+(1.2) La demande mentionne le transport en cause, les services exigés par l’expéditeur à l’égard de celui-ci et tout engagement que l’expéditeur est disposé à prendre envers la compagnie de chemin de fer relativement au transport ou aux services.
+
+
+
+Contenu de la demande
+
+
+
+
+
+
+
+
+
+
+Offer
+
+
+
+(1.3) The railway company must make its offer within 30 days after the day on which it receives the request.
+
+
+
+
+
+
+
+
+
+(1.3) La compagnie de chemin de fer est tenue de présenter l’offre dans les trente jours suivant la date de réception de la demande.
+
+
+
+Offre
+
+
+
+
+
+
+
+
+
+
+Exception to offer
+
+
+
+(1.4) Subject to subsection (1.5), the railway company is not required to include in its offer terms with respect to a matter that
+
+
+
+
+
+
+
+
+
+
+(a) is governed by a written agreement to which the shipper and the railway company are parties;
+
+
+
+
+
+
+
+
+
+
+(b) is the subject of an order, other than an interim order, made under subsection 116(4);
+
+
+
+
+
+
+
+
+
+
+(c) is set out in a tariff referred to in subsection 136(4) or 165(3); or
+
+
+
+
+
+
+
+
+
+
+(d) is the subject of an arbitration decision made under section 169.37.
+
+
+
+
+
+
+
+
+
+(1.4) Sous réserve du paragraphe (1.5), la compagnie de chemin de fer n’est toutefois pas tenue d’inclure dans son offre une stipulation portant sur une question qui, selon le cas :
+
+
+
+Exception
+
+
+
+
+
+a) fait l’objet d’un accord écrit auquel l’expéditeur et la compagnie de chemin de fer sont parties;
+
+
+
+
+
+
+
+
+
+
+
+b) est visée par un arrêté, autre qu’un arrêté provisoire, pris en vertu du paragraphe 116(4);
+
+
+
+
+
+
+
+
+
+
+
+c) figure dans un tarif visé aux paragraphes 136(4) ou 165(3);
+
+
+
+
+
+
+
+
+
+
+
+d) fait l’objet d’une décision arbitrale rendue en vertu de l’article 169.37.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clarification
+
+
+
+(1.5) The railway company must include in its offer terms with respect to a matter that is governed by an agreement, the subject of an order or decision or set out in a tariff, referred to in subsection (1.4) if the agreement, order, decision or tariff expires within two months after the day on which the railway company receives the request referred to in subsection (1.1). The terms must apply to a period that begins after the agreement, order, decision or tariff expires.
+
+
+
+
+
+
+
+
+
+(1.5) La compagnie de chemin de fer est toutefois tenue d’inclure dans son offre une telle stipulation si l’accord, l’arrêté, le tarif ou la décision arbitrale visés au paragraphe (1.4) expirent dans les deux mois suivant la date de réception de la demande prévue au paragraphe (1.1). La stipulation s’applique alors à la période postérieure à l’expiration.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 126(2) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 126(2) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Arbitrage
+
+
+
+
+(2) Toute demande d’arbitrage au titre de l’article 161 sur une question faisant l’objet d’un contrat confidentiel est subordonnée à l’assentiment de toutes les parties au contrat.
+
+
+
+
+
+
+
+
+
+
+(2) Toute demande d’arbitrage au titre de l’article 161 sur une question faisant l’objet d’un contrat confidentiel est subordonnée à l’assentiment de toutes les parties au contrat.
+
+
+
+Arbitrage
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. The headings before section 159 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. Les intertitres précédant l’article 159 de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART IV
+
+
+
+
+
+
+
+
+
+PARTIE IV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARBITRATIONS
+
+
+
+
+
+
+
+
+
+ARBITRAGES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division I
+
+
+
+
+
+
+
+
+
+Section I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Final Offer Arbitration
+
+
+
+
+
+
+
+
+
+Arbitrage sur l’offre finale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. The heading before section 161 of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+10. L’intertitre précédant l’article 161 de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. The Act is amended by adding the following after section 169.3:
+
+
+
+
+
+
+
+
+
+
+11. La même loi est modifiée par adjonction, après l’article 169.3, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division II
+
+
+
+
+
+
+
+
+
+Section II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arbitration on Level of Services
+
+
+
+
+
+
+
+
+
+Arbitrage sur le niveau de services
+
+
+
+
+
+
+
+
+
+
+
+
+Submission for arbitration — confidential contract
+
+
+
+
+169.31 (1) If a shipper and a railway company are unable to agree and enter into a contract under subsection 126(1) respecting the manner in which the railway company must fulfil its service obligations under section 113, the shipper may submit any of the following matters, in writing, to the Agency for arbitration:
+
+
+
+
+
+
+
+
+
+
+(a) the operational terms that the railway company must comply with in respect of receiving, loading, carrying, unloading and delivering the traffic, including performance standards and communication protocols;
+
+
+
+
+
+
+
+
+
+
+(b) the operational terms that the railway company must comply with if it fails to comply with an operational term described in paragraph (a);
+
+
+
+
+
+
+
+
+
+
+(c) any operational term that the shipper must comply with that is related to an operational term described in paragraph (a) or (b);
+
+
+
+
+
+
+
+
+
+
+(d) any service provided by the railway company incidental to transportation that is customary or usual in connection with the business of a railway company; or
+
+
+
+
+
+
+
+
+
+
+(e) the question of whether the railway company may apply a charge with respect to an operational term described in paragraph (a) or (b) or for a service described in paragraph (d).
+
+
+
+
+
+
+
+
+
+
+169.31 (1) Dans le cas où un expéditeur et une compagnie de chemin de fer ne parviennent pas à s’entendre pour conclure un contrat en application du paragraphe 126(1) concernant les moyens que celle-ci doit prendre pour s’acquitter de ses obligations en application de l’article 113, l’expéditeur peut soumettre par écrit à l’Office une ou plusieurs des questions ci-après pour arbitrage :
+
+
+
+Demande d’arbitrage — contrat confidentiel
+
+
+
+
+
+a) les conditions d’exploitation auxquelles la compagnie de chemin de fer est assujettie relativement à la réception, au chargement, au transport, au déchargement et à la livraison des marchandises en cause, y compris les normes de rendement et les protocoles de communication;
+
+
+
+
+
+
+
+
+
+
+
+b) les conditions d’exploitation auxquelles la compagnie de chemin de fer est assujettie en cas de non-respect d’une condition d’exploitation visée à l’alinéa a);
+
+
+
+
+
+
+
+
+
+
+
+c) les conditions d’exploitation auxquelles l’expéditeur est assujetti et qui sont liées aux conditions d’exploitation visées aux alinéas a) ou b);
+
+
+
+
+
+
+
+
+
+
+
+d) les services fournis par la compagnie de chemin de fer qui sont normalement liés à l’exploitation d’un service de transport par une compagnie de chemin de fer;
+
+
+
+
+
+
+
+
+
+
+
+e) la question de savoir si des frais peuvent être imposés par la compagnie de chemin de fer relativement aux conditions d’exploitation visées aux alinéas a) ou b) ou pour les services visés à l’alinéa d).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Matter excluded from arbitration
+
+
+
+(2) The shipper is not entitled to submit to the Agency for arbitration a matter that
+
+
+
+
+
+
+
+
+
+
+(a) is governed by a written agreement, including a confidential contract, to which the shipper and the railway company are parties; or
+
+
+
+
+
+
+
+
+
+
+(b) is the subject of an order, other than an interim order, made under subsection 116(4).
+
+
+
+
+
+
+
+
+
+(2) L’expéditeur ne peut soumettre à l’Office pour arbitrage une question qui, selon le cas :
+
+
+
+Exclusions
+
+
+
+
+
+a) fait l’objet d’un accord écrit, notamment d’un contrat confidentiel, auquel l’expéditeur et la compagnie de chemin de fer sont parties;
+
+
+
+
+
+
+
+
+
+
+
+b) est visée par un arrêté, autre qu’un arrêté provisoire, pris en vertu du paragraphe 116(4).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Excluded matter — traffic
+
+
+
+(3) The shipper is not entitled to submit to the Agency for arbitration a matter that is in respect of traffic that is the subject of
+
+
+
+
+
+
+
+
+
+
+(a) a confidential contract between the shipper and the railway company that is in force immediately before the day on which this section comes into force;
+
+
+
+
+
+
+
+
+
+
+(b) a tariff, or a contract, referred to in subsection 165(3);
+
+
+
+
+
+
+
+
+
+
+(c) a competitive line rate; or
+
+
+
+
+
+
+
+
+
+
+(d) an arbitrator’s decision made under section 169.37.
+
+
+
+
+
+
+
+
+
+(3) L’expéditeur ne peut soumettre à l’Office pour arbitrage une question qui concerne le transport faisant l’objet, selon le cas :
+
+
+
+Exclusions — transport
+
+
+
+
+
+a) d’un contrat confidentiel conclu entre l’expéditeur et la compagnie de chemin de fer qui est en vigueur à l’entrée en vigueur du présent article;
+
+
+
+
+
+
+
+
+
+
+
+b) d’un contrat ou d’un tarif visés au paragraphe 165(3);
+
+
+
+
+
+
+
+
+
+
+
+c) d’un prix de ligne concurrentiel;
+
+
+
+
+
+
+
+
+
+
+
+d) d’une décision arbitrale rendue en vertu de l’article 169.37.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clarification
+
+
+
+(4) For greater certainty, neither a rate for the movement of the traffic nor the amount of a charge for that movement or for the provision of incidental services is to be subject to arbitration.
+
+
+
+
+
+
+
+
+
+(4) Il est entendu que l’arbitrage ne peut porter sur les prix relatifs au transport, ni sur le montant des frais relatifs au transport ou aux services connexes.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Contents of submission
+
+
+
+
+169.32 (1) The submission must contain
+
+
+
+
+
+
+
+
+
+
+(a) a detailed description of the matters submitted to the Agency for arbitration;
+
+
+
+
+
+
+
+
+
+
+(b) a description of the traffic to which the service obligations relate;
+
+
+
+
+
+
+
+
+
+
+(c) an undertaking with respect to the traffic, if any, given by the shipper to the railway company that must be complied with for the period during which the arbitrator’s decision applies to the parties, other than an undertaking given by the shipper to the railway company with respect to an operational term described in paragraph 169.31(1)(c);
+
+
+
+
+
+
+
+
+
+
+(d) an undertaking given by the shipper to the railway company to ship the goods to which the service obligations relate in accordance with the arbitrator’s decision; and
+
+
+
+
+
+
+
+
+
+
+(e) an undertaking given by the shipper to the Agency to pay the fee and costs for which the shipper is liable under subsection 169.39(3) as a party to the arbitration.
+
+
+
+
+
+
+
+
+
+
+169.32 (1) La demande d’arbitrage contient :
+
+
+
+Contenu de la demande
+
+
+
+
+
+a) l’énoncé détaillé des questions soumises à l’Office pour arbitrage;
+
+
+
+
+
+
+
+
+
+
+
+b) la description du transport en cause;
+
+
+
+
+
+
+
+
+
+
+
+c) le cas échéant, l’engagement qui est pris par l’expéditeur envers la compagnie de chemin de fer relativement au transport et qui doit être respecté pendant la durée d’application de la décision de l’arbitre, autre que l’engagement pris relativement aux conditions d’exploitation visées à l’alinéa 169.31(1)c);
+
+
+
+
+
+
+
+
+
+
+
+d) l’engagement pris par l’expéditeur envers la compagnie de chemin de fer d’expédier les marchandises en cause conformément à la décision de l’arbitre;
+
+
+
+
+
+
+
+
+
+
+
+e) l’engagement pris par l’expéditeur envers l’Office de payer les honoraires et les frais qui sont à sa charge en application du paragraphe 169.39(3) à titre de partie à l’arbitrage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy of submission served
+
+
+
+(2) The shipper must serve a copy of the submission on the railway company on the day on which it submits the matters to the Agency for arbitration.
+
+
+
+
+
+
+
+
+
+(2) L’expéditeur signifie un exemplaire de la demande d’arbitrage à la compagnie de chemin de fer le jour où il la soumet à l’Office.
+
+
+
+Signification
+
+
+
+
+
+
+
+
+
+
+Arbitration precluded in certain cases
+
+
+
+
+169.33 (1) The Agency must dismiss the submission if
+
+
+
+
+
+
+
+
+
+
+(a) the shipper has not, at least 15 days before making it, served on the railway company and the Agency a written notice indicating that the shipper intends to make a submission to the Agency for arbitration; or
+
+
+
+
+
+
+
+
+
+
+(b) the shipper does not demonstrate, to the Agency’s satisfaction, that an attempt has been made to resolve the matters contained in it.
+
+
+
+
+
+
+
+
+
+
+169.33 (1) L’Office rejette la demande d’arbitrage dans les cas suivants :
+
+
+
+Arbitrage écarté
+
+
+
+
+
+a) l’expéditeur n’a pas signifié, dans les quinze jours précédant la demande d’arbitrage, un avis écrit à la compagnie de chemin de fer et à l’Office annonçant son intention de soumettre une demande d’arbitrage à ce dernier;
+
+
+
+
+
+
+
+
+
+
+
+b) l’expéditeur ne le convainc pas que des efforts ont été déployés pour régler les questions contenues dans la demande.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Content of notice
+
+
+
+(2) The notice must contain the descriptions referred to in paragraphs 169.32(1)(a) and (b) and, if the shipper’s submission will con- tain an undertaking described in paragraph 169.32(1)(c), a description of that undertaking.
+
+
+
+
+
+
+
+
+
+(2) L’avis contient l’énoncé prévu à l’alinéa 169.32(1)a), la description prévue à l’alinéa 169.32(1)b) et, si l’engagement prévu à l’alinéa 169.32(1)c) sera contenu dans la demande d’arbitrage, une description de celui-ci.
+
+
+
+Contenu de l’avis
+
+
+
+
+
+
+
+
+
+
+Submission of proposals
+
+
+
+
+169.34 (1) Despite any application filed under section 169.43, the shipper and the railway company must each submit, within 10 days after the day on which a copy of a submission is served under subsection 169.32(2), to the Agency, in order to resolve the matters that are submitted to it for arbitration by the shipper, a proposal that contains any of the following terms:
+
+
+
+
+
+
+
+
+
+
+(a) any operational term described in paragraph 169.31(1)(a), (b) or (c);
+
+
+
+
+
+
+
+
+
+
+(b) any term for the provision of a service described in paragraph 169.31(1)(d); or
+
+
+
+
+
+
+
+
+
+
+(c) any term with respect to the applica- tion of a charge described in paragraph 169.31(1)(e).
+
+
+
+
+
+
+
+
+
+
+169.34 (1) Malgré la présentation d’une demande en vertu de l’article 169.43, l’expéditeur et la compagnie de chemin de fer, dans les dix jours suivant la signification d’un exemplaire de la demande d’arbitrage en application du paragraphe 169.32(2), présentent chacun à l’Office leur proposition en vue du règlement des questions que l’expéditeur a soumises à l’Office pour arbitrage. La proposition contient une ou plusieurs des conditions ou modalités suivantes :
+
+
+
+Délai de présentation
+
+
+
+
+
+a) les conditions d’exploitation visées aux alinéas 169.31(1)a), b) ou c);
+
+
+
+
+
+
+
+
+
+
+
+b) les modalités de fourniture des services visés à l’alinéa 169.31(1)d);
+
+
+
+
+
+
+
+
+
+
+
+c) les modalités concernant l’imposition des frais visés à l’alinéa 169.31(1)e).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proposals provided to parties
+
+
+
+(2) The Agency must provide the shipper and the railway company with a copy of the other party’s proposal immediately after the day on which it receives the last of the two proposals.
+
+
+
+
+
+
+
+
+
+(2) Dès réception des deux propositions, l’Office communique à l’expéditeur et à la compagnie de chemin de fer la proposition de la partie adverse.
+
+
+
+Communication des propositions
+
+
+
+
+
+
+
+
+
+
+Exchange of information
+
+
+
+(3) The parties must exchange the information that they intend to submit to the arbitrator in support of their proposals within 20 days after the day on which a copy of a submission is served under subsection 169.32(2) or within a period agreed to by the parties or fixed by the arbitrator.
+
+
+
+
+
+
+
+
+
+(3) Dans les vingt jours suivant la signification d’un exemplaire de la demande d’arbitrage en application du paragraphe 169.32(2), ou dans le délai fixé par l’arbitre ou convenu entre elles, les parties s’échangent les renseignements qu’elles ont l’intention de présenter à l’arbitre à l’appui de leur proposition.
+
+
+
+Échange de renseignements
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(4) Unless the parties agree otherwise, a party to the arbitration is not, in support of the proposal it submits under subsection (1), to refer to any offer, or any part of an offer, that was made to it — before a copy of the submission is served under subsection 169.32(2) — by the other party to the arbitration for the purpose of entering into a confidential contract.
+
+
+
+
+
+
+
+
+
+(4) Sauf accord entre les parties à l’effet contraire, aucune d’elles ne peut, au soutien de sa proposition présentée en application du paragraphe (1), faire mention de tout ou partie des offres présentées par l’autre partie avant la signification d’un exemplaire de la demande d’arbitrage en application du paragraphe 169.32(2) en vue de conclure un contrat confidentiel.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+If no proposal from party
+
+
+
+(5) If one party does not submit a proposal in accordance with subsection (1), the proposal submitted by the other party is the arbitrator’s decision made under section 169.37.
+
+
+
+
+
+
+
+
+
+(5) Si une partie ne se conforme pas au paragraphe (1), la proposition de l’autre partie constitue la décision de l’arbitre au titre de l’article 169.37.
+
+
+
+Une seule proposition
+
+
+
+
+
+
+
+
+
+
+Arbitration
+
+
+
+
+169.35 (1) Despite any application filed under section 169.43, the Agency must refer, within two business days after the day on which it receives the last of the two proposals, the matters for arbitration to be conducted by an arbitrator that it chooses.
+
+
+
+
+
+
+
+
+
+
+169.35 (1) Malgré la présentation d’une demande en application de l’article 169.43, l’Office, dans les deux jours ouvrables suivant la réception des deux propositions, renvoie à l’arbitre qu’il choisit les questions qui lui sont soumises pour arbitrage.
+
+
+
+Arbitrage
+
+
+
+
+
+
+
+
+
+
+Arbitrator not to act in other proceedings
+
+
+
+(2) The arbitrator is not to act in any other proceedings in relation to a matter that is referred to him or her for arbitration.
+
+
+
+
+
+
+
+
+
+(2) L’arbitre ne peut agir dans le cadre d’autres procédures à l’égard des questions qui lui sont renvoyées pour arbitrage.
+
+
+
+Impossibilité d’agir
+
+
+
+
+
+
+
+
+
+
+Assistance by Agency
+
+
+
+(3) The Agency may, at the arbitrator’s request, provide administrative, technical and legal assistance to the arbitrator.
+
+
+
+
+
+
+
+
+
+(3) À la demande de l’arbitre, l’Office peut lui offrir le soutien administratif, technique et juridique voulu.
+
+
+
+Soutien de l’Office
+
+
+
+
+
+
+
+
+
+
+Arbitration not proceeding
+
+
+
+(4) The arbitration is not a proceeding before the Agency.
+
+
+
+
+
+
+
+
+
+(4) L’arbitrage ne constitue pas une procédure devant l’Office.
+
+
+
+Nature de l’arbitrage
+
+
+
+
+
+
+
+
+
+
+Agency’s rules of procedure
+
+
+
+
+169.36 (1) The Agency may make rules of procedure for an arbitration.
+
+
+
+
+
+
+
+
+
+
+169.36 (1) L’Office peut établir les règles de procédure applicables à l’arbitrage.
+
+
+
+Procédure
+
+
+
+
+
+
+
+
+
+
+Procedure generally
+
+
+
+(2) Subject to any rule of procedure made by the Agency and in the absence of an agreement between the arbitrator and the parties as to the procedure to be followed, the arbitrator must conduct the arbitration as quickly as possible and in the manner that he or she considers appropriate having regard to the circumstances of the matter.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve des règles de procédure établies par l’Office et à défaut d’un accord entre les parties et l’arbitre sur la procédure à suivre, ce dernier mène l’arbitrage aussi rapidement que possible et de la manière qu’il estime indiquée dans les circonstances.
+
+
+
+Disposition générale
+
+
+
+
+
+
+
+
+
+
+Questions
+
+
+
+(3) Each party may direct questions to the other in the manner that the arbitrator considers appropriate.
+
+
+
+
+
+
+
+
+
+(3) Chaque partie peut poser des questions à l’autre de la manière que l’arbitre estime indiquée dans les circonstances.
+
+
+
+Questions
+
+
+
+
+
+
+
+
+
+
+Arbitrator’s decision
+
+
+
+
+169.37 The arbitrator’s decision must establish any operational term described in paragraph 169.31(1)(a), (b) or (c), any term for the provision of a service described in paragraph 169.31(1)(d) or any term with respect to the application of a charge described in paragraph 169.31(1)(e), or any combination of those terms, that the arbitrator considers necessary to resolve the matters that are referred to him or her for arbitration. In making his or her decision, the arbitrator must have regard to the following:
+
+
+
+
+
+
+
+
+
+
+(a) the traffic to which the service obligations relate;
+
+
+
+
+
+
+
+
+
+
+(b) the service that the shipper requires with respect to the traffic;
+
+
+
+
+
+
+
+
+
+
+(c) any undertaking described in paragraph 169.32(1)(c) that is contained in the shipper’s submission;
+
+
+
+
+
+
+
+
+
+
+(d) the railway company’s service obligations under section 113 to other shippers and the railway company’s obligations to persons and other companies under section 114;
+
+
+
+
+
+
+
+
+
+
+(e) the railway company’s obligations, if any, with respect to a public passenger service provider;
+
+
+
+
+
+
+
+
+
+
+(f) the railway company’s and the shipper’s operational requirements and restrictions;
+
+
+
+
+
+
+
+
+
+
+(g) the question of whether there is available to the shipper an alternative, effective, adequate and competitive means of transporting the goods to which the service obligations relate; and
+
+
+
+
+
+
+
+
+
+
+(h) any information that the arbitrator considers relevant.
+
+
+
+
+
+
+
+
+
+
+169.37 Dans sa décision, l’arbitre établit les conditions d’exploitation visées aux alinéas 169.31(1)a), b) ou c), les modalités de fourniture des services visés à l’alinéa 169.31(1)d) ou les modalités concernant l’imposition des frais visés à l’alinéa 169.31(1)e), ou prend n’importe lesquelles de ces mesures, selon ce qu’il estime nécessaire pour régler les questions qui lui sont renvoyées. Pour rendre sa décision, il tient compte :
+
+
+
+Décision de l’arbitre
+
+
+
+
+
+a) du transport en cause;
+
+
+
+
+
+
+
+
+
+
+
+b) des services dont l’expéditeur a besoin pour le transport en cause;
+
+
+
+
+
+
+
+
+
+
+
+c) de tout engagement visé à l’alinéa 169.32(1)c) qui est contenu dans la demande d’arbitrage;
+
+
+
+
+
+
+
+
+
+
+
+d) des obligations qu’a la compagnie de chemin de fer envers d’autres expéditeurs aux termes de l’article 113, et de celles qu’elle a envers les personnes et autres compagnies aux termes de l’article 114;
+
+
+
+
+
+
+
+
+
+
+
+e) des obligations que peut avoir la compagnie de chemin de fer envers une société de transport publique;
+
+
+
+
+
+
+
+
+
+
+
+f) des besoins et des contraintes de l’expéditeur et de la compagnie de chemin de fer en matière d’exploitation;
+
+
+
+
+
+
+
+
+
+
+
+g) de la possibilité pour l’expéditeur de faire appel à un autre mode de transport efficace, bien adapté et concurrentiel des marchandises en cause;
+
+
+
+
+
+
+
+
+
+
+
+h) de tout renseignement qu’il estime pertinent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requirements of decision
+
+
+
+
+169.38 (1) The arbitrator’s decision must
+
+
+
+
+
+
+
+
+
+
+(a) be made in writing;
+
+
+
+
+
+
+
+
+
+
+(b) be made so as to apply to the parties for a period of one year as of the date of his or her decision, unless the parties agree otherwise; and
+
+
+
+
+
+
+
+
+
+
+(c) be commercially fair and reasonable to the parties.
+
+
+
+
+
+
+
+
+
+
+169.38 (1) La décision de l’arbitre est :
+
+
+
+Caractéristiques de la décision
+
+
+
+
+
+a) rendue par écrit;
+
+
+
+
+
+
+
+
+
+
+
+b) rendue de manière à être applicable aux parties pendant un an à compter de sa date, sauf accord entre elles à l’effet contraire;
+
+
+
+
+
+
+
+
+
+
+
+c) commercialement équitable et raisonnable pour les parties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Decision binding
+
+
+
+(2) The arbitrator’s decision is final and binding on the parties and is deemed, for the purposes of Division IV of Part III and its enforceability between the parties, to be a confidential contract.
+
+
+
+
+
+
+
+
+
+(2) La décision de l’arbitre est définitive et obligatoire. Elle est réputée, aux fins d’exécution et pour l’application de la section IV de la partie III, être un contrat confidentiel conclu entre les parties.
+
+
+
+Décision définitive
+
+
+
+
+
+
+
+
+
+
+Period for making decision
+
+
+
+(3) The arbitrator’s decision must be made within 45 days after the day on which the matters are submitted to the Agency for arbitration under subsection 169.31(1) unless in the arbitrator’s opinion making a decision within that period is not practical, in which case the arbitrator must make his or her decision within 65 days after that day.
+
+
+
+
+
+
+
+
+
+(3) La décision est rendue dans les quarante-cinq jours suivant la date à laquelle la demande d’arbitrage a été soumise à l’Office en vertu du paragraphe 169.31(1). Toutefois, si l’arbitre est d’avis qu’il est difficile de rendre une décision dans ce délai, la décision est rendue dans les soixante-cinq jours suivant cette date.
+
+
+
+Délai pour rendre la décision
+
+
+
+
+
+
+
+
+
+
+Period — agreement of parties
+
+
+
+(4) Despite subsection (3), the arbitrator may, with the agreement of the parties, make his or her decision within a period that is longer than 65 days after the day on which the matters are submitted to the Agency for arbitration.
+
+
+
+
+
+
+
+
+
+(4) Malgré le paragraphe (3), l’arbitre peut, avec l’accord des parties, rendre sa décision dans un délai supérieur à soixante-cinq jours.
+
+
+
+Délai — accord des parties
+
+
+
+
+
+
+
+
+
+
+Copy of decision to Agency
+
+
+
+(5) The arbitrator must provide the Agency with a copy of his or her decision.
+
+
+
+
+
+
+
+
+
+(5) L’arbitre fournit à l’Office une copie de sa décision.
+
+
+
+Copie de la décision
+
+
+
+
+
+
+
+
+
+
+Arbitration fees
+
+
+
+
+169.39 (1) The Agency may fix the fee to be paid to it or, if the arbitrator is not a member or on the staff of the Agency, to the arbitrator for the arbitrator’s services in arbitration proceedings.
+
+
+
+
+
+
+
+
+
+
+169.39 (1) L’Office peut fixer les honoraires à lui verser, ou à verser à l’arbitre dans le cas où celui-ci n’est pas un de ses membres ou ne fait pas partie de son personnel, pour l’arbitrage.
+
+
+
+Honoraires de l’arbitre
+
+
+
+
+
+
+
+
+
+
+Arbitration fees — not member
+
+
+
+(2) An arbitrator who is not a member or on the staff of the Agency may fix a fee for his or her services if the Agency does not do so under subsection (1).
+
+
+
+
+
+
+
+
+
+(2) L’arbitre qui n’est pas un membre de l’Office ou qui ne fait pas partie de son personnel peut fixer ses honoraires pour l’arbitrage dans le cas où l’Office ne les fixe pas au titre du paragraphe (1).
+
+
+
+Honoraires de l’arbitre — non membre
+
+
+
+
+
+
+
+
+
+
+Payment of fees and costs
+
+
+
+(3) The shipper and the railway company are to share equally, whether or not the proceedings are terminated under section 169.41, in the payment of the fee for the arbitrator’s services and in the payment of the costs related to the arbitration, including those borne by the Agency in providing administrative, technical and legal assistance to the arbitrator under subsection 169.35(3).
+
+
+
+
+
+
+
+
+
+(3) Les honoraires et les frais liés à l’arbitrage — y compris ceux relatifs au soutien administratif, technique et juridique offert à l’arbitre par l’Office au titre du paragraphe 169.35(3) — sont à la charge de l’expéditeur et de la compagnie de chemin de fer en parts égales, même dans les cas d’abandon des procédures prévus par l’article 169.41.
+
+
+
+Paiement des honoraires et frais
+
+
+
+
+
+
+
+
+
+
+Cost related to arbitration
+
+
+
+(4) Costs related to the arbitration also include the cost to the Agency when a member or a person on the staff of the Agency acts as an arbitrator and the Agency does not fix a fee for that arbitrator under subsection (1).
+
+
+
+
+
+
+
+
+
+(4) Les frais liés à l’arbitrage comprennent également ceux supportés par l’Office lorsque l’un de ses membres ou une personne faisant partie de son personnel agit à titre d’arbitre et qu’il ne fixe pas ses honoraires au titre du paragraphe (1).
+
+
+
+Frais liés à l’arbitrage
+
+
+
+
+
+
+
+
+
+
+Confidentiality of information
+
+
+
+
+169.4 (1) If the Agency and the arbitrator are advised that a party to an arbitration wishes to keep information relating to the arbitration confidential, the Agency and the arbitrator must take all reasonably necessary measures to ensure that the information is not disclosed by the Agency or the arbitrator or during the arbitration to any person other than the parties.
+
+
+
+
+
+
+
+
+
+
+169.4 (1) La partie qui souhaite que des renseignements relatifs à l’arbitrage demeurent confidentiels en avise l’Office et l’arbitre. Ceux-ci prennent alors toutes les mesures justifiables pour éviter que les renseignements ne soient communiqués soit de leur fait, soit au cours de l’arbitrage à quiconque autre que les parties.
+
+
+
+Caractère confidentiel
+
+
+
+
+
+
+
+
+
+
+Limited disclosure
+
+
+
+(2) Despite subsection (1), the Agency may, in the exercise of its powers or in the performance of its duties and functions under this Act, disclose any information that a party advised the Agency and the arbitrator it wishes to keep confidential.
+
+
+
+
+
+
+
+
+
+(2) Malgré le paragraphe (1), l’Office peut, dans l’exercice de ses attributions sous le régime de la présente loi, communiquer les renseignements visés par l’avis.
+
+
+
+Divulguation restreinte
+
+
+
+
+
+
+
+
+
+
+Termination of proceedings
+
+
+
+
+169.41 If, before the arbitrator makes his or her decision, the parties advise the Agency or the arbitrator that they agree that the matters being arbitrated should be withdrawn from arbitration, any proceedings in respect of those matters are immediately terminated.
+
+
+
+
+
+
+
+
+
+
+169.41 Dans le cas où, avant la décision de l’arbitre, les parties avisent l’Office ou l’arbitre qu’elles s’accordent pour renoncer à l’arbitrage, les procédures sont abandonnées sur-le-champ.
+
+
+
+Abandon des procédures
+
+
+
+
+
+
+
+
+
+
+List of arbitrators
+
+
+
+
+169.42 (1) The Agency, in consultation with representatives of shippers and railway companies, must establish a list of persons, including persons who are members or on the staff of the Agency, who agree to act as arbitrators in arbitrations.
+
+
+
+
+
+
+
+
+
+
+169.42 (1) En consultation avec les représentants des expéditeurs et des compagnies de chemin de fer, l’Office établit une liste de personnes qui sont choisies notamment parmi ses membres ou son personnel et qui acceptent d’agir à titre d’arbitres.
+
+
+
+Liste d’arbitres
+
+
+
+
+
+
+
+
+
+
+Expertise required
+
+
+
+(2) Only persons who, in the Agency’s opinion, have sufficient expertise to act as arbitrators are to be named in the list.
+
+
+
+
+
+
+
+
+
+(2) Ne peuvent figurer sur la liste que les personnes qui, de l’avis de l’Office, possèdent les compétences nécessaires pour agir à titre d’arbitres.
+
+
+
+Compétences nécessaires
+
+
+
+
+
+
+
+
+
+
+Publication of list
+
+
+
+(3) The Agency must publish the list on its Internet site.
+
+
+
+
+
+
+
+
+
+(3) L’Office publie la liste sur son site Internet.
+
+
+
+Publication de la liste
+
+
+
+
+
+
+
+
+
+
+Application for order
+
+
+
+
+169.43 (1) A railway company may apply to the Agency, within 10 days after the day on which it is served with a copy of a submission under subsection 169.32(2), for an order declaring that the shipper is not entitled to submit to the Agency for arbitration a matter contained in the shipper’s submission.
+
+
+
+
+
+
+
+
+
+
+169.43 (1) La compagnie de chemin de fer peut, dans les dix jours suivant la signification d’un exemplaire de la demande d’arbitrage en application du paragraphe 169.32(2), demander à l’Office de prendre un arrêté déclarant qu’une question contenue dans la demande d’arbitrage de l’expéditeur ne peut lui être soumise pour arbitrage.
+
+
+
+Demande d’arrêté
+
+
+
+
+
+
+
+
+
+
+Content of order
+
+
+
+(2) If the Agency makes the order, it may also
+
+
+
+
+
+
+
+
+
+
+(a) dismiss the submission for arbitration, if the matter contained in it has not been referred to arbitration;
+
+
+
+
+
+
+
+
+
+
+(b) discontinue the arbitration;
+
+
+
+
+
+
+
+
+
+
+(c) subject the arbitration to any terms that it specifies; or
+
+
+
+
+
+
+
+
+
+
+(d) set aside the arbitrator’s decision or any part of it.
+
+
+
+
+
+
+
+
+
+(2) S’il prend l’arrêté, l’Office peut en outre :
+
+
+
+Contenu de l’arrêté
+
+
+
+
+
+a) rejeter la demande d’arbitrage, dans le cas où l’arbitre n’en a pas encore été saisi;
+
+
+
+
+
+
+
+
+
+
+
+b) mettre fin à l’arbitrage;
+
+
+
+
+
+
+
+
+
+
+
+c) assujettir l’arbitrage aux conditions qu’il fixe;
+
+
+
+
+
+
+
+
+
+
+
+d) annuler tout ou partie de la décision arbitrale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Period for making decision
+
+
+
+(3) The Agency must make a decision on the railway company’s application made under subsection (1) as soon as feasible but not later than 35 days after the day on which it receives the application.
+
+
+
+
+
+
+
+
+
+(3) L’Office statue sur la demande présentée en vertu du paragraphe (1) aussi rapidement que possible et en tout état de cause dans les trente-cinq jours suivant sa réception.
+
+
+
+Délai pour statuer
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Section 177 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+
+12. L’article 177 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Regulation-making powers — railway company’s obligations
+
+
+
+(1.1) The Agency may, by regulation,
+
+
+
+
+
+
+
+
+
+
+(a) designate any requirement imposed on a railway company in an arbitrator’s decision made under section 169.37 as a requirement the contravention of which may be proceeded with as a violation in accordance with sections 179 and 180; and
+
+
+
+
+
+
+
+
+
+
+(b) prescribe the maximum amount payable for each violation, but the amount shall not be more than $100,000.
+
+
+
+
+
+
+
+
+
+(1.1) L’Office peut, par règlement :
+
+
+
+Règlements — compagnie de chemin de fer
+
+
+
+
+
+a) désigner toute obligation imposée à une compagnie de chemin de fer par une décision arbitrale rendue en vertu de l’article 169.37 comme un texte dont la contravention est assujettie aux articles 179 et 180;
+
+
+
+
+
+
+
+
+
+
+
+b) prévoir le montant maximal de la sanction applicable à chaque contravention à un texte ainsi désigné, plafonné à 100 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 19, s. 50(1)
+
+
+
+
+13. The portion of subsection 178(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 178(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 19, par. 50(1)
+
+
+
+
+
+
+
+
+
+
+Notices of violation
+
+
+
+
+178. (1) The Agency, in respect of a violation referred to in subsection 177(1) or (1.1), or the Minister, in respect of a violation referred to in subsection 177(2), may
+
+
+
+
+
+
+
+
+
+
+178. (1) L’Office ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1), (1.1) ou (2), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
+
+
+
+Procès-verbaux
+
+
+
+
+
+
+
+
+
+
+2007, c. 19, s. 52
+
+
+
+
+14. Subsection 180.8(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. Le paragraphe 180.8(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 19, art. 52
+
+
+
+
+
+
+
+
+
+
+References to “Minister”
+
+
+
+
+180.8 (1) In the case of a violation referred to in subsection 177(1) or (1.1), every reference to the “Minister” in sections 180.3 to 180.7 shall be read as a reference to the Agency or to a person designated by the Agency.
+
+
+
+
+
+
+
+
+
+
+180.8 (1) S’il s’agit d’une contravention à un texte désigné au titre des paragraphes 177(1) ou (1.1), la mention du ministre aux articles 180.3 à 180.7 vaut mention de l’Office ou de la personne que l’Office peut désigner.
+
+
+
+Mention du ministre
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

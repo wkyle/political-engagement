@@ -1,0 +1,7007 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Session, Thirty-eighth Parliament,
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+Première session, trente-huitième législature,
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+STATUTES OF CANADA 2005CHAPTER 32
+
+
+
+
+
+LOIS DU CANADA (2005)CHAPITRE 32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (protection of children and other vulnerable persons) and the Canada Evidence Act
+
+
+
+
+
+Loi modifiant le Code criminel (protection des enfants et d’autres personnes vulnérables) et la Loi sur la preuve au Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+20th JULY, 2005
+BILL C-2
+
+
+
+
+
+SANCTIONNÉE
+LE 20 JUILLET 2005
+PROJET DE LOI C-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code to
+(a) amend the child pornography provisions with respect to the type of written and audio material that constitutes child pornography, and with respect to the child pornography offences, defences and penalties;
+(b) add a new category to the offence of sexual exploitation of young persons and make additional amendments to further protect children from sexual exploitation;
+(c) increase the maximum penalty for child sexual offences, for failing to provide the necessaries of life and for abandoning a child;
+(d) make child abuse an aggravating factor for the purpose of sentencing and direct the courts to give primary consideration to the objectives of denunciation and deterrence in sentencing for offences involving abuse of a child;
+(e) amend and clarify the applicable test and criteria that need to be met for the use of testimonial aids, for excluding the public, for imposing a publication ban, for using video-recorded evidence or for appointing counsel for self-represented accused to conduct a cross-examination of certain witnesses; and
+(f) create an offence of voyeurism and the distribution of voyeuristic material.
+This enactment also amends the Canada Evidence Act to abolish the requirement for a competency hearing for children under 14 years of age.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel pour :
+
+a) modifier les dispositions sur la pornographie juvénile relativement aux catégories d’écrits et d’enregistrements sonores qui constituent de la pornographie juvénile, aux infractions, aux moyens de défense recevables et aux peines applicables;
+
+b) ajouter une nouvelle catégorie à l’infraction destinée à prévenir l’exploitation sexuelle des adolescents et d’autres mesures visant à accroître la protection des enfants contre une telle exploitation;
+
+c) augmenter la peine maximale pour les infractions d’ordre sexuel perpétrées à l’égard des enfants et les infractions visant l’omission de fournir les choses nécessaires à l’existence des enfants ou l’abandon de ceux-ci;
+
+d) faire du mauvais traitement d’un enfant une circonstance aggravante pour la détermination de la peine et faire de la dénonciation et de la dissuasion les objectifs auxquels le tribunal accorde une attention particulière lors de la détermination de la peine relative à une infraction qui constitue un mauvais traitement à l’égard d’un enfant;
+
+e) modifier et clarifier les conditions à remplir pour l’utilisation de moyens destinés à faciliter les témoignages, le huis-clos, les ordonnances de non-publication, l’interdiction du contre-interrogatoire de certains témoins par l’accusé et l’utilisation d’enregistrements vidéo;
+
+f) créer une infraction de voyeurisme et une autre pour la distribution du matériel voyeuriste.
+Le texte modifie également la Loi sur la preuve au Canada pour supprimer l’enquête sur la capacité de témoigner d’un enfant âgé de moins de quatorze ans.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+53-54 ELIZABETH II
+
+
+
+
+
+
+
+
+
+53-54 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 32
+
+
+
+
+
+
+
+
+
+CHAPITRE 32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (protection of children and other vulnerable persons) and the Canada Evidence Act
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (protection des enfants et d’autres personnes vulnérables) et la Loi sur la preuve au Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 20th July, 2005]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 20 juillet 2005]
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+WHEREAS the Parliament of Canada has grave concerns regarding the vulnerability of children to all forms of exploitation, including child pornography, sexual exploitation, abuse and neglect;
+
+
+
+
+
+
+
+
+
+
+WHEREAS Canada, by ratifying the United Nations Convention on the Rights of the Child, has undertaken to protect children from all forms of sexual exploitation and sexual abuse, and has obligations as a signatory to the Optional Protocol to the Convention on the Rights of the Child on the sale of children, child prostitution and child pornography;
+
+
+
+
+
+
+
+
+
+
+WHEREAS the Parliament of Canada wishes to encourage the participation of witnesses in the criminal justice system through the use of protective measures that seek to facilitate the participation of children and other vulnerable witnesses while ensuring that the rights of accused persons are respected;
+
+
+
+
+
+
+
+
+
+
+AND WHEREAS the continuing advancements in the development of new technologies, while having social and economic benefits, facilitate sexual exploitation and breaches of privacy;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que la vulnérabilité des enfants à toute forme d’exploitation — notamment la pornographie juvénile, l’exploitation sexuelle, la négligence et l’abus — préoccupe le Parlement du Canada au plus haut point;
+
+
+
+
+
+
+
+
+
+
+que le Canada s’est engagé à protéger les enfants contre toute forme d’exploitation ou d’abus sexuels par la ratification de la Convention des Nations Unies relative aux droits de l’enfant et qu’il a des obligations à respecter en tant que signataire du Protocole facultatif à la Convention relative aux droits de l’enfant, concernant la vente d’enfants, la prostitution des enfants et la pornographie mettant en scène des enfants;
+
+
+
+
+
+
+
+
+
+
+que le Parlement du Canada désire, tout en respectant les droits des accusés, encourager la participation des témoins au système de justice pénale au moyen de mesures de protection visant à faciliter la participation des enfants et autres témoins vulnérables;
+
+
+
+
+
+
+
+
+
+
+que le développement constant de nouvelles techniques, tout en apportant des avantages sociaux et économiques, facilite l’exploitation sexuelle et la violation de la vie privée,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Subsection 127(1) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. Le paragraphe 127(1) du Code criminel est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Disobeying order of court
+
+
+
+
+127. (1) Every one who, without lawful excuse, disobeys a lawful order made by a court of justice or by a person or body of persons authorized by any Act to make or give the order, other than an order for the payment of money, is, unless a punishment or other mode of proceeding is expressly provided by law, guilty of
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to imprisonment for a term not exceeding two years; or
+
+
+
+
+
+
+
+
+
+
+(b) an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+
+127. (1) Quiconque, sans excuse légitime, désobéit à une ordonnance légale donnée par un tribunal judiciaire ou par une personne ou un corps de personnes autorisé par une loi à donner ou décerner l’ordonnance, autre qu’une ordonnance visant le paiement d’argent, est, à moins que la loi ne prévoie expressément une peine ou un autre mode de procédure, coupable :
+
+
+
+Désobéissance à une ordonnance du tribunal
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de deux ans;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (3rd Supp.), s. 1
+
+
+
+
+2. (1) Paragraph 150.1(2)(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. (1) L’alinéa 150.1(2)c) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (3e suppl.), art. 1
+
+
+
+
+
+
+
+
+
+
+
+
+(c) is not in a position of trust or authority towards the complainant, is not a person with whom the complainant is in a relationship of dependency and is not in a relationship with the complainant that is exploitative of the complainant.
+
+
+
+
+
+
+
+
+
+
+c) n’est ni une personne en situation d’autorité ou de confiance vis-à-vis du plaignant ni une personne à l’égard de laquelle celui-ci est en situation de dépendance ni une personne qui est dans une relation où elle exploite le plaignant.
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (3rd Supp.), s. 1
+
+
+
+(2) Subsection 150.1(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 150.1(3) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (3e suppl.), art. 1
+
+
+
+
+
+
+
+
+
+
+Exemption for accused aged twelve or thirteen
+
+
+
+(3) No person aged twelve or thirteen years shall be tried for an offence under section 151 or 152 or subsection 173(2) unless the person is in a position of trust or authority towards the complainant, is a person with whom the complainant is in a relationship of dependency or is in a relationship with the complainant that is exploitative of the complainant.
+
+
+
+
+
+
+
+
+
+(3) Une personne âgée de douze ou treize ans ne peut être jugée pour une infraction prévue aux articles 151 ou 152 ou au paragraphe 173(2) que si elle est en situation d’autorité ou de confiance vis-à-vis du plaignant, est une personne à l’égard de laquelle celui-ci est en situation de dépendance ou une personne qui est dans une relation où elle exploite le plaignant.
+
+
+
+Personne âgée de douze ou treize ans
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (3rd Supp.), s. 1
+
+
+
+
+3. Sections 151 and 152 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Les articles 151 et 152 de la même loi sont remplacés par ce qui suit :
+
+
+
+L.R., ch. 19 (3e suppl.), art. 1
+
+
+
+
+
+
+
+
+
+
+Sexual interference
+
+
+
+
+151. Every person who, for a sexual purpose, touches, directly or indirectly, with a part of the body or with an object, any part of the body of a person under the age of fourteen years
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of forty-five days; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months and to a minimum punishment of imprisonment for a term of fourteen days.
+
+
+
+
+
+
+
+
+
+
+151. Toute personne qui, à des fins d’ordre sexuel, touche directement ou indirectement, avec une partie de son corps ou avec un objet, une partie du corps d’un enfant âgé de moins de quatorze ans est coupable :
+
+
+
+Contacts sexuels
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de quarante-cinq jours;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatorze jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Invitation to sexual touching
+
+
+
+
+152. Every person who, for a sexual purpose, invites, counsels or incites a person under the age of fourteen years to touch, directly or indirectly, with a part of the body or with an object, the body of any person, including the body of the person who so invites, counsels or incites and the body of the person under the age of fourteen years,
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of forty-five days; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months and to a minimum punishment of imprisonment for a term of fourteen days.
+
+
+
+
+
+
+
+
+
+
+152. Toute personne qui, à des fins d’ordre sexuel, invite, engage ou incite un enfant âgé de moins de quatorze ans à la toucher, à se toucher ou à toucher un tiers, directement ou indirectement, avec une partie du corps ou avec un objet est coupable :
+
+
+
+Incitation à des contacts sexuels
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de quarante-cinq jours;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatorze jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (3rd Supp.), s. 1
+
+
+
+
+4. (1) Subsection 153(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. (1) Le passage du paragraphe 153(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (3e suppl.), art. 1
+
+
+
+
+
+
+
+
+
+
+Sexual exploitation
+
+
+
+
+153. (1) Every person commits an offence who is in a position of trust or authority towards a young person, who is a person with whom the young person is in a relationship of dependency or who is in a relationship with a young person that is exploitative of the young person, and who
+
+
+
+
+
+
+
+
+
+
+(a) for a sexual purpose, touches, directly or indirectly, with a part of the body or with an object, any part of the body of the young person; or
+
+
+
+
+
+
+
+
+
+
+(b) for a sexual purpose, invites, counsels or incites a young person to touch, directly or indirectly, with a part of the body or with an object, the body of any person, including the body of the person who so invites, counsels or incites and the body of the young person.
+
+
+
+
+
+
+
+
+
+
+153. (1) Commet une infraction toute personne qui est en situation d’autorité ou de confiance vis-à-vis d’un adolescent, à l’égard de laquelle l’adolescent est en situation de dépendance ou qui est dans une relation où elle exploite l’adolescent et qui, selon le cas :
+
+
+
+Exploitation sexuelle
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 153 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(2) L’article 153 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(1.1) Every person who commits an offence under subsection (1)
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of forty-five days; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months and to a minimum punishment of imprisonment for a term of fourteen days.
+
+
+
+
+
+
+
+
+
+(1.1) Quiconque commet l’infraction visée au paragraphe (1) est coupable :
+
+
+
+Peine
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de quarante-cinq jours;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatorze jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inference of sexual exploitation
+
+
+
+(1.2) A judge may infer that a person is in a relationship with a young person that is exploitative of the young person from the nature and circumstances of the relationship, including
+
+
+
+
+
+
+
+
+
+
+(a) the age of the young person;
+
+
+
+
+
+
+
+
+
+
+(b) the age difference between the person and the young person;
+
+
+
+
+
+
+
+
+
+
+(c) the evolution of the relationship; and
+
+
+
+
+
+
+
+
+
+
+(d) the degree of control or influence by the person over the young person.
+
+
+
+
+
+
+
+
+
+(1.2) Le juge peut déduire de la nature de la relation entre la personne et l’adolescent et des circonstances qui l’entourent, notamment des éléments ci-après, que celle-ci est dans une relation où elle exploite l’adolescent :
+
+
+
+Déduction
+
+
+
+
+
+a) l’âge de l’adolescent;
+
+
+
+
+
+
+
+
+
+
+
+b) la différence d’âge entre la personne et l’adolescent;
+
+
+
+
+
+
+
+
+
+
+
+c) l’évolution de leur relation;
+
+
+
+
+
+
+
+
+
+
+
+d) l’emprise ou l’influence de la personne sur l’adolescent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 4(1)
+
+
+
+
+5. (1) The portion of subsection 161(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. (1) Le paragraphe 161(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, par. 4(1)
+
+
+
+
+
+
+
+
+
+
+Order of prohibition
+
+
+
+
+161. (1) When an offender is convicted, or is discharged on the conditions prescribed in a probation order under section 730, of an offence referred to in subsection (1.1) in respect of a person who is under the age of fourteen years, the court that sentences the offender or directs that the accused be discharged, as the case may be, in addition to any other punishment that may be imposed for that offence or any other condition prescribed in the order of discharge, shall consider making and may make, subject to the conditions or exemptions that the court directs, an order prohibiting the offender from
+
+
+
+
+
+
+
+
+
+
+161. (1) Dans le cas où un contrevenant est déclaré coupable, ou absous en vertu de l’article 730 aux conditions prévues dans une ordonnance de probation, d’une infraction mentionnée au paragraphe (1.1) à l’égard d’une personne âgée de moins de quatorze ans, le tribunal qui lui inflige une peine ou ordonne son absolution, en plus de toute autre peine ou de toute autre condition de l’ordonnance d’absolution applicables en l’espèce, sous réserve des conditions ou exemptions qu’il indique, peut interdire au contrevenant :
+
+
+
+Ordonnance d’interdiction
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 161 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(2) L’article 161 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offences
+
+
+
+(1.1) The offences for the purpose of subsection (1) are
+
+
+
+
+
+
+
+
+
+
+(a) an offence under section 151, 152, 155 or 159, subsection 160(2) or (3), section 163.1, 170, 171 or 172.1, subsection 173(2) or section 271, 272, 273 or 281;
+
+
+
+
+
+
+
+
+
+
+(b) an offence under section 144 (rape), 145 (attempt to commit rape), 149 (indecent assault on female), 156 (indecent assault on male) or 245 (common assault) or subsection 246(1) (assault with intent) of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as it read immediately before January 4, 1983; or
+
+
+
+
+
+
+
+
+
+
+(c) an offence under subsection 146(1) (sexual intercourse with a female under 14) or section 153 (sexual intercourse with step-daughter), 155 (buggery or bestiality), 157 (gross indecency), 166 (parent or guardian procuring defilement) or 167 (householder permitting defilement) of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as it read immediately before January 1, 1988.
+
+
+
+
+
+
+
+
+
+(1.1) Les infractions visées par le paragraphe (1) sont les suivantes :
+
+
+
+Infractions
+
+
+
+
+
+a) les infractions prévues aux articles 151, 152, 155 ou 159, aux paragraphes 160(2) ou (3), aux articles 163.1, 170, 171 ou 172.1, au paragraphe 173(2) ou aux articles 271, 272, 273 ou 281;
+
+
+
+
+
+
+
+
+
+
+
+b) les infractions prévues aux articles 144 (viol), 145 (tentative de viol), 149 (attentat à la pudeur d’une personne de sexe féminin), 156 (attentat à la pudeur d’une personne de sexe masculin) ou 245 (voies de fait ou attaque) ou au paragraphe 246(1) (voies de fait avec intention) du Code criminel, chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 4 janvier 1983;
+
+
+
+
+
+
+
+
+
+
+
+c) les infractions prévues au paragraphe 146(1) (rapports sexuels avec une personne de sexe féminin âgée de moins de 14 ans) ou aux articles 153 (rapports sexuels avec sa belle-fille), 155 (sodomie ou bestialité), 157 (grossière indécence), 166 (père, mère ou tuteur qui cause le déflorement) ou 167 (maître de maison qui permet le déflorement) du Code criminel, chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 1er janvier 1988.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Act is amended by adding the following after section 161:
+
+
+
+
+
+
+
+
+
+
+6. La même loi est modifiée par adjonction, après l’article 161, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Voyeurism
+
+
+
+
+162. (1) Every one commits an offence who, surreptitiously, observes — including by mechanical or electronic means — or makes a visual recording of a person who is in circumstances that give rise to a reasonable expectation of privacy, if
+
+
+
+
+
+
+
+
+
+
+(a) the person is in a place in which a person can reasonably be expected to be nude, to expose his or her genital organs or anal region or her breasts, or to be engaged in explicit sexual activity;
+
+
+
+
+
+
+
+
+
+
+(b) the person is nude, is exposing his or her genital organs or anal region or her breasts, or is engaged in explicit sexual activity, and the observation or recording is done for the purpose of observing or recording a person in such a state or engaged in such an activity; or
+
+
+
+
+
+
+
+
+
+
+(c) the observation or recording is done for a sexual purpose.
+
+
+
+
+
+
+
+
+
+
+162. (1) Commet une infraction quiconque, subrepticement, observe, notamment par des moyens mécaniques ou électroniques, une personne — ou produit un enregistrement visuel d’une personne — se trouvant dans des circonstances pour lesquelles il existe une attente raisonnable de protection en matière de vie privée, dans l’un des cas suivants :
+
+
+
+Voyeurisme
+
+
+
+
+
+a) la personne est dans un lieu où il est raisonnable de s’attendre à ce qu’une personne soit nue, expose ses seins, ses organes génitaux ou sa région anale ou se livre à une activité sexuelle explicite;
+
+
+
+
+
+
+
+
+
+
+
+b) la personne est nue, expose ses seins, ses organes génitaux ou sa région anale ou se livre à une activité sexuelle explicite, et l’observation ou l’enregistrement est fait dans le dessein d’ainsi observer ou enregistrer une personne;
+
+
+
+
+
+
+
+
+
+
+
+c) l’observation ou l’enregistrement est fait dans un but sexuel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “visual recording”
+
+
+
+(2) In this section, “visual recording” includes a photographic, film or video recording made by any means.
+
+
+
+
+
+
+
+
+
+(2) Au présent article, « enregistrement visuel » s’entend d’un enregistrement photographique, filmé, vidéo ou autre, réalisé par tout moyen.
+
+
+
+Définition de « enregistrement visuel »
+
+
+
+
+
+
+
+
+
+
+Exemption
+
+
+
+(3) Paragraphs (1)(a) and (b) do not apply to a peace officer who, under the authority of a warrant issued under section 487.01, is carrying out any activity referred to in those paragraphs.
+
+
+
+
+
+
+
+
+
+(3) Les alinéas (1)a) et b) ne s’appliquent pas aux agents de la paix qui exercent les activités qui y sont visées dans le cadre d’un mandat décerné en vertu de l’article 487.01.
+
+
+
+Exemption
+
+
+
+
+
+
+
+
+
+
+Printing, publication, etc., of voyeuristic recordings
+
+
+
+(4) Every one commits an offence who, knowing that a recording was obtained by the commission of an offence under subsection (1), prints, copies, publishes, distributes, circulates, sells, advertises or makes available the recording, or has the recording in his or her possession for the purpose of printing, copying, publishing, distributing, circulating, selling or advertising it or making it available.
+
+
+
+
+
+
+
+
+
+(4) Commet une infraction quiconque imprime, copie, publie, distribue, met en circulation, vend ou rend accessible un enregistrement ou en fait la publicité, ou l’a en sa possession en vue de l’imprimer, de le copier, de le publier, de le distribuer, de le mettre en circulation, de le vendre, de le rendre accessible ou d’en faire la publicité, sachant qu’il a été obtenu par la perpétration de l’infraction prévue au paragraphe (1).
+
+
+
+Impression, publication, etc. de matériel voyeuriste
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(5) Every one who commits an offence under subsection (1) or (4)
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+(5) Quiconque commet une infraction prévue aux paragraphes (1) ou (4) est coupable :
+
+
+
+Peines
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Defence
+
+
+
+(6) No person shall be convicted of an offence under this section if the acts that are alleged to constitute the offence serve the public good and do not extend beyond what serves the public good.
+
+
+
+
+
+
+
+
+
+(6) Nul ne peut être déclaré coupable d’une infraction visée au présent article si les actes qui constitueraient l’infraction ont servi le bien public et n’ont pas outrepassé ce qui a servi celui-ci.
+
+
+
+Moyen de défense
+
+
+
+
+
+
+
+
+
+
+Question of law, motives
+
+
+
+(7) For the purposes of subsection (6),
+
+
+
+
+
+
+
+
+
+
+(a) it is a question of law whether an act serves the public good and whether there is evidence that the act alleged goes beyond what serves the public good, but it is a question of fact whether the act does or does not extend beyond what serves the public good; and
+
+
+
+
+
+
+
+
+
+
+(b) the motives of an accused are irrelevant.
+
+
+
+
+
+
+
+
+
+(7) Pour l’application du paragraphe (6) :
+
+
+
+Question de fait et de droit et motifs
+
+
+
+
+
+a) la question de savoir si un acte a servi le bien public et s’il y a preuve que l’acte reproché a outrepassé ce qui a servi le bien public est une question de droit, mais celle de savoir si l’acte a ou n’a pas outrepassé ce qui a servi le bien public est une question de fait;
+
+
+
+
+
+
+
+
+
+
+
+b) les motifs du prévenu ne sont pas pertinents.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1993, c. 46, s. 2
+
+
+
+
+7. (1) Subsection 163.1(1) of the Act is amended by striking out the word “or” at the end of paragraph (a) and by replacing paragraph (b) with the following:
+
+
+
+
+
+
+
+
+
+
+7. (1) L’alinéa 163.1(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+1993, ch. 46, art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+(b) any written material, visual representation or audio recording that advocates or counsels sexual activity with a person under the age of eighteen years that would be an offence under this Act;
+
+
+
+
+
+
+(c) any written material whose dominant characteristic is the description, for a sexual purpose, of sexual activity with a person under the age of eighteen years that would be an offence under this Act; or
+
+
+
+
+
+
+(d) any audio recording that has as its dominant characteristic the description, presentation or representation, for a sexual purpose, of sexual activity with a person under the age of eighteen years that would be an offence under this Act.
+
+
+
+
+
+
+
+
+
+
+b) de tout écrit, de toute représentation ou de tout enregistrement sonore qui préconise ou conseille une activité sexuelle avec une personne âgée de moins de dix-huit ans qui constituerait une infraction à la présente loi;
+
+
+
+
+
+
+
+c) de tout écrit dont la caractéristique dominante est la description, dans un but sexuel, d’une activité sexuelle avec une personne âgée de moins de dix-huit ans qui constituerait une infraction à la présente loi;
+
+
+
+
+
+
+
+d) de tout enregistrement sonore dont la caractéristique dominante est la description, la présentation ou la simulation, dans un but sexuel, d’une activité sexuelle avec une personne âgée de moins de dix-huit ans qui constituerait une infraction à la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+1993, c. 46, s. 2
+
+
+
+(2) Paragraphs 163.1(2)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les alinéas 163.1(2)a) et b) de la même loi sont remplacés par ce qui suit :
+
+
+
+1993, ch. 46, art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months and to a minimum punishment of imprisonment for a term of ninety days.
+
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de un an;
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+1993, c. 46, s. 2; 2002, c. 13, s. 5(2)
+
+
+
+(3) Subsection 163.1(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 163.1(3) de la même loi est remplacé par ce qui suit :
+
+
+
+1993, ch. 46, art. 2; 2002, ch. 13, par. 5(2)
+
+
+
+
+
+
+
+
+
+
+Distribution, etc. of child pornography
+
+
+
+(3) Every person who transmits, makes available, distributes, sells, advertises, imports, exports or possesses for the purpose of transmission, making available, distribution, sale, advertising or exportation any child pornography is guilty of
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months and to a minimum punishment of imprisonment for a term of ninety days.
+
+
+
+
+
+
+
+
+
+(3) Quiconque transmet, rend accessible, distribue, vend, importe ou exporte de la pornographie juvénile ou en fait la publicité, ou en a en sa possession en vue de la transmettre, de la rendre accessible, de la distribuer, de la vendre, de l’exporter ou d’en faire la publicité, est coupable :
+
+
+
+Distribution de pornographie juvénile
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de un an;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1993, c. 46, s. 2
+
+
+
+(4) Paragraphs 163.1(4)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Les alinéas 163.1(4)a) et b) de la même loi sont remplacés par ce qui suit :
+
+
+
+1993, ch. 46, art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to imprisonment for a term not exceeding five years and to a minimum punishment of imprisonment for a term of forty-five days; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months and to a minimum punishment of imprisonment for a term of fourteen days.
+
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans, la peine minimale étant de quarante-cinq jours;
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatorze jours.
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 5(3)
+
+
+
+(5) Paragraphs 163.1(4.1)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+(5) Les alinéas 163.1(4.1)a) et b) de la même loi sont remplacés par ce qui suit :
+
+
+
+2002, ch. 13, par. 5(3)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to imprisonment for a term not exceeding five years and to a minimum punishment of imprisonment for a term of forty-five days; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months and to a minimum punishment of imprisonment for a term of fourteen days.
+
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans, la peine minimale étant de quarante-cinq jours;
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatorze jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6) Section 163.1 of the Act is amended by adding the following after subsection (4.2):
+
+
+
+
+
+
+
+
+
+(6) L’article 163.1 de la même loi est modifié par adjonction, après le paragraphe (4.2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Aggravating factor
+
+
+
+(4.3) If a person is convicted of an offence under this section, the court that imposes the sentence shall consider as an aggravating factor the fact that the person committed the offence with intent to make a profit.
+
+
+
+
+
+
+
+
+
+(4.3) Le tribunal qui détermine la peine à infliger à une personne déclarée coupable d’infraction au présent article est tenu de considérer comme circonstance aggravante le fait que cette personne a commis l’infraction dans le dessein de réaliser un profit.
+
+
+
+Circonstance aggravante
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 5(4)
+
+
+
+(7) Subsections 163.1(6) and (7) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(7) Les paragraphes 163.1(6) et (7) de la même loi sont remplacés par ce qui suit :
+
+
+
+2002, ch. 13, par. 5(4)
+
+
+
+
+
+
+
+
+
+
+Defence
+
+
+
+(6) No person shall be convicted of an offence under this section if the act that is alleged to constitute the offence
+
+
+
+
+
+
+
+
+
+
+(a) has a legitimate purpose related to the administration of justice or to science, medicine, education or art; and
+
+
+
+
+
+
+
+
+
+
+(b) does not pose an undue risk of harm to persons under the age of eighteen years.
+
+
+
+
+
+
+
+
+
+(6) Nul ne peut être déclaré coupable d’une infraction au présent article si les actes qui constitueraient l’infraction :
+
+
+
+Moyen de défense
+
+
+
+
+
+a) ont un but légitime lié à l’administration de la justice, à la science, à la médecine, à l’éducation ou aux arts;
+
+
+
+
+
+
+
+
+
+
+
+b) ne posent pas de risque indu pour les personnes âgées de moins de dix-huit ans.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question of law
+
+
+
+(7) For greater certainty, for the purposes of this section, it is a question of law whether any written material, visual representation or audio recording advocates or counsels sexual activity with a person under the age of eighteen years that would be an offence under this Act.
+
+
+
+
+
+
+
+
+
+(7) Il est entendu, pour l’application du présent article, que la question de savoir si un écrit, une représentation ou un enregistrement sonore préconise ou conseille une activité sexuelle avec une personne âgée de moins de dix-huit ans qui constituerait une infraction à la présente loi constitue une question de droit.
+
+
+
+Question de droit
+
+
+
+
+
+
+
+
+
+
+1993, c. 46, s. 3(1); 1997, c. 18, s. 5
+
+
+
+
+8. (1) The portion of subsection 164(1) of the French version of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. (1) Le passage du paragraphe 164(1) de la version française de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1993, ch. 46, par. 3(1); 1997, ch. 18, art. 5
+
+
+
+
+
+
+
+
+
+
+Mandat de saisie
+
+
+
+
+
+164. (1)  Le juge peut décerner, sous son seing, un mandat autorisant la saisie des exemplaires d’une publication ou des copies d’une représentation, d’un écrit ou d’un enregistrement s’il est convaincu, par une dénonciation sous serment, qu’il existe des motifs raisonnables de croire :
+
+
+
+
+
+
+
+
+
+
+
+164. (1) Le juge peut décerner, sous son seing, un mandat autorisant la saisie des exemplaires d’une publication ou des copies d’une représentation, d’un écrit ou d’un enregistrement s’il est convaincu, par une dénonciation sous serment, qu’il existe des motifs raisonnables de croire :
+
+
+
+Mandat de saisie
+
+
+
+
+
+
+
+
+
+
+1993, c. 46, s. 3(1)
+
+
+
+(2) Subsection 164(1) of the Act is amended by striking out the word “or” at the end of paragraph (a) and by replacing paragraph (b) with the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 164(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+1993, ch. 46, par. 3(1)
+
+
+
+
+
+
+
+
+
+
+
+
+(b) any representation, written material or recording, copies of which are kept in premises within the jurisdiction of the court, is child pornography within the meaning of section 163.1, or
+
+
+
+
+
+
+(c) any recording, copies of which are kept for sale or distribution in premises within the jurisdiction of the court, is a voyeuristic recording,
+
+
+
+
+
+
+
+
+
+
+
+b
+) soit que la représentation, l’écrit ou l’enregistrement, dont des copies sont tenues dans un local du ressort du tribunal, constitue de la pornographie juvénile au sens de l’article 163.1;
+
+
+
+
+
+
+
+c) soit que l’enregistrement, dont des copies sont tenues, pour vente ou distribution, dans un local du ressort du tribunal, constitue un enregistrement voyeuriste.
+
+
+
+
+
+
+
+
+
+
+
+
+1993, c. 46, s. 3(2); 2002, c. 13, s. 6
+
+
+
+(3) Subsections 164(3) to (5) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Les paragraphes 164(3) à (5) de la même loi sont remplacés par ce qui suit :
+
+
+
+1993, ch. 46, par. 3(2); 2002, ch. 13, art. 6
+
+
+
+
+
+
+
+
+
+
+Owner and maker may appear
+
+
+
+(3) The owner and the maker of the matter seized under subsection (1), and alleged to be obscene, a crime comic, child pornography or a voyeuristic recording, may appear and be represented in the proceedings in order to oppose the making of an order for the forfeiture of the matter.
+
+
+
+
+
+
+
+
+
+(3) Le propriétaire ainsi que l’auteur de la matière saisie dont on prétend qu’elle est obscène ou une histoire illustrée de crime, ou qu’elle constitue de la pornographie juvénile ou un enregistrement voyeuriste, peuvent comparaître et être représentés dans les procédures pour s’opposer à l’établissement d’une ordonnance portant confiscation de cette matière.
+
+
+
+Le propriétaire et l’auteur peuvent comparaître
+
+
+
+
+
+
+
+
+
+
+Order of forfeiture
+
+
+
+(4) If the court is satisfied, on a balance of probabilities, that the publication, representation, written material or recording referred to in subsection (1) is obscene, a crime comic, child pornography or a voyeuristic recording, it may make an order declaring the matter forfeited to Her Majesty in right of the province in which the proceedings take place, for disposal as the Attorney General may direct.
+
+
+
+
+
+
+
+
+
+(4) Si le tribunal est convaincu, selon la prépondérance des probabilités, que la matière est obscène ou une histoire illustrée de crime, ou constitue de la pornographie juvénile ou un enregistrement voyeuriste, il peut rendre une ordonnance la déclarant confisquée au profit de Sa Majesté du chef de la province où les procédures ont lieu, pour qu’il en soit disposé conformément aux instructions du procureur général.
+
+
+
+Ordonnance de confiscation
+
+
+
+
+
+
+
+
+
+
+Disposal of matter
+
+
+
+(5) If the court is not satisfied that the publication, representation, written material or recording referred to in subsection (1) is obscene, a crime comic, child pornography or a voyeuristic recording, it shall order that the matter be restored to the person from whom it was seized without delay after the time for final appeal has expired.
+
+
+
+
+
+
+
+
+
+(5) Si le tribunal n’est pas convaincu que la publication, la représentation, l’écrit ou l’enregistrement est obscène ou une histoire illustrée de crime, ou constitue de la pornographie juvénile ou un enregistrement voyeuriste, il doit ordonner que la matière soit remise à la personne de laquelle elle a été saisie, dès l’expiration du délai imparti pour un appel final.
+
+
+
+Sort de la matière
+
+
+
+
+
+
+
+
+
+
+1993, c. 46, s. 3(3)
+
+
+
+(4) Subsection 164(7) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 164(7) de la même loi est remplacé par ce qui suit :
+
+
+
+1993, ch. 46, par. 3(3)
+
+
+
+
+
+
+
+
+
+
+Consent
+
+
+
+(7) If an order is made under this section by a judge in a province with respect to one or more copies of a publication, a representation, written material or a recording, no proceedings shall be instituted or continued in that province under section 162, 163 or 163.1 with respect to those or other copies of the same publication, representation, written material or recording without the consent of the Attorney General.
+
+
+
+
+
+
+
+
+
+(7) Dans le cas où un juge a rendu une ordonnance, en vertu du présent article, dans une province relativement à un ou plusieurs exemplaires d’une publication ou à une ou plusieurs copies d’une représentation, d’un écrit ou d’un enregistrement, aucune poursuite ne peut être intentée ni continuée dans cette province aux termes des articles 162, 163 ou 163.1 en ce qui concerne ces exemplaires ou d’autres exemplaires de la même publication, ou ces copies ou d’autres copies de la même représentation, du même écrit ou du même enregistrement, sans le consentement du procureur général.
+
+
+
+Consentement
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Subsection 164(8) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe 164(8) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“voyeuristic recording”« enregistrement voyeuriste »
+
+
+
+“voyeuristic recording” means a visual recording within the meaning of subsection 162(2) that is made as described in subsection 162(1).
+
+
+
+
+
+
+
+
+
+« enregistrement voyeuriste » Enregistrement visuel — au sens du paragraphe 162(2) — obtenu dans les circonstances visées au paragraphe 162(1).
+
+
+
+« enregistrement voyeuriste »“voyeuristic recording”
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 7
+
+
+
+
+9. (1) The portion of subsection 164.1(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. (1) Le passage du paragraphe 164.1(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, art. 7
+
+
+
+
+
+
+
+
+
+
+Warrant of seizure
+
+
+
+
+164.1 (1) If a judge is satisfied by information on oath that there are reasonable grounds to believe that there is material — namely child pornography within the meaning of section 163.1, a voyeuristic recording within the meaning of subsection 164(8) or data within the meaning of subsection 342.1(2) that makes child pornography or a voyeuristic recording available — that is stored on and made available through a computer system within the meaning of subsection 342.1(2) that is within the jurisdiction of the court, the judge may order the custodian of the computer system to
+
+
+
+
+
+
+
+
+
+
+164.1 (1) Le juge peut, s’il est convaincu par une dénonciation sous serment qu’il y a des motifs raisonnables de croire qu’il existe une matière — constituant de la pornographie juvénile au sens de l’article 163.1, un enregistrement voyeuriste au sens du paragraphe 164(8) ou des données au sens du paragraphe 342.1(2) rendant la pornographie juvénile ou l’enregistrement voyeuriste accessible — qui est emmagasinée et rendue accessible au moyen d’un ordinateur au sens de ce paragraphe, situé dans le ressort du tribunal, ordonner au gardien de l’ordinateur :
+
+
+
+Mandat de saisie
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 7
+
+
+
+(2) Subsection 164.1(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 164.1(5) de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, art. 7
+
+
+
+
+
+
+
+
+
+
+Order
+
+
+
+(5) If the court is satisfied, on a balance of probabilities, that the material is child pornog­raphy within the meaning of section 163.1, a voyeuristic recording within the meaning of subsection 164(8) or data within the meaning of subsection 342.1(2) that makes child pornography or the voyeuristic recording available, it may order the custodian of the computer system to delete the material.
+
+
+
+
+
+
+
+
+
+(5) Si le tribunal est convaincu, selon la prépondérance des probabilités, que la matière constitue de la pornographie juvénile au sens de l’article 163.1, un enregistrement voyeuriste au sens du paragraphe 164(8) ou des données au sens du paragraphe 342.1(2) qui rendent la pornographie juvénile ou l’enregistrement voyeuriste accessible, il peut ordonner au gardien de l’ordinateur de l’effacer.
+
+
+
+Ordonnance
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 7
+
+
+
+(3) Subsection 164.1(7) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 164.1(7) de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, art. 7
+
+
+
+
+
+
+
+
+
+
+Return of material
+
+
+
+(7) If the court is not satisfied that the material is child pornography within the meaning of section 163.1, a voyeuristic recording within the meaning of subsection 164(8) or data within the meaning of subsection 342.1(2) that makes child pornography or the voyeuristic recording available, the court shall order that the electronic copy be returned to the custodian and terminate the order under paragraph (1)(b).
+
+
+
+
+
+
+
+
+
+(7) Si le tribunal n’est pas convaincu que la matière constitue de la pornographie juvénile au sens de l’article 163.1, un enregistrement voyeuriste au sens du paragraphe 164(8) ou des données au sens du paragraphe 342.1(2) qui rendent la pornographie juvénile ou l’enregistrement voyeuriste accessible, il doit ordonner que la copie électronique soit remise au gardien de l’ordinateur et mettre fin à l’ordonnance visée à l’alinéa (1)b).
+
+
+
+Sort de la matière
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (3rd Supp.), s. 5
+
+
+
+
+9.1 Sections 170 and 171 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9.1 Les articles 170 et 171 de la même loi sont remplacés par ce qui suit :
+
+
+
+
+L.R., ch. 19 (3e suppl.), art. 5
+
+
+
+
+
+
+
+
+
+
+Parent or guardian procuring sexual activity
+
+
+
+
+170. Every parent or guardian of a person under the age of eighteen years who procures the person for the purpose of engaging in any sexual activity prohibited by this Act with a person other than the parent or guardian is guilty of an indictable offence and liable
+
+
+
+
+
+
+
+
+
+
+(a) to imprisonment for a term not exceeding five years and to a minimum punishment of imprisonment for a term of six months if the person procured is under the age of fourteen years; or
+
+
+
+
+
+
+
+
+
+
+(b) to imprisonment for a term not exceeding two years and to a minimum punishment of imprisonment for a term of forty-five days if the person procured is fourteen years of age or more but under the age of eighteen years.
+
+
+
+
+
+
+
+
+
+
+170. Le père, la mère ou le tuteur qui amène son enfant ou son pupille à commettre des actes sexuels interdits par la présente loi avec un tiers est coupable d’un acte criminel et passible :
+
+
+
+
+Père, mère ou tuteur qui sert d’entremetteur
+
+
+
+
+
+a) d’un emprisonnement maximal de cinq ans si l’enfant ou le pupille est âgé de moins de quatorze ans, la peine minimale étant de six mois;
+
+
+
+
+
+
+
+
+
+
+
+b) d’un emprisonnement maximal de deux ans s’il est âgé de quatorze ans ou plus mais de moins de dix-huit ans, la peine minimale étant de quarante-cinq jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Householder permitting sexual activity 
+
+
+
+
+171. Every owner, occupier or manager of premises, or any other person who has control of premises or assists in the management or control of premises, who knowingly permits a person under the age of eighteen years to resort to or to be in or on the premises for the purpose of engaging in any sexual activity prohibited by this Act is guilty of an indictable offence and liable
+
+
+
+
+
+
+
+
+
+
+(a) to imprisonment for a term not exceeding five years and to a minimum punishment of imprisonment for a term of six months if the person in question is under the age of fourteen years; or
+
+
+
+
+
+
+
+
+
+
+(b) to imprisonment for a term not exceeding two years and to a minimum punishment of imprisonment for a term of forty-five days if the person is fourteen years of age or more but under the age of eighteen years.
+
+
+
+
+
+
+
+
+
+
+171. Le propriétaire, l’occupant, le gérant, l’aide-gérant ou tout autre responsable de l’accès ou de l’utilisation d’un lieu qui sciemment permet qu’une personne âgée de moins de dix-huit ans fréquente ce lieu ou s’y trouve dans l’intention de commettre des actes sexuels interdits par la présente loi est coupable d’un acte criminel et passible :
+
+
+
+Maître de maison qui permet des actes sexuels interdits
+
+
+
+
+
+a) d’un emprisonnement maximal de cinq ans si la personne en question est âgée de moins de quatorze ans, la peine minimale étant de six mois;
+
+
+
+
+
+
+
+
+
+
+
+b) d’un emprisonnement maximal de deux ans si elle est âgée de quatorze ans ou plus mais de moins de dix-huit ans, la peine minimale étant de quarante-cinq jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Paragraph (a) of the definition “offence” in section 183 of the Act is amended by adding the following after subparagraph (xxvii):
+
+
+
+
+
+
+
+
+
+
+10. L’alinéa a) de la définition de « infraction », à l’article 183 de la même loi, est modifié par adjonction, après le sous-alinéa (xxvii), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(xxvii.1) section 162 (voyeurism),
+
+
+
+
+
+
+
+
+
+(xxvii.1) l’article 162 (voyeurisme),
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (3rd Supp.), s. 9
+
+
+
+
+10.1 (1) Subsection 212(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+
+10.1 (1) Le paragraphe 212(2) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (3e suppl.), art. 9
+
+
+
+
+
+
+
+
+
+
+Living on the avails of prostitution of person under eighteen
+
+
+
+(2) Despite paragraph (1)(j), every person who lives wholly or in part on the avails of prostitution of another person who is under the age of eighteen years is guilty of an indictable offence and liable to imprisonment for a term not exceeding fourteen years and to a minimum punishment of imprisonment for a term of two years.
+
+
+
+
+
+
+
+
+
+
+(2) Par dérogation à l’alinéa (1)j), quiconque vit entièrement ou en partie des produits de la prostitution d’une autre personne âgée de moins de dix-huit ans est coupable d’un acte criminel et passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de deux ans.
+
+
+
+
+Proxénétisme
+
+
+
+
+
+
+
+
+
+
+1999, c. 5, s. 8
+
+
+
+
+(2) Subsection 212(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 212(4) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 5, art. 8
+
+
+
+
+
+
+
+
+
+
+Offence — prostitution of person under eighteen
+
+
+
+(4) Every person who, in any place, obtains for consideration, or communicates with anyone for the purpose of obtaining for consideration, the sexual services of a person who is under the age of eighteen years is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years and to a minimum punishment of imprisonment for a term of six months.
+
+
+
+
+
+
+
+
+
+(4) Quiconque, en quelque endroit que ce soit, obtient, moyennant rétribution, les services sexuels d’une personne âgée de moins de dix-huit ans ou communique avec quiconque en vue d’obtenir, moyennant rétribution, de tels services est coupable d’un acte criminel et passible d’un emprisonnement maximal de cinq ans, la peine minimale étant de six mois.
+
+
+
+Infraction — prostitution d’une personne âgée de moins de dix-huit ans 
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. Subsection 215(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. Le paragraphe 215(3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(3) Every one who commits an offence under subsection (2)
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months.
+
+
+
+
+
+
+
+
+
+(3) Quiconque commet une infraction visée au paragraphe (2) est coupable :
+
+
+
+Peine
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Section 218 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. L’article 218 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Abandoning child
+
+
+
+
+218. Every one who unlawfully abandons or exposes a child who is under the age of ten years, so that its life is or is likely to be endangered or its health is or is likely to be permanently injured,
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding eighteen months.
+
+
+
+
+
+
+
+
+
+
+218. Quiconque illicitement abandonne ou expose un enfant de moins de dix ans, de manière que la vie de cet enfant soit effectivement mise en danger ou exposée à l’être, ou que sa santé soit effectivement compromise de façon permanente ou exposée à l’être est coupable :
+
+
+
+Abandon d’un enfant
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1992, c. 38, s. 2
+
+
+
+
+13. Subsection 276.3(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 276.3(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1992, ch. 38, art. 2
+
+
+
+
+
+
+
+
+
+
+Publication prohibited
+
+
+
+
+276.3 (1) No person shall publish in any document, or broadcast or transmit in any way, any of the following:
+
+
+
+
+
+
+
+
+
+
+(a) the contents of an application made under section 276.1;
+
+
+
+
+
+
+
+
+
+
+(b) any evidence taken, the information given and the representations made at an application under section 276.1 or at a hearing under section 276.2;
+
+
+
+
+
+
+
+
+
+
+(c) the decision of a judge or justice under subsection 276.1(4), unless the judge or justice, after taking into account the complain­ant’s right of privacy and the interests of justice, orders that the decision may be published, broadcast or transmitted; and
+
+
+
+
+
+
+
+
+
+
+(d) the determination made and the reasons provided under section 276.2, unless
+
+
+
+
+
+
+
+
+
+
+(i) that determination is that evidence is admissible, or
+
+
+
+
+
+
+
+
+
+
+(ii) the judge or justice, after taking into account the complainant’s right of privacy and the interests of justice, orders that the determination and reasons may be published, broadcast or transmitted.
+
+
+
+
+
+
+
+
+
+
+276.3 (1) Il est interdit de publier ou de diffuser de quelque façon que ce soit le contenu de la demande présentée en application de l’article 276.1 et tout ce qui a été dit ou déposé à l’occasion de cette demande ou aux auditions mentionnées à l’article 276.2. L’interdiction vise aussi, d’une part, la décision rendue sur la demande d’audition au titre du paragraphe 276.1(4) et, d’autre part, la décision et les motifs mentionnés à l’article 276.2, sauf, dans ce dernier cas, si la preuve est déclarée admissible ou, dans les deux cas, si le juge ou le juge de paix rend une ordonnance autorisant la publication ou la diffusion après avoir pris en considération le droit du plaignant à la vie privée et l’intérêt de la justice.
+
+
+
+Publication interdite
+
+
+
+
+
+
+
+
+
+
+1997, c. 30, s. 1
+
+
+
+
+14. The portion of subsection 278.9(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. Le passage du paragraphe 278.9(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1997, ch. 30, art. 1
+
+
+
+
+
+
+
+
+
+
+Publication prohibited
+
+
+
+
+278.9 (1) No person shall publish in any document, or broadcast or transmit in any way, any of the following:
+
+
+
+
+
+
+
+
+
+
+278.9 (1) Il est interdit de publier ou de diffuser de quelque façon que ce soit :
+
+
+
+Publication interdite
+
+
+
+
+
+
+
+
+
+
+R.S., c. 27 (1st Supp.), s. 203, c. 19 (3rd Supp.), s. 14(2), c. 23 (4th Supp.), s. 1; 1993, c. 45, s. 7(1); 1997, c. 16, s. 6(4); 1999, c. 25, s. 2; 2001, c. 32, ss. 29(1), (2), (4) and (5), c. 41, ss. 34 and 133(13) and (14); 2002, c. 13, s. 20
+
+
+
+
+15. Section 486 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. L’article 486 de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 27 (1er suppl.), art. 203, ch. 19 (3e suppl.), par. 14(2), ch. 23 (4e suppl.), art. 1; 1993, ch. 45, par. 7(1); 1997, ch. 16, par. 6(4); 1999, ch. 25, art. 2; 2001, ch. 32, par. 29(1), (2), (4) et (5), ch. 41, art. 34 et par. 133(13) et (14); 2002, ch. 13, art. 20
+
+
+
+
+
+
+
+
+
+
+Exclusion of public in certain cases
+
+
+
+
+486. (1) Any proceedings against an accused shall be held in open court, but the presiding judge or justice may order the exclusion of all or any members of the public from the court room for all or part of the proceedings if the judge or justice is of the opinion that such an order is in the interest of public morals, the maintenance of order or the proper administration of justice or is necessary to prevent injury to international relations or national defence or national security.
+
+
+
+
+
+
+
+
+
+
+486. (1) Les procédures dirigées contre l’accusé ont lieu en audience publique, mais si le juge ou le juge de paix qui préside est d’avis qu’il est dans l’intérêt de la moralité publique, du maintien de l’ordre ou de la bonne administration de la justice d’exclure de la salle d’audience l’ensemble ou l’un quelconque des membres du public, pour tout ou partie de l’audience, ou que cela est nécessaire pour éviter toute atteinte aux relations internationales ou à la défense ou à la sécurité nationales, il peut en ordonner ainsi.
+
+
+
+Procès à huis clos
+
+
+
+
+
+
+
+
+
+
+Protection of witnesses under 18 and justice system participants
+
+
+
+(2) For the purposes of subsection (1), the “proper administration of justice” includes ensuring that
+
+
+
+
+
+
+
+
+
+
+(a) the interests of witnesses under the age of eighteen years are safeguarded in all proceedings; and
+
+
+
+
+
+
+
+
+
+
+(b) justice system participants who are involved in the proceedings are protected.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), est dans l’intérêt de la bonne administration de la justice le fait de veiller :
+
+
+
+Protection — témoins âgés de moins de dix-huit ans et personnes associées au système judiciaire
+
+
+
+
+
+a) à ce que soit sauvegardé l’intérêt des témoins âgés de moins de dix-huit ans dans toute procédure;
+
+
+
+
+
+
+
+
+
+
+
+b) à la protection des personnes associées au système judiciaire qui prennent part à la procédure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reasons to be stated
+
+
+
+(3) If an accused is charged with an offence under section 151, 152, 153, 153.1, 155 or 159, subsection 160(2) or (3) or section 163.1, 171, 172, 172.1, 173, 212, 271, 272 or 273 and the prosecutor or the accused applies for an order under subsection (1), the judge or justice shall, if no such order is made, state, by reference to the circumstances of the case, the reason for not making an order.
+
+
+
+
+
+
+
+
+
+(3) Si une personne est accusée d’une infraction prévue aux articles 151, 152, 153, 153.1, 155 ou 159, aux paragraphes 160(2) ou (3) ou aux articles 163.1, 171, 172, 172.1, 173, 212, 271, 272 ou 273 et que le poursuivant ou la personne accusée fait une demande pour obtenir une ordonnance visée au paragraphe (1), le juge ou le juge de paix doit, si aucune ordonnance n’a été rendue à la suite de cette demande, en exposer les motifs en faisant appel aux circonstances de l’espèce.
+
+
+
+Motifs
+
+
+
+
+
+
+
+
+
+
+Support person — witnesses under 18 or who have a disability
+
+
+
+
+486.1 (1) In any proceedings against an accused, the judge or justice shall, on application of the prosecutor, of a witness who is under the age of eighteen years or of a witness who has a mental or physical disability, order that a support person of the witness’ choice be permitted to be present and to be close to the witness while the witness testifies, unless the judge or justice is of the opinion that the order would interfere with the proper administration of justice.
+
+
+
+
+
+
+
+
+
+
+486.1 (1) Dans les procédures dirigées contre l’accusé, le juge ou le juge de paix ordonne, sur demande du poursuivant ou d’un témoin qui soit est âgé de moins de dix-huit ans, soit a une déficience physique ou mentale, qu’une personne de confiance choisie par ce dernier soit présente à ses côtés pendant qu’il témoigne, sauf si le juge ou le juge de paix est d’avis que cela nuirait à la bonne administration de la justice.
+
+
+
+Personne de confiance — personnes âgées de moins de dix-huit ans ou ayant une déficience
+
+
+
+
+
+
+
+
+
+
+Other witnesses
+
+
+
+(2) In any proceedings against an accused, the  judge or justice may, on application of the prosecutor or a witness, order that a support person of the witness’ choice be permitted to be present and to be close to the witness while the witness testifies if the judge or justice is of the opinion that the order is necessary to obtain a full and candid account from the witness of the acts complained of.
+
+
+
+
+
+
+
+
+
+(2) Il peut rendre une telle ordonnance dans les procédures dirigées contre l’accusé, sur demande du poursuivant ou d’un témoin, s’il est d’avis que cela est nécessaire pour obtenir du témoin un récit complet et franc des faits sur lesquels est fondée l’accusation.
+
+
+
+Autres témoins
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2.1) An application referred to in subsection (1) or (2) may be made, during the proceedings, to the presiding judge or justice or, before the proceedings begin, to the judge or justice who will preside at the proceedings.
+
+
+
+
+
+
+
+
+
+(2.1) Les demandes peuvent être présentées soit au cours de l’instance au juge ou au juge de paix qui la préside, soit avant l’instance au juge ou au juge de paix qui la présidera.
+
+
+
+Demande
+
+
+
+
+
+
+
+
+
+
+Factors to be considered
+
+
+
+(3) In making a determination under subsection (2), the judge or justice shall take into account the age of the witness, whether the witness has a mental or physical disability, the nature of the offence, the nature of any relationship between the witness and the accused, and any other circumstance that the judge or justice considers relevant.
+
+
+
+
+
+
+
+
+
+(3) Pour décider si l’ordonnance prévue au paragraphe (2) est nécessaire, il prend en compte l’âge du témoin, les déficiences physiques ou mentales de celui-ci, la nature de l’infraction, la nature de toute relation entre le témoin et l’accusé et toute autre circonstance en l’espèce qu’il estime pertinente.
+
+
+
+Facteurs à considérer
+
+
+
+
+
+
+
+
+
+
+Witness not to be a support person
+
+
+
+(4) The judge or justice shall not permit a witness to be a support person unless the judge or justice is of the opinion that doing so is necessary for the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(4) Il ne peut permettre à un témoin d’agir comme personne de confiance sauf si, à son avis, la bonne administration de la justice l’exige.
+
+
+
+Exclusion des témoins comme personnes de confiance
+
+
+
+
+
+
+
+
+
+
+No communication while testifying
+
+
+
+(5) The judge or justice may order that the support person and the witness not communicate with each other while the witness testifies.
+
+
+
+
+
+
+
+
+
+(5) Le cas échéant, il peut aussi interdire toute communication entre la personne de confiance et le témoin pendant que celui-ci témoigne.
+
+
+
+Interdiction de communiquer pendant le témoignage
+
+
+
+
+
+
+
+
+
+
+No adverse inference
+
+
+
+(6) No adverse inference may be drawn from the fact that an order is, or is not, made under this section.
+
+
+
+
+
+
+
+
+
+(6) Le fait qu’une ordonnance visée par le présent article soit ou non rendue ne peut donner lieu à des conclusions défavorables.
+
+
+
+Conclusion défavorable
+
+
+
+
+
+
+
+
+
+
+Testimony outside court room — witnesses under 18 or who have a disability
+
+
+
+
+486.2 (1) Despite section 650, in any proceedings against an accused, the judge or justice shall, on application of the prosecutor, of a witness who is under the age of eighteen years or of a witness who is able to communicate evidence but may have difficulty doing so by reason of a mental or physical disability, order that the witness testify outside the court room or behind a screen or other device that would allow the witness not to see the accused, unless the judge or justice is of the opinion that the order would interfere with the proper administration of justice.
+
+
+
+
+
+
+
+
+
+
+486.2 (1) Par dérogation à l’article 650, dans les procédures dirigées contre l’accusé, le juge ou le juge de paix ordonne, sur demande du poursuivant ou d’un témoin qui soit est âgé de moins de dix-huit ans, soit est capable de communiquer les faits dans son témoignage tout en pouvant éprouver de la difficulté à le faire en raison d’une déficience mentale ou physique, que ce dernier témoigne à l’extérieur de la salle d’audience ou derrière un écran ou un dispositif permettant à celui-ci de ne pas voir l’accusé, sauf si le juge ou le juge de paix est d’avis que cela nuirait à la bonne administration de la justice.
+
+
+
+Exclusion — témoins âgés de moins de dix-huit ans ou ayant une déficience
+
+
+
+
+
+
+
+
+
+
+Other witnesses
+
+
+
+(2) Despite section 650, in any proceedings against an accused, the judge or justice may, on application of the prosecutor or a witness, order that the witness testify outside the court room or behind a screen or other device that would allow the witness not to see the accused if the judge or justice is of the opinion that the order is necessary to obtain a full and candid account from the witness of the acts complained of.
+
+
+
+
+
+
+
+
+
+(2) Par dérogation à l’article 650, dans les procédures dirigées contre l’accusé, il peut rendre une telle ordonnance, sur demande du poursuivant ou d’un témoin, s’il est d’avis que cela est nécessaire pour obtenir de ce dernier un récit complet et franc des faits sur lesquels est fondée l’accusation.
+
+
+
+Autres témoins
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2.1) An application referred to in subsection (1) or (2) may be made, during the proceedings, to the presiding judge or justice or, before the proceedings begin, to the judge or justice who will preside at the proceedings.
+
+
+
+
+
+
+
+
+
+(2.1) Les demandes peuvent être présentées soit au cours de l’instance au juge ou au juge de paix qui la préside, soit avant l’instance au juge ou au juge de paix qui la présidera.
+
+
+
+Demande
+
+
+
+
+
+
+
+
+
+
+Factors to be considered
+
+
+
+(3) In making a determination under subsection (2), the judge or justice shall take into account the factors referred to in subsection 486.1(3).
+
+
+
+
+
+
+
+
+
+(3) Pour décider si l’ordonnance prévue au paragraphe (2) est nécessaire, il prend en compte les facteurs énumérés au paragraphe 486.1(3).
+
+
+
+Facteurs à considérer
+
+
+
+
+
+
+
+
+
+
+Specific offences
+
+
+
+(4) Despite section 650, if an accused is charged with an offence referred to in subsection (5), the presiding judge or justice may order that any witness testify
+
+
+
+
+
+
+
+
+
+
+(a) outside the court room if the judge or justice is of the opinion that the order is necessary to protect the safety of the witness; and
+
+
+
+
+
+
+
+
+
+
+(b) outside the court room or behind a screen or other device that would allow the witness not to see the accused if the judge or justice is of the opinion that the order is necessary to obtain a full and candid account from the witness of the acts complained of.
+
+
+
+
+
+
+
+
+
+(4) Par dérogation à l’article 650, dans le cas où une personne est accusée d’une infraction mentionnée au paragraphe (5), le juge ou le juge de paix peut ordonner qu’un témoin dépose :
+
+
+
+Infractions particulières
+
+
+
+
+
+a) à l’extérieur de la salle d’audience, s’il est d’avis que cela est nécessaire pour assurer la protection du témoin;
+
+
+
+
+
+
+
+
+
+
+
+b) à l’extérieur de la salle d’audience ou derrière un écran ou un dispositif permettant au témoin de ne pas voir l’accusé, s’il est d’avis que cela est nécessaire pour obtenir du témoin un récit complet et franc des faits sur lesquels est fondée l’accusation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offences
+
+
+
+(5) The offences for the purposes of subsection (4) are
+
+
+
+
+
+
+
+
+
+
+(a) an offence under section 423.1, 467.11, 467.12 or 467.13, or a serious offence committed for the benefit of, at the direction of, or in association with, a criminal organization;
+
+
+
+
+
+
+
+
+
+
+(b) a terrorism offence;
+
+
+
+
+
+
+
+
+
+
+(c) an offence under subsection 16(1) or (2), 17(1), 19(1), 20(1) or 22(1) of the Security of Information Act; or
+
+
+
+
+
+
+
+
+
+
+(d) an offence under subsection 21(1) or section 23 of the Security of Information Act that is committed in relation to an offence referred to in paragraph (c).
+
+
+
+
+
+
+
+
+
+(5) Les infractions visées par le paragraphe (4) sont les suivantes :
+
+
+
+Infractions
+
+
+
+
+
+a) les infractions prévues aux articles 423.1, 467.11, 467.12 ou 467.13 ou une infraction grave présumée avoir été commise au profit ou sous la direction d’une organisation criminelle, ou en association avec elle;
+
+
+
+
+
+
+
+
+
+
+
+b) les infractions de terrorisme;
+
+
+
+
+
+
+
+
+
+
+
+c) les infractions aux paragraphes 16(1) ou (2), 17(1), 19(1), 20(1) ou 22(1) de la Loi sur la protection de l’information;
+
+
+
+
+
+
+
+
+
+
+
+d) les infractions au paragraphe 21(1) ou à l’article 23 de cette loi, commises à l’égard d’une infraction mentionnée à l’alinéa c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Same procedure for determination
+
+
+
+(6) If the judge or justice is of the opinion that it is necessary for a witness to testify in order to determine whether an order under subsection (2) or (4) should be made in respect of that witness, the judge or justice shall order that the witness testify in accordance with that subsection.
+
+
+
+
+
+
+
+
+
+(6) Le juge ou le juge de paix qui estime devoir entendre le témoin pour se faire une opinion sur la nécessité d’une ordonnance visée aux paragraphes (2) ou (4) est toutefois tenu de procéder à l’audition de la manière qui y est prévue.
+
+
+
+Audition du témoin
+
+
+
+
+
+
+
+
+
+
+Conditions of exclusion
+
+
+
+(7) A witness shall not testify outside the court room under subsection (1), (2), (4) or (6) unless arrangements are made for the accused, the judge or justice and the jury to watch the testimony of the witness by means of closed-circuit television or otherwise and the accused is permitted to communicate with counsel while watching the testimony.
+
+
+
+
+
+
+
+
+
+(7) Le témoin ne peut témoigner à l’extérieur de la salle d’audience en vertu des paragraphes (1), (2), (4) ou (6) que si la possibilité est donnée à l’accusé ainsi qu’au juge ou juge de paix et au jury d’assister au témoignage par télévision en circuit fermé ou par un autre moyen et si l’accusé peut communiquer avec son avocat pendant le témoignage.
+
+
+
+Conditions de l’exclusion
+
+
+
+
+
+
+
+
+
+
+No adverse inference
+
+
+
+(8) No adverse inference may be drawn from the fact that an order is, or is not, made under this section.
+
+
+
+
+
+
+
+
+
+(8) Le fait qu’une ordonnance visée par le présent article soit ou non rendue ne peut donner lieu à des conclusions défavorables.
+
+
+
+Conclusion défavorable
+
+
+
+
+
+
+
+
+
+
+Accused not to cross-examine witness under 18
+
+
+
+
+486.3 (1) In any proceedings against an accused, on application of the prosecutor or a witness who is under the age of eighteen years, the accused shall not personally cross-examine the witness, unless the judge or justice is of the opinion that the proper administration of justice requires the accused to personally conduct the cross-examination. The judge or justice shall appoint counsel to conduct the cross-examination if the accused does not personally conduct the cross-examination.
+
+
+
+
+
+
+
+
+
+
+486.3 (1) Dans les procédures dirigées contre l’accusé, sur demande du poursuivant ou d’un témoin âgé de moins de dix-huit ans, l’accusé ne peut procéder lui-même au contre-interrogatoire du témoin, sauf si le juge ou le juge de paix est d’avis que la bonne administration de la justice l’exige. Le cas échéant, le juge ou le juge de paix nomme un avocat pour procéder au contre-interrogatoire.
+
+
+
+Interdiction de contre-interrogatoire par l’accusé — témoin âgé de moins de dix-huit ans
+
+
+
+
+
+
+
+
+
+
+Other witnesses
+
+
+
+(2) In any proceedings against an accused, on application of the prosecutor or a witness, the accused shall not personally cross-examine the witness if the judge or justice is of the opinion that, in order to obtain a full and candid account from the witness of the acts complained of, the accused should not personally cross-examine the witness. The judge or justice shall appoint counsel to conduct the cross-examination if the accused does not personally conduct the cross-examination.
+
+
+
+
+
+
+
+
+
+(2) L’accusé ne peut non plus, sur demande du poursuivant ou d’un témoin, procéder lui-même au contre-interrogatoire de ce dernier, si le juge ou le juge de paix est d’avis que cela est nécessaire pour obtenir de celui-ci un récit complet et franc des faits sur lesquels est fondée l’accusation. Le cas échéant, le juge ou le juge de paix nomme un avocat pour procéder au contre-interrogatoire.
+
+
+
+Autres témoins
+
+
+
+
+
+
+
+
+
+
+Factors to be considered
+
+
+
+(3) In making a determination under subsection (2), the judge or justice shall take into account the factors referred to in subsection 486.1(3).
+
+
+
+
+
+
+
+
+
+(3) Pour décider s’il est nécessaire de nommer un avocat aux termes du paragraphe (2), le juge ou le juge de paix prend en compte les facteurs énumérés au paragraphe 486.1(3).
+
+
+
+Facteurs à considérer
+
+
+
+
+
+
+
+
+
+
+Victim of criminal harassment
+
+
+
+(4) In any proceedings in respect of an offence under section 264, on application of the prosecutor or the victim of the offence, the accused shall not personally cross-examine the victim unless the judge or justice is of the opinion that the proper administration of justice requires the accused to personally conduct the cross-examination. The judge or justice shall appoint counsel to conduct the cross-examination if the accused does not personally conduct the cross-examination.
+
+
+
+
+
+
+
+
+
+(4) Dans les procédures engagées à l’égard d’une infraction prévue à l’article 264, sur demande du poursuivant ou de la victime, l’accusé ne peut procéder lui-même au contre-interrogatoire de cette dernière, sauf si le juge ou le juge de paix est d’avis que la bonne administration de la justice l’exige. Le cas échéant, le juge ou le juge de paix nomme un avocat pour procéder au contre-interrogatoire.
+
+
+
+Victimes de harcèlement criminel
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(4.1) An application referred to in subsection (1), (2) or (4) may be made, during the proceedings, to the presiding judge or justice or, before the proceedings begin, to the judge or justice who will preside at the proceedings.
+
+
+
+
+
+
+
+
+
+(4.1) Les demandes peuvent être présentées soit au cours de l’instance au juge ou au juge de paix qui la préside, soit avant l’instance au juge ou au juge de paix qui la présidera.
+
+
+
+Demande
+
+
+
+
+
+
+
+
+
+
+No adverse inference
+
+
+
+(5) No adverse inference may be drawn from the fact that counsel is, or is not, appointed under this section.
+
+
+
+
+
+
+
+
+
+(5) Le fait que le juge nomme ou non un avocat pour procéder au contre-interrogatoire en conformité avec le présent article ne peut donner lieu à des conclusions défavorables.
+
+
+
+Conclusion défavorable
+
+
+
+
+
+
+
+
+
+
+Order restricting publication — sexual offences
+
+
+
+
+486.4 (1) Subject to subsection (2), the presiding judge or justice may make an order directing that any information that could identify the complainant or a witness shall not be published in any document or broadcast or transmitted in any way, in proceedings in respect of
+
+
+
+
+
+
+
+
+
+
+(a) any of the following offences:
+
+
+
+
+
+
+
+
+
+
+(i) an offence under section 151, 152, 153, 153.1, 155, 159, 160, 162, 163.1, 170, 171, 172, 172.1, 173, 210, 211, 212, 213, 271, 272, 273, 346 or 347,
+
+
+
+
+
+
+
+
+
+
+(ii) an offence under section 144 (rape), 145 (attempt to commit rape), 149 (indecent assault on female), 156 (indecent assault on male) or 245 (common assault) or subsection 246(1) (assault with intent) of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as it read immediately before January 4, 1983, or
+
+
+
+
+
+
+
+
+
+
+(iii) an offence under subsection 146(1) (sexual intercourse with a female under 14) or (2) (sexual intercourse with a female between 14 and 16) or section 151 (seduction of a female between 16 and 18), 153 (sexual intercourse with step-daughter), 155 (buggery or bestiality), 157 (gross indecency), 166 (parent or guardian procuring defilement) or 167 (householder permitting defilement) of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as it read immediately before January 1, 1988; or
+
+
+
+
+
+
+
+
+
+
+(b) two or more offences being dealt with in the same proceeding, at least one of which is an offence referred to in any of subparagraphs (a)(i) to (iii).
+
+
+
+
+
+
+
+
+
+
+486.4 (1) Sous réserve du paragraphe (2), le juge ou le juge de paix qui préside peut rendre une ordonnance interdisant de publier ou de diffuser de quelque façon que ce soit tout renseignement qui permettrait d’établir l’identité d’un plaignant ou d’un témoin dans les procédures relatives à :
+
+
+
+Ordonnance limitant la publication — infractions d’ordre sexuel
+
+
+
+
+
+a) l’une des infractions suivantes :
+
+
+
+
+
+
+
+
+
+
+(i) une infraction prévue aux articles 151, 152, 153, 153.1, 155, 159, 160, 162, 163.1, 170, 171, 172, 172.1, 173, 210, 211, 212, 213, 271, 272, 273, 346 ou 347,
+
+
+
+
+
+
+
+
+
+
+(ii) une infraction prévue aux articles 144 (viol), 145 (tentative de viol), 149 (attentat à la pudeur d’une personne de sexe féminin), 156 (attentat à la pudeur d’une personne de sexe masculin) ou 245 (voies de fait ou attaque) ou au paragraphe 246(1) (voies de fait avec intention) du Code criminel, chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 4 janvier 1983,
+
+
+
+
+
+
+
+
+
+
+(iii) une infraction prévue aux paragraphes 146(1) (rapports sexuels avec une personne de sexe féminin âgée de moins de 14 ans) ou (2) (rapports sexuels avec une personne de sexe féminin âgée de 14 à 16 ans) ou aux articles 151 (séduction d’une personne de sexe féminin âgée de 16 à 18 ans), 153 (rapports sexuels avec sa belle-fille), 155 (sodomie ou bestialité), 157 (grossière indécence), 166 (père, mère ou tuteur qui cause le déflorement) ou 167 (maître de maison qui permet le déflorement) du Code criminel, chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 1er janvier 1988;
+
+
+
+
+
+
+
+
+
+
+
+b) deux infractions ou plus dans le cadre de la même procédure, dont l’une est une infraction visée aux sous-alinéas a)(i) à (iii).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mandatory order on application
+
+
+
+(2) In proceedings in respect of the offences referred to in paragraph (1)(a) or (b), the presiding judge or justice shall
+
+
+
+
+
+
+
+
+
+
+(a) at the first reasonable opportunity, inform any witness under the age of eighteen years and the complainant of the right to make an application for the order; and
+
+
+
+
+
+
+
+
+
+
+(b) on application made by the complainant, the prosecutor or any such witness, make the order.
+
+
+
+
+
+
+
+
+
+(2) Dans les procédures relatives à des infractions visées aux alinéas (1)a) ou b), le juge ou le juge de paix qui préside est tenu :
+
+
+
+Obligations du juge
+
+
+
+
+
+a) d’aviser dès que possible les témoins âgés de moins de dix-huit ans et le plaignant de leur droit de demander l’ordonnance;
+
+
+
+
+
+
+
+
+
+
+
+b) de rendre l’ordonnance, si le poursuivant, le plaignant ou l’un de ces témoins lui en fait la demande.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Child pornography
+
+
+
+(3) In proceedings in respect of an offence under section 163.1, a judge or justice shall make an order directing that any information that could identify a witness who is under the age of eighteen years, or any person who is the subject of a representation, written material or a recording that constitutes child pornography within the meaning of that section, shall not be published in any document or broadcast or transmitted in any way.
+
+
+
+
+
+
+
+
+
+(3) Dans les procédures relatives à une infraction visée à l’article 163.1, le juge ou le juge de paix rend une ordonnance interdisant de publier ou de diffuser de quelque façon que ce soit tout renseignement qui permettrait d’établir l’identité d’un témoin âgé de moins de dix-huit ans ou d’une personne faisant l’objet d’une représentation, d’un écrit ou d’un enregistrement qui constitue de la pornographie juvénile au sens de cet article.
+
+
+
+Pornographie juvénile
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(4) An order made under this section does not apply in respect of the disclosure of information in the course of the administration of justice when it is not the purpose of the disclosure to make the information known in the community.
+
+
+
+
+
+
+
+
+
+(4) Les ordonnances rendues en vertu du présent article ne s’appliquent pas à la communication de renseignements dans le cours de l’administration de la justice si la communication ne vise pas à renseigner la collectivité.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+Order restricting publication — victims and witnesses
+
+
+
+
+486.5 (1) Unless an order is made under section 486.4, on application of the prosecutor, a victim or a witness, a judge or justice may make an order directing that any information that could identify the victim or witness shall not be published in any document or broadcast or transmitted in any way if the judge or justice is satisfied that the order is necessary for the proper administration of justice.
+
+
+
+
+
+
+
+
+
+
+486.5 (1) Sauf dans les cas où une ordonnance est rendue en vertu de l’article 486.4, le juge ou le juge de paix peut, sur demande du poursuivant, d’une victime ou d’un témoin, rendre une ordonnance interdisant la publication ou la diffusion de quelque façon que ce soit de tout renseignement qui permettrait d’établir l’identité de la victime ou du témoin, s’il est convaincu que la bonne administration de la justice l’exige.
+
+
+
+Ordonnance limitant la publication — victimes et témoins
+
+
+
+
+
+
+
+
+
+
+Justice system participants
+
+
+
+(2) On application of a justice system participant who is involved in proceedings in respect of an offence referred to in subsection 486.2(5) or of the prosecutor in those proceedings, a judge or justice may make an order directing that any information that could identify the justice system participant shall not be published in any document or broadcast or transmitted in any way if the judge or justice is satisfied that the order is necessary for the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(2) Dans toute procédure relative à l’une des infractions visées au paragraphe 486.2(5), le juge ou le juge de paix peut, sur demande du poursuivant ou d’une personne associée au système judiciaire qui participe à la procédure, rendre une ordonnance interdisant la publication ou la diffusion de quelque façon que ce soit de tout renseignement qui permettrait d’établir l’identité de cette personne, s’il est convaincu que la bonne administration de la justice l’exige.
+
+
+
+Personnes associées au système judiciaire
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(3) An order made under this section does not apply in respect of the disclosure of information in the course of the administration of justice if it is not the purpose of the disclosure to make the information known in the community.
+
+
+
+
+
+
+
+
+
+(3) Les ordonnances rendues en vertu du présent article ne s’appliquent pas à la communication de renseignements dans le cours de l’administration de la justice si la communication ne vise pas à renseigner la collectivité.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+Application and notice
+
+
+
+(4) An applicant for an order shall
+
+
+
+
+
+
+
+
+
+
+(a) apply in writing to the presiding judge or justice or, if the judge or justice has not been determined, to a judge of a superior court of criminal jurisdiction in the judicial district where the proceedings will take place; and
+
+
+
+
+
+
+
+
+
+
+(b) provide notice of the application to the prosecutor, the accused and any other person affected by the order that the judge or justice specifies.
+
+
+
+
+
+
+
+
+
+(4) La demande d’ordonnance :
+
+
+
+Contenu de la demande
+
+
+
+
+
+a) est présentée par écrit au juge ou juge de paix qui préside ou, si aucun de ceux-ci n’a été assigné, à un juge de la cour supérieure de juridiction criminelle dans le district judiciaire où l’instance se déroulera;
+
+
+
+
+
+
+
+
+
+
+
+b) est notifiée par le demandeur au poursuivant, à l’accusé et à toute autre personne touchée par l’ordonnance selon ce que le juge ou le juge de paix indique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grounds
+
+
+
+(5) An applicant for an order shall set out the grounds on which the applicant relies to establish that the order is necessary for the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(5) La demande énonce les motifs invoqués pour montrer que l’ordonnance servirait la bonne administration de la justice.
+
+
+
+Motifs
+
+
+
+
+
+
+
+
+
+
+Hearing may be held
+
+
+
+(6) The judge or justice may hold a hearing to determine whether an order should be made, and the hearing may be in private.
+
+
+
+
+
+
+
+
+
+(6) Le juge ou le juge de paix peut tenir une audience — à huis clos ou non — pour décider si l’ordonnance doit être rendue.
+
+
+
+Possibilité d’une audience
+
+
+
+
+
+
+
+
+
+
+Factors to be considered
+
+
+
+(7) In determining whether to make an order, the judge or justice shall consider
+
+
+
+
+
+
+
+
+
+
+(a) the right to a fair and public hearing;
+
+
+
+
+
+
+
+
+
+
+(b) whether there is a real and substantial risk that the victim, witness or justice system participant would suffer significant harm if their identity were disclosed;
+
+
+
+
+
+
+
+
+
+
+(c) whether the victim, witness or justice system participant needs the order for their security or to protect them from intimidation or retaliation;
+
+
+
+
+
+
+
+
+
+
+(d) society’s interest in encouraging the reporting of offences and the participation of victims, witnesses and justice system participants in the criminal justice process;
+
+
+
+
+
+
+
+
+
+
+(e) whether effective alternatives are available to protect the identity of the victim, witness or justice system participant;
+
+
+
+
+
+
+
+
+
+
+(f) the salutary and deleterious effects of the proposed order;
+
+
+
+
+
+
+
+
+
+
+(g) the impact of the proposed order on the freedom of expression of those affected by it; and
+
+
+
+
+
+
+
+
+
+
+(h) any other factor that the judge or justice considers relevant.
+
+
+
+
+
+
+
+
+
+(7) Pour décider s’il doit rendre l’ordonnance, le juge ou le juge de paix prend en compte :
+
+
+
+Facteurs à considérer
+
+
+
+
+
+a) le droit à un procès public et équitable;
+
+
+
+
+
+
+
+
+
+
+
+b) le risque sérieux que la victime, le témoin ou la personne associée au système judiciaire subisse un préjudice grave si son identité est révélée;
+
+
+
+
+
+
+
+
+
+
+
+c) la nécessité d’assurer la sécurité de la victime, du témoin ou de la personne associée au système judiciaire et leur protection contre l’intimidation et les représailles;
+
+
+
+
+
+
+
+
+
+
+
+d) l’intérêt de la société à encourager la dénonciation des infractions et la participation des victimes, des témoins et des personnes associées au système judiciaire;
+
+
+
+
+
+
+
+
+
+
+
+e) l’existence d’autres moyens efficaces permettant de protéger l’identité de la victime, du témoin ou de la personne associée au système judiciaire;
+
+
+
+
+
+
+
+
+
+
+
+f) les effets bénéfiques et préjudiciables de sa décision;
+
+
+
+
+
+
+
+
+
+
+
+g) les répercussions de l’ordonnance sur la liberté d’expression des personnes qu’elle touche;
+
+
+
+
+
+
+
+
+
+
+
+h) tout autre facteur qu’il estime pertinent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conditions
+
+
+
+(8) An order may be subject to any conditions that the judge or justice thinks fit.
+
+
+
+
+
+
+
+
+
+(8) Il peut assortir l’ordonnance de toute condition qu’il estime indiquée.
+
+
+
+Conditions
+
+
+
+
+
+
+
+
+
+
+Publication prohibited
+
+
+
+(9) Unless the judge or justice refuses to make an order, no person shall publish in any document or broadcast or transmit in any way
+
+
+
+
+
+
+
+
+
+
+(a) the contents of an application;
+
+
+
+
+
+
+
+
+
+
+(b) any evidence taken, information given or submissions made at a hearing under subsection (6); or
+
+
+
+
+
+
+
+
+
+
+(c) any other information that could identify the person to whom the application relates as a victim, witness or justice system participant in the proceedings.
+
+
+
+
+
+
+
+
+
+(9) À moins que le juge ou le juge de paix ne refuse de rendre l’ordonnance, il est interdit à quiconque de publier ou de diffuser de quelque façon que ce soit :
+
+
+
+Interdiction de publication
+
+
+
+
+
+a) le contenu de la demande;
+
+
+
+
+
+
+
+
+
+
+
+b) tout élément de preuve, tout renseignement ou toute observation présentés lors d’une audience tenue en vertu du paragraphe (6);
+
+
+
+
+
+
+
+
+
+
+
+c) tout autre renseignement qui permettrait de découvrir l’identité de la victime, du témoin ou de la personne associée au système judiciaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offence
+
+
+
+
+486.6 (1) Every person who fails to comply with an order made under subsection 486.4(1), (2) or (3) or 486.5(1) or (2) is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+
+486.6 (1) Quiconque transgresse une ordonnance rendue conformément aux paragraphes 486.4(1), (2) ou (3) ou 486.5(1) ou (2) est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+Transgression de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+Application of order
+
+
+
+(2) For greater certainty, an order referred to in subsection (1) applies to prohibit, in relation to proceedings taken against any person who fails to comply with the order, the publication in any document or the broadcasting or transmission in any way of information that could identify a victim, witness or justice system participant whose identity is protected by the order.
+
+
+
+
+
+
+
+
+
+(2) Il est entendu que les ordonnances mentionnées au paragraphe (1) visent également l’interdiction, dans les procédures pour transgression de ces ordonnances, de diffuser ou de publier de quelque façon que ce soit tout renseignement qui permettrait d’établir l’identité de la victime, du témoin ou de la personne associée au système judiciaire que l’ordonnance vise à protéger.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+R.S., c. 27 (1st Supp.), s. 69
+
+
+
+
+16. (1) The portion of subsection 487.2(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+16. (1) Le paragraphe 487.2(1) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 27 (1er suppl.), art. 69
+
+
+
+
+
+
+
+
+
+
+Restriction on publication
+
+
+
+
+487.2 If a search warrant is issued under section 487 or 487.1 or a search is made under such a warrant, every one who publishes in any document, or broadcasts or transmits in any way, any information with respect to
+
+
+
+
+
+
+
+
+
+
+487.2 Dans le cas où un mandat de perquisition a été décerné en vertu des articles 487 ou 487.1, ou une perquisition est effectuée en vertu d’un tel mandat, est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire, à moins qu’une accusation n’ait été portée à l’égard d’une infraction visée par le mandat, quiconque publie ou diffuse de quelque façon que ce soit, sans la permission de chaque personne visée à l’alinéa b), des renseignements concernant :
+
+
+
+Non-publication
+
+
+
+
+
+a) soit l’endroit où s’est faite ou doit se faire la perquisition;
+
+
+
+
+
+
+
+
+
+
+
+b) soit l’identité de la personne qui occupe ou semble occuper cet endroit ou en est ou semble en être responsable ou qui est soupçonnée d’être impliquée dans une infraction à l’égard de laquelle le mandat fut décerné.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 27 (1st Supp.), s. 69
+
+
+
+(2) Subsection 487.2(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 487.2(2) de la même loi est abrogé.
+
+
+
+L.R., ch. 27 (1er suppl.), art. 69
+
+
+
+
+
+
+
+
+
+
+
+
+
+17. (1) The portion of subsection 517(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. (1) Le passage du paragraphe 517(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Order directing matters not to be published for specified period
+
+
+
+
+517. (1) If the prosecutor or the accused intends to show cause under section 515, he or she shall so state to the justice and the justice may, and shall on application by the accused, before or at any time during the course of the proceedings under that section, make an order directing that the evidence taken, the information given or the representations made and the reasons, if any, given or to be given by the justice shall not be published in any document, or broadcast or transmitted in any way before such time as
+
+
+
+
+
+
+
+
+
+
+517. (1) Si le poursuivant ou le prévenu déclare son intention de faire valoir des motifs justificatifs aux termes de l’article 515 au juge de paix, celui-ci peut et doit, sur demande du prévenu, avant le début des procédures engagées en vertu de cet article ou à tout moment au cours de celles-ci, rendre une ordonnance enjoignant que la preuve recueillie, les renseignements fournis ou les observations faites et, le cas échéant, les raisons données ou devant être données par le juge de paix, ne soient ni publiés ni diffusés de quelque façon que ce soit :
+
+
+
+Ordonnance de non-publication
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 517(3) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 517(3) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 27 (1st Supp.), s. 97
+
+
+
+
+18. (1) The portion of subsection 539(1) of the Act after paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+18. (1) Le paragraphe 539(1) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 27 (1er suppl.), art. 97
+
+
+
+
+
+
+
+
+
+
+
+
+make an order directing that the evidence taken at the inquiry shall not be published in any document or broadcast or transmitted in any way before such time as, in respect of each of the accused,
+
+
+
+
+
+
+(c) he or she is discharged, or
+
+
+
+
+
+
+(d) if he or she is ordered to stand trial, the trial is ended.
+
+
+
+
+
+
+
+
+
+
+539. (1) Avant qu’il ne commence à recueillir la preuve lors d’une enquête préliminaire, le juge de paix qui préside l’enquête peut, à la demande du poursuivant ou doit, à la demande d’un prévenu, rendre une ordonnance portant que la preuve recueillie lors de l’enquête ne peut être publiée ou diffusée de quelque façon que ce soit avant que chacun des prévenus ne soit libéré ou, s’il y a renvoi aux fins de procès, avant que le procès de chacun d’eux n’ait pris fin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 539(4) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 539(4) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19. (1) The portion of subsection 542(2) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+19. (1) Le paragraphe 542(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Restriction of publication of reports of preliminary inquiry
+
+
+
+(2) Every one who publishes in any document, or broadcasts or transmits in any way, a report that any admission or confession was tendered in evidence at a preliminary inquiry or a report of the nature of such admission or confession so tendered in evidence unless
+
+
+
+
+
+
+
+
+
+(2) Est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque publie ou diffuse de quelque façon que ce soit un rapport portant qu’un aveu ou une confession a été présenté en preuve à une enquête préliminaire, ou un rapport indiquant la nature de tout semblable aveu ou confession ainsi présenté en preuve, sauf si l’accusé a été libéré ou, dans le cas où l’accusé a été renvoyé pour subir son procès, si le procès a pris fin.
+
+
+
+Restriction visant la publication de rapports sur l’enquête préliminaire
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 542(3) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 542(3) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 32, s. 82(4)
+
+
+
+
+20. Subsection 631(6) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+20. Le paragraphe 631(6) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 32, par. 82(4)
+
+
+
+
+
+
+
+
+
+
+Ban on publication
+
+
+
+(6) On application by the prosecutor or on its own motion, the court or judge before which a jury trial is to be held may, if an order under subsection (3.1) has been made, make an order directing that the identity of a juror or any information that could disclose their identity shall not be published in any document or broadcast or transmitted in any way if the court or judge is satisfied that such an order is necessary for the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(6) Sur demande du poursuivant ou de sa propre initiative, le tribunal ou le juge du tribunal devant qui doit se tenir le procès avec jury peut, s’il a rendu une ordonnance au titre du paragraphe (3.1), interdire de publier ou de diffuser de quelque façon que ce soit l’identité des jurés ou des renseignements qui permettraient de la découvrir, s’il est convaincu que la bonne administration de la justice l’exige.
+
+
+
+Demande de non-publication
+
+
+
+
+
+
+
+
+
+
+
+
+
+21. (1) Subsection 648(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+21. (1) Le paragraphe 648(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Restriction on publication
+
+
+
+
+648. (1) After permission to separate is given to members of a jury under subsection 647(1), no information regarding any portion of the trial at which the jury is not present shall be published in any document or broadcast or transmitted in any way before the jury retires to consider its verdict.
+
+
+
+
+
+
+
+
+
+
+648. (1) Une fois la permission de se séparer donnée aux membres d’un jury en vertu du paragraphe 647(1), aucun renseignement concernant une phase du procès se déroulant en l’absence du jury ne peut être publié ou diffusé de quelque façon que ce soit avant que le jury ne se retire pour délibérer.
+
+
+
+Publication interdite
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 648(3) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 648(3) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+22. The portion of subsection 672.51(11) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+22. Le passage du paragraphe 672.51(11) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Prohibition on publication
+
+
+
+(11) No person shall publish in any document or broadcast or transmit in any way
+
+
+
+
+
+
+
+
+
+(11) Il est interdit de publier ou de diffuser de quelque façon que ce soit :
+
+
+
+Interdiction de publication
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (3rd Supp.), s. 16; 1997, c. 16, s. 7; 1998, c. 9, s. 8
+
+
+
+
+23. The heading before section 715.1 and sections 715.1 and 715.2 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+23. L’intertitre précédant l’article 715.1 et les articles 715.1 et 715.2 de la même loi sont remplacés par ce qui suit :
+
+
+
+L.R., ch. 19 (3e suppl.), art. 16; 1997, ch. 16, art. 7; 1998, ch. 9, art. 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Video-recorded Evidence
+
+
+
+
+
+
+
+
+
+Enregistrement vidéo
+
+
+
+
+
+
+
+
+
+
+
+
+Evidence of victim or witness under 18
+
+
+
+
+715.1 (1) In any proceeding against an accused in which a victim or other witness was under the age of eighteen years at the time the offence is alleged to have been committed, a video recording made within a reasonable time after the alleged offence, in which the victim or witness describes the acts complained of, is admissible in evidence if the victim or witness, while testifying, adopts the contents of the video recording, unless the presiding judge or justice is of the opinion that admission of the video recording in evidence would interfere with the proper administration of justice.
+
+
+
+
+
+
+
+
+
+
+715.1 (1) Dans les procédures dirigées contre l’accusé, dans le cas où une victime ou un témoin est âgé de moins de dix-huit ans au moment de la perpétration de l’infraction reprochée, l’enregistrement vidéo réalisé dans un délai raisonnable après la perpétration de l’infraction reprochée et montrant la victime ou le témoin en train de décrire les faits à l’origine de l’accusation est, sauf si le juge ou le juge de paix qui préside est d’avis que cela nuirait à la bonne administration de la justice, admissible en preuve si la victime ou le témoin confirme dans son témoignage le contenu de l’enregistrement.
+
+
+
+Témoignages — victimes ou témoins âgés de moins de dix-huit ans
+
+
+
+
+
+
+
+
+
+
+Order prohibiting use
+
+
+
+(2) The presiding judge or justice may prohibit any other use of a video recording referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Le juge ou le juge de paix qui préside peut interdire toute autre forme d’utilisation de l’enregistrement visé au paragraphe (1).
+
+
+
+Ordonnance d’interdiction
+
+
+
+
+
+
+
+
+
+
+Evidence of victim or witness who has a disability
+
+
+
+
+715.2 (1) In any proceeding against an accused in which a victim or other witness is able to communicate evidence but may have difficulty doing so by reason of a mental or physical disability, a video recording made within a reasonable time after the alleged offence, in which the victim or witness describes the acts complained of, is admissible in evidence if the victim or witness, while testifying, adopts the contents of the video recording, unless the presiding judge or justice is of the opinion that admission of the video recording in evidence would interfere with the proper administration of justice.
+
+
+
+
+
+
+
+
+
+
+715.2 (1) Dans les procédures dirigées contre l’accusé, dans le cas où une victime ou un témoin est capable de communiquer les faits dans son témoignage mais éprouve de la difficulté à le faire en raison d’une déficience mentale ou physique, l’enregistrement vidéo réalisé dans un délai raisonnable après la perpétration de l’infraction reprochée et montrant la victime ou le témoin en train de décrire les faits à l’origine de l’accusation est, sauf si le juge ou le juge de paix qui préside est d’avis que cela nuirait à la bonne administration de la justice, admissible en preuve si la victime ou le témoin confirme dans son témoignage le contenu de l’enregistrement.
+
+
+
+Témoignage — victime ou témoin ayant une déficience
+
+
+
+
+
+
+
+
+
+
+Order prohibiting use
+
+
+
+(2) The presiding judge or justice may prohibit any other use of a video recording referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Le juge ou le juge de paix qui préside peut interdire toute autre forme d’utilisation de l’enregistrement visé au paragraphe (1).
+
+
+
+Ordonnance d’interdiction
+
+
+
+
+
+
+
+
+
+
+
+
+
+24. The Act is amended by adding the following after section 718:
+
+
+
+
+
+
+
+
+
+
+24. La même loi est modifiée par adjonction, après l’article 718, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Objectives — offences against children
+
+
+
+
+718.01 When a court imposes a sentence for an offence that involved the abuse of a person under the age of eighteen years, it shall give primary consideration to the objectives of denunciation and deterrence of such conduct.
+
+
+
+
+
+
+
+
+
+
+718.01 Le tribunal qui impose une peine pour une infraction qui constitue un mauvais traitement à l’égard d’une personne âgée de moins de dix-huit ans accorde une attention particulière aux objectifs de dénonciation et de dissuasion d’un tel comportement.
+
+
+
+Objectif — infraction perpétrée à l’égard des enfants
+
+
+
+
+
+
+
+
+
+
+1995, c. 22, s. 6; 2000, c. 12, par. 95(c)
+
+
+
+
+25. Subparagraph 718.2(a)(ii) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+25. Le sous-alinéa 718.2a)(ii) de la même loi est remplacé par ce qui suit :
+
+
+
+1995, ch. 22, art. 6; 2000, ch. 12, al. 95c)
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) evidence that the offender, in committing the offence, abused the offender’s spouse or common-law partner,
+
+
+
+
+
+
+(ii.1) evidence that the offender, in committing the offence, abused a person under the age of eighteen years,
+
+
+
+
+
+
+
+
+
+(ii) que l’infraction perpétrée par le délinquant constitue un mauvais traitement de son époux ou conjoint de fait,
+
+
+
+
+
+
+(ii.1) que l’infraction perpétrée par le délinquant constitue un mauvais traitement à l’égard d’une personne âgée de moins de dix-huit ans,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-5
+
+
+
+CANADA EVIDENCE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA PREUVE AU CANADA
+
+
+
+L.R., ch. C-5
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (3rd Supp.), s. 18
+
+
+
+
+26. The portion of subsection 16(1) of the Canada Evidence Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+26. Le passage du paragraphe 16(1) de la Loi sur la preuve au Canada précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (3e suppl.), art. 18
+
+
+
+
+
+
+
+
+
+
+Witness whose capacity is in question
+
+
+
+
+16. (1) If a proposed witness is a person of fourteen years of age or older whose mental capacity is challenged, the court shall, before permitting the person to give evidence, conduct an inquiry to determine
+
+
+
+
+
+
+
+
+
+
+16. (1) Avant de permettre le témoignage d’une personne âgée d’au moins quatorze ans dont la capacité mentale est mise en question, le tribunal procède à une enquête visant à décider si :
+
+
+
+Témoin dont la capacité mentale est mise en question
+
+
+
+
+
+
+
+
+
+
+
+
+
+27. The Act is amended by adding the following after section 16:
+
+
+
+
+
+
+
+
+
+
+27. La même loi est modifiée par adjonction, après l’article 16, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Person under fourteen years of age
+
+
+
+
+16.1 (1) A person under fourteen years of age is presumed to have the capacity to testify.
+
+
+
+
+
+
+
+
+
+
+16.1 (1) Toute personne âgée de moins de quatorze ans est présumée habile à témoigner.
+
+
+
+Témoin âgé de moins de quatorze ans
+
+
+
+
+
+
+
+
+
+
+No oath or solemn affirmation
+
+
+
+(2) A proposed witness under fourteen years of age shall not take an oath or make a solemn affirmation despite a provision of any Act that requires an oath or a solemn affirmation.
+
+
+
+
+
+
+
+
+
+(2) Malgré toute disposition d’une loi exigeant le serment ou l’affirmation solennelle, une telle personne ne peut être assermentée ni faire d’affirmation solennelle.
+
+
+
+Témoin non assermenté
+
+
+
+
+
+
+
+
+
+
+Evidence shall be received
+
+
+
+(3) The evidence of a proposed witness under fourteen years of age shall be received if they are able to understand and respond to questions.
+
+
+
+
+
+
+
+
+
+(3) Son témoignage ne peut toutefois être reçu que si elle a la capacité de comprendre les questions et d’y répondre.
+
+
+
+Témoignage admis en preuve
+
+
+
+
+
+
+
+
+
+
+Burden as to capacity of witness
+
+
+
+(4) A party who challenges the capacity of a proposed witness under fourteen years of age has the burden of satisfying the court that there is an issue as to the capacity of the proposed witness to understand and respond to questions.
+
+
+
+
+
+
+
+
+
+(4) La partie qui met cette capacité en question doit convaincre le tribunal qu’il existe des motifs d’en douter.
+
+
+
+Charge de la preuve
+
+
+
+
+
+
+
+
+
+
+Court inquiry
+
+
+
+(5) If the court is satisfied that there is an issue as to the capacity of a proposed witness under fourteen years of age to understand and respond to questions, it shall, before permitting them to give evidence, conduct an inquiry to determine whether they are able to understand and respond to questions.
+
+
+
+
+
+
+
+
+
+(5) Le tribunal qui estime que de tels motifs existent procède, avant de permettre le témoignage, à une enquête pour vérifier si le témoin a la capacité de comprendre les questions et d’y répondre.
+
+
+
+Enquête du tribunal
+
+
+
+
+
+
+
+
+
+
+Promise to tell truth
+
+
+
+(6) The court shall, before permitting a proposed witness under fourteen years of age to give evidence, require them to promise to tell the truth.
+
+
+
+
+
+
+
+
+
+(6) Avant de recevoir le témoignage, le tribunal fait promettre au témoin de dire la vérité.
+
+
+
+Promesse du témoin
+
+
+
+
+
+
+
+
+
+
+Understanding of promise
+
+
+
+(7) No proposed witness under fourteen years of age shall be asked any questions regarding their understanding of the nature of the promise to tell the truth for the purpose of determining whether their evidence shall be received by the court.
+
+
+
+
+
+
+
+
+
+(7) Aucune question sur la compréhension de la nature de la promesse ne peut être posée au témoin en vue de vérifier si son témoignage peut être reçu par le tribunal.
+
+
+
+Question sur la nature de la promesse
+
+
+
+
+
+
+
+
+
+
+Effect
+
+
+
+(8) For greater certainty, if the evidence of a witness under fourteen years of age is received by the court, it shall have the same effect as if it were taken under oath.
+
+
+
+
+
+
+
+
+
+(8) Il est entendu que le témoignage reçu a le même effet que si le témoin avait prêté serment.
+
+
+
+Effet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REVIEW AND REPORT TO PARLIAMENT
+
+
+
+
+
+
+
+
+
+EXAMEN ET RAPPORT AU PARLEMENT
+
+
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+
+
+27.1
+ (1) Five years after this section comes into force, a committee of the Senate, of the House of Commons or of both Houses of Parliament that is designated or established for the purpose shall undertake a comprehensive review of this Act and its operation.
+
+
+
+
+
+
+
+
+
+
+
+27.1
+ (1) Cinq ans après l’entrée en vigueur du présent article, un comité, soit du Sénat, soit de la Chambre des communes, soit mixte, désigné ou constitué à cette fin, doit entreprendre un examen approfondi de la présente loi ainsi que de l’application de ses dispositions.
+
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+
+(2) The committee shall submit a report on the review to Parliament, including a statement of any changes that it recommends, within six months after it undertakes the review or within any further time authorized by the Senate, the House of Commons or both Houses of Parliament, as the case may be.
+
+
+
+
+
+
+
+
+
+
+(2) Dans les six mois suivant le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité remet au Parlement son rapport, qui fait état notamment des modifications qu’il recommande. 
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENT
+
+
+
+
+
+
+
+
+
+DISPOSITION DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+2004, c. 15
+
+
+
+
+28. If section 10 of this Act comes into force before the coming into force of any provision of the definition “offence” in section 183 of the Criminal Code, as enacted by section 108 of the Public Safety Act, 2002 (the “other Act”), then, on the coming into force of that section 10, paragraph (a) of the definition “offence” in section 183 of the Criminal Code, as enacted by section 108 of the other Act, is amended by adding the following after subparagraph (xxvii):
+
+
+
+
+
+
+
+
+
+
+28. Si l’entrée en vigueur de l’article 10 de la présente loi est antérieure à celle de toute disposition de la définition de « infraction » à l’article 183 du Code criminel, édicté par l’article 108 de la Loi de 2002 sur la sécurité publique (appelée « autre loi » au présent article), à l’entrée en vigueur de l’article 10, l’alinéa a) de la définition de « infraction » à l’article 183 du Code criminel, édicté par l’article 108 de l’autre loi, est modifié par adjonction, après le sous-alinéa (xxvii), de ce qui suit :
+
+
+
+2004, ch. 15
+
+
+
+
+
+
+
+
+
+
+
+
+(xxvii.1) section 162 (voyeurism),
+
+
+
+
+
+
+
+
+
+(xxvii.1) l’article 162 (voyeurisme),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+29. The provisions of this Act, other than section 28, come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+29. Les dispositions de la présente loi, à l’exception de l’article 28, entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1919 @@
+
+
+
+
+
+
+C-477
+
+
+
+
+
+C-477
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-477
+
+
+
+
+
+PROJET DE LOI C-477
+
+
+
+
+
+
+An Act to establish the Pan-Canadian Organ Donor Registry and to coordinate and promote organ donation throughout Canada
+
+
+
+
+
+Loi établissant le Registre pancanadien des donneurs d'organes et visant à coordonner et à promouvoir les dons d'organes dans l'ensemble du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, February 27, 2013
+
+
+
+
+
+première lecture le 27 février 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+2nd Session, 41st Parliament
+
+This bill was introduced during the First Session of the 41st Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+2e session, 41e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 41e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+
+Mr. Allen (Welland)
+
+411643
+
+
+
+
+M. Allen (Welland)
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to establish the Pan-Canadian Organ Donor Registry. The Registry may consist of a system that links existing data and may be established partly or entirely in electronic format. The Registry is to be administered by a chief executive officer known as the Registrar of the Organ Donors Registry.
+The enactment requires the Registrar to consult with the provinces in order to bring about sufficient conformity in provincial human organ donation legislation to allow the  Registry to operate.
+The Minister may enter into agreements with the provinces to allow them to participate in the Registry if they have sufficiently conforming legislation. The enactment provides for confidentiality and mandates an annual report.
+The enactment will facilitate the establishment of a national information exchange on organ donation between provinces.
+
+
+
+SOMMAIRE
+Le texte a pour objet d’établir le Registre pancanadien des donneurs d’organes. Le Registre, établi entièrement ou partiellement sur support électronique, peut consister en un système qui crée des liens entre des données existantes. Il est administré par un premier dirigeant appelé directeur du Registre des donneurs d’organes.
+Le directeur doit consulter les provinces en vue d’assurer une uniformité suffisante entre les lois provinciales ayant trait aux dons d’organes humains afin que le Registre puisse fonctionner.
+Le ministre peut conclure avec les provinces des accords leur permettant de participer au Registre si leurs lois sont suffisamment uniformes. En outre, des dispositions sont prévues pour assurer la confidentialité et exiger la production d'un rapport annuel.
+Le texte facilitera la mise en place d’un système national d’échange de renseignements sur les dons d’organes entre les provinces.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-477
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-477
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to establish the Pan-Canadian Organ Donor Registry and to coordinate and promote organ donation throughout Canada
+
+
+
+
+
+
+
+
+
+Loi établissant le Registre pancanadien des donneurs d'organes et visant à coordonner et à promouvoir les dons d'organes dans l'ensemble du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Organ Donor Registry Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur le Registre des donneurs d’organes.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Health.
+
+
+
+
+“organ”« organe »
+
+
+
+“organ” includes any form of human tissue.
+
+
+
+
+“organ donor”« donneur d’organes » ou « donneur »
+
+
+
+“organ donor” means a person who has consented to the use of all the organs or one or more specified organs of the person on death — or for whom such consent has been given by another person — and who will donate according to the laws of the province in which the person resided at the time the consent was lawfully given, or in which the donor dies or becomes incapable of giving consent.
+
+
+
+
+“participating province”« province participante »
+
+
+
+“participating province” means a province that has enacted legislation that meets the requirements of this Act and that has entered into an agreement with the Minister under section 8.
+
+
+
+
+“recipient”« receveur »
+
+
+
+“recipient” means a person who receives or who is intended to receive an organ from an organ donor.
+
+
+
+
+“Registrar”« directeur »
+
+
+
+“Registrar” means the person appointed as Registrar of the Organ Donors Registry under section 4.
+
+
+
+
+“Registry”« Registre »
+
+
+
+“Registry” means the Pan-Canadian Organ Donor Registry established under section 3.
+
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« directeur » La personne nommée à titre de directeur du Registre des donneurs d'organes en vertu de l’article 4.
+
+
+
+« directeur »“Registrar”
+
+
+
+
+« donneur d’organes » ou « donneur » Personne qui consent à l’utilisation après son décès d’un, de plusieurs ou de la totalité de ses organes, ou personne à l’égard de laquelle un tel consentement a été donné par une autre personne, en conformité avec les règles de droit de la province où elle réside au moment où elle donne légalement son consentement ou de la province où elle décède ou devient incapable de donner son consentement.
+
+
+
+« donneur d’organes » ou « donneur »“organ donor”
+
+
+
+
+« ministre » Le ministre de la Santé.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« organe » Sont assimilés aux organes les tissus humains.
+
+
+
+« organe »“organ”
+
+
+
+
+« province participante » Province qui a édicté des lois conformes aux exigences de la présente loi et qui a conclu un accord avec le ministre en vertu de l’article 8.
+
+
+
+« province participante »“participating province”
+
+
+
+
+« receveur » Personne qui reçoit un organe d’un donneur ou à qui un tel organe est destiné.
+
+
+
+« receveur »“recipient”
+
+
+
+
+« Registre » Le Registre pancanadien des donneurs d’organes établi aux termes de l’article 3.
+
+
+
+« Registre »“Registry”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAN-CANADIAN ORGAN DONOR REGISTRY
+
+
+
+
+
+
+
+
+
+REGISTRE PANCANADIEN DES DONNEURS D’ORGANES
+
+
+
+
+
+
+
+
+
+
+
+
+Registry established
+
+
+
+
+3. (1) The Registrar must establish and maintain a registry, to be known as the Pan-Canadian Organ Donor Registry.
+
+
+
+
+
+
+
+
+
+
+3. (1) Le directeur établit et tient le Registre pancanadien des donneurs d’organes.
+
+
+
+Registre
+
+
+
+
+
+
+
+
+
+
+Form of Registry
+
+
+
+(2) The Registry is to consist of
+
+
+
+
+
+
+
+
+
+
+(a) a compilation of information on organ donors and recipients; or
+
+
+
+
+
+
+
+
+
+
+(b) a system that links such compilations held by others and facilitates access to such compilations.
+
+
+
+
+
+
+
+
+
+(2) Le Registre consiste, selon le cas  :
+
+
+
+Forme
+
+
+
+
+
+a) en une compilation de renseignements sur les donneurs d’organes et les receveurs;
+
+
+
+
+
+
+
+
+
+
+
+b) en un système qui permet de créer des liens entre des compilations semblables détenues par des tiers et de faciliter l’accès à celles-ci.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Destruction of information
+
+
+
+(3) The Registrar may destroy information kept in the Registry at the times and in the circumstances that may be prescribed by regulation. 
+
+
+
+
+
+
+
+
+
+(3) Le directeur peut détruire les renseignements conservés dans le Registre aux moments et dans les circonstances prévus par règlement.
+
+
+
+Destruction de renseignements
+
+
+
+
+
+
+
+
+
+
+Electronic format
+
+
+
+(4) For greater certainty, the Registry may be established partly or entirely in electronic format.
+
+
+
+
+
+
+
+
+
+(4) Il est entendu que le Registre peut être établi entièrement ou partiellement sur support électronique.
+
+
+
+Support électronique
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STAFF
+
+
+
+
+
+
+
+
+
+PERSONNEL
+
+
+
+
+
+
+
+
+
+
+
+
+Registrar
+
+
+
+
+4. (1) The Registry is to be administered by a chief executive officer appointed by the Minister and known as the Registrar of the Organ Donors Registry.
+
+
+
+
+
+
+
+
+
+
+4. (1) L’administration du Registre est confiée à un premier dirigeant nommé par le ministre et appelé directeur du Registre des donneurs d'organes.
+
+
+
+Directeur
+
+
+
+
+
+
+
+
+
+
+Registrar reports to Minister
+
+
+
+(2) The Registrar must report to the Minister as the Minister directs.
+
+
+
+
+
+
+
+
+
+(2) Le directeur fait rapport au ministre en conformité avec les directives de ce dernier.
+
+
+
+Rapports au ministre
+
+
+
+
+
+
+
+
+
+
+Staff
+
+
+
+(3) Any employees necessary to enable the Registrar to perform his or her duties and functions under this Act must be appointed in accordance with the Public Service Employment Act.
+
+
+
+
+
+
+
+
+
+(3) Le personnel nécessaire au directeur pour l’exercice des attributions que lui confère la présente loi est nommé conformément à la Loi sur l’emploi dans la fonction publique.
+
+
+
+Personnel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBJECTS
+
+
+
+
+
+
+
+
+
+OBJET
+
+
+
+
+
+
+
+
+
+
+
+
+Objects of Registry
+
+
+
+
+5. (1) The objects of the Registry are
+
+
+
+
+
+
+
+
+
+
+(a) to store, or provide a link between, information on organ donors in participating provinces;
+
+
+
+
+
+
+
+
+
+
+(b) to maintain the information in a format that allows it to be provided quickly to persons authorized by a participating prov-ince to receive it for the purpose of identifying individuals who have consented or who may consent to be organ donors; and
+
+
+
+
+
+
+
+
+
+
+(c) to match potential organ donors with recipients quickly and effectively.
+
+
+
+
+
+
+
+
+
+
+5. (1) Le Registre a pour objet :
+
+
+
+Objet du Registre
+
+
+
+
+
+a) de conserver les renseignements sur les donneurs d’organes provenant des provinces participantes ou de créer des liens entre ces renseignements;
+
+
+
+
+
+
+
+
+
+
+
+b) de conserver les renseignements sur un support permettant de les communiquer rapidement aux personnes autorisées par une province participante à les recevoir afin d’identifier les personnes qui ont consenti ou pourraient consentir à être des donneurs d’organes;
+
+
+
+
+
+
+
+
+
+
+
+c) de faciliter l’appariement rapide et efficace entre les donneurs d’organes potentiels et les receveurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information to be kept confidential
+
+
+
+(2) The information in the Registry is to be kept confidential except as necessary to fulfill the objects of the Registry.
+
+
+
+
+
+
+
+
+
+(2) Les renseignements contenus dans le Registre sont tenus confidentiels, sauf dans la mesure nécessaire à l’objet du Registre.
+
+
+
+Confidentialité des renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PARTICIPATING PROVINCES
+
+
+
+
+
+
+
+
+
+PROVINCES PARTICIPANTES
+
+
+
+
+
+
+
+
+
+
+
+
+Standardization of provincial legislation
+
+
+
+
+6. The Registrar must consult with the provinces in order to develop a national standard for the purposes of subsection 7(1), with the objective that as many provinces as possible become participating provinces.
+
+
+
+
+
+
+
+
+
+
+6. Le directeur consulte les provinces en vue d’établir une norme nationale pour l’application du paragraphe 7(1), afin de faire en sorte que le plus grand nombre possible de provinces deviennent des provinces participantes.
+
+
+
+Uniformisation de la législation provinciale
+
+
+
+
+
+
+
+
+
+
+Participating provinces
+
+
+
+
+7. (1) For a province to become a participating province, it must make an agreement with the Minister under section 8 and it must have legislation that conforms to the national stand-ard developed under section 6 respecting
+
+
+
+
+
+
+
+
+
+
+(a) the manner in which an organ donor or, on the organ donor’s incapacity or death, a person lawfully entitled to consent on the organ donor’s behalf may consent to organ donation;
+
+
+
+
+
+
+
+
+
+
+(b) an organ donor’s right to refuse to donate any specified organ;
+
+
+
+
+
+
+
+
+
+
+(c) the situations in which a donation is revo-cable, including whether the organ donor’s next of kin have the right to revoke a prior consent to donate made by a deceased organ donor;
+
+
+
+
+
+
+
+
+
+
+(d) the procedure by which a determination of the death of an organ donor prior to removal of an organ must be made;
+
+
+
+
+
+
+
+
+
+
+(e) the procedure by which the medical suitability of an organ donor must be determined;
+
+
+
+
+
+
+
+
+
+
+(f) the sharing of information between prov-inces; and
+
+
+
+
+
+
+
+
+
+
+(g) the overall management of organ donation within the province.
+
+
+
+
+
+
+
+
+
+
+7. (1) Pour devenir une province participante, la province doit conclure un accord avec le ministre aux termes de l’article 8; en outre, ses lois doivent être conformes à la norme nationale établie en vertu de l’article 6 en ce qui concerne :
+
+
+
+Provinces participantes
+
+
+
+
+
+a) la manière dont le donneur ou, en cas d’incapacité ou de décès de celui-ci, la personne légalement autorisée à agir en son nom peut consentir au don d’organes;
+
+
+
+
+
+
+
+
+
+
+
+b) le droit d’un donneur de refuser de faire un don d’un organe précis;
+
+
+
+
+
+
+
+
+
+
+
+c) les situations où un don est révocable, notamment à savoir si un proche parent du donneur décédé a le droit de révoquer le consentement donné antérieurement par ce dernier;
+
+
+
+
+
+
+
+
+
+
+
+d) la procédure à suivre pour déclarer le décès d’un donneur préalablement au prélèvement d’un de ses organes;
+
+
+
+
+
+
+
+
+
+
+
+e) la procédure permettant de déterminer si un donneur d’organes convient sur le plan médical;
+
+
+
+
+
+
+
+
+
+
+
+f) l’échange de renseignements entre les provinces;
+
+
+
+
+
+
+
+
+
+
+
+g) la gestion globale des dons d’organes dans la province.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other procedures to be followed
+
+
+
+(2) The legislation of each participating province must set out the procedures to be followed within the province respecting
+
+
+
+
+
+
+
+
+
+
+(a) the promotion of organ donation within the province;
+
+
+
+
+
+
+
+
+
+
+(b) notification of the appropriate agency of the death or imminent death of a person who is or who  may become an organ donor;
+
+
+
+
+
+
+
+
+
+
+(c) the training of hospital staff who may be required to approach the families of patients for consent to the donation of an organ; and
+
+
+
+
+
+
+
+
+
+
+(d) record keeping and the production of statistics.
+
+
+
+
+
+
+
+
+
+(2) Les lois de chaque province participante doivent établir les procédures à suivre pour :
+
+
+
+Autres procédures à suivre
+
+
+
+
+
+a) la promotion du don d’organes dans la province;
+
+
+
+
+
+
+
+
+
+
+
+b) la notification des organismes compétents lors du décès ou du décès imminent d’un donneur d’organes ou d’une personne susceptible de le devenir; 
+
+
+
+
+
+
+
+
+
+
+
+c) la formation du personnel des hôpitaux qui peut être appelé à communiquer avec les membres de la famille d’un patient pour obtenir leur consentement relativement au don d’un organe de ce dernier;
+
+
+
+
+
+
+
+
+
+
+
+d) la tenue de dossiers et la production de statistiques.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submission to Registrar
+
+
+
+
+8. (1) A province wishing to become a participating province must submit to the Registrar a draft of its legislation.
+
+
+
+
+
+
+
+
+
+
+8. (1) La province qui souhaite devenir une province participante présente au directeur ses avant-projets de loi.
+
+
+
+Présentation au directeur
+
+
+
+
+
+
+
+
+
+
+Recommendation of Registrar
+
+
+
+(2) The Registrar informs the province of any concerns that the Registrar has in respect of the draft legislation or, if the Registrar is of the opinion that the draft legislation complies with all of the requirements set out in section 7, makes a recommendation to the Minister that the province become a participating province.
+
+
+
+
+
+
+
+
+
+(2) Le directeur informe la province des questions que les avant-projets de loi soulèvent ou, s’il est d’avis qu’ils satisfont aux exigences de l’article 7, recommande au ministre qu’elle devienne une province participante.
+
+
+
+Recommandation du directeur
+
+
+
+
+
+
+
+
+
+
+Agreement with the province
+
+
+
+(3) Once the Minister has received the recommendation from the Registrar, the Minister may enter into an agreement with the province which allows it to become a participating province.
+
+
+
+
+
+
+
+
+
+(3) Après avoir reçu la recommandation du directeur, le ministre peut conclure avec la province un accord lui permettant de devenir une province participante.
+
+
+
+Accord avec la province
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXEMPTION
+
+
+
+
+
+
+
+
+
+EXEMPTION
+
+
+
+
+
+
+
+
+
+
+
+
+Exemption from application of Act
+
+
+
+
+9. (1) Recognizing the unique nature of the jurisdiction of the Government of Quebec with regard to health, and despite any other provision of this Act, the Government of Quebec may choose to be exempted from the application of this Act.
+
+
+
+
+
+
+
+
+
+
+9. (1) Compte tenu de la nature unique de la compétence du gouvernement du Québec en matière de santé, et par dérogation aux autres dispositions de la présente loi, le gouvernement du Québec peut choisir de se soustraire à l'application de la présente loi.
+
+
+
+Exemption de l'application de la loi
+
+
+
+
+
+
+
+
+
+
+Payment
+
+
+
+(2) If the Government of Quebec chooses to be exempted from the application of this Act under subsection (1), the Government of Canada must, in every calendar year, pay the Government of Quebec an amount equal to the amount of any additional expenses that would have been incurred by the Government of Canada in the previous calendar year had Quebec been a participating province within the meaning of this Act.
+
+
+
+
+
+
+
+
+
+(2) Si le gouvernement du Québec choisit de se soustraire à l'application de la présente loi en vertu du paragraphe (1), le gouvernement du Canada lui paye, au cours de chaque année civile, une somme égale au montant de toutes dépenses supplémentaires qu'il aurait engagées au cours de l'année civile précédente si le Québec avait été une province participante au sens de la présente loi.
+
+
+
+Paiement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+10. The Governor in Council may make regulations for carrying out the purposes and provisions of this Act.
+
+
+
+
+
+
+
+
+
+
+10. Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l'application de la présente loi.
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT TO PARLIAMENT
+
+
+
+
+
+
+
+
+
+RAPPORT AU PARLEMENT
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+
+11. (1) The Registrar must, not later than April 1 in every year, prepare and submit to the Minister a report on the operation of the Registry during the previous year containing any recommendations the Registrar may wish to make concerning the Registry or organ donation in Canada.
+
+
+
+
+
+
+
+
+
+
+11. (1) Au plus tard le 1er avril de chaque année, le directeur prépare et présente un rapport au ministre sur le fonctionnement du Registre pour l’année précédente, assorti de ses recommandations, le cas échéant, concernant le Registre ou les dons d’organes au Canada.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Report laid before Parliament
+
+
+
+(2) The Minister must cause the report submitted under subsection (1) to be laid before each House of Parliament  on any of the first 15 days on which that House is sitting after the day on which the Minister receives the report.
+
+
+
+
+
+
+
+
+
+(2) Le ministre fait déposer le rapport présenté en application du paragraphe (1) devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt devant le Parlement
+
+
+
+
+
+
+
+
+
+
+Referred to committee
+
+
+
+(3) The report referred to in subsection (2), must be referred to the appropriate committee of each House, as determined by the rules of that House, for consideration and report to the House.
+
+
+
+
+
+
+
+
+
+(3) Le comité compétent, d’après le règlement de chacune des chambres du Parlement, est saisi du rapport visé au paragraphe (2), en fait l’étude et présente un rapport à la Chambre.
+
+
+
+Renvoi au comité
+
+
+
+
+
+
+
+
+
+
+Standing Committee on Health
+
+
+
+(4) The appropriate committee of each House referred to in subsection (3) is the Standing Committee on Health or, in the event that there is not a Standing Committee on Health, the appropriate committee of each House.
+
+
+
+
+
+
+
+
+
+(4) Le comité compétent visé au paragraphe (3) est le Comité permanent de la santé ou, à défaut, le comité compétent de la chambre visée.
+
+
+
+Comité permanent de la santé
+
+
+
+
+
+
+
+
+
+
+Report to Parliament
+
+
+
+(5) The committee must review the report and must cause its review and any recommendations to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the review is completed.
+
+
+
+
+
+
+
+
+
+(5) Le Comité examine le rapport et fait déposer son examen et ses recommandations devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la fin de l’examen.
+
+
+
+Rapport au Parlement
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

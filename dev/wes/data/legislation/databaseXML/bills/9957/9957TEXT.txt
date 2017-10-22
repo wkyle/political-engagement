@@ -1,0 +1,5782 @@
+
+
+
+
+
+S-20
+
+
+
+
+
+S-20
+
+
+
+
+
+
+Second Session, Thirty-sixth Parliament,
+
+
+
+
+
+Deuxième session, trente-sixième législature,
+
+
+
+
+
+
+48-49 Elizabeth II, 1999-2000
+
+
+
+
+
+48-49 Elizabeth II, 1999-2000
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-20
+
+
+
+
+
+PROJET DE LOI S-20
+
+
+
+
+
+
+An Act to enable and assist the Canadian tobacco industry in attaining its objective of preventing the use of tobacco products by young persons in Canada
+
+
+
+
+
+Loi visant à donner à l’industrie canadienne du tabac le moyen de réaliser son objectif de prévention de la consommation des produits du tabac chez les jeunes au Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+AS PASSED
+BY THE SENATEOCTOBER 5, 2000
+
+ADOPTÉ
+PAR LE SÉNATLE 5 OCTOBRE 2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+2496
+
+
+
+
+
+
+
+
+Summary
+This enactment incorporates the Canadian Tobacco Youth Protection Foundation, a non-profit corporation established on behalf of the Canadian tobacco industry, whose mandate is to prevent the use of tobacco products by young persons in Canada.  A levy would be imposed on tobacco manufacturers in order to provide the Foundation with the necessary funds to carry out its objects and activities.
+
+
+
+Sommaire
+Ce texte prévoit la constitution de la Fondation canadienne de lutte contre le tabagisme chez les jeunes, personne morale à but non lucratif créée pour le compte de l’industrie canadienne du tabac, dont le mandat est la prévention de la consommation des produits du tabac chez les jeunes au Canada. Un prélèvement serait imposé aux fabricants de produits du tabac afin de procurer à la Fondation les fonds nécessaires à la réalisation de sa mission et à l’exercice de ses activités.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 36th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 36e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48-49 Elizabeth II, 1999-2000
+
+
+
+
+
+
+
+
+
+48-49 Elizabeth II, 1999-2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-20
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to enable and assist the Canadian tobacco industry in attaining its objective of preventing the use of tobacco products by young persons in Canada
+
+
+
+
+
+
+
+
+
+Loi visant à donner à l’industrie canadienne du tabac le moyen de réaliser son objectif de prévention de la consommation des produits du tabac chez les jeunes au Canada
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+WHEREAS the Canadian tobacco industry (hereinafter called the “industry”) recognizes that tobacco is a controversial product because of the health risks associated with its use;
+
+
+
+
+
+
+
+
+AND WHEREAS the industry has expressed to Parliament that it believes that smoking is an adult activity and shares the policy objective of governments and people of goodwill everywhere to prevent youth smoking;
+
+
+
+
+
+
+
+
+AND WHEREAS young persons continue to use tobacco products sold by the industry despite the fact that the sale of tobacco products to them is illegal in Canada;
+
+
+
+
+
+
+
+
+AND WHEREAS the industry acknowledges that public concern about youth smoking is widespread and justified and that many Canadians blame the industry when young persons smoke;
+
+
+
+
+
+
+
+
+AND WHEREAS individuals who work in the industry do not wish to be responsible or to be perceived as responsible for the addiction of young persons to tobacco products;
+
+
+
+
+
+
+
+
+AND WHEREAS the industry agrees to  actively support the vigorous enforcement of federal and provincial laws forbidding the sale of tobacco products to minors;
+
+
+
+
+
+
+
+
+AND WHEREAS the industry is aware that the methods to combat youth smoking used to date have not been effective to eliminate youth smoking;
+
+
+
+
+
+
+
+
+AND WHEREAS the industry has on many occasions expressed to governments its willingness to cooperate with them in  their efforts to prevent youth smoking because it lacks the credibility to take such measures on its own;
+
+
+
+
+
+
+
+
+AND WHEREAS outside of Canada, tobacco companies have launched sizeable anti-youth-smoking campaigns that parallel public sector campaigns, but have encountered scepticism on the part of the public regarding the legitimacy of such initiatives and of the motives of those who sponsor them;
+
+
+
+
+
+
+
+
+AND WHEREAS the industry is operating in a business climate in which it is subject to increasing hostility from the public and from government;
+
+
+
+
+
+
+
+
+AND WHEREAS it is expedient to enact as hereinafter set forth:
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que l’industrie canadienne du tabac (« l’industrie ») reconnaît que le tabac est un produit controversé en raison des risques que son usage présente pour la santé;
+
+
+
+
+
+
+
+
+que l’industrie a déclaré au Parlement qu’elle estime que fumer est une activité adulte et qu’elle appuie l’objectif des gouvernements et des gens de bonne volonté en tous lieux d’empêcher les jeunes de fumer;
+
+
+
+
+
+
+
+
+que les jeunes persistent à consommer les produits du tabac vendus par l’industrie même si la vente de ces produits aux jeunes est illégale au Canada;
+
+
+
+
+
+
+
+
+que l’industrie reconnaît que la préoccupation du public envers les jeunes qui fument est généralisée et fondée et que bon nombre de Canadiens jettent le blâme sur l’industrie;
+
+
+
+
+
+
+
+
+que les travailleurs de l’industrie ne souhaitent pas être responsables ni être perçus comme étant responsables de la dépendance des jeunes aux produits du tabac;
+
+
+
+
+
+
+
+
+que l’industrie consent à soutenir activement la mise en application rigoureuse des lois fédérales et provinciales qui interdisent la vente de produits du tabac aux mineurs;
+
+
+
+
+
+
+
+
+qu’elle est consciente que les méthodes utilisées jusqu’à ce jour pour lutter contre le tabagisme chez les jeunes n’ont pas été efficaces pour éliminer ce problème;
+
+
+
+
+
+
+
+
+qu’elle a, à maintes reprises, exprimé aux gouvernements sa volonté de collaborer aux mesures entreprises par eux pour lutter contre le tabagisme chez les jeunes, étant donné qu’elle ne jouit pas de la crédibilité voulue pour prendre l’initiative de telles mesures;
+
+
+
+
+
+
+
+
+que, malgré les grandes campagnes de lutte contre le tabagisme chez les jeunes que les entreprise du tabac ont lancées à l’étranger — comparables aux campagnes du secteur public —, elles ont eu à affronter le scepticisme du public quant à la légitimité de telles initiatives et les motifs de leurs commanditaires;
+
+
+
+
+
+
+
+
+que l’industrie oeuvre dans un milieu commercial où elle est exposée à l’hostilité grandissante du public et des gouvernements;
+
+
+
+
+
+
+
+
+qu’il y a lieu d’édicter ce qui suit,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+Short Title
+
+
+
+
+
+
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Tobacco Youth Protection Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la protection des jeunes contre le tabac.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+Part I
+
+
+
+
+
+
+
+
+
+Partie I
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+
+
+
+
+
+
+Définitions
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“advisory panel”« comité consultatif »
+
+
+
+“advisory panel” means the advisory panel established under section 14.
+
+
+
+
+“Board”« conseil d'administration »
+
+
+
+“Board” means the Board of Directors of the Foundation established under section 12.
+
+
+
+
+“Council”« Conseil »
+
+
+
+“Council” means the Canadian Tobacco Manufacturers' Council and includes a successor generally recognized by Canadian tobacco manufacturers as their spokesperson.
+
+
+
+
+“Foundation”« Fondation »
+
+
+
+“Foundation” means the Canadian Tobacco Youth Protection Foundation established under section 5.
+
+
+
+
+“levy”« prélèvement »
+
+
+
+“levy” means the levy for industry purposes imposed by section 35.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Health.
+
+
+
+
+“sponsor of the Foundation”« commanditaire de la Fondation »
+
+
+
+“sponsor of the Foundation” means a person who pays a levy.
+
+
+
+
+“tobacco product”« produit du tabac »
+
+
+
+“tobacco product” means cigarette, tobacco stick, cigar or leaf tobacco intended for retail sale or any other product intended for human consumption the main ingredient of which is tobacco.
+
+
+
+
+“young person”« jeune »
+
+
+
+“young person” means a person under 18 years of age.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« comité consultatif » Le comité consultatif établi en vertu de l’article 14.
+
+
+
+« comité consultatif »“advisory panel”
+
+
+
+
+« commanditaire de la Fondation » Toute personne qui verse un prélèvement.
+
+
+
+« commanditaire de la Fondation »“sponsor of the Foundation”
+
+
+
+
+« Conseil » Le Conseil canadien des fabricants des produits du tabac. Y est assimilé son successeur que les fabricants des produits du tabac considèrent généralement comme leur porte-parole.
+
+
+
+« Conseil »“Council”
+
+
+
+
+« conseil d’administration » Le conseil d’administration de la Fondation visé à l’article 12.
+
+
+
+« conseil d’administration »“Board”
+
+
+
+
+« Fondation » La Fondation canadienne de lutte contre le tabagisme chez les jeunes constituée en vertu de l’article 5.
+
+
+
+« Fondation »“Foundation”
+
+
+
+
+« jeune » Personne âgée de moins de 18 ans.
+
+
+
+« jeune »“young person”
+
+
+
+
+« ministre » Le ministre de la Santé.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« prélèvement » Le prélèvement prévu à l’article 35 pour les objectifs de l’industrie.
+
+
+
+« prélèvement »“levy”
+
+
+
+
+« produit du tabac » Cigarette, bâtonnet de tabac, cigare ou tabac en feuilles destiné à la vente au détail ou tout autre produit destiné à la consommation humaine dont l’ingrédient principal est le tabac.
+
+
+
+« produit du tabac »“tobacco product”
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+
+
+
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose of Act
+
+
+
+3. (1) The purpose of this Act is to
+
+
+
+
+
+
+
+
+(a) enable and assist the Canadian tobacco industry in attaining the objective it articulated to Parliament of preventing the use of tobacco products by young persons in Canada;
+
+
+
+
+
+
+
+
+(b) provide a framework for a national private sector effort to address the problem of the use of tobacco products by young persons in Canada that complements public sector efforts; and
+
+
+
+
+
+
+
+
+(c) complement the general legislative response to the national public health problem of substantial and pressing concern addressed in the Tobacco Act.
+
+
+
+
+
+
+
+
+
+3. (1) La présente loi a pour objet :
+
+
+
+Objet de la loi
+
+
+
+
+a) de donner à l’industrie canadienne du tabac le moyen de réaliser l’objectif qu’elle a déclaré au Parlement, à savoir la prévention de la consommation des produits du tabac chez les jeunes au Canada;
+
+
+
+
+
+
+
+
+b) d’établir un cadre favorisant la coordination des mesures adoptées par le secteur privé à l’échelle nationale pour combattre le problème de la consommation des produits du tabac par les jeunes, lesquelles complètent les mesures entreprises par le secteur public;
+
+
+
+
+
+
+
+
+c) de compléter les mesures législatives générales que prévoit la Loi sur le tabac pour remédier au problème de santé publique sérieux et urgent qui existe à l’échelle nationale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Corollary purpose
+
+
+
+(2) This Act is intended to achieve the industry purposes set out in paragraphs (1)(a) and (b) while attaining at the same time the purpose referred to in paragraph (1)(c).
+
+
+
+
+
+
+
+
+
+(2) La présente loi vise à permettre l’atteinte des objectifs de l’industrie visés aux alinéas (1)a) et b) et, partant, la réalisation de l’objet mentionné à l’alinéa (1)c).
+
+
+
+Objet accessoire
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+4. This Act shall be construed and applied in a manner that achieves the purposes of this Part and attains the benefits to the industry recognized in Part III.
+
+
+
+
+
+
+
+
+
+4. L’interprétation et l’application de la présente loi doivent se faire de manière à permettre la réalisation des objets de la présente partie et des avantages pour l’industrie  énoncés à la partie III.
+
+
+
+Interprétation
+
+
+
+
+
+
+
+
+
+
+Part II
+
+
+
+
+
+
+
+
+
+Partie II
+
+
+
+
+
+
+
+
+
+
+
+
+Foundation Established
+
+
+
+
+
+
+
+
+
+Constitution de la Fondation
+
+
+
+
+
+
+
+
+
+
+
+
+Foundation established
+
+
+
+5. There is hereby established a corporation without share capital to be known as the Canadian Tobacco Youth Protection Foundation.
+
+
+
+
+
+
+
+
+
+5. Est constituée sans capital-actions la Fondation canadienne de lutte contre le tabagisme chez les jeunes, dotée de la personnalité morale.
+
+
+
+Constitution de la Fondation
+
+
+
+
+
+
+
+
+
+
+Objects
+
+
+
+
+
+
+
+
+
+Mission
+
+
+
+
+
+
+
+
+
+
+
+
+Objects
+
+
+
+6. The objects of the Foundation are
+
+
+
+
+
+
+
+
+(a) to protect the health of young persons throughout Canada from the numerous debilitating and fatal diseases and other consequences injurious to health that are associated with tobacco use;
+
+
+
+
+
+
+
+
+(b) to protect young persons throughout Canada from inducements to use tobacco products and to counteract such inducements;
+
+
+
+
+
+
+
+
+(c) to discourage and prevent tobacco use by young persons throughout Canada, including children, and to fight their addiction to tobacco and dependence on its use;
+
+
+
+
+
+
+
+
+(d) to develop a multi-year strategy to combat the use of tobacco products by young persons and to involve young persons as much as possible in the design and execution of any programs that are part of the strategy;
+
+
+
+
+
+
+
+
+(e) to examine existing models of best practices for tobacco control in North America and, in consultation with recognized health organizations, to develop a model to be applied in Canada and to review it from time to time by comparing it with other models developed in other countries;
+
+
+
+
+
+
+
+
+(f) to monitor the use of tobacco products throughout Canada by gathering, commissioning, sharing and publicizing statistics and, in particular, statistics on the market share of brands and on their use by different groups of young persons;
+
+
+
+
+
+
+
+
+(g) to gather, sponsor, commission, conduct and share research on the use of tobacco products throughout Canada and on ways to motivate young persons not to start using tobacco products and to cease using them;
+
+
+
+
+
+
+
+
+(h) to develop and distribute educational tools, plan and execute communications strategies, run advertising campaigns, use the media and disseminate information through other means to discourage and prevent the use of tobacco products by young persons;
+
+
+
+
+
+
+
+
+(i) to hold and sponsor programs, conferences and peer and other group activities to discourage and prevent the use of tobacco products by young persons;
+
+
+
+
+
+
+
+
+(j) to engage in and fund, at the local, regional and national levels throughout Canada, activities of health groups and other organizations and persons that are intended to discourage and prevent the use of tobacco products by young persons;
+
+
+
+
+
+
+
+
+(k) to organize, promote, coordinate, participate in and support, throughout Canada and elsewhere, financially and otherwise, all forms of activity that assists in the protection of young persons from the use of tobacco products;
+
+
+
+
+
+
+
+
+(l) to recommend initiatives by government, the tobacco industry and others that could help to prevent use of tobacco products by young persons;
+
+
+
+
+
+
+
+
+(m) to receive, hold and spend the funds raised by the levy imposed by this Act in order to attain its objects;
+
+
+
+
+
+
+
+
+(n) to receive, hold and spend gifts, legacies and grants in order to attain its objects; and
+
+
+
+
+
+
+
+
+(o) generally, to do all such things as are conducive to the attainment of its objects.
+
+
+
+
+
+
+
+
+
+6. La Fondation a pour mission :
+
+
+
+Mission
+
+
+
+
+a) de protéger la santé des jeunes au Canada contre les nombreuses maladies débilitantes ou mortelles liées à l’usage du tabac et autres conséquences néfastes pour la santé que celui-ci entraîne;
+
+
+
+
+
+
+
+
+b) de préserver les jeunes au Canada des incitations à la consommation des produits du tabac et de contrer les effets de ces incitations;
+
+
+
+
+
+
+
+
+c) de décourager et de prévenir la consommation des produits du tabac chez les jeunes, notamment les enfants, dans tout le Canada, et de lutter contre le tabagisme et la dépendance des jeunes à l’usage du tabac;
+
+
+
+
+
+
+
+
+d) d’établir une stratégie pluriannuelle afin de combattre la consommation des produits du tabac chez les jeunes et d’assurer la participation maximale de ceux-ci dans la conception et la mise en oeuvre des programmes qui en font partie;
+
+
+
+
+
+
+
+
+e) d’examiner les modèles existants qui offrent les meilleures pratiques de lutte contre le tabagisme en Amérique du Nord, de mettre au point, en consultation avec des organismes de santé reconnus, le modèle à appliquer au Canada et d’en faire l’examen de façon périodique en le comparant à différents modèles élaborés dans d’autres pays;
+
+
+
+
+
+
+
+
+f) de surveiller la consommation des produits du tabac au Canada en recueillant, en faisant compiler, en partageant et en publiant des statistiques sur cette consommation, notamment des statistiques sur la part de marché des diverses marques de tabac et sur l’utilisation de celles-ci par différents groupes de jeunes;
+
+
+
+
+
+
+
+
+g) de recueillir, de commanditer, de commander, de mener et de partager des recherches sur la consommation des produits du tabac au Canada et sur les moyens de motiver les jeunes soit à éviter de commencer à utiliser ces produits, soit à cesser de les utiliser;
+
+
+
+
+
+
+
+
+h) de mettre au point et de distribuer des outils pédagogiques, de planifier et de mettre en oeuvre des stratégies de communication, de mener des campagnes publicitaires, d’utiliser les médias et de diffuser de l’information par d’autres moyens afin de décourager et de prévenir la consommation des produits du tabac chez les jeunes;
+
+
+
+
+
+
+
+
+i) d’organiser et de parrainer des programmes, des conférences et des activités de groupes, notamment entre jeunes, afin de décourager et de prévenir la consommation des produits du tabac chez les jeunes;
+
+
+
+
+
+
+
+
+j) de participer, à l’échelle locale, régionale et nationale dans tout le pays, aux activités de groupes, d’organismes et de personnes du secteur de la santé qui visent à décourager et à prévenir la consommation des produits du tabac chez les jeunes, et d’octroyer des fonds pour la tenue de ces activités;
+
+
+
+
+
+
+
+
+k) d’organiser, de promouvoir et de coordonner, partout au Canada et ailleurs, par financement ou autrement, toutes sortes d’activités utiles pour la protection des jeunes contre la consommation des produits du tabac, et de participer à ces activités;
+
+
+
+
+
+
+
+
+l) de recommander des actions de la part du gouvernement, de l’industrie du tabac et d’autres intervenants qui pourraient aider à prévenir la consommation des produits du tabac chez les jeunes;
+
+
+
+
+
+
+
+
+m) de recevoir, de conserver et d’utiliser les fonds provenant des prélèvements prévus par la présente loi afin de réaliser sa mission;
+
+
+
+
+
+
+
+
+n) de recevoir, de conserver et d’utiliser les dons, legs et subventions qui lui sont versés afin de réaliser sa mission;
+
+
+
+
+
+
+
+
+o) de prendre toute autre mesure susceptible de l’aider à réaliser sa mission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powers
+
+
+
+
+
+
+
+
+
+Pouvoirs
+
+
+
+
+
+
+
+
+
+
+
+
+Capacity
+
+
+
+7. (1) The Foundation has the capacity of a natural person and, subject to this Act, all the rights, powers and privileges of a natural person.
+
+
+
+
+
+
+
+
+
+7. (1) La Fondation a, sous réserve des autres dispositions de la présente loi, la capacité d’une personne physique.
+
+
+
+Capacité
+
+
+
+
+
+
+
+
+
+
+Borrowing powers
+
+
+
+(2) The Foundation may, in furtherance of its objects,
+
+
+
+
+
+
+
+
+(a) borrow money on the credit of the Foundation;
+
+
+
+
+
+
+
+
+(b) issue, reissue, sell or pledge debt obligations of the Foundation; and
+
+
+
+
+
+
+
+
+(c) subject to the terms, if any, under which the property was acquired, create any security interest in all or any property of the Foundation, owned or subsequently acquired, to secure any obligation of the Foundation.
+
+
+
+
+
+
+
+
+
+(2) La Fondation peut, afin de réaliser sa mission :
+
+
+
+Pouvoir d’emprunt
+
+
+
+
+a) faire des emprunts sur son crédit;
+
+
+
+
+
+
+
+
+b) émettre, réémettre, vendre ou donner en gage ses titres de créance;
+
+
+
+
+
+
+
+
+c) sous réserve des conditions de leur acquisition, donner en gage ses biens actuels ou futurs, en totalité ou en partie, pour garantir ses obligations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Investments
+
+
+
+8. The Foundation may, in furtherance of its objects, invest the funds of the Foundation in any manner it deems suitable.
+
+
+
+
+
+
+
+
+
+8. La Fondation peut, afin de réaliser sa mission, investir ses fonds de la manière qu’elle juge appropriée.
+
+
+
+Investissements
+
+
+
+
+
+
+
+
+
+
+Works or undertakings necessary for objects
+
+
+
+9. The Foundation may acquire, establish and manage any non-profit work or undertaking necessary to its objects.
+
+
+
+
+
+
+
+
+
+9. La Fondation peut acquérir, constituer et gérer tout ouvrage ou entreprise à but non lucratif nécessaire à la réalisation de sa mission.
+
+
+
+Ouvrages et entreprises nécessaires à sa mission
+
+
+
+
+
+
+
+
+
+
+Capacity of Foundation
+
+
+
+10. (1) The Foundation may carry on its activities throughout Canada.
+
+
+
+
+
+
+
+
+
+10. (1) La Fondation peut exercer ses activités dans l’ensemble du Canada.
+
+
+
+Compétence
+
+
+
+
+
+
+
+
+
+
+Extraterritorial capacity
+
+
+
+(2) The Foundation has the capacity to carry on its activities and affairs and to exercise its powers in any jurisdiction outside Canada to the extent that the laws of the jurisdiction permit.
+
+
+
+
+
+
+
+
+
+(2) La Fondation peut exercer ses activités et ses pouvoirs à l’étranger, dans les limites du droit applicable du territoire en cause.
+
+
+
+Compétence extraterritoriale
+
+
+
+
+
+
+
+
+
+
+Head Office
+
+
+
+
+
+
+
+
+
+Siège social
+
+
+
+
+
+
+
+
+
+
+
+
+Head office
+
+
+
+11. (1) The head office of the Foundation shall be at such place in Canada as the Board may determine.
+
+
+
+
+
+
+
+
+
+11. (1) Le siège social de la Fondation est situé au Canada au lieu que fixe le conseil d’administration.
+
+
+
+Siège social
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(2) Notice of the location of the head office of the Foundation and of every change in location shall be published in the Canada Gazette.
+
+
+
+
+
+
+
+
+
+(2) Avis est donné dans la Gazette du Canada du lieu du siège social de la Fondation de même que de tout changement de celui-ci.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Organization
+
+
+
+
+
+
+
+
+
+Organisation
+
+
+
+
+
+
+
+
+
+
+
+
+Board
+
+
+
+12. (1) There shall be a Board of Directors of the Foundation consisting of not less than 9 and not more than 20 members.
+
+
+
+
+
+
+
+
+
+12. (1) La Fondation est dotée d’un conseil d’administration composé d’au moins neuf membres et d’au plus vingt membres.
+
+
+
+Conseil d’administration
+
+
+
+
+
+
+
+
+
+
+Functions
+
+
+
+(2) The Board is responsible for the business and affairs of the Foundation and may, in carrying out its responsibilities, exercise all the powers of the Foundation.
+
+
+
+
+
+
+
+
+
+(2) Le conseil d’administration assure la direction et l’administration des activités de la Fondation et dispose à cette fin de tous les pouvoirs conférés à la Fondation.
+
+
+
+Rôle du conseil d’administration
+
+
+
+
+
+
+
+
+
+
+Initial appointments
+
+
+
+13. (1) Each initial director, other than the President, shall be appointed by the Minister to hold office for any term of not more than three years that will ensure, as far as possible, the expiry in any one year of the terms of office of not more than one-third of the members.
+
+
+
+
+
+
+
+
+
+13. (1) Le ministre nomme les membres initiaux du conseil d’administration — à l’exception du directeur général — pour des mandats de trois ans au maximum, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus le tiers des membres.
+
+
+
+Membres initiaux
+
+
+
+
+
+
+
+
+
+
+Subsequent appointments
+
+
+
+(2) Subject to subsection (1) and to section 16, directors shall be appointed by the Minister to hold office for a three-year term.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve du paragraphe (1) et de l’article 16, les membres du conseil d’administration sont nommés par le ministre pour un mandat de trois ans.
+
+
+
+Membres subséquents
+
+
+
+
+
+
+
+
+
+
+Reappointment
+
+
+
+(3) Directors may be appointed under this section for no more than two consecutive terms.
+
+
+
+
+
+
+
+
+
+(3) Les membres peuvent être nommés au titre du présent article pour au plus deux mandats consécutifs.
+
+
+
+Renouvellement du mandat
+
+
+
+
+
+
+
+
+
+
+Removal
+
+
+
+(4) Directors appointed under this section hold office during good behaviour, and may only be removed by resolution of the Board.
+
+
+
+
+
+
+
+
+
+(4) Les membres nommés au titre du présent article occupent leur poste à titre inamovible et seul le conseil d’administration peut, par résolution, révoquer leur nomination.
+
+
+
+Révocation
+
+
+
+
+
+
+
+
+
+
+Chair
+
+
+
+(5) The Board shall elect a Chair from among the directors.
+
+
+
+
+
+
+
+
+
+(5) Le conseil d’administration élit un président parmi ses membres.
+
+
+
+Président
+
+
+
+
+
+
+
+
+
+
+Advisory panel
+
+
+
+14. (1) The Minister shall establish an advisory panel to advise the Minister with respect to the appointment of members of the Board.
+
+
+
+
+
+
+
+
+
+14. (1) Le ministre constitue un comité consultatif chargé de le conseiller sur la nomination des membres du conseil d’administration.
+
+
+
+Comité consultatif
+
+
+
+
+
+
+
+
+
+
+Membership
+
+
+
+(2) The advisory panel may include a young person, representatives of the provincial ministers of the Crown responsible for health, representatives of health groups and such other persons as the Minister considers appropriate.
+
+
+
+
+
+
+
+
+
+(2) Le comité consultatif peut compter parmi ses membres un jeune, des représentants des ministres provinciaux responsables de la santé, des représentants du secteur de la santé et les autres personnes que le ministre juge indiquées.
+
+
+
+Composition
+
+
+
+
+
+
+
+
+
+
+Appointment of members of panel
+
+
+
+15. (1) After having considered the advice of the advisory panel established under section 14, the Minister shall appoint as members of the Board persons who reflect a wide range of groups, communities, diverse perspectives and skills, and who are able to contribute to the achievement of the objectives of the Foundation.
+
+
+
+
+
+
+
+
+
+15. (1) Après avoir pris en considération l’avis du comité consultatif visé à l’article 14, le ministre nomme à titre de membres du conseil d’administration des personnes provenant de divers groupes et localités du Canada — présentant des aptitudes et points de vue variés — qui seront en mesure de contribuer à la réalisation de la mission de la Fondation.
+
+
+
+Nominations
+
+
+
+
+
+
+
+
+
+
+Required directors
+
+
+
+(2) The Board shall ordinarily have as members
+
+
+
+
+
+
+
+
+(a) at least one health care professional with demonstrated expertise in youth behaviour;
+
+
+
+
+
+
+
+
+(b) at least one person between the ages of 18 and 25; and
+
+
+
+
+
+
+
+
+(c) at least one representative of health care groups.
+
+
+
+
+
+
+
+
+
+(2) Le conseil d’administration compte ordinairement parmi ses membres :
+
+
+
+Membres requis
+
+
+
+
+a) au moins un professionnel de la santé qui possède une expertise reconnue en comportement des jeunes;
+
+
+
+
+
+
+
+
+b) au moins une personne dont l’âge varie entre 18 et 25 ans;
+
+
+
+
+
+
+
+
+c) au moins un représentant du secteur de la santé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+President
+
+
+
+16. (1) The Board shall elect the President of the Foundation.
+
+
+
+
+
+
+
+
+
+16. (1) Le conseil d’administration élit le directeur général de la Fondation.
+
+
+
+Directeur général
+
+
+
+
+
+
+
+
+
+
+Chief executive officer
+
+
+
+(2) The President is the chief executive officer of the Foundation and, subject to the direction and control of the Board, is responsible for the day-to-day direction and management of the Foundation.
+
+
+
+
+
+
+
+
+
+(2) Le directeur général est le premier dirigeant de la Fondation et assure, sous l’autorité du conseil d’administration, la direction quotidienne des activités et la gestion de la Fondation.
+
+
+
+Premier dirigeant
+
+
+
+
+
+
+
+
+
+
+Term
+
+
+
+(3) The President shall hold office during good behaviour for a term of not more than five years, and is eligible for re-election.
+
+
+
+
+
+
+
+
+
+(3) Le directeur général occupe son poste à titre inamovible pour un mandat maximal de cinq ans et peut être élu de nouveau.
+
+
+
+Mandat
+
+
+
+
+
+
+
+
+
+
+Member
+
+
+
+(4) The President is a member of the Board.
+
+
+
+
+
+
+
+
+
+(4) Le directeur général est membre du conseil d’administration.
+
+
+
+Membres
+
+
+
+
+
+
+
+
+
+
+Duty of care
+
+
+
+17. Every director and officer of the Foundation, in carrying out any duties and functions under this Act, shall
+
+
+
+
+
+
+
+
+(a) act honestly and in good faith with a view to the best interests of the Foundation; and
+
+
+
+
+
+
+
+
+(b) exercise the care, diligence and skill that a reasonably prudent person would exercise in comparable circumstances.
+
+
+
+
+
+
+
+
+
+17. Les membres du conseil d’administration et les dirigeants de la Fondation sont tenus, dans l’exercice de leurs fonctions dans le cadre de la présente loi, d’agir :
+
+
+
+Diligence
+
+
+
+
+a) avec intégrité et de bonne foi au mieux des intérêts de la Fondation;
+
+
+
+
+
+
+
+
+b) avec le soin, la diligence et la compétence dont ferait preuve, en pareilles circonstances, une personne prudente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Youth advisory committee
+
+
+
+18. (1) The Board shall establish a youth advisory committee consisting of not less than 13 and not more than 26 persons to advise the Board on strategies and programs for the achievement of the objectives of the Foundation.
+
+
+
+
+
+
+
+
+
+18. (1) Le conseil d’administration constitue un conseil consultatif des jeunes — comptant au moins treize et au plus vingt-six jeunes — chargé de le conseiller sur les stratégies et les programmes à élaborer pour la réalisation de la mission de la Fondation.
+
+
+
+Conseil consultatif des jeunes
+
+
+
+
+
+
+
+
+
+
+Young persons
+
+
+
+(2) Members of the youth advisory committee must be young persons at the time of their appointment.
+
+
+
+
+
+
+
+
+
+(2) Les membres du conseil consultatif des jeunes doivent être des jeunes au moment de leur nomination.
+
+
+
+Jeunes
+
+
+
+
+
+
+
+
+
+
+Initial members
+
+
+
+(3) Each initial member of the youth advisory committee shall be appointed to hold office during good behaviour for a term of not more than three years that will ensure, as far as possible, the expiry in any one year of the terms of office of not more than one third of the members.
+
+
+
+
+
+
+
+
+
+(3) Les membres initiaux du conseil consultatif des jeunes sont nommés à titre inamovible pour des mandats de trois ans au maximum, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus le tiers des membres.
+
+
+
+Membres initiaux
+
+
+
+
+
+
+
+
+
+
+Subsequent members
+
+
+
+(4) Subject to subsection (3), members of the youth advisory committee shall be appointed by the Board to hold office for a three-year term.
+
+
+
+
+
+
+
+
+
+(4) Sous réserve du paragraphe (3), les membres du conseil consultatif des jeunes sont nommés par le conseil d’administration pour un mandat de trois ans.
+
+
+
+Membres subséquents
+
+
+
+
+
+
+
+
+
+
+Reappointment
+
+
+
+(5) Members may be appointed under this section for no more than two consecutive terms.
+
+
+
+
+
+
+
+
+
+(5) Les membres peuvent être nommés au titre du présent article pour au plus deux mandats consécutifs.
+
+
+
+Renouvellement du mandat
+
+
+
+
+
+
+
+
+
+
+Tenure
+
+
+
+(6) Members appointed under this section hold office during pleasure.
+
+
+
+
+
+
+
+
+
+(6) Les membres nommés au titre du présent article occupent leur poste à titre amovible.
+
+
+
+Nature du mandat
+
+
+
+
+
+
+
+
+
+
+Remuneration and Expenses
+
+
+
+
+
+
+
+
+
+Rémunération et frais
+
+
+
+
+
+
+
+
+
+
+
+
+Remuneration — advisory panel
+
+
+
+19. (1) Members of the advisory panel shall serve without remuneration but the Foundation may pay the reasonable travel and living expenses that they incur while absent from their ordinary place of residence in the course of performing duties and functions under this Act.
+
+
+
+
+
+
+
+
+
+19. (1) Les membres du comité consultatif n’ont droit à aucune rémunération, mais la Fondation peut leur rembourser les frais raisonnables de déplacement et de séjour entraînés par l’exercice, hors du lieu de leur résidence habituelle, des fonctions qui leur sont confiées en application de la présente loi.
+
+
+
+Rémunération — comité consultatif
+
+
+
+
+
+
+
+
+
+
+Remuneration — President
+
+
+
+(2) The Foundation shall pay to the President
+
+
+
+
+
+
+
+
+(a) the salary and benefits fixed by the Board; and
+
+
+
+
+
+
+
+
+(b) the reasonable travel and living expenses incurred by the President in the course of performing the President's duties while absent from the President's ordinary place of work.
+
+
+
+
+
+
+
+
+
+(2) La Fondation verse au directeur général :
+
+
+
+Rémunération  — directeur général
+
+
+
+
+a) le traitement et les avantages fixés par le conseil d’administration;
+
+
+
+
+
+
+
+
+b) un remboursement des frais raisonnables de déplacement et de séjour entraînés par l’exercice de ses fonctions hors de son lieu de travail habituel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remuneration — Board
+
+
+
+(3) The Foundation shall pay to each member of the Board other than the President
+
+
+
+
+
+
+
+
+(a) the fees fixed by the Board for attendance at meetings of the Board or any of its committees or for the performance of other duties; and
+
+
+
+
+
+
+
+
+(b) the reasonable travel and living expenses incurred by the member in the course of performing their duties while absent from their ordinary place of residence.
+
+
+
+
+
+
+
+
+
+(3) La Fondation verse aux membres du conseil d’administration, à l’exception du directeur général :
+
+
+
+Rémunération — conseil d’administration
+
+
+
+
+a) les honoraires fixés par le conseil d’administration pour leur participation aux réunions de celui-ci ou de ses comités ou l’exécution d’autres fonctions;
+
+
+
+
+
+
+
+
+b) un remboursement des frais raisonnables de déplacement et de séjour entraînés par l’exercice de leurs fonctions hors du lieu de leur résidence habituelle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remuneration — youth advisory committee
+
+
+
+(4) Members of the youth advisory committee shall serve without remuneration but the Foundation may pay the reasonable travel and living expenses that they incur while absent from their ordinary place of residence in the course of performing duties and functions under this Act.
+
+
+
+
+
+
+
+
+
+(4) Les membres du conseil consultatif des jeunes n’ont droit à aucune rémunération, mais la Fondation peut leur rembourser les frais raisonnables de déplacement et de séjour entraînés par l’exercice, hors du lieu de leur résidence habituelle, des fonctions qui leur sont confiées en application de la présente loi.
+
+
+
+Rémunération — conseil consultatif des jeunes
+
+
+
+
+
+
+
+
+
+
+By-laws
+
+
+
+
+
+
+
+
+
+Règlements administratifs
+
+
+
+
+
+
+
+
+
+
+
+
+By-laws
+
+
+
+20. The Board may make by-laws for the regulation of its proceedings and generally for the conduct of the business and affairs of the Foundation.
+
+
+
+
+
+
+
+
+
+20. Le conseil d’administration peut, par règlement administratif, régir la conduite de ses travaux et, d’une manière générale, l’exercice des activités de la Fondation.
+
+
+
+Règlements administratifs
+
+
+
+
+
+
+
+
+
+
+Meetings
+
+
+
+
+
+
+
+
+
+Réunions
+
+
+
+
+
+
+
+
+
+
+
+
+Meetings — Board
+
+
+
+21. The Board shall meet at least once every two months, at the time and place of its choice.
+
+
+
+
+
+
+
+
+
+21. Le conseil d’administration tient, aux date, heure et lieu de son choix, au moins une réunion tous les deux mois.
+
+
+
+Réunions du conseil d’administration
+
+
+
+
+
+
+
+
+
+
+Meetings — youth advisory committee
+
+
+
+22. The youth advisory committee shall meet at least quarterly in each year, at the time and place directed by the President.
+
+
+
+
+
+
+
+
+
+22. Le conseil consultatif des jeunes tient, aux date, heure et lieu indiqués par le directeur général, au moins une réunion par trimestre.
+
+
+
+Réunions du conseil consultatif des jeunes
+
+
+
+
+
+
+
+
+
+
+Committees
+
+
+
+
+
+
+
+
+
+Comités
+
+
+
+
+
+
+
+
+
+
+
+
+Establishing committees
+
+
+
+23. (1) The Board may establish by by-law an executive committee and other committees of the Board.
+
+
+
+
+
+
+
+
+
+23. (1) Le conseil d’administration peut, par règlement administratif, établir des comités, notamment un comité exécutif.
+
+
+
+Établissement de comités
+
+
+
+
+
+
+
+
+
+
+Membership
+
+
+
+(2) A by-law establishing a committee, other than the executive committee, may provide for the committee's membership to include persons who are not members of the Board.
+
+
+
+
+
+
+
+
+
+(2) Le règlement administratif qui établit un comité — à l’exception du comité exécutif — peut prévoir la nomination, à titre de membres du comité, de personnes qui ne font pas partie du conseil d’administration.
+
+
+
+Composition des comités
+
+
+
+
+
+
+
+
+
+
+Remuneration
+
+
+
+(3) The members of a committee who are not members of the Board may be paid for their services the fees fixed by the Board.
+
+
+
+
+
+
+
+
+
+(3) Les membres d’un comité qui ne font pas partie du conseil d’administration reçoivent, pour leurs services, les honoraires fixés par le conseil d’administration.
+
+
+
+Rémunération
+
+
+
+
+
+
+
+
+
+
+Transparency
+
+
+
+
+
+
+
+
+
+Transparence
+
+
+
+
+
+
+
+
+
+
+
+
+Transparency
+
+
+
+24. (1) The business and affairs of the Foundation shall be generally conducted in a transparent manner that is open to public scrutiny.
+
+
+
+
+
+
+
+
+
+24. (1) L’exercice des activités de la Fondation se fait en général d’une manière transparente et accessible à l’examen du public.
+
+
+
+Transparence
+
+
+
+
+
+
+
+
+
+
+Board meetings public
+
+
+
+(2) Subject to exceptions provided by by-law, meetings of the Board shall be open to the public.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve des exceptions prévues par règlement administratif, les réunions du conseil d’administration sont ouvertes au public.
+
+
+
+Réunions publiques
+
+
+
+
+
+
+
+
+
+
+Public access
+
+
+
+(3) Subject to exceptions provided by by-law, the Foundation shall make all information concerning its business and affairs available to the public.
+
+
+
+
+
+
+
+
+
+(3) Sous réserve des exceptions prévues par règlement administratif, la Fondation met tous les renseignements concernant ses activités à la disposition du public.
+
+
+
+Accès public
+
+
+
+
+
+
+
+
+
+
+Contract information
+
+
+
+(4) The Foundation, on the day that it awards a contract for program services under subsection 32(2), shall publicly disclose comprehensive and detailed information concerning the contract.
+
+
+
+
+
+
+
+
+
+(4) Le jour de l’adjudication d’un contrat pour les services relatifs aux programmes conformément au paragraphe 32(2), la Fondation rend publics des renseignements détaillés et complets au sujet du contrat.
+
+
+
+Renseignements sur les contrats
+
+
+
+
+
+
+
+
+
+
+Routine financial information
+
+
+
+(5) The Foundation shall prepare and make public quarterly financial statements, which disclose comprehensive and detailed information concerning all contracts awarded under section 32 in the quarter.
+
+
+
+
+
+
+
+
+
+(5) La Fondation établit des états financiers trimestriels qu’elle rend publics, lesquels contiennent des renseignements détaillés et complets sur les contrats adjugés pendant le trimestre conformément à l’article 32.
+
+
+
+États financiers
+
+
+
+
+
+
+
+
+
+
+Conflict of Interest
+
+
+
+
+
+
+
+
+
+Conflits d’intérêts
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of interest
+
+
+
+25. (1) Every member of the Board shall declare to it, in writing, every interest that could give rise to a conflict of interest with the member's duty to the Foundation.
+
+
+
+
+
+
+
+
+
+25. (1) Chaque membre du conseil d’administration est tenu de déclarer par écrit à celui-ci tout intérêt qui pourrait donner lieu à un conflit d’intérêts par rapport à la charge qu’il occupe auprès de la Fondation.
+
+
+
+Déclaration d’intérêt
+
+
+
+
+
+
+
+
+
+
+Interests to be declared
+
+
+
+(2) Every position, office, contract or other interest held, directly or indirectly, by the member, or by a person or persons with whom the member does not deal at arm's length and of which the member has knowledge, must be declared under subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Tout poste, charge, contrat ou autre intérêt que le membre détient directement ou indirectement, soit personnellement, soit par l’intermédiaire d’une personne liée, et dont il a connaissance doit être déclaré conformément au paragraphe (1).
+
+
+
+Intérêts à déclarer
+
+
+
+
+
+
+
+
+
+
+Timing of declaration
+
+
+
+(3) A declaration under subsection (1) shall be made at the time that the member joins the Board and whenever after an interest that must be declared either is acquired or comes to the attention of the member.
+
+
+
+
+
+
+
+
+
+(3) La déclaration prévue au paragraphe (1) est faite au moment où la personne devient membre du conseil d’administration et chaque fois qu’un intérêt dont la déclaration est obligatoire est acquis ou porté à l’attention du membre.
+
+
+
+Moment de la déclaration
+
+
+
+
+
+
+
+
+
+
+Declaration of conflict of interest
+
+
+
+(4) A member for whom a contract, grant, activity, plan or other matter to be discussed by the Board  would give rise to a conflict of interest shall, prior to the discussion, disclose the nature and extent of the personal interest that would be in conflict and follow the directions of the Board given under subsection (5).
+
+
+
+
+
+
+
+
+
+(4) Le membre à l’égard duquel un contrat, une subvention, un projet ou toute autre question à débattre au conseil d’administration créerait un conflit d’intérêts est tenu, avant les délibérations sur le sujet, de déclarer la nature et l’étendue de son intérêt personnel et de se conformer aux consignes données par le conseil d’administration en application du paragraphe (5).
+
+
+
+Déclaration de conflit d’intérêts
+
+
+
+
+
+
+
+
+
+
+Council to give direction
+
+
+
+(5) The Board shall give direction to a member who has declared a conflict of interest and shall decide whether the member may participate in the consideration of a matter, should refrain from discussion concerning it, should refrain from voting with respect to it or should withdraw from the meeting.
+
+
+
+
+
+
+
+
+
+(5) Le conseil d’administration donne des consignes au membre qui a déclaré l’existence d’un conflit d’intérêts et détermine si celui-ci peut prendre part aux délibérations sur la question à l’étude ou s’il doit soit s’abstenir d’y participer ou de voter sur la question, soit quitter la réunion.
+
+
+
+Consignes
+
+
+
+
+
+
+
+
+
+
+Member to be given option
+
+
+
+(6) Where the Board determines that a conflict of interest exists between a member's duty to the Foundation and a personal interest of the member, the Board may, in its discretion, put the member to the option of eliminating the conflict of interest or resigning from the Board by a specified time.
+
+
+
+
+
+
+
+
+
+(6) Si le conseil d’administration juge que les intérêts personnels du membre créent un conflit d’intérêts par rapport à la charge qu’il occupe auprès de la Fondation, il peut exiger que celui-ci choisisse de mettre fin au conflit d’intérêts ou de démissionner dans un délai déterminé.
+
+
+
+Choix donné au membre
+
+
+
+
+
+
+
+
+
+
+Conflict of interest guidelines
+
+
+
+(7) The Board may establish conflict of interest guidelines and additional procedures to resolve conflict of interest, including techniques for the identification of potential conflict of interest situations.
+
+
+
+
+
+
+
+
+
+(7) Le conseil d’administration peut établir des lignes directrices sur les conflits d’intérêts ainsi que des mécanismes supplémentaires pour leur résolution, notamment des méthodes de dépistage des sources potentielles de conflits d’intérêts.
+
+
+
+Lignes directrices sur les conflits d’intérêt
+
+
+
+
+
+
+
+
+
+
+No association with sponsors
+
+
+
+26. (1) No member of the Board may be a director, officer, member or employee of a sponsor of the Foundation.
+
+
+
+
+
+
+
+
+
+26. (1) Les membres du conseil d’administration ne peuvent être administrateurs, dirigeants, membres ou employés d’un commanditaire de la Fondation.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+No personal financial benefit
+
+
+
+(2) No member of the Board may, directly or indirectly, knowingly and wilfully, receive a personal financial benefit from a sponsor of the Foundation, except when the benefit is received through the Foundation.
+
+
+
+
+
+
+
+
+
+(2) Les membres du conseil d’administration ne peuvent, directement ou indirectement, sciemment et volontairement, recevoir personnellement un avantage financier d’un commanditaire de la Fondation, à moins que ce ne soit par l’intermédiaire de celle-ci.
+
+
+
+Avantages financiers interdits
+
+
+
+
+
+
+
+
+
+
+Non-profit Status
+
+
+
+
+
+
+
+
+
+Statut d’organisme à but non lucratif
+
+
+
+
+
+
+
+
+
+
+
+
+Non-profit status
+
+
+
+27. (1) Any profits or accretions to the value of the property of the Foundation shall be used to further the activities of the Foundation and no part of the property or profits of the Foundation may be distributed, directly or indirectly, to any member of the Board.
+
+
+
+
+
+
+
+
+
+27. (1) Tout profit ou accroissement de la valeur des biens de la Fondation doit être consacré à la poursuite de ses activités et aucune partie des biens ou des profits de la Fondation ne peut être distribuée directement ou indirectement aux membres du conseil d’administration.
+
+
+
+But non lucratif
+
+
+
+
+
+
+
+
+
+
+Minimum percentage for Foundation activities
+
+
+
+(2) The Foundation shall spend 95% or more of the aggregate of all amounts raised by the levy under this Act on activities carried on by it and disbursements that directly further its objects, but nothing in this Act requires the Foundation to spend the amounts in the fiscal year in which they are raised.
+
+
+
+
+
+
+
+
+
+(2) La Fondation est tenue de consacrer au moins 95 % de l’ensemble des sommes provenant des prélèvements prévus par la présente loi aux activités qu’elle exerce et aux dépenses directement liées à la réalisation de sa mission.  Toutefois, la présente loi n’oblige pas la Fondation à dépenser les sommes pendant l’exercice au cours duquel elles ont été obtenues.
+
+
+
+Pourcentage minimal
+
+
+
+
+
+
+
+
+
+
+Maximum percentage for administrative costs
+
+
+
+(3) The Foundation shall not spend in a fiscal year more than 5% of the amounts raised by levy in that fiscal year on the administrative costs of the Foundation, but nothing in this subsection applies to other revenues of the Foundation.
+
+
+
+
+
+
+
+
+
+(3) La Fondation ne peut, au cours d’un exercice, consacrer à ses frais administratifs plus de 5 % des sommes provenant des prélèvements versés pendant cet exercice; toutefois, le présent paragraphe ne s’applique pas aux autres revenus de la Fondation.
+
+
+
+Plafond des frais administratifs
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+
+
+
+
+
+
+
+
+Commanditaires
+
+
+
+
+
+
+
+
+
+
+
+
+Sponsors
+
+
+
+28. Subject to all limitations imposed by law or otherwise, a sponsor of the Foundation may use the name of the Foundation for the purpose of seeking recognition of the sponsorship.
+
+
+
+
+
+
+
+
+
+28. Sous réserve des restrictions imposées par la loi ou autrement, les commanditaires de la Fondation peuvent se servir du nom de celle-ci dans le but de faire reconnaître la commandite.
+
+
+
+Commanditaires
+
+
+
+
+
+
+
+
+
+
+Independence
+
+
+
+
+
+
+
+
+
+Indépendance
+
+
+
+
+
+
+
+
+
+
+
+
+Independence
+
+
+
+29. (1) The Foundation is established on behalf of the Canadian tobacco industry but is independent of it in order to provide the Foundation with more credibility.
+
+
+
+
+
+
+
+
+
+29. (1) La Fondation est constituée pour le compte de l’industrie canadienne du tabac, mais elle en est indépendante afin de jouir d’une plus grande crédibilité.
+
+
+
+Indépendance
+
+
+
+
+
+
+
+
+
+
+Cooperation with tobacco industry
+
+
+
+(2) The Foundation may cooperate with tobacco growers, manufacturers, wholesalers and retailers in order to achieve the Foundation's objects and in order to assist members of the tobacco industry in achieving the industry's publicly stated objective of preventing tobacco use by young persons in Canada.
+
+
+
+
+
+
+
+
+
+(2) La Fondation peut collaborer avec les producteurs de tabac et les fabricants, les grossistes et les détaillants de produits du tabac afin de réaliser sa mission et d’aider l’industrie du tabac à réaliser son objectif de prévention de la consommation des produits du tabac chez les jeunes au Canada, tel qu’il a été déclaré publiquement.
+
+
+
+Collaboration avec l’industrie du tabac
+
+
+
+
+
+
+
+
+
+
+No funds to be paid to sponsor
+
+
+
+(3) Notwithstanding subsection (2), no funds of the Foundation shall be paid to a sponsor of the Foundation.
+
+
+
+
+
+
+
+
+
+(3) Malgré le paragraphe (2), les fonds de la Fondation ne peuvent être versés à aucun commanditaire de celle-ci.
+
+
+
+Interdiction
+
+
+
+
+
+
+
+
+
+
+Funds are not public funds
+
+
+
+30. (1) For greater certainty, the Foundation is not an agent of Her Majesty and its funds are not public funds of Canada.
+
+
+
+
+
+
+
+
+
+30. (1) Il demeure entendu que la Fondation n’est pas un mandataire de Sa Majesté et que ses fonds ne sont pas des fonds publics du Canada.
+
+
+
+Fonds non publics
+
+
+
+
+
+
+
+
+
+
+Cooperation with governments
+
+
+
+(2) The Foundation may cooperate with the Government of Canada or of any province in order to achieve its objects and in order to help the tobacco industry in achieving its objective, as expressed to Parliament, of preventing smoking by young persons in Canada.
+
+
+
+
+
+
+
+
+
+(2) La Fondation peut collaborer avec le gouvernement du Canada ou de toute province afin de réaliser sa mission et d’aider l’industrie du tabac à réaliser son objectif de prévention de la consommation des produits du tabac chez les jeunes au Canada, tel qu’il a été déclaré au Parlement.
+
+
+
+Collaboration avec les gouvernements
+
+
+
+
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+
+
+
+Programmes
+
+
+
+
+
+
+
+
+
+
+
+
+Workplans for activities or projects
+
+
+
+31. (1) A health group, organization or person that applies to the Foundation for the funding of a program, project or activity shall submit to the Foundation a workplan satisfactory to the Foundation, which must include a proposal for the periodic evaluations referred to in subsection (2).
+
+
+
+
+
+
+
+
+
+31. (1) Tout groupe, organisme ou personne du secteur de la santé qui demande à la Fondation de financer l’un de ses programmes, projets ou activités doit lui présenter un plan de travail, que celle-ci juge satisfaisant, qui comprend une proposition sur les évaluations périodiques visées au paragraphe (2).
+
+
+
+Plans de travail
+
+
+
+
+
+
+
+
+
+
+Evaluations
+
+
+
+(2) A health group, organization or person receiving funds from the Foundation based upon a workplan referred to in subsection (1) shall cause periodic evaluations of the program, project or activity to be made, to the satisfaction of the Board.
+
+
+
+
+
+
+
+
+
+(2) Le groupe, l’organisme ou la personne du secteur de la santé qui reçoit de la Fondation un financement fondé sur le plan de travail visé au paragraphe (1) doit veiller à ce que le programme, le projet ou l’activité soit soumis à des évaluations périodiques que le conseil d’administration juge satisfaisantes.
+
+
+
+Évaluations
+
+
+
+
+
+
+
+
+
+
+Funds for evaluations
+
+
+
+(3) A health group, organization or person receiving funds from the Foundation for a program, project or activity shall use at least 10% of the funds to conduct the evaluations referred to in subsection (2), unless the Board is satisfied that comprehensive evaluations can be made by spending less than 10% of the funds.
+
+
+
+
+
+
+
+
+
+(3) Le groupe, l’organisme ou la personne du secteur de la santé qui reçoit des fonds de la Fondation pour financer un programme, un projet ou une activité doit consacrer au moins 10 % de ces fonds aux évaluations visées au paragraphe (2), sauf si le conseil d’administration estime que des évaluations exhaustives peuvent être réalisées en y affectant moins de 10 % de ces fonds.
+
+
+
+Financement des évaluations
+
+
+
+
+
+
+
+
+
+
+Report to Foundation
+
+
+
+(4) A health group, organization or person receiving funds from the Foundation for a program, project or activity shall cause a report of any evaluation referred to in subsection (2) to be submitted to the Foundation as soon as possible after the completion of the evaluation.
+
+
+
+
+
+
+
+
+
+(4) Le groupe, l’organisme ou la personne du secteur de la santé qui reçoit des fonds de la Fondation pour financer un programme, un projet ou une activité doit veiller à ce qu’un rapport de chaque évaluation visée au paragraphe (2) soit transmis à la Fondation dès que possible après la fin de l’évaluation.
+
+
+
+Rapport à la Fondation
+
+
+
+
+
+
+
+
+
+
+Public tender limit
+
+
+
+32. (1) The Board shall set a limit, by by-law, over which it must call tenders by public advertisement for program services.
+
+
+
+
+
+
+
+
+
+32. (1) Le conseil d’administration fixe, par règlement administratif, le seuil à partir duquel il est tenu de faire un appel d’offres par annonce publique pour les services relatifs aux programmes.
+
+
+
+Seuil applicable aux appels d’offres
+
+
+
+
+
+
+
+
+
+
+Award
+
+
+
+(2) Where the Foundation has called tenders under subsection (1), it shall not award a contract for program services in an amount over the limit set by by-law unless
+
+
+
+
+
+
+
+
+(a) at least two tenders have been received; and
+
+
+
+
+
+
+
+
+(b) the tender of the person to whom the contract is to be awarded offers the best value for money in the opinion of the Board.
+
+
+
+
+
+
+
+
+
+(2) Une fois l’appel d’offres lancé conformément au paragraphe (1), la Fondation ne peut adjuger de contrat pour les services relatifs aux programmes représentant un montant supérieur au seuil fixé par règlement administratif que si les conditions suivantes sont réunies :
+
+
+
+Valeur
+
+
+
+
+a) elle a reçu au moins deux soumissions;
+
+
+
+
+
+
+
+
+b) la soumission de la personne à qui le contrat sera adjugé offre, selon le conseil d’administration, le meilleur rapport qualité-prix.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emergencies
+
+
+
+(3) Notwithstanding subsection (1), in the case of an emergency where delay would be injurious to the Foundation, it may award a contract for program services in an amount over the limit set by by-law without calling tenders.
+
+
+
+
+
+
+
+
+
+(3) Malgré le paragraphe (1), la Fondation peut, dans les cas d’urgence où tout retard serait préjudiciable à celle-ci, attribuer un contrat pour les services relatifs aux programmes sans procéder par appel d’offres.
+
+
+
+Cas d’urgence
+
+
+
+
+
+
+
+
+
+
+Wind-Up
+
+
+
+
+
+
+
+
+
+Liquidation
+
+
+
+
+
+
+
+
+
+
+
+
+Dissolution
+
+
+
+33. (1) The Foundation may be wound up and dissolved under the Winding Up and Restructuring Act.
+
+
+
+
+
+
+
+
+
+33. (1) La Fondation peut être mise en liquidation et dissoute aux termes de la Loi sur les liquidations et les restructurations.
+
+
+
+Dissolution
+
+
+
+
+
+
+
+
+
+
+Application by Council
+
+
+
+(2) If the Foundation fails to submit to the Council a report required by section 45 for a period of two years, the Council is entitled to apply under the Winding Up and Restructuring Act for the wind-up and dissolution of the Foundation.
+
+
+
+
+
+
+
+
+
+(2) Si la Fondation omet pendant deux ans de présenter au Conseil le rapport visé à l’article 45, celui-ci peut faire une demande sous le régime de la Loi sur les liquidations et les restructurations en vue de la liquidation et de la dissolution de la Fondation.
+
+
+
+Demande du conseil
+
+
+
+
+
+
+
+
+
+
+Property of the Foundation
+
+
+
+(3) In the event of the dissolution of the Foundation, any property of the Foundation that remains after the payment of its debts and liabilities or after the making of an adequate provision for the payment of its debts and liabilities shall be transferred to the Council.
+
+
+
+
+
+
+
+
+
+(3) En cas de dissolution de la Fondation, tous ses biens qui restent après le paiement de ses dettes et de son passif ou après la constitution d’une réserve suffisante pour leur  acquittement sont transférés au Conseil.
+
+
+
+Biens de la Fondation
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(4) Notice of a dissolution pursuant to subsection (1) shall be published in the Canada Gazette.
+
+
+
+
+
+
+
+
+
+(4) Avis de la dissolution en vertu du paragraphe (1) est publié dans la Gazette du Canada.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Part III
+
+
+
+
+
+
+
+
+
+Partie III
+
+
+
+
+
+
+
+
+
+
+
+
+Industry Benefits
+
+
+
+
+
+
+
+
+
+Avantages pour l’industrie
+
+
+
+
+
+
+
+
+
+
+
+
+Industry benefits
+
+
+
+34. The benefits of this Act to the Canadian tobacco industry are declared to include:
+
+
+
+
+
+
+
+
+(a) the declaration in law that preventing the use of tobacco products by young persons in Canada is an industry objective;
+
+
+
+
+
+
+
+
+(b) the creation of a national program sponsored by members of the industry and standing to its credit that the industry could not have created or co-ordinated on its own;
+
+
+
+
+
+
+
+
+(c) official community sanction of a credible industry-funded program of the highest priority because of the vulnerability of young persons;
+
+
+
+
+
+
+
+
+(d) access to the information gathered by the Foundation regarding the use of tobacco products by young persons in Canada;
+
+
+
+
+
+
+
+
+(e) the containment of the sale and circulation of industry products to young persons in an illegal and unethical market;
+
+
+
+
+
+
+
+
+(f) some mitigation of the damage to the reputation of the industry that results from the negative effects of its business
+
+
+
+
+
+
+
+
+(i) on young persons, and
+
+
+
+
+
+
+
+
+(ii) on the morale of its workers;
+
+
+
+
+
+
+
+
+(g) public recognition for funding the Foundation's initiatives to address a harmful and unethical spill-over effect of the industry's business;
+
+
+
+
+
+
+
+
+(h) the improvement in the business climate for the industry that can flow from its enactment; and
+
+
+
+
+
+
+
+
+(i) the basis that is laid for
+
+
+
+
+
+
+
+
+(i) a greater tolerance of the industry to the extent that its products are used in a legal market, and
+
+
+
+
+
+
+
+
+(ii) reasonable limits on regulation of the industry.
+
+
+
+
+
+
+
+
+
+34. Les avantages que la présente loi apporte à l’industrie canadienne du tabac sont notamment :
+
+
+
+Avantages pour l’industrie
+
+
+
+
+a) la déclaration par voie législative que la prévention de la consommation des produits du tabac chez les jeunes au Canada est un objectif de l’industrie;
+
+
+
+
+
+
+
+
+b) la mise sur pied d’un programme national parrainé par les membres de l’industrie et porté à son crédit, qu’elle n’aurait pu établir ou coordonner par elle-même;
+
+
+
+
+
+
+
+
+c) la sanction officielle, par la communauté, d’un programme crédible financé par l’industrie qui, vu la vulnérabilité des jeunes, revêt la plus haute priorité;
+
+
+
+
+
+
+
+
+d) l’accès aux renseignements recueillis par la Fondation au sujet de la consommation des produits du tabac chez les jeunes au Canada;
+
+
+
+
+
+
+
+
+e) l’enraiement de la vente et de la distribution des produits du tabac aux jeunes sur un marché illégal et sans éthique;
+
+
+
+
+
+
+
+
+f) une atténuation du préjudice causé à la réputation de l’industrie et attribuable aux effets négatifs de son activité à la fois :
+
+
+
+
+
+
+
+
+(i) sur les jeunes,
+
+
+
+
+
+
+
+
+(ii) sur le moral de ses travailleurs;
+
+
+
+
+
+
+
+
+g) la reconnaissance publique du financement des mesures entreprises par la Fondation pour parer aux retombées nocives et illicites des activités de l’industrie;
+
+
+
+
+
+
+
+
+h) l’amélioration du milieu commercial où oeuvre l’industrie qui peut résulter de l’édiction de la présente loi;
+
+
+
+
+
+
+
+
+i) l’établissement de bases pour :
+
+
+
+
+
+
+
+
+(i) favoriser une plus grande tolérance de l’industrie dans la mesure où ses produits sont utilisés sur un marché licite,
+
+
+
+
+
+
+
+
+(ii) imposer des limites raisonnables à la réglementation de l’industrie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Part IV
+
+
+
+
+
+
+
+
+
+Partie IV
+
+
+
+
+
+
+
+
+
+
+
+
+Levy for Industry Purposes
+
+
+
+
+
+
+
+
+
+Prélèvement pour les objectifs de l’industrie
+
+
+
+
+
+
+
+
+
+
+
+
+Levy
+
+
+
+35. (1) Every person who, for the purposes of trade, manufactures, produces or imports tobacco products is liable, on selling, transferring, or otherwise disposing of the tobacco product, to pay a levy at the rate of:
+
+
+
+
+
+
+
+
+(a) $0.0075 per cigarette;
+
+
+
+
+
+
+
+
+(b) $0.0075 per tobacco stick;
+
+
+
+
+
+
+
+
+(c) $0.0750 per cigar; and
+
+
+
+
+
+
+
+
+(d) $0.0075 per gram of manufactured tobacco used to make a tobacco product other than a product described in paragraphs (a) to (c).
+
+
+
+
+
+
+
+
+
+35. (1) Quiconque, à des fins commerciales, fabrique, produit ou importe des produits du tabac est tenu, au moment de la disposition — notamment par vente ou cession — des produits, de verser un prélèvement selon les taux suivants :
+
+
+
+Prélèvement
+
+
+
+
+a) 0,0075 $ par cigarette;
+
+
+
+
+
+
+
+
+b) 0,0075 $ par bâtonnet de tabac;
+
+
+
+
+
+
+
+
+c) 0,0750 $ par cigare;
+
+
+
+
+
+
+
+
+d) 0,0075 $ par gramme de tabac fabriqué entrant dans la fabrication de produits du tabac autres que ceux mentionnés aux alinéas a) à c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Levy to be collected only once
+
+
+
+(2) The levy may be assessed and collected only once with respect to a tobacco product.
+
+
+
+
+
+
+
+
+
+(2) Un prélèvement ne peut être imposé et perçu qu’une seule fois à l’égard d’un même produit du tabac.
+
+
+
+Perception unique
+
+
+
+
+
+
+
+
+
+
+Reduction or waiver of levy
+
+
+
+(3) If the Foundation, in its fifth or any subsequent financial year, determines and reports that five per cent or less of young persons in Canada are using tobacco products, the Foundation may, by resolution of the Board, reduce the amount of the levy under subsection (1) for the following year to an amount that it considers appropriate or may waive the levy for the year.
+
+
+
+
+
+
+
+
+
+(3) Si, au cours de son cinquième exercice ou d’un exercice subséquent, la Fondation établit et fait rapport que cinq pour cent ou moins des jeunes au Canada consomment des produits du tabac, elle peut, par résolution du conseil d’administration, réduire pour l’exercice suivant le montant du prélèvement fixé en application du paragraphe (1) au montant qu’elle estime approprié ou encore annuler le prélèvement pour cet exercice.
+
+
+
+Annulation ou réduction du prélèvement
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(4) Notice of every resolution under subsection (3) that reduces or waives the levy shall be published in the Canada Gazette.
+
+
+
+
+
+
+
+
+
+(4) Avis de toute résolution, visée au paragraphe (3), de réduire ou d’annuler le prélèvement est publié dans la Gazette du Canada.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Registration, statements of account and payment of levy
+
+
+
+36. Every person who is liable to pay a levy shall
+
+
+
+
+
+
+
+
+(a) register with the Foundation;
+
+
+
+
+
+
+
+
+(b) keep statements of account of their activities of manufacturing, producing and importing tobacco products and furnish to the Foundation those statements and such other information and returns as are required under this Part and the regulations;
+
+
+
+
+
+
+
+
+(c) pay to the Foundation the levies that the person is liable to pay under this Part, at its head office if an agent has not been appointed under section 38, or to the agent if an agent has been appointed under that section; and
+
+
+
+
+
+
+
+
+(d) comply with the requirements of this Act and the regulations made under it.
+
+
+
+
+
+
+
+
+
+36. Quiconque est tenu de verser un prélèvement doit :
+
+
+
+Inscription, relevés de compte et paiement du prélèvement
+
+
+
+
+a) s’inscrire auprès de la Fondation;
+
+
+
+
+
+
+
+
+b) tenir des relevés de compte au sujet de ses activités de fabrication, de production et d’importation de produits du tabac et présenter ces relevés à la Fondation de même que les autres renseignements et rapports exigés aux termes de la présente partie et des règlements;
+
+
+
+
+
+
+
+
+c) verser les prélèvements qui lui sont imposés aux termes de la présente partie à la Fondation, à son siège social, si aucun agent de perception n’a été nommé en vertu de l’article 38, ou à l’agent de perception nommé, le cas échéant, en vertu de cet article;
+
+
+
+
+
+
+
+
+d) se conformer à la présente loi et à ses règlements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Date of payment
+
+
+
+37. Subject to regulations made under section 40:
+
+
+
+
+
+
+
+
+(a) a levy that is payable, for the period from the day that this Act is assented to until the day that is the last day of the month in which the first meeting of the Board of the Foundation is held, shall be paid, on a self-assessed basis, on the 15th day of the following month; and
+
+
+
+
+
+
+
+
+(b) for months after the period described in paragraph (a), a levy that is payable for a month or portion thereof shall be paid on a self-assessed basis on the 15th day of the following month.
+
+
+
+
+
+
+
+
+
+37. Sous réserve des règlements pris en vertu de l’article 40 :
+
+
+
+Échéance du paiement
+
+
+
+
+a) le prélèvement payable pour la période débutant le jour de la sanction de la présente loi et se terminant le dernier jour du mois de la première réunion du conseil d’administration de la Fondation est acquitté, selon le montant établi par la personne tenue de le verser, le quinzième jour du mois suivant;
+
+
+
+
+
+
+
+
+b) pour les mois postérieurs à la période visée à l’alinéa a), le prélèvement payable pour chaque mois ou partie de mois est acquitté, selon le montant établi par la personne tenue de le verser, le quinzième jour du mois suivant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agent to collect levy
+
+
+
+38. The Foundation may appoint and remunerate an agent to collect the levy for it and the Council may be appointed as agent for this purpose.
+
+
+
+
+
+
+
+
+
+38. La Fondation peut nommer et rétribuer un agent chargé de percevoir pour elle les prélèvements et le Conseil peut être nommé mandataire à cette fin.
+
+
+
+Mesures de recouvrement
+
+
+
+
+
+
+
+
+
+
+Debt recoverable in court
+
+
+
+39. A levy payable under this Act constitutes a debt payable to the Foundation and is recoverable as such in any court of competent jurisdiction, together with all costs associated with the recovery of the debt.
+
+
+
+
+
+
+
+
+
+39. Tout prélèvement payable au titre de la présente loi constitue une créance de la Fondation; le recouvrement de celle-ci et des frais y afférents peut être poursuivi à ce titre devant tout tribunal compétent.
+
+
+
+Recouvrement judiciaire
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+
+
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+40. The Minister may make regulations
+
+
+
+
+
+
+
+
+(a) providing for the assessment of the levy;
+
+
+
+
+
+
+
+
+(b) providing for the collection of the levy, including the setting of a date on which a levy is to be paid;
+
+
+
+
+
+
+
+
+(c) providing for the manner in which the levy is to be paid;
+
+
+
+
+
+
+
+
+(d) setting out the evidence by which a person's liability to pay the levy and discharge of that liability may be established; and
+
+
+
+
+
+
+
+
+(e) providing for such other matters as the Minister considers appropriate.
+
+
+
+
+
+
+
+
+
+40. Le ministre peut, par règlement :
+
+
+
+Règlements
+
+
+
+
+a) prévoir l’établissement du montant du prélèvement;
+
+
+
+
+
+
+
+
+b) en prévoir la perception, notamment déterminer la date d’échéance du paiement;
+
+
+
+
+
+
+
+
+c) en déterminer les modalités de paiement;
+
+
+
+
+
+
+
+
+d) établir les moyens de preuve servant à déterminer l’assujettissement au prélèvement et son acquittement;
+
+
+
+
+
+
+
+
+e) régir toute autre question que le ministre estime indiquée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Council may make representations
+
+
+
+41. The Minister shall offer the Council the opportunity to make representations with respect to a regulation to be made under section 40, and must allow thirty days from the date the offer is made for the Council to make the representations.
+
+
+
+
+
+
+
+
+
+41. Le ministre donne au Conseil la possibilité de présenter des observations sur chaque projet de règlement visé à l’article 40 et lui accorde un délai de trente jours à cette fin.
+
+
+
+Observations du Conseil
+
+
+
+
+
+
+
+
+
+
+General
+
+
+
+
+
+
+
+
+
+Dispositions diverses
+
+
+
+
+
+
+
+
+
+
+
+
+Where Council unable to act
+
+
+
+42. In the event that the Council ceases to exist or refuses or is unable to act for any purpose under this Act, the Minister may appoint by order, after consultation with such persons liable to pay a levy under this Act as the Minister considers appropriate, a person or body to act in place of the Council for the purposes of this Act.
+
+
+
+
+
+
+
+
+
+42. Dans le cas où le Conseil cesse d’exister ou refuse ou est incapable d’agir à l’égard de tout objet de la présente loi, le ministre peut, par arrêté, après consultation des personnes assujetties au prélèvement prévu par la présente loi qu’il estime indiquées, nommer une personne ou un organisme en remplacement du Conseil pour l’application de la présente loi.
+
+
+
+Remplacement du Conseil
+
+
+
+
+
+
+
+
+
+
+Part V
+
+
+
+
+
+
+
+
+
+Partie V
+
+
+
+
+
+
+
+
+
+
+
+
+Offences and Punishment
+
+
+
+
+
+
+
+
+
+Infractions et peines
+
+
+
+
+
+
+
+
+
+
+
+
+Offence by persons liable to pay levy
+
+
+
+43. (1) Every person who contravenes section 35 is guilty of an offence and is liable, in addition to paying the levy imposed under this Act,
+
+
+
+
+
+
+
+
+(a) on summary conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding one year, or to both; or
+
+
+
+
+
+
+
+
+(b) on conviction on indictment, to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
+
+
+
+
+
+
+
+
+
+43. (1) Quiconque contrevient à l’article 35 commet une infraction et est passible, outre le versement du prélèvement prévu par la présente loi :
+
+
+
+Infraction
+
+
+
+
+a) sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 100 000 $ et d’un emprisonnement maximal d’un an, ou de l’une de ces peines;
+
+
+
+
+
+
+
+
+b) sur déclaration de culpabilité par mise en accusation, d’une amende maximale de 300 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces  peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offence by employee or agent
+
+
+
+(2) In any prosecution under this Act, it is sufficient proof of the offence to establish that it was committed by an employee or agent of the accused, whether or not the employee or agent is identified or has been prosecuted for the offence, unless the offence was committed without the accused's knowledge or consent and the accused exercised all due diligence to prevent the commission of the offence.
+
+
+
+
+
+
+
+
+
+(2) Dans les poursuites pour infraction à la présente loi, il suffit, pour prouver l’infraction, d’établir qu’elle a été commise par un employé ou un mandataire de l’accusé, que cet employé ou ce mandataire ait été ou non identifié ou poursuivi.  L’accusé peut se disculper en prouvant que la perpétration a eu lieu à  son insu ou sans son consentement et qu’il avait pris les mesures nécessaires pour l’empêcher.
+
+
+
+Infraction commise par un employé ou un mandataire
+
+
+
+
+
+
+
+
+
+
+Offence by officer, director or agent
+
+
+
+(3) Where a corporation commits an offence under this Act, any officer, director or agent of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence whether or not the corporation has been prosecuted or convicted.
+
+
+
+
+
+
+
+
+
+(3) En cas de perpétration par une personne morale d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+
+
+Infraction commise par une personne morale
+
+
+
+
+
+
+
+
+
+
+Due diligence
+
+
+
+(4) No person is, by virtue of subsection (3), to be found guilty of an offence under this Act, if the person establishes that the offence was committed without the person's knowledge or consent and that the person exercised due care and diligence to prevent the commission of the offence.
+
+
+
+
+
+
+
+
+
+(4) Nul ne peut être déclaré coupable, par application du paragraphe (3), d’une infraction à la présente loi s’il établit que l’infraction a été commise à son insu ou sans son consentement et qu’il avait pris les mesures nécessaires pour l’empêcher.
+
+
+
+Disculpation
+
+
+
+
+
+
+
+
+
+
+Venue
+
+
+
+(5) A prosecution for an offence under this Act may be instituted, heard, tried and determined by a court in any jurisdiction in which the accused carries on business, regardless of where the subject-matter of the prosecution arose.
+
+
+
+
+
+
+
+
+
+(5) Le tribunal dans le ressort duquel l’accusé exerce ses activités est compétent pour connaître de toute poursuite visant une infraction à la présente loi, indépendamment du lieu de perpétration.
+
+
+
+Tribunal compétent
+
+
+
+
+
+
+
+
+
+
+Limitation period
+
+
+
+(6) A prosecution for a summary conviction offence under this Act may be instituted at any time within two years after the time when the subject-matter of the proceedings arose.
+
+
+
+
+
+
+
+
+
+(6) Les poursuites par procédure sommaire visant une infraction à la présente loi se prescrivent par deux ans à compter de la perpétration de l’infraction.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Part VI
+
+
+
+
+
+
+
+
+
+Partie VI
+
+
+
+
+
+
+
+
+
+
+
+
+Audit
+
+
+
+
+
+
+
+
+
+Vérification
+
+
+
+
+
+
+
+
+
+
+
+
+Audit
+
+
+
+44. (1) The Auditor General of Canada shall annually audit the accounts and financial transactions of the Foundation and provide a report to the Minister and to the Foundation.
+
+
+
+
+
+
+
+
+
+44. (1) Le vérificateur général du Canada vérifie chaque année les comptes et les opérations financières de la Fondation et présente son rapport à celle-ci et au ministre.
+
+
+
+Vérification
+
+
+
+
+
+
+
+
+
+
+Cost recovery
+
+
+
+(2) Audits required by this section shall be conducted on a cost recovery basis, and the Foundation shall pay all costs incurred by the Auditor General in preparing a report under subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Les vérifications exigées par le présent article sont effectuées selon le principe du recouvrement des coûts et la Fondation est tenue de payer les frais engagés par le vérificateur général pour l’établissement du rapport visé au paragraphe (1).
+
+
+
+Recouvrement des coûts
+
+
+
+
+
+
+
+
+
+
+Part VII
+
+
+
+
+
+
+
+
+
+Partie VII
+
+
+
+
+
+
+
+
+
+
+
+
+Report to Parliament
+
+
+
+
+
+
+
+
+
+Rapports au Parlement
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+45. (1) The Foundation shall, as soon as possible, but no later than six months after the end of each financial year, submit a report to the Council, which report must include
+
+
+
+
+
+
+
+
+(a) statistics the Foundation has on the use of tobacco products by young persons in Canada;
+
+
+
+
+
+
+
+
+(b) statistics the Foundation has on the market share of brands and on their use by different groups of young persons in Canada;
+
+
+
+
+
+
+
+
+(c) statistics the Foundation has on the variations in the annual rates of use of tobacco products by young persons in Canada;
+
+
+
+
+
+
+
+
+(d) information on the Foundation's activities and an assessment of the effectiveness of these activities; and
+
+
+
+
+
+
+
+
+(e) financial statements and the auditor's report for the Foundation.
+
+
+
+
+
+
+
+
+
+45. (1) Dès que possible dans les six mois suivant la fin de chaque exercice, la Fondation présente au Conseil un rapport qui contient :
+
+
+
+Rapport annuel
+
+
+
+
+a) les statistiques qu’elle possède sur la consommation des produits du tabac chez les jeunes au Canada;
+
+
+
+
+
+
+
+
+b) les statistiques qu’elle possède sur la part de marché des diverses marques et leur utilisation par les différents groupes de jeunes au Canada;
+
+
+
+
+
+
+
+
+c) les statistiques qu’elle possède sur la variation des taux annuels de consommation des produits du tabac chez les jeunes au Canada;
+
+
+
+
+
+
+
+
+d) des renseignements sur ses activités et une évaluation de leur efficacité;
+
+
+
+
+
+
+
+
+e) les états financiers et le rapport du vérificateur sur la Fondation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabling of report
+
+
+
+(2) Within fifteen days of receiving the report referred to in subsection (1), the Council shall submit it to the Minister, who shall cause a copy of the report to be laid before each House of Parliament on any of the first fifteen sitting days on which that House is sitting after the day on which the Minister receives it.
+
+
+
+
+
+
+
+
+
+(2) Dans les quinze jours suivant la réception du rapport visé au paragraphe (1), le Conseil le présente au ministre qui le fait déposer devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la date où il l’a reçu.
+
+
+
+Dépôt du rapport
+
+
+
+
+
+
+
+
+
+
+Part VIII
+
+
+
+
+
+
+
+
+
+Partie VIII
+
+
+
+
+
+
+
+
+
+
+
+
+Five-Year Review
+
+
+
+
+
+
+
+
+
+Examen quinquennal
+
+
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+46. (1) Five years after this Act comes into force, the Minister shall cause to be conducted an independent review of this Act and of the administration and operation of the Foundation.
+
+
+
+
+
+
+
+
+
+46. (1) Cinq ans après l’entrée en vigueur de la présente loi, le ministre fait mener un examen indépendant de l’application de la présente loi ainsi que de l’administration et des activités de la Fondation.
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+Report to Parliament
+
+
+
+(2) The Minister shall cause a copy of the report on the review conducted pursuant to subsection (1) to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the review is completed.
+
+
+
+
+
+
+
+
+
+(2) Le ministre fait déposer une copie du rapport de l’examen visé au paragraphe (1) devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la fin de l’examen.
+
+
+
+Rapport au Parlement
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

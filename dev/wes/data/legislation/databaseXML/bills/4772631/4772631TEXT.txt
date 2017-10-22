@@ -1,0 +1,1742 @@
+
+
+
+
+
+S-221
+
+
+
+
+
+S-221
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-221
+
+
+
+
+
+PROJET DE LOI S-221
+
+
+
+
+
+
+An Act to establish and maintain a national registry of medical devices
+
+
+
+
+
+Loi prévoyant l’établissement et la tenue d’un registre national des instruments médicaux
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 1, 2006
+
+première lecture le 1er novembre 2006
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR HARB
+
+0432
+
+
+
+L’HONORABLE SÉNATEUR HARB
+
+
+
+
+
+SUMMARY
+This enactment requires the Registrar of Medical Devices, designated by the Minister of Health, to establish and maintain a Medical Devices Registry. The Registry will contain, with their consent, the names and addresses of persons who use implantable medical devices or prescribed home-use medical devices, a description of the medical devices and other information. Personal information in the Registry may not be disclosed for any purpose without the person’s written and informed consent.
+The enactment requires the manufacturers, importers and distributors of these medical devices to notify the Registrar if they become aware that a medical device may pose a risk to the health or safety of the user. The Registrar is required to notify registered users if a medical device may pose a risk to their health or safety.
+
+
+
+SOMMAIRE
+Le texte exige que le directeur du Registre des instruments médicaux, désigné par le ministre de la Santé, établisse et tienne le Registre des instruments médicaux. Le Registre contient, avec leur consentement, les nom et adresse des personnes qui utilisent des instruments médicaux implantables ou des instruments médicaux réglementaires pour usage à domicile, la description de ces instruments et d’autres renseignements. Les renseignements personnels figurant au Registre ne peuvent être divulgés à aucune fin, sauf avec le consentement éclairé de la personne visée, donné par écrit.
+Le texte exige que les fabricants, importateurs et distributeurs de ces instruments médicaux avisent le directeur du Registre s’ils se rendent compte qu’un instrument médical peut présenter un risque pour la santé ou la sécurité des utilisateurs. Le directeur est tenu d’informer les utilisateurs inscrits si un instrument médical peut présenter un risque pour leur santé ou leur sécurité.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-221
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-221
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to establish and maintain a national registry of medical devices
+
+
+
+
+
+
+WHEREAS medical device problem reporting is an essential element in the continued efforts of the Health Products and Food Branch Inspectorate of the Department of Health to protect the health and safety of Canadians;
+
+
+
+
+
+
+AND WHEREAS, although manufacturers and importers are required to report certain medical device problems, the Parliament of Canada acknowledges that a complementary medical device problem notification system should be maintained by the Department of Health;
+
+
+
+
+
+
+
+
+
+Loi prévoyant l’établissement et la tenue d’un registre national des instruments médicaux
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que la déclaration des défectuosités des instruments médicaux fait partie intégrante des efforts constants que déploie l’Inspectorat de la Direction générale des produits de santé et des aliments du ministère de la Santé pour protéger la santé des Canadiens et assurer leur sécurité;
+
+
+
+
+
+
+que, bien que les fabricants et les importateurs soient tenus de signaler certaines défectuosités des instruments médicaux, le Parlement du Canada est d’avis que le ministère de la Santé devrait gérer un système complémentaire de déclaration des défectuosités de ces instruments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Medical Devices Registry Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur le Registre des instruments médicaux.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The following definitions apply in this Act.
+
+
+
+
+“home-use medical device”« instrument médical pour usage à domicile »
+
+
+
+“home-use medical device” means a medical device
+
+
+
+
+
+
+
+
+(a) intended to be used by a person in a home environment for purposes related to their health care; and
+
+
+
+
+
+
+
+
+(b) of a kind prescribed in the regulations.
+
+
+
+
+“implantable medical device”« instrument médical implantable »
+
+
+
+“implantable medical device” means a medical device that
+
+
+
+
+
+
+
+
+(a) is partly or totally inserted into the human body or a natural orifice by means of a surgical or medical procedure;
+
+
+
+
+
+
+
+
+(b) is expected to stay there for 30 days or more; and
+
+
+
+
+
+
+
+
+(c) would require a surgical or medical procedure to remove it.
+
+
+
+
+“manufacturer”« fabricant »
+
+
+
+“manufacturer” means a person who sells a medical device under their own name, or under a trade-mark, design, trade name or other name or mark owned or controlled by the person, and who is responsible for designing, manufacturing, assembling, processing, labelling, packaging, refurbishing or modifying the device, or for assigning to it a purpose, whether those tasks are performed by that person or on their behalf.
+
+
+
+
+“medical device”« instrument médical »
+
+
+
+“medical device” means a device within the meaning of the Food and Drugs Act.
+
+
+
+
+“medical practioner”« médecin »
+
+
+
+“medical practitioner” means a person lawfully entitled to practise medicine in the place in which the practice is carried on by that person.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Health.
+
+
+
+
+“Registrar”« directeur »
+
+
+
+“Registrar” means the Registrar of Medical Devices designated under section 3.
+
+
+
+
+“Registry”« Registre »
+
+
+
+“Registry” means the Medical Devices Registry established under subsection 4(1).
+
+
+
+
+“supply”« fournir »
+
+
+
+“supply”, in relation to a medical device, includes to issue a prescription that authorizes a person to obtain a medical device.
+
+
+
+
+“user”« utilisateur »
+
+
+
+“user” means a person who has had an implantable medical device inserted into their body or who uses a home-use medical device supplied to them by a medical practitioner.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« directeur » Le directeur du Registre des instruments médicaux désigné aux termes de l’article 3.
+
+
+
+« directeur »“Registrar”
+
+
+
+
+« fabricant » Personne qui vend un instrument médical sous son propre nom ou sous un nom commercial, un dessin, une marque de commerce ou un autre nom ou marque dont elle est propriétaire ou a le contrôle et qui est responsable de la conception, de la fabrication, de l’assemblage, du traitement, de l’étiquetage, de l’emballage, de la remise à neuf ou de la modification de l’instrument, ou de son affectation à un usage particulier, que ces opérations soient effectuées par elle ou pour son compte.
+
+
+
+« fabriquant »“manufacturer”
+
+
+
+
+« fournir » Est assimilé à l’acte de fournir un instrument médical le fait de délivrer une ordonnance autorisant une personne à se procurer un instrument médical.
+
+
+
+« fournir »“supply”
+
+
+
+
+« instrument médical » S’entend d’un instrument au sens de la Loi sur les aliments et drogues.
+
+
+
+« instrument médical »“medical device”
+
+
+
+
+« instrument médical implantable » Instrument médical qui, à la fois :
+
+
+
+« instrument médical implantable »“implantable medical device”
+
+
+
+
+a) est partiellement ou entièrement inséré dans le corps humain ou dans un orifice naturel par une procédure chirurgicale ou médicale;
+
+
+
+
+
+
+
+
+b) devrait vraisemblablement rester en place pendant au moins 30 jours;
+
+
+
+
+
+
+
+
+c) nécessite, pour son enlèvement, une procédure chirurgicale ou médicale.
+
+
+
+
+
+
+
+
+« instrument médical pour usage à domicile » Instrument médical qui est à la fois :
+
+
+
+« instrument médical pour usage à domicile »“home-use medical device”
+
+
+
+
+a) destiné à être utilisé par une personne à son domicile à des fins liées aux soins de santé;
+
+
+
+
+
+
+
+
+b) d’un type prescrit par règlement.
+
+
+
+
+
+
+
+
+« médecin » Personne légalement autorisée à exercer la médecine au lieu où elle se livre à cet exercice.
+
+
+
+« médecin »“medical practitioner”
+
+
+
+
+« ministre » Le ministre de la Santé.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« Registre » Le Registre des instruments médicaux établi en vertu du paragraphe 4(1).
+
+
+
+« Registre »“Registry”
+
+
+
+
+« utilisateur » Personne dans le corps de laquelle un instrument médical implantable a été inséré ou qui utilise un instrument médical pour usage à domicile fourni par un médecin.
+
+
+
+« utilisateur »“user”
+
+
+
+
+
+
+
+
+
+
+MEDICAL DEVICES REGISTRATION SYSTEM
+
+
+
+
+
+
+
+
+
+SYSTÈME D’ENREGISTREMENT DES INSTRUMENTS MÉDICAUX
+
+
+
+
+
+
+
+
+
+
+
+
+Registrar of Medical Devices
+
+
+
+
+
+
+
+
+
+Directeur du Registre des instruments médicaux
+
+
+
+
+
+
+
+
+
+
+
+
+Designation of Registrar of Medical Devices
+
+
+
+3. The Minister shall designate a person, from among persons employed in the Department of Health, as the Registrar of Medical Devices.
+
+
+
+
+
+
+
+
+
+3. Le ministre désigne une personne, parmi les fonctionnaires du ministère de la Santé, à titre de directeur du Registre des instruments médicaux.
+
+
+
+Désignation du directeur du Registre des instruments médicaux
+
+
+
+
+
+
+
+
+
+
+Medical Devices Registry
+
+
+
+4. (1) The Registrar shall establish and maintain, within the Department of Health, a registry, to be called the Medical Devices Registry, containing
+
+
+
+
+
+
+
+
+(a) the information submitted by medical practitioners under subsection 5(1);
+
+
+
+
+
+
+
+
+(b) a record of any information provided by the manufacturer, importer or distributor of a medical device that identifies any risk to the health or safety of the user; and
+
+
+
+
+
+
+
+
+(c) any other information prescribed by the regulations.
+
+
+
+
+
+
+
+
+
+4. (1) Le directeur établit et tient, au ministère de la Santé, un registre appelé Registre des instruments médicaux qui contient :
+
+
+
+Registre des instruments médicaux
+
+
+
+
+a) les renseignements communiqués par les médecins en application du paragraphe 5(1);
+
+
+
+
+
+
+
+
+b) un relevé des renseignements fournis par le fabricant, l’importateur ou le distributeur d’un instrument médical qui indique les risques que cet instrument peut présenter pour la santé ou la sécurité de l’utilisateur;
+
+
+
+
+
+
+
+
+c) tout autre renseignement réglementaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operation
+
+
+
+(2) The Registrar is responsible for the day-to-day operation of the Registry.
+
+
+
+
+
+
+
+
+
+(2) Le directeur est chargé de tenir à jour le Registre des instruments médicaux.
+
+
+
+Gestion du Registre
+
+
+
+
+
+
+
+
+
+
+Destruction of information
+
+
+
+(3) The Registrar may destroy information kept in the Registry at the times and in the circumstances that may be prescribed by the regulations.
+
+
+
+
+
+
+
+
+
+(3) Le directeur peut détruire les renseignements contenus dans le Registre aux moments et dans les circonstances prévus par règlement.
+
+
+
+Destruction des renseignements
+
+
+
+
+
+
+
+
+
+
+Reporting and Notification
+
+
+
+
+
+
+
+
+
+Rapports et avis
+
+
+
+
+
+
+
+
+
+
+
+
+Submission of information by medical practitioner
+
+
+
+5. (1) A medical practitioner who inserts an implantable medical device into a person’s body or who supplies a home-use medical device to a person shall, as soon as possible after doing so, submit to the Registrar, in the form prescribed by the regulations, the following information:
+
+
+
+
+
+
+
+
+(a) the name, date of birth and address of the person, if the person consents to the disclosure of the information;
+
+
+
+
+
+
+
+
+(b) the medical practitioner’s name;
+
+
+
+
+
+
+
+
+(c) the date on which, and the health care facility at which, the device was inserted or supplied;
+
+
+
+
+
+
+
+
+(d) the name and address of the manufacturer of the device;
+
+
+
+
+
+
+
+
+(e) the model designation of the device, if applicable;
+
+
+
+
+
+
+
+
+(f) the lot or serial number of the device; and
+
+
+
+
+
+
+
+
+(g) any other information prescribed by the regulations.
+
+
+
+
+
+
+
+
+
+5. (1) Le médecin qui insère un instrument médical implantable dans le corps d’une personne ou qui fournit à une personne un instrument médical pour usage à domicile est tenu de communiquer au directeur, dès que possible, en la forme réglementaire, les renseignements suivants :
+
+
+
+Renseignements communiqués par le médecin
+
+
+
+
+a) le nom, la date de naissance et l’adresse de la personne, si celle-ci consent à la divulgation de ces renseignements;
+
+
+
+
+
+
+
+
+b) le nom du médecin;
+
+
+
+
+
+
+
+
+c) la date et où l’instrument a été inséré ou fourni;
+
+
+
+
+
+
+
+
+d) le nom et l’adresse du fabricant de l’instrument;
+
+
+
+
+
+
+
+
+e) la désignation de modèle de l’instrument, le cas échéant;
+
+
+
+
+
+
+
+
+f) le numéro de lot ou de série de l’instrument;
+
+
+
+
+
+
+
+
+g) tout autre renseignement réglementaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information and consent
+
+
+
+(2) A medical practitioner who inserts an implantable medical device into a person’s body or who supplies a home-use medical device to a person shall
+
+
+
+
+
+
+
+
+(a) inform the person of the nature and purpose of the Registry and the requirement to submit information to the Registrar; and
+
+
+
+
+
+
+
+
+(b) seek the consent of the person to the disclosure to the Registrar of the information referred to in paragraph (1)(a).
+
+
+
+
+
+
+
+
+
+(2) Le médecin qui insère un instrument médical implantable dans le corps d’une personne ou qui fournit à une personne un instrument médical pour usage à domicile est tenu :
+
+
+
+Renseignements et consentement
+
+
+
+
+a) d’informer la personne de la nature et de la fonction du Registre et de l’exigence de communiquer certains renseignements au directeur;
+
+
+
+
+
+
+
+
+b) de demander à la personne si elle consent à la communication au directeur des renseignements visés à l’alinéa (1)a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Change of address
+
+
+
+6. The Registrar shall, on receipt of information submitted under subsection 5(1) that includes the name and address of the person in respect of whom the information is submitted, provide to the person a copy of the information and a statement advising the person to notify the Registrar of any change in the person’s permanent address.
+
+
+
+
+
+
+
+
+
+6. Sur réception des renseignements communiqués en application du paragraphe 5(1), notamment le nom et l’adresse de la personne visée par ces renseignements, le directeur envoie à celle-ci, une copie des renseignements et un avis écrit lui rappelant d’informer le directeur de tout changement de son adresse permanente.
+
+
+
+Changement d’adresse
+
+
+
+
+
+
+
+
+
+
+Duty of manufacturers, distributors and importers
+
+
+
+7. A manufacturer, importer or distributor of an implantable medical device or a home-use medical device shall notify the Registrar immediately after becoming aware that the device may pose a risk to the health or safety of the user, and shall provide the Registrar with the information prescribed by the regulations.
+
+
+
+
+
+
+
+
+
+7. Le fabricant, l’importateur ou le distributeur d’un instrument médical implantable ou d’un instrument médical pour usage à domicile est tenu d’aviser immédiatement le directeur s’il se rend compte que l’instrument peut présenter un risque pour la santé ou la sécurité des utilisateurs, et de lui fournir les renseignements réglementaires.
+
+
+
+Obligation des fabricants, distributeurs et importateurs
+
+
+
+
+
+
+
+
+
+
+Duty to notify users of risk
+
+
+
+8. (1) When the Registrar receives a notification under section 7 or otherwise has reasonable grounds to believe that an implantable medical device or a home-use medical device may pose a risk to the health or safety of the user, the Registrar shall contact without delay
+
+
+
+
+
+
+
+
+(a) each user of the device whose name and address is listed in the Registry; or
+
+
+
+
+
+
+
+
+(b) in respect of each device for which the name and address of the user was not submitted to the Registrar, the medical practitioner who registered the device.
+
+
+
+
+
+
+
+
+
+8. (1) Si le directeur reçoit un avis en application de l’article 7 ou a des motifs raisonnables de croire qu’un instrument médical implantable ou un instrument médical pour usage à domicile peut présenter un risque pour la santé ou la sécurité des utilisateurs, il communique sans délai :
+
+
+
+Obligation d’informer les utilisateurs d’un risque
+
+
+
+
+a) avec chaque utilisateur de l’instrument dont le nom et l’adresse sont inscrits au Registre;
+
+
+
+
+
+
+
+
+b) avec le médecin qui a inscrit l’instrument, si le nom et l’adresse de l’utilisateur ne sont pas inscrits au Registre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information to be provided
+
+
+
+(2) When the Registrar contacts a person under subsection (1), the Registrar shall provide to the person any information that the Registrar considers necessary to assist the person in assessing the risk to the health or safety of the user.
+
+
+
+
+
+
+
+
+
+(2) Lorsque le directeur communique avec une personne conformément au paragraphe (1), il lui fournit tous les renseignements qu’il estime nécessaires pour l’aider à évaluer le risque que l’instrument peut présenter pour la santé ou la sécurité de l’utilisateur.
+
+
+
+Renseignements à fournir
+
+
+
+
+
+
+
+
+
+
+Electronic Filing
+
+
+
+
+
+
+
+
+
+Transmission électronique
+
+
+
+
+
+
+
+
+
+
+
+
+Electronic filing
+
+
+
+9. Subject to the regulations, any notices and documents that are sent to or issued by the Registrar under this or any other Act of Parliament may be sent or issued in electronic or other form in any manner specified by the Registrar.
+
+
+
+
+
+
+
+
+
+9. Sous réserve des règlements, les avis et documents que le directeur envoie ou reçoit aux termes de la présente loi ou de toute autre loi fédérale peuvent être transmis sur support électronique ou autre, de la manière qu’il précise.
+
+
+
+Transmission électronique
+
+
+
+
+
+
+
+
+
+
+Organization of Registry
+
+
+
+10. (1) The Registry shall be organized in the manner and kept in the form determined by the Registrar.
+
+
+
+
+
+
+
+
+
+10. (1) Le Registre est tenu en la forme et selon les modalités fixées par le directeur.
+
+
+
+Forme du Registre
+
+
+
+
+
+
+
+
+
+
+Probative value
+
+
+
+(2) Where the Registrar maintains a record of a document otherwise than in written or printed form, an extract from that record that is certified by the Registrar has the same probative value as the document would have had if it had been proved in the ordinary way.
+
+
+
+
+
+
+
+
+
+(2) En cas de conservation de documents par le directeur sous une forme non écrite, ou non imprimée, les extraits qui en sont certifiés conformes par celui-ci ont la même force probante que des originaux écrits.
+
+
+
+Force probante
+
+
+
+
+
+
+
+
+
+
+Confidentiality
+
+
+
+
+
+
+
+
+
+Confidentialité
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibited disclosure of name and address of user
+
+
+
+11. Information described in paragraph 5(1)(a) that is contained in the Registry is confidential, and the Registrar shall not disclose the information to anyone, including an agency of the Crown, without the written consent of the person to whom the information relates, given after the person has been informed of the purpose for which the consent is sought.
+
+
+
+
+
+
+
+
+
+11. Les renseignements visés à l’alinéa 5(1)a) qui sont inscrits au Registre sont confidentiels et le directeur ne peut les divulguer à quiconque, y compris un organisme mandataire de l’État, sans le consentement écrit de la personne à laquelle ils se rapportent, donné après qu’elle a été informée du but dans lequel il est demandé.
+
+
+
+Interdiction de divulguer les nom et adresse de l’utilisateur
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+12. The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Act, including regulations
+
+
+
+
+
+
+
+
+(a) for the purposes of the definition “home-use medical device”, prescribing any kind of medical device intended to be used by a person in a home environment for purposes related to their health care;
+
+
+
+
+
+
+
+
+(b) prescribing information to be contained in the Registry for the purposes of paragraph 4(1)(c);
+
+
+
+
+
+
+
+
+(c) respecting the destruction of information kept in the Registry for the purposes of subsection 4(3);
+
+
+
+
+
+
+
+
+(d) respecting information to be submitted by a medical practitioner for the purposes of subsection 5(1);
+
+
+
+
+
+
+
+
+(e) respecting information to be provided by manufacturers, importers and distributors for the purposes of section 7; and
+
+
+
+
+
+
+
+
+(f) exempting any medical device, or type of medical device, from the application of this Act if the Minister is of the opinion that the exemption is in the public interest and consistent with public health and safety.
+
+
+
+
+
+
+
+
+
+12. Sur recommandation du ministre, le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application de la présente loi, notamment :
+
+
+
+Règlements
+
+
+
+
+a) pour l’application de la définition de « instrument médical pour usage à domicile », prescrire les types d’instruments médicaux destinés à un usage à domicile à des fins liées aux soins de santé;
+
+
+
+
+
+
+
+
+b) prévoir les renseignements que doit contenus dans le Registre pour l’application de l’alinéa 4(1)c);
+
+
+
+
+
+
+
+
+c) régir la destruction des renseignements contenus dans le Registre pour l’application du paragraphe 4(3);
+
+
+
+
+
+
+
+
+d) régir les renseignements que les médecins doivent communiquer pour l’application du paragraphe 5(1);
+
+
+
+
+
+
+
+
+e) régir les renseignements que les fabricants, les importateurs et les distributeurs doivent fournir pour l’application de l’article 7;
+
+
+
+
+
+
+
+
+f) exempter de l’application de la présente loi tout instrument médical ou type d’instrument médical, si le ministre estime que cette exemption est dans l’intérêt public et tient compte de la santé et de la sécurité publiques.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+13. This Act comes into force on a day, not later than two years after the day on which it receives royal assent, to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+13. La présente loi entre en vigueur à la date fixée par décret, mais au plus tard deux ans après la date de sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

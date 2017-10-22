@@ -1,0 +1,2327 @@
+
+
+
+
+
+C-619
+
+
+
+
+
+C-619
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-619
+
+
+
+
+
+PROJET DE LOI C-619
+
+
+
+
+
+
+An Act to ensure Canada assumes its responsibilities in preventing dangerous climate change
+
+
+
+
+
+Loi visant à assurer l’acquittement des responsabilités du Canada pour la prévention des changements climatiques dangereux
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 16, 2014
+
+première lecture le 16 juin 2014
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Kellway
+
+412187
+
+
+
+M. Kellway
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to ensure that Canada meets its global climate change obligations under the United Nations Framework Convention on Climate Change by committing to a long-term target to reduce Canadian domestic greenhouse gas emissions to a level that is at least 80% below the 1990 level by the year 2050, and by establishing interim targets for the period 2020 to 2045. It creates an obligation for the Commissioner of the Environment and Sustainable Development to review proposed measures to meet the targets and submit a report to Parliament.
+
+
+
+SOMMAIRE
+Le texte vise à faire en sorte que le Canada respecte ses obligations en matière de changement du climat mondial, conformément à la Convention-cadre des Nations Unies sur les changements climatiques, en s’engageant à atteindre une cible à long terme selon laquelle les émissions intérieures de gaz à effet de serre du Canada seront, d’ici 2050, réduites d’au moins 80 % par rapport au niveau de 1990 et en établissant des cibles intérimaires pour la période de 2020 à 2045. Il impose au commissaire à l’environnement et au développement durable l’obligation d’examiner les mesures proposées pour atteindre les cibles et de présenter un rapport au Parlement.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-619
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-619
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to ensure Canada assumes its responsibilities in preventing dangerous climate change
+
+
+
+
+
+
+
+
+
+Loi visant à assurer l’acquittement des responsabilités du Canada pour la prévention des changements climatiques dangereux
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas climate change poses a serious threat to the economic well-being, public health, natural resources and environment of Canada;
+
+
+
+
+
+
+
+
+Whereas the impacts of climate change are already being felt in Canada, particularly in the Arctic;
+
+
+
+
+
+
+
+
+Whereas scientific research on the impacts of climate change has led to broad agreement that an increase in the global average surface temperature of two degrees Celsius or more above the level prevailing at the start of the industrial period would constitute dangerous climate change;
+
+
+
+
+
+
+
+
+Whereas scientific research has also identified the atmospheric concentration levels at which greenhouse gases must be stabilized in order to keep global warming to within two degrees and thereby prevent dangerous climate change;
+
+
+
+
+
+
+
+
+And whereas this legislation is intended to ensure that Canada reduces greenhouse gas emissions to an extent similar to that required by all industrial­ized countries in order to prevent dangerous climate change, in accordance with the scientific evidence on the impacts of increased levels of global average surface temperature and the corresponding levels of atmospheric concentrations of greenhouse gases and ocean acidification;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que les changements climatiques constituent une grave menace pour le bien-être économique, la santé publique, les ressources naturelles et l’environnement du Canada;
+
+
+
+
+
+
+
+
+que les effets des changements climatiques se font déjà sentir au Canada, en particulier dans l’Arctique;
+
+
+
+
+
+
+
+
+que la recherche scientifique sur les effets des changements climatiques a entraîné un consensus général sur le fait qu’une augmentation de la température moyenne globale de surface de deux degrés Celsius ou plus par rapport à celle du début de l’ère industrielle constituerait un changement climatique dangereux;
+
+
+
+
+
+
+
+
+que cette recherche a aussi déterminé les niveaux auxquels les concentrations de gaz à effet de serre dans l’atmosphère doivent être stabilisés afin que le réchauffement climatique ne dépasse pas deux degrés et qu’on prévienne ainsi un changement climatique dangereux;
+
+
+
+
+
+
+
+
+que le présent texte vise à ce que le Canada, pour éviter des changements climatiques dangereux, réduise ses émissions de gaz à effet de serre dans une mesure comparable à celle exigée par les pays industrialisés, en s’appuyant sur la preuve scientifique relative aux effets des hausses de la température moyenne globale de surface et des niveaux correspondants de concentrations de gaz à effet de serre dans l’atmosphère et d’acidification des océans,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : 
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Climate Change Accountability Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la responsabilité en matière de changements climatiques.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“Canadian greenhouse gas emissions”« émissions canadiennes de gaz à effet de serre »
+
+
+
+“Canadian greenhouse gas emissions” means the total of annual domestic emissions, excluding emissions from land use, land-use change and forestry, quantified in the national inventory.
+
+
+
+
+“Commissioner”« commissaire »
+
+
+
+“Commissioner” means the Commissioner of the Environment and Sustainable Development appointed under subsection 15.1(1) of the Auditor General Act.
+
+
+
+
+“greenhouse gases”« gaz à effet de serre »
+
+
+
+“greenhouse gases” means the following substances, as they appear on the List of Toxic Substances in Schedule 1 to the Canadian Environmental Protection Act, 1999:
+
+
+
+
+
+
+
+
+(a) carbon dioxide, which has the molecular formula CO2;
+
+
+
+
+
+
+
+
+(b) methane, which has the molecular formula CH4;
+
+
+
+
+
+
+
+
+(c) nitrous oxide, which has the molecular formula N2O;
+
+
+
+
+
+
+
+
+(d) hydrofluorocarbons, which have the molecular formula CnHxF(2n+2-x) in which 0&amp;lt;n&lt;6;
+
+
+
+
+
+
+
+
+(e) the following perfluorocarbons:
+
+
+
+
+
+
+
+
+(i) those that have the molecular formula CnF2n+2 in which 0&lt;n&lt;7, and
+
+
+
+
+
+
+
+
+(ii) octafluorocyclobutane, which has the molecular formula C4F8; and
+
+
+
+
+
+
+
+
+(f) sulphur hexafluoride, which has the molecular formula SF6.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of the Environment.
+
+
+
+
+“national inventory”« inventaire national »
+
+
+
+“national inventory” means Canada’s national inventory report communicated in accordance with Article 12, paragraph 1(a), of the UNFCCC.
+
+
+
+
+“target plan”« plan des cibles à atteindre »
+
+
+
+“target plan” means the interim Canadian greenhouse gas emissions target plan referred to in subsection 6(1).
+
+
+
+
+“UNFCCC”« CCNUCC »
+
+
+
+“UNFCCC” means the United Nations Framework Convention on Climate Change.
+
+
+
+
+“1990 level”« niveau de 1990 »
+
+
+
+“1990 level” means the level of emissions, excluding emissions and removals from land use, land-use change and forestry, quantified for the year 1990 in the most recent national inventory that quantifies emissions for the year 1990.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« CCNUCC » La Convention-cadre des Nations Unies sur les changements climatiques.
+
+
+
+« CCNUCC »“UNFCCC”
+
+
+
+
+« commissaire » Le commissaire à l’environnement et au développement durable nommé en application du paragraphe 15.1(1) de la Loi sur le vérificateur général. 
+
+
+
+« commissaire »“Commissioner”
+
+
+
+
+« émissions canadiennes de gaz à effet de serre » Les émissions intérieures annuelles totales — à l’exclusion des émissions résultant de l’utilisation des terres, des changements d’affectation des terres et de la foresterie — quantifiées dans l’inventaire national.
+
+
+
+« émissions canadiennes de gaz à effet de serre »“Canadian greenhouse gas emissions”
+
+
+
+
+« gaz à effet de serre » Les substances ci-après, telles qu’elles sont inscrites sur la liste des substances toxiques de l’annexe 1 de la Loi canadienne sur la protection de l’environnement (1999) :
+
+
+
+« gaz à effet de serre »“greenhouse gases”
+
+
+
+
+a) le dioxyde de carbone, dont la formule moléculaire est CO2;
+
+
+
+
+
+
+
+
+b) le méthane, dont la formule moléculaire est CH4;
+
+
+
+
+
+
+
+
+c) l’oxyde nitreux, dont la formule moléculaire est N2O;
+
+
+
+
+
+
+
+
+d) les hydrofluorocarbures, dont la formule moléculaire est CnHxF(2n+2-x), où 0&lt;n&lt;6;
+
+
+
+
+
+
+
+
+e) les hydrocarbures perfluorés suivants :
+
+
+
+
+
+
+
+
+(i) ceux dont la formule moléculaire est CnF2n+2, où 0&lt;n&lt;7,
+
+
+
+
+
+
+
+
+(ii) l’octafluorocyclobutane, dont la formule moléculaire est C4F8;
+
+
+
+
+
+
+
+
+f) l’hexafluorure de soufre, dont la formule moléculaire est SF6.
+
+
+
+
+
+
+
+
+« inventaire national » Rapport sur l'inventaire national du Canada communiqué conformément à l'alinéa 1a) de l'article 12 de la CCNUCC.
+
+
+
+« inventaire national »“national inventory”
+
+
+
+
+« ministre » Le ministre de l’Environnement.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« niveau de 1990 » Le niveau d’émissions — exclusion faite des émissions et des absorptions résultant de l'utilisation des terres, des changements d'affectation des terres et de la foresterie — quantifiées pour l’année 1990 dans l’inventaire national le plus récent qui quantifie les émissions pour cette année.
+
+
+
+« niveau de 1990 »“1990 level”
+
+
+
+
+« plan des cibles à atteindre » Le plan intérimaire d’émissions canadiennes de gaz à effet de serre visé au paragraphe 6(1).
+
+
+
+« plan des cibles à atteindre »“target plan”
+
+
+
+
+
+
+
+
+
+
+PURPOSE
+
+
+
+
+
+
+
+
+
+OBJET
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+3. The purpose of this Act is to ensure that Canada contributes fully to the stabilization of greenhouse gas concentrations in the atmos­phere at a level that would prevent dangerous anthropogenic interference with the climate system.
+
+
+
+
+
+
+
+
+
+3. La présente loi a pour objet d’assurer la pleine participation du Canada à la stabilisation des concentrations de gaz à effet de serre dans l’atmosphère à un niveau qui empêcherait toute interférence anthropique dangereuse avec le système climatique.
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+HER MAJESTY
+
+
+
+
+
+
+
+
+
+SA MAJESTÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Binding on Her Majesty
+
+
+
+4. This Act is binding on Her Majesty in right of Canada.
+
+
+
+
+
+
+
+
+
+4. La présente loi lie Sa Majesté du chef du Canada. 
+
+
+
+Obligation de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+COMMITMENT
+
+
+
+
+
+
+
+
+
+ENGAGEMENT
+
+
+
+
+
+
+
+
+
+
+
+
+Commitment
+
+
+
+5. The Government of Canada must ensure that Canadian greenhouse gas emissions are reduced, subject to the ultimate objectives of the UNFCCC,
+
+
+
+
+
+
+
+
+(a) as a long-term target, to a level that is at least 80% below the 1990 level by the year 2050; and
+
+
+
+
+
+
+
+
+(b) as a medium-term target, valid prior to the target plan referred to in subsection 6(1), to a level that is 34% below the 1990 level by the year 2025.
+
+
+
+
+
+
+
+
+
+5. Le gouvernement du Canada veille à ce que le niveau des émissions canadiennes de gaz à effet de serre soit réduit, sous réserve des objectifs ultimes de la CCNUCC : 
+
+
+
+Engagement
+
+
+
+
+a) d’au moins 80 % par rapport au niveau de 1990 d’ici 2050, comme cible à long terme;
+
+
+
+
+
+
+
+
+b) de 34 % par rapport au niveau de 1990 d’ici 2025, comme cible à moyen terme, valable avant l'établissement du plan des cibles à atteindre visé au paragraphe 6(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERIM CANADIAN GREENHOUSE GAS EMISSIONS TARGET PLAN
+
+
+
+
+
+
+
+
+
+PLAN INTÉRIMAIRE D'ÉMISSIONS CANADIENNES DE GAZ À EFFET DE SERRE 
+
+
+
+
+
+
+
+
+
+
+
+
+Target plan
+
+
+
+6. (1) The Minister must, within six months after this Act receives royal assent, prepare and cause to be laid before each House of Parliament an interim Canadian greenhouse gas emissions target plan for the years 2020, 2025, 2030, 2035, 2040 and 2045. The target plan must
+
+
+
+
+
+
+
+
+(a) establish a Canadian greenhouse gas emissions target for each of those years;
+
+
+
+
+
+
+
+
+(b) specify the scientific, economic and technological evidence and analysis used to establish each target, including consideration of the latest reports from the Intergovernmental Panel on Climate Change and the most stringent greenhouse gas emissions targets adopted by other foreign governments; and
+
+
+
+
+
+
+
+
+(c) show that each target is consistent with an ambitious and equitable contribution by Canada, comparable in effort to the contributions of all developed countries as a group, to the UNFCCC’s ultimate objective of preventing dangerous anthropogenic interference with the climate system.
+
+
+
+
+
+
+
+
+
+6. (1) Dans les six mois suivant la sanction de la présente loi, le ministre établit et dépose devant chaque chambre du Parlement un plan intérimaire d’émissions canadiennes de gaz à effet de serre pour les années 2020, 2025, 2030, 2035, 2040 et 2045. Ce plan :
+
+
+
+Plan des cibles à atteindre
+
+
+
+
+a) prévoit une cible d'émissions canadiennes de gaz à effet de serre pour chacune de ces années;
+
+
+
+
+
+
+
+
+b) fait état des preuves et analyses scientifiques, économiques et technologiques sur lesquelles se fonde chaque cible, notamment l'étude des plus récents rapports du Groupe d'experts intergouvernemental sur l'évolution du climat et les cibles d'émissions de gaz à effet de serre les plus sévères adoptées par des gouvernements étrangers;
+
+
+
+
+
+
+
+
+c) démontre que chaque cible correspond à une contribution équitable et ambitieuse du Canada — qui s’apparente en effort aux contributions des pays développés dans leur ensemble — à l’atteinte de l'objectif ultime de la CCNUCC consistant à empêcher toute interférence anthropique dangereuse avec le système climatique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annual review of target plan 
+
+
+
+(2) The Minister must review the target plan at least once every five years commencing with the year 2020, and any revised target plan is to be subject to all the requirements of subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Le ministre examine le plan des cibles à atteindre au moins tous les cinq ans à compter de l’année 2020; tout plan révisé est assujetti aux exigences du paragraphe (1).
+
+
+
+Examen annuel du plan des cibles à atteindre
+
+
+
+
+
+
+
+
+
+
+Review of target plan against carbon budget
+
+
+
+(3) The Minister must also review the target plan if a carbon budget for Canada is established within the context of the UNFCCC or any other relevant international or multi-lateral agreement, in which case the Minister must demonstrate that the reviewed plan can ensure that overall cumulative Canadian greenhouse gas emissions remain within the limits set by that carbon budget.
+
+
+
+
+
+
+
+
+
+(3) Le ministre examine également le plan des cibles à atteindre dans le cas où un bilan du carbone est établi pour le Canada dans le contexte de la CCNUCC ou de tout autre accord international ou multilatéral pertinent; il démontre alors que ce plan peut faire en sorte que le total cumulatif des émissions canadiennes de gaz à effet de serre respecte les limites fixées par le bilan du carbone.
+
+
+
+Examen du plan des cibles à atteindre  par rapport au bilan du carbone 
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+7. (1) The Governor in Council may make regulations under this Act within the limits of federal constitutional authority
+
+
+
+
+
+
+
+
+(a) limiting the amount of greenhouse gases that may be released into the environment;
+
+
+
+
+
+
+
+
+(b) limiting the amount of greenhouse gases that may be released in each province by applying to each province the commitment made under section 5 and the interim Canadian greenhouse gas emission targets referred to in section 6, or limiting the amount of greenhouse gases that may be released in each province to an amount agreed to by each province, provided that the sum of the amounts of all provinces does not exceed the amount provided for in the commitment made under section 5 and the interim Canadian greenhouse gas emission targets referred to in section 6;
+
+
+
+
+
+
+
+
+(c) establishing performance standards designed to limit greenhouse gas emissions;
+
+
+
+
+
+
+
+
+(d) respecting the use or production of any equipment, technology, fuel, vehicle or process in order to limit greenhouse gas emissions;
+
+
+
+
+
+
+
+
+(e) respecting permits or approvals for the release of any greenhouse gas;
+
+
+
+
+
+
+
+
+(f) respecting trading in greenhouse gas emission reductions, removals, permits, credits, or other units;
+
+
+
+
+
+
+
+
+(g) respecting monitoring, inspections, investigations, reporting, enforcement, penalties or other matters to promote compliance with regulations made under this Act;
+
+
+
+
+
+
+
+
+(h) designating the contravention of a provision or class of provisions of the regulations by a person or class of persons as an offence punishable by way of indictment or on summary conviction and prescribing, for a person or class of persons, the amount of the fine and imprisonment for the offence; and 
+
+
+
+
+
+
+
+
+(i) respecting any other matter that is necessary to carry out the purposes of this Act.
+
+
+
+
+
+
+
+
+
+7. (1) Le gouverneur en conseil peut, par règlement pris en vertu de la présente loi dans les limites des compétences constitutionnelles fédérales :
+
+
+
+Règlements
+
+
+
+
+a) limiter la quantité de gaz à effet de serre qui peut être libérée dans l’environnement;
+
+
+
+
+
+
+
+
+b) limiter la quantité de gaz à effet de serre qui peut être libérée dans chaque province en appliquant à chacune l’engagement pris aux termes de l’article 5 ainsi que les cibles intérimaires d’émissions canadiennes de gaz à effet de serre visées à l’article 6, ou limiter la quantité de gaz à effet de serre qui peut être libérée dans chaque province à une quantité dont a convenu la province, pourvu que la somme des quantités autorisées pour toutes les provinces n’excède pas la quantité prévue dans l’engagement pris aux termes de l’article 5 ni les cibles intérimaires d’émissions canadiennes de gaz à effet de serre visées à l’article 6; 
+
+
+
+
+
+
+
+
+c) établir des normes de rendement conçues pour limiter les émissions de gaz à effet de serre;
+
+
+
+
+
+
+
+
+d) régir l’utilisation ou la production d’équipements, de technologies, de combustibles, de véhicules ou de procédés afin de limiter les émissions de gaz à effet de serre;
+
+
+
+
+
+
+
+
+e) régir les permis ou autorisations nécessaires à la libération de gaz à effet de serre;
+
+
+
+
+
+
+
+
+f) régir les échanges en matière de réductions des émissions de gaz à effet de serre, d’absorptions, de permis, de crédits ou d’autres unités;
+
+
+
+
+
+
+
+
+g) régir la surveillance, les inspections, les enquêtes, les rapports, les mesures  d’application, les peines et les autres questions visant à favoriser la conformité aux règlements pris en vertu de la présente loi; 
+
+
+
+
+
+
+
+
+h) désigner la contravention à une disposition ou une catégorie de dispositions des règlements commise par une personne ou une catégorie de personnes comme une infraction punissable par mise en accusation ou par procédure sommaire et prévoir, à l’égard de cette personne ou catégorie de personnes, le montant de l’amende et la durée de l’emprisonnement; 
+
+
+
+
+
+
+
+
+i) régir toute autre question nécessaire à l’application de la présente loi. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Measures province considers appropriate
+
+
+
+(2) Despite paragraph (1)(b), and for greater certainty, each province may take any measure that it considers appropriate to limit greenhouse gas emissions.
+
+
+
+
+
+
+
+
+
+(2) Malgré l’alinéa (1)b), il est entendu que chaque province peut mettre en oeuvre les mesures qu’elle juge appropriées pour limiter les émissions de gaz à effet de serre.
+
+
+
+Mesures qu’une province considère appropriées 
+
+
+
+
+
+
+
+
+
+
+Consultation for proposed regulations
+
+
+
+8. At least 60 days before making any regulations under this Act, the Governor in Council must publish the proposed regulations in the Canada Gazette together with a statement that specifies that persons may submit comments in respect of the proposed regulations to the Minister within 30 days after their publication.
+
+
+
+
+
+
+
+
+
+8. Au moins soixante jours avant la prise d’un règlement sous le régime de la présente loi, le gouverneur en conseil publie le projet de règlement dans la Gazette du Canada, accompagné d’un avis indiquant que les intéressés peuvent, dans les trente jours suivant la publication du projet de règlement, présenter au ministre leurs observations au sujet de celui-ci.
+
+
+
+Consultation sur le projet de règlement
+
+
+
+
+
+
+
+
+
+
+GOVERNOR IN COUNCIL
+
+
+
+
+
+
+
+
+
+GOUVERNEUR EN CONSEIL
+
+
+
+
+
+
+
+
+
+
+
+
+Canada to meet its commitment and targets
+
+
+
+9. (1) The Governor in Council must ensure that Canada fully meets its commitment under section 5 and fully meets the interim Canadian greenhouse gas emission targets referred to in section 6 by
+
+
+
+
+
+
+
+
+(a) ensuring that Canada’s positions in all international climate change discussions and in all negotiations with governments and other entities, particularly discussions and negotiations resulting from decisions of the Conference of the Parties to the UNFCCC, are fully consistent with meeting the commitment made under section 5 and the interim Canadian greenhouse gas emission targets referred to in section 6;
+
+
+
+
+
+
+
+
+(b) ensuring that the policy of the Government of Canada is fully consistent with meeting the commitment made under section 5 and the interim Canadian greenhouse gas emission targets referred to in section 6; and
+
+
+
+
+
+
+
+
+(c) making, amending or repealing, pursuant to section 7, the necessary regulations under this Act.
+
+
+
+
+
+
+
+
+
+9. (1) Le gouverneur en conseil veille à ce que le Canada respecte intégralement l’engagement pris aux termes de l’article 5 ainsi que les cibles intérimaires d’émissions canadiennes de gaz à effet de serre visées à l’article 6 :
+
+
+
+Respect de l’engagement et des cibles
+
+
+
+
+a) en s’assurant que la position du Canada dans le cadre de toutes les discussions à l’échelle internationale sur les changements climatiques et de toutes les négociations avec des gouvernements ou autres entités, en particulier les discussions et négociations faisant suite aux décisions de la Conférence des Parties à la CCNUCC, est entièrement compatible avec le respect de cet engagement et de ces cibles;
+
+
+
+
+
+
+
+
+b) en s’assurant que les orientations du gouvernement du Canada sont entièrement compatibles avec le respect de cet engagement et de ces cibles;
+
+
+
+
+
+
+
+
+c) en prenant, en modifiant ou en abrogeant, en conformité avec l’article 7, les règlements nécessaires sous le régime de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+(2) Regulations made under subsection (1) to ensure Canada meets the target referred to in paragraph 5(a) and each of the interim Canadian greenhouse gas emission targets referred to in section 6 must be made, amended or repealed under paragraph 9(1)(c)
+
+
+
+
+
+
+
+
+(a) on or before the day that is six months after the day on which this Act receives royal assent, in the case of the target for 2020;
+
+
+
+
+
+
+
+
+(b) on or before December 31, 2018, in the case of the target for 2025; and
+
+
+
+
+
+
+
+
+(c) at least 10 years before the start of the year to which the target applies, in the case of all the other targets.
+
+
+
+
+
+
+
+
+
+(2) Les règlements pris aux termes du paragraphe (1) pour assurer que le Canada respecte la cible visée à l’alinéa 5a) ainsi que chacune des cibles intérimaires d’émissions canadiennes de gaz à effet de serre visées à l’article 6 doivent être pris, modifiés ou abrogés en application de l’alinéa 9(1)c) :
+
+
+
+Règlements
+
+
+
+
+a) dans le cas de la cible pour 2020, au plus tard six mois après la date de sanction de la présente loi;
+
+
+
+
+
+
+
+
+b) dans le cas de la cible pour 2025, au plus tard le 31 décembre 2018; 
+
+
+
+
+
+
+
+
+c) dans le cas des autres cibles, au moins dix ans avant le début de l’année à laquelle s’applique la cible visée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consideration of reductions in greenhouse gas emissions
+
+
+
+(3) In ensuring that Canada fully meets its commitments under sections 5 and 6, pursuant to subsections (1) and (2), the Governor in Council may take into account any reductions in greenhouse gas emissions that are reasonably expected to result from the implementation of other governmental measures, including spending and federal-provincial agreements.
+
+
+
+
+
+
+
+
+
+(3) Pour assurer que le Canada respecte intégralement les engagements visés aux articles 5 et 6 de la façon prévue aux paragraphes (1) et (2), le gouverneur en conseil peut prendre en considération les  réductions d’émissions de gaz à effet de serre auxquelles il est raisonnable de s’attendre après la mise en oeuvre d’autres mesures gouvernementales, notamment l’affectation de fonds et la conclusion d’accords fédéro-provinciaux.
+
+
+
+Prise en considération des réductions d’émissions de gaz à effet de serre 
+
+
+
+
+
+
+
+
+
+
+EXPECTED REDUCTIONS
+
+
+
+
+
+
+
+
+
+RÉDUCTIONS ANTICIPÉES
+
+
+
+
+
+
+
+
+
+
+
+
+Minister’s statement
+
+
+
+10. (1) On or before May 31 of each year, the Minister must prepare a statement setting out
+
+
+
+
+
+
+
+
+(a) the measures taken by the Government of Canada to ensure that its commitment under section 5 and the targets set out in the target plan are being met, including measures taken in respect of
+
+
+
+
+
+
+
+
+(i) regulated emission limits and perform­ance standards,
+
+
+
+
+
+
+
+
+(ii) market-based mechanisms such as emissions trading or offsets,
+
+
+
+
+
+
+
+
+(iii) spending or fiscal incentives, including a just transition fund for the industry, and
+
+
+
+
+
+
+
+
+(iv) cooperation or agreements with prov­inces, territories or other governments;
+
+
+
+
+
+
+
+
+(b) the Canadian greenhouse gas emission reductions that are reasonably expected to result from each of those measures in each of the next 10 years; and
+
+
+
+
+
+
+
+
+(c) the level of Canadian greenhouse gas emissions in each of the following 10 years to be used as a baseline to quantify the reductions referred to in paragraph (b).
+
+
+
+
+
+
+
+
+
+10. (1) Au plus tard le 31 mai de chaque année, le ministre prépare une déclaration dans laquelle il énonce :
+
+
+
+Déclaration du ministre
+
+
+
+
+a) les mesures prises par le gouvernement du Canada pour garantir que l’engagement prévu à l’article 5 et les cibles fixées au plan des cibles à atteindre sont respectés, y compris les mesures prises à l’égard :
+
+
+
+
+
+
+
+
+(i) des réductions des émissions et des normes de rendement réglementées,
+
+
+
+
+
+
+
+
+(ii) des mécanismes axés sur le marché, tels que les échanges de droits d'émissions ou les compensations,
+
+
+
+
+
+
+
+
+(iii) de l’affectation de fonds ou des incitatifs fiscaux, notamment un fonds de transition équitable pour l’industrie,
+
+
+
+
+
+
+
+
+(iv) de la collaboration ou d'accords avec les provinces, les territoires ou d’autres gouvernements;
+
+
+
+
+
+
+
+
+b) les réductions d’émissions canadiennes de gaz à effet de serre auxquelles il est raisonnable de s’attendre après la mise en oeuvre de chacune de ces mesures au cours de chacune des dix prochaines années;
+
+
+
+
+
+
+
+
+c) le niveau d’émissions canadiennes de gaz à effet de serre au cours de chacune des dix prochaines années devant servir de base de référence pour quantifier les réductions visées à l’alinéa b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+
+(2) The Minister must
+
+
+
+
+
+
+
+
+(a) publish the statement in the Canada Gazette and in any other manner that the Minister considers appropriate on or before the day referred to in subsection (1); and
+
+
+
+
+
+
+
+
+(b) table the statement in each House of Parliament on or before the day referred to in subsection (1) or, if the House is not then sitting, on any of the first three days on which that House is sitting after that day.
+
+
+
+
+
+
+
+
+
+(2) Le ministre : 
+
+
+
+Publication
+
+
+
+
+a) publie la déclaration dans la Gazette du Canada et de toute autre façon qu’il estime appropriée dans le délai prévu au paragraphe (1);
+
+
+
+
+
+
+
+
+b) dépose la déclaration devant chaque chambre du Parlement dans le délai prévu au paragraphe (1) ou, si elle ne siège pas, dans les trois premiers jours de séance ultérieurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More stringent target plans
+
+
+
+11. Nothing in this Act precludes the Governor in Council or any province, territory, municipality or First Nation from setting more stringent target plans for greenhouse gas reductions or implementing supplementary measures to reduce greenhouse gas emissions.
+
+
+
+
+
+
+
+
+
+11. La présente loi n’a pas pour effet d’empêcher le gouverneur en conseil, les provinces, les territoires, les municipalités ou les Premières Nations d’établir des plans de cibles à atteindre plus sévères pour les réductions de gaz à effet de serre ou de mettre en oeuvre des mesures supplémentaires visant à réduire les émissions de gaz à effet de serre.
+
+
+
+Plans de cibles à atteindre plus sévères 
+
+
+
+
+
+
+
+
+
+
+OFFENCES AND PENALTIES
+
+
+
+
+
+
+
+
+
+INFRACTIONS ET PEINES 
+
+
+
+
+
+
+
+
+
+
+
+
+Offences
+
+
+
+12. (1) Every person who contravenes a regulation made under this Act is guilty of an offence punishable by way of indictment or on summary conviction, as prescribed by the regulations, and liable to a fine or to imprisonment as prescribed by the regulations.
+
+
+
+
+
+
+
+
+
+12. (1) Quiconque contrevient à un règlement d’application de la présente loi commet une infraction et encourt, sur déclaration de culpabilité, soit par mise en accusation, soit par procédure sommaire, selon ce qui est prévu au règlement, l’amende ou l’emprisonnement prévu au règlement.
+
+
+
+Infractions
+
+
+
+
+
+
+
+
+
+
+Subsequent offence
+
+
+
+(2) If a person is convicted of a subsequent offence, the amount of the fine for the subsequent offence may be double the amount set out in the regulations.
+
+
+
+
+
+
+
+
+
+(2) Le montant de l’amende visée au paragraphe (1) peut être doublé en cas de récidive.
+
+
+
+Récidive
+
+
+
+
+
+
+
+
+
+
+Continuing offence
+
+
+
+(3) A person who commits or continues an offence on more than one day is liable to be convicted for a separate offence for each day on which the offence is committed or continued.
+
+
+
+
+
+
+
+
+
+(3) Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction.
+
+
+
+Infraction continue
+
+
+
+
+
+
+
+
+
+
+Additional fine
+
+
+
+(4) If a person is convicted of an offence and the court is satisfied that monetary benefits accrued to the person as a result of the commission of the offence, the court may order the person to pay an additional fine in an amount equal to the court’s estimation of the amount of the monetary benefits, which additional fine may exceed the maximum amount of any fine that may otherwise be imposed under the regulations.
+
+
+
+
+
+
+
+
+
+(4) Le tribunal peut, s’il constate que le contrevenant a tiré des avantages financiers de la perpétration de l’infraction, lui infliger, en sus de l’amende maximale prévue par les règlements, une amende supplémentaire correspondant à son évaluation de ces avantages.
+
+
+
+Amende supplémentaire
+
+
+
+
+
+
+
+
+
+
+Officers, etc., of corporations
+
+
+
+(5) If a corporation commits an offence, any officer, director, agent or mandatary of the corporation who directed, authorized, assented to, or acquiesced or participated in, the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+
+
+
+
+
+
+
+
+
+(5) En cas de perpétration d’une infraction par une personne morale, ceux de ses dirigeants, administrateurs, agents ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+
+
+Dirigeants d’une personne morale 
+
+
+
+
+
+
+
+
+
+
+Offences by employees or agents
+
+
+
+(6) In any prosecution for an offence, the accused may be convicted of the offence if it is established that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary has been prosecuted for the offence. 
+
+
+
+
+
+
+
+
+
+(6) Dans les poursuites pour infraction, il suffit, pour établir la culpabilité de l’accusé, de prouver que l’infraction a été commise par son employé, agent ou mandataire, que celui-ci ait ou non été poursuivi. 
+
+
+
+Infraction : agent ou mandataire 
+
+
+
+
+
+
+
+
+
+
+REPORT
+
+
+
+
+
+
+
+
+
+RAPPORT
+
+
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+13. (1) At least once every two years after this Act comes into force, the Commissioner must prepare a report that includes
+
+
+
+
+
+
+
+
+(a) an analysis of Canada’s progress in implementing the measures proposed in the statement referred to in subsection 10(2);
+
+
+
+
+
+
+
+
+(b) an analysis of Canada’s progress in meeting its commitment under section 5 and the interim Canadian greenhouse gas emission targets referred to in section 6; and
+
+
+
+
+
+
+
+
+(c) any observations and recommendations on any matter that the Commissioner considers relevant.
+
+
+
+
+
+
+
+
+
+13. (1) Au moins tous les deux ans suivant l’entrée en vigueur de la présente loi, le commissaire prépare un rapport comportant notamment :
+
+
+
+Rapport
+
+
+
+
+a) une analyse des progrès réalisés par le Canada pour mettre en oeuvre les mesures proposées dans la déclaration visée au paragraphe 10(2);
+
+
+
+
+
+
+
+
+b) une analyse des progrès réalisés par le Canada pour respecter l'engagement prévu à l’article 5 et les cibles intérimaires d'émissions canadiennes de gaz à effet de serre visées à l'article 6;
+
+
+
+
+
+
+
+
+c) toutes autres observations et recommandations sur toute question qu’il estime pertinente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report made public
+
+
+
+(2) The Commissioner must publish the report in any manner the Commissioner considers appropriate within the period referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Le commissaire publie le rapport de la façon qu’il juge appropriée dans le délai prévu au paragraphe (1).
+
+
+
+Publication du rapport
+
+
+
+
+
+
+
+
+
+
+Tabling of report
+
+
+
+(3) The Commissioner must submit the report to the Speaker of the House of Commons on or before the day it is published, and the Speaker must table the report in the House on any of the first three days on which that House is sitting after the Speaker receives it.
+
+
+
+
+
+
+
+
+
+(3) Le commissaire présente le rapport au président de la Chambre des communes au plus tard le jour où il est publié et le président le dépose devant la Chambre dans les trois premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt du rapport
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,906 @@
+
+
+
+
+
+C-691
+
+
+
+
+
+C-691
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-691
+
+
+
+
+
+PROJET DE LOI C-691
+
+
+
+
+
+
+An Act to amend the Income Tax Act (business transfer)
+
+
+
+
+
+Loi modifiant la Loi de l’impôt sur le revenu (transmission d’entreprises)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 11, 2015
+
+première lecture le 11 juin 2015
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Dubourg
+
+412321
+
+
+
+M. Dubourg
+
+
+
+
+
+SUMMARY
+This enactment amends the Income Tax Act in order to exclude, under certain conditions, the transfer of qualified small business corporation shares by a taxpayer to the taxpayer's child or grandchild who is 18 years of age or older from the anti-avoidance rule of section 84.1.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi de l’impôt sur le revenu afin d’exclure de l’application de la règle anti-évitement prévue à l’article 84.1 de cette loi la transmission, dans certaines conditions, d’actions admissibles de petites entreprises par un contribuable à son enfant ou petit-enfant âgé de 18 ans ou plus.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-691
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-691
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Income Tax Act (business transfer)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de l’impôt sur le revenu (transmission d’entreprises)
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas the aging of the population will lead to an increased volume of business transfers;
+
+
+
+
+
+
+
+
+Whereas the majority of small businesses do not survive the first transfer;
+
+
+
+
+
+
+
+
+Whereas the continuity of small businesses is essential to the employment market;
+
+
+
+
+
+
+
+
+Whereas young entrepreneurs find it difficult to procure the capital necessary to take over a business;
+
+
+
+
+
+
+
+
+Whereas many entrepreneurs want their children or grandchildren to take over their business and transferring a business to a family member offers the best chance of success;
+
+
+
+
+
+
+
+
+Whereas the Parliament of Canada must encourage economic growth and job creation and, to that end, must ensure that markets are fair and competitive;
+
+
+
+
+
+
+
+
+Whereas horizontal equity of taxation is a fundamental element of a fair and competitive business environment;
+
+
+
+
+
+
+
+
+And whereas the Income Tax Act penalizes business transfers to children or grandchildren;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que le vieillissement de la population entraînera un volume élevé de transmissions d’entreprises;
+
+
+
+
+
+
+
+
+que la majorité des petites entreprises ne survivent pas à la première succession;
+
+
+
+
+
+
+
+
+que la pérennité des petites entreprises est essentielle au marché de l’emploi;
+
+
+
+
+
+
+
+
+que les jeunes entrepreneurs ont de la difficulté à se procurer le capital nécessaire pour assurer la relève d’une entreprise;
+
+
+
+
+
+
+
+
+que de nombreux entrepreneurs souhaitent que leurs enfants ou petits-enfants prennent la relève de leur entreprise, la transmission de celle-ci à un membre de la famille offrant par ailleurs la meilleure chance de succès;
+
+
+
+
+
+
+
+
+que le Parlement du Canada doit encourager la  croissance économique et la création d’emplois et, pour ce faire, veiller à ce que les marchés soient équitables et compétitifs;
+
+
+
+
+
+
+
+
+que l’équité horizontale de la fiscalité constitue un élément fondamental d’un environnement entrepreneurial juste et compétitif;
+
+
+
+
+
+
+
+
+que la Loi de l’impôt sur le revenu pénalise les transmissions d’entreprises aux enfants et petits-enfants,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 1 (5th Supp.)
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. 1 (5e suppl.)
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) Subsection 84.1(2) of the Income Tax Act is amended by striking out “and” at the end of paragraph (b), by adding “and” at the end of paragraph (d), and by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+1. (1) Le paragraphe 84.1(2) de la Loi de l’impôt sur le revenu est modifié par adjonction, après l’alinéa d), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e) where the subject shares are qualified small business corporation shares within the meaning of subsection 110.6(1), the taxpayer and the purchaser are deemed to be dealing at arm’s length if the purchaser is controlled by a child or grandchild of the taxpayer who is 18 years of age or older and if the purchaser does not dispose of the subject shares within 24 months of their purchase.
+
+
+
+
+
+
+
+
+
+e) dans le cas où les actions concernées sont des actions admissibles de petite entreprise au sens du paragraphe 110.6(1), le contribuable et l’acheteur sont réputés n’avoir entre eux aucun lien de dépendance si, d’une part, l’acheteur est contrôlé par l'enfant ou le petit-enfant du contribuable alors que cet enfant ou ce petit-enfant est âgé de 18 ans ou plus et si, d’autre part, tout au long de la période de 24 mois suivant l’achat, l’acheteur n’a pas disposé des actions concernées.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 84.1 of the Act is amended by adding the following after subsection (2.2):
+
+
+
+
+
+
+
+
+
+(2) L’article 84.1 de la même loi est modifié par adjonction, après le paragraphe (2.2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application of paragraph 84.1(2)(e)
+
+
+
+(2.3) For the purposes of paragraph (2)(e), 
+
+
+
+
+
+
+
+
+(a) if the purchaser disposes of the subject shares within 24 months of their purchase:
+
+
+
+
+
+
+
+
+(i) paragraph (2)(e) is deemed never to have applied,
+
+
+
+
+
+
+
+
+(ii) the taxpayer is deemed, for the purposes of this section, to have disposed of the subject shares to the person who acquired them from the purchaser, and
+
+
+
+
+
+
+
+
+(iii) the period of 24 months applicable to the operation that is deemed to have taken place under subparagraph (ii) is deemed to have begun when the taxpayer disposed of the subject shares to the purchaser;
+
+
+
+
+
+
+
+
+(b) the deduction referred to in subsection 110.6(2) or (2.1) corresponds to the result of the following calculation:
+
+
+
+
+
+
+
+
+ A × B / $11,250
+
+
+
+
+
+
+
+
+where
+
+
+
+
+
+
+
+
+A      is the amount that would, but for this subsection, be the capital gains deduction referred to in subsection 110.6(2) or (2.1); and
+
+
+
+
+
+
+
+
+B      is the amount determined by the formula
+
+
+
+
+
+
+
+
+  0.00225 × (D - $10 million)
+
+
+
+
+
+
+
+
+where
+
+
+
+
+
+
+
+
+D      is
+
+
+
+
+
+
+
+
+(a) if, in both the particular taxation year and the preceding taxation year, the corporation is not associated with any corporation, the taxable capital employed in Canada (within the meaning assigned by subsection 181.2(1) or 181.3(1) or section 181.4, as the case may be) of the corporation for the preceding taxation year,
+
+
+
+
+
+
+
+
+(b) if, in the particular taxation year, the corporation is not associated with any corporation but was associated with one or more corporations in the preceding taxation year, the taxable capital employed in Canada (within the meaning assigned by subsection 181.2(1) or 181.3(1) or section 181.4, as the case may be) of the corporation for the particular taxation year, or
+
+
+
+
+
+
+
+
+(c) if, in the particular taxation year, the corporation is associated with one or more particular corporations, the total of all amounts, each of which is the taxable capital employed in Can-ada (within the meaning assigned by subsection 181.2(1) or 181.3(1) or section 181.4, as the case may be) of the corporation or of any of the particular corporations for its last taxation year that ended in the preceding calendar year; and
+
+
+
+
+
+
+
+
+(c) the taxpayer must provide the Minister with an independent assessment of the fair market value of the subject shares and an affidavit signed by the taxpayer and by a third party attesting to the transaction.
+
+
+
+
+
+
+
+
+
+(2.3) Pour l’application de l’alinéa (2)e) :
+
+
+
+Application de l’alinéa 84.1(2)e)
+
+
+
+
+a) si l’acheteur dispose des actions concernées au cours de la période de 24 mois suivant l’achat, les règles ci-après s’appliquent :
+
+
+
+
+
+
+
+
+(i) l’alinéa (2)e) est réputé ne s’être jamais appliqué,
+
+
+
+
+
+
+
+
+(ii) le contribuable est réputé, pour l’application du présent article, avoir disposé des actions concernées en faveur de la personne qui les a acquises de l’acheteur,
+
+
+
+
+
+
+
+
+(iii) la période de 24 mois applicable à l’opération qui est réputée avoir eu lieu au titre du sous-alinéa (ii) est réputée avoir commencé au moment de la disposition des actions concernées par le contribuable en faveur de l’acheteur;
+
+
+
+
+
+
+
+
+b) la déduction visée aux paragraphes 110.6(2) ou (2.1) correspond au résultat du calcul suivant :
+
+
+
+
+
+
+
+
+ A × B / 11 250 $
+
+
+
+
+
+
+
+
+où :
+
+
+
+
+
+
+
+
+A      représente le montant qui correspondrait au montant de la déduction pour gain en capital visée aux paragraphes 110.6(2) ou (2.1) n’eût été le présent alinéa;
+
+
+
+
+
+
+
+
+B      la somme obtenue par la formule suivante :
+
+
+
+
+
+
+
+
+  0,00225 × (D - 10 000 000 $)
+
+
+
+
+
+
+
+
+où :
+
+
+
+
+
+
+
+
+D      représente, selon le cas : 
+
+
+
+
+
+
+
+
+a) si la société n’est associée à aucune société au cours de l’année donnée et de l’année d’imposition précédente, son capital imposable utilisé au Canada (au sens des paragraphes 181.2(1) ou 181.3(1) ou de l’article 181.4, selon le cas) pour l’année d’imposition précédente,
+
+
+
+
+
+
+
+
+b) si la société n’est associée à aucune société au cours de l’année donnée, mais était associée à une ou plusieurs sociétés au cours de l’année d’imposition précédente, son capital imposable utilisé au Canada (au sens des paragraphes 181.2(1) ou 181.3(1) ou de l’article 181.4, selon le cas) pour l’année donnée,
+
+
+
+
+
+
+
+
+c) si la société est associée à une ou plusieurs sociétés données au cours de l’année donnée, le total des sommes représentant chacune le capital imposable utilisé au Canada (au sens des paragraphes 181.2(1) ou 181.3(1) ou de l’article 181.4, selon le cas) de la société, ou d’une des sociétés données, pour sa dernière année d’imposition se terminant dans l’année civile précédente;
+
+
+
+
+
+
+
+
+c) le contribuable doit fournir au ministre une évaluation indépendante de la juste valeur marchande des actions concernées et un affidavit signé par lui et par un tiers attestant de la transaction.
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

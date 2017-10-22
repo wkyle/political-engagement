@@ -1,0 +1,874 @@
+
+
+
+
+
+C-684
+
+
+
+
+
+C-684
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-684
+
+
+
+
+
+PROJET DE LOI C-684
+
+
+
+
+
+
+An Act to amend the Canadian Environmental Protection Act, 1999 (microplastics)
+
+
+
+
+
+Loi modifiant la Loi canadienne sur la protection de l’environnement (1999) (microplastiques)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 2, 2015
+
+première lecture le 2 juin 2015
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Pacetti
+
+412226
+
+
+
+M. Pacetti
+
+
+
+
+
+SUMMARY
+This enactment amends the Canadian Environmental Protection Act, 1999 to prohibit the manufacture for use or sale in Canada and the importation of personal care products that contain microplastics.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi canadienne sur la protection de l’environnement (1999) afin d’interdire la fabrication en vue de l’utilisation ou de la vente au Canada ou l’importation  de produits de soins personnels contenant des microplastiques.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-684
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-684
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canadian Environmental Protection Act, 1999 (microplastics)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi canadienne sur la protection de l’environnement (1999) (microplastiques)
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas plastic does not biodegrade like other organic materials, but rather, upon exposure to the elements, photodegrades into smaller pieces causing land and water pollution that is impossible to remediate;
+
+
+
+
+
+
+
+
+Whereas plastic pollution is the dominant type of anthropogenic debris found throughout the marine environment;
+
+
+
+
+
+
+
+
+Whereas plastic pollution is an environmental and human health hazard and a public nuisance;
+
+
+
+
+
+
+
+
+Whereas consumer personal care products such as facial scrubs, soaps and toothpaste increasingly contain thousands of microplastic particles, ranging from 50 to 500 microns in size, that are flushed down household drains on a daily basis as part of their intended use;
+
+
+
+
+
+
+
+
+Whereas microplastics used in personal care products are not recoverable through ordinary wastewater treatment and consequently are released into the environment;
+
+
+
+
+
+
+
+
+Whereas microplastics of the size found in personal care products are ingested by marine organisms;
+
+
+
+
+
+
+
+
+Whereas microplastics are persistent organic compounds that attract other pollutants commonly present in the environment, many of which are recognized to have serious deleterious impacts on human health or the environment, including DDT, DDE, PCBs, and chemicals with flame-retardant properties;
+
+
+
+
+
+
+
+
+Whereas microplastics have been found in the inland waters of North America, as well as in the fish, marine mammals and reptiles and in the digestive and circulatory systems of the mussels and worms living in those waters;
+
+
+
+
+
+
+
+
+Whereas PAHs, PCBs and PBDEs from plastic transfer to fish tissue during digestion and bioaccumulate in the tissue, resulting in liver damage;
+
+
+
+
+
+
+
+
+Whereas fish that are frequently consumed by humans have been found to ingest microplastics;
+
+
+
+
+
+
+
+
+Whereas scientists based at the Vancouver Aquarium and the University of Victoria have discovered high concentrations of microplastics in the coastal waters of British Columbia and in the marine fauna found in those waters;
+
+
+
+
+
+
+
+
+Whereas studies have shown that microplastic contamination is also present in the Great Lakes;
+
+
+
+
+
+
+
+
+Whereas researchers from McGill University and the Government of Quebec have discovered microplastics in the St. Lawrence River in a concentration equivalent to that of the world’s most contaminated ocean sediments;
+
+
+
+
+
+
+
+
+Whereas researchers from Dartmouth College in New Hampshire have discovered widespread microplastic contamination in Arctic waters as a result of the transportation of microplastic pollution by ocean currents;
+
+
+
+
+
+
+
+
+Whereas increasing quantities of microplastics contained within glaciers are being released into Arctic waters as a result of an increase in Arctic temperatures due to climate change;
+
+
+
+
+
+
+
+
+Whereas this microplastic pollution is unnecessary because there are many natural, biodegradable and economically feasible alternatives to microplastics, as evidenced by their use in existing consumer personal care products;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que, contrairement aux autres matières organiques, le plastique ne se biodégrade pas, mais se photodégrade en petits morceaux lorsqu'il est exposé aux éléments, polluant ainsi le sol et l’eau de façon irréversible;
+
+
+
+
+
+
+
+
+que la pollution par les plastiques représente le type de débris anthropiques le plus répandu dans le milieu marin;
+
+
+
+
+
+
+
+
+que la pollution par les plastiques constitue un danger pour l’environnement et la santé humaine ainsi qu’un problème d’ordre public;
+
+
+
+
+
+
+
+
+que de plus en plus de produits de soins personnels comme les désincrustants pour le visage, les savons et les dentifrices contiennent des milliers de particules microplastiques mesurant entre 50 et 500 microns qui s’écoulent chaque jour dans les égouts par suite de l’utilisation de ces produits;
+
+
+
+
+
+
+
+
+que les microplastiques utilisés dans les produits de soins personnels échappent au traitement ordinaire des eaux usées et, par conséquent, sont rejetés dans l’environnement;
+
+
+
+
+
+
+
+
+que les particules microplastiques de la taille de celles contenues dans les produits de soins personnels sont ingérées par les organismes marins;
+
+
+
+
+
+
+
+
+que les microplastiques sont des composés organiques longévifs qui attirent d’autres polluants couramment retrouvés dans l’environnement, dont plusieurs sont reconnus comme ayant de graves effets nocifs sur la santé humaine et l’environnement, tels que le DDT, le DDE et les BPC ainsi que les produits chimiques aux propriétés ignifuges;
+
+
+
+
+
+
+
+
+que la présence de microplastiques a été décelée dans les eaux intérieures de l’Amérique du Nord ainsi que dans les poissons, les mammifères marins et les reptiles vivant dans ces eaux et dans les systèmes digestif et circulatoire des moules et des vers qui s'y trouvent;
+
+
+
+
+
+
+
+
+que les HAP, les BPC et les PBDE provenant du plastique se transfèrent aux tissus des poissons pendant la digestion, où leur bioaccumulation cause des atteintes hépatiques;
+
+
+
+
+
+
+
+
+qu’il a été démontré que les poissons souvent consommés par les humains ingèrent des microplastiques;
+
+
+
+
+
+
+
+
+que des scientifiques de l’Aquarium de Vancouver et de l’Université de Victoria ont découvert des concentrations élevées de microplastiques dans les eaux côtières de la Colombie-Britannique et dans la faune marine qui s'y trouve;
+
+
+
+
+
+
+
+
+que des études ont révélé que les eaux des Grands Lacs sont également contaminées par les microplastiques;
+
+
+
+
+
+
+
+
+que des chercheurs de l’Université McGill et du gouvernement du Québec ont découvert des microplastiques dans le fleuve Saint-Laurent dans une concentration équivalente à la concentration de sédiments mesurée dans les océans les plus contaminés du monde;
+
+
+
+
+
+
+
+
+que des chercheurs du Dartmouth College au New Hampshire ont découvert que les eaux arctiques sont largement contaminées par les microplastiques amenés par les courants océaniques;
+
+
+
+
+
+
+
+
+qu’une quantité croissante de microplastiques contenus dans les glaciers sont relâchés dans les eaux arctiques en raison du réchauffement attribuable aux changements climatiques;
+
+
+
+
+
+
+
+
+que la pollution par les microplastiques pourrait être évitée, puisqu’il existe de nombreux produits naturels, biodégradables et économiquement viables qui peuvent les remplacer, comme en témoigne l'utilisation de ceux-ci dans certains produits de soins personnels déjà offerts,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 33
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : 
+
+
+
+1999, ch. 33
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Canadian Environmental Protection Act, 1999 is amended by adding the following after section 119:
+
+
+
+
+
+
+
+
+
+1. La Loi canadienne sur la protection de l’environnement (1999) est modifiée par adjonction, après l'article 119, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Division 1.1
+
+
+
+
+
+
+
+
+
+Section 1.1
+
+
+
+
+
+
+
+
+
+
+
+
+Plastics
+
+
+
+
+
+
+
+
+
+Plastiques
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+119.1 The definitions in this section apply in this Division.
+
+
+
+
+“microplastic”« microplastique »
+
+
+
+“microplastic” means a piece of plastic that is 5 millimeters or less in every dimension. 
+
+
+
+
+“personal care product”« produit de soins personnels »
+
+
+
+“personal care product” means any substance or mixture of substances intended for use in cleansing, improving or altering the complexion, skin, hair or teeth, and includes hand and body soap, exfoliates, shampoos, toothpastes and scrubs.
+
+
+
+
+
+
+
+
+
+119.1 Les définitions qui suivent s’appliquent à la présente section.
+
+
+
+Définitions
+
+
+
+
+« microplastique » Morceau de plastique de dimensions  égales ou inférieures à 5 millimètres. 
+
+
+
+« microplastique »“microplastic”
+
+
+
+
+« produit de soins personnels » Substance ou mélange de substances servant à nettoyer ou à améliorer le teint, la peau, les cheveux ou les dents ou à en modifier l’apparence, notamment les savons pour les mains ou le corps, les exfoliants, les shampoings, les dentifrices et les désincrustants.
+
+
+
+« produit de soins personnels »“personal care product”
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+119.2 No person shall manufacture for use or sale in Canada or import a personal care product that contains microplastics.
+
+
+
+
+
+
+
+
+
+119.2 Il est interdit de fabriquer en vue de l’utilisation ou de la vente au Canada ou d'importer un produit de soins personnels contenant des microplastiques.
+
+
+
+Interdiction
+
+
+
+
+
+
+
+
+
+
+
+
+2. Paragraph 272(1)(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. L’alinéa 272(1)c) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) contravenes a prohibition imposed under subsection 82(1) or (2), paragraph 84(1)(b), subsection 107(1) or (2), paragraph 109(1)(b), section 119.2 or subsection 186(1) or 225(4);
+
+
+
+
+
+
+
+
+
+c) contrevient à une interdiction imposée au titre des paragraphes 82(1) ou (2), de l’alinéa
+84(1)b), des paragraphes 107(1) ou (2), de l’alinéa 109(1)b), de l’article 119.2 ou des paragraphes 186(1) ou 225(4);
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

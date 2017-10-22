@@ -1,0 +1,654 @@
+
+
+
+
+
+
+C-484
+
+
+
+
+
+C-484
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-484
+
+
+
+
+
+PROJET DE LOI C-484
+
+
+
+
+
+
+An Act Respecting the Amendment of the Reduction of Carbon Dioxide Emissions from Coal-fired Generation of Electricity Regulations
+
+
+
+
+
+Loi visant la modification du Règlement sur la réduction des émissions de dioxyde de carbone — secteur de l'électricité thermique au charbon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, March 20, 2013
+
+
+
+
+
+première lecture le 20 mars 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ms. May
+
+
+411590
+
+
+
+
+Mme May
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment requires the Governor in Council to make certain amendments to the Reduction of Carbon Dioxide Emissions from Coal-fired Generation of Electricity Regulations in order to accelerate the reduction of such emissions in Canada. 
+
+
+
+SOMMAIRE
+Le texte exige du gouverneur en conseil qu’il apporte certaines modifications au Règlement sur la réduction des émissions de dioxyde de carbone — secteur de l’électricité thermique au charbon afin d’accélérer la réduction de ces émissions au Canada.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-484
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-484
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act Respecting the Amendment of the Reduction of Carbon Dioxide Emissions from Coal-fired Generation of Electricity Regulations
+
+
+
+
+
+
+Whereas anthropogenic climate change — namely, the human-induced destabilization and warming of the global climate — is caused by the unregulated and wasteful emission of carbon dioxide and other greenhouse gases into the atmosphere, combined with deforestation and other land use changes that increase atmos-pheric carbon, and, as the greatest threat facing humanity, demands a proportionate response;
+
+
+
+
+
+
+Whereas Canada is committed to avoiding an increase of 2.0 degrees Celsius in average global temperature, which would cause major climatic disruption and loss of life, and that commitment requires that the growth in global greenhouse gas emissions be arrested by 2015 and then reversed, with an overall 80% reduction — and 90% reduction in developed countries — by 2050;
+
+
+
+
+
+
+Whereas, although Canada ratified a legally binding treaty, the Kyoto Protocol to the United Nations Framework Convention on Climate Change, and thus committed to a 6% reduction in greenhouse gas emissions below 1990 levels by 2012, the Government of Canada subsequently abandoned all efforts to meet that treaty’s obligations in 2006 and, at the 15th Conference of the Parties to the United Nations Framework Convention on Climate Change held in Copenhagen, Denmark, in 2009, Canada further weakened its commitment, to 2.5% above 1990 levels by 2020;
+
+
+
+
+
+
+Whereas Environment Canada’s 2012 Progress Report of the Federal Sustainable Development Strategy acknowledges that Canada will not come close to meeting even the weak, scientifically unjustifiable greenhouse gas reduction commitment made in Copenhagen;
+
+
+
+
+
+
+Whereas it is well understood that emissions from coal-fired electric power plants are one of the most dangerous sources of greenhouse gases globally;
+
+
+
+
+
+
+Whereas alternatives to coal-fired generation of electricity are available and cost effective, especially within a framework of demand-side management;
+
+
+
+
+
+
+And whereas it is morally indefensible that Canada should criticize any other, less wealthy country for burning coal to provide electricity if Canada is unwilling to urgently phase out coal-generated electricity in Canada;
+
+
+
+
+
+
+
+
+
+Loi visant la modification du Règlement sur la réduction des émissions de dioxyde de carbone — secteur de l'électricité thermique au charbon
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que le changement climatique anthropique — c’est-à-dire la déstabilisation et le réchauffement du climat mondial causés par l’homme — est dû à l’émission non réglementée et excessive de dioxyde de carbone et d’autres gaz à effet de serre dans l’atmosphère, jumelée à la déforestation et à d'autres changements d’affectation des terres, qui font augmenter la quantité de carbone dans l'atmosphère, et que, parce qu’il constitue la menace la plus importante pour l’humanité, il faut prendre des mesures en conséquence;
+
+
+
+
+
+
+que le Canada a la volonté d'éviter une augmentation de deux degrés Celsius de la température moyenne du globe, qui entraînerait des perturbations climatiques majeures et des pertes de vie, et que, pour cette raison, l’augmentation des émissions mondiales de gaz à effet de serre doit cesser d'ici 2015 et la tendance, être inversée, afin que les émissions soient réduites de 80 % dans l’ensemble — et de 90 % dans les pays développés — d’ici 2050;
+
+
+
+
+
+
+que, bien que le Canada ait signé un traité juridiquement contraignant, le Protocole de Kyoto à la Convention-cadre des Nations Unies sur les changements climatiques, et se soit ainsi engagé à ramener d’ici 2012 ses émissions de gaz à effet de serre à 6 % sous les niveaux de 1990, le gouvernement du Canada a cessé en 2006 tout effort pour s’acquitter de ses obligations au titre du traité et, à la 15e Conférence des parties à la Convention-cadre des Nations Unies sur les changements climatiques tenue en 2009 à Copenhague, au Danemark, il a affaibli davantage son engagement, fixant son objectif à 2,5 % au-dessus des niveaux de 1990 d’ici 2020;
+
+
+
+
+
+
+qu’il ressort du Rapport d’étape de 2012 sur la Stratégie fédérale de développement durable d’Environnement Canada que le Canada n’a aucune chance de réaliser l’objectif faible et sans fondement scientifique de réduction des émissions de gaz à effet de serre fixé à Copenhague;
+
+
+
+
+
+
+qu’il est clairement établi que les émissions provenant des centrales électriques au charbon sont l’une des sources les plus dangereuses de gaz à effet de serre pour la planète;
+
+
+
+
+
+
+qu’il existe des alternatives rentables à la production d’électricité à partir du charbon, particulièrement sur le plan de la gestion de la demande d’électricité;
+
+
+
+
+
+
+qu’il est moralement injustifiable que le Canada critique des pays étrangers moins bien nantis parce qu’ils ont recours au charbon pour produire de l’électricité alors qu’on ne montre aucun empressement à éliminer graduellement les centrales électriques au charbon au Canada,
+
+
+
+
+
+
+
+
+
+
+
+
+SOR/2012-167
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+DORS/2012-167
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Governor in Council must, within 120 days after the coming into force of this Act, make the following amendments to the Reduction of Carbon Dioxide Emissions from Coal-fired Generation of Electricity Regulations:
+
+
+
+
+
+
+
+
+
+
+1. Dans les cent vingt jours suivant l’entrée en vigueur de la présente loi, le gouverneur en conseil apporte les modifications suivantes au Règlement sur la réduction des émissions de dioxyde de carbone — secteur de l'électricité thermique au charbon :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) subparagraphs (a)(ii) and (iii) of the definition “useful life” in section 2 are replaced by the following:
+
+
+
+
+
+
+
+(ii) in any other case, December 31, 2025, and
+
+
+
+
+
+
+
+
+
+
+
+a) les sous-alinéas a)(ii) et (iii) de la définition de « vie utile » à l’article 2 sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+(ii) dans les autres cas, le 31 décembre 2025;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) paragraph (b) of the definition “useful life” in section 2 is replaced by the following:
+
+
+
+
+
+
+
+(b) for a unit referred to in paragraph (a) of the definition “commissioning date”, 18 months after the applicable date described in subparagraph (a)(i) or (ii).
+
+
+
+
+
+
+
+
+
+
+
+b) l’alinéa b) de la définition de « vie utile » à l’article 2 est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+b) s’il s’agit d’un groupe visé à l’alinéa a) de la définition de « date de mise en service », dix-huit mois après la date applicable visée aux sous-alinéas a)(i) et (ii). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) subsection 3(1) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+
+
+c) le paragraphe 3(1) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limit — 375t/GWh
+
+
+
+
+3. (1) A responsible person for a new unit or an old unit must not, on average, emit with an intensity of more than 375 tonnes CO2 emissions from the combustion of fossil fuels in the unit for each GWh of electricity produced by the unit during a calendar year.
+
+
+
+
+
+
+
+
+
+
+3. (1) Il est interdit à la personne responsable d’un groupe nouveau ou d’un groupe en fin de vie utile d’émettre à une intensité moyenne de plus de 375 tonnes d’émissions de CO2 provenant de la combustion, par le groupe, de combustibles fossiles pour chaque gigawattheure d’électricité produite par le groupe, au cours d’une année civile donnée.
+
+
+
+375t/GWh
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

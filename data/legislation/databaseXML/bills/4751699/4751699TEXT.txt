@@ -1,0 +1,4034 @@
+
+
+
+
+
+
+C-54
+
+
+
+
+
+C-54
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+
+
+
+
+
+Troisième session, quarantième législature,
+
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-54
+
+
+
+
+
+PROJET DE LOI C-54
+
+
+
+
+
+
+An Act to amend the Criminal Code (sexual offences against children)
+
+
+
+
+
+Loi modifiant le Code criminel (infractions d’ordre sexuel à l’égard d’enfants)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AS PASSED
+BY THE HOUSE OF COMMONSMARCH 11, 2011
+
+
+
+
+
+ADOPTÉ
+PAR LA CHAMBRE DES COMMUNESLE 11 MARS 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+90581
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code
+(a) to increase or impose mandatory minimum penalties for certain sexual offences with respect to children;
+(b) to create offences of making sexually explicit material available to a child and of agreeing or arranging to commit a sexual offence against a child;
+(c) to ensure consistency among those two new offences and the existing offence of luring a child; and
+(d) to expand the list of specified conditions that may be added to prohibition and recognizance orders to include prohibitions concerning contact with a person under the age of 16 and use of the Internet or other digital network, and to expand the list of enumerated offences that may give rise to such orders and prohibitions.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel afin :
+
+a) d’accroître les peines minimales obligatoires pour certaines infractions d’ordre sexuel à l’égard d’enfants ou d’en prévoir;
+
+b) d’ériger en infraction le fait de rendre accessible à un enfant du matériel sexuellement explicite et celui de s’entendre ou de faire un arrangement avec quiconque pour perpétrer une infraction d’ordre sexuel à l’égard d’un enfant;
+
+c) d’assurer la cohérence entre ces deux nouvelles infractions et l’infraction de leurre;
+
+d) d’allonger la liste des conditions spécifiques dont peut être assortie une ordonnance d’interdiction ou un engagement pour inclure les interdictions concernant les contacts avec des personnes âgées de moins de seize ans et l’utilisation d’Internet ou de tout autre réseau numérique, et d’ajouter certaines infractions à la liste de celles pouvant donner droit à une telle ordonnance ou à un tel engagement.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+3e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-54
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-54
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (sexual offences against children)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (infractions d’ordre sexuel à l’égard d’enfants)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Protecting Children from Sexual Predators Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la protection des enfants contre les prédateurs sexuels.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+2001, c. 27, s. 244
+
+
+
+
+2. Subsection 7(4.1) of the Criminal Code is amended by replacing “171” with “171, 171.1, 172.1, 172.2”.
+
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 7(4.1) du Code criminel est modifié par remplacement de « 171 » par « 171, 171.1, 172.1, 172.2 ».
+
+
+
+2001, ch. 27, art. 244
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 3
+
+
+
+
+3. Paragraphs 151(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Les alinéas 151a) et b) de la même loi sont remplacés par ce qui suit :
+
+
+
+2005, ch. 32, art. 3
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 10 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris­onment for a term of not more than 18 months and to a minimum punishment of imprisonment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de un an;
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 3
+
+
+
+
+4. Paragraphs 152(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. Les alinéas 152a) et b) de la même loi sont remplacés par ce qui suit :
+
+
+
+2005, ch. 32, art. 3
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 10 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris­onment for a term of not more than 18 months and to a minimum punishment of imprisonment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de un an;
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 4(2)
+
+
+
+
+5. Paragraphs 153(1.1)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. Les alinéas 153(1.1)a) et b) de la même loi sont remplacés par ce qui suit :
+
+
+
+2005, ch. 32, par. 4(2)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 10 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris­onment for a term of not more than 18 months and to a minimum punishment of imprisonment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de un an;
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Subsection 155(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 155(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(2) Everyone who commits incest is guilty of an indictable offence and is liable to imprisonment for a term of not more than 14 years and, if the other person is under the age of 16 years, to a minimum punishment of imprisonment for a term of five years.
+
+
+
+
+
+
+
+
+
+(2) Quiconque commet un inceste est coupable d’un acte criminel et passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de cinq ans si l’autre personne est âgée de moins de seize ans.
+
+
+
+Peine
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (3rd Supp.), s. 3; 2008, c. 6, par. 54(d)
+
+
+
+
+7. Subsection 160(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. Le paragraphe 160(3) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (3e suppl.), art. 3; 2008, ch. 6, al. 54d)
+
+
+
+
+
+
+
+
+
+
+Bestiality in presence of or by child
+
+
+
+(3) Despite subsection (1), every person who commits bestiality in the presence of a person under the age of 16 years, or who incites a person under the age of 16 years to commit bestiality,
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 10 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris­onment for a term of not more than six months and to a minimum punishment of imprisonment for a term of 30 days.
+
+
+
+
+
+
+
+
+
+(3) Malgré le paragraphe (1), toute personne qui commet un acte de bestialité en présence d’une personne âgée de moins de seize ans ou qui l’incite à en commettre un est coupable :
+
+
+
+Bestialité en présence d’un enfant ou incitation de celui-ci
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de un an;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de six mois, la peine minimale étant de trente jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 4(2); 2008, c. 6, par. 54(e)
+
+
+
+
+8. (1) Subsection 161(1) of the Act is amended by striking out “or” at the end of paragraph (b) and by replacing paragraph (c) with the following:
+
+
+
+
+
+
+
+
+
+
+8. (1) L’alinéa 161(1)c) de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, par. 4(2); 2008, ch. 6, al. 54e)
+
+
+
+
+
+
+
+
+
+
+
+
+(c) having any contact — including communicating by any means — with a person who is under the age of 16 years, unless the offender does so under the supervision of a person whom the court considers appropriate; or
+
+
+
+
+
+
+(d) using the Internet or other digital network, unless the offender does so in accord­ance with conditions set by the court.
+
+
+
+
+
+
+
+
+
+
+c) d’avoir des contacts — notamment communiquer par quelque moyen que ce soit — avec une personne âgée de moins de seize ans, à moins de le faire sous la supervision d’une personne que le tribunal estime convenir en l’occurrence;
+
+
+
+
+
+
+
+d) d’utiliser Internet ou tout autre réseau numérique, à moins de le faire en conformité avec les conditions imposées par le tribunal.
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 5(2)
+
+
+
+(2) Paragraph 161(1.1)(a) of the Act is amended by replacing
+
+
+
+
+
+
+
+
+
+
+(a) “171 or 172.1” with “171, 171.1, 172.1 or 172.2”;
+
+
+
+
+
+
+
+
+
+
+(b) “173(2)” with “173(2) or 212(1), (2), (2.1) or (4)”; and
+
+
+
+
+
+
+
+
+
+
+(c) “273 or 281” with “273, 280 or 281”.
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 161(1.1)a) de la même loi est modifié par remplacement de :
+
+
+
+2005, ch. 32, par. 5(2)
+
+
+
+
+
+a) « 171 ou 172.1 » par « 171, 171.1, 172.1 ou 172.2 »;
+
+
+
+
+
+
+
+
+
+
+
+b) « au paragraphe 173(2) » par « aux paragraphes 173(2) ou 212(1), (2), (2.1) ou (4) »;
+
+
+
+
+
+
+
+
+
+
+
+c) « 273 ou 281 » par « 273, 280 ou 281 ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 7(4)
+
+
+
+
+9. (1) Paragraphs 163.1(4)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. (1) Les alinéas 163.1(4)a) et b) de la même loi sont remplacés par ce qui suit :
+
+
+
+2005, ch. 32, par. 7(4)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and is liable to imprisonment for a term of not more than five years and to a minimum punishment of imprisonment for a term of six months; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and is liable to imprisonment for a term of not more than 18 months and to a minimum punishment of imprisonment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans, la peine minimale étant de six mois;
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 7(5)
+
+
+
+(2) Paragraphs 163.1(4.1)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les alinéas 163.1(4.1)a) et b) de la même loi sont remplacés par ce qui suit :
+
+
+
+2005, ch. 32, par. 7(5)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and is liable to imprisonment for a term of not more than five years and to a minimum punishment of imprisonment for a term of six months; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and is liable to imprisonment for a term of not more than 18 months and to a minimum punishment of imprisonment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans, la peine minimale étant de six mois;
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+2008, c. 18, s. 4
+
+
+
+
+10. The portion of subsection 164.2(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. Le passage du paragraphe 164.2(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2008, ch. 18, art. 4
+
+
+
+
+
+
+
+
+
+
+Forfeiture after conviction
+
+
+
+
+164.2 (1) On application of the Attorney General, a court that convicts a person of an offence under section 163.1, 172.1 or 172.2, in addition to any other punishment that it may impose, may order that anything — other than real property — be forfeited to Her Majesty and disposed of as the Attorney General directs if it is satisfied, on a balance of probabilities, that the thing
+
+
+
+
+
+
+
+
+
+
+164.2 (1) Le tribunal qui déclare une personne coupable d’une infraction visée aux articles 163.1, 172.1 ou 172.2 peut ordonner sur demande du procureur général, outre toute autre peine, la confiscation au profit de Sa Majesté d’un bien, autre qu’un bien immeuble, dont il est convaincu, selon la prépondérance des probabilités :
+
+
+
+Confiscation lors de la déclaration de culpabilité
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 9.1; 2008, c. 6, par. 54(f)
+
+
+
+
+11. Paragraph 170(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. L’alinéa 170b) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 32, art. 9.1; 2008, ch. 6, al. 54f)
+
+
+
+
+
+
+
+
+
+
+
+
+(b) to imprisonment for a term not exceeding two years and to a minimum punishment of imprisonment for a term of 90 days if the person procured is 16 years of age or more but under the age of 18 years.
+
+
+
+
+
+
+
+
+
+
+b) d’un emprisonnement maximal de deux ans s’il est âgé de seize ans ou plus mais de moins de dix-huit ans, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 9.1; 2008, c. 6, par. 54(g)
+
+
+
+
+12. Paragraph 171(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. L’alinéa 171b) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 32, art. 9.1; 2008, ch. 6, al. 54g)
+
+
+
+
+
+
+
+
+
+
+
+
+(b) to imprisonment for a term not exceeding two years and to a minimum punishment of imprisonment for a term of 90 days if the person is 16 years of age or more but under the age of 18 years.
+
+
+
+
+
+
+
+
+
+
+b) d’un emprisonnement maximal de deux ans si elle est âgée de seize ans ou plus mais de moins de dix-huit ans, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. The Act is amended by adding the following after section 171:
+
+
+
+
+
+
+
+
+
+
+13. La même loi est modifiée par adjonction, après l’article 171, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Making sexually explicit material available to child
+
+
+
+
+171.1 (1) Every person commits an offence who transmits, makes available, distributes or sells sexually explicit material to
+
+
+
+
+
+
+
+
+
+
+(a) a person who is, or who the accused believes is, under the age of 18 years, for the purpose of facilitating the commission of an offence under subsection 153(1), section 155, 163.1, 170 or 171 or subsection 212(1), (2), (2.1) or (4) with respect to that person;
+
+
+
+
+
+
+
+
+
+
+(b) a person who is, or who the accused believes is, under the age of 16 years, for the purpose of facilitating the commission of an offence under section 151 or 152, subsection 160(3) or 173(2) or section 271, 272, 273 or 280 with respect to that person; or
+
+
+
+
+
+
+
+
+
+
+(c) a person who is, or who the accused believes is, under the age of 14 years, for the purpose of facilitating the commission of an offence under section 281 with respect to that person.
+
+
+
+
+
+
+
+
+
+
+171.1 (1) Commet une infraction quiconque transmet, rend accessible, distribue ou vend du matériel sexuellement explicite :
+
+
+
+Rendre accessible à un enfant du matériel sexuellement explicite
+
+
+
+
+
+a) à une personne âgée de moins de dix-huit ans ou qu’il croit telle, en vue de faciliter la perpétration à son égard d’une infraction visée au paragraphe 153(1), aux articles 155, 163.1, 170 ou 171 ou aux paragraphes 212(1), (2), (2.1) ou (4);
+
+
+
+
+
+
+
+
+
+
+
+b) à une personne âgée de moins de seize ans ou qu’il croit telle, en vue de faciliter la perpétration à son égard d’une infraction visée aux articles 151 ou 152, aux paragraphes 160(3) ou 173(2) ou aux articles 271, 272, 273 ou 280;
+
+
+
+
+
+
+
+
+
+
+
+c) à une personne âgée de moins de quatorze ans ou qu’il croit telle, en vue de faciliter la perpétration à son égard d’une infraction visée à l’article 281.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(2) Every person who commits an offence under subsection (1)
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than two years and to a minimum punishment of imprisonment for a term of 90 days; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris­onment for a term of not more than six months and to a minimum punishment of imprisonment for a term of 30 days.
+
+
+
+
+
+
+
+
+
+(2) Quiconque commet l’infraction visée au paragraphe (1) est coupable :
+
+
+
+Peine
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de deux ans, la peine minimale étant de quatre-vingt-dix jours;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de six mois, la peine minimale étant de trente jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Presumption
+
+
+
+(3) Evidence that the person referred to in paragraph (1)(a), (b) or (c) was represented to the accused as being under the age of 18, 16 or 14 years, as the case may be, is, in the absence of evidence to the contrary, proof that the accused believed that the person was under that age.
+
+
+
+
+
+
+
+
+
+(3) La preuve que la personne visée aux alinéas (1)a), b) ou c) a été présentée à l’accusé comme ayant moins de dix-huit, seize ou quatorze ans, selon le cas, constitue, sauf preuve contraire, la preuve que l’accusé la croyait telle.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+No defence
+
+
+
+(4) It is not a defence to a charge under paragraph (1)(a), (b) or (c) that the accused believed that the person referred to in that paragraph was at least 18, 16 or 14 years of age, as the case may be, unless the accused took reasonable steps to ascertain the age of the person.
+
+
+
+
+
+
+
+
+
+(4) Le fait pour l’accusé de croire que la personne visée aux alinéas (1)a), b) ou c) était âgée d’au moins dix-huit, seize ou quatorze ans, selon le cas, ne constitue un moyen de défense contre une accusation fondée sur l’alinéa applicable que s’il a pris des mesures raisonnables pour s’assurer de l’âge de la personne.
+
+
+
+Moyen de défense irrecevable
+
+
+
+
+
+
+
+
+
+
+Definition of “sexually explicit material”
+
+
+
+(5) In subsection (1), “sexually explicit material” means material that is not child pornography, as defined in subsection 163.1(1), and that is
+
+
+
+
+
+
+
+
+
+
+(a) a photographic, film, video or other visual representation, whether or not it was made by electronic or mechanical means,
+
+
+
+
+
+
+
+
+
+
+(i) that shows a person who is engaged in or is depicted as engaged in explicit sexual activity, or
+
+
+
+
+
+
+
+
+
+
+(ii) the dominant characteristic of which is the depiction, for a sexual purpose, of a person’s genital organs or anal region or, if the person is female, her breasts;
+
+
+
+
+
+
+
+
+
+
+(b) written material whose dominant characteristic is the description, for a sexual purpose, of explicit sexual activity with a person; or
+
+
+
+
+
+
+
+
+
+
+(c) an audio recording whose dominant characteristic is the description, presentation or representation, for a sexual purpose, of explicit sexual activity with a person.
+
+
+
+
+
+
+
+
+
+(5) Au paragraphe (1), « matériel sexuellement explicite » s’entend du matériel ci-après non visé par la définition de « pornographie juvénile » au paragraphe 163.1(1) :
+
+
+
+Définition de « matériel sexuellement explicite »
+
+
+
+
+
+a) toute représentation photographique, filmée, vidéo ou autre, réalisée ou non par des moyens mécaniques ou électroniques :
+
+
+
+
+
+
+
+
+
+
+(i) soit où figure une personne se livrant ou présentée comme se livrant à une activité sexuelle explicite,
+
+
+
+
+
+
+
+
+
+
+(ii) soit dont la caractéristique dominante est la représentation, dans un but sexuel, des seins, des organes génitaux ou de la région anale d’une personne;
+
+
+
+
+
+
+
+
+
+
+
+b) tout écrit dont la caractéristique dominante est la description, dans un but sexuel, d’une activité sexuelle explicite avec une personne;
+
+
+
+
+
+
+
+
+
+
+
+c) tout enregistrement sonore dont la caractéristique dominante est la description, la présentation ou la simulation, dans un but sexuel, d’une activité sexuelle explicite avec une personne.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 8; 2008, c. 6, s. 14
+
+
+
+
+14. (1) The portion of subsection 172.1(1) of the Act before paragraph (c) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. (1) Le passage du paragraphe 172.1(1) de la même loi précédant l’alinéa c) est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, art. 8; 2008, ch. 6, art. 14
+
+
+
+
+
+
+
+
+
+
+Luring a child
+
+
+
+
+172.1 (1) Every person commits an offence who, by a means of telecommunication, communicates with
+
+
+
+
+
+
+
+
+
+
+(a) a person who is, or who the accused believes is, under the age of 18 years, for the purpose of facilitating the commission of an offence under subsection 153(1), section 155, 163.1, 170 or 171 or subsection 212(1), (2), (2.1) or (4) with respect to that person;
+
+
+
+
+
+
+
+
+
+
+(b) a person who is, or who the accused believes is, under the age of 16 years, for the purpose of facilitating the commission of an offence under section 151 or 152, subsection 160(3) or 173(2) or section 271, 272, 273 or 280 with respect to that person; or
+
+
+
+
+
+
+
+
+
+
+172.1 (1) Commet une infraction quiconque communique par un moyen de télécommunication avec :
+
+
+
+Leurre
+
+
+
+
+
+a) une personne âgée de moins de dix-huit ans ou qu’il croit telle, en vue de faciliter la perpétration à son égard d’une infraction visée au paragraphe 153(1), aux articles 155, 163.1, 170 ou 171 ou aux paragraphes 212(1), (2), (2.1) ou (4);
+
+
+
+
+
+
+
+
+
+
+
+b) une personne âgée de moins de seize ans ou qu’il croit telle, en vue de faciliter la perpétration à son égard d’une infraction visée aux articles 151 ou 152, aux paragraphes 160(3) ou 173(2) ou aux articles 271, 272, 273 ou 280;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 20, s. 1
+
+
+
+(2) Paragraphs (a) and (b) of subsection 172.1(2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les alinéas 172.1(2)a) et b) de la même loi sont remplacés par ce qui suit :
+
+
+
+2007, ch. 20, art. 1
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 10 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris­onment for a term of not more than 18 months and to a minimum punishment of imprisonment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de un an;
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 8
+
+
+
+(3) Subsection 172.1(3) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 172.1(3) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, art. 8
+
+
+
+
+
+
+
+
+
+
+Présomption
+
+
+
+
+(3) La preuve que la personne visée aux alinéas (1)a), b) ou c) a été présentée à l’accusé comme ayant moins de dix-huit, seize ou quatorze ans, selon le cas, constitue, sauf preuve contraire, la preuve que l’accusé la croyait telle.
+
+
+
+
+
+
+
+
+
+
+(3) La preuve que la personne visée aux alinéas (1)a), b) ou c) a été présentée à l’accusé comme ayant moins de dix-huit, seize ou quatorze ans, selon le cas, constitue, sauf preuve contraire, la preuve que l’accusé la croyait telle.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (3rd Supp.), s. 7; 2008, c. 6, par. 54(h)
+
+
+
+
+15. Section 173 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. L’article 173 de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19, (3e suppl.), art. 7; 2008, ch. 6, al. 54h)
+
+
+
+
+
+
+
+
+
+
+Agreement or arrangement — sexual offence against child
+
+
+
+
+172.2 (1) Every person commits an offence who, by a means of telecommunication, agrees with a person, or makes an arrangement with a person, to commit an offence
+
+
+
+
+
+
+
+
+
+
+(a) under subsection 153(1), section 155, 163.1, 170 or 171 or subsection 212(1), (2), (2.1) or (4) with respect to another person who is, or who the accused believes is, under the age of 18 years;
+
+
+
+
+
+
+
+
+
+
+(b) under section 151 or 152, subsection 160(3) or 173(2) or section 271, 272, 273 or 280 with respect to another person who is, or who the accused believes is, under the age of 16 years; or
+
+
+
+
+
+
+
+
+
+
+(c) under section 281 with respect to another person who is, or who the accused believes is, under the age of 14 years.
+
+
+
+
+
+
+
+
+
+
+172.2 (1) Commet une infraction quiconque, par un moyen de télécommunication, s’entend avec une personne, ou fait un arrangement avec elle, pour perpétrer :
+
+
+
+Entente ou arrangement — infraction d’ordre sexuel à l’égard d’un enfant
+
+
+
+
+
+a) soit une infraction visée au paragraphe 153(1), aux articles 155, 163.1, 170 ou 171 ou aux paragraphes 212(1), (2), (2.1) ou (4) à l’égard d’un tiers âgé de moins de dix-huit ans ou qu’il croit tel;
+
+
+
+
+
+
+
+
+
+
+
+b) soit une infraction visée aux articles 151 ou 152, aux paragraphes 160(3) ou 173(2) ou aux articles 271, 272, 273 ou 280 à l’égard d’un tiers âgé de moins de seize ans ou qu’il croit tel;
+
+
+
+
+
+
+
+
+
+
+
+c) soit une infraction visée à l’article 281 à l’égard d’un tiers âgé de moins de quatorze ans ou qu’il croit tel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(2) Every person who commits an offence under subsection (1)
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 10 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris­onment for a term of not more than 18 months and to a minimum punishment of imprisonment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+(2) Quiconque commet l’infraction visée au paragraphe (1) est coupable :
+
+
+
+Peine
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de un an;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Presumption
+
+
+
+(3) Evidence that the person referred to in paragraph (1)(a), (b) or (c) was represented to the accused as being under the age of 18, 16 or 14 years, as the case may be, is, in the absence of evidence to the contrary, proof that the accused believed that the person was under that age.
+
+
+
+
+
+
+
+
+
+(3) La preuve que le tiers visé aux alinéas (1)a), b) ou c) a été présenté à l’accusé comme ayant moins de dix-huit, seize ou quatorze ans, selon le cas, constitue, sauf preuve contraire, la preuve que l’accusé le croyait tel.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+No defence
+
+
+
+(4) It is not a defence to a charge under paragraph (1)(a), (b) or (c) that the accused believed that the person referred to in that paragraph was at least 18, 16 or 14 years of age, as the case may be, unless the accused took reasonable steps to ascertain the age of the person.
+
+
+
+
+
+
+
+
+
+(4) Le fait pour l’accusé de croire que le tiers visé aux alinéas (1)a), b) ou c) était âgé d’au moins dix-huit, seize ou quatorze ans, selon le cas, ne constitue un moyen de défense contre une accusation fondée sur l’alinéa applicable que s’il a pris des mesures raisonnables pour s’assurer de l’âge de ce tiers.
+
+
+
+Moyen de défense irrecevable
+
+
+
+
+
+
+
+
+
+
+No defence
+
+
+
+(5) It is not a defence to a charge under paragraph (1)(a), (b) or (c)
+
+
+
+
+
+
+
+
+
+
+(a) that the person with whom the accused agreed or made an arrangement was a peace officer or a person acting under the direction of a peace officer; or
+
+
+
+
+
+
+
+
+
+
+(b) that, if the person with whom the accused agreed or made an arrangement was a peace officer or a person acting under the direction of a peace officer, the person referred to in paragraph (1)(a), (b) or (c) did not exist.
+
+
+
+
+
+
+
+
+
+(5) Ne constitue pas un moyen de défense contre une accusation fondée sur les alinéas (1)a), b) ou c) :
+
+
+
+Moyen de défense irrecevable
+
+
+
+
+
+a) le fait que la personne avec qui l’accusé s’est entendu ou a fait un arrangement était un agent de la paix ou une personne qui a agi sous la direction d’un agent de la paix;
+
+
+
+
+
+
+
+
+
+
+
+b) dans les cas où la personne avec qui l’accusé s’est entendu ou a fait un arrangement était un agent de la paix ou une personne qui a agi sous la direction d’un agent de la paix, le fait que le tiers visé aux alinéas (1)a), b) ou c) n’existait pas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Indecent acts
+
+
+
+
+173. (1) Everyone who wilfully does an indecent act in a public place in the presence of one or more persons, or in any place with intent to insult or offend any person,
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than two years; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris­onment for a term of not more than six months.
+
+
+
+
+
+
+
+
+
+
+173. (1) Quiconque volontairement commet une action indécente soit dans un endroit public en présence d’une ou de plusieurs personnes, soit dans un endroit quelconque avec l’intention d’ainsi insulter ou offenser quelqu’un, est coupable :
+
+
+
+Actions indécentes
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de deux ans;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de six mois.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exposure
+
+
+
+(2) Every person who, in any place, for a sexual purpose, exposes his or her genital organs to a person who is under the age of 16 years
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than two years and to a minimum punishment of imprisonment for a term of 90 days; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris­onment for a term of not more than six months and to a minimum punishment of imprisonment for a term of 30 days.
+
+
+
+
+
+
+
+
+
+(2) Toute personne qui, en quelque lieu que ce soit, à des fins d’ordre sexuel, exhibe ses organes génitaux devant une personne âgée de moins de seize ans est coupable :
+
+
+
+Exhibitionnisme
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de deux ans, la peine minimale étant de quatre-vingt-dix jours;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de six mois, la peine minimale étant de trente jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. Paragraph (a) of the definition “offence” in section 183 of the Act is amended by adding the following after subparagraph (xxix):
+
+
+
+
+
+
+
+
+
+
+16. L’alinéa a) de la définition de « infraction », à l’article 183 de la même loi, est modifié par adjonction, après le sous-alinéa (xxix), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(xxix.1) section 170 (parent or guardian procuring sexual activity),
+
+
+
+
+
+
+(xxix.2) section 171 (householder permitting sexual activity),
+
+
+
+
+
+
+(xxix.3) section 171.1 (making sexually explicit material available to child),
+
+
+
+
+
+
+(xxix.4) section 172.1 (luring a child),
+
+
+
+
+
+
+(xxix.5) section 172.2 (agreement or arrangement — sexual offence against child),
+
+
+
+
+
+
+
+
+
+(xxix.1) l’article 170 (père, mère ou tuteur qui sert d’entremetteur),
+
+
+
+
+
+
+(xxix.2) l’article 171 (maître de maison qui permet des actes sexuels interdits),
+
+
+
+
+
+
+(xxix.3) l’article 171.1 (rendre accessible à un enfant du matériel sexuellement explicite),
+
+
+
+
+
+
+(xxix.4) l’article 172.1 (leurre),
+
+
+
+
+
+
+(xxix.5) l’article 172.2 (entente ou arrangement — infraction d’ordre sexuel à l’égard d’un enfant),
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (3rd Supp.), s. 10; 1994, c. 44, s. 19
+
+
+
+
+17. Section 271 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. L’article 271 de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19, (3e suppl.), art. 10; 1994, ch. 44, art. 19
+
+
+
+
+
+
+
+
+
+
+Sexual assault
+
+
+
+
+271. Everyone who commits a sexual assault
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term not exceeding 10 years and, if the complainant is under the age of 16 years, to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris­onment for a term not exceeding 18 months and, if the complainant is under the age of 16 years, to a minimum punishment of impris­onment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+
+271. Quiconque commet une agression sexuelle est coupable :
+
+
+
+Agression sexuelle
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de un an si le plaignant est âgé de moins de seize ans;
+
+
+
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant de quatre-vingt-dix jours si le plaignant est âgé de moins de seize ans.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. Subsection 272(2) of the Act is amended by striking out “and” at the end of paragraph (a.1) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+
+18. Le paragraphe 272(2) de la même loi est modifié par adjonction, après l’alinéa a.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a.2) if the complainant is under the age of 16 years, to imprisonment for a term not exceeding 14 years and to a minimum punishment of imprisonment for a term of five years; and
+
+
+
+
+
+
+
+
+
+
+a.2) dans les cas où le plaignant est âgé de moins de seize ans, d’un emprisonnement maximal de quatorze ans, la peine minimale étant de cinq ans;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19. Subsection 273(2) of the Act is amended by striking out “and” at the end of paragraph (a.1) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+
+19. Le paragraphe 273(2) de la même loi est modifié par adjonction, après l’alinéa a.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a.2) if the complainant is under the age of 16 years, to imprisonment for life and to a minimum punishment of imprisonment for a term of five years; and
+
+
+
+
+
+
+
+
+
+
+a.2) dans les cas où le plaignant est âgé de moins de seize ans, d’emprisonnement à perpétuité, la peine minimale étant de cinq ans;
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 3, s. 4
+
+
+
+
+20. Subsection 486(3) of the Act is amended by replacing “171, 172, 172.1” with “170, 171, 171.1, 172, 172.1, 172.2”.
+
+
+
+
+
+
+
+
+
+
+20. Le paragraphe 486(3) de la même loi est modifié par remplacement de « 171, 172, 172.1 » par « 170, 171, 171.1, 172, 172.1, 172.2 ».
+
+
+
+2010, ch. 3, art. 4
+
+
+
+
+
+
+
+
+
+
+2010, c. 3, s. 5
+
+
+
+
+21. Subparagraph 486.4(1)(a)(i) of the Act is amended by replacing
+
+
+
+
+
+
+
+
+
+
+(a) “171, 172, 172.1” with “171, 171.1, 172, 172.1, 172.2”; and
+
+
+
+
+
+
+
+
+
+
+(b) “279.03” with “279.03, 280, 281”.
+
+
+
+
+
+
+
+
+
+
+21. Le sous-alinéa 486.4(1)a)(i) de la même loi est modifié par remplacement de :
+
+
+
+2010, ch. 3, art. 5
+
+
+
+
+
+a) « 171, 172, 172.1 » par « 171, 171.1, 172, 172.1, 172.2 »;
+
+
+
+
+
+
+
+
+
+
+
+b) « 279.03 » par « 279.03, 280, 281 ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22. (1) Paragraph (a.1) of the definition “primary designated offence” in section 487.04 of the Act is amended by adding the following after subparagraph (iv.5):
+
+
+
+
+
+
+
+
+
+
+22. (1) L’alinéa a.1) de la définition de « infraction primaire », à l’article 487.04 de la même loi, est modifié par adjonction, après le sous-alinéa (iv.5), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(iv.6) section 172.2 (agreement or arrangement — sexual offence against child),
+
+
+
+
+
+
+
+
+
+(iv.6) article 172.2 (entente ou arrangement — infraction d’ordre sexuel à l’égard d’un enfant),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph (c) of the definition “secondary designated offence” in section 487.04 of the Act is amended by adding the following after subparagraph (ii):
+
+
+
+
+
+
+
+
+
+(2) L’alinéa c) de la définition de « infraction secondaire », à l’article 487.04 de la même loi, est modifié par adjonction, après le sous-alinéa (ii), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(ii.1) section 171.1 (making sexually explicit material available to child),
+
+
+
+
+
+
+
+
+
+(ii.1) article 171.1 (rendre accessible à un enfant du matériel sexuellement explicite),
+
+
+
+
+
+
+
+
+
+
+
+
+2004, c. 10, s. 20
+
+
+
+
+23. Subparagraph (a)(x) of the definition “designated offence” in subsection 490.011(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+23. Le sous-alinéa a)(x) de la définition de « infraction désignée », au paragraphe 490.011(1) de la même loi, est remplacé par ce qui suit :
+
+
+
+2004, ch. 10, art. 20
+
+
+
+
+
+
+
+
+
+
+
+
+(ix.1) section 171.1 (making sexually explicit material available to child),
+
+
+
+
+
+
+(x) section 172.1 (luring a child),
+
+
+
+
+
+
+(x.1) section 172.2 (agreement or arrangement — sexual offence against child),
+
+
+
+
+
+
+
+
+
+(ix.1) l’article 171.1 (rendre accessible à un enfant du matériel sexuellement explicite),
+
+
+
+
+
+
+(x) l’article 172.1 (leurre),
+
+
+
+
+
+
+(x.1) l’article 172.2 (entente ou arrangement — infraction d’ordre sexuel à l’égard d’un enfant),
+
+
+
+
+
+
+
+
+
+
+
+
+2008, c. 6, s. 40
+
+
+
+
+24. Subparagraph (b)(x) of the definition “designated offence” in section 752 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+24. Le sous-alinéa b)(x) de la définition de « infraction désignée », à l’article 752 de la même loi, est remplacé par ce qui suit :
+
+
+
+2008, ch. 6, art. 40
+
+
+
+
+
+
+
+
+
+
+
+
+(ix.1) section 172.2 (agreement or arrangement — sexual offence against child),
+
+
+
+
+
+
+(x) subsection 212(1) (procuring),
+
+
+
+
+
+
+(x.1) subsection 212(2) (living on avails of prostitution of person under eighteen),
+
+
+
+
+
+
+
+
+
+(ix.1) l’article 172.2 (entente ou arrangement — infraction d’ordre sexuel à l’égard d’un enfant),
+
+
+
+
+
+
+(x) le paragraphe 212(1) (proxénétisme),
+
+
+
+
+
+
+(x.1) le paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 76
+
+
+
+
+25. Paragraph 753.1(2)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+25. L’alinéa 753.1(2)a) de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, art. 76
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the offender has been convicted of an offence under section 151 (sexual interference), 152 (invitation to sexual touching) or 153 (sexual exploitation), subsection 163.1(2) (making child pornography), 163.1(3) (distribution, etc., of child pornography), 163.1(4) (possession of child pornography) or 163.1(4.1) (accessing child pornography), section 170 (parent or guardian procuring sexual activity), 171 (householder permitting sexual activity), 171.1 (making sexually explicit material available to child), 172.1 (luring a child) or 172.2 (agreement or arrangement — sexual offence against child), subsection 173(2) (exposure), 212(2) (living on the avails of prostitution of person under eighteen), 212(2.1) (aggravated offence in relation to living on the avails of prostitution of a person under the age of eighteen years) or 212(4) (offence — prostitution of person under eighteen), section 271 (sexual assault), 272 (sexual assault with a weapon) or 273 (aggravated sexual assault), or has engaged in serious conduct of a sexual nature in the commission of another offence of which the offender has been convicted; and
+
+
+
+
+
+
+
+
+
+
+a) d’une part, celui-ci a été déclaré coupable d’une infraction visée aux articles 151 (contacts sexuels), 152 (incitation à des contacts sexuels) ou 153 (exploitation sexuelle), aux paragraphes 163.1(2) (production de pornographie juvénile), 163.1(3) (distribution de pornographie juvénile), 163.1(4) (possession de pornographie juvénile) ou 163.1(4.1) (accès à la pornographie juvénile), aux articles 170 (père, mère ou tuteur qui sert d’entremetteur), 171 (maître de maison qui permet des actes sexuels interdits), 171.1 (rendre accessible à un enfant du matériel sexuellement explicite), 172.1 (leurre) ou 172.2 (entente ou arrangement — infraction d’ordre sexuel à l’égard d’un enfant), aux paragraphes 173(2) (exhibitionnisme), 212(2) (proxénétisme), 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans), 212(4) (infraction — prostitution d’une personne âgée de moins de dix-huit ans) ou aux articles 271 (agression sexuelle), 272 (agression sexuelle armée) ou 273 (agression sexuelle grave), ou a commis un acte grave de nature sexuelle lors de la perpétration d’une autre infraction dont il a été déclaré coupable;
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 81(1); 2008, c. 6, par. 54(j)
+
+
+
+
+26. (1) Subsection 810.1(1) of the Act is amended by replacing
+
+
+
+
+
+
+
+
+
+
+(a) “151, 152, 155” with “151 or 152, subsection 153(1), section 155”;
+
+
+
+
+
+
+
+
+
+
+(b) “171 or 172.1” with “171, 171.1, 172.1 or 172.2”;
+
+
+
+
+
+
+
+
+
+
+(c) “173(2)” with “173(2) or 212(1), (2), (2.1) or (4)”; and
+
+
+
+
+
+
+
+
+
+
+(d) “272 or 273” with “272, 273, 280 or 281”.
+
+
+
+
+
+
+
+
+
+
+26. (1) Le paragraphe 810.1(1) de la même loi est modifié par remplacement de :
+
+
+
+2002, ch. 13, par. 81(1); 2008, ch. 6, al. 54j)
+
+
+
+
+
+a) « 151, 152, 155 » par « 151 ou 152, au paragraphe 153(1), aux articles 155 »;
+
+
+
+
+
+
+
+
+
+
+
+b) « 171 ou 172.1 » par « 171, 171.1, 172.1 ou 172.2 »;
+
+
+
+
+
+
+
+
+
+
+
+c) « au paragraphe 173(2) » par « aux paragraphes 173(2) ou 212(1), (2), (2.1) ou (4) »;
+
+
+
+
+
+
+
+
+
+
+
+d) « 272 ou 273 » par « 272, 273, 280 ou 281 ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2008, c. 6, par. 62(2)(b)
+
+
+
+(2) Paragraph 810.1(3.02)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 810.1(3.02)a) de la même loi est remplacé par ce qui suit :
+
+
+
+2008, ch. 6, al. 62(2)b)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) prohibit the defendant from having any contact — including communicating by any means — with a person under the age of 16 years, unless the defendant does so under the supervision of a person whom the judge considers appropriate;
+
+
+
+
+
+
+(a.1) prohibit the defendant from using the Internet or other digital network, unless the defendant does so in accordance with conditions set by the judge;
+
+
+
+
+
+
+
+
+
+
+a) de ne pas avoir de contacts — notamment communiquer par quelque moyen que ce soit — avec des personnes âgées de moins de seize ans, à moins de le faire sous la supervision d’une personne que le juge estime convenir en l’occurrence;
+
+
+
+
+
+
+
+a.1) de ne pas utiliser Internet ou tout autre réseau numérique, à moins de le faire en conformité avec les conditions imposées par le juge;
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 22, s. 23
+
+
+
+
+27. Subparagraph (b)(iii) of Form 5.04 in Part XXVIII of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+27. Le sous-alinéa b)(iii) de la formule 5.04 de la partie XXVIII de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 22, art. 23
+
+
+
+
+
+
+
+
+
+
+
+
+[ ]        (iii) an offence under any of sections 145 to 148, subsection 160(3), sections 170, 171.1, 173, 252, 264, 264.1, 266 and 270, paragraph 348(1)(e) and sections 349 and 423 of the Criminal Code,
+
+
+
+
+
+
+
+
+
+[ ]        (iii) une infraction créée par l’une des dispositions suivantes : les articles 145 à 148, le paragraphe 160(3), les articles 170, 171.1, 173, 252, 264, 264.1, 266 et 270, l’alinéa 348(1)e) et les articles 349 et 423 du Code criminel,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENTS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill S-2
+
+
+
+
+28. (1) Subsections (2) to (9) apply if Bill S-2, introduced in the 3rd session of the 40th Parliament and entitled the Protecting Victims From Sex Offenders Act (in this section referred to as the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+
+28. (1) Les paragraphes (2) à (9) s’appliquent en cas de sanction du projet de loi S-2, déposé au cours de la 3e session de la 40e législature et intitulé Loi protégeant les victimes des délinquants sexuels (appelé « autre loi » au présent article).
+
+
+
+Projet de loi S-2
+
+
+
+
+
+
+
+
+
+
+
+
+(2) If section 15 of this Act comes into force before section 2 of the other Act, then that section 2 is repealed.
+
+
+
+
+
+
+
+
+
+(2) Si l’article 15 de la présente loi entre en vigueur avant l’article 2 de l’autre loi, cet article 2 est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If section 2 of the other Act comes into force on the same day as section 15 of this Act, then that section 2 is deemed to have come into force before that section 15.
+
+
+
+
+
+
+
+
+
+(3) Si l’entrée en vigueur de l’article 2 de l’autre loi et celle de l’article 15 de la présente loi sont concomitantes, cet article 2 est réputé être entré en vigueur avant cet article 15.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) If subsection 3(1) of the other Act comes into force before subsection 22(1) of this Act, then that subsection 22(1) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Si le paragraphe 3(1) de l’autre loi entre en vigueur avant le paragraphe 22(1) de la présente loi, ce paragraphe 22(1) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22. (1) Subparagraph (a)(i.91) of the definition “primary designated offence” in section 487.04 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+22. (1) Le sous-alinéa a)(i.91) de la définition de « infraction primaire », à l’article 487.04 de la même loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i.91) section 172.1 (luring a child),
+
+
+
+
+
+
+(i.911) section 172.2 (agreement or arrangement — sexual offence against child),
+
+
+
+
+
+
+
+
+
+(i.91) article 172.1 (leurre),
+
+
+
+
+
+
+(i.911) article 172.2 (entente ou arrangement — infraction d’ordre sexuel à l’égard d’un enfant),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) If subsection 22(1) of this Act comes into force before subsection 3(1) of the other Act, then, on the day on which that subsection 3(1) comes into force, subparagraph (a)(i.91) of the definition “primary designated offence” in section 487.04 of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Si le paragraphe 22(1) de la présente loi entre en vigueur avant le paragraphe 3(1) de l’autre loi, à la date d’entrée en vigueur de ce paragraphe 3(1), le sous-alinéa a)(i.91) de la définition de « infraction primaire », à l’article 487.04 du Code criminel, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i.91) section 172.1 (luring a child),
+
+
+
+
+
+
+(i.911) section 172.2 (agreement or arrangement — sexual offence against child),
+
+
+
+
+
+
+
+
+
+(i.91) article 172.1 (leurre),
+
+
+
+
+
+
+(i.911) article 172.2 (entente ou arrangement — infraction d’ordre sexuel à l’égard d’un enfant),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6) If subsection 3(1) of the other Act comes into force on the same day as subsection 22(1) of this Act, then that subsection 3(1) is deemed to have come into force before that subsection 22(1) and subsection (4) applies as a consequence.
+
+
+
+
+
+
+
+
+
+(6) Si l’entrée en vigueur du paragraphe 3(1) de l’autre loi et celle du paragraphe 22(1) de la présente loi sont concomitantes, ce paragraphe 3(1) est réputé être entré en vigueur avant ce paragraphe 22(1), le paragraphe (4) s’appliquant en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(7) If subsection 3(1) of the other Act comes into force before subsection 22(2) of this Act, then that subsection 22(2) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(7) Si le paragraphe 3(1) de l’autre loi entre en vigueur avant le paragraphe 22(2) de la présente loi, ce paragraphe 22(2) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph (a) of the definition “primary designated offence” in section 487.04 of the Act is amended by adding the following after subparagraph (i.9):
+
+
+
+
+
+
+
+
+
+(2) L’alinéa a) de la définition de « infraction primaire », à l’article 487.04 de la même loi, est modifié par adjonction, après le sous-alinéa (i.9), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i.901) section 171.1 (making sexually explicit material available to child),
+
+
+
+
+
+
+
+
+
+(i.901) article 171.1 (rendre accessible du matériel sexuellement explicite à un enfant),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(8) If subsection 22(2) of this Act comes into force before subsection 3(1) of the other Act, then, on the day on which that subsection 3(1) comes into force, paragraph (a) of the definition “primary designated offence” in section 487.04 of the Criminal Code is amended by adding the following after subparagraph (i.9):
+
+
+
+
+
+
+
+
+
+(8) Si le paragraphe 22(2) de la présente loi entre en vigueur avant le paragraphe 3(1) de l’autre loi, à la date d’entrée en vigueur de ce paragraphe 3(1), l’alinéa a) de la définition de « infraction primaire », à l’article 487.04 du Code criminel, est modifié par adjonction, après le sous-alinéa (i.9), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i.901) section 171.1 (making sexually explicit material available to child),
+
+
+
+
+
+
+
+
+
+(i.901) article 171.1 (rendre accessible du matériel sexuellement explicite à un enfant),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(9) If subsection 3(1) of the other Act comes into force on the same day as subsection 22(2) of this Act, then that subsection 3(1) is deemed to have come into force before that subsection 22(2) and subsection (7) applies as a consequence.
+
+
+
+
+
+
+
+
+
+(9) Si l’entrée en vigueur du paragraphe 3(1) de l’autre loi et celle du paragraphe 22(2) de la présente loi sont concomitantes, ce paragraphe 3(1) est réputé être entré en vigueur avant ce paragraphe 22(2), le paragraphe (7) s’appliquant en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-16
+
+
+
+
+29. If Bill C-16, introduced in the 3rd session of the 40th Parliament and entitled the Ending House Arrest for Property and Other Serious Crimes by Serious and Violent Offenders Act, receives royal assent, then, on the first day on which both section 2 of that Act and subsection 14(2) of this Act are in force, subparagraph 742.1(f)(ii) of the Criminal Code is repealed.
+
+
+
+
+
+
+
+
+
+
+29. En cas de sanction du projet de loi C-16, déposé au cours de la 3e session de la 40e législature et intitulé Loi mettant fin à la détention à domicile de contrevenants violents et dangereux ayant commis des crimes contre les biens ou d’autres crimes graves, dès le premier jour où l’article 2 de cette loi et le paragraphe 14(2) de la présente loi sont tous deux en vigueur, le sous-alinéa 742.1f)(ii) du Code criminel est abrogé.
+
+
+
+Projet de loi C-16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+30. The provisions of this Act, other than sections 28 and 29, come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+30. Les dispositions de la présente loi, à l’exception des articles 28 et 29, entrent en vigueur à la date ou aux dates prévues par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

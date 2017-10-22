@@ -1,0 +1,10292 @@
+
+
+
+
+
+
+C-33
+
+
+
+
+
+C-33
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+
+
+
+
+
+Troisième session, quarantième législature,
+
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-33
+
+
+
+
+
+PROJET DE LOI C-33
+
+
+
+
+
+
+An Act to amend the Railway Safety Act and to make consequential amendments to the Canada Transportation Act
+
+
+
+
+
+Loi modifiant la Loi sur la sécurité ferroviaire et la Loi sur les transports au Canada en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reprinted as amended by the Standing Committee on Transport, Infrastructure and Communities as a working copy for the use of the House of Commons at Report Stage and as reported to the House on March 11, 2011
+
+
+
+
+
+Réimprimé tel que modifié par le Comité permanent des transports, de l'infrastructure et des collectivités comme document de travail à l’usage de la Chambre des communes à l’étape du rapport et présenté à la Chambre le 11 mars 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF TRANSPORT, INFRASTRUCTURE AND COMMUNITIES
+
+90509
+
+
+
+MINISTRE DES TRANSPORTS, DE L’INFRASTRUCTURE ET DES COLLECTIVITÉS
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+These amendments amend the Railway Safety Act to, among other things,
+(a) improve the oversight capacity of the Department of Transport by, for example, requiring railway companies to obtain a safety-based railway operating certificate indicating compliance with regulatory requirements;
+(b) strengthen that Department’s enforcement powers by introducing administrative monetary penalties and increasing court-enforced penalties;
+(c) enhance the role of safety management systems by including a provision for a railway executive accountable for safety and a non-punitive reporting system for employees of railway companies;
+(d) clarify the authority and responsibilities of the Minister of Transport with respect to railway matters; and
+(e) expand regulation-making authorities and clarify the process for rule making by railway companies.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur la sécurité ferroviaire afin d’améliorer la sécurité ferroviaire.
+Les modifications visent notamment à :
+
+a) améliorer la capacité de surveillance du ministère des Transports, en exigeant entre autres que les compagnies — qui exploitent ou entretiennent un chemin de fer ou qui exploitent du matériel ferroviaire sur un chemin de fer — obtiennent un certificat d’exploitation de chemin de fer basé sur la sécurité après avoir satisfait aux exigences réglementaires;
+
+b) renforcer les pouvoirs d’exécution du ministère des Transports en introduisant des pénalités administratives pécuniaires et en augmentant les sanctions;
+
+c) accroître le rôle des systèmes de gestion de la sécurité, notamment en introduisant des dispositions concernant un administrateur responsable de la sécurité et, dans le cas des compagnies de chemin de fer, un système non punitif de production de rapports par les employés de chemin de fer;
+
+d) clarifier l’autorité et les responsabilités du ministre des Transports relativement aux questions ferroviaires;
+
+e) élargir les pouvoirs habilitants en général, notamment dans des domaines comme la gestion de l’environnement et permettre d’éclaircir le processus de prise de règles par les compagnies de chemin de fer.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+3e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-33
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-33
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Railway Safety Act and to make consequential amendments to the Canada Transportation Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la sécurité ferroviaire et la Loi sur les transports au Canada en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Safer Railways Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi améliorant la sécurité ferroviaire.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 32 (4th Supp.)
+
+
+
+RAILWAY SAFETY ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA SÉCURITÉ FERROVIAIRE
+
+
+
+L.R., ch. 32 (4e suppl.)
+
+
+
+
+
+
+
+
+
+
+1996, c. 10, s. 261
+
+
+
+
+2. Subsection 2(2) of the Railway Safety Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 2(2) de la Loi sur la sécurité ferroviaire est remplacé par ce qui suit :
+
+
+
+1996, ch. 10, art. 261
+
+
+
+
+
+
+
+
+
+
+Application generally
+
+
+
+(2) This Act applies in respect of railways that are within the legislative authority of Parliament.
+
+
+
+
+
+
+
+
+
+(2) La présente loi s’applique aux chemins de fer relevant de l’autorité législative du Parlement.
+
+
+
+Champ d’application
+
+
+
+
+
+
+
+
+
+
+Exceptions
+
+
+
+(3) Despite subsection (2), this Act does not apply in respect of
+
+
+
+
+
+
+
+
+
+
+(a) railways referred to in section 16 of the Harbour Commissions Act; or
+
+
+
+
+
+
+
+
+
+
+(b) railways referred to in section 29 of the Canada Marine Act, except to the extent provided by regulations made under subsection 29(2) of that Act.
+
+
+
+
+
+
+
+
+
+(3) Malgré le paragraphe (2), la présente loi ne s’applique pas :
+
+
+
+Exceptions
+
+
+
+
+
+a) au réseau ferroviaire visé à l’article 16 de la Loi sur les commissions portuaires;
+
+
+
+
+
+
+
+
+
+
+
+b) aux chemins de fer visés à l’article 29 de la Loi maritime du Canada, sauf dans la mesure prévue dans un règlement pris en vertu du paragraphe 29(2) de cette loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 1
+
+
+
+
+3. Section 3 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. L’article 3 de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, art. 1
+
+
+
+
+
+
+
+
+
+
+Objectives
+
+
+
+
+3. The objectives of this Act are to
+
+
+
+
+
+
+
+
+
+
+(a) promote and provide for the safety and security of the public and personnel, and the protection of property and the environment, in railway operations;
+
+
+
+
+
+
+
+
+
+
+(b) encourage the collaboration and participation of interested parties in improving railway safety and security;
+
+
+
+
+
+
+
+
+
+
+(c) recognize the responsibility of companies to demonstrate, by using safety management systems and other means at their disposal, that they continuously manage risks related to safety matters; and
+
+
+
+
+
+
+
+
+
+
+(d) facilitate a modern, flexible and efficient regulatory scheme that will ensure the continuing enhancement of railway safety and security.
+
+
+
+
+
+
+
+
+
+
+3. La présente loi vise à la réalisation des objectifs suivants :
+
+
+
+Objectifs
+
+
+
+
+
+a) pourvoir à la sécurité et à la sûreté du public et du personnel dans le cadre de l’exploitation ferroviaire et à la protection des biens et de l’environnement, et en faire la promotion;
+
+
+
+
+
+
+
+
+
+
+
+b) encourager la collaboration et la participation des parties intéressées à l’amélioration de la sécurité et de la sûreté ferroviaires;
+
+
+
+
+
+
+
+
+
+
+
+c) reconnaître la responsabilité qui incombe aux compagnies d’établir, par leurs systèmes de gestion de la sécurité et autres moyens à leur disposition, qu’elles gèrent continuellement les risques en matière de sécurité;
+
+
+
+
+
+
+
+
+
+
+
+d) favoriser la mise en place d’outils de réglementation modernes, flexibles et efficaces dans le but d’assurer l’amélioration continue de la sécurité et de la sûreté ferroviaires.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minister’s responsibilities respecting railway safety
+
+
+
+
+3.1 The Minister is responsible for the development and regulation of matters to which this Act applies, including safety and security, and for the supervision of all matters connected with railways and, in the discharge of those responsibilities, the Minister may, among other things,
+
+
+
+
+
+
+
+
+
+
+(a) promote railway safety and security by means that the Minister considers appropriate;
+
+
+
+
+
+
+
+
+
+
+(b) provide facilities and services for the collection, publication or dissemination of information;
+
+
+
+
+
+
+
+
+
+
+(c) undertake, and cooperate with persons undertaking, projects, technical research, study or investigation;
+
+
+
+
+
+
+
+
+
+
+(d) inspect, examine and report on activities related to railway matters; and
+
+
+
+
+
+
+
+
+
+
+(e) undertake other activities that the Minister considers appropriate or that the Governor in Council may direct.
+
+
+
+
+
+
+
+
+
+
+3.1 Le ministre est chargé du développement et de la réglementation pour toute question à laquelle la présente loi s’applique, notamment les questions de sécurité et de sûreté ferroviaires, et du contrôle de tous les secteurs liés à ce domaine. À ce titre, il peut en outre :
+
+
+
+Attributions du ministre
+
+
+
+
+
+a) promouvoir la sécurité et la sûreté ferroviaires par les moyens qu’il estime indiqués;
+
+
+
+
+
+
+
+
+
+
+
+b) fournir des installations et des services pour la cueillette, la publication ou la diffusion de renseignements;
+
+
+
+
+
+
+
+
+
+
+
+c) entreprendre les travaux, recherches techniques, études ou enquêtes et collaborer avec les personnes qui les entreprennent;
+
+
+
+
+
+
+
+
+
+
+
+d) procéder à des inspections et à des études et fournir des rapports sur les activités liées à toute question ferroviaire;
+
+
+
+
+
+
+
+
+
+
+
+e) entreprendre, à son initiative ou sur les instructions du gouverneur en conseil, toute autre activité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 2(4)
+
+
+
+
+4. (1) The definitions “organisation intéressée” and “système de gestion de la sécurité” in subsection 4(1) of the French version of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. (1) Les définitions de « organisation intéressée » et « système de gestion de la sécurité », au paragraphe 4(1) de la version française de la même loi, sont respectivement remplacées par ce qui suit :
+
+
+
+1999, ch. 9, par. 2(4)
+
+
+
+
+
+
+
+
+
+
+« organisation intéressée »“relevant association or organization”
+
+
+
+
+« organisation intéressée » Association ou organisation formée pour représenter le personnel d’une compagnie de chemin de fer ou les propriétaires ou locataires de matériel ferroviaire utilisé sur les voies ferrées exploitées par une telle compagnie de chemin de fer, et classée par arrêté du ministre comme organisation intéressée par rapport à la compagnie.
+
+
+
+
+
+« système de gestion de la sécurité »“safety management system”
+
+
+
+
+« système de gestion de la sécurité » Protocole visant la mise en oeuvre de la sécurité ferroviaire dans l’exploitation ferroviaire courante et intégrant les responsabilités et les pouvoirs au sein d’une compagnie, les règles, les procédures, les processus de surveillance et d’évaluation auxquels elle est assujettie ainsi que les objectifs en matière de sécurité, de rendement des mécanismes de contrôle d’application et d’évaluation des risques.
+
+
+
+
+
+
+
+
+
+
+« organisation intéressée » Association ou organisation formée pour représenter le personnel d’une compagnie de chemin de fer ou les propriétaires ou locataires de matériel ferroviaire utilisé sur les voies ferrées exploitées par une telle compagnie de chemin de fer, et classée par arrêté du ministre comme organisation intéressée par rapport à la compagnie.
+
+
+
+« organisation intéressée »“relevant association or organization”
+
+
+
+
+« système de gestion de la sécurité » Protocole visant la mise en oeuvre de la sécurité ferroviaire dans l’exploitation ferroviaire courante et intégrant les responsabilités et les pouvoirs au sein d’une compagnie, les règles, les procédures, les processus de surveillance et d’évaluation auxquels elle est assujettie ainsi que les objectifs en matière de sécurité, de rendement des mécanismes de contrôle d’application et d’évaluation des risques.
+
+
+
+« système de gestion de la sécurité »“safety management system”
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 4(1) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 4(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“company”« compagnie »
+
+
+
+“company” means a railway company or a local railway company;
+
+
+
+
+“fatigue science”« science de la fatigue »
+
+
+
+
+“fatigue science” means a scientifically based, data-driven and systematic method used to measure and manage human fatigue;
+
+
+
+
+
+“highest level of safety”« niveau de sécurité le plus élevé »
+
+
+
+
+“highest level of safety” means the lowest acceptable level of risk as demonstrated by a risk management analysis;
+
+
+
+
+
+“local railway company”« compagnie de chemin de fer locale »
+
+
+
+“local railway company” means a person, other than a railway company or an agent or mandatary of a railway company, that operates railway equipment on a railway;
+
+
+
+
+“railway”« chemin de fer »
+
+
+
+“railway” means a railway within the legislative authority of Parliament and includes
+
+
+
+
+
+
+
+
+
+
+(a) branches, extensions, sidings, railway bridges, tunnels, stations, depots, wharfs, rolling stock, equipment, stores or other things connected with the railway, and
+
+
+
+
+
+
+
+
+
+
+(b) communications or signalling systems and related facilities and equipment used for railway purposes;
+
+
+
+
+“railway company”« compagnie de chemin de fer »
+
+
+
+“railway company” means a person that constructs, operates or maintains a railway;
+
+
+
+
+
+
+
+
+
+« chemin de fer » Chemin de fer relevant de l’autorité législative du Parlement. Sont également visés :
+
+
+
+« chemin de fer »“railway”
+
+
+
+
+
+a) les embranchements et prolongements, les voies de garage et d’évitement, les ponts et tunnels, les gares et stations, les dépôts et quais, le matériel roulant, l’équipement et les fournitures, ainsi que tous les autres biens qui dépendent du chemin de fer;
+
+
+
+
+
+
+
+
+
+
+
+b) les systèmes de communication ou de signalisation et les installations et équipements connexes qui servent à l’exploitation du chemin de fer.
+
+
+
+
+
+
+
+
+
+
+« compagnie » Compagnie de chemin de fer ou compagnie de chemin de fer locale.
+
+
+
+« compagnie »“company”
+
+
+
+
+« compagnie de chemin de fer » Personne qui, selon le cas, construit, exploite ou entretient un chemin de fer.
+
+
+
+« compagnie de chemin de fer »“railway company”
+
+
+
+
+« compagnie de chemin de fer locale » Personne, autre qu’une compagnie de chemin de fer ou les mandataires de celle-ci, qui exploite du matériel ferroviaire sur un chemin de fer.
+
+
+
+« compagnie de chemin de fer locale »“local railway company”
+
+
+
+
+
+« niveau de sécurité le plus élevé » Le niveau de risque le plus bas acceptable tel que démontré dans une analyse de risque.
+
+
+
+
+« niveau de sécurité le plus élevé »“highest level of safety”
+
+
+
+
+
+« science de la fatigue » Méthode scientifique systématique fondée sur des données servant à mesurer et à gérer la fatigue humaine.
+
+
+
+
+« science de la fatigue »“fatigue science”
+
+
+
+
+
+
+
+
+
+
+1996, c. 10, s. 263(2)
+
+
+
+(3) Subsection 4(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 4(2) de la même loi est abrogé.
+
+
+
+1996, ch. 10, par. 263(2)
+
+
+
+
+
+
+
+
+
+
+2001, c. 29, s. 64(2)
+
+
+
+(4) Subsection 4(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 4(5) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 29, par. 64(2)
+
+
+
+
+
+
+
+
+
+
+Filing or sending notices and documents
+
+
+
+(5) With the exception of a notice or document sent to or by the Tribunal, for the purposes of this Act, the filing or sending of a notice or document must be
+
+
+
+
+
+
+
+
+
+
+(a) in the case of an individual, by personal service, by facsimile or by mailing it by registered mail to the person’s latest known address;
+
+
+
+
+
+
+
+
+
+
+(b) in the case of a corporation, by facsimile or by mailing it by registered mail to its head office or any other office designated by the Minister; or
+
+
+
+
+
+
+
+
+
+
+(c) in either case, by any electronic or other means approved in writing by the Minister and subject to any conditions fixed by the Minister.
+
+
+
+
+
+
+
+
+
+(5) Pour l’application de la présente loi — à l’exception de toute notification ou communication de documents par le Tribunal ou à celui-ci —, toute notification ou communication de documents se fait, dans le cas d’une personne physique, par remise au destinataire, par courrier recommandé à sa dernière adresse connue ou par télécopieur et, dans le cas d’une personne morale, par télécopieur ou par courrier recommandé à son siège ou à tout autre bureau spécifié par le ministre. Elle peut aussi être faite par tout autre moyen, notamment électronique, approuvé par écrit par le ministre et aux conditions fixées par lui.
+
+
+
+Notification et communication de documents
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Act is amended by adding the following after section 4:
+
+
+
+
+
+
+
+
+
+
+5. La même loi est modifiée par adjonction, après l’article 4, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Inconsistencies with operating agreements
+
+
+
+
+4.1 This Act and all regulations, rules, certificates, orders, exemptions and emergency directives made or issued under this Act prevail over the provisions of any agreement or order that enables a company to operate railway equipment on the railway of a railway company in the event of an inconsistency between them.
+
+
+
+
+
+
+
+
+
+
+4.1 La présente loi et ses textes d’application — règlements, règles, certificats, arrêtés, exemptions et injonctions ministérielles — l’emportent sur les dispositions incompatibles d’un accord ou d’un arrêté permettant à une compagnie d’exploiter du matériel ferroviaire sur le chemin de fer d’une compagnie de chemin de fer.
+
+
+
+Conflits
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Section 6 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. L’article 6 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements between Department and Agency
+
+
+
+
+6. The Minister may enter into an agreement with the Agency providing for the following matters and may, in consultation with the Agency, take any action that is necessary to ensure that the terms of the agreement are disclosed to any railway company or other person likely to be affected by it:
+
+
+
+
+
+
+
+
+
+
+(a) the coordination of the activities of the Department of Transport and the Agency
+
+
+
+
+
+
+
+
+
+
+(i) relating to the construction, alteration, operation or maintenance of railway works and railway equipment, or
+
+
+
+
+
+
+
+
+
+
+(ii) in determining whether a person is constructing, operating or maintaining a railway; and
+
+
+
+
+
+
+
+
+
+
+(b) procedures to be followed by that Department and the Agency in the event that conflicting interests arise between them in their activities with respect to those matters.
+
+
+
+
+
+
+
+
+
+
+6. Le ministre peut conclure avec l’Office un accord :
+
+
+
+Accords
+
+
+
+
+
+a) prévoyant la coordination de l’action du ministère des Transports et de l’Office :
+
+
+
+
+
+
+
+
+
+
+(i) en matière de construction, de modification, d’exploitation et d’entretien d’installations et de matériel ferroviaires,
+
+
+
+
+
+
+
+
+
+
+(ii) relativement à la question de savoir si une personne construit, exploite ou entretient un chemin de fer;
+
+
+
+
+
+
+
+
+
+
+
+b) fixant les modalités de règlement des situations de conflit pouvant en découler.
+
+
+
+
+
+
+
+
+
+
+Il peut en outre, après consultation auprès de l’Office, prendre les mesures nécessaires pour porter l’accord à la connaissance des compagnies de chemin de fer ou de toute autre personne concernée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements with provincial ministers
+
+
+
+
+6.1 (1) The Minister may enter into an agreement with a provincial minister responsible for transportation matters providing for the administration, in relation to persons who operate railways within the legislative authority of the province, of any law respecting
+
+
+
+
+
+
+
+
+
+
+(a) railway safety and security and the safety aspects of railway crossings; or
+
+
+
+
+
+
+
+
+
+
+(b) matters relating to the protection of the environment to which this Act applies.
+
+
+
+
+
+
+
+
+
+
+6.1 (1) Le ministre peut conclure avec un ministre provincial chargé des transports un accord relatif à l’application, à des exploitants de chemin de fer assujettis à la compétence législative de la province en cause, de tout texte législatif ayant trait à la sécurité et à la sûreté ferroviaires, aux aspects de sécurité des franchissements ferroviaires et, dans la mesure où la présente loi le prévoit, à la protection de l’environnement.
+
+
+
+Accords avec les ministres des transports provinciaux
+
+
+
+
+
+
+
+
+
+
+Designation of body or person
+
+
+
+(2) The Minister may designate any body established under an Act of Parliament, or any person or class of persons employed in the federal public administration, to administer the law in accordance with the agreement.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut désigner un organisme établi par une loi fédérale ou une personne ou catégorie de personnes oeuvrant au sein de l’administration publique fédérale pour appliquer la loi conformément à cet accord.
+
+
+
+Désignation
+
+
+
+
+
+
+
+
+
+
+Duties and powers
+
+
+
+(3) The designated body, person or class of persons may perform any duty and exercise any power necessary for the enforcement of the law, to the extent specified in the agreement.
+
+
+
+
+
+
+
+
+
+(3) L’organisme ou la personne ou catégorie de personnes peut, dans la mesure spécifiée dans l’accord, exercer les fonctions et les attributions nécessaires à l’exécution de la loi.
+
+
+
+Fonctions et attributions
+
+
+
+
+
+
+
+
+
+
+Agreements with provincial authorities
+
+
+
+
+6.2 The Minister may enter into an agreement with a provincial authority to authorize the provincial authority to regulate the matters referred to in subsection 6.1(1) in relation to a railway in the same manner and to the same extent as it may regulate a railway within the authority’s jurisdiction.
+
+
+
+
+
+
+
+
+
+
+6.2 Le ministre peut conclure avec toute autorité provinciale un accord autorisant celle-ci à réglementer les questions visées au paragraphe 6.1(1) concernant les chemins de fer; le cas échéant, l’autorité exerce ce pouvoir de la même manière et dans la même mesure que celui qu’elle peut exercer à l’égard d’un chemin de fer relevant de sa compétence.
+
+
+
+Accords avec des autorités provinciales
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) Subsection 7(1) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. (1) Le paragraphe 7(1) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Règlements normatifs en matière de construction et de modification
+
+
+
+
+
+7. (1) Le gouverneur en conseil peut, par règlement, régir l’établissement de normes concernant la structure ou le rendement d’installations ferroviaires et applicables à la construction ou à la modification de celles-ci.
+
+
+
+
+
+
+
+
+
+
+
+7. (1) Le gouverneur en conseil peut, par règlement, régir l’établissement de normes concernant la structure ou le rendement d’installations ferroviaires et applicables à la construction ou à la modification de celles-ci.
+
+
+
+Règlements normatifs en matière de construction et de modification
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 3
+
+
+
+(2) Subsection 7(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 7(3) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, art. 3
+
+
+
+
+
+
+
+
+
+
+Application of certain provisions
+
+
+
+(3) Section 19 and regulations made under section 20.2 apply in relation to standards referred to in subsection (2) or (2.1), with any modifications that the circumstances require and without regard to any obligation to consult.
+
+
+
+
+
+
+
+
+
+(3) L’article 19 et les règlements pris en vertu de l’article 20.2 s’appliquent — à l’exception de toute obligation de consulter — aux normes visées aux paragraphes (2) et (2.1), avec les adaptations nécessaires.
+
+
+
+Application de certaines dispositions
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 7
+
+
+
+
+8. Section 11 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. L’article 11 de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, art. 7
+
+
+
+
+
+
+
+
+
+
+Sound engineering principles
+
+
+
+
+11. (1) All work relating to railway works — including, but not limited to, design, construction, evaluation, maintenance and alteration — must be done in accordance with sound engineering principles.
+
+
+
+
+
+
+
+
+
+
+11. (1) Les travaux relatifs aux installations ferroviaires, notamment la conception, la construction, l’évaluation, l’entretien ou la modification, sont effectués conformément à des principes d’ingénierie bien établis.
+
+
+
+Principes d'ingénierie bien établis
+
+
+
+
+
+
+
+
+
+
+Engineering work
+
+
+
+(2) All engineering work relating to railway works must be approved by a professional engineer.
+
+
+
+
+
+
+
+
+
+(2) Les travaux d’ingénierie relatifs aux installations ferroviaires sont approuvés par un ingénieur professionnel.
+
+
+
+Travaux d'ingénierie
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. The Act is amended by adding the following before the heading “Regula- tions” before section 18:
+
+
+
+
+
+
+
+
+
+
+9. La même loi est modifiée par adjonction, avant l’intertitre « Règlements » précédant l’article 18, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibitions
+
+
+
+
+
+
+
+
+
+
+
+Interdictions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. The Act is amended by adding the following after the heading “Prohibitions”, as enacted by section 9:
+
+
+
+
+
+
+
+
+
+
+10. La même loi est modifiée par adjonction, après l’intertitre « Interdictions », édicté par l’article 9, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Requirement for certificate
+
+
+
+
+17.1 (1) No person shall operate or maintain a railway, or operate railway equipment on a railway, without a railway operating certificate.
+
+
+
+
+
+
+
+
+
+
+17.1 (1) Il est interdit à quiconque d’exploiter ou d’entretenir un chemin de fer ou d’exploiter du matériel ferroviaire sur un chemin de fer sans être titulaire d’un certificat d’exploitation de chemin de fer.
+
+
+
+Exigence d’un certificat
+
+
+
+
+
+
+
+
+
+
+Crossing maintenance
+
+
+
+(2) Subsection (1) does not apply to a person exempted under paragraph 17.9(1)(c) or to a municipality or road authority that maintains a crossing work.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas à la personne exemptée au titre de l’alinéa 17.9(1)c) ou à une municipalité ou une autorité responsable du service de voirie qui entretient un ouvrage de franchissement.
+
+
+
+Entretien — franchissement ferroviaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. (1) The Act is amended by adding the following before the heading “Regula- tions” before section 18:
+
+
+
+
+
+
+
+
+
+
+11. (1) La même loi est modifiée par adjonction, avant l’intertitre « Règle- ments » précédant l’article 18, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance with regulations and rules
+
+
+
+
+17.2 No railway company shall operate or maintain a railway, including any railway work or railway equipment, and no local railway company shall operate railway equipment on a railway, otherwise than in accordance with the regulations and with the rules made in respect of the company under sections 19 and 20, except to the extent that the company is exempt from their application under section 22 or 22.1.
+
+
+
+
+
+
+
+
+
+
+17.2 Il est interdit à toute compagnie de chemin de fer d’exploiter ou d’entretenir un chemin de fer, notamment les installations et le matériel ferroviaires, et à toute compagnie de chemin de fer locale d’exploiter du matériel ferroviaire sur un chemin de fer, en contravention avec les règlements et les règles établies sous le régime des articles 19 ou 20 qui lui sont applicables, sauf si elle bénéficie de l’exemption prévue aux articles 22 ou 22.1.
+
+
+
+Conformité avec les règlements et règles
+
+
+
+
+
+
+
+
+
+
+Crossing works
+
+
+
+
+17.3 No person responsible for the maintenance of a crossing work shall maintain it otherwise than in accordance with the regulations made under section 18 unless that person is exempted under section 22 or 22.1 from the application of those regulations in relation to the maintenance of that crossing work.
+
+
+
+
+
+
+
+
+
+
+17.3 Il est interdit au responsable de l’entretien d’un ouvrage de franchissement qui ne bénéficie pas de l’exemption prévue aux articles 22 ou 22.1 d’entretenir celui-ci en contravention avec les règlements pris à ce sujet sous le régime de l’article 18.
+
+
+
+Entretien d’ouvrage de franchissement
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 17.2 of the Act, as enacted by subsection (1), is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’article 17.2 de la même loi, édicté par le paragraphe (1), est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance with certificate, regulations and rules
+
+
+
+
+17.2 No railway company shall operate or maintain a railway, including any railway work or railway equipment, and no local railway company shall operate railway equipment on a railway, otherwise than in accordance with a railway operating certificate and — except to the extent that the company is exempt from their application under section 22 or 22.1 — with the regulations and the rules made under sections 19 and 20 that apply to the company.
+
+
+
+
+
+
+
+
+
+
+17.2 Il est interdit à toute compagnie de chemin de fer d’exploiter ou d’entretenir un chemin de fer, notamment les installations et le matériel ferroviaires, et à toute compagnie de chemin de fer locale d’exploiter du matériel ferroviaire sur un chemin de fer, en contravention avec un certificat d’exploitation de chemin de fer, les règlements et les règles établies sous le régime des articles 19 ou 20 qui lui sont applicables, sauf si elle bénéficie de l’exemption prévue aux articles 22 ou 22.1.
+
+
+
+Conformité avec les certificats, règlements et règles
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. The Act is amended by adding the following after section 17.3:
+
+
+
+
+
+
+
+
+
+
+12. La même loi est modifiée par adjonction, après l’article 17.3, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Railway Operating Certificate
+
+
+
+
+
+
+
+
+
+
+
+Certificat d’exploitation de chemin de fer
+
+
+
+
+
+
+
+
+
+
+
+
+
+Issuance of certificate
+
+
+
+
+17.4 (1) The Minister shall, on application, issue a railway operating certificate authorizing a person to operate and maintain a railway, or to operate railway equipment on a railway, if the Minister is satisfied that the prescribed conditions for obtaining one have been met.
+
+
+
+
+
+
+
+
+
+
+17.4 (1) Le ministre délivre sur demande un certificat d’exploitation de chemin de fer autorisant son titulaire à exploiter ou à entretenir un chemin de fer ou encore à exploiter du matériel ferroviaire sur un chemin de fer, s’il est convaincu que les conditions réglementaires pour son obtention sont remplies.
+
+
+
+Délivrance du certificat
+
+
+
+
+
+
+
+
+
+
+Terms and conditions
+
+
+
+(2) A railway operating certificate may contain any terms and conditions that the Minister considers appropriate.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut assujettir le certificat aux modalités qu’il juge indiquées.
+
+
+
+Modalités
+
+
+
+
+
+
+
+
+
+
+Variation
+
+
+
+(3) The Minister may, on application by a company, vary the terms and conditions of its railway operating certificate.
+
+
+
+
+
+
+
+
+
+(3) Le ministre peut, sur demande d’une compagnie, modifier les modalités de son certificat.
+
+
+
+Modifications
+
+
+
+
+
+
+
+
+
+
+Time limit
+
+
+
+(4) A decision by the Minister whether to issue or vary a railway operating certificate shall be made as expeditiously as possible within 120 days after receipt of the application unless the applicant agrees otherwise.
+
+
+
+
+
+
+
+
+
+(4) La décision du ministre de délivrer ou de modifier un certificat d’exploitation de chemin de fer est rendue dès que possible dans les cent vingt jours de la réception de la demande sauf entente à l’effet contraire.
+
+
+
+Délai
+
+
+
+
+
+
+
+
+
+
+Suspension or cancellation
+
+
+
+(5) The Minister may suspend or cancel a company’s railway operating certificate if the company has
+
+
+
+
+
+
+
+
+
+
+(a) ceased to meet any of the prescribed conditions for obtaining the certificate;
+
+
+
+
+
+
+
+
+
+
+(b) contravened any provision of this Act or the regulations or any rule, order, standard or emergency directive made under this Act; or
+
+
+
+
+
+
+
+
+
+
+(c) requested its suspension or cancellation.
+
+
+
+
+
+
+
+
+
+(5) Le ministre peut suspendre ou annuler un certificat d’exploitation de chemin de fer si, selon le cas :
+
+
+
+Suspension ou annulation du certificat
+
+
+
+
+
+a) la compagnie ne remplit plus l’une ou l’autre des conditions réglementaires d’obtention du certificat;
+
+
+
+
+
+
+
+
+
+
+
+b) la compagnie a contrevenu à une des dispositions de la présente loi ou des règlements ou à une règle, à un arrêté, à une norme ou à une injonction ministérielle établi sous son régime;
+
+
+
+
+
+
+
+
+
+
+
+c) la compagnie le demande.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice of decision
+
+
+
+
+17.5 (1) The Minister shall notify the affected person or company of any decision made under subsection 17.4(1), (3) or (5).
+
+
+
+
+
+
+
+
+
+
+17.5 (1) Le ministre avise la personne ou la compagnie de toute décision rendue en vertu des paragraphes 17.4(1), (3) ou (5).
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Contents of notice
+
+
+
+(2) The notice of decision shall specify
+
+
+
+
+
+
+
+
+
+
+(a) the grounds of the Minister’s decision; and
+
+
+
+
+
+
+
+
+
+
+(b) the address at which and the date, being thirty days after the notice is sent, on or before which the person may file a request for a review of the decision.
+
+
+
+
+
+
+
+
+
+(2) Sont indiqués dans l’avis :
+
+
+
+Contenu de l’avis
+
+
+
+
+
+a) les motifs de la décision du ministre;
+
+
+
+
+
+
+
+
+
+
+
+b) le lieu et la date limite, à savoir trente jours après l’expédition de l’avis, du dépôt d’une éventuelle requête en révision.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effective date of decision
+
+
+
+(3) The effective date of a decision is the day on which the notice is received by the person or company unless the notice specifies a later date.
+
+
+
+
+
+
+
+
+
+(3) Dans tous les cas, la date de prise d’effet de la décision est la date de réception de l’avis par l’intéressé, à moins que l’avis n’indique une date ultérieure.
+
+
+
+Prise d’effet
+
+
+
+
+
+
+
+
+
+
+Request for review
+
+
+
+
+17.6 (1) A person or a company affected by a decision of the Minister under subsection 17.4(1), (3) or (5) may, on or before the date specified in the notice under section 17.5 or within any further time that the Tribunal on application allows, file with the Tribunal a written request for a review of the decision.
+
+
+
+
+
+
+
+
+
+
+17.6 (1) La personne ou la compagnie peut faire réviser la décision rendue en vertu des paragraphes 17.4(1), (3) ou (5) en déposant une requête auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis visé à l’article 17.5, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+
+
+Requête en révision
+
+
+
+
+
+
+
+
+
+
+Effect of request
+
+
+
+(2) A request under subsection (1) for a review of a decision under subsection 17.4(5) does not operate as a stay of the decision.
+
+
+
+
+
+
+
+
+
+(2) Le dépôt d’une requête en révision n’a pas pour effet de suspendre la décision rendue en vertu du paragraphe 17.4(5).
+
+
+
+Effet de la requête
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(3) On application in writing by the person or company affected by a decision made under subsection 17.4(5), after giving any notice to the Minister that is, in the member’s opinion, necessary and after considering any representations made by the parties, a member of the Tribunal assigned for the purpose may grant a stay of the decision until the review is completed, if he or she is satisfied that granting a stay would not constitute a threat to railway safety.
+
+
+
+
+
+
+
+
+
+(3) Sauf s’il est convaincu que cela constituerait un danger pour la sécurité ferroviaire, le conseiller commis à l’affaire qui est saisi d’une demande écrite de la personne ou la compagnie peut, après avoir donné au ministre le préavis qu’il estime indiqué et avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 17.4(5) jusqu’à ce qu’il ait été statué sur la requête en révision.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Time and place for review
+
+
+
+
+17.7 (1) On receipt of a request filed under subsection 17.6(1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing.
+
+
+
+
+
+
+
+
+
+
+17.7 (1) Le Tribunal, sur réception de la requête, fixe les date, heure et lieu de l’audience et en avise par écrit le ministre et la personne qui a déposé la requête.
+
+
+
+Audience
+
+
+
+
+
+
+
+
+
+
+Review procedure
+
+
+
+(2) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
+
+
+
+
+
+
+
+
+
+(2) À l’audience, le conseiller commis à l’affaire accorde au ministre et à la personne qui a déposé la requête la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+
+
+Déroulement
+
+
+
+
+
+
+
+
+
+
+Determination
+
+
+
+(3) The member may confirm the decision of the Minister or refer the matter back to the Minister for reconsideration.
+
+
+
+
+
+
+
+
+
+(3) Le conseiller peut confirmer la décision ou renvoyer l’affaire au ministre pour réexamen.
+
+
+
+Décision
+
+
+
+
+
+
+
+
+
+
+Effect of decision pending reconsideration
+
+
+
+(4) If a decision under subsection 17.4(5) is referred back to the Minister for reconsideration under subsection (3), the decision of the Minister remains in effect until the reconsideration is concluded. However, the member, after considering any representations made by the parties, may grant a stay of the decision until the reconsideration is concluded, if he or she is satisfied that granting a stay would not constitute a threat to railway safety.
+
+
+
+
+
+
+
+
+
+(4) En cas de renvoi de l’affaire au ministre, la décision d’annuler ou de suspendre continue d’avoir effet. Toutefois, le conseiller peut, après avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 17.4(5) jusqu’à ce que le ministre ait réexaminé celle-ci, s’il est convaincu que cela ne constitue pas un danger pour la sécurité ferroviaire.
+
+
+
+Réexamen du dossier
+
+
+
+
+
+
+
+
+
+
+Right of appeal
+
+
+
+
+17.8 (1) Within thirty days after a determination made under subsection 17.7(3) by a member of the Tribunal, the person or company affected by the determination may appeal it to the Tribunal.
+
+
+
+
+
+
+
+
+
+
+17.8 (1) La personne ou la compagnie peut faire appel au Tribunal de la décision rendue en vertu du paragraphe 17.7(3). Dans tous les cas, le délai d’appel est de trente jours suivant la décision.
+
+
+
+Appel
+
+
+
+
+
+
+
+
+
+
+Effect of request
+
+
+
+(2) A request under subsection (1) for an appeal of a decision under subsection 17.4(5) does not operate as a stay of the decision.
+
+
+
+
+
+
+
+
+
+(2) Le dépôt d’une demande d’appel n’a pas pour effet de suspendre la décision rendue en vertu du paragraphe 17.4(5).
+
+
+
+Effet de la requête
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(3) On application in writing by the person or company affected by a decision made under subsection 17.4(5), after giving any notice to the Minister that is, in the member’s opinion, necessary and after considering any representations made by the parties, a member of the Tribunal assigned for the purpose may grant a stay of the decision until the appeal is completed, if he or she is satisfied that granting a stay would not constitute a threat to railway safety.
+
+
+
+
+
+
+
+
+
+(3) Sauf s’il est convaincu que cela constituerait un danger pour la sécurité ferroviaire, le conseiller commis à l’affaire qui est saisi d’une demande écrite de la personne ou de la compagnie peut, après avoir donné au ministre le préavis qu’il estime indiqué et avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 17.4(5) jusqu’à ce qu’il ait été statué sur la demande d’appel.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Loss of right of appeal
+
+
+
+(4) A person or company that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence.
+
+
+
+
+
+
+
+
+
+(4) La personne ou la compagnie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+
+
+Perte du droit d’appel
+
+
+
+
+
+
+
+
+
+
+Disposition of appeal
+
+
+
+(5) The appeal panel of the Tribunal assigned to hear the appeal may dismiss the appeal or refer the matter back to the Minister for reconsideration.
+
+
+
+
+
+
+
+
+
+(5) Le comité du Tribunal peut rejeter l’appel ou renvoyer l’affaire au ministre pour réexamen.
+
+
+
+Sort de l’appel
+
+
+
+
+
+
+
+
+
+
+Effect of decision pending reconsideration
+
+
+
+(6) If a decision under subsection 17.4(5) is referred back to the Minister for reconsideration under subsection (5), the decision of the Minister remains in effect until the reconsideration is concluded. However, the appeal panel, after considering any representations made by the parties, may grant a stay of the decision made under subsection 17.4(5) until the reconsideration is concluded, if it is satisfied that granting a stay would not constitute a threat to railway safety.
+
+
+
+
+
+
+
+
+
+(6) En cas de renvoi de l’affaire au ministre, la décision d’annuler ou de suspendre un certificat d’exploitation de chemin de fer continue d’avoir effet. Toutefois, le comité peut, après avoir entendu les observations des parties, prononcer la suspension de la décision rendue en vertu du paragraphe 17.4(5) jusqu’à ce que le ministre ait révisé celle-ci, s’il est convaincu que cela ne constitue pas un danger pour la sécurité ferroviaire.
+
+
+
+Réexamen du dossier
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+17.9 (1) The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+
+
+(a) respecting conditions to be met for the issuance of a railway operating certificate;
+
+
+
+
+
+
+
+
+
+
+(b) respecting the form and content of applications for railway operating certificates and the process for obtaining a certificate or the variation of one; and
+
+
+
+
+
+
+
+
+
+
+(c) exempting any class of persons from the application of section 17.1.
+
+
+
+
+
+
+
+
+
+
+17.9 (1) Le gouverneur en conseil peut prendre des règlements :
+
+
+
+Règlements
+
+
+
+
+
+a) concernant les conditions à remplir pour la délivrance d’un certificat d’exploitation de chemin de fer;
+
+
+
+
+
+
+
+
+
+
+
+b) concernant la forme et le contenu d’une demande de certificat d’exploitation de chemin de fer et le processus d’obtention ou de modification d’un tel certificat;
+
+
+
+
+
+
+
+
+
+
+
+c) soustrayant des catégories de personnes à l’application de l’article 17.1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) A regulation made under this section may be general or applicable to a group or class of persons or companies.
+
+
+
+
+
+
+
+
+
+(2) Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de personnes ou de compagnies visés.
+
+
+
+Portée des règlements
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. (1) Paragraph 18(1)(a) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. (1) L’alinéa 18(1)a) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a) régir toute question — notamment en matière de rendement — concernant l’exploitation ou l’entretien des lignes de chemin de fer, ou la conception, la construction, la modification, l’exploitation ou l’entretien de matériel ferroviaire;
+
+
+
+
+
+
+
+
+
+
+
+a) régir toute question — notamment en matière de rendement — concernant l’exploitation ou l’entretien des lignes de chemin de fer, ou la conception, la construction, la modification, l’exploitation ou l’entretien de matériel ferroviaire;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraphs 18(1)(c) and (d) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les alinéas 18(1)c) et d) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) respecting the following matters, to the extent that they relate to safe railway operations, in relation to persons employed in positions referred to in paragraph (b):
+
+
+
+
+
+
+(i) the training of those persons, both before and after appointment to those positions,
+
+
+
+
+
+
+(ii) hours of work and rest periods to be observed by those persons,
+
+
+
+
+
+
+(iii) minimum medical, including audiometric and optometric, standards to be met by those persons,
+
+
+
+
+
+
+(iv) the control or prohibition of the consumption of alcoholic beverages and the use of drugs by those persons,
+
+
+
+
+
+
+(v) the establishment of support programs for those persons and standards applicable to such programs, and
+
+
+
+
+
+
+(vi) the establishment of a scheme for licensing those persons; and
+
+
+
+
+
+
+(d) respecting the prevention and control of fires on railway works.
+
+
+
+
+
+
+
+
+
+
+c) en ce qui concerne la sécurité ferroviaire, régir la formation, préalable ou non, des titulaires des postes visés à l’alinéa b), l’alternance de leurs périodes de travail et de repos et les normes de santé — notamment d’acuité auditive et visuelle — minimales à remplir, ainsi que la consommation d’alcool et de drogues par eux, ou interdire celle-ci, prévoir l’établissement d’un programme d’aide pour eux et de normes applicables à cet égard et d’un régime d’attribution de licences à leur intention;
+
+
+
+
+
+
+
+d) régir la prévention et la maîtrise des incendies sur les installations ferroviaires.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 18 of the Act is amended by adding the following after subsection (2.1):
+
+
+
+
+
+
+
+
+
+(3) L’article 18 de la même loi est modifié par adjonction, après le paragraphe (2.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2.2) A regulation made under this section may be general or applicable to a group or class of persons or companies.
+
+
+
+
+
+
+
+
+
+(2.2) Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de personnes ou de compagnies visés.
+
+
+
+Portée des règlements
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 12
+
+
+
+(4) Subsection 18(3) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 18(3) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, art. 12
+
+
+
+
+
+
+
+
+
+
+Incompatibilité
+
+
+
+
+(3) Les dispositions des règlements pris par le gouverneur en conseil sous le régime des paragraphes (1) ou (2.1) annulent les dispositions incompatibles des règles approuvées par le ministre aux termes des articles 19 ou 20 relativement à une compagnie particulière.
+
+
+
+
+
+
+
+
+
+
+(3) Les dispositions des règlements pris par le gouverneur en conseil sous le régime des paragraphes (1) ou (2.1) annulent les dispositions incompatibles des règles approuvées par le ministre aux termes des articles 19 ou 20 relativement à une compagnie particulière.
+
+
+
+Incompatibilité
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, ss. 13 to 16
+
+
+
+
+14. (1) Sections 19 to 22.1 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. (1) Les articles 19 à 22.1 de la même loi sont remplacés par ce qui suit :
+
+
+
+1999, ch. 9, art. 13 à 16
+
+
+
+
+
+
+
+
+
+
+Formulation or revision of rules
+
+
+
+
+19. (1) The Minister may, by order, require a company
+
+
+
+
+
+
+
+
+
+
+(a) to formulate rules respecting any matter referred to in subsection 18(1) or (2.1) or to revise its rules respecting that matter; and
+
+
+
+
+
+
+
+
+
+
+(b) within a specified period, to file the formulated or revised rules with the Minister for approval.
+
+
+
+
+
+
+
+
+
+
+19. (1) Le ministre peut, par arrêté, enjoindre à une compagnie soit d’établir des règles concernant l’un des domaines visés aux paragraphes 18(1) ou (2.1), soit de modifier de telles règles et d’en déposer auprès de lui, pour approbation, le texte original ou modifié, dans un délai déterminé.
+
+
+
+Arrêté ministériel
+
+
+
+
+
+
+
+
+
+
+Company to consult
+
+
+
+(2) A company shall not file rules with the Minister under subsection (1) unless it has first, during a period of sixty days, given a reasonable opportunity for consultation with it on the rules to
+
+
+
+
+
+
+
+
+
+
+(a) in the case of a railway company, each relevant association or organization that is likely to be affected by the implementation of the rules; or
+
+
+
+
+
+
+
+
+
+
+(b) in the case of a local railway company, any railway company on whose railway the local railway company operates railway equipment and that is likely to be affected by the implementation of the rules.
+
+
+
+
+
+
+
+
+
+(2) La compagnie ne peut procéder au dépôt qu’après avoir donné aux entités ci-après la possibilité, pendant soixante jours, de lui faire part de leurs observations :
+
+
+
+Consultations
+
+
+
+
+
+a) dans le cas d’une compagnie de chemin de fer, les organisations intéressées susceptibles d’être touchées par la mise en oeuvre des règles;
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas d’une compagnie de chemin de fer locale, la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par la mise en oeuvre des règles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice to accompany rules
+
+
+
+(3) When rules are filed with the Minister by a company pursuant to an order under subsection (1), the company shall, by notice filed with those rules, identify each association or organization or any railway company that was consulted and attach a copy of any objection that is made by any of them on grounds of safety.
+
+
+
+
+
+
+
+
+
+(3) Malgré l’opposition par une organisation intéressée ou une compagnie de chemin de fer, pour des motifs de sécurité, à la mise en oeuvre des règles, la compagnie joint, le cas échéant, au texte qu’elle dépose un avis au ministre donnant le nom de l’organisation ou de la compagnie de chemin de fer qui ont été consultées et, le cas échéant, une copie de l’avis d’opposition.
+
+
+
+Avis d’opposition
+
+
+
+
+
+
+
+
+
+
+Consideration of rules
+
+
+
+(4) After rules are filed with the Minister by a company pursuant to an order under subsection (1), the Minister shall consider, without delay, whether, in the Minister’s opinion and after having regard to current railway practice, to the views of the company and the views of each relevant association or organization or any railway company identified under subsection (3) and to any other factor that the Minister considers relevant, those rules are conducive to safe railway operations by the company, and shall, before the expiration of the assessment period in relation to those rules,
+
+
+
+
+
+
+
+
+
+
+(a) if the Minister is so satisfied, notify the company and each association or organization or any railway company identified under subsection (3) that the Minister approves those rules, either absolutely or on any terms and conditions that are specified in the notice; or
+
+
+
+
+
+
+
+
+
+
+(b) if the Minister is not so satisfied, notify the company and each association or organization or any railway company identified under subsection (3) that the Minister refuses to approve those rules and of the reasons why the Minister is not so satisfied.
+
+
+
+
+
+
+
+
+
+(4) Le ministre doit, aussitôt que possible après le dépôt du texte mais, en tout état de cause, avant l’expiration du délai d’examen, décider si les règles dont le texte a été déposé en application du paragraphe (1) contribuent ou non à la sécurité de l’exploitation ferroviaire de la compagnie, après avoir tenu compte des usages en la matière, de l’opinion de la compagnie, de toute organisation ou de toute compagnie de chemin de fer visée au paragraphe (3) et de tout point qu’il juge utile, et notifier à ces dernières, dans le cas d’une décision positive, son approbation en en précisant, le cas échéant, les conditions, ou, dans le cas contraire, son refus et ses motifs.
+
+
+
+Décision du ministre
+
+
+
+
+
+
+
+
+
+
+Request for amendment to terms and conditions
+
+
+
+(4.1) A company referred to in subsection (4) may, on the basis of new information about the safety of railway operations, request the Minister to amend the terms and conditions specified under paragraph (4)(a), and shall send a copy of the request to
+
+
+
+
+
+
+
+
+
+
+(a) in the case of a railway company, each relevant association or organization that is likely to be affected by the amendment to the terms and conditions; or
+
+
+
+
+
+
+
+
+
+
+(b) in the case of a local railway company, any railway company on whose railway the local railway company operates railway equipment and that is likely to be affected by the amendment to the terms and conditions.
+
+
+
+
+
+
+
+
+
+(4.1) La compagnie peut, à la lumière de nouveaux renseignements touchant la sécurité ferroviaire, demander au ministre de modifier les conditions de l’approbation; elle fait parvenir une copie des modifications proposées :
+
+
+
+Demande de modification
+
+
+
+
+
+a) dans le cas d’une compagnie de chemin de fer, aux organisations intéressées susceptibles d’être touchées par la modification des conditions;
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas d’une compagnie de chemin de fer locale, à la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par la modification des conditions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amendments
+
+
+
+(4.2) After receiving a request from a company under subsection (4.1), the Minister may amend the terms and conditions and, in that case, shall provide a copy of the amendments to each relevant association or organization, or any railway company, referred to in subsection (4.1).
+
+
+
+
+
+
+
+
+
+(4.2) Le ministre peut modifier les conditions de l’approbation; il fait parvenir, le cas échéant, une copie des modifications aux organisations visées à l’alinéa (4.1)a) ou à la compagnie de chemin de fer visée à l’alinéa (4.1)b).
+
+
+
+Modifications
+
+
+
+
+
+
+
+
+
+
+Minister may seek advice
+
+
+
+(5) The Minister may, in deciding whether to approve rules filed by a company, engage any person or organization having expertise in matters relating to safe railway operations to furnish advice in relation to the matter.
+
+
+
+
+
+
+
+
+
+(5) Le ministre peut, pour former sa décision, retenir les services d’associations spécialisées ou d’experts en matière de sécurité ferroviaire.
+
+
+
+Experts
+
+
+
+
+
+
+
+
+
+
+Effective date of rules
+
+
+
+(5.1) Rules approved by the Minister under subsection (4) come into force on a day specified by the Minister, but if they replace any regulations, they may not come into force earlier than the day on which the regulations are repealed.
+
+
+
+
+
+
+
+
+
+(5.1) Les règles approuvées par le ministre entrent en vigueur au plus tôt à la date d’abrogation du règlement qu’elles remplacent, le cas échéant, ou à la date fixée par arrêté du ministre.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+
+
+
+Revision of rules
+
+
+
+(6) If the Minister notifies a company that the Minister refuses to approve rules filed by the company in respect of a matter pursuant to an order under subsection (1),
+
+
+
+
+
+
+
+
+
+
+(a) the company may, unless the Minister indicates in that notice an intention to establish rules in respect of that matter under subsection (7), formulate and file with the Minister further rules as if the order made pursuant to subsection (1) had been made on the date of receipt by the company of the notice of refusal; and
+
+
+
+
+
+
+
+
+
+
+(b) the provisions of this section apply in relation to those further rules, with any modifications that the circumstances require.
+
+
+
+
+
+
+
+
+
+(6) Lorsque le ministre notifie à une compagnie son refus d’approuver les règles établies par celle-ci sans préciser son intention d’en établir lui-même sous le régime du paragraphe (7), la compagnie peut établir de nouvelles règles et en déposer le texte auprès du ministre comme si l’obligation et le délai correspondant prévus au paragraphe (1) avaient été stipulés à la date de réception de l’avis de refus. Les dispositions du présent article s’appliquent aux nouvelles règles, compte tenu des adaptations de circonstance.
+
+
+
+Nouvelles règles
+
+
+
+
+
+
+
+
+
+
+Failure to file rules
+
+
+
+(7) If, in respect of a matter, a company fails to file rules pursuant to an order under subsection (1), or a company files rules pursuant to an order under subsection (1) but the Minister refuses to approve those rules, the Minister may, by order, establish rules in respect of that matter.
+
+
+
+
+
+
+
+
+
+(7) Lorsqu’une compagnie omet de procéder au dépôt prévu au paragraphe (1) concernant un domaine donné ou qu’elle est avisée du refus d’approbation des règles dont elle a déposé le texte, le ministre peut, par arrêté, établir des règles à son égard concernant ce domaine.
+
+
+
+Règles établies par le ministre
+
+
+
+
+
+
+
+
+
+
+Consultation
+
+
+
+(8) The Minister may not, under this section, establish rules applying to a company unless the Minister
+
+
+
+
+
+
+
+
+
+
+(a) has given, during a period of sixty days, a reasonable opportunity for consultation with the Minister on the rules to that company and
+
+
+
+
+
+
+
+
+
+
+(i) in the case of a railway company, to each relevant association or organization that is likely to be affected by the implementation of the rules, and
+
+
+
+
+
+
+
+
+
+
+(ii) in the case of a local railway company, to any railway company on whose railway the local railway company operates railway equipment and that is likely to be affected by the implementation of the rules; and
+
+
+
+
+
+
+
+
+
+
+(b) has considered any objection, on grounds of safety, to the establishment of the rules that is made in the course of that consultation.
+
+
+
+
+
+
+
+
+
+(8) Le ministre ne peut se prévaloir du présent article pour établir des règles à l’égard d’une compagnie, sauf si :
+
+
+
+Consultations
+
+
+
+
+
+a) d’une part, il a donné à celle-ci, ainsi qu’aux entités ci-après, la possibilité, pendant soixante jours, de lui faire part de leurs observations :
+
+
+
+
+
+
+
+
+
+
+(i) dans le cas d’une compagnie de chemin de fer, les organisations intéressées susceptibles d’être touchées par la mise en oeuvre des règles,
+
+
+
+
+
+
+
+
+
+
+(ii) dans le cas d’une compagnie de chemin de fer locale, la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par la mise en oeuvre des règles;
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, il a tenu compte des oppositions formulées à cette occasion pour des motifs de sécurité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rules established by Minister
+
+
+
+(9) Rules established by the Minister under subsection (7) in relation to a company have the same effect as if they had been formulated by the company and approved by the Minister under subsection (4).
+
+
+
+
+
+
+
+
+
+(9) Les règles établies par le ministre à l’égard d’une compagnie s’appliquent comme si elles l’avaient été par cette compagnie et approuvées par lui.
+
+
+
+Effet des règles ministérielles
+
+
+
+
+
+
+
+
+
+
+Definition of “assessment period”
+
+
+
+(10) Subject to subsection (11), in this section, “assessment period”, in relation to rules filed with the Minister under this section, means
+
+
+
+
+
+
+
+
+
+
+(a) the period of sixty days commencing on the day after the day on which the rules are filed; or
+
+
+
+
+
+
+
+
+
+
+(b) if, before the expiration of that period of sixty days, the Minister determines that, by reason of the complexity of the rules or the number of rules filed or for any other reason, it will not be feasible to consider the rules within that period, and so notifies the company concerned, any greater period that the Minister specifies in the notice.
+
+
+
+
+
+
+
+
+
+(10) Pour l’application du présent article, le délai d’examen est de soixante jours suivant le dépôt des règles; il peut toutefois faire l’objet d’une prorogation, avant expiration, que le ministre spécifie et notifie à la compagnie au motif qu’il lui est impossible de procéder à l’examen dans le délai normal, notamment en raison de la complexité de ces règles ou du nombre de règles déposées auprès de lui.
+
+
+
+Délai d’examen
+
+
+
+
+
+
+
+
+
+
+Period of inquiry not part of assessment period
+
+
+
+(11) If, pursuant to section 40, the Minister directs persons to conduct an inquiry respecting proposed rules, the period commencing on the day when the Minister so directs and ending on the day when the persons report back to the Minister pursuant to section 40 shall be disregarded in computing the assessment period.
+
+
+
+
+
+
+
+
+
+(11) Est exclue du délai d’examen la période comprise entre le renvoi pour enquête visé à l’article 40 et la remise au ministre du rapport d’enquête.
+
+
+
+Exclusion du délai d’examen
+
+
+
+
+
+
+
+
+
+
+Formulation or revision of rules
+
+
+
+
+20. (1) A company shall file with the Minister for approval any rules in respect of any matter referred to in subsection 18(1) or (2.1) that it proposes to formulate or revise on its own initiative.
+
+
+
+
+
+
+
+
+
+
+20. (1) La compagnie qui se propose d’établir des règles concernant l’un des domaines visés aux paragraphes 18(1) ou (2.1) ou de modifier de telles règles en dépose, pour approbation, le texte auprès du ministre.
+
+
+
+Initiative de la compagnie
+
+
+
+
+
+
+
+
+
+
+Consultation
+
+
+
+(2) A company may not file rules with the Minister under subsection (1) unless it has first given a reasonable opportunity during a period of sixty days for consultation with it concerning the rules,
+
+
+
+
+
+
+
+
+
+
+(a) in the case of a railway company, to each relevant association or organization that is likely to be affected by the implementation of the rules; or
+
+
+
+
+
+
+
+
+
+
+(b) in the case of a local railway company, to any railway company on whose railway the local railway company operates railway equipment and that is likely to be affected by the implementation of the rules.
+
+
+
+
+
+
+
+
+
+(2) La compagnie ne peut procéder au dépôt qu’après avoir donné aux entités ci-après la possibilité, pendant soixante jours, de lui faire part de leurs observations :
+
+
+
+Consultations
+
+
+
+
+
+a) dans le cas d’une compagnie de chemin de fer, les organisations intéressées susceptibles d’être touchées par la mise en oeuvre des règles;
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas d’une compagnie de chemin de fer locale, la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par la mise en oeuvre des règles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rules to be accompanied by notice
+
+
+
+(3) Rules filed with the Minister by a company pursuant to subsection (1) shall be accompanied by a notice
+
+
+
+
+
+
+
+
+
+
+(a) setting out the reasons why the company proposes to formulate or revise the rules; and
+
+
+
+
+
+
+
+
+
+
+(b) identifying any relevant association or organization or any railway company that objects, on grounds of safety, to the implementation of those rules and attaching a copy of the notice of objection.
+
+
+
+
+
+
+
+
+
+(3) La compagnie joint au texte qu’elle dépose un avis donnant l’exposé de ses motifs ainsi que le nom des éventuels opposants et une copie de l’avis d’opposition.
+
+
+
+Dossier de l’énoncé
+
+
+
+
+
+
+
+
+
+
+Application of certain provisions
+
+
+
+(4) Subsections 19(4) to (5.1), (10) and (11) apply in relation to the filing and consideration of rules filed with the Minister under subsection (1) as if the rules had been duly filed in compliance with an order made under subsection 19(1).
+
+
+
+
+
+
+
+
+
+(4) Les paragraphes 19(4) à (5.1), (10) et (11) s’appliquent aux règles déposées dans le cadre du paragraphe (1) comme si elles l’avaient été conformément à l’arrêté visé au paragraphe 19(1).
+
+
+
+Application de certaines dispositions
+
+
+
+
+
+
+
+
+
+
+Third party
+
+
+
+
+20.1 A third party may act for and on behalf of a company in all matters relating to the formulation or revision of standards or rules under sections 7, 19 and 20.
+
+
+
+
+
+
+
+
+
+
+20.1 Un tiers peut agir au nom d’une compagnie pour toute question relative à la formulation ou à la révision des règles ou des normes prévues aux articles 7, 19 et 20.
+
+
+
+Rôle d’un tiers
+
+
+
+
+
+
+
+
+
+
+Regulations — formulation of rules
+
+
+
+
+20.2 (1) The Governor in Council may make regulations respecting the process for the formulation or revision of rules applicable to companies and for the amendment of their terms and conditions.
+
+
+
+
+
+
+
+
+
+
+20.2 (1) Le gouverneur en conseil peut prendre des règlements régissant le processus de formulation et de révision des règles applicables aux compagnies ainsi que le processus de modification des conditions.
+
+
+
+Règlements — formulation des règles
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) A regulation made under subsection (1) may be general or applicable to a group or class of companies.
+
+
+
+
+
+
+
+
+
+(2) Un règlement pris en vertu du paragraphe (1) peut être de portée générale ou limitée quant aux groupes ou aux catégories de compagnies visés.
+
+
+
+Portée des règlements
+
+
+
+
+
+
+
+
+
+
+
+
+
+Miscellaneous Provisions Relating to Regulations and Rules
+
+
+
+
+
+
+
+
+
+
+
+Dispositions diverses concernant les règles et les règlements
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uniformity of rules
+
+
+
+
+21. In establishing, under section 19 or 20, rules applying to a particular company or in deciding, under section 19 or 20, whether to approve rules formulated or revised by, and applying to, a particular company, the Minister shall, to the extent that it is, in the opinion of the Minister, reasonable and practicable to do so, ensure that those rules are uniform with rules dealing with a like matter and applying to other companies.
+
+
+
+
+
+
+
+
+
+
+21. Dans l’établissement ou l’approbation de règles à l’égard d’une compagnie au titre des articles 19 ou 20, le ministre veille, compte tenu des circonstances, à leur uniformité avec les règles à objet comparable applicables aux autres compagnies.
+
+
+
+Uniformité
+
+
+
+
+
+
+
+
+
+
+Exemption by order in council
+
+
+
+
+22. (1) The Governor in Council may, by order, on any terms and conditions that are specified in the order,
+
+
+
+
+
+
+
+
+
+
+(a) exempt a specified company, specified railway equipment or a specified railway work from the application of a specified provision of regulations made under subsection 18(1) or (2.1) or of rules in force under section 19 or 20; or
+
+
+
+
+
+
+
+
+
+
+(b) exempt a specified person from the application of a specified provision of regulations made under subsection 18(2).
+
+
+
+
+
+
+
+
+
+
+22. (1) Le gouverneur en conseil peut, par décret, aux conditions qui y sont fixées, soustraire une compagnie ou des installations ou du matériel ferroviaires à l’application d’une disposition soit des règlements pris sous le régime des paragraphes 18(1) ou (2.1), soit des règles en vigueur sous le régime des articles 19 ou 20. Il peut, de la même manière, soustraire une personne à l’application d’une disposition des règlements pris sous le régime du paragraphe 18(2).
+
+
+
+Exemption par le gouverneur en conseil
+
+
+
+
+
+
+
+
+
+
+Exemption by Minister
+
+
+
+(2) If, in the opinion of the Minister, the exemption is in the public interest and is not likely to threaten safe railway operations, he or she may, by notice, on any terms and conditions that are specified in the notice,
+
+
+
+
+
+
+
+
+
+
+(a) exempt a specified company, specified railway equipment or a specified railway work from the application of a specified provision of regulations made under subsection 18(1) or (2.1) or of rules in force under section 19 or 20; or
+
+
+
+
+
+
+
+
+
+
+(b) exempt a specified person from the application of a specified provision of regulations made under subsection 18(2).
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut, aux conditions fixées dans l’avis à cet effet, soustraire une compagnie ou des installations ou du matériel ferroviaires à l’application d’une disposition soit des règlements pris sous le régime des paragraphes 18(1) ou (2.1), soit des règles en vigueur sous le régime des articles 19 ou 20, s’il estime qu’il est dans l’intérêt public de le faire et que la sécurité ferroviaire ne risque pas d’être compromise. Il peut, de la même manière et sous réserve de la même appréciation, soustraire une personne à l’application d’une disposition des règlements pris sous le régime du paragraphe 18(2).
+
+
+
+Exemption par le ministre
+
+
+
+
+
+
+
+
+
+
+Sending of notices
+
+
+
+(3) A notice under subsection (2) shall be sent to the company or person exempted by the notice and takes effect on receipt by that company or person.
+
+
+
+
+
+
+
+
+
+(3) L’avis prévu au paragraphe (2) est transmis à la compagnie ou à la personne exemptée et prend effet à sa réception par celle-ci.
+
+
+
+Notification
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(4) A company may apply to the Minister for an exemption from the application of a specified provision of regulations under subsection 18(1), (2) or (2.1) or of rules in force under section 19 or 20.
+
+
+
+
+
+
+
+
+
+(4) La compagnie peut demander au ministre d’être soustraite à l’application d’une disposition soit des règlements pris sous le régime des paragraphes 18(1), (2) ou (2.1), soit des règles en vigueur sous le régime des articles 19 ou 20.
+
+
+
+Demande de la compagnie
+
+
+
+
+
+
+
+
+
+
+Company to consult
+
+
+
+(5) A company may not apply for an exemption under subsection (4) unless it has first given
+
+
+
+
+
+
+
+
+
+
+(a) in the case of a railway company, each relevant association or organization that is likely to be affected by the exemption, and
+
+
+
+
+
+
+
+
+
+
+(b) in the case of a local railway company, any railway company on whose line the local railway company operates railway equipment and that is likely to be affected by the exemption,
+
+
+
+
+
+
+
+
+
+
+a reasonable opportunity during a period of sixty days to consult with it, except that it may apply for the exemption before the end of those sixty days if it has received comments from all those associations and organizations or from that railway company, as the case may be.
+
+
+
+
+
+
+
+
+
+(5) La compagnie ne peut faire la demande visée au paragraphe (4) qu’après avoir donné aux entités ci-après la possibilité, pendant soixante jours, de lui faire part de leurs observations :
+
+
+
+Consultations
+
+
+
+
+
+a) dans le cas d’une compagnie de chemin de fer, les organisations intéressées susceptibles d’être touchées par l’exemption;
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas d’une compagnie de chemin de fer locale, la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par l’exemption.
+
+
+
+
+
+
+
+
+
+
+Elle peut toutefois la faire avant l’expiration de ce délai si elle a reçu les observations de toutes ces organisations ou de la compagnie de chemin de fer, selon le cas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy of comments
+
+
+
+(6) The company shall send with its application to the Minister a copy of all comments received from relevant associations and organizations or the railway company.
+
+
+
+
+
+
+
+
+
+(6) La compagnie fait parvenir au ministre, en même temps que la demande, une copie des observations qu’elle a reçues.
+
+
+
+Copie des observations
+
+
+
+
+
+
+
+
+
+
+Period for granting application
+
+
+
+(7) The Minister may grant the application within sixty days after receiving it if, in the opinion of the Minister, the exemption is in the public interest and is not likely to threaten safe railway operations. The Minister may extend the time for granting the application for an additional period of up to sixty days.
+
+
+
+
+
+
+
+
+
+(7) Le ministre peut, dans les soixante jours suivant la réception de la demande, agréer celle-ci s’il estime qu’il est dans l’intérêt public de le faire et que la sécurité ferroviaire ne risque pas d’être compromise. Il peut en outre prolonger le délai d’au plus soixante jours.
+
+
+
+Délai de 60 jours pour agréer la demande
+
+
+
+
+
+
+
+
+
+
+Other exemptions
+
+
+
+
+22.1 (1) A company that proposes to conduct testing relating to railway transportation, or that requires an immediate exemption of short duration, may by notice seek an exemption from the application of any provision of standards formulated under section 7, regulations made under subsection 18(1) or (2) or 24(1) or rules in force under section 19 or 20 for a period of up to six months.
+
+
+
+
+
+
+
+
+
+
+22.1 (1) La compagnie qui se propose de faire des essais en matière de transport ferroviaire ou qui a besoin sans tarder d’une exemption de courte durée peut, par avis, demander d’être soustraite à l’application d’une disposition soit des normes établies sous le régime de l’article 7, soit des règlements pris sous le régime des paragraphes 18(1) ou (2) ou 24(1), soit des règles en vigueur sous le régime des articles 19 ou 20, pour une durée d’au plus six mois.
+
+
+
+Exemption provisoire
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(2) A notice under subsection (1) shall be filed with the Minister and
+
+
+
+
+
+
+
+
+
+
+(a) in the case of a railway company, each relevant association or organization that is likely to be affected by the exemption; or
+
+
+
+
+
+
+
+
+
+
+(b) in the case of a local railway company, any railway company on whose railway the local railway company operates railway equipment and that is likely to be affected by the exemption.
+
+
+
+
+
+
+
+
+
+(2) L’avis visé au paragraphe (1) est déposé auprès du ministre et :
+
+
+
+Dépôt de l’avis
+
+
+
+
+
+a) dans le cas d’une compagnie de chemin de fer, des organisations intéressées susceptibles d’être touchées par l’exemption;
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas d’une compagnie de chemin de fer locale, de la compagnie de chemin de fer sur la ligne de laquelle elle exploite du matériel ferroviaire et qui est susceptible d’être touchée par l’exemption.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Objections
+
+
+
+(3) Each of the relevant associations or organizations or the railway company to which notice must be given, as the case may be, may object to an exemption on grounds of safety by filing its objection with the Minister and the company within fourteen days after the notice referred to in subsection (1) is filed.
+
+
+
+
+
+
+
+
+
+(3) L’organisation ou la compagnie de chemin de fer intéressée que l’on doit aviser peut, pour des motifs de sécurité, s’opposer à l’exemption; elle fait parvenir son avis d’opposition au ministre et à la compagnie dans les quatorze jours suivant la notification de l’avis visé au paragraphe (1).
+
+
+
+Opposition
+
+
+
+
+
+
+
+
+
+
+Minister’s decision
+
+
+
+(4) The Minister may
+
+
+
+
+
+
+
+
+
+
+(a) within twenty-one days after the filing of an objection under subsection (3), confirm the objection if the Minister decides that the exemption threatens safety;
+
+
+
+
+
+
+
+
+
+
+(b) within twenty-one days after the filing of an objection under subsection (3) or within thirty-five days after receiving a notice under subsection (1), impose terms and conditions on the exemption that the Minister considers appropriate, if the Minister is of the opinion that the exemption without terms and conditions is not in the public interest or is likely to threaten safety; or
+
+
+
+
+
+
+
+
+
+
+(c) within thirty-five days after receiving the notice under subsection (1), deny the exemption if the Minister is of the opinion that the exemption is not in the public interest or is likely to threaten safety.
+
+
+
+
+
+
+
+
+
+(4) Le ministre peut :
+
+
+
+Délais impartis au ministre
+
+
+
+
+
+a) dans les vingt-et-un jours suivant le dépôt de l’avis visé au paragraphe (3), maintenir l’opposition s’il estime que l’exemption compromet la sécurité;
+
+
+
+
+
+
+
+
+
+
+
+b) dans les vingt-et-un jours suivant le dépôt de l’avis visé au paragraphe (3) ou dans les trente-cinq jours suivant la réception de l’avis visé au paragraphe (1), assortir l’exemption des conditions qu’il estime indiquées, s’il estime qu’il est dans l’intérêt public de le faire ou que la sécurité risque d’être compromise;
+
+
+
+
+
+
+
+
+
+
+
+c) dans les trente-cinq jours suivant la réception de l’avis visé au paragraphe (1), refuser de son propre chef l’exemption, s’il estime qu’il est dans l’intérêt public de le faire ou que la sécurité risque d’être compromise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effective date
+
+
+
+(5) An exemption is effective if
+
+
+
+
+
+
+
+
+
+
+(a) the company receives a response from the Minister and each of those associations and organizations or the railway company, as the case may be, indicating that they do not object to the exemption;
+
+
+
+
+
+
+
+
+
+
+(b) no objections are confirmed by the Minister under paragraph (4)(a);
+
+
+
+
+
+
+
+
+
+
+(c) the Minister, instead of making or confirming an objection, imposes terms and conditions under paragraph (4)(b) and the company complies with the terms and conditions; or
+
+
+
+
+
+
+
+
+
+
+(d) the Minister does not deny the exemption under paragraph (4)(c).
+
+
+
+
+
+
+
+
+
+(5) L’exemption prévue au paragraphe (1) est accordée si :
+
+
+
+Date effective
+
+
+
+
+
+a) la compagnie qui demande l’exemption reçoit des organisations intéressées ou des compagnies de chemin de fer, selon le cas, et du ministre une réponse indiquant qu’ils ne s’opposent pas à l’exemption;
+
+
+
+
+
+
+
+
+
+
+
+b) aucune opposition ne subsiste au titre de l’alinéa (4)a);
+
+
+
+
+
+
+
+
+
+
+
+c) le ministre, au lieu de refuser l’exemption ou de maintenir l’opposition en vertu du paragraphe (4), assortit l’exemption de conditions en vertu de l’alinéa (4)b) et la compagnie de chemin de fer s’y conforme;
+
+
+
+
+
+
+
+
+
+
+
+d) le ministre ne refuse pas l’exemption au titre de l’alinéa (4)c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsections 19(2) and (3) of the Act, as enacted by subsection (1), are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 19(2) et (3) de la même loi, édictés par le paragraphe (1), sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Manner of making rules
+
+
+
+(2) A company shall comply with the regulations made under section 20.2 in the formulation and filing of its rules.
+
+
+
+
+
+
+
+
+
+(2) La compagnie formule et dépose des règles conformément au processus établi par règlement en vertu de l’article 20.2.
+
+
+
+Processus — règles
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsections 19(4) to (4.2) of the Act, as enacted by subsection (1), are replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Les paragraphes 19(4) à (4.2) de la même loi, édictés par le paragraphe (1), sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Consideration of rules
+
+
+
+(4) If rules are filed with the Minister by a company pursuant to an order under subsection (1), the Minister shall without delay consider whether, in the Minister’s opinion, those rules are conducive to safe railway operations by the company — having regard to current railway practice, to the views of the company and each person that the company was required by the regulations to consult on the rules, and to any other factor that the Minister considers relevant — and shall, before the expiration of the assessment period in relation to those rules,
+
+
+
+
+
+
+
+
+
+
+(a) if the Minister is satisfied that the rules are conducive to those operations, notify the company and each person whose views were considered that the Minister approves those rules, either absolutely or on any terms and conditions that are specified in the notice; or
+
+
+
+
+
+
+
+
+
+
+(b) if the Minister is not so satisfied, notify the company and each person whose views were considered that the Minister refuses to approve those rules and of the reasons why the Minister is not so satisfied.
+
+
+
+
+
+
+
+
+
+(4) Le ministre doit, aussitôt que possible après le dépôt du texte mais, en tout état de cause, avant l’expiration du délai d’examen, décider si les règles dont le texte a été déposé en application du paragraphe (1) contribuent ou non à la sécurité de l’exploitation ferroviaire de la compagnie, après avoir tenu compte des usages en la matière, de l’opinion de la compagnie et de toute personne dont les règlements exigent qu’elle soit consultée sur les règles par la compagnie, et de tout point qu’il juge utile, et notifier à ces dernières, dans le cas d’une décision positive, son approbation en en précisant, le cas échéant, les conditions, ou, dans le cas contraire, son refus et ses motifs.
+
+
+
+Décision du ministre
+
+
+
+
+
+
+
+
+
+
+Request for amendment to terms and conditions
+
+
+
+(4.1) A company referred to in subsection (4) may, on the basis of new information about the safety of railway operations, request the Minister to amend any terms or conditions specified under that subsection in accordance with the prescribed process.
+
+
+
+
+
+
+
+
+
+(4.1) La compagnie visée au paragraphe (4) peut, à la lumière de nouveaux renseignements touchant la sécurité ferroviaire, demander au ministre de modifier les conditions de l’approbation conformément au processus réglementaire.
+
+
+
+Demande de modification
+
+
+
+
+
+
+
+
+
+
+Amendments
+
+
+
+(4.2) After receiving a request from a company under subsection (4.1), the Minister may amend any terms or conditions specified under subsection (4) and, in that case, shall provide a copy of the amendments to each person that the company was required by regulation to consult on the request for amendments.
+
+
+
+
+
+
+
+
+
+(4.2) Le ministre peut modifier les conditions de l’approbation; il fait parvenir, le cas échéant, une copie des modifications à toute personne dont les règlements exigent qu’elle soit consultée par la compagnie au sujet de la demande de modification.
+
+
+
+Modifications
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Paragraph 19(8)(a) of the Act, as enacted by subsection (1), is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) L’alinéa 19(8)a) de la même loi, édicté par le paragraphe (1), est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) has given, during a period of sixty days, a reasonable opportunity to consult with the Minister on the rules to that company and each person that the company would be required to consult if the rules were formulated by the company following an order made under subsection (1); and
+
+
+
+
+
+
+
+
+
+
+a) d’une part, il a donné à celle-ci, ainsi qu’à toute personne que la compagnie est tenue de consulter si les règles ont été établies par celle-ci en vertu d’une ordonnance prise au titre du paragraphe (1), la possibilité, pendant soixante jours, de lui faire part de leurs observations;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Subsections 20(2) and (3) of the Act, as enacted by subsection (1), are replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Les paragraphes 20(2) et (3) de la même loi, édictés par le paragraphe (1), sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Manner of making rules
+
+
+
+(2) A company shall comply with the regulations made under section 20.2 in the formulation and revision of its rules.
+
+
+
+
+
+
+
+
+
+(2) La compagnie établit et modifie des règles conformément au processus établi par règlement en vertu de l’article 20.2.
+
+
+
+Processus — règles
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 17
+
+
+
+
+15. Section 23 of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+15. L’article 23 de la même loi est abrogé.
+
+
+
+1999, ch. 9, art. 17
+
+
+
+
+
+
+
+
+
+
+1994, c. 15, s. 1(F)
+
+
+
+
+16. (1) Paragraph 24(1)(f) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+16. (1) L’alinéa 24(1)f) de la même loi est remplacé par ce qui suit :
+
+
+
+1994, ch. 15, art. 1(F)
+
+
+
+
+
+
+
+
+
+
+
+
+(f) for restricting or preventing, by means of fences, signs or any other means, access to the land on which a line of railway is situated by persons — other than employees or agents or mandataries of the railway company concerned, or of the local railway company authorized to operate railway equipment on the railway — or by vehicles or animals, if their presence on that land would constitute a threat to safe railway operations;
+
+
+
+
+
+
+
+
+
+
+f) l’interdiction ou la limitation, notamment par l’installation de clôtures ou de signaux, de l’accès à l’emplacement de la voie de personnes, à l’exception des préposés et mandataires de la compagnie de chemin de fer concernée — ou de la compagnie de chemin de fer locale autorisée à exploiter du matériel ferroviaire sur le chemin de fer —, de véhicules et d’animaux, afin d’éviter que ne soit compromise la sécurité ferroviaire;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 24(2) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 24(2) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Dommages- intérêts
+
+
+
+
+(2) La compagnie de chemin de fer exploitant la voie ferrée contiguë à un terrain paie au propriétaire, au locataire ou à l’occupant de celui-ci ou des bâtiments ou autres ouvrages qui y sont situés, ou au propriétaire des mines ou autres installations qui y sont exploitées, les dommages-intérêts entraînés par l’application des règlements pris sous le régime du présent article, convenus entre elle et le propriétaire, le locataire ou l’occupant ou, à défaut d’entente, fixés aux termes de l’article 26.
+
+
+
+
+
+
+
+
+
+
+(2) La compagnie de chemin de fer exploitant la voie ferrée contiguë à un terrain paie au propriétaire, au locataire ou à l’occupant de celui-ci ou des bâtiments ou autres ouvrages qui y sont situés, ou au propriétaire des mines ou autres installations qui y sont exploitées, les dommages-intérêts entraînés par l’application des règlements pris sous le régime du présent article, convenus entre elle et le propriétaire, le locataire ou l’occupant ou, à défaut d’entente, fixés aux termes de l’article 26.
+
+
+
+Dommages- intérêts
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 20(1)
+
+
+
+
+17. (1) Subsection 25(1) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. (1) Le paragraphe 25(1) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, par. 20(1)
+
+
+
+
+
+
+
+
+
+
+Entry onto land adjoining line of railway
+
+
+
+
+25. (1) For the purpose of preventing a threat to safe railway operations on a line of railway or restoring safe railway operations on a line of railway, a railway company may enter onto any land adjoining the land on which the line of railway is situated
+
+
+
+
+
+
+
+
+
+
+(a) at any time, in order to maintain or alter railway works or remove obstructions to them, if no other access to the line of railway is reasonably available, and remain on the land for as long as is necessary to accomplish that purpose;
+
+
+
+
+
+
+
+
+
+
+(b) at any time, in order to deal with any fire occurring on either of those lands;
+
+
+
+
+
+
+
+
+
+
+(c) at any reasonable time, on giving notice in writing of its intention to do so to the owner of the adjoining land, in order to cut down trees or brush that has been permitted to grow on that land in contravention of regulations made under paragraph 24(1)(e); or
+
+
+
+
+
+
+
+
+
+
+(d) at any time between November 1 and March 31, in order to install or maintain a snow fence.
+
+
+
+
+
+
+
+
+
+
+
+25. (1) For the purpose of preventing a threat to safe railway operations on a line of railway or restoring safe railway operations on a line of railway, a railway company may enter onto any land adjoining the land on which the line of railway is situated
+
+
+
+
+Entry onto land adjoining line of railway
+
+
+
+
+
+(a) at any time, in order to maintain or alter railway works or remove obstructions to them, if no other access to the line of railway is reasonably available, and remain on the land for as long as is necessary to accomplish that purpose;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) at any time, in order to deal with any fire occurring on either of those lands;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) at any reasonable time, on giving notice in writing of its intention to do so to the owner of the adjoining land, in order to cut down trees or brush that has been permitted to grow on that land in contravention of regulations made under paragraph 24(1)(e); or
+
+
+
+
+
+
+
+
+
+
+
+
+(d) at any time between November 1 and March 31, in order to install or maintain a snow fence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 20(3)
+
+
+
+(2) Subsections 25(2) and (3) of the French version of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 25(2) et (3) de la version française de la même loi sont remplacés par ce qui suit :
+
+
+
+1999, ch. 9, par. 20(3)
+
+
+
+
+
+
+
+
+
+
+Enlèvement de paraneiges
+
+
+
+
+(2) La compagnie de chemin de fer fait enlever les paraneiges au plus tard le 1er avril suivant la date de leur installation.
+
+
+
+
+
+
+
+
+
+
+(2) La compagnie de chemin de fer fait enlever les paraneiges au plus tard le 1er avril suivant la date de leur installation.
+
+
+
+Enlèvement de paraneiges
+
+
+
+
+
+
+
+
+
+
+Dommages- intérêts
+
+
+
+
+(3) La compagnie de chemin de fer ou l’autorité responsable du service de voirie qui exerce les pouvoirs prévus au présent article paie au propriétaire, au locataire ou à l’occupant concerné les dommages-intérêts entraînés par cet exercice et convenus entre elle et ceux-ci ou, à défaut d’entente, fixés aux termes de l’article 26. Cet exercice n’est cependant pas subordonné au paiement préalable des dommages-intérêts.
+
+
+
+
+
+
+
+
+
+
+(3) La compagnie de chemin de fer ou l’autorité responsable du service de voirie qui exerce les pouvoirs prévus au présent article paie au propriétaire, au locataire ou à l’occupant concerné les dommages-intérêts entraînés par cet exercice et convenus entre elle et ceux-ci ou, à défaut d’entente, fixés aux termes de l’article 26. Cet exercice n’est cependant pas subordonné au paiement préalable des dommages-intérêts.
+
+
+
+Dommages- intérêts
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 20.1
+
+
+
+
+18. Section 26.2 of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+18. L’article 26.2 de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, art. 20.1
+
+
+
+
+
+
+
+
+
+
+Priorité aux trains
+
+
+
+
+
+26.2 Les usagers de la route doivent, à tout franchissement routier, céder le passage au train dont l’approche a été adéquatement signalée.
+
+
+
+
+
+
+
+
+
+
+
+26.2 Les usagers de la route doivent, à tout franchissement routier, céder le passage au train dont l’approche a été adéquatement signalée.
+
+
+
+Priorité aux trains
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 22
+
+
+
+
+19. Subsection 27(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+19. Le paragraphe 27(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, art. 22
+
+
+
+
+
+
+
+
+
+
+Designation
+
+
+
+
+27. (1) The Minister may designate any person whom the Minister considers qualified as a railway safety inspector or a screening officer for the purposes of this Act and the Minister shall determine the matters in respect of which, and the restrictions or conditions under which, the person may exercise the powers of a railway safety inspector or screening officer.
+
+
+
+
+
+
+
+
+
+
+27. (1) Le ministre peut désigner les personnes qu’il estime qualifiées pour remplir les fonctions d’inspecteur de la sécurité ferroviaire ou celles d’agent de contrôle dans le cadre de la présente loi. Il doit, à l’égard de ces personnes, préciser leur champ de compétence ainsi que les modalités selon lesquelles elles exercent leurs fonctions.
+
+
+
+Désignation
+
+
+
+
+
+
+
+
+
+
+Exercise of powers and duties
+
+
+
+(1.1) When carrying out powers and duties under this Act, a person designated under subsection (1) is acting for and on behalf of the Minister.
+
+
+
+
+
+
+
+
+
+(1.1) Dans l’exercice de leurs fonctions en vertu de la présente loi, les personnes désignées en vertu du paragraphe (1) agissent pour le ministre et en son nom.
+
+
+
+Exercice des fonctions
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 23
+
+
+
+
+20. Paragraph 28(1)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+20. L’alinéa 28(1)a) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, art. 23
+
+
+
+
+
+
+
+
+
+
+
+
+(a) for the purpose of ensuring compliance with this Act and with the regulations, emergency directives, rules, orders and security measures made under this Act, enter any place, other than a private dwelling-place, where activities are carried on that relate directly or indirectly to the operation or maintenance of a railway or the operation of railway equipment, and carry out any inspection that the inspector considers necessary in relation to the matters designated by the Minister under section 27 in respect of which the inspector may exercise the powers of a railway safety inspector;
+
+
+
+
+
+
+
+
+
+
+a) en vue d’assurer l’observation de la présente loi et de ses textes d’application, procéder à la visite de tous lieux, autre qu’une maison d’habitation, où se déroulent des activités se rapportant directement ou indirectement à l’exploitation ou à l’entretien des chemins de fer ou à l’exploitation du matériel ferroviaire et y effectuer l’examen nécessaire dans le cadre de son champ de compétence délimité par le ministre au titre de l’article 27;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21. (1) Subsection 31(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+21. (1) Le paragraphe 31(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Inspector may forbid or restrict use of unsafe works or equipment
+
+
+
+
+31. (1) If a railway safety inspector is of the opinion that the standard of construction or maintenance of a line work or railway equipment of a company poses a threat to safe railway operations, the inspector
+
+
+
+
+
+
+
+
+
+
+(a) shall, by notice sent to the company, inform the company of that opinion and of the reasons for it; and
+
+
+
+
+
+
+
+
+
+
+(b) may, in the notice, if the inspector is satisfied that the threat is immediate, order the company to ensure that the line work or railway equipment not be used, or not be used otherwise than under terms and conditions specified in the notice, until the threat is removed to the inspector’s satisfaction.
+
+
+
+
+
+
+
+
+
+
+31. (1) L’inspecteur transmet à la compagnie un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que les normes de construction ou d’entretien de ses lignes de chemin de fer ou de son matériel ferroviaire risquent de compromettre la sécurité ferroviaire. S’il est convaincu que le risque est imminent, il peut en outre, dans l’avis, ordonner à la compagnie d’empêcher l’utilisation des lignes ou du matériel visé, ou de faire en sorte qu’ils ne soient utilisés qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
+
+
+
+Interdiction d’usage pour mauvais état d’installations ou de matériel ferroviaires
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 24(1)
+
+
+
+(2) Subsection 31(2) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 31(2) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, par. 24(1)
+
+
+
+
+
+
+
+
+
+
+Interdiction d’usage pour mauvais état d’ouvrages de franchissement
+
+
+
+
+(2) L’inspecteur transmet au responsable de l’entretien d’ouvrages de franchissement un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que les normes de construction ou d’entretien de ceux-ci risquent de compromettre la sécurité ferroviaire; il transmet aussi l’avis à la compagnie de chemin de fer concernée. S’il est convaincu que le risque est imminent, il peut en outre ordonner au responsable ou à la compagnie de chemin de fer, pour ce qui est de l’ouvrage de franchissement en cause, d’empêcher son utilisation ou de faire en sorte qu’il ne soit utilisé qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
+
+
+
+
+
+
+
+
+
+
+(2) L’inspecteur transmet au responsable de l’entretien d’ouvrages de franchissement un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que les normes de construction ou d’entretien de ceux-ci risquent de compromettre la sécurité ferroviaire; il transmet aussi l’avis à la compagnie de chemin de fer concernée. S’il est convaincu que le risque est imminent, il peut en outre ordonner au responsable ou à la compagnie de chemin de fer, pour ce qui est de l’ouvrage de franchissement en cause, d’empêcher son utilisation ou de faire en sorte qu’il ne soit utilisé qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
+
+
+
+Interdiction d’usage pour mauvais état d’ouvrages de franchissement
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 24(1)
+
+
+
+(3) Subsection 31(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 31(3) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, par. 24(1)
+
+
+
+
+
+
+
+
+
+
+Inspector may forbid operation of certain works or equipment
+
+
+
+(3) If a railway safety inspector is of the opinion that the operation of a line work or railway equipment threatens the safety or security of railway operations, the inspector, by notice sent to the company or to any other person who owns or leases the equipment,
+
+
+
+
+
+
+
+
+
+
+(a) shall inform them of that opinion and of the reasons for it; and
+
+
+
+
+
+
+
+
+
+
+(b) may, if the inspector is satisfied that the threat is immediate, order either of them to ensure that the line work or railway equipment not be operated, or not be operated otherwise than under specified terms and conditions, unless it is operated so as to remove the threat, to the inspector’s satisfaction.
+
+
+
+
+
+
+
+
+
+(3) L’inspecteur transmet à la compagnie ou à tout propriétaire ou locateur de matériel ferroviaire un avis pour l’informer de son opinion et des motifs de celle-ci, lorsqu’il estime que l’exploitation de ses lignes de chemin de fer ou de son matériel ferroviaire compromet la sécurité ou la sûreté ferroviaires. S’il est convaincu que le risque est imminent, il peut en outre, dans l’avis, ordonner à la compagnie ou à la personne concernée d’empêcher l’utilisation de ces lignes ou du matériel visé, ou de faire en sorte qu’ils ne soient utilisés qu’à certaines conditions, tant que le risque ne lui paraîtra pas écarté.
+
+
+
+Interdiction d’exploitation de lignes de chemin de fer ou de matériel ferroviaire
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 24(2)
+
+
+
+(4) Subsections 31(6) and (7) of the English version of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Les paragraphes 31(6) et (7) de la version anglaise de la même loi sont remplacés par ce qui suit :
+
+
+
+1999, ch. 9, par. 24(2)
+
+
+
+
+
+
+
+
+
+
+Copies of certain notices to be served on supervisor
+
+
+
+(6) If a notice sent to a company under this section contains an order, the railway safety inspector who sent the notice shall send a copy of it to the company supervisor who is directly responsible for the works or equipment concerned or, in the absence of that supervisor, to the employee who is at that time in charge of the works or equipment concerned.
+
+
+
+
+
+
+
+
+
+
+(6) If a notice sent to a company under this section contains an order, the railway safety inspector who sent the notice shall send a copy of it to the company supervisor who is directly responsible for the works or equipment concerned or, in the absence of that supervisor, to the employee who is at that time in charge of the works or equipment concerned.
+
+
+
+
+Copies of certain notices to be served on supervisor
+
+
+
+
+
+
+
+
+
+
+Effect of order
+
+
+
+(7) An order contained in a notice under this section has effect, in the case of a company, when the company receives the notice or when a company supervisor or employee receives a copy of it, whichever occurs first and, in the case of any other person, when they receive the notice.
+
+
+
+
+
+
+
+
+
+
+(7) An order contained in a notice under this section has effect, in the case of a company, when the company receives the notice or when a company supervisor or employee receives a copy of it, whichever occurs first and, in the case of any other person, when they receive the notice.
+
+
+
+
+Effect of order
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 24(3)
+
+
+
+(5) Subsection 31(10) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe 31(10) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, par. 24(3)
+
+
+
+
+
+
+
+
+
+
+When alteration or revocation effective
+
+
+
+(10) An alteration or revocation of an order under this section has effect when the company or other person to whom the original notice was sent receives a notice of the alteration or revocation.
+
+
+
+
+
+
+
+
+
+
+(10) An alteration or revocation of an order under this section has effect when the company or other person to whom the original notice was sent receives a notice of the alteration or revocation.
+
+
+
+
+When alteration or revocation effective
+
+
+
+
+
+
+
+
+
+
+2001, c. 29, s. 67
+
+
+
+
+22. Subsection 31.1(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+22. Le paragraphe 31.1(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 29, art. 67
+
+
+
+
+
+
+
+
+
+
+Request for review of order of railway safety inspector
+
+
+
+
+31.1 (1) A person who is sent a notice under section 31 that contains an order may, on or before the date specified in the notice or within any further time that the Tribunal on application allows, file a written request for a review of the order.
+
+
+
+
+
+
+
+
+
+
+31.1 (1) Toute personne visée par l’avis peut faire réviser l’ordre de l’inspecteur en déposant une requête auprès du Tribunal, au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+
+
+Requête en révision
+
+
+
+
+
+
+
+
+
+
+2001, c. 29, s. 67
+
+
+
+
+23. Section 31.5 of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+23. L’article 31.5 de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 29, art. 67
+
+
+
+
+
+
+
+
+
+
+When alteration or revocation effective
+
+
+
+
+31.5 An alteration or revocation under section 31.4 has effect when the company or other person to whom notice of the order under section 31 was sent receives notice of the alteration or revocation.
+
+
+
+
+
+
+
+
+
+
+
+31.5 An alteration or revocation under section 31.4 has effect when the company or other person to whom notice of the order under section 31 was sent receives notice of the alteration or revocation.
+
+
+
+
+When alteration or revocation effective
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 25
+
+
+
+
+24. Subsections 32(3) and (3.1) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+24. Les paragraphes 32(3) et (3.1) de la même loi sont remplacés par ce qui suit :
+
+
+
+1999, ch. 9, art. 25
+
+
+
+
+
+
+
+
+
+
+Contravention of regulations under section 24
+
+
+
+(3) If the Minister is of the opinion that a person has contravened a regulation made under section 24, the Minister
+
+
+
+
+
+
+
+
+
+
+(a) by notice sent to the person,
+
+
+
+
+
+
+
+
+
+
+(i) shall inform the person of that opinion and of the reasons for it, and
+
+
+
+
+
+
+
+
+
+
+(ii) may, if the Minister believes that, by reason of that contravention, there exists in respect of particular railway works an immediate threat to safe railway operations, order the person to take any action that is necessary to remove the threat; and
+
+
+
+
+
+
+
+
+
+
+(b) by notice sent to the railway company concerned,
+
+
+
+
+
+
+
+
+
+
+(i) shall inform the railway company of that opinion and of the reasons for it, and
+
+
+
+
+
+
+
+
+
+
+(ii) may, if the Minister believes that, by reason of that contravention, there exists an immediate threat to safe railway operations, order the railway company to ensure that specified railway works or specified railway equipment not be used, or not be used otherwise than under terms and conditions specified in the notice, until appropriate action to remove the threat has, to the Minister’s satisfaction, been taken by the person referred to in paragraph (a).
+
+
+
+
+
+
+
+
+
+(3) Le ministre transmet, lorsqu’il estime qu’il y a eu violation d’un règlement pris en vertu de l’article 24, un avis au contrevenant et à la compagnie de chemin de fer concernée pour les informer de son opinion et des motifs de celle-ci. S’il est convaincu que la sécurité ferroviaire risque d’être compromise de façon imminente, à l’égard de certaines installations ferroviaires, du fait de cette violation, il peut en outre, dans l’avis, ordonner au contrevenant de prendre les mesures pour écarter ce risque, et à la compagnie de chemin de fer, lorsqu’il est convaincu que l’exploitation ferroviaire de celle-ci risque d’être compromise de façon imminente, d’empêcher toute utilisation d’installations ou de matériel ferroviaires déterminés, ou de faire en sorte qu’ils ne soient utilisés qu’à certaines conditions, tant que le contrevenant n’aura pas pris, selon lui, les mesures appropriées.
+
+
+
+Violation d’un règlement pris en vertu de l’article 24
+
+
+
+
+
+
+
+
+
+
+Safety management system deficiencies
+
+
+
+(3.1) If the Minister is of the opinion that the safety management system established by a company has deficiencies that risk compromising railway safety, the Minister may, by notice sent to the company, order the company to take the necessary corrective measures.
+
+
+
+
+
+
+
+
+
+(3.1) S’il estime que le système de gestion de la sécurité ferroviaire établi par une compagnie présente des lacunes qui risquent de compromettre la sécurité ferroviaire, le ministre peut, par avis, ordonner à la compagnie d’apporter les mesures correctives nécessaires.
+
+
+
+Lacunes du système de gestion de la sécurité ferroviaire
+
+
+
+
+
+
+
+
+
+
+2001, c. 29, s. 69
+
+
+
+
+25. Subsection 32.1(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+25. Le paragraphe 32.1(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 29, art. 69
+
+
+
+
+
+
+
+
+
+
+Request for review
+
+
+
+
+32.1 (1) A person who is sent a notice under section 32 that contains an order may, on or before the date specified in the notice or within any further time that the Tribunal on application allows, file a written request for a review of the order.
+
+
+
+
+
+
+
+
+
+
+32.1 (1) Toute personne visée par l’avis peut faire réviser l’ordre du ministre en déposant une requête auprès du Tribunal au plus tard à la date limite qui est indiquée à l’avis, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+
+
+Requête en révision
+
+
+
+
+
+
+
+
+
+
+2001, c. 29, s. 69
+
+
+
+
+26. Section 32.5 of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+26. L’article 32.5 de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 29, art. 69
+
+
+
+
+
+
+
+
+
+
+When alteration or revocation effective
+
+
+
+
+32.5 An alteration or revocation under section 32.4 has effect when the company or other person to whom notice of the order under section 32 was sent receives notice of the alteration or revocation.
+
+
+
+
+
+
+
+
+
+
+
+32.5 An alteration or revocation under section 32.4 has effect when the company or other person to whom notice of the order under section 32 was sent receives notice of the alteration or revocation.
+
+
+
+
+When alteration or revocation effective
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 26(1)
+
+
+
+
+27. (1) Subsection 33(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+27. (1) Le paragraphe 33(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, par. 26(1)
+
+
+
+
+
+
+
+
+
+
+Minister may send emergency directives
+
+
+
+
+33. (1) If the Minister is of the opinion that there is an immediate threat to safe railway operations or the security of railway transportation, the Minister may, by emergency directive sent to a company, order it
+
+
+
+
+
+
+
+
+
+
+(a) either absolutely or to the extent specified in the directive, to stop using the kind of railway works or railway equipment or following the maintenance or operating practice that poses the threat; or
+
+
+
+
+
+
+
+
+
+
+(b) to follow a maintenance or operating practice specified in the directive if the threat is posed by the company’s failure to follow that practice.
+
+
+
+
+
+
+
+
+
+
+33. (1) Le ministre peut, en lui transmettant un avis en ce sens, enjoindre à la compagnie concernée de mettre fin, totalement ou dans la mesure prévue dans l’avis, à l’utilisation d’installations ou de matériel ferroviaires d’un type déterminé, ou à toute pratique concernant leur entretien ou leur exploitation, qui, selon lui, risquent de compromettre de façon imminente la sécurité ferroviaire. Il peut, de la même manière, lui enjoindre de mettre en oeuvre une certaine pratique concernant cet entretien ou cette exploitation lorsqu’une omission à cet égard comporte un tel risque.
+
+
+
+Cas d’injonction
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 26(2)
+
+
+
+(2) Subsections 33(4) to (6) of the English version of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 33(4) à (6) de la version anglaise de la même loi sont remplacés par ce qui suit :
+
+
+
+1999, ch. 9, par. 26(2)
+
+
+
+
+
+
+
+
+
+
+Minister may rescind emergency directives
+
+
+
+(4) The Minister may, by notice sent to the company, rescind an emergency directive, in which case the directive ceases to have effect.
+
+
+
+
+
+
+
+
+
+
+(4) The Minister may, by notice sent to the company, rescind an emergency directive, in which case the directive ceases to have effect.
+
+
+
+
+Minister may rescind emergency directives
+
+
+
+
+
+
+
+
+
+
+Inconsistency between emergency directives, regulations, rules or orders
+
+
+
+(5) In the event that there is an inconsistency between an emergency directive and a regulation made under subsection 18(1) or (2.1) or a rule in force under section 19 or 20, the emergency directive prevails to the extent of the inconsistency.
+
+
+
+
+
+
+
+
+
+
+(5) In the event that there is an inconsistency between an emergency directive and a regulation made under subsection 18(1) or (2.1) or a rule in force under section 19 or 20, the emergency directive prevails to the extent of the inconsistency.
+
+
+
+
+Inconsistency between emergency directives, regulations, rules or orders
+
+
+
+
+
+
+
+
+
+
+Minister may renew emergency directives
+
+
+
+(6) The Minister may, before the expiration of the period during which an emergency directive has effect, by notice sent to the company, renew the directive for a further specified period commencing on the expiration of the previous period and not exceeding six months and, if the Minister does so, this section, except this subsection, applies to the directive as renewed.
+
+
+
+
+
+
+
+
+
+
+(6) The Minister may, before the expiration of the period during which an emergency directive has effect, by notice sent to the company, renew the directive for a further specified period commencing on the expiration of the previous period and not exceeding six months and, if the Minister does so, this section, except this subsection, applies to the directive as renewed.
+
+
+
+
+Minister may renew emergency directives
+
+
+
+
+
+
+
+
+
+
+
+
+
+28. Subsection 34(2) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+28. Le paragraphe 34(2) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Orders of railway safety inspectors
+
+
+
+(2) For the purpose of enabling an order contained in a notice served on a company or person by a railway safety inspector to be enforced as an order of a court under this section, the Minister may, by notice sent to that company or person, confirm that order, and that order after that has effect as an order of the Minister.
+
+
+
+
+
+
+
+
+
+
+(2) For the purpose of enabling an order contained in a notice served on a company or person by a railway safety inspector to be enforced as an order of a court under this section, the Minister may, by notice sent to that company or person, confirm that order, and that order after that has effect as an order of the Minister.
+
+
+
+
+Orders of railway safety inspectors
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 27
+
+
+
+
+29. (1) Subsection 35(2) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+29. (1) Le paragraphe 35(2) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, art. 27
+
+
+
+
+
+
+
+
+
+
+Avertissement médical
+
+
+
+
+(2) Le médecin ou l’optométriste qui a des motifs raisonnables de croire que son patient occupe un tel poste doit, si à son avis l’état de l’intéressé risque de compromettre cette sécurité, en informer sans délai, par avis écrit motivé, tout médecin ou optométriste désigné par la compagnie de chemin de fer, après avoir pris des mesures raisonnables pour en informer d’abord son patient. Le patient est présumé avoir consenti à cette communication et une copie de l’avis lui est transmise sans délai.
+
+
+
+
+
+
+
+
+
+
+(2) Le médecin ou l’optométriste qui a des motifs raisonnables de croire que son patient occupe un tel poste doit, si à son avis l’état de l’intéressé risque de compromettre cette sécurité, en informer sans délai, par avis écrit motivé, tout médecin ou optométriste désigné par la compagnie de chemin de fer, après avoir pris des mesures raisonnables pour en informer d’abord son patient. Le patient est présumé avoir consenti à cette communication et une copie de l’avis lui est transmise sans délai.
+
+
+
+Avertissement médical
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 35(4) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 35(4) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Utilisation des renseignements
+
+
+
+
+(4) La compagnie de chemin de fer peut faire, des renseignements communiqués aux termes du paragraphe (2), l’usage qu’elle estime nécessaire pour la sécurité ferroviaire.
+
+
+
+
+
+
+
+
+
+
+(4) La compagnie de chemin de fer peut faire, des renseignements communiqués aux termes du paragraphe (2), l’usage qu’elle estime nécessaire pour la sécurité ferroviaire.
+
+
+
+Utilisation des renseignements
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 29
+
+
+
+
+30. Section 37 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+30. L’article 37 de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, art. 29
+
+
+
+
+
+
+
+
+
+
+Power to require information
+
+
+
+
+36. The Minister may order that a company provide, in the specified form and within the specified period, information or documents that he or she considers necessary for the purposes of ensuring compliance with this Act and with the regulations, rules, orders, standards and emergency directives made under this Act.
+
+
+
+
+
+
+
+
+
+
+36. Le ministre peut, par arrêté, demander à une compagnie de lui fournir, en la forme et dans le délai qui y est prévu, tout renseignement ou document s’il l’estime nécessaire pour vérifier le respect de la présente loi et de ses textes d’application.
+
+
+
+Demande de renseignements
+
+
+
+
+
+
+
+
+
+
+Maintenance and production of safety records
+
+
+
+
+37. (1) The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+
+
+(a) respecting the keeping and preservation by each company of information, records and documents relevant to the safety of railway operations conducted by that company, including a complete set of the regulations, emergency directives, rules and orders made pursuant to this Act that are applicable to that company;
+
+
+
+
+
+
+
+
+
+
+(b) respecting the filing with the Minister at the request of the Minister of information, records and documents kept and preserved pursuant to regulations made under paragraph (a); and
+
+
+
+
+
+
+
+
+
+
+(c) respecting notification to the Minister by companies of information suitable for monitoring safety performance or predicting potential changes in levels of safety, including information about any accident or incident associated with railway safety or any situation that could have a detrimental impact on safety performance.
+
+
+
+
+
+
+
+
+
+
+37. (1) Le gouverneur en conseil peut, par règlement, régir :
+
+
+
+Règlements concernant la garde et la conservation des renseignements
+
+
+
+
+
+a) la garde et la conservation, par chaque compagnie, de certains renseignements, registres ou documents concernant la sécurité de son exploitation ferroviaire, notamment l’ensemble des règlements, injonctions ministérielles et règles ou ordres prévus par la présente loi et applicables à la compagnie;
+
+
+
+
+
+
+
+
+
+
+
+b) le dépôt auprès du ministre, à la demande de celui-ci, des renseignements, registres et documents gardés et conservés en conformité avec les règlements pris sous le régime de l’alinéa a);
+
+
+
+
+
+
+
+
+
+
+
+c) la notification au ministre, par les compagnies, des renseignements nécessaires à l’évaluation du rendement du point de vue de la sécurité, à la prédiction des variations dans ce domaine, afférents aux accidents, aux incidents ou à toute situation de nature à provoquer un problème de sécurité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) A regulation made under this section may be general or applicable to a group or class of companies.
+
+
+
+
+
+
+
+
+
+(2) Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de personnes ou de compagnies visés.
+
+
+
+Portée des règlements
+
+
+
+
+
+
+
+
+
+
+
+
+
+31. The Act is amended by adding the following after section 40:
+
+
+
+
+
+
+
+
+
+
+31. La même loi est modifiée par adjonction, après l’article 40, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Administrative Monetary Penalties
+
+
+
+
+
+
+
+
+
+
+
+Sanctions administratives pécuniaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40.1 The Governor in Council may, by regulation,
+
+
+
+
+
+
+(a) designate as a provision the contravention of which may be proceeded with as a violation in accordance with sections 40.13 to 40.22,
+
+
+
+
+
+
+(i) any provision of this Act or the regulations, or
+
+
+
+
+
+
+(ii) any rule, standard, order or emergency directive made under this Act; and
+
+
+
+
+
+
+(b) prescribe the maximum amount payable for each violation, not to exceed
+
+
+
+
+
+
+(i) $50,000, in the case of an individual, and
+
+
+
+
+
+
+(ii) $250,000, in the case of a corporation.
+
+
+
+
+
+
+
+
+
+
+40.1 Le gouverneur en conseil peut, par règlement :
+
+
+
+
+
+
+
+a) désigner comme un texte dont la contravention est assujettie aux articles 40.13 à 40.22 :
+
+
+
+
+
+
+(i) toute disposition de la présente loi ou de ses règlements,
+
+
+
+
+
+
+(ii) une règle, une norme, un arrêté ou une injonction ministérielle pris en vertu de la présente loi;
+
+
+
+
+
+
+
+b) prévoir le montant maximal de la sanction applicable à chaque contravention, plafonné comme suit :
+
+
+
+
+
+
+(i) dans le cas des personnes physiques, à 50 000 $,
+
+
+
+
+
+
+(ii) dans le cas des personnes morales, à 250 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+Designation of enforcement officers
+
+
+
+
+40.11 (1) The Minister may designate persons, or classes of persons, as enforcement officers.
+
+
+
+
+
+
+
+
+
+
+40.11 (1) Le ministre peut désigner, individuellement ou par catégorie, les agents de l’autorité.
+
+
+
+Désignation — agents de l’autorité
+
+
+
+
+
+
+
+
+
+
+Certification of enforcement officers
+
+
+
+(2) Every person designated as an enforcement officer under subsection (1) shall receive an authorization in prescribed form attesting to the person’s designation and shall, on demand, present the authorization to any person from whom the enforcement officer requests information in the course of the enforcement officer’s duties.
+
+
+
+
+
+
+
+
+
+(2) Chaque agent reçoit un certificat établi en la forme fixée par règlement et attestant sa qualité, qu’il présente sur demande à la personne à qui il veut demander des renseignements.
+
+
+
+Certificat
+
+
+
+
+
+
+
+
+
+
+Entry
+
+
+
+(3) For the purposes of determining whether a violation referred to in section 40.13 has been committed, a person designated as an enforcement officer under subsection (1) may enter any place, other than a private dwelling-place, where activities are carried on that relate directly or indirectly to the construction or operation of a railway or the operation of railway equipment.
+
+
+
+
+
+
+
+
+
+(3) L’agent peut, en vue de déterminer si une violation visée à l’article 40.13 a été commise, procéder à la visite de tous lieux, autre qu’une maison d’habitation, où se déroulent des activités se rapportant directement ou indirectement à la construction et l’exploitation d’un chemin de fer ou à l’exploitation du matériel ferroviaire.
+
+
+
+Attributions des agents
+
+
+
+
+
+
+
+
+
+
+Production of documents
+
+
+
+(4) For the purposes of determining whether a violation referred to in section 40.13 has been committed, a person designated as an enforcement officer under subsection (1) may require any person to produce for examination or reproduction all or part of any document or electronically stored data that the enforcement officer believes on reasonable grounds contain any information relevant to that determination.
+
+
+
+
+
+
+
+
+
+(4) L’agent peut, en vue de déterminer si une violation visée à l’article 40.13 a été commise, exiger la communication, pour examen ou reproduction totale ou partielle, de documents ou de données informatiques s’il a des motifs raisonnables de croire qu’ils contiennent des renseignements relatifs à cette détermination.
+
+
+
+Communication de documents
+
+
+
+
+
+
+
+
+
+
+Assistance to enforcement officers
+
+
+
+(5) Any person from whom documents or data are requested under subsection (4) shall provide all reasonable assistance in their power to enable the enforcement officer making the request to carry out the enforcement officer’s duties and shall furnish any information that the enforcement officer reasonably requires for the purposes of this Act.
+
+
+
+
+
+
+
+
+
+(5) La personne à qui l’agent demande la communication de documents ou données informatiques en vertu du paragraphe (4) est tenue de lui prêter toute l’assistance possible dans l’exercice de ses fonctions et de lui fournir les renseignements qu’il peut valablement exiger quant à l’application de la présente loi.
+
+
+
+Assistance
+
+
+
+
+
+
+
+
+
+
+Notices of violation
+
+
+
+
+40.12 The Minister may establish the form and content of notices of violation.
+
+
+
+
+
+
+
+
+
+
+40.12 Le ministre peut décider de la forme et de la teneur des procès-verbaux de violation.
+
+
+
+Procès-verbaux
+
+
+
+
+
+
+
+
+
+
+Violation
+
+
+
+
+40.13 (1) Every person who contravenes a provision designated under paragraph 40.1(a) commits a violation and is liable to a penalty not exceeding the maximum amount prescribed under paragraph 40.1(b).
+
+
+
+
+
+
+
+
+
+
+40.13 (1) Toute contravention à un texte désigné en vertu de l’alinéa 40.1a) constitue une violation pour laquelle le contrevenant s’expose à une pénalité dont le maximum est prévu en vertu de l’alinéa 40.1b).
+
+
+
+Violation
+
+
+
+
+
+
+
+
+
+
+Continuing violation
+
+
+
+(2) A violation that is committed or continued on more than one day constitutes a separate violation for each day on which it is committed or continued.
+
+
+
+
+
+
+
+
+
+(2) Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
+
+
+
+Violation continue
+
+
+
+
+
+
+
+
+
+
+How contraventions may be proceeded with
+
+
+
+(3) If a contravention of a provision designated under paragraph 40.1(a) may be proceeded with as a violation or as an offence, proceeding with it in one manner precludes proceeding in the other.
+
+
+
+
+
+
+
+
+
+(3) Toute contravention à un texte désigné en vertu de l’alinéa 40.1a) qualifiable à la fois de violation et d’infraction peut être poursuivie soit comme violation, soit comme infraction, les poursuites pour violation et celles pour infraction s’excluant toutefois mutuellement.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Nature of violation
+
+
+
+(4) For greater certainty, a violation is not an offence and accordingly section 126 of the Criminal Code does not apply in respect of a violation.
+
+
+
+
+
+
+
+
+
+(4) Les violations n’ont pas valeur d’infractions; en conséquence nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du Code criminel.
+
+
+
+Nature de la violation
+
+
+
+
+
+
+
+
+
+
+Issuance of notice of violation
+
+
+
+
+40.14 When a person designated by the Minister under subsection 40.11(1) believes on reasonable grounds that a person has committed a violation, he or she may issue and serve on the person a notice of violation that names the person, identifies the violation and sets out
+
+
+
+
+
+
+
+
+
+
+(a) the penalty for the violation that the person is liable to pay; and
+
+
+
+
+
+
+
+
+
+
+(b) particulars concerning the time for and manner of paying the penalty and the procedure for requesting a review.
+
+
+
+
+
+
+
+
+
+
+40.14 La personne désignée par le ministre au titre du paragraphe 40.11(1), si elle a des motifs raisonnables de croire qu’une violation a été commise, peut dresser un procès-verbal qu’elle fait signifier au contrevenant. Le procès-verbal comporte, outre le nom du contrevenant et les faits reprochés, le montant de la pénalité à payer, ainsi que le délai, les modalités de paiement et la procédure à suivre pour déposer une requête en révision.
+
+
+
+Verbalisation
+
+
+
+
+
+
+
+
+
+
+Payment of specified amount precludes further proceedings
+
+
+
+
+40.15 If a person served with a notice of violation pays the amount specified in the notice in accordance with the particulars set out in the notice, the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the contravention and no further proceedings under this Act shall be taken against the person in respect of that contravention.
+
+
+
+
+
+
+
+
+
+
+40.15 Lorsque le destinataire du procès-verbal paie la somme requise conformément aux modalités qui y sont prévues, le ministre accepte ce paiement en règlement de la pénalité imposée; aucune poursuite ne peut être intentée par la suite au titre de la présente loi contre l’intéressé pour la même contravention.
+
+
+
+Paiement de la pénalité
+
+
+
+
+
+
+
+
+
+
+Request for review of determination
+
+
+
+
+40.16 (1) A person served with a notice of violation that wishes to have the facts of the alleged contravention or the amount of the penalty reviewed shall, on or before the date specified in the notice — or within any further time that the Tribunal on application may allow — file a written request for a review with the Tribunal.
+
+
+
+
+
+
+
+
+
+
+40.16 (1) Le destinataire du procès-verbal qui veut faire réviser la décision du ministre à l’égard des faits reprochés ou du montant de la pénalité dépose une requête auprès du Tribunal, au plus tard à la date limite qui y est indiquée, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+
+
+Requête en révision
+
+
+
+
+
+
+
+
+
+
+Time and place for review
+
+
+
+(2) On receipt of a request filed under subsection (1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person that filed the request of the time and place in writing.
+
+
+
+
+
+
+
+
+
+(2) Le Tribunal, sur réception de la requête, fixe les date, heure et lieu de l’audience et en avise par écrit le ministre et l’intéressé.
+
+
+
+Audience
+
+
+
+
+
+
+
+
+
+
+Review procedure
+
+
+
+(3) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person that filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
+
+
+
+
+
+
+
+
+
+(3) À l’audience, le conseiller commis à l’affaire accorde au ministre et à l’intéressé la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+
+
+Déroulement
+
+
+
+
+
+
+
+
+
+
+Burden of proof
+
+
+
+(4) The Minister has the burden of establishing that a person has committed a violation.
+
+
+
+
+
+
+
+
+
+(4) Il incombe au ministre d’établir que l’intéressé a contrevenu au texte désigné.
+
+
+
+Charge de la preuve
+
+
+
+
+
+
+
+
+
+
+Person not compelled to testify
+
+
+
+(5) A person alleged to have committed a violation is not required to give evidence.
+
+
+
+
+
+
+
+
+
+(5) L’intéressé n’est pas tenu de témoigner à l’audience.
+
+
+
+Intéressé non tenu de témoigner
+
+
+
+
+
+
+
+
+
+
+Failure to pay
+
+
+
+
+40.17 A person that fails to pay the amount of the penalty specified in a notice of violation within the specified time and that does not file a request for a review is deemed to have committed the contravention alleged in the notice.
+
+
+
+
+
+
+
+
+
+
+40.17 L’omission, par l’intéressé, de payer dans le délai imparti la pénalité prévue dans le procès-verbal et de déposer une requête en révision vaut déclaration de responsabilité à l’égard de la contravention.
+
+
+
+Omission de payer la pénalité
+
+
+
+
+
+
+
+
+
+
+Determination by Tribunal member
+
+
+
+
+40.18 At the conclusion of a review, the member of the Tribunal who conducts the review shall without delay inform the Minister and the person alleged to have committed a violation
+
+
+
+
+
+
+
+
+
+
+(a) that the person has not committed a violation, in which case, subject to section 40.19, no further proceedings under this Act shall be taken against the person in respect of the alleged violation; or
+
+
+
+
+
+
+
+
+
+
+(b) that the person has committed a violation and, subject to any regulations made under paragraph 40.1(b), of the amount that must be paid to the Tribunal by or on behalf of the person and the time within which it must be paid.
+
+
+
+
+
+
+
+
+
+
+40.18 Après audition des parties, le conseiller informe sans délai l’intéressé et le ministre de sa décision. S’il décide :
+
+
+
+Décision
+
+
+
+
+
+a) qu’il n’y a pas eu contravention, sous réserve de l’article 40.19, nulle autre poursuite ne peut être intentée à cet égard sous le régime de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+b) qu’il y a eu contravention, il les informe également, sous réserve des règlements pris en vertu de l’alinéa 40.1b), de la somme à payer au Tribunal par l’intéressé ou en son nom et du délai imparti pour effectuer le paiement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Right of appeal
+
+
+
+
+40.19 (1) Within 30 days after a determination is made under section 40.18, the Minister or the person to whom it applies may appeal from the determination to the Tribunal.
+
+
+
+
+
+
+
+
+
+
+40.19 (1) Le ministre ou toute personne concernée peut déposer un appel au Tribunal de la décision rendue au titre de l’article 40.18. Le délai d’appel est de trente jours.
+
+
+
+Appel
+
+
+
+
+
+
+
+
+
+
+Loss of right of appeal
+
+
+
+(2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence.
+
+
+
+
+
+
+
+
+
+(2) La partie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+
+
+Perte du droit d’appel
+
+
+
+
+
+
+
+
+
+
+Disposition of appeal
+
+
+
+(3) The appeal panel of the Tribunal assigned to hear an appeal may dispose of the appeal by dismissing it or by allowing it and, in allowing the appeal, the panel may substitute its decision for the determination.
+
+
+
+
+
+
+
+
+
+(3) Le comité du Tribunal peut rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause.
+
+
+
+Sort de l’appel
+
+
+
+
+
+
+
+
+
+
+Finding of violation
+
+
+
+(4) If the appeal panel finds that a person has committed a violation, the panel shall without delay inform the person and the Minister of the finding and, subject to any regulations made under paragraph 40.1(b), of the amount determined by the panel to be payable to the Tribunal by or on behalf of the person in respect of the violation.
+
+
+
+
+
+
+
+
+
+(4) S’il statue qu’il y a eu contravention, le comité en informe sans délai l’intéressé et le ministre. Sous réserve des règlements pris en vertu de l’alinéa 40.1b), il les informe également de la somme fixée par le comité qui est à payer au Tribunal par l’intéressé ou en son nom et du délai imparti pour effectuer le paiement.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Certificate
+
+
+
+
+40.2 The Minister may obtain from the Tribunal or the member, as the case may be, a certificate in the form established by the Governor in Council setting out the amount of the penalty required to be paid by a person who fails, within the time required,
+
+
+
+
+
+
+
+
+
+
+(a) to pay the amount of a penalty set out in a notice of violation or to file a request for a review under section 40.16;
+
+
+
+
+
+
+
+
+
+
+(b) to pay an amount determined under paragraph 40.18(b) or file an appeal under section 40.19; or
+
+
+
+
+
+
+
+
+
+
+(c) to pay an amount determined under subsection 40.19(4).
+
+
+
+
+
+
+
+
+
+
+40.2 Le ministre peut obtenir du Tribunal ou du conseiller, selon le cas, un certificat en la forme établie par le gouverneur en conseil indiquant la pénalité à payer par l’intéressé si ce dernier, dans le délai requis :
+
+
+
+Certificat
+
+
+
+
+
+a) omet de payer la pénalité prévue dans le procès-verbal ou de déposer une requête en révision au titre de l’article 40.16;
+
+
+
+
+
+
+
+
+
+
+
+b) omet de payer la somme fixée en vertu de l’alinéa 40.18b) ou de déposer un appel au titre de l’article 40.19;
+
+
+
+
+
+
+
+
+
+
+
+c) omet de payer la somme fixée en vertu du paragraphe 40.19(4).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Registration of certificate
+
+
+
+
+40.21 (1) On production in any superior court, a certificate issued under section 40.2 shall be registered in the court and, when so registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate.
+
+
+
+
+
+
+
+
+
+
+40.21 (1) Sur présentation à une cour supérieure, le certificat visé à l’article 40.2 est enregistré. Dès lors, il devient exécutoire et toute procédure d’exécution peut être engagée, le certificat étant assimilé à un jugement de cette juridiction obtenu par Sa Majesté du chef du Canada contre la personne désignée dans le certificat pour une dette dont le montant y est indiqué.
+
+
+
+Enregistrement du certificat
+
+
+
+
+
+
+
+
+
+
+Recovery of costs and charges
+
+
+
+(2) All reasonable costs and charges attend- ant on the registration of the certificate are recoverable in like manner as if they had been certified and the certificate had been registered under subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Tous les frais entraînés par l’enregistrement du certificat peuvent être recouvrés comme s’ils faisaient partie de la somme indiquée sur le certificat enregistré en application du paragraphe (1).
+
+
+
+Recouvrement des frais
+
+
+
+
+
+
+
+
+
+
+Amounts received deemed public moneys
+
+
+
+(3) An amount received by the Minister or the Tribunal under this section is deemed to be public money within the meaning of the Financial Administration Act.
+
+
+
+
+
+
+
+
+
+(3) Les sommes reçues par le ministre ou le Tribunal au titre du présent article sont assimilées à des fonds publics au sens de la Loi sur la gestion des finances publiques.
+
+
+
+Fonds publics
+
+
+
+
+
+
+
+
+
+
+Time limit for proceedings
+
+
+
+
+40.22 Proceedings in respect of a violation may not be instituted later than 12 months after the time when the subject matter of the proceedings arose.
+
+
+
+
+
+
+
+
+
+
+40.22 Les poursuites pour violation se prescrivent par douze mois à compter du fait reproché.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+
+
+
+32. (1) Subsection 41(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+32. (1) Le paragraphe 41(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Contravention of provision of Act
+
+
+
+
+41. (1) Every person who contravenes a provision of this Act is guilty of an offence and liable
+
+
+
+
+
+
+
+
+
+
+(a) on conviction on indictment,
+
+
+
+
+
+
+
+
+
+
+(i) in the case of a corporation, to a fine not exceeding one million dollars, and
+
+
+
+
+
+
+
+
+
+
+(ii) in the case of an individual, to a fine not exceeding fifty thousand dollars or to imprisonment for a term not exceeding one year, or to both; or
+
+
+
+
+
+
+
+
+
+
+(b) on summary conviction,
+
+
+
+
+
+
+
+
+
+
+(i) in the case of a corporation, to a fine not exceeding five hundred thousand dollars, and
+
+
+
+
+
+
+
+
+
+
+(ii) in the case of an individual, to a fine not exceeding twenty-five thousand dollars or to imprisonment for a term not exceeding six months, or to both.
+
+
+
+
+
+
+
+
+
+
+41. (1) Quiconque contrevient à la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
+
+
+
+Contravention à la loi
+
+
+
+
+
+a) par mise en accusation, soit une amende maximale de un million de dollars, s’il s’agit d’une personne morale, soit une amende maximale de cinquante mille dollars et un emprisonnement maximal d’un an, ou l’une de ces peines, dans le cas d’une personne physique;
+
+
+
+
+
+
+
+
+
+
+
+b) par procédure sommaire, soit une amende maximale de cinq cent mille dollars, s’il s’agit d’une personne morale, soit une amende maximale de vingt-cinq mille dollars et un emprisonnement maximal de six mois ou l’une de ces peines, dans le cas d’une personne physique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 41(2) of the Act is amended by striking out “or” at the end of paragraph (e) and by adding the following after paragraph (f):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 41(2) de la même loi est modifié par adjonction, après l’alinéa f), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(g) a railway operating certificate issued under section 17.4; or
+
+
+
+
+
+
+(h) an order made under section 36.
+
+
+
+
+
+
+
+
+
+
+g) à un certificat d’exploitation de chemin de fer délivré en vertu de l’article 17.4;
+
+
+
+
+
+
+
+h) à un arrêté pris en vertu de l’article 36.
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 31
+
+
+
+(3) Subsection 41(2.1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 41(2.1) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, art. 31
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(2.1) A person who is guilty of an offence under subsection (2) is liable on summary conviction
+
+
+
+
+
+
+
+
+
+
+(a) in the case of a corporation, to a fine of not more than one million dollars; and
+
+
+
+
+
+
+
+
+
+
+(b) in the case of an individual, to a fine of not more than fifty thousand dollars or to imprisonment for a term of not more than six months, or to both.
+
+
+
+
+
+
+
+
+
+(2.1) Quiconque commet l’infraction prévue au paragraphe (2) encourt, sur déclaration de culpabilité par procédure sommaire, soit une amende maximale de un million de dollars, s’il s’agit d’une personne morale, soit une amende maximale de cinquante mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines, s’il s’agit d’une personne physique.
+
+
+
+Sanctions
+
+
+
+
+
+
+
+
+
+
+2007, c. 19, s. 54
+
+
+
+
+33. Section 44 of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+33. L’article 44 de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 19, art. 54
+
+
+
+
+
+
+
+
+
+
+Nomination
+
+
+
+
+
+44. (1) Tout juge d’une cour supérieure peut nommer un agent de police chargé de faire observer la partie III de la Loi sur les transports au Canada, ainsi que les autres lois fédérales ou les lois provinciales touchant la protection des biens qu’administre ou possède la compagnie de chemin de fer, ou dont elle est propriétaire, ou la protection de personnes ou de biens se trouvant en des lieux qu’elle administre ou possède ou dont elle est propriétaire.
+
+
+
+
+
+
+
+
+
+
+
+44. (1) Tout juge d’une cour supérieure peut nommer un agent de police chargé de faire observer la partie III de la Loi sur les transports au Canada, ainsi que les autres lois fédérales ou les lois provinciales touchant la protection des biens qu’administre ou possède la compagnie de chemin de fer, ou dont elle est propriétaire, ou la protection de personnes ou de biens se trouvant en des lieux qu’elle administre ou possède ou dont elle est propriétaire.
+
+
+
+Nomination
+
+
+
+
+
+
+
+
+
+
+Restriction
+
+
+
+
+(2) La nomination ne peut se faire que sur demande de la compagnie de chemin de fer qui administre ou possède des biens, ou en est le propriétaire, dans le ressort où le juge a compétence.
+
+
+
+
+
+
+
+
+
+
+(2) La nomination ne peut se faire que sur demande de la compagnie de chemin de fer qui administre ou possède des biens, ou en est le propriétaire, dans le ressort où le juge a compétence.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+Compétence de l’agent de police
+
+
+
+
+(3) L’agent de police exerce sa compétence sur les biens que la compagnie de chemin de fer administre ou possède ou dont elle est propriétaire, ainsi qu’en tout lieu se trouvant dans un rayon de cinq cents mètres de ceux-ci.
+
+
+
+
+
+
+
+
+
+
+(3) L’agent de police exerce sa compétence sur les biens que la compagnie de chemin de fer administre ou possède ou dont elle est propriétaire, ainsi qu’en tout lieu se trouvant dans un rayon de cinq cents mètres de ceux-ci.
+
+
+
+Compétence de l’agent de police
+
+
+
+
+
+
+
+
+
+
+Pouvoirs de l’agent de police
+
+
+
+
+(4) L’agent de police peut amener toute personne inculpée d’une infraction créée par la partie III de la Loi sur les transports au Canada ou par toute autre loi visée au paragraphe (1) devant un tribunal ayant compétence dans le ressort où sont situés des biens que la compagnie de chemin de fer administre ou possède ou dont elle est propriétaire, indépendamment du lieu d’arrestation ou du lieu, réel ou présumé, de perpétration.
+
+
+
+
+
+
+
+
+
+
+(4) L’agent de police peut amener toute personne inculpée d’une infraction créée par la partie III de la Loi sur les transports au Canada ou par toute autre loi visée au paragraphe (1) devant un tribunal ayant compétence dans le ressort où sont situés des biens que la compagnie de chemin de fer administre ou possède ou dont elle est propriétaire, indépendamment du lieu d’arrestation ou du lieu, réel ou présumé, de perpétration.
+
+
+
+Pouvoirs de l’agent de police
+
+
+
+
+
+
+
+
+
+
+Compétence du tribunal
+
+
+
+
+(5) Le tribunal statue sur le cas comme si l’inculpé avait été arrêté dans son ressort et y avait commis l’infraction, sauf si le lieu présumé de perpétration est situé à l’extérieur de la province.
+
+
+
+
+
+
+
+
+
+
+(5) Le tribunal statue sur le cas comme si l’inculpé avait été arrêté dans son ressort et y avait commis l’infraction, sauf si le lieu présumé de perpétration est situé à l’extérieur de la province.
+
+
+
+Compétence du tribunal
+
+
+
+
+
+
+
+
+
+
+Destitution ou licenciement
+
+
+
+
+(6) Tout juge visé au paragraphe (1) ou la compagnie de chemin de fer peut destituer ou licencier l’agent de police, ce qui met fin à l’exercice des attributions qui lui sont conférées aux termes du présent article.
+
+
+
+
+
+
+
+
+
+
+(6) Tout juge visé au paragraphe (1) ou la compagnie de chemin de fer peut destituer ou licencier l’agent de police, ce qui met fin à l’exercice des attributions qui lui sont conférées aux termes du présent article.
+
+
+
+Destitution ou licenciement
+
+
+
+
+
+
+
+
+
+
+2007, c. 19, s. 54
+
+
+
+
+34. Subsection 44.1(2) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+34. Le paragraphe 44.1(2) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 19, art. 54
+
+
+
+
+
+
+
+
+
+
+Dépôt
+
+
+
+
+(2) La compagnie de chemin de fer dépose auprès du ministre un double de la procédure. Elle met en oeuvre les recommandations de celui-ci, notamment celles concernant les moyens de porter à la connaissance du public l’existence de la procédure.
+
+
+
+
+
+
+
+
+
+
+(2) La compagnie de chemin de fer dépose auprès du ministre un double de la procédure. Elle met en oeuvre les recommandations de celui-ci, notamment celles concernant les moyens de porter à la connaissance du public l’existence de la procédure.
+
+
+
+Dépôt
+
+
+
+
+
+
+
+
+
+
+
+
+
+35. Section 46 of the Act is amended by striking out “or” at the end of paragraph (e) and by adding the following after paragraph (f):
+
+
+
+
+
+
+
+
+
+
+35. L’article 46 de la même loi est modifié par adjonction, après l’alinéa f), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(g) railway operating certificates issued under section 17.4 and notices of decision given under section 17.5; or
+
+
+
+
+
+
+(h) orders made under section 36.
+
+
+
+
+
+
+
+
+
+
+g) les certificats d’exploitation de chemin de fer délivrés en vertu de l’article 17.4 et les avis de décision visés à l’article 17.5;
+
+
+
+
+
+
+
+h) les arrêtés visés à l’article 36.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+36. The heading before section 47 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+36. L’intertitre précédant l’article 47 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations — General
+
+
+
+
+
+
+
+
+
+
+
+Règlements — général
+
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 9, s. 34
+
+
+
+
+37. Section 47.1 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+37. L’article 47.1 de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 9, art. 34
+
+
+
+
+
+
+
+
+
+
+Regulations — safety management systems
+
+
+
+
+47.1 (1) The Governor in Council may make regulations respecting safety management systems including, but not limited to, regulations respecting
+
+
+
+
+
+
+
+
+
+
+(a) the establishment by companies of safety management systems that include
+
+
+
+
+
+
+
+
+
+
+(i) the identification of an executive who is
+
+
+
+
+
+
+
+
+
+
+(A) responsible for operations and activities of a company, and
+
+
+
+
+
+
+
+
+
+
+(B) accountable for the extent to which the requirements of the safety management system have been met,
+
+
+
+
+
+
+
+
+
+
+(ii) the implementation, as a result of a risk management analysis, of the remedial action required to maintain the highest level of safety,
+
+
+
+
+
+
+
+
+
+
+(iii) the continuous monitoring and regular assessment of the level of safety achieved,
+
+
+
+
+
+
+
+
+
+
+(iv) in the case of a railway company, the implementation of non-punitive internal reporting and confidential reporting to the Transportation Safety Board or Transport Canada by employees of contraventions of this Act or of any regulations, rules, certificates, orders or emergency directives under this Act relating to safety, or of other safety concerns, and
+
+
+
+
+
+
+
+
+
+
+(v) in the case of a railway company, the involvement of employees and their collective bargaining agents in the ongoing operation of the safety management system;
+
+
+
+
+
+
+
+
+
+
+(b) the development and implementation of safety management systems by companies, including the involvement of employees and their collective bargaining agents in the case of railway companies; and
+
+
+
+
+
+
+
+
+
+
+(c) the criteria to which the safety management system must conform as well as the components, including the principle of fatigue science applicable to scheduling, that must be included in a safety management system.
+
+
+
+
+
+
+
+
+
+
+47.1 (1) Le gouverneur en conseil peut prendre des règlements concernant le système de gestion de la sécurité, notamment concernant :
+
+
+
+Règlements concernant le système de gestion de la sécurité
+
+
+
+
+
+a) la mise en place par une compagnie d’un système de gestion de la sécurité qui prévoit notamment :
+
+
+
+
+
+
+
+
+
+
+(i) la désignation d’une personne physique à titre de gestionnaire supérieur :
+
+
+
+
+
+
+
+
+
+
+(A) chargé des opérations et des activités d’une compagnie,
+
+
+
+
+
+
+
+
+
+
+(B) tenu de rendre compte du respect des exigences du système de gestion de la sécurité,
+
+
+
+
+
+
+
+
+
+
+(ii) la mise en oeuvre, en réponse à une analyse de gestion de risque, d’une mesure corrective suffisante pour maintenir le niveau de sécurité le plus élevé,
+
+
+
+
+
+
+
+
+
+
+(iii) une surveillance continue et des évaluations régulières du niveau de sécurité atteint,
+
+
+
+
+
+
+
+
+
+
+(iv) dans le cas d’une compagnie de chemin de fer, la mise en oeuvre d’un système de production, par ses employés, de rapports internes et de rapports confidentiels à l'intention du Bureau de la sécurité des transports ou du ministère des Transports, sans mesures de représailles, relativement à des infractions à la présente loi ou à tout règlement, toute règle, tout certificat ou arrêté ou toute injonction ministérielle — pris en vertu de la présente loi — en matière de sécurité ou à d’autres préoccupations en matière de sécurité,
+
+
+
+
+
+
+
+
+
+
+(v) dans le cas d’une compagnie de chemin de fer, la participation de ses employés et de leurs représentants syndicaux au fonctionnement continu de son système ou du programme de gestion de la sécurité;
+
+
+
+
+
+
+
+
+
+
+
+b) l’élaboration et la mise en oeuvre du système ou du programme de gestion de la sécurité, notamment la participation des employés d’une compagnie de chemin de fer et de leurs représentants syndicaux;
+
+
+
+
+
+
+
+
+
+
+
+c) les critères auxquels le système de gestion de la sécurité doit se conformer ainsi que les composantes, notamment les principes de la science de la fatigue applicable à l’établissement des horaires, qui doivent être inclues dans un système de gestion de la sécurité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Release of pollutants
+
+
+
+(2) The Governor in Council may make regulations respecting the release of pollutants into the environment from the operation of railway equipment by a railway company including, but not limited to, regulations respecting
+
+
+
+
+
+
+
+
+
+
+(a) the keeping of records and information and their filing with the Minister; and
+
+
+
+
+
+
+
+
+
+
+(b) the form and content of labels to be affixed to railway equipment and their placement on railway equipment.
+
+
+
+
+
+
+
+
+
+(2) Il peut également prendre des règlements concernant les rejets de polluants dans l’environnement qui découlent de l’exploitation du matériel ferroviaire par une compagnie de chemin de fer, notamment :
+
+
+
+Protection de l’environnement
+
+
+
+
+
+a) la garde des registres et renseignements et leur production auprès du ministre;
+
+
+
+
+
+
+
+
+
+
+
+b) la forme et le contenu des étiquettes à apposer au matériel ferroviaire et leur emplacement sur ce matériel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Environmental management plan
+
+
+
+(3) The Governor in Council may make regulations requiring a railway company to file with the Minister environmental management plans and compliance audits with respect to those plans.
+
+
+
+
+
+
+
+
+
+(3) Il peut également, par règlement, exiger qu’une compagnie de chemin de fer dépose auprès du ministre des plans de gestion de l’environnement et des vérifications de conformité.
+
+
+
+Plans de gestion de l’environnement
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(4) A regulation made under this section may be general or applicable to a group or class of companies.
+
+
+
+
+
+
+
+
+
+(4) Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de compagnies visés.
+
+
+
+Portée des règlements
+
+
+
+
+
+
+
+
+
+
+Ministerial regulations — fees and charges
+
+
+
+
+47.2 (1) The Minister may make regulations prescribing any fees or charges, or determining the manner of calculating any fees or charges, to be paid
+
+
+
+
+
+
+
+
+
+
+(a) for services or the use of facilities provided by the Minister in the administration of this Act; or
+
+
+
+
+
+
+
+
+
+
+(b) in relation to the filing of documents and the making of applications for and the issuance of certificates, exemptions, licences or approvals under this Act.
+
+
+
+
+
+
+
+
+
+
+47.2 (1) Le ministre peut, par règlement, fixer le montant des droits à percevoir ou leur mode de calcul, en ce qui touche :
+
+
+
+Règlement ministériel — droits
+
+
+
+
+
+a) l’utilisation des installations et services fournis par le ministre dans le cadre de l’exécution de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+b) le dépôt de documents ou les demandes de certificat, d’exemption, de permis, de licence ou d’approbation prévus par la présente loi et la délivrance d’un tel document.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(2) Her Majesty in right of Canada or a province and the entities named in Schedules II and III to the Financial Administration Act are not liable to pay fees or charges.
+
+
+
+
+
+
+
+
+
+(2) Sa Majesté du chef du Canada ou d’une province et les organismes inscrits à l’annexe II ou III de la Loi sur la gestion des finances publiques sont exemptés des droits.
+
+
+
+Exemption
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(3) A regulation made under this section may be general or applicable to a group or class of companies.
+
+
+
+
+
+
+
+
+
+(3) Un règlement pris en vertu du présent article peut être de portée générale ou limitée quant aux groupes ou aux catégories de compagnies visés.
+
+
+
+Portée des règlements
+
+
+
+
+
+
+
+
+
+
+Review by House of Commons committee
+
+
+
+
+
+47.3 (1) The Standing Committee on Transport, Infrastructure and Communities of the House of Commons or, if there is not a Standing Committee on Transport, Infrastructure and Communities, the appropriate committee of that House may review any regulations made under this Act, either on its own initiative or on receiving a written complaint regarding a specific safety concern. The Committee may hold public hearings and may table its report on its review in the House of Commons.
+
+
+
+
+
+
+
+
+
+
+
+
+47.3 (1) Le Comité permanent des transports, de l’infrastructure et des collectivités de la Chambre des communes ou, à défaut, le comité compétent de la Chambre peut, de sa propre initiative ou à la suite du dépôt d’une plainte écrite portant sur une question spécifique de sécurité, examiner les règlements pris en vertu de la présente loi. Il peut également tenir des audiences publiques à cet égard et faire rapport de ses conclusions à la Chambre.
+
+
+
+
+Examen par un comité de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+Review by Senate committee
+
+
+
+
+(2) The Standing Senate Committee on Transport and Communications or, if there is not a Standing Senate Committee on Transport and Communications, the appropriate committee of the Senate may review any regulations made under this Act, either on its own initiative or on receiving a written complaint regarding a specific safety concern. The committee may hold public hearings and may table its report on its review in the Senate.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le Comité sénatorial permanent des transports et des communications ou, à défaut, le comité compétent du Sénat peut, de sa propre initiative ou à la suite du dépôt d’une plainte écrite portant sur une question spécifique de sécurité, examiner les règlements pris en vertu de la présente loi. Il peut également tenir des audiences publiques à cet égard et faire rapport de ses conclusions au Sénat.
+
+
+
+
+Examen par un comité du Sénat
+
+
+
+
+
+
+
+
+
+
+
+
+
+38. Section 51 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+38. L’article 51 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Statutory review
+
+
+
+
+51. (1) The Minister shall, not later than five years after the day on which this section comes into force, appoint one or more persons to carry out a comprehensive review of the operation of this Act.
+
+
+
+
+
+
+
+
+
+
+51. (1) Le ministre nomme, dans les cinq ans suivant la date d’entrée en vigueur du présent article, une ou plusieurs personnes chargées de procéder à un examen complet de l’application de la présente loi.
+
+
+
+Examen complet
+
+
+
+
+
+
+
+
+
+
+Tabling of report
+
+
+
+(2) The Minister shall have a report of the comprehensive review laid before each House of Parliament on any of the first thirty days on which that House is sitting after the Minister receives it.
+
+
+
+
+
+
+
+
+
+(2) Le ministre fait déposer une copie d’un rapport de l’examen visé au paragraphe (1) devant chaque chambre du Parlement dans les trente premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt du rapport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1996, c. 10
+
+
+
+CONSEQUENTIAL AMENDMENTS TO THE CANADA TRANSPORTATION ACT
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES À LA LOI SUR LES TRANSPORTS AU CANADA
+
+
+
+1996, ch. 10
+
+
+
+
+
+
+
+
+
+
+2007, c. 19, s. 46
+
+
+
+
+39. Subsection 157.1(1) of the Canada Transportation Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+39. Le paragraphe 157.1(1) de la Loi sur les transports au Canada est remplacé par ce qui suit :
+
+
+
+2007, ch. 19, art. 46
+
+
+
+
+
+
+
+
+
+
+Agreements to apply transportation law to provincial railways
+
+
+
+
+157.1 (1) The Minister may enter into an agreement with a provincial minister responsible for transportation matters providing for the administration, in relation to persons who operate railways within the legislative authority of the province, of any law respecting
+
+
+
+
+
+
+
+
+
+
+(a) accident investigations and railway crossings; or
+
+
+
+
+
+
+
+
+
+
+(b) railway noise and vibration, or the regulation of the rates and conditions of service of railway companies, to the extent that those matters are governed by this Act.
+
+
+
+
+
+
+
+
+
+
+157.1 (1) Le ministre peut conclure avec un ministre provincial chargé des transports un accord relatif à l’application, à des exploitants de chemin de fer assujettis à la compétence législative de la province en cause, de toute loi ayant trait :
+
+
+
+Accords avec les ministres des transports provinciaux
+
+
+
+
+
+a) aux enquêtes sur les accidents ou aux franchissements ferroviaires;
+
+
+
+
+
+
+
+
+
+
+
+b) au bruit et à la vibration résultant de l’activité ferroviaire ou à la réglementation des prix et conditions visant les services des chemins de fer dans la mesure où ces questions sont régies par la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 19, s. 47
+
+
+
+
+40. Section 158 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+40. L’article 158 de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 19, art. 47
+
+
+
+
+
+
+
+
+
+
+Agreements made with provincial authorities
+
+
+
+
+158. The Minister may enter into an agreement with a provincial authority to authorize the provincial authority to regulate the construction and operation of a railway as well as the rates and conditions of service in the same manner and to the same extent as it may regulate a railway within its jurisdiction.
+
+
+
+
+
+
+
+
+
+
+158. Le ministre peut conclure avec toute autorité provinciale un accord autorisant celle-ci à réglementer la construction et l’exploitation de tout chemin de fer ainsi que les prix et conditions visant les services; le cas échéant, l’autorité exerce ce pouvoir de la même manière et dans la même mesure que celui qu’elle peut exercer à l’égard d’un chemin de fer relevant de sa compétence.
+
+
+
+Accords avec des autorités provinciales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISIONS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS TRANSITOIRES
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements continued
+
+
+
+
+41. An agreement entered into or a designation made under section 157.1 of the Canada Transportation Act in respect of any matter referred to in section 6.1 of the Railway Safety Act, as enacted by section 6, continues in force in accordance with its terms until it is replaced by an agreement entered into under that section 6.1.
+
+
+
+
+
+
+
+
+
+
+41. Les accords conclus ou les désignations faites en vertu de l’article 157.1 de la Loi sur les transports au Canada relativement aux questions visées à l’article 6.1 de la Loi sur la sécurité ferroviaire, édicté par l’article 6, sont prorogés jusqu’à ce qu’ils soient remplacés par un accord conclu ou fait en vertu de cet article 6.1.
+
+
+
+Accords prorogés
+
+
+
+
+
+
+
+
+
+
+Grace period for obtaining certificate
+
+
+
+
+42. For the period ending two years after the day on which section 10 comes into force, section 17.1 of the Railway Safety Act, as enacted by section 10, does not apply to a company that was operating or maintaining a railway on that day or that was operating railway equipment on a railway on that day.
+
+
+
+
+
+
+
+
+
+
+42. L’article 17.1 de la Loi sur la sécurité ferroviaire, édicté par l’article 10, ne s’applique pas aux compagnies qui, au moment de l’entrée en vigueur de cet article 10, exploitaient ou entretenaient un chemin de fer ou exploitaient du matériel ferroviaire sur un chemin de fer pour une période de deux ans après l’entrée en vigueur de ce même article 10.
+
+
+
+Obtention d’un certificat : période de grâce
+
+
+
+
+
+
+
+
+
+
+Grace period for obtaining certificate
+
+
+
+
+43. For the period ending two years after the day on which section 17.2 of the Railway Safety Act, as enacted by subsection 11(2), comes into force, the requirement to comply with a railway operating certificate imposed by that section 17.2 does not apply to a company that has no railway operating certificate if that company was operating or maintaining a railway on that day or was operating railway equipment on a railway on that day.
+
+
+
+
+
+
+
+
+
+
+43. Les exigences de conformité avec un certificat d’exploitation de chemin de fer imposées à l’article 17.2 de la Loi sur la sécurité ferroviaire, édicté par le paragraphe 11(2), ne s’appliquent pas aux compagnies qui, au moment de l’entrée en vigueur de cet article 17.2, n’ont pas un tel certificat et exploitaient ou entretenaient un chemin de fer ou exploitaient du matériel ferroviaire sur un chemin de fer, pour une période se terminant deux ans après l’entrée en vigueur de ce même article 17.2.
+
+
+
+Obtention d’un certificat : période de grâce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+44. (1) The provisions of this Act, other than subsections 7(2) and 14(2) to (5), come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+44. (1) Les dispositions de la présente loi, sauf les paragraphes 7(2) et 14(2) à (5), entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+First regulations — s. 20.2
+
+
+
+(2) Subsections 7(2) and 14(2) to (5) come into force on the day on which the first regulations made under section 20.2 of the Railway Safety Act, as enacted by subsection 14(1), come into force.
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 7(2) et 14(2) à (5) entrent en vigueur à la date d’entrée en vigueur du premier règlement pris en vertu de l’article 20.2 de la Loi sur la sécurité ferroviaire, édicté par le paragraphe 14(1).
+
+
+
+Premier règlement : article 20.2
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

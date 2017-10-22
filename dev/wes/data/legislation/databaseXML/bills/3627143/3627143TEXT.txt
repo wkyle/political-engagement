@@ -1,0 +1,727 @@
+
+
+
+
+
+C-290
+
+
+
+
+
+C-290
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-290
+
+
+
+
+
+PROJET DE LOI C-290
+
+
+
+
+
+
+An Act to amend the Income Tax Act (tax credit for loss of retirement income)
+
+
+
+
+
+Loi modifiant la Loi de l'impôt sur le revenu (crédit d'impôt pour perte de revenu de retraite)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, February 5, 2009
+
+première lecture le 5 février 2009
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Bellavance
+
+402082
+
+
+
+M. Bellavance
+
+
+
+
+
+SUMMARY
+This enactment amends the Income Tax Act to provide a refundable tax credit to an individual whose employer, and certain employees of that employer, failed to make the contributions required to be made to a registered pension plan.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi de l’impôt sur le revenu afin d’accorder un crédit d’impôt remboursable aux particuliers dont l'employeur et certains des employés de celui-ci ont omis de verser les cotisations à un régime de pension agréé.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-290
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-290
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Income Tax Act (tax credit for loss of retirement income)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de l'impôt sur le revenu (crédit d'impôt pour perte de revenu de retraite)
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c.1 (5th Supp.)
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and the House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch.1 (5e suppl.)
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Income Tax Act is amended by adding the following after section 122.51:
+
+
+
+
+
+
+
+
+
+1. La Loi de l’impôt sur le revenu est modifiée par adjonction, après l'article 122.51, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+122.52 (1) The definitions in this subsection apply in this section.
+
+
+
+
+“defined benefit provision”« disposition à prestations déterminées »
+
+
+
+“defined benefit provision” has the meaning assigned by subsection 147.1(1).
+
+
+
+
+“eligible individual”« particulier admissible »
+
+
+
+“eligible individual” for a taxation year means an individual (other than a trust) who was entitled for the year, under a registered pension plan, to
+
+
+
+
+
+
+
+
+(a) benefits under the defined benefit provisions of the plan;
+
+
+
+
+
+
+
+
+(b) benefits under the money purchase provisions of the plan if the 		employer had made the contributions required to be made by the employer in 	respect of those money purchase provisions; or
+
+
+
+
+
+
+
+
+(c) benefits referred to in paragraphs (a) and (b).
+
+
+
+
+“money purchase provision”« disposition à cotisations déterminées »
+
+
+
+“money purchase provision” has the meaning assigned by subsection 147.1(1).
+
+
+
+
+
+
+
+
+
+122.52 (1) Les définitions qui suivent s'appliquent au présent article.
+
+
+
+Définitions
+
+
+
+
+« disposition à cotisations déterminées » S’entend au sens du paragraphe 147.1(1).
+
+
+
+« disposition à cotisations déterminées »“money purchase provision”
+
+
+
+
+« disposition à prestations déterminées » S’entend au sens du paragraphe 147.1(1).
+
+
+
+« disposition à prestations déterminées »“defined benefit provision”
+
+
+
+
+« particulier admissible » Est un particulier admissible pour une année d'imposition le particulier, à l'exception d'une fiducie, qui avait droit pour l’année, dans le cadre d’un régime de pension agréé :
+
+
+
+« particulier admissible »“eligible individual”
+
+
+
+
+a) soit à des prestations aux termes des dispositions à prestations déterminées du régime;
+
+
+
+
+
+
+
+
+b) soit à des prestations aux termes des dispositions à cotisations déterminées si l’employeur avait versé les cotisations qu’il était tenu de verser aux termes des dispositions à cotisations déterminées du régime;
+
+
+
+
+
+
+
+
+c) soit à des prestations visées aux alinéas a) et b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deemed payment on account of tax
+
+
+
+(2) Where a return of income is filed in respect of an eligible individual for a particular taxation year that ends at the end of a calendar year, there is deemed to be paid at the end of the particular year on account of the individual's tax payable under this Part for the particular year the amount determined by the formula
+
+
+
+
+
+
+
+
+22% x (A - B)
+
+
+
+
+
+
+
+
+where
+
+
+
+
+
+
+
+
+A      is the sum of
+
+
+
+
+
+
+
+
+(a) the total of all benefits payable to the individual in the taxation year that ends at the end of a calendar year in respect of the defined benefit provisions of a registered pension plan, and
+
+
+
+
+
+
+
+
+(b) the total of all benefits that would have been payable to the individual in the taxation year that ends at the end of a calendar year in respect of the money purchase provisions of a registered pension plan if the employer and the employees had made the contributions required to be made by them in respect of the money purchase provisions of the plan; and 
+
+
+
+
+
+
+
+
+B      is the amount included in computing the income of the taxpayer for the taxation 	year under paragraph 56(1)(x) or (z) or subsection 70(2).
+
+
+
+
+
+
+
+
+
+(2) Lorsqu'une déclaration de revenus est produite relativement à un particulier admissible pour une année d'imposition donnée se terminant à la fin d'une année civile, le montant déterminé selon la formule suivante est réputé avoir été payé à la fin de l'année donnée au titre de l'impôt payable par le particulier en vertu de la présente partie pour cette année :
+
+
+
+Présomption de paiement au titre de l’impôt
+
+
+
+
+22 % x (A - B)
+
+
+
+
+
+
+
+
+où :
+
+
+
+
+
+
+
+
+A      représente la somme des montants suivants :
+
+
+
+
+
+
+
+
+a) le total des prestations payables au particulier durant l’année d’imposition se terminant à la fin de l’année civile aux termes des dispositions à prestations déterminées d’un régime de pension agréé;
+
+
+
+
+
+
+
+
+b) le total des prestations qui auraient été payables au particulier durant l’année d’imposition se terminant à la fin de l’année civile aux termes des dispositions à cotisations déterminées d’un régime de pension agréé si l’employeur et les employés avaient versé les cotisations qu’ils étaient tenus de verser aux termes des dispositions à cotisations déterminées du régime;
+
+
+
+
+
+
+
+
+B      le montant inclus dans le calcul du revenu du contribuable pour l’année d’imposition en application des alinéas 56(1)x) ou z) ou du paragraphe 70(2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) Paragraph 152(1)(b) of the Act is replaced by the following: 
+
+
+
+
+
+
+(b) the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.52, 122.7(2) or (3), 125.4(3), 125.5(3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer’s tax payable under this Part for the year.
+
+
+
+
+
+
+
+
+
+2. (1) L’alinéa 152(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+b) le montant d’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.52, 122.7(2) ou (3), 125.4(3), 125.5(3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 152(4.2)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+(b) redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.52, 122.7(2) or (3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer’s tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer’s liability under this Part for the year.
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 152(4.2)b) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+b) déterminer de nouveau l’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.52, 122.7(2) ou (3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année ou qui est réputé, par le paragraphe 122.61(1), être un paiement en trop au titre des sommes dont le contribuable est redevable en vertu de la présente partie pour l’année.
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

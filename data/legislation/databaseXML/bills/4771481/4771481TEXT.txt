@@ -1,0 +1,8848 @@
+
+
+
+
+
+S-14
+
+
+
+
+
+S-14
+
+
+
+
+
+
+First Session, Thirty-sixth Parliament,
+
+
+
+
+
+Première session, trente-sixième législature,
+
+
+
+
+
+
+46-47 Elizabeth II, 1997-98
+
+
+
+
+
+46-47 Elizabeth II, 1997-98
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-14
+
+
+
+
+
+PROJET DE LOI S-14
+
+
+
+
+
+
+An Act providing for self-government by the first nations of Canada
+
+
+
+
+
+Loi prévoyant l’autonomie gouvernementale des premières nations du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, March 25, 1998
+
+première lecture le 25 mars 1998
+
+
+
+
+
+
+
+
+
+
+
+
+The Honourable Senator Tkachuk
+
+2539
+
+
+
+L’honorable sénateur Tkachuk
+
+
+
+
+
+Summary
+This enactment enables any land-based Indian community recognized as a band, tribe, nation, or other body of Indian people under the Indian Act or any other Act of Parliament or by any treaty or agreement with the Crown or by court order, to be acknowledged, without any negotiations or any further treaties or agreements with the Government of Canada, as a self–governing polity within Canada.
+The enactment enables those communities, if they have the means and choose to do so, to create new constitutions for themselves, continue existing laws, make new laws and carry on their own governments thereafter.
+Federal laws of general application will continue to apply to a community bringing itself under this enactment when those laws do not conflict with this enactment and the community’s constitution and laws as established pursuant to this enactment.
+Similarly, in the case of a province in which any lands of a community bringing itself under this enactment are situated, the general laws of the province will apply to Indians within those lands when those laws do not conflict with this enactment and the community’s constitution and laws as established pursuant to this enactment.
+In order to bring itself under this enactment a community is required to hold a referendum on a proposal to do so and present to the electors of the community information germane to the proposal and a draft constitution in accordance with the requirements of the enactment.  If more than fifty per cent of the members of the community approve the proposal, the community is brought under this enactment as a self–governing polity under the name and with the constitution approved by its electors.
+Such a community, thereafter called in the enactment a First Nation, retains its existing governing body, its officials and its employees until they are altered or replaced in due course under its new constitution and laws.
+
+
+
+Sommaire
+Ce texte permet à toute collectivité indienne ayant une assise territoriale et reconnue comme groupe autochtone, notamment bande, tribu ou nation, soit sous le régime de la Loi sur les Indiens ou d’une autre loi fédérale, soit par un traité ou accord conclu avec Sa Majesté, soit par une ordonnance judiciaire, d’être également reconnue comme entité politique dotée de l’autonomie gouvernementale dans les frontières du Canada, sans négociations ni autres traités ou accords avec le gouvernement fédéral.
+Le texte permet ainsi à la collectivité, si elle en a les moyens et si elle s’y décide, de créer sa propre Constitution, de s’en tenir aux lois en vigueur ou d’en édicter d’autres, et de se gouverner elle–même.
+Les lois fédérales d’application générale continueront à régir la collectivité qui se sera assujettie au texte, sauf incompatibilité avec celui–ci ainsi qu’avec la Constitution et les lois de la collectivité édictées conformément au texte.
+Parallèlement, les lois générales de la province où se situent des terres de la collectivité ainsi assujettie s’appliqueront aux Indiens à l’intérieur de ces terres sauf la même incompatibilité.
+Pour s’assujettir au texte, la collectivité doit faire approuver par référendum une proposition présentée à cette fin et comportant tous les renseignements utiles à ses électeurs, y compris un projet de Constitution établi conformément aux dispositions du texte.  En cas d’approbation à la majorité simple, la collectivité devient assujettie au texte, en tant qu’entité politique dotée de l’autonomie gouvernementale, avec la Constitution et sous la dénomination ainsi approuvées.
+La collectivité, devenue après son assujettissement une première nation au sens du texte, conserve son organe exécutif et son personnel jusqu’à modification ou remplacement, en temps utile, sous l’empire de sa Constitution et de ses lois.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 36th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 36e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46-47 Elizabeth II, 1997-98
+
+
+
+
+
+
+
+
+
+46-47 Elizabeth II, 1997-98
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-14
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act providing for self-government by the first nations of Canada
+
+
+
+
+
+
+
+
+
+Loi prévoyant l’autonomie gouvernementale des premières nations du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+WHEREAS history records that the Crown entered into legal relations with certain nations, bodies or tribes of Indians;
+
+
+
+
+
+
+
+
+AND WHEREAS the Parliament of Canada subsequently passed certain laws in relation to Indians and lands reserved for the Indians;
+
+
+
+
+
+
+
+
+AND WHEREAS these laws have created a cumbersome, expensive and inefficient system of administration over Indians and their lands;
+
+
+
+
+
+
+
+
+AND WHEREAS it is proper, expedient and in the public interest that such nations, bodies or tribes of Indians be free to administer, regulate and manage their own communities, lands and resources and exercise the appropriate tools of governance over their lands and peoples;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+qu’au cours de l’histoire Sa Majesté a établi des rapports de droit avec certaines nations, tribus ou autres collectivités indiennes;
+
+
+
+
+
+
+
+
+que le Parlement du Canada a par la suite adopté des lois relatives aux Indiens et aux terres qui leur sont réservées;
+
+
+
+
+
+
+
+
+que ces lois ont assujetti les Indiens et leurs terres à un régime administratif lourd, coûteux et inefficace;
+
+
+
+
+
+
+
+
+qu’il importe, notamment dans l’intérêt public, que les collectivités indiennes soient libres d’administrer leurs populations et de gérer leurs terres et leurs ressources, en disposant à cet effet des moyens de gouvernement et de réglementation voulus,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+short title
+
+
+
+
+
+
+
+
+
+titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the First Nations Government Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur le gouvernement des premières nations.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+interpretation
+
+
+
+
+
+
+
+
+
+définitions et interprétation
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. (1) In this Act,
+
+
+
+
+“citizen”« citoyen »
+
+
+
+“citizen”, in relation to the First Nation, means a citizen of the First Nation and, with reference to a matter or circumstance prior in time to the day the First Nation came under this Act, includes a member of the community comprising the First Nation;
+
+
+
+
+“community”« collectivité »
+
+
+
+“community” means a body of indigenous people recognized as a band, tribe, nation or other body of indigenous people
+
+
+
+
+
+
+
+
+(a) by any treaty or agreement with the Crown,
+
+
+
+
+
+
+
+
+(b) under the Indian Act or by any other Act of Parliament, or
+
+
+
+
+
+
+
+
+(c) by any order of a court of competent jurisdiction;
+
+
+
+
+“constitution”« Constitution »
+
+
+
+“constitution” means the constitution of the First Nation;
+
+
+
+
+“First Nation”« première nation »
+
+
+
+“First Nation” means a community that has come under this Act and, in relation to matters or circumstances prior in time to the day the community came under this Act, includes that community as at that time;
+
+
+
+
+“lands of the First Nation”« terres d’une première nation »
+
+
+
+“lands of the First Nation” means
+
+
+
+
+
+
+
+
+(a) lands referred to in section 16 that pass to the First Nation under that section,
+
+
+
+
+
+
+
+
+(b) lands acquired or owned by the First Nation before or after it came under this Act that are declared by the Governor-in-Council to be its lands,
+
+
+
+
+
+
+
+
+(c) any lands acquired by the First Nation, before or after it came under this Act, pursuant to a successful claim asserted in connection with reserve lands or a negotiated settlement of any such claim, and
+
+
+
+
+
+
+
+
+(d) any lands acquired by the First Nation, before or after it came under this Act, as compensation for the expropriation of any land referred in paragraph (a),
+
+
+
+
+
+
+
+
+and for greater certainty, lands of the First Nation designated for administration by any body corporate and politic created under the laws of the First Nation do not cease to be lands of the First Nation merely by reason of that designation;
+
+
+
+
+“territorial link”« lien territorial »
+
+
+
+“territorial link” has the meaning given by subsection 14(2);
+
+
+
+
+“reserves”« réserves »
+
+
+
+“reserves”
+
+
+
+
+
+
+
+
+(a) means tracts of land vested in the Crown that had been set apart by the Crown for the use and benefit of Indians, and
+
+
+
+
+
+
+
+
+(b) includes surrendered lands and designated lands within the meaning of the Indian Act.
+
+
+
+
+
+
+
+
+
+2. (1) Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« citoyen » Citoyen d’une première nation ou, pour toute question ou situation antérieure à la date d’assujettissement de cette nation à la présente loi, membre, à l’époque, de la collectivité constituant ultérieurement la nation.
+
+
+
+« citoyen »“citizen”
+
+
+
+
+« collectivité » Groupe autochtone, notamment bande, tribu ou nation, reconnu comme tel :
+
+
+
+« collectivité »“community”
+
+
+
+
+a) soit par un traité ou accord conlu avec Sa Majesté;
+
+
+
+
+
+
+
+
+b) soit sous le régime de la Loi sur les Indiens ou par une autre loi fédérale;
+
+
+
+
+
+
+
+
+c) soit par ordonnance d’une juridiction compétente.
+
+
+
+
+
+
+
+
+« Constitution » La Constitution d’une première nation.
+
+
+
+« Constitution »“constitution”
+
+
+
+
+« lien territorial » S’entend au sens du paragraphe 14(2).
+
+
+
+« lien territorial »“territorial link”
+
+
+
+
+« première nation » Collectivité assujettie à la présente loi ou, pour toute question ou situation antérieure à la date de l’assujettissement, cette collectivité à l’époque.
+
+
+
+« première nation »“First Nation”
+
+
+
+
+« réserves »
+
+
+
+« réserves »“reserves”
+
+
+
+
+a) Terres du domaine public réservées par Sa Majesté à l’usage et au profit des Indiens;
+
+
+
+
+
+
+
+
+b) en outre, terres cédées ou désignées, au sens de la Loi sur les Indiens.
+
+
+
+
+
+
+
+
+« terres d’une première nation » Selon le cas :
+
+
+
+« terres d’une première nation »“lands of the First Nation”
+
+
+
+
+a) terres visées à l’article 16 qui lui sont transférées conformément à cet article;
+
+
+
+
+
+
+
+
+b) terres acquises ou détenues par elle, même avant la date de son assujettissement à la présente loi, et qui sont les siennes par déclaration du gouverneur en conseil;
+
+
+
+
+
+
+
+
+c) terres acquises par elle, même avant cette date, à la suite du règlement, négocié ou non, de revendications territoriales relatives à des réserves;
+
+
+
+
+
+
+
+
+d) terres acquises par elle, même avant cette date, à titre d’indemnité d’expropriation de terres visées à l’alinéa a).
+
+
+
+
+
+
+
+
+Il est entendu que l’assujettissement de terres d’une première nation à l’administration d’une personne morale ou d’un corps politique créé sous le régime des lois de la nation n’a pas pour effet de leur faire perdre leur statut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Construing Act
+
+
+
+(2) This Act shall be read in respect of each community that comes under this Act as a special Act applying to that community.
+
+
+
+
+
+
+
+
+
+(2) La présente loi s’applique à chaque collectivité qui y est assujettie comme un texte spécialement édicté pour celle-ci.
+
+
+
+Interprétation
+
+
+
+
+
+
+
+
+
+
+statement of purposes
+
+
+
+
+
+
+
+
+
+objet
+
+
+
+
+
+
+
+
+
+
+
+
+Purposes
+
+
+
+3. The purposes of this Act are to enable the communities of indigenous people inhabiting lands reserved for Indian communities to exercise the jurisdiction and powers inherent in their status and to enunciate the status, jurisdiction and powers of those communities.
+
+
+
+
+
+
+
+
+
+3. La présente loi a pour objet de permettre à la population autochtone des réserves indiennes d’exercer les attributions inhérentes à son statut et de préciser ce statut et ces attributions.
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+PART I
+
+
+
+
+
+
+
+
+
+PARTIE I
+
+
+
+
+
+
+
+
+
+
+
+
+SELF-GOVERNMENT
+
+
+
+
+
+
+
+
+
+AUTONOMIE GOUVERNEMENTALE
+
+
+
+
+
+
+
+
+
+
+
+
+Preliminaries
+
+
+
+
+
+
+
+
+
+Dispositions préliminaires
+
+
+
+
+
+
+
+
+
+
+
+
+Reference and approval
+
+
+
+4. (1) When a community proposes to come under this Act, the community must, by way of a referendum held in accordance with regulations under the Indian Act governing referendums, refer the proposal, together with a draft constitution, to the electors of the community for their approval.
+
+
+
+
+
+
+
+
+
+4. (1) La collectivité qui se propose d’être régie par la présente loi est tenue, par référendum organisé conformément aux règlements pris en la matière sous le régime de la Loi sur les Indiens, de soumettre à l’approbation de ses électeurs sa proposition ainsi qu’un projet de Constitution.
+
+
+
+Référendum et approbation
+
+
+
+
+
+
+
+
+
+
+Electors  of a community
+
+
+
+(2) For the purposes of the proposal, an elector of a community is a natural person who
+
+
+
+
+
+
+
+
+(a) at the time of the referendum referred to in subsection (1) was entitled to vote for or to select the governing body of the community, or
+
+
+
+
+
+
+
+
+(b) is recognized by a majority of those referred to in paragraph (a) as entitled to vote in that referendum.
+
+
+
+
+
+
+
+
+
+(2) À cette fin, sont électeurs de la collectivité les personnes physiques qui remplissent l’une des conditions suivantes :
+
+
+
+Électeurs de la collectivité
+
+
+
+
+a) lors du référendum, elles sont habilitées à élire ou à choisir l’organe exécutif de la collectivité;
+
+
+
+
+
+
+
+
+b) leur droit de vote au référendum est reconnu par la majorité des personnes visées à l’alinéa a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preliminary requirements
+
+
+
+(3) A proposal must contain at least the following information:
+
+
+
+
+
+
+
+
+(a) the identification of the community;
+
+
+
+
+
+
+
+
+(b) the name proposed for the community when it comes under this Act;
+
+
+
+
+
+
+
+
+(c) details of the reserves and other lands that constitute the territory of the community;
+
+
+
+
+
+
+
+
+(d) details of the treaties and agreements previously entered into between the Crown in any right and the community, or on its behalf;
+
+
+
+
+
+
+
+
+(e) a general description of the tribal patrimony and other resources available to the community and the manner, in general terms, by which it is anticipated the community will finance itself immediately and in the future;
+
+
+
+
+
+
+
+
+(f) the approximate number of electors qualified to vote on the proposal;
+
+
+
+
+
+
+
+
+(g) the name of the person who will be appointed electoral officer to conduct the referendum on the proposal, and the names of a reasonable number of persons to act as replacement electoral officers in case the person earlier so named is unable to conduct the referendum; and
+
+
+
+
+
+
+
+
+(h) the names of the electors who will be the governing body when the community comes under this Act.
+
+
+
+
+
+
+
+
+
+(3) La proposition doit au moins comporter les renseignements suivants :
+
+
+
+Éléments de la proposition
+
+
+
+
+a) l’identité de la collectivité;
+
+
+
+
+
+
+
+
+b) la dénomination envisagée pour la collectivité après son assujettissement à la présente loi;
+
+
+
+
+
+
+
+
+c) l’indication des réserves et autres terres constituant le territoire de la collectivité;
+
+
+
+
+
+
+
+
+d) l’indication des traités et accords antérieurement conclus entre Sa Majesté — de n’importe quel chef — et la collectivité ou pour le compte de celle-ci;
+
+
+
+
+
+
+
+
+e) une présentation générale du patrimoine tribal et des autres ressources à la disposition de la collectivité, ainsi que, en termes généraux, la manière dont il est prévu que celle-ci se financera dans l’immédiat et à l’avenir;
+
+
+
+
+
+
+
+
+f) le nombre approximatif d’électeurs habilités à voter sur la proposition;
+
+
+
+
+
+
+
+
+g) le nom de la personne chargée, en qualité de directeur du scrutin, d’organiser le référendum, ainsi que, en cas d’empêchement de celle-ci, le nom d’un nombre suffisant de suppléants;
+
+
+
+
+
+
+
+
+h) le nom des électeurs devant composer l’organe exécutif après l’assujettissement de la collectivité à la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accompanying constitution
+
+
+
+(4) The draft constitution accompanying the proposal may be a copy of the constitution set out in Schedule I or a modification of that constitution; but a modification of the constitution must, consistent with this Act, make provision for
+
+
+
+
+
+
+
+
+(a) a citizenship code that, having regard to section 40, includes the requirements for citizenship and the procedure for determining whether a person is a citizen;
+
+
+
+
+
+
+
+
+(b) a governing body and its composition, principal administrative officer, tenure of office, powers, duties and procedures;
+
+
+
+
+
+
+
+
+(c) how the laws of the First Nation are to be enacted and promulgated;
+
+
+
+
+
+
+
+
+(d) a system of reporting, through audits or otherwise, by which the governing body and its members are financially accountable to the citizens;
+
+
+
+
+
+
+
+
+(e) the amendment of the constitution by the citizens;
+
+
+
+
+
+
+
+
+(f) the rules and procedures relating to the selection of the members of the governing body, and the holding of referendums;
+
+
+
+
+
+
+
+
+(g) the procedures for calling annual general and other assemblies of the citizens and the matters to be placed before them for approval or deliberation;
+
+
+
+
+
+
+
+
+(h) the rules and procedures to be followed in respect of rights and interests in the lands that will be lands of the First Nation if the community comes under this Act; and
+
+
+
+
+
+
+
+
+(i) other matters provided for in Schedule I relating to government, citizens or lands.
+
+
+
+
+
+
+
+
+
+(4) Le projet de Constitution joint à la proposition peut reprendre le modèle de l’annexe I, tel quel ou adapté; toutefois, toute adaptation doit, conformément à la présente loi, prévoir ce qui suit :
+
+
+
+Constitution
+
+
+
+
+a) l’établissement, compte tenu de l’article 40, d’un code de la citoyenneté qui précise notamment les conditions de la citoyenneté et le mode de détermination de la qualité de citoyen;
+
+
+
+
+
+
+
+
+b) l’institution d’un organe exécutif, sa composition, la nomination de son premier dirigeant, son mandat, ses attributions et son mode de fonctionnement;
+
+
+
+
+
+
+
+
+c) le mode d’édiction et de publication des lois de la première nation;
+
+
+
+
+
+
+
+
+d) l’établissement d’un système de reddition des comptes, par voie de vérification ou autrement, qui garantisse la responsabilité financière de l’organe exécutif et de ses membres devant les citoyens;
+
+
+
+
+
+
+
+
+e) la modification de la Constitution par les citoyens;
+
+
+
+
+
+
+
+
+f) les règles et la procédure applicables au choix des membres de l’organe exécutif, ainsi qu’à la tenue des référendums;
+
+
+
+
+
+
+
+
+g) la procédure de convocation des assemblées générales annuelles et autres des citoyens et les questions à leur soumettre pour approbation ou délibération;
+
+
+
+
+
+
+
+
+h) les règles et la procédure à suivre touchant les droits sur les terres devant être celles de la première nation en cas d’assujettissement de la collectivité à la présente loi;
+
+
+
+
+
+
+
+
+i) toute autre question visée à l’annexe I concernant le gouvernement, les citoyens ou les terres.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Defects and omissions
+
+
+
+(5) A defect or omission that is not of a substantial nature in a matter preliminary to the holding of a referendum on a proposal does not invalidate the referendum or its outcome.
+
+
+
+
+
+
+
+
+
+(5) De simples vices de forme touchant une question préalable à la tenue d’un référendum sur une proposition n’a pas pour effet d’invalider celui-ci ou son résultat.
+
+
+
+Vices de forme
+
+
+
+
+
+
+
+
+
+
+Coming Under Act
+
+
+
+
+
+
+
+
+
+Assujettissement à la loi
+
+
+
+
+
+
+
+
+
+
+
+
+Effect of approval
+
+
+
+5. (1) When a proposal for a community to come under this Act and a draft constitution have been referred to the electors of the community and more than fifty per cent of all the electors approve the proposal and the draft constitution,
+
+
+
+
+
+
+
+
+(a) the community comes under this Act as a self-governing polity
+
+
+
+
+
+
+
+
+(i) on the day specified therefor in the proposal or ninety days after the referendum if the proposal contains no specified day,
+
+
+
+
+
+
+
+
+(ii) under the name approved by the referendum, and
+
+
+
+
+
+
+
+
+(iii) with the constitution approved by the referendum; and
+
+
+
+
+
+
+
+
+(b) the persons who are the governing body of the community on the date of the referendum shall forthwith cause a notice of the approval of the proposal to be published in the Canada Gazette.
+
+
+
+
+
+
+
+
+
+5. (1) Si, à l’issue du référendum, la proposition et le projet de Constitution sont approuvés à la majorité simple :
+
+
+
+Effet de l’approbation
+
+
+
+
+a) la collectivité est, en tant qu’entité politique dotée de l’autonomie gouvernementale ainsi que sous la dénomination et avec la Constitution ainsi approuvées, assujettie à la présente loi à la date fixée dans la proposition ou, a défaut, quatre-vingt-dix jours après le référendum;
+
+
+
+
+
+
+
+
+b) les membres de l’organe exécutif de la collectivité en place à la date du référendum font aussitôt publier un avis de l’approbation dans la Gazette du Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Nation
+
+
+
+(2) The community described in paragraph (1)(a) is hereinafter in this Act referred to as the First Nation.
+
+
+
+
+
+
+
+
+
+(2) La collectivité visée à l’alinéa (1)a) est ci-après désignée sous l’appellation de première nation.
+
+
+
+Première nation
+
+
+
+
+
+
+
+
+
+
+Capacity and powers
+
+
+
+6. The First Nation has perpetual succession and the capacity of a natural person and all powers, rights and privileges necessary for the performance of its functions or ancillary or incidental thereto.
+
+
+
+
+
+
+
+
+
+6. La première nation a succession perpétuelle, jouit de la capacité d’une personne physique et dispose de tous les pouvoirs, droits et privilèges nécessaires ou liés à l’exercice de ses attributions.
+
+
+
+Capacité et pouvoirs
+
+
+
+
+
+
+
+
+
+
+Transitional Provisions
+
+
+
+
+
+
+
+
+
+Dispositions transitoires
+
+
+
+
+
+
+
+
+
+
+
+
+Provisional governing body
+
+
+
+7. (1) The members of the governing body of the community who were in office pursuant to the Indian Act, or any other Act of Parliament, immediately before the community comes under this Act, are the governing body of the First Nation.
+
+
+
+
+
+
+
+
+
+7. (1) Les membres de l’organe exécutif de la collectivité en fonctions, sous le régime de la Loi sur les Indiens ou d’une autre loi fédérale, lors de l’assujettissement de la collectivité à la présente loi constituent l’organe exécutif de la première nation.
+
+
+
+Organe exécutif provisoire
+
+
+
+
+
+
+
+
+
+
+Presumed election
+
+
+
+(2) A member of the governing body referred to in subsection (1) is deemed to have been duly selected or elected, pursuant and subject to the constitution, as a member of the governing body of the First Nation for a five-year term commencing on the day on which the member last took office on that governing body.
+
+
+
+
+
+
+
+
+
+(2) Ces personnes sont réputées avoir été dûment choisies ou élues, en application de la Constitution, pour un mandat de cinq ans à compter de la date de leur plus récente entrée en fonctions dans l’organe exécutif.
+
+
+
+Présomption d’élection
+
+
+
+
+
+
+
+
+
+
+Officers and employees
+
+
+
+(3) The persons who were officers and employees of the community on the day immediately before the community comes under this Act are deemed to be the duly appointed officers and employees of the First Nation until confirmed or removed by the governing body thereof.
+
+
+
+
+
+
+
+
+
+(3) Les membres du personnel au service de la collectivité lors de l’assujettissement de celle-ci à la présente loi sont réputés avoir été dûment nommés dans les mêmes fonctions au service de la première nation, jusqu’à confirmation ou destitution par l’organe exécutif de celle-ci.
+
+
+
+Personnel
+
+
+
+
+
+
+
+
+
+
+Legislative Powers
+
+
+
+
+
+
+
+
+
+Pouvoir législatif
+
+
+
+
+
+
+
+
+
+
+
+
+Legislative powers
+
+
+
+8. (1) The First Nation is hereby recognized as having the power to make laws for the peace, order and good government of the First Nation and, in particular, without limiting the generality of the foregoing, may make laws respecting the subject-matters enumerated in Schedule II, subject to any restrictions on the law-making power in the constitution.
+
+
+
+
+
+
+
+
+
+8. (1) Est reconnu à la première nation le pouvoir de légiférer pour la paix et l’ordre sur son territoire ainsi que pour son bon gouvernement, notamment dans les domaines énumérés à l’annexe II, sous réserve des restrictions imposées à l’autorité législative par la Constitution.
+
+
+
+Compétence législative
+
+
+
+
+
+
+
+
+
+
+Manner of making laws
+
+
+
+(2) Unless otherwise provided for in the constitution, the laws of the First Nation shall be enacted by the principal administrative officer of the First Nation by and with the advice and consent of the governing body of the First Nation.
+
+
+
+
+
+
+
+
+
+(2) Sauf disposition contraire de la Constitution, le premier dirigeant de la première nation édicte les lois de celle-ci, sur l’avis et avec le consentement de l’organe exécutif de la nation.
+
+
+
+Édiction
+
+
+
+
+
+
+
+
+
+
+Statutory Instruments Act
+
+
+
+9. The Statutory Instruments Act does not apply to a law of the First Nation, to its constitution or to any rules and resolutions of the governing body of the First Nation .
+
+
+
+
+
+
+
+
+
+9. La Loi sur les textes réglementaires ne s’applique ni aux lois de la première nation, ni à sa Constitution, ni aux règles ou résolutions de son organe exécutif.
+
+
+
+Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+Territorial application
+
+
+
+10. A law of the First Nation applies only within the territory comprising the lands of the First Nation unless otherwise provided for in this Act or in a law of the First Nation made in relation to a subject-matter in items 13, 14, 15, 16, 17 or 33 of Schedule II.
+
+
+
+
+
+
+
+
+
+10. La portée des lois de la première nation se limite à son territoire, sauf disposition contraire de la présente loi ou d’une loi de la nation édictée dans un domaine visé aux points 13, 14, 15, 16, 17 ou 33 de l’annexe II.
+
+
+
+Portée territoriale
+
+
+
+
+
+
+
+
+
+
+Punishments
+
+
+
+11. (1) A maximum fine or maximum term of imprisonment imposed by or under any law of the First Nation may not exceed the maximum fine and maximum term of imprisonment generally applicable to offences punishable on summary conviction under the Criminal Code.
+
+
+
+
+
+
+
+
+
+11. (1) Les amendes maximales et les peines maximales d’emprisonnement infligées sous le régime d’une loi de la première nation ne peuvent être supérieures aux maximums généralement applicables aux infractions punissables sur déclaration de culpabilité par procédure sommaire aux termes du Code criminel.
+
+
+
+Peines
+
+
+
+
+
+
+
+
+
+
+Prohibition order
+
+
+
+(2) For the avoidance of doubt and without limiting the generality of subsection 8(1), when a law of the First Nation is contravened and a conviction entered, the court in which the conviction has been entered, and any court of competent jurisdiction there-after, may, in addition to any other remedy and to any penalty imposed by the law, make an order prohibiting the continuation or repetition of the offence by the person convicted, and such an order may be made at the instance of or without the involvement of the First Nation.
+
+
+
+
+
+
+
+
+
+(2) Il demeure entendu, sans préjudice de la portée générale du paragraphe 8(1), qu’en cas de déclaration de culpabilité pour infraction à une loi de la première nation, le tribunal qui a prononcé la déclaration, ainsi que, par la suite, tout tribunal compétent, peut, en sus de toute autre peine ou mesure imposée par la loi, rendre une ordonnance interdisant à la personne déclarée coupable de continuer de commettre l’infraction ou de récidiver. L’ordonnance peut être rendue à l’initiative de la nation ou sans son intervention.
+
+
+
+Ordonnances d’interdiction
+
+
+
+
+
+
+
+
+
+
+Ownership of fines, etc.
+
+
+
+12. Every fine, penalty, victim surcharge, tax or forfeiture and interest thereon imposed under a law of the First Nation or pursuant to this Act in respect of the First Nation belongs to the First Nation.
+
+
+
+
+
+
+
+
+
+12. Les amendes et autres peines pécuniaires, y compris les suramendes compensatoires, les taxes et les droits de déchéance, ainsi que les intérêts éventuels, infligées sous le régime d’une loi de la première nation ou d’une disposition de la présente loi concernant la nation appartiennent à celle-ci.
+
+
+
+Appartenance des amendes
+
+
+
+
+
+
+
+
+
+
+Prosecutions
+
+
+
+13. The First Nation has exclusive jurisdiction in relation to the laying of charges and the prosecution of persons who contravene its laws.
+
+
+
+
+
+
+
+
+
+13. La première nation a compétence exclusive pour l’inculpation et la poursuite des personnes qui contreviennent à ses lois.
+
+
+
+Poursuites
+
+
+
+
+
+
+
+
+
+
+Summary jurisdiction
+
+
+
+14. (1) Subject to any laws made pursuant to this Act, a court of summary jurisdiction in a province having a territorial link with the First Nation has jurisdiction with respect to the enforcement of the laws of the First Nation and with respect to matters arising from those laws.
+
+
+
+
+
+
+
+
+
+14. (1) Sous réserve des règles de droit édictées conformément à la présente loi, tout tribunal habilité à statuer en procédure sommaire dans une province ayant un lien territorial avec la première nation a compétence pour la répression des infractions aux lois de celle-ci ainsi que pour les questions découlant de ces lois.
+
+
+
+Compétence juridictionnelle
+
+
+
+
+
+
+
+
+
+
+Territorial link
+
+
+
+(2) A province has a territorial link with the First Nation if the lands or any portion of the lands of the First Nation are within the geographical boundaries of the province.
+
+
+
+
+
+
+
+
+
+(2) Une province a un lien territorial avec la première nation si tout ou partie des terres de cette dernière sont situées dans les limites provinciales.
+
+
+
+Lien territorial
+
+
+
+
+
+
+
+
+
+
+Provincial court
+
+
+
+15. Subject to any laws made pursuant to this Act, a court of competent jurisdiction in a province having a territorial link with the First Nation has jurisdiction with respect to this Act and the laws of the First Nation and with respect to matters arising from this Act or those laws.
+
+
+
+
+
+
+
+
+
+15. Sous la même réserve qu’à l’article 14, toute juridiction compétente d’une province ayant un lien territorial avec la première nation a compétence en ce qui concerne les lois de celle-ci ou la présente loi, ainsi que pour les questions découlant de cette ou ces lois.
+
+
+
+Juridiction provinciale
+
+
+
+
+
+
+
+
+
+
+PART II
+
+
+
+
+
+
+
+
+
+PARTIE II
+
+
+
+
+
+
+
+
+
+
+
+
+INDIAN LANDS AND MONEYS
+
+
+
+
+
+
+
+
+
+TERRES ET FONDS INDIENS
+
+
+
+
+
+
+
+
+
+
+
+
+Dominium passes
+
+
+
+16. The absolute ownership of its reserves and such other of its lands as are lands reserved for the Indians within the meaning of section 91(24) of the Constitution Act, 1867, passes to the First Nation on the day the First Nation comes under this Act, subject to the rights, interests and conditions referred to in section 17.
+
+
+
+
+
+
+
+
+
+16. La propriété absolue de ses réserves et de celles de ses autres terres qui sont réservées aux Indiens — au sens de l’article 91(24) de la Loi constitutionnelle de 1867 — est transférée à la première nation à la date de son assujettissement à la présente loi, sous réserve des droits et conditions visés à l’article 17.
+
+
+
+Transfert de propriété
+
+
+
+
+
+
+
+
+
+
+Saving of interests
+
+
+
+17. (1) The passing of absolute ownership of land to the First Nation under section 16 does not operate to affect any lawfully acquired rights, obligations or interests in those lands at the time the First Nation comes under this Act, except to replace references to the Crown by references to the First Nation.
+
+
+
+
+
+
+
+
+
+17. (1) Le transfert de propriété opéré par l’article 16 n’a pas pour effet de porter atteinte aux droits ou obligations légitimes existant, relativement aux terres en cause, lors de l’assujettissement de la première nation à la présente loi, sauf qu’en l’occurrence toute mention, directe ou indirecte, de Sa Majesté vaut dès lors mention de la nation.
+
+
+
+Maintien des droits acquis
+
+
+
+
+
+
+
+
+
+
+Presumption
+
+
+
+(2) All instruments evidencing existing rights or obligations referred to in subsection (1), hereinafter referred to as “existing rights”, shall be presumed to be instruments issued by the First Nation in respect of the existing rights until those instruments are replaced by instruments issued in respect of the existing rights by the First Nation to the holders of the existing rights.
+
+
+
+
+
+
+
+
+
+(2) Tous les actes constatant les droits ou obligations visés au paragraphe (1), ci-après appelés « droits existants », sont réputés être des actes émanant de la première nation relativement à ces droits tant qu’ils n’ont pas été remplacés par des actes délivrés à cet égard par la nation à leurs titulaires.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+Effect of new instrument
+
+
+
+(3) When an instrument is issued by the First Nation to a holder of existing rights pursuant to subsection (2), the instrument conveys the existing rights unchanged, unless changes in the terms and conditions of the existing rights are agreed upon by the holder thereof and the First Nation.
+
+
+
+
+
+
+
+
+
+(3) Un nouvel acte ainsi délivré transporte les droits existants tels quels, sauf accord entre leur titulaire et la première nation sur la modification des conditions qui s’y attachent.
+
+
+
+Effet d’un nouvel acte
+
+
+
+
+
+
+
+
+
+
+Saving
+
+
+
+(4) This section does not terminate any accrued rights of the Government of Canada or the First Nation including, without limiting the generality of the foregoing, any accrued rights in respect of operations conducted on lands of the First Nation before the First Nation came under this Act.
+
+
+
+
+
+
+
+
+
+(4) Le présent article n’emporte pas extinction des droits du gouvernement fédéral ou de la première nation nés des droits existants, notamment en ce qui concerne les opérations effectuées sur les terres de la nation avant son assujettissement à la présente loi.
+
+
+
+Réserve
+
+
+
+
+
+
+
+
+
+
+Audited accounting
+
+
+
+(5) Within a reasonable time after the First Nation comes under this Act, the First Nation shall request the Government of Canada to provide a full and complete audited accounting in respect of all transactions involving reserves, interests pertaining to reserves, or any other assets of the First Nation, excluding moneys, in order to facilitate the early and orderly discharge of the responsibilities of the Crown in respect of those transactions.
+
+
+
+
+
+
+
+
+
+(5) Dans un délai raisonnable suivant son assujettissement à la présente loi, la première nation demande au gouvernement fédéral de lui fournir une comptabilité complète et vérifiée pour toutes les opérations portant sur ses réserves, les intérêts correspondants ainsi que ses autres biens, fonds exclus, afin de faciliter l’exécution rapide et méthodique des obligations de Sa Majesté touchant ces opérations.
+
+
+
+Vérification comptable
+
+
+
+
+
+
+
+
+
+
+Rights limited
+
+
+
+18. No citizen has any right or power to claim any interest in or to dispose of, encumber, sever or require a transfer of any interest in the lands and assets of the First Nation, except to the extent that an interest in those lands or assets has been granted or transferred by the First Nation to the citizen pursuant to subsection 19(1).
+
+
+
+
+
+
+
+
+
+18. Nul citoyen ne peut revendiquer de droits sur des terres ou autres biens de la première nation, ni aliéner, grever d’une sûreté, diviser ces droits ou en exiger le transfert, si ce n’est dans la mesure où ils lui ont été conférés ou transférés par la nation conformément au paragrahe 19(1).
+
+
+
+Limitation des droits
+
+
+
+
+
+
+
+
+
+
+Use of power over lands of the First Nation
+
+
+
+19. (1) Although the First Nation has the full and exclusive power to dispose of and encumber any of its lands and any rights or interests therein and to permit persons to occupy, use or reside on those lands or otherwise exercise any rights in respect of those lands, the First Nation may not exercise any of those powers except in conformity with the constitution and laws of the First Nation.
+
+
+
+
+
+
+
+
+
+19. (1) La première nation ne peut exercer qu’en conformité avec sa Constitution et ses lois le pouvoir plein et exclusif qui lui est dévolu d’aliéner ou de grever d’une sûreté ses terres et les droits afférents, ainsi que d’autoriser l’occupation ou l’usage de ces terres, pour résidence ou tout autre exercice de droits sur celles-ci.
+
+
+
+Disposition des terres de la première nation
+
+
+
+
+
+
+
+
+
+
+Consent of governing body
+
+
+
+(2) No disposition by any person of any interest in lands of the First Nation by way of lease or transfer or otherwise, nor any licence in respect of those lands, is valid unless it is made with the express written consent of the governing body of the First Nation.
+
+
+
+
+
+
+
+
+
+(2) L’aliénation d’un droit afférent à des terres de la première nation, notamment par bail ou transfert, ou l’octroi d’une licence sur ces terres sont subordonnés au consentement exprès écrit de l’organe exécutif de la nation.
+
+
+
+Consentement de l’organe exécutif
+
+
+
+
+
+
+
+
+
+
+Protection against expropriation
+
+
+
+(3) Notwithstanding any other Act, no interest in lands of the First Nation or any portion thereof may be expropriated by the Crown or any person other than the First Nation without the consent of the First Nation.
+
+
+
+
+
+
+
+
+
+(3) Malgré toute autre loi, l’expropriation d’un droit afférent à tout ou partie des terres de la première nation par Sa Majesté ou par une personne étrangère à la nation est subordonnée au consentement de celle-ci.
+
+
+
+Protection contre l’expropriation
+
+
+
+
+
+
+
+
+
+
+Registration under First Nation law
+
+
+
+20. (1) The First Nation may by law authorize the registration of estates and interests in lands of the First Nation specified in the law and, for that purpose, may apply any laws of a province having a territorial link with the First Nation.
+
+
+
+
+
+
+
+
+
+20. (1) La première nation peut autoriser par une loi l’enregistrement de domaines situés sur ses terres ainsi que des droits afférents et, à cette fin, appliquer la législation de la province ayant un lien territorial avec elle.
+
+
+
+Enregistrement sous le régime d’une loi de la première nation
+
+
+
+
+
+
+
+
+
+
+Registration generally
+
+
+
+(2) All estates and interests in lands of the First Nation that are not subject to a law made pursuant to subsection (1) continue to be registrable in the Reserve Land Register maintained pursuant to section 21 of the Indian Act.
+
+
+
+
+
+
+
+
+
+(2) Les domaines situés sur les terres de la première nation, ainsi que les droits afférents, qui ne sont pas soumis à la loi visée au paragraphe (1) peuvent continuer à être inscrits dans le Registre des terres de réserve tenu en application de l’article 21 de la Loi sur les Indiens.
+
+
+
+Enregistrement : régime général
+
+
+
+
+
+
+
+
+
+
+Status of lands of the First Nation
+
+
+
+21. It is declared for greater certainty that lands of the First Nation are lands reserved for the Indians within the meaning of section 91(24) of the Constitution Act, 1867.
+
+
+
+
+
+
+
+
+
+21. Il demeure entendu que les terres de la première nation sont des terres réservées aux Indiens au sens de l’article 91(24) de la Loi constitutionnelle de 1867.
+
+
+
+Statut des terres de la première nation
+
+
+
+
+
+
+
+
+
+
+Community moneys
+
+
+
+22. (1) For the avoidance of doubt, it is declared that
+
+
+
+
+
+
+
+
+(a) the First Nation remains the beneficial owner of all moneys that, on the day the community constituting the First Nation comes under this Act, are held by the Crown for the use and benefit of that community; and
+
+
+
+
+
+
+
+
+(b) the First Nation continues to be the beneficial owner of all moneys that, after the day the community constituting the First Nation comes under this Act, are received by the Crown for the use and benefit of that community.
+
+
+
+
+
+
+
+
+
+22. (1) Il demeure absolument entendu que la première nation conserve la propriété effective de tous les fonds détenus, à la date d’assujetissement de la collectivité qui la constitue à la présente loi, ou reçus après cette date, par Sa Majesté à l’usage et au profit de la collectivité.
+
+
+
+Fonds de la collectivité
+
+
+
+
+
+
+
+
+
+
+Responsibility for moneys
+
+
+
+(2) The First Nation is not responsible for the moneys described in subsection (1), nor does the Crown cease to be responsible for those moneys, until the control of the moneys has, after a suitable accounting, been transferred to the First Nation.
+
+
+
+
+
+
+
+
+
+(2) La responsabilité des fonds visés au paragraphe (1) ne passe à la première nation, et Sa Majesté n’est déchargée de cette responsabilité, qu’à partir du transfert de leur maîtrise, après reddition de comptes conforme, à la première nation.
+
+
+
+Responsabilité des fonds
+
+
+
+
+
+
+
+
+
+
+How held
+
+
+
+(3) No citizen has, by reason only of citizenship in the First Nation, any claim to, or any power to dispose of, encumber, sever or require a transfer of any interest in, any of the moneys of the First Nation.
+
+
+
+
+
+
+
+
+
+(3) Nul citoyen ne peut, du seul fait de sa qualité, revendiquer de fonds de la première nation ni aliéner, grever d’une sûreté, diviser un droit afférent ou en exiger le transfert.
+
+
+
+Non-revendication
+
+
+
+
+
+
+
+
+
+
+Situs of money
+
+
+
+(4) All moneys beneficially owned by the First Nation and all accretions thereto are deemed always to be situated on lands of the First Nation.
+
+
+
+
+
+
+
+
+
+(4) Tous les fonds effectivement détenus par la première nation, ainsi que leurs accroissements, sont réputés toujours situés sur ses terres. 
+
+
+
+Localisation des fonds
+
+
+
+
+
+
+
+
+
+
+Audited accounting of moneys
+
+
+
+(5) For the purposes of this section, a “suitable accounting” means a full and complete accounting, by means of an audit conducted by an independent auditor in accordance with generally accepted auditing standards, of all moneys, including interest thereon, received, disbursed or held, or that should have been received, disbursed or held, for the use and benefit of the First Nation.
+
+
+
+
+
+
+
+
+
+(5) Pour l’application du présente article, est conforme la reddition de comptes fondée sur une comptabilité complète, établie par un vérificateur indépendant conformément aux normes généralement admises, de tous les fonds, y compris les intérêts, reçus, dépensés ou détenus à l’usage et au profit de la première nation, ou qui auraient dû l’être.
+
+
+
+Reddition de comptes conforme
+
+
+
+
+
+
+
+
+
+
+Property exempt from taxation
+
+
+
+23. (1) Section 87 of the Indian Act as it read on the commencement of this Act applies, subject to subsections (2) and (3) and with such modifications as the circumstances require, to the First Nation and its citizens as if the references in that section to a band or a reserve were a reference to the First Nation or lands of the First Nation.
+
+
+
+
+
+
+
+
+
+23. (1) L’article 87 de la Loi sur les Indiens, en son état à l’entrée en vigueur de la présente loi, s’applique, sous réserve des paragraphes (2) et (3) et avec les adaptations nécessaires, à la première nation et aux citoyens, les mentions, d’une bande ou d’une réserve y valant mention de la nation ou de ses terres.
+
+
+
+Exemption d’impôts
+
+
+
+
+
+
+
+
+
+
+References in Act
+
+
+
+(2) For the purpose of subsection (1), the reference in section 87 of the Indian Act to section 83 of that Act is a reference to this Act and the laws of the First Nation.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), la mention, à l’article 87 de la Loi sur les Indiens, de l’article 83 de cette loi vaut mention de la présente loi et des lois de la première nation.
+
+
+
+Mention dans la loi
+
+
+
+
+
+
+
+
+
+
+Application to First Nation corporation
+
+
+
+(3) Section 87 of the Indian Act applies in respect of an Indian corporation as though it were a citizen. 
+
+
+
+
+
+
+
+
+
+(3) L’article 87 de la Loi sur les Indiens s’applique aux sociétés indiennes comme s’il s’agissait de citoyens.
+
+
+
+Application aux sociétés indiennes
+
+
+
+
+
+
+
+
+
+
+Definition of Indian corporation
+
+
+
+(4) An Indian corporation is a corporation incorporated under a law of Canada or a province, or under a law of the First Nation, that carries on business exclusively on lands of the First Nation or on any reserve, or on both, and of which each shareholder is either
+
+
+
+
+
+
+
+
+(a) the First Nation, a citizen, or another community or a member of another community, or any combination thereof or a body corporate that is controlled by, or the shares of which are beneficially or legally owned by, any of the foregoing, or any combination thereof; or
+
+
+
+
+
+
+
+
+(b) a person who holds all the shares of the corporation for the benefit of the First Nation, a citizen, or another community or a member of another community, or any combination thereof.
+
+
+
+
+
+
+
+
+
+(4) Une société indienne est une personne morale constituée sous le régime d’une loi fédérale ou provinciale, ou d’une loi de la première nation, qui exerce exclusivement ses activités sur les terres de celle-ci ou dans une réserve, ou aux deux endroits, et dont chacun des actionnaires est :
+
+
+
+Définition de « société indienne »
+
+
+
+
+a) soit la nation ou un de ses citoyens, une autre collectivité ou un de ses membres, un groupe formé par eux, ou encore une personne morale qui est contrôlée ou dont les actions sont détenues, effectivement ou légalement, par l’une de ces personnes ou un groupe formé par elles;
+
+
+
+
+
+
+
+
+b) soit une personne qui en détient toutes les actions au profit de l’une des personnes visées à l’alinéa a) ou d’un groupe formé par elles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exemption from legal process
+
+
+
+24. Subject to this Act, and to the constitution and laws of the First Nation and to any agreement to the contrary in respect of personal property to which the governing body of the First Nation has given its written consent,
+
+
+
+
+
+
+
+
+(a) no interest in lands of the First Nation and no personal property situated on those lands and belonging to the First Nation, to a citizen, another community, an Indian within the meaning of the Indian Act, or an Indian corporation as defined in subsection 23(4), and
+
+
+
+
+
+
+
+
+(b) no interest in reserve lands and no personal property situated on a reserve and belonging to the First Nation, a citizen, or an Indian corporation as defined in subsection 23(4),
+
+
+
+
+
+
+
+
+may be mortgaged or otherwise encumbered as security, nor is it subject to any mode of civil execution, except in favour of the First Nation, a citizen, another community, an Indian within the meaning of the Indian Act, or an Indian corporation as defined in subsection 23(4).
+
+
+
+
+
+
+
+
+
+24. Sous réserve des autres dispositions de la présente loi, de la Constitution, des lois de la première nation ainsi que de tout accord contraire relatif à des biens meubles auquel l’organe exécutif a donné son consentement par écrit, ne peuvent être hypothéqués ou grevés d’une sûreté, ni ne sont susceptibles d’aucun mode d’exécution civil, sauf en faveur de la nation, d’un citoyen, d’une autre collectivité, d’un Indien au sens de la Loi sur les Indiens ou d’une société indienne au sens du paragraphe 23(4) :
+
+
+
+Exemption des poursuites judiciaires
+
+
+
+
+a) un droit sur des terres de la nation ou un bien meuble situé sur ces terres et appartenant à elle, à un citoyen, à une autre collectivité, à un Indien au sens de la Loi sur les Indiens ou à une société indienne au sens du paragraphe 23(4);
+
+
+
+
+
+
+
+
+b) un droit sur des terres de réserve ou un bien meuble situé dans une réserve et appartenant à la nation, à un citoyen ou à une société indienne au sens du paragraphe 23(4).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conditional sales
+
+
+
+25. A person who sells anything to the First Nation, a citizen, another community, an Indian within the meaning of the Indian Act, or an Indian corporation as defined in subsection 23(4), under an agreement whereby a right of property or right of possession to the thing remains wholly or in part in the seller, may exercise the seller’s rights under the agreement notwithstanding that the thing is situated on land referred to in section 24.
+
+
+
+
+
+
+
+
+
+25. La personne qui vend une chose à la première nation, à un citoyen, à une autre collectivité, à un Indien au sens de la Loi sur les Indiens ou à une société indienne au sens du paragraphe 23(4), aux termes d’un accord prévoyant que le vendeur conserve en totalité ou en partie le droit de propriété sur la chose ou le droit à la possession de celle-ci, peut exercer les droits que lui confère l’accord quoique la chose soit située sur des terres visées à l’article 24.
+
+
+
+Ventes conditionnelles
+
+
+
+
+
+
+
+
+
+
+Situs of moneys
+
+
+
+26. For the purposes of sections 22 to 25, personal property that was
+
+
+
+
+
+
+
+
+(a) purchased
+
+
+
+
+
+
+
+
+(i) by the Crown in right of Canada with First Nation moneys or with moneys appropriated by Parliament, or
+
+
+
+
+
+
+
+
+(ii) by the First Nation with its moneys or with moneys appropriated by Parliament
+
+
+
+
+
+
+
+
+for the use and benefit of the First Nation or its citizens, or
+
+
+
+
+
+
+
+
+(b) given to citizens or to the First Nation under a treaty or agreement between the First Nation and the Crown, or in satisfaction of a claim,
+
+
+
+
+
+
+
+
+is deemed always to be situated on lands of the First Nation.
+
+
+
+
+
+
+
+
+
+26. Pour l’application des articles 22 à 25, sont réputés toujours situés sur des terres de la première nation les biens meubles qui ont été :
+
+
+
+Localisation des fonds
+
+
+
+
+a) soit achetés, pour l’usage et au profit de la nation ou de citoyens, par elle ou par Sa Majesté du chef du Canada, avec des fonds fournis par la nation ou affectés par le Parlement;
+
+
+
+
+
+
+
+
+b) soit donnés à des citoyens ou à la nation aux termes d’un traité ou d’un accord conclu entre elle et Sa Majesté ou en règlement d’une revendication.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Void transactions
+
+
+
+27. Every transaction purporting to pass title to any property that is deemed to be situated on lands of the First Nation, or any interest in such property, is void unless the transaction is entered into with the consent of the First Nation or is entered into between citizens, an Indian corporation as defined in subsection 23(4), or any combination of those parties.
+
+
+
+
+
+
+
+
+
+27. Un acte censé transmettre le titre d’un bien réputé situé sur des terres de la première nation, ou un droit sur un tel bien, est nul s’il n’est pas passé avec le consentement de la nation ou entre des citoyens, une société indienne au sens du paragraphe 23(4) ou un groupe de ces parties.
+
+
+
+Nullité
+
+
+
+
+
+
+
+
+
+
+PART III
+
+
+
+
+
+
+
+
+
+PARTIE III
+
+
+
+
+
+
+
+
+
+
+
+
+ORGANIZATIONAL OPTIONS
+
+
+
+
+
+
+
+
+
+CHOIX ORGANISATIONNELS
+
+
+
+
+
+
+
+
+
+
+
+
+Division or amalgamation
+
+
+
+28. (1) The First Nation may authorize the division of the First Nation or its amalgamation with any other community of Indians that has come under this Act.
+
+
+
+
+
+
+
+
+
+28. (1) La première nation peut autoriser sa scission ou sa fusion avec une autre collectivité assujettie à la présente loi.
+
+
+
+Scission ou fusion
+
+
+
+
+
+
+
+
+
+
+Approval of electors
+
+
+
+(2) A division of the First Nation or the amalgamation of the First Nation may be effected only with the approval of the electors of the First Nation, as the electors are defined by the constitution of the First Nation, in a referendum in which at least eighty per cent of all the electors entitled to do so vote in favour of the division or amalgamation.
+
+
+
+
+
+
+
+
+
+(2) La scission ou la fusion est subordonnée à l’approbation, donnée par voie de référendum, d’au moins quatre-vingts pour cent des électeurs — au sens de la Constitution de la première nation — ayant le droit d’y voter.
+
+
+
+Approbation des électeurs
+
+
+
+
+
+
+
+
+
+
+Confederation plan
+
+
+
+29. (1) The First Nation may be party to a plan, in this section called a “confederation plan”, to establish a body politic to become the recipient of delegated administrative and legislative powers from communities that have come under this Act and are parties to the confederation plan.
+
+
+
+
+
+
+
+
+
+29. (1) La première nation peut être partie à un accord confédéral visant à instituer une entité politique dépositaire de pouvoirs exécutif et législatif délégués par les collectivités adhérentes assujetties à la présente loi.
+
+
+
+Confédération de premières nations
+
+
+
+
+
+
+
+
+
+
+When effective
+
+
+
+(2) A confederation plan becomes effective when the governing bodies of the parties thereto have obtained an amendment to their respective constitutions to effect the plan.
+
+
+
+
+
+
+
+
+
+(2) L’accord prend effet quand les organes exécutifs des parties ont obtenu à cet effet une modification de leur Constitution.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+
+
+
+Nature of body politic
+
+
+
+(3) The body politic established pursuant to subsection (1) has the capacity and powers of a natural person.
+
+
+
+
+
+
+
+
+
+(3) L’entité politique visée au paragraphe (1) a la capacité et les pouvoirs d’une personne physique.
+
+
+
+Capacité
+
+
+
+
+
+
+
+
+
+
+Duration of plan
+
+
+
+(4) During the term of a confederation plan, the First Nation may not exercise any of the powers delegated by it for the purposes of the plan except as provided for in its constitution as amended for the purposes of the plan.
+
+
+
+
+
+
+
+
+
+(4) Pendant la durée de validité de l’accord, la première nation ne peut exercer les pouvoirs qu’elle a délégués que conformément à la modification visée au paragraphe (2).
+
+
+
+Durée
+
+
+
+
+
+
+
+
+
+
+PART IV
+
+
+
+
+
+
+
+
+
+PARTIE IV
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATION
+
+
+
+
+
+
+
+
+
+MISE EN ŒUVRE
+
+
+
+
+
+
+
+
+
+
+
+
+Construing Act
+
+
+
+30. (1) For greater certainty,
+
+
+
+
+
+
+
+
+(a) nothing in this Act abrogates or derogates from any existing legal rights or any existing aboriginal or treaty rights of the First Nation, its citizens or any other aboriginal peoples of Canada;
+
+
+
+
+
+
+
+
+(b) nothing in this Act abrogates or derogates from any existing or future claim of the First Nation; and
+
+
+
+
+
+
+
+
+(c) nothing in this Act nor any action taken thereunder is a waiver of either
+
+
+
+
+
+
+
+
+(i) the status of citizens as Indians within the meaning of section 91(24) of the Constitution Act, 1867, or
+
+
+
+
+
+
+
+
+(ii) any existing aboriginal or treaty rights of any Band of Indians or its members.
+
+
+
+
+
+
+
+
+
+30. (1) Il demeure entendu que la présente loi n’a pas pour effet :
+
+
+
+Disposition interprétative
+
+
+
+
+a) de porter atteinte aux droits existants — généraux, ancestraux ou issus de traités — de la première nation, de ses citoyens ou d’autres peuples autochtones du Canada;
+
+
+
+
+
+
+
+
+b) de porter atteinte aux revendications existantes ou futures de la nation;
+
+
+
+
+
+
+
+
+c) non plus que les mesures prises sous son régime, d’emporter renonciation :
+
+
+
+
+
+
+
+
+(i) au statut d’Indiens, au sens de l’article 91(24) de la Loi constitutionnelle de 1867, des citoyens,
+
+
+
+
+
+
+
+
+(ii) aux droits existants — ancestraux ou issus de traités — d’une bande indienne ou de ses membres.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Binding on Crown
+
+
+
+(2) This Act binds the Crown in right of Canada or a province.
+
+
+
+
+
+
+
+
+
+(2) La présente loi lie Sa Majesté du chef du Canada ou d’une province.
+
+
+
+Obligation de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+Remedial in nature
+
+
+
+(3) This Act is declared remedial for the purposes of section 12 of the Interpretation Act.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application de l’article 12 de la Loi d’interprétation, il est déclaré que la présente loi constitue une solution de droit.
+
+
+
+Solution de droit
+
+
+
+
+
+
+
+
+
+
+Canadian Human Rights Act
+
+
+
+(4) The Canadian Human Rights Act does not apply in respect of anything done under this Act.
+
+
+
+
+
+
+
+
+
+(4) La Loi canadienne sur les droits de la personne ne s’applique pas aux actes accomplis sous le régime de la présente loi.
+
+
+
+Loi canadienne sur les droits de la personne
+
+
+
+
+
+
+
+
+
+
+No liability as member of governing body
+
+
+
+31. (1) No individual is personally liable for any debt, obligation or act of the First Nation by reason only of being a member of its governing body unless the debt, obligation or act is in contravention of this Act, the constitution or a law of the First Nation and the individual knowingly consents to, authorizes or engages in the contravention.
+
+
+
+
+
+
+
+
+
+31. (1) Les membres de l’organe exécutif ne sont pas, du seul fait de leurs fonctions, personnellement responsables des dettes, obligations ou actes de la première nation, sauf s’il y a eu à cet égard infraction à la présente loi ou à la Constitution ou à une loi de la nation et si, sciemment, ils ont consenti à l’infraction, l’ont autorisée ou y ont pris part.
+
+
+
+Irresponsabilité : membres de l’organe exécutif
+
+
+
+
+
+
+
+
+
+
+No liability as citizen
+
+
+
+(2) No individual is personally liable for any debt, obligation or act of the First Nation by reason only of being a citizen.
+
+
+
+
+
+
+
+
+
+(2) Les citoyens de la première nation ne sont pas, du seul fait de leur qualité, personnellement responsables des dettes, obligations ou actes de la nation.
+
+
+
+Irresponsabilité : citoyens
+
+
+
+
+
+
+
+
+
+
+Indian Act and regulations
+
+
+
+32. (1) Except as otherwise provided in this Act, the provisions of the Indian Act or any other Act specifically applicable to Indians or any band, tribe or nation of Indians, and the regulations made thereunder, do not apply to the First Nation, its citizens, lands, moneys or assets.
+
+
+
+
+
+
+
+
+
+32. (1) Sauf disposition contraire de la présente loi, ni les dispositions de la Loi sur les Indiens ou de toute autre loi spécifiquement applicables aux Indiens ou à une bande, tribu ou nation indienne, ni les règlements pris sous leur régime, ne s’appliquent à la première nation, à ses citoyens, à ses terres, à ses fonds ou à ses biens.
+
+
+
+Loi sur les Indiens et ses règlements
+
+
+
+
+
+
+
+
+
+
+Idem
+
+
+
+(2) In the absence of any applicable provisions in the constitution of the First Nation or any law thereof, the Indian Band Election Regulations, the Indian Referendum Regulations, or the Indian Band Council Procedure Regulations, as the case may be, made under the Indian Act and as they read on the day the First Nation comes under this Act apply to the First Nation with such modifications as the circumstances require.
+
+
+
+
+
+
+
+
+
+(2) À défaut de dispositions applicables de la Constitution ou d’une loi de la première nation, le Règlement sur les élections au sein des bandes d’Indiens, le Règlement sur les référendums des Indiens ou le Règlement sur le mode de procédure au conseil des bandes d’Indiens, selon le cas, pris sous le régime de la Loi sur les Indiens, en leur état à la date d’assujettissement à la présente loi de la nation, s’appliquent à celle-ci, avec les adaptations nécessaires.
+
+
+
+Idem
+
+
+
+
+
+
+
+
+
+
+Sections 114 to 122 of the Indian Act
+
+
+
+(3) In the absence of a law of the First Nation, section 114, paragraphs 115(a), (b) and (c) and sections 116 to 122 of the Indian Act apply to the First Nation as if the references in those sections to the Minister, a band or a reserve were, respectively, references to the governing body of the First Nation, the First Nation or lands of the First Nation, and with such other modifications as the circumstances require.
+
+
+
+
+
+
+
+
+
+(3) À défaut de loi de la première nation, l’article 114, les alinéas 115a), b) et c), ainsi que les articles 116 à 112, de la Loi sur les Indiens s’appliquent à la nation, avec les adaptations nécessaires, comme si les mentions du ministre, d’une bande ou d’une réserve y valaient respectivement mention de l’organe exécutif de la nation, de celle-ci ou de ses terres.
+
+
+
+Articles 114 à 122 de la Loi sur les Indiens
+
+
+
+
+
+
+
+
+
+
+Sections 42 to 50 of the Indian Act
+
+
+
+(4) Sections 42 to 50 of the Indian Act apply, with such modifications as the circumstances require, to the First Nation and its citizens in the absence of any law of the First Nation in relation to the matters provided for in those sections.
+
+
+
+
+
+
+
+
+
+(4) À défaut de loi de la première nation en la matière, les articles 42 à 50 de la Loi sur les Indiens s’appliquent, avec les adaptations nécessaires, à la nation et aux citoyens.
+
+
+
+Articles 42 à 50 de la Loi sur les Indiens
+
+
+
+
+
+
+
+
+
+
+Section 51 of the Indian Act
+
+
+
+(5) Section 51 of the Indian Act applies in respect of the property of dependent adult citizens until the provisions of that section are replaced by laws of the First Nation that are no less favourable in respect of the adult dependent citizen than the provisions of the Indian Act.
+
+
+
+
+
+
+
+
+
+(5) Les dispositions de l’article 51 de la Loi sur les Indiens s’appliquent aux biens des citoyens qui sont des adultes à charge tant qu’elles n’ont pas été remplacées par des règles de droit de la première nation au moins aussi favorables à cette catégorie d’adultes.
+
+
+
+Article 51 de la Loi sur les Indiens
+
+
+
+
+
+
+
+
+
+
+Sections 52 & 52.2 to 52.5 of the Indian Act
+
+
+
+(6) Sections 52 and 52.2 to 52.5 of the Indian Act apply in respect of the property of minor children of citizens until those provisions are replaced by laws of the First Nation that are no less favourable in respect of the minor children than those provisions of the Indian Act.
+
+
+
+
+
+
+
+
+
+(6) Les dispositions des articles 52 et 52.2 à 52.5 de la Loi sur les Indiens s’appliquent aux biens des enfants mineurs de citoyens tant qu’elles n’ont pas été remplacées par des règles de droit de la première nation au moins aussi favorables à ces enfants.
+
+
+
+Articles 52 et 52.2 à 52.5 de la Loi sur les Indiens
+
+
+
+
+
+
+
+
+
+
+Section 87 of the Indian Act
+
+
+
+(7) Section 87 of the Indian Act applies to the First Nation, its citizens, and in respect of the properties of the First Nation and its citizens.
+
+
+
+
+
+
+
+
+
+(7) Les dispositions de l’article 87 de la Loi sur les Indiens s’appliquent à la première nation et aux citoyens ainsi qu’aux biens de l’une et des autres.
+
+
+
+Article 87 de la Loi sur les Indiens
+
+
+
+
+
+
+
+
+
+
+Sections 5 to 7 of the Indian Act
+
+
+
+(8) Sections 5 to 7 of the Indian Act apply in respect of the registration of citizens as Indians and the determination of which citizens are entitled to be so registered.
+
+
+
+
+
+
+
+
+
+(8) Les dispositions des articles 5 à 7 de la Loi sur les Indiens s’appliquent à l’inscription des citoyens en qualité d’Indiens et à la détermination du droit des citoyens à cette inscription.
+
+
+
+Articles 5 à 7 de la Loi sur les Indiens
+
+
+
+
+
+
+
+
+
+
+Incorporating statutory provisions
+
+
+
+33. (1) The First Nation may incorporate in its laws any provision of the Indian Act or any other Act of Parliament that is
+
+
+
+
+
+
+
+
+(a) specifically applicable to Indians or the lands reserved for the Indians, and
+
+
+
+
+
+
+
+
+(b) not within the legislative power of the First Nation.
+
+
+
+
+
+
+
+
+
+33. (1) La première nation peut incorporer dans ses lois toute disposition de la Loi sur les Indiens, ou d’une autre loi fédérale, qui est spécifiquement applicable aux Indiens ou aux terres à eux réservées et qui ne relève pas de sa compétence législative.
+
+
+
+Incorporation de dispositions législatives
+
+
+
+
+
+
+
+
+
+
+Expression
+
+
+
+(2) A law of the First Nation that incorporates a provision of an Act referred in subsection (1) may modify the provision to the extent necessary to express the law in language compatible with the laws of the First Nation but without changing the substance of the provision.
+
+
+
+
+
+
+
+
+
+(2) Pourvu qu’elle n’en modifie pas le fond, la première nation peut adapter la disposition ainsi incorporée de façon à en harmoniser la formulation avec ses propres lois.
+
+
+
+Adaptation de forme
+
+
+
+
+
+
+
+
+
+
+Effect of law
+
+
+
+(3) When the provision of an Act referred to in subsection (1) is incorporated into a law of the First Nation, the law has the like effect as though it were expressly embodied in this Act.
+
+
+
+
+
+
+
+
+
+(3) La règle de droit de la première nation qui comporte la disposition incorporée a le même effet que si elle était expressément intégrée dans la présente loi.
+
+
+
+Effet
+
+
+
+
+
+
+
+
+
+
+Amendment and repeal
+
+
+
+(4) After its making, a law described in subsection (1)
+
+
+
+
+
+
+
+
+(a) may be repealed at any time by the First Nation, but
+
+
+
+
+
+
+
+
+(b) may be amended only to reflect any changes made by Parliament in the provision of the Act that was incorporated in the law,
+
+
+
+
+
+
+
+
+and subsections (2) and (3) apply to any amendment of that law.
+
+
+
+
+
+
+
+
+
+(4) Cette règle de droit une fois édictée, la première nation peut l’abroger à tout moment, mais elle ne peut la modifier que pour y faire passer les changements apportés par le Parlement à la disposition incorporée.  Le cas échéant, les paragraphes (2) et (3) s’appliquent à la règle de droit ainsi modifiée.
+
+
+
+Modification et abrogation
+
+
+
+
+
+
+
+
+
+
+Laws of Canada of general application
+
+
+
+34. (1) Except to the extent that it is inconsistent with a provision of this Act, a law of the Parliament of Canada of general application applies to the First Nation, its citizens and its lands, subject to the terms of any treaty or land claims agreement.
+
+
+
+
+
+
+
+
+
+34. (1) Sauf incompatibilité avec la présente loi, les lois fédérales d’application générale s’appliquent à la première nation, à ses citoyens et à ses terres, sous réserve des traités ou des accords sur les revendications territoriales.
+
+
+
+Lois fédérales d’application générale
+
+
+
+
+
+
+
+
+
+
+Idem
+
+
+
+(2) Subject to the terms of any treaty or land claims agreement, a law of the Parliament of Canada of general application that relates to a subject-matter enumerated in section 91 of the Constitution Act, 1867, does not apply to the First Nation, its citizens or its lands to the extent that the law is inconsistent with the constitution of the First Nation or a law of the First Nation unless that law of general application
+
+
+
+
+
+
+
+
+(a) would apply in like circumstances within a province with which the First Nation has a territorial link,
+
+
+
+
+
+
+
+
+(b) deals with a distinct subject-matter that, by its inherent nature, is of concern to Canada as a whole and is beyond local or provincial control, or
+
+
+
+
+
+
+
+
+(c) is a temporary and extraordinary law passed to deal with an emergency.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve des traités ou des accords sur les revendications territoriales, une loi fédérale d’application générale portant sur un domaine mentionné à l’article 91 de la Loi constitutionnelle de 1867 ne s’applique pas à la première nation, à ses citoyens et à ses terres en cas d’incompatibilité avec la Constitution ou une loi de celle-ci, sauf si l’une des conditions suivantes est remplie :
+
+
+
+Idem
+
+
+
+
+a) elle s’appliquerait dans des circonstances comparables à la province avec laquelle la nation à un lien territorial;
+
+
+
+
+
+
+
+
+b) elle traite d’un domaine distinct qui, de par sa nature propre, intéresse le Canada dans son ensemble et excède les pouvoirs locaux ou provinciaux;
+
+
+
+
+
+
+
+
+c) il s’agit d’une loi temporaire et extraordinaire destinée à faire face à une situation d’urgence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Idem
+
+
+
+(3) Subject to the terms of any treaty or land claims agreement, a law of the Parliament of Canada of general application that relates to a subject-matter enumerated in section 92 of the Constitution Act, 1867, does not apply to the First Nation, its citizens, or its lands to the extent that the law is inconsistent with the constitution of the First Nation or a law of the First Nation unless that law of general application
+
+
+
+
+
+
+
+
+(a) deals with a distinct subject-matter that, by its inherent nature, is of concern to Canada as a whole and is beyond local or provincial control, or
+
+
+
+
+
+
+
+
+(b) is a temporary and extraordinary law dealing with an emergency,
+
+
+
+
+
+
+
+
+and it is not a law coming within any of the classes of subjects enumerated in section 91 of the Constitution Act, 1867.
+
+
+
+
+
+
+
+
+
+(3) Sous réserve des traités ou des accords sur les revendications territoriales, une loi fédérale d’application générale portant sur un domaine mentionné à l’article 92 de la Loi constitutionnelle de 1867 ne s’applique pas à la première nation, à ses citoyens et à ses terres en cas d’incompatibilité avec la Constitution ou une loi de celle-ci, sauf si :
+
+
+
+Idem
+
+
+
+
+a) d’une part, l’une des conditions suivantes est remplie :
+
+
+
+
+
+
+
+
+(i) elle traite d’un domaine distinct qui, de par sa nature propre, intéresse le Canada dans son ensemble et excède les pouvoirs locaux ou provinciaux,
+
+
+
+
+
+
+
+
+(ii) il s’agit d’une loi temporaire et extraordinaire destinée à faire face à une situation d’urgence;
+
+
+
+
+
+
+
+
+b) d’autre part, elle ne relève d’aucun des domaines mentionnés à l’article 91 de la Loi constitutionnelle de 1867.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Provincial laws of general application
+
+
+
+(4) A law of general application of a province having a territorial link with the First Nation applies to citizens of the First Nation on lands of the First Nation within the territorial area of that province to the extent only that any such law is not inconsistent with a term of a treaty with the First Nation or with this or any other Act of Parliament, or with the constitution or a law of the First Nation or any applicable land claims agreement.
+
+
+
+
+
+
+
+
+
+(4) Les lois d’application générale d’une province ayant un lien territorial avec la première nation ne s’appliquent aux citoyens sur les terres de celle-ci situées dans la province que si elles ne sont incompatibles ni avec un traité conclu par la nation, ni avec la présente loi ou une autre loi fédérale, ni avec la Constitution ou une loi de la nation, ni avec un accord, applicable en l’occurrence, sur les revendications territoriales.
+
+
+
+Lois provinciales d’application générale
+
+
+
+
+
+
+
+
+
+
+Saving by-laws
+
+
+
+35. Except to the extent of any inconsistency with this Act, any law of the First Nation or any provision of its constitution, a by-law of the First Nation that is in force immediately before the First Nation comes under this Act continues in force as a law of the First Nation until replaced by a law enacted pursuant to this Act.
+
+
+
+
+
+
+
+
+
+35. Sauf incompatibilité avec la présente loi, une loi de la première nation ou sa Constitution, tout règlement administratif de la nation en vigueur lors de l’assujettissement de celle-ci à la présente loi reste valide jusqu’à remplacement par une règle de droit adoptée conformément à la présente loi.
+
+
+
+Maintien des règlements administratifs
+
+
+
+
+
+
+
+
+
+
+Indian Oil and Gas Act
+
+
+
+36. Unless a law of the First Nation otherwise provides, the Indian Oil and Gas Act and regulations made thereunder apply to the First Nation, the lands of the First Nation, its governing body, its citizens, its agents, whether incorporated or not, and to an Indian corporation wholly owned by the First Nation.
+
+
+
+
+
+
+
+
+
+36. Sauf disposition contraire d’une loi de la première nation, la Loi sur le pétrole et le gaz des terres indiennes et ses règlements s’appliquent à celle-ci, à ses terres, à son organe exécutif, à ses citoyens, à ses mandataires, dotés ou non de la personnalité morale, ou aux sociétés indiennes détenues par elle à cent pour cent.
+
+
+
+Loi sur le pétrole et le gaz des terres indiennes
+
+
+
+
+
+
+
+
+
+
+Canada Lands Survey Act
+
+
+
+37. Unless a law of the First Nation otherwise provides, the Canada Lands Survey Act and regulations made thereunder apply to lands of the First Nation.
+
+
+
+
+
+
+
+
+
+37. Sauf disposition contraire d’une loi de la première nation, la Loi sur l’arpentage des terres du Canada et ses règlements s’appliquent aux terres de celle-ci.
+
+
+
+Loi sur l’arpentage des terres du Canada
+
+
+
+
+
+
+
+
+
+
+Environment
+
+
+
+38. (1) The environmental standards established by or under any Act of Parliament apply in respect of the lands of the First Nation, until the First Nation enacts its own environmental laws, subject to subsection (2).
+
+
+
+
+
+
+
+
+
+38. (1) Les normes environnementales établies par une loi fédérale ou sous son régime s’appliquent aux terres de la première nation jusqu’à édiction par elle, dans les conditions prévues au paragraphe (2), de ses propres lois en la matière.
+
+
+
+Environnement
+
+
+
+
+
+
+
+
+
+
+First Nation standards
+
+
+
+(2) The First Nation may, by law,
+
+
+
+
+
+
+
+
+(a) apply the environmental standards of a province having a territorial link with the First Nation, or
+
+
+
+
+
+
+
+
+(b) establish other environmental standards for the lands of the First Nation, if the environmental standards so established are no less stringent and no less protective of the environment than the least stringent of the environmental standards referred to in subsection (1) and the standards of a province referred to in paragraph (a).
+
+
+
+
+
+
+
+
+
+(2) La première nation peut, par une loi :
+
+
+
+Normes de la première nation
+
+
+
+
+a) soit appliquer les normes environnementales de la province ayant un lien territorial avec elle;
+
+
+
+
+
+
+
+
+b) soit établir pour ses terres des normes qui ne soient pas moins strictes ni moins protectrices de l’environnement que les moins strictes des normes visées au paragraphe (1) ou à l’alinéa a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAVING
+
+
+
+
+
+
+
+
+
+SAUVEGARDE
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration of non-applicability
+
+
+
+39. (1) If the governing body of the First Nation requests by resolution that the Governor in Council do so, the Governor in Council may, by proclamation, declare any of the following provisions of this Act not applicable to the First Nation or a citizen, namely, sections 11 to 15, subsections 19(1) and (2) and sections 24 and 25.
+
+
+
+
+
+
+
+
+
+39. (1) À la demande, par résolution, de l’organe exécutif de la première nation, le gouverneur en conseil peut, par proclamation, déclarer inapplicable à celle-ci ou à un citoyen n’importe laquelle des dispositions suivantes de la présente loi : les articles 11 à 15, les paragraphes 19(1) et (2) ainsi que les articles 24 et 25.
+
+
+
+Déclaration d’inapplicabilité
+
+
+
+
+
+
+
+
+
+
+Application of declaration
+
+
+
+(2) A declaration made under subsection (1) may be made to apply to the First Nation generally or in respect of a specified transaction and indefinitely or for a stated period.
+
+
+
+
+
+
+
+
+
+(2) La déclaration peut valoir de façon générale ou en vue d’un cas précis, pour une période déterminée ou non.
+
+
+
+Validité de la déclaration
+
+
+
+
+
+
+
+
+
+
+Revocation
+
+
+
+(3) A declaration made under subsection (1) may, with the approval of the First Nation, be revoked at any time by proclamation of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(3) Avec l’approbation de la première nation, le gouverneur en conseil peut, par proclamation, révoquer à tout moment la déclaration.
+
+
+
+Révocation
+
+
+
+
+
+
+
+
+
+
+Saving citizenship rights
+
+
+
+40. (1) A person who had a right to membership or citizenship in the community comprising the First Nation immediately before that community first acquired or assumed control of its membership or citizenship from the Minister of Indian Affairs and Northern Development under the Indian Act, any other Act of Parliament or this Act, may not be deprived of citizenship by reason only of a situation that existed, or an action that was taken, before the community first acquired or assumed control of its membership or citizenship from the Minister of Indian Affairs and Northern Development.
+
+
+
+
+
+
+
+
+
+40. (1) La personne qui avait droit à la qualité de membre ou de citoyen de la collectivité constituant la première nation, avant l’acquisition ou la prise en charge par la collectivité, de la part du ministre des Affaires indiennes et du Nord canadien, sous le régime de la Loi sur les Indiens, de la présente loi  ou d’une autre loi fédérale, du pouvoir de décision touchant cette qualité, ne peut être déchue de sa citoyenneté du seul fait de circonstances ou de mesures antérieures à l’acquisition ou à la prise en charge.
+
+
+
+Citoyenneté
+
+
+
+
+
+
+
+
+
+
+Saving aboriginal and treaty rights
+
+
+
+(2) Subsection (1) does not apply where its application would conflict with an existing aboriginal or treaty right.
+
+
+
+
+
+
+
+
+
+(2) L’application du paragraphe (1) est exclue dans le cas où elle entrerait en conflit avec un droit existant ancestral ou issu d’un traité.
+
+
+
+Droits existants
+
+
+
+
+
+
+
+
+
+
+consequential amendments
+
+
+
+
+
+
+
+
+
+modifications corrélatives
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-1
+
+
+
+Canada Assistance Plan
+
+
+
+
+
+
+
+
+
+Régime d’assistance publique du Canada
+
+
+
+L.R., ch. C-1
+
+
+
+
+
+
+
+
+
+
+1994, c. 35, s. 33
+
+
+
+41. (1) The definition “band” in section 10 of the Canada Assistance Plan is amended by striking out the word “or” at the end of paragraph (c), by adding the word “or” at the end of paragraph (d) and by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+41. (1) La définition de « bande », à l’article 10 du Régime d’assistance publique du Canada, est modifiée par adjonction de ce qui suit :
+
+
+
+1994, ch. 35, art. 33
+
+
+
+
+
+
+
+
+
+
+
+
+(e) a First Nation, as defined in the First Nations Government Act;
+
+
+
+
+
+
+
+
+
+e) première nation, au sens de la Loi sur le gouvernement des premières nations.
+
+
+
+
+
+
+
+
+
+
+
+
+1994, c. 35, s. 33
+
+
+
+(2) The definition “council” in section 10 of the said Act is amended by striking out the word “or” at the end of paragraph (c), by adding the word “or” at the end of paragraph (d) and by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+(2) La définition de « conseil », à l’article 10 de la même loi, est modifiée par adjonction de ce qui suit :
+
+
+
+1994, ch. 35, art. 33
+
+
+
+
+
+
+
+
+
+
+
+
+(e) a Council, as defined in the First Nations Government Act;
+
+
+
+
+
+
+
+
+
+e) un conseil, au sens de la Loi sur le gouvernement des premières nations.
+
+
+
+
+
+
+
+
+
+
+
+
+1994, c. 35, s. 33
+
+
+
+(3) The definition “reserve” in section 10 of the said Act is amended by striking out the word “or” at the end of paragraph (c), by adding the word “or” at the end of paragraph (d) and by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+(3) La définition de « réserve », à l’article 10 de la même loi, est modifiée par adjonction de ce qui suit :
+
+
+
+1994, ch. 35, art. 33
+
+
+
+
+
+
+
+
+
+
+
+
+(e) lands of the First Nation, as defined in the First Nations Government Act.
+
+
+
+
+
+
+
+
+
+e) les terres d’une première nation, au sens de la Loi sur le gouvernement des premières nations.
+
+
+
+
+
+
+
+
+
+
+R.S., c. F-24
+
+
+
+Fishing and Recreational Harbours Act
+
+
+
+
+
+
+
+
+
+Loi sur les ports de pêche et de plaisance
+
+
+
+L.R., ch. F-24
+
+
+
+
+
+
+
+
+
+
+1994, c. 35, s. 34
+
+
+
+42. The definition “agency” in section 2 of the Fishing and Recreational Harbours Act is amended by striking out the word “and” at the end of paragraph (c), by adding the word “and” at the end of paragraph (d) and by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+42. La définition de « organisme », à l’article 2 de la Loi sur les ports de pêche et de plaisance, est modifiée par adjonction de ce qui suit :
+
+
+
+1994, ch. 35, art. 34
+
+
+
+
+
+
+
+
+
+
+
+
+(e) a governing body, within the meaning of the First Nations Government Act;
+
+
+
+
+
+
+
+
+
+e) un organe exécutif, au sens de la Loi sur le gouvernement des premières nations.
+
+
+
+
+
+
+
+
+
+
+R.S., c. 44 (4th Supp.)
+
+
+
+Lobbyists Registration Act
+
+
+
+
+
+
+
+
+
+Loi sur l’enregistrement des lobbyistes
+
+
+
+L.R., ch. 44 (4e suppl.)
+
+
+
+
+
+
+
+
+
+
+1995, c. 12, s. 2
+
+
+
+43. Subsection 4(1) of the Lobbyists Registration Act is amended by adding the following after paragraph (d.1):
+
+
+
+
+
+
+
+
+
+43. Le paragraphe 4(1) de la Loi sur l’enregistrement des lobbyistes est modifié par adjonction, après l’alinéa d.1), de ce qui suit :
+
+
+
+1994, ch. 35, art. 36
+
+
+
+
+
+
+
+
+
+
+
+
+(d.2) members of a governing body within the meaning of the First Nations Government Act, persons on their staff or employees of such a governing body;
+
+
+
+
+
+
+
+
+
+d.2) les membres d’un organe exécutif, au sens de la Loi sur le gouvernement des premières nations, et le personnel de celui-ci;
+
+
+
+
+
+
+
+
+
+
+R.S., c. M-13
+
+
+
+Municipal Grants Act
+
+
+
+
+
+
+
+
+
+Loi sur les subventions aux municipalités
+
+
+
+L.R., ch. M-13
+
+
+
+
+
+
+
+
+
+
+1994, c. 35, s. 37
+
+
+
+44. The definition “taxing authority” in subsection 2(1) of the Municipal Grants Act is amended by striking out the word “or” at the end of paragraph (d), by adding the word “or” at the end of paragraph (e) and by adding the following after paragraph (e):
+
+
+
+
+
+
+
+
+
+44. La définition de « autorité taxatrice », au paragraphe 2(1) de la Loi sur les subventions aux municipalités, est modifiée par adjonction de ce qui suit :
+
+
+
+1994, ch. 35, art. 37
+
+
+
+
+
+
+
+
+
+
+
+
+(f) A governing body within the meaning of the First Nations Government Act, if it levies and collects a real property tax or a frontage or area tax in respect of lands of the First Nation, as defined in that Act.
+
+
+
+
+
+
+
+
+
+f) un organe exécutif, au sens de la Loi sur le gouvernement des premières nations, s’il lève et perçoit un impôt foncier, ou un impôt calculé sur la dimension de façade ou la superficie, sur les terres d’une première nation, au sens de la même loi.
+
+
+
+
+
+
+
+
+
+
+R.S., c. N-11
+
+
+
+National Housing Act
+
+
+
+
+
+
+
+
+
+Loi nationale sur l’habitation
+
+
+
+L.R., ch. N-11
+
+
+
+
+
+
+
+
+
+
+1994, c. 35, s. 38
+
+
+
+45. (1) The definition “Indian” in section 2 of the National Housing Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+45. (1) La définition de « Indien », à l’article 2 de la Loi nationale sur l’habitation, est remplacée par ce qui suit :
+
+
+
+1994, ch. 35, art. 38
+
+
+
+
+
+
+
+
+
+
+“Indian”« Indien »
+
+
+
+“Indian” means an Indian, as defined in the Indian Act, or a citizen under the First Nations Government Act;
+
+
+
+
+
+
+
+
+
+« Indien » S’entend d’un Indien, au sens de la Loi sur les Indiens, ou d’un citoyen, au sens de la Loi sur le gouvernement des premières nations.
+
+
+
+« Indien »“Indian”
+
+
+
+
+
+
+
+
+
+
+1994, c. 35, s. 38
+
+
+
+(2) The definition “Indian band” in section 2 of the said Act is amended by striking out the word “or” at the end of paragraph (c), by adding the word “or” at the end of paragraph (d) and by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+(2) La définition de « bande indienne », à l’article 2 de la même loi, est modifiée par adjonction de ce qui suit :
+
+
+
+1994, ch. 35, art. 38
+
+
+
+
+
+
+
+
+
+
+
+
+(e) a First Nation or a governing body within the meaning of the First Nations Government Act;
+
+
+
+
+
+
+
+
+
+e) première nation ou organe exécutif, au sens de la Loi sur le gouvernement des premières nations.
+
+
+
+
+
+
+
+
+
+
+
+
+1994, c. 35, s. 38
+
+
+
+(3) The definition “reserve” in section 2 of the said Act is amended by adding the word “or” at the end of paragraph (d) and by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+(3) La définition de « réserve », à l’article 2 de la même loi, est modifiée par adjonction de ce qui suit :
+
+
+
+1994, ch. 35, art. 38
+
+
+
+
+
+
+
+
+
+
+
+
+(e) lands of the First Nation as defined in the First Nations Government Act.
+
+
+
+
+
+
+
+
+
+e) terres d’une première nation, au sens de la Loi sur le gouvernement des premières nations.
+
+
+
+
+
+
+
+
+
+
+R.S., c. P-21
+
+
+
+Privacy Act
+
+
+
+
+
+
+
+
+
+Loi sur la protection des renseignements personnels
+
+
+
+L.R., ch. P-21
+
+
+
+
+
+
+
+
+
+
+1994, c. 35, s. 39
+
+
+
+46. Subsection 8(6) of the Privacy Act is amended by striking out the word “or” at the end of paragraph (c), by adding the word “or” at the end of paragraph (d) and by adding the following paragraph:
+
+
+
+
+
+
+
+
+
+46. Le paragraphe 8(6) de la Loi sur la protection des renseignements personnels est modifié par adjonction de ce qui suit :
+
+
+
+1994, ch. 35, art. 39
+
+
+
+
+
+
+
+
+
+
+
+
+(e) a First Nation under the First Nations Government Act.
+
+
+
+
+
+
+
+
+
+e) soit une première nation, au sens de la Loi sur le gouvernement des premières nations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 1
+
+
+
+
+
+ANNEXE I
+
+
+
+
+
+
+
+
+
+
+CONSTITUTION
+
+
+
+
+
+CONSTITUTION
+
+
+
+
+
+
+Definitions
+
+
+
+1. In this Constitution,
+
+
+
+
+
+1. Les définitions qui suivent s’appliquent à la présente Constitution.
+
+
+
+Définitions
+
+
+“elector”« électeur »
+
+
+
+“elector” means a natural person who
+
+
+
+
+
+« directeur du scrutin » La personne nommée conformément à l’article 9.
+
+
+
+« directeur du scrutin »“Electoral Officer”
+
+
+
+
+
+
+(a) is lawfully and ordinarily resident on the lands of the First Nation;
+
+
+
+
+
+« électeur » Personne physique qui remplit les conditions suivantes :
+
+
+
+« électeur »“elector”
+
+
+
+
+
+
+(b) is 21 years of age or over;
+
+
+
+
+
+a) résider habituellement, en toute légitimité, sur les terres de la première nation;
+
+
+
+
+
+
+
+
+
+
+(c) is a citizen; and
+
+
+
+
+
+b) avoir vingt et un ans révolus;
+
+
+
+
+
+
+
+
+
+
+(d) is not otherwise disqualified from voting at elections or referendums of the First Nation;
+
+
+
+
+
+c) être un citoyen;
+
+
+
+
+
+
+“Electoral Officer”« directeur du scrutin »
+
+
+
+“Electoral Officer” means the person appointed pursuant to section 9 of this Constitution.
+
+
+
+
+
+d) d’une façon générale, ne pas être inhabile à voter aux élections ou référendums de la nation.
+
+
+
+
+
+
+
+
+
+
+Citizenship
+
+
+
+
+
+Citoyenneté
+
+
+
+
+
+
+Citizenship rules
+
+
+
+2. (1) Citizenship is determined by the membership rules of the First Nation that were in force immediately before the day on which the First Nation comes under this Act, with such modifications as the circumstances require and without abrogating or derogating from existing aboriginal or treaty rights.
+
+
+
+
+
+2. (1) La citoyenneté est déterminée par les règles régissant l’appartenance à la première nation en vigueur lors de l’assujettissement de celle-ci à la présente loi, avec les adaptations nécessaires et sans préjudice des droits existants — ancestraux ou issus de traités.
+
+
+
+Règles régissant la citoyenneté
+
+
+Must be an Indian
+
+
+
+(2) No person may be a citizen who is not registered or entitled to be registered as an Indian.
+
+
+
+
+
+(2) Pour être citoyen de la première nation, il faut être inscrit en qualité d’Indien ou habilité à l’être.
+
+
+
+Subordination à la qualité d’Indien
+
+
+Citizens of other Bands
+
+
+
+(3) No citizen of another community or another First Nation may be a citizen of the First Nation.
+
+
+
+
+
+(3) La qualité de citoyen de la première nation ne peut être cumulée avec celle de citoyen d’une autre collectivité ou d’une autre première nation.
+
+
+
+Citoyens d’autres bandes
+
+
+
+
+
+
+Amendment to Constitution
+
+
+
+
+
+Modification de la Constitution
+
+
+
+
+
+
+When amendment effective
+
+
+
+3. (1) Subject to subsections (2) and (4), an amendment to the Constitution is effective and in force on the day it is approved by a majority of the electors of the First Nation in a referendum held for the purpose or on such later date as is set out in the amendment.
+
+
+
+
+
+3. (1) Sous réserve des paragraphes (2) et (4), les modifications de la Constitution entrent en vigueur le jour de leur approbation par la majorité des électeurs de la première nation lors d’un référendum tenu à cette fin ou à la date ultérieure qu’elles déterminent.
+
+
+
+Entrée en vigueur de la modification
+
+
+Percentage of vote required
+
+
+
+(2) Where a provision of the Constitution requires approval for any purpose by a percentage of electors greater than a majority of electors, an amendment to that provision, including the percentage itself required for approval, may only be made with the approval of at least that same percentage of electors.
+
+
+
+
+
+(2) Dans le cas où une disposition de la Constitution exige une approbation, quel qu’en soit l’objet, à une majorité qualifiée, l’approbation d’une modification de cette disposition, y compris la qualification de la majorité nécessaire à cette fin, ne peut être donnée qu’à la même majorité.
+
+
+
+Majorité qualifiée
+
+
+Change of term of office
+
+
+
+(3) Any amendment to the Constitution dealing with the term of office of a member of the governing body of the First Nation is restricted to changing any future term of a member of that body and requires seventy-five per cent approval by the electors.
+
+
+
+
+
+(3) Toute modification de la Constitution portant sur le mandat d’un membre de l’organe exécutif de la première nation ne peut concerner qu’un mandat futur et doit être approuvée par soixante-quinze pour cent des électeurs.
+
+
+
+Modification du mandat
+
+
+Petition re amendment
+
+
+
+(4) If the governing body of the First Nation receives a petition signed by eighty per cent of all the electors of the First Nation containing a request that a referendum be held in relation to an amendment proposed for the Constitution, the governing body shall forthwith order a referendum to determine the matter.
+
+
+
+
+
+(4) L’organe exécutif de la première nation, s’il reçoit une pétition portant la signature de quatre-vingts pour cent des électeurs demandant la tenue d’un référendum sur un projet de modification de la Constitution, en ordonne immédiatement la tenue pour qu’il soit décidé de la question.
+
+
+
+Pétition relative à une modification
+
+
+Drafting petitioned amendment
+
+
+
+(5) The governing body may redraft the amendment proposed in the petition mentioned in subsection (4) but the governing body must do its best to ensure that its draft gives effect to the intent of the petition.
+
+
+
+
+
+(5) L’organe exécutif peut reformuler le projet de modification visé au paragraphe (4), mais il doit faire de son mieux pour que sa rédaction donne effet à l’intention des pétitionnaires.
+
+
+
+Rédaction de la modification
+
+
+
+
+
+
+Publication
+
+
+
+
+
+Publication
+
+
+
+
+
+
+Required publication
+
+
+
+4. When the Constitution or an amendment to the Constitution comes into force, the governing body of the First Nation shall forthwith cause the Constitution or amendment to be published in the Canada Gazette.
+
+
+
+
+
+4. À l’entrée en vigueur de la Constitution ou d’une modification de celle-ci, l’organe exécutif de la première nation en fait immédiatement publier le texte dans la Gazette du Canada.
+
+
+
+Obligation de publication
+
+
+
+
+
+
+Governing Body
+
+
+
+
+
+Organe exécutif
+
+
+
+
+
+
+Composition
+
+
+
+5. (1) The governing body of the First Nation may be called a Council or by another title and its members may be called councillors or by any other designation, hereinafter in this Constitution referred to, respectively as “Council” and “councillors”, and shall be selected in accordance with the provisions of the Constitution and laws of the First Nation.
+
+
+
+
+
+5. (1) L’organe exécutif de la première nation peut être désigné sous le titre de conseil et ses membres sous celui de conseillers, ou sous tout autre titre; ils sont ci-après appelés respectivement « conseil » et « conseillers ».  Ils sont choisis conformément à la Constitution et aux lois de la nation.
+
+
+
+Composition
+
+
+Chief
+
+
+
+(2) The Council consists of councillors one of whom shall be the principal administrative officer of the First Nation and may be designated Chief or by another title, hereinafter in this Constitution referred to as the “Chief”.
+
+
+
+
+
+(2) Le premier dirigeant de la première nation est choisi parmi les conseillers et peut être désigné sous le titre de président ou sous tout autre titre; il est ci-après appelé « président ».
+
+
+
+Président
+
+
+Number of councillors
+
+
+
+(3) The number of councillors, including the Chief, shall be no less than three nor more than thirteen, as may be determined by law of the First Nation having regard to subsection (4).
+
+
+
+
+
+(3) L’effectif du conseil, y compris le président, est, dans les limites de trois à treize membres, determiné par une loi de la première nation, mais compte tenu du paragraphe (4).
+
+
+
+Nombre de conseillers
+
+
+For each 120 citizens
+
+
+
+(4) In determining the number of councillors, there shall be, so far as possible, no less than one councillor, including the Chief, for every one hundred and twenty citizens.
+
+
+
+
+
+(4) Dans la mesure du possible, il faut qu’il y ait au moins un conseiller, y compris le président, par tranche de cent vingt citoyens.
+
+
+
+Règles des 120
+
+
+How elected
+
+
+
+6. The Chief and councillors of the First Nation must be elected by a majority of the votes cast in an election held pursuant to this Constitution.
+
+
+
+
+
+6. Le président et les autres conseillers sont élus à la majorité des voix exprimées lors d’élections tenues conformément à la Constitution.
+
+
+
+Mode d’élection
+
+
+Ineligible candidates
+
+
+
+7. (1) No candidate is eligible for election as Chief or councillor unless
+
+
+
+
+
+7. (1) Pour être éligible, un candidat aux fonctions de président ou de conseiller doit remplir les conditions suivantes :
+
+
+
+Éligibilité
+
+
+
+
+
+
+(a) the candidate is an elector of the First Nation;
+
+
+
+
+
+a) être électeur de la première nation;
+
+
+
+
+
+
+
+
+
+
+(b) all debts owed to the First Nation by the candidate are in good standing;
+
+
+
+
+
+b) être en règle quant aux dettes éventuellement contractées envers la nation;
+
+
+
+
+
+
+
+
+
+
+(c) no court has convicted the candidate in criminal proceedings for theft, fraud, bribery or breach of trust; and
+
+
+
+
+
+c) ne pas avoir été déclaré coupable de vol, de dol, de corruption ou de prévarication par une juridiction criminelle;
+
+
+
+
+
+
+
+
+
+
+(d) the nomination of the candidate is petitioned by two persons who are themselves electors and the petition is submitted to the Electoral Officer on or before the date set for the close of nominations, together with a statutory declaration sworn by the nominee attesting to the matters mentioned in paragraphs (a), (b) and (c).
+
+
+
+
+
+d) voir sa candidature appuyée par une pétition de deux personnes elles-mêmes électrices, cette pétition devant être présentée au directeur du scrutin au plus tard à la date limite fixée pour le dépôt des candidatures et assortie d’une déclaration solennelle du candidat attestant la véracité des faits visés aux alinéas a), b) et c).
+
+
+
+
+
+
+Disqualification of councillor
+
+
+
+(2) A councillor who ceases to be an elector or who becomes insolvent or is convicted in criminal proceedings for theft, fraud, bribery or breach of trust, thereupon ceases to be a councillor.
+
+
+
+
+
+(2) Le conseiller qui cesse de remplir une des conditions visées aux alinéas 1 a) à c) est immédiatement déchu de son mandat.
+
+
+
+Déchéance du mandat de conseiller
+
+
+Calling elections
+
+
+
+8. (1) The Council shall call an election to be held no later than five years from the date on which the last election for the Council was held.
+
+
+
+
+
+8. (1) Le conseil ordonne la tenue d’élections au plus tard cinq ans à partir de la date où il a été élu.
+
+
+
+Déclenchement des élections
+
+
+By-elections
+
+
+
+(2) If a vacancy occurs on the Council, the Council may in its discretion call a by-election to fill the vacancy but if less than four years has expired since the previous election, the Council must call such a by-election forthwith.
+
+
+
+
+
+(2) Le conseil a toute latitude pour ordonner la tenue d’une élection partielle afin de pourvoir à une vacance en son sein, sauf qu’il doit l’ordonner immédiatement s’il s’est écoulé moins de quatre ans depuis les précédentes élections.
+
+
+
+Élections partielles
+
+
+Appointing Electoral Officer
+
+
+
+9. (1) The Council shall appoint an Electoral Officer no later than thirty days before the date an election is to be held.
+
+
+
+
+
+9. (1) Le conseil nomme un directeur du scrutin au moins trente jours avant la date prévue pour les élections.
+
+
+
+Nomination du directeur du scrutin
+
+
+Disqualification
+
+
+
+(2) The Electoral Officer must not be a citizen or an employee of the First Nation or Council.
+
+
+
+
+
+(2) Le directeur du scrutin ne peut être ni un citoyen ni un salarié de  la première nation ou du conseil.
+
+
+
+Inhabilité
+
+
+Appealing election result
+
+
+
+10. (1) Within thirty days after an election, any candidate at the election or any elector who voted or attempted to vote in the election who has reasonable grounds for believing that
+
+
+
+
+
+10. (1) Il peut être fait appel devant la Cour fédérale du Canada ou devant tout tribunal compétent, dans les trente jours suivant les élections, par tout candidat ou électeur ayant voté ou tenté de voter qui a des motifs raisonnables de croire qu’il y a eu :
+
+
+
+Contentieux électoral
+
+
+
+
+
+
+(a) there was corrupt practice in connection with the election, or
+
+
+
+
+
+a) soit manoeuvre frauduleuse lors du scrutin;
+
+
+
+
+
+
+
+
+
+
+(b) there was a contravention of the Act, the Constitution, or any law of the First Nation that might have affected the result of the election,
+
+
+
+
+
+b) soit contravention à la présente loi, à la Constitution ou à une loi de la première nation et que cette contravention a pu modifier les résultats du scrutin.
+
+
+
+
+
+
+
+
+
+
+may lodge an appeal to the Federal Court of Canada or any court of competent jurisdiction.
+
+
+
+
+
+(2) Dès le dépôt de l’acte d’appel, l’appelant en envoie copie, avec tous les documents à l’appui, par courrier recommandé au directeur du scrutin et à chaque candidat.
+
+
+
+Envoi de documents au directeur du scrutin
+
+
+Sending documents to Electoral Officer
+
+
+
+(2) Upon the filing of an appeal the appellant shall forward a copy of the appeal together with all supporting documents by registered mail to the Electoral Officer and to each candidate.
+
+
+
+
+
+(3) Tout candidat a la faculté, et le directeur du scrutin est tenu, d’envoyer à la juridiction saisie — Cour fédérale du Canada ou tribunal compétent, selon le cas —, par courrier recommandé, dans les quatorze jours suivant la réception de la copie de l’acte d’appel, une réponse écrite aux faits allégués dans l’acte et les documents à l’appui, dûment attestée par affidavit.
+
+
+
+Obligation de réponse écrite
+
+
+Written answers required
+
+
+
+(3) Any candidate may, and the Electoral Officer shall, within fourteen days of the receipt of a copy of an appeal under subsection (1), forward to the Federal Court of Canada or to a court of competent jurisdiction, as the case may be, by registered mail, a written answer to the particulars set out in the appeal together with any supporting documents relating thereto duly verified by affidavit.
+
+
+
+
+
+(4) L’ensemble de ces allégations et documents composent le dossier.
+
+
+
+Le dossier
+
+
+The record
+
+
+
+(4) All particulars and documents filed in accordance with this section form the record.
+
+
+
+
+
+(5) La juridiction saisie peut accorder la mesure qu’elle juge indiquée si elle estime qu’il y a eu perpétration d’un des faits visés à l’alinéa (1) a) ou b).
+
+
+
+Mesure de redressement
+
+
+Relief
+
+
+
+(5) The court may provide such relief as it sees fit, when it appears to the court that
+
+
+
+
+
+11. (1) Le conseil convoque une assemblée générale des citoyens au moins une fois par année civile.
+
+
+
+Assemblée générale de la première nation
+
+
+
+
+
+
+(a) there was corrupt practice in connection with the election; or
+
+
+
+
+
+(2) Le conseil convoque une assemblée extraordinaire des citoyens dans les trente jours suivant la réception d’une pétition à cet effet dûment signée par au moins vingt-cinq pour cent des citoyens désireux de la tenir.  Il ne peut toutefois accueillir une telle pétition dans les six mois suivant une précédente assemblée extraordinaire.
+
+
+
+Assemblée extraordinaire de la première nation
+
+
+
+
+
+
+(b) there was a contravention of the Act, the Constitution or any law of the First Nation that might have affected the result of the election.
+
+
+
+
+
+12. (1) Il est tenu registre des délibérations et procès-verbaux des séances du conseil.  Le registre est, sous réserve des lois de la première nation, mis pour consultation à la disposition des électeurs et autres personnes autorisées par le conseil.
+
+
+
+Délibérations et procès-verbaux
+
+
+General assembly of First Nation
+
+
+
+11. (1) The Council shall call a general assembly of the citizens at least once in each calendar year.
+
+
+
+
+
+(2) Le conseil inscrit à son ordre du jour toute question dont un citoyen le saisit au moins sept jours avant la séance.
+
+
+
+Ordre du jour
+
+
+Special assembly of First Nation
+
+
+
+(2) The Council shall call a special assembly of the citizens within thirty days of the receipt of a petition duly signed by at least twenty-five per cent of the citizens calling for such an assembly, but no petition may be received by the Council for this purpose within six months of a previous special assembly.
+
+
+
+
+
+Attributions
+
+
+
+
+
+
+Proceedings and minutes
+
+
+
+12. (1) The proceedings and minutes of Council meetings shall be recorded and maintained and, subject to any laws of the First Nation, shall be made available for inspection by electors and other persons authorized by the Council.
+
+
+
+
+
+13. (1) La première nation exerce ses pouvoirs et fonctions par l’intermédiaire du conseil.
+
+
+
+Pouvoirs et fonctions
+
+
+Agenda
+
+
+
+(2) The Council shall place on the agenda for a meeting of the Council any item submitted by a citizen at least seven days before the meeting.
+
+
+
+
+
+(2) Le Conseil peut, par résolution, ratifier, en totalité ou en partie, ses actes ou ceux de tel de ses membres, y compris en matière de décisions, de dépenses et de contrats.
+
+
+
+Ratification des actes
+
+
+
+
+
+
+Functions and Duties
+
+
+
+
+
+(3) Le conseil peut, par résolution, autoriser le président, ou toute autre personne ou tout organisme désignés, à exercer telle de ses attributions.
+
+
+
+Délégation
+
+
+Function of Council
+
+
+
+13. (1) The First Nation acts through the Council in exercising its powers and carrying out its duties and functions.
+
+
+
+
+
+(4) Le conseil peut, par résolution, nommer les agents, mandataires et employés de la première nation et créer des organismes administratifs et consultatifs chargés d’apporter leur assistance dans la gestion des affaires de la nation.
+
+
+
+Agents, employés, etc.
+
+
+Ratification of actions
+
+
+
+(2) The Council may by resolution ratify, in whole or in part, the actions of Council or the actions of any of the members of Council, including decisions that have been made, expenses that have been incurred and contracts that have been entered into.
+
+
+
+
+
+14. (1) Les lois de la première nation entrent en vigueur à la date de leur édiction ou à celle qu’elles fixent.
+
+
+
+Entrée en vigueur des lois
+
+
+Delegation of functions
+
+
+
+(3) The Council may by resolution authorize the Chief or any other designated person or body to perform and exercise any of its duties, powers and functions.
+
+
+
+
+
+(2) Elles sont publiées et, d’une façon générale, mises à la disposition des citoyens par tous moyens utiles.
+
+
+
+Publication
+
+
+Officers, employees, etc
+
+
+
+(4) The Council may by resolution appoint officers, agents and employees of the First Nation and establish administrative and advisory bodies to assist in the administration of the affairs of the First Nation.
+
+
+
+
+
+Fonds de la première nation
+
+
+
+
+
+
+Commencement of law
+
+
+
+14. (1) A law of the First Nation comes into force on the day on which it is enacted, or on such day as is specified therefor by the laws of the First Nation.
+
+
+
+
+
+15. (1) Les fonds de la première nation sont détenus par elle à son usage et à son profit, et ce seulement sous les formes suivantes :
+
+
+
+Détention des fonds
+
+
+Promulgation of laws
+
+
+
+(2) The laws of the First Nation shall be published and made generally available to its citizens by any expedient means.
+
+
+
+
+
+a) dépôts dans des établissements financiers;
+
+
+
+
+
+
+
+
+
+
+First Nation Money
+
+
+
+
+
+b) bons du Trésor;
+
+
+
+
+
+
+Holding First Nation money
+
+
+
+15. (1) First Nation money is money held by the First Nation for the use and benefit of the First Nation and may be held only in the following forms:
+
+
+
+
+
+c) acceptations de banque;
+
+
+
+
+
+
+
+
+
+
+(a) deposits in financial institutions;
+
+
+
+
+
+d) certificats de placement garantis;
+
+
+
+
+
+
+
+
+
+
+(b) treasury bills;
+
+
+
+
+
+e) obligations;
+
+
+
+
+
+
+
+
+
+
+(c) bankers’ acceptances;
+
+
+
+
+
+f) espèces.
+
+
+
+
+
+
+
+
+
+
+(d) guaranteed investment certificates;
+
+
+
+
+
+(2) Les fonds de la première nation se répartissent en capital et en recettes.
+
+
+
+Répartition des fonds
+
+
+
+
+
+
+(e) bonds; and
+
+
+
+
+
+(3) Le capital consiste en ce qui suit :
+
+
+
+Capital
+
+
+
+
+
+
+(f) cash.
+
+
+
+
+
+a) les fonds d’immobilisation transférés par le gouvernement fédéral;
+
+
+
+
+
+
+Classification of moneys
+
+
+
+(2) First Nation money is classified as capital and revenue.
+
+
+
+
+
+b) le produit de la vente de terres de la première nation;
+
+
+
+
+
+
+Capital
+
+
+
+(3) Capital consists of the following moneys:
+
+
+
+
+
+c) le produit de la vente d’autres immobilisations de la nation;
+
+
+
+
+
+
+
+
+
+
+(a) the capital funds transferred from the Government of Canada;
+
+
+
+
+
+d) le produit, notamment les redevances,  de la vente de ressources non renouvelables.
+
+
+
+
+
+
+
+
+
+
+(b) the proceeds of the sale of any lands of the First Nation;
+
+
+
+
+
+(4) Les recettes sont tout ce qui n’a pas le caractère de capital.
+
+
+
+Recettes
+
+
+
+
+
+
+(c) the proceeds of the sale of any other capital assets held by the First Nation; and
+
+
+
+
+
+(5) Il demeure entendu que cessent d’être des fonds de la première nation ceux qui sont placés ou dépensés, sauf si ces opérations aboutissent à l’une des formes de détention visées au paragraphe (1).
+
+
+
+Placements ou dépenses
+
+
+
+
+
+
+(d) proceeds, including royalties, from the sale of non-renewable resources.
+
+
+
+
+
+(6) Il demeure également entendu que les fonds sont détenus par la première nation lorsqu’elle est titulaire du droit correspondant.
+
+
+
+Détention par la première nation
+
+
+Revenue
+
+
+
+(4) Revenue consists of First Nation money that is not capital.
+
+
+
+
+
+(7) Le conseil ne peut dépenser des fonds de la première nation ni s’y engager, notamment par contrat, que si la dépense est autorisée ou ratifiée par la Constitution, une loi ou une résolution adoptée par lui.
+
+
+
+Pouvoir de dépenser
+
+
+No longer First Nation money
+
+
+
+(5) For greater certainty, First Nation money ceases to be First Nation money upon its investment or expenditure, unless invested in or converted to
+
+
+
+
+
+(8) Le fait pour le conseil de ne pas avoir suivi la procédure prévue au paragraphe (7) ne porte pas atteinte à la validité d’un contrat.
+
+
+
+Validité des contrats
+
+
+
+
+
+
+(a) deposits in financial institutions;
+
+
+
+
+
+16. Les dépenses sur recettes de la première nation peuvent notamment servir à ce qui suit :
+
+
+
+Dépenses sur recettes
+
+
+
+
+
+
+(b) treasury bills;
+
+
+
+
+
+a) la gestion de ses programmes et autres activités, soit, entre autres : déplacements, promotions, honoraires professionnels, achats de stocks, comptes débiteurs, financements divers;
+
+
+
+
+
+
+
+
+
+
+(c) bankers’ acceptances;
+
+
+
+
+
+b) les contributions à ses programmes de logement;
+
+
+
+
+
+
+
+
+
+
+(d) guaranteed investment certificates;
+
+
+
+
+
+c) les services à la collectivité : sports, aide d’urgence, inhumations, subventions aux activités de loisirs, etc.;
+
+
+
+
+
+
+
+
+
+
+(e) bonds; or
+
+
+
+
+
+d) les programmes cofinancés;
+
+
+
+
+
+
+
+
+
+
+(f) cash.
+
+
+
+
+
+e) les suppléments apportés à ses programmes;
+
+
+
+
+
+
+Holding by First Nation
+
+
+
+(6) For greater certainty, money is held by the First Nation when the First Nation is vested with legal title to the money.
+
+
+
+
+
+f) le développement économique;
+
+
+
+
+
+
+Spending authority
+
+
+
+(7) The Council may only expend First Nation money or commit itself, by contract or otherwise, to expend First Nation money when the expenditure is authorized or ratified by this Constitution, a law or a Council resolution.
+
+
+
+
+
+g) sa planification;
+
+
+
+
+
+
+Validity of contracts
+
+
+
+(8) A failure by the Council to follow the procedures prescribed by subsection (7) does not affect the validity of any contract.
+
+
+
+
+
+h) les dons à des fins caritatives;
+
+
+
+
+
+
+Revenue expenditures
+
+
+
+16. First Nation revenue expenditures include but are not limited to
+
+
+
+
+
+i) les provisions pour remplacement d’éléments d’actif;
+
+
+
+
+
+
+
+
+
+
+(a) expenditures in the administration of First Nation programs and businesses, including, without restricting the generality of the foregoing: travel, promotion, professional fees, inventory purchases, accounts receivable, funding and other business expenses;
+
+
+
+
+
+j) les versements forfaitaires effectués, dans la limite de un par part individuelle dans ses recettes, au profit de personnes radiées de la liste des citoyens;
+
+
+
+
+
+
+
+
+
+
+(b) expenditures by way of contributions to First Nation housing programs;
+
+
+
+
+
+k) les prêts ou apports à des personnes morales ou des fiducies, ou les placements à y effectuer;
+
+
+
+
+
+
+
+
+
+
+(c) expenditures for community services, including sports, emergency assistance, burials and recreation grants;
+
+
+
+
+
+l) tout autre objet à son profit de l’avis de son conseil, y compris des placements.
+
+
+
+
+
+
+
+
+
+
+(d) expenditures for jointly funded programs;
+
+
+
+
+
+17. Les dépenses sur capital de la première nation sont limitées à ce qui suit :
+
+
+
+Dépenses sur capital
+
+
+
+
+
+
+(e) expenditures by way of supplements to First Nation programs;
+
+
+
+
+
+a) la construction ou l’amélioration des routes et des ponts, ainsi que l’aménagement des cours d’eau, situés sur ses terres;
+
+
+
+
+
+
+
+
+
+
+(f) expenditures for economic development;
+
+
+
+
+
+b) la construction ou l’amélioration des clôtures limitrophes de ses terres;
+
+
+
+
+
+
+
+
+
+
+(g) expenditures for First Nation planning;
+
+
+
+
+
+c) l’achat de biens-fonds destinés à s’intégrer ou à s’ajouter à ses terres;
+
+
+
+
+
+
+
+
+
+
+(h) expenditures for charitable donations;
+
+
+
+
+
+d) l’achat pour elle-même de droits d’un citoyen sur ses terres à elle;
+
+
+
+
+
+
+
+
+
+
+(i) expenditures by way of provision for asset replacement;
+
+
+
+
+
+e) l’achat pour elle-même de machines et autres matériels;
+
+
+
+
+
+
+
+
+
+
+(j) expenditures by way of payments made once in a lifetime, in an amount not exceeding one per capita share of the revenue held by the First Nation, to any living person whose name is deleted from the citizenship list of the First Nation;
+
+
+
+
+
+f) la construction d’ouvrages ou la réalisation d’améliorations sur ou pour ses terres, destinés selon elle à être, pour elle-même, d’une valeur permanente ou à constituer un investissement en capital;
+
+
+
+
+
+
+
+
+
+
+(k) expenditures for making loans to, investments in, or contributions to corporations or trusts; and
+
+
+
+
+
+g) les versements forfaitaires effectués, dans la limite de un par part individuelle dans son capital, au profit de personnes radiées de la liste des citoyens;
+
+
+
+
+
+
+
+
+
+
+(l) expenditures for any other purpose that in the opinion of the Council is for the benefit of the First Nation, including, without restricting the generality of the foregoing, investment.
+
+
+
+
+
+h) les prêts ou apports à des personnes morales ou à des fiducies, ou les placements à y effectuer;
+
+
+
+
+
+
+First Nation capital
+
+
+
+17. First Nation capital may only be expended for
+
+
+
+
+
+i) les frais nécessairement liés à la gestion de ses terres et autres biens;
+
+
+
+
+
+
+
+
+
+
+(a) the construction or improvement of roads, bridges and water courses on lands of the First Nation;
+
+
+
+
+
+j) tout autre objet à son profit et ayant le caractère d’une dépense en capital, de l’avis de son conseil, y compris des placements.
+
+
+
+
+
+
+
+
+
+
+(b) the construction or improvement of outer boundary fences on lands of the First Nation;
+
+
+
+
+
+18. Le conseil a toute latitude pour le choix de ses placements sur capital ou sur recettes, dans la seule limite des lois et de la Constitution de la première nation.
+
+
+
+Pouvoir d’appréciation
+
+
+
+
+
+
+(c) the purchase of land for use by the First Nation as new lands of the First Nation or as an addition to lands of the First Nation;
+
+
+
+
+
+Responsabilité financière
+
+
+
+
+
+
+
+
+
+
+(d) the purchase for the First Nation of the interest of a citizen in lands of the First Nation;
+
+
+
+
+
+19. Sauf disposition contraire de la loi, l’exercice de la première nation s’ouvre le 1er avril et se clôt le 31 mars de l’année suivante.
+
+
+
+Exercice de la première nation
+
+
+
+
+
+
+(e) the purchase of machinery and equipment for the First Nation;
+
+
+
+
+
+20. (1) La première nation, par résolution :
+
+
+
+Adoption du budget
+
+
+
+
+
+
+(f) the construction on, or in connection with, lands of the First Nation of such improvements or works as it considers will be of permanent value to the First Nation or will constitute a capital investment;
+
+
+
+
+
+a) est tenue d’adopter son budget pour chaque exercice préalablement à celui-ci;
+
+
+
+
+
+
+
+
+
+
+(g) the purpose of making a once-in-a-lifetime payment to any living person whose name is deleted from the citizenship list of the First Nation in an amount not exceeding one per capita share of the capital moneys held by the First Nation;
+
+
+
+
+
+b) peut adopter, à cette fin, des budgets supplémentaires si elle le juge nécessaire au cours de l’exercice.
+
+
+
+
+
+
+
+
+
+
+(h) the purpose of making loans to, investments in, or contributions to, corporations or trusts;
+
+
+
+
+
+(2) À défaut d’adoption préalable pour un exercice donné, elle est censée avoir renouvelé le budget — augmenté de tous budgets supplémentaires — de l’exercice précédent jusqu’à adoption d’un nouveau budget.
+
+
+
+Présomption de budget
+
+
+
+
+
+
+(i) meeting expenses necessarily incidental to the management of lands of the First Nation and other First Nation property; and
+
+
+
+
+
+21. (1) Les livres de comptes et autres documents financiers de la première nation sont tenus par le conseil.  Ils doivent satisfaire aux conditions suivantes :
+
+
+
+Comptes et documents financiers
+
+
+
+
+
+
+(j) any other purpose that, in the opinion of the Council, is for the benefit of the First Nation and is deemed in its nature to be a capital expenditure, including, without limiting the generality of the foregoing, investment.
+
+
+
+
+
+a) comporter, au minimum :
+
+
+
+
+
+
+Unfettered discretion
+
+
+
+18. In making investments of capital or revenue, the Council has unfettered discretion in choosing investments and is not limited to investments authorized for investment in any applicable legislation other than the laws of the First Nation and this Constitution.
+
+
+
+
+
+(i) un compte des sommes reçues et déboursées,
+
+
+
+
+
+
+
+
+
+
+Financial Accountability
+
+
+
+
+
+(ii) un compte des recettes et des dépenses,
+
+
+
+
+
+
+Fiscal year of First Nation
+
+
+
+19. The fiscal year of the First Nation begins on April 1 and ends on March 31 of the following year, unless otherwise provided by law.
+
+
+
+
+
+(iii) un état des comptes débiteurs et créditeurs,
+
+
+
+
+
+
+Adoption of budget
+
+
+
+20. (1) The First Nation, by resolution,
+
+
+
+
+
+(iv) un compte de l’actif et du passif,
+
+
+
+
+
+
+
+
+
+
+(a) shall, before the beginning of each fiscal year, adopt a budget for that fiscal year; and
+
+
+
+
+
+(v) un compte de toutes les autres opérations de la nation susceptibles d’influer sur la situation financière de celle-ci,
+
+
+
+
+
+
+
+
+
+
+(b) may, if it deems necessary in the course of the fiscal year, adopt supplementary budgets for that fiscal year.
+
+
+
+
+
+(vi) un compte présentant séparément les dépenses et le solde des fonds en capital et en recettes;
+
+
+
+
+
+
+Presumed budget
+
+
+
+(2) If the First Nation fails to adopt a budget for a fiscal year before the beginning of that fiscal year, the First Nation is deemed to have adopted a budget identical to the budget and any supplementary budgets of the previous fiscal year until a new budget is adopted.
+
+
+
+
+
+b) être conformes aux principes comptables généralement admis;
+
+
+
+
+
+
+Accounts and financial records
+
+
+
+21. (1) Books of accounts and financial records of the First Nation shall be kept by the Council and must
+
+
+
+
+
+c) permettre la comparaison entre :
+
+
+
+
+
+
+
+
+
+
+(a) contain, as a minimum,
+
+
+
+
+
+(i) d’une part, les recettes et dépenses figurant dans les livres de comptes et autres documents financiers,
+
+
+
+
+
+
+
+
+
+
+(i) an account of the moneys received and disbursed,
+
+
+
+
+
+(ii) d’autre part, les prévisions de recettes et de dépenses figurant dans le budget et tous budgets supplémentaires.
+
+
+
+
+
+
+
+
+
+
+(ii) an account of revenues and expenditures,
+
+
+
+
+
+(2) Peuvent consulter le budget, les états financiers et le rapport correspondant du vérificateur, ainsi que tout rapport annuel, le citoyen qui remplit les conditions ci-après, son représentant légal habilité et son comptable habilité :
+
+
+
+Consultation des documents financiers
+
+
+
+
+
+
+(iii) a record of accounts payable and receivable,
+
+
+
+
+
+a) avoir vingt et un ans;
+
+
+
+
+
+
+
+
+
+
+(iv) an account of assets and liabilities,
+
+
+
+
+
+b) être mentalement capable;
+
+
+
+
+
+
+
+
+
+
+(v) an account of all other transactions of the First Nation that may affect the financial position of the First Nation, and
+
+
+
+
+
+c) être en règle quant aux dettes envers la première nation.
+
+
+
+
+
+
+
+
+
+
+(vi) a separate accounting for the expenditure and balance of capital and revenue;
+
+
+
+
+
+(3) Ce droit de consultation ne comporte pas celui de prendre copie des documents.
+
+
+
+Reproduction interdite
+
+
+
+
+
+
+(b) conform with generally accepted accounting principles; and
+
+
+
+
+
+(4) La consultation peut se faire dans les bureaux du conseil ou en tout autre lieu désigné par la loi, et ce seulement pendant les heures normales d’ouverture ou les autres périodes prévues par la loi.
+
+
+
+Lieu de la consultation
+
+
+
+
+
+
+(c) permit a comparison between
+
+
+
+
+
+(5) La consultation est limitée à deux fois par exercice, exclusion faite du droit d’examiner les livres et autres documents à l’assemblée générale annuelle.
+
+
+
+Nombre de consultations
+
+
+
+
+
+
+(i) revenues and expenditures as shown in the books of accounts and financial records, and
+
+
+
+
+
+(6) La première nation peut exiger le versement de droits pour couvrir les frais de surveillance engagés lors de la consultation, mais l’examen des livres et autres documents à l’assemblée générale annuelle est gratuit.
+
+
+
+Versement de droits
+
+
+
+
+
+
+(ii) the projected revenues and expenditures as shown in the budget and any supplementary budget.
+
+
+
+
+
+(7) Les renseignements figurant dans les états financiers, le budget et le rapport du vérificateur sont confidentiels.
+
+
+
+Caractère confidentiel des documents
+
+
+Inspection of financial records
+
+
+
+(2) Any citizen who
+
+
+
+
+
+(8) Il incombe au conseil d’obtenir l’accord des intéressés quant au caractère confidentiel des documents et d’inscrire en caractères gras dans le texte de l’accord un avertissement explicite sur les conséquences de tout manquement à cet égard.
+
+
+
+Obligation du conseil
+
+
+
+
+
+
+(a) is the age of 21 years,
+
+
+
+
+
+22. (1) Sans retard, mais en tout état de cause dans les six mois suivant la fin de chaque exercice, le conseil établit un état financier comparatif comportant, au minimum :
+
+
+
+Établissement des états financiers
+
+
+
+
+
+
+(b) is mentally competent, and
+
+
+
+
+
+a) un bilan;
+
+
+
+
+
+
+
+
+
+
+(c) whose debts to the First Nation are in good standing
+
+
+
+
+
+b) un état des recettes et dépenses, en comparaison avec les éléments du budget et de tous budgets supplémentaires.
+
+
+
+
+
+
+
+
+
+
+and that citizen’s qualified legal representative and qualified accountant may inspect the budget, financial statements, the auditor’s report relating thereto and any annual report.
+
+
+
+
+
+(2) L’état financier doit être conforme aux principes comptables généralement admis.
+
+
+
+Principes comptables
+
+
+No right to copy
+
+
+
+(3) A right of inspection does not include the right to take copies.
+
+
+
+
+
+(3) L’état financier doit présenter séparément les dépenses et le solde des fonds en capital et en recettes.
+
+
+
+Comptes rendus séparés pour le capital et les recettes
+
+
+Where to inspect
+
+
+
+(4) A right of inspection may be exercised at the office of the Council or such other place designated by law and may be exercised only during normal business hours or such other times as is provided by law.
+
+
+
+
+
+23. (1) Le conseil nomme un vérificateur des comptes et opérations de la première nation.
+
+
+
+Nomination d’un vérificateur
+
+
+Number of inspections
+
+
+
+(5) A right of inspection may not be exercised more than twice in each fiscal year in addition to the right to inspect the books and records at the annual general assembly.
+
+
+
+
+
+(2) Le vérificateur reste en fonctions jusqu’à nomination d’un successeur.
+
+
+
+Durée du mandat
+
+
+Fee for inspections
+
+
+
+(6) The First Nation may charge a service fee to cover the costs of supervision during inspections provided for by subsection (2), but no fee may be charged to inspect the books and records at the annual general assembly.
+
+
+
+
+
+(3) Lorsque la charge de vérificateur devient vacante, le conseil nomme sans retard un nouveau vérificateur.
+
+
+
+Vacance de la charge de vérificateur
+
+
+Confidentiality of records
+
+
+
+(7) All information in the financial statements, budget and auditor’s report is confidential.
+
+
+
+
+
+(4) Le vérificateur doit être indépendant de la première nation.  Il doit être un membre en règle — ou être une société dont les associés sont des membres en règle — soit de l’Institut canadien des comptables agréés, soit de l’association des comptables généraux agrées de la province ayant un lien territorial avec la nation.
+
+
+
+Indépendance du vérificateur
+
+
+Duty of Council
+
+
+
+(8) It is the duty of the Council to obtain confidentiality agreements and give warning in large bold print in any such agreements of the specific consequence of a breach of confidence.
+
+
+
+
+
+(5) Pour l’application du présent article :
+
+
+
+Détermination de l’état d’indépendance
+
+
+Preparation of financial statements
+
+
+
+22. (1) Forthwith, but in any event no later than six months after the end of each fiscal year, the Council shall prepare a financial statement in comparative form, containing as a minimum,
+
+
+
+
+
+a) l’indépendance est une question de fait;
+
+
+
+
+
+
+
+
+
+
+(a) a balance sheet; and
+
+
+
+
+
+b) une personne est réputée ne pas être indépendante si elle-même ou son associé, selon le cas :
+
+
+
+
+
+
+
+
+
+
+(b) a statement of revenues and expenditures and a comparison of these with amounts stated in the First Nation’s budget and any supplementary budget.
+
+
+
+
+
+(i) est soit un associé, un agent ou un employé de la première nation ou participe à des intérêts industriels, commerciaux ou financiers de celle-ci, soit un associé d’un tel agent ou employé,
+
+
+
+
+
+
+Accounting principles
+
+
+
+(2) The financial statement must conform with generally accepted accounting principles.
+
+
+
+
+
+(ii) a, directement ou indirectement, la propriété effective ou le contrôle d’un droit sur des valeurs ou sur des intérêts industriels, commerciaux ou financiers de la nation,
+
+
+
+
+
+
+Separate capital and revenue accounting
+
+
+
+(3) The financial statement must show the expenditure and balance of capital and revenue separately.
+
+
+
+
+
+(iii) a été séquestre, séquestre-gérant, liquidateur ou syndic de faillite de la nation ou d’intérêts industriels, commerciaux ou financiers de celle-ci au cours des deux années précédant la proposition visant sa nomination à la charge de vérificateur de la nation.
+
+
+
+
+
+
+Appointment of auditor
+
+
+
+23. (1) The Council shall appoint an auditor to audit the accounts and transactions of the First Nation.
+
+
+
+
+
+(6) Sous réserve du paragraphe (9), le vérificateur de la première nation est déchu de sa charge s’il cesse d’être indépendant de la nation, de ses intérêts industriels, commerciaux ou financiers, ou de ses agents.
+
+
+
+Déchéance
+
+
+Tenure of auditor
+
+
+
+(2) The auditor holds office until a new auditor is appointed.
+
+
+
+
+
+(7) Sous réserve du paragraphe (9), le vérificateur ainsi déchu de sa charge est tenu de démissionner dès qu’il a connaissance de sa déchéance.
+
+
+
+Obligation de démission
+
+
+Vacancy of auditor
+
+
+
+(3) When a vacancy occurs during the term of the auditor, the Council shall forthwith appoint a new auditor.
+
+
+
+
+
+(8) Toute personne intéressée peut demander à un tribunal compétent de rendre une ordonnance déclarant le vérificateur déchu de sa charge et déclarant cette charge vacante.
+
+
+
+Ordonnance judiciaire
+
+
+Independence of auditor
+
+
+
+(4) The auditor must be independent of the First Nation and must be a member, or a partnership whose partners are members, in good standing of the Canadian Institute of Chartered Accountants or the Certified General Accountants Association of a province having a territorial link with the First Nation.
+
+
+
+
+
+(9) Toute personne intéressée peut demander à un tribunal compétent de rendre une ordonnance exemptant le vérificateur de la déchéance.  Le tribunal, s’il est convaincu que l’exemption ne devrait pas causer de préjudice injuste à la première nation, peut rendre l’ordonnance, laquelle peut être assortie des conditions qu’il juge indiquées et avoir un effet rétroactif.
+
+
+
+Exemption de la déchéance
+
+
+Determining independence
+
+
+
+(5) For the purposes of this section,
+
+
+
+
+
+24. (1) Le vérificateur établit et présente au conseil, dans les six mois suivant l’établissement de l’état financier de la première nation, un rapport sur ce dernier précisant si, à son avis, l’état présente fidèlement la situation financière de la nation selon les principes comptables généralement admis, appliqués suivant des modalités compatibles avec celles qui ont été suivies pour l’exercice précédent.
+
+
+
+Rapport du vérificateur
+
+
+
+
+
+
+(a) independence is a question of fact; and
+
+
+
+
+
+(2) Au cas où il n’aurait pas été en mesure d’établir son rapport dans le délai prévu, le vérificateur notifie au conseil les raisons du retard.
+
+
+
+Retard à présenter le rapport
+
+
+
+
+
+
+(b) a person is deemed not to be independent if that person or that person’s business partner
+
+
+
+
+
+25. Sur demande du vérificateur de la première nation, les vérificateurs précédents ou les agents, employés ou mandataires, actuels ou précédents, de la nation sont tenus :
+
+
+
+Obligation d’informer le vérificateur
+
+
+
+
+
+
+(i) is a business partner, an officer or an employee of the First Nation or participates in any of its business or financial interests or is a business partner of any officer or employee of the First Nation,
+
+
+
+
+
+a) de lui fournir tous renseignements et explications;
+
+
+
+
+
+
+
+
+
+
+(ii) beneficially owns or controls, directly or indirectly, an interest in securities of the First Nation or any of its business or financial interests, or
+
+
+
+
+
+b) de lui donner accès, dans la mesure du possible, aux livres et autres documents de la nation qu’il estime nécessaires pour établir son rapport.
+
+
+
+
+
+
+
+
+
+
+(iii) has been a receiver, receiver manager, liquidator, or trustee in bankruptcy of the First Nation or any of its business or financial interests within two years of the proposed appointment as auditor of the First Nation.
+
+
+
+
+
+26. Les paiements de transfert fédéraux doivent être budgétisés, comptabilisés et vérifiés conformément aux modalités de l’accord conclu sur le transfert des fonds.
+
+
+
+Paiements de transfert fédéraux
+
+
+Disqualification
+
+
+
+(6) Subject to subsection (9), a person is disqualified from being an auditor of the First Nation if the person ceases to be independent of the First Nation, its business or financial interests or the officers of the First Nation.
+
+
+
+
+
+Enregistrement des lois
+
+
+
+
+
+
+Resignation required
+
+
+
+(7) An auditor who becomes disqualified under this section shall, subject to subsection (9), resign forthwith after becoming aware of the disqualification.
+
+
+
+
+
+27. (1) Le conseil tient un registre général des lois de la première nation où sont conservés les originaux de tous ces textes.
+
+
+
+Registre des lois
+
+
+Order of court
+
+
+
+(8) An interested person may apply to a court of competent jurisdiction for an order declaring an auditor to be disqualified under this section and the office of auditor to be vacant.
+
+
+
+
+
+(2) Le défaut d’enregistrement des lois de la première nation n’a pas pour effet de les invalider.
+
+
+
+Défaut d’enregistrement
+
+
+Exception to disqualification
+
+
+
+(9) An interested person may apply to a court of competent jurisdiction for an order exempting an auditor from disqualification under this section; and the Court may, if it is satisfied that an exemption would not unfairly prejudice the First Nation, make an exemption order on any terms the Court thinks fit, which order may have retrospective effect.
+
+
+
+
+
+(3) Tout citoyen peut obtenir copie d’une loi sur versement de droits fixés dans des limites raisonnables par le conseil.
+
+
+
+Droit de reproduction
+
+
+Auditor’s report
+
+
+
+24. (1) The auditor shall, within six months after the completion of the financial statement, prepare and submit to the Council a report on the First Nation’s financial statement, stating whether, in the opinion of the auditor, the financial statement presents fairly the financial position of the First Nation in accordance with generally accepted accounting principles applied on a basis consistent with that applied in the previous fiscal year.
+
+
+
+
+
+Droits sur les terres de la première nation
+
+
+
+
+
+
+Delay of report
+
+
+
+(2) Where the auditor has not been able to prepare the report within the period mentioned in subsection (1), the auditor shall notify the Council of the reasons for the delay.
+
+
+
+
+
+28. (1) L’approbation des opérations ci-après touchant aux droits sur les terres de la première nation doit être obtenue à la majorité de quatre-vingts pour cent des voix exprimées lors d’un référendum tenu à cette fin avec la participation de la majorité des électeurs :
+
+
+
+Opérations protégées
+
+
+Duty to inform auditor
+
+
+
+25. On demand of the auditor of the First Nation, the former auditors, or the present or former officers, employees, or agents of the First Nation shall furnish any
+
+
+
+
+
+a) hypothèque ou droit réel;
+
+
+
+
+
+
+
+
+
+
+(a) information and explanations; and
+
+
+
+
+
+b) vente;
+
+
+
+
+
+
+
+
+
+
+(b) access to records, documents, books, accounts and vouchers of the First Nation that are, in the opinion of the auditor, necessary to enable the auditor to make the report required under section 24 and that the officers, employees, agents or former auditors are reasonably able to furnish.
+
+
+
+
+
+c) concession en pleine propriété;
+
+
+
+
+
+
+Federal transfer payments
+
+
+
+26. Federal transfer payments must be budgeted and accounted for, and audited, in accordance with the terms of the agreement made in respect of the transfer of the funds.
+
+
+
+
+
+d) concession d’un droit pour plus de quatre-vingt-dix-neuf ans;
+
+
+
+
+
+
+
+
+
+
+Registration of Laws
+
+
+
+
+
+e) concession d’un droit à un citoyen à des fins autres que de résidence personnelle.
+
+
+
+
+
+
+Register of laws
+
+
+
+27. (1) The Council shall maintain a general register of the laws of the First Nation in which are to be kept the originals of all First Nation laws.
+
+
+
+
+
+(2) Sous réserve du paragraphe (1), le conseil peut, par résolution, autoriser l’octroi de droits sur des terres de la première nation ou pour leur usage, notamment sous forme de baux, de licences, de permis, de servitudes, de droits de passage ou d’emprise.
+
+
+
+Autorisation des opérations
+
+
+No invalidity
+
+
+
+(2) No law of the First Nation is invalid by reason only of a failure to be registered in compliance with subsection (1).
+
+
+
+
+
+
+
+
+
+
+Right to obtain copies
+
+
+
+(3) A citizen is entitled to obtain a copy of a law on payment of such reasonable fee as may be fixed by the Council.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interests in Lands of the First Nation
+
+
+
+
+
+
+
+
+
+
+Protected transactions
+
+
+
+28. (1) The following transactions involving interests in lands of the First Nation, namely,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) a mortgage or charge,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) a sale,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) a grant of fee simple,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) the grant of an interest for a term exceeding ninety-nine years, and
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e) the grant to a citizen of any interest other than a grant for personal residential purposes,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+require approval by a majority of eighty per cent of the votes cast by electors of the First Nation voting on a referendum held for the purpose of approving any of these transactions and in which a majority of the electors participate.
+
+
+
+
+
+
+
+
+
+
+Authorizing transactions
+
+
+
+(2) Subject to subsection (1), the Council may by resolution authorize the granting of leases, licenses, permits, easements, rights of way, or any other interests in or to the use of lands of the First Nation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE II
+
+
+
+
+
+ANNEXE II
+
+
+
+
+
+
+ENUMERATED LEGISLATIVE POWERS
+
+
+
+
+
+COMPÉTENCES LÉGISLATIVES
+
+
+
+
+
+
+1. Elections and referendums.
+
+
+
+
+
+1. Élections et référendums
+
+
+
+
+
+
+2. Practice and procedures of the First Nation.
+
+
+
+
+
+2. Mode de fonctionnement de la première nation
+
+
+
+
+
+
+3. Exercise of the First Nation’s powers.
+
+
+
+
+
+3. Exercice des pouvoirs de la première nation
+
+
+
+
+
+
+4. The internal management of the First Nation.
+
+
+
+
+
+4. Gestion interne de la première nation
+
+
+
+
+
+
+5. Lands of the First Nation.
+
+
+
+
+
+5. Terres de la première nation
+
+
+
+
+
+
+6. Property and money of the First Nation.
+
+
+
+
+
+6. Fonds et autres biens de la première nation
+
+
+
+
+
+
+7. The raising of money for the purposes of the First Nation by any means, including taxation.
+
+
+
+
+
+7. Prélèvement de sommes d’argent, par tous moyens y compris les impôts, pour les besoins de la première nation
+
+
+
+
+
+
+8. The diversion and application of moneys payable by the First Nation to a citizen.
+
+
+
+
+
+8. Distraction et affectation de sommes payables à un citoyen par la première nation
+
+
+
+
+
+
+9. Businesses, trades, occupations and professions.
+
+
+
+
+
+9. Entreprises, commerces, affaires, métiers et professions
+
+
+
+
+
+
+10. Health and hygiene.
+
+
+
+
+
+10. Santé et hygiène
+
+
+
+
+
+
+11. Solemnization of marriage.
+
+
+
+
+
+11. Célébration du mariage
+
+
+
+
+
+
+12. Social and welfare matters.
+
+
+
+
+
+12. Affaires et assistance sociales
+
+
+
+
+
+
+13. Adoption of children of and by citizens whether or not the children are resident on the lands of the First Nation.
+
+
+
+
+
+13. Adoption d’enfants de citoyens par ceux-ci, que ces enfants résident ou non sur les terres de la première nation
+
+
+
+
+
+
+14. Custody and placement of children of citizens, whether or not the children are resident on the lands of the First Nation.
+
+
+
+
+
+14. Garde et placement d’enfants de citoyens, que ces enfants résident ou non sur les terres de la première nation
+
+
+
+
+
+
+15. Administration of moveable property, wherever situated, and of interests in lands of the First Nation, of persons who being minors or dependent adult persons are ordinarily resident on lands of the First Nation and are citizens or minor children of citizens.
+
+
+
+
+
+15. Administration des biens meubles, indépendamment de leur localisation, et des droits sur des terres de la première nation, d’adultes à charge ou de mineurs, qui, residant habituellement sur des terres de la nation, sont des citoyens ou des enfants mineurs de citoyens
+
+
+
+
+
+
+16. Devolution, by will or intestate succession, of interests in lands of the First Nation and the personal property, wherever situated, of persons who are ordinarily resident on lands of the First Nation; and with respect to that interest and property, jurisdiction and authority over the validity, construction and proof of wills, the administration of estates and all matters and causes testamentary.
+
+
+
+
+
+16. Dévolution, par testament ou succession ab intestat, de droits sur des terres de la première nation et des biens meubles, independamment de leur localisation, de personnes résidant habituellement sur ses terres; touchant ces droits et biens, compétence et pouvoirs en matière de validité, d’interprétation et de preuve des testaments, d’administration des successions et en ce qui concerne toutes les autres questions et affaires d’ordre testamentaire
+
+
+
+
+
+
+17. Education of citizens wherever resident and other persons resident on lands of the First Nation.
+
+
+
+
+
+17. Éducation des citoyens, indépendamment du lieu de leur résidence, et des autres personnes résidant sur les terres de la première nation
+
+
+
+
+
+
+18. The environment.
+
+
+
+
+
+18. Environnement
+
+
+
+
+
+
+19. Utilities and services.
+
+
+
+
+
+19. Équipements et services publics
+
+
+
+
+
+
+20. Transportation.
+
+
+
+
+
+20. Transports
+
+
+
+
+
+
+21. Traffic.
+
+
+
+
+
+21. Circulation
+
+
+
+
+
+
+22. Observance of law and order, public order, safety and security.
+
+
+
+
+
+22. Ordre et sécurité publics
+
+
+
+
+
+
+23. Trespass and nuisance.
+
+
+
+
+
+23. Violations de propriété et nuisances
+
+
+
+
+
+
+24. Culture, customs and traditions.
+
+
+
+
+
+24. Culture, coutumes et traditions
+
+
+
+
+
+
+25. Public games, sports and amusements.
+
+
+
+
+
+25. Jeux, sports et divertissements publics
+
+
+
+
+
+
+26. Recreation.
+
+
+
+
+
+26. Loisirs
+
+
+
+
+
+
+27. Natural resources.
+
+
+
+
+
+27. Ressources naturelles
+
+
+
+
+
+
+28. Infrastructure.
+
+
+
+
+
+28. Infrastructures
+
+
+
+
+
+
+29. Animals.
+
+
+
+
+
+29. Animaux
+
+
+
+
+
+
+30. Weapons.
+
+
+
+
+
+30. Armes
+
+
+
+
+
+
+31. Intoxicants.
+
+
+
+
+
+31. Boissons alcooliques
+
+
+
+
+
+
+32. Local institutions.
+
+
+
+
+
+32. Institutions locales
+
+
+
+
+
+
+33. Trusts held for the benefit of citizens and the variation of any such trusts wherever the trusts or the citizens are situated.
+
+
+
+
+
+33. Fiducies détenues au profit de citoyens et modification de ces fiducies, indépendamment de la localisation des fiducies ou du lieu de résidence des citoyens
+
+
+
+
+
+
+34. The establishment of offenses and the penalties therefor.
+
+
+
+
+
+34. Création d’infractions et des peines correspondantes
+
+
+
+
+
+
+35. The administration of justice, including the establishment and designation of courts and tribunals of criminal and civil jurisdiction.
+
+
+
+
+
+35. Administration de la justice, y compris la constitution et la désignation de juridictions civiles et criminelles
+
+
+
+
+
+
+36. The creation of bodies corporate and politic to carry out government, administrative, education, health or other functions.
+
+
+
+
+
+36. Création de personnes morales et de corps politiques chargés de fonctions gouvernementales, administratives, éducatives, sanitaires ou autres
+
+
+
+
+
+
+37  .The creation, operation and governance of companies, whether as bodies corporate, partnerships or any other organizational form, to carry on business on the lands of the First Nation.
+
+
+
+
+
+37. Création, fonctionnement et direction d’associations — personnes morales, sociétés de personnes ou autres — exerçant leurs activités sur les terres de la première nation
+
+
+
+
+
+
+38. Any other matters, activities or things relating to the First Nation, its citizens, lands of the First Nation, moneys, property and other tribal patrimony.
+
+
+
+
+
+38. Toutes autres questions, activités ou affaires relatives à la première nation, à ses citoyens, à ses terres, à ses fonds, à ses biens et à tout autre patrimoine tribal
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+

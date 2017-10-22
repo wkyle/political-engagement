@@ -1,0 +1,1566 @@
+
+
+
+
+
+C-542
+
+
+
+
+
+C-542
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-542
+
+
+
+
+
+PROJET DE LOI C-542
+
+
+
+
+
+
+An Act to amend the Employment Insurance Act   (illness of child) and another Act in consequence 
+
+
+
+
+
+Loi modifiant la Loi sur l'assurance-emploi  (maladie d'un enfant) et une autre loi en conséquence 
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 8, 2009
+
+première lecture le 8 juin 2009
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Brown (Leeds—Grenville)
+
+402292
+
+
+
+M. Brown (Leeds—Grenville)
+
+
+
+
+
+SUMMARY
+This enactment amends the Employment Insurance Act to extend benefits to a claimant whose child has a serious medical condition that requires a parent to remain at home or with the child while the child receives care.  It also amends the Canada Labour Code in consequence.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur l’assurance-emploi afin d’accorder des prestations au prestataire dont l’enfant est atteint d’une maladie grave qui requiert la présence du père ou de la mère à domicile ou avec l’enfant pendant qu’il reçoit des soins. Il modifie également le Code canadien du travail en conséquence.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-542
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-542
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Employment Insurance Act   (illness of child) and another Act in consequence 
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur l'assurance-emploi  (maladie d'un enfant) et une autre loi en conséquence 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons 
+of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+1996, c. 23
+
+
+
+EMPLOYMENT INSURANCE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’ASSURANCE-EMPLOI
+
+
+
+1996, ch. 23
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Employment Insurance Act is amended by adding the following after section 23.1:
+
+
+
+
+
+
+
+
+
+1. La Loi sur l’assurance-emploi est modifiée par adjonction, après l’article 23.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+23.2 (1) The following definitions apply in this section. 
+
+
+
+
+“child”« enfant »
+
+
+
+“child”, in relation to a claimant, means a child of the claimant or a child of the claimant’s spouse or common-law partner who
+
+
+
+
+
+
+
+
+(a) is less than 18 years of age; or
+
+
+
+
+
+
+
+
+(b) is 18 or more years of age but less than 25 years of age, and is in full-time attendance at a school or university, having been in such attendance substantially without interruption since the child reached 18 years of age or  since the child became ill.
+
+
+
+
+“qualified medical practitioner”« médecin qualifié »
+
+
+
+“qualified medical practitioner” means a person who is entitled to practise medicine under the laws of a jurisdiction in which care or treatment of the child is provided and includes a member of a class of medical practitioners prescribed for the purposes of subsection 23.1(3).
+
+
+
+
+
+
+
+
+
+23.2 (1) Les définitions qui suivent s’appliquent au présent article.
+
+
+
+Définitions
+
+
+
+
+« enfant » Enfant du prestataire ou de son époux ou conjoint de fait :
+
+
+
+« enfant »“child”
+
+
+
+
+a) qui est âgé de moins de dix-huit ans;
+
+
+
+
+
+
+
+
+b) qui est âgé de dix-huit ans ou plus mais de moins de vingt-cinq ans et fréquente à plein temps une école ou une université, et ce sans interruption appréciable depuis la date de ses dix-huit ans ou la date du début de sa maladie.
+
+
+
+
+
+
+
+
+« médecin qualifié » Personne autorisée à exercer la médecine en vertu des lois du territoire où des soins ou des traitements médicaux sont prodigués à l’enfant en cause. Est visée par la présente définition la personne faisant partie d'une catégorie de spécialistes de la santé prévue par règlement pour l'application du paragraphe 23.1(3).
+
+
+
+« médecin qualifié »“qualified medical practitioner”
+
+
+
+
+
+
+
+
+
+
+Parental benefits
+
+
+
+(2) Notwithstanding section 18, but subject to this section, benefits are payable to a major attachment claimant to care for a child if a qualified medical practitioner has issued a certificate stating that the child has a serious medical condition that requires a parent to remain at home or with the child while the child receives care
+
+
+
+
+
+
+
+
+(a) from the day the certificate is issued;
+
+
+
+
+
+
+
+
+(b) in the case of a claim that is made before the day the certificate is issued, from the day on which the qualified medical practitioner certifies the child’s medical condition; or
+
+
+
+
+
+
+
+
+(c) in the case of a claim that is regarded to have been made on an earlier day under subsection 10(4) or (5), from that earlier day.
+
+
+
+
+
+
+
+
+
+(2) Malgré l’article 18, mais sous réserve des autres dispositions du présent article, des prestations sont payables à un prestataire de la première catégorie pour prodiguer des soins à un enfant, si un médecin qualifié délivre un certificat attestant que l’enfant est atteint d’une maladie grave qui requiert la présence du père ou de la mère à domicile ou avec l’enfant pendant qu’il reçoit des soins :
+
+
+
+Prestations parentales
+
+
+
+
+a) soit à compter du jour de la délivrance du certificat;
+
+
+
+
+
+
+
+
+b) soit à compter du jour où le médecin qualifié atteste l’état de santé de l’enfant, dans le cas où la demande de prestations est présentée avant le jour de la délivrance du certificat;
+
+
+
+
+
+
+
+
+c) soit à compter du jour déterminé conformément aux paragraphes 10(4) ou (5), dans le cas où une demande est considérée comme ayant été présentée à une date antérieure au titre d’un de ces paragraphes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certificate
+
+
+
+(3) The certificate must state the number of weeks that the child is expected to require a parent to remain at home or with the child while the child receives care to a maximum of 52 weeks.
+
+
+
+
+
+
+
+
+
+(3) Le certificat doit indiquer le nombre de semaines durant lesquelles sera requise la présence du père ou de la mère à domicile ou avec l'enfant pendant que celui-ci reçoit des soins, jusqu’à concurrence de cinquante-deux semaines.
+
+
+
+Certificat
+
+
+
+
+
+
+
+
+
+
+Second certificate may be issued
+
+
+
+(4) If, at the end of the period set out in the certificate issued under subsection (2), the child still requires a parent to remain at home or with the child while the child receives care, the medical practitioner may issue a new certificate to extend the period, to a maximum of 52 additional weeks.
+
+
+
+
+
+
+
+
+
+(4) Si, à l’expiration de la période indiquée sur le certificat délivré aux termes du paragraphe (2), l’enfant a encore besoin de la présence du père ou de la mère à domicile ou avec lui pendant qu'il reçoit des soins, le médecin qualifié peut délivrer un nouveau certificat pour prolonger cette période d’au plus cinquante-deux semaines additionnelles.
+
+
+
+Nouveau certificat
+
+
+
+
+
+
+
+
+
+
+Weeks for which benefits may be paid
+
+
+
+(5) Notwithstanding section 12, benefits under this section are payable for each week of unemployment in the period
+
+
+
+
+
+
+
+
+(a) that begins with the first day of the week in which the following falls, namely,
+
+
+
+
+
+
+
+
+(i) the day the first certificate in respect of the child that meets the requirements of subsection (1) is issued and filed with the Commission,
+
+
+
+
+
+
+
+
+(ii) in the case of a claim that is made before the day the certificate is issued, the day from which the medical doctor certifies the child’s medical condition, or
+
+
+
+
+
+
+
+
+(iii) in the case of a claim that is regarded to have been made on an earlier day under subsection 10(4) or (5), that earlier day; and
+
+
+
+
+
+
+
+
+(b) that ends on the last day of the week in which any of the following occurs, namely,
+
+
+
+
+
+
+
+
+(i) all benefits payable under this section in respect of the child are exhausted,
+
+
+
+
+
+
+
+
+(ii) the child is no longer in need of medical care,
+
+
+
+
+
+
+
+
+(iii) the child dies, or
+
+
+
+
+
+
+
+
+(iv) the expiration of  the time set out in the certificate,  to a maximum of 104 weeks.
+
+
+
+
+
+
+
+
+
+(5) Malgré l’article 12, les prestations prévues au présent article sont payables pour chaque semaine de chômage comprise dans la période :
+
+
+
+Semaines pour lesquelles des prestations peuvent être versées
+
+
+
+
+a) qui commence au début de la semaine au cours de laquelle tombe l'un des jours suivants :
+
+
+
+
+
+
+
+
+(i) le jour où le  premier certificat relatif à l’enfant qui satisfait aux conditions du paragraphe (1) est délivré et fourni à la Commission,
+
+
+
+
+
+
+
+
+(ii) le jour où le médecin atteste l’état de santé de l’enfant, dans le cas où la demande de prestations est présentée avant le jour de la délivrance du certificat,
+
+
+
+
+
+
+
+
+(iii) le jour déterminé conformément aux paragraphes 10(4) ou (5), dans le cas où une demande est considérée comme ayant été présentée à une date antérieure au titre d’un de ces paragraphes;
+
+
+
+
+
+
+
+
+b) qui se termine à la fin de la semaine au cours de laquelle l'un des événements suivants se produit :
+
+
+
+
+
+
+
+
+(i) les dernières prestations qui peuvent être versées relativement à l’enfant aux termes du présent article sont versées,
+
+
+
+
+
+
+
+
+(ii) l’enfant n’a plus besoin de soins médicaux,
+
+
+
+
+
+
+
+
+(iii) l’enfant décède,
+
+
+
+
+
+
+
+
+(iv) la période indiquée sur le certificat, jusqu’à concurrence de cent quatre semaines, prend fin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Length of benefit period
+
+
+
+(6) Notwithstanding section 10, the length of a benefit period is 156 weeks.
+
+
+
+
+
+
+
+
+
+(6) Malgré l’article 10, la durée d’une période de prestations est de cent cinquante-six semaines.
+
+
+
+Durée de la période de prestations
+
+
+
+
+
+
+
+
+
+
+Deferral of waiting period
+
+
+
+(7) A claimant who makes a claim for benefits under this section may have his or her waiting period deferred until he or she makes another claim for benefits in the same benefit period if
+
+
+
+
+
+
+
+
+(a) the claimant has already made a claim for benefits under this section in respect of the same child and has served the waiting period;
+
+
+
+
+
+
+
+
+(b) another claimant has made a claim for benefits under this section in respect of the same child during the period described in subsection (4) and that other claimant has served or is serving the waiting period; or
+
+
+
+
+
+
+
+
+(c) another claimant is making a claim for benefits under this section in respect of the same child at the same time as the claimant and that other claimant elects to serve the waiting period.
+
+
+
+
+
+
+
+
+
+(7) Le prestataire qui présente une demande de prestations au titre du présent article peut faire reporter l’obligation de purger son délai de carence à toute autre demande de prestations éventuellement présentée au cours de la même période de prestations si, selon le cas :
+
+
+
+Report du délai de carence
+
+
+
+
+a) il a déjà présenté une demande de prestations au titre du présent article relativement au même enfant et a purgé son délai de carence;
+
+
+
+
+
+
+
+
+b) un autre prestataire a présenté une demande de prestations au titre du présent article relativement au même enfant pendant la période visée au paragraphe (4) et est en train de purger ou a déjà purgé son délai de carence pour cette demande;
+
+
+
+
+
+
+
+
+c) un autre prestataire présente une demande de prestations au titre du présent article relativement au même enfant au même moment que lui et choisit de purger son délai de carence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division of weeks of benefits
+
+
+
+(8) If more than one claimant makes a claim for benefits under this section in respect of the same child, any remaining weeks of benefits payable under this section may be divided in the manner agreed to by those claimants.
+
+
+
+
+
+
+
+
+
+(8) Si plusieurs prestataires présentent une demande de prestations au titre du présent article relativement au même enfant, les semaines de prestations payables où celles-ci n’ont pas été versées peuvent être partagées conformément à l’entente conclue entre les prestataires.
+
+
+
+Paiement à plus d’un prestataire
+
+
+
+
+
+
+
+
+
+
+Failure to agree
+
+
+
+(9) If the claimants referred to in subsection (8) cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+
+
+
+
+
+
+
+
+
+(9) Si les prestataires visés au paragraphe (8) n’arrivent pas à s’entendre, le partage des semaines de prestations payables doit être effectué conformément aux règles prévues par règlement.
+
+
+
+Absence d’entente
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(10) When benefits are payable to a claimant for the reasons set out in this section and any allowances, money or other benefits are payable to the claimant under a provincial law for the same or substantially the same reasons, the benefits payable to the claimant under this section shall be reduced or eliminated as prescribed.
+
+
+
+
+
+
+
+
+
+(10) Si des prestations sont payables à un prestataire pour les raisons visées au présent article et que des allocations, des prestations ou d’autres sommes lui sont payables en vertu d’une loi provinciale pour des raisons qui sont les mêmes ou essentiellement les mêmes, les prestations qui lui sont payables en vertu du présent article sont réduites ou supprimées de la manière prévue par règlement.
+
+
+
+Restrictions
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENT
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+R.S., c. L-2
+
+
+
+Canada Labour Code
+
+
+
+
+
+
+
+
+
+Code canadien du travail
+
+
+
+L.R., ch. L-2
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Canada Labour Code is amended by adding the following after section 206.3:
+
+
+
+
+
+
+
+
+
+2. Le Code canadien du travail est modifié par adjonction, après l’article 206.3, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Leave to Care for Sick Child
+
+
+
+
+
+
+
+
+
+Congé pour prendre soin d’un enfant malade
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+206.4 (1) The following definitions apply in this section.
+
+
+
+
+“child”« enfant »
+
+
+
+“child” means a child of the employee or a child of the employee’s spouse or common-law partner who
+
+
+
+
+
+
+
+
+(a) is less than 18 years of age; or
+
+
+
+
+
+
+
+
+(b) is 18 or more years of age but less than 25 years of age, and is in full-time attendance at a school or university, having been in such attendance substantially without interruption since the child reached 18 years of age or  since the child became ill.
+
+
+
+
+“common-law partner”« conjoint de fait »
+
+
+
+“common-law partner”, in relation to an employee, means a person who is cohabiting with the employee in a conjugal relationship, having so cohabited for a period of at least one year.
+
+
+
+
+“qualified medical practitioner”« médecin qualifié »
+
+
+
+“qualified medical practitioner” means a person who is entitled to practise medicine under the laws of a jurisdiction in which care or treatment of the child is provided and includes a member of a class of medical practitioners prescribed for the purposes of subsection 23.1(3) of the Employment Insurance Act.
+
+
+
+
+“week”« semaine »
+
+
+
+“week” means a week as defined in subsection 206.3(1).
+
+
+
+
+
+
+
+
+
+206.4 (1) Les définitions qui suivent s'appliquent au présent article.
+
+
+
+Définitions
+
+
+
+
+« conjoint de fait » La personne qui vit avec l’employé dans une relation conjugale depuis au moins un an.
+
+
+
+« conjoint de fait »“common-law partner”
+
+
+
+
+« enfant » Enfant de l’employé ou de son époux ou conjoint de fait :
+
+
+
+« enfant »“child”
+
+
+
+
+a) qui est âgé de moins de dix-huit ans;
+
+
+
+
+
+
+
+
+b) qui est âgé de dix-huit ans ou plus mais de moins de vingt-cinq ans et fréquente à plein temps une école ou une université, et ce sans interruption appréciable depuis la date de ses dix-huit ans ou la date du début de sa maladie.
+
+
+
+
+
+
+
+
+« médecin qualifié » Personne autorisée à exercer la médecine en vertu des lois du territoire où des soins ou des traitements médicaux sont prodigués à l’enfant en cause. Est visée par la présente définition la personne faisant partie d'une catégorie de spécialistes de la santé prévue par règlement pour l'application du paragraphe 23.1(3) de la Loi sur l'assurance-emploi.
+
+
+
+« médecin qualifié »“qualified medical practitioner”
+
+
+
+
+« semaine » S’entend au sens du paragraphe 206.3(1).
+
+
+
+« semaine »“week”
+
+
+
+
+
+
+
+
+
+
+Entitlement to leave
+
+
+
+(2) Subject to subsections (3) to (7), every employee is entitled to and shall be granted a leave of absence from employment of up to 104 weeks to care for a child if a qualified medical practitioner issues a certificate stating that the child has a serious medical condition that requires a parent to remain at home or with the child while the child receives care.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve des paragraphes (3) à (7), l'employé a droit à un congé d'au plus cent quatre semaines pour prodiguer des soins à un enfant dans le cas où un médecin qualifié délivre un certificat attestant que cet enfant est atteint d’une maladie grave qui requiert la présence du père ou de la mère à domicile ou avec l’enfant pendant qu’il reçoit des soins.
+
+
+
+Modalités d'attribution
+
+
+
+
+
+
+
+
+
+
+Period when leave may be taken
+
+
+
+(3) The leave of absence may only be taken during the period
+
+
+
+
+
+
+
+
+(a) that starts with
+
+
+
+
+
+
+
+
+(i) the first day of the week in which the certificate is issued, or
+
+
+
+
+
+
+
+
+(ii) if the leave was commenced before the certificate was issued, the first day of the week in which the leave was commenced if the certificate is valid from any day in that week; and
+
+
+
+
+
+
+
+
+(b) that ends with the last day of the week in which any of the following occurs, namely,
+
+
+
+
+
+
+
+
+(i) the child is no longer in need of medical care,
+
+
+
+
+
+
+
+
+(ii) the child dies, or
+
+
+
+
+
+
+
+
+(iii) the expiration of  the period set out in the certificate, to a maximum of 104 weeks.
+
+
+
+
+
+
+
+
+
+(3) Le droit au congé ne peut être exercé qu'au cours de la période :
+
+
+
+Période de congé
+
+
+
+
+a) qui commence :
+
+
+
+
+
+
+
+
+(i) soit au début de la semaine au cours de laquelle le certificat est délivré,
+
+
+
+
+
+
+
+
+(ii) soit, si le congé commence avant le jour de la délivrance du certificat, au début de la semaine au cours de laquelle commence le congé si le certificat est valide à partir d’un jour de cette semaine;
+
+
+
+
+
+
+
+
+b) qui se termine à la fin de la semaine au cours de laquelle l'un des événements suivants se produit :
+
+
+
+
+
+
+
+
+(i) l’enfant n’a plus besoin de soins médicaux,
+
+
+
+
+
+
+
+
+(ii) l’enfant décède,
+
+
+
+
+
+
+
+
+(iii) la période prévue dans le certificat, jusqu’à concurrence de cent quatre semaines, prend fin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Extension of period
+
+
+
+(4) The period referred to in subparagraph (3)(b)(iii) may be extended if the qualified medical practitioner issues a new certificate setting out the number of weeks that the child is expected to require a parent to remain at home or with the child while the child receives care, to a maximum of 52 additional weeks.
+
+
+
+
+
+
+
+
+
+(4) La période visée au sous-alinéa (3)b)(iii) peut être prolongée si un médecin qualifié délivre un nouveau certificat indiquant le nombre de semaines durant lesquelles sera requise la présence du père ou de la mère à domicile ou avec l'enfant pendant que celui-ci reçoit des soins, jusqu’à concurrence de cinquante-deux semaines additionnelles.
+
+
+
+Prolongation de la période
+
+
+
+
+
+
+
+
+
+
+Minimum period of leave
+
+
+
+(5) A leave of absence under this section may only be taken in periods of not less than one week's duration.
+
+
+
+
+
+
+
+
+
+(5) Le droit au congé visé au présent article ne peut être exercé qu'en périodes d'une durée minimale d'une semaine chacune.
+
+
+
+Durée minimale d'une période de congé
+
+
+
+
+
+
+
+
+
+
+Aggregate leave — more than one employee
+
+
+
+(6) The aggregate amount of leave that may be taken by two or more employees under this section in respect of the care of the same child shall not exceed 104 weeks in the period referred to in subsection (3).
+
+
+
+
+
+
+
+
+
+(6) La durée maximale de l'ensemble des congés que peuvent prendre aux termes du présent article plusieurs employés pour prodiguer des soins au même enfant pendant la période visée au paragraphe (3) est de cent quatre semaines.
+
+
+
+Durée maximale du congé — plusieurs employés
+
+
+
+
+
+
+
+
+
+
+Copy of certificate
+
+
+
+(7) If requested in writing by the employer within 15 days after an employee's return to work, the employee must provide the employer with a copy of the certificate referred to in subsections (2) and (4).
+
+
+
+
+
+
+
+
+
+(7) L'employé fournit à l'employeur, sur demande écrite présentée à cet effet par celui-ci dans les quinze jours qui suivent le retour au travail, une copie du certificat prévu aux paragraphes (2) et (4).
+
+
+
+Copie du certificat
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

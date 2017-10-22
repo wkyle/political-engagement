@@ -1,0 +1,835 @@
+
+
+
+
+
+S-6
+
+
+
+
+
+S-6
+
+
+
+
+
+
+Second Session, Thirty-sixth Parliament,
+
+
+
+
+
+Deuxième session, trente-sixième législature,
+
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-6
+
+
+
+
+
+PROJET DE LOI S-6
+
+
+
+
+
+
+An Act to amend the Criminal Code respecting criminal harassment and other related matters
+
+
+
+
+
+Loi modifiant le Code criminel relativement au harcèlement criminel et à d’autres sujets connexes
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 2, 1999
+
+première lecture le 2 novembre 1999
+
+
+
+
+
+
+
+
+
+
+
+
+The Honourable Senator Oliver
+
+2306
+
+
+
+L’honorable sénateur Oliver
+
+
+
+
+
+Summary
+This enactment increases the maximum penalties for the offences of criminal harassment, indecent and harassing telephone calls and intimidation. 
+It would also bring the offence of criminal harassment within the definition of “serious personal injury offence” in section 752 of the Criminal Code in order to permit dangerous offender applications to be made in respect of it.
+The enactment would also list criminal harassment as an offence for which long-term offender applications may be made.
+
+
+
+Sommaire
+Ce texte augmente les peines maximales pour les infractions de harcèlement criminel, de propos indécents au téléphone d’appels téléphoniques harassants et d’intimidation.
+Il incorpore à la définition de « sévices graves à la personne » à l’article 752 du Code criminel l’infraction de harcèlement criminel de sorte qu’il serait possible de présenter une demande de déclaration à titre de criminel dangereux à l’égard de cette infraction.
+Le texte ajouterait de plus l’infraction de harcèlement criminel à celles pour lesquelles une demande de déclaration à titre de délinquant à contrôler peut être faite.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 36th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 36e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-6
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code respecting criminal harassment and other related matters
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel relativement au harcèlement criminel et à d’autres sujets connexes
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C–46; R.S., cc. 2, 11, 27, 31, 47, 51, 52 (1st Supp.), cc. 1, 24, 27, 35 (2nd Supp.), cc. 10, 19, 30, 34 (3rd Supp.), cc. 1, 23, 29, 30, 31, 32, 40, 42, 50 (4th Supp.); 1989, c. 2; 1990, cc. 15, 16, 17, 44; 1991, cc. 1, 4, 28, 40, 43; 1992, cc. 1, 11, 20, 21, 22, 27, 38, 41, 47, 51; 1993, cc. 7, 25, 28, 34, 37, 40, 45, 46; 1994, cc. 12, 13, 38, 44; 1995, cc. 5, 19, 22, 27, 29, 32, 39, 42; 1996, cc. 8, 16, 19, 31, 34; 1997, cc. 9, 16, 17, 18, 23, 30, 39; 1998, cc. 7, 9, 15, 30, 34, 35, 37; 1999, cc. 5, 17, 18, 25, 28, 31, 32
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. C–46; L.R., ch. 2, 11, 27, 31, 47, 51, 52 (1er suppl.), ch. 1, 24, 27, 35 (2e suppl.), ch. 10, 19, 30, 34 (3e suppl.), ch. 1, 23, 29, 30, 31, 32, 40, 42, 50 (4e suppl.); 1989, ch. 2; 1990, ch. 15, 16, 17, 44; 1991, ch. 1, 4, 28, 40, 43; 1992, ch. 1, 11, 20, 21, 22, 27, 38, 41, 47, 51; 1993, ch. 7, 25, 28, 34, 37, 40, 45, 46; 1994, ch. 12, 13, 38, 44; 1995, ch. 5, 19, 22, 27, 29, 32, 39, 42; 1996, ch. 8, 16, 19, 31, 34; 1997, ch. 9, 16, 17, 18, 23, 30, 39; 1998, ch. 7, 9, 15, 30, 34, 35, 37; 1999, ch. 5, 17, 18, 25, 28, 31, 32
+
+
+
+
+
+
+
+
+
+
+1993, c.45, s.2
+
+
+
+1. Paragraphs 264(3)(a) and (b) of the Criminal Code are replaced by the following:
+
+
+
+
+
+
+
+
+
+1. Les alinéas 264(3) a) et b) du Code criminel sont remplacés par ce qui suit :
+
+
+
+1993, ch.45, art.2
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an offence punishable on summary conviction and is liable to imprisonment for a term not exceeding eighteen months; or
+
+
+
+
+
+
+(b) an indictable offence and is liable to imprisonment for a term not exceeding ten years.
+
+
+
+
+
+
+
+
+
+a) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
+
+
+
+
+
+
+b) soit d’un acte criminel et passible d’un emprisonnement maximal de dix ans.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) Subsection 372(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. (1) Le paragraphe 372(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Indecent telephone calls
+
+
+
+(2) Every one who, with intent to alarm or annoy any person, makes any indecent telephone call to that person is guilty of
+
+
+
+
+
+
+
+
+(a) an offence punishable on summary conviction and is liable to imprisonment for a term not exceeding eighteen months; or
+
+
+
+
+
+
+
+
+(b) an indictable offence and is liable to imprisonment for a term not exceeding two years.
+
+
+
+
+
+
+
+
+
+(2) Quiconque, avec l’intention d’alarmer ou d’ennuyer quelqu’un, lui tient au cours d’un appel téléphonique des propos indécents est coupable :
+
+
+
+Propos indécents au téléphone
+
+
+
+
+a) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
+
+
+
+
+
+
+
+
+b) soit d’un acte criminel et passible d’un emprisonnement maximal de deux ans.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 372(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 372(3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Harassing telephone calls
+
+
+
+(3) Every one who, without lawful excuse and with intent to harass any person, makes or causes to be made repeated telephone calls to that person is guilty of
+
+
+
+
+
+
+
+
+(a) an offence punishable on summary conviction and is liable to imprisonment for a term not exceeding eighteen months; or
+
+
+
+
+
+
+
+
+(b) an indictable offence and is liable to imprisonment for a term not exceeding two years.
+
+
+
+
+
+
+
+
+
+(3) Quiconque sans excuse légitime et avec l’intention de harasser quelqu’un, lui fait ou fait en sorte qu’il lui soit fait des appels téléphoniques répétés est coupable :
+
+
+
+Appels téléphoniques harassants
+
+
+
+
+a) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois;
+
+
+
+
+
+
+
+
+b) soit d’un acte criminel et passible d’un emprisonnement maximal de deux ans.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The portion of subsection 423(1) of the Act after paragraph (g) is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. Le passage du paragraphe 423(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years or of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+423. (1) Est coupable, soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire, soit d’un acte criminel et passible d’un emprisonnement maximal de deux ans, quiconque, injustement et sans autorisation légitime, dans le dessein de forcer une autre personne à s’abstenir de faire une chose qu’elle a légalement le droit de faire, ou à faire une chose qu’elle peut légalement s’abstenir de faire, selon le cas :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Paragraph 752(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. L’alinéa 752b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) an offence or attempt to commit an offence mentioned in section 264 (criminal harassment), 271 (sexual assault), 272 (sexual assault with a weapon, threats to a third party or causing bodily harm) or 273 (aggravated sexual assault).
+
+
+
+
+
+
+
+
+
+b) les infractions ou tentatives de perpétration de l’une des infractions visées aux articles 264 (harcèlement criminel), 271 (agression sexuelle), 272 (agression sexuelle armée, menaces à une tierce personne ou infliction de lésions corporelles) ou 273 (agression sexuelle grave).
+
+
+
+
+
+
+
+
+
+
+
+
+1997, c.17, s.4
+
+
+
+5. Paragraph 753.1(2)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. L’alinéa 753.1(2)a) de la même loi est remplacé par ce qui suit :
+
+
+
+1997, ch.17, art.4
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the offender has been convicted of an offence under section 151 (sexual interference), 152 (invitation to sexual touching) or 153 (sexual exploitation), subsection 173(2) (exposure), section 264 (criminal harassment), 271 (sexual assault), 272 (sexual assault with a weapon) or 273 (aggravated sexual assault), or has engaged in serious conduct of a sexual nature in the commission of another offence of which the offender has been convicted; and
+
+
+
+
+
+
+
+
+
+a) d’une part, celui-ci a été déclaré coupable d’une infraction visée aux articles 151 (contacts sexuels), 152 (incitation à des contacts sexuels) ou 153 (exploitation sexuelle), au paragraphe 173(2) (exhibitionnisme) ou aux articles 264 (harcèlement criminel), 271 (agression sexuelle), 272 (agression sexuelle armée) ou 273 (agression sexuelle grave), ou a commis un acte grave de nature sexuelle lors de la perpétration d’une autre infraction dont il a été déclaré coupable;
+
+
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Clause 1: Paragraphs 264(3)(a) and (b) read as follows:
+(a) an indictable offence and is liable to imprisonment for a term not exceeding five years; or
+(b) an offence punishable on summary conviction.
+
+
+
+Article 1, — Texte des alinéas 264(3)a) et b) :
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans;
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+Clause 2: (1) Subsection 372(2) reads as follows:
+(2) Every one who, with intent to alarm or annoy any person, makes any indecent telephone call to that person is guilty of an offence punishable on summary conviction.
+
+
+
+Article 2, (1). — Texte du paragraphe 372(2) :
+(2) Est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque, avec l’intention d’alarmer ou d’ennuyer quelqu’un, lui tient au cours d’un appel téléphonique des propos indécents.
+
+
+
+
+(2) Subsection 372(3) reads as follows:
+(3) Every one who, without lawful excuse and with intent to harass any person, makes or causes to be made repeated telephone calls to that person is guilty of an offence punishable on summary conviction.
+
+
+
+(2). — Texte du paragraphe 372(3) :
+(3) Est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque, sans excuse légitime et avec l’intention de harasser quelqu’un, lui fait ou fait en sorte qu’il lui soit fait des appels téléphoniques répétés.
+
+
+
+
+Clause 3: The relevant portion of subsection 423(1) reads as follows:
+is guilty of an offence punishable on summary conviction.
+
+
+
+Article 3, — Texte du passage en cause du paragraphe 423(1) :
+423. (1) Est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque, injustement et sans autorisation légitime, dans le dessein de forcer une autre personne à s’abstenir de faire une chose qu’elle a légalement le droit de faire, ou à faire une chose qu’elle peut légalement s’abstenir de faire, selon le cas:
+
+
+
+
+Clause 4: Paragraph 752(b) reads as follows:
+(b) an offence or attempt to commit an offence mentioned in section 271 (sexual assault), 272 (sexual assault with a weapon, threats to a third party or causing bodily harm) or 273 (aggravated sexual assault).
+
+
+
+Article 4, — Texte de l’alinéa 752b) :
+b) les infractions ou tentatives de perpétration de l’une des infractions visées aux articles 271 (agression sexuelle), 272 (agression sexuelle armée, menaces à une tierce personne ou infliction des lésions corporelles) ou 273 (agression sexuelle grave).
+
+
+
+
+Clause 5: Paragraph 753.1(2)(a) reads as follows:
+(a) the offender has been convicted of an offence under section 151 (sexual interference), 152 (invitation to sexual touching) or 153 (sexual exploitation), subsection 173(2) (exposure) or section 271 (sexual assault), 272 (sexual assault with a weapon) or 273 (aggravated sexual assault), or has engaged in serious conduct of a sexual nature in the commission of another offence of which the offender has been convicted; and
+
+
+
+Article 5, — Texte de l’alinéa 753.1(2)a) :
+a) d’une part, celui-ci a été déclaré coupable d’une infraction visée aux articles 151 (contacts sexuels), 152 (incitation à des contacts sexuels) ou 153 (exploitation sexuelle), au paragraphe 173(2) (exhibitionnisme) ou aux articles 271 (agression sexuelle), 272 (agression sexuelle armée) ou 273 (agression sexuelle grave), ou a commis un acte grave de nature sexuelle lors de la perpétration d’une autre infraction dont il a été déclaré coupable;
+
+
+
+

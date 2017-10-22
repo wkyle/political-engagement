@@ -1,0 +1,1068 @@
+
+C-314C-314First Session, Thirty-ninth Parliament,Première session, trente-neuvième législature,55 Elizabeth II, 200655 Elizabeth II, 2006HOUSE OF COMMONS OF CANADACHAMBRE DES COMMUNES DU CANADABILL C-314PROJET DE LOI C-314An Act to amend the Alternative Fuels Act and the Excise Tax ActLoi modifiant la Loi sur les carburants de remplacement et la Loi sur la taxe d’accisefirst reading, May 30, 2006première lecture le 30 mai 2006NOTE        2nd Session, 39th ParliamentThis bill was introduced during the First Session of the 39th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.NOTE        2e session, 39e législatureLe présent projet de loi a été présenté lors de la première session de la 39e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.Mr. Silva391119M. Silva
+
+
+
+
+			C-314
+
+
+
+
+			C-314
+
+
+
+
+
+			First Session, Thirty-ninth Parliament,
+
+
+
+
+			Première session, trente-neuvième législature,
+
+
+
+
+
+			55 Elizabeth II, 2006
+
+
+
+
+			55 Elizabeth II, 2006
+
+
+
+
+
+			HOUSE OF COMMONS OF CANADA
+
+
+
+
+			CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+			BILL C-314
+
+
+
+
+			PROJET DE LOI C-314
+
+
+
+
+
+			An Act to amend the Alternative Fuels Act and the Excise Tax Act
+
+
+
+
+			Loi modifiant la Loi sur les carburants de remplacement et la Loi 
+			sur la taxe d’accise
+
+
+
+
+
+
+
+
+
+
+			first reading, May 30, 2006
+
+
+
+
+			première lecture le 30 mai 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					NOTE
+
+
+					2nd Session, 39th Parliament
+
+
+					This bill was introduced during the First Session of the 
+					39th Parliament. Pursuant to the Standing Orders of the 
+					House of Commons, it is deemed to have been considered and 
+					approved at all stages completed at the time of prorogation 
+					of the First Session. The number of the bill remains 
+					unchanged.
+
+
+
+
+
+
+
+
+
+
+					NOTE
+
+
+					2e session, 39e législature
+
+
+					Le présent projet de loi a été présenté lors de la première 
+					session de la 39e législature. Conformément aux 
+					dispositions du Règlement de la Chambre des communes, il est 
+					réputé avoir été examiné et approuvé à toutes les étapes 
+					franchies avant la prorogation de la première session. Le 
+					numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+Mr. Silva
+
+
+			391119
+
+
+
+
+M. Silva
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			SUMMARY
+
+			The purpose of this enactment is to promote the use of motor 
+			vehicles powered by engines capable of operating on alternative 
+			fuels. The enactment increases the percentage of vehicles acquired 
+			by the federal government with engines capable of operating on 
+			alternative fuels to ten per cent of the fleet by 2009. It also 
+			encourages persons to purchase or convert to such vehicles by 
+			creating rebates on the goods and services tax paid by those 
+			persons.
+
+
+
+
+			SOMMAIRE
+
+			Le texte vise à promouvoir l’utilisation de véhicules automobiles 
+			munis de moteurs capables de fonctionner au carburant de 
+			remplacement. Il fait passer le pourcentage de ce type de véhicules 
+			de la flotte automobile de l’administration publique fédérale à dix 
+			pour cent d’ici 2009. Il encourage en outre les personnes à acheter 
+			ce type de véhicules ou à convertir leur véhicule en celui-ci en 
+			accordant des remboursements de la taxe sur les produits et services 
+			payée par elles.
+
+
+
+
+
+
+
+
+			Also available on the Parliament of Canada Web Site at the following 
+			address:
+http://www.parl.gc.ca
+
+
+
+
+			Aussi disponible sur le site Web du Parlement du Canada à l’adresse 
+			suivante :
+http://www.parl.gc.ca
+
+
+
+
+
+
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+
+					1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+					55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					house of commons of canada
+
+
+
+
+
+
+
+
+
+
+					chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					BILL C-314
+
+
+
+
+
+
+
+
+
+
+					PROJET DE LOI C-314
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					An Act to amend the Alternative Fuels Act and the Excise Tax 
+					Act
+
+
+
+
+
+
+
+
+
+
+					Loi modifiant la Loi sur les carburants de remplacement et 
+					la Loi sur la taxe d’accise
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Her Majesty, by and with the advice and consent of the 
+					Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+
+					Sa Majesté, sur l’avis et avec le consentement du Sénat et 
+					de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					1995, c. 20
+
+
+
+
+
+
+ALTERNATIVE FUELS ACT
+
+
+
+
+
+
+
+
+
+
+LOI SUR LES CARBURANTS DE REMPLACEMENT
+
+
+
+
+					1995, ch. 20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 3 of the Alternative Fuels Act 
+					is renumbered as subsection 3(1) and is amended by adding 
+					the following:
+
+
+
+
+
+
+
+
+
+
+1. L’article 3 de la Loi sur les carburants de 
+					remplacement devient le paragraphe 3(1) et est modifié 
+					par adjonction de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Alternative fuels obligation
+
+
+
+
+
+
+(2) Despite 
+					subsection (1), for the fiscal year commencing on April 1, 
+					2009 and for every fiscal year thereafter, not less than ten 
+					per cent of motor vehicles acquired by all federal bodies 
+					and Crown corporations shall be motor vehicles operating on 
+					alternative fuels.
+
+
+
+
+
+
+
+
+
+
+(2) Malgré le 
+					paragraphe (1), pour l’exercice commençant le 1er avril 2009 
+					et pour les exercices subséquents, au moins dix pour cent 
+					des véhicules automobiles acquis par l’ensemble des 
+					organismes fédéraux et des sociétés d’État fonctionnent au 
+					carburant de remplacement.
+
+
+
+
+					Utilisation obligatoire des carburants de remplacement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					R.S., c. E-15
+
+
+
+
+
+
+EXCISE TAX ACT
+
+
+
+
+
+
+
+
+
+
+LOI SUR LA TAXE D’ACCISE
+
+
+
+
+					L.R., ch. E-15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Excise Tax Act is amended by adding the 
+					following after section 258.2:
+
+
+
+
+
+
+
+
+
+
+2. La Loi sur la taxe d’accise est modifiée par 
+					adjonction, après l’article 258.2, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Definitions
+
+
+
+
+
+
+258.3 (1) In 
+					this section, “alternative fuel” and “motor vehicle” have 
+					the meanings assigned by subsection 2(1) of the 
+					Alternative Fuels Act.
+
+
+
+
+
+
+
+
+
+
+258.3 (1) 
+					Dans le présent article, « carburant de remplacement » et « 
+					véhicule automobile » s’entendent au sens du paragraphe 2(1) 
+					de la Loi sur les carburants de remplacement.
+
+
+
+
+					Definitions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Rebates for conversion or certain vehicles
+
+
+
+
+
+
+(2) Where a person 
+					purchases, imports or brings into Canada an item described 
+					in column 1 of the following table, the Minister shall pay a 
+					rebate to the person equal to the corresponding amount set 
+					out in column 2 of the table.
+
+
+
+
+
+
+
+
+
+
+(2) Dans les cas où 
+					une personne achète, importe ou introduit au Canada un 
+					article décrit à la colonne 1 du tableau qui suit, le 
+					ministre rembourse à la personne le montant indiqué à la 
+					colonne 2 de ce tableau.
+
+
+
+
+					Remboursement ? conversion ou type de véhicule
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			TABLE 
+
+
+
+
+			TABLEAU 
+
+
+
+
+
+			MOTOR VEHICLES AND CONVERSION KIT
+
+
+
+
+			VÉHICULES AUTOMOBILES ET TROUSSE DE CONVERSION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							Item
+
+
+
+							Column 1 
+
+							Description	
+
+
+
+							Column 2
+
+							Amount of rebate
+
+
+
+
+
+							1.
+
+
+
+							A hybrid motor vehicle, namely, a motor vehicle 
+							powered by an electric engine and an engine 
+							operating on a fuel other than an alternative fuel.
+
+
+
+							(1) For a motor vehicle purchased, imported or 
+							brought into Canada before August 1, 2009, the 
+							lesser of $1,500 and 100% of the tax paid by the 
+							person.
+
+							(2) For a motor vehicle purchased, imported or 
+							brought into Canada on or after August 1, 2009, the 
+							lesser of $750 and 100% of the tax paid by the 
+							person.
+
+
+
+
+
+
+
+							2.
+
+
+
+							A motor vehicle powered by an engine capable of 
+							operating on an alternative fuel.
+
+
+
+
+
+							The lesser of $750 and 50% of the tax paid by the 
+							person.
+
+
+
+
+
+							3.
+
+
+
+							Kit of items used to convert a motor vehicle powered 
+							by an engine operating on a fuel other than an 
+							alternative fuel to a motor vehicle powered by an 
+							engine capable of operating on an alternative fuel, 
+							including the installation of such a kit.
+
+
+
+
+
+							The lesser of $750 and 50% of the tax paid by the 
+							person
+
+
+
+
+
+							4.
+
+
+
+							A bus powered by an engine capable of operating on 
+							an alternative fuel.
+
+
+
+
+
+							The lesser of $4,000 and 50% of the tax paid by the 
+							person.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							Article
+
+
+
+							Colonne 1 
+
+							Description	
+
+
+
+							Colonne 2
+
+							Montant du remboursement
+
+
+
+
+
+							1.
+
+
+
+							Véhicule automobile hybride, à savoir véhicule 
+							automobile muni d’un moteur électrique et d’un 
+							moteur fonctionnant au carburant autre qu’un 
+							carburant de remplacement.
+
+
+
+							(1) Pour un véhicule automobile acheté, importé ou 
+							introduit au Canada avant le 1er août 
+							2009, le moindre des montants suivants : 1 500 $ ou 
+							100 % de la taxe payée par la personne.
+
+							(2) Pour un véhicule automobile acheté, importé ou 
+							introduit au Canada le 1er août 2009 ou 
+							après cette date, le moindre des montants suivants : 
+							750 $ ou 100 % de la taxe payée par la personne.
+
+
+
+
+
+							2.
+
+
+
+							Véhicule automobile muni d’un moteur capable de 
+							fonctionner au carburant de remplacement.
+
+
+
+							Le moindre des montants suivants : 750 $ ou 50 % de 
+							la taxe payée par la personne.
+
+
+
+
+
+							3.
+
+
+
+							Trousse d’éléments utilisée pour convertir un 
+							véhicule automobile muni d’un moteur fonctionnant au 
+							carburant autre qu’un carburant de remplacement, en 
+							un véhicule automobile muni d’un moteur capable de 
+							fonctionner au carburant de remplacement, ainsi que 
+							l’installation de cette trousse.
+
+
+
+							Le moindre des montants suivants : 750 $ ou 50 % de 
+							la taxe payée par la personne.
+
+
+
+
+
+							4.
+
+
+
+							Autobus muni d’un moteur capable de fonctionner au 
+							carburant de remplacement.
+
+
+
+							Le moindre des montants suivants : 4 000 $ ou 50 % 
+							de la taxe payée par la personne.
+
+
+
+
+
+
+
+
+
+			Published under authority of the Speaker of the House of Commons
+			Available from:
+			Publishing and Depository Services
+			Public Works and Government Services Canada
+
+
+
+
+			Publié avec l'autorisation du président de la Chambre des communes
+			Disponible auprès de :
+			Les Éditions et Services de dépôt
+			Travaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

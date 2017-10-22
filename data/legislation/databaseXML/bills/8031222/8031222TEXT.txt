@@ -1,0 +1,913 @@
+
+
+
+
+
+C-69
+
+
+
+
+
+C-69
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-69
+
+
+
+
+
+PROJET DE LOI C-69
+
+
+
+
+
+
+An Act to amend the Criminal Code in response to the Supreme Court of Canada decision in R. v. Nur
+
+
+
+
+
+Loi modifiant le Code criminel pour donner suite à la décision de la Cour suprême du Canada dans l’affaire R. c. Nur
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 10, 2015
+
+première lecture le 10 juin 2015
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF JUSTICE
+
+90780
+
+
+
+MINISTRE DE LA JUSTICE
+
+
+
+
+
+SUMMARY
+This enactment amends section 95 of the Criminal Code to
+(a) establish mandatory minimum punishments of imprisonment for indictable offences under that section that are committed for the purpose of committing another indictable offence under that Act or the Controlled Drugs and Substances Act or that are committed in a manner that, objectively speaking, creates a real risk of harm to another person;
+(b) prescribe that, under certain circumstances, the offence is deemed to be committed in a manner that creates a real risk of harm to another person; and
+(c) prescribe certain exceptions to the application of the section.
+
+
+
+SOMMAIRE
+Le texte modifie l’article 95 du Code criminel pour : 
+a) établir des peines minimales obligatoires d’emprisonnement applicables sur déclaration de culpabilité par mise en accusation, si l’infraction prévue à cet article est commise en vue de commettre un acte criminel prévu par cette loi ou par la Loi réglementant certaines drogues et autres substances ou de manière que, objectivement parlant, il y a un risque réel de préjudice pour une autre personne;
+b) prévoir que, dans certaines circonstances, l’infraction est réputée commise de manière à créer un risque réel de préjudice pour une autre personne;
+c) prévoir certaines exceptions à l’application de l’article.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-69
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-69
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code in response to the Supreme Court of Canada decision in R. v. Nur
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel pour donner suite à la décision de la Cour suprême du Canada dans l’affaire R. c. Nur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : 
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Penalties for the Criminal Possession of Firearms Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur les peines sanctionnant la possession criminelle d’armes à feu.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+1995, c. 39, s. 139; 2008, c. 6, s. 8(1); 2012, c. 6, s. 5(E)
+
+
+
+2. (1) Subsection 95(1) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. (1) Le paragraphe 95(1) du Code criminel est remplacé par ce qui suit : 
+
+
+
+1995, ch. 39, art. 139; 2008, ch. 6, par. 8(1); 2012, ch. 6, art. 5(A)
+
+
+
+
+
+
+
+
+
+
+Possession of prohibited or restricted firearm with ammunition
+
+
+
+95. (1) Subject to subsection (3), every person commits an offence who possesses a loaded prohibited firearm or restricted firearm, or an unloaded prohibited firearm or restricted firearm together with ammunition that is ca­pable of being discharged in the firearm and that is capable of being loaded into it without delay.
+
+
+
+
+
+
+
+
+
+95. (1) Sous réserve du paragraphe (3), commet une infraction quiconque a en sa possession soit une arme à feu prohibée ou une arme à feu à autorisation restreinte chargées, soit une arme à feu prohibée ou une arme à feu à autorisation restreinte non chargées et des munitions qui peuvent être utilisées avec ces armes et avec lesquelles celles-ci peuvent être chargées sans délai.
+
+
+
+Possession d’une arme à feu prohibée ou à autorisation restreinte avec munitions
+
+
+
+
+
+
+
+
+
+
+2008, c. 6, s. 8(2)
+
+
+
+(2) Paragraph 95(2)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 95(2)a) de la même loi est remplacé par ce qui suit : 
+
+
+
+2008, ch. 6, par. 8(2)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable
+
+
+
+
+
+
+(i) in either of the following cases, to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of three years, for a first offence, and five years, for a second or subsequent offence:
+
+
+
+
+
+
+(A) the offence is committed for the purpose of committing an indictable offence under this Act or the Controlled Drugs and Substances Act, or
+
+
+
+
+
+
+(B) the offence is committed in a manner that, having regard to all the circumstances, creates a real risk of physical or psychological harm to another person, and
+
+
+
+
+
+
+(ii) in any other case, to imprisonment for a term not exceeding 10 years;
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible : 
+
+
+
+
+
+
+(i) dans l’un ou l’autre des cas ci-après, d’un emprisonnement maximal de dix ans, la peine minimale étant de trois ans, dans le cas d’une première infraction, et de cinq ans, en cas de récidive : 
+
+
+
+
+
+
+(A) l’infraction est commise en vue de commettre un acte criminel prévu par la présente loi ou par la Loi réglementant certaines drogues et autres substances,
+
+
+
+
+
+
+(B) elle est commise de manière que, eu égard aux circonstances, il y a un risque réel de préjudice — physique ou psychologique — pour une autre personne,
+
+
+
+
+
+
+(ii) dans tous les autres cas, d’un emprisonnement maximal de dix ans;
+
+
+
+
+
+
+
+
+
+
+
+
+1995, c. 39, s. 139
+
+
+
+(3) Subsection 95(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 95(3) de la même loi est remplacé par ce qui suit : 
+
+
+
+1995, ch. 39, art. 139
+
+
+
+
+
+
+
+
+
+
+Deeming provision
+
+
+
+(2.1) For the purposes of clause (2)(a)(i)(B), in the absence of evidence to the contrary, the offence is deemed to be committed in a manner that, having regard to all the circumstances, creates a real risk of physical or psychological harm to another person if it is committed
+
+
+
+
+
+
+
+
+(a) in a place where another person is present; or
+
+
+
+
+
+
+
+
+(b) in or next to a school or other public place, as defined in section 150, usually frequented by persons under the age of 18 years, at a time when such persons can reasonably be expected to be present.
+
+
+
+
+
+
+
+
+
+(2.1) Pour l’application de la division (2)a)(i)(B), sauf preuve contraire, l’infraction est réputée commise de manière que, eu égard aux circonstances, il y a un risque réel de préjudice — physique ou psychologique — pour une autre personne si elle est commise : 
+
+
+
+Présomption
+
+
+
+
+a) soit dans un endroit où une autre personne est présente;
+
+
+
+
+
+
+
+
+b) soit dans une école ou un autre endroit public, au sens de l’article 150, normalement fréquenté par des personnes âgées de moins de dix-huit ans, ou à côté d’un tel endroit, et à un moment où il est raisonnable de s’attendre à ce que de telles personnes soient présentes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(3) Subsection (1) does not apply to a person who
+
+
+
+
+
+
+
+
+(a) possesses the firearm in accordance with the Firearms Act and any regulation made under section 117 of that Act respecting the storage, handling, transportation or display of prohibited firearms or restricted firearms, as the case may be;
+
+
+
+
+
+
+
+
+(b) is using the firearm under the direct and immediate supervision of another person who is lawfully entitled to possess it and is using the firearm in a manner in which that other person may lawfully use it; or
+
+
+
+
+
+
+
+
+(c) comes into possession of the firearm by the operation of law and intends to, within a reasonable period, lawfully dispose of it or take the necessary measures to possess it in accordance with the Firearms Act and any regulation made under section 117 of that Act respecting the storage, handling, transportation or display of prohibited firearms or restricted firearms, as the case may be.
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe (1) ne s’applique pas : 
+
+
+
+Réserve
+
+
+
+
+a) à quiconque a la possession de l’arme à feu en conformité avec la Loi sur les armes à feu et tout règlement, pris en vertu de l’article 117 de cette loi, régissant l’entreposage, le maniement, le transport ou l’exposition d’armes à feu prohibées ou d’armes à feu à autorisation restreinte, selon le cas;
+
+
+
+
+
+
+
+
+b) à quiconque utilise l’arme à feu sous la surveillance directe d’une personne qui en a la possession légale, de la manière dont celle-ci peut légalement s’en servir;
+
+
+
+
+
+
+
+
+c) à la personne qui entre en possession de l’arme à feu par effet de la loi et qui entend, dans un délai raisonnable, s’en défaire légalement ou prendre les mesures nécessaires pour en avoir la possession en conformité avec la Loi sur les armes à feu et tout règlement, pris en vertu de l’article 117 de cette loi, régissant l’entreposage, le maniement, le transport ou l’exposition d’armes à feu prohibées ou d’armes à feu à autorisation restreinte, selon le cas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clarification
+
+
+
+(4) For greater certainty, a person may plead the common law rule of innocent possession in respect of proceedings for an offence under subsection (1).
+
+
+
+
+
+
+
+
+
+(4) Il est entendu que la règle de possession innocente de la common law peut être invoquée dans le cadre des poursuites pour une infraction visée au paragraphe (1).
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+3. This Act comes into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+3. La présente loi entre en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Criminal Code
+Clause 2: (1) Existing text of subsection 95(1):
+95. (1) Subject to subsection (3), every person commits an offence who, in any place, possesses a loaded prohibited firearm or restricted firearm, or an unloaded prohibited firearm or restricted firearm together with readily accessible ammunition that is capable of being discharged in the firearm, without being the holder of
+(a) an authorization or a licence under which the person may possess the firearm in that place; and
+(b) the registration certificate for the firearm.
+
+
+
+Code criminel
+Article 2 :  (1) Texte du paragraphe 95(1) :
+95. (1) Sous réserve du paragraphe (3), commet une infraction quiconque a en sa possession dans un lieu quelconque soit une arme à feu prohibée ou une arme à feu à autorisation restreinte chargées, soit une telle arme non chargée avec des munitions facilement accessibles qui peuvent être utilisées avec celle-ci, sans être titulaire à la fois : 
+a) d’une autorisation ou d’un permis qui l’y autorise dans ce lieu;
+b) du certificat d’enregistrement de l’arme.
+
+
+
+
+(2) Relevant portion of subsection 95(2):
+(2) Every person who commits an offence under subsection (1)
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of
+(i) in the case of a first offence, three years, and
+(ii) in the case of a second or subsequent offence, five years; or
+
+
+
+(2) Texte du passage visé du paragraphe 95(2) :
+(2) Quiconque commet l’infraction prévue au paragraphe (1) est coupable : 
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant : 
+(i) de trois ans, dans le cas d’une première infraction,
+(ii) de cinq ans, en cas de récidive;
+
+
+
+
+(3) Existing text of subsection 95(3):
+(3) Subsection (1) does not apply to a person who is using the firearm under the direct and immediate supervision of another person who is lawfully entitled to possess it and is using the firearm in a manner in which that other person may lawfully use it.
+
+
+
+(3) Texte du paragraphe 95(3) :
+(3) Le paragraphe (1) ne s’applique pas à quiconque utilise une arme à feu sous la surveillance directe d’une personne qui en a la possession légale, de la manière dont celle-ci peut légalement s’en servir.
+
+
+
+

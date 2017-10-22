@@ -1,0 +1,1030 @@
+
+
+
+
+
+C-264
+
+
+
+
+
+C-264
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-264
+
+
+
+
+
+PROJET DE LOI C-264
+
+
+
+
+
+
+An Act to provide cost-of-production protection for the family farm
+
+
+
+
+
+Loi offrant aux exploitations agricoles familiales une protection contre les coûts de production
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, January 27, 2009
+
+première lecture le 27 janvier 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+3rd Session, 40th Parliament
+
+This bill was introduced during the Second Session of the 40th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the Second Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+3e session, 40e législature
+
+Le présent projet de loi a été présenté lors de la deuxième session de la 40e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la deuxième session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+Mr. Martin (Winnipeg Centre)
+
+401050
+
+
+
+M. Martin (Winnipeg-Centre)
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to provide cost-of-production protection to family farms in cases where the weighted average input cost of products typically produced or suited to production in a farming zone exceeds the weighted average netback to farm gate of such products, averaged over three years.
+Costs are to be calculated on the basis of marketable product and thus will take into account bad weather, pests and other crop loss factors.
+The calculations are to be based on normal crops or livestock produced for food or breeding and are to be approved by an independent auditor.
+The enactment does not provide for support on a product-by-product basis and therefore is not a direct product subsidy.
+
+
+
+SOMMAIRE
+Le texte a pour objet d’offrir aux exploitations agricoles familiales une protection contre les coûts de production dans les cas où la moyenne pondérée des coûts des facteurs de production des produits propres ou convenant à la zone agricole dépasse la moyenne pondérée du revenu net de l’exploitation agricole pour de tels produits, ces moyennes étant établies sur trois ans.
+Les coûts sont calculés pour des produits commercialisables et tiennent compte des intempéries, des ennemis des cultures et d’autres facteurs causant la perte de celles-ci.
+Les calculs sont fondés sur des cultures normales ou du bétail élevé normalement pour l’alimentation ou la reproduction et sont soumis à l’approbation  d’un vérificateur indépendant.
+Comme ce régime de protection ne vise pas les produits individuellement, il ne constitue pas une subvention directe à l’égard d’un produit  en particulier.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-264
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-264
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to provide cost-of-production protection for the family farm
+
+
+
+
+
+
+
+
+
+Loi offrant aux exploitations agricoles familiales une protection contre les coûts de production
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Family Farm Cost-of-Production Protection Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la protection des exploitations agricoles familiales contre les coûts de production.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“average cost of production”« coût moyen de production »
+
+
+
+“average cost of production” means the average of the input costs per hectare for a year of all the designated products prescribed in respect of a farming zone, weighted by the percentage of hectares used for each designated product in the farming zone averaged over the previous three years.
+
+
+
+
+“average netback”« revenu net moyen »
+
+
+
+“average netback” means the average of the netback to farm gate per hectare for each of the designated products prescribed in respect of a farming zone, weighted by the percentage of hectares used for each designated product in the farming zone averaged over the previous three years.
+
+
+
+
+“designated product”« produit désigné »
+
+
+
+“designated product”, in respect of a farming zone, means
+
+
+
+
+
+
+
+
+(a) livestock produced for food or for breeding for food production, or
+
+
+
+
+
+
+
+
+(b) a crop,
+
+
+
+
+
+
+
+
+prescribed for the purposes of this Act as a product typically produced or suited to production in that farming zone.
+
+
+
+
+“family farm”« exploitation agricole familiale »
+
+
+
+“family farm” means a farm
+
+
+
+
+
+
+
+
+(a) operated by a family or extended family, whether or not incorporated; and 
+
+
+
+
+
+
+
+
+(b) of which the members of the family who are actively engaged in full- or part-time farming or are retired from such activity are directly or indirectly the beneficial owners of seventy-five percent or more of the farm.
+
+
+
+
+“farming zone”« zone
+agricole »
+
+
+
+“farming zone” means an area prescribed as an area in which the soil type and weather are sufficiently consistent to allow the establishment of a reasonably widely applicable cost of production.
+
+
+
+
+“input cost”« coût des facteurs de production »
+
+
+
+“input cost” means the cost of production of a designated product, including but not limited to cost for land and buildings, labour, fuel, utilities, seed, fertilizer, pesticide, feed and animal health, that would normally be incurred on a family farm in a farming zone taking into account the typical costs and typical yields of marketable product at the time in the zone.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Agriculture and Agri-Food.
+
+
+
+
+“netback to farm gate”« revenu net de l’exploitation agricole »
+
+
+
+“netback to farm gate” means the average return to a farm from sales of a designated product net of freight, cleaning and other costs incurred outside the farm.
+
+
+
+
+“prescribed”Version anglaise seulement
+
+
+
+“prescribed” means prescribed by regulation.
+
+
+
+
+“qualifying land”« terre admissible »
+
+
+
+“qualifying land” means land that is used for the production of one or more designated products.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« coût des facteurs de production » Le coût de production d’un produit désigné, notamment les coûts relatifs aux terrains et bâtiments, à la main-d’oeuvre, au combustible, aux services publics, aux semences, aux engrais, aux pesticides, aux aliments du bétail et aux soins de santé des animaux qu’engagerait normalement une exploitation agricole familiale dans une zone agricole, compte tenu des coûts et du rendement propres aux produits commercialisables de cette zone au moment considéré.
+
+
+
+« coût des facteurs de production »“input cost”
+
+
+
+
+« coût moyen de production » La moyenne des coûts des facteurs de production pour une année, par hectare, de tous les produits désignés qui s’appliquent à la zone agricole visée, pondérée par le pourcentage de la superficie en hectares utilisée pour chaque produit désigné dans cette zone, dont la moyenne a été établie sur les trois années précédentes.
+
+
+
+« coût moyen de production »“average cost of production”
+
+
+
+
+« exploitation agricole familiale » Exploitation agricole gérée par une famille ou une famille élargie, qu’elle soit ou non dotée de la personnalité morale, dont les membres qui se livrent à temps plein ou à temps partiel aux activités agricoles ou qui ont cessé ces activités sont directement ou indirectement les véritables propriétaires d’au moins soixante-quinze pour cent de l’exploitation.
+
+
+
+« exploitation agricole familiale »“family farm”
+
+
+
+
+« ministre » Le ministre de l’Agriculture et de l’Agroalimentaire.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« produit désigné » À l’égard d’une zone agricole, toute culture ou tout bétail élevé pour l’alimentation ou aux fins de reproduction pour l’alimentation qui est désigné par règlement pour l’application de la présente loi comme un produit propre à cette zone ou convenant à  celle-ci.
+
+
+
+« produit désigné »“designated product”
+
+
+
+
+« revenu net de l’exploitation agricole » Le revenu moyen d’une exploitation agricole tiré de la vente d’un produit désigné, déduction faite des frais de transport et de nettoyage et des autres frais engagés à l’extérieur de l’exploitation agricole.
+
+
+
+« revenu net de l’exploitation agricole »“netback to farm gate”
+
+
+
+
+« revenu net moyen » La moyenne du revenu net de l’exploitation agricole, par hectare, pour chacun des produits désignés qui s’appliquent à la zone agricole visée, pondérée par le pourcentage de la superficie en hectares utilisée pour chaque produit désigné dans cette zone, dont la moyenne a été établie sur les trois années précédentes.
+
+
+
+« revenu net moyen »“average netback”
+
+
+
+
+« terre admissible » Terre utilisée pour la production d’un ou de plusieurs produits désignés.
+
+
+
+« terre admissible »“qualifying land”
+
+
+
+
+« zone agricole » Région désignée par règlement comme une région où l’état du sol et les conditions atmosphériques sont suffisamment constants pour permettre l’établissement d’un coût de production d’une portée raisonnablement large.
+
+
+
+« zone
+agricole »“farming zone”
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+3. (1) The Governor in Council may, on the recommendation of the Minister, make regulations
+
+
+
+
+
+
+
+
+(a) listing the designated products that are typically produced or suited to production in each farming zone;
+
+
+
+
+
+
+
+
+(b) subject to subsection (2), prescribing, for each farming zone, the typical average input costs of designated products in a farming zone on the basis of marketable product;
+
+
+
+
+
+
+
+
+(c) subject to subsection (2), prescribing, for each farming zone, the typical average netback of designated products in a farming zone; and 
+
+
+
+
+
+
+
+
+(d) prescribing any terms that are by this Act to be prescribed.
+
+
+
+
+
+
+
+
+
+3. (1) Le gouverneur en conseil peut, par règlement, sur recommandation du ministre :
+
+
+
+Règlements
+
+
+
+
+a) dresser la liste des produits désignés qui sont propres ou conviennent à chaque zone agricole; 
+
+
+
+
+
+
+
+
+b) sous réserve du paragraphe (2), établir, pour chaque zone agricole, les coûts des facteurs de production moyens des produits désignés dans une zone agricole, en fonction des produits commercialisables; 
+
+
+
+
+
+
+
+
+c) sous réserve du paragraphe (2), établir, pour chaque zone agricole, le revenu net moyen tiré des produits désignés dans une zone agricole; 
+
+
+
+
+
+
+
+
+d) prescrire les modalités et conditions exigées par la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Independent auditor
+
+
+
+(2) The Minister shall not recommend a regulation for the purposes of paragraph (1)(b) or (c) unless it has first been audited and approved by an independent auditor who
+
+
+
+
+
+
+
+
+(a) is experienced in agriculture economics; 
+
+
+
+
+
+
+
+
+(b) has been named by the Minister for the purposes of this Act after consultation with representatives of the farming community; and
+
+
+
+
+
+
+
+
+(c) has been approved by the Auditor General of Canada.
+
+
+
+
+
+
+
+
+
+(2) Le ministre ne peut recommander la prise d’un règlement pour l’application des alinéas (1)b) ou c) que si ce règlement a été soumis à la vérification et à l’approbation d’un vérificateur indépendant qui, à la fois :
+
+
+
+Vérificateur indépendant
+
+
+
+
+a) possède de l’expérience en économie agricole; 
+
+
+
+
+
+
+
+
+b) a été nommé par le ministre pour l’application de la présente loi, après consultation des représentants de la collectivité agricole; 
+
+
+
+
+
+
+
+
+c) a été agréé par le vérificateur général du Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUPPORT PAYMENTS
+
+
+
+
+
+
+
+
+
+SOUTIEN
+
+
+
+
+
+
+
+
+
+
+
+
+Support payments
+
+
+
+4. In respect of every year, the Minister shall designate a payment per hectare, to be made to every family farm in a farming zone for land that is qualifying land in that year on the farm, that equals the amount, if any, by which the average cost of production exceeds the average netback per hectare of production of designated products in the farming zone, weight-averaged by the amount of each designated product produced in the zone in that year and the previous two years.
+
+
+
+
+
+
+
+
+
+4. Le ministre fixe, pour chaque année, la somme à verser à chacune des exploitations agricoles familiales d’une zone agricole, pour chaque hectare de terre admissible de cette exploitation durant l’année, qui correspond à l’excédent du coût moyen de production sur le revenu net moyen, par hectare de production des produits désignés dans la zone agricole, dont la moyenne pondérée a été calculée d’après la quantité de chaque produit désigné produite dans la zone agricole durant l’année et les deux années précédentes.
+
+
+
+Soutien
+
+
+
+
+
+
+
+
+
+
+APPLICATION
+
+
+
+
+
+
+
+
+
+CHAMP D'APPLICATION
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+5. Section 4 applies to 2009 and the succeeding nine years.
+
+
+
+
+
+
+
+
+
+5. L’article 4 s’applique à l’année 2009 et aux neuf années suivantes.
+
+
+
+Application
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

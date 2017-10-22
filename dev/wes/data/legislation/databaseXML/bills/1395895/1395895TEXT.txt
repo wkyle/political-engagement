@@ -1,0 +1,9615 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Session, Thirty-eighth Parliament,
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+Première session, trente-huitième législature,
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+STATUTES OF CANADA 2005CHAPTER 22
+
+
+
+
+
+LOIS DU CANADA (2005)CHAPITRE 22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (mental disorder) and to make consequential amendments to other Acts
+
+
+
+
+
+Loi modifiant le Code criminel (troubles mentaux) et modifiant d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+19th MAY, 2005
+BILL C-10
+
+
+
+
+
+SANCTIONNÉE
+LE 19 MAI 2005
+PROJET DE LOI C-10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends Part XX.1 of the Criminal Code governing persons found unfit to stand trial or not criminally responsible on account of mental disorder. The amendments, among other things, include
+(a) repealing unproclaimed provisions related to capping, dangerous mentally disordered accused and hospital orders;
+(b) expanding the authority of Review Boards by enabling them to order an assessment of the accused, adjourn hearings and protect the identity of victims and witnesses;
+(c) permitting the oral presentation of victim impact statements at disposition hearings and adjournments allowing the victim to prepare the statement;
+(d) permitting Review Boards to extend the time for holding a review hearing to a maximum of 24 months in certain circumstances;
+(e) permitting the court to hold an inquiry and order a judicial stay of proceedings for an accused found unfit to stand trial, if the accused is not likely to ever be fit to stand trial and does not pose a significant risk to the safety of the public and a stay is in the interests of the proper administration of justice;
+(f) specifying that the transfer provisions require the consent of the appropriate Attorneys General in all cases and enabling transfers of an accused who is not in custody; and
+(g) allowing peace officers arresting an accused who is in contravention of an assessment order or a disposition to release, detain, compel the appearance of or deliver the accused to a place specified in the order.
+This enactment also makes consequential amendments to other Acts, including the National Defence Act.
+
+
+
+SOMMAIRE
+Le texte modifie la partie XX.1 du Code criminel, qui traite des personnes déclarées inaptes à subir leur procès ou non criminellement responsables pour cause de troubles mentaux. Les modifications visent notamment à :
+
+a) abroger les dispositions non en vigueur sur la durée maximale, les accusés dangereux atteints de troubles mentaux et les ordonnances de détention dans un hôpital;
+
+b) élargir les attributions des commissions d’examen en leur donnant le pouvoir d’ordonner une évaluation de l’accusé, d’ajourner les audiences et de protéger l’identité des victimes et des témoins;
+
+c) permettre la présentation orale de la déclaration de la victime à l’audience et les ajournements nécessaires à la préparation de cette déclaration;
+
+d) permettre à la commission d’examen de proroger le délai préalable à la tenue d’une audience de révision jusqu’à un maximum de vingt-quatre mois dans certaines circonstances;
+
+e) permettre au tribunal de tenir une audience et d’ordonner la suspension de l’instance à l’égard de l’accusé déclaré inapte à subir son procès, s’il est convaincu que l’accusé ne sera vraisemblablement jamais apte à le subir et ne présente aucun danger important pour la sécurité du public et qu’une telle ordonnance servirait la bonne administration de la justice;
+
+f) préciser la nécessité du consentement des procureurs généraux intéressés dans tous les cas de transfèrement et le pouvoir de transférer même l’accusé qui n’est pas détenu;
+
+g) accorder aux agents de la paix procédant à l’arrestation d’un accusé qui contrevient à une ordonnance d’évaluation ou à une décision le pouvoir de le remettre en liberté, le détenir, l’obliger à comparaître ou le livrer au lieu mentionné dans l’ordonnance ou la décision.
+Le texte apporte aussi des modifications corrélatives à d’autres lois, notamment la Loi sur la défense nationale.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+53-54 ELIZABETH II
+
+
+
+
+
+
+
+
+
+53-54 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 22
+
+
+
+
+
+
+
+
+
+CHAPITRE 22
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (mental disorder) and to make consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (troubles mentaux) et modifiant d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 19th May, 2005]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 19 mai 2005]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada,­ édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+1. (1) Section 672.1 of the Criminal Code is renumbered as subsection 672.1(1).
+
+
+
+
+
+
+
+
+
+
+1. (1) L’article 672.1 du Code criminel devient le paragraphe 672.1(1).
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+(2) The definition “assessment” in subsection 672.1(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) La définition de « évaluation », au paragraphe 672.1(1) de la même loi, est remplacée par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+“assessment”« évaluation »
+
+
+
+“assessment” means an assessment by a medical practitioner or any other person who has been designated by the Attorney General as being qualified to conduct an assessment of the mental condition of the accused under an assessment order made under section 672.11 or 672.121, and any incidental observation or examination of the accused;
+
+
+
+
+
+
+
+
+
+« évaluation » Évaluation de l’état mental d’un accusé par un médecin ou toute autre personne désignée par le procureur général comme qualifiée pour faire l'évaluation de l'état mental de l'accusé en conformité avec une ordonnance d’évaluation rendue en vertu des articles 672.11 ou 672.121, y compris l’observation et l’examen qui s’y rapportent.
+
+
+
+« évaluation »“assessment”
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 672.1 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(3) L’article 672.1 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Reference
+
+
+
+(2) For the purposes of subsections 672.5(3) and (5), paragraph 672.86(1)(b) and subsections 672.86(2) and (2.1), 672.88(2) and 672.89(2), in respect of a territory or proceedings commenced at the instance of the Government of Canada and conducted by or on behalf of that Government, a reference to the Attorney General of a province shall be read as a reference to the Attorney General of Canada.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application des paragraphes 672.5(3) et (5), 672.86(1), (2) et (2.1), 672.88(2) et 672.89(2), la mention du procureur général d’une province vaut mention du procureur général du Canada ou de son substitut légitime, dans le cas où il s’agit d’un territoire ou de poursuites engagées à la demande du gouvernement du Canada et menées par ce dernier ou en son nom.
+
+
+
+Mention du procureur général d’une province
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4; 1995, c. 22, s. 10 (Sch. I, s. 24)
+
+
+
+
+2. Paragraph 672.11(e) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. L’alinéa 672.11e) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4; 1995, ch. 22, art. 10, ann. I, art. 24
+
+
+
+
+
+
+
+
+
+
+
+
+(e) whether an order should be made under section 672.851 for a stay of proceedings, where a verdict of unfit to stand trial has been rendered against the accused.
+
+
+
+
+
+
+
+
+
+
+e) dans le cas où un verdict d’inaptitude à subir son procès a été rendu à l’égard de l’accusé, déterminer si une ordonnance de suspension d’instance devrait être rendue en vertu de l’article 672.851.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after section 672.12:
+
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l’article 672.12, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Review Board may order assessment
+
+
+
+
+672.121 The Review Board that has jurisdiction over an accused found not criminally responsible on account of mental disorder or unfit to stand trial may order an assessment of the mental condition of the accused of its own motion or on application of the prosecutor or the accused, if it has reasonable grounds to believe that such evidence is necessary to
+
+
+
+
+
+
+
+
+
+
+(a) make a recommendation to the court under subsection 672.851(1); or
+
+
+
+
+
+
+
+
+
+
+(b) make a disposition under section 672.54 in one of the following circumstances:
+
+
+
+
+
+
+
+
+
+
+(i) no assessment report on the mental condition of the accused is available,
+
+
+
+
+
+
+
+
+
+
+(ii) no assessment of the mental condition of the accused has been conducted in the last twelve months, or
+
+
+
+
+
+
+
+
+
+
+(iii) the accused has been transferred from another province under section 672.86.
+
+
+
+
+
+
+
+
+
+
+672.121 La commission d’examen ayant compétence à l’égard d’un accusé qui a été déclaré inapte à subir son procès ou non responsable criminellement pour cause de troubles mentaux peut — de sa propre initiative ou à la demande de l’accusé ou du poursuivant — rendre une ordonnance portant évaluation de l’état mental de l’accusé si elle a des motifs raisonnables de croire qu’une preuve concernant son état mental est nécessaire :
+
+
+
+Pouvoir de la commission d’examen
+
+
+
+
+
+a) soit pour déterminer s’il y a lieu de faire une recommandation au tribunal en vertu du paragraphe 672.851(1);
+
+
+
+
+
+
+
+
+
+
+
+b) soit pour rendre une décision en vertu de l’article 672.54 dans les cas suivants :
+
+
+
+
+
+
+
+
+
+
+(i) aucun rapport d’évaluation de l’état mental de l’accusé n’est disponible,
+
+
+
+
+
+
+
+
+
+
+(ii) aucune évaluation de l’état mental de l’accusé n’a été faite au cours des douze derniers mois,
+
+
+
+
+
+
+
+
+
+
+(iii) l’accusé a fait l’objet d’un transfèrement interprovincial en vertu de l’article 672.86.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+4. Subsection 672.13(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. Le paragraphe 672.13(2) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Form
+
+
+
+(2) An assessment order may be in Form 48 or 48.1.
+
+
+
+
+
+
+
+
+
+(2) L’ordonnance peut être rendue selon les formules 48 ou 48.1.
+
+
+
+Formules
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+5. Subsection 672.14(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 672.14(3) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Exception for compelling circumstances
+
+
+
+(3) Despite subsections (1) and (2), a court or Review Board may make an assessment order that remains in force for sixty days if the court or Review Board is satisfied that compelling circumstances exist that warrant it.
+
+
+
+
+
+
+
+
+
+(3) Par dérogation aux paragraphes (1) et (2), l'ordonnance d’évaluation peut être en vigueur pour une période de soixante jours si le tribunal ou la commission d’examen qui rend l’ordonnance est convaincu que des circonstances exceptionnelles l’exigent.
+
+
+
+Circonstances exceptionnelles
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+6. Subsection 672.15(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 672.15(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Extension
+
+
+
+
+672.15 (1) Subject to subsection (2), a court or Review Board may extend an assessment order, of its own motion or on the application of the accused or the prosecutor made during or at the end of the period during which the order is in force, for any further period that is required, in its opinion, to complete the assessment of the accused.
+
+
+
+
+
+
+
+
+
+
+672.15 (1) Sous réserve du paragraphe (2), le tribunal ou la commission d’examen peut, d’office ou à la demande de l’accusé ou du poursuivant présentée pendant que l’ordonnance est en cours de validité ou à la fin de la période de validité de celle-ci, prolonger l’ordonnance pour la période qu’il juge nécessaire à l’évaluation de l’état mental de l’accusé.
+
+
+
+Prolongation
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+7. (1) The portion of subsection 672.16(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. (1) Le passage du paragraphe 672.16(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Presumption against custody
+
+
+
+
+672.16 (1) Subject to subsection (3), an accused shall not be detained in custody under an assessment order of a court unless
+
+
+
+
+
+
+
+
+
+
+672.16 (1) Sous réserve du paragraphe (3), l’accusé n’est détenu en conformité avec une ordonnance d’évaluation rendue par le tribunal que dans les cas suivants :
+
+
+
+Priorité à la mise en liberté
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+(2) Subsection 672.16(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 672.16(2) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Presumption against custody — Review Board
+
+
+
+(1.1) If the Review Board makes an order for an assessment of an accused under section 672.121, the accused shall not be detained in custody under the order unless
+
+
+
+
+
+
+
+
+
+
+(a) the accused is currently subject to a disposition made under paragraph 672.54(c);
+
+
+
+
+
+
+
+
+
+
+(b) the Review Board is satisfied on the evidence that custody is necessary to assess the accused, or that on the evidence of a medical practitioner custody is desirable to assess the accused and the accused consents to custody; or
+
+
+
+
+
+
+
+
+
+
+(c) custody of the accused is required in respect of any other matter or by virtue of any other provision of this Act.
+
+
+
+
+
+
+
+
+
+(1.1) L’accusé n’est détenu en conformité avec une ordonnance d’évaluation rendue par la commission d’examen en vertu de l’article 672.121 que dans les cas suivants :
+
+
+
+Priorité à la mise en liberté — commission d’examen
+
+
+
+
+
+
+a
+) il fait l’objet d’une décision rendue en vertu de l’alinéa 672.54c);
+
+
+
+
+
+
+
+
+
+
+
+
+b
+) la commission d’examen est convaincue que, compte tenu des éléments de preuve présentés, la détention de l’accusé est nécessaire à l’évaluation de son état mental ou que, à la lumière du témoignage d’un médecin, la détention est souhaitable à cette fin et l’accusé y consent;
+
+
+
+
+
+
+
+
+
+
+
+
+c
+) l’accusé doit être détenu pour une autre raison ou en vertu d’une autre disposition de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Residency as a condition of disposition
+
+
+
+(1.2) Subject to paragraphs (1.1)(b) and (c), if the accused is subject to a disposition made under paragraph 672.54(b) that requires the accused to reside at a specified place, an assessment ordered under section 672.121 shall require the accused to reside at the same place.
+
+
+
+
+
+
+
+
+
+(1.2) Sous réserve des alinéas (1.1)b) et c), si l’accusé fait l’objet d’une décision rendue en vertu de l’alinéa 672.54b) qui l’oblige à résider dans le lieu qui y est précisé, l’ordonnance d’évaluation rendue à son égard en vertu de l’article 672.121 requiert qu’il continue de résider au même endroit.
+
+
+
+Décision comportant une condition de résidence
+
+
+
+
+
+
+
+
+
+
+Report of medical practitioner
+
+
+
+(2) For the purposes of paragraphs (1)(a) and (1.1)(b), if the prosecutor and the accused agree, the evidence of a medical practitioner may be received in the form of a report in writing.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application des alinéas (1)a) et (1.1)b), le témoignage d’un médecin peut, si l’accusé et le poursuivant y consentent, être présenté sous la forme d’un rapport écrit.
+
+
+
+Rapport écrit
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+(3) Subsection 672.16(3) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 672.16(3) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Presumption of custody in certain circumstances
+
+
+
+(3) An assessment order made in respect of an accused who is detained under subsection 515(6) or 522(2) shall order that the accused be detained in custody under the same circumstances referred to in that subsection, unless the accused shows that custody is not justified under the terms of that subsection.
+
+
+
+
+
+
+
+
+
+
+(3) An assessment order made in respect of an accused who is detained under subsection 515(6) or 522(2) shall order that the accused be detained in custody under the same circumstances referred to in that subsection, unless the accused shows that custody is not justified under the terms of that subsection.
+
+
+
+
+Presumption of custody in certain circumstances
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+8. Section 672.17 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. L’article 672.17 de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Assessment order takes precedence over bail hearing
+
+
+
+
+672.17 During the period that an assessment order made by a court in respect of an accused charged with an offence is in force, no order for the interim release or detention of the accused may be made by virtue of Part XVI or section 679 in respect of that offence or an included offence.
+
+
+
+
+
+
+
+
+
+
+672.17 Pendant la période de validité d’une ordonnance d’évaluation rendue par le tribunal et visant une personne accusée d’infraction, aucune ordonnance de mise en liberté provisoire ou de détention de l’accusé ne peut être rendue en vertu de la partie XVI ou de l’article 679 à l’égard de cette infraction ou d’une infraction incluse.
+
+
+
+Primauté du renvoi sur le cautionnement
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+9. Section 672.18 of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. L’article 672.18 de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Demande de modification
+
+
+
+
+
+672.18 Lorsque la nécessité lui en est démontrée par le poursuivant ou l’accusé, le tribunal peut, pendant que l’ordonnance d’évaluation rendue par un tribunal est en cours de validité, modifier les conditions de celle-ci qui portent sur la mise en liberté provisoire de l’accusé ou sa détention, de la façon que le tribunal juge indiquée dans les circonstances.
+
+
+
+
+
+
+
+
+
+
+
+672.18 Lorsque la nécessité lui en est démontrée par le poursuivant ou l’accusé, le tribunal peut, pendant que l’ordonnance d’évaluation rendue par un tribunal est en cours de validité, modifier les conditions de celle-ci qui portent sur la mise en liberté provisoire de l’accusé ou sa détention, de la façon que le tribunal juge indiquée dans les circonstances.
+
+
+
+Demande de modification
+
+
+
+
+
+
+
+
+
+
+1997, c. 18, s. 81
+
+
+
+
+10. Section 672.191 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. L’article 672.191 de la même loi est remplacé par ce qui suit :
+
+
+
+1997, ch. 18, art. 81
+
+
+
+
+
+
+
+
+
+
+When assessment completed
+
+
+
+
+672.191 An accused in respect of whom an assessment order is made shall appear before the court or Review Board that made the order as soon as practicable after the assessment is completed and not later than the last day of the period that the order is to be in force.
+
+
+
+
+
+
+
+
+
+
+672.191 L’accusé qui a fait l’objet d’une ordonnance d’évaluation doit comparaître devant le tribunal ou la commission d’examen qui a rendu l’ordonnance dans les plus brefs délais suivant la fin de l’évaluation mais avant l’expiration de la période de validité de l’ordonnance.
+
+
+
+Fin de l’évaluation
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+11. (1) Subsection 672.2(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. (1) Le paragraphe 672.2(2) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Assessment report to be filed
+
+
+
+(2) An assessment report shall be filed with the court or Review Board that ordered it, within the period fixed by the court or Review Board, as the case may be.
+
+
+
+
+
+
+
+
+
+(2) Le rapport est déposé auprès du tribunal ou de la commission d’examen dans le délai fixé par l’autorité qui a rendu l’ordonnance.
+
+
+
+Dépôt
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+(2) Subsection 672.2(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 672.2(4) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Copies of reports to accused and prosecutor
+
+
+
+(4) Subject to subsection 672.51(3), copies of any report filed with a court or Review Board under subsection (2) shall be provided without delay to the prosecutor, the accused and any counsel representing the accused.
+
+
+
+
+
+
+
+
+
+(4) Sous réserve du paragraphe 672.51(3), des copies du rapport déposé auprès du tribunal ou de la commission d’examen sont envoyées sans délai au poursuivant, à l’accusé et à l’avocat qui le représente.
+
+
+
+Copies à l’accusé et au poursuivant
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+12. Paragraph 672.21(3)(c) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+12. L’alinéa 672.21(3)c) de la même loi est abrogé.
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. Section 672.33 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+
+13. L’article 672.33 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Extension of time for holding inquiry
+
+
+
+(1.1) Despite subsection (1), the court may extend the period for holding an inquiry where it is satisfied on the basis of an application by the prosecutor or the accused that the extension is necessary for the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(1.1) Par dérogation au paragraphe (1), le tribunal peut proroger le délai pour tenir l’audience s’il est d’avis, en se fondant sur la demande du poursuivant ou de l’accusé, que cela servirait la bonne administration de la justice.
+
+
+
+Prorogation du délai pour tenir une audience
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. Section 672.45 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+
+14. L’article 672.45 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Transmittal of transcript to Review Board
+
+
+
+(1.1) If the court does not hold a hearing under subsection (1), it shall send without delay, following the verdict, in original or copied form, any transcript of the court proceedings in respect of the accused, any other document or information related to the proceedings, and all exhibits filed with it, to the Review Board that has jurisdiction in respect of the matter, if the transcript, document, information or exhibits are in its possession.
+
+
+
+
+
+
+
+
+
+(1.1) S’il ne tient pas d’audience en vertu du paragraphe (1), le tribunal est tenu de faire parvenir à la commission d’examen compétente, sans délai après le prononcé du verdict, tout procès-verbal et tout autre renseignement ou pièce se rapportant à l’instance qui sont en sa possession, ou des copies de ceux-ci.
+
+
+
+Transmission des documents à la commission d’examen
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+15. Subsection 672.47(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. Le paragraphe 672.47(3) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Disposition made by court
+
+
+
+(3) Where a court makes a disposition under section 672.54 other than an absolute discharge in respect of an accused, the Review Board shall, not later than ninety days after the disposition was made, hold a hearing and make a disposition in respect of the accused.
+
+
+
+
+
+
+
+
+
+(3) La commission d’examen doit tenir l'audience et rendre sa décision au plus tard à la fin de la période de quatre-vingt-dix jours qui suit la décision rendue par le tribunal en vertu de l’article 672.54, sauf dans le cas où le tribunal a ordonné la libération inconditionnelle de l’accusé.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. (1) Section 672.5 of the Act is amended by adding the following after subsection (5):
+
+
+
+
+
+
+
+
+
+
+16. (1) L'article 672.5 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(5.1) At the victim's request, notice of the hearing and of the relevant provisions of the Act shall be given to the victim within the time and in the manner fixed by the rules of the court or Review Board.
+
+
+
+
+
+
+
+
+
+(5.1) Un avis de l'audience et les dispositions de cette loi pertinentes aux victimes seront donnés à la victime, lorsque celle-ci en fait la demande, dans le délai et de la manière prévus par les règles du tribunal ou de la commission d'examen.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+(1.1) The portion of subsection 672.5(8) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+(1.1) Le paragraphe 672.5(8) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Assigning counsel
+
+
+
+(8) If an accused is not represented by counsel, the court or Review Board shall, either before or at the time of the hearing, assign counsel to act for any accused
+
+
+
+
+
+
+
+
+
+(8) Si l’intérêt de la justice l’exige ou lorsque l’accusé a été déclaré inapte à subir son procès, le tribunal ou la commission d’examen est tenu, dans le cas où l’accusé n’est pas représenté par avocat, de lui en désigner un, avant l’audience ou au moment de celle-ci.
+
+
+
+Avocat d’office
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 672.5 of the Act is amended by adding the following after subsection (13):
+
+
+
+
+
+
+
+
+
+(2) L’article 672.5 de la même loi est modifié par adjonction, après le paragraphe (13), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Adjournment
+
+
+
+(13.1) The Review Board may adjourn the hearing for a period not exceeding thirty days if necessary for the purpose of ensuring that relevant information is available to permit it to make or review a disposition or for any other sufficient reason.
+
+
+
+
+
+
+
+
+
+(13.1) La commission d’examen peut ajourner l’audience pour une période maximale de trente jours afin de s’assurer qu’elle possède les renseignements nécessaires pour lui permettre de rendre une décision ou pour tout autre motif valable.
+
+
+
+Ajournement
+
+
+
+
+
+
+
+
+
+
+Determination of mental condition of the accused
+
+
+
+(13.2) On receiving an assessment report, the court or Review Board shall determine whether, since the last time the disposition in respect of the accused was made or reviewed there has been any change in the mental condition of the accused that may provide grounds for the discharge of the accused under paragraph 672.54(a) or (b) and, if there has been such a change, the court or Review Board shall notify every victim of the offence that they are entitled to file a statement in accordance with subsection (14).
+
+
+
+
+
+
+
+
+
+(13.2) Le tribunal ou la commission d'examen qui reçoit un rapport d'évaluation détermine si, depuis la date de la décision rendue à l'égard de l'accusé ou de sa dernière révision, l'état mental de celui-ci a subi un changement pouvant justifier sa libération aux termes des alinéas 672.54a) ou b); le cas échéant, le tribunal ou la commission d'examen avise chacune des victimes de son droit de déposer une déclaration aux termes du paragraphe (14). 
+
+
+
+Détermination de l'état mental de l'accusé
+
+
+
+
+
+
+
+
+
+
+1999, c. 25, s. 11
+
+
+
+(3) Subsection 672.5(16) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 672.5(16) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 25, art. 11
+
+
+
+
+
+
+
+
+
+
+Presentation of victim statement
+
+
+
+(15.1) The court or Review Board shall, at the request of a victim, permit the victim to read a statement prepared and filed in accordance with subsection (14), or to present the statement in any other manner that the court or Review Board considers appropriate, unless the court or Review Board is of the opinion that the reading or presentation of the statement would interfere with the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(15.1) Si la victime en fait la demande, le tribunal ou la commission d’examen lui permet de lire la déclaration rédigée et déposée conformément au paragraphe (14) ou d’en faire la présentation de toute autre façon qu’il juge indiquée, sauf s’il est d’avis que cette mesure nuirait à la bonne administration de la justice.
+
+
+
+Présentation de la déclaration de la victime
+
+
+
+
+
+
+
+
+
+
+Inquiry by court or Review Board
+
+
+
+(15.2) The court or Review Board shall, as soon as practicable after a verdict of not criminally responsible on account of mental disorder is rendered in respect of an offence and before making a disposition under section 672.45 or 672.47, inquire of the prosecutor or a victim of the offence, or any person representing a victim of the offence, whether the victim has been advised of the opportunity to prepare a statement referred to in subsection (14).
+
+
+
+
+
+
+
+
+
+(15.2) Dans les meilleurs délais possible suivant le verdict de non-responsabilité criminelle pour cause de troubles mentaux et avant de rendre une décision en conformité avec les articles 672.45 ou 672.47, le tribunal ou la commission d’examen est tenu de s’enquérir auprès du poursuivant ou de la victime — ou de toute personne la représentant — si la victime a été informée de la possibilité de rédiger une déclaration au titre du paragraphe (14).
+
+
+
+Obligation de s’enquérir
+
+
+
+
+
+
+
+
+
+
+Adjournment
+
+
+
+(15.3) On application of the prosecutor or a victim or of its own motion, the court or Review Board may adjourn the hearing held under section 672.45 or 672.47 to permit the victim to prepare a statement referred to in subsection (14) if the court or Review Board is satisfied that the adjournment would not interfere with the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(15.3) Le tribunal ou la commission d’examen peut s’il est convaincu que cela ne nuira pas à la bonne administration de la justice, de sa propre initiative ou à la demande de la victime ou du poursuivant, ajourner l’audience visée aux articles 672.45 ou 672.47 pour permettre à la victime de rédiger sa déclaration.
+
+
+
+Ajournement
+
+
+
+
+
+
+
+
+
+
+Definition of “victim”
+
+
+
+(16) In subsections (14) and (15.1) to (15.3), “victim” has the same meaning as in subsection 722(4).
+
+
+
+
+
+
+
+
+
+(16) Aux paragraphes (14) et (15.1) à (15.3), « victime » s’entend au sens du paragraphe 722(4).
+
+
+
+Définition de « victime »
+
+
+
+
+
+
+
+
+
+
+
+
+
+17. The Act is amended by adding the following after section 672.5:
+
+
+
+
+
+
+
+
+
+
+17. La même loi est modifiée par adjonction, après l’article 672.5, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Order restricting publication — victims of sexual offences
+
+
+
+
+672.501 (1) Where a Review Board holds a hearing referred to in section 672.5 in respect of an accused who has been declared not crimi­nally responsible on account of mental disorder or unfit to stand trial for an offence referred to in subsection 486(3), the Review Board shall make an order directing that any information that could identify a victim, or a witness who is under the age of eighteen years, shall not be published in any document or broadcast or transmitted in any way.
+
+
+
+
+
+
+
+
+
+
+672.501 (1) Dans le cadre des audiences qu’elle tient en vertu de l’article 672.5 relativement à une personne déclarée inapte à subir son procès ou non responsable criminellement pour cause de troubles mentaux à l’égard d’une infraction visée au paragraphe 486(3), la commission d’examen rend une ordonnance interdisant la publication ou la diffusion de quelque façon que ce soit de tout renseignement qui permettrait d’établir l’identité d’une victime ou d’un témoin âgé de moins de dix-huit ans.
+
+
+
+Ordonnance limitant la publication — infractions d’ordre sexuel
+
+
+
+
+
+
+
+
+
+
+Order restricting publication — child pornography
+
+
+
+(2) Where a Review Board holds a hearing referred to in section 672.5 in respect of an accused who has been declared not criminally responsible on account of mental disorder or unfit to stand trial for an offence referred to in section 163.1, a Review Board shall make an order directing that any information that could identify a witness who is under the age of eighteen years, or any person who is the subject of a representation, written material or a recording that constitutes child pornography within the meaning of section 163.1, shall not be published in any document or broadcast or transmitted in any way.
+
+
+
+
+
+
+
+
+
+(2) Dans le cadre des audiences qu’elle tient en vertu de l’article 672.5 relativement à une personne déclarée inapte à subir son procès ou non responsable criminellement pour cause de troubles mentaux à l’égard d’une infraction visée à l’article 163.1, la commission d’examen rend une ordonnance interdisant la publication ou la diffusion de quelque façon que ce soit de tout renseignement qui permettrait d’établir l’identité d’un témoin âgé de moins de dix-huit ans ou d’une personne faisant l’objet d’une représentation, d’un écrit ou d’un enregistrement qui constitue de la pornographie juvénile au sens de l’article 163.1.
+
+
+
+Pornographie juvénile
+
+
+
+
+
+
+
+
+
+
+Order restricting publication — other offences
+
+
+
+(3) Where a Review Board holds a hearing referred to in section 672.5 in respect of an accused who has been declared not criminally responsible on account of mental disorder or unfit to stand trial for an offence other than the offences referred to in subsection (1) or (2), on application of the prosecutor, a victim or a witness, the Review Board may make an order directing that any information that could identify the victim or witness shall not be published in any document or broadcast or transmitted in any way if the Review Board is satisfied that the order is necessary for the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(3) Dans le cadre des audiences qu’elle tient en vertu de l’article 672.5 relativement à une personne déclarée inapte à subir son procès ou non responsable criminellement pour cause de troubles mentaux à l’égard d’une infraction autre que celles visées aux paragraphes (1) ou (2), la commission d’examen peut, sur demande, rendre une ordonnance interdisant la publication ou la diffusion de quelque façon que ce soit de tout renseignement qui permettrait d’établir l’identité de la victime ou d’un témoin, si elle est convaincue que la bonne administration de la justice l’exige. La demande peut être présentée par le poursuivant, la victime ou le témoin intéressé.
+
+
+
+Autres infractions
+
+
+
+
+
+
+
+
+
+
+Order restricting publication
+
+
+
+(4) An order made under any of subsections (1) to (3) does not apply in respect of the disclosure of information in the course of the administration of justice if it is not the purpose of the disclosure to make the information known in the community.
+
+
+
+
+
+
+
+
+
+(4) Les ordonnances visées aux paragraphes (1) à (3) ne s’appliquent pas à la communication de renseignements dans le cours de l’administration de la justice si la communication ne vise pas à en informer la collectivité.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+Application and notice
+
+
+
+(5) An applicant for an order under subsection (3) shall
+
+
+
+
+
+
+
+
+
+
+(a) apply in writing to the Review Board; and
+
+
+
+
+
+
+
+
+
+
+(b) provide notice of the application to the prosecutor, the accused and any other person affected by the order that the Review Board specifies.
+
+
+
+
+
+
+
+
+
+(5) La demande d’ordonnance visée au paragraphe (3) :
+
+
+
+Contenu de la demande
+
+
+
+
+
+a) est présentée par écrit à la commission d’examen;
+
+
+
+
+
+
+
+
+
+
+
+b) est notifiée par le demandeur au poursuivant et à l’accusé, ainsi qu’à toute autre personne touchée selon ce que la commission d’examen indique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grounds
+
+
+
+(6) An applicant for an order under subsection (3) shall set out the grounds on which the applicant relies to establish that the order is necessary for the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(6) Elle énonce les motifs invoqués pour montrer que l’ordonnance servirait la bonne administration de la justice.
+
+
+
+Motifs
+
+
+
+
+
+
+
+
+
+
+Hearing may be held
+
+
+
+(7) The Review Board may hold a hearing to determine whether an order under subsection (3) should be made, and the hearing may be in private.
+
+
+
+
+
+
+
+
+
+(7) La commission d’examen peut tenir une audience — à huis clos ou non — pour décider si l’ordonnance doit être rendue.
+
+
+
+Possibilité d’une audience
+
+
+
+
+
+
+
+
+
+
+Factors to be considered
+
+
+
+(8) In determining whether to make an order under subsection (3), the Review Board shall consider
+
+
+
+
+
+
+
+
+
+
+(a) the right to a fair and public hearing;
+
+
+
+
+
+
+
+
+
+
+(b) whether there is a real and substantial risk that the victim or witness would suffer significant harm if their identity were disclosed;
+
+
+
+
+
+
+
+
+
+
+(c) whether the victim or witness needs the order for their security or to protect them from intimidation or retaliation;
+
+
+
+
+
+
+
+
+
+
+(d) society’s interest in encouraging the reporting of offences and the participation of victims and witnesses in the criminal justice process;
+
+
+
+
+
+
+
+
+
+
+(e) whether effective alternatives are available to protect the identity of the victim or witness;
+
+
+
+
+
+
+
+
+
+
+(f) the salutary and deleterious effects of the proposed order;
+
+
+
+
+
+
+
+
+
+
+(g) the impact of the proposed order on the freedom of expression of those affected by it; and
+
+
+
+
+
+
+
+
+
+
+(h) any other factor that the Review Board considers relevant.
+
+
+
+
+
+
+
+
+
+(8) Pour décider si elle doit rendre l’ordonnance, la commission d’examen prend en compte :
+
+
+
+Facteurs à considérer
+
+
+
+
+
+a) le droit à une audition publique et équitable;
+
+
+
+
+
+
+
+
+
+
+
+b) tout risque sérieux de préjudice grave pour la victime ou le témoin si son identité est révélée;
+
+
+
+
+
+
+
+
+
+
+
+c) la nécessité d’assurer la sécurité de la victime ou du témoin et de les protéger contre l’intimidation et les représailles;
+
+
+
+
+
+
+
+
+
+
+
+d) l’intérêt de la société à encourager la dénonciation des infractions et la participation des victimes ou des témoins au système judiciaire;
+
+
+
+
+
+
+
+
+
+
+
+e) l’existence d’autres moyens efficaces permettant de protéger l’identité de la victime ou du témoin;
+
+
+
+
+
+
+
+
+
+
+
+f) les effets bénéfiques et les effets préjudiciables de l’ordonnance demandée;
+
+
+
+
+
+
+
+
+
+
+
+g) les répercussions sur la liberté d’expression des personnes touchées par l’ordonnance demandée;
+
+
+
+
+
+
+
+
+
+
+
+h) tout autre facteur qu’elle estime pertinent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conditions
+
+
+
+(9) An order made under subsection (3) may be subject to any conditions that the Review Board thinks fit.
+
+
+
+
+
+
+
+
+
+(9) La commission d’examen peut assortir l’ordonnance de toute condition qu’elle estime indiquée.
+
+
+
+Conditions
+
+
+
+
+
+
+
+
+
+
+Publication of application prohibited
+
+
+
+(10) Unless the Review Board refuses to make an order under subsection (3), no person shall publish in any document or broadcast or transmit in any way
+
+
+
+
+
+
+
+
+
+
+(a) the contents of an application;
+
+
+
+
+
+
+
+
+
+
+(b) any evidence taken, information given or submissions made at a hearing under subsection (7); or
+
+
+
+
+
+
+
+
+
+
+(c) any other information that could identify the person to whom the application relates as a victim or witness in the proceedings.
+
+
+
+
+
+
+
+
+
+(10) À moins que la commission d’examen ne refuse de rendre l’ordonnance, il est interdit à quiconque de publier ou de diffuser de quelque façon que ce soit :
+
+
+
+Interdiction de publication ou diffusion
+
+
+
+
+
+a) le contenu de la demande;
+
+
+
+
+
+
+
+
+
+
+
+b) tout élément de preuve, tout renseignement ou toute observation présentés lors d’une audience tenue en vertu du paragraphe (7);
+
+
+
+
+
+
+
+
+
+
+
+c) tout autre renseignement qui permettrait d’établir l’identité de la victime ou du témoin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offence
+
+
+
+(11) Every person who fails to comply with an order made under any of subsections (1) to (3) is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+(11) Quiconque transgresse une ordonnance rendue conformément à l’un des paragraphes (1) à (3) est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+Transgression de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+Application of order
+
+
+
+(12) For greater certainty, an order referred to in subsection (11) also prohibits, in relation to proceedings taken against any person who fails to comply with the order, the publication in any document or the broadcasting or transmission in any way of information that could identify a victim or witness whose identity is protected by the order.
+
+
+
+
+
+
+
+
+
+(12) Il est entendu qu’une ordonnance visée au paragraphe (11) emporte également interdiction, dans toute procédure relative à sa transgression, de publier ou de diffuser de quelque façon que ce soit, quelque renseignement qui permettrait d’établir l’identité de la victime ou du témoin que l’ordonnance vise à protéger.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+18. The portion of subsection 672.51(11) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+18. Le passage du paragraphe 672.51(11) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Prohibition on publication
+
+
+
+(11) No person shall publish in any doc­ument or broadcast or transmit in any way
+
+
+
+
+
+
+
+
+
+(11) Il est interdit de publier ou de diffuser de quelque façon que ce soit :
+
+
+
+Interdiction de publication ou diffusion
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+19. Subsection 672.52(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+19. Le paragraphe 672.52(2) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Transmittal of transcript to Review Board
+
+
+
+(2) If a court holds a disposition hearing under subsection 672.45(1), whether or not it makes a disposition, it shall send without delay to the Review Board that has jurisdiction in respect of the matter, in original or copied form, a transcript of the hearing, any other document or information related to the hearing, and all exhibits filed with it, if the transcript, document, information or exhibits are in its possession.
+
+
+
+
+
+
+
+
+
+(2) Le tribunal qui tient une audience en vertu du paragraphe 672.45(1), qu’il rende une décision ou non, est tenu de faire parvenir sans délai à la commission d’examen compétente le procès-verbal de l’audience et tout autre renseignement ou pièce s’y rapportant qui sont en sa possession, ou des copies de ceux-ci.
+
+
+
+Transmission des documents à la commission d’examen
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+20. The portion of section 672.54 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+20. Le passage de l’article 672.54 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Dispositions that may be made
+
+
+
+
+672.54 Where a court or Review Board makes a disposition under subsection 672.45(2) or section 672.47 or 672.83, it shall, taking into consideration the need to protect the public from dangerous persons, the mental condition of the accused, the reintegration of the accused into society and the other needs of the accused, make one of the following dispositions that is the least onerous and least restrictive to the accused:
+
+
+
+
+
+
+
+
+
+
+672.54 Pour l’application du paragraphe 672.45(2) ou des articles 672.47 ou 672.83, le tribunal ou la commission d’examen rend la décision la moins sévère et la moins privative de liberté parmi celles qui suivent, compte tenu de la nécessité de protéger le public face aux personnes dangereuses, de l’état mental de l’accusé et de ses besoins, notamment de la nécessité de sa réinsertion sociale :
+
+
+
+Décisions
+
+
+
+
+
+
+
+
+
+
+1999, c. 25, s. 12
+
+
+
+
+21. Section 672.541 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+21. L’article 672.541 de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 25, art. 12
+
+
+
+
+
+
+
+
+
+
+Victim impact statement
+
+
+
+
+672.541 When a verdict of not criminally responsible on account of mental disorder has been rendered in respect of an accused, the court or Review Board shall, at a hearing held under section 672.45, 672.47, 672.81 or 672.82, take into consideration any statement filed in accord­ance with subsection 672.5(14) in determining the appropriate disposition or conditions under section 672.54, to the extent that the statement is relevant to its consideration of the criteria set out in section 672.54.
+
+
+
+
+
+
+
+
+
+
+672.541 En cas de verdict de non-responsabilité criminelle pour cause de troubles mentaux, le tribunal ou la commission d’examen prend en compte, à l'audience tenue conformément aux articles 672.45, 672.47, 672.81 ou 672.82 et dans le cadre des critères énoncés à l’article 672.54, toute déclaration déposée en conformité avec le paragraphe 672.5(14) en vue de rendre une décision ou de fixer des modalités au titre de l’article 672.54.
+
+
+
+Déclaration de la victime
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+22. Subsection 672.55(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+22. Le paragraphe 672.55(2) de la même loi est abrogé.
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+23. Section 672.63 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+23. L’article 672.63 de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Effective date of disposition
+
+
+
+
+672.63 A disposition shall come into force on the day on which it is made or on any later day that the court or Review Board specifies in it, and shall remain in force until the Review Board holds a hearing to review the disposition and makes another disposition.
+
+
+
+
+
+
+
+
+
+
+672.63 La décision entre en vigueur le jour où elle est rendue ou à la date ultérieure que fixe le tribunal ou la commission d’examen et le demeure jusqu’à ce que la commission tienne une audience pour la réviser et rende une nouvelle décision.
+
+
+
+Date d’entrée en vigueur
+
+
+
+
+
+
+
+
+
+
+
+
+
+24. The heading before section 672.64 and sections 672.64 to 672.66 of the Act, as enacted by section 4 of chapter 43 of the Statutes of Canada, 1991, are repealed.
+
+
+
+
+
+
+
+
+
+
+24. L’intertitre précédant l’article 672.64 et les articles 672.64 à 672.66 de la même loi, édictés par l’article 4 du chapitre 43 des Lois du Canada (1991), sont abrogés.
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4; 1995, c. 22, s. 10 (Sch. I, s. 25)
+
+
+
+
+25. Subsection 672.67(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+25. Le paragraphe 672.67(2) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4; 1995, ch. 22, art. 10, ann. I, art. 25
+
+
+
+
+
+
+
+
+
+
+Custodial disposition by court
+
+
+
+(2) Where a court imposes a custodial disposition on an accused who is, or thereby becomes, a dual status offender, the disposition takes precedence over any prior sentence of imprisonment pending any placement decision by the Review Board.
+
+
+
+
+
+
+
+
+
+(2) Lorsque le tribunal rend une décision de détention à l’égard d’un accusé qui est ou devient ainsi à double statut, la décision l’emporte sur toute peine d’emprisonnement antérieure jusqu’à ce que la commission d’examen rende une ordonnance de placement à l’égard du contrevenant.
+
+
+
+Décision de détention du tribunal
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+26. Sections 672.79 and 672.8 of the Act are repealed.
+
+
+
+
+
+
+
+
+
+
+26. Les articles 672.79 et 672.8 de la même loi sont abrogés.
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+27. (1) Subsection 672.81(1) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+27. (1) Le paragraphe 672.81(1) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Révisions
+
+
+
+
+
+672.81 (1) La commission d’examen qui a rendu une décision à l’égard d’un accusé tient une nouvelle audience au plus tard douze mois après la décision et à l’intérieur de chaque période de douze mois suivante tant que la décision rendue est en vigueur, à l’exception de la décision prononçant une libération inconditionnelle en vertu de l’alinéa 672.54a).
+
+
+
+
+
+
+
+
+
+
+
+672.81 (1) La commission d’examen qui a rendu une décision à l’égard d’un accusé tient une nouvelle audience au plus tard douze mois après la décision et à l’intérieur de chaque période de douze mois suivante tant que la décision rendue est en vigueur, à l’exception de la décision prononçant une libération inconditionnelle en vertu de l’alinéa 672.54a).
+
+
+
+Révisions
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+(2) Subsection 672.81(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 672.81(2) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Extension on consent
+
+
+
+(1.1) Despite subsection (1), the Review Board may extend the time for holding a hearing to a maximum of twenty-four months after the making or reviewing of a disposition if the accused is represented by counsel and the accused and the Attorney General consent to the extension.
+
+
+
+
+
+
+
+
+
+(1.1) Par dérogation au paragraphe (1), la commission d’examen peut proroger le délai préalable à la tenue d’une audience de révision jusqu’à un maximum de vingt-quatre mois après la décision ou sa révision, si l’accusé est représenté par un avocat et que l’accusé et le procureur général y consentent.
+
+
+
+Prorogation sur consentement
+
+
+
+
+
+
+
+
+
+
+Extension for serious personal violence offence
+
+
+
+(1.2) Despite subsection (1), at the conclusion of a hearing under this section the Review Board may, after making a disposition, extend the time for holding a subsequent hearing under this section to a maximum of twenty-four months if
+
+
+
+
+
+
+
+
+
+
+(a) the accused has been found not crimi­nally responsible for a serious personal injury offence;
+
+
+
+
+
+
+
+
+
+
+(b) the accused is subject to a disposition made under paragraph 672.54(c); and
+
+
+
+
+
+
+
+
+
+
+(c) the Review Board is satisfied on the basis of any relevant information, including disposition information within the meaning of subsection 672.51(1) and an assessment report made under an assessment ordered under paragraph 672.121(a), that the condition of the accused is not likely to improve and that detention remains necessary for the period of the extension.
+
+
+
+
+
+
+
+
+
+(1.2) Par dérogation au paragraphe (1), la commission d’examen peut, après avoir rendu une décision au terme de l’audience de révision tenue en vertu du présent article, proroger le délai préalable à la tenue d’une audience de révision subséquente en vertu du présent article jusqu’à un maximum de vingt-quatre mois si les conditions suivantes sont réunies :
+
+
+
+Prorogation pour infraction grave contre la personne
+
+
+
+
+
+a) l’accusé fait l’objet d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard d’une infraction grave contre la personne;
+
+
+
+
+
+
+
+
+
+
+
+b) l’accusé fait l’objet d’une décision rendue en vertu de l’alinéa 672.54c);
+
+
+
+
+
+
+
+
+
+
+
+c) elle est convaincue, à la lumière de tout renseignement utile, y compris les renseignements décisionnels au sens du paragraphe 672.51(1) et tout rapport d’évaluation fait à la suite d’une ordonnance d’évaluation rendue en vertu de l’alinéa 672.121a), que l’état de l’accusé ne s’améliorera probablement pas et que sa détention demeure nécessaire pendant la période prorogée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “serious personal injury offence”
+
+
+
+(1.3) For the purposes of subsection (1.2), “serious personal injury offence” means
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence involving
+
+
+
+
+
+
+
+
+
+
+(i) the use or attempted use of violence against another person, or
+
+
+
+
+
+
+
+
+
+
+(ii) conduct endangering or likely to endanger the life or safety of another person or inflicting or likely to inflict severe psychological damage upon another person; or
+
+
+
+
+
+
+
+
+
+
+(b) an indictable offence referred to in section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 271, 272 or 273 or an attempt to commit such an offence.
+
+
+
+
+
+
+
+
+
+(1.3) Au paragraphe (1.2), « infraction grave contre la personne » s’entend, selon le cas :
+
+
+
+Définition de « infraction grave contre la personne »
+
+
+
+
+
+a) d’un acte criminel mettant en cause :
+
+
+
+
+
+
+
+
+
+
+(i) soit la violence ou la tentative d’utiliser la violence contre une autre personne,
+
+
+
+
+
+
+
+
+
+
+(ii) soit un comportement qui met ou risque de mettre en danger la vie ou la sécurité d’une autre personne ou qui inflige ou risque d’infliger des dommages psychologiques graves à une autre personne;
+
+
+
+
+
+
+
+
+
+
+
+b) d’un acte criminel visé aux articles 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 271, 272 ou 273 ou de la tentative de perpétration d’un tel acte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(1.4) If the Review Board extends the time for holding a hearing under subsection (1.2), it shall provide notice of the extension to the accused, the prosecutor and the person in charge of the hospital where the accused is detained.
+
+
+
+
+
+
+
+
+
+(1.4) La commission d’examen qui proroge le délai en vertu du paragraphe (1.2) est tenue de donner avis de la prorogation à l’accusé, au poursuivant et au responsable de l’hôpital où l’accusé est détenu.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Appeal
+
+
+
+(1.5) A decision by the Review Board to extend the time for holding a hearing under subsection (1.2) is deemed to be a disposition for the purpose of sections 672.72 to 672.78.
+
+
+
+
+
+
+
+
+
+(1.5) Les articles 672.72 à 672.78 s’appliquent à la décision de la commission de proroger le délai en vertu du paragraphe (1.2).
+
+
+
+Appel
+
+
+
+
+
+
+
+
+
+
+Additional mandatory reviews in custody cases
+
+
+
+(2) The Review Board shall hold a hearing to review any disposition made under paragraph 672.54(b) or (c) as soon as practicable after receiving notice that the person in charge of the place where the accused is detained or directed to attend requests the review.
+
+
+
+
+
+
+
+
+
+(2) La commission d’examen tient une audience pour réviser toute décision rendue en vertu des alinéas 672.54b) ou c) le plus tôt possible après qu’elle est avisée que la personne responsable du lieu où l’accusé est détenu ou doit se présenter le demande.
+
+
+
+Révisions supplémentaires obligatoires en cas de détention
+
+
+
+
+
+
+
+
+
+
+Review in case of increase on restrictions on liberty
+
+
+
+(2.1)  The Review Board shall hold a hearing to review a decision to significantly increase the restrictions on the liberty of the accused, as soon as practicable after receiving the notice referred to in subsection 672.56(2).
+
+
+
+
+
+
+
+
+
+(2.1) Le plus tôt possible après réception de l’avis prévu au paragraphe 672.56(2), la commission d’examen tient une audience pour réviser tout resserrement important des privations de liberté de l’accusé.
+
+
+
+Révisions supplémentaires en cas de resserrement important des privations de liberté
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+28. Subsection 672.82(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+28. Le paragraphe 672.82(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Discretionary review
+
+
+
+
+672.82 (1) A Review Board may hold a hearing to review any of its dispositions at any time, of its own motion or at the request of the accused or any other party.
+
+
+
+
+
+
+
+
+
+
+672.82 (1) La commission d’examen peut, en tout temps, tenir une audience de sa propre initiative ou à la demande de l’accusé ou de toute autre partie pour réviser ses propres décisions.
+
+
+
+Révisions facultatives
+
+
+
+
+
+
+
+
+
+
+Review Board to provide notice
+
+
+
+(1.1) Where a Review Board holds a hearing under subsection (1) of its own motion, it shall provide notice to the prosecutor, the accused and any other party.
+
+
+
+
+
+
+
+
+
+(1.1) Dans le cas où l’audience est tenue de sa propre initiative, la commission d’examen en donne avis au poursuivant, à l’accusé et à toute autre partie.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+1997, c. 18, s. 90
+
+
+
+
+29. Subsection 672.83(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+29. Le paragraphe 672.83(2) de la même loi est abrogé.
+
+
+
+1997, ch. 18, art. 90
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+30. Section 672.84 of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+30. L’article 672.84 de la même loi est abrogé.
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+31. The Act is amended by adding the following before section 672.85:
+
+
+
+
+
+
+
+
+
+
+31. La même loi est modifiée par adjonction, avant l’article 672.85, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power to Compel Appearance
+
+
+
+
+
+
+
+
+
+Pouvoirs relatifs à la comparution
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+32. (1) The portion of section 672.85 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+32. (1) Le passage de l’article 672.85 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Bringing accused before Review Board
+
+
+
+
+672.85 For the purpose of bringing the accused in respect of whom a hearing is to be held before the Review Board, including in circumstances in which the accused did not attend a previous hearing in contravention of a summons or warrant, the chairperson
+
+
+
+
+
+
+
+
+
+
+672.85 Afin d'assurer la présence de l’accusé visé par une audience, notamment s’il ne s’est pas présenté à une telle audience en contravention d’une sommation ou d’un mandat, le président de la commission d’examen :
+
+
+
+Présence de l’accusé devant la commission
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+(2) Paragraph 672.85(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 672.85b) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+(b) may, if the accused is not in custody, issue a summons or warrant to compel the accused to appear at the hearing at the time and place fixed for it.
+
+
+
+
+
+
+
+
+
+
+b) si l’accusé n’est pas détenu, peut, par sommation ou mandat, le contraindre à comparaître devant la commission d’examen à l’heure, à la date et au lieu fixés pour l’audience. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33. The Act is amended by adding the following after section 672.85:
+
+
+
+
+
+
+
+
+
+
+33. La même loi est modifiée par adjonction, après l’article 672.85, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stay of Proceedings
+
+
+
+
+
+
+
+
+
+Suspension d’instance
+
+
+
+
+
+
+
+
+
+
+
+
+Recommendation by Review Board
+
+
+
+
+672.851 (1) The Review Board may, of its own motion, make a recommendation to the court that has jurisdiction in respect of the offence charged against an accused found unfit to stand trial to hold an inquiry to determine whether a stay of proceedings should be ordered if
+
+
+
+
+
+
+
+
+
+
+(a) the Review Board has held a hearing under section 672.81 or 672.82 in respect of the accused; and
+
+
+
+
+
+
+
+
+
+
+(b) on the basis of any relevant information, including disposition information within the meaning of subsection 672.51(1) and an assessment report made under an assessment ordered under paragraph 672.121(a), the Review Board is of the opinion that
+
+
+
+
+
+
+
+
+
+
+(i) the accused remains unfit to stand trial and is not likely to ever become fit to stand trial, and
+
+
+
+
+
+
+
+
+
+
+(ii) the accused does not pose a significant threat to the safety of the public.
+
+
+
+
+
+
+
+
+
+
+672.851 (1) La commission d’examen peut, de sa propre initiative, recommander au tribunal qui a compétence à l’égard de l’infraction dont un accusé déclaré inapte à subir son procès était inculpé de tenir une audience pour décider si la suspension de l’instance devrait être prononcée, lorsque, à la fois :
+
+
+
+Recommandation de la commission d’examen
+
+
+
+
+
+a) elle a tenu une audience en vertu des articles 672.81 ou 672.82 à l’égard de l’accusé;
+
+
+
+
+
+
+
+
+
+
+
+b) elle est d’avis, à la lumière de tout renseignement utile, y compris les renseignements décisionnels au sens du paragraphe 672.51(1) et tout rapport d’évaluation fait à la suite d’une ordonnance d’évaluation rendue en vertu de l’alinéa 672.121a), que :
+
+
+
+
+
+
+
+
+
+
+(i) d’une part, l’accusé n’est toujours pas apte à subir son procès et ne le sera vraisemblablement jamais,
+
+
+
+
+
+
+
+
+
+
+(ii) d’autre part, il ne présente aucun danger important pour la sécurité du public.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(2) If the Review Board makes a recommendation to the court to hold an inquiry, the Review Board shall provide notice to the accused, the prosecutor and any party who, in the opinion of the Review Board, has a substantial interest in protecting the interests of the accused.
+
+
+
+
+
+
+
+
+
+(2) La commission d’examen qui recommande la tenue d’une audience en avise l’accusé, le poursuivant et toute autre partie qui, à son avis, a un intérêt réel à protéger les intérêts de l’accusé.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Inquiry
+
+
+
+(3) As soon as practicable after receiving the recommendation referred to in subsection (1), the court may hold an inquiry to determine whether a stay of proceedings should be ordered.
+
+
+
+
+
+
+
+
+
+(3) Dans les meilleurs délais possible après réception de la recommandation visée au paragraphe (1), le tribunal peut tenir une audience pour décider si la suspension de l’instance devrait être prononcée.
+
+
+
+Audience
+
+
+
+
+
+
+
+
+
+
+Court may act on own motion
+
+
+
+(4) A court may, of its own motion, conduct an inquiry to determine whether a stay of proceedings should be ordered if the court is of the opinion, on the basis of any relevant information, that
+
+
+
+
+
+
+
+
+
+
+(a) the accused remains unfit to stand trial and is not likely to ever become fit to stand trial; and
+
+
+
+
+
+
+
+
+
+
+(b) the accused does not pose a significant threat to the safety of the public.
+
+
+
+
+
+
+
+
+
+(4) À la lumière de tout renseignement utile, le tribunal peut également, de sa propre initiative, tenir une telle audience s’il est d’avis que :
+
+
+
+Initiative du tribunal
+
+
+
+
+
+a) d’une part, l’accusé n’est toujours pas apte à subir son procès et ne le sera vraisemblablement jamais;
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, il ne présente aucun danger important pour la sécurité du public.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assessment order
+
+
+
+(5) If the court holds an inquiry under subsection (3) or (4), it shall order an assessment of the accused.
+
+
+
+
+
+
+
+
+
+(5) S’il tient une audience en vertu des paragraphes (3) ou (4), le tribunal rend une ordonnance d’évaluation visant l’accusé.
+
+
+
+Ordonnance d’évaluation
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(6) Section 672.51 applies to an inquiry of the court under this section.
+
+
+
+
+
+
+
+
+
+(6) L’article 672.51 s’applique aux audiences tenues sous le régime du présent article.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Stay
+
+
+
+(7) The court may, on completion of an inquiry under this section, order a stay of proceedings if it is satisfied
+
+
+
+
+
+
+
+
+
+
+(a) on the basis of clear information, that the accused remains unfit to stand trial and is not likely to ever become fit to stand trial;
+
+
+
+
+
+
+
+
+
+
+(b) that the accused does not pose a significant threat to the safety of the public; and
+
+
+
+
+
+
+
+
+
+
+(c) that a stay is in the interests of the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(7) Le tribunal peut, au terme de l’audience, ordonner la suspension de l’instance s’il est convaincu :
+
+
+
+Suspension de l’instance
+
+
+
+
+
+a) sur le fondement de renseignements concluants, que l’accusé n’est toujours pas apte à subir son procès et ne le sera vraisemblablement jamais;
+
+
+
+
+
+
+
+
+
+
+
+b) qu’il ne présente aucun danger important pour la sécurité du public;
+
+
+
+
+
+
+
+
+
+
+
+c) que la mesure servirait la bonne administration de la justice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proper administration of justice
+
+
+
+(8) In order to determine whether a stay of proceedings is in the interests of the proper administration of justice, the court shall consider any submissions of the prosecutor, the accused and all other parties and the following factors:
+
+
+
+
+
+
+
+
+
+
+(a) the nature and seriousness of the alleged offence;
+
+
+
+
+
+
+
+
+
+
+(b) the salutary and deleterious effects of the order for a stay of proceedings, including any effect on public confidence in the administration of justice;
+
+
+
+
+
+
+
+
+
+
+(c) the time that has elapsed since the commission of the alleged offence and whether an inquiry has been held under section 672.33 to decide whether sufficient evidence can be adduced to put the accused on trial; and
+
+
+
+
+
+
+
+
+
+
+(d) any other factor that the court considers relevant.
+
+
+
+
+
+
+
+
+
+(8) Pour décider si la suspension de l’instance servirait la bonne administration de la justice, le tribunal prend en compte les observations présentées par le poursuivant, l’accusé ou toute autre partie ainsi que les facteurs suivants :
+
+
+
+Critères
+
+
+
+
+
+a) la nature et la gravité de l’infraction reprochée;
+
+
+
+
+
+
+
+
+
+
+
+
+b
+) les effets bénéfiques et les effets préjudiciables de l’ordonnance, notamment en ce qui a trait à la confiance du public envers l’administration de la justice;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c
+
+) le temps écoulé depuis la perpétration de l’infraction reprochée et le fait qu’une audience a été tenue ou non en vertu de l’article 672.33 pour décider s’il existe toujours suffisamment d’éléments de preuve pour ordonner que l’accusé subisse son procès;
+
+
+
+
+
+
+
+
+
+
+
+
+d
+) tout autre facteur qu’il estime pertinent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effect of stay
+
+
+
+(9) If a stay of proceedings is ordered by the court, any disposition made in respect of the accused ceases to have effect. If a stay of proceedings is not ordered, the finding of unfit to stand trial and any disposition made in respect of the accused remain in force, until the Review Board holds a disposition hearing and makes a disposition in respect of the accused under section 672.83.
+
+
+
+
+
+
+
+
+
+(9) La suspension de l’instance rend inopérante toute décision qui a été rendue à l’égard de l’accusé. Le refus de prononcer la suspension maintient en vigueur le verdict d’inaptitude de l’accusé à subir son procès et toute décision qui a été rendue à son égard, jusqu’à ce que la commission d’examen tienne une audience de révision et rende une décision en vertu de l’article 672.83.
+
+
+
+Conséquences
+
+
+
+
+
+
+
+
+
+
+Appeal
+
+
+
+
+672.852 (1) The Court of Appeal may allow an appeal against an order made under subsection 672.851(7) for a stay of proceedings, if the Court of Appeal is of the opinion that the order is unreasonable or cannot be supported by the evidence.
+
+
+
+
+
+
+
+
+
+
+672.852 (1) La cour d’appel peut accueillir l’appel interjeté contre une ordonnance de suspension d’instance rendue en vertu du paragraphe 672.851(7), si elle est déraisonnable ou ne peut se justifier au regard de la preuve.
+
+
+
+Appel
+
+
+
+
+
+
+
+
+
+
+Effect
+
+
+
+(2) If the Court of Appeal allows the appeal, it may set aside the order for a stay of proceedings and restore the finding that the accused is unfit to stand trial and the disposition made in respect of the accused.
+
+
+
+
+
+
+
+
+
+(2) Si elle accueille l’appel, la cour d’appel peut annuler l’ordonnance de suspension d’instance et rétablir le verdict d’inaptitude de l’accusé à subir son procès ou toute décision rendue à son égard.
+
+
+
+Conséquences
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+34. (1) Paragraph 672.86(1)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+34. (1) Le paragraphe 672.86(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the Attorney General of the province to which the accused is being transferred, or an officer authorized by that Attorney General, and the Attorney General of the province from which the accused is being transferred, or an officer authorized by that Attorney General, give their consent.
+
+
+
+
+
+
+
+
+
+
+672.86 (1) L’accusé qui est détenu sous garde ou qui doit se présenter dans un hôpital en conformité avec une décision rendue par un tribunal ou une commission d’examen sous le régime de l’alinéa 672.54c) ou un tribunal sous le régime de l’article 672.58 peut, sur recommandation de la commission d’examen de la province où il est détenu ou de celle de l’endroit où il doit se présenter, être transféré, à des fins de réinsertion sociale, de guérison, de garde ou de traitement, dans tout autre lieu au Canada à la condition que le procureur général de la province d’origine et celui de la province d’arrivée — ou le fonctionnaire que désigne l’un ou l’autre — y consentent.
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+(2) Subsection 672.86(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 672.86(3) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Transfer if accused not in custody
+
+
+
+(2.1) An accused who is not detained in custody may be transferred to any other place in Canada where
+
+
+
+
+
+
+
+
+
+
+(a) the Review Board of the province from which the accused is being transferred recommends a transfer for the purpose of the reintegration of the accused into society or the recovery or treatment of the accused; and
+
+
+
+
+
+
+
+
+
+
+(b) the Attorney General of the province to which the accused is being transferred, or an officer authorized by that Attorney General, and the Attorney General of the province from which the accused is being transferred, or an officer authorized by that Attorney General, give their consent.
+
+
+
+
+
+
+
+
+
+(2.1) L’accusé en liberté peut, sur recommandation de la commission d’examen de la province d’origine, être transféré, à des fins de réinsertion sociale, de guérison, de garde ou de traitement, dans tout autre lieu au Canada à la condition que le procureur général de la province d’origine et celui de la province d’arrivée — ou le fonctionnaire que désigne l’un ou l’autre — y consentent.
+
+
+
+Transfèrement d’un accusé en liberté
+
+
+
+
+
+
+
+
+
+
+Order
+
+
+
+(3) Where an accused is being transferred in accordance with subsection (2.1), the Review Board of the province from which the accused is being transferred shall, by order,
+
+
+
+
+
+
+
+
+
+
+(a) direct that the accused be taken into custody and transferred pursuant to a warrant under subsection (2); or
+
+
+
+
+
+
+
+
+
+
+(b) direct that the accused attend at a specified place in Canada, subject to any conditions that the Review Board of the province to or from which the accused is being transferred considers appropriate.
+
+
+
+
+
+
+
+
+
+(3) En vue du transfèrement d’un accusé en conformité avec le paragraphe (2.1), la commission d’examen de la province d’origine rend une ordonnance :
+
+
+
+Ordonnance
+
+
+
+
+
+a) soit pour prévoir la détention de l’accusé et son transfèrement en vertu du mandat visé au paragraphe (2);
+
+
+
+
+
+
+
+
+
+
+
+b) soit pour lui enjoindre de se présenter au lieu désigné sous réserve des modalités qu’elle ou la commission d’examen de la province d’arrivée juge indiquées.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1997, c. 18, s. 91
+
+
+
+
+35. Section 672.9 of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+35. L’article 672.9 de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+1997, ch. 18, art. 91
+
+
+
+
+
+
+
+
+
+
+Exécution en tout lieu au Canada
+
+
+
+
+
+672.9 Le mandat délivré à l’égard d’un accusé visé par une décision ou une ordonnance d’évaluation ou tout acte de procédure qui se rattache à celle-ci peut être exécuté ou signifié en tout lieu au Canada à l’extérieur de la province où la décision ou l’ordonnance a été rendue comme s’il avait été délivré dans cette province.
+
+
+
+
+
+
+
+
+
+
+
+672.9 Le mandat délivré à l’égard d’un accusé visé par une décision ou une ordonnance d’évaluation ou tout acte de procédure qui se rattache à celle-ci peut être exécuté ou signifié en tout lieu au Canada à l’extérieur de la province où la décision ou l’ordonnance a été rendue comme s’il avait été délivré dans cette province.
+
+
+
+Exécution en tout lieu au Canada
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+36. Sections 672.91 to 672.94 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+36. Les articles 672.91 à 672.94 de la même loi sont remplacés par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+Arrest without warrant for contravention of disposition
+
+
+
+
+672.91 A peace officer may arrest an accused without a warrant at any place in Canada if the peace officer has reasonable grounds to believe that the accused has contravened or wilfully failed to comply with the assessment order or disposition or any condition of it, or is about to do so.
+
+
+
+
+
+
+
+
+
+
+672.91 L’agent de la paix peut arrêter un accusé sans mandat en tout lieu au Canada s’il a des motifs raisonnables de croire que ce dernier a contrevenu ou a fait volontairement défaut de se conformer aux conditions prévues dans la décision ou l’ordonnance d’évaluation ou est sur le point de le faire.
+
+
+
+Arrestation sans mandat
+
+
+
+
+
+
+
+
+
+
+Release or delivery of accused subject to paragraph 672.54(b) disposition order
+
+
+
+
+672.92 (1) If a peace officer arrests an accused under section 672.91 who is subject to a disposition made under paragraph 672.54(b) or an assessment order, the peace officer, as soon as practicable, may release the accused from custody and
+
+
+
+
+
+
+
+
+
+
+(a) issue a summons or appearance notice compelling the accused’s appearance before a justice; and
+
+
+
+
+
+
+
+
+
+
+(b) deliver the accused to the place specified in the disposition or assessment order.
+
+
+
+
+
+
+
+
+
+
+672.92 (1) L’agent de la paix peut, dès que possible, mettre en liberté l’accusé qui a été arrêté en vertu de l’article 672.91 et à l’égard duquel a été rendue une décision en vertu de l’alinéa 672.54b) ou une ordonnance d’évaluation, et :
+
+
+
+Accusé visé par une décision rendue en vertu de l’alinéa 672.54b)
+
+
+
+
+
+a) l’obliger à comparaître devant un juge de paix par voie de sommation ou de citation à comparaître;
+
+
+
+
+
+
+
+
+
+
+
+b) le livrer au lieu mentionné dans la décision ou l’ordonnance d’évaluation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No release
+
+
+
+(2) A peace officer shall not release an accused under subsection (1) if the peace officer believes, on reasonable grounds,
+
+
+
+
+
+
+
+
+
+
+(a) that it is necessary in the public interest that the accused be detained in custody having regard to all the circumstances, including the need to
+
+
+
+
+
+
+
+
+
+
+(i) establish the identity of the accused,
+
+
+
+
+
+
+
+
+
+
+(ii) establish the terms and conditions of a disposition made under section 672.54 or of an assessment order,
+
+
+
+
+
+
+
+
+
+
+(iii) prevent the commission of an offence, or
+
+
+
+
+
+
+
+
+
+
+(iv) prevent the accused from contravening or failing to comply with the disposition or assessment order;
+
+
+
+
+
+
+
+
+
+
+(b) that the accused is subject to a disposition or an assessment order of a court, or Review Board, of another province; or
+
+
+
+
+
+
+
+
+
+
+(c) that, if the accused is released from custody, the accused will fail to attend, as required, before a justice.
+
+
+
+
+
+
+
+
+
+(2) Toutefois, il ne peut mettre l’accusé en liberté s’il a des motifs raisonnables de croire, selon le cas :
+
+
+
+Maintien de la détention
+
+
+
+
+
+a) qu’il est nécessaire, dans l’intérêt public, de détenir l’accusé sous garde, eu égard aux circonstances, y compris la nécessité :
+
+
+
+
+
+
+
+
+
+
+(i) soit de procéder à son identification,
+
+
+
+
+
+
+
+
+
+
+(ii) soit d’établir les conditions de la décision rendue en vertu de l’article 672.54 ou de l’ordonnance d’évaluation,
+
+
+
+
+
+
+
+
+
+
+(iii) soit d’empêcher qu’une autre infraction soit commise,
+
+
+
+
+
+
+
+
+
+
+(iv) soit de l’empêcher de contrevenir à la décision ou à l’ordonnance d’évaluation ou d’omettre de s’y conformer;
+
+
+
+
+
+
+
+
+
+
+
+b) que l’accusé fait l’objet d’une décision ou d’une ordonnance d’évaluation d’un tribunal ou de la commission d’examen d’une autre province;
+
+
+
+
+
+
+
+
+
+
+
+c) que, s’il met l’accusé en liberté, celui-ci se soustraira à l’obligation de comparaître devant le juge de paix.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accused to be brought before justice
+
+
+
+(3) If a peace officer does not release the accused, the accused shall be taken before a justice having jurisdiction in the territorial division in which the accused is arrested, without unreasonable delay and in any event within twenty-four hours after the arrest.
+
+
+
+
+
+
+
+
+
+(3) L’accusé qui n’est pas mis en liberté doit être conduit devant un juge de paix ayant compétence dans la circonscription territoriale où a eu lieu l’arrestation sans retard injustifié et dans tous les cas dans les vingt-quatre heures qui suivent celle-ci.
+
+
+
+Comparution devant un juge de paix
+
+
+
+
+
+
+
+
+
+
+Accused subject to paragraph 672.54(c) disposition order
+
+
+
+(4) If a peace officer arrests an accused under section 672.91 who is subject to a disposition under paragraph 672.54(c), the accused shall be taken before a justice having jurisdiction in the territorial division in which the accused is arrested without unreasonable delay and, in any event, within twenty-four hours.
+
+
+
+
+
+
+
+
+
+(4) Si l’accusé arrêté en vertu de l’article 672.91 fait l’objet d’une décision rendue en vertu de l’alinéa 672.54c), l’agent de la paix le conduit devant un juge de paix ayant compétence dans la circonscription territoriale où a eu lieu l’arrestation sans retard injustifié et dans tous les cas dans les vingt-quatre heures qui suivent celle-ci.
+
+
+
+Accusé visé par une décision rendue en vertu de l’alinéa 672.54c)
+
+
+
+
+
+
+
+
+
+
+Justice not available
+
+
+
+(5) If a justice described in subsection (3) or (4) is not available within twenty-four hours after the arrest, the accused shall be taken before a justice as soon as practicable.
+
+
+
+
+
+
+
+
+
+(5) Si aucun juge de paix compétent n’est disponible dans le délai de vingt-quatre heures qui suit l'arrestation, l'accusé doit être conduit devant un tel juge de paix le plus tôt possible.
+
+
+
+Juge non disponible
+
+
+
+
+
+
+
+
+
+
+Where justice to release accused
+
+
+
+
+672.93 (1) A justice shall release an accused who is brought before the justice under section 672.92 unless the justice is satisfied that there are reasonable grounds to believe that the accused has contravened or failed to comply with a disposition or an assessment order.
+
+
+
+
+
+
+
+
+
+
+672.93 (1) Le juge de paix devant qui est conduit l'accusé en conformité avec l’article 672.92 est tenu de le remettre en liberté s’il n’est pas convaincu qu’il existe des motifs raisonnables de croire qu’il a contrevenu ou a omis de se conformer à une décision ou à une ordonnance d’évaluation.
+
+
+
+Ordonnance intérimaire du juge de paix
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(1.1) If the justice releases the accused, notice shall be given to the court or Review Board, as the case may be, that made the disposition or assessment order.
+
+
+
+
+
+
+
+
+
+(1.1) S’il remet l’accusé en liberté, le juge de paix en donne avis au tribunal ou à la commission d’examen qui a rendu la décision ou l’ordonnance d’évaluation.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Order of justice pending decision of Review Board
+
+
+
+(2) If the justice is satisfied that there are reasonable grounds to believe that the accused has contravened or failed to comply with a disposition or an assessment order, the justice, pending a hearing of a Review Board with respect to the disposition or a hearing of a court or Review Board with respect to the assessment order, may make an order that is appropriate in the circumstances in relation to the accused, including an order that the accused be returned to a place that is specified in the disposition or assessment order. If the justice makes an order under this subsection, notice shall be given to the court or Review Board, as the case may be, that made the disposition or assessment order.
+
+
+
+
+
+
+
+
+
+(2) S’il est convaincu qu’il existe des motifs raisonnables de croire que l’accusé a contrevenu ou a omis de se conformer à une décision ou à une ordonnance d’évaluation, le juge de paix peut rendre à son égard l’ordonnance qu’il estime indiquée dans les circonstances en attendant l’audience d’une commission d’examen à l’égard de la décision ou l’audience du tribunal ou de la commission d’examen à l’égard de l’ordonnance d’évaluation, notamment une ordonnance portant livraison de l’accusé au lieu mentionné dans la décision ou l’ordonnance d’évaluation; il fait parvenir un avis de toute ordonnance qu’il rend à la commission d’examen ou au tribunal qui a rendu la décision ou l’ordonnance d’évaluation, selon le cas.
+
+
+
+Ordonnance intérimaire du juge de paix
+
+
+
+
+
+
+
+
+
+
+Powers of Review Board
+
+
+
+
+672.94 Where a Review Board receives a notice given under subsection 672.93(1.1) or (2), it may exercise the powers and shall perform the duties mentioned in sections 672.5 and 672.81 to 672.83 as if the Review Board were reviewing a disposition.
+
+
+
+
+
+
+
+
+
+
+672.94 La commission d’examen qui reçoit l’avis mentionné aux paragraphes 672.93(1.1) ou (2) peut exercer à l’égard de l’accusé les attributions mentionnées aux articles 672.5 et 672.81 à 672.83 comme s’il s’agissait de la révision d’une décision.
+
+
+
+Pouvoir de la commission
+
+
+
+
+
+
+
+
+
+
+1995, c. 39, s. 154; 1996, c. 19, s. 73; 1999, c. 33, s. 346; 2001, c. 41, s. 32
+
+
+
+
+37. The schedule to Part XX.1 of the Act, as enacted by section 4 of chapter 43 of the Statutes of Canada, 1991, is repealed.
+
+
+
+
+
+
+
+
+
+
+37. L’annexe de la partie XX.1 de la même loi, édictée par l’article 4 du chapitre 43 des Lois du Canada (1991), est abrogée.
+
+
+
+1995, ch. 39, art. 154; 1996, ch. 19, art. 73; 1999, ch. 33, art. 346; 2001, ch. 41, art. 32
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 63
+
+
+
+
+38. Paragraph (b) of the definition “sentence” in section 673 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+38. L’alinéa b) de la définition de « sentence », « peine » ou « condamnation », à l’article 673 de la même loi, est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, art. 63
+
+
+
+
+
+
+
+
+
+
+
+
+(b) an order made under subsection 109(1) or 110(1), section 161, subsection 164.2(1), 194(1) or 259(1) or (2), section 261 or 462.37, subsection 491.1(2), 730(1) or 737(3) or (5) or section 738, 739, 742.1, 742.3, 743.6, 745.4 or 745.5,
+
+
+
+
+
+
+
+
+
+
+b) l’ordonnance rendue en vertu des paragraphes 109(1) ou 110(1), de l’article 161, des paragraphes 164.2(1), 194(1) ou 259(1) ou (2), des articles 261 ou 462.37, des paragraphes 491.1(2), 730(1) ou 737(3) ou (5) ou des articles 738, 739, 742.1, 742.3, 743.6, 745.4 ou 745.5;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39. The heading before section 747 and sections 747 to 747.8 of the Act, as enacted by section 6 of chapter 22 of the Statutes of Canada, 1995, are repealed.
+
+
+
+
+
+
+
+
+
+
+39. L’intertitre précédant l’article 747 et les articles 747 à 747.8 de la même loi, édictés par l’article 6 du chapitre 22 des Lois du Canada (1995), sont abrogés.
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 8; 1995, c. 22, s. 10 (Sch. I, s. 36)
+
+
+
+
+40. Form 48 in Part XXVIII of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+40. La formule 48, à la partie XXVIII de la même loi, est remplacée par ce qui suit :
+
+
+
+1991, ch. 43, art. 8; 1995, ch. 22, art. 10, ann. I, art. 36
+
+
+
+
+
+
+
+
+
+
+
+
+FORM 48 
+
+
+
+
+
+
+
+
+
+FORMULE 48 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Section 672.13)
+
+
+
+
+
+
+
+
+
+(article 672.13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSESSMENT ORDER OF THE COURT
+
+
+
+
+
+
+
+
+
+ORDONNANCE D’ÉVALUATION DU TRIBUNAL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province of
+
+
+
+
+
+
+(territorial division)
+
+
+
+
+
+
+Whereas I have reasonable grounds to believe that evidence of the mental condition of (name of accused), who has been charged with ...., may be necessary to determine *
+
+
+
+
+
+
+[ ] whether the accused is unfit to stand trial
+
+
+
+
+
+
+[ ] whether the accused suffered from a mental disorder so as to exempt the accused from criminal responsibility by virtue of subsection 16(1) of the Criminal Code at the time of the act or omission charged against the accused
+
+
+
+
+
+
+[ ] whether the balance of the mind of the accused was disturbed at the time of commission of the alleged offence, if the accused is a female person charged with an offence arising out of the death of her newly-born child
+
+
+
+
+
+
+[ ] if a verdict of unfit to stand trial or a verdict of not criminally responsible on account of mental disorder has been rendered in respect of the accused, the appropriate disposition to be made in respect of the accused pursuant to section 672.54 or 672.58 of the Criminal Code
+
+
+
+
+
+
+[ ] if a verdict of unfit to stand trial has been rendered in respect of the accused, whether the court should order a stay of proceedings under section 672.851 of the Criminal Code
+
+
+
+
+
+
+I hereby order an assessment of the mental condition of (name of accused) to be conducted by/at (name of person or service by whom or place where assessment is to be made) for a period of .................... days.
+
+
+
+
+
+
+This order is to be in force for a total of ............... days, including travelling time, during which time the accused is to remain *
+
+
+
+
+
+
+[ ] in custody at (place where accused is to be detained)
+
+
+
+
+
+
+[ ] out of custody, on the following conditions:
+
+
+
+
+
+
+(set out conditions, if applicable)
+
+
+
+
+
+
+
+* Check applicable option.
+
+
+
+
+
+
+Dated this ............... day of ............... A.D. ....., at ............... .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+........................................
+
+ 
+ 
+
+
+
+(Signature of justice or judge or clerk of the court, as the case may be)
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada
+
+
+
+
+
+
+Province de
+
+
+
+
+
+
+(circonscription territoriale)
+
+
+
+
+
+
+Attendu que j’ai des motifs raisonnables de croire qu’une preuve de l’état mental de (nom de l’accusé), qui a été accusé de ...., peut être nécessaire en vue de * :
+
+
+
+
+
+
+[ ] déterminer l’aptitude de l’accusé à subir son procès;
+
+
+
+
+
+
+[ ] décider si l’accusé était atteint de troubles mentaux de nature à ne pas engager sa responsabilité criminelle sous le régime du paragraphe 16(1) du Code criminel au moment où l’acte ou l’omission dont il est accusé est survenu;
+
+
+
+
+
+
+[ ] décider si l’accusée inculpée d’une infraction liée à la mort de son enfant nouveau-né était mentalement déséquilibrée au moment de la perpétration de l’infraction;
+
+
+
+
+
+
+[ ] dans le cas où un verdict d’inaptitude de l’accusé à subir son procès ou de non-responsabilité criminelle pour cause de troubles mentaux a été rendu, déterminer la décision indiquée à prendre à l’égard de celui-ci en conformité avec les articles 672.54 ou 672.58 du Code criminel;
+
+
+
+
+
+
+[ ] dans le cas où un verdict d’inaptitude de l’accusé à subir son procès a été rendu, décider si la suspension de l’instance devrait être prononcée en vertu de l’article 672.851 du Code criminel;
+
+
+
+
+
+
+J’ordonne qu’une évaluation de l’état mental de (nom de l’accusé) soit effectuée par/à (nom de la personne ou du service par qui l’évaluation doit être effectuée ou de l’endroit où elle doit l’être) sur une période de ..... jours.
+
+
+
+
+
+
+La présente ordonnance est en vigueur pendant ............... jours, y compris la durée des déplacements; pendant ce temps, l’accusé doit demeurer * :
+
+
+
+
+
+
+[ ] sous garde (indiquer le lieu de détention);
+
+
+
+
+
+
+[ ] en liberté, sous réserve des conditions suivantes :
+
+
+
+
+
+
+(donner les conditions, le cas échéant)
+
+
+
+
+
+
+
+* Cocher l’énoncé qui s’applique.
+
+
+
+
+
+
+Fait à ............... le .......... .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+........................................
+
+ 
+ 
+
+
+
+(Juge de paix ou juge ou greffier du tribunal, selon le cas)
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORM 48.1 
+
+
+
+
+
+
+
+
+
+FORMULE 48.1 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Section 672.13)
+
+
+
+
+
+
+
+
+
+(article 672.13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSESSMENT ORDER OF THE REVIEW BOARD
+
+
+
+
+
+
+
+
+
+ORDONNANCE D’ÉVALUATION DE LA COMMISSION D’EXAMEN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province of
+
+
+
+
+
+
+(territorial division)
+
+
+
+
+
+
+Whereas I have reasonable grounds to believe that evidence of the mental condition of (name of accused), who has been charged with ...., may be necessary to *
+
+
+
+
+
+
+[ ] if a verdict of unfit to stand trial or a verdict of not criminally responsible on account of mental disorder has been rendered in respect of the accused, make a disposition under section 672.54 of the Criminal Code
+
+
+
+
+
+
+[ ] if a verdict of unfit to stand trial has been rendered in respect of the accused, determine whether the Review Board should make a recommendation to the court that has ju­risdiction in respect of the offence charged against the accused to hold an inquiry to determine whether a stay of proceedings should be ordered in accordance with section 672.851 of the Criminal Code
+
+
+
+
+
+
+I hereby order an assessment of the mental condition of (name of accused) to be conducted by/at (name of person or service by whom or place where assessment is to be made) for a period of .................... days.
+
+
+
+
+
+
+This order is to be in force for a total of ............... days, including travelling time, during which time the accused is to remain *
+
+
+
+
+
+
+[ ] in custody at (place where accused is to be detained)
+
+
+
+
+
+
+[ ] out of custody, on the following conditions:
+
+
+
+
+
+
+(set out conditions, if applicable)
+
+
+
+
+
+
+
+* Check applicable option.
+
+
+
+
+
+
+Dated this ............... day of ............... A.D. ....., at ............... .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ....................................
+
+ 
+ 
+
+
+
+(Signature of Chairperson of the Review Board)
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada
+
+
+
+
+
+
+Province de
+
+
+
+
+
+
+(circonscription territoriale)
+
+
+
+
+
+
+Attendu que j’ai des motifs raisonnables de croire qu’une preuve de l’état mental de (nom de l’accusé), qui a été accusé de ...., peut être nécessaire en vue de * :
+
+
+
+
+
+
+[ ] dans le cas où un verdict d’inaptitude de l’accusé à subir son procès ou de non-responsabilité criminelle pour cause de troubles mentaux a été rendu, déterminer la décision indiquée à prendre à l’égard de l’accusé en conformité avec l’article 672.54 du Code criminel;
+
+
+
+
+
+
+[ ] dans le cas où un verdict d’inaptitude de l’accusé à subir son procès a été rendu, décider s’il y a lieu de recommander au tribunal compétent à l’égard de l’infraction dont l’accusé est inculpé de tenir une audience pour décider si la suspension de l’instance devrait être prononcée en vertu de l’article 672.851 du Code criminel;
+
+
+
+
+
+
+J’ordonne qu’une évaluation de l’état mental de (nom de l’accusé) soit effectuée par/à (nom de la personne ou du service par qui l’évaluation doit être effectuée ou de l’endroit où elle doit l’être) pour une période de ..... jours.
+
+
+
+
+
+
+La présente ordonnance est en vigueur pendant ............... jours, y compris la durée des déplacements; pendant ce temps, l’accusé doit demeurer * :
+
+
+
+
+
+
+[ ] sous garde (indiquer le lieu de détention);
+
+
+
+
+
+
+[ ] en liberté, sous réserve des conditions suivantes :
+
+
+
+
+
+
+(donner les conditions, le cas échéant)
+
+
+
+
+
+
+
+* Cocher l’énoncé qui s’applique.
+
+
+
+
+
+
+Fait à ............... le .......... .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+........................................
+
+ 
+ 
+
+
+
+(Président de la commission d’examen)
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 8; 1995, c. 22, s. 10 (Sch. I, s. 37)
+
+
+
+
+41. Form 51 in Part XXVIII of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+41. La formule 51, à la partie XXVIII de la même loi, est abrogée.
+
+
+
+1991, ch. 43, art. 8; 1995, ch. 22, art. 10, ann. I, art. 37
+
+
+
+
+
+
+
+
+
+
+Replacement of “audition” with “audience”
+
+
+
+
+42. The French version of the Act is amended by replacing the words “audition” and “auditions” with the words “audience” and “audiences”, respectively, wherever they occur in the following provisions:
+
+
+
+
+
+
+
+
+
+
+(a) section 672.33;
+
+
+
+
+
+
+
+
+
+
+(b) section 672.43;
+
+
+
+
+
+
+
+
+
+
+(c) the heading before section 672.45 and subsections 672.45(1) and (2);
+
+
+
+
+
+
+
+
+
+
+(d) subsection 672.46(1);
+
+
+
+
+
+
+
+
+
+
+(e) subsections 672.47(1) and (2);
+
+
+
+
+
+
+
+
+
+
+(f) section 672.48;
+
+
+
+
+
+
+
+
+
+
+(g) subsections 672.5(1) to (3), (5), (6), (9), (10), (12) and (13);
+
+
+
+
+
+
+
+
+
+
+(h) subsections 672.51(6), (8) and (11);
+
+
+
+
+
+
+
+
+
+
+(i) subsection 672.52(1);
+
+
+
+
+
+
+
+
+
+
+(j) subsections 672.69(2) and (3);
+
+
+
+
+
+
+
+
+
+
+(k) paragraph 672.74(2)(c);
+
+
+
+
+
+
+
+
+
+
+(l) subsection 672.81(3);
+
+
+
+
+
+
+
+
+
+
+(m) subsection 672.83(1); and
+
+
+
+
+
+
+
+
+
+
+(n) paragraph 672.85(a).
+
+
+
+
+
+
+
+
+
+
+42. Dans les passages ci-après de la version française de la même loi, « audition » et « auditions » sont respectivement remplacés par « audience » et « audiences » :
+
+
+
+Remplacement de « audition » par « audience »
+
+
+
+
+
+a) l’article 672.33;
+
+
+
+
+
+
+
+
+
+
+
+b) l’article 672.43;
+
+
+
+
+
+
+
+
+
+
+
+c) l’intertitre précédant l’article 672.45 et les paragraphes 672.45(1) et (2);
+
+
+
+
+
+
+
+
+
+
+
+d) le paragraphe 672.46(1);
+
+
+
+
+
+
+
+
+
+
+
+e) les paragraphes 672.47(1) et (2);
+
+
+
+
+
+
+
+
+
+
+
+f) l’article 672.48;
+
+
+
+
+
+
+
+
+
+
+
+g) les paragraphes 672.5(1) à (3), (5), (6), (9), (10), (12) et (13);
+
+
+
+
+
+
+
+
+
+
+
+h) les paragraphes 672.51(6), (8) et (11);
+
+
+
+
+
+
+
+
+
+
+
+i) le paragraphe 672.52(1);
+
+
+
+
+
+
+
+
+
+
+
+j) les paragraphes 672.69(2) et (3);
+
+
+
+
+
+
+
+
+
+
+
+k) l’alinéa 672.74(2)c);
+
+
+
+
+
+
+
+
+
+
+
+l) le paragraphe 672.81(3);
+
+
+
+
+
+
+
+
+
+
+
+m) le paragraphe 672.83(1);
+
+
+
+
+
+
+
+
+
+
+
+n) l’alinéa 672.85a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43
+
+
+
+An Act to amend the Criminal Code (mental disorder) and to amend the National Defence Act and the Young Offenders Act in consequence thereof
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (troubles mentaux) et modifiant en conséquence la Loi sur la défense nationale et la Loi sur les jeunes contrevenants
+
+
+
+1991, ch. 43
+
+
+
+
+
+
+
+
+
+
+
+
+
+43. (1) Subsection 10(1) of An Act to amend the Criminal Code (mental disorder) and to amend the National Defence Act and the Young Offenders Act in consequence thereof, chapter 43 of the Statutes of Canada, 1991, is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+43. (1) Le paragraphe 10(1) de la Loi modifiant le Code criminel (troubles mentaux) et modifiant en conséquence la Loi sur la défense nationale et la Loi sur les jeunes contrevenants, chapitre 43 des Lois du Canada (1991), est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Lieutenant Governor warrants or orders remain in force
+
+
+
+
+10. (1) Any order for detention of an accused or accused person made under section 614, 615 or 617 of the Criminal Code or section 200 or 201 of the National Defence Act, as those sections read immediately before the coming into force of section 3 or 18 of this Act, shall continue in force until an order is made by a court or Review Board under section 672.54 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+
+10. (1) Toute ordonnance de détention d’un accusé rendue en vertu des articles 614, 615 ou 617 du Code criminel ou des articles 200 ou 201 de la Loi sur la défense nationale, dans leur version antérieure à l’entrée en vigueur de l’article 3 ou 18 de la présente loi, reste en vigueur sous réserve de toute autre ordonnance rendue par un tribunal ou la commission d’examen en vertu de l’article 672.54 du Code criminel.
+
+
+
+Maintien en vigueur des mandats du lieutenant-gouverneur
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 10(3) of the Act is amended by adding the word “and” at the end of paragraph (a) and by repealing paragraphs (c) and (d).
+
+
+
+
+
+
+
+
+
+(2) Les alinéas 10(3)c) et d) de la même loi sont abrogés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsections 10(4) to (8) of the Act are repealed.
+
+
+
+
+
+
+
+
+
+(3) Les paragraphes 10(4) à (8) de la même loi sont abrogés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1995, c. 22
+
+
+
+An Act to amend the Criminal Code (sentencing) and other Acts in consequence thereof
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (détermination de la peine) et d’autres lois en conséquence
+
+
+
+1995, ch. 22
+
+
+
+
+
+
+
+
+
+
+
+
+
+44. Subsection 7(2) of An Act to amend the Criminal Code (sentencing) and other Acts in consequence thereof, chapter 22 of the Statutes of Canada, 1995, is repealed.
+
+
+
+
+
+
+
+
+
+
+44. Le paragraphe 7(2) de la Loi modifiant le Code criminel (détermination de la peine) et d’autres lois en conséquence, chapitre 22 des Lois du Canada (1995), est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 5
+
+
+
+An Act to amend the Criminal Code, the Controlled Drugs and Substances Act and the Corrections and Conditional Release Act
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel, la Loi réglementant certaines drogues et autres substances et la Loi sur le système correctionnel et la mise en liberté sous condition
+
+
+
+1999, ch. 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+45. Section 51 of An Act to amend the Criminal Code, the Controlled Drugs and Substances Act and the Corrections and Conditional Release Act, chapter 5 of the Statutes of Canada, 1999, is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+45. L’article 51 de la Loi modifiant le Code criminel, la Loi réglementant certaines drogues et autres substances et la Loi sur le système correctionnel et la mise en liberté sous condition, chapitre 5 des Lois du Canada (1999), est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+1995, c. 22
+
+
+
+
+51. On the later of the day on which subsection 5(2) of An Act to amend the Criminal Code (sentencing) and other Acts in consequence thereof, chapter 22 of the Statutes of Canada, 1995, comes into force and the day on which section 25 of this Act comes into force, paragraph (b) of the definition “sentence” in section 673 of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+51. À l’entrée en vigueur de l’article 25 de la présente loi ou à celle du paragraphe 5(2) de la Loi modifiant le Code criminel (détermination de la peine) et d’autres lois en conséquence, chapitre 22 des Lois du Canada (1995), la dernière en date étant à retenir, l’alinéa b) de la définition de « sentence », « peine » ou « condamnation », à l’article 673 du Code criminel, est remplacé par ce qui suit :
+
+
+
+1995, ch. 22
+
+
+
+
+
+
+
+
+
+
+
+
+(b) an order made under subsection 100(1) or (2), section 161, subsection 194(1) or 259(1) or (2), section 261 or 462.37, subsection 491.1(2) or 730(1) or section 737, 738, 739, 742.1, 742.3, 743.6, 745.4 or 745.5,
+
+
+
+
+
+
+
+
+
+
+b) l’ordonnance rendue en vertu des paragraphes 100(1) ou (2), de l’article 161, des paragraphes 194(1) ou 259(1) ou (2), des articles 261 ou 462.37, des paragraphes 491.1(2) ou 730(1) ou des articles 737, 738, 739, 742.1, 742.3, 743.6, 745.4 ou 745.5;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 25
+
+
+
+An Act to amend the Criminal Code (victims of crime) and another Act in consequence
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (victimes d’actes criminels) et une autre loi en conséquence
+
+
+
+1999, ch. 25
+
+
+
+
+
+
+
+
+
+
+
+
+
+46. Subsection 29(2) of An Act to amend the Criminal Code (victims of crime) and another Act in consequence, chapter 25 of the Statutes of Canada, 1999, is repealed.
+
+
+
+
+
+
+
+
+
+
+46. Le paragraphe 29(2) de la Loi modifiant le Code criminel (victimes d’actes criminels) et une autre loi en conséquence, chapitre 25 des Lois du Canada (1999), est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. N-5
+
+
+
+National Defence Act
+
+
+
+
+
+
+
+
+
+Loi sur la défense nationale
+
+
+
+L.R., ch. N-5
+
+
+
+
+
+
+
+
+
+
+
+
+
+47. Section 149.1 of the National Defence Act and the heading before it, as enacted by section 13 of chapter 43 of the Statutes of Canada, 1991, are repealed.
+
+
+
+
+
+
+
+
+
+
+47. L’article 149.1 de la Loi sur la défense nationale et l’intertitre le précédant, édictés par l’article 13 du chapitre 43 des Lois du Canada (1991), sont abrogés.
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18
+
+
+
+
+48. Subsection 202.12(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+48. Le paragraphe 202.12(2) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 18
+
+
+
+
+
+
+
+
+
+
+Extension of time for holding inquiry
+
+
+
+(1.1) Despite paragraph (1)(a), the Chief Military Judge may extend the period for holding an inquiry if the Chief Military Judge is satisfied on the basis of an application by the Director of Military Prosecutions or the accused person that the extension is necessary for the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(1.1) Par dérogation à l’alinéa (1)a), le juge militaire en chef peut proroger le délai pour tenir l’audience s’il est d’avis, en se fondant sur la demande du directeur des poursuites militaires ou de l’accusé, que cela servirait la bonne administration de la justice.
+
+
+
+Prorogation du délai pour tenir une audience
+
+
+
+
+
+
+
+
+
+
+Where prima facie case not made
+
+
+
+(2) If, on the completion of an inquiry held pursuant to this section, the court martial is satisfied that sufficient admissible evidence cannot be adduced to put the accused person on trial, the court martial shall find the accused person not guilty of the charge.
+
+
+
+
+
+
+
+
+
+(2) La cour martiale déclare l’accusé non coupable de l’infraction reprochée si, à l'audience tenue en conformité avec le présent article, elle est d’avis qu’il n’existe pas suffisamment d’éléments de preuve admissibles pour que celui-ci subisse son procès.
+
+
+
+Absence de preuve prima facie
+
+
+
+
+
+
+
+
+
+
+
+
+
+49. The Act is amended by adding the following after section 202.12:
+
+
+
+
+
+
+
+
+
+
+49. La même loi est modifiée par adjonction, après l’article 202.12, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Recommendation of Review Board
+
+
+
+
+202.121 (1) The Review Board may, of its own motion, make a recommendation to the Chief Military Judge to cause a court martial to be convened for holding an inquiry to determine whether a stay of proceedings should be ordered in respect of an accused person found unfit to stand trial if
+
+
+
+
+
+
+
+
+
+
+(a) the Review Board has held a hearing under section 672.81 or 672.82 of the Criminal Code in respect of the accused person; and
+
+
+
+
+
+
+
+
+
+
+(b) on the basis of any relevant information, including disposition information within the meaning of the regulations and an assessment report made under an assessment ordered by the Review Board under paragraph 672.121(a) of the Criminal Code, the Review Board is of the opinion that
+
+
+
+
+
+
+
+
+
+
+(i) the accused person remains unfit to stand trial and is not likely to ever become fit to stand trial, and
+
+
+
+
+
+
+
+
+
+
+(ii) the accused person does not pose a significant threat to the safety of the public.
+
+
+
+
+
+
+
+
+
+
+202.121 (1) La commission d’examen peut, de sa propre initiative, recommander au juge militaire en chef de faire convoquer une cour martiale en vue de tenir une audience pour décider si la suspension de l’instance devrait être prononcée, lorsque, à la fois :
+
+
+
+Recommandation de la commission d’examen
+
+
+
+
+
+a) elle a tenu une audience en vertu des articles 672.81 ou 672.82 du Code criminel à l’égard d’un accusé qui a été déclaré inapte à subir son procès;
+
+
+
+
+
+
+
+
+
+
+
+b) elle est d’avis, à la lumière de tout renseignement utile, y compris les renseignements décisionnels au sens des règlements et tout rapport d’évaluation qui lui est remis à la suite d’une ordonnance d’évaluation rendue en vertu de l’alinéa 672.121a) du Code criminel, que :
+
+
+
+
+
+
+
+
+
+
+(i) d’une part, l’accusé n’est toujours pas apte à subir son procès et ne le sera vraisemblablement jamais,
+
+
+
+
+
+
+
+
+
+
+(ii) d’autre part, il ne présente aucun danger important pour la sécurité du public.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(2) If the Review Board makes a recommendation referred to in subsection (1), the Review Board shall provide notice to the accused person, the Director of Military Prosecutions, the Chief Military Judge and any other party who, in the opinion of the Review Board, has a substantial interest in protecting the interests of the accused person.
+
+
+
+
+
+
+
+
+
+(2) La commission d’examen qui recommande la tenue d’une audience en avise l’accusé, le directeur des poursuites militaires, le juge militaire en chef et toute autre partie qui, à son avis, a un intérêt réel à protéger les intérêts de l’accusé.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Obligation of court martial
+
+
+
+(3) As soon as practicable after receiving the notice referred to in subsection (2), the Chief Military Judge shall cause the Court Martial Administrator to convene a Standing Court Martial, if the accused person is an officer or a non-commissioned member, or a Special General Court Martial in any other case, for the purpose of determining whether an inquiry should be held to determine whether a stay of proceedings should be ordered and to hold, as soon as practicable, such an inquiry if the court martial determines that it is appropriate.
+
+
+
+
+
+
+
+
+
+(3) Dans les meilleurs délais après réception de l’avis, le juge militaire en chef fait convoquer, par l’administrateur de la cour martiale, une cour martiale permanente dans le cas d’un officier ou d’un militaire du rang, ou une cour martiale générale spéciale dans les autres cas, pour qu’elle examine l’opportunité de tenir une audience afin de décider si la suspension de l’instance devrait être prononcée; le cas échéant, l’audience est tenue dans les meilleurs délais.
+
+
+
+Obligation de la cour martiale
+
+
+
+
+
+
+
+
+
+
+Inquiry may be conducted
+
+
+
+(4) Subject to the regulations, a court martial having jurisdiction over an accused person may, of its own motion, conduct an inquiry to determine whether a stay of proceedings should be ordered if the court martial is of the opinion, on the basis of any relevant information, that
+
+
+
+
+
+
+
+
+
+
+(a) the accused person remains unfit to stand trial and is not likely to ever become fit to stand trial; and
+
+
+
+
+
+
+
+
+
+
+(b) the accused person does not pose a significant threat to the safety of the public.
+
+
+
+
+
+
+
+
+
+(4) Sous réserve des règlements, la cour martiale qui a compétence à l’égard d’un accusé peut également, de sa propre initiative, tenir une audience afin de décider si la suspension de l’instance devrait être prononcée si elle est d’avis, à la lumière de tout renseignement utile, que :
+
+
+
+Pouvoir de tenir une audience
+
+
+
+
+
+a) d’une part, l’accusé n’est toujours pas apte à subir son procès et ne le sera vraisemblablement jamais;
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, il ne présente aucun danger important pour la sécurité du public.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power to order an assessment
+
+
+
+(5) Subject to the regulations, if a court martial has reasonable grounds to believe that evidence of the mental condition of an accused person is necessary for the purpose of determining whether a stay of proceedings should be ordered, the court martial may make an order for an assessment of the accused person.
+
+
+
+
+
+
+
+
+
+(5) Sous réserve des règlements, la cour martiale qui a des motifs raisonnables de croire qu’une preuve de l’état mental de l’accusé est nécessaire pour déterminer si une ordonnance de suspension d’instance doit être rendue peut rendre une ordonnance portant évaluation de l’état mental de cette personne.
+
+
+
+Pouvoir d’ordonner une évaluation
+
+
+
+
+
+
+
+
+
+
+Assessment order
+
+
+
+(6) If the court martial holds an inquiry under subsection (3) or (4), it shall order an assessment of the accused person.
+
+
+
+
+
+
+
+
+
+(6) Si elle tient une audience en vertu des paragraphes (3) ou (4), la cour martiale rend une ordonnance d’évaluation visant l’accusé.
+
+
+
+Ordonnance d’évaluation
+
+
+
+
+
+
+
+
+
+
+Stay
+
+
+
+(7) The court martial may, on completion of an inquiry under this section, order a stay of proceedings if it is satisfied
+
+
+
+
+
+
+
+
+
+
+(a) on the basis of clear information, that the accused person remains unfit to stand trial and is not likely to ever become fit to stand trial;
+
+
+
+
+
+
+
+
+
+
+(b) that the accused does not pose a significant threat to the safety of the public; and
+
+
+
+
+
+
+
+
+
+
+(c) that a stay is in the interests of the proper administration of justice.
+
+
+
+
+
+
+
+
+
+(7) La cour martiale peut, au terme de l’audience, ordonner la suspension de l’instance si elle est convaincue :
+
+
+
+Suspension de l’instance
+
+
+
+
+
+a) sur le fondement de renseignements concluants, que l’accusé n’est toujours pas apte à subir son procès et ne le sera vraisemblablement jamais;
+
+
+
+
+
+
+
+
+
+
+
+b) qu’il ne présente aucun danger important pour la sécurité du public;
+
+
+
+
+
+
+
+
+
+
+
+c) que la mesure servirait la bonne administration de la justice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proper administration of justice
+
+
+
+(8) In order to determine whether a stay of proceedings is in the interests of the proper administration of justice, the court martial shall consider any submissions of the prosecutor, the accused person and all other parties and the following factors:
+
+
+
+
+
+
+
+
+
+
+(a) the nature and seriousness of the alleged offence;
+
+
+
+
+
+
+
+
+
+
+(b) the salutary and deleterious effects of the order for a stay of proceedings, including the effect on public confidence in the administration of justice;
+
+
+
+
+
+
+
+
+
+
+(c) the time that has elapsed since the commission of the alleged offence and whether an inquiry has been held under section 202.12 to decide whether sufficient evidence can be adduced to put the accused person on trial; and
+
+
+
+
+
+
+
+
+
+
+(d) any other factor that the court martial considers relevant.
+
+
+
+
+
+
+
+
+
+(8) Pour décider si la suspension de l’instance servirait la bonne administration de la justice, la cour martiale prend en compte les observations présentées par le procureur de la poursuite, l’accusé ou toute autre partie ainsi que les facteurs suivants :
+
+
+
+Critères
+
+
+
+
+
+a) la nature et la gravité de l’infraction reprochée;
+
+
+
+
+
+
+
+
+
+
+
+
+b
+) les effets bénéfiques et les effets préjudiciables de l’ordonnance, notamment en ce qui a trait à la confiance du public envers l’administration de la justice;
+
+
+
+
+
+
+
+
+
+
+
+
+c
+) le temps écoulé depuis la perpétration de l’infraction reprochée et le fait qu’une audience a été tenue ou non en vertu de l’article 202.12 pour décider s’il existe toujours suffisamment d’éléments de preuve pour ordonner que l’accusé subisse son procès;
+
+
+
+
+
+
+
+
+
+
+
+
+d
+) tout autre facteur qu’elle estime pertinent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effect of stay
+
+
+
+(9) If a stay of proceedings is ordered by the court martial, any disposition made in respect of the accused person ceases to have effect. If a stay of proceedings is not ordered, the finding of unfit to stand trial and any disposition made in respect of the accused person remain in force, until the Review Board holds a disposition hearing and makes a disposition in respect of the accused person, in exercising a power under section 672.83 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+(9) La suspension de l’instance rend inopérante toute décision qui a été rendue à l’égard de l’accusé. Le refus de prononcer la suspension maintient en vigueur le verdict d’inaptitude de l’accusé à subir son procès et toute décision qui a été rendue à son égard, jusqu’à ce que la commission d’examen tienne une audience de révision et rende une décision en vertu de l’article 672.83 du Code criminel.
+
+
+
+Conséquences
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18; 1998, c. 35, s. 52(E)­
+
+
+
+
+50. The portion of subsection 202.17(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+50. Le passage du paragraphe 202.17(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 18; 1998, ch. 35, art. 52(A)
+
+
+
+
+
+
+
+
+
+
+Conditions for custody
+
+
+
+
+202.17 (1) An accused person shall not be placed in custody under an assessment order made by a court martial under this Division unless
+
+
+
+
+
+
+
+
+
+
+202.17 (1) L’accusé n’est détenu en conformité avec une ordonnance d’évaluation rendue par une cour martiale en vertu de la présente section que dans les cas suivants :
+
+
+
+Modalités de la détention
+
+
+
+
+
+
+
+
+
+
+1998, c. 35, s. 53
+
+
+
+
+51. Subsection 202.18(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+51. Le paragraphe 202.18(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1998, ch. 35, art. 53
+
+
+
+
+
+
+
+
+
+
+No custody or release orders during assessment
+
+
+
+
+202.18 (1) During the period that an assessment order made by a court martial under this Division is in force, no order may be made for custody or release from custody of the accused person under any provision of Division 3 or for release from detention or imprisonment under any provision of Division 10 in respect of that offence or an included offence.
+
+
+
+
+
+
+
+
+
+
+202.18 (1) Pendant qu’une ordonnance d’évaluation rendue par une cour martiale en vertu de la présente section est en vigueur, aucune des ordonnances prévues pour la détention préventive ou la remise en liberté par la section 3 ou pour la libération par la section 10 ne peut être rendue à l’égard de l’infraction qui est reprochée à l’accusé ou d’une infraction incluse.
+
+
+
+Primauté du renvoi
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18
+
+
+
+
+52. Subsection 202.19(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+52. Le paragraphe 202.19(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 18
+
+
+
+
+
+
+
+
+
+
+Assessment report
+
+
+
+
+202.19 (1) An assessment order made by a court martial under this Division may require the person who makes the assessment to submit in writing an assessment report on the mental condition of the accused person.
+
+
+
+
+
+
+
+
+
+
+202.19 (1) L’ordonnance d’évaluation rendue par une cour martiale en vertu de la présente section peut exiger de la personne chargée de l’évaluation qu’elle en fasse un rapport écrit.
+
+
+
+Préparation des rapports d’évaluation
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18
+
+
+
+
+53. Section 202.2 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+53. L’article 202.2 de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 18
+
+
+
+
+
+
+
+
+
+
+Effective date of disposition
+
+
+
+
+202.2 A disposition made in respect of an accused person under section 201, 202 or 202.16 shall come into force on the day that it is made or on any later day that the court martial specifies in it, and shall remain in force until the Review Board of the appropriate province holds a hearing and makes a disposition under section 672.83 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+
+202.2 La décision rendue en vertu des articles 201, 202 ou 202.16 entre en vigueur le jour où elle est rendue ou à la date qui y est précisée par la cour martiale et le demeure jusqu’à ce que la commission d’examen de la province concernée tienne une audience et rende une nouvelle décision, en conformité avec l’article 672.83 du Code criminel.
+
+
+
+Période de validité
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18
+
+
+
+
+54. Paragraph 202.21(3)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+54. L’alinéa 202.21(3)a) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 18
+
+
+
+
+
+
+
+
+
+
+
+
+(a) makes a disposition under paragraph 201(1)(b) or 202.16(1)(c) in respect of an accused person, that disposition takes precedence over any prior sentence of imprisonment or detention of the accused person; or
+
+
+
+
+
+
+
+
+
+
+a) la décision que la cour martiale rend en vertu de l’alinéa 201(1)b) ou 202.16(1)c) à l’égard de l’accusé l’emporte sur toute autre peine d’emprisonnement ou de détention antérieure prononcée à l’égard de l’accusé;
+
+
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18
+
+
+
+
+55. Subsection 202.22(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+55. Le paragraphe 202.22(3) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 18
+
+
+
+
+
+
+
+
+
+
+Transmittal of transcript to Review Board
+
+
+
+(3) If a court martial holds a hearing under subsection 200(2) or 202.15(1), whether or not it makes a disposition, it shall send without delay to the Review Board of the appropriate province, in original or copied form, a transcript of the hearing, any document or information relating to the hearing and all exhibits filed with it, if the transcript, document, information or exhibits are in its possession.
+
+
+
+
+
+
+
+
+
+(3) La cour martiale qui tient une audience en vertu du paragraphe 200(2) ou 202.15(1), qu’elle rende une décision ou non, fait parvenir sans délai à la commission d’examen de la province concernée le procès-verbal de l'audience et tout autre renseignement ou pièce s’y rapportant qui sont en sa possession, ou des copies de ceux-ci.
+
+
+
+Transmission du dossier à la commission d’examen
+
+
+
+
+
+
+
+
+
+
+Transmittal of transcript to Review Board
+
+
+
+(3.1) If the court martial does not hold a hearing referred to in subsection (3), it shall send without delay to the Review Board of the appropriate province, following a verdict of unfit to stand trial or not responsible on account of mental disorder, in original or copied form, any transcript of the proceedings in respect of the accused, any document or information relating to the proceedings and all exhibits filed with it, if the transcript, document, information or exhibits are in its possession.
+
+
+
+
+
+
+
+
+
+(3.1) La cour martiale qui ne tient pas l’audience visée au paragraphe (3) est tenue de faire parvenir à la commission d’examen de la province concernée, sans délai après le prononcé du verdict d’inaptitude de l’accusé à subir son procès ou de non-responsabilité pour cause de troubles mentaux, tout procès-verbal et tout autre renseignement ou pièce se rapportant à l’instance qui sont en sa possession, ou des copies de ceux-ci.
+
+
+
+Transmission des documents à la commission d’examen
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18
+
+
+
+
+56. Subsections 202.23(2) to (4) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+56. Les paragraphes 202.23(2) à (4) de la même loi sont remplacés par ce qui suit :
+
+
+
+1991, ch. 43, art. 18
+
+
+
+
+
+
+
+
+
+
+Arrest without warrant for contravention of disposition
+
+
+
+(2) An officer, a non-commissioned member appointed for the purposes of section 156, or any other peace officer within the meaning of the Criminal Code, may arrest an accused person without a warrant if they have reasonable grounds to believe that the accused person
+
+
+
+
+
+
+
+
+
+
+(a) is at large contrary to the terms of a disposition made by a court martial under section 201, 202 or 202.16 or by a Review Board; or
+
+
+
+
+
+
+
+
+
+
+(b) has contravened or wilfully failed to comply with the disposition or any condition of a disposition or assessment order, or is about to do so.
+
+
+
+
+
+
+
+
+
+(2) Un officier ou un militaire du rang nommé pour l’application de l’article 156, ou tout autre agent de la paix au sens du Code criminel, peut arrêter sans mandat l’accusé qu’il croit, pour des motifs raisonnables :
+
+
+
+Arrestation sans mandat
+
+
+
+
+
+a) soit être en liberté en contravention avec les dispositions d’une décision rendue par une cour martiale en vertu de l’article 201, 202 ou 202.16 ou par une commission d’examen;
+
+
+
+
+
+
+
+
+
+
+
+b) soit avoir contrevenu à une décision ou une ordonnance d’évaluation rendue à son égard ou aux modalités de celle-ci, ou omis volontairement de s’y conformer, ou être sur le point de le faire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accused person released subject to conditions
+
+
+
+(2.1) An officer, a non-commissioned member or another peace officer who makes an arrest under subsection (2) may, as soon as possible, release an accused person arrested under that subsection who is subject to a disposition made by a court martial under paragraph 201(1)(a) or 202.16(1)(b), a disposition made by a Review Board under paragraph 672.54(b) of the Criminal Code or an assessment order and deliver the accused person to the place specified in the disposition or assessment order.
+
+
+
+
+
+
+
+
+
+(2.1) L’officier, le militaire du rang ou l’agent de la paix qui procède à l’arrestation peut, dès que possible, mettre en liberté l’accusé arrêté en vertu du paragraphe (2) et à l’égard duquel une décision a été rendue par une cour martiale en vertu des alinéas 201(1)a) ou 202.16(1)b) ou par une commission d’examen en vertu de l’alinéa 672.54b) du Code criminel ou à l’égard duquel une ordonnance d’évaluation a été rendue et le livrer au lieu mentionné dans la décision ou l’ordonnance d’évaluation.
+
+
+
+Accusé faisant l’objet d’une décision portant libération sous réserve de modalités
+
+
+
+
+
+
+
+
+
+
+Continued detention
+
+
+
+(2.2) The officer, non-commissioned member or other peace officer shall not release the accused person if they believe on reasonable grounds
+
+
+
+
+
+
+
+
+
+
+(a) that it is necessary in the public interest that the accused person be detained in custody having regard to all the circumstances, including the need to
+
+
+
+
+
+
+
+
+
+
+(i) establish the identity of the accused person,
+
+
+
+
+
+
+
+
+
+
+(ii) establish the terms and conditions of the disposition or assessment order referred to in subsection (2.1),
+
+
+
+
+
+
+
+
+
+
+(iii) prevent the commission of an offence, or
+
+
+
+
+
+
+
+
+
+
+(iv) prevent the accused person from doing anything referred to in paragraph (2)(a) or (b); or
+
+
+
+
+
+
+
+
+
+
+(b) that the accused person is subject to a disposition or an assessment order of a Review Board of another province.
+
+
+
+
+
+
+
+
+
+(2.2) Toutefois, il ne peut mettre l’accusé en liberté s’il a des motifs raisonnables de croire, selon le cas :
+
+
+
+Maintien de la détention
+
+
+
+
+
+a) qu’il est nécessaire, dans l’intérêt public, de détenir l’accusé sous garde, eu égard aux circonstances, y compris la nécessité :
+
+
+
+
+
+
+
+
+
+
+(i) soit de procéder à son identification,
+
+
+
+
+
+
+
+
+
+
+(ii) soit d’établir les conditions de la décision ou de l’ordonnance d’évaluation visée au paragraphe (2.1),
+
+
+
+
+
+
+
+
+
+
+(iii) soit d’empêcher qu’une autre infraction soit commise,
+
+
+
+
+
+
+
+
+
+
+(iv) soit d’empêcher toute contravention visée aux alinéas (2)a) ou b);
+
+
+
+
+
+
+
+
+
+
+
+b) que l’accusé fait l’objet d’une décision ou d’une ordonnance d’évaluation de la commission d’examen d’une autre province.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accused person brought before justice or commanding officer
+
+
+
+(2.3) An accused person referred to in subsection (2.1) who is not released or an accused person arrested under subsection (2) who is subject to a disposition of a court martial made under paragraph 201(1)(b), subsection 202(1) or paragraph 202.16(1)(c) or a disposition of a Review Board made under paragraph 672.54(c) of the Criminal Code shall be taken to a justice having jurisdiction in the territorial division in which the accused person is arrested or a commanding officer without unreasonable delay and in any event within a period of twenty-four hours after the arrest.
+
+
+
+
+
+
+
+
+
+(2.3) Si l’accusé visé au paragraphe (2.1) n’est pas mis en liberté ou si l’accusé qui est arrêté en vertu du paragraphe (2) fait l’objet d’une décision rendue par une cour martiale en vertu de l’alinéa 201(1)b), du paragraphe 202(1) ou de l’alinéa 202.16(1)c) ou par une commission d’examen en vertu de l’alinéa 672.54c) du Code criminel, il doit être conduit devant un juge de paix — ayant compétence dans la circonscription territoriale où a eu lieu l’arrestation — ou un commandant sans retard injustifié et dans tous les cas dans les vingt-quatre heures qui suivent celle-ci.
+
+
+
+Comparution devant un juge de paix ou un commandant
+
+
+
+
+
+
+
+
+
+
+Justice or commanding officer not available
+
+
+
+(3) If a justice having jurisdiction in the territorial division in which the accused person is arrested or a commanding officer is not available within a period of twenty-four hours after the arrest, the accused person shall be taken before a justice or commanding officer as soon as practicable.
+
+
+
+
+
+
+
+
+
+(3) Si aucun juge de paix ayant compétence dans la circonscription territoriale où a eu lieu l’arrestation ni aucun commandant n’est disponible dans un délai de vingt-quatre heures après celle-ci, l’accusé doit être conduit devant un juge de paix ou un commandant le plus tôt possible.
+
+
+
+Juge de paix ou commandant non disponible
+
+
+
+
+
+
+
+
+
+
+Release of accused person
+
+
+
+(3.1) A justice or commanding officer shall release an accused who is brought before them unless they are satisfied that there are reasonable grounds to believe that the circumstances referred to in paragraph (2)(a) or (b) exist.
+
+
+
+
+
+
+
+
+
+(3.1) Le juge de paix ou le commandant devant qui est conduit l’accusé est tenu de le remettre en liberté s’il n’est pas convaincu qu’il existe des motifs raisonnables de croire que les circonstances visées aux alinéas (2)a) ou b) existent.
+
+
+
+Remise en liberté
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(3.2)  If the justice or commanding officer releases the accused, notice shall be given to the Review Board that made the disposition or to the court martial or Review Board that made the assessment order.
+
+
+
+
+
+
+
+
+
+(3.2) S’il remet l’accusé en liberté, le juge de paix ou le commandant, selon le cas, en donne avis à la cour martiale ou à la commission d’examen qui a rendu la décision ou l’ordonnance d’évaluation.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Order pending decision of Review Board
+
+
+
+(4) If a justice or commanding officer before whom an accused person is taken is satisfied that there are reasonable grounds to believe that the circumstances referred to in paragraph (2)(a) or (b) exist, the justice or commanding officer may, pending a hearing of a Review Board with respect to the disposition or a hearing of a court martial or Review Board with respect to the assessment order, make an order that is appropriate in the circumstances in relation to the accused person, including an order that the accused person be delivered to a place that is specified in the disposition or assessment order. If the justice or commanding officer makes an order under this subsection, notice shall be given to the Review Board that made the disposition or to the court martial or Review Board that made the assessment order.
+
+
+
+
+
+
+
+
+
+(4) Le juge de paix ou le commandant devant qui est conduit l’accusé peut, s’il est convaincu qu’il existe des motifs raisonnables de croire que les circonstances visées aux alinéas (2)a) ou b) existent, rendre à son égard l’ordonnance qu’il estime indiquée dans les circonstances en attendant l’audience d’une commission d’examen à l’égard de la décision ou l’audience de la cour martiale ou de la commission d’examen à l’égard de l’ordonnance d’évaluation, notamment une ordonnance portant livraison de l’accusé au lieu mentionné dans la décision ou l’ordonnance d’évaluation; il fait parvenir un avis de toute ordonnance qu’il rend à la commission d’examen ou à la cour martiale qui a rendu la décision ou l’ordonnance d’évaluation, selon le cas.
+
+
+
+Ordonnance intérimaire
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18
+
+
+
+
+57. Paragraph 202.24(3)(c) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+57. L’alinéa 202.24(3)c) de la même loi est abrogé.
+
+
+
+1991, ch. 43, art. 18
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18; 1998, c. 35, s. 54
+
+
+
+
+58. Sections 202.25 and 202.26 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+58. Les articles 202.25 et 202.26 de la même loi sont remplacés par ce qui suit :
+
+
+
+1991, ch. 43, art. 18; 1998, ch. 35, art. 54
+
+
+
+
+
+
+
+
+
+
+Powers of Review Board
+
+
+
+
+202.25 (1) Review Boards and their chairpersons may exercise the powers and shall perform the duties assigned to them under the Criminal Code, with any modifications that the circumstances require and unless the context otherwise requires, in relation to findings made by courts martial of unfit to stand trial or not responsible on account of mental disorder, and in relation to dispositions made under section 201 or 202.16, except for the powers and duties referred to in sections 672.851 and 672.86 to 672.89 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+
+202.25 (1) Les commissions d’examen et leurs présidents exercent, avec les adaptations nécessaires et sauf indication contraire du contexte, les pouvoirs et fonctions qui leur sont attribués en vertu du Code criminel à l’égard des verdicts d’inaptitude à subir un procès ou de non-responsabilité pour cause de troubles mentaux que rendent les cours martiales et des décisions qu’elles prennent au titre de l’article 201 ou 202.16, sauf ceux prévus aux articles 672.851 et 672.86 à 672.89 de cette loi.
+
+
+
+Pouvoirs des commissions d’examen
+
+
+
+
+
+
+
+
+
+
+Application of paragraph 672.121(a) of Criminal Code
+
+
+
+(2) For the purpose of subsection (1), the reference to subsection 672.851(1) of the Criminal Code in paragraph 672.121(a) of that Act shall be read as a reference to subsection 202.121(1) of this Act.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), la mention du paragraphe 672.851(1) du Code criminel à l’alinéa 672.121a) de la même loi vaut mention du paragraphe 202.121(1) de la présente loi.
+
+
+
+Application de l’alinéa 672.121a) du Code criminel
+
+
+
+
+
+
+
+
+
+
+Application of ss. 672.67 to 672.71 of Criminal Code to findings
+
+
+
+
+202.26 Sections 672.67 to 672.71 of the Criminal Code apply, with any modifications that the circumstances require, to findings made by courts martial of unfit to stand trial or not responsible on account of mental disorder, and a reference in any of those sections to a Review Board is deemed to be a reference to the Review Board of the appropriate province.
+
+
+
+
+
+
+
+
+
+
+202.26 Les articles 672.67 à 672.71 du Code criminel s’appliquent, avec les adaptations nécessaires, aux verdicts d’inaptitude à subir un procès ou de non-responsabilité pour cause de troubles mentaux que rendent les cours martiales, toute mention dans ces articles d'une commission d’examen valant mention de la commission d’examen de la province concernée.
+
+
+
+Application des articles 672.67 à 672.71 du Code criminel aux verdicts
+
+
+
+
+
+
+
+
+
+
+
+
+
+59. Section 230.1 of the Act is amended by striking out the word “or” at the end of paragraph (f) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+
+59. L’article 230.1 de la même loi est modifié par adjonction, après l’alinéa f), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(f.1) the legality of an order for a stay of proceedings made under subsection 202.121(7); or
+
+
+
+
+
+
+
+
+
+
+f.1) la légalité d’une ordonnance de suspension d’instance rendue en vertu du paragraphe 202.121(7);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60. The Act is amended by adding the following after section 240.3:
+
+
+
+
+
+
+
+
+
+
+60. La même loi est modifiée par adjonction, après l’article 240.3, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Appeal
+
+
+
+
+240.4 (1) The Court Martial Appeal Court may allow an appeal against an order made under subsection 202.121(7) for a stay of proceedings, if the Court Martial Appeal Court is of the opinion that the order is unreasonable or cannot be supported by the evidence.
+
+
+
+
+
+
+
+
+
+
+240.4 (1) La Cour d’appel de la cour martiale peut faire droit à l’appel interjeté contre une ordonnance de suspension d’instance rendue en vertu du paragraphe 202.121(7), si elle est déraisonnable ou ne peut se justifier au regard de la preuve.
+
+
+
+Appel
+
+
+
+
+
+
+
+
+
+
+Effect
+
+
+
+(2) If the Court Martial Appeal Court allows the appeal, it may set aside the order for a stay of proceedings and restore the finding that the accused person is unfit to stand trial and the disposition made in respect of the accused person.
+
+
+
+
+
+
+
+
+
+(2) Si elle fait droit à l’appel, la Cour d’appel de la cour martiale peut annuler l’ordonnance de suspension d’instance et rétablir le verdict d’inaptitude de l’accusé à subir son procès ou toute décision rendue à son égard.
+
+
+
+Conséquences
+
+
+
+
+
+
+
+
+
+
+Replacement of “audition” with “audience”
+
+
+
+
+61. The French version of the Act is amended by replacing the words “audition” and “auditions” with the words “audience” and “audiences”, respectively, wherever they occur in the following provisions:
+
+
+
+
+
+
+
+
+
+
+(a) subsection 200(2);
+
+
+
+
+
+
+
+
+
+
+(b) subsection 202.12(1);
+
+
+
+
+
+
+
+
+
+
+(c) subsection 202.15(1);
+
+
+
+
+
+
+
+
+
+
+(d) subsection 202.22(1); and
+
+
+
+
+
+
+
+
+
+
+(e) subsection 202.23(4).
+
+
+
+
+
+
+
+
+
+
+61. Dans les passages ci-après de la version française de la même loi, « audition » et « auditions » sont respectivement remplacés par « audience » et « audiences » :
+
+
+
+Remplacement de « audition » par « audience »
+
+
+
+
+
+a) le paragraphe 200(2);
+
+
+
+
+
+
+
+
+
+
+
+b) le paragraphe 202.12(1);
+
+
+
+
+
+
+
+
+
+
+
+c) le paragraphe 202.15(1);
+
+
+
+
+
+
+
+
+
+
+
+d) le paragraphe 202.22(1);
+
+
+
+
+
+
+
+
+
+
+
+e) le paragraphe 202.23(4).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1997, c. 9
+
+
+
+Nuclear Safety and Control Act
+
+
+
+
+
+
+
+
+
+Loi sur la sûreté et la réglementation nucléaires
+
+
+
+1997, ch. 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+62. Section 124 of the Nuclear Safety and Control Act is repealed.
+
+
+
+
+
+
+
+
+
+
+62. L’article 124 de la Loi sur la sûreté et la réglementation nucléaires est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 1
+
+
+
+Youth Criminal Justice Act
+
+
+
+
+
+
+
+
+
+Loi sur le système de justice pénale pour les adolescents
+
+
+
+2002, ch. 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+63. (1) Subsection 141(1) of the Youth Criminal Justice Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+63. (1) Le paragraphe 141(1) de la Loi sur le système de justice pénale pour les adolescents est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Sections of Criminal Code applicable
+
+
+
+
+141. (1) Except to the extent that they are inconsistent with or excluded by this Act, section 16 (defence of mental disorder) and Part XX.1 (mental disorder) of the Criminal Code apply, with any modifications that the circumstances require, in respect of proceedings under this Act in relation to offences alleged to have been committed by young persons.
+
+
+
+
+
+
+
+
+
+
+141. (1) Dans la mesure où ils ne sont pas incompatibles avec la présente loi ou écartés par celle-ci, l’article 16 (défense de troubles mentaux) et la partie XX.1 (troubles mentaux) du Code criminel s’appliquent, avec les adaptations nécessaires, aux infractions imputées aux adolescents.
+
+
+
+Application de la partie XX.1 du Code criminel
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 141(5) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 141(5) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsections 141(7) to (9) of the Act are repealed.
+
+
+
+
+
+
+
+
+
+(3) Les paragraphes 141(7) à (9) de la même loi sont abrogés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENTS
+
+
+
+
+
+
+
+
+
+DISPOSITION DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (protection of children and other vulnerable persons) and the Criminal Evidence Act
+
+
+
+
+
+
+
+64. (1) Subsections (2) and (3) apply if a bill entitled An Act to amend the Criminal Code (protection of children and other vulnerable persons) and the Canada Evidence Act (the “other Act”), is introduced in the 1st Session of the 38th Parliament and receives royal assent.
+
+
+
+
+
+
+
+
+
+
+64. (1) Les paragraphes (2) et (3) s’appliquent si, au cours de la 1re session de la 38e législature, un projet de loi intitulé Loi modifiant le Code criminel (protection des enfants et d’autres personnes vulnérables) et la Loi sur la preuve au Canada (appelée « autre loi » au présent article) est déposé et reçoit la sanction royale.
+
+
+
+
+Loi modifiant le Code criminel (protection des enfants et d’autres personnes vulnérables) et la Loi sur la preuve au Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) On the later of the coming into force of section 15 of the other Act and section 17 of this Act, subsection 672.501(1) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) À l’entrée en vigueur de l’article 15 de l’autre loi ou à celle de l’article 17 de la présente loi, la dernière en date étant à retenir, le paragraphe 672.501(1) du Code criminel est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Order restricting publication — sexual offences
+
+
+
+
+672.501 (1) Where a Review Board holds a hearing referred to in section 672.5 in respect of an accused who has been declared not crimi­nally responsible on account of mental disorder or unfit to stand trial for an offence referred to in subsection 486.4(1), the Review Board shall make an order directing that any information that could identify a victim, or a witness who is under the age of eighteen years, shall not be published in any document or broadcast or transmitted in any way.
+
+
+
+
+
+
+
+
+
+
+672.501 (1) Dans le cadre des audiences qu’elle tient en vertu de l’article 672.5 relativement à une personne déclarée inapte à subir son procès ou non responsable criminellement pour cause de troubles mentaux à l’égard d’une infraction visée au paragraphe 486.4(1), la commission d’examen rend une ordonnance interdisant la publication ou la diffusion de quelque façon que ce soit de tout renseignement qui permettrait d’établir l’identité d’une victime ou d’un témoin âgé de moins de dix-huit ans.
+
+
+
+Ordonnance limitant la publication — infractions d’ordre sexuel
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If either section 18 of this Act or section 22 of the other Act comes into force before the other, then the other is repealed on that coming into force.
+
+
+
+
+
+
+
+
+
+(3) Le premier des articles 18 de la présente loi et 22 de l’autre loi à entrer en vigueur emporte abrogation de l’autre dès sa prise d’effet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order of Governor in Council
+
+
+
+
+65. The provisions of this Act, other than section 64, and the provisions of any Act as enacted by this Act, come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+65. Exception faite de l’article 64, les dispositions de la présente loi ou celles de toute autre loi édictées par elle entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

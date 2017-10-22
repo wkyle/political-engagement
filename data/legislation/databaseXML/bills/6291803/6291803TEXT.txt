@@ -1,0 +1,1752 @@
+
+
+
+
+
+
+C-566
+
+
+
+
+
+C-566
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62 Elizabeth II, 2013-2014
+
+
+
+
+
+62 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-566
+
+
+
+
+
+PROJET DE LOI C-566
+
+
+
+
+
+
+An Act respecting a Comprehensive Pan-Canadian Strategy on Concussion
+
+
+
+
+
+Loi concernant une stratégie pancanadienne globale relative aux commotions cérébrales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, January 27, 2014
+
+
+
+
+
+première lecture le 27 janvier 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ms. Duncan (Etobicoke North)
+
+412085
+
+
+
+
+Mme Duncan (Etobicoke-Nord)
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment proposes to enhance public awareness and education and improve current practices respecting the prevention, diagnosis and management of concussion.  It establishes a Pan-Canadian Concussion Awareness Week and requires the Minister of Health to initiate discussions with his or her provincial and territorial counterparts to develop a Pan-Canadian Strategy on Concussion, one element of which will be to develop a template for a Centre for Excellence in Concussion Research.  The enactment establishes a Concussion Board to advise the Minister respecting the design and implementation of the Strategy and sets various reporting and publishing requirements in order to promote best practices related to the prevention, diagnosis and management of concussion.
+
+
+
+SOMMAIRE
+Le texte a pour objet de mieux sensibiliser et renseigner le public et d’améliorer les pratiques actuelles en ce qui concerne la prévention, le diagnostic et la prise en charge des commotions cérébrales.  Il institue la Semaine pancanadienne de sensibilisation aux commotions cérébrales et exige du ministre de la Santé qu’il entreprenne des discussions avec ses homologues provinciaux et territoriaux en vue d’élaborer une stratégie pancanadienne relative aux commotions cérébrales, qui prévoit notamment la conception d’un modèle de centre d’excellence en recherche sur les commotions cérébrales.  Il constitue également le Conseil sur les commotions cérébrales chargé de conseiller le ministre au sujet de l’élaboration et de la mise en oeuvre de la stratégie et établit diverses exigences relatives aux rapports et aux publications afin de promouvoir le recours à des pratiques exemplaires en matière de prévention, de diagnostic et de prise en charge des commotions cérébrales.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-566
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-566
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting a Comprehensive Pan-Canadian Strategy on Concussion
+
+
+
+
+
+
+Whereas concussions are increasingly recognized as a major health issue in Canada;
+
+
+
+
+
+
+Whereas concussions are serious head injuries that often result from sports and recreational activities, falls by infants and seniors, vehicle collisions and accidents in the work place, at school and at home;
+
+
+
+
+
+
+Whereas it is important to be aware of and informed about concussions, as well as their symptoms and effects, in order to recognize when they occur and to overcome diagnostic challenges that may be caused by ambiguous symptoms such as blurred vision, fatigue, headaches, nausea and vomiting;
+
+
+
+
+
+
+Whereas concussions can produce various effects, including affective, neuropsychological, psychological and physiological effects, as well as social effects, and can have significant economic impacts on victims, their families and their work;
+
+
+
+
+
+
+Whereas the impacts of concussion can be devastating and may prevent individuals from returning to their regular activities for extended periods of time, since each individual’s recovery from the effects of concussion is unique and their ability to meet  return-to-work, return-to-school and return-to-play guidelines varies markedly;
+
+
+
+
+
+
+Whereas the pathophysiology of concussion is not well documented and is an area in which research is constantly developing;
+
+
+
+
+
+
+Whereas determining the pathophysiology of concussion would help inform management practices;
+
+
+
+
+
+
+Whereas further concussion research is essential to improving the ability to prevent, diagnose and manage concussions;
+
+
+
+
+
+
+Whereas Canadians suffering from concussions, as well as their families and caregivers, deserve the government’s support in obtaining resources to aid in their recovery and to improve their quality of life;
+
+
+
+
+
+
+And whereas the Government of Canada believes that concussion must be better addressed by implementing a Pan-Canadian Strategy on Concussion;
+
+
+
+
+
+
+
+
+
+Loi concernant une stratégie pancanadienne globale relative aux commotions cérébrales
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que les commotions cérébrales sont de plus en plus considérées comme un important problème de santé au Canada;
+
+
+
+
+
+
+que les commotions cérébrales sont de graves traumatismes crâniens souvent subis au cours d’activités sportives et récréatives ou lors de collisions automobiles ou d’accidents au travail, à l’école ou à la maison, ou provoqués par une chute chez les jeunes enfants et les aînés;
+
+
+
+
+
+
+qu’il est important d’être conscient et au fait des commotions cérébrales, de leurs symptômes et de leurs effets, pour pouvoir les reconnaître lorsqu’elles se produisent et surmonter les difficultés de diagnostic possiblement attribuables à des symptômes ambigus tels que la vision trouble, la fatigue, les maux de tête, la nausée et les vomissements;
+
+
+
+
+
+
+que les commotions cérébrales peuvent produire différents effets, notamment sur les plans affectif, neuropsychologique, psychologique et physiologique ainsi que des effets sociaux, et qu’elles peuvent avoir d’importantes répercussions économiques pour les victimes, leurs familles et leur travail;
+
+
+
+
+
+
+que les commotions cérébrales ont des conséquences potentiellement dévastatrices qui sont susceptibles d’empêcher les individus touchés de reprendre leurs activités normales pendant de longues périodes, étant donné que chacun se rétablit différemment d’une commotion cérébrale et qu’en conséquence, la capacité à suivre les lignes directrices de retour au travail, à l’école ou au jeu peut varier considérablement d’un individu à l’autre;
+
+
+
+
+
+
+que la physiopathologie des commotions cérébrales, qui est peu documentée, est un domaine où la recherche évolue constamment;
+
+
+
+
+
+
+qu’une définition de la pathophysiologie des commotions cérébrales contribuerait à éclairer les pratiques de prise en charge;
+
+
+
+
+
+
+qu’il est essentiel d’entreprendre de plus amples recherches sur les commotions cérébrales pour être davantage en mesure de les prévenir, de les diagnostiquer et de les prendre en charge;
+
+
+
+
+
+
+que les Canadiens ayant subi une commotion cérébrale, ainsi que leurs familles et leurs soignants, méritent un soutien du gouvernement pour obtenir des ressources qui les aideront à se rétablir et à améliorer leur qualité de vie;
+
+
+
+
+
+
+que le gouvernement du Canada estime qu’il faut agir plus efficacement à l’égard des commotions cérébrales en mettant en oeuvre une stratégie pancanadienne en la matière,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and the House of Commons of Canada enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Pan-Canadian Strategy on Concussion Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la Stratégie pancanadienne relative aux commotions cérébrales.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+2. The following definitions apply in this Act.
+
+
+
+
+“Board”« Conseil »
+
+
+
+“Board” means the Concussion Board established under section 6.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Health.
+
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« Conseil » Le Conseil sur les commotions cérébrales constitué en vertu de l’article 6.
+
+
+
+« Conseil »“Board”
+
+
+
+
+« ministre » Le ministre de la Santé.
+
+
+
+« ministre »“Minister”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAN-CANADIAN CONCUSSION AWARENESS WEEK
+
+
+
+
+
+
+
+
+
+SEMAINE PANCANADIENNE DE SENSIBILISATION AUX COMMOTIONS CÉRÉBRALES
+
+
+
+
+
+
+
+
+
+
+
+
+Pan-Canadian Concussion Awareness Week
+
+
+
+
+3. Throughout Canada, in each and every year, the first week of the month of June is to be known as “Pan-Canadian Concussion Awareness Week”. 
+
+
+
+
+
+
+
+
+
+
+3. La première semaine du mois de juin est, dans tout le Canada, désignée comme « Semaine pancanadienne de sensibilisation aux commotions cérébrales ».
+
+
+
+Semaine pancanadienne de sensibilisation aux commotions cérébrales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAN-CANADIAN STRATEGY ON CONCUSSION
+
+
+
+
+
+
+
+
+
+STRATÉGIE PANCANADIENNE RELATIVE AUX COMMOTIONS CÉRÉBRALES
+
+
+
+
+
+
+
+
+
+
+
+
+Initiate discussions
+
+
+
+
+4. Within 30 days after this Act comes into force, the Minister must initiate discussions with the provincial and territorial ministers responsible for health for the purposes of developing a comprehensive Pan-Canadian Strategy on Concussion.
+
+
+
+
+
+
+
+
+
+
+4. Dans les trente jours suivant l’entrée en vigueur de la présente loi, le ministre entreprend des discussions avec les ministres provinciaux et territoriaux responsables de la santé en vue d’élaborer une stratégie pancanadienne globale relative aux commotions cérébrales.
+
+
+
+Discussions
+
+
+
+
+
+
+
+
+
+
+Pan-Canadian Strategy
+
+
+
+
+5. The Pan-Canadian Strategy on Concussion must be designed to contribute to the prevention, diagnosis and management of concussion by
+
+
+
+
+
+
+
+
+
+
+(a) establishing and improving national guidelines regarding the prevention, diagnosis and management of concussions, including a recommended standard of care that reflects current best methodological, medical and psychosocial practices for concussion care;
+
+
+
+
+
+
+
+
+
+
+(b) developing preventive measures to reduce the risk of concussion including:
+
+
+
+
+
+
+
+
+
+
+(i) the incorporation of neck stability and strength exercises into training for athletes and workers at risk, as well as for those who engage in activities that involve a significant risk of concussion, and
+
+
+
+
+
+
+
+
+
+
+(ii) the promotion of cost-effective meas­ures to reduce the risk of concussion in sports that involve a significant risk of concussion;
+
+
+
+
+
+
+
+
+
+
+(c) promoting optional training on concussion awareness, prevention and recognition  for employees in seniors’ residences, community centres and daycares, and other caregivers;
+
+
+
+
+
+
+
+
+
+
+(d) promoting the establishment of an optional program on concussion awareness, prevention, and recognition, and promoting the use of measures to prevent concussion for workers in industries that involve significant risk of concussion, as a component of existing vocational training;
+
+
+
+
+
+
+
+
+
+
+(e) developing a mandatory educational program on concussions for referees and other officials of sports that involve a significant risk of concussion to enhance athletes’ safety and to place a focus on the role of referees and officials in minimizing risk, recognizing possible concussion and responding appropriately;
+
+
+
+
+
+
+
+
+
+
+(f) establishing and enforcing requirements to include mandatory concussion recognition and management training in all   professional accreditation programs for coaches in Canada;
+
+
+
+
+
+
+
+
+
+
+(g) encouraging the use of consulting psychologists to create a support system for people who are suffering from the effects of concussion, especially in educational institutions, sports organizations and workplaces;
+
+
+
+
+
+
+
+
+
+
+(h) developing a template for a Centre for Excellence in Concussion Research to encourage greater investigation in all areas of concussion research, including research related to
+
+
+
+
+
+
+
+
+
+
+(i) gender as a modifying factor,
+
+
+
+
+
+
+
+
+
+
+(ii) the efficacy of assessment tools, including neuroimaging,
+
+
+
+
+
+
+
+
+
+
+(iii) the window of metabolic dysfunction,
+
+
+
+
+
+
+
+
+
+
+(iv) emotional effects,
+
+
+
+
+
+
+
+
+
+
+(v) appropriate management protocols,
+
+
+
+
+
+
+
+
+
+
+(vi) the composition and utility of a biomarker database for the purposes of diagnosis and the assessment of severity, prognosis and rate of recovery, and
+
+
+
+
+
+
+
+
+
+
+(vii) thresholds for long-term effects;
+
+
+
+
+
+
+
+
+
+
+(i) developing and maintaining a government website to provide Canadians with current facts, research and best practices related to the prevention, diagnosis and management of concussion, as well as other relevant resources related to concussions; and
+
+
+
+
+
+
+
+
+
+
+(j) developing a national database to track the incidence of concussion across the country, to provide data for research on trends and vulnerable groups and to facilitate the evaluation of the efficacy of the Strategy in order to identify areas for improvement.
+
+
+
+
+
+
+
+
+
+
+5. La Stratégie pancanadienne relative aux commotions cérébrales est conçue de manière à favoriser la prévention, le diagnostic et la prise en charge des commotions cérébrales par les moyens suivants :
+
+
+
+Stratégie pancanadienne relative aux commotions cérébrales
+
+
+
+
+
+a) établir des lignes directrices nationales sur la prévention, le diagnostic et la prise en charge des commotions cérébrales et les améliorer, ainsi que prévoir une norme de soins recommandée qui incorpore les meilleures pratiques méthodologiques, médicales et psychosociales relatives au traitement des commotions cérébrales;
+
+
+
+
+
+
+
+
+
+
+
+b) mettre au point des mesures préventives pour réduire le risque de commotion cérébrale, notamment :
+
+
+
+
+
+
+
+
+
+
+(i) l’intégration d’exercices de stabilisation et de renforcement du cou à l’entraînement des athlètes et à la formation des travailleurs à risque et de toute autre personne s’adonnant à des activités présentant un risque important de commotion cérébrale,
+
+
+
+
+
+
+
+
+
+
+(ii) la promotion de mesures peu coûteuses visant à réduire le risque de commotion cérébrale dans les sports présentant un risque important;
+
+
+
+
+
+
+
+
+
+
+
+c) promouvoir une formation facultative sur la sensibilisation aux commotions cérébrales et la prévention et la reconnaissance de celles-ci à l’intention des employés de résidences pour aînés, de centres communautaires et de garderies ainsi que d’autres fournisseurs de soins;
+
+
+
+
+
+
+
+
+
+
+
+d) favoriser l’établissement d’un programme facultatif de sensibilisation aux commotions cérébrales et de prévention et de reconnaissance de celles-ci et encourager le recours à des mesures de prévention des commotions cérébrales chez les travailleurs d’industries présentant un risque important de commotion cérébrale, dans le cadre des formations professionnelles existantes;
+
+
+
+
+
+
+
+
+
+
+
+e) mettre au point un programme de formation obligatoire sur les commotions cérébrales à l’intention des arbitres et autres officiels des sports présentant un risque important de commotion cérébrale afin d’améliorer la sécurité des athlètes et de mettre en évidence le rôle que peuvent jouer ces arbitres et autres officiels pour atténuer le risque, reconnaître les commotions cérébrales potentielles et intervenir de manière appropriée;
+
+
+
+
+
+
+
+
+
+
+
+f) établir et mettre en application l’exigence d’inclure une formation obligatoire sur la reconnaissance et la prise en charge des commotions cérébrales dans tous les programmes de certification professionnelle des entraîneurs au Canada;
+
+
+
+
+
+
+
+
+
+
+
+g) encourager le recours à des psychologues consultants pour former un réseau de soutien destiné aux personnes souffrant des effets d’une commotion cérébrale, particulièrement dans les établissements d’enseignement, les organisations sportives et les milieux de travail;
+
+
+
+
+
+
+
+
+
+
+
+h) créer un modèle de centre d’excellence en recherche sur les commotions cérébrales pour favoriser des études plus poussées dans tous les domaines de la recherche sur les commotions cérébrales, notamment sur les sujets suivants :
+
+
+
+
+
+
+
+
+
+
+(i) le sexe en tant que facteur de modification,
+
+
+
+
+
+
+
+
+
+
+(ii) l’efficacité des outils d’évaluation, y compris la neuro-imagerie,
+
+
+
+
+
+
+
+
+
+
+(iii) la phase de dérèglement métabolique,
+
+
+
+
+
+
+
+
+
+
+(iv) les effets émotionnels,
+
+
+
+
+
+
+
+
+
+
+(v) les protocoles de prise en charge appropriés,
+
+
+
+
+
+
+
+
+
+
+(vi) la composition et l’utilité d’une base de données sur les biomarqueurs à des fins de diagnostic et d’évaluation de la gravité, du pronostic et du taux de guérison,
+
+
+
+
+
+
+
+
+
+
+(vii) les seuils au-delà desquels des effets à long terme sont observés;
+
+
+
+
+
+
+
+
+
+
+
+i) créer et gérer un site Web gouvernemental afin de communiquer aux Canadiens les données factuelles, recherches et pratiques exemplaires les plus récentes en matière de prévention, de diagnostic et de prise en charge des commotions cérébrales, ainsi que d’autres ressources pertinentes concernant celles-ci;
+
+
+
+
+
+
+
+
+
+
+
+j) créer une base de données nationale permettant d’assurer un suivi de l’incidence des commotions cérébrales dans toutes les régions du pays, de recueillir des données aux fins de la recherche sur les tendances et les groupes vulnérables et de faciliter l’évaluation de l’efficacité de la Stratégie pour déceler les points à améliorer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONCUSSION BOARD
+
+
+
+
+
+
+
+
+
+CONSEIL SUR LES COMMOTIONS CÉRÉBRALES
+
+
+
+
+
+
+
+
+
+
+
+
+Establishment of the Board
+
+
+
+
+6. There is established a board, to be known as the Concussion Board.
+
+
+
+
+
+
+
+
+
+
+6. Est constitué le Conseil sur les commotions cérébrales.
+
+
+
+Constitution du Conseil
+
+
+
+
+
+
+
+
+
+
+Board objective
+
+
+
+
+7. The objective of the Board is to advise and assist the Minister respecting the design and implementation of the Pan-Canadian Strategy on Concussion and to ensure the implementation and on-going review and adaptation of the Strategy to reflect change in knowledge and recommended practices.
+
+
+
+
+
+
+
+
+
+
+7. Le Conseil a pour objectif de conseiller et d’assister le ministre pour la conception et la mise en oeuvre de la Stratégie pancanadienne relative aux commotions cérébrales, d’assurer cette mise en oeuvre et de procéder en continu à l’examen et à l’adaptation de la Stratégie pour tenir compte des changements dans les connaissances et les pratiques recommandées.
+
+
+
+Objectif du conseil
+
+
+
+
+
+
+
+
+
+
+Annual meeting
+
+
+
+
+8. The Board must meet at least once annually, during Pan-Canadian Concussion Awareness Week.
+
+
+
+
+
+
+
+
+
+
+8. Le Conseil se réunit au moins une fois l’an, au cours de la Semaine pancanadienne de sensibilisation aux commotions cérébrales.
+
+
+
+Réunion annuelle
+
+
+
+
+
+
+
+
+
+
+Report —government website
+
+
+
+
+9. (1) The Board must prepare and post, on the government website referred to in paragraph 5(i), an annual report on best practices related to the prevention, diagnosis and management of concussion, as well as relevant information related to concussions, in order to make information available to relevant recreational, work and residential establishments to assist them in maintaining current policies related to the prevention and management of concussion.
+
+
+
+
+
+
+
+
+
+
+9. (1) Le Conseil établit et publie, sur le site Web gouvernemental visé à l’alinéa 5i), un rapport annuel sur les pratiques exemplaires en matière de prévention, de diagnostic et de prise en charge des commotions cérébrales ainsi que des renseignements pertinents sur celles-ci, afin de les mettre à la disposition des établissements de loisirs, des établissements résidentiels et des lieux de travail concernés pour les aider à actualiser leurs politiques en matière de prévention et de prise en charge des commotions cérébrales.
+
+
+
+Rapport —site Web gouvernemental
+
+
+
+
+
+
+
+
+
+
+Report to Minister
+
+
+
+(2) The Board must report on or before December 1 of every year to the Minister on the measures and resources implemented to achieve the objective set out in section 7.
+
+
+
+
+
+
+
+
+
+(2) Le Conseil fait rapport au ministre, au plus tard le 1er décembre de chaque année, sur les mesures et les ressources mises en oeuvre pour réaliser l’objectif visé à l’article 7.
+
+
+
+Rapport au ministre
+
+
+
+
+
+
+
+
+
+
+Tabling of report
+
+
+
+(3) The report referred to in subsection (2), including the Board's recommendations and reasons, must be made public, and must be sent to the Minister, who must cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the Minister receives it.
+
+
+
+
+
+
+
+
+
+(3) Le rapport visé au paragraphe (2), y compris les recommandations du Conseil et les motifs à l’appui de celles-ci, est rendu public et envoyé au ministre, qui en fait déposer une copie devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt du rapport
+
+
+
+
+
+
+
+
+
+
+Minister's response
+
+
+
+(4) The Minister must prepare and publish a response to the report received pursuant to subsection (3) and must cause a copy of the response to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the expiry of 90 days from the day on which the Minister received the report.
+
+
+
+
+
+
+
+
+
+(4) Le ministre rédige et publie une réponse au rapport reçu conformément au paragraphe (3) et il en fait déposer une copie devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci après l’expiration d’un délai de quatre-vingt-dix jours suivant la date de réception du rapport.
+
+
+
+Réponse du ministre
+
+
+
+
+
+
+
+
+
+
+Members
+
+
+
+
+10. The Board is to be composed of a maximum of 20 members appointed by the Governor in Council on the recommendation of the Minister and selected from among the following:
+
+
+
+
+
+
+
+
+
+
+(a) researchers and representatives from medical and healthcare professions — including neuropsychologists, psychologists, chiropractors and therapists — who special­ize in concussions and head injuries;
+
+
+
+
+
+
+
+
+
+
+(b) stakeholders involved in all levels of sports that involve a significant risk of concussion, senior care, transportation, childcare and schools as well as those involved in other activities and industries involving a significant risk of head injuries;
+
+
+
+
+
+
+
+
+
+
+(c) manufacturers of relevant protective equipment and materials or their representatives;
+
+
+
+
+
+
+
+
+
+
+(d) current and retired athletes, trainers and coaches;
+
+
+
+
+
+
+
+
+
+
+(e) Canadians who suffer from concussions, as well as their families and caregivers; and
+
+
+
+
+
+
+
+
+
+
+(f) volunteers and employees working with advocacy or support groups or volunteer  organizations involved with concussed individuals.
+
+
+
+
+
+
+
+
+
+
+10. Le Conseil est composé d’au plus vingt membres nommés par le gouverneur en conseil sur recommandation du ministre et choisis parmi les personnes suivantes :
+
+
+
+Membres
+
+
+
+
+
+a) les chercheurs et les représentants des professions médicales et des professions de la santé — notamment des neuropsychologues, psychologues, chiropraticiens et thérapeutes — spécialisés dans les commotions cérébrales et les traumatismes crâniens;
+
+
+
+
+
+
+
+
+
+
+
+b) les intervenants agissant à tous les niveaux dans les sports présentant un risque important de commotion cérébrale ou dans les soins aux aînés, les transports, les services de garderie et les écoles, de même que ceux qui sont engagés dans d’autres activités ou secteurs présentant un risque important de traumatisme crânien;
+
+
+
+
+
+
+
+
+
+
+
+c) les fabricants d’équipement ou de matériel de protection pertinents ou leurs représentants;
+
+
+
+
+
+
+
+
+
+
+
+d) les athlètes, instructeurs et entraîneurs, actuels ou anciens;
+
+
+
+
+
+
+
+
+
+
+
+e) les Canadiens victimes d’une commotion cérébrale ainsi que leurs familles et leurs soignants;
+
+
+
+
+
+
+
+
+
+
+
+f) les bénévoles et employés travaillant pour des groupes de défense ou de soutien ou des organismes bénévoles oeuvrant auprès de victimes de commotion cérébrale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Term
+
+
+
+
+11. Members of the  Board are appointed to hold office for a term not exceeding four years and are eligible to be reappointed.
+
+
+
+
+
+
+
+
+
+
+11. Les membres du Conseil sont nommés pour un mandat maximal de quatre ans et leur mandat est renouvelable.
+
+
+
+Mandat
+
+
+
+
+
+
+
+
+
+
+Chairperson
+
+
+
+
+12. The Minister must designate one member  of the Board to be the Chairperson.
+
+
+
+
+
+
+
+
+
+
+12. Le ministre désigne un des membres du Conseil à titre de président.
+
+
+
+Président
+
+
+
+
+
+
+
+
+
+
+Remuneration
+
+
+
+
+13. The members of the Board must be paid remuneration as fixed by the Governor in Council and are entitled to be paid reasonable travel and living expenses incurred in the course of their duties while absent from their ordinary places of work,  in the case of full-time members, or while absent from their ordinary place of residence, in the case of part-time members.
+
+
+
+
+
+
+
+
+
+
+13. Les membres du Conseil reçoivent la rémunération fixée par le gouverneur en conseil. Les membres à temps plein sont indemnisés des frais de déplacement et de séjour entraînés par l’exercice de leurs fonctions hors de leur lieu de travail habituel, et les membres à temps partiel sont indemnisés des frais de déplacement et de séjour entraînés par l’exercice de leurs fonctions hors de leur lieu de résidence habituel.
+
+
+
+Rémunération
+
+
+
+
+
+
+
+
+
+
+Staff
+
+
+
+
+14. The Board may employ any officers and employees and engage the services of any agents and mandataries, advisers and experts that it considers necessary to carry out its purpose.
+
+
+
+
+
+
+
+
+
+
+14. Le Conseil peut s’assurer les services des personnes — membres du personnel, mandataires, conseillers ou experts — nécessaires à l’exercice de ses activités.
+
+
+
+Personnel
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

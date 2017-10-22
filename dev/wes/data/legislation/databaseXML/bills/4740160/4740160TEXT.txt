@@ -1,0 +1,3705 @@
+
+
+
+
+
+
+C-53
+
+
+
+
+
+C-53
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+
+
+
+
+
+Troisième session, quarantième législature,
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-53
+
+
+
+
+
+PROJET DE LOI C-53
+
+
+
+
+
+
+An Act to amend the Criminal Code (mega-trials)
+
+
+
+
+
+Loi modifiant le Code criminel (mégaprocès)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 2, 2010
+
+
+
+
+
+première lecture le 2 novembre 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF JUSTICE
+
+90586
+
+
+
+MINISTRE DE LA JUSTICE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code to
+(a) allow for the appointment of a judge as a case management judge;
+(b) define the role and the powers of a case management judge;
+(c) streamline the use of direct indictments preferred under section 577;
+(d) allow for delayed severance orders;
+(e) improve the protection of the identity of jurors;
+(f) increase the maximum number of jurors who can hear the evidence on the merits; and
+(g) provide that, in the case of a mistrial, certain decisions made during the trial are binding on the parties in any new trial.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel pour :
+
+a) permettre la nomination d’un juge à titre de juge responsable de la gestion de l’instance;
+
+b) prévoir les attributions du juge responsable de la gestion de l’instance;
+
+c) simplifier le recours aux actes d’accusation présentés en vertu de l’article 577;
+
+d) prévoir la prise d’effet ultérieure d’une ordonnance rendue pour la tenue de procès distincts;
+
+e) renforcer la protection de l’identité des jurés;
+
+f) augmenter le nombre maximal de jurés pouvant entendre la preuve sur le fond;
+
+g) prévoir qu’en cas d’avortement de procès, certaines décisions rendues dans le cadre de ce procès lient les parties lors de tout nouveau procès.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+3e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-53
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-53
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (mega-trials)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (mégaprocès)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Fair and Efficient Criminal Trials Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la tenue de procès criminels équitables et efficaces.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) Section 523 of the Criminal Code is amended by adding the following after subsection (1.1):
+
+
+
+
+
+
+
+
+
+
+2. (1) L’article 523 du Code criminel est modifié par adjonction, après le paragraphe (1.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+When direct indictment is preferred charging same offence
+
+
+
+
+(1.2) When an accused, in respect of an offence with which the accused is charged, has not been taken into custody or is being detained or has been released from custody under or by virtue of any provision of this Part and after the order for interim release or detention has been made, or the appearance notice, promise to appear, summons, undertaking or recognizance has been issued, given or entered into, and an indictment is preferred under section 577 charging the same offence or an included offence, the order for interim release or detention of the accused and the appearance notice, promise to appear, summons, undertaking or recognizance, if any, applies in respect of the indictment.
+
+
+
+
+
+
+
+
+
+
+
+(1.2) Lorsque, à l’égard d’une infraction dont il est inculpé, un prévenu n’a pas été mis sous garde ou est détenu ou a été mis en liberté aux termes ou en vertu d’une autre disposition de la présente partie et qu’un acte d’accusation, lui imputant la même infraction ou une infraction incluse est présenté en vertu de l’article 577 après qu’une ordonnance de mise en liberté ou de détention provisoire a été rendue ou après que la sommation ou la citation à comparaître lui a été délivrée ou encore après qu’il a remis une promesse de comparaître ou une promesse ou contracté un engagement, l’ordonnance de mise en liberté ou de détention provisoire du prévenu, ainsi que la sommation ou la citation à comparaître, la promesse de comparaître, la promesse ou l’engagement, s’il en est, s’appliquent à l’acte d’accusation.
+
+
+
+
+Acte d’accusation imputant la même infraction
+
+
+
+
+
+
+
+
+
+
+R.S., c. 27(1st Supp.), s. 89(4)
+
+
+
+(2) The portion of subsection 523(2) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le passage du paragraphe 523(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+L.R., ch. 27 (1er suppl.) par. 89(4)
+
+
+
+
+
+
+
+
+
+
+Order vacating previous order for release or detention
+
+
+
+(2) Despite subsections (1) to (1.2),
+
+
+
+
+
+
+
+
+
+(2) Malgré les paragraphes (1) à (1.2) :
+
+
+
+Ordonnance annulant une ordonnance de mise en liberté ou de détention
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 27
+
+
+
+
+3. Paragraphs 536.3(a) and (b) of the French version of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Les alinéas 536.3a) et b) de la version française de la même loi sont remplacés par ce qui suit :
+
+
+
+2002, ch. 13, art. 27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a) les points sur lesquels la partie faisant la demande veut que des témoignages soient présentés dans le cadre de l’enquête;
+
+
+
+
+
+
+
+
+
+b) le nom des témoins que la partie faisant la demande veut entendre à l’enquête.
+
+
+
+
+
+
+
+
+
+
+
+a) les points sur lesquels la partie faisant la demande veut que des témoignages soient présentés dans le cadre de l’enquête;
+
+
+
+
+
+
+
+b) le nom des témoins que la partie faisant la demande veut entendre à l’enquête.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Act is amended by adding the following after section 551:
+
+
+
+
+
+
+
+
+
+
+4. La même loi est modifiée par adjonction, après l’article 551, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART XVIII.1
+
+
+
+
+
+
+
+
+
+
+
+PARTIE XVIII.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CASE MANAGEMENT JUDGE
+
+
+
+
+
+
+
+
+
+
+
+JUGE RESPONSABLE DE LA GESTION DE L’INSTANCE
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment
+
+
+
+
+
+551.1 (1) On application by the prosecutor or the accused or on his or her own motion, the Chief Justice of the court before which a trial is to be or is being held or the judge that the Chief Justice designates may, if he or she is of the opinion that it is necessary for the proper administration of justice, appoint a judge as the case management judge for that trial at any time before the jury selection, if the trial is before a judge and jury, or before the stage at which the evidence on the merits is presented, if the trial is being heard by a judge without a jury or a provincial court judge.
+
+
+
+
+
+
+
+
+
+
+
+
+551.1 (1) Sur demande du poursuivant ou de l’accusé ou de sa propre initiative, le juge en chef de la cour devant laquelle se tient ou doit se tenir un procès ou le juge qu’il désigne peut, s’il est d’avis que cela servirait la bonne administration de la justice, nommer relativement au procès un juge à titre de juge responsable de la gestion de l’instance, à tout moment avant la constitution du jury, s’il s’agit d’un procès devant jury, ou avant le stade de la présentation de la preuve sur le fond, s’il s’agit d’un procès devant un juge sans jury ou un juge de la cour provinciale.
+
+
+
+
+Nomination
+
+
+
+
+
+
+
+
+
+
+Conference or hearing
+
+
+
+
+(2) The Chief Justice or his or her designate may order that a conference between the prosecutor and the accused or counsel for the accused or a hearing be held for the purpose of deciding if it is necessary for the proper administration of justice to proceed with the appointment.
+
+
+
+
+
+
+
+
+
+
+
+(2) Il peut ordonner la tenue d’une conférence entre les parties ou leurs avocats ou la tenue d’une audience en vue de décider si cela servirait la bonne administration de la justice de procéder à la nomination.
+
+
+
+
+Conférence ou audience
+
+
+
+
+
+
+
+
+
+
+Timing of application or appointment
+
+
+
+
+(3) In the case of a trial for an indictable offence, other than a trial before a provincial court judge, the application or appointment may only be made after the prosecution prefers the indictment.
+
+
+
+
+
+
+
+
+
+
+
+(3) S’agissant d’un procès pour un acte criminel, à l’exception d’un procès devant un juge de la cour provinciale, ni la demande du poursuivant ou de l’accusé ni la nomination ne peuvent précéder la présentation de l’acte d’accusation.
+
+
+
+
+Moment de la présentation de la demande ou de la nomination
+
+
+
+
+
+
+
+
+
+
+Same judge
+
+
+
+
+(4) The appointment of a judge as the case management judge does not prevent him or her from becoming the judge who hears the evidence on the merits.
+
+
+
+
+
+
+
+
+
+
+
+(4) La nomination d’un juge à titre de juge responsable de la gestion de l’instance n’empêchera pas celui-ci d’entendre la preuve sur le fond.
+
+
+
+
+Même juge
+
+
+
+
+
+
+
+
+
+
+Role
+
+
+
+
+
+551.2 The case management judge shall assist in promoting a fair and efficient trial, including by ensuring that the evidence on the merits is presented, to the extent possible, without interruption.
+
+
+
+
+
+
+
+
+
+
+
+
+551.2 Le juge responsable de la gestion de l’instance favorise la tenue d’un procès équitable et efficace, notamment en veillant, dans la mesure du possible, à ce que la preuve sur le fond soit présentée sans interruption.
+
+
+
+
+Rôle
+
+
+
+
+
+
+
+
+
+
+Powers before evidence on merits presented
+
+
+
+
+
+551.3 (1) In performing his or her duties before the stage of the presentation of the evidence on the merits, the case management judge, as a trial judge, may exercise the powers that a trial judge has before that stage, including
+
+
+
+
+
+
+
+
+
+
+
+
+(a) assisting the parties to identify the witnesses to be heard, taking into account the witnesses’ needs and circumstances;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) encouraging the parties to make admissions and reach agreements;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) encouraging the parties to consider any other matters that would promote a fair and efficient trial;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) establishing schedules and imposing deadlines on the parties;
+
+
+
+
+
+
+
+
+
+
+
+
+(e) hearing guilty pleas and imposing sentences;
+
+
+
+
+
+
+
+
+
+
+
+
+(f) assisting the parties to identify the issues that are to be dealt with at the stage at which the evidence on the merits is presented; and
+
+
+
+
+
+
+
+
+
+
+
+
+(g) subject to section 551.7, adjudicating any issues that can be decided before that stage, including those related to
+
+
+
+
+
+
+
+
+
+
+
+
+(i) the disclosure of evidence,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) the admissibility of evidence,
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) the Canadian Charter of Rights and Freedoms,
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) expert witnesses,
+
+
+
+
+
+
+
+
+
+
+
+
+(v) the severance of counts, and
+
+
+
+
+
+
+
+
+
+
+
+
+(vi) the separation of trials on one or more counts when there is more than one accused.
+
+
+
+
+
+
+
+
+
+
+
+
+551.3 (1) Dans le cadre des attributions qu’il exerce avant le stade de la présentation de la preuve sur le fond, le juge responsable de la gestion de l’instance peut, à titre de juge qui préside le procès, exercer tous les pouvoirs dévolus à un tel juge avant ce stade, notamment :
+
+
+
+
+Pouvoirs avant la présentation de la preuve sur le fond
+
+
+
+
+
+
+a) aider les parties à désigner les témoins à entendre, en prenant en compte la situation et les besoins de ceux-ci;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) encourager les parties à faire des aveux et à conclure des accords;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) les encourager à examiner toute autre question qui favoriserait la tenue d’un procès équitable et efficace;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) établir des horaires et leur imposer des échéances;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) entendre des plaidoyers de culpabilité et prononcer des peines;
+
+
+
+
+
+
+
+
+
+
+
+
+
+f) aider les parties à cerner les questions à trancher au stade de la présentation de la preuve sur le fond;
+
+
+
+
+
+
+
+
+
+
+
+
+
+g) sous réserve de l’article 551.7, trancher toute question qui peut l’être avant ce stade, y compris les questions concernant :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) la communication de la preuve,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) la recevabilité de la preuve,
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) la Charte canadienne des droits et libertés,
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) les témoins experts,
+
+
+
+
+
+
+
+
+
+
+
+
+(v) la séparation des chefs d’accusation,
+
+
+
+
+
+
+
+
+
+
+
+
+(vi) la tenue de procès séparés sur un ou plusieurs chefs d’accusation lorsqu’il y a plusieurs accusés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hearing
+
+
+
+
+(2) The case management judge shall order that a hearing be held for the purpose of exercising the power referred to in paragraph (1)(g).
+
+
+
+
+
+
+
+
+
+
+
+(2) Il ordonne la tenue d’une audience en vue d’exercer le pouvoir prévu à l’alinéa (1)g).
+
+
+
+
+Audience
+
+
+
+
+
+
+
+
+
+
+Power exercised at trial
+
+
+
+
+(3) When the case management judge exercises the power referred to in paragraph (1)(g), he or she is doing so at trial.
+
+
+
+
+
+
+
+
+
+
+
+(3) Il exerce ce pouvoir, le cas échéant, au procès.
+
+
+
+
+Exercice au procès
+
+
+
+
+
+
+
+
+
+
+Decision binding
+
+
+
+
+(4) A decision that results from the exercise of the power referred to in paragraph (1)(g) is binding on the parties for the remainder of the trial, even if the judge who hears the evidence on the merits is not the same as the case management judge.
+
+
+
+
+
+
+
+
+
+
+
+(4) Les décisions découlant de l’exercice de ce pouvoir lient les parties jusqu’à la fin du procès, et ce, même si le juge qui entend la preuve sur le fond n’est pas celui nommé à titre de juge responsable de la gestion de l’instance.
+
+
+
+
+Décisions liant les parties
+
+
+
+
+
+
+
+
+
+
+Information relevant to presentation of evidence on merits to be part of court record
+
+
+
+
+
+551.4 (1) When the case management judge is of the opinion that the measures to promote a fair and efficient trial that can be taken before the stage of the presentation of the evidence on the merits have been taken — including adjudicating the issues that can be decided — he or she shall ensure that the court record includes information that, in his or her opinion, may be relevant at the stage of the presentation of the evidence on the merits, including
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the names of the witnesses to be heard that have been identified by the parties;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) any admissions made and agreements reached by the parties;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the estimated time required to conclude the trial;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) any orders and decisions; and
+
+
+
+
+
+
+
+
+
+
+
+
+(e) any issues identified by the parties that are to be dealt with at the stage of the presentation of the evidence on the merits.
+
+
+
+
+
+
+
+
+
+
+
+
+551.4 (1) Le juge responsable de la gestion de l’instance qui est d’avis que les mesures pouvant être prises avant le stade de la présentation de la preuve sur le fond pour favoriser la tenue d’un procès équitable et efficace l’ont été, et notamment que les questions pouvant être tranchées l’ont été, vérifie que les renseignements qui, selon lui, pourront être utiles au stade de cette présentation sont consignés au dossier, notamment :
+
+
+
+
+Consignation des renseignements utiles à la présentation de la preuve sur le fond
+
+
+
+
+
+
+a) le nom des témoins à entendre que les parties ont désignés;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) les aveux des parties et les accords qu’elles ont conclus;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) le délai estimé pour conclure le procès;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) les décisions et ordonnances qu’il a rendues;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) les questions à trancher au stade de la présentation de la preuve sur le fond que les parties ont cernées.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+
+(2) This section does not apply to a case management judge who also hears the evidence on the merits.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le présent article ne s’applique pas au juge responsable de la gestion de l’instance qui est aussi celui qui entend la preuve sur le fond.
+
+
+
+
+Non-application
+
+
+
+
+
+
+
+
+
+
+Trial continuous
+
+
+
+
+
+551.5 Even if the judge who hears the evidence on the merits is not the same as the case management judge, the trial of an accused shall proceed continuously, subject to adjournment by the court.
+
+
+
+
+
+
+
+
+
+
+
+
+551.5 Sous réserve d’ajournement par le tribunal, le procès d’un accusé se poursuit continûment même si le juge qui entend la preuve sur le fond n’est pas celui nommé à titre de juge responsable de la gestion de l’instance.
+
+
+
+
+Instruction continue
+
+
+
+
+
+
+
+
+
+
+Issues referred to case management judge
+
+
+
+
+
+551.6 (1) During the presentation of the evidence on the merits, the case management judge shall adjudicate any issue referred to him or her by the judge hearing the evidence on the merits.
+
+
+
+
+
+
+
+
+
+
+
+
+551.6 (1) Au stade de la présentation de la preuve sur le fond, le juge responsable de la gestion de l’instance tranche toute question que lui renvoie le juge qui entend la preuve sur le fond.
+
+
+
+
+Questions renvoyées au juge responsable de la gestion de l’instance
+
+
+
+
+
+
+
+
+
+
+Powers at stage of presentation of evidence on merits
+
+
+
+
+(2) For the purposes of adjudicating an issue, the case management judge may exercise the powers of a trial judge.
+
+
+
+
+
+
+
+
+
+
+
+(2) Pour ce faire, il peut exercer tous les pouvoirs dévolus à un juge qui préside le procès.
+
+
+
+
+Pouvoirs
+
+
+
+
+
+
+
+
+
+
+Decision whether to hold joint hearing
+
+
+
+
+
+551.7 (1) If an issue referred to in any of subparagraphs 551.3(1)(g)(i) to (iii) is to be adjudicated in related trials that are to be or are being held in the same province before a court of the same jurisdiction, the Chief Justice of that court or his or her designate may, on application by the prosecutor or the accused or on his or her own motion, determine if it is in the interests of justice, including ensuring consistent decisions, to adjudicate that issue at a joint hearing for some or all of those trials.
+
+
+
+
+
+
+
+
+
+
+
+
+551.7 (1) Lorsqu’une question visée à l’un des sous-alinéas 551.3(1)g)(i) à (iii) doit être tranchée dans le cadre de procès connexes qui se tiennent ou doivent se tenir dans la même province et devant une cour de même juridiction, le juge en chef de cette cour ou le juge qu’il désigne peut, sur demande du poursuivant ou de l’accusé ou de sa propre initiative, décider si cela servirait l’intérêt de la justice, notamment en assurant l’uniformité des décisions, de trancher à une audience conjointe la question soulevée dans le cadre de ces procès ou de certains d’entre eux.
+
+
+
+
+Décision sur la tenue d’une audience conjointe
+
+
+
+
+
+
+
+
+
+
+Considerations
+
+
+
+
+(2) To make the determination, the Chief Justice or his or her designate
+
+
+
+
+
+
+
+
+
+
+
+
+(a) shall take into account, among other considerations, the degree to which the evidence relating to the issue is similar in the related trials; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) may order that a conference between the prosecutor and the accused or counsel for the accused or a hearing be held.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le cas échéant, pour prendre cette décision :
+
+
+
+
+Facteurs à considérer
+
+
+
+
+
+
+a) il tient notamment compte du degré de ressemblance des éléments de preuve concernant la question dans les procès en cause;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) il peut ordonner la tenue d’une conférence entre les parties ou leurs avocats ou la tenue d’une audience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Order for joint hearing
+
+
+
+
+(3) If the Chief Justice or his or her designate determines that it is in the interests of justice to adjudicate the issue at a joint hearing for some or all of the related trials, he or she shall issue an order
+
+
+
+
+
+
+
+
+
+
+
+
+(a) declaring that a joint hearing be held to adjudicate the issue in the related trials that he or she specifies;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) naming the parties who are to appear at the hearing;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) appointing a judge to adjudicate the issue; and
+
+
+
+
+
+
+
+
+
+
+
+
+(d) designating the territorial division in which the hearing is to be held, if the trials are being held in different territorial divisions.
+
+
+
+
+
+
+
+
+
+
+
+(3) S’il décide que cela servirait l’intérêt de la justice de trancher à une audience conjointe la question soulevée dans le cadre de plusieurs des procès en cause, il rend une ordonnance dans laquelle :
+
+
+
+
+Ordonnance pour la tenue d’une audience conjointe
+
+
+
+
+
+
+a) il déclare qu’une audience conjointe doit être tenue pour trancher la question dans le cadre des procès qu’il indique;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) il nomme les parties qui y seront convoquées;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) il nomme un juge qui sera chargé de trancher la question;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) il désigne la circonscription territoriale où se tiendra l’audience, si les procès visés se tiennent dans des circonscriptions territoriales différentes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation — indictable offence
+
+
+
+
+(4) However, the order may only be made in respect of a trial for an indictable offence, other than a trial before a provincial court judge, if the indictment has been preferred.
+
+
+
+
+
+
+
+
+
+
+
+(4) L’ordonnance ne peut toutefois viser un procès pour un acte criminel, à l’exception d’un procès devant un juge de la cour provinciale, que si l’acte d’accusation a été présenté.
+
+
+
+
+Restriction visant les actes criminels
+
+
+
+
+
+
+
+
+
+
+Order in court record and transmission to parties
+
+
+
+
+(5) The Chief Justice or his or her designate shall cause a copy of the order to be included in the court record of each of the trials specified in the order and to be provided to each of the parties named in it.
+
+
+
+
+
+
+
+
+
+
+
+(5) Le juge en chef ou le juge qu’il désigne fait consigner l’ordonnance au dossier de chacun des procès qui y sont visés et en fait transmettre copie aux parties qui y sont nommées.
+
+
+
+
+Communication de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+Transmission of court record
+
+
+
+
+(6) If one of the specified trials is being held in a territorial division other than the one in which the joint hearing will be held, the officer in that territorial division who has custody of the indictment or information and the writings relating to the trial shall, when he or she receives the order, transmit the indictment or information and the writings without delay to the clerk of the court before which the joint hearing is to be held.
+
+
+
+
+
+
+
+
+
+
+
+(6) Si l’un des procès visés par l’ordonnance se tient dans une circonscription territoriale autre que celle où l’audience conjointe se tiendra, le fonctionnaire de cette circonscription territoriale ayant la garde de l’acte d’accusation ou de la dénonciation et des écrits se rapportant au procès est tenu, sur réception de l’ordonnance, de les transmettre immédiatement au greffier du tribunal devant lequel se tiendra l’audience.
+
+
+
+
+Transmission du dossier des procès
+
+
+
+
+
+
+
+
+
+
+Order to appear at joint hearing
+
+
+
+
+(7) The judge appointed under the order shall require the parties who are named in it to appear at the joint hearing.
+
+
+
+
+
+
+
+
+
+
+
+(7) Le juge nommé au titre de l’ordonnance convoque les parties qui y sont nommées à comparaître à l’audience conjointe.
+
+
+
+
+Convocation à l’audience conjointe
+
+
+
+
+
+
+
+
+
+
+Removal of prisoner
+
+
+
+
+(8) The order made under subsection (2) or (3) is sufficient warrant, justification and authority to all sheriffs, keepers of prisons and peace officers for an accused’s removal, disposal and reception in accordance with the terms of the order, and the sheriff may appoint and authorize any peace officer to convey the accused to a prison for the territorial division in which the hearing, as the case may be, is to be held.
+
+
+
+
+
+
+
+
+
+
+
+(8) L’ordonnance rendue au titre des paragraphes (2) ou (3) constitue un mandat, une justification et une autorisation fondant tout shérif, gardien de prison et agent de la paix à transférer et recevoir un accusé et à prendre à son égard les mesures prévues dans l’ordonnance, et le shérif peut préposer et autoriser tout agent de la paix à transférer l’accusé à toute prison desservant la circonscription territoriale où l’audience se tiendra.
+
+
+
+
+Transfert du prisonnier
+
+
+
+
+
+
+
+
+
+
+Powers of judge
+
+
+
+
+(9) The judge appointed under the order may, as a trial judge and for the purpose of adjudicating the issue at the joint hearing, exercise the powers of a trial judge.
+
+
+
+
+
+
+
+
+
+
+
+(9) Pour trancher la question à l’audience conjointe, le juge nommé au titre de l’ordonnance peut, à titre de juge qui préside le procès, exercer tous les pouvoirs dévolus à un tel juge.
+
+
+
+
+Pouvoirs du juge
+
+
+
+
+
+
+
+
+
+
+Adjudication at trial
+
+
+
+
+(10) When the judge adjudicates the issue, he or she is doing so at trial.
+
+
+
+
+
+
+
+
+
+
+
+(10) La question ainsi tranchée en est une tranchée au procès.
+
+
+
+
+Question tranchée au procès
+
+
+
+
+
+
+
+
+
+
+Decision in court records and return of documents
+
+
+
+
+(11) Once the judge has adjudicated the issue, he or she shall cause his or her decision, with reasons, to be included in the court record of each of the related trials in respect of which the joint hearing was held and, in the case of a trial for which an indictment, information or writings were transmitted by an officer under subsection (6), the judge shall have the documents returned to the officer.
+
+
+
+
+
+
+
+
+
+
+
+(11) Une fois la question tranchée, le juge fait consigner sa décision, motifs à l’appui, au dossier de chacun des procès à l’égard desquels l’audience conjointe s’est tenue et, s’agissant d’un procès pour lequel un fonctionnaire a transmis un acte d’accusation, une dénonciation ou des écrits au titre du paragraphe (6), fait renvoyer les documents à ce dernier.
+
+
+
+
+Consignation de la décision aux dossiers et retour des documents
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Section 591 of the Act is amended by adding the following after subsection (4):
+
+
+
+
+
+
+
+
+
+
+5. L’article 591 de la même loi est modifié par adjonction, après le paragraphe (4), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Delayed enforcement
+
+
+
+
+(4.1) The court may make an order under subsection (3) that takes effect either at a specified later date or on the occurrence of a specified event if, taking into account, among other considerations, the need to ensure consistent decisions, it is satisfied that it is in the interests of justice to do so.
+
+
+
+
+
+
+
+
+
+
+
+(4.1) Le tribunal qui rend l’ordonnance visée au paragraphe (3) peut, s’il est convaincu que cela sert l’intérêt de la justice, notamment en assurant l’uniformité des décisions, prévoir qu’elle prend effet à une date ultérieure ou à la survenance d’un évènement qu’il précise.
+
+
+
+
+Prise d’effet différée
+
+
+
+
+
+
+
+
+
+
+Decisions binding on parties
+
+
+
+
+(4.2) Unless the court is satisfied that it would not be in the interests of justice, the decisions relating to the disclosure or admissibility of evidence or the Canadian Charter of Rights and Freedoms that are made before any order issued under subsection (3) takes effect continue to bind the parties if the decisions are made — or could have been made — before the stage at which the evidence on the merits is presented.
+
+
+
+
+
+
+
+
+
+
+
+(4.2) Sauf si le tribunal est convaincu que cela ne sert pas l’intérêt de la justice, les décisions relatives à la communication ou recevabilité de la preuve ou à la Charte canadienne des droits et libertés qui ont été rendues avant la prise d’effet de l’ordonnance visée au paragraphe (3) continuent de lier les parties si elles ont été rendues — ou auraient pu l’être — avant le stade de la présentation de la preuve sur le fond.
+
+
+
+
+Décisions liant les parties
+
+
+
+
+
+
+
+
+
+
+R.S., c. 27 (1st Supp.), s. 123(1)
+
+
+
+
+6. Subsection 601(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 601(1) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 27 (1er suppl.) par. 123(1)
+
+
+
+
+
+
+
+
+
+
+Amending defective indictment or count
+
+
+
+
+601. (1) An objection to an indictment preferred under this Part or to a count in an indictment, for a defect apparent on its face, shall be taken by motion to quash the indictment or count before the accused enters a plea, and, after the accused has entered a plea, only by leave of the court before which the proceedings take place. The court before which an objection is taken under this section may, if it considers it necessary, order the indictment or count to be amended to cure the defect.
+
+
+
+
+
+
+
+
+
+
+601. (1) Une objection à un acte d’accusation présenté en vertu de la présente partie ou à un de ses chefs d’accusation, pour un vice de forme apparent à sa face même, est présentée par requête en annulation de l’acte ou du chef d’accusation, avant que le prévenu ait plaidé, et, par la suite, seulement sur permission du tribunal devant lequel se déroulent les procédures; le tribunal devant lequel une objection est présentée aux termes du présent article peut, si la chose lui paraît nécessaire, ordonner que l’acte ou le chef d’accusation soit modifié afin de remédier au vice indiqué.
+
+
+
+Modification d’un acte ou d’un chef d’accusation défectueux
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) Section 631 of the Act is amended by adding the following after subsection (2.1):
+
+
+
+
+
+
+
+
+
+
+7. (1) L’article 631 de la même loi est modifié par adjonction, après le paragraphe (2.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Additional jurors
+
+
+
+
+(2.2) If the judge considers it advisable in the interests of justice, he or she may order that 13 or 14 jurors, instead of 12, be sworn in accordance with this Part before the clerk of the court draws out the cards under subsection (3) or (3.1).
+
+
+
+
+
+
+
+
+
+
+
+(2.2) S’il estime indiqué, dans l’intérêt de la justice, que treize ou quatorze jurés plutôt que douze soient assermentés en conformité avec la présente partie, le juge l’ordonne avant que le greffier ne procède au tirage en application des paragraphes (3) ou (3.1).
+
+
+
+
+Jurés supplémentaires
+
+
+
+
+
+
+
+
+
+
+2001, c. 32, s. 82(4)
+
+
+
+(2) Subsections 631(3) and (3.1) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 631(3) et (3.1) de la même loi sont remplacés par ce qui suit :
+
+
+
+2001, ch. 32, par. 82(4)
+
+
+
+
+
+
+
+
+
+
+Cards to be drawn by clerk of court
+
+
+
+(3) If the array of jurors is not challenged or the array of jurors is challenged but the judge does not direct a new panel to be returned, the clerk of the court shall, in open court, draw out one after another the cards referred to in subsection (1), call out the number on each card as it is drawn and confirm with the person who responds that he or she is the person whose name appears on the card drawn, until the number of persons who have answered is, in the opinion of the judge, sufficient to provide a full jury and any alternate jurors ordered by the judge after allowing for orders to excuse, challenges and directions to stand by.
+
+
+
+
+
+
+
+
+
+(3) Si le tableau des jurés n’est pas récusé, ou s’il l’est mais que le juge n’ordonne pas la présentation d’une nouvelle liste, le greffier du tribunal tire, en pleine audience, l’une après l’autre les cartes mentionnées au paragraphe (1), appelle au fur et à mesure le numéro inscrit sur chacune d’elles et confirme auprès de la personne répondant à l’appel qu’elle est bien celle dont le nom figure sur la carte, jusqu’à ce que le nombre de personnes ayant répondu soit, de l’avis du juge, suffisant pour constituer un jury complet et disposer du nombre de jurés suppléants éventuellement ordonné par le juge, après qu’il a été pourvu aux dispenses, aux récusations et aux mises à l’écart.
+
+
+
+Tirage par le greffier du tribunal
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(3.1) The court, or a judge of the court, before which the jury trial is to be held may, if the court or judge is satisfied that it is necessary for the proper administration of justice, order the clerk of the court to call out the name and the number on each card.
+
+
+
+
+
+
+
+
+
+(3.1) Le tribunal ou le juge du tribunal devant qui doit se tenir le procès avec jury peut, s’il estime que cela servirait la bonne administration de la justice, ordonner que le nom inscrit sur la carte soit également appelé par le greffier.
+
+
+
+Procédure exceptionnelle
+
+
+
+
+
+
+
+
+
+
+2001, c. 32, s. 82(4)
+
+
+
+(3) Subsection 631(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 631(5) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 32, par. 82(4)
+
+
+
+
+
+
+
+
+
+
+Drawing additional cards if necessary
+
+
+
+(5) If the number of persons who answer under subsection (3) or (3.1) is not sufficient to provide a full jury and the number of alternate jurors ordered by the judge, the clerk of the court shall proceed in accordance with subsections (3), (3.1) and (4) until 12 jurors — or 13 or 14 jurors, as the case may be, if the judge makes an order under subsection (2.2) — and any alternate jurors are sworn.
+
+
+
+
+
+
+
+
+
+(5) Lorsque le nombre de ceux qui ont répondu à l’appel en conformité avec les paragraphes (3) ou (3.1) ne suffit pas pour constituer un jury complet et disposer du nombre de jurés suppléants éventuellement ordonné par le juge, le greffier du tribunal procède en conformité avec les paragraphes (3), (3.1) et (4) jusqu’à ce que douze jurés — ou, si le juge rend l’ordonnance visée au paragraphe (2.2), treize ou quatorze jurés, selon le cas, — et les jurés suppléants, s’il en est, soient assermentés.
+
+
+
+Tirage d’autres cartes au besoin
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 20
+
+
+
+(4) Subsection 631(6) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 631(6) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 32, art. 20
+
+
+
+
+
+
+
+
+
+
+Ban on publication, limitation to access or use of information
+
+
+
+(6) On application by the prosecutor or on its own motion, the court or judge before which a jury trial is to be held may, if the court or judge is satisfied that such an order is necessary for the proper administration of justice, make an order
+
+
+
+
+
+
+
+
+
+
+(a) directing that the identity of a juror or any information that could disclose their identity shall not be published in any document or broadcast or transmitted in any way; or
+
+
+
+
+
+
+
+
+
+
+(b) limiting access to or the use of that information.
+
+
+
+
+
+
+
+
+
+(6) Sur demande du poursuivant ou de sa propre initiative, le tribunal ou le juge du tribunal devant qui doit se tenir le procès avec jury peut, s’il est convaincu que la bonne administration de la justice l’exige :
+
+
+
+Demande de non-publication ou de restriction à l’accès ou l’usage de renseignements
+
+
+
+
+
+a) interdire de publier ou de diffuser de quelque façon que ce soit l’identité d’un juré ou des renseignements qui permettraient de la découvrir;
+
+
+
+
+
+
+
+
+
+
+
+b) limiter l’accès à ces renseignements ou l’usage qui peut en être fait.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Section 634 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+
+8. L’article 634 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+If 13 or 14 jurors
+
+
+
+
+(2.01) If the judge orders under subsection 631(2.2) that 13 or 14 jurors be sworn in accordance with this Part, the total number of peremptory challenges that the prosecutor and the accused are each entitled to is increased by one in the case of 13 jurors or two in the case of 14 jurors.
+
+
+
+
+
+
+
+
+
+
+
+(2.01) Si le juge ordonne, en application du paragraphe 631(2.2), l’assermentation de treize ou quatorze jurés en conformité avec la présente partie, le nombre total de récusations péremptoires, d’une part pour la poursuite et d’autre part pour la défense, est augmenté de un ou deux, selon le cas.
+
+
+
+
+Treize ou quatorze jurés
+
+
+
+
+
+
+
+
+
+
+2008, c. 18, s. 26
+
+
+
+
+9. Subsection 640(2.2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. Le paragraphe 640(2.2) de la même loi est remplacé par ce qui suit :
+
+
+
+2008, ch. 18, art. 26
+
+
+
+
+
+
+
+
+
+
+Exclusion order
+
+
+
+(2.2) If an order is made under subsection (2.1), two unsworn jurors, who are then exempt from the order, or two persons present who are appointed by the court for that purpose, shall be sworn to determine whether the ground of challenge is true. Those persons so appointed shall exercise their duties until 12 jurors — or 13 or 14 jurors, as the case may be, if the judge makes an order under subsection 631(2.2) — and any alternate jurors are sworn.
+
+
+
+
+
+
+
+
+
+(2.2) Dans le cas où une ordonnance a été rendue en vertu du paragraphe (2.1), deux jurés non assermentés, dès lors soustraits à l’ordonnance, ou deux personnes présentes que le tribunal peut nommer à cette fin sont assermentés pour vérifier si le motif de récusation est fondé. Les vérificateurs ainsi nommés conservent leurs fonctions jusqu’à ce que douze jurés — ou, si le juge rend l’ordonnance visée au paragraphe 631(2.2), treize ou quatorze jurés, selon le cas — et les jurés suppléants, s’il en est, soient assermentés.
+
+
+
+Ordonnance d’exclusion
+
+
+
+
+
+
+
+
+
+
+2001, c. 32, s. 41; 2002, c. 13, s. 55
+
+
+
+
+10. Section 641 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. L’article 641 de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 32, art. 41; 2002, ch. 13, art. 55
+
+
+
+
+
+
+
+
+
+
+Calling persons who have stood by
+
+
+
+
+641. (1) If a full jury and any alternate jurors have not been sworn and no cards remain to be drawn, the persons who have been directed to stand by shall be called again in the order in which their cards were drawn and shall be sworn, unless excused by the judge or challenged by the accused or the prosecutor.
+
+
+
+
+
+
+
+
+
+
+641. (1) Si les jurés formant un jury complet et les jurés suppléants, s’il en est, n’ont pas tous été assermentés et qu’il ne reste plus de cartes à tirer, les personnes à qui il a été ordonné de se tenir à l’écart sont de nouveau appelées suivant l’ordre dans lequel leurs cartes ont été tirées; ces personnes sont assermentées, à moins qu’elles ne soient dispensées par le juge ou récusées par le prévenu ou le poursuivant.
+
+
+
+Appel des personnes mises à l’écart
+
+
+
+
+
+
+
+
+
+
+Other persons becoming available
+
+
+
+(2) If, before a person is sworn as a juror under subsection (1), other persons in the panel become available, the prosecutor may require the cards of those persons to be put into and drawn from the box in accordance with section 631, and those persons shall be challenged, directed to stand by, excused or sworn, as the case may be, before the persons who were originally directed to stand by are called again.
+
+
+
+
+
+
+
+
+
+(2) Si, avant qu’une personne ne soit assermentée en application du paragraphe (1), d’autres personnes figurant sur la liste deviennent disponibles, le poursuivant peut demander que leurs cartes soient déposées dans la boîte et soient tirées conformément à l’article 631; ces personnes sont dispensées, récusées, mises à l’écart ou assermentées, selon le cas, avant que celles mises à l’écart en premier lieu ne soient appelées de nouveau.
+
+
+
+Autres personnes devenant disponibles
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 57
+
+
+
+
+11. Subsection 642.1(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. Le paragraphe 642.1(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, art. 57
+
+
+
+
+
+
+
+
+
+
+Substitution of alternate jurors
+
+
+
+
+642.1 (1) Alternate jurors shall attend at the commencement of the presentation of the evidence on the merits and, if there is not a full jury present, shall replace any absent juror, in the order in which their cards were drawn under subsection 631(3).
+
+
+
+
+
+
+
+
+
+
+642.1 (1) Les jurés suppléants sont tenus de se présenter le jour où débute la présentation de la preuve sur le fond et, si le jury n’est pas complet, ils prennent la place des jurés absents, selon l’ordre dans lequel leur carte a été tirée en application du paragraphe 631(3).
+
+
+
+Jurés suppléants
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 58
+
+
+
+
+12. Subsection 643(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. Le paragraphe 643(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, art. 58
+
+
+
+
+
+
+
+
+
+
+Who shall be the jury
+
+
+
+
+643. (1) The 12, 13 or 14 jurors who are sworn in accordance with this Part and present at the commencement of the presentation of the evidence on the merits shall be the jury to hear the evidence on the merits.
+
+
+
+
+
+
+
+
+
+
+643. (1) Les douze, treize ou quatorze jurés qui sont assermentés en conformité avec la présente partie et qui sont présents au début de la présentation de la preuve sur le fond constituent le jury qui entend cette preuve.
+
+
+
+Qui forme le jury
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. The Act is amended by adding the following after section 652:
+
+
+
+
+
+
+
+
+
+
+13. La même loi est modifiée par adjonction, après l’article 652, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Trying of issues of indictment by jury
+
+
+
+
+
+652.1 (1) After the charge to the jury, the jury shall retire to try the issues of the indictment.
+
+
+
+
+
+
+
+
+
+
+
+
+652.1 (1) Le jury à qui le juge a fait son exposé se retire pour juger les points de l’acte d’accusation.
+
+
+
+
+Retrait du jury pour juger les points de l’acte d’accusation
+
+
+
+
+
+
+
+
+
+
+Reduction of number of jurors to 12
+
+
+
+
+(2) However, if there are more than 12 jurors remaining, the judge shall identify the 12 jurors who are to retire to consider the verdict by having the number of each juror written on a card that is of equal size, by causing the cards to be placed together in a box that is to be thoroughly shaken together and by drawing one card if 13 jurors remain or two cards if 14 jurors remain. The judge shall then discharge any juror whose number is drawn.
+
+
+
+
+
+
+
+
+
+
+
+(2) Toutefois, si le jury est composé de plus de douze jurés, le juge détermine les douze jurés devant se retirer pour délibérer en faisant tirer au sort une ou deux cartes, selon que le jury est composé de treize ou quatorze jurés, parmi l’ensemble des cartes de format identique portant chacune le numéro de chaque juré, et bien mélangées dans une boîte. Il libère tout juré qui est choisi.
+
+
+
+
+Réduction du nombre de jurés à douze
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. The Act is amended by adding the following after section 653:
+
+
+
+
+
+
+
+
+
+
+14. La même loi est modifiée par adjonction, après l’article 653, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Mistrial — rulings binding at new trial
+
+
+
+
+
+653.1 In the case of a mistrial, unless the court is satisfied that it would not be in the interests of justice, rulings relating to the disclosure or admissibility of evidence or the Canadian Charter of Rights and Freedoms that were made during the trial are binding on the parties in any new trial if the rulings are made — or could have been made — before the stage at which the evidence on the merits is presented.
+
+
+
+
+
+
+
+
+
+
+
+
+653.1 En cas d’avortement de procès, sauf si le tribunal est convaincu que cela ne sert pas l’intérêt de la justice, les décisions relatives à la communication ou recevabilité de la preuve ou à la Charte canadienne des droits et libertés qui ont été rendues dans le cadre de ce procès lient les parties dans le cadre de tout nouveau procès si elles ont été rendues — ou auraient pu l’être — avant le stade de la présentation de la preuve sur le fond.
+
+
+
+
+Avortement de procès : décisions liant les parties
+
+
+
+
+
+
+
+
+
+
+1994, c. 44, s. 65
+
+
+
+
+15. Subsections 669.2(3) and (4) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. Les paragraphes 669.2(3) et (4) de la même loi sont remplacés par ce qui suit :
+
+
+
+1994, ch. 44, art. 65
+
+
+
+
+
+
+
+
+
+
+If no adjudication made
+
+
+
+(3) Subject to subsections (4) and (5), if the trial was commenced but no adjudication was made or verdict rendered, the judge, provincial court judge, justice or other person before whom the proceedings are continued shall, without further election by an accused, commence the trial again as if no evidence on the merits had been taken.
+
+
+
+
+
+
+
+
+
+(3) Sous réserve des paragraphes (4) et (5), lorsque le procès a débuté et qu’aucune décision ni aucun verdict n’a été rendu, le juge, le juge de la cour provinciale, le juge de paix ou l’autre personne devant qui les procédures se poursuivent doit, sans nouveau choix de la part de l’accusé, recommencer le procès comme si aucune preuve sur le fond n’avait été présentée.
+
+
+
+Lorsqu’aucune décision n’a été rendue
+
+
+
+
+
+
+
+
+
+
+If no adjudication is made — jury trials
+
+
+
+(4) If a trial that is before a court composed of a judge and a jury was commenced but no adjudication was made or verdict rendered, the judge before whom the proceedings are continued may, without further election by an accused, continue the trial or commence the trial again as if no evidence on the merits had been taken.
+
+
+
+
+
+
+
+
+
+(4) Lorsque le procès a débuté devant un tribunal composé d’un juge et d’un jury et qu’aucune décision ni aucun verdict n’a été rendu, le juge devant qui les procédures se poursuivent peut, sans nouveau choix de la part de l’accusé, continuer les procédures ou recommencer le procès comme si aucune preuve sur le fond n’avait été présentée.
+
+
+
+Pouvoir du juge
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 7
+
+
+
+
+16. Section 795 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+16. L’article 795 de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 7
+
+
+
+
+
+
+
+
+
+
+Application of Parts XVI, XVIII, XVIII.1, XX and XX.1
+
+
+
+
+795. The provisions of Parts XVI and XVIII with respect to compelling the appearance of an accused before a justice, and the provisions of Parts XVIII.1, XX and XX.1, in so far as they are not inconsistent with this Part, apply, with any necessary modifications, to proceedings under this Part.
+
+
+
+
+
+
+
+
+
+
+795. Les dispositions des parties XVI et XVIII concernant les moyens de contraindre un prévenu à comparaître devant un juge de paix, et celles des parties XVIII.1, XX et XX.1, dans la mesure où elles ne sont pas incompatibles avec la présente partie, s’appliquent, avec les adaptations nécessaires, aux procédures prévues par la présente partie.
+
+
+
+Application des parties XVI, XVIII, XVIII.1, XX et XX.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+17. (1) Sections 1 to 6, subsections 7(2) and (4) and sections 10, 11 and 14 to 16 come into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+17. (1) Les articles 1 à 6, les paragraphes 7(2) et (4) et les articles 10, 11 et 14 à 16 entrent en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+(2) Subsections 7(1) and (3) and sections 8, 9, 12 and 13 come into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 7(1) et (3) et les articles 8, 9, 12 et 13 entrent en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Criminal Code
+
+Clause 2: (1) New.
+
+
+
+Code criminel
+
+Article 2 : (1) Nouveau.
+
+
+
+
+(2) Relevant portion of subsection 523(2):
+(2) Notwithstanding subsections (1) and (1.1),
+
+
+
+(2) Texte du passage visé du paragraphe 523(2) :
+(2) Nonobstant les paragraphes (1) et (1.1) :
+
+
+
+
+
+Clause 3: Existing text of section 536.3:
+
+536.3 If a request for a preliminary inquiry is made, the prosecutor or, if the request was made by the accused, counsel for the accused shall, within the period fixed by rules of court made under section 482 or 482.1 or, if there are no such rules, by the justice, provide the court and the other party with a statement that identifies
+(a) the issues on which the requesting party wants evidence to be given at the inquiry; and
+(b) the witnesses that the requesting party wants to hear at the inquiry.
+
+
+
+
+Article 3 : Texte de l’article 536.3 :
+
+536.3 En cas de demande d’enquête préliminaire, le poursuivant ou, si la demande a été faite par le prévenu, l’avocat de ce dernier doit, dans le délai prévu par les règles établies en vertu des articles 482 ou 482.1, ou, en l’absence de règles, dans le délai fixé par le juge de paix, fournir au tribunal et à l’autre partie une déclaration énonçant :
+
+a) les points sur lesquels la partie faisant la demande veut présenter des témoignages dans le cadre de l’enquête;
+
+b) le nom des témoins que la partie faisant la demande veut faire entendre à l’enquête.
+
+
+
+
+
+Clause 4: New.
+
+
+
+
+Article 4 : Nouveau.
+
+
+
+
+
+Clause 5: New.
+
+
+
+
+Article 5 : Nouveau.
+
+
+
+
+
+Clause 6: Existing text of subsection 601(1):
+
+601. (1) An objection to an indictment or to a count in an indictment for a defect apparent on the face thereof shall be taken by motion to quash the indictment or count before the accused has pleaded, and thereafter only by leave of the court before which the proceedings take place, and the court before which an objection is taken under this section may, if it considers it necessary, order the indictment or count to be amended to cure the defect.
+
+
+
+
+Article 6 : Texte du paragraphe 601(1) :
+
+601. (1) Une objection à un acte d’accusation ou à un de ses chefs d’accusation, pour un vice de forme apparent à sa face même, est présentée par requête pour faire annuler l’acte ou le chef d’accusation, avant que le prévenu ait plaidé, et, par la suite, seulement sur permission du tribunal devant lequel se déroulent les procédures, et un tribunal devant lequel une objection est présentée aux termes du présent article peut, si la chose lui paraît nécessaire, ordonner que l’acte ou le chef d’accusation soit modifié afin de remédier au vice indiqué.
+
+
+
+
+
+Clause 7: (1) New.
+
+
+
+
+Article 7 : (1) Nouveau.
+
+
+
+
+(2) Existing text of subsections 631(3) and (3.1):
+(3) The clerk of the court shall, in open court, draw out the cards referred to in subsection (1), one after another, and shall call out the name and number on each card as it is drawn, until the number of persons who have answered is, in the opinion of the judge, sufficient to provide a full jury and any alternate jurors ordered by the judge after allowing for orders to excuse, challenges and directions to stand by where
+(a) the array of jurors is not challenged; or
+(b) the array of jurors is challenged but the judge does not direct a new panel to be returned.
+(3.1) On application by the prosecutor or on its own motion, the court, or a judge of the court, before which the jury trial is to be held, if it is satisfied that it is in the best interest of the administration of justice to do so, including in order to protect the privacy or safety of the members of the jury and alternate jurors, may order that, for the purposes of subsection (3), the clerk of the court shall only call out the number on each card.
+
+
+
+(2) Texte des paragraphes 631(3) et (3.1) :
+(3) Si le tableau des jurés n’est pas récusé, ou s’il l’est mais que le juge n’ordonne pas la présentation d’une nouvelle liste, le greffier du tribunal tire, en pleine audience, l’une après l’autre les cartes mentionnées au paragraphe (1) et appelle les nom et numéro inscrits sur chaque carte au fur et à mesure que les cartes sont tirées, jusqu’à ce que le nombre de personnes ayant répondu soit, de l’avis du juge, suffisant pour constituer un jury complet et pourvoir les postes de jurés suppléants le cas échéant, après qu’il a été pourvu aux dispenses, aux récusations et aux mises à l’écart.
+(3.1) Sur demande du poursuivant ou de sa propre initiative, le tribunal ou le juge du tribunal devant qui doit se tenir le procès avec jury peut, s’il estime que cela est dans l’intérêt de la bonne administration de la justice, et notamment en vue d’assurer la sécurité des jurés ou la confidentialité de leur identité, ordonner que seul le numéro inscrit sur la carte soit appelé par le greffier dans le cadre du paragraphe (3).
+
+
+
+
+(3) and (4) Existing text of subsections 631(5) and (6):
+(5) If the number of persons who answer under subsection (3) or (3.1) is not sufficient to provide a full jury and the number of alternate jurors ordered by the judge, the clerk of the court shall proceed in accordance with subsections (3), (3.1) and (4) until twelve jurors and any alternate jurors are sworn.
+(6) On application by the prosecutor or on its own motion, the court or judge before which a jury trial is to be held may, if an order under subsection (3.1) has been made, make an order directing that the identity of a juror or any information that could disclose their identity shall not be published in any document or broadcast or transmitted in any way if the court or judge is satisfied that such an order is necessary for the proper administration of justice.
+
+
+
+(3) et (4) Texte des paragraphes 631(5) et (6) :
+(5) Lorsque le nombre de ceux qui ont répondu à l’appel en conformité avec les paragraphes (3) ou (3.1) ne suffit pas pour constituer un jury complet et pourvoir les postes de jurés suppléants le cas échéant, le greffier du tribunal procède en conformité avec les paragraphes (3), (3.1) et (4) jusqu’à ce que douze jurés et les jurés suppléants soient assermentés.
+(6) Sur demande du poursuivant ou de sa propre initiative, le tribunal ou le juge du tribunal devant qui doit se tenir le procès avec jury peut, s’il a rendu une ordonnance au titre du paragraphe (3.1), interdire de publier ou de diffuser de quelque façon que ce soit l’identité des jurés ou des renseignements qui permettraient de la découvrir, s’il est convaincu que la bonne administration de la justice l’exige.
+
+
+
+
+
+Clause 8: New.
+
+
+
+
+Article 8 : Nouveau.
+
+
+
+
+
+Clause 9: Existing text of subsection 640(2.2):
+(2.2) If an order is made under subsection (2.1), two unsworn jurors, who are then exempt from the order, or two persons present who are appointed by the court for that purpose, shall be sworn to determine whether the ground of challenge is true. Those persons so appointed shall exercise their duties until twelve jurors and any alternate jurors are sworn.
+
+
+
+
+Article 9 : Texte du paragraphe 640(2.2) :
+(2.2) Dans le cas où une ordonnance a été rendue en vertu du paragraphe (2.1), deux jurés non assermentés, dès lors soustraits à l’ordonnance, ou deux personnes présentes que le tribunal peut nommer à cette fin sont assermentés pour vérifier si le motif de récusation est fondé. Les vérificateurs ainsi nommés conservent leurs fonctions jusqu’à ce que douze jurés et les jurés suppléants soient assermentés.
+
+
+
+
+
+Clause 10: Existing text of section 641:
+
+641. (1) If a full jury and any alternate jurors have not been sworn and no names remain to be called, the names of those who have been directed to stand by shall be called again in the order in which their names were drawn and the jurors necessary to make a full jury and any alternate jurors shall be sworn, unless excused by the judge or challenged by the accused or the prosecutor.
+(2) Where, before a juror is sworn pursuant to subsection (1), other jurors in the panel become available, the prosecutor may require the cards of those jurors to be put into and drawn from the box in accordance with section 631, and those jurors shall be challenged, directed to stand by, excused or sworn, as the case may be, before the jurors who were originally directed to stand by are called again.
+
+
+
+
+Article 10 : Texte de l’article 641 :
+
+641. (1) Lorsque les jurés formant un jury complet et tous les jurés suppléants, le cas échéant, n’ont pas été assermentés et qu’il ne reste plus de noms à appeler, les noms de ceux à qui il a été ordonné de se tenir à l’écart sont de nouveau appelés suivant l’ordre dans lequel ils ont été tirés; ces jurés sont assermentés, à moins qu’ils ne soient dispensés par le juge ou récusés par le prévenu ou le poursuivant.
+(2) Si, avant qu’un juré soit assermenté selon le paragraphe (1), d’autres jurés figurant sur la liste deviennent disponibles, le poursuivant peut demander que leurs cartes soient déposées dans la boîte et en soient tirées conformément à l’article 631; ils sont dispensés, récusés, mis à l’écart ou assermentés avant que les noms ou numéros des jurés mis à l’écart en premier lieu soient appelés de nouveau.
+
+
+
+
+
+Clause 11: Existing text of subsection 642.1(1):
+
+642.1 (1) Alternate jurors shall attend at the commencement of the trial and, if there is not a full jury present, alternate jurors shall be substituted, in the order in which their names were drawn under subsection 631(3), until there are twelve jurors.
+
+
+
+
+Article 11 : Texte du paragraphe 642.1(1) :
+
+642.1 (1) Les jurés suppléants sont tenus de se présenter le jour du début du procès. Le cas échéant, ils prennent la place des jurés absents, selon l’ordre dans lequel leur nom a été tiré en application du paragraphe 631(3).
+
+
+
+
+
+Clause 12: Existing text of subsection 643(1):
+
+643. (1) The twelve jurors who are sworn in accordance with this Part and present at the commencement of the trial shall be the jury to try the issues of the indictment.
+
+
+
+
+Article 12 : Texte du paragraphe 643(1) :
+
+643. (1) Les douze jurés qui sont assermentés en conformité avec la présente partie et qui sont présents au début du procès constituent le jury qui juge les points de l’acte d’accusation.
+
+
+
+
+
+Clause 13: New.
+
+
+
+
+Article 13 : Nouveau.
+
+
+
+
+
+Clause 14: New.
+
+
+
+
+Article 14 : Nouveau.
+
+
+
+
+
+Clause 15: Existing text of subsections 669.2(3) and (4):
+(3) Subject to subsections (4) and (5), where the trial was commenced but no adjudication was made or verdict rendered, the judge, provincial court judge, justice or other person before whom the proceedings are continued shall, without further election by an accused, commence the trial again as if no evidence had been taken.
+(4) Where a trial that is before a court composed of a judge and a jury was commenced but no adjudication was made or verdict rendered, the judge before whom the proceedings are continued may, without further election by an accused,
+(a) continue the trial; or
+(b) commence the trial again as if no evidence had been taken.
+
+
+
+
+Article 15 : Texte des paragraphes 669.2(3) et (4) :
+(3) Sous réserve des paragraphes (4) et (5), lorsque le procès a débuté et qu’aucune décision ni aucun verdict n’a été rendu, le juge, le juge de la cour provinciale, le juge de paix ou l’autre personne devant qui les procédures se poursuivent doit, sans nouveau choix de la part de l’accusé, recommencer le procès comme si aucune preuve n’avait été présentée.
+(4) Lorsque le procès a débuté devant un tribunal composé d’un juge et d’un jury et qu’aucune décision ni aucun verdict n’a été rendu, le juge devant qui les procédures se poursuivent peut, sans nouveau choix de la part de l’accusé, continuer les procédures ou recommencer le procès comme si aucune preuve n’avait été présentée.
+
+
+
+
+
+Clause 16: Existing text of section 795:
+
+795. The provisions of Parts XVI and XVIII with respect to compelling the appearance of an accused before a justice, and the provisions of Parts XX and XX.1, in so far as they are not inconsistent with this Part, apply, with such modifications as the circumstances require, to proceedings under this Part.
+
+
+
+
+Article 16 : Texte de l’article 795 :
+
+795. Les dispositions des parties XVI et XVIII concernant les moyens de contraindre un prévenu à comparaître devant un juge de paix, et celles de la partie XX et XX.1, dans la mesure où elles ne sont pas incompatibles avec la présente partie, s’appliquent, avec les adaptations nécessaires, aux procédures prévues par la présente partie.
+
+
+
+
+
+

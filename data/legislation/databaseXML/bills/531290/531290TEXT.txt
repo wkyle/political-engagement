@@ -1,0 +1,1022 @@
+
+
+
+
+
+
+2nd Session, 37th Parliament,
+51 Elizabeth II, 2002 
+
+
+
+
+
+
+
+
+
+
+House of Commons of Canada
+
+
+
+
+
+
+
+
+
+
+BILL C-311
+
+
+
+
+
+
+
+
+
+An Act to protect the privacy of patients and 
+the confidentiality of their health 
+information
+
+
+
+
+
+
+
+Preamble
+
+
+Whereas the Parliament of Canada 
+recognizes that the right of privacy is 
+fundamental in a free and democratic society 
+and includes a patient's right to determine 
+with whom to share their health information 
+and to know of and exercise control over 
+collection of health information and the use 
+and disclosure of and access to such 
+information as has been collected;
+
+
+
+
+
+
+
+
+
+
+ And Whereas the Parliament of Canada 
+acknowledges that the principles and rules for 
+health information must recognize the highly 
+sensitive nature of health information, the 
+circumstances of vulnerability and trust under 
+which it is confided or collected and the 
+fiduciary duties of health professionals in 
+relation to this information;
+
+
+
+
+
+
+
+
+
+
+Now, Therefore, Her Majesty, by and with the 
+advice and consent of the Senate and House of 
+Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+Short title
+
+
+1. This Act may be cited as the Health 
+Information Privacy Act.
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+Definitions
+
+
+2. The definitions in this section apply in 
+this Act.
+
+
+
+
+
+
+
+``access''
+« accès »
+
+
+``access'' means the ability to acquire or 
+possess health information in any 
+information format.
+
+
+
+
+
+
+
+``accountable'
+' or 
+``accountabilit
+y''
+« responsabili
+té »
+
+
+``accountable'' means having clearly defined 
+and understood responsibilities in 
+connection with health information, 
+agreeing to accept those responsibilities 
+and being subject to appropriate sanctions 
+for failing to fulfil accepted 
+responsibilities, and ``accountability'' has 
+an equivalent meaning.
+
+
+
+
+
+
+
+``authorized''
+« autorisé »
+
+
+``authorized'' means that which occurs with 
+patient consent or within the provisions of 
+this Act and applies to purposes, collection, 
+use or disclosure of, or access to, health 
+information.
+
+
+
+
+
+
+
+``authorized 
+user''
+« utilisateur 
+autorisé »
+
+
+``authorized user'' means an individual 
+permitted to collect, use, disclose or access 
+health information under the provisions of 
+this Act, who is properly instructed on the 
+applicable limits and responsibilities, and 
+who can be held accountable for 
+compliance with this Act.
+
+
+
+
+
+
+
+``collecting''
+« collecte » ou 
+« recueillir »
+
+
+``collecting'' means accessing, receiving, 
+compiling, gathering, acquiring or 
+obtaining health information on a patient 
+from any source and by any means, directly 
+or through an intermediary.
+
+
+
+
+
+
+
+``Commission
+er''
+« Commissair
+e »
+
+
+``Commissioner'' means the Privacy 
+Commissioner appointed under section 53 
+of the Privacy Act.
+
+
+
+
+
+
+
+``confide''
+« confier »
+
+
+``confide'' means to give information 
+regarding a patient within a therapeutic 
+context.
+
+
+
+
+
+
+
+``confidential'
+'
+« confidentiali
+té »
+
+
+``confidential'', in respect of health 
+information, means to be kept secret and not 
+disclosed or made accessible to others 
+unless the patient to whom it relates 
+consents.
+
+
+
+
+
+
+
+``consent''
+« consenteme
+nt »
+
+
+``consent'' means the patient's informed and 
+voluntary agreement to confide or permit 
+access to or the collection, use or disclosure 
+of the patient's health information for a 
+specified purpose.
+
+
+
+
+
+
+
+``Court''
+« Cour »
+
+
+``Court'' means the Federal Court of Canada.
+
+
+
+
+
+
+
+``Crown''
+« Couronne »
+
+
+``Crown'' means Her Majesty in right of 
+Canada.
+
+
+
+
+
+
+
+``disclosure''
+« divulgation 
+»
+
+
+``disclosure'' means the provision of health 
+information to a third party for any reason, 
+or making health information available for 
+a third party to collect, and includes the 
+transfer or migration of health information 
+from one provider or user to another.
+
+
+
+
+
+
+
+``duty of 
+confidentiality
+''
+« obligation 
+de 
+confidentialité
+ »
+
+
+``duty of confidentiality'' means the duty of a 
+physician or other health professional in a 
+fiduciary relationship with a patient to 
+ensure that health information respecting 
+the patient is kept secret and not disclosed 
+or made accessible to others unless 
+authorized by consent given by the patient.
+
+
+
+
+
+
+
+``emergency 
+situation''
+« situation 
+d'urgence »
+
+
+``emergency situation'' means an instance 
+when health care must be provided to 
+preserve life or prevent severe harm to a 
+patient who is unable to be cognizant of the 
+context and whose surrogate is not 
+immediately available to make decisions on 
+the patient's behalf.
+
+
+
+
+
+
+
+``express''
+« explicite »
+
+
+``express'', with respect to consent, means 
+given explicitly, either orally or in writing, 
+unequivocally and not inferred.
+
+
+
+
+
+
+
+``federal 
+work, 
+undertaking 
+or business''
+« entreprise 
+fédérale »
+
+
+``federal work, undertaking or business'' 
+means any work, undertaking or business 
+that is within the legislative authority of 
+Parliament.
+
+
+
+
+
+
+
+``fiduciary 
+duty''
+« obligation 
+de fiduciaire »
+
+
+``fiduciary duty'' means the obligation to act 
+with the utmost good faith for the benefit of 
+another.
+
+
+
+
+
+
+
+``health 
+information''
+« renseigneme
+nts personnels 
+sur la santé »
+
+
+``health information'' means any information 
+about a patient that is confided or collected 
+in the therapeutic context, including 
+information created or generated from it, 
+information that is not directly or indirectly 
+linked to the provision of health care and 
+any sample taken from the patient's body, 
+and includes information in any format and 
+information linked to other information that 
+is not related to the health of a patient.
+
+
+
+
+
+
+
+``health 
+information 
+custodian''
+« dépositaire 
+de 
+renseignement
+s personnels 
+sur la santé »
+
+
+``health information custodian'' means a 
+person who has custody, care or control of 
+health information.
+
+
+
+
+
+
+
+``health 
+professional''
+« professionne
+l de la santé »
+
+
+``health professional'' means a person who 
+has a fiduciary duty to patients and who is 
+registered and entitled under the laws of a 
+province to practise or provide health care 
+in that province.
+
+
+
+
+
+
+
+``implied''
+« implicite »
+
+
+``implied'', with respect to consent, means an 
+agreement that may reasonably be inferred 
+from the action or inaction of a patient 
+where there is good reason to believe that 
+the patient is aware of the agreement and 
+would give express consent were it sought.
+
+
+
+
+
+
+
+``information 
+format''
+« support »
+
+
+``information format'' means any form 
+containing or recording health information, 
+including:
+
+
+
+
+
+
+
+
+
+
+(a) a form that identifies or could identify 
+a specific patient, either directly or 
+indirectly;
+
+
+
+
+
+
+
+
+
+(b) a form that removes the link between 
+the patient and information about the 
+patient and which could, either directly 
+or indirectly, be manipulated to 
+reconnect the link;
+
+
+
+
+
+
+
+
+
+(c) a form that removes the link between 
+the patient and information about the 
+patient with the intent of preventing any 
+reconnecting of the link in accordance 
+with recognized standards; or
+
+
+
+
+
+
+
+
+
+(d) a composite form produced when 
+health information is linked to any 
+information about the patient from 
+another source, whether or not it is also 
+health information.
+
+
+
+
+
+
+``integrity''
+« intégrité »
+
+
+``integrity'', in respect of health information, 
+means the preservation of its content 
+throughout storage, use, transfer and 
+retrieval, sufficient to give confidence that 
+the information has not been tampered with 
+or modified other than as authorized.
+
+
+
+
+
+
+
+``knowledge''
+« connaissanc
+e »
+
+
+``knowledge'' means the patient's awareness 
+of what can or must happen with the health 
+information the patient confides or permits 
+to be collected.
+
+
+
+
+
+
+
+``linkage''
+« lien »
+
+
+``linkage'' means the joining together of 
+health information with information from 
+any other source, in whatever form.
+
+
+
+
+
+
+
+``need-to-kno
+w''
+« en cas de 
+nécessité »
+
+
+``need-to-know'' means a situation where the 
+transfer of information to a provider is 
+necessary in order to fulfil a therapeutic 
+purpose, considering what a reasonable 
+person in similar circumstances to the 
+patient would expect, or otherwise 
+authorize by consent, and is conditional 
+upon proper clarification of unclear or 
+ambiguous expectations to the provider 
+who is to receive the information.
+
+
+
+
+
+
+
+``organization
+''
+« organisme »
+
+
+``organization'' means any association, 
+partnership or group, whether or not 
+incorporated, and includes the Crown or an 
+agent of the Crown.
+
+
+
+
+
+
+
+``patient''
+« patient »
+
+
+``patient'' means the person about whom 
+health information is collected and, for the 
+purposes of this Act, includes a surrogate or 
+guardian acting on behalf of the person.
+
+
+
+
+
+
+
+``patient 
+privacy 
+impact 
+analysis''
+« analyse 
+d'impact sur 
+la vie privée 
+du patient »
+
+
+``patient privacy impact analysis'' means an 
+evaluation of a proposed measure on the 
+privacy of patients, including a review of:
+
+
+
+
+
+
+
+
+
+
+(a) the likely impact of the proposed 
+measure on
+
+
+
+
+
+
+
+
+
+(i) the right of privacy of patients,
+
+
+
+
+
+
+
+
+
+(ii) the relationship between patients 
+and their physicians, and in particular 
+on the duty of confidentiality and the 
+trust within this relationship,
+
+
+
+
+
+
+
+
+
+(iii) the willingness of patients to 
+disclose health information, and
+
+
+
+
+
+
+
+
+
+(iv) the ability of patients to receive 
+health care; and
+
+
+
+
+
+
+
+
+
+(b) any credible evidence that 
+demonstrates broad public support for 
+the proposed measure.
+
+
+
+
+
+
+``person''
+« personne »
+
+
+``person'' includes an organization.
+
+
+
+
+
+
+
+``physician''
+« médecin »
+
+
+``physician'' means a person who is registered 
+and entitled under the laws of a province to 
+practise medicine in that province.
+
+
+
+
+
+
+
+``primary''
+« première »
+
+
+``primary'', with respect to purpose, means 
+that which occurs for the therapeutic benefit 
+of a particular patient.
+
+
+
+
+
+
+
+``provider''
+« fournisseur 
+»
+
+
+``provider'' means a health professional or 
+institution that delivers health care services 
+or products in the therapeutic context.
+
+
+
+
+
+
+
+``purpose''
+« fin »
+
+
+``purpose'' means an end or aim for which 
+health information is collected, used, 
+disclosed or accessed, which may be 
+general enough to incorporate a range of 
+like information uses, provided that the 
+general description is sufficiently narrow 
+and limited so as to communicate to the 
+ordinary person a clear understanding of the 
+potential information uses that could 
+reasonably be expected to be relevant to 
+their consent.
+
+
+
+
+
+
+
+``right of 
+privacy''
+« droit à la vie 
+privée »
+
+
+``right of privacy'' includes a patient's right to 
+determine with whom the patient will share 
+information and to know of and exercise 
+control over use, disclosure and access 
+concerning any information collected about 
+the patient, including a right to give or 
+withold consent and a right to understand 
+that privacy is violated by nonconsensual 
+collection, use, disclosure or access, even if 
+therapeutically justified.
+
+
+
+
+
+
+
+``secondary''
+« secondaire »
+
+
+``secondary'', with respect to purpose, means 
+not directly related to the therapeutic 
+benefit of the particular patient from whom 
+the information has originated or to whom 
+the information particularly relates.
+
+
+
+
+
+
+
+``security''
+« sécurité »
+
+
+``security'' means reasonable precautions, 
+including physical and technical protocols, 
+to protect health information from 
+unauthorized collection, use, disclosure 
+and access, and to ensure that the integrity 
+of the information is properly safeguarded.
+
+
+
+
+
+
+
+``sensitivity''
+« nature 
+délicate »
+
+
+``sensitivity'', in respect of health 
+information, means the patient's interest in 
+keeping the information secret, which 
+interest may vary according to the nature of 
+the information, its form, and the potential 
+negative repercussions of its collection, use 
+or disclosure on the patient's interests.
+
+
+
+
+
+
+
+``therapeutic 
+context''
+« contexte 
+thérapeutique 
+»
+
+
+``therapeutic context'' means a setting in 
+which information is confided by or 
+collected from, about or on behalf of a 
+patient who
+
+
+
+
+
+
+
+
+
+
+(a) is in a therapeutic relationship with or 
+under the care of a physician or health 
+professional;
+
+
+
+
+
+
+
+
+
+(b) is resident in or seeking health care 
+within a facility or institution whose 
+principal function is the provision of 
+health care, including physicians' 
+offices, hospitals and other health care 
+facilities;
+
+
+
+
+
+
+
+
+
+(c) confides information within a 
+fiduciary relationship to a health 
+professional and with the belief that the 
+health professional will maintain its 
+confidentiality, subject to exceptions 
+explained to the patient; or
+
+
+
+
+
+
+
+
+
+(d) confides information in the belief that 
+it is necessary for the safe, timely and 
+effective delivery of health care to the 
+patient.
+
+
+
+
+
+
+``use''
+« utilisation »
+
+
+``use'', in respect of health information, 
+means any processing of health information 
+including storage, retention, retrieval, 
+manipulation, connection or linkage to 
+other sources of information in any format.
+
+
+
+
+
+
+
+

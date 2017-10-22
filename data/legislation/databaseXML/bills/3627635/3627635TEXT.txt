@@ -1,0 +1,1809 @@
+
+
+
+
+
+
+C-266
+
+
+
+
+
+C-266
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-266
+
+
+
+
+
+PROJET DE LOI C-266
+
+
+
+
+
+
+An Act to establish the position and Office of the Credit Ombudsman, who shall be an advocate of the interests of consumers and small businesses in credit matters and who shall investigate and report on the provision, by financial institutions, of consumer and small-business credit on a community basis and on an industry basis, in order to ensure equity in the distribution of credit resources
+
+
+
+
+
+Loi établissant le poste et le Bureau de l’ombudsman du crédit dont la mission est de faire valoir les intérêts des consommateurs et des petites entreprises en matière de crédit, ainsi que d’enquêter et de faire rapport sur l’octroi du crédit aux consommateurs et aux petites entreprises par les institutions financières selon les localités et les industries, afin d’assurer une répartition équitable des ressources en matière de crédit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, January 27, 2009
+
+
+
+
+
+première lecture le 27 janvier 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Martin (Winnipeg Centre)
+
+401052
+
+
+
+
+M. Martin (Winnipeg-Centre)
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to establish the position and Office of the Credit Ombudsman, who will be an advocate of the interests of consumers and small businesses in credit matters and who will investigate and report on the provision, by financial institutions, of consumer and small-business credit on the basis of community, industry group and sex of the applicant, in order to ensure equity in the distribution of credit resources.
+Financial institutions that fail to improve credit policies and practices on the request of the Credit Ombudsman will be reported to the Minister of Finance, and the report will be referred to the Standing Committee on Finance for investigation.
+
+
+
+SOMMAIRE
+Le texte a pour objet d’établir le poste et le Bureau de l’ombudsman du crédit. Celui-ci est chargé de faire valoir les intérêts des consommateurs et des petites entreprises en matière de crédit et de faire enquête et rapport sur l’octroi du crédit aux consommateurs et aux petites entreprises par les institutions financières selon la localité, le type d’industrie et le sexe des demandeurs de crédit, afin d’assurer une répartition équitable des ressources en matière de crédit.
+Les institutions financières qui n'améliorent pas leurs politiques et leurs pratiques en matière de crédit à la demande de l’ombudsman du crédit seront dénoncées au ministre des Finances dans un rapport renvoyé au Comité permanent des finances pour fins d’enquête.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-266
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-266
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to establish the position and Office of the Credit Ombudsman, who shall be an advocate of the interests of consumers and small businesses in credit matters and who shall investigate and report on the provision, by financial institutions, of consumer and small-business credit on a community basis and on an industry basis, in order to ensure equity in the distribution of credit resources
+
+
+
+
+
+
+
+
+
+Loi établissant le poste et le Bureau de l’ombudsman du crédit dont la mission est de faire valoir les intérêts des consommateurs et des petites entreprises en matière de crédit, ainsi que d’enquêter et de faire rapport sur l’octroi du crédit aux consommateurs et aux petites entreprises par les institutions financières selon les localités et les industries, afin d’assurer une répartition équitable des ressources en matière de crédit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Credit Ombudsman Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur l’ombudsman du crédit.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“community”« localité »
+
+
+
+“community” means an area that the Credit Ombudsman considers to be appropriate for providing information on credit for the purposes of this Act and may consist of all or parts of one or more electoral districts.
+
+
+
+
+“electoral district”« circonscrip- tion »
+
+
+
+“electoral district” has the meaning given to that expression in the Canada Elections Act.
+
+
+
+
+“financial institution”« institution financière »
+
+
+
+“financial institution” means a bank, trust company, credit union or other organization established by or under an Act of Parliament or of the legislature of a province that, as part of its normal business, lends money or provides credit.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Finance.
+
+
+
+
+“small business”« petite entreprise »
+
+
+
+“small business” means a business that is entitled to a small-business deduction under section 125 of the Income Tax Act.
+
+
+
+
+“Standing Committee”« comité permanent »
+
+
+
+“Standing Committee” means the standing committee of the House of Commons appointed to deal with matters of finance.
+
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« circonscription » S’entend au sens de la Loi électorale du Canada.
+
+
+
+« circonscription »“electoral district”
+
+
+
+
+« comité permanent » Le comité permanent de la Chambre des communes chargé d’étudier les questions relatives aux finances.
+
+
+
+« comité permanent »“Standing Committee”
+
+
+
+
+« institution financière » Banque, société de fiducie, caisse populaire ou tout autre organisme constitué sous le régime d’une loi fédérale ou provinciale qui, dans le cours normal de ses opérations, prête de l’argent ou fournit du crédit.
+
+
+
+« institution financière »“financial institution”
+
+
+
+
+« localité » Territoire ― composé de tout ou partie d’une ou de plusieurs circonscriptions ― qui, d’après l’ombudsman du crédit, constitue une subdivision appropriée pour fins de communication d’information sur le crédit dans le cadre de l’application de la présente loi.
+
+
+
+« localité »“community”
+
+
+
+
+« ministre » Le ministre des Finances.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« petite entreprise » Entreprise ayant droit à la déduction accordée aux petites entreprises en vertu de l’article 125 de la Loi de l’impôt sur le revenu.
+
+
+
+« petite entreprise »“small business”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CREDIT OMBUDSMAN
+
+
+
+
+
+
+
+
+
+OMBUDSMAN DU CRÉDIT
+
+
+
+
+
+
+
+
+
+
+
+
+Position and Office established
+
+
+
+
+3. (1) There are hereby established the position and Office of the Credit Ombudsman.
+
+
+
+
+
+
+
+
+
+
+3. (1) Sont établis le poste et le Bureau de l’ombudsman du crédit.
+
+
+
+Établissement du poste et du Bureau
+
+
+
+
+
+
+
+
+
+
+Mission
+
+
+
+(2) The Credit Ombudsman shall be an advocate of the interests of consumers and small businesses in credit matters and shall investigate and report on the provision, by financial institutions, of consumer and small-business credit on a community basis and on an industry basis, in order to ensure equity in the distribution of credit resources.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman du crédit a pour mission de faire valoir les intérêts des consommateurs et des petites entreprises en matière de crédit et de faire enquête et rapport sur l’octroi du crédit aux consommateurs et aux petites entreprises par les institutions financières selon les localités et les industries, afin d’assurer une répartition équitable des ressources en matière de crédit.
+
+
+
+Mission
+
+
+
+
+
+
+
+
+
+
+Appointment
+
+
+
+
+4. (1) The Governor in Council shall appoint a Credit Ombudsman selected by the Minister from a list of candidates recommended by the Standing Committee.
+
+
+
+
+
+
+
+
+
+
+4. (1) Le gouverneur en conseil nomme à titre d’ombudsman du crédit la personne choisie par le ministre à partir d’une liste de candidats établie par le comité permanent.
+
+
+
+Nomination
+
+
+
+
+
+
+
+
+
+
+Tenure of office and removal
+
+
+
+(2) The Credit Ombudsman holds office during good behaviour for a term of five years, but may be removed by the Governor in Council at any time on a resolution of the House of Commons following a report by the Standing Committee.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman du crédit occupe sa charge à titre inamovible pour un mandat de cinq ans, sauf révocation par le gouverneur en conseil sur résolution de la Chambre des communes faisant suite à un rapport du comité permanent.
+
+
+
+Durée du mandat et révocation
+
+
+
+
+
+
+
+
+
+
+Interim
+
+
+
+(3) In the event of the absence or incapacity of the Credit Ombudsman, or if the position of Credit Ombudsman is vacant, the Governor in Council may, on the recommendation of the Minister, appoint another person to act as Credit Ombudsman for a term not exceeding six months.
+
+
+
+
+
+
+
+
+
+(3) En cas d’absence ou d'empêchement de l’ombudsman du crédit, ou de vacance de son poste, le gouverneur en conseil peut nommer, sur recommandation du ministre, un intérimaire pour un mandat maximal de six mois.
+
+
+
+Intérim
+
+
+
+
+
+
+
+
+
+
+Term
+
+
+
+(4) No person may serve more than two terms as Credit Ombudsman.
+
+
+
+
+
+
+
+
+
+(4) L’ombudsman du crédit ne peut occuper son poste pendant plus de deux mandats.
+
+
+
+Durée du mandat
+
+
+
+
+
+
+
+
+
+
+Remuneration
+
+
+
+(5) The Credit Ombudsman shall receive such remuneration, benefits and reimbursement of expenses as may be fixed by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(5) L’ombudsman du crédit reçoit la rémunération, les avantages et les indemnités fixés par le gouverneur en conseil.
+
+
+
+Rémunération
+
+
+
+
+
+
+
+
+
+
+Part of federal public administration
+
+
+
+(6) The Office of the Credit Ombudsman is part of the federal public administration.
+
+
+
+
+
+
+
+
+
+(6) Le Bureau de l’ombudsman du crédit fait partie de l’administration publique fédérale.
+
+
+
+Statut
+
+
+
+
+
+
+
+
+
+
+Staff
+
+
+
+(7) The Credit Ombudsman may employ, under the Public Service Employment Act, such officers and staff as are necessary to carry out the purposes of this Act.
+
+
+
+
+
+
+
+
+
+(7) L’ombudsman du crédit peut employer, conformément à la Loi sur l’emploi dans la fonction publique, le personnel nécessaire à l’application de la présente loi.
+
+
+
+Personnel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADVOCACY
+
+
+
+
+
+
+
+
+
+DÉFENSE DES DROITS DES CONSOMMATEURS
+
+
+
+
+
+
+
+
+
+
+
+
+Complaints by consumers and small businesses
+
+
+
+
+5. (1) The Credit Ombudsman may receive and investigate complaints in writing from consumers and small businesses in cases where financial institutions have unreasonably refused credit, placed unreasonable conditions on credit availability or refused to deal fairly with applicants for credit.
+
+
+
+
+
+
+
+
+
+
+5. (1) L’ombudsman du crédit peut recevoir les plaintes formulées par écrit par les consommateurs et les petites entreprises et mener une enquête sur celles-ci, dans les cas où des institutions financières ont refusé du crédit sans justification raisonnable, posé des conditions déraisonnables à l’octroi de crédit ou refusé de traiter équitablement des demandeurs de crédit.
+
+
+
+Plaintes des consommateurs et des petites entreprises
+
+
+
+
+
+
+
+
+
+
+Investigations
+
+
+
+(2) The Credit Ombudsman shall investigate those complaints referred to the Credit Ombudsman that appear to show that a financial institution has unreasonably refused credit, placed unreasonable conditions on credit availability or refused to deal fairly with an applicant for credit.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman du crédit fait enquête relativement aux plaintes qui lui sont présentées et qui paraissent démontrer qu’une institution financière a refusé du crédit sans justification raisonnable, a posé des conditions déraisonnables à l’octroi de crédit ou a refusé de traiter équitablement un demandeur de crédit.
+
+
+
+Enquêtes
+
+
+
+
+
+
+
+
+
+
+Criteria
+
+
+
+(3) The Credit Ombudsman shall establish and make public criteria for granting or refusing credit on an equitable basis and for avoiding unfair discrimination in the availability of credit on a community basis and on an industry basis, and shall apply those criteria in an investigation under this section.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman du crédit établit les critères selon lesquels l’octroi ou le refus de crédit est équitable et évite de donner lieu à une discrimination injuste quant à la disponibilité de crédit selon les localités et les industries. Il rend ces critères publics et les applique aux enquêtes qu’il mène en vertu du présent article.
+
+
+
+Critères
+
+
+
+
+
+
+
+
+
+
+Information from financial institution
+
+
+
+(4) A financial institution shall, notwithstanding any other Act of Parliament, cooperate with the Credit Ombudsman in an investigation under this section and provide the information requested by the Credit Ombudsman respecting the credit application at issue, including private information concerning the complainant if the complainant has consented in writing to the disclosure of that information.
+
+
+
+
+
+
+
+
+
+(4) Malgré toute autre loi fédérale, l’institution financière est tenue de coopérer avec l’ombudsman du crédit relativement à une enquête menée en vertu du présent article et de lui fournir les renseignements qu’il exige au sujet de la demande de crédit en cause, y compris des renseignements confidentiels concernant le plaignant si ce dernier a consenti par écrit à cette divulgation.
+
+
+
+Renseignements fournis par l’institution financière
+
+
+
+
+
+
+
+
+
+
+Report of unfair dealing
+
+
+
+(5) If the Credit Ombudsman is not satisfied that the financial institution has dealt fairly with the complainant initially or following the investigation, the Credit Ombudsman may, after giving 90 days’ prior written notice to the financial institution, and with the prior written consent of the complainant,
+
+
+
+
+
+
+
+
+
+
+(a) report the matter in detail to the Minister in a report to be kept confidential; and
+
+
+
+
+
+
+
+
+
+
+(b) report the matter in general terms in a periodic report to the Standing Committee and, in so doing, name the financial institution but not the consumer or small business.
+
+
+
+
+
+
+
+
+
+(5) S’il est d’avis, de prime abord ou après enquête, que l’institution financière n’a pas traité le plaignant de manière équitable, l’ombudsman du crédit peut, sur préavis écrit de quatre-vingt-dix jours à l’institution financière et avec le consentement écrit du plaignant :
+
+
+
+Rapport de traitement inéquitable
+
+
+
+
+
+a) faire au ministre un rapport détaillé qui demeure confidentiel;
+
+
+
+
+
+
+
+
+
+
+
+b) faire un rapport en termes généraux à l’occasion d’un rapport périodique qu’il fait au comité permanent; il peut y nommer l’institution financière, mais non le consommateur ou la petite entreprise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FINANCIAL INSTITUTIONS WITH UNFAIR CREDIT POLICIES AND PRACTICES
+
+
+
+
+
+
+
+
+
+INSTITUTIONS FINANCIÈRES APPLIQUANT DES POLITIQUES ET DES PRATIQUES DE CRÉDIT INÉQUITABLES
+
+
+
+
+
+
+
+
+
+
+
+
+Notice re fair credit policies and practices
+
+
+
+
+6. (1) If the Credit Ombudsman is of the opinion, based on complaints that have been investigated under section 5, that a financial institution has unfair credit policies and practices in one or more communities, the Credit Ombudsman may give notice to the institution of the changes that are necessary to establish fair credit policies and practices.
+
+
+
+
+
+
+
+
+
+
+6. (1) S’il est d’avis, d’après les plaintes qui ont donné lieu à une enquête selon les modalités de l’article 5, qu’une institution financière applique, dans une ou plusieurs localités, des politiques et des pratiques de crédit inéquitables, l’ombudsman du crédit peut aviser cette institution des modifications nécessaires pour instituer des politiques et des pratiques de crédit équitables.
+
+
+
+Notification d’appliquer des politiques et des pratiques de crédit équitables
+
+
+
+
+
+
+
+
+
+
+Changes to be made
+
+
+
+(2) Within 90 days after receiving a notice under subsection (1), a financial institution shall advise the Credit Ombudsman of the changes that will be made in the financial institution’s credit policies and practices.
+
+
+
+
+
+
+
+
+
+(2) Dans les quatre-vingt-dix jours suivant la réception de l’avis visé au paragraphe (1), l’institution financière indique à l’ombudsman du crédit les modifications qu’elle apportera à ses politiques et pratiques en matière de crédit.
+
+
+
+Obligation d’appliquer les changements
+
+
+
+
+
+
+
+
+
+
+Changes unsatisfactory or not made
+
+
+
+(3) If the Credit Ombudsman is not satisfied with the changes proposed by a financial institution under subsection (2), or if, on investigation, the Credit Ombudsman finds that the proposed changes have not been made, the Credit Ombudsman shall submit a report on the matter to the Minister.
+
+
+
+
+
+
+
+
+
+(3) S’il n’est pas satisfait des modifications visées au paragraphe (2) ou s’il constate, après enquête, que les modifications proposées n’ont pas été apportées, l’ombudsman du crédit soumet un rapport au ministre à ce sujet.
+
+
+
+Changements inadéquats ou non apportés
+
+
+
+
+
+
+
+
+
+
+Report referred to Standing Committee
+
+
+
+(4) The Minister shall forthwith cause every report received under subsection (3) to be laid before both Houses of Parliament, and the report shall be deemed to have been referred to the Standing Committee for review and report to the House of Commons.
+
+
+
+
+
+
+
+
+
+(4) Le ministre fait immédiatement déposer devant les deux chambres du Parlement le rapport visé au paragraphe (3). Le comité permanent est réputé en être saisi pour examen et rapport à la Chambre des communes.
+
+
+
+Renvoi du rapport au comité permanent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DISCLOSURE OF CREDIT AVAILABILITY
+
+
+
+
+
+
+
+
+
+COMMUNICATION DES RENSEIGNEMENTS SUR LA DISPONIBILITÉ DU CRÉDIT
+
+
+
+
+
+
+
+
+
+
+
+
+Collection and disclosure of information
+
+
+
+
+7. The Credit Ombudsman shall
+
+
+
+
+
+
+
+
+
+
+(a) collect information on credit sought from financial institutions by, and granted by financial institutions to, consumers and small businesses to ascertain, by statistical analysis, whether the availability of credit is equitably distributed on a community basis and on an industry basis throughout Canada;
+
+
+
+
+
+
+
+
+
+
+(b) for the purposes of paragraph (a), require every financial institution, when a consumer or small business applies for credit, to complete a form showing information prescribed by the Credit Ombudsman respecting the granting or refusal of the credit and give it to the consumer or small business, who may complete it and send it to the Credit Ombudsman with the further information prescribed by the Credit Ombudsman, including the rate of interest charged and other terms of the loan, the electoral district, community and industry group in which the consumer or small business resides or operates and, in the case of an individual, the sex of the individual seeking the credit;
+
+
+
+
+
+
+
+
+
+
+(c) analyze and prepare reports on the availability of credit in various electoral districts, communities and industry groups, and to male and female applicants;
+
+
+
+
+
+
+
+
+
+
+(d) submit reports prepared under paragraph (c) to the Standing Committee; and
+
+
+
+
+
+
+
+
+
+
+(e) cooperate with consumer groups, business groups and financial institutions to facilitate the achievement of the purposes of this Act.
+
+
+
+
+
+
+
+
+
+
+7. L’ombudsman du crédit :
+
+
+
+Collecte et communication de renseigne-ments
+
+
+
+
+
+a) recueille des renseignements sur les demandes de crédit faites aux institutions financières par les consommateurs et les petites entreprises et sur celles qui ont été acceptées afin de vérifier, au moyen d’analyses statistiques, si la disponibilité de crédit est équitablement répartie, en fonction des localités et des industries, dans l’ensemble du Canada;
+
+
+
+
+
+
+
+
+
+
+
+b) exige des institutions financières, pour l’application de l’alinéa a), qu’elles rem-plissent, chaque fois qu’un consommateur ou une petite entreprise fait une demande de crédit, une formule où elles indiquent les renseignements prescrits par l’ombudsman du crédit quant à l’octroi ou au refus du crédit et la remettent au consommateur ou à la petite entreprise, qui peut la compléter et la transmettre à l’ombudsman du crédit. Cette formule comporte en outre les autres renseignements prescrits par l’ombudsman du crédit, notamment le taux d’intérêt exigé et les autres conditions du prêt, la circonscription et la localité soit où habite le consommateur, soit où est située la petite entreprise, de même que le type d’industrie à laquelle le consommateur ou la petite entreprise appartient. Dans le cas d’un particulier, la formule indique de plus le sexe du demandeur de crédit;
+
+
+
+
+
+
+
+
+
+
+
+c) analyse la disponibilité du crédit selon les circonscriptions ou localités, les types d’industries et le sexe des demandeurs de crédit et établit des rapports sur ces sujets;
+
+
+
+
+
+
+
+
+
+
+
+d) soumet au comité permanent les rapports visés à l’alinéa c);
+
+
+
+
+
+
+
+
+
+
+
+e) coopère avec des groupes de consommateurs, des groupes de gens d’affaires et des institutions financières afin de faciliter la réalisation de l’objet de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GENERAL
+
+
+
+
+
+
+
+
+
+DISPOSITIONS GÉNÉRALES
+
+
+
+
+
+
+
+
+
+
+
+
+Information confidential
+
+
+
+
+8. (1) Except in reference to a report under subsection 6(3), the Credit Ombudsman shall keep confidential all information received under this Act.
+
+
+
+
+
+
+
+
+
+
+8. (1) Sauf à l’égard d’un rapport visé au paragraphe 6(3), l’ombudsman du crédit garde confidentiels tous les renseignements qu’il reçoit en vertu de la présente loi.
+
+
+
+Renseignements confidentiels
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2) Subsection (1) does not apply if the information serves as evidence of, or is relevant to the investigation of, an offence under the Criminal Code or any other Act of Parliament.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas aux renseignements offerts en preuve dans le cadre d'une enquête relative à une infraction au Code criminel ou à toute autre loi fédérale, ou qui concernent cette enquête.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Power to define and prescribe
+
+
+
+
+9. The Credit Ombudsman may, with the prior approval of the Minister, define communities and industry groups and prescribe forms and information to be provided or volunteered for the purposes of this Act.
+
+
+
+
+
+
+
+
+
+
+9. L’ombudsman du crédit peut, avec l’approbation préalable du ministre, définir les localités et les types d’industries et prescrire les formules et les renseignements à produire, de façon obligatoire ou facultative, pour l’application de la présente loi.
+
+
+
+Pouvoir de prendre des règlements
+
+
+
+
+
+
+
+
+
+
+Notice of  Credit Ombudsman’s services
+
+
+
+
+10. The Credit Ombudsman may require every financial institution to establish, in the form prescribed by the Credit Ombudsman, a notice describing the function of the Office of the Credit Ombudsman and the means of contacting the Office, and to
+
+
+
+
+
+
+
+
+
+
+(a) post it prominently at every place of business where credit may be applied for; and 
+
+
+
+
+
+
+
+
+
+
+(b) include it in advertisements or other communications, whether physical or electronic, offering credit.
+
+
+
+
+
+
+
+
+
+
+10. L’ombudsman du crédit peut exiger de chaque institution financière qu’elle présente, en la forme qu’il prescrit, un avis décrivant les fonctions du Bureau de l’ombudsman du crédit et la façon de communiquer avec celui-ci :
+
+
+
+Avis de l’existence des services de l’ombudsman du crédit
+
+
+
+
+
+a) en l’affichant bien en vue dans toutes ses places d’affaires où il est possible de demander du crédit;
+
+
+
+
+
+
+
+
+
+
+
+b) en le faisant paraître dans les annonces ou autres communications d’offre de crédit, qu’elles soient sur support physique ou électronique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANNUAL REPORT
+
+
+
+
+
+
+
+
+
+RAPPORT ANNUEL
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+
+11. The Credit Ombudsman shall submit to the Minister by April 1 of every year a report on the functions of the Office of the Credit Ombudsman during the previous year and on the availability of credit on an equitable basis in Canada, and the Minister shall forthwith cause the report to be laid before both Houses of Parliament.
+
+
+
+
+
+
+
+
+
+
+11. L’ombudsman du crédit soumet au ministre, au plus tard le 1er avril, un rapport sur les opérations de son Bureau pour l’exercice précédent et sur l’équité de la disponibilité du crédit au Canada; le ministre le fait immédiatement déposer devant chaque  chambre du Parlement.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OFFENCES AND PENALTIES
+
+
+
+
+
+
+
+
+
+INFRACTIONS ET PEINES
+
+
+
+
+
+
+
+
+
+
+
+
+False information
+
+
+
+
+12. (1) Every person who knowingly provides false information to the Credit Ombudsman in connection with the operation of this Act is guilty of an offence.
+
+
+
+
+
+
+
+
+
+
+12. (1) Est coupable d’une infraction quiconque fournit sciemment de faux renseignements à l’ombudsman du crédit dans le cadre de l’application de la présente loi.
+
+
+
+Communication de faux renseignements
+
+
+
+
+
+
+
+
+
+
+Refusal to provide information
+
+
+
+(2) Every person who refuses or fails to provide information requested by the Credit Ombudsman under this Act is guilty of an offence.
+
+
+
+
+
+
+
+
+
+(2) Est coupable d’une infraction quiconque refuse ou omet de fournir les renseignements exigés par l’ombudsman du crédit dans le cadre de l’application de la présente loi.
+
+
+
+Refus de fournir des renseigne-ments
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(3) Every person who commits an offence under this Act is liable, on summary conviction, to a fine not exceeding $5,000 for a first offence and to a fine not exceeding $25,000 or imprisonment for not more than six months, or to both, in the case of a second or subsequent offence.
+
+
+
+
+
+
+
+
+
+(3) Quiconque commet une infraction à la présente loi est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 5 000 $ pour la première infraction et, en cas de récidive, d’une amende maximale de 25 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+
+
+Peine
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

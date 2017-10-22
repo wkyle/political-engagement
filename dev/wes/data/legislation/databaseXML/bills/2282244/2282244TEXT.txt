@@ -1,0 +1,1239 @@
+
+
+
+
+
+C-346
+
+
+
+
+
+C-346
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-346
+
+
+
+
+
+PROJET DE LOI C-346
+
+
+
+
+
+
+An Act to amend the State Immunity Act and the Criminal Code (terrorist activity)
+
+
+
+
+
+Loi modifiant la Loi sur l'immunité des États et le Code criminel (activités terroristes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 22, 2006
+
+première lecture le 22 juin 2006
+
+
+
+
+
+
+
+
+
+
+
+
+Mrs. Grewal
+
+391366
+
+
+
+Mme Grewal
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to prevent foreign states that engage in terrorist activity from claiming immunity from the jurisdiction of Canadian courts.
+
+
+
+SOMMAIRE
+Le texte vise à empêcher les États étrangers qui se livrent à des activités terroristes de bénéficier de l’immunité de juridiction devant les tribunaux au Canada.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-346
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-346
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the State Immunity Act and the Criminal Code (terrorist activity)
+
+
+
+
+
+
+WHEREAS United Nations Security Council Resolution 1373 (2001) reaffirms that acts of international terrorism constitute a threat to international peace and security and the need to combat by all means, in accordance with the Charter of the United Nations, threats to international peace and security caused by terrorist acts;
+
+
+
+
+
+
+WHEREAS Canada ratified the 1999 International Convention for the Suppression of the Financing of Terrorism (the “Convention”) on February 15, 2002;
+
+
+
+
+
+
+WHEREAS article 18 of the Convention states that parties to the Convention must take all practicable measures to prohibit in their territories illegal activities of persons and organizations that knowingly encourage, instigate, organize or engage in the commission of offences set forth in the Convention;
+
+
+
+
+
+
+WHEREAS article 2 of the Convention requires Canada as a signatory to take the necessary measures against any person that by any means, directly or indirectly, unlawfully and willfully, provides or collects funds with the intention that they should be used or in the knowledge that they are to be used, in full or in part, in order to carry out offences under the Convention;
+
+
+
+
+
+
+WHEREAS article 5 of the Convention states that liability under the Convention may be criminal, civil or administrative;
+
+
+
+
+
+
+WHEREAS article 5 of the Convention states that each State Party shall ensure that legal entities liable in accordance with provisions of the Convention are subject to effective, proportionate and dissuasive criminal, civil or administrative sanctions that may include monetary sanctions;
+
+
+
+
+
+
+WHEREAS, on February 12, 2004, the Government of Canada stated in its report to the Counter-Terrorism Committee of the United Nations Security Council (“the Security Council”) that to date Canada has not taken any specific judicial action against a non-profit organization based on alleged or suspected involvement in the financing of terrorism;
+
+
+
+
+
+
+WHEREAS the Government of Canada reported to the Security Council that the Financial Transactions and Reports Analysis Centre of Canada (“FINTRAC”) received a total of 17,197 Suspicious Transaction Reports between 2001 and 2003;
+
+
+
+
+
+
+WHEREAS  the Government of Canada reported to the Security Council that Canadian financial institutions had frozen $360,000 of suspected terrorist assets in 20 accounts as of April 17, 2002;
+
+
+
+
+
+
+WHEREAS  the 2003-2004 Annual Report of FINTRAC reported $70 million in financial transactions suspected of being linked to terrorist activity financing and threats to the security of Canada;
+
+
+
+
+
+
+WHEREAS FINTRAC reported it has tracked down up to $140 million in funds linked to terrorism in 2004-2005;
+
+
+
+
+
+
+WHEREAS article 8 of the Convention states that each State Party shall consider establishing mechanisms whereby the funds from forfeitures referred to in article 8 of the Convention are utilized to compensate the victims of offences referred to in article 2 of the Convention;
+
+
+
+
+
+
+WHEREAS subsection 83.14(5.1) of the Criminal Code provides that any proceeds that arise from the disposal of property related to terrorist groups or activities may be used to compensate victims of terrorist activities;
+
+
+
+
+
+
+WHEREAS  the intended victims of terrorist acts include the individuals who were physically, emotionally or psychologically injured by the terrorist acts and their family members;
+
+
+
+
+
+
+WHEREAS the Government of Canada has recognized that the unique nature of the terrorist threat has mandated the need for further legislation, and has reported to the Counter-Terrorism Committee of the Security Council that Canada’s Anti-Terrorism Act of 2001 was enacted in recognition that further legislation was needed to reinforce the safety and security of Canadians;
+
+
+
+
+
+
+WHEREAS  the Government of Canada acknowledged in its report to the Security Council that there is no civil liability in tort for criminal offences relating specifically to terrorism;
+
+
+
+
+
+
+WHEREAS  the prohibition against terrorism is a peremptory norm of international law (jus cogens) accepted and recognized by the international community of States as a whole as a norm from which no derogation is possible;
+
+
+
+
+
+
+WHEREAS  the support and financing of terrorism is a crime under international law;
+
+
+
+
+
+
+WHEREAS state immunity is generally accepted as being restrictive or relative, applying only to sovereign acts of state (acta jure imperii);
+
+
+
+
+
+
+WHEREAS  terrorism is a threat to democracy, and the support and financing of terrorism, which is a crime under international law, are  not entitled to immunity when claimed to be sovereign acts of state;
+
+
+
+
+
+
+WHEREAS the 1999 International Convention for the Suppression of the Financing of Terrorism  and the United Nations Declaration on Measures to Eliminate International Terrorism encourage states to review urgently the scope of existing international legal provisions on the prevention, repression and elimination of terrorism with the aim of ensuring that there is a comprehensive legal framework covering all aspects of the matter;
+
+
+
+
+
+
+WHEREAS 154 Canadians were murdered on June 23, 1985 in the largest terrorist attack in North America prior to September 11, 2001;
+
+
+
+
+
+
+WHEREAS numerous other Canadians have been murdered or injured in other terrorist attacks;
+
+
+
+
+
+
+WHEREAS the Government of Canada reported to the Security Council that fighting terrorism is of the highest priority for the Government of Canada;
+
+
+
+
+
+
+WHEREAS it is the policy of the Government of Canada that judicial awards against persons who engage in terrorist activities must be sufficiently large to deter future such conduct;
+
+
+
+
+
+
+AND WHEREAS this Act incorporates into and confirms as Canadian law the existing peremptory norms and provisions of international law for the prevention, repression and elimination of terrorism;
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur l'immunité des États et le Code criminel (activités terroristes)
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que la résolution 1373 de 2001 du Conseil de sécurité des Nations Unies réaffirme que les actes de terrorisme international constituent une menace à la paix et à la sécurité internationales et qu'il est nécessaire de lutter par tous les moyens, conformément à la Charte des Nations Unies, contre les menaces à la paix et à la sécurité internationales que font peser les actes de terrorisme;
+
+
+
+
+
+
+que, le 15 février 2002, le Canada a ratifié la Convention internationale pour la répression du financement du terrorisme de 1999 (ci-après la « Convention »);
+
+
+
+
+
+
+que l’article 18 de la Convention établit que les États Parties à la Convention doivent prendre toutes les mesures nécessaires afin d'interdire sur leur territoire les activités illégales de personnes ou d'organisations qui, en connaissance de cause, encouragent, fomentent, organisent ou commettent des infractions prévues par  la Convention;
+
+
+
+
+
+
+que l’article 2 de la Convention exige que le Canada en tant que signataire prenne les mesures nécessaires à l'encontre de toute personne qui, par quelque moyen que ce soit, directement ou indirectement, illicitement et délibérément, fournit ou réunit des fonds dans l’intention de les voir utilisés ou en sachant qu’ils seront utilisés, en tout ou en partie, afin de commettre les infractions prévues par la Convention;
+
+
+
+
+
+
+que l’article 5 de la Convention prévoit que la responsabilité peut être pénale, civile ou administrative;
+
+
+
+
+
+
+que l’article 5 de la Convention prévoit que chaque État Partie fait en sorte qu’une personne morale dont la responsabilité est engagée aux termes des dispositions de la Convention fasse l’objet de sanctions pénales, civiles ou administratives efficaces, proportionnées et dissuasives, notamment d’ordre pécuniaire;
+
+
+
+
+
+
+que le 12 février 2004, le gouvernement du Canada a indiqué dans son rapport au Comité contre le terrorisme du Conseil de sécurité des Nations Unies (le « Conseil de sécurité ») qu'à ce jour, aucune action judiciaire particulière n'a été intentée par le Canada à l'encontre d'une organisation à but non lucratif soupçonnée de participer au financement d'activités terroristes;
+
+
+
+
+
+
+que le gouvernement du Canada a indiqué au Conseil de sécurité que le Centre d’analyse des opérations et déclarations financières du Canada (CANAFE) a reçu au total 17 197 rapports d’opérations suspectes de 2001 à 2003;
+
+
+
+
+
+
+que le gouvernement du Canada a indiqué au Conseil de sécurité que les institutions financières canadiennes avaient bloqué 360 000 $ d’actifs suspectés d’être destinés à des activités terroristes dans vingt comptes en date du 17 avril 2002;
+
+
+
+
+
+
+que le rapport annuel 2003-04 du CANAFE fait état d'opérations financières de 70 millions de dollars suspectées d’être liées au financement d’activités terroristes et à des menaces contre la sécurité du Canada;
+
+
+
+
+
+
+que le CANAFE a indiqué avoir retracé jusqu’à 140 millions  de dollars en fonds liés aux activités terroristes en 2004-2005;
+
+
+
+
+
+
+que l’article 8 de la Convention prévoit que chaque État Partie envisage de créer des mécanismes en vue de l’affectation des sommes provenant des confiscations visées à l’article 8 de la Convention à l’indemnisation des victimes d’infractions visées à l’article 2 de la Convention;
+
+
+
+
+
+
+que le paragraphe 83.14(5.1) du Code criminel prévoit que le produit de la disposition de biens liés à des groupes ou à des activités terroristes peut être utilisé pour dédommager les victimes d’activités terroristes;
+
+
+
+
+
+
+que les victimes visées par les activités terroristes ne sont pas uniquement les particuliers qui ont été blessés physiquement, émotionnellement ou psychologiquement par ces activités, mais également les membres de leur famille;
+
+
+
+
+
+
+que le gouvernement du Canada a reconnu que la nature particulière de la menace terroriste a nécessité l'adoption d'autres mesures législatives et qu'il a affirmé au Comité contre le terrorisme du Conseil de sécurité que la Loi antiterroriste de 2001 a été édictée afin de reconnaître que des mesures législatives additionnelles étaient nécessaires pour renforcer la sécurité des Canadiens;
+
+
+
+
+
+
+que le gouvernement du Canada a admis dans son rapport au Conseil de sécurité qu’il n’existe aucune responsabilité civile en matière de responsabilité délictuelle à l'égard des infractions criminelles liées au terrorisme;
+
+
+
+
+
+
+que l’interdiction visant le terrorisme est une norme impérative du droit international (jus cogens) acceptée et reconnue par l’ensemble de la communauté internationale des États comme étant une norme contraignante;
+
+
+
+
+
+
+que le soutien et le financement du terrorisme constituent  un crime sous le régime du droit international;
+
+
+
+
+
+
+que l’immunité des États est un concept généralement accepté comme étant restrictif ou relatif, ne s’appliquant qu’aux acta jure imperii (ou actes de gouvernement souverain);
+
+
+
+
+
+
+que le terrorisme est une menace à l’égard de la démocratie et que le soutien et le financement du terrorisme, qui constituent un crime sous le régime du droit international, n’ont pas droit à l’immunité même s’il est dit que ce sont des actes de gouvernement souverain;
+
+
+
+
+
+
+que la Convention internationale pour la répression du financement du terrorisme de 1999 et la Déclaration des Nations Unies sur les mesures visant à éliminer le terrorisme international encouragent les États à revoir de toute urgence la portée des dispositions actuelles du droit international sur la prévention, la répression et l’élimination du terrorisme afin qu’un cadre juridique exhaustif englobe tous les aspects de ce problème;
+
+
+
+
+
+
+que cent cinquante-quatre Canadiens sont morts le 23 juin 1985 lors de la plus grande attaque terroriste en sol nord-américain avant le 11 septembre 2001;
+
+
+
+
+
+
+que de nombreux autres Canadiens ont été tués ou blessés lors d’attaques terroristes;
+
+
+
+
+
+
+que le gouvernement du Canada a indiqué au Conseil de sécurité que la lutte contre le terrorisme est de la plus haute priorité pour le gouvernement du Canada;
+
+
+
+
+
+
+que la politique du gouvernement du Canada est que les décisions judiciaires rendues contre les personnes qui s’engagent dans des activités terroristes doivent être suffisamment lourdes de portée pour avoir un effet dissuasif;
+
+
+
+
+
+
+que la présente loi intègre au droit canadien les normes et les dispositions contraignantes existantes du droit international en matière de prévention, de répression et d’élimination du terrorisme,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., c. S-18
+
+
+
+STATE IMMUNITY ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L'IMMUNITÉ DES ÉTATS
+
+
+
+L.R., ch. S-18
+
+
+
+
+
+
+
+
+
+
+
+
+1. The State Immunity Act is amended by adding the following after section 6:
+
+
+
+
+
+
+
+
+
+1. La Loi sur l'immunité des États est modifiée par adjonction, après l'article 6, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “terrorist activity”
+
+
+
+6.1 (1) In this section, “terrorist activity” means any transaction, act or conduct that involves or relates to the support of any terrorist group that is a listed entity as defined in subsection 83.01(1) of the Criminal Code.
+
+
+
+
+
+
+
+
+
+6.1 (1) Au  présent article, « activité terroriste » s’entend de tout acte, comportement ou opération comportant l’appui d’un groupe terroriste qui est une entité inscrite au sens du paragraphe 83.01(1) du Code criminel, ou  se rapportant à l’appui d’un tel groupe.
+
+
+
+Définition de « activité terroriste »
+
+
+
+
+
+
+
+
+
+
+Terrorist activity
+
+
+
+(2) A foreign state is not immune from the jurisdiction of a court in any proceedings that relate to any terrorist activity that the foreign state conducted on or after January 1, 1985.
+
+
+
+
+
+
+
+
+
+(2) L’État étranger ne bénéficie pas de l’immunité de juridiction dans les actions portant sur les activités terroristes auxquelles il s’est livré le 1er janvier 1985 ou après cette date.
+
+
+
+Activités terroristes
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 11(3) of the Act is replaced by the following: 
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 11(3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Agency of a foreign state
+
+
+
+(3) This section does not apply to an agency of a foreign state or to a foreign state that engages in terrorist activity.
+
+
+
+
+
+
+
+
+
+(3) Le présent article ne s'applique pas à l'organisme d'un État étranger ni à l'État étranger qui se livrent à des activités terroristes.
+
+
+
+Organisme d'un État étranger
+
+
+
+
+
+
+
+
+
+
+
+
+3. (1) Paragraph 12(1)(b) of the Act is replaced by the following: 
+
+
+
+
+
+
+
+
+
+3. (1) L'alinéa 12(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b)  the property is used or is intended for a commercial activity or a terrorist activity;
+
+
+
+
+
+
+
+
+
+b) les biens sont utilisés ou destinés à être utilisés dans le cadre d’une activité commerciale ou d'une activité terroriste;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 12(1) of the Act is amended by striking out the word “or” at the end of paragraph (b), by adding the word “or” at the end of paragraph (c) and by adding the following after paragraph (c):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 12(1) de la même loi est modifié par adjonction, après l'alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) the attachment or execution relates to a judgment rendered in connection with terrorist activity.
+
+
+
+
+
+
+
+
+
+d) la saisie ou l'exécution a trait à un jugement rendu à la suite d'activités terroristes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Subsection 13(2) of the Act is replaced by the following: 
+
+
+
+
+
+
+
+
+
+4. Le paragraphe 13(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Agency of a foreign state
+
+
+
+(2) Subsection (1) does not apply to an agency of a foreign state or to a foreign state that engages in terrorist activity.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s'applique pas à l'organisme d'un État étranger ni à l'État étranger qui se livrent à des activités terroristes.
+
+
+
+Organisme d'un État étranger
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Criminal Code is amended by adding the following after section 83.33:
+
+
+
+
+
+
+
+
+
+5. Le Code criminel est modifié par adjonction, après l'article 83.33, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Recovery of damages
+
+
+
+83.34 (1) Any person who has suffered loss or damage on or after January 1, 1985 as a result of conduct that is contrary to any provision of this Part or the failure of any person to comply with an order of a court under this Part may, in any court of competent jurisdiction, sue for and recover from the person who engaged in the conduct or failed to comply with the order an amount equal to the loss or damage proved to have been suffered by the person, together with any additional amount that the court may allow. 
+
+
+
+
+
+
+
+
+
+83.34 (1) Toute personne qui, le 1er janvier 1985 ou après cette date, a subi une perte ou des dommages par suite soit d’un comportement allant à l’encontre d’une disposition de la présente partie, soit du défaut d’une personne d’obtempérer à une ordonnance rendue par un tribunal en vertu de la présente partie peut, devant tout tribunal compétent, réclamer et recouvrer de la personne qui a eu un tel comportement ou n’a pas obtempéré à l’ordonnance une somme égale au montant de la perte ou des dommages qu’elle est reconnue avoir subis, ainsi que toute somme supplémentaire que le tribunal peut fixer.
+
+
+
+Recouvrement de dommages-intérêts
+
+
+
+
+
+
+
+
+
+
+Suspension of limitation period
+
+
+
+(2) The running of a limitation period in respect of a claim under subsection (1) is suspended during any period in which the person who has suffered loss or damage
+
+
+
+
+
+
+
+
+(a) is incapable of commencing a proceeding by reason of any mental or physical condition rendering the person disabled; or
+
+
+
+
+
+
+
+
+(b) is unable  to identify the person who engaged in the conduct or failed to comply with the order.
+
+
+
+
+
+
+
+
+
+(2) La prescription relative à une poursuite visée au paragraphe (1) ne court pas pendant que la personne qui a subi la perte ou les dommages :
+
+
+
+Suspension du délai de prescription
+
+
+
+
+a) soit est incapable d’intenter la poursuite en raison de son état physique ou mental;
+
+
+
+
+
+
+
+
+b) soit est incapable d'identifier la personne ayant eu ce comportement ou ayant omis d’obtempérer à l’ordonnance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Judgments of foreign courts
+
+
+
+(3) Any court of competent jurisdiction shall give full faith and credit to a judgment of any foreign court in favour of a person who has suffered loss or damage as a result of conduct that is contrary to any provision of this Part.
+
+
+
+
+
+
+
+
+
+(3) Tout tribunal compétent doit accorder pleine foi et crédit au jugement d’un tribunal étranger rendu en faveur d’une personne ayant subi une perte ou un dommage résultant d’un comportement contraire à une disposition de la présente partie.
+
+
+
+Jugements de tribunaux étrangers
+
+
+
+
+
+
+
+
+
+
+Definition of “person”
+
+
+
+(4) In this section, “person” includes a foreign state as defined in the State Immunity Act.
+
+
+
+
+
+
+
+
+
+(4) Au présent article, « personne » s'entend notamment d'un État étranger au sens de la Loi sur l'immunité des États.
+
+
+
+Définition de « personne »
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

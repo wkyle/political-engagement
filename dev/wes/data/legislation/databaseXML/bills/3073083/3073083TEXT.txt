@@ -1,0 +1,1088 @@
+
+
+
+
+
+C-322
+
+
+
+
+
+C-322
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-322
+
+
+
+
+
+PROJET DE LOI C-322
+
+
+
+
+
+
+Antipoverty Act (amendments to the Canadian Human Rights Act and Criminal Code)
+
+
+
+
+
+Loi antipauvreté (modification de la Loi canadienne sur les droits de la personne et du Code criminel)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 13, 2006
+
+première lecture le 13 juin 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2nd Session, 39th Parliament
+
+This bill was introduced during the First Session of the 39th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2e session, 39e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 39e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+Mr. Ménard (Hochelaga)
+
+391182
+
+
+
+M. Ménard (Hochelaga)
+
+
+
+
+
+	SUMMARY
+This enactment amends the Canadian Human Rights Act by
+(a) adding “social condition” to the list of prohibited grounds of discrimination;
+(b) declaring the refusal by a financial institution to provide a banking service to an individual by reason only of the individual’s low income to be a discriminatory practice;
+(c) requiring the Canadian Human Rights Commission to review every bill introduced in or presented to the House of Commons by a minister of the Crown to ascertain whether any of its provisions are likely to result in a discriminatory practice prohibited by the Canadian Human Rights Act; and 
+(d) requiring the Canadian Human Rights Commission to submit an annual report to the Minister of Justice on the impact of measures taken by the Government of Canada to reduce poverty in Canada and on the amount of money that should be expended annually to reduce that poverty.
+The enactment also amends the Criminal Code to change the criminal interest rate set out in section 347 and to include in the calculation of that interest rate the charges paid by a person to obtain insurance coverage.
+
+
+
+	SOMMAIRE
+Le texte modifie la Loi canadienne sur les droits de la personne afin :
+a) d’ajouter à la liste des motifs de distinction illicite tout motif fondé sur la condition sociale;
+b) de déclarer à titre d’acte discriminatoire le refus par une institution financière d’offrir un service bancaire à une personne pour le seul motif que celle-ci a de faibles revenus;
+c) que la Commission canadienne des droits de la personne procède à l’examen de tout projet de loi présenté à la Chambre des communes par un ministre fédéral en vue de déterminer si l’une quelconque de ses dispositions donnera vraisemblablement lieu à un acte discriminatoire prohibé par la Loi canadienne sur les droits de la personne; 
+d) que la Commission canadienne des droits de la personne présente au ministre de la Justice un rapport annuel sur l'impact des mesures fédérales visant à réduire la pauvreté au Canada et sur les sommes qui devraient être déboursées annuellement pour la réduire.
+Le texte modifie également le Code criminel afin de changer le taux d'intérêt criminel prévu à l'article 347 et d'inclure dans le calcul de ce taux les frais assurés par l'emprunteur pour souscrire à une police d'assurrance.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-322
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-322
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antipoverty Act (amendments to the Canadian Human Rights Act and Criminal Code)
+
+
+
+
+
+
+
+
+
+Loi antipauvreté (modification de la Loi canadienne sur les droits de la personne et du Code criminel)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., c. H-6
+
+
+
+CANADIAN HUMAN RIGHTS ACT
+
+
+
+
+
+
+
+
+
+LOI CANADIENNE SUR LES DROITS DE LA PERSONNE
+
+
+
+L.R., ch. H-6
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 2 of the Canadian Human Rights Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. L’article 2 de la Loi canadienne sur les droits de la personne est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+2. The purpose of this Act is to extend the laws in Canada to give effect, within the purview of matters coming within the legislative authority of Parliament, to the principle that all individuals should have an opportunity equal with other individuals to make for themselves the lives that they are able and wish to have and to have their needs accommodated, consistent with their duties and obligations as members of society, without being hindered in or prevented from doing so by discriminatory practices based on race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family status, social condition, disability or conviction for an offence for which a pardon has been granted.
+
+
+
+
+
+
+
+
+
+2. La présente loi a pour objet de compléter la législation canadienne en donnant effet, dans le champ de compétence du Parlement du Canada, au principe suivant : le droit de tous les individus, dans la mesure compatible avec leurs devoirs et obligations au sein de la société, à l’égalité des chances d’épanouissement et à la prise de mesures visant à la satisfaction de leurs besoins, indépendamment des considérations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, l’âge, le sexe, l’orientation sexuelle, l’état matrimonial, la situation de famille, la condition sociale, la déficience ou l’état de personne graciée.
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 3(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 3(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibited grounds of discrimination
+
+
+
+3. (1) For all purposes of this Act, the prohibited grounds of descrimination are race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family status, social condition, disability and conviction for which a pardon has been granted.
+
+
+
+
+
+
+
+
+
+3. (1) Pour l’application de la présente loi, les motifs de distinction illicite sont ceux qui sont fondés sur la race, l’origine nationale ou ethnique, la couleur, la religion, l’âge, le sexe, l’orientation sexuelle, l’état matrimonial, la situation de famille, la condition sociale, la déficience ou l’état de personne graciée.
+
+
+
+Motifs de distinction illicite
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after section 10:
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l’article 10, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Refusal to provide 
+banking services
+
+
+
+10.1 (1) It is a discriminatory practice for a financial institution offering a banking service to refuse to provide the banking service to an individual by reason only of the individual’s low income.
+
+
+
+
+
+
+
+
+
+10.1 (1) Lorsqu’une institution financière offre un service bancaire et qu’elle refuse de l’offrir à une personne pour le seul motif que celle-ci a de faibles revenus, ce refus constitue un acte discriminatoire.
+
+
+
+Refus de
+fournir des services bancaires
+
+
+
+
+
+
+
+
+
+
+
+For greater certainty
+
+
+
+(2) For greater certainty, subsection (1) does not restrict the generality of the other sections of this Act.
+
+
+
+
+
+
+
+
+
+(2) Il demeure entendu que le paragraphe (1) ne limite pas la portée générale des autres articles de la présente loi.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Definition
+
+
+
+(3) In this Act, “financial institution” means
+
+
+
+
+
+
+
+
+(a) a bank or an authorized foreign bank within the meaning of the Bank Act;
+
+
+
+
+
+
+
+
+(b) a company to which the Trust and Loan Companies Act applies; and
+
+
+
+
+
+
+
+
+(c) a body corporate to which the Cooperative Credit Associations Act applies.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application de la présente loi, 
+« institution financière » s’entend :
+
+
+
+
+Définition
+
+
+
+
+a) d’une banque ou d’une banque étrangère autorisée, au sens de la Loi sur les banques;
+
+
+
+
+
+
+
+
+b) d’une société régie par la Loi sur les sociétés de fiducie et de prêt;
+
+
+
+
+
+
+
+
+c) d’une association régie par la Loi sur les associations coopératives de crédit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Act is amended by adding the following after section 61:
+
+
+
+
+
+
+
+
+
+4. La même loi est modifiée par adjonction, après l’article 61, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Review by the Commission
+
+
+
+61.01 (1) The Commission shall review every bill introduced in or presented to the House of Commons by a minister of the Crown, in order to ascertain whether any of its provisions are likely to result in a discriminatory practice under this Act, and the Commission shall prepare a report on its findings.
+
+
+
+
+
+
+
+
+
+61.01 (1) La Commission entreprend un examen de tout projet ou proposition de loi soumis ou présenté à la Chambre des communes par un ministre fédéral en vue de déterminer si l’une quelconque de ses dispositions donnera vraisemblablement lieu à un acte discriminatoire visé par la présente loi et prépare un rapport à cet égard.
+
+
+
+Examen par la Commission
+
+
+
+
+
+
+
+
+
+
+Copy of the report to the Minister of Justice
+
+
+
+(2) As soon as the Commission has completed the report, it shall transmit a copy to the Minister of Justice.
+
+
+
+
+
+
+
+
+
+(2) Dès que la Commission a terminé la rédaction du rapport, elle en fait parvenir une copie au ministre de la Justice.
+
+
+
+Copie du rapport au ministre de la Justice
+
+
+
+
+
+
+
+
+
+
+Tabling of report
+
+
+
+(3) The Minister of Justice shall cause a copy of the report to be laid before each House of Parliament on any of the first two days on which that House is sitting after the Minister receives the report.
+
+
+
+
+
+
+
+
+
+(3) Le ministre de la Justice fait déposer un exemplaire du rapport devant chaque chambre du Parlement dans les deux premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt du rapport
+
+
+
+
+
+
+
+
+
+
+Report on poverty
+
+
+
+61.02 (1) After consultation with Statistics Canada and the National Council of Welfare, the Commission shall prepare and transmit to the Minister of Justice, not later than the first day of December in each year, a report on the impact of legislative, budgetary and regulatory measures taken by the Government of Canada to reduce poverty in Canada and on the amount of money that should be expended annually to reduce that poverty.
+
+
+
+
+
+
+
+
+
+61.02 (1) Après consultation de Statistiques Canada et du Conseil national du bien-être social et au plus tard le 1er décembre de chaque année, la Commission établit et présente au ministre de la Justice un rapport sur l'impact des mesures législatives, budgétaires et réglementaires fédérales visant à réduire la pauvreté au Canada et sur les sommes qui devraient être déboursées annuellement pour la réduction de la pauvreté.
+
+
+
+Rapport sur 
+la pauvreté
+
+
+
+
+
+
+
+
+
+
+
+Tabling of report
+
+
+
+(2) The Minister of Justice shall cause a copy of the report to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the Minister receives the report.
+
+
+
+
+
+
+
+
+
+(2) Le ministre de la Justice fait déposer un exemplaire du rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt du rapport
+
+
+
+
+
+
+
+
+
+
+Debate in the House of Commons
+
+
+
+(3) Within the first fifteen days that the House of Commons is sitting following the tabling of the report, the Minister of Justice shall propose a motion in that House that the report be debated in the House.
+
+
+
+
+
+
+
+
+
+(3) Dans les quinze jours de séance de la Chambre des communes suivant le dépôt du rapport, le ministre de la Justice présente une motion à la Chambre des communes demandant que le rapport fasse l’objet d’un débat à la Chambre.
+
+
+
+Débat à la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+Debate in the House of Commons
+
+
+
+(4) The House of Commons shall take up and consider the motion referred to in subsection (3) beginning on the second day on which that House is sitting after the day on which the motion is proposed.
+
+
+
+
+
+
+
+
+
+(4) La Chambre des communes étudie la motion visée au paragraphe (3) dès le deuxième jour de séance de cette chambre suivant celui de sa présentation.
+
+
+
+Débat à la Chambre des communes
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+5.  The definitions “criminal rate” and “interest” in subsection 347(2) of the Criminal Code are replaced by the following:
+
+
+
+
+
+
+
+
+
+5. Les définitions de « intérêt » et « taux criminel », au paragraphe 347(2) du Code criminel, sont respectivement remplacées par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“criminal rate”« taux criminel »
+
+
+
+“criminal rate” means an effective annual rate of interest on the credit advanced under an agreement or arrangement, calculated in accordance with generally accepted actuarial practices and principles, that exceeds by 35 percentage points or more the target for the overnight rate, determined and published by the Bank of Canada, on the day on which the agreement or arrangement is entered into or renewed;
+
+
+
+
+“interest”« intérêt »
+
+
+
+“interest” means the aggregate of all charges and expenses, whether in the form of a fee, fine, penalty, commission or other similar charge or expense or in any other form, paid or payable for the advancing of credit under an agreement or arrangement, by or on behalf of the person to whom the credit is or is to be advanced, irrespective of the person to whom any such charges and expenses are or are to be paid or payable, but does not include any repayment of credit advanced or any official fee, overdraft charge, required deposit balance or, in the case of a mortgage transaction, any amount required to be paid on account of property taxes;
+
+
+
+
+
+
+
+
+
+« intérêt » L'ensemble des frais de tous genres, y compris les agios, commissions, pénalités et indemnités, qui sont payés ou payables à qui que ce soit par l'emprunteur ou pour son compte, en contrepartie du capital prêté ou à prêter. La présente définition exclut un remboursement de capital prêté, les taxes officielles, les frais pour découvert de compte, le dépôt de garantie et, dans le cas d'un prêt hypothécaire, les sommes destinées à l'acquittement de l'impôt foncier.
+
+
+
+« intérêt »“interest”
+
+
+
+
+« taux criminel »  Tout taux d'intérêt annuel effectif, appliqué au capital prêté et calculé conformément aux règles et pratiques actuarielles généralement admises, qui, le jour de la conclusion ou du renouvellement de la convention ou de l'entente, dépasse de trente-cinq points de pourcentage ou plus le taux cible du financement à un jour que fixe et publie la Banque du Canada.
+
+
+
+« taux criminel »“criminal rate”
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+6. This Act comes into force 60 days after the day on which it receives royal assent.
+
+
+
+
+
+
+
+
+
+6. La présente loi entre en vigueur soixante jours après la date de sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

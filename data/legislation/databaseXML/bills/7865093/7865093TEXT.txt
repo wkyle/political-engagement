@@ -1,0 +1,659 @@
+
+
+
+
+
+C-657
+
+
+
+
+
+C-657
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-657
+
+
+
+
+
+PROJET DE LOI C-657
+
+
+
+
+
+
+An Act to amend the Income Tax Act (small brewery tax credit)
+
+
+
+
+
+Loi modifiant la Loi de l’impôt sur le revenu (crédit d’impôt pour les petits producteurs de bière)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, March 11, 2015
+
+première lecture le 11 mars 2015
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Masse
+
+412285
+
+
+
+M. Masse
+
+
+
+
+
+SUMMARY
+This enactment amends the Income Tax Act to provide a tax credit for taxpayers who brewed, in Canada, less than 15 001 hectolitres of beer and malt liquor in a fiscal year.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi de l’impôt sur le revenu afin de prévoir un crédit d’impôt pour le contribuable qui a brassé, au Canada, moins de 15 001 hectolitres de bière et de liqueur de malt dans une année d’imposition.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-657
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-657
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Income Tax Act (small brewery tax credit)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de l’impôt sur le revenu (crédit d’impôt pour les petits producteurs de bière)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte : 
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Supporting Small Brewers Act.
+
+
+
+
+
+
+
+
+
+1. Loi soutenant les petits producteurs de bière.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+R.S., c.1 (5th Supp.)
+
+
+
+INCOME TAX ACT
+
+
+
+
+
+
+
+
+
+LOI DE L’IMPÔT SUR LE REVENU
+
+
+
+L.R., ch.1 (5e suppl.)
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Income Tax Act is amended by adding the following after section 127.3:
+
+
+
+
+
+
+
+
+
+2. La Loi de l’impôt sur le revenu est modifiée par adjonction, après l’article 127.3, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Small brewery tax credit
+
+
+
+127.31 There may be deducted from the tax otherwise payable under this Part for a taxation year by a taxpayer who is a licensed brewer under Part III of the Excise Act and who brewed, in Canada, in that fiscal year, less than 15 001 hectolitres of beer and malt liquor,
+
+
+
+
+
+
+
+
+(a) in the case of a brewer who brewed 5 000 hectolitres of beer and malt liquor or less, an amount determined by the formula
+
+
+
+
+
+
+
+
+A × (0.1 × B)
+
+
+
+
+
+
+
+
+where
+
+
+
+
+
+
+
+
+A      is the quantity, in hectolitres, of beer and malt liquor brewed in that fiscal year, and
+
+
+
+
+
+
+
+
+B      is the duty of excise set out in section 1 of Part II of the schedule to the Excise Act; or
+
+
+
+
+
+
+
+
+(b) in the case of a brewer who brewed more than 5 000 hectolitres of beer and malt liquor but less than 15 001 hectolitres of beer and malt liquor, an amount determined by the formula
+
+
+
+
+
+
+
+
+0.1 × [1 - (A - 5 000)/10 000] × B × A
+
+
+
+
+
+
+
+
+where
+
+
+
+
+
+
+
+
+A      is the quantity, in hectolitres, of beer and malt liquor brewed in that fiscal year, and
+
+
+
+
+
+
+
+
+B      is the duty of excise set out in section 1 of Part II of the schedule to the Excise Act.
+
+
+
+
+
+
+
+
+
+127.31 Le contribuable qui est un brasseur muni d’une licence accordée en vertu de la partie III de la Loi sur l’accise et qui a brassé, au Canada, moins de 15 001 hectolitres de bière et de liqueur de malt dans une année d’imposition peut déduire de l’impôt qu’il est par ailleurs tenu de payer en vertu de la présente partie pour cette année d’imposition :
+
+
+
+Crédit d’impôt pour les petits producteurs de bière 
+
+
+
+
+a) dans le cas d’un brasseur qui a brassé au plus 5000 hectolitres de bière et de liqueur de malt, le montant calculé selon la formule suivante :
+
+
+
+
+
+
+
+
+A × (0,1 × B)
+
+
+
+
+
+
+
+
+où :
+
+
+
+
+
+
+
+
+A      représente la quantité, en hectolitres, de bière et de liqueur de malt brassées durant l’année d’imposition;
+
+
+
+
+
+
+
+
+B      le droit d’accise établi à l’article 1 de la partie II de l’annexe de la Loi sur l’accise;
+
+
+
+
+
+
+
+
+b) dans le cas d’un brasseur qui a brassé plus de 5000 mais moins de 15 001 hectolitres de bière et de liqueur de malt, le montant calculé selon la formule suivante : 
+
+
+
+
+
+
+
+
+0,1 × [1 - (A - 5000)/10 000] × B × A
+
+
+
+
+
+
+
+
+où :
+
+
+
+
+
+
+
+
+A      représente la quantité, en hectolitres, de bière et de liqueur de malt brassées durant l’année d’imposition; 
+
+
+
+
+
+
+
+
+B      le droit d’accise établi à l’article 1 de la partie II de l’annexe de la Loi sur l’accise.
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

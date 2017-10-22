@@ -1,0 +1,1014 @@
+
+
+
+
+
+C-309
+
+
+
+
+
+C-309
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-309
+
+
+
+
+
+PROJET DE LOI C-309
+
+
+
+
+
+
+An Act to amend the Business Development Bank of Canada Act and the Canada Student Loans Act (student loan system)
+
+
+
+
+
+Loi  modifiant la Loi sur la Banque de développement du Canada et la Loi fédérale sur les prêts aux étudiants (régime de prêts d’études)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 18, 2006
+
+première lecture le 18 mai 2006
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Stoffer
+
+391099
+
+
+
+M. Stoffer
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to establish the Business Development Bank of Canada as a lender of guaranteed student loans and to provide that student loan interest rates are set annually at the rate of inflation for the previous year. 
+This will ensure that students and persons still paying off student loans have reasonable financing and are not unduly burdened by debt after completing their education.
+Persons who have existing loans from the lenders previously established by the Canada Student Loans Act will be able to apply for loans from the Business Development Bank of Canada to pay them off and will then be covered by the new interest provisions.
+
+
+
+SOMMAIRE
+Le texte a pour objet de désigner la Banque de développement du Canada comme prêteur autorisé à consentir des prêts garantis aux étudiants et de fixer chaque année l’intérêt payable sur ces prêts à un taux égal au taux d’inflation de l’année précédente.
+Ces mesures permettront aux étudiants et aux personnes qui ont des prêts d’études impayés de bénéficier d’un financement raisonnable et de ne pas être indûment accablés de dettes à la fin de leurs études.
+Les personnes qui ont déjà contracté des emprunts auprès des prêteurs antérieurement désignés par la Loi fédérale sur les prêts aux étudiants pourront faire une demande de prêt auprès de la Banque de développement du Canada afin de rembourser intégralement ces emprunts et de bénéficier du nouveau taux d’intérêt.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-309
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-309
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Business Development Bank of Canada Act and the Canada Student Loans Act (student loan system)
+
+
+
+
+
+
+
+
+
+Loi  modifiant la Loi sur la Banque de développement du Canada et la Loi fédérale sur les prêts aux étudiants (régime de prêts d’études)
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+ WHEREAS the management of student loan programs by banks has resulted in unreasonable and inflexible interest rates and payment policies and has had a negative effect on post-secondary education in Canada;
+
+
+
+
+
+
+
+
+ WHEREAS student loans through banks have had interest rates applied that are well over the rates charged to business borrowers;
+
+
+
+
+
+
+
+
+ WHEREAS, as a result, many graduates face years with a heavy burden of loan repayment after completing their education and consequently are unable to meet their loan obligations;
+
+
+
+
+
+
+
+
+ AND WHEREAS student loan programs should incorporate interest policies that recognize that giving financial assistance to students is a national priority of investment in the future and not an opportunity for profit;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que la gestion par les banques des programmes de prêts d’études a donné lieu à l’établissement de politiques déraisonnables et inflexibles en matière de taux d’intérêt et de remboursement et a produit des effets négatifs sur la poursuite des études postsecondaires au Canada;
+
+
+
+
+
+
+
+
+que les prêts consentis aux étudiants par les banques ont été soumis à des taux d’intérêt nettement supérieurs à ceux imposés aux gens d’affaires;
+
+
+
+
+
+
+
+
+qu’en conséquence un grand nombre de diplômés se voient accablés de la lourde charge de rembourser ces prêts à la fin de leurs études et que beaucoup sont incapables de s’acquitter de leurs obligations à cet égard;
+
+
+
+
+
+
+
+
+que les programmes de prêts d’études devraient comporter une politique en matière d’intérêt qui reconnaît que l’octroi d’une aide financière aux étudiants est une priorité nationale en tant qu’investissement dans l’avenir et non une occasion de faire des profits,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+1995, c. 28
+
+
+
+BUSINESS DEVELOPMENT BANK OF CANADA ACT
+
+
+
+
+
+
+
+
+
+
+LOI SUR LA BANQUE DE DÉVELOPPEMENT DU CANADA
+
+
+
+1995, ch. 28
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 4 of the Business Development Bank of Canada Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. L’article 4 de la Loi sur la Banque de développement du Canada est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose of Bank
+
+
+
+4. (1) The purpose of the Bank is
+
+
+
+
+
+
+
+
+(a) to support Canadian entrepreneurship by providing financial and management services and by issuing securities or otherwise raising funds or capital in support of those services; and  
+
+
+
+
+
+
+
+
+(b) to provide guaranteed student loans to students under the Canada Student Loans Act.
+
+
+
+
+
+
+
+
+
+4. (1)  La Banque a pour mission :
+
+
+
+Mission de la Banque
+
+
+
+
+a) de soutenir l’esprit d’entreprise au Canada en offrant des services financiers et de gestion et en émettant des valeurs mobilières ou en réunissant de quelque autre façon des fonds et des capitaux pour appuyer ces services; 
+
+
+
+
+
+
+
+
+b) de consentir des prêts garantis aux étudiants conformément à la Loi fédérale sur les prêts aux étudiants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Small and medium-sized enterprises
+
+
+
+(2) In carrying out its purpose with respect to Canadian entrepreneurship, the Bank must give particular consideration to the needs of small and medium-sized enterprises.
+
+
+
+
+
+
+
+
+
+(2) Dans la poursuite de sa mission quant au soutien de l’esprit d’entreprise au Canada,  la Banque attache une importance particulière aux besoins des petites et des moyennes entreprises.
+
+
+
+Encouragement des PME
+
+
+
+
+
+
+
+
+
+
+Loans to students
+
+
+
+(3) In carrying out its purpose with respect to guaranteed student loans, the Bank must provide loans to students in accordance with the Canada Student Loans Act
+
+
+
+
+
+
+
+
+(a) at the rate set in accordance with section 5.1 of that Act; and
+
+
+
+
+
+
+
+
+(b) using simple procedures and reasonable and flexible administration that recognizes that many students are not experienced in money management.  
+
+
+
+
+
+
+
+
+
+(3) Dans la poursuite de sa mission quant à l’octroi de prêts garantis aux étudiants, la Banque consent de tels prêts en conformité avec la Loi fédérale sur les prêts aux
+étudiants :
+
+
+
+
+Prêts aux étudiants
+
+
+
+
+a) au taux fixé conformément à l'article 5.1 de cette loi;
+
+
+
+
+
+
+
+
+b) en utilisant des procédures simples et un mode d’administration souple et raisonnable qui reconnaît qu’un bon nombre d’étudiants n’ont pas d’expérience dans la gestion financière. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsections 14(2) to (4) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+2. Les paragraphes 14(2) à (4) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+How entrepreneur loans, etc.,
+may be made
+
+
+
+(2) Loans, investments and guarantees in support of entrepreneurship may be made or given directly, through arrangements with other financial institutions or by the Bank as a member of a financing syndicate.
+
+
+
+
+
+
+
+
+
+(2) Les prêts et investissements au soutien de l'esprit d'entreprise peuvent se faire, ou les garanties à cette fin se donner, directement, dans le cadre d’arrangements avec d’autres institutions financières ou à titre de membre d’un consortium financier.
+
+
+
+Manière de
+les faire
+
+
+
+
+
+
+
+
+
+
+
+Criteria for making entrepreneur loans, etc.
+
+
+
+(3) Loans, investments and guarantees in support of entrepreneurship may be made or given only where, in the opinion of the Board or any committee or officer designated by the Board,
+
+
+
+
+
+
+
+
+(a) the person is engaged, or is about to engage, in an enterprise in Canada; 
+
+
+
+
+
+
+
+
+(b) the amount invested, or to be invested, in the enterprise by persons other than the Bank and the character of the investment are such that the Bank may reasonably expect that those persons will have a continuing commitment to the enterprise; and 
+
+
+
+
+
+
+
+
+(c) the enterprise may reasonably be expected to prove successful.
+
+
+
+
+
+
+
+
+
+(3) Les prêts et investissements au soutien de l’esprit d’entreprise ne peuvent se faire, ou les garanties se donner à cette fin, que si, de l’avis du conseil, d’un comité ou d’un cadre autorisé par le conseil, les conditions suivantes sont réunies :
+
+
+
+Critères
+
+
+
+
+a) la personne en cause exploite ou est sur le point d’exploiter une entreprise au Canada; 
+
+
+
+
+
+
+
+
+b) le montant et la nature de l’investissement fait ou devant être fait dans cette entreprise par des personnes autres que la Banque permettent à celle-ci de considérer comme durable la participation de ces personnes à cette entreprise; 
+
+
+
+
+
+
+
+
+c) l’entreprise présente des perspectives raisonnables de réussite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complementary to commercial financial institutions
+
+
+
+(4) The loans, investments and guarantees  in support of entrepreneurship are to fill out or complete services available from commercial financial institutions.
+
+
+
+
+
+
+
+
+
+(4) Les prêts, investissements et garanties au soutien de l’esprit d’entreprise doivent servir à compléter les services offerts par les institutions financières commerciales.
+
+
+
+Complément aux autres institutions
+
+
+
+
+
+
+
+
+
+
+Loans to students
+
+
+
+(4.1) Loans to students must be made in accordance with the regulations made under the Canada Student Loans Act.
+
+
+
+
+
+
+
+
+
+(4.1) Les prêts aux étudiants sont consentis conformément aux règlements d’application de la Loi fédérale sur les prêts aux étudiants.
+
+
+
+Prêts aux étudiants
+
+
+
+
+
+
+
+
+R.S., c. S-23
+
+
+
+CANADA STUDENT LOANS ACT
+
+
+
+
+
+
+
+
+
+LOI FÉDÉRALE SUR LES PRÊTS AUX ÉTUDIANTS
+
+
+
+L.R., ch. S-23
+
+
+
+
+
+
+
+
+
+
+
+
+3. The definition “lender” in subsection 2(1) of the Canada Student Loans Act is amended by striking out the word “or” at the end of paragraph (b), by adding the word “or” at the end of paragraph (c) and by adding the following after paragraph (c):
+
+
+
+
+
+
+
+
+
+3. La définition de « prêteur », au paragraphe 2(1) de la Loi fédérale sur les prêts aux étudiants, est modifiée par adjonction, après l’alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) on and after a date set by the regulations, the Business Development Bank of Canada;
+
+
+
+
+
+
+
+
+
+d) à compter de la date fixée par règlement, la Banque de développement du Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Act is amended by adding the following after section 5:
+
+
+
+
+
+
+
+
+
+4. La même loi est modifiée par adjonction, après l’article 5, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Interest at prime
+
+
+
+5.1 In respect of a guaranteed student loan made by the Business Development Bank of Canada, the rate of interest shall be set every April 1 at the rate that equals the rate of inflation for the calendar year ending on the previous December 31.
+
+
+
+
+
+
+
+
+
+5.1 Dans le cas d’un prêt garanti consenti par la Banque de développement du Canada, le taux d’intérêt est fixé le 1er avril de chaque année afin de correspondre au taux d’inflation pour l’année civile se terminant le 31 décembre précédent.
+
+
+
+Taux préférentiel
+
+
+
+
+
+
+
+
+
+
+New loan to pay off existing loan
+
+
+
+5.2 A person who is a borrower under an existing guaranteed student loan that was made by a lender as defined in paragraphs 2(1)(a) to (c) may apply for and, subject to the other provisions of this Act and the regulations, be granted a loan from the Business Development Bank of Canada at the rate of interest described in section 5.1 for the purpose of paying off the existing guaranteed student loan, whether or not that loan is in good standing.
+
+
+
+
+
+
+
+
+
+5.2 L’emprunteur lié par un contrat de prêt garanti consenti par un prêteur au sens des alinéas 2(1)a) à c) peut demander et, sous réserve des autres dispositions de la présente loi et de ses règlements, obtenir un prêt auprès de la Banque de développement du Canada, au taux d’intérêt visé à l’article 5.1, afin de rembourser le prêt garanti existant, que celui-ci soit ou non en règle.
+
+
+
+Nouveau prêt pour rembourser le prêt existant
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

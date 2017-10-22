@@ -1,0 +1,1723 @@
+
+
+
+
+
+C-298
+
+
+
+
+
+C-298
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-298
+
+
+
+
+
+PROJET DE LOI C-298
+
+
+
+
+
+
+An Act respecting Corporate Social Responsibility for the Activities of Canadian Mining Corporations in Developing Countries
+
+
+
+
+
+Loi concernant la responsabilité sociale d'entreprise inhérente aux activités des sociétés minières canadiennes dans des pays en développement
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, February 6, 2009
+
+première lecture le 6 février 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+3rd Session, 40th Parliament
+
+This bill was introduced during the Second Session of the 40th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the Second Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+3e session, 40e législature
+
+Le présent projet de loi a été présenté lors de la deuxième session de la 40e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la deuxième session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+Mr. Dewar
+
+402140
+
+
+
+M. Dewar
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to ensure that Canada’s commitments to international law and the International Bill of Rights are complied with in respect of the mining activities of Canadian corporations in developing countries. The enactment creates the Office of the Ombudsman and requires those corporations to report to it on their mining activities. It also gives the Office of the Ombudsman the responsibility to develop guidelines on best practices to follow for mining activities and it requires the Ombudsman to submit an annual report to both Houses of Parliament on the provisions and operation of this Act.
+
+
+
+SOMMAIRE
+Le texte vise à assurer le respect des engagements du Canada à l’égard du droit international et de la Déclaration internationale des droits de l'homme quant aux activités minières exercées par les sociétés canadiennes dans des pays en développement. Il crée le Bureau de l’ombudsman et oblige ces sociétés à faire rapport à celui-ci de leurs activités minières. Il confie au Bureau de l’ombudsman la responsabilité d’élaborer des lignes directrices concernant les meilleures pratiques à suivre pour les activités minières et il oblige l’ombudsman à déposer devant chaque chambre du Parlement un rapport annuel sur la présente loi et les conséquences de son application.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-298
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-298
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting Corporate Social Responsibility for the Activities of Canadian Mining Corporations in Developing Countries
+
+
+
+
+
+
+
+
+
+Loi concernant la responsabilité sociale d'entreprise inhérente aux activités des sociétés minières canadiennes dans des pays en développement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Corporate Social Responsibility of Mining Corporations Outside Canada Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la responsabilité sociale d’entreprise des sociétés minières à l’étranger.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The following definitions apply in this Act.
+
+
+
+
+“corporation”« société »
+
+
+
+“corporation” includes any company or legal person incorporated by or under an Act of Parliament or of any province.
+
+
+
+
+“developing countries”« pays en développement »
+
+
+
+“developing countries” means countries and territories named in the list of countries and territories eligible for Canadian official development assistance established by the Minister of International Cooperation.
+
+
+
+
+“IFC”« SFI »
+
+
+
+“IFC” means the International Finance Corporation affiliated with the World Bank Group.
+
+
+
+
+“mining activities”« activités minières »
+
+
+
+“mining activities” means mining or prospecting operations carried out directly by a corporation or indirectly by its foreign affiliate or by a foreign affiliate acting under the control of the corporation. 
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Foreign Affairs.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« activités minières » Travaux d’exploitation ou de prospection minières réalisés soit directement par une société, soit indirectement par une société étrangère affiliée ou par une société étrangère affiliée qui agit sous la direction de la société.
+
+
+
+« activités minières »“mining activities”
+
+
+
+
+« ministre » Le ministre des Affaires étrangères.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« pays en développement » Pays ou territoire inscrit à la liste des pays et territoires admissibles à l’aide publique au développement du Canada, établie par le ministre de la Coopération internationale.
+
+
+
+« pays en développement »“developing countries”
+
+
+
+
+« SFI » La Société financière internationale affiliée au Groupe de la Banque mondiale.
+
+
+
+« SFI »“IFC”
+
+
+
+
+« société » Entité dotée de la personnalité morale constituée en vertu d’une loi fédérale ou provinciale.
+
+
+
+« société »“corporation”
+
+
+
+
+
+
+
+
+
+
+PURPOSE
+
+
+
+
+
+
+
+
+
+OBJET
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+3. The purpose of this Act is to ensure that Canada’s commitments to international law and the International Bill of Rights are complied with in respect of the mining activities of corporations in developing countries.
+
+
+
+
+
+
+
+
+
+3. La présente loi vise à assurer le respect, quant aux activités minières de sociétés dans des pays en développement, des engagements du Canada à l’égard du droit international et de la Déclaration internationale des droits de l'homme.
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+OFFICE OF THE OMBUDSMAN
+
+
+
+
+
+
+
+
+
+BUREAU DE L’OMBUDSMAN
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Ombudsman
+
+
+
+4. An Office of the Ombudsman is hereby established for the purpose of creating guidelines respecting the best practices to be followed by corporations in their overseas mining activities in developing countries and of monitoring their mining activities to insure compliance with the guidelines.
+
+
+
+
+
+
+
+
+
+4. Est créé le Bureau de l’ombudsman chargé, d’une part, d’établir des lignes directrices concernant les meilleures pratiques que les sociétés doivent respecter lorsqu’elles exercent des activités minières dans des pays en développement et, d’autre part, de surveiller les activités minières de ces sociétés pour assurer le respect des lignes directrices.
+
+
+
+Bureau de l’ombudsman
+
+
+
+
+
+
+
+
+
+
+Appointment 
+
+
+
+5. The Ombudsman shall be appointed by the Minister, with the approval of the Governor in Council, to hold office during pleasure for such term as the Governor in Council considers appropriate.
+
+
+
+
+
+
+
+
+
+5. Le ministre, avec l’approbation du gouverneur en conseil, nomme à titre amovible l’ombudsman pour le mandat que le gouverneur en conseil estime indiqué.
+
+
+
+Nomination
+
+
+
+
+
+
+
+
+
+
+Salaries
+
+
+
+6. The Ombudsman shall be paid such salary, fees or other remuneration as is fixed by the Governor in Council and is entitled to be paid reasonable travel and other expenses incurred in the course of his or her duties under this Act.
+
+
+
+
+
+
+
+
+
+6. L’ombudsman reçoit la rémunération — sous forme de traitement ou de rétribution ou sous une autre forme — que fixe le gouverneur en conseil, et est indemnisé des frais de déplacement et autres entraînés par l’accomplissement des fonctions qui lui sont confiées en application de la présente loi.
+
+
+
+Rémunération
+
+
+
+
+
+
+
+
+
+
+Powers
+
+
+
+7. In carrying out his or her purposes under this Act, the Ombudsman may
+
+
+
+
+
+
+
+
+(a) prepare, compile, publish and distribute information and provide consulting services;
+
+
+
+
+
+
+
+
+(b) receive complaints concerning the mining activities of  corporations in developing countries;
+
+
+
+
+
+
+
+
+(c) on his or her own initiative, at the request of the Minister or after deciding, based on a summary evaluation, that the complaint is well founded, conduct an inquiry to determine if the mining activities of a corporation comply with the guidelines issued under section 10;
+
+
+
+
+
+
+
+
+(d) advise the Government of Canada and Export Development Canada in order to help them ensure that corporations not in compliance with the requirements set out in this Act do not receive their support;  and
+
+
+
+
+
+
+
+
+(e) inform the Minister of situations that may justify the Minister’s invoking the Special Economic Measures Act or any other act against a company conducting activities in a foreign country.
+
+
+
+
+
+
+
+
+
+7. Dans le cadre du mandat que lui confère la présente loi, l’ombudsman peut :
+
+
+
+Pouvoirs
+
+
+
+
+a) recueillir, analyser, publier et diffuser des renseignements, et fournir des services de consultation;
+
+
+
+
+
+
+
+
+b) recevoir des plaintes relatives aux activités minières de sociétés dans des pays en développement;
+
+
+
+
+
+
+
+
+c) de sa propre initiative, à la demande du ministre ou après avoir conclu, en se fondant sur une évaluation sommaire, du bien-fondé de la plainte, procéder à une enquête pour déterminer si les activités minières de la société respectent les lignes directrices établies conformément à l’article 10;
+
+
+
+
+
+
+
+
+d) conseiller le gouvernement du Canada et Exportation et développement Canada afin de les aider à faire en sorte qu’ils n’appuient pas les sociétés qui contreviennent aux exigences établies dans la présente loi;
+
+
+
+
+
+
+
+
+e) informer le ministre des situations pouvant justifier le recours, par ce dernier, à la Loi sur les mesures économiques spéciales ou à toute autre loi contre une société exerçant des activités minières dans un pays étranger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REQUIREMENTS
+
+
+
+
+
+
+
+
+
+EXIGENCES
+
+
+
+
+
+
+
+
+
+
+
+
+Requirements
+
+
+
+8. Every mining corporation shall, in conducting mining activities in developing countries,
+
+
+
+
+
+
+
+
+(a) take all necessary measures to minimize the negative impact of its activities on the environment or on human rights in the developing country;
+
+
+
+
+
+
+
+
+(b) comply with international human rights standards; and
+
+
+
+
+
+
+
+
+(c) follow the guidelines issued under section 10.
+
+
+
+
+
+
+
+
+
+8. La société qui exerce des activités minières dans un pays en développement :
+
+
+
+Exigences
+
+
+
+
+a) prend les mesures nécessaires pour y minimiser les effets négatifs de ses activités sur l’environnement ou sur les droits de la personne;
+
+
+
+
+
+
+
+
+b) respecte les normes internationales en matière de droits de la personne;
+
+
+
+
+
+
+
+
+c) respecte les lignes directrices établies conformément à l’article 10.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DUTY TO REPORT
+
+
+
+
+
+
+
+
+
+OBLIGATION DE FAIRE RAPPORT
+
+
+
+
+
+
+
+
+
+
+
+
+Report to the Office of the Ombudsman
+
+
+
+9. (1) A corporation conducting mining activities in a developing country shall, within one year of the coming into force of the Act or within six months prior to commencing mining activities in the developing country, whichever is later, report to the Office of the Ombudsman on its activities.
+
+
+
+
+
+
+
+
+
+9. (1) La société qui exerce des activités minières dans un pays en développement en fait rapport au Bureau de l’ombudsman dans l’année suivant l’entrée en vigueur de la présente loi ou dans les six mois précédant le début de ses activités minières dans ce pays, selon la dernière de ces éventualités à survenir.
+
+
+
+Rapport au Bureau de l’ombudsman
+
+
+
+
+
+
+
+
+
+
+Content of report
+
+
+
+(2) The report shall contain, for each site of mining activities, the following information:
+
+
+
+
+
+
+
+
+(a) the name of the corporation and the name of its foreign affiliate conducting activities, if any; and
+
+
+
+
+
+
+
+
+(b) the location of the mining activities.
+
+
+
+
+
+
+
+
+
+(2) Le rapport contient, pour chaque lieu d’activités minières, les renseignements suivants :
+
+
+
+Contenu du rapport
+
+
+
+
+a) le nom de la société et, le cas échéant, le nom de la société étrangère affiliée qui exerce les activités;
+
+
+
+
+
+
+
+
+b) le lieu où ces activités sont exercées.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Additional information
+
+
+
+(3) The Ombudsman may, for the purpose of assessing the mining activities of a corporation in a developing country, require the corporation to provide the Minister with any additional information that the Ombudsman considers appropriate that may be in the possession of the corporation or to which the corporation may reasonably be expected to have access.
+
+
+
+
+
+
+
+
+
+(3) En vue d’évaluer les activités minières d’une société dans un pays en développement, l’ombudsman peut obliger cette dernière à fournir au ministre tout renseignement supplémentaire dont elle dispose ou auquel elle peut normalement avoir accès, selon ce qu’il estime indiqué.
+
+
+
+Renseignements supplémentaires
+
+
+
+
+
+
+
+
+
+
+Updating of information
+
+
+
+(4) The mining corporation shall submit to the Ombudsman a report to update the information that was previously sent to the Ombudsman or to describe any new activity.
+
+
+
+
+
+
+
+
+
+(4) La société minière présente à l’ombudsman un rapport qui met à jour les renseignements qu’elle lui a déjà fournis ou qui décrit des activités nouvelles.
+
+
+
+Mise à jour des renseignements
+
+
+
+
+
+
+
+
+
+
+GUIDELINES
+
+
+
+
+
+
+
+
+
+LIGNES DIRECTRICES
+
+
+
+
+
+
+
+
+
+
+
+
+Content of guidelines
+
+
+
+10. (1) Within three years of the coming into force of this Act, the Ombudsman shall issue guidelines respecting the best practices to be followed by corporations in their overseas mining activities in developing countries and, in issuing those guidelines, the Ombudsman shall take into account any factors that the Minister considers relevant, including, but not limited to,
+
+
+
+
+
+
+
+
+(a) the Guidelines for Multinational Enterprises established by the Organisation for Economic Co-operation and Development;
+
+
+
+
+
+
+
+
+(b) the IFC's Performance Standards on Social and Environmental Sustainability and IFC's Guidance Notes to those standards; and
+
+
+
+
+
+
+
+
+(c) any relevant document prepared by the United Nations’ sessional working group on the working methods and activities of transnational corporations.
+
+
+
+
+
+
+
+
+
+10. (1) Dans les trois ans suivant l’entrée en vigueur de la présente loi, l’ombudsman établit des lignes directrices concernant les meilleures pratiques que les sociétés doivent respecter lorsqu’elles exercent des activités minières dans des pays en développement et, lorsqu’il les établit, tient compte de tout facteur que le ministre juge pertinent, notamment :
+
+
+
+Contenu des lignes directrices
+
+
+
+
+a) les Principes directeurs pour les entreprises multinationales établis par l’Organisation de coopération et de développement économiques;
+
+
+
+
+
+
+
+
+b) les Politiques et critères de performance en matière de durabilité sociale et environnementale et les notes d’orientation afférentes, publiés par la SFI;
+
+
+
+
+
+
+
+
+c) tout document pertinent préparé par le groupe de travail de session sur les méthodes de travail et les activités des sociétés transnationales, des Nations Unies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consultation
+
+
+
+(2) In carrying out its duties under subsection (1), the Ombudsman shall offer to consult with any government department or agency, representative of the mining industry or other interested person in or outside Canada that the Ombudsman considers appropriate in the circumstances.
+
+
+
+
+
+
+
+
+
+(2) Dans l’exécution des fonctions prévues au paragraphe (1), l’ombudsman propose de consulter les ministères ou organismes gouvernementaux, les représentants de l’industrie minière ou les autres personnes intéressées, tant au Canada qu’à l’étranger, qu'il estime opportun de consulter.
+
+
+
+Consultation
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(3) Guidelines issued under this section shall be made available to the public, and the Ombudsman shall give notice of them in the Canada Gazette and in any other manner that the Ombudsman considers appropriate.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman rend publiques les lignes directrices visées au présent article et en donne avis dans la Gazette du Canada et de toute autre façon qu’il estime indiquée.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+11. The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+(a) prescribing the form of the report to be made under subsection 12(1) and any additional information to be contained in the report; and
+
+
+
+
+
+
+
+
+(b) generally, for carrying out the purposes and provisions of this Act.
+
+
+
+
+
+
+
+
+
+11. Le gouverneur en conseil peut, par règlement :
+
+
+
+Règlements
+
+
+
+
+a) déterminer la forme du rapport visé au paragraphe 12(1) et préciser tout autre renseignement devant y figurer;
+
+
+
+
+
+
+
+
+b) prendre toute autre mesure d’application de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REVIEW AND REPORT
+
+
+
+
+
+
+
+
+
+EXAMEN ET RAPPORT
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+12. (1) Within three years after the coming into force of this Act and each year thereafter, the Ombudsman shall cause to be laid before both Houses of Parliament a report on the provisions and operation of this Act, including any recommendations for amendments to this Act.
+
+
+
+
+
+
+
+
+
+12. (1) Dans les trois ans suivant l’entrée en vigueur de la présente loi et chaque année par la suite, l’ombudsman fait déposer devant chaque chambre du Parlement un rapport sur la présente loi et les conséquences de son application, dans lequel il fait état des modifications qu’il juge souhaitables.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Review of the annual report
+
+
+
+(2) A committee of the House of Commons as may be designated or established by the House of Commons for that purpose, shall review the report and submit a report on the review to the House of Commons within 60 days.
+
+
+
+
+
+
+
+
+
+(2) Un comité de la Chambre des communes désigné ou établi par elle à cette fin procède à un examen du rapport et remet son rapport d’examen à la Chambre des communes dans les soixante jours.
+
+
+
+Examen du rapport annuel
+
+
+
+
+
+
+
+
+
+
+Review of the Act
+
+
+
+13. (1) Five years after the coming into force of this Act, a comprehensive review of the operation of that Act shall be undertaken by such committee of the House of Commons as may be designated or established by the House for that purpose.
+
+
+
+
+
+
+
+
+
+13. (1) Cinq ans après l’entrée en vigueur de la présente loi, un comité de la Chambre des communes désigné ou établi par elle à cette fin procède à un examen complet de l’application de la présente loi.
+
+
+
+Examen de la loi
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(2) The committee referred to in subsection 12(2) shall, within one year after a review is undertaken pursuant to that subsection or within such further time as the House of Commons may authorize, submit a report on the review to the House of Commons.
+
+
+
+
+
+
+
+
+
+(2) Dans l’année qui suit le début de son examen ou dans le délai supérieur que la Chambre des communes lui accorde, le comité visé au paragraphe 12(2) remet son rapport à la Chambre des communes.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+R.S., c. E-20; 2001, c. 33, s. 2(F)
+
+
+
+Export Development Act
+
+
+
+
+
+
+
+
+
+Loi sur le développement des exportations
+
+
+
+L.R., ch. E-20; 2001, ch. 33, art. 2(F)
+
+
+
+
+
+
+
+
+
+
+
+
+14. Section 10 of the Export Development Act is amended by adding the following after subsection (1.1):
+
+
+
+
+
+
+
+
+
+14. L’article 10 de la Loi sur le développement des exportations est modifié par adjonction, après le paragraphe (1.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Mining activities outside Canada
+
+
+
+(1.2) In carrying out its purposes under subsection (1), the Corporation shall ensure that mining activities of corporations outside Canada are conducted in compliance with the provisions of the Corporate Social Responsibility of Mining Corporations Outside Canada Act.
+
+
+
+
+
+
+
+
+
+(1.2) Dans le cadre de sa mission, la Société veille à ce que les activités minières des sociétés à l’étranger soient exercées conformément aux dispositions de la Loi sur la responsabilité sociale d’entreprise des sociétés minières à l’étranger.
+
+
+
+Activités minières à l’étranger
+
+
+
+
+
+
+
+
+R.S., c. E-22; 1995, c. 5, s. 2
+
+
+
+Department of Foreign Affairs and International Trade Act
+
+
+
+
+
+
+
+
+
+Loi sur le ministère des Affaires étrangères et du Commerce international
+
+
+
+L.R., ch. E-22; 1995, ch. 5, art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+15. Section 10 of the Department of Foreign Affairs and International Trade Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+15. L’article 10 de la Loi sur le ministère des Affaires étrangères et du Commerce international est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Mining activities outside Canada
+
+
+
+(4) In carrying out its purposes under subsection (1), the Minister shall ensure that mining activities of corporations outside Canada are conducted in compliance with the provisions of the Corporate Social Responsibility of Mining Corporations Outside Canada Act.
+
+
+
+
+
+
+
+
+
+(4) Dans le cadre de ses fonctions, le ministre veille à ce que les activités minières des sociétés à l’étranger soient exercées conformément aux dispositions de la Loi sur la responsabilité sociale d’entreprise des sociétés minières à l’étranger.
+
+
+
+Activités minières à l’étranger
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

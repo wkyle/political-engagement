@@ -1,0 +1,2920 @@
+
+
+
+
+
+C-50
+
+
+
+
+
+C-50
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-50
+
+
+
+
+
+PROJET DE LOI C-50
+
+
+
+
+
+
+An Act to amend the Canada Elections Act
+
+
+
+
+
+Loi modifiant la Loi électorale du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 10, 2014
+
+première lecture le 10 décembre 2014
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF STATE (DEMOCRATIC REFORM)
+
+90751
+
+
+
+MINISTRE D’ÉTAT (RÉFORME DÉMOCRATIQUE)
+
+
+
+
+
+SUMMARY
+This enactment amends the Canada Elections Act to
+(a) eliminate the international register of electors and incorporate all of the information contained in it into the Register of Electors;
+(b) require electors who are resident outside Canada to make an application for registration and special ballot after the issue of the writs at each election;
+(c) stipulate that electors who are resident outside Canada may only receive a special ballot for the address at which they last resided in Canada;
+(d) require that electors who are applying for a special ballot under Division 3 or 4 of Part 11 include in their application for registration and special ballot proof of identity and residence and, if they apply from outside Canada, proof of Canadian citizenship;
+(e) require that an external auditor perform an audit and report on election workers’ compliance with special ballot voting procedures and requirements for every election;
+(f) authorize the Minister of Citizenship and Immigration to provide the Chief Electoral Officer with information for the purpose of assisting the Chief Electoral Officer to, among other things, delete from the Register of Electors the names of persons who are not Canadian citizens; and
+(g) add the offence of voting or attempting to vote by special ballot under Division 3 or 4 of Part 11 while knowing that one is not qualified as an elector and add offences under those Divisions of attesting to the residence of more than one elector and of acting as an attestor when one’s own residence has already been attested to.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi électorale du Canada pour :
+a) supprimer le registre international des électeurs et inclure tous les renseignements qui y figuraient dans le Registre des électeurs;
+b) exiger des électeurs résidant à l’étranger qu’ils présentent une demande d’inscription et de bulletin de vote spécial, après la délivrance des brefs, à chaque élection;
+c) préciser que les électeurs résidant à l’étranger ne peuvent recevoir un bulletin de vote spécial que pour leur dernière adresse de résidence au Canada;
+d) exiger des électeurs présentant une demande d’inscription et de bulletin de vote spécial aux termes des sections 3 ou 4 de la partie 11 qu’ils incluent dans leur demande une preuve d’identité et de résidence et, s’ils présentent la demande de l’étranger, une preuve de citoyenneté canadienne;
+e) exiger qu’un vérificateur externe vérifie, pour chaque élection, que le personnel électoral observe les procédures et les exigences s’appliquant aux électeurs quant au vote par bulletin spécial, et produise un rapport sur la question;
+f) autoriser le ministre de la Citoyenneté et de l’Immigration à communiquer au directeur général des élections des renseignements en vue notamment d’aider celui-ci à radier du Registre des électeurs le nom des personnes qui ne sont pas des citoyens canadiens;
+g) créer une infraction dans le cas où une personne vote, ou tente de voter, par bulletin de vote spécial aux termes des sections 3 ou 4 de la partie 11, alors qu’elle sait qu’elle n’a pas qualité d’électeur et créer des infractions relatives à ces sections dans les cas où une personne atteste du lieu de résidence de plus d’un électeur, et où une personne dont le lieu de résidence a été attesté par un électeur fournit une telle attestation pour un autre électeur.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-50
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Elections Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi électorale du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Citizen Voting Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur le vote des citoyens.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+2000, c. 9
+
+
+
+CANADA ELECTIONS ACT
+
+
+
+
+
+
+
+
+
+LOI ÉLECTORALE DU CANADA
+
+
+
+2000, ch. 9
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Canada Elections Act is amended by adding the following after section 46:
+
+
+
+
+
+
+
+
+
+2. La Loi électorale du Canada est modifiée par adjonction, après l’article 46, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Information from Minister of Citizenship and Immigration
+
+
+
+46.01 Despite subparagraph 46(1)(a)(ii), for the purpose of assisting the Chief Electoral Officer in updating the Register of Electors, including by deleting the name of a person who is not an elector, the Minister of Citizenship and Immigration may, at the request of the Chief Electoral Officer in writing, provide the Chief Electoral Officer with any of the following information, in relation to a person, that is contained in databases maintained by the Department of Citizenship and Immigration that relate to permanent residents and foreign nationals as those terms are defined in subsection 2(1) of the Immigration and Refugee Protection Act and with the date when the information referred to in paragraph (d) was included or updated in those databases:
+
+
+
+
+
+
+
+
+(a) their surname and given names;
+
+
+
+
+
+
+
+
+(b) their sex;
+
+
+
+
+
+
+
+
+(c) their date of birth; and
+
+
+
+
+
+
+
+
+(d) their addresses.
+
+
+
+
+
+
+
+
+
+46.01 Malgré le sous-alinéa 46(1)a)(ii), le ministre de la Citoyenneté et de l’Immigration peut, à la demande écrite du directeur général des élections et en vue d’aider celui-ci à mettre à jour le Registre des électeurs, notamment en y radiant le nom des personnes qui ne sont pas des électeurs, lui communiquer les renseignements ci-après sur une personne qui sont contenus dans les banques de données que le ministère de la Citoyenneté et de l’Immigration tient concernant les résidents permanents et les étrangers, au sens donné à ces termes au paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés, et la date où les renseignements visés à l’alinéa d) ont été inclus ou mis à jour dans ces banques :
+
+
+
+Renseignements— ministre de la Citoyenneté et de l’Immigration
+
+
+
+
+a) nom et prénoms;
+
+
+
+
+
+
+
+
+b) sexe;
+
+
+
+
+
+
+
+
+c) date de naissance;
+
+
+
+
+
+
+
+
+d) adresses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Paragraph 95(1)(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. L’alinéa 95(1)c) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) may vote under Division 3 of Part 11.
+
+
+
+
+
+
+
+
+
+c) a le droit de voter en vertu de la section 3 de la partie 11.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 143 of the Act is amended by adding the following after subsection (2.1):
+
+
+
+
+
+
+
+
+
+4. L’article 143 de la même loi est modifié par adjonction, après le paragraphe (2.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(2.11) However, the Chief Electoral Officer is not permitted to authorize under subsection (2.1) a type of identification that has been issued by an entity other than
+
+
+
+
+
+
+
+
+(a) a Canadian government, whether federal, provincial or local, or an agency of that government; and
+
+
+
+
+
+
+
+
+(b) an entity that is incorporated or formed by or under an Act of Parliament or of the legislature of a province or that is otherwise formed in Canada.
+
+
+
+
+
+
+
+
+
+(2.11) Le directeur général des élections ne peut toutefois autoriser, en vertu du paragraphe (2.1), des types d’identification délivrés par une entité autre que :
+
+
+
+Restriction
+
+
+
+
+a) soit un gouvernement canadien, fédéral ou provincial, une administration locale ou l’un de leurs organismes;
+
+
+
+
+
+
+
+
+b) soit une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale, ou formée autrement au Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Section 164.1 of the Act, as enacted by section 53 of the Fair Elections Act, chapter 12 of the Statutes of Canada, 2014, is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. L’article 164.1 de la même loi, édicté par l’article 53 de la Loi sur l’intégrité des élections, chapitre 12 des Lois du Canada (2014), est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Engagement of auditor
+
+
+
+164.1 (1) For each general election and by-election, the Chief Electoral Officer shall engage an auditor that he or she considers to have technical or specialized knowledge — other than a member of his or her staff or an election officer — to perform an audit and report on
+
+
+
+
+
+
+
+
+(a) whether deputy returning officers, poll clerks and registration officers have, on all days of advance polling and on polling day, properly exercised the powers conferred on them, and properly performed the duties and functions imposed on them, under sections 143 to 149, 161 to 162 and 169; and
+
+
+
+
+
+
+
+
+(b) whether the Chief Electoral Officer, members of his or her staff, including the special voting rules administrator, and election officers have properly exercised the powers conferred on them, and properly performed the duties and functions imposed on them, under sections 223 to 225, 227, 233 to 234, 236 to 237.1 and 241 to 243.1.
+
+
+
+
+
+
+
+
+
+164.1 (1) Pour chaque élection générale ou élection partielle, le directeur général des élections retient les services d’un vérificateur— autre qu’un membre de son personnel ou un fonctionnaire électoral — qui, selon lui, est un expert et qui est chargé d’effectuer une vérification et de lui présenter un rapport indiquant si, à la fois :
+
+
+
+Services d’un vérificateur retenus
+
+
+
+
+a) les scrutateurs, les greffiers du scrutin et les agents d’inscription ont, les jours de vote par anticipation et le jour du scrutin, exercé correctement les attributions que les articles 143 à 149, 161 à 162 et 169 leur confèrent;
+
+
+
+
+
+
+
+
+b) le directeur général des élections, les membres de son personnel, notamment l’administrateur des règles électorales spéciales, et les fonctionnaires électoraux ont exercé correctement les attributions que les articles 223 à 225, 227, 233 à 234, 236 à 237.1 et 241 à 243.1 leur confèrent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Access to documents
+
+
+
+(2) For greater certainty, at the request of the auditor, the Chief Electoral Officer shall give the auditor access to any application for registration and special ballot as defined in section 177, any documents included in that application and any other document that the auditor considers necessary to perform the audit and report in respect of paragraph (1)(b).
+
+
+
+
+
+
+
+
+
+(2) Il est entendu que, à la demande du vérificateur, le directeur général des élections lui donne accès aux documents — demandes d’inscription et de bulletin de vote spécial au sens de l’article 177, documents compris dans ces demandes et autres — dont il estime avoir besoin pour effectuer sa vérification et présenter son rapport au titre de l’alinéa (1)b).
+
+
+
+Accès aux documents
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) The definition “register” in section 220 of the Act is repealed.
+
+
+
+
+
+
+
+
+
+6. (1) La définition de « registre », à l’article 220 de la même loi, est abrogée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 220 of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) L’article 220 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“last place of ordinary residence”« lieu de résidence habituelle antérieure »
+
+
+
+“last place of ordinary residence” means an elector’s last place of ordinary residence before he or she left Canada. 
+
+
+
+
+“other elector”« autre électeur »
+
+
+
+“other elector” means, in relation to an elector who makes an application for registration and special ballot, another person who is qualified to vote in the electoral district in which the elector’s last place of ordinary residence is situated.
+
+
+
+
+
+
+
+
+
+« autre électeur » S’entend, relativement à un électeur qui présente une demande d’inscription et de bulletin de vote spécial, d’une autre personne qui est habile à voter dans la circonscription où est situé le lieu de résidence habituelle antérieure de l’électeur.
+
+
+
+« autre électeur »“other elector”
+
+
+
+
+« lieu de résidence habituelle antérieure » Le lieu de résidence habituelle d’un électeur au Canada avant son départ pour l’étranger.
+
+
+
+« lieu de résidence habituelle antérieure »“last place of ordinary residence”
+
+
+
+
+
+
+
+
+
+
+
+
+7. Section 221 of the Act is repealed.
+
+
+
+
+
+
+
+
+
+7. L’article 221 de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. The portion of subsection 222(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+8. Le passage du paragraphe 222(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Conditions for voting
+
+
+
+222. (1) An elector may vote under this Division if his or her application for registration and special ballot is received at the office of the Chief Electoral Officer after the issue of the writs and before 6:00 p.m. on the sixth day before polling day and if he or she
+
+
+
+
+
+
+
+
+
+222. (1) Tout électeur a le droit de voter en vertu de la présente section si sa demande d’inscription et de bulletin de vote spécial est reçue au bureau du directeur général des élections entre la délivrance des brefs et le sixième jour précédant le jour du scrutin, à 18 h, et s’il satisfait aux conditions suivantes :
+
+
+
+Conditions requises pour voter
+
+
+
+
+
+
+
+
+
+
+
+
+9. (1) Paragraph 223(1)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+9. (1) L’alinéa 223(1)a) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the elector’s name and address of his or her last place of ordinary residence;
+
+
+
+
+
+
+(a.1) proof of the elector’s Canadian citizenship;
+
+
+
+
+
+
+
+
+
+a) son nom et l’adresse de son lieu de résidence habituelle antérieure;
+
+
+
+
+
+
+a.1) une preuve de sa citoyenneté canadienne;
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 12, par. 40(2)(g)
+
+
+
+(2) Paragraph 223(1)(e) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 223(1)e) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 12, al. 40(2)g)
+
+
+
+
+
+
+
+
+
+
+
+
+(e) proof of the elector’s identity and of his or her last place of ordinary residence;
+
+
+
+
+
+
+
+
+
+e) une preuve de son identité et de son lieu de résidence habituelle antérieure;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 223 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(3) L’article 223 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Proof of identity and last place of ordinary residence
+
+
+
+(1.1) For the purposes of paragraph (1)(e), the elector
+
+
+
+
+
+
+
+
+(a) shall provide as proof of his or her identity and last place of ordinary residence a copy of the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing an address that proves that residence; or
+
+
+
+
+
+
+
+
+(b) shall provide as proof of his or her identity a copy of two pieces of identification of a type authorized under subsection 143(2.1) that establish the elector’s name and shall provide proof of his or her last place of ordinary residence by taking an oath or making a statutory declaration in writing in the prescribed form — the form including a statement that he or she has become aware of the notice referred to in subsection (1.2) and a statement that he or she is qualified to vote under this Division — if he or she fulfils the following conditions:
+
+
+
+
+
+
+
+
+(i) he or she proves the identity and the place of ordinary residence, or the last place of ordinary residence, of an other elector by providing a copy of the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing either an address that proves that other elector’s place of ordinary residence or last place of ordinary residence or, if the other elector is included in a list of electors, an address that is consistent with information related to him or her that appears on that list, and
+
+
+
+
+
+
+
+
+(ii) he or she provides a copy of the attestation by which the other elector attested to the elector’s last place of ordinary residence by taking an oath or making a statutory declaration, in writing in the prescribed form, the form including the statements that
+
+
+
+
+
+
+
+
+(A) the other elector has made himself or herself aware of the notice referred to in subsection (1.3),
+
+
+
+
+
+
+
+
+(B) the other elector knows the elector personally,
+
+
+
+
+
+
+
+
+(C) the other elector knows that the elector’s last place of ordinary residence is situated in the electoral district in which that other elector is qualified to vote,
+
+
+
+
+
+
+
+
+(D) the other elector has not attested to, at the election, the place of ordinary residence or the last place of ordinary residence of another person who is an elector as defined in subsection 2(1), and
+
+
+
+
+
+
+
+
+(E) the other elector’s own place of ordinary residence or last place of ordinary residence has not been attested to, at the election, by another person who is an elector as defined in subsection 2(1).
+
+
+
+
+
+
+
+
+
+(1.1) Pour l’application de l’alinéa (1)e), l’électeur :
+
+
+
+Preuve —identité et lieu de résidence habituelle antérieure
+
+
+
+
+a) soit établit son identité et son lieu de résidence habituelle antérieure en fournissant une copie de toute pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit ce lieu ou les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse;
+
+
+
+
+
+
+
+
+b) soit établit son identité en fournissant une copie de deux pièces d’identité, d’un type autorisé en vertu du paragraphe 143(2.1), qui établissent son nom et établit son lieu de résidence habituelle antérieure en prêtant serment ou en faisant une déclaration solennelle par écrit selon le formulaire prescrit —lequel comporte une déclaration portant qu’il a pris connaissance de l’avis visé au paragraphe (1.2) et une déclaration portant qu’il est habile à voter en vertu de la présente section —, s’il satisfait aux conditions suivantes :
+
+
+
+
+
+
+
+
+(i) il établit l’identité et le lieu de résidence habituelle ou le lieu de résidence habituelle antérieure d’un autre électeur en fournissant une copie soit de toute pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit ce lieu ou, si l’autre électeur est inscrit sur une liste électorale, qui concorde avec les renseignements figurant sur celle-ci à l’égard de l’autre électeur, soit des pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse,
+
+
+
+
+
+
+
+
+(ii) il fournit une copie de l’attestation au titre de laquelle cet autre électeur a attesté du lieu de résidence habituelle antérieure de l’électeur en prêtant serment ou en faisant une déclaration solennelle par écrit selon le formulaire prescrit, lequel comporte les déclarations suivantes :
+
+
+
+
+
+
+
+
+(A) l’autre électeur a pris connaissance de l’avis visé au paragraphe (1.3),
+
+
+
+
+
+
+
+
+(B) il connaît personnellement l’électeur,
+
+
+
+
+
+
+
+
+(C) il sait que la circonscription où il est habile à voter est celle où est situé le lieu de résidence habituelle antérieure de l’électeur,
+
+
+
+
+
+
+
+
+(D) il n’a pas, à l’élection, attesté du lieu de résidence habituelle ou du lieu de résidence habituelle antérieure d’une autre personne qui est un électeur au sens du paragraphe 2(1),
+
+
+
+
+
+
+
+
+(E) son propre lieu de résidence habituelle ou lieu de résidence habituelle antérieure n’a pas, à l’élection, fait l’objet d’une attestation par une autre personne qui est un électeur au sens du paragraphe 2(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requirement before taking oath — elector
+
+
+
+(1.2) If an elector decides to prove his or her last place of ordinary residence by taking an oath or making a statutory declaration in writing in the prescribed form, he or she shall make himself or herself aware of the notice that is included in the form and that sets out the qualifications for electors and the penalty that may be imposed under this Act on a person who contravenes paragraph 281(g.1) or subsection 549(3).
+
+
+
+
+
+
+
+
+
+(1.2) S’il décide d’établir son lieu de résidence habituelle antérieure en prêtant serment ou en faisant une déclaration solennelle par écrit selon le formulaire prescrit, l’électeur est tenu de prendre connaissance de l’avis qui est compris dans le formulaire et qui énonce les conditions à remplir pour acquérir la qualité d’électeur et la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient à l’alinéa 281g.1) ou au paragraphe 549(3).
+
+
+
+Avis préalable : électeur
+
+
+
+
+
+
+
+
+
+
+Requirement before attesting to residence
+
+
+
+(1.3) If an other elector decides to attest to an elector’s last place of ordinary residence by taking an oath or making a statutory declaration in writing in the prescribed form, he or she shall make himself or herself aware of the notice that is included in the form and that sets out the penalty that may be imposed under this Act on a person who contravenes subsection (1.4), (1.5) or 549(3).
+
+
+
+
+
+
+
+
+
+(1.3) Si un autre électeur décide d’attester du lieu de résidence habituelle antérieure d’un électeur en prêtant serment ou en faisant une déclaration solennelle par écrit selon le formulaire prescrit, il est tenu de prendre connaissance de l’avis qui est compris dans le formulaire et qui énonce la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes (1.4), (1.5) ou 549(3).
+
+
+
+Avis préalable : attestation de résidence
+
+
+
+
+
+
+
+
+
+
+Prohibition —attesting to residence of more than one elector
+
+
+
+(1.4) No other elector shall attest, at an election, to the place of ordinary residence or last place of ordinary residence of more than one person who is an elector as defined in subsection 2(1).
+
+
+
+
+
+
+
+
+
+(1.4) Il est interdit à un autre électeur d’attester, à une élection, du lieu de résidence habituelle ou du lieu de résidence habituelle antérieure de plus d’un électeur au sens du paragraphe 2(1).
+
+
+
+Interdiction : attester de la résidence de plus d’un électeur
+
+
+
+
+
+
+
+
+
+
+Prohibition —attesting to residence (own residence attested to)
+
+
+
+(1.5) No elector whose own last place of ordinary residence has been attested to at an election shall attest, at that election, to the place of ordinary residence or last place of ordinary residence of another person who is an elector as defined in subsection 2(1).
+
+
+
+
+
+
+
+
+
+(1.5) Il est interdit à l’électeur pour lequel un autre électeur a attesté de son propre lieu de résidence habituelle d’attester, à la même élection, du lieu de résidence habituelle ou du lieu de résidence habituelle antérieure d’une autre personne qui est un électeur au sens du paragraphe 2(1).
+
+
+
+Interdiction : attester d’une résidence (propre résidence attestée)
+
+
+
+
+
+
+
+
+
+
+
+
+10. Sections 224 and 225 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+10. Les articles 224 et 225 de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Approval of application
+
+
+
+224. The Chief Electoral Officer shall approve an application for registration and special ballot only if the elector has fulfilled the conditions set out in subsection 222(1) and the application contains the information set out in subsection 223(1).
+
+
+
+
+
+
+
+
+
+224. Le directeur général des élections n’approuve la demande d’inscription et de bulletin de vote spécial d’un électeur que si celui-ci satisfait aux conditions énoncées au paragraphe 222(1) et si la demande contient les éléments visés au paragraphe 223(1).
+
+
+
+Approbation de la demande
+
+
+
+
+
+
+
+
+
+
+Elector previously on list of electors
+
+
+
+225. (1) The Chief Electoral Officer shall inform the returning officer of any elector who is to vote by special ballot and whose name is on a list of electors for the returning officer’s electoral district that the elector is to vote by special ballot. The returning officer shall indicate on the list of electors that the elector has received a special ballot.
+
+
+
+
+
+
+
+
+
+225. (1) Si le nom de l’électeur figure déjà sur la liste électorale de la circonscription pour laquelle il a reçu un bulletin de vote spécial, le directeur général des élections informe le directeur du scrutin de la circonscription en cause du fait que l’électeur a reçu un bulletin de vote spécial et le directeur du scrutin indique ce fait sur la liste.
+
+
+
+Transmission des renseignements au directeur du scrutin
+
+
+
+
+
+
+
+
+
+
+Elector not previously on list
+
+
+
+(2) If an elector’s name is not already included on a list of electors, the Chief Electoral Officer shall so inform the returning officer for the electoral district in which the elector is to vote by special ballot. The returning officer shall enter the elector’s name on the list of electors for the appropriate polling division in that electoral district and shall indicate that the elector has received a special ballot.
+
+
+
+
+
+
+
+
+
+(2) Si le nom de l’électeur ne figure pas déjà sur une liste électorale, le directeur général des élections avise le directeur du scrutin de la circonscription pour laquelle l’électeur a reçu un bulletin de vote spécial et celui-ci veille à ce que le nom de l’électeur soit inscrit sur la liste électorale appropriée et à ce que soit indiqué sur celle-ci que l’électeur a reçu un bulletin de vote spécial.
+
+
+
+Inscription sur la liste électorale
+
+
+
+
+
+
+
+
+
+
+Vote by special ballot only
+
+
+
+225.1 Once an elector’s application for registration and special ballot has been accepted, the elector may vote only under this Division.
+
+
+
+
+
+
+
+
+
+225.1 Une fois sa demande d’inscription et de bulletin de vote spécial approuvée, l’électeur ne peut voter qu’en vertu de la présente section.
+
+
+
+Exercice du droit de vote
+
+
+
+
+
+
+
+
+
+
+
+
+11. The portion of section 226 of the Act before paragraph (e) is replaced by the following:
+
+
+
+
+
+
+
+
+
+11. Le passage de l’article 226 de la même loi précédant l’alinéa e) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Deletion
+
+
+
+226. The Chief Electoral Officer shall delete from the Register of Electors the name of an elector who
+
+
+
+
+
+
+
+
+
+226. Le directeur général des élections radie du Registre des électeurs le nom de l’électeur dans les cas suivants :
+
+
+
+Radiation
+
+
+
+
+
+
+
+
+
+
+
+
+12. Subsection 227(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+12. Le paragraphe 227(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Provision of special ballot
+
+
+
+227. (1) After approving an application for registration and special ballot, the Chief Electoral Officer shall send a special ballot, an inner envelope and an outer envelope to the elector who made the application, at the address referred to in paragraph 223(1)(g).
+
+
+
+
+
+
+
+
+
+227. (1) Après l’approbation de la demande d’inscription et de bulletin de vote spécial, le directeur général des élections transmet à l’électeur qui a fait la demande un bulletin de vote spécial, l’enveloppe intérieure et l’enveloppe extérieure. L’envoi se fait à l’adresse donnée dans le cadre de l’alinéa 223(1)g).
+
+
+
+Envoi du bulletin de vote spécial
+
+
+
+
+
+
+
+
+
+
+
+
+13. Section 231 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+13. L’article 231 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+231. The following definitions apply in this Division.
+
+
+
+
+“elector”« électeur »
+
+
+
+“elector” means an elector, other than a Canadian Forces elector or an incarcerated elector, who resides in Canada and who wishes to vote in accordance with this Division.
+
+
+
+
+“other elector”« autre électeur »
+
+
+
+“other elector” means, in relation to an elector who makes an application for registration and special ballot, another person who is qualified to vote in the polling division in which the elector’s place of ordinary residence is situated.
+
+
+
+
+
+
+
+
+
+231. Les définitions qui suivent s’appliquent à la présente section.
+
+
+
+Définitions
+
+
+
+
+« autre électeur » S’entend, relativement à un électeur qui présente une demande d’inscription et de bulletin de vote spécial, d’une autre personne qui est habile à voter dans la section de vote où est situé le lieu de résidence habituelle de l’électeur.
+
+
+
+« autre électeur »“other elector”
+
+
+
+
+« électeur » Électeur, à l’exclusion d’un électeur des Forces canadiennes et d’un électeur incarcéré, qui réside au Canada et qui désire voter en vertu de la présente section.
+
+
+
+« électeur »“elector”
+
+
+
+
+
+
+
+
+
+
+
+
+14. (1) Subsection 233(1) of the Act is amended by adding the following after paragraph (a):
+
+
+
+
+
+
+
+
+
+14. (1) Le paragraphe 233(1) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a.1) proof of the elector’s Canadian citizenship, if the elector makes the application from outside Canada;
+
+
+
+
+
+
+
+
+
+a.1) une preuve de sa citoyenneté canadienne, si la demande est présentée de l’étranger;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 233(1)(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 233(1)c) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) proof of the elector’s identity and of his or her place of ordinary residence;
+
+
+
+
+
+
+
+
+
+c) une preuve de son identité et de son lieu de résidence habituelle;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 233 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(3) L’article 233 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Proof of identity and place of ordinary residence
+
+
+
+(1.01) For the purposes of paragraph (1)(c), the elector
+
+
+
+
+
+
+
+
+(a) shall provide as proof of his or her identity and place of ordinary residence a copy of the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing an address that proves that residence; or
+
+
+
+
+
+
+
+
+(b) shall provide as proof of his or her identity a copy of two pieces of identification of a type authorized under subsection 143(2.1) that establish the elector’s name and shall provide proof of his or her place of ordinary residence by taking an oath or making a statutory declaration in writing in the prescribed form — the form including a statement that he or she has become aware of the notice referred to in subsection (1.02) and a statement that he or she is qualified to vote under this Division — if he or she fulfils the following conditions:
+
+
+
+
+
+
+
+
+(i) he or she proves the identity and the place of ordinary residence of an other elector by providing a copy of the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing either an address that proves that other elector’s place of ordinary residence or, if the other elector is included in a list of electors, an address that is consistent with information related to him or her that appears on that list, and
+
+
+
+
+
+
+
+
+(ii) he or she provides a copy of the attestation by which that other elector attested to the elector’s place of ordinary residence by taking an oath or making a statutory declaration, in writing in the prescribed form, the form including the statements that
+
+
+
+
+
+
+
+
+(A) the other elector has made himself or herself aware of the notice referred to in subsection (1.03),
+
+
+
+
+
+
+
+
+(B) the other elector knows the elector personally,
+
+
+
+
+
+
+
+
+(C) the other elector knows that the elector’s place of ordinary residence is situated in the polling division in which that other elector is qualified to vote,
+
+
+
+
+
+
+
+
+(D) the other elector has not attested to, at the election, the place of ordinary residence, or the last place of ordinary residence as defined in section 220, of another person who is an elector as defined in subsection 2(1), and
+
+
+
+
+
+
+
+
+(E) the other elector’s own place of ordinary residence has not been attested to, at the election, by another person who is an elector as defined in subsection 2(1).
+
+
+
+
+
+
+
+
+
+(1.01) Pour l’application de l’alinéa (1)c), l’électeur :
+
+
+
+Preuve —identité et lieu de résidence habituelle
+
+
+
+
+a) soit établit son identité et son lieu de résidence habituelle en fournissant une copie de toute pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit ce lieu ou les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse;
+
+
+
+
+
+
+
+
+b) soit établit son identité en fournissant une copie de deux pièces d’identité, d’un type autorisé en vertu du paragraphe 143(2.1), qui établissent son nom et établit son lieu de résidence habituelle en prêtant serment ou en faisant une déclaration solennelle par écrit selon le formulaire prescrit — lequel comporte une déclaration portant qu’il a pris connaissance de l’avis visé au paragraphe (1.02) et une déclaration portant qu’il est habile à voter en vertu de la présente section —, s’il satisfait aux conditions suivantes :
+
+
+
+
+
+
+
+
+(i) il établit l’identité et le lieu de résidence habituelle d’un autre électeur en fournissant une copie soit de toute pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit ce lieu ou, si l’autre électeur est inscrit sur une liste électorale, qui concorde avec les renseignements figurant sur celle-ci à l’égard de l’autre électeur, soit des pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse,
+
+
+
+
+
+
+
+
+(ii) il fournit une copie de l’attestation au titre de laquelle cet autre électeur a attesté du lieu de résidence habituelle de l’électeur en prêtant serment ou en faisant une déclaration solennelle par écrit selon le formulaire prescrit, lequel comporte les déclarations suivantes :
+
+
+
+
+
+
+
+
+(A) l’autre électeur a pris connaissance de l’avis visé au paragraphe (1.03),
+
+
+
+
+
+
+
+
+(B) il connaît personnellement l’électeur,
+
+
+
+
+
+
+
+
+(C) il sait que la section de vote où il est habile à voter est celle où est situé le lieu de résidence habituelle de l’électeur,
+
+
+
+
+
+
+
+
+(D) il n’a pas, à l’élection, attesté du lieu de résidence habituelle ou du lieu de résidence habituelle antérieure, au sens de l’article 220, d’une autre personne qui est un électeur au sens du paragraphe 2(1),
+
+
+
+
+
+
+
+
+(E) son propre lieu de résidence habituelle n’a pas, à l’élection, fait l’objet d’une attestation par une autre personne qui est un électeur au sens du paragraphe 2(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requirement before taking oath — elector
+
+
+
+(1.02) If an elector decides to prove his or her place of ordinary residence by taking an oath or making a statutory declaration in writing in the prescribed form, he or she shall make himself or herself aware of the notice that is included in the form and that sets out the qualifications for electors and the penalty that may be imposed under this Act on a person who contravenes paragraph 281(g.1) or subsection 549(3).
+
+
+
+
+
+
+
+
+
+(1.02) S’il décide d’établir son lieu de résidence habituelle en prêtant serment ou en faisant une déclaration solennelle par écrit selon le formulaire prescrit, l’électeur est tenu de prendre connaissance de l’avis qui est compris dans le formulaire et qui énonce les conditions à remplir pour acquérir la qualité d’électeur et la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient à l’alinéa 281g.1) ou au paragraphe 549(3).
+
+
+
+Avis préalable : électeur
+
+
+
+
+
+
+
+
+
+
+Requirement before attesting to residence
+
+
+
+(1.03) If an other elector decides to attest to an elector’s place of ordinary residence by taking an oath or making a statutory declaration in writing in the prescribed form, he or she shall make himself or herself aware of the notice that is included in the form and that sets out the penalty that may be imposed under this Act on a person who contravenes subsection (1.04), (1.05) or 549(3).
+
+
+
+
+
+
+
+
+
+(1.03) Si un autre électeur décide d’attester du lieu de résidence habituelle d’un électeur en prêtant serment ou en faisant une déclaration solennelle par écrit selon le formulaire prescrit, il est tenu de prendre connaissance de l’avis qui est compris dans le formulaire et qui énonce la peine pouvant être infligée en vertu de la présente loi à quiconque contrevient aux paragraphes (1.04), (1.05) ou 549(3).
+
+
+
+Avis préalable : attestation de résidence
+
+
+
+
+
+
+
+
+
+
+Prohibition —attesting to residence of more than one elector
+
+
+
+(1.04) No other elector shall attest, at an election, to the place of ordinary residence, or the last place of ordinary residence as defined in section 220, of more than one person who is an elector as defined in subsection 2(1).
+
+
+
+
+
+
+
+
+
+(1.04) Il est interdit à un autre électeur d’attester, à une élection, du lieu de résidence habituelle ou du lieu de résidence habituelle antérieure, au sens de l’article 220, de plus d’un électeur au sens du paragraphe 2(1).
+
+
+
+Interdiction : attester de la résidence de plus d’un électeur
+
+
+
+
+
+
+
+
+
+
+Prohibition —attesting to residence (own residence attested to)
+
+
+
+(1.05) No elector whose own place of ordinary residence has been attested to at an election shall attest, at that election, to the place of ordinary residence, or the last place of ordinary residence as defined in section 220, of another person who is an elector as defined in subsection 2(1).
+
+
+
+
+
+
+
+
+
+(1.05) Il est interdit à l’électeur pour lequel un autre électeur a attesté de son propre lieu de résidence habituelle d’attester, à la même élection, du lieu de résidence habituelle ou du lieu de résidence habituelle antérieure, au sens de l’article 220, d’une autre personne qui est un électeur au sens du paragraphe 2(1).
+
+
+
+Interdiction : attester d’une résidence (propre résidence attestée)
+
+
+
+
+
+
+
+
+
+
+
+
+15. The Act is amended by adding the following after section 233:
+
+
+
+
+
+
+
+
+
+15. La même loi est modifiée par adjonction, après l’article 233, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Approval of application
+
+
+
+233.1 The returning officer or special voting rules administrator shall approve an application for registration and special ballot only if the elector has fulfilled the condition set out in section 232 and the application contains the information set out in subsection 233(1).
+
+
+
+
+
+
+
+
+
+233.1 Le directeur du scrutin ou l’administrateur des règles électorales spéciales n’approuve la demande d’inscription et de bulletin de vote spécial d’un électeur que si celui-ci satisfait à la condition visée à l’article 232 et si la demande contient les éléments visés au paragraphe 233(1).
+
+
+
+Approbation de la demande
+
+
+
+
+
+
+
+
+
+
+
+
+16. Section 281 of the Act is amended by striking out “or” at the end of paragraph (g) and by adding the following after paragraph (g):
+
+
+
+
+
+
+
+
+
+16. L’article 281 de la même loi est modifié par adjonction, après l’alinéa g), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(g.1) vote or attempt to vote at an election under Division 3 or 4, knowing that he or she is not qualified as an elector; or
+
+
+
+
+
+
+
+
+
+g.1) de voter ou de tenter de voter en vertu des sections 3 ou 4 à une élection, sachant qu’il n’a pas la qualité d’électeur;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17. (1) Subsection 491(2) of the Act, as enacted by section 94.1 of the Fair Elections Act, chapter 12 of the Statutes of Canada, 2014, is amended by relettering paragraphs (a) to (c) as paragraphs (e) to (g), respectively, and by adding the following before paragraph (e):
+
+
+
+
+
+
+
+
+
+17. (1) Les alinéas 491(2)a) à c) de la même loi, édictés par l’article 94.1 de la Loi sur l’intégrité des élections, chapitre 12 des Lois du Canada (2014), deviennent respectivement les alinéas 491(2)e) à g) et le paragraphe 491(2) est modifié par adjonction, avant l’alinéa e), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) contravenes subsection 223(1.4) (attesting to residence of more than one elector);
+
+
+
+
+
+
+(b) contravenes subsection 223(1.5) (attesting to residence when own residence attested to);
+
+
+
+
+
+
+(c) contravenes subsection 233(1.04) (attesting to residence of more than one elector);
+
+
+
+
+
+
+(d) contravenes subsection 233(1.05) (attesting to residence when own residence attested to);
+
+
+
+
+
+
+
+
+
+a) contrevient au paragraphe 223(1.4) (attester de la résidence de plus d’un électeur);
+
+
+
+
+
+
+b) contrevient au paragraphe 223(1.5) (attester d’une résidence alors que sa propre résidence est attestée);
+
+
+
+
+
+
+c) contrevient au paragraphe 233(1.04) (attester de la résidence de plus d’un électeur);
+
+
+
+
+
+
+d) contrevient au paragraphe 233(1.05) (attester d’une résidence alors que sa propre résidence est attestée);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 491(3)(d) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 491(3)d) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) contravenes any of paragraphs 281(g) to (h) (prohibited acts re special voting rules); or
+
+
+
+
+
+
+
+
+
+d) quiconque contrevient à l’un des alinéas 281g) à h) (actions interdites concernant la tenue du scrutin dans le cadre des règles électorales spéciales);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. Subsection 549(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+18. Le paragraphe 549(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Administration of oath in foreign country
+
+
+
+(1.1) If an oath referred to in subsection (1) other than a statutory declaration is taken in a foreign country, it shall be administered by any person referred to in section 52 of the Canada Evidence Act.
+
+
+
+
+
+
+
+
+
+(1.1) Si le serment visé au paragraphe (1) autre que la déclaration solennelle est reçu dans un pays étranger, la personne tenue de le recevoir doit être une personne mentionnée à l’article 52 de la Loi sur la preuve au Canada.
+
+
+
+Prestation à l’étranger
+
+
+
+
+
+
+
+
+
+
+No fees for oaths, etc.
+
+
+
+(2) All oaths or affidavits taken under this Act in Canada shall be administered free of charge.
+
+
+
+
+
+
+
+
+
+(2) Tous serments ou affidavits reçus au Canada en application de la présente loi doivent l’être sans frais.
+
+
+
+Serments, etc. reçus sans frais
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISION
+
+
+
+
+
+
+
+
+
+DISPOSITION TRANSITOIRE
+
+
+
+
+
+
+
+
+
+
+
+
+Register of electors temporarily resident outside Canada
+
+
+
+19. The information that, on the day on which this Act comes into force, is contained in the register referred to in subsection 222(1), as it read immediately before that day, is deemed, on that day, to be contained in the Register of Electors, and the Chief Electoral Officer must update the Register of Electors accordingly.
+
+
+
+
+
+
+
+
+
+19. Les renseignements qui, à la date d’entrée en vigueur de la présente loi, sont contenus dans le registre visé au paragraphe 222(1), dans sa version antérieure à cette date, sont réputés, à cette date, être inscrits au Registre des électeurs et le directeur général des élections est tenu de mettre celui-ci à jour en conséquence.
+
+
+
+Registre des électeurs résidant temporairement à l’étranger
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+60 days after royal assent
+
+
+
+20. This Act comes into force 60 days after the day on which it receives royal assent.
+
+
+
+
+
+
+
+
+
+20. La présente loi entre en vigueur soixante jours après la date de sa sanction.
+
+
+
+Soixante jours après la sanction
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Canada Elections Act
+Clause 2: New.
+
+
+
+Loi électorale du Canada
+Article 2 : Nouveau.
+
+
+
+
+Clause 3: Relevant portion of subsection 95(1):
+95. (1) Each returning officer shall, as soon as possible after the issue of a writ but not later than the 24th day before polling day, send a notice of confirmation of registration to every elector whose name appears on the preliminary list of electors, except electors who
+... 
+(c) are referred to in section 222.
+
+
+
+Article 3 : Texte du passage visé du paragraphe 95(1) :
+95. (1) Dans les meilleurs délais après la délivrance du bref, mais au plus tard le vingt-quatrième jour précédant le jour du scrutin, le directeur du scrutin envoie un avis de confirmation d’inscription à tout électeur dont le nom figure sur une liste électorale préliminaire, à l’exception de celui qui :
+[...]  
+c) est visé à l’article 222.
+
+
+
+
+Clause 4: New.
+
+
+
+Article 4 : Nouveau.
+
+
+
+
+Clause 5: Text of enacted section 164.1:
+164.1 For each general election and by-election, the Chief Electoral Officer shall engage an auditor that he or she considers to have technical or specialized knowledge — other than a member of his or her staff or an election officer — to perform an audit and report on whether deputy returning officers, poll clerks and registration officers have, on all days of advance polling and on polling day, properly exercised the powers conferred on them, and properly performed the duties and functions imposed on them, under sections 143 to 149, 161 to 162 and 169.
+
+
+
+Article 5 : Texte de l’article 164.1 édicté :
+164.1 Pour chaque élection générale ou élection partielle, le directeur général des élections retient les services d’un vérificateur — autre qu’un membre de son personnel ou un fonctionnaire électoral — qui, selon lui, est un expert et qui est chargé d’effectuer une vérification et de lui présenter un rapport indiquant si les scrutateurs, les greffiers du scrutin et les agents d’inscription ont, les jours de vote par anticipation et le jour du scrutin, exercé correctement les attributions que les articles 143 à 149, 161 à 162 et 169 leur confèrent.
+
+
+
+
+Clause 6: (1) Existing text of the definition:
+“register” means the register referred to in subsection 222(1).
+
+
+
+Article 6 : (1) Texte de la définition :
+« registre » Le registre visé au paragraphe 222(1).
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+Clause 7: Existing text of section 221:
+221. An elector may vote under this Division if his or her application for registration and special ballot is received in Ottawa by 6:00 p.m. on the 6th day before polling day and his or her name is entered on the register.
+
+
+
+Article 7 : Texte de l’article 221 :
+221. Un électeur a le droit de voter à une élection en vertu de la présente section si sa demande d’inscription et de bulletin de vote spécial est reçue à Ottawa au plus tard à 18 h le sixième jour précédant le jour du scrutin et si son nom est inscrit au registre.
+
+
+
+
+Clause 8: Relevant portion of subsection 222(1):
+222. (1) The Chief Electoral Officer shall maintain a register of electors who are temporarily resident outside Canada in which is entered the name, date of birth, civic and mailing addresses, sex and electoral district of each elector who has filed an application for registration and special ballot and who
+
+
+
+Article 8 : Texte du passage visé du paragraphe 222(1) :
+222. (1) Le directeur général des élections tient un registre des électeurs résidant temporairement à l’étranger où il inscrit les nom, date de naissance, sexe, adresses municipale et postale et circonscription des électeurs qui ont présenté une demande d’inscription et de bulletin de vote spécial et qui satisfont aux conditions suivantes :
+
+
+
+
+Clause 9: (1) and (2) Relevant portion of subsection 223(1):
+223. (1) An application for registration and special ballot may be made by an elector. It shall be in the prescribed form and shall include
+(a) satisfactory proof of the elector’s identity;
+...  
+(e) the address of the elector’s last place of ordinary residence in Canada before he or she left Canada or the address of the place of ordinary residence in Canada of the spouse, the common-law partner or a relative of the elector, a relative of the elector’s spouse or common-law partner, a person in relation to whom the elector is a dependant or a person with whom the elector would live but for his or her residing temporarily outside Canada;
+
+
+
+Article 9 : (1) et (2) Texte du passage visé du paragraphe 223(1) :
+223. (1) La demande d’inscription et de bulletin de vote spécial est faite selon le formulaire prescrit et doit contenir les éléments suivants, en ce qui concerne l’électeur :
+a) une preuve suffisante de son identité;
+[...]  
+e) l’adresse soit du lieu de sa résidence habituelle au Canada avant son départ pour l’étranger, soit du lieu de la résidence habituelle au Canada de son époux, de son conjoint de fait, d’un parent, d’un parent de son époux ou de son conjoint de fait, d’une personne à la charge de qui il est ou de la personne avec laquelle il demeurerait s’il ne résidait pas temporairement à l’étranger;
+
+
+
+
+(3) New.
+
+
+
+(3) Nouveau.
+
+
+
+
+Clause 10: Existing text of sections 224 and 225:
+224. The address chosen as the place of ordinary residence in Canada in the application for registration and special ballot cannot be changed after the elector’s name is entered in the register.
+225. The Chief Electoral Officer may require an elector whose name appears in the register to provide, within the time fixed by the Chief Electoral Officer, any information that is necessary to update the register.
+
+
+
+Article 10 : Texte des articles 224 et 225 :
+224. L’adresse du lieu choisi comme lieu de résidence habituelle au Canada dans la demande d’inscription et de bulletin de vote spécial ne peut être remplacée après l’inscription dans le registre.
+225. Le directeur général des élections peut demander à l’électeur dont le nom figure au registre de lui fournir dans le délai qu’il fixe les renseignements qu’il peut juger nécessaires pour la mise à jour du registre.
+
+
+
+
+Clause 11: Relevant portion of section 226:
+226. The Chief Electoral Officer shall delete from the register the name of an elector who
+(a) does not provide the information referred to in section 225 within the time fixed by the Chief Electoral Officer;
+(b) makes a signed request to the Chief Electoral Officer to have his or her name deleted from the register;
+(c) has died and concerning whom a request has been received to have the elector’s name deleted from the register, to which request is attached a death certificate or other documentary evidence of the death;
+(d) returns to Canada to reside;
+
+
+
+Article 11 : Texte du passage visé de l’article 226 :
+226. Le directeur général des élections radie du registre le nom de l’électeur dans les cas suivants :
+a) l’électeur ne lui a pas fait parvenir les renseignements prévus à l’article 225 dans le délai fixé;
+b) l’électeur lui envoie une demande de radiation signée;
+c) une demande de radiation, accompagnée du certificat de décès ou d’un autre document attestant le décès de l’électeur, lui est présentée;
+d) l’électeur rentre au Canada pour y résider;
+
+
+
+
+Clause 12: Existing text of subsection 227(1):
+227. (1) After approving an application for registration and special ballot and after the issue of the writs, the Chief Electoral Officer shall send a special ballot, an inner envelope and an outer envelope to every elector whose name is entered in the register, at the address referred to in paragraph 223(1)(g).
+
+
+
+Article 12 : Texte du paragraphe 227(1) :
+227. (1) Après l’approbation de la demande d’inscription et de bulletin de vote spécial et la délivrance des brefs, le directeur général des élections transmet à l’électeur dont le nom figure au registre un bulletin de vote spécial, l’enveloppe intérieure et l’enveloppe extérieure. L’envoi se fait à l’adresse donnée dans le cadre de l’alinéa 223(1)g).
+
+
+
+
+Clause 13: Existing text of section 231:
+231. For the purpose of this Division, “elector” means an elector, other than a Canadian Forces elector or an incarcerated elector, who resides in Canada and who wishes to vote in accordance with this Division.
+
+
+
+Article 13 : Texte de l’article 231 :
+231. Pour l’application de la présente section, « électeur » s’entend de l’électeur, à l’exclusion d’un électeur des Forces canadiennes et d’un électeur incarcéré, qui réside au Canada et qui désire voter en vertu de la présente section.
+
+
+
+
+Clause 14: (1) and (2) Relevant portion of subsection 233(1):
+233. (1) The application for registration and special ballot shall be in the prescribed form and shall include the following information:
+...  
+(c) satisfactory proof of the elector’s identity and residence;
+
+
+
+Article 14 : (1) et (2) Texte du passage visé du paragraphe 233(1) :
+233. (1) La demande d’inscription et de bulletin de vote spécial est faite selon le formulaire prescrit et doit contenir les éléments suivants, en ce qui concerne l’électeur :
+[...]  
+c) une preuve suffisante de son identité et de sa résidence;
+
+
+
+
+(3) New.
+
+
+
+(3) Nouveau.
+
+
+
+
+Clause 15: New.
+
+
+
+Article 15 : Nouveau.
+
+
+
+
+Clause 16: Relevant portion of section 281:
+281. No person shall, inside or outside Canada,
+
+
+
+Article 16 : Texte du passage visé de l’article 281 :
+281. Il est interdit à quiconque, au Canada ou à l’étranger :
+
+
+
+
+Clause 17: (1) Text of enacted subsection 491(2):
+(2) Every person is guilty of an offence who
+(a) contravenes subsection 237.1(3.1) (attesting to residence of more than one elector);
+(b) contravenes subsection 237.1(3.2) (attesting to residence when own residence attested to); or
+(c) contravenes any of paragraphs 281(a) to (f) (prohibited acts re vote under special voting rules).
+
+
+
+Article 17 : (1) Texte du paragraphe 491(2) édicté :
+(2) Commet une infraction quiconque :
+a) contrevient au paragraphe 237.1(3.1) (attester de la résidence de plus d’un électeur);
+b) contrevient au paragraphe 237.1(3.2) (attester d’une résidence alors que sa propre résidence est attestée);
+c) contrevient à l’un ou l’autre des alinéas 281a) à f) (actions interdites concernant le scrutin tenu dans le cadre des règles électorales spéciales).
+
+
+
+
+(2) Relevant portion of subsection 491(3):
+(3) Every person is guilty of an offence who
+...  
+(d) contravenes paragraph 281(g) or (h) (prohibited acts re special voting rules); or
+
+
+
+(2) Texte du passage visé du paragraphe 491(3) :
+(3) Commet une infraction :
+[...]  
+d) quiconque contrevient aux alinéas 281g) ou h) (actions interdites concernant la tenue du scrutin dans le cadre des règles électorales spéciales);
+
+
+
+
+Clause 18: Existing text of subsection 549(2):
+(2) All oaths or affidavits taken under this Act shall be administered free of charge.
+
+
+
+Article 18 : Texte du paragraphe 549(2) :
+(2) Tous serments ou affidavits reçus en application de la présente loi doivent l’être sans frais.
+
+
+
+

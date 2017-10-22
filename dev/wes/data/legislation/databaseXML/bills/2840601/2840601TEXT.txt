@@ -1,0 +1,722 @@
+
+
+
+
+
+
+C-441
+
+
+
+
+
+C-441
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-441
+
+
+
+
+
+PROJET DE LOI C-441
+
+
+
+
+
+
+An Act to amend the Competition Act (protection of purchasers from vertically integrated suppliers)
+
+
+
+
+
+Loi modifiant la Loi sur la concurrence (protection des acheteurs contre les fournisseurs intégrés verticalement)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 15, 2007
+
+
+
+
+
+première lecture le 15 mai 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Boshcoff
+
+
+391528
+
+
+
+
+M. Boshcoff
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Competition Act to provide for the enforcement of fair pricing by a supplier who sells a product at retail either directly or through an affiliate and also supplies the product to a purchaser who competes with the supplier at the retail level, so as to give the purchaser a fair opportunity to make a similar profit.
+It also provides that a supplier who coerces or attempts to coerce a customer in relation to the establishment of retail price or pricing policy may be dealt with as having committed an anti-competitive act.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur la concurrence afin de prévoir la fixation de prix équitables par tout fournisseur qui vend un produit au détail, directement ou par l'entremise d'une personne affiliée, et fournit le même produit à un acheteur dont il est le concurrent sur  le marché de détail, de manière à lui offrir l'occasion de réaliser un profit semblable.
+Il prévoit également que le fait pour un fournisseur de forcer ou de tenter  de forcer un client à fixer des prix de détail ou une politique de prix de détail peut être qualifié d'agissement anti-concurrentiel.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-441
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-441
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Competition Act (protection of purchasers from vertically integrated suppliers)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la concurrence (protection des acheteurs contre les fournisseurs intégrés verticalement)
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-34; R.S., c. 19 (2nd Supp.), s. 19
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. C-34; L.R., ch. 19 (2e suppl.), art. 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Competition Act is amended by adding the following after section 50: 
+
+
+
+
+
+
+
+
+
+
+1. La Loi sur la concurrence est modifiée par adjonction, après l'article 50, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+
+50.1 (1) The following definitions apply in this section.
+
+
+
+
+
+“affiliate”« personne affiliée »
+
+
+
+
+“affiliate” has the meaning given to that word in subsection 77(5).
+
+
+
+
+
+“market area”« zone de marché »
+
+
+
+
+“market area” means a geographic area in which a seller customarily sells a product at retail or offers it for sale at retail.
+
+
+
+
+
+
+
+
+
+
+
+
+50.1 (1) Les définitions qui suivent s'appliquent au présent article.
+
+
+
+
+Définitions
+
+
+
+
+
+« personne affiliée » S'entend au sens du paragraphe 77(5).
+
+
+
+
+« personne affiliée »“affiliate”
+
+
+
+
+
+« zone de marché » Zone géographique à l'intérieur de laquelle un commerçant offre en vente ou vend habituellement ses produits au détail.
+
+
+
+
+« zone de marché »“market area”
+
+
+
+
+
+
+
+
+
+
+Fair price to competing retailer
+
+
+
+
+(2) Every vertically integrated supplier who manufactures and sells a product at retail, either directly or through an affiliate, and also sells the product or a similar product to a purchaser who is not an affiliate but who is in the business of selling the product at retail, and who charges the purchaser a price that exceeds 
+
+
+
+
+
+
+
+
+
+
+
+
+(a) in the case of a direct sale, the supplier's own retail price in the same market area as that in which the purchaser customarily sells the product or offers it for sale, less
+
+
+
+
+
+
+
+
+
+
+
+
+(i) the supplier's own cost of marketing at retail, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) the supplier's reasonable return on the retail sale, or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) in the case of a sale through an affiliate, the price charged to the affiliate,
+
+
+
+
+
+
+
+
+
+
+
+
+is guilty of an indictable offence and liable, in the case of a first offence, to a fine not exceeding ten thousand dollars for every day on which the offence is committed and, in the case of a second or subsequent offence, to a fine not exceeding twenty-five thousand dollars for every day on which the offence is committed or to a term of imprisonment not exceeding two years, or to both fine and imprisonment.
+
+
+
+
+
+
+
+
+
+
+
+(2) Est coupable d'un acte criminel et encourt, pour la première infraction, une amende maximale de dix mille dollars pour chaque jour que dure l’infraction et, pour chaque récidive, une amende maximale de vingt-cinq mille dollars pour chaque jour que dure l’infraction et un emprisonnement maximal de deux ans, ou l’une de ces peines, tout fournisseur intégré verticalement qui fabrique et vend un produit au détail, directement ou par l’entremise d’une personne affiliée, et qui vend également le même produit ou un produit semblable à un acheteur qui n’est pas une personne affiliée et qui se livre à la vente au détail du même produit, s’il exige de l’acheteur un prix supérieur :
+
+
+
+
+Prix équitables à l'égard d'un concurrent
+
+
+
+
+
+
+a) dans le cas d’une vente directe, au prix de détail demandé par le fournisseur dans la même zone de marché que celle où l’acheteur offre en vente ou vend habituellement ce produit, moins :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) les frais de mise en marché au détail du fournisseur,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) son rendement raisonnable sur la vente au détail;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas d’une vente par l’entremise d’une personne affiliée, au prix demandé à cette dernière.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No lower return for supplier
+
+
+
+
+(3) Notwithstanding subsection (2), a vertically integrated supplier is not required to sell a product to a purchaser referred to in that subsection at a price that results in the supplier receiving a lower return on the retail sale of the product, when sold by the supplier or its affiliate, than the purchaser's return on the retail sale of the same product in the same market area.
+
+
+
+
+
+
+
+
+
+
+
+(3) Malgré le paragraphe (2), le fournisseur intégré verticalement n’est pas tenu de vendre un produit à l’acheteur visé à ce paragraphe à un prix qui lui occasionnerait, lors de la vente au détail par lui ou une personne affiliée, un rendement inférieur à celui qu’obtiendrait l’acheteur lors de la vente au détail du même produit dans la même zone de marché.
+
+
+
+
+Fournisseur non tenu de couper sa marge de rendement
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 78(1) of the Act is amended by striking out the word “and” at the end of paragraph (j), by adding the word “and” at the end of paragraph (k) and by adding the following after paragraph (k):
+
+
+
+
+
+
+
+
+
+
+2. L'article 78 de la même loi est modifié par adjonction, après l'alinéa k), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(l) the coercion or attempted coercion, by a vertically integrated supplier, of a customer who competes with the supplier at the retail level in the same market area, in relation to the establishment of the customer's retail price or pricing policy.
+
+
+
+
+
+
+
+
+
+
+
+
+l) le fait pour un fournisseur intégré verticalement de forcer ou de tenter de forcer un client qui est son concurrent au détail dans la même zone de marché, à fixer des prix de détail ou une politique de prix de détail.
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

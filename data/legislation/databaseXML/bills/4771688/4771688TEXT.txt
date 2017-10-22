@@ -1,0 +1,1308 @@
+
+
+
+
+
+S-27
+
+
+
+
+
+S-27
+
+
+
+
+
+
+Second Session, Thirty-sixth Parliament,
+
+
+
+
+
+Deuxième session, trente-sixième législature,
+
+
+
+
+
+
+48-49 Elizabeth II, 1999-2000
+
+
+
+
+
+48-49 Elizabeth II, 1999-2000
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-27
+
+
+
+
+
+PROJET DE LOI S-27
+
+
+
+
+
+
+An Act to guarantee the human right to privacy
+
+
+
+
+
+Loi visant à garantir le droit des individus au respect de leur vie privée
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 15, 2000
+
+première lecture le 15 juin 2000
+
+
+
+
+
+
+
+
+
+
+
+
+The Honourable Senator Finestone
+
+2497
+
+
+
+L’honorable sénateur Finestone
+
+
+
+
+
+Summary
+This enactment guarantees the right of the individual to privacy in Canada.  It defines what is an infringement, and provides a test for justifiable infringement.  It entitles individuals to claim and enforce their right to privacy, and to refuse to unjustifiably infringe the privacy rights of others.  It prohibits unjustifiably infringing the right to privacy of another individual.
+The enactment also requires the Minister of Justice to review bills and regulations for compliance, and entitles the Privacy Commissioner to be consulted in this regard.  It authorizes the Governor in Council to make regulations codifying practices that are justifiable infringements under the Act.
+
+
+
+Sommaire
+Ce texte garantit le droit de tout individu au respect de sa vie privée au Canada. Il définit le terme « atteinte » et prévoit les critères servant à déterminer si une atteinte est justifiable. Il donne à chaque individu le droit de revendiquer et de faire valoir son droit au respect de la vie privée et de refuser de porter atteinte sans justification à celui d’autrui. Les atteintes sans justification au droit d’un individu au respect de sa vie privée sont interdites.
+Le ministre de la Justice se voit confier la responsabilité d’examiner les projets de loi et les règlements pour en vérifier la conformité et le Commissaire à la protection de la vie privée est habilité à donner des conseils à ce sujet. Le gouverneur en conseil est autorisé à répertorier, par règlement, les pratiques qui constituent des atteintes justifiables aux termes de la loi.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 36th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 36e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48-49 Elizabeth II, 1999-2000
+
+
+
+
+
+
+
+
+
+48-49 Elizabeth II, 1999-2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-27
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to guarantee the human right to privacy
+
+
+
+
+
+
+
+
+
+Loi visant à garantir le droit des individus au respect de leur vie privée
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+WHEREAS privacy is a basic human right of every individual and a fundamental value reflected in international human rights instruments to which Canada is a signatory;
+
+
+
+
+
+
+
+
+AND WHEREAS privacy is an interest in the public good that underpins the relations of mutual trust and confidence that are fundamental to the Canadian social fabric;
+
+
+
+
+
+
+
+
+AND WHEREAS privacy is essential to the preservation of democracy and the full and meaningful enjoyment and exercise of many of the rights and freedoms guaranteed by the Canadian Charter of Rights and Freedoms;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que tout individu a un droit fondamental au respect de sa vie privée et que ce droit constitue l’une des valeurs essentielles énoncées dans les conventions internationales sur les droits de la personne dont le Canada est signataire;
+
+
+
+
+
+
+
+
+que le respect de la vie privée constitue un élément du bien commun qui sous-tend les relations de confiance indispensables au tissu social canadien;
+
+
+
+
+
+
+
+
+que le respect de la vie privée est essentiel à la protection de la démocratie et au plein exercice de nombreux droits et libertés garantis par la Charte canadienne des droits et libertés,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Privacy Rights Charter.
+
+
+
+
+
+
+
+
+
+1. Titre abrégé : Charte du droit à la vie privée.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+2. The purpose of this Act is to give effect to the principles that
+
+
+
+
+
+
+
+
+(a) privacy is essential to an individual’s dignity, integrity, autonomy, well-being and freedom, and to the full and meaningful exercise of human rights and freedoms;
+
+
+
+
+
+
+
+
+(b) there is a legal right to privacy;
+
+
+
+
+
+
+
+
+(c) an infringement of the right to privacy, to be lawful, must be justifiable.
+
+
+
+
+
+
+
+
+
+2. La présente loi a pour objet de donner effet aux principes suivants :
+
+
+
+Objet
+
+
+
+
+a) le respect de la vie privée est indispensable à la dignité, à l’intégrité, à l’autonomie, au bien-être et à la liberté des individus ainsi qu’au plein exercice de leurs droits et libertés;
+
+
+
+
+
+
+
+
+b) le droit au respect de la vie privée est reconnu par la loi;
+
+
+
+
+
+
+
+
+c) une atteinte au droit au respect de la vie privée n’est licite que si elle est justifiable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Right to privacy
+
+
+
+3. Every individual has a right to privacy, including
+
+
+
+
+
+
+
+
+(a) physical privacy;
+
+
+
+
+
+
+
+
+(b) freedom from surveillance;
+
+
+
+
+
+
+
+
+(c) freedom from monitoring or interception of their private communications; and
+
+
+
+
+
+
+
+
+(d) freedom from the collection, use and disclosure of their personal information.
+
+
+
+
+
+
+
+
+
+3. Tout individu a droit au respect de sa vie privée, qui comporte notamment :
+
+
+
+Droit au respect de la vie privée
+
+
+
+
+a) le droit au respect de son intimité physique;
+
+
+
+
+
+
+
+
+b) le droit d’être libre de toute surveillance;
+
+
+
+
+
+
+
+
+c) le droit d’être à l’abri du contrôle et de l’interception de ses communications privées;
+
+
+
+
+
+
+
+
+d) le droit d’être à l’abri de la collecte, de l’utilisation et de la communication de ses renseignements personnels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remedy
+
+
+
+4. (1) Every individual is entitled to claim and enforce their right to privacy and to refuse to unjustifiably infringe the right to privacy of another individual.
+
+
+
+
+
+
+
+
+
+4. (1) Tout individu peut revendiquer et faire valoir son droit au respect de la vie privée et refuser de porter atteinte sans justification à celui d’autrui.
+
+
+
+Droit de recours
+
+
+
+
+
+
+
+
+
+
+No reprisal
+
+
+
+(2) No person shall take or threaten to take reprisal measures against an individual who claims or enforces their right to privacy or who refuses to unjustifiably infringe the right to privacy of another individual.
+
+
+
+
+
+
+
+
+
+(2) Il est interdit de prendre ou de menacer de prendre toute mesure de représailles à l’égard d’un individu qui revendique ou fait valoir son droit au respect de la vie privée ou qui refuse de porter atteinte sans justification à celui d’autrui.
+
+
+
+Absence de représailles
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+(3) No person shall unjustifiably infringe an individual’s right to privacy.
+
+
+
+
+
+
+
+
+
+(3) Il est interdit de porter atteinte sans justification au droit d’un individu au respect de sa vie privée.
+
+
+
+Interdiction
+
+
+
+
+
+
+
+
+
+
+Infringement
+
+
+
+5. (1) A limit on or interference with an individual’s privacy infringes that individual’s right to privacy.
+
+
+
+
+
+
+
+
+
+5. (1) Toute restriction ou entrave à la vie privée d’un individu porte atteinte à son droit au respect de la vie privée.
+
+
+
+Atteinte
+
+
+
+
+
+
+
+
+
+
+Justification
+
+
+
+(2) An infringement of an individual’s right to privacy is justifiable if the infringement is reasonable and can be demonstrably justified in a free and democratic society.
+
+
+
+
+
+
+
+
+
+(2) Une atteinte au droit d’un individu au respect de sa vie privée est justifiable si elle est raisonnable et si sa justification peut se démontrer dans le cadre d’une société libre et démocratique.
+
+
+
+Justification
+
+
+
+
+
+
+
+
+
+
+Test
+
+
+
+(3) An infringement is justifiable if:
+
+
+
+
+
+
+
+
+(a) it is lawful;
+
+
+
+
+
+
+
+
+(b) it is necessary to achieve an objective that is compelled by the need to respect another individual human right or another interest in the public good and is sufficiently important to warrant infringing the right to privacy;
+
+
+
+
+
+
+
+
+(c) the objective cannot be achieved by another measure that infringes privacy less; and
+
+
+
+
+
+
+
+
+(d) the importance of the objective and the beneficial effects of the infringement outweigh the detrimental effects on privacy.
+
+
+
+
+
+
+
+
+
+(3) Une atteinte est justifiable si, à la fois :
+
+
+
+Critères
+
+
+
+
+a) elle est licite;
+
+
+
+
+
+
+
+
+b) elle est nécessaire à la réalisation d’un objectif qui est dicté par la nécessité de respecter un autre droit de la personne ou un autre élément du bien commun et dont l’importance est suffisante pour justifier une atteinte au droit au respect de la vie privée;
+
+
+
+
+
+
+
+
+c) il est impossible de réaliser l’objectif par un autre moyen qui porterait atteinte à la vie privée dans une moindre mesure;
+
+
+
+
+
+
+
+
+d) l’importance de l’objectif et les effets bénéfiques de l’atteinte l’emportent sur les effets préjudiciables que celle-ci a sur la vie privée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consent
+
+
+
+(4) An interference with an individual’s privacy does not infringe that individual’s right to privacy if the interference is done with the free and fully informed consent of the individual.
+
+
+
+
+
+
+
+
+
+(4) Une entrave à la vie privée d’un individu ne porte pas atteinte à son droit au respect de la vie privée si elle s’opère avec le consentement libre et éclairé de celui-ci.
+
+
+
+Consentement
+
+
+
+
+
+
+
+
+
+
+Review of legislation  and regulations
+
+
+
+6. The Minister of Justice shall
+
+
+
+
+
+
+
+
+(a) in accordance with such regulations as may be prescribed by the Governor in Council, examine every bill introduced in or presented to either House of Parliament by a Minister of the Crown, and every regulation transmitted to the Clerk of the Privy Council for registration under the Statutory Instruments Act, in order to ascertain whether any of its provisions are inconsistent with the purposes and provisions of this Act;
+
+
+
+
+
+
+
+
+(b) report any inconsistency to the Clerks of each House of Parliament at the first convenient opportunity, and publish the report in the Canada Gazette; and
+
+
+
+
+
+
+
+
+(c) notify the Privacy Commissioner of Canada of any inconsistency at the first convenient opportunity and, upon the request of the Privacy Commissioner, consult with and receive advice from the Commissioner or a person authorized by the Commissioner concerning the inconsistency.
+
+
+
+
+
+
+
+
+
+6. Le ministre de la Justice :
+
+
+
+Examen de projets de loi et de règlements
+
+
+
+
+a) en conformité avec les règlements pris par le gouverneur en conseil, examine chaque projet de loi déposé par un ministre devant l’une ou l’autre chambre du Parlement, ainsi que chaque règlement transmis au greffier du Conseil privé pour enregistrement en application de la Loi sur les textes réglementaires, en vue de vérifier si certaines de leurs dispositions sont incompatibles avec les fins et dispositions de la présente loi;
+
+
+
+
+
+
+
+
+b) signale toute incompatibilité au greffier de chaque chambre du Parlement dans les meilleurs délais possibles et publie un rapport à cet effet dans la Gazette du Canada;
+
+
+
+
+
+
+
+
+c) avise le Commissaire à la protection de la vie privée de toute incompatibilité dans les meilleurs délais possibles et, à sa demande, consulte celui-ci ou son délégué et reçoit ses conseils à ce sujet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+7. (1) The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+(a) prescribing the procedure for examining bills and regulations under section 6;
+
+
+
+
+
+
+
+
+(b) codifying practices that are justifiable infringements under this Act; and
+
+
+
+
+
+
+
+
+(c) generally, for carrying out the purposes of this Act.
+
+
+
+
+
+
+
+
+
+7. (1) Le gouverneur en conseil peut, par règlement :
+
+
+
+Règlements
+
+
+
+
+a) prévoir la procédure à suivre pour l’examen des projets de loi et des règlements visé à l’article 6;
+
+
+
+
+
+
+
+
+b) répertorier des pratiques qui constituent des atteintes justifiables aux termes de la présente loi;
+
+
+
+
+
+
+
+
+c) d’une façon générale, prendre toute mesure d’application de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deemed compliance
+
+
+
+(2) An infringement done in good faith upon the basis of a regulation made under paragraph 7(1)(b) and in respect of which no inconsistency has been reported under section 6 is deemed to be justified.
+
+
+
+
+
+
+
+
+
+(2) Une atteinte faite de bonne foi d’après le règlement pris en vertu de l’alinéa 7(1)b) qui n’a fait l’objet d’aucune déclaration d’incompatibilité selon l’article 6 est réputée être justifiée.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+Contracts, etc.
+
+
+
+8. (1) Every person who enters into a contract, agreement or other arrangement with another person or with an organization must require the other person or organization to comply with the provisions of this Act in the performance of the contract, agreement or arrangement.
+
+
+
+
+
+
+
+
+
+8. (1) Quiconque conclut un contrat, une entente ou autre arrangement avec une personne ou un organisme est tenu d’exiger que cette personne ou cet organisme se conforme aux dispositions de la présente loi lors de l’exécution du contrat, de l’entente ou de l’arrangement.
+
+
+
+Contrats, etc.
+
+
+
+
+
+
+
+
+
+
+“Organization”
+
+
+
+(2) In this section, “organization” includes an institution, an association, a partnership and a trade union.
+
+
+
+
+
+
+
+
+
+(2) Dans le présent article, sont assimilées à des organismes les institutions, associations, sociétés de personnes et organisations syndicales.
+
+
+
+Organismes
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+9. This Act applies to all persons and matters coming within the legislative authority of Parliament.
+
+
+
+
+
+
+
+
+
+9. La présente loi s’applique aux personnes et matières qui relèvent de l’autorité législative du Parlement.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Binding on Her Majesty
+
+
+
+10. This Act is binding on Her Majesty in right of Canada.
+
+
+
+
+
+
+
+
+
+10. La présente loi lie Sa Majesté du chef du Canada.
+
+
+
+Obligation de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+Non-derogation
+
+
+
+11. (1) No provision of any other Act shall be construed so as to abrogate or derogate from any provision of this Act.
+
+
+
+
+
+
+
+
+
+11. (1) Aucune disposition d’une autre loi ne peut être interprétée de manière à abroger les dispositions de la présente loi ou à en déroger.
+
+
+
+Dérogation  interdite
+
+
+
+
+
+
+
+
+
+
+Paramountcy
+
+
+
+(2) In the event of any inconsistency or conflict between this Act and any other Act enacted before or after this Act comes into force, unless the other Act expressly declares that it operates despite this Act, notwithstanding any other provision of that Act, this Act prevails to the extent of the inconsistency or conflict.
+
+
+
+
+
+
+
+
+
+(2) Les dispositions de la présente loi l’emportent sur les dispositions incompatibles ou contraires de toute autre loi édictée avant ou après l’entrée en vigueur de celle-ci, malgré les autres dispositions de cette autre loi, sauf si cette dernière déclare expressément qu’elle a effet indépendamment des dispositions de la présente loi.
+
+
+
+Suprématie
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+12. Subsection 11(2) comes into force on the day that is one year after the day on which this Act is assented to.
+
+
+
+
+
+
+
+
+
+12. Le paragraphe 11(2) entre en vigueur un an après la date de la sanction de la présente loi.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

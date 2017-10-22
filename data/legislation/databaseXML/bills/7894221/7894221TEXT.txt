@@ -1,0 +1,1418 @@
+
+
+
+
+
+C-56
+
+
+
+
+
+C-56
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-56
+
+
+
+
+
+PROJET DE LOI C-56
+
+
+
+
+
+
+An Act to amend the Corrections and Conditional Release Act and to make a consequential amendment to the International Transfer of Offenders Act
+
+
+
+
+
+Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition et apportant une modification corrélative à la Loi sur le transfèrement international des délinquants
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, March 27, 2015
+
+première lecture le 27 mars 2015
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF PUBLIC SAFETY AND EMERGENCY PREPAREDNESS
+
+90767
+
+
+
+MINISTRE DE LA SÉCURITÉ PUBLIQUE ET DE LA PROTECTION CIVILE
+
+
+
+
+
+SUMMARY
+This enactment amends the Corrections and Conditional Release Act to
+(a) establish that a person who receives a particular sentence for an offence set out in Schedule I of the Act is, for the purposes of determining his or her statutory release date, a person-at-risk;
+(b) establish new rules to determine the statutory release date of an offender who, after he or she becomes a person-at-risk, receives a sentence of two years or more — or two or more sentences that amount to two years or more — for committing an offence, or offences, set out in Schedule I of the Act, and ensure that the offender’s statutory release date cannot be earlier than six months before the end of their sentence; and
+(c) require that the Correctional Service of Canada provide the police with information that is relevant to an offender’s risk of reoffending if the offender’s statutory release date is determined in accordance with the new rules.
+The enactment also makes a consequential amendment to the International Transfer of Offenders Act.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur le système correctionnel et la mise en liberté sous condition pour :
+a) établir que les personnes ayant commis des infractions visées à l’annexe I de cette loi et ayant reçu des peines d’une certaine durée deviennent de ce fait des personnes à risque pour la détermination de leur date de libération d’office;
+b) prévoir de nouvelles règles de détermination de la date de libération d’office — applicables au délinquant qui, après être devenu une personne à risque, a commis de nouveau des infractions visées à l’annexe I de cette loi et a été condamné à une peine d’au moins deux ans pour de telles infractions — de façon que la date fixée ne puisse être antérieure au jour qui précède de six mois l’expiration de la peine;
+c) imposer au Service correctionnel du Canada l’obligation de communiquer les renseignements pertinents quant au risque de récidive du délinquant dont la date de libération d’office est déterminée en application de ces règles.
+Enfin, le texte apporte une modification corrélative à la Loi sur le transfèrement international des délinquants.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-56
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-56
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Corrections and Conditional Release Act and to make a consequential amendment to the International Transfer of Offenders Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition et apportant une modification corrélative à la Loi sur le transfèrement international des délinquants
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Statutory Release Reform Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la réforme de la libération d’office.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+1992, c. 20
+
+
+
+CORRECTIONS AND CONDITIONAL RELEASE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE SYSTÈME CORRECTIONNEL ET LA MISE EN LIBERTÉ SOUS CONDITION
+
+
+
+1992, ch. 20
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 25 of the Corrections and Conditional Release Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+2. L’article 25 de la Loi sur le système correctionnel et la mise en liberté sous condition est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+At-risk offender
+
+
+
+(4) The Service shall, before the release of an offender whose statutory release date is determined in accordance with subsections 127(6.1) to (6.3), and in a timely manner, take all reasonable steps to give the police all information under its control that is relevant to the offender’s risk of reoffending.
+
+
+
+
+
+
+
+
+
+(4) Le Service est tenu de communiquer à la police, en temps utile avant la libération d’office du délinquant dont la date de libération est fixée conformément aux paragraphes 127(6.1) à (6.3), les renseignements pertinents dont il dispose quant au risque de récidive du délinquant.
+
+
+
+Délinquant à risque
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 127 of the Act is amended by adding the following after subsection (6):
+
+
+
+
+
+
+
+
+
+3. L’article 127 de la même loi est modifié par adjonction, après le paragraphe (6), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+At-risk repeat offender — statutory release delayed
+
+
+
+(6.1) Subject to subsections (6.2) and (6.3), the statutory release date of an offender is the day that is six months before the expiry of the offender’s sentence, including a sentence constituted under subsection 139(1), if, after the day on which the person became a person-at-risk and after the day on which this subsection came into force, the offender
+
+
+
+
+
+
+
+
+(a) committed one or more offences set out in Schedule I, as it read on the day on which the offender received the sentence; and
+
+
+
+
+
+
+
+
+(b) received a sentence of two years or more for having committed that offence or received, on the same day, two or more sentences that are to be served consecutively and that amount to two years or more for having committed those offences.
+
+
+
+
+
+
+
+
+
+(6.1) Sous réserve des paragraphes (6.2) et (6.3), la date de libération d’office d’un délinquant correspond à la date qui précède de six mois l’expiration de sa peine, notamment de la peine déterminée conformément au paragraphe 139(1), si, après la date à laquelle il est devenu une personne à risque et après la date d’entrée en vigueur du présent paragraphe :
+
+
+
+Délinquant à risque récidiviste — libération d’office différée
+
+
+
+
+a) il commet une ou plusieurs infractions visées à l’annexe I, dans sa version au moment du prononcé de la peine;
+
+
+
+
+
+
+
+
+b) il est condamné soit à une peine d’au moins deux ans pour l’infraction commise, soit, le même jour, à plusieurs peines consécutives totalisant au moins deux ans pour les infractions commises.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At-risk repeat offender — statutory release revoked
+
+
+
+(6.2) Despite subsection (5) and subject to subsections 130(4) and (6), the statutory release date of an offender who meets the conditions described in subsection (6.1) and whose parole or statutory release is revoked is the later of
+
+
+
+
+
+
+
+
+(a) the day that is six months before the expiry of the offender’s sentence, including any additional sentence imposed after the offender is recommitted to custody as a result of a suspension or revocation under section 135, and
+
+
+
+
+
+
+
+
+(b) the day on which they have served two thirds of the portion of the sentence — including the additional sentence, if any — that begins on the day on which they are recommitted to custody as a result of the suspension or revocation and ends on the day on which the sentence expires.
+
+
+
+
+
+
+
+
+
+(6.2) Malgré le paragraphe (5) et sous réserve des paragraphes 130(4) et (6), la date de libération d’office du délinquant qui remplit les conditions prévues au paragraphe (6.1) et dont la libération conditionnelle ou d’office est révoquée correspond à celle des dates ci-après qui est postérieure à l’autre :
+
+
+
+Délinquant à risque récidiviste — libération d’office après révocation
+
+
+
+
+a) celle qui précède de six mois l’expiration de la peine du délinquant, compte tenu de toute peine supplémentaire infligée à la suite de la réincarcération qui a suivi la suspension ou la révocation prévue à l’article 135;
+
+
+
+
+
+
+
+
+b) celle à laquelle il a purgé les deux tiers de la partie de sa peine qui commence à la date de la réincarcération qui a suivi la suspension ou la révocation et se termine à la date d’expiration de la peine, compte tenu, le cas échéant, de la peine supplémentaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At-risk repeat offender — additional sentence
+
+
+
+(6.3) Despite subsection (5.1), the statutory release date of an offender referred to in subsection (6.1) who receives an additional sentence for an offence under an Act of Parliament and whose parole or statutory release is not revoked is the later of
+
+
+
+
+
+
+
+
+(a) the day that is six months before the expiry of the offender’s sentence, including the additional sentence, and
+
+
+
+
+
+
+
+
+(b) the day on which they have served two thirds of the portion of the sentence — including the additional sentence — that begins on the earlier of the day on which they are recommitted to custody as a result of a suspension under section 135 and the day on which they are recommitted to custody as a result of the additional sentence and that ends on the day on which the sentence expires.
+
+
+
+
+
+
+
+
+
+(6.3) Malgré le paragraphe (5.1), la date de libération d’office du délinquant visé au paragraphe (6.1) qui est condamné à une peine d’emprisonnement supplémentaire pour infraction à une loi fédérale sans que sa libération conditionnelle ou d’office soit révoquée correspond à celle des dates ci-après qui est posté­rieure à l’autre :
+
+
+
+Délinquant à risque récidiviste — peine supplémentaire
+
+
+
+
+a) celle qui précède de six mois l’expiration de la peine du délinquant, compte tenu de la peine supplémentaire;
+
+
+
+
+
+
+
+
+b) celle à laquelle il a purgé les deux tiers de la partie de sa peine qui commence soit à la date de la réincarcération qui a suivi la suspension prévue à l’article 135, soit, si elle est antérieure, à celle de la réincarcération qui résulte de sa condamnation à la peine supplémentaire, et se termine à la date d’expiration de la peine, compte tenu de la peine supplémentaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation — person-at-risk
+
+
+
+(6.4) For the purposes of subsection (6.1), a person is a person-at-risk from the day on which
+
+
+
+
+
+
+
+
+(a) the person received, on or after November 1, 1992, a sentence of five years or more for an offence set out in Schedule I, as it read on the day on which the person received the sentence;
+
+
+
+
+
+
+
+
+(b) the person received, on or after November 1, 1992, two or more sentences imposed on the same day that amount to five years or more and that include
+
+
+
+
+
+
+
+
+(i) a sentence of two years or more for an offence set out in Schedule I, as it read on the day on which the person received the sentence, or
+
+
+
+
+
+
+
+
+(ii) two or more sentences for offences set out in Schedule I, as it read on the day on which the person received the sentences, that are to be served consecutively and that amount to two years or more; or
+
+
+
+
+
+
+
+
+(c) the person is transferred to Canada under the International Transfer of Offenders Act in respect of
+
+
+
+
+
+
+
+
+(i) a sentence, received on or after November 1, 1992, of five years or more for an offence for which the equivalent offence identified by the Minister under section 15 of that Act was set out in Schedule I, as it read on the day on which the person received the sentence, or
+
+
+
+
+
+
+
+
+(ii) two or more sentences, received on or after November 1, 1992, imposed on the same day that amount to five years or more and that include
+
+
+
+
+
+
+
+
+(A) a sentence of two years or more for an offence for which the equivalent offence identified by the Minister under section 15 of that Act was set out in Schedule I, as it read on the day on which the person received the sentence, or
+
+
+
+
+
+
+
+
+(B) two or more sentences for offences for which the equivalent offences identified by the Minister under section 15 of that Act was set out in Schedule I, as it read on the day on which the person received the sentences, that are to be served consecutively and that amount to two years or more.
+
+
+
+
+
+
+
+
+
+(6.4) Pour l’application du paragraphe (6.1), une personne est une personne à risque à compter de la date où elle remplit l’une ou l’autre des conditions suivantes :
+
+
+
+Interprétation — personne à risque
+
+
+
+
+a) elle s’est vue condamnée, le 1er novembre 1992 ou par la suite, à une peine d’au moins cinq ans pour une infraction visée à l’annexe I, dans sa version au moment du prononcé de la peine;
+
+
+
+
+
+
+
+
+b) elle s’est vue condamnée, le 1er novembre 1992 ou par la suite, à plusieurs peines totalisant au moins cinq ans, infligées le même jour et comprenant :
+
+
+
+
+
+
+
+
+(i) soit une peine d’au moins deux ans pour une infraction visée à l’annexe I, dans sa version au moment du prononcé de la peine,
+
+
+
+
+
+
+
+
+(ii) soit plusieurs peines consécutives totalisant au moins deux ans pour des infractions visées à cette annexe, dans cette version;
+
+
+
+
+
+
+
+
+c) elle est transférée au Canada sous le régime de la Loi sur le transfèrement international des délinquants à l’égard :
+
+
+
+
+
+
+
+
+(i) soit d’une peine d’au moins cinq ans, infligée le 1er novembre 1992 ou par la suite, pour une infraction dont l’infraction correspondante, déterminée par le ministre au titre de l’article 15 de cette loi, était visée à l’annexe I, dans sa version au moment du prononcé de la peine,
+
+
+
+
+
+
+
+
+(ii) soit de plusieurs peines totalisant au moins cinq ans, infligées le même jour — le 1er novembre 1992 ou par la suite — et comprenant :
+
+
+
+
+
+
+
+
+(A) soit une peine d’au moins deux ans pour une infraction dont l’infraction correspondante, déterminée par le ministre au titre de l’article 15 de cette loi, était visée à l’annexe I, dans sa version au moment du prononcé de la peine,
+
+
+
+
+
+
+
+
+(B) soit plusieurs peines consécutives totalisant au moins deux ans pour des infractions dont les infractions correspondantes, déterminées par le ministre au titre de l’article 15 de cette loi, étaient visées à cette annexe, dans cette version.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 91
+
+
+
+4. Paragraph 136(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. L’alinéa 136b) de la même loi est remplacé par ce qui suit :
+
+
+
+2012, ch. 1, art. 91
+
+
+
+
+
+
+
+
+
+
+
+
+(b) their statutory release is terminated or revoked or they are no longer entitled to be released on statutory release as a result of a change to their statutory release date under subsection 127(5.1) or (6.3).
+
+
+
+
+
+
+
+
+
+b) sa libération d’office a pris fin ou a été révoquée ou il n’y a plus droit en raison d’un changement de date apporté au titre des paragraphes 127(5.1) ou (6.3).
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 93
+
+
+
+5. Subsection 138(6) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 138(6) de la même loi est remplacé par ce qui suit :
+
+
+
+2012, ch. 1, art. 93
+
+
+
+
+
+
+
+
+
+
+Effect of revocation on statutory release
+
+
+
+(6) Subject to subsections 130(4) and (6), an offender whose parole or statutory release has been revoked is entitled to be released on statutory release in accordance with subsection 127(5) or (6.2).
+
+
+
+
+
+
+
+
+
+(6) Sous réserve des paragraphes 130(4) et (6), le délinquant dont la libération conditionnelle ou d’office est révoquée a droit à la libération d’office conformément aux paragraphes 127(5) ou (6.2).
+
+
+
+Droit à la libération d’office en cas de révocation
+
+
+
+
+
+
+
+
+
+
+2011, c. 11, s. 8
+
+
+
+6. Schedule I to the Act is amended by replacing the references after the heading “SCHEDULE I” with the following:
+
+
+
+
+
+
+
+
+
+6. Les renvois qui suivent le titre «  ANNEXE  I », à l’annexe I de la même loi, sont remplacés par ce qui suit :
+
+
+
+2011, ch. 11, art. 8
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Subsections 107(1), 127(6.1) and (6.4), 129(1) and (2), 130(3) and (4), 133(4.1) and 156(3))
+
+
+
+
+
+
+
+
+
+(paragraphes 107(1), 127(6.1) et (6.4), 129(1) et (2), 130(3) et (4), 133(4.1) et (4.3) et 156(3))
+
+
+
+
+
+
+
+
+
+
+2004, c. 21
+
+
+
+CONSEQUENTIAL AMENDMENT TO THE INTERNATIONAL TRANSFER OF OFFENDERS ACT
+
+
+
+
+
+
+
+
+
+MODIFICATION CORRÉLATIVE À LA LOI SUR LE TRANSFÈREMENT INTERNATIONAL DES DÉLINQUANTS
+
+
+
+2004, ch. 21
+
+
+
+
+
+
+
+
+
+
+
+
+7. Subsection 26(1) of the International Transfer of Offenders Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+7. Le paragraphe 26(1) de la Loi sur le transfèrement international des délinquants est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Statutory release — penitentiary
+
+
+
+26. (1) If a Canadian offender is detained in a penitentiary, they are entitled to be released on statutory release on the later of
+
+
+
+
+
+
+
+
+(a) the day on which they have served, beginning on the day of their transfer, two thirds of the period determined in accordance with subsection 22(2), and
+
+
+
+
+
+
+
+
+(b) the day that is determined in accordance with subsection 127(6.1) of the Corrections and Conditional Release Act, if
+
+
+
+
+
+
+
+
+(i) the Canadian offender committed one or more offences, after the day on which this subsection comes into force, for which the equivalent offence or offences identified by the Minister under section 15 were set out in Schedule I of that Act, as it read on the day on which the offender received a sentence or sentences,
+
+
+
+
+
+
+
+
+(ii) the Canadian offender was a person-at-risk within the meaning of subsection 127(6.4) of that Act at the time they committed the offence or offences, and
+
+
+
+
+
+
+
+
+(iii) the sentence in respect of which the Canadian offender is transferred includes
+
+
+
+
+
+
+
+
+(A) a sentence of two years or more for an offence described in subparagraph (i), or
+
+
+
+
+
+
+
+
+(B) two or more sentences for offences described in subparagraph (i), received on the same day, that are to be served consecutively and that amount to two years or more.
+
+
+
+
+
+
+
+
+
+26. (1) La date de libération d’office du délinquant canadien transféré qui est détenu dans un pénitencier correspond à celle des dates ci-après qui est postérieure à l’autre :
+
+
+
+Libération d’office : pénitencier
+
+
+
+
+a) celle à laquelle il a purgé, à compter de la date de transfèrement, les deux tiers de la période d’emprisonnement déterminée selon le paragraphe 22(2);
+
+
+
+
+
+
+
+
+b) celle fixée conformément au paragraphe 127(6.1) de la Loi sur le système correctionnel et la mise en liberté sous condition, si les conditions ci-après sont remplies :
+
+
+
+
+
+
+
+
+(i) le délinquant a commis, après la date d’entrée en vigueur du présent paragraphe, une ou plusieurs infractions pour lesquelles l’infraction ou les infractions correspondantes, selon la détermination faite par le ministre en vertu de l’article 15, étaient visées à l’annexe I de cette loi, dans sa version au moment du prononcé de la peine,
+
+
+
+
+
+
+
+
+(ii) il était, au moment où il a commis l’infraction ou les infractions, une personne à risque au sens du paragraphe 127(6.4) de cette loi,
+
+
+
+
+
+
+
+
+(iii) la peine à l’égard de laquelle il est transféré comprend :
+
+
+
+
+
+
+
+
+(A) soit une peine d’au moins deux ans pour une infraction visée au sous-alinéa (i),
+
+
+
+
+
+
+
+
+(B) soit plusieurs peines consécutives totalisant au moins deux ans imposées le même jour pour des infractions visées à ce sous-alinéa.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+8. This Act comes into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+8. La présente loi entre en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Corrections and Conditional Release Act
+Clause 2: New.
+
+
+
+Loi sur le système correctionnel et la mise en liberté sous condition
+Article 2 : Nouveau.
+
+
+
+
+Clause 3: New.
+
+
+
+Article 3 : Nouveau.
+
+
+
+
+Clause 4: Relevant portion of section 136:
+136. A member of the Board or a person designated, by name or position, by the Chairperson of the Board or the Commissioner may, by warrant, authorize an offender’s apprehension and recommitment to custody if
+...  
+(b) their statutory release is terminated or revoked or they are no longer entitled to be released on statutory release as a result of a change to their statutory release date under subsection 127(5.1).
+
+
+
+Article 4 : Texte du passage visé de l’article 136 :
+136. Tout membre de la Commission ou la personne que le président ou le commissaire désigne nommément ou par indication de son poste peut, par mandat, autoriser l’arrestation et la réincarcération du délinquant dans les cas suivants :
+[...]  
+b) sa libération d’office a pris fin ou a été révoquée ou il n’y a plus droit en raison d’un changement de date apporté au titre du paragraphe 127(5.1).
+
+
+
+
+Clause 5: Existing text of subsection 138(6):
+(6) Subject to subsections 130(4) and (6), an offender whose parole or statutory release has been revoked is entitled to be released on statutory release in accordance with subsection 127(5).
+
+
+
+Article 5 : Texte du paragraphe 138(6) :
+(6) Sous réserve des paragraphes 130(4) et (6), le délinquant dont la libération conditionnelle ou d’office est révoquée a droit à la libération d’office conformément au paragraphe 127(5).
+
+
+
+
+International Transfer of Offenders Act
+Clause 7: Existing text of subsection 26(1):
+26. (1) If a Canadian offender is detained in a penitentiary, they are entitled to be released on statutory release on the day on which they have served, commencing on the day of their transfer, two thirds of the period determined in accordance with subsection 22(2).
+
+
+
+Loi sur le transfèrement international des délinquants
+Article 7 : Texte du paragraphe 26(1) :
+26. (1) La date de libération d’office du délinquant canadien transféré qui est détenu dans un pénitencier est celle à laquelle il a purgé, à compter de la date de transfèrement, les deux tiers de la période d’emprisonnement déterminée selon le paragraphe 22(2).
+
+
+
+

@@ -1,0 +1,2397 @@
+
+
+
+
+
+
+C-269
+
+
+
+
+
+C-269
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-269
+
+
+
+
+
+PROJET DE LOI C-269
+
+
+
+
+
+
+An Act to amend the Employment Insurance Act (improvement of the employment insurance system)
+
+
+
+
+
+Loi modifiant la Loi sur l’assurance-emploi (bonification du régime d’assurance-emploi)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reprinted as amended by the Standing Committee on Human Resources, Social Development and the Status of Persons with Disabilities as a working copy for the use of the House of Commons at Report Stage and as reported to the House on March 19, 2007
+
+
+
+
+
+Réimprimé tel que modifié par le Comité permanent des ressources humaines, du développement social et de la condition des personnes handicapées comme document de travail à l’usage de la Chambre des communes à l’étape du rapport et présenté à la Chambre le 19 mars 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2nd Session, 39th Parliament
+
+This bill was introduced during the First Session of the 39th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2e session, 39e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 39e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+
+Ms. Deschamps
+
+
+391280
+
+
+
+
+Mme Deschamps
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment makes a number of amendments to the Employment Insurance Act. Specifically, it
+(a) reduces each qualifying period by 70 hours;
+ (b) increases the benefit period;
+(c) increases the rate of weekly benefits to 60%;
+(d) repeals the waiting period;
+(e) eliminates the presumption that persons related to each other do not deal with each other at arm’s length; and
+(f) increases the maximum yearly insurable earnings to $41,500 and introduces an indexing formula.
+
+
+
+SOMMAIRE
+Le texte apporte plusieurs modifications à la Loi sur l’assurance-emploi. Plus particulièrement, il :
+
+a) diminue de 70 heures chaque période de référence;
+
+b) augmente la durée de la période de prestations;
+
+c) augmente le taux de prestations hebdomadaires à 60 %;
+
+d) abroge le délai de carence;
+
+e) fait en sorte que les personnes liées ne sont plus réputées avoir un lien de dépendance;
+
+f) augmente le maximum de la rémunération annuelle assurable à 41 500 $ et introduit une formule d’indexation.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-269
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-269
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Employment Insurance Act (improvement of the employment insurance system)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur l’assurance-emploi (bonification du régime d’assurance-emploi)
+
+
+
+
+
+
+
+
+
+
+
+
+1996, c. 23
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+1996, ch. 23
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Subsection 2(5) of the Employment Insurance Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. Le paragraphe 2(5) de la Loi sur l’assurance-emploi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Weeks of benefits paid
+
+
+
+(5) For the purposes of section 145, the Commission may, with the approval of the Governor in Council, make regulations for establishing how many weeks of benefits a claimant was paid, in order to take into account benefit reductions or deductions in the calculation or payment of those benefits.
+
+
+
+
+
+
+
+
+
+(5) Pour l'application de l'article 145 et en vue de tenir compte de toute déduction ou réduction afférente au calcul ou au versement des prestations, la Commission peut, avec l'agrément du gouverneur en conseil, prendre des règlements concernant la détermination du nombre de semaines à l'égard desquelles des prestations ont été versées au prestataire.
+
+
+
+Semaines de prestations
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) Subsection 4(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. (1) Le paragraphe 4(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Maximum yearly insurable earnings
+
+
+
+
+4. (1) For the purposes of subsection 14(1.1), section 17, subsection 82(2) and sections 95 and 145, the maximum yearly insurable earnings is $41,500 (indexed annually) until the amount calculated in accord­ance with subsection (2) for a year, before rounding down under subsection (4), exceeds $41,500 (indexed annually), in which case the maximum yearly insurable earnings for that year is that amount, rounded down under subsection (4).
+
+
+
+
+
+
+
+
+
+
+4. Pour l’application du paragraphe 14(1.1), de l’article 17, du paragraphe 82(2) et  des articles 95 et 145, le maximum de la rémunération annuelle assurable est de 41 500 $, indexé annuellement, jusqu’à ce que le montant calculé en application du paragraphe (2) pour une année excède 41 500 $, indexé annuellement, avant l’arrondissement prévu au paragraphe (4), auquel cas le maximum de la rémunération annuelle assurable pour cette année est le résultat de ce calcul, arrondi en vertu de ce paragraphe.
+
+
+
+Maximum de la rémunération annuelle assurable
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 4(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 4(3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Subsequent years
+
+
+
+(3) For years subsequent to the year in which the maximum yearly insurable earnings exceeds $41,500 (indexed annually), before rounding down under subsection (4), the maximum yearly insurable earnings is the maximum yearly insurable earnings for the preceding year, before rounding down under subsection (4), multiplied by the ratio that the average for the twelve month period ending on June 30 in that preceding year of the Average Weekly Earnings for each month in that twelve month period bears to the average for the twelve month period ending twelve months prior to June 30 of that preceding year of the Average Weekly Earnings for each month in that twelve month period ending twelve months prior to June 30 of that preceding year.
+
+
+
+
+
+
+
+
+
+(3) Pour les années suivant l’année au cours de laquelle le maximum de la rémunération assurable excède 41 500 $, indexé annuellement, avant son arrondissement prévu au paragraphe (4), le maximum de la rémunération annuelle assurable est celui de l’année précédente, avant son arrondissement prévu à ce paragraphe, multiplié par le rapport entre la moyenne, pour la période de douze mois se terminant le 30 juin de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période et la moyenne, pour la période de douze mois se terminant douze mois avant le 30 juin de cette année précédente, de la rémunération hebdomadaire moyenne pour chacun des mois de cette période de douze mois se terminant douze mois avant le 30 juin de cette année précédente.
+
+
+
+Années subséquentes
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 4 of the Act is amended by adding the following after subsection (5):
+
+
+
+
+
+
+
+
+
+(3) L’article 4 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “$41,500 (indexed annually)”
+
+
+
+(6) For the purposes of this section, “$41,500 (indexed annually)” means $41,500 indexed annually, beginning in 2005, to the Consumer Price Index published by Statistics Canada under the authority of the Statistics Act.
+
+
+
+
+
+
+
+
+
+(6) Pour l’application du présent article, « 41 500 $, indexé annuellement » s’entend du montant de 41 500 $ indexé annuellement, à partir de l’année 2005, en fonction de l’indice des prix à la consommation publié par Statistique Canada en vertu de la Loi sur la statistique.
+
+
+
+Définition de « 41 500 $, indexé annuellement »
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Paragraph 5(3)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. L’alinéa 5(3)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length unless the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would not have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+
+
+
+
+
+
+
+
+
+
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance à moins que le ministre du Revenu national ne soit convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils avaient été sans lien de dépendance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. (1) The definition “waiting period” in subsection 6(1) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+4. (1) La définition de « délai de carence », au paragraphe 6(1) de la même loi, est abrogée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definition “disentitled” in subsection 6(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) La définition de « inadmissible », au paragraphe 6(1) de la même loi, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“disentitled”« inadmissible »
+
+
+
+“disentitled” means not entitled under section 18, 21, 31, 32, 33, 36, 37, 49 or 50 or under the regulations;
+
+
+
+
+
+
+
+
+
+« inadmissible » Qui n’est pas admissible au titre des articles 18, 21, 31, 32, 33, 36, 37, 49 ou 50, ou au titre d’un règlement.
+
+
+
+« inadmissible »“disentitled”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. (1) The table to subsection 7(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+
+
+5. (1) Le tableau du paragraphe 7(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE
+
+
+
+
+
+
+
+
+Regional Rate of Unemployment
+
+
+Required Number of Hours of Insurable Employment in Qualifying Period
+
+
+
+
+
+
+6% and under 
+
+
+630
+
+
+
+
+more than 6% but not more than 7% 
+
+
+595
+
+
+
+
+more than 7% but not more than 8%
+
+
+560
+
+
+
+
+more than 8% but not more than 9%
+
+
+525
+
+
+
+
+more than 9% but not more than 10%
+
+
+490
+
+
+
+
+more than 10% but not more than 11%
+
+
+455
+
+
+
+
+more than 11% but not more than 12% 
+
+
+420 
+
+
+
+
+more than 12% but not more than 13%
+
+
+385
+
+
+
+
+more than 13%
+
+
+350
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLEAU
+
+
+
+
+
+
+
+
+Taux régional de chômage
+
+
+Nombre d'heures d'emploi assurable requis au cours de la période de référence 
+
+
+
+
+
+
+6 % et moins 
+
+
+630
+
+
+
+
+plus de 6 % mais au plus 7 %
+
+
+595
+
+
+
+
+plus de 7 % mais au plus 8 %
+
+
+560
+
+
+
+
+plus de 8 % mais au plus 9 % 
+
+
+525
+
+
+
+
+plus de 9 % mais au plus 10 %
+
+
+490
+
+
+
+
+plus de 10 % mais au plus 11 %
+
+
+455
+
+
+
+
+plus de 11 % mais au plus 12 %
+
+
+420
+
+
+
+
+plus de 12 % mais au plus 13 %
+
+
+385
+
+
+
+
+plus de 13 %
+
+
+350
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 7(3)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+
+(2) L'alinéa 7(3)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) has had 840 or more hours of insurable employment in their qualifying period.
+
+
+
+
+
+
+
+
+
+
+
+
+b) il a, au cours de sa période de référence, exercé un emploi assurable pendant au moins huit cent quarante heures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) Subsections 7.1(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. (1) Les paragraphes 7.1(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Increase in required hours
+
+
+
+
+7.1 (1) The number of hours that an insured person requires under section 7 to qualify for benefits is increased to the applicable number provided in paragraphs (a) to (d) if the insured person accumulates one or more violations in the 260 weeks before making their initial claim for benefit:
+
+
+
+
+
+
+
+
+
+
+(a) 525 hours in the case of one or more minor violations;
+
+
+
+
+
+
+
+
+
+
+(b) 630 hours in the case of one or more serious violations;
+
+
+
+
+
+
+
+
+
+
+(c) 735 hours in the case of one or more very serious violations; and
+
+
+
+
+
+
+
+
+
+
+(d) 850 hours in the case of one or more subsequent violations.
+
+
+
+
+
+
+
+
+
+
+7.1 (1) Le nombre d’heures d’emploi assurable requis au titre de l’article 7 est majoré conformément au nombre applicable prévu aux alinéas a) à d) à l’égard de l’assuré qui est responsable d’une ou de plusieurs violations au cours des deux cent soixante semaines précédant sa demande initiale de prestations :
+
+
+
+Majoration du nombre d’heures d’emploi assurable requis
+
+
+
+
+
+a) 525 heures, s’il est responsable d’au moins une violation mineure;
+
+
+
+
+
+
+
+
+
+
+
+b) 630 heures, s’il est responsable d’au moins une violation grave;
+
+
+
+
+
+
+
+
+
+
+
+c) 735 heures, s’il est responsable d’au moins une violation très grave;
+
+
+
+
+
+
+
+
+
+
+
+d) 850 heures, s’il est responsable d’au moins une violation subséquente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 7.1(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 7.1(3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(3) A violation may not be taken into account under subsection (1) in more than two initial claims for benefits if the insured person qualified for benefits with the increased number of hours in each of those claims.
+
+
+
+
+
+
+
+
+
+(3) Une violation ne peut être prise en compte, au titre du paragraphe (1), à l’égard de plus de deux demandes initiales de prestations pour lesquelles le prestataire remplit les conditions requises au titre de ce paragraphe.
+
+
+
+Violations prises en compte
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Section of 13 of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+7. L’article 13 de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) Subsection 14(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. (1) Le paragraphe 14(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Rate of weekly benefits
+
+
+
+
+14. (1) The rate of weekly benefits payable to a claimant is 60% of their weekly insurable earnings.
+
+
+
+
+
+
+
+
+
+
+14. (1) Le taux de prestations hebdomadaires qui peut être versé à un prestataire est de soixante pour cent de sa rémunération hebdomadaire assurable.
+
+
+
+Taux de prestations hebdomadaires
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsections 14(4) and (4.1) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 14(4) et (4.1) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Rate calculation period
+
+
+
+(4) The rate calculation period is the period of 12 weeks, consecutive or not, during which the claimant received earnings greater than any other period of 12 weeks, consecutive or not.
+
+
+
+
+
+
+
+
+
+(4) La période de base d'un prestataire correspond à la période de douze semaines, consécutives ou non consécutives, au cours de laquelle le prestataire a reçu une rémunération supérieure à toute autre période de douze semaines consécutives ou non consécutives.
+
+
+
+Période de base
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. (1) Subsection 19(1) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+9. (1) Le paragraphe 19(1) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The portion of subsection 19(2) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 19(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Earnings in periods of unemployment
+
+
+
+(2) Subject to subsections (3) and (4), if the  claimant has earnings during a week of unemployment, there shall be deducted from benefits payable in that week the amount, if any, of the earnings that exceeds
+
+
+
+
+
+
+
+
+
+(2) Sous réserve des paragraphes (3) et (4), si le prestataire reçoit une rémunération durant une semaine de chômage, il est déduit des prestations qui lui sont payables un montant correspondant à la fraction de la rémunération reçue au cours de cette semaine qui dépasse 50 $, ou vingt-cinq pour cent de son taux de prestations hebdomadaires si celui-ci est de 200 $ ou plus.
+
+
+
+Rémunération au cours de périodes de chômage
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Section 20 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. L’article 20 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Deduction for excluded days
+
+
+
+
+20. If a claimant is disentitled from receiving benefits for a working day in a week of unemployment, an amount equal to 1/5 of their weekly rate of benefits for each such working day shall be deducted from the benefits payable for that week.
+
+
+
+
+
+
+
+
+
+
+20. Si le prestataire est inadmissible au bénéfice des prestations pour un ou plusieurs jours ouvrables d’une semaine de chômage, il est déduit des prestations afférentes à cette semaine un cinquième de son taux de prestations hebdomadaires pour chacun de ces jours ouvrables.
+
+
+
+Déduction pour les jours exclus
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. Subsection 22(4) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+11. Le paragraphe 22(4) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. Subsection 23(5) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+12. Le paragraphe 23(5) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. Subsection 23.1(7) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 23.1(7) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. Subsection 24(1) of the Act is amended by adding the word “and” at the end of paragraph “(g)” and by repealing paragraph (h).
+
+
+
+
+
+
+
+
+
+
+14. L’alinéa 24(1)h) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. Subsection 28(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. Le paragraphe 28(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+When disqualification is to be served
+
+
+
+(2)  Subject to subsections (3) to (5), the weeks of disqualification are to be served during the weeks for which benefits would otherwise be payable if the disqualification had not been imposed and, for greater certainty, the length of the disqualification is not affected by any subsequent loss of employment by the claimant during the benefit period.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve des paragraphes (3) à (5), l’exclusion doit être purgée au cours des semaines de la période de prestations du prestataire pour lesquelles il aurait sans cela droit à des prestations. Il demeure par ailleurs entendu que la durée de cette exclusion n’est pas touchée par la perte subséquente d’un emploi au cours de la période de prestations.
+
+
+
+Période au cours de laquelle l’exclusion doit être purgée
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. Subsection 30(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+16. Le paragraphe 30(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Length of disqualification
+
+
+
+(2) The disqualification is for each week of the claimant’s benefit period and, for greater certainty, the length of the disqualification is not affected by any subsequent loss of employment by the claimant during the benefit period.
+
+
+
+
+
+
+
+
+
+(2) L’exclusion vaut pour toutes les semaines de la période de prestations du prestataire. Il demeure par ailleurs entendu que la durée de cette exclusion n’est pas affectée par la perte subséquente d’un emploi au cours de la période de prestations.
+
+
+
+Exclusion non touchée par une perte d’emploi subséquente
+
+
+
+
+
+
+
+
+
+
+
+
+
+17. (1) Paragraph 54(a) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+17. (1) L’alinéa 54a) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 54(f) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L'alinéa 54f) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(f) determining the amount to be deducted under section 20 from weekly benefits paid if the claimant normally works other than a five day week;
+
+
+
+
+
+
+
+
+
+
+f) fixant le montant qui sera déduit, en vertu de l'article 20, des prestations hebdomadaires versées lorsque le régime normal de travail du prestataire n'est pas la semaine de cinq jours;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Paragraph 54(f.6) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 54f.6) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. The Act is amended by adding the following after section 153:
+
+
+
+
+
+
+
+
+
+
+18. La même loi est modifiée par adjonction, après l’article 153,  de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART VIII.01
+
+
+
+
+
+
+
+
+
+PARTIE VIII.01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SELF-EMPLOYED PERSONS
+
+
+
+
+
+
+
+
+
+TRAVAILLEURS INDÉPENDANTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+153.01 (1) Notwithstanding anything in this Act, the Commission may, with the approval of the Governor in Council, make such regulations as it deems necessary respecting the establishment and operation of a scheme of employment insurance for self-employed persons or classes of self-employed persons.
+
+
+
+
+
+
+
+
+
+
+153.01 (1) Malgré les autres dispositions de la présente loi, la Commission peut, avec l'agrément du gouverneur en conseil, prendre les règlements, qu'elle juge nécessaires, visant l'établissement et le fonctionnement d'un régime d'assurance-emploi applicable aux travailleurs indépendants ou à des catégories de travailleurs indépendants.
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+Scheme may be different
+
+
+
+(2) The scheme established by the regulations may, with respect to any matter, be different from the provisions of this Act relating to that matter.
+
+
+
+
+
+
+
+
+
+(2) Le régime établi par les règlements peut, à l'égard de toute question, être différent des dispositions de la présente loi concernant cette question.
+
+
+
+Régime différent
+
+
+
+
+
+
+
+
+
+
+Tabling of regulation
+
+
+
+(3) The Minister shall table the regulations in the House of Commons within three sitting days after the day on which they are made.
+
+
+
+
+
+
+
+
+
+(3) Le ministre dépose devant la Chambre des communes le texte de chaque règlement dans les trois jours de séance suivant sa prise.
+
+
+
+Dépôt devant la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+Motion to repeal
+
+
+
+(4) The regulations come into force on the tenth sitting day after the day on which they are tabled, or on any later day specified in the regulations, unless a motion to repeal them, signed by not fewer than 30 members of the House of Commons, is filed with the Speaker of the House of Commons before the tenth sitting day.
+
+
+
+
+
+
+
+
+
+(4) Le règlement entre en vigueur le dixième jour de séance qui suit le dépôt, ou à la date ultérieure qui y est précisée, sauf si une motion d'abrogation signée par au moins trente députés est déposée auprès du président de la Chambre avant ce jour.
+
+
+
+Motion d'abrogation
+
+
+
+
+
+
+
+
+
+
+Consideration
+
+
+
+(5) If a motion to repeal the regulations is filed with the Speaker of the House of Commons in accordance with subsection (4), it shall be taken up and considered by the House of Commons within five sitting days after the day on which it is filed.
+
+
+
+
+
+
+
+
+
+(5) Saisie de la motion visée au paragraphe (4), la Chambre l'étudie dans les cinq jours de séance suivant son dépôt.
+
+
+
+Étude
+
+
+
+
+
+
+
+
+
+
+Time for disposition of motion
+
+
+
+(6) The motion shall be taken up after the ordinary hour of daily adjournment, for a period of not more than four hours, and at the end of the debate the Speaker of the House of Commons shall, without delay or further debate or amendment, put every question necessary for the disposition of the motion.
+
+
+
+
+
+
+
+
+
+(6) La motion fait l'objet d'un débat maximal de quatre heures qui débute après l'heure ordinaire de l'ajournement quotidien; le débat terminé, le président de la Chambre met immédiatement aux voix, sans autre débat ni amendement, toute question nécessaire pour décider de la motion.
+
+
+
+Mise aux voix
+
+
+
+
+
+
+
+
+
+
+Adoption or defeat of motion
+
+
+
+(7) If the motion is adopted, the regulations are repealed, and if the motion is defeated, the regulations come into force on the day after the day on which the motion is defeated or on any later day specified in the regulations.
+
+
+
+
+
+
+
+
+
+(7) En cas d'adoption de la motion, le règlement est abrogé; en cas de rejet, il entre en vigueur le lendemain du rejet ou à la date ultérieure qui y est précisée.
+
+
+
+Conséquences
+
+
+
+
+
+
+
+
+
+
+Regulation repealed
+
+
+
+(8) The regulations are repealed if Parliament is prorogued or dissolved before the motion is disposed of or, if no motion has been filed, before the end of the period mentioned in subsection (4).
+
+
+
+
+
+
+
+
+
+(8) En cas de dissolution ou de prorogation du Parlement avant la mise aux voix de la motion ou l'expiration du délai visé au paragraphe (4), le règlement est abrogé.
+
+
+
+Abrogation
+
+
+
+
+
+
+
+
+
+
+Definition of “sitting day”
+
+
+
+(9) For the purpose of this section, “sitting day” means a day on which the House of Commons is sitting.
+
+
+
+
+
+
+
+
+
+(9) Pour l'application du présent article, « jour de séance » s'entend d'un jour de séance de la Chambre des communes.
+
+
+
+Définition de « jour de séance »
+
+
+
+
+
+
+
+
+
+
+
+
+
+19. Schedule I to the Act is replaced by Schedule I set out in the schedule to this Act.
+
+
+
+
+
+
+
+
+
+
+19. L’annexe I de la même loi est remplacée par celle figurant à l’annexe de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 
+
+
+
+
+
+ANNEXE 
+
+
+
+
+
+
+(Section 19)
+
+
+
+
+
+(article 19)
+
+
+
+
+
+
+SCHEDULE I 
+
+
+
+
+
+ANNEXE I 
+
+
+
+
+
+
+(Subsection 12(2))
+
+
+
+
+
+(paragraphe 12(2))
+
+
+
+
+
+
+TABLE OF WEEKS OF BENEFIT
+
+
+
+
+
+TABLEAU DES SEMAINES DE PRESTATIONS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			if(document.getElementById('ID0EHOAE').parentNode.width > 0){document.getElementById('ID0EHOAE').width = document.getElementById('ID0EHOAE').parentNode.width;}
+			else if(document.getElementById('ID0EHOAE').parentNode.parentNode.width > 0){document.getElementById('ID0EHOAE').width = document.getElementById('ID0EHOAE').parentNode.parentNode.width;}
+		
+
+
+
+
+
+
+
+			if(document.getElementById('ID1EACAA').parentNode.width > 0){document.getElementById('ID1EACAA').width = document.getElementById('ID1EACAA').parentNode.width;}
+			else if(document.getElementById('ID1EACAA').parentNode.parentNode.width > 0){document.getElementById('ID1EACAA').width = document.getElementById('ID1EACAA').parentNode.parentNode.width;}
+		
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

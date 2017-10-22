@@ -1,0 +1,1670 @@
+
+
+
+
+
+
+C-261
+
+
+
+
+
+C-261
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-261
+
+
+
+
+
+PROJET DE LOI C-261
+
+
+
+
+
+
+An Act to establish the office of Pension Ombudsman to investigate administrative difficulties encountered by persons in their dealings with the Government of Canada in respect of benefits under the Canada Pension Plan or the Old Age Security Act or tax liability on such benefits and to review the policies and practices applied in the administration and adjudication of such benefits and liabilities
+
+
+
+
+
+ Loi établissant le poste d’ombudsman des pensions ayant pour mission d’enquêter sur les difficultés administratives éprouvées par les personnes qui traitent avec le gouvernement du Canada relativement aux prestations prévues par le Régime de pensions du Canada ou la Loi sur la sécurité de la vieillesse ou aux obligations fiscales y afférentes, et d’examiner les politiques et les pratiques établies pour gérer ces prestations et obligations et statuer sur celles-ci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 5, 2006
+
+
+
+
+
+première lecture le 5 mai 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Martin (Winnipeg Centre)
+
+391065
+
+
+
+
+M. Martin (Winnipeg-Centre)
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to establish the office of Pension Ombudsman, whose function is to assist persons dealing with the Government of Canada in respect of benefits under the Canada Pension Plan or the Old Age Security Act or tax liabilities thereon in cases where they are dealt with unfairly or unreasonably or with unreasonable delay. The Ombudsman may investigate complaints and report on complaints that are not satisfactorily resolved. The reports may be to the relevant minister as to the specific details of complaints, or in general terms to a standing committee of the House of Commons.
+The Ombudsman may propose changes in the way the public is served in these matters with respect to fairness, reasonableness and promptness.
+If the relevant department fails to improve its policies and practices at the suggestion of the Ombudsman, the Ombudsman may make a report to the Minister of Human Resources and Skills Development or to the Minister of National Revenue, and the report must then be laid before Parliament.
+
+
+
+SOMMAIRE
+Le texte a pour objet d’établir le poste d’ombudsman des pensions dont la mission est d’aider les personnes qui sont soumises à un traitement inéquitable ou déraisonnable ou à des retards indus lorsqu’elles traitent avec le gouvernement du Canada de questions relatives aux prestations prévues par le Régime de pensions du Canada ou la Loi sur la sécurité de la vieillesse, ou aux obligations fiscales y afférentes. L’ombudsman peut faire enquête sur les plaintes reçues et faire rapport sur celles qui ne sont pas réglées de façon satisfaisante. Il peut présenter un rapport au ministre compétent concernant les détails particuliers des plaintes ou rédiger en termes généraux un rapport qu’il présente  à un comité permanent de la Chambre des communes.
+L’ombudsman peut proposer des modifications à la façon de servir le public en vue d’assurer un traitement équitable, raisonnable et rapide.
+Si le ministère visé n’améliore pas ses politiques et ses pratiques à la suite des recommandations de l’ombudsman, ce dernier peut présenter un rapport au ministre des Ressources humaines et du Développement des compétences ou au ministre du Revenu national, qui doit alors le déposer devant le Parlement.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-261
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-261
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to establish the office of Pension Ombudsman to investigate administrative difficulties encountered by persons in their dealings with the Government of Canada in respect of benefits under the Canada Pension Plan or the Old Age Security Act or tax liability on such benefits and to review the policies and practices applied in the administration and adjudication of such benefits and liabilities
+
+
+
+
+
+
+
+
+
+ Loi établissant le poste d’ombudsman des pensions ayant pour mission d’enquêter sur les difficultés administratives éprouvées par les personnes qui traitent avec le gouvernement du Canada relativement aux prestations prévues par le Régime de pensions du Canada ou la Loi sur la sécurité de la vieillesse ou aux obligations fiscales y afférentes, et d’examiner les politiques et les pratiques établies pour gérer ces prestations et obligations et statuer sur celles-ci
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Pension Ombudsman Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur l’ombudsman des pensions.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“Department”« ministère »
+
+
+
+“Department” means the Department of Human Resources and Skills Development. 
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Human Resources and Skills Development.
+
+
+
+
+“Ombudsman”« ombudsman »
+
+
+
+“Ombudsman” means the person holding the office of Pension Ombudsman established under section 3.
+
+
+
+
+“relevant department”« ministère
+visé »
+
+
+
+“relevant department” means the Department or the Canada Revenue Agency,  as the case may be. 
+
+
+
+
+“Standing Committee”« comité permanent »
+
+
+
+“Standing Committee” means the Standing Committee of the House of Commons appointed by the House to deal with matters related to pensions and other benefits for senior citizens.
+
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« comité permanent » Le comité permanent de la Chambre des communes chargé d’étudier les questions relatives aux pensions et autres prestations pour les personnes âgées.
+
+
+
+« comité permanent »“Standing Committee”
+
+
+
+
+« ministère » Le ministère des Ressources humaines et du Développement des compétences.
+
+
+
+« ministère »“Department”
+
+
+
+
+« ministère visé » Le ministère ou l’Agence du revenu du Canada, selon le cas.
+
+
+
+« ministère
+visé »“relevant department”
+
+
+
+
+« ministre » Le ministre des Ressources humaines et du Développement des compétences.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« ombudsman » Le titulaire du poste d’ombudsman des pensions institué par l’article 3.
+
+
+
+« ombudsman »“Ombudsman”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PENSION OMBUDSMAN
+
+
+
+
+
+
+
+
+
+OMBUDSMAN DES PENSIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Office established
+
+
+
+
+3. (1) There is hereby established the office of Pension Ombudsman.
+
+
+
+
+
+
+
+
+
+
+3. (1) Est institué le poste d’ombudsman des pensions.
+
+
+
+Création du poste
+
+
+
+
+
+
+
+
+
+
+Function of office
+
+
+
+(2) The function of the Pension Ombudsman is
+
+
+
+
+
+
+
+
+
+
+(a) to investigate administrative difficulties as to fairness, reasonableness and promptness encountered by persons in their dealings with the Government of Canada in respect of benefits under the Canada Pension Plan or the Old Age Security Act or tax liability on such benefits;
+
+
+
+
+
+
+
+
+
+
+(b) to review the policies and practices applied in the administration and adjudication of such benefits and liabilities with respect to fairness, reasonableness and promptness; and
+
+
+
+
+
+
+
+
+
+
+(c) to make reports on cases where difficulties are not satisfactorily resolved or where policies and practices are not adequately adjusted on the Ombudsman’s request.  
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman des pensions a pour mission :
+
+
+
+Mission de l’ombudsman
+
+
+
+
+
+a) d’enquêter sur les difficultés administratives — concernant le caractère équitable et raisonnable et la célérité du traitement — éprouvées par les personnes qui traitent avec le gouvernement du Canada de questions relatives aux prestations prévues par le Régime de pensions du Canada ou la Loi sur la sécurité de la vieillesse ou aux obligations fiscales y afférentes;
+
+
+
+
+
+
+
+
+
+
+
+b) d’examiner, en ce qui concerne leur caractère équitable et raisonnable et la célérité avec laquelle elles sont suivies, les politiques et les pratiques établies pour gérer ces prestations et obligations et statuer sur celles-ci;
+
+
+
+
+
+
+
+
+
+
+
+c) de présenter des rapports sur les cas où les difficultés ne sont pas résolues de façon satisfaisante ou sur ceux où les politiques et les pratiques ne sont pas modifiées de façon satisfaisante après qu’il en a fait la demande.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment
+
+
+
+
+4. (1) The Governor in Council shall appoint a Pension Ombudsman recommended by the Minister from a list of persons nominated by the Standing Committee. 
+
+
+
+
+
+
+
+
+
+
+4. (1) Le gouverneur en conseil nomme à titre d’ombudsman des pensions la personne recommandée par le ministre parmi les candidats dont le nom figure sur une liste établie par le comité permanent.
+
+
+
+Nomination 
+
+
+
+
+
+
+
+
+
+
+Term and removal
+
+
+
+(2) The Ombudsman holds office during good behaviour for a term of five years, but may be
+
+
+
+
+
+
+
+
+
+
+(a) removed by the Governor in Council at any time on a resolution of the House of Commons following a report recommending removal by the Standing Committee; or
+
+
+
+
+
+
+
+
+
+
+(b) suspended by the Governor in Council on the recommendation of the Minister, made at any time when the House is adjourned for a period of four weeks or more, or is dissolved, for a period expiring thirty days after the day the House next sits.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman occupe son poste à titre inamovible pour un mandat de cinq ans. Il peut toutefois :
+
+
+
+Mandat et révocation  
+
+
+
+
+
+a) soit être révoqué par le gouverneur en conseil, sur résolution de la Chambre des communes après rapport du comité permanent recommandant sa révocation;
+
+
+
+
+
+
+
+
+
+
+
+b) soit, sur recommandation faite par le ministre lorsque la Chambre a ajourné pour une période d’au moins quatre semaines ou qu’elle est dissoute, être suspendu par le gouverneur en conseil pour  une période prenant fin trente jours après que la Chambre siège de nouveau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acting Ombudsman
+
+
+
+(3) In the event of the absence, incapacity or suspension of the Ombudsman, the Governor in Council may, on the recommendation of the Minister, appoint another person to act as Ombudsman until the Ombudsman returns, the suspension is terminated or another Ombudsman is appointed, as the case may be.
+
+
+
+
+
+
+
+
+
+(3) En cas d’absence, d’empêchement ou de suspension de l’ombudsman, le gouverneur en conseil peut nommer, sur recommandation du ministre, une autre personne pour assurer l’intérim jusqu’à ce que l’ombudsman reprenne ses fonctions, que sa suspension soit levée ou qu’un autre ombudsman soit nommé, selon le cas.
+
+
+
+Ombudsman intérimaire
+
+
+
+
+
+
+
+
+
+
+No more than two terms
+
+
+
+(4) No person may serve more than two terms as Ombudsman.
+
+
+
+
+
+
+
+
+
+(4) Nul ne peut occuper le poste d’ombudsman pour plus de deux mandats.
+
+
+
+Maximum de deux mandats
+
+
+
+
+
+
+
+
+
+
+Remuneration
+
+
+
+(5) The Ombudsman shall receive such remuneration, benefits and reimbursement of expenses as is ordered by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(5) L’ombudsman reçoit la rémunération et les avantages fixés par le gouverneur en conseil et il est indemnisé de ses frais selon les modalités établies par ce dernier.
+
+
+
+Rémunération
+
+
+
+
+
+
+
+
+
+
+Part of the federal public administration
+
+
+
+(6) The Office of the Ombudsman is deemed to be a part of the federal public administration.
+
+
+
+
+
+
+
+
+
+(6) Le bureau de l’ombudsman est réputé faire partie de l’administration publique fédérale.
+
+
+
+Fonctionnaire
+
+
+
+
+
+
+
+
+
+
+Staff
+
+
+
+(7) The Ombudsman may hire, under the Public Service Employment Act, such officers and staff as are necessary to carry out the purposes of this Act.
+
+
+
+
+
+
+
+
+
+(7) L’ombudsman peut engager, conformément à la Loi sur l’emploi dans la fonction publique, le personnel nécessaire à l’application de la présente loi.
+
+
+
+Personnel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMPLAINTS AND INVESTIGATIONS
+
+
+
+
+
+
+
+
+
+PLAINTES ET ENQUÊTES
+
+
+
+
+
+
+
+
+
+
+
+
+Complaints
+
+
+
+
+5. (1) Any person who claims to have encountered administrative difficulties as to fairness, reasonableness and promptness in their dealings with the relevant department in respect of benefits under the Canada Pension Plan or the Old Age Security Act or tax liability on such benefits may make a complaint to the Ombudsman.
+
+
+
+
+
+
+
+
+
+
+5. (1) Quiconque prétend avoir éprouvé des difficultés administratives concernant le  caractère équitable et raisonnable et la célérité du traitement, par le ministère visé, de questions relatives aux prestations prévues par le Régime de pensions du Canada ou la Loi sur la sécurité de la vieillesse ou aux obligations fiscales y afférentes peut déposer une plainte auprès de l’ombudsman.
+
+
+
+Plaintes
+
+
+
+
+
+
+
+
+
+
+Investigations
+
+
+
+(2) The Ombudsman shall investigate those complaints received under subsection (1) that show reasonable grounds to believe that there has been unfair or unreasonable treatment or unreasonable delay by the Department respecting a benefit or by the Canada Revenue Agency respecting tax liability on a benefit.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman fait enquête sur la plainte reçue aux termes du paragraphe (1) s’il y a des motifs raisonnables de croire que des prestations ont fait l’objet d’un traitement injuste ou déraisonnable ou d’un retard indu de la part du ministère, ou que les obligations fiscales y afférentes ont subi un tel traitement ou un retard à l’Agence du revenu du Canada.
+
+
+
+Enquêtes
+
+
+
+
+
+
+
+
+
+
+Departmental information
+
+
+
+(3) For the purposes of an investigation, the Ombudsman may request, from the relevant department,  information that is relevant to the complaint being investigated, and the relevant department shall provide the information requested.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman peut, aux fins d’enquête, demander au ministère visé des renseignements concernant la plainte qui en fait l’objet, auquel cas ce dernier est tenu de les lui fournir.
+
+
+
+Demande de renseignements
+
+
+
+
+
+
+
+
+
+
+Confidential information
+
+
+
+(4) The Ombudsman may, with the information requested under subsection (3), and with the written consent of the complainant, include a request for information respecting the complainant that is confidential, and the relevant department shall, notwithstanding any other Act of Parliament, provide the information covered by the consent.  
+
+
+
+
+
+
+
+
+
+(4) Dans cette demande, l’ombudsman peut, avec le consentement écrit du plaignant, inclure une demande de renseignements confidentiels concernant celui-ci, auquel cas le ministère visé doit, par dérogation à toute autre loi fédérale, fournir les renseignements autorisés par le consentement.
+
+
+
+Renseignements confidentiels  
+
+
+
+
+
+
+
+
+
+
+Information kept confidential
+
+
+
+(5) The Ombudsman shall keep confidential all information provided by the relevant department under subsection (4), except as necessary for a report under subsection (7) that contains such information without identifying the complainant.  
+
+
+
+
+
+
+
+
+
+(5) L’ombudsman garde confidentiels tous les renseignements que lui fournit le ministère visé en conformité avec le paragraphe (4), sauf dans la mesure nécessaire à l’établissement du rapport mentionné au paragraphe (7), qui ne peut toutefois révéler l’identité du plaignant.
+
+
+
+Confidentialité des renseignements
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(6) If, after investigation, the Ombudsman is not satisfied that the relevant department has dealt fairly, reasonably and with due dispatch with the complainant, either before or after the complaint or investigation, the Ombudsman,
+
+
+
+
+
+
+
+
+
+
+(a) having given written notice to the relevant department that a report will be made to the minister in charge of the relevant department, including a draft of the proposed report,
+
+
+
+
+
+
+
+
+
+
+(b) having considered any representation sent to the Ombudsman by the relevant department respecting the proposed report, and made such changes in the proposed report as appear in the opinion of the Ombudsman to be warranted on the basis of such representations, and
+
+
+
+
+
+
+
+
+
+
+(c) having received the prior written consent of the complainant,
+
+
+
+
+
+
+
+
+
+
+may report the matter in detail to the minister in charge of the relevant department, and the minister shall reveal the report only to the officials of the relevant department.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6) Une fois l’enquête terminée, l’ombudsman peut, s’il n’est pas convaincu que le ministère visé a traité le plaignant, avant ou après la plainte ou l’enquête, de façon équitable et raisonnable et avec la célérité voulue, présenter un rapport détaillé sur la question au ministre responsable de ce ministère — qui ne peut en révéler l’existence qu’aux fonctionnaires de celui-ci — après que les conditions suivantes ont été remplies :
+
+
+
+Rapport
+
+
+
+
+
+a) il a informé le ministère visé, au moyen d’un avis écrit accompagné du projet du rapport, qu’un tel rapport sera présenté au ministre responsable de ce ministère;
+
+
+
+
+
+
+
+
+
+
+
+b) il a tenu compte des observations qui lui ont été présentées par le ministère visé au sujet du rapport proposé et il y a apporté en conséquence les modifications qu’il estime justifiées;
+
+
+
+
+
+
+
+
+
+
+
+c) il a reçu au préalable le consentement écrit du plaignant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reports to the Standing Committee
+
+
+
+(7) The Ombudsman may make reports from time to time to the Standing Committee on matters that the Ombudsman has investigated and reported on to the relevant department under subsection (6) if the Ombudsman is not satisfied with the action taken by the relevant department in the matter.
+
+
+
+
+
+
+
+
+
+(7) L’ombudsman peut présenter au comité permanent un rapport sur toute question sur laquelle il a fait enquête et remis un rapport au ministère visé en conformité avec le paragraphe (6), s’il juge insatisfaisantes les mesures prises par ce dernier sur la question.
+
+
+
+Rapport au comité permanent  
+
+
+
+
+
+
+
+
+
+
+Complainant not identified
+
+
+
+(8) A report under subsection (7) shall be in general terms and not identify a complainant.
+
+
+
+
+
+
+
+
+
+(8) Le rapport visé au paragraphe (7) est rédigé en termes généraux et ne peut révéler l’identité du plaignant.
+
+
+
+Identité du plaignant non révélée
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE POLICIES AND PRACTICES
+
+
+
+
+
+
+
+
+
+POLITIQUES ET PRATIQUES ADMINISTRATIVES
+
+
+
+
+
+
+
+
+
+
+
+
+Notice re unfair policies
+
+
+
+
+6. (1) If the Ombudsman is of the opinion, based on complaints that have been investigated under section 5, that the relevant department’s policies and practices result in unfair or unreasonable treatment or unreasonable delays in dealing with persons in respect of benefits under the Canada Pension Plan or the Old Age Security Act or tax liabilities thereon, the Ombudsman may give notice to the relevant department of the changes that the Ombudsman considers should be made.
+
+
+
+
+
+
+
+
+
+
+6. (1) S’il estime, d’après les plaintes qui ont fait l’objet d’une enquête au titre de l’article 5, que les politiques et les pratiques du ministère visé donnent lieu à un traitement inéquitable ou déraisonnable ou à des retards indus lors du règlement de questions relatives aux prestations prévues par le Régime de pensions du Canada ou la Loi sur la sécurité de la vieillesse ou aux obligations fiscales y afférentes, l’ombudsman peut aviser le ministère visé des modifications qu’il juge nécessaires.
+
+
+
+Notification : politiques inéquitables
+
+
+
+
+
+
+
+
+
+
+Changes to be made
+
+
+
+(2) Within ninety days after receiving a notice under subsection (1), the relevant department shall advise the Ombudsman of the changes that will be made in the relevant department’s policies and practices.
+
+
+
+
+
+
+
+
+
+(2) Dans les quatre-vingt-dix jours suivant la réception de l’avis mentionné au paragraphe (1), le ministère visé indique à l’ombudsman les modifications qu’il apportera à ses politiques et pratiques.
+
+
+
+Obligation d’apporter les modifications
+
+
+
+
+
+
+
+
+
+
+Changes unsatisfactory or not made
+
+
+
+(3) If the Ombudsman is not satisfied with the changes proposed by the relevant department under subsection (2), or if on investigation the Ombudsman finds that the proposed changes have not been made, the Ombudsman shall submit a report on the matter to the minister responsible for the administration of the relevant department.
+
+
+
+
+
+
+
+
+
+(3) S’il juge que les modifications proposées par le ministère visé selon le paragraphe (2) ne sont pas satisfaisantes ou s’il constate, après enquête, que les modifications proposées n’ont pas été apportées, l’ombudsman soumet un rapport à ce sujet au ministre responsable du ministère visé.
+
+
+
+Modifications insatisfaisantes ou non apportées
+
+
+
+
+
+
+
+
+
+
+Report referred to the Standing Committee
+
+
+
+(4) The minister responsible for the administration of the relevant department shall forthwith cause every report received under subsection (3) to be laid before both Houses of Parliament, and it shall be deemed to have been referred to the Standing Committee for review and report to the House of Commons.
+
+
+
+
+
+
+
+
+
+(4) Le ministre responsable du ministère visé fait déposer sans délai devant les deux chambres du Parlement tout rapport reçu en vertu du paragraphe (3). Le rapport est réputé renvoyé au comité permanent pour examen et rapport à la Chambre des communes.
+
+
+
+Renvoi du rapport au comité permanent
+
+
+
+
+
+
+
+
+
+
+Notice of Ombudsman’s services
+
+
+
+
+7. The Department and the Canada Revenue Agency shall post, at every place where it regularly receives persons to deal with benefits under the Canada Pension Plan or the Old Age Security Act or tax liabilities thereon, a notice in the form prescribed by the Ombudsman, describing the function of the office of the Ombudsman and the means of contacting the office.
+
+
+
+
+
+
+
+
+
+
+7. Le ministère et l’Agence du revenu du Canada affichent, dans tout établissement où ils accueillent régulièrement des personnes pour traiter de questions relatives aux prestations prévues par le Régime de pensions du Canada ou la Loi sur la sécurité de la vieillesse ou aux obligations fiscales y afférentes, un avis établi en la forme prescrite par l’ombudsman qui décrit les services de celui-ci et indique comment on peut communiquer avec son bureau.
+
+
+
+Avis de l’existence des services de l’ombudsman
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+
+8. The Ombudsman shall submit to the Minister by April 1 of every year a report on the functions of the office of the Pension Ombudsman during the previous year, and the Minister shall forthwith cause the report to be laid before both Houses of Parliament.
+
+
+
+
+
+
+
+
+
+
+8. L’ombudsman soumet au ministre, au plus tard le 1er avril de chaque année, un rapport sur les opérations de son bureau pour l’exercice précédent. Le ministre fait déposer ce rapport devant les deux chambres du Parlement dès sa réception.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OFFENCES AND PENALTIES
+
+
+
+
+
+
+
+
+
+INFRACTIONS ET PEINES
+
+
+
+
+
+
+
+
+
+
+
+
+False information
+
+
+
+
+9. (1) Every complainant, member of a relevant department or other person who knowingly provides false information to the Ombudsman in connection with this Act is guilty of an offence.
+
+
+
+
+
+
+
+
+
+
+9. (1) Commet une infraction tout plaignant, tout fonctionnaire du ministère visé ou toute autre personne qui, sciemment, fournit de faux renseignements à l’ombudsman dans le cadre de la présente loi.
+
+
+
+Communication de faux renseignements
+
+
+
+
+
+
+
+
+
+
+Refusal to provide information
+
+
+
+(2) Every person who refuses or fails to provide information requested by the Ombudsman under the authority of this Act is guilty of an offence.
+
+
+
+
+
+
+
+
+
+(2) Commet une infraction quiconque refuse ou omet de fournir des renseignements exigés par l’ombudsman en vertu de la présente loi.
+
+
+
+Refus de fournir des renseignements
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(3) Every person who commits an offence under this Act is liable, on summary conviction, to a fine not exceeding $1,000 for a first offence, and to a fine not exceeding $5,000 or imprisonment for not more than six months, or to both, in the case of a second or subsequent offence. 
+
+
+
+
+
+
+
+
+
+(3) Quiconque commet une infraction à la présente loi est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 1 000 $ dans le cas d’une première infraction et, pour chaque récidive, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+
+
+Peine
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

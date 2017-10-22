@@ -1,0 +1,3323 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+STATUTES OF CANADA 2014CHAPTER 24
+
+
+
+
+
+LOIS DU CANADA (2014)CHAPITRE 24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Food and Drugs Act
+
+
+
+
+
+Loi modifiant la Loi sur les aliments et drogues
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+6th NOVEMBER, 2014
+BILL C-17
+
+SANCTIONNÉE
+LE 6 NOVEMBRE 2014
+PROJET DE LOI C-17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Food and Drugs Act regarding therapeutic products in order to improve safety by introducing measures to, among other things,
+(a) strengthen safety oversight of therapeutic products throughout their life cycle;
+(b) improve reporting by certain health care institutions of serious adverse drug reactions and medical device incidents that involve therapeutic products; and
+(c) promote greater confidence in the oversight of therapeutic products by increasing transparency.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur les aliments et drogues relativement aux produits thérapeutiques afin d’améliorer la sécurité en introduisant des mesures pour notamment :
+a) renforcer la surveillance de l’innocuité de tels produits au cours de leur cycle de vie;
+b) améliorer la déclaration, par certains établissements de soins de santé, des réactions indésirables graves aux drogues et des incidents liés à des instruments médicaux et mettant en cause de tels produits;
+c) favoriser une confiance accrue dans la surveillance des produits thérapeutiques en augmentant la transparence.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+62-63 ELIZABETH II
+
+
+
+
+
+
+
+
+
+62-63 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 24
+
+
+
+
+
+
+
+
+
+CHAPITRE 24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Food and Drugs Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les aliments et drogues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 6th November, 2014]
+
+
+
+
+
+
+Whereas the safety of drugs and medical devices is a key concern for Canadians;
+
+
+
+
+
+
+And whereas new measures are required to further protect Canadians from the risks related to drugs and medical devices, other than natural health products;
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 6 novembre 2014]
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que l’innocuité des drogues et des instruments médicaux est une préoccupation fondamentale des Canadiens;
+
+
+
+
+
+
+que de nouvelles mesures s’imposent pour protéger davantage les Canadiens contre les risques liés aux drogues et aux instruments médicaux, à l’exclusion des produits de santé naturels,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+ALTERNATIVE TITLE
+
+
+
+
+
+
+
+
+
+TITRE SUBSIDIAIRE
+
+
+
+
+
+
+
+
+
+
+
+
+Alternative title
+
+
+
+1. This Act may be cited as the Protecting Canadians from Unsafe Drugs Act (Vanessa’s Law).
+
+
+
+
+
+
+
+
+
+1. La présente loi peut être ainsi désignée : Loi visant à protéger les Canadiens contre les drogues dangereuses (Loi de Vanessa).
+
+
+
+Titre subsidiaire
+
+
+
+
+
+
+
+
+R.S., c. F-27
+
+
+
+FOOD AND DRUGS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LES ALIMENTS ET DROGUES
+
+
+
+L.R., ch. F-27
+
+
+
+
+
+
+
+
+
+
+1993, c. 34, s. 71(3)
+
+
+
+2. (1) The definition “device” in section 2 of the Food and Drugs Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. (1) La définition de « instrument », à l’article 2 de la Loi sur les aliments et drogues, est remplacée par ce qui suit :
+
+
+
+1993, ch. 34, par. 71(3)
+
+
+
+
+
+
+
+
+
+
+“device”« instrument »
+
+
+
+“device” means an instrument, apparatus, contrivance or other similar article, or an in vitro reagent, including a component, part or accessory of any of them, that is manufactured, sold or represented for use in
+
+
+
+
+
+
+
+
+(a) diagnosing, treating, mitigating or preventing a disease, disorder or abnormal physical state, or any of their symptoms, in human beings or animals,
+
+
+
+
+
+
+
+
+(b) restoring, modifying or correcting the body structure of human beings or animals or the functioning of any part of the bodies of human beings or animals,
+
+
+
+
+
+
+
+
+(c) diagnosing pregnancy in human beings or animals,
+
+
+
+
+
+
+
+
+(d) caring for human beings or animals during pregnancy or at or after the birth of the offspring, including caring for the offspring, or
+
+
+
+
+
+
+
+
+(e) preventing conception in human beings or animals;
+
+
+
+
+
+
+
+
+however, it does not include such an instrument, apparatus, contrivance or article, or a component, part or accessory of any of them, that does any of the actions referred to in paragraphs (a) to (e) solely by pharmacological, immunological or metabolic means or solely by chemical means in or on the body of a human being or animal;
+
+
+
+
+
+
+
+
+
+« instrument » Tout instrument, appareil, dispositif ou article semblable ou tout réactif in vitro, y compris tout composant, partie ou accessoire de l’un ou l’autre de ceux-ci, fabriqué ou vendu pour servir à l’une ou l’autre des fins ci-après ou présenté comme pouvant y servir :
+
+
+
+« instrument »“device”
+
+
+
+
+a) le diagnostic, le traitement, l’atténuation ou la prévention d’une maladie, d’un désordre ou d’un état physique anormal ou de leurs symptômes, chez l’être humain ou les animaux;
+
+
+
+
+
+
+
+
+b) la restauration, la correction ou la modification de la structure corporelle d’un être humain ou d’un animal, ou du fonctionnement des parties du corps d’un être humain ou d’un animal;
+
+
+
+
+
+
+
+
+c) le diagnostic de la gestation chez l’être humain ou les animaux;
+
+
+
+
+
+
+
+
+d) les soins de l’être humain ou des animaux pendant la gestation ou à la naissance ou les soins post-natals, notamment les soins de leur progéniture;
+
+
+
+
+
+
+
+
+e) la prévention de la conception chez l’être humain ou les animaux.
+
+
+
+
+
+
+
+
+Est exclu de la présente définition un tel instrument, appareil, dispositif ou article, y compris tout composant, partie ou accessoire de l’un ou l’autre de ceux-ci, servant à l’une ou l’autre des fins visées aux alinéas a) à e) uniquement par des moyens pharmacologiques, immunologiques ou métaboliques ou uniquement par des moyens chimiques à l’intérieur ou à la surface du corps d’un être humain ou d’un animal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definition “étiquette” in section 2 of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) La définition de « étiquette », à l’article 2 de la version française de la même loi, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+« étiquette »“label”
+
+
+
+« étiquette » Sont assimilés aux étiquettes les inscriptions, mots ou marques accompagnant les aliments, drogues, cosmétiques, instruments ou emballages ou s’y rapportant.
+
+
+
+
+
+
+
+
+
+« étiquette » Sont assimilés aux étiquettes les inscriptions, mots ou marques accompagnant les aliments, drogues, cosmétiques, instruments ou emballages ou s’y rapportant.
+
+
+
+« étiquette »“label”
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 2 of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(3) L’article 2 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“confidential business information”« renseignements commerciaux confidentiels »
+
+
+
+“confidential business information”, in respect of a person to whose business or affairs the information relates, means — subject to the regulations — business information
+
+
+
+
+
+
+
+
+(a) that is not publicly available,
+
+
+
+
+
+
+
+
+(b) in respect of which the person has taken measures that are reasonable in the circumstances to ensure that it remains not publicly available, and
+
+
+
+
+
+
+
+
+(c) that has actual or potential economic value to the person or their competitors because it is not publicly available and its disclosure would result in a material financial loss to the person or a material financial gain to their competitors;
+
+
+
+
+“therapeutic product”« produit thérapeutique »
+
+
+
+“therapeutic product” means a drug or device or any combination of drugs and devices, but does not include a natural health product within the meaning of the Natural Health Products Regulations;
+
+
+
+
+“therapeutic product authorization”« autorisation relative à un produit thérapeutique »
+
+
+
+“therapeutic product authorization” means an authorization — including a licence and a suspended authorization or licence — that is issued under the regulations and that authorizes, as the case may be, the import, sale, advertisement, manufacture, preparation, preservation, packaging, labelling, storage or testing of a therapeutic product;
+
+
+
+
+
+
+
+
+
+« autorisation relative à un produit thérapeutique » Toute autorisation — notamment une licence et une autorisation ou licence suspendue — délivrée en vertu des règlements et permettant, selon le cas, l’importation, la vente, la publicité, la fabrication, la préparation, la conservation, l’emballage, l’étiquetage, l’emmagasinage ou l’examen d’un produit thérapeutique.
+
+
+
+« autorisation relative à un produit thérapeutique »“therapeutic product authorization”
+
+
+
+
+« produit thérapeutique » Drogue ou instrument, ou toute combinaison de ceux-ci, à l’exception d’un produit de santé naturel au sens du Règlement sur les produits de santé naturels.
+
+
+
+« produit thérapeutique »“therapeutic product”
+
+
+
+
+« renseignements commerciaux confidentiels » Sous réserve des règlements, renseignements commerciaux qui se rapportent à l’entreprise d’une personne ou à ses activités et, à la fois :
+
+
+
+« renseignements commerciaux confidentiels »“confidential business information”
+
+
+
+
+a) qui ne sont pas accessibles au public;
+
+
+
+
+
+
+
+
+b) à l’égard desquels la personne a pris des mesures raisonnables dans les circonstances pour qu’ils demeurent inaccessibles au public;
+
+
+
+
+
+
+
+
+c) qui ont une valeur économique réelle ou potentielle pour la personne ou ses concurrents parce qu’ils ne sont pas accessibles au public et que leur divulgation entraînerait une perte financière importante pour elle ou un gain financier important pour ses concurrents.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after section 21:
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l’article 21, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Therapeutic Products
+
+
+
+
+
+
+
+
+
+Produits thérapeutiques
+
+
+
+
+
+
+
+
+
+
+
+
+Power to require information — serious risk
+
+
+
+21.1 (1) If the Minister believes that a therapeutic product may present a serious risk of injury to human health, the Minister may order a person to provide the Minister with information that is in the person’s control and that the Minister believes is necessary to determine whether the product presents such a risk.
+
+
+
+
+
+
+
+
+
+21.1 (1) S’il estime qu’un produit thérapeutique peut présenter un risque grave de préjudice à la santé humaine, le ministre peut ordonner à toute personne de lui fournir les renseignements relevant d’elle qu’il estime nécessaires pour décider si tel est le cas.
+
+
+
+Pouvoir d’exiger des renseignements — risques graves
+
+
+
+
+
+
+
+
+
+
+Disclosure — serious risk
+
+
+
+(2) The Minister may disclose confidential business information about a therapeutic prod­uct without notifying the person to whose business or affairs the information relates or obtaining their consent, if the Minister believes that the product may present a serious risk of injury to human health.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut communiquer des renseignements commerciaux confidentiels qui se rapportent à l’entreprise d’une personne ou à ses activités sans obtenir son consentement et sans l’aviser si les renseignements concernent un produit thérapeutique qui, de l’avis du ministre, peut présenter un risque grave de préjudice à la santé humaine.
+
+
+
+Communication— risque grave
+
+
+
+
+
+
+
+
+
+
+Disclosure — health or safety
+
+
+
+(3) The Minister may disclose confidential business information about a therapeutic prod­uct without notifying the person to whose business or affairs the information relates or obtaining their consent, if the purpose of the disclosure is related to the protection or promotion of human health or the safety of the public and the disclosure is to
+
+
+
+
+
+
+
+
+(a) a government;
+
+
+
+
+
+
+
+
+(b) a person from whom the Minister seeks advice; or
+
+
+
+
+
+
+
+
+(c) a person who carries out functions relating to the protection or promotion of human health or the safety of the public.
+
+
+
+
+
+
+
+
+
+(3) Si l’objet de la communication est relatif à la protection ou à la promotion de la santé humaine ou de la sécurité du public, le mi- nistre peut communiquer des renseignements commerciaux confidentiels qui concernent un produit thérapeutique et qui se rapportent à l’entreprise d’une personne ou à ses activités sans obtenir son consentement et sans l’aviser :
+
+
+
+Communication— santé ou sécurité
+
+
+
+
+a) à toute administration;
+
+
+
+
+
+
+
+
+b) à toute personne qu’il consulte;
+
+
+
+
+
+
+
+
+c) à toute personne exerçant des fonctions relatives à la protection ou à la promotion de la santé humaine ou de la sécurité du public.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “government”
+
+
+
+(4) In this section, “government” means any of the following or their institutions:
+
+
+
+
+
+
+
+
+(a) the federal government;
+
+
+
+
+
+
+
+
+(b) a corporation named in Schedule III to the Financial Administration Act;
+
+
+
+
+
+
+
+
+(c) a provincial government or a public body established under an Act of the legislature of a province;
+
+
+
+
+
+
+
+
+(d) an aboriginal government as defined in subsection 13(3) of the Access to Information Act;
+
+
+
+
+
+
+
+
+(e) a government of a foreign state or of a subdivision of a foreign state; or
+
+
+
+
+
+
+
+
+(f) an international organization of states.
+
+
+
+
+
+
+
+
+
+(4) Pour l’application du présent article, « administration » s’entend de l’administration fédérale, de toute société mentionnée à l’annexe III de la Loi sur la gestion des finances publiques, de toute administration provinciale, de tout organisme public constitué sous le régime d’une loi provinciale, de tout gouvernement autochtone au sens du paragraphe 13(3) de la Loi sur l’accès à l’information, de toute administration d’un État étranger ou d’une de ses subdivisions politiques ou de toute organisation internationale d’États, ou de l’un de leurs organismes. 
+
+
+
+Définition de « administration »
+
+
+
+
+
+
+
+
+
+
+Modification or replacement — labelling or packaging
+
+
+
+21.2 The Minister may, if he or she believes that doing so is necessary to prevent injury to health, order the holder of a therapeutic product authorization that authorizes the import or sale of a therapeutic product to modify the product’s label or to modify or replace its package.
+
+
+
+
+
+
+
+
+
+21.2 S’il l’estime nécessaire pour prévenir un préjudice à la santé, le ministre peut ordonner au titulaire d’une autorisation relative à un produit thérapeutique qui permet l’importation ou la vente d’un produit thérapeutique de modifier l’étiquette de ce produit ou de modifier ou remplacer son emballage.
+
+
+
+Modification ou remplacement — étiquettes et emballages
+
+
+
+
+
+
+
+
+
+
+Minister’s powers — risk of injury to health
+
+
+
+21.3 (1) If the Minister believes that a therapeutic product presents a serious or imminent risk of injury to health, he or she may order a person who sells the product to
+
+
+
+
+
+
+
+
+(a) recall the product; or
+
+
+
+
+
+
+
+
+(b) send the product, or cause it to be sent, to a place specified in the order.
+
+
+
+
+
+
+
+
+
+21.3 (1) S’il estime qu’un produit thérapeutique présente un risque grave ou imminent de préjudice à la santé, le ministre peut ordonner à la personne qui le vend d’en faire le rappel, de l’envoyer — ou de le faire envoyer — à l’endroit qu’il précise ou de faire les deux à la fois.
+
+
+
+Pouvoirs du ministre — risque de préjudice à la santé
+
+
+
+
+
+
+
+
+
+
+Recall order — corrective action
+
+
+
+(2) For greater certainty, if the Minister makes an order under paragraph (1)(a) and believes that corrective action is an effective means of dealing with the risk, the order may require the person who sells the product to, instead of requesting the product’s return, request the product’s owner or user to allow corrective action to be taken in respect of the product and then take that corrective action, or cause it to be taken, if the request is accepted.
+
+
+
+
+
+
+
+
+
+(2) Il est entendu que, s’il ordonne le rappel d’un produit et qu’il estime que la prise de mesures correctives à son égard est un moyen efficace de parer à ce risque, le ministre peut exiger, dans l’ordre, que la personne qui le vend demande aux propriétaires ou aux utilisateurs du produit, au lieu de le retourner, de permettre que des mesures correctives soient prises à son égard et, si la demande est acceptée, les prenne ou les fasse prendre.
+
+
+
+Rappel — mesures correctives
+
+
+
+
+
+
+
+
+
+
+Prohibition — selling
+
+
+
+(3) Subject to subsection (5), no person shall sell a therapeutic product that the Minister orders them, or another person, to recall.
+
+
+
+
+
+
+
+
+
+(3) Sous réserve du paragraphe (5), il est interdit à toute personne de vendre un produit thérapeutique dont le rappel a été ordonné par le ministre.
+
+
+
+Vente interdite
+
+
+
+
+
+
+
+
+
+
+Power to authorize sale
+
+
+
+(4) The Minister may authorize a person to sell a therapeutic product, with or without conditions, even if the Minister has ordered them, or another person, to recall it.
+
+
+
+
+
+
+
+
+
+(4) Le ministre peut, même s’il a ordonné le rappel d’un produit thérapeutique, autoriser une personne à le vendre, avec ou sans conditions.
+
+
+
+Pouvoir d’autoriser la vente
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(5) A person does not contravene subsection (3) if they sell a therapeutic product that they have been authorized under subsection (4) to sell, provided that they sell it in accordance with any conditions that the Minister establishes.
+
+
+
+
+
+
+
+
+
+(5) La personne ainsi autorisée ne contrevient pas au paragraphe (3) si elle vend le produit en conformité avec toute condition imposée par le ministre.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Contravention of unpublished order
+
+
+
+(6) No person shall be convicted of an offence for the contravention of subsection (3) unless it is proved that, at the time of the alleged contravention, the person had been notified of the recall order or reasonable steps had been taken to bring the purport of the recall order to the notice of those persons likely to be affected by it.
+
+
+
+
+
+
+
+
+
+(6) Nul ne peut être condamné pour violation du paragraphe (3), sauf s’il est établi qu’à la date du fait reproché l’ordre de rappel avait été porté à sa connaissance ou des mesures raisonnables avaient été prises pour que les intéressés soient informés de sa teneur.
+
+
+
+Violation d’un ordre non publié
+
+
+
+
+
+
+
+
+
+
+Statutory Instruments Act
+
+
+
+21.4 (1) For greater certainty, orders made under any of sections 21.1 to 21.3 are not statutory instruments within the meaning of the Statutory Instruments Act.
+
+
+
+
+
+
+
+
+
+21.4 (1) Il est entendu que les ordres donnés en vertu de l’un des articles 21.1 à 21.3 ne sont pas des textes réglementaires au sens de la Loi sur les textes réglementaires.
+
+
+
+Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+Availability of orders
+
+
+
+(2) The Minister shall ensure that any order made under any of sections 21.1 to 21.3 is publicly available.
+
+
+
+
+
+
+
+
+
+(2) Le ministre veille à ce que tout ordre donné en vertu de l’un des articles 21.1 à 21.3 soit accessible au public.
+
+
+
+Accessibilité des ordres
+
+
+
+
+
+
+
+
+
+
+Injunction
+
+
+
+21.5 (1) If, on the application of the Minister, it appears to a court of competent jurisdiction that a person has done, is about to do or is likely to do anything that constitutes or is directed toward the commission of an offence under this Act in respect of a therapeutic product, the court may issue an injunction ordering the person, who is to be named in the application, to
+
+
+
+
+
+
+
+
+(a) refrain from doing anything that it appears to the court may constitute or be directed toward the commission of the offence; or
+
+
+
+
+
+
+
+
+(b) do anything that it appears to the court may prevent the commission of the offence.
+
+
+
+
+
+
+
+
+
+21.5 (1) S’il conclut à l’existence, l’imminence ou la probabilité d’un fait constituant une infraction à la présente loi relativement à un produit thérapeutique, ou tendant à sa perpétration, le tribunal compétent peut, à la demande du ministre, par ordonnance, enjoindre à la personne nommée dans la demande :
+
+
+
+Injonction
+
+
+
+
+a) de s’abstenir de tout acte susceptible, selon lui, de perpétrer l’infraction ou d’y tendre, selon le cas;
+
+
+
+
+
+
+
+
+b) d’accomplir tout acte susceptible, selon lui, d’empêcher l’infraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(2) No injunction is to be issued under subsection (1) unless 48 hours’ notice is served on the party or parties who are named in the application or unless the urgency of the situation is such that service of notice would not be in the public interest.
+
+
+
+
+
+
+
+
+
+(2) L’injonction est subordonnée à la signification d’un préavis d’au moins quarante-huit heures aux parties nommées dans la demande, sauf si la signification du préavis est contraire à l’intérêt public en raison de l’urgence de la situation.
+
+
+
+Préavis
+
+
+
+
+
+
+
+
+
+
+False or misleading information — therapeutic products
+
+
+
+21.6 No person shall knowingly make a false or misleading statement to the Minister — or knowingly provide him or her with false or misleading information — in connection with any matter under this Act concerning a therapeutic product.
+
+
+
+
+
+
+
+
+
+21.6 Il est interdit à toute personne de faire sciemment une déclaration fausse ou trompeuse au ministre ou de lui fournir sciemment des renseignements faux ou trompeurs relativement à toute question visée par la présente loi à l’égard de produits thérapeutiques.
+
+
+
+Renseignements faux ou trompeurs — produits thérapeutiques
+
+
+
+
+
+
+
+
+
+
+Terms and conditions of authorizations
+
+
+
+21.7 The holder of a therapeutic product authorization shall comply with the terms and conditions of the authorization that are imposed under regulations made under paragraph 30(1.2)(b).
+
+
+
+
+
+
+
+
+
+21.7 Le titulaire d’une autorisation relative à un produit thérapeutique est tenu de se conformer à toute condition dont est assortie celle-ci sous le régime de l’alinéa 30(1.2)b).
+
+
+
+Conditions assorties à l’autorisation
+
+
+
+
+
+
+
+
+
+
+Clinical trials and investigational tests
+
+
+
+21.71 The holder of a therapeutic product authorization referred to in paragraph 30(1.2)(c) shall ensure that prescribed information concerning the clinical trial or investigational test is made public within the prescribed time and in the prescribed manner.
+
+
+
+
+
+
+
+
+
+21.71 Le titulaire d’une autorisation relative à un produit thérapeutique visée à l’alinéa 30(1.2)c) est tenu de rendre publics, selon les modalités réglementaires — de temps ou autres —, les renseignements réglementaires concernant les essais cliniques ou expérimentaux.
+
+
+
+Essais cliniques ou expérimentaux
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 21.4 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. L’article 21.4 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Power to require assessment
+
+
+
+21.31 Subject to the regulations, the Minister may order the holder of a therapeutic product authorization to conduct an assessment of the therapeutic product to which the authorization relates and provide the Minister with the results of the assessment.
+
+
+
+
+
+
+
+
+
+21.31 Sous réserve des règlements, le ministre peut ordonner au titulaire d’une autorisation relative à un produit thérapeutique d’effectuer une évaluation de ce produit et de lui en fournir les résultats.
+
+
+
+Pouvoir d’exiger une évaluation
+
+
+
+
+
+
+
+
+
+
+Power to require tests, studies, etc.
+
+
+
+21.32 Subject to the regulations, the Minister may, for the purpose of obtaining additional information about a therapeutic product’s effects on health or safety, order the holder of a therapeutic product authorization to
+
+
+
+
+
+
+
+
+(a) compile information, conduct tests or studies or monitor experience in respect of the therapeutic product; and
+
+
+
+
+
+
+
+
+(b) provide the Minister with the information or the results of the tests, studies or monitoring.
+
+
+
+
+
+
+
+
+
+21.32 Sous réserve des règlements, le ministre peut, en vue d’obtenir des renseignements supplémentaires quant aux effets d’un produit thérapeutique sur la santé ou la sécurité, ordonner au titulaire d’une autorisation relative à un produit thérapeutique :
+
+
+
+Pouvoir d’exiger des essais, des études, etc.
+
+
+
+
+a) de compiler des renseignements, de mener des essais ou des études ou de surveiller l’expérience portant sur le produit thérapeutique;
+
+
+
+
+
+
+
+
+b) de lui fournir les renseignements ou les résultats des essais, des études ou de la surveillance de l’expérience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Statutory Instruments Act
+
+
+
+21.4 (1) For greater certainty, orders made under any of sections 21.1 to 21.32 are not statutory instruments within the meaning of the Statutory Instruments Act.
+
+
+
+
+
+
+
+
+
+21.4 (1) Il est entendu que les ordres donnés en vertu de l’un des articles 21.1 à 21.32 ne sont pas des textes réglementaires au sens de la Loi sur les textes réglementaires.
+
+
+
+Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+Availability of orders
+
+
+
+(2) The Minister shall ensure that any order made under any of sections 21.1 to 21.32 is publicly available.
+
+
+
+
+
+
+
+
+
+(2) Le ministre veille à ce que tout ordre donné en vertu de l’un des articles 21.1 à 21.32 soit accessible au public.
+
+
+
+Accessibilité des ordres
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Act is amended by adding the following after section 21.71:
+
+
+
+
+
+
+
+
+
+5. La même loi est modifiée par adjonction, après l’article 21.71, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Health care institutions to provide information
+
+
+
+21.8 A prescribed health care institution shall provide the Minister, within the prescribed time and in the prescribed manner, with prescribed information that is in its control about a serious adverse drug reaction that involves a therapeutic product or a medical device incident that involves a therapeutic product.
+
+
+
+
+
+
+
+
+
+21.8 Tout établissement de soins de santé désigné par règlement est tenu de fournir au ministre, selon les modalités réglementaires — de temps ou autres —, les renseignements réglementaires qui relèvent de lui concernant les réactions indésirables graves à une drogue mettant en cause un produit thérapeutique ou les incidents liés à un instrument médical et mettant en cause un tel produit.
+
+
+
+Établissements de soins de santé tenus de fournir des renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) Section 30 of the Act is amended by adding the following after subsection (1.1):
+
+
+
+
+
+
+
+
+
+6. (1) L’article 30 de la même loi est modifié par adjonction, après le paragraphe (1.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations — therapeutic products
+
+
+
+(1.2) Without limiting the power conferred by any other subsection of this section, the Governor in Council may make regulations
+
+
+
+
+
+
+
+
+(a) respecting the issuance of authorizations — including licences — that authorize, as the case may be, the import, sale, advertisement, manufacture, preparation, preservation, packaging, labelling, storage or testing of a therapeutic product, and the amendment, suspension and revocation of such authorizations;
+
+
+
+
+
+
+
+
+(b) authorizing the Minister to impose terms and conditions on authorizations referred to in paragraph (a), including existing authorizations, and to amend those terms and conditions;
+
+
+
+
+
+
+
+
+(b.1) requiring the Minister to ensure that decisions with regard to the issuance, amendment, suspension and revocation of authorizations referred to in paragraph (a), and to the imposition and amendment of terms and conditions referred to in paragraph (b), along with the reasons for those decisions, are publicly available;
+
+
+
+
+
+
+
+
+(c) requiring holders of a therapeutic product authorization that authorizes the import or sale of a therapeutic product for a clinical trial or investigational test involving human subjects, or former holders of such an authorization, to provide the Minister, after the trial or test is completed or discontinued, or, if the authorization is suspended or revoked, after the suspension or revocation, with safety information that the holders or former holders receive or become aware of about the therapeutic product;
+
+
+
+
+
+
+
+
+(c.1) defining “clinical trial” and “investigational test” for the purposes of this Act;
+
+
+
+
+
+
+
+
+(d) requiring holders of a therapeutic product authorization to provide the Minister with information, in respect of any serious risk of injury to human health, that the holders receive or become aware of and that is relevant to the safety of the therapeutic product to which the authorization relates, regarding
+
+
+
+
+
+
+
+
+(i) risks that have been communicated outside Canada, and the manner of the communication,
+
+
+
+
+
+
+
+
+(ii) changes that have taken place to labelling outside Canada, and
+
+
+
+
+
+
+
+
+(iii) recalls, reassessments and suspensions or revocations of authorizations, including licences, in respect of a therapeutic product, that have taken place outside Canada;
+
+
+
+
+
+
+
+
+(d.1) specifying the business information obtained under this Act in relation to an authorization under paragraph (a) that is not confidential business information, or the circumstances in which business information obtained under this Act in relation to such an authorization ceases to be confidential business information;
+
+
+
+
+
+
+
+
+(d.2) authorizing the Minister to disclose, without notifying the person to whose business or affairs the information relates or obtaining their consent, business information that, under regulations made under paragraph (d.1),
+
+
+
+
+
+
+
+
+(i) is not confidential business information, or
+
+
+
+
+
+
+
+
+(ii) has ceased to be confidential business information;
+
+
+
+
+
+
+
+
+(e) respecting modifications of labels and modifications and replacements of packages referred to in section 21.2;
+
+
+
+
+
+
+
+
+(f) respecting the recall of a therapeutic product or the sale of a therapeutic product that is the subject of a recall; and
+
+
+
+
+
+
+
+
+(g) prescribing anything that is to be prescribed under section 21.71.
+
+
+
+
+
+
+
+
+
+(1.2) Sans que soit limité le pouvoir conféré par les autres paragraphes du présent article, le gouverneur en conseil peut prendre des règlements :
+
+
+
+Règlements relatifs aux produits thérapeutiques
+
+
+
+
+a) concernant la délivrance de toute autorisation — notamment une licence — permettant, selon le cas, l’importation, la vente, la publicité, la fabrication, la préparation, la conservation, l’emballage, l’étiquetage, l’emmagasinage ou l’examen d’un produit thérapeutique ainsi que la modification, la suspension et la révocation d’une telle autorisation;
+
+
+
+
+
+
+
+
+b) autorisant le ministre à assortir de conditions toute autorisation visée à l’alinéa a), y compris celle en cours de validité, et à modifier ces conditions;
+
+
+
+
+
+
+
+
+b.1) exigeant du ministre qu’il veille à rendre accessibles au public des décisions, avec motifs, en matière de délivrance, de modification, de suspension et de révocation des autorisations visées à l’alinéa a) et d’imposition et de modification des conditions visées à l’alinéa b);
+
+
+
+
+
+
+
+
+c) enjoignant au titulaire d’une autorisation relative à un produit thérapeutique permettant l’importation ou la vente d’un tel produit pour un essai clinique ou pour un essai expérimental sur des sujets humains, ou à l’ancien titulaire d’une telle autorisation, de fournir au ministre, après la fin ou la cessation de l’essai — ou, si l’autorisation est suspendue ou révoquée, après cette suspension ou révocation —, les renseignements sur l’innocuité de ce produit dont il a reçu communication ou a connaissance;
+
+
+
+
+
+
+
+
+c.1) définissant « essai clinique » et « essai expérimental » pour l’application de la présente loi;
+
+
+
+
+
+
+
+
+d) enjoignant au titulaire d’une autorisation relative à un produit thérapeutique de fournir au ministre les renseignements dont il a reçu communication ou a connaissance concernant tout risque grave de préjudice à la santé humaine et se rapportant à l’innocuité de ce produit, à savoir ceux qui concernent :
+
+
+
+
+
+
+
+
+(i) les risques communiqués à l’extérieur du pays, et la façon dont ils l’ont été,
+
+
+
+
+
+
+
+
+(ii) les changements apportés à l’étiquetage à l’extérieur du pays,
+
+
+
+
+
+
+
+
+(iii) les rappels, les réévaluations et les suspensions ou révocations d’autorisations, notamment de licences, relativement à un produit thérapeutique, à l’extérieur du pays;
+
+
+
+
+
+
+
+
+d.1) précisant les renseignements commerciaux obtenus en vertu de la présente loi relativement à une autorisation visée à l’alinéa a) qui ne sont pas des renseignements commerciaux confidentiels ou précisant les circonstances dans lesquelles des renseignements commerciaux ainsi obtenus relativement à une telle autorisation cessent d’être des renseignements commerciaux confidentiels;
+
+
+
+
+
+
+
+
+d.2) autorisant le ministre à communiquer des renseignements commerciaux qui se rapportent à l’entreprise d’une personne ou à ses activités sans obtenir son consentement et sans l’aviser si, selon le cas :
+
+
+
+
+
+
+
+
+(i) un règlement pris en vertu de l’alinéa d.1) précise que ces renseignements ne sont pas des renseignements commerciaux confidentiels,
+
+
+
+
+
+
+
+
+(ii) ces renseignements ont cessé d’être des renseignements commerciaux confidentiels en application d’un règlement pris en vertu de cet alinéa;
+
+
+
+
+
+
+
+
+e) concernant la modification des étiquettes et la modification et le remplacement des emballages visés à l’article 21.2;
+
+
+
+
+
+
+
+
+f) concernant le rappel d’un produit thérapeutique et la vente d’un produit thérapeutique faisant l’objet d’un rappel;
+
+
+
+
+
+
+
+
+g) prévoyant les mesures d’ordre réglementaire visées à l’article 21.71.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 30(1.2) of the Act is amended by striking out “and” at the end of paragraph (f) and by adding the following after paragraph (f):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 30(1.2) de la même loi est modifié par adjonction, après l’alinéa f), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(f.1) respecting assessments referred to in section 21.31, and the provision of the results of the assessments to the Minister;
+
+
+
+
+
+
+(f.2) requiring the Minister to ensure that decisions with regard to the making of orders under section 21.31, along with the reasons for those decisions, are publicly available;
+
+
+
+
+
+
+(f.3) respecting the compilation of information, the conducting of tests and studies and the monitoring of experience that are referred to in paragraph 21.32(a), and the provision to the Minister of the information or results referred to in paragraph 21.32(b); and
+
+
+
+
+
+
+
+
+
+f.1) concernant les évaluations visées à l’article 21.31 et la fourniture au ministre des résultats de celles-ci;
+
+
+
+
+
+
+f.2) exigeant du ministre qu’il veille à rendre accessibles au public des décisions, avec motifs, relatives à la prise d’un ordre visé à l’article 21.31;
+
+
+
+
+
+
+f.3) concernant la compilation de renseignements, la conduite d’essais et d’études et la surveillance de l’expérience prévues à l’alinéa 21.32a) et la fourniture au ministre des renseignements ou des résultats prévus à l’alinéa 21.32b);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 30(1.2) of the Act is amended by striking out “and” at the end of paragraph (f) and by adding the following after paragraph (g):
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 30(1.2) de la même loi est modifié par adjonction, après l’alinéa g), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(h) defining “serious adverse drug reaction” and “medical device incident” for the purposes of this Act;
+
+
+
+
+
+
+(i) respecting the provision by health care institutions referred to in section 21.8 to the Minister of information referred to in that section; and
+
+
+
+
+
+
+(j) prescribing anything that is to be prescribed under section 21.8.
+
+
+
+
+
+
+
+
+
+h) définissant les termes « réaction indésirable grave à une drogue » et « incident lié à un instrument médical » pour l’application de la présente loi;
+
+
+
+
+
+
+i) concernant la fourniture au ministre, par les établissements de soins de santé visés à l’article 21.8, des renseignements visés à cet article;
+
+
+
+
+
+
+j) prévoyant les mesures d’ordre réglementaire visées à l’article 21.8.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Section 30 of the Act is amended by adding the following after subsection (1.2):
+
+
+
+
+
+
+
+
+
+(4) L’article 30 de la même loi est modifié par adjonction, après le paragraphe (1.2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Consideration of existing information management systems
+
+
+
+(1.3) Before recommending to the Governor in Council that a regulation be made under paragraph (1.2)(i) or (j), the Minister shall take into account existing information management systems, with a view to not recommending the making of regulations that would impose unnecessary administrative burdens.
+
+
+
+
+
+
+
+
+
+(1.3) Avant de recommander au gouverneur en conseil de prendre des règlements en vertu des alinéas (1.2)i) ou j), le ministre tient compte des systèmes de gestion de l’information existants, et ce en vue d’éviter de recommander la prise de règlements qui imposent un fardeau administratif inutile.
+
+
+
+Prise en compte des systèmes de gestion de l’information existants
+
+
+
+
+
+
+
+
+
+
+
+
+(5) The portion of subsection 30(2) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Le passage du paragraphe 30(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations respecting drugs manufactured outside Canada
+
+
+
+(2) Without limiting the power conferred by any other subsection of this section, the Governor in Council may make such regulations governing, regulating or prohibiting
+
+
+
+
+
+
+
+
+
+(2) Sans que soit limité le pouvoir conféré par les autres paragraphes du présent article, le gouverneur en conseil peut, par règlement, selon qu’il l’estime nécessaire pour la protection du public à l’égard de l’innocuité et de la qualité d’une drogue ou catégorie de drogues fabriquée à l’extérieur du pays, régir, réglementer ou interdire :
+
+
+
+Règlements relatifs aux drogues fabriquées à l’étranger
+
+
+
+
+
+
+
+
+
+
+1994, c. 47, s. 117
+
+
+
+(6) Subsection 30(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(6) Le paragraphe 30(3) de la même loi est remplacé par ce qui suit :
+
+
+
+1994, ch. 47, art. 117
+
+
+
+
+
+
+
+
+
+
+Regulations — North American Free Trade Agreement and WTO Agreement
+
+
+
+(3) Without limiting the power conferred by any other subsection of this section, the Governor in Council may make any regulations that the Governor in Council considers necessary for the purpose of implementing, in relation to drugs, Article 1711 of the North American Free Trade Agreement or paragraph 3 of Article 39 of the Agreement on Trade-related Aspects of Intellectual Property Rights set out in Annex 1C to the WTO Agreement.
+
+
+
+
+
+
+
+
+
+(3) Sans que soit limité le pouvoir conféré par les autres paragraphes du présent article, le gouverneur en conseil peut prendre, concernant les drogues, les règlements qu’il estime nécessaires pour la mise en oeuvre de l’article 1711 de l’Accord de libre-échange nord-américain ou du paragraphe 3 de l’article 39 de l’Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce figurant à l’annexe 1C de l’Accord sur l’OMC.
+
+
+
+Règlements — Accord de libre-échange nord-américain et Accord sur l’OMC
+
+
+
+
+
+
+
+
+
+
+2004, c. 23, s. 2
+
+
+
+(7) Subsection 30(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(7) Le paragraphe 30(5) de la même loi est remplacé par ce qui suit :
+
+
+
+2004, ch. 23, art. 2
+
+
+
+
+
+
+
+
+
+
+Regulations to implement General Council Decision
+
+
+
+(5) Without limiting the power conferred by any other subsection of this section, the Governor in Council may make any regulations that the Governor in Council considers necessary for the purpose of implementing the General Council Decision.
+
+
+
+
+
+
+
+
+
+(5) Sans que soit limité le pouvoir conféré par les autres paragraphes du présent article, le gouverneur en conseil peut prendre les règlements qu’il estime nécessaires pour la mise en oeuvre de la décision du Conseil général.
+
+
+
+Règlements relatifs à la décision du Conseil général
+
+
+
+
+
+
+
+
+
+
+2012, c. 19, s. 416
+
+
+
+7. Subsection 30.5(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+7. Le paragraphe 30.5(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2012, ch. 19, art. 416
+
+
+
+
+
+
+
+
+
+
+Incorporation by reference
+
+
+
+30.5 (1) A regulation made under this Act with respect to a food or therapeutic product and a marketing authorization may incorporate by reference any document, regardless of its source, either as it exists on a particular date or as it is amended from time to time.
+
+
+
+
+
+
+
+
+
+30.5 (1) Les règlements pris en vertu de la présente loi relativement à un aliment ou à un produit thérapeutique et les autorisations de mise en marché peuvent incorporer par renvoi tout document, indépendamment de sa source, soit dans sa version à une date donnée, soit avec ses modifications successives.
+
+
+
+Incorporation par renvoi
+
+
+
+
+
+
+
+
+
+
+1997, c. 6, s. 91
+
+
+
+8. The portion of section 31 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+8. Le passage de l’article 31 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1997, ch. 6, art. 91
+
+
+
+
+
+
+
+
+
+
+Contravention of Act or regulations
+
+
+
+31. Subject to sections 31.1, 31.2 and 31.4, every person who contravenes any of the provisions of this Act or of the regulations is guilty of an offence and liable
+
+
+
+
+
+
+
+
+
+31. Sous réserve des articles 31.1, 31.2 et 31.4, la personne qui contrevient à une disposition de la présente loi ou des règlements commet une infraction et encourt, sur déclaration de culpabilité :
+
+
+
+Contravention à la loi ou aux règlements
+
+
+
+
+
+
+
+
+
+
+
+
+9. The Act is amended by adding the following after section 31.1:
+
+
+
+
+
+
+
+
+
+9. La même loi est modifiée par adjonction, après l’article 31.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offences relating to therapeutic products
+
+
+
+31.2 Subject to section 31.4, every person who contravenes any provision of this Act or the regulations, as it relates to a therapeutic product, or an order made under any of sections 21.1 to 21.3 is guilty of an offence and liable
+
+
+
+
+
+
+
+
+(a) on conviction by indictment, to a fine not exceeding $5,000,000 or to imprisonment for a term not exceeding two years or to both; and
+
+
+
+
+
+
+
+
+(b) on summary conviction, for a first offence, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding six months or to both and, for a subsequent offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 18 months or to both.
+
+
+
+
+
+
+
+
+
+31.2 Sous réserve de l’article 31.4, la personne qui contrevient à une disposition de la présente loi ou des règlements à l’égard de produits thérapeutiques, ou à un ordre donné en vertu de l’un des articles 21.1 à 21.3, commet une infraction et encourt, sur déclaration de culpabilité :
+
+
+
+Infractions relatives aux produits thérapeutiques
+
+
+
+
+a) par mise en accusation, une amende maximale de 5 000 000 $ et un emprisonnement maximal de deux ans, ou l’une de ces peines;
+
+
+
+
+
+
+
+
+b) par procédure sommaire, pour une première infraction, une amende maximale de 250 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines, et, en cas de récidive, une amende maximale de 500 000 $ et un emprisonnement maximal de dix-huit mois, ou l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Due diligence
+
+
+
+31.3 Due diligence is a defence in a prosecution for an offence under this Act, other than an offence under section 31.4.
+
+
+
+
+
+
+
+
+
+31.3 La prise de précautions voulues peut être opposée en défense à toute accusation portée au titre de la présente loi, sauf au titre de l’article 31.4.
+
+
+
+Prise de précautions
+
+
+
+
+
+
+
+
+
+
+Offences — section 21.6 and serious risk
+
+
+
+31.4 A person who contravenes section 21.6, or who knowingly or recklessly causes a serious risk of injury to human health in contravening another provision of this Act or the regulations, as it relates to a therapeutic product, or an order made under any of sections 21.1 to 21.3 is guilty of an offence and liable
+
+
+
+
+
+
+
+
+(a) on conviction on indictment, to a fine the amount of which is at the discretion of the court or to imprisonment for a term not exceeding five years or to both; and
+
+
+
+
+
+
+
+
+(b) on summary conviction, for a first offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 18 months or to both and, for a subsequent offence, to a fine not exceeding $1,000,000 or to imprisonment for a term not exceeding two years or to both.
+
+
+
+
+
+
+
+
+
+31.4 La personne qui contrevient à l’article 21.6, ou cause sciemment ou par insouciance un risque grave de préjudice à la santé humaine en contrevenant à toute autre disposition de la présente loi ou des règlements à l’égard de produits thérapeutiques, ou à tout ordre donné en vertu de l’un des articles 21.1 à 21.3, commet une infraction et encourt, sur déclaration de culpabilité :
+
+
+
+Infractions — article 21.6 et risque grave
+
+
+
+
+a) par mise en accusation, une amende dont le montant est laissé à l’appréciation du tribunal et un emprisonnement maximal de cinq ans, ou l’une de ces peines;
+
+
+
+
+
+
+
+
+b) par procédure sommaire, pour une première infraction, une amende maximale de 500 000 $ et un emprisonnement maximal de dix-huit mois, ou l’une de ces peines, et, en cas de récidive, une amende maximale de 1 000 000 $ et un emprisonnement maximal de deux ans, ou l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sentencing considerations
+
+
+
+31.5 A court that imposes a sentence for an offence under section 31.2 or 31.4 shall take into account, in addition to any other principles that it is required to consider, the following factors:
+
+
+
+
+
+
+
+
+(a) the harm or risk of harm caused by the commission of the offence; and
+
+
+
+
+
+
+
+
+(b) the vulnerability of consumers of the therapeutic product.
+
+
+
+
+
+
+
+
+
+31.5 Lorsqu’il détermine la peine à infliger pour une infraction visée aux articles 31.2 ou 31.4, le tribunal tient compte, en plus de tout autre principe qu’il doit prendre en considération, du dommage ou du risque de dommage que cause la perpétration de l’infraction et de la vulnérabilité des personnes qui utilisent le produit thérapeutique en cause.
+
+
+
+Facteurs à considérer
+
+
+
+
+
+
+
+
+
+
+Parties to offence
+
+
+
+31.6 If a person other than an individual commits an offence under section 31.2, or commits an offence under section 31.4 by reason of contravening section 21.6, then any of the person’s directors, officers or agents or mandataries who directs, authorizes, assents to or acquiesces or participates in the commission of the offence is a party to the offence and is liable on conviction to the punishment provided for by this Act, even if the person is not prosecuted for the offence.
+
+
+
+
+
+
+
+
+
+31.6 En cas de perpétration de l’infraction visée à l’article 31.2 — ou, en raison d’une contravention à l’article 21.6, de celle visée à l’article 31.4 — par toute personne autre qu’une personne physique, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne ait été ou non poursuivie.
+
+
+
+Participants à l’infraction
+
+
+
+
+
+
+
+
+
+
+Continuing offence
+
+
+
+31.7 If an offence under section 31.2 or 31.4 is committed or continued on more than one day, it constitutes a separate offence for each day on which it is committed or continued.
+
+
+
+
+
+
+
+
+
+31.7 Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue une infraction aux articles 31.2 ou 31.4.
+
+
+
+Infraction continue
+
+
+
+
+
+
+
+
+
+
+
+
+10. The portion of section 31.2 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+10. Le passage de l’article 31.2 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offences relating to therapeutic products
+
+
+
+31.2 Subject to section 31.4, every person who contravenes any provision of this Act or the regulations, as it relates to a therapeutic product, or an order made under any of sections 21.1 to 21.32 is guilty of an offence and liable
+
+
+
+
+
+
+
+
+
+31.2 Sous réserve de l’article 31.4, la personne qui contrevient à une disposition de la présente loi ou des règlements à l’égard de produits thérapeutiques, ou à un ordre donné en vertu de l’un des articles 21.1 à 21.32, commet une infraction et encourt, sur déclaration de culpabilité :
+
+
+
+Infractions relatives aux produits thérapeutiques
+
+
+
+
+
+
+
+
+
+
+
+
+11. The portion of section 31.4 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+11. Le passage de l’article 31.4 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offences — section 21.6 and serious risk
+
+
+
+31.4 A person who contravenes section 21.6, or who knowingly or recklessly causes a serious risk of injury to human health in contravening another provision of this Act or the regulations, as it relates to a therapeutic product, or an order made under any of sections 21.1 to 21.32 is guilty of an offence and liable
+
+
+
+
+
+
+
+
+
+31.4 La personne qui contrevient à l’article 21.6, ou cause sciemment ou par insouciance un risque grave de préjudice à la santé humaine en contrevenant à toute autre disposition de la présente loi ou des règlements à l’égard de produits thérapeutiques, ou à tout ordre donné en vertu de l’un des articles 21.1 à 21.32, commet une infraction et encourt, sur déclaration de culpabilité :
+
+
+
+Infractions — article 21.6 et risque grave
+
+
+
+
+
+
+
+
+
+
+1996, c. 19, s. 78
+
+
+
+12. Subsection 35(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+12. Le paragraphe 35(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1996, ch. 19, art. 78
+
+
+
+
+
+
+
+
+
+
+Certificate of analyst
+
+
+
+35. (1) Subject to this section, in any prosecution for an offence under any of sections 31 to 31.2 and 31.4, a certificate purporting to be signed by an analyst and stating that an article, sample or substance has been submitted to, and analysed or examined by, the analyst and stating the results of the analysis or examination is admissible in evidence and, in the absence of evidence to the contrary, is proof of the statements contained in the certificate without proof of the signature or official character of the person appearing to have signed it.
+
+
+
+
+
+
+
+
+
+35. (1) Dans les poursuites pour toute infraction visée à l’un des articles 31 à 31.2 et 31.4 et sous réserve des autres dispositions du présent article, le certificat censé signé par l’analyste, où il est déclaré que celui-ci a analysé ou examiné tel article, tel échantillon ou telle substance et où sont donnés ses résultats, est admissible en preuve et, sauf preuve contraire, fait foi de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+
+
+
+Certificat de l’analyste
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISION
+
+
+
+
+
+
+
+
+
+DISPOSITION TRANSITOIRE
+
+
+
+
+
+
+
+
+
+
+
+
+Therapeutic product authorizations
+
+
+
+13. The definition “therapeutic product authorization”, as enacted by subsection 2(3), applies to authorizations — including licences and suspended authorizations or licences — that were issued before the day on which this section comes into force and that authorize, as the case may be, the import, sale, advertisement, manufacture, preparation, preservation, packaging, labelling, storage or testing of a therapeutic product.
+
+
+
+
+
+
+
+
+
+13. La définition de « autorisation relative à un produit thérapeutique », édictée par le paragraphe 2(3), vise l’autorisation — notamment une licence et une autorisation ou licence suspendue — délivrée avant la date d’entrée en vigueur du présent article et permettant, selon le cas, l’importation, la vente, la publicité, la fabrication, la préparation, la conservation, l’emballage, l’étiquetage, l’emmagasinage ou l’examen d’un produit thérapeutique.
+
+
+
+Autorisation relative à un produit thérapeutique
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENTS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Subsections 6(2) and (3)
+
+
+
+14. (1) If subsection 6(2) comes into force before subsection 6(3), then the English version of subsection 6(3) is amended by replacing “paragraph (f)” with “paragraph (f.3)”.
+
+
+
+
+
+
+
+
+
+14. (1) Si le paragraphe 6(2) entre en vigueur avant le paragraphe 6(3), la version anglaise du paragraphe 6(3) est modifiée par remplacement de « paragraph (f) » par « par­agraph (f.3) ».
+
+
+
+Paragraphes 6(2) et (3)
+
+
+
+
+
+
+
+
+
+
+
+
+(2) If subsection 6(3) comes into force before subsection 6(2), then the English version of subsection 6(2) is amended by
+
+
+
+
+
+
+(a) striking out “striking out “and” at the end of paragraph (f) and by”; and
+
+
+
+
+
+
+(b) striking out “and” at the end of the paragraph (f.3) of the Food and Drugs Act that it enacts.
+
+
+
+
+
+
+
+
+
+(2) Si le paragraphe 6(3) entre en vigueur avant le paragraphe 6(2), la version anglaise du paragraphe 6(2) est modifiée :
+
+
+
+
+
+
+a) par suppression de « striking out “and” at the end of paragraph (f) and by »;
+
+
+
+
+
+
+b) par suppression de « and » à la fin de l’alinéa f.3) de la Loi sur les aliments et drogues qu’il édicte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If subsections 6(2) and (3) come into force on the same day, then subsection 6(2) is deemed to have come into force before subsection 6(3) and subsection (1) applies as a consequence.
+
+
+
+
+
+
+
+
+
+(3) Si l’entrée en vigueur du paragraphe 6(2) et celle du paragraphe 6(3) sont concomitantes, le paragraphe 6(2) est réputé être entré en vigueur avant le paragraphe 6(3), le paragraphe (1) s’appliquant en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+15. (1) Section 4, subsection 6(2) and sections 10 and 11 come into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+15. (1) L’article 4, le paragraphe 6(2) et les articles 10 et 11 entrent en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+(2) Section 5 and subsections 6(3) and (4) come into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(2) L’article 5 et les paragraphes 6(3) et (4) entrent en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8222 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+STATUTES OF CANADA 2014CHAPTER 25
+
+
+
+
+
+LOIS DU CANADA (2014)CHAPITRE 25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code in response to the Supreme Court of Canada decision in Attorney General of Canada v. Bedford and to make consequential amendments to other Acts
+
+
+
+
+
+Loi modifiant le Code criminel pour donner suite à la décision de la Cour suprême du Canada dans l’affaire Procureur général du Canada c. Bedford et apportant des modifications à d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+6th NOVEMBER, 2014
+BILL C-36
+
+SANCTIONNÉE
+LE 6 NOVEMBRE 2014
+PROJET DE LOI C-36
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code to, among other things,
+(a) create an offence that prohibits purchasing sexual services or communicating in any place for that purpose;
+(b) create an offence that prohibits receiving a material benefit that derived from the commission of an offence referred to in paragraph (a);
+(c) create an offence that prohibits the advertisement of sexual services offered for sale and to authorize the courts to order the seizure of materials containing such advertisements and their removal from the Internet;
+(d) modernize the offence that prohibits the procurement of persons for the purpose of prostitution;
+(e) create an offence that prohibits communicating — for the purpose of selling sexual services — in a public place, or in any place open to public view, that is or is next to a school ground, playground or daycare centre;
+(f) ensure consistency between prostitution offences and the existing human trafficking offences; and
+(g) specify that, for the purposes of certain offences, a weapon includes any thing used, designed to be use or intended for use in binding or tying up a person against their will.
+The enactment also makes consequential amendments to other Acts.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel afin notamment :
+a) de créer une infraction visant à interdire, en tout lieu, l’achat de services sexuels et la communication à cette fin;
+b) de créer une infraction visant à interdire l’obtention d’un avantage matériel provenant de la perpétration de l’infraction visée à l’alinéa a);
+c) de créer une infraction visant à interdire la publicité de services sexuels offerts moyennant rétribution et d’autoriser le tribunal à ordonner la saisie du matériel comportant une telle publicité et sa suppression de l’Internet;
+d) de moderniser l’infraction visant à interdire le proxénétisme;
+e) de créer une infraction visant à interdire la communication, en vue de vendre des services sexuels, dans un endroit public ou situé à la vue du public qui est une garderie, un terrain d'école ou un terrain de jeu ou qui est situé à côté d'une garderie ou de l'un ou l'autre de ces terrains;
+f) d’harmoniser les infractions visant la prostitution avec celles visant la traite des personnes;
+g) de préciser, pour l’application de certaines infractions, qu’une arme s’entend notamment de toute chose conçue, utilisée ou qu’une personne entend utiliser pour attacher quelqu’un contre son gré.
+Le texte modifie également d’autres lois en conséquence.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+62-63 ELIZABETH II
+
+
+
+
+
+
+
+
+
+62-63 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 25
+
+
+
+
+
+
+
+
+
+CHAPITRE 25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code in response to the Supreme Court of Canada decision in Attorney General of Canada v. Bedford and to make consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel pour donner suite à la décision de la Cour suprême du Canada dans l’affaire Procureur général du Canada c. Bedford et apportant des modifications à d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 6th November, 2014]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 6 novembre 2014]
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas the Parliament of Canada has grave concerns about the exploitation that is inherent in prostitution and the risks of violence posed to those who engage in it;
+
+
+
+
+
+
+
+
+Whereas the Parliament of Canada recognizes the social harm caused by the objectification of the human body and the commodification of sexual activity;
+
+
+
+
+
+
+
+
+Whereas it is important to protect human dignity and the equality of all Canadians by discouraging prostitution, which has a disproportionate impact on women and children;
+
+
+
+
+
+
+
+
+Whereas it is important to denounce and prohibit the purchase of sexual services because it creates a demand for prostitution;
+
+
+
+
+
+
+
+
+Whereas it is important to continue to denounce and prohibit the procurement of persons for the purpose of prostitution and the development of economic interests in the exploitation of the prostitution of others as well as the commercialization and institutionalization of prostitution;
+
+
+
+
+
+
+
+
+Whereas the Parliament of Canada wishes to encourage those who engage in prostitution to report incidents of violence and to leave prostitution;
+
+
+
+
+
+
+
+
+And whereas the Parliament of Canada is committed to protecting communities from the harms associated with prostitution;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que le Parlement du Canada a de graves préoccupations concernant l’exploitation inhérente à la prostitution et les risques de violence auxquels s’exposent les personnes qui se livrent à cette pratique;
+
+
+
+
+
+
+
+
+que le Parlement du Canada reconnaît les dommages sociaux causés par la chosification du corps humain et la marchandisation des activités sexuelles;
+
+
+
+
+
+
+
+
+qu’il importe de protéger la dignité humaine et l’égalité de tous les Canadiens et Canadiennes en décourageant cette pratique qui a des conséquences négatives en particulier chez les femmes et les enfants;
+
+
+
+
+
+
+
+
+qu’il importe de dénoncer et d’interdire l’achat de services sexuels parce qu’il contribue à créer une demande de prostitution;
+
+
+
+
+
+
+
+
+qu’il importe de continuer à dénoncer et à interdire le proxénétisme et le dévelop-pement d’intérêts économiques à partir de l’exploitation d’autrui par la prostitution, de même que la commercialisation et l’institutionnalisation de la prostitution;
+
+
+
+
+
+
+
+
+que le Parlement du Canada souhaite encourager les personnes qui se livrent à la prostitution à signaler les cas de violence et à abandonner cette pratique;
+
+
+
+
+
+
+
+
+que le Parlement du Canada souscrit pleinement à la protection des collectivités contre les méfaits liés à cette pratique,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Protection of Communities and Exploited Persons Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la protection des collectivités et des personnes victimes d’exploitation.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+1995, c. 39, s. 138(1)
+
+
+
+2. The portion of the definition “weapon” in section 2 of the Criminal Code after paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. La définition de « arme », à l’article 2 du Code criminel, est remplacée par ce qui suit :
+
+
+
+1995, ch. 39, par. 138(1)
+
+
+
+
+
+
+
+
+
+
+
+
+and, without restricting the generality of the foregoing, includes a firearm and, for the purposes of sections 88, 267 and 272, any thing used, designed to be used or intended for use in binding or tying up a person against their will;
+
+
+
+
+
+
+
+
+
+« arme » Toute chose conçue, utilisée ou qu’une personne entend utiliser pour soit tuer ou blesser quelqu’un, soit le menacer ou l’intimider. Sont notamment visées par la présente définition les armes à feu et, pour l’application des articles 88, 267 et 272, toute chose conçue, utilisée ou qu’une personne entend utiliser pour attacher quelqu’un contre son gré.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsection 7(4.1) of the Act is amended by replacing the reference to “212(4)” with a reference to “286.1(2)”.
+
+
+
+
+
+
+
+
+
+3. Au paragraphe 7(4.1) de la même loi, « 212(4) » est remplacé par « 286.1(2) ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Subsection 150.1(5) of the Act is amended by replacing the reference to “212(2) or (4)” with a reference to “286.1(2), 286.2(2) or 286.3(2)”.
+
+
+
+
+
+
+
+
+
+4. Au paragraphe 150.1(5) de la même loi, « 212(2) ou (4) » est remplacé par « 286.1(2), 286.2(2) ou 286.3(2) ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. (1) Paragraph 161(1.1)(a) of the Act is amended
+
+
+
+
+
+
+(a) by replacing the reference to “173(2) or 212(1), (2), (2.1) or (4) or” with a reference to “173(2),”; and
+
+
+
+
+
+
+(b) by replacing the reference to “273, 280 or 281” with a reference to “273 or 279.011, subsection 279.02(2) or 279.03(2), section 280 or 281 or subsection 286.1(2), 286.2(2) or 286.3(2)”.
+
+
+
+
+
+
+
+
+
+5. (1) À l’alinéa 161(1.1)a) de la même loi :
+
+
+
+
+
+
+a) « aux paragraphes 173(2) ou 212(1), (2), (2.1) ou (4) ou » est remplacé par « au paragraphe 173(2), »;
+
+
+
+
+
+
+b) « 273, 280 ou 281 » est remplacé par « 273 ou 279.011, aux paragraphes 279.02(2) ou 279.03(2), aux articles 280 ou 281 ou aux paragraphes 286.1(2), 286.2(2) ou 286.3(2) ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 161(1.1) of the Act is amended by striking out “or” at the end of paragraph (b), by adding “or” at the end of paragraph (c) and by adding the following after paragraph (c):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 161(1.1) de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) an offence under subsection 212(1) (procuring), 212(2) (living on the avails of prostitution of person under 18 years), 212(2.1) (aggravated offence in relation to living on the avails of prostitution of person under 18 years) or 212(4) (prostitution of person under 18 years) of this Act, as it read from time to time before the day on which this paragraph comes into force.
+
+
+
+
+
+
+
+
+
+d) les infractions prévues aux paragraphes 212(1) (proxénétisme), 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans), 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans) ou 212(4) (prostitution d’une personne âgée de moins de dix-huit ans) de la présente loi, dans toute version antérieure à l’entrée en vigueur du présent alinéa.
+
+
+
+
+
+
+
+
+
+
+
+
+1993, c. 46, s. 3(1); 2005, c. 32, ss. 8(1)(F) and (2)
+
+
+
+6. (1) Subsection 164(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+6. (1) Le paragraphe 164(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1993, ch. 46, par. 3(1); 2005, ch. 32, par. 8(1)(F) et (2)
+
+
+
+
+
+
+
+
+
+
+Warrant of seizure
+
+
+
+164. (1) A judge may issue a warrant authorizing seizure of copies of a recording, a publication, a representation or any written material, if the judge is satisfied by information on oath that there are reasonable grounds to believe that
+
+
+
+
+
+
+
+
+(a) the recording, copies of which are kept for sale or distribution in premises within the jurisdiction of the court, is a voyeuristic recording;
+
+
+
+
+
+
+
+
+(b) the publication, copies of which are kept for sale or distribution in premises within the jurisdiction of the court, is obscene or a crime comic, as defined in section 163;
+
+
+
+
+
+
+
+
+(c) the representation, written material or recording, copies of which are kept in premises within the jurisdiction of the court, is child pornography as defined in section 163.1; or
+
+
+
+
+
+
+
+
+(d) the representation, written material or recording, copies of which are kept in premises within the jurisdiction of the court, is an advertisement of sexual services.
+
+
+
+
+
+
+
+
+
+164. (1) Le juge peut décerner un mandat autorisant la saisie des exemplaires d’une publication ou des copies d’une représentation, d’un écrit ou d’un enregistrement s’il est convaincu, par une dénonciation sous serment, qu’il existe des motifs raisonnables de croire :
+
+
+
+Mandat de saisie
+
+
+
+
+a) soit que l’enregistrement, dont des copies sont tenues, pour vente ou distribution, dans un local du ressort du tribunal, constitue un enregistrement voyeuriste;
+
+
+
+
+
+
+
+
+b) soit que la publication, dont des exemplaires sont tenus, pour vente ou distribution, dans un local du ressort du tribunal, est obscène ou est une histoire illustrée de crime au sens de l’article 163;
+
+
+
+
+
+
+
+
+c) soit que la représentation, l’écrit ou l’enregistrement, dont des copies sont tenues dans un local du ressort du tribunal, constitue de la pornographie juvénile au sens de l’article 163.1;
+
+
+
+
+
+
+
+
+d) soit que la représentation, l’écrit ou l’enregistrement, dont des copies sont tenues dans un local du ressort du tribunal, constitue de la publicité de services sexuels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 8(3)
+
+
+
+(2) Subsections 164(3) to (5) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 164(3) à (5) de la même loi sont remplacés par ce qui suit :
+
+
+
+2005, ch. 32, par. 8(3)
+
+
+
+
+
+
+
+
+
+
+Owner and maker may appear
+
+
+
+(3) The owner and the maker of the matter seized under subsection (1), and alleged to be obscene, a crime comic, child pornography, a voyeuristic recording or an advertisement of sexual services, may appear and be represented in the proceedings to oppose the making of an order for the forfeiture of the matter.
+
+
+
+
+
+
+
+
+
+(3) Le propriétaire ainsi que l’auteur de la matière saisie dont on prétend qu’elle est obscène ou une histoire illustrée de crime, ou qu’elle constitue de la pornographie juvénile, un enregistrement voyeuriste ou de la publicité de services sexuels, peuvent comparaître et être représentés dans les procédures pour s’opposer à l’établissement d’une ordonnance portant confiscation de cette matière.
+
+
+
+Le propriétaire et l’auteur peuvent comparaître
+
+
+
+
+
+
+
+
+
+
+Order of forfeiture
+
+
+
+(4) If the court is satisfied, on a balance of probabilities, that the publication, representation, written material or recording referred to in subsection (1) is obscene, a crime comic, child pornography, a voyeuristic recording or an advertisement of sexual services, it may make an order declaring the matter forfeited to Her Majesty in right of the province in which the proceedings take place, for disposal as the Attorney General may direct.
+
+
+
+
+
+
+
+
+
+(4) Si le tribunal est convaincu, selon la prépondérance des probabilités, que la matière est obscène ou une histoire illustrée de crime, ou constitue de la pornographie juvénile, un enregistrement voyeuriste ou de la publicité de services sexuels, il peut rendre une ordonnance la déclarant confisquée au profit de Sa Majesté du chef de la province où les procédures ont lieu, pour qu’il en soit disposé conformément aux instructions du procureur général.
+
+
+
+Ordonnance de confiscation
+
+
+
+
+
+
+
+
+
+
+Disposal of matter
+
+
+
+(5) If the court is not satisfied that the publication, representation, written material or recording referred to in subsection (1) is obscene, a crime comic, child pornography, a voyeuristic recording or an advertisement of sexual services, it shall order that the matter be restored to the person from whom it was seized without delay after the time for final appeal has expired.
+
+
+
+
+
+
+
+
+
+(5) Si le tribunal n’est pas convaincu que la publication, la représentation, l’écrit ou l’enregistrement est obscène ou une histoire illustrée de crime, ou constitue de la pornographie juvénile, un enregistrement voyeuriste ou de la publicité de services sexuels, il doit ordonner que la matière soit remise à la personne de laquelle elle a été saisie, dès l’expiration du délai imparti pour un appel final.
+
+
+
+Sort de la matière
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 8(4)
+
+
+
+(3) Subsection 164(7) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 164(7) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 32, par. 8(4)
+
+
+
+
+
+
+
+
+
+
+Consent
+
+
+
+(7) If an order is made under this section by a judge in a province with respect to one or more copies of a publication, a representation, written material or a recording, no proceedings shall be instituted or continued in that province under section 162, 163, 163.1 or 286.4 with respect to those or other copies of the same publication, representation, written material or recording without the consent of the Attorney General.
+
+
+
+
+
+
+
+
+
+(7) Dans le cas où un juge a rendu une ordonnance, en vertu du présent article, dans une province relativement à un ou plusieurs exemplaires d’une publication ou à une ou plusieurs copies d’une représentation, d’un écrit ou d’un enregistrement, aucune poursuite ne peut être intentée ni continuée dans cette province aux termes des articles 162, 163, 163.1 ou 286.4 en ce qui concerne ces exemplaires ou d’autres exemplaires de la même publication, ou ces copies ou d’autres copies de la même représentation, du même écrit ou du même enregistrement, sans le consentement du procureur général.
+
+
+
+Consentement
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Subsection 164(8) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 164(8) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“advertisement of sexual services”« publicité de services sexuels »
+
+
+
+“advertisement of sexual services” means any material — including a photographic, film, vid- eo, audio or other recording, made by any means, a visual representation or any written material — that is used to advertise sexual services contrary to section 286.4.
+
+
+
+
+
+
+
+
+
+« publicité de services sexuels » Tout matériel — enregistrement photographique, filmé, vidéo, sonore ou autre, réalisé par tout moyen, représentation visuelle ou écrit — qui est utilisé pour faire de la publicité de services sexuels en contravention de l’article 286.4. 
+
+
+
+« publicité de services sexuels »“advertisement of sexual services”
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 9(1)
+
+
+
+7. (1) The portion of subsection 164.1(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+7. (1) Le passage du paragraphe 164.1(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2005, ch. 32, par. 9(1)
+
+
+
+
+
+
+
+
+
+
+Warrant of seizure
+
+
+
+164.1 (1) If a judge is satisfied by information on oath that there are reasonable grounds to believe that there is material — namely, child pornography as defined in section 163.1, a voyeuristic recording or an advertisement of sexual services as defined in subsection 164(8) or data as defined in subsection 342.1(2) that makes child pornography, a voyeuristic recording or an advertisement of sexual services available — that is stored on and made available through a computer system as defined in subsection 342.1(2) that is within the jurisdiction of the court, the judge may order the custodian of the computer system to
+
+
+
+
+
+
+
+
+
+164.1 (1) Le juge peut, s’il est convaincu par une dénonciation sous serment qu’il y a des motifs raisonnables de croire qu’il existe une matière — constituant de la pornographie juvénile au sens de l’article 163.1, un enregistrement voyeuriste ou de la publicité de services sexuels au sens du paragraphe 164(8) ou des données au sens du paragraphe 342.1(2) qui rendent la pornographie juvénile, l’enregistrement voyeuriste ou la publicité de services sexuels accessible — qui est emmagasinée et rendue accessible au moyen d’un ordinateur au sens de ce paragraphe, situé dans le ressort du tribunal, ordonner au gardien de l’ordinateur :
+
+
+
+Mandat de saisie
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 9(2)
+
+
+
+(2) Subsection 164.1(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 164.1(5) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 32, par. 9(2)
+
+
+
+
+
+
+
+
+
+
+Order
+
+
+
+(5) If the court is satisfied, on a balance of probabilities, that the material is child pornog­raphy as defined in section 163.1, a voyeuristic recording or an advertisement of sexual services as defined in subsection 164(8) or data as defined in subsection 342.1(2) that makes child pornography, the voyeuristic recording or the advertisement of sexual services available, it may order the custodian of the computer system to delete the material.
+
+
+
+
+
+
+
+
+
+(5) Si le tribunal est convaincu, selon la prépondérance des probabilités, que la matière constitue de la pornographie juvénile au sens de l’article 163.1, un enregistrement voyeuriste ou de la publicité de services sexuels au sens du paragraphe 164(8) ou des données au sens du paragraphe 342.1(2) qui rendent la pornographie juvénile, l’enregistrement voyeuriste ou la publicité de services sexuels accessible, il peut ordonner au gardien de l’ordinateur de l’effacer.
+
+
+
+Ordonnance
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 9(3)
+
+
+
+(3) Subsection 164.1(7) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 164.1(7) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 32, par. 9(3)
+
+
+
+
+
+
+
+
+
+
+Return of material
+
+
+
+(7) If the court is not satisfied that the material is child pornography as defined in section 163.1, a voyeuristic recording or an advertisement of sexual services as defined in subsection 164(8) or data as defined in subsection 342.1(2) that makes child pornography, the voyeuristic recording or the advertisement of sexual services available, the court shall order that the electronic copy be returned to the custodian of the computer system and terminate the order under paragraph (1)(b).
+
+
+
+
+
+
+
+
+
+(7) Si le tribunal n’est pas convaincu que la matière constitue de la pornographie juvénile au sens de l’article 163.1, un enregistrement voyeuriste ou de la publicité de services sexuels au sens du paragraphe 164(8) ou des données au sens du paragraphe 342.1(2) qui rendent la pornographie juvénile, l’enregistrement voyeuriste ou la publicité de services sexuels accessible, il doit ordonner que la copie électronique soit remise au gardien de l’ordinateur et mettre fin à l’ordonnance visée à l’alinéa (1)b).
+
+
+
+Sort de la matière
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 21
+
+
+
+8. Paragraph 171.1(1)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+8. L’alinéa 171.1(1)a) de la même loi est remplacé par ce qui suit :
+
+
+
+2012, ch. 1, art. 21
+
+
+
+
+
+
+
+
+
+
+
+
+(a) a person who is, or who the accused believes is, under the age of 18 years, for the purpose of facilitating the commission of an offence with respect to that person under subsection 153(1), section 155, 163.1, 170, 171 or 279.011 or subsection 279.02(2), 279.03(2), 286.1(2), 286.2(2) or 286.3(2);
+
+
+
+
+
+
+
+
+
+a) à une personne âgée de moins de dix-huit ans ou qu’il croit telle, en vue de faciliter la perpétration à son égard d’une infraction visée au paragraphe 153(1), aux articles 155, 163.1, 170, 171 ou 279.011 ou aux paragraphes 279.02(2), 279.03(2), 286.1(2), 286.2(2) ou 286.3(2);
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 22(1)
+
+
+
+9. Paragraph 172.1(1)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+9. L’alinéa 172.1(1)a) de la même loi est remplacé par ce qui suit :
+
+
+
+2012, ch. 1, par. 22(1)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) a person who is, or who the accused believes is, under the age of 18 years, for the purpose of facilitating the commission of an offence with respect to that person under subsection 153(1), section 155, 163.1, 170, 171 or 279.011 or subsection 279.02(2), 279.03(2), 286.1(2), 286.2(2) or 286.3(2);
+
+
+
+
+
+
+
+
+
+a) une personne âgée de moins de dix-huit ans ou qu’il croit telle, en vue de faciliter la perpétration à son égard d’une infraction visée au paragraphe 153(1), aux articles 155, 163.1, 170, 171 ou 279.011 ou aux paragraphes 279.02(2), 279.03(2), 286.1(2), 286.2(2) ou 286.3(2);
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 23
+
+
+
+10. Paragraph 172.2(1)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+10. L’alinéa 172.2(1)a) de la même loi est remplacé par ce qui suit :
+
+
+
+2012, ch. 1, art. 23
+
+
+
+
+
+
+
+
+
+
+
+
+(a) under subsection 153(1), section 155, 163.1, 170, 171 or 279.011 or subsection 279.02(2), 279.03(2), 286.1(2), 286.2(2) or 286.3(2) with respect to another person who is, or who the accused believes is, under the age of 18 years;
+
+
+
+
+
+
+
+
+
+a) soit une infraction visée au paragraphe 153(1), aux articles 155, 163.1, 170, 171 ou 279.011 ou aux paragraphes 279.02(2), 279.03(2), 286.1(2), 286.2(2) ou 286.3(2), à l’égard d’un tiers âgé de moins de dix-huit ans ou qu’il croit tel;
+
+
+
+
+
+
+
+
+
+
+
+
+2004, c. 15, s. 108
+
+
+
+11. (1) Subparagraphs (a)(xxxv) to (xxxviii) of the definition “offence” in section 183 of the Act are repealed.
+
+
+
+
+
+
+
+
+
+11. (1) Les sous-alinéas  a)(xxxv) à  (xxxviii) de la définition de « infraction », à l’article 183 de la même loi, sont abrogés.
+
+
+
+2004, ch. 15, art. 108
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definition “offence” in section 183 of the Act is amended by adding the following after subparagraph (a)(lii):
+
+
+
+
+
+
+
+
+
+(2) La définition de « infraction », à l’article 183 de la même loi, est modifiée par adjonction, après le sous-alinéa a)(lii), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(lii.1) 286.1 (obtaining sexual services for consideration),
+
+
+
+
+
+
+(lii.2) 286.2 (material benefit from sexual services),
+
+
+
+
+
+
+(lii.3) 286.3 (procuring),
+
+
+
+
+
+
+(lii.4) 286.4 (advertising sexual services),
+
+
+
+
+
+
+
+
+
+(lii.1) l’article 286.1 (obtention de services sexuels moyennant rétribution),
+
+
+
+
+
+
+(lii.2) l’article 286.2 (avantage matériel provenant de la prestation de services sexuels),
+
+
+
+
+
+
+(lii.3) l’article 286.3 (proxénétisme),
+
+
+
+
+
+
+(lii.4) l’article 286.4 (publicité de services sexuels),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. (1) The definition “prostitute” in subsection 197(1) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+12. (1) La définition de « prostitué », au paragraphe 197(1) de la même loi, est abrogée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definition “common bawdy-house” in subsection 197(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) La définition de « maison de débauche », au paragraphe 197(1) de la même loi, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“common bawdy-house”« maison de débauche »
+
+
+
+“common bawdy-house” means, for the practice of acts of indecency, a place that is kept or occupied or resorted to by one or more persons;
+
+
+
+
+
+
+
+
+
+« maison de débauche » Local soit tenu ou occupé soit fréquenté par une ou plusieurs personnes pour la pratique d’actes d’indécence. 
+
+
+
+« maison de débauche »“common bawdy-house”
+
+
+
+
+
+
+
+
+
+
+1997, c. 16, s. 2; 2005, c. 32, ss. 10.1(1) and (2)
+
+
+
+13. Section 212 of the Act and the heading before it are repealed.
+
+
+
+
+
+
+
+
+
+13. L’article 212 de la même loi et l’intertitre le précédant sont abrogés.
+
+
+
+1997, ch. 16, art. 2; 2005, ch. 32, par. 10.1(1) et (2)
+
+
+
+
+
+
+
+
+
+
+R.S., c. 51 (1st Supp.), s. 1
+
+
+
+14. The heading before section 213 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+14. L’intertitre précédant l’article 213 de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 51 (1er suppl.), art. 1
+
+
+
+
+
+
+
+
+
+
+Offences in Relation to Offering, Providing or Obtaining Sexual Services for Consideration
+
+
+
+
+
+
+
+
+
+Infractions se rattachant à l’offre, à la prestation ou à l’obtention de services sexuels moyennant rétribution
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 51 (1st Supp.), s. 1
+
+
+
+15. (1) The portion of subsection 213(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+15. (1) Le passage du paragraphe 213(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+L.R., ch. 51 (1er suppl.), art. 1
+
+
+
+
+
+
+
+
+
+
+Stopping or impeding traffic
+
+
+
+213. (1) Everyone is guilty of an offence punishable on summary conviction who, in a public place or in any place open to public view, for the purpose of offering, providing or obtaining sexual services for consideration,
+
+
+
+
+
+
+
+
+
+213. (1) Est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque, dans un endroit soit public soit situé à la vue du public et dans le but d’offrir, de rendre ou d’obtenir des services sexuels moyennant rétribution :
+
+
+
+Interférence à la circulation
+
+
+
+
+
+
+
+
+
+
+R.S., c. 51 (1st Supp.), s. 1
+
+
+
+(2) Subsection 213(1) of the Act is amended by adding “or” at the end of paragraph (a), by striking out “or” at the end of paragraph (b) and by repealing the portion after paragraph (b).
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 213(1)c) de la même loi est abrogé.
+
+
+
+L.R., ch. 51 (1er suppl.), art. 1
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 213 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(3) L’article 213 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Communicating to provide sexual services for consideration
+
+
+
+(1.1) Everyone is guilty of an offence punishable on summary conviction who communicates with any person — for the purpose of offering or providing sexual services for consideration — in a public place, or in any place open to public view, that is or is next to a school ground, playground or daycare centre.
+
+
+
+
+
+
+
+
+
+(1.1) Est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire quiconque, dans le but d’offrir ou de rendre des services sexuels moyennant rétribution, communique avec quiconque dans un endroit public ou situé à la vue du public qui est une garderie, un terrain d’école ou un terrain de jeu ou qui est situé à côté d’une garderie ou de l’un ou l’autre de ces terrains.
+
+
+
+Communication dans le but de rendre des services sexuels moyennant rétribution
+
+
+
+
+
+
+
+
+
+
+
+
+16. Section 274 of the Act is amended
+
+
+
+
+
+
+(a) by striking out the reference to “212,”; and
+
+
+
+
+
+
+(b) by replacing the reference to “272 or 273” with a reference to “272, 273, 286.1, 286.2 or 286.3”.
+
+
+
+
+
+
+
+
+
+16. L’article 274 de la même loi est modifié :
+
+
+
+
+
+
+a) par suppression de « 212, »;
+
+
+
+
+
+
+b) par remplacement de « 272 ou 273 » par « 272, 273, 286.1, 286.2 ou 286.3 ».
+
+
+
+
+
+
+
+
+
+
+
+
+1997, c. 30, s. 1
+
+
+
+17. (1) The portion of subsection 278.2(1) of the English version of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+17. (1) Le passage du paragraphe 278.2(1) de la version anglaise de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1997, ch. 30, art. 1
+
+
+
+
+
+
+
+
+
+
+Production of record to accused
+
+
+
+278.2 (1) Except in accordance with sections 278.3 to 278.91, no record relating to a complainant or a witness shall be produced to an accused in any proceedings in respect of any of the following offences or in any proceedings in respect of two or more offences at least one of which is any of the following offences:
+
+
+
+
+
+
+
+
+
+278.2 (1) Except in accordance with sections 278.3 to 278.91, no record relating to a complainant or a witness shall be produced to an accused in any proceedings in respect of any of the following offences or in any proceedings in respect of two or more offences at least one of which is any of the following offences:
+
+
+
+Production of record to accused
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 278.2(1)(a) of the Act is amended
+
+
+
+
+
+
+(a) by striking out the reference to “212,”; and
+
+
+
+
+
+
+(b) by replacing the reference to “272 or 273” with a reference to “272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3”.
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 278.2(1)a) de la même loi est modifié :
+
+
+
+
+
+
+a) par suppression de « 212, »;
+
+
+
+
+
+
+b) par remplacement de « 272 ou 273 » par « 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 ou 286.3 ».
+
+
+
+
+
+
+
+
+
+
+
+
+1997, c. 30, s. 1
+
+
+
+(3) Subsection 278.2(1) of the Act is amended by adding “or” at the end of paragraph (a) and by replacing the portion after paragraph (a) with the following:
+
+
+
+
+
+
+
+
+
+(3) Les alinéas 278.2(1)b) et c) de la même loi sont remplacés par ce qui suit :
+
+
+
+1997, ch. 30, art. 1
+
+
+
+
+
+
+
+
+
+
+
+
+(b) any offence under this Act, as it read from time to time before the day on which this paragraph comes into force, if the conduct alleged would be an offence referred to in paragraph (a) if it occurred on or after that day.
+
+
+
+
+
+
+
+
+
+b) une infraction prévue par la présente loi, dans toute version antérieure à la date d’entrée en vigueur du présent alinéa, dans le cas où l’acte reproché constituerait une infraction visée à l’alinéa a) s’il était commis à cette date ou par la suite.
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 43, s. 3
+
+
+
+18. Paragraphs 279.01(1)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+18. Les alinéas 279.01(1)a) et b) de la même loi sont remplacés par ce qui suit :
+
+
+
+2005, ch. 43, art. 3
+
+
+
+
+
+
+
+
+
+
+
+
+(a) to imprisonment for life and to a minimum punishment of imprisonment for a term of five years if they kidnap, commit an aggravated assault or aggravated sexual assault against, or cause death to, the victim during the commission of the offence; or
+
+
+
+
+
+
+(b) to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of four years in any other case.
+
+
+
+
+
+
+
+
+
+a) s’il enlève la personne, se livre à des voies de fait graves ou à une agression sexuelle grave sur elle ou cause sa mort lors de la perpétration de l’infraction, d’un emprisonnement à perpétuité, la peine minimale étant de cinq ans;
+
+
+
+
+
+
+b) dans les autres cas, d’un emprisonnement maximal de quatorze ans, la peine minimale étant de quatre ans.
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 3, s. 3
+
+
+
+19. Sections 279.02 and 279.03 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+19. Les articles 279.02 et 279.03 de la même loi sont remplacés par ce qui suit :
+
+
+
+2010, ch. 3, art. 3
+
+
+
+
+
+
+
+
+
+
+Material benefit — trafficking
+
+
+
+279.02 (1) Everyone who receives a financial or other material benefit, knowing that it is obtained by or derived directly or indirectly from the commission of an offence under subsection 279.01(1), is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years.
+
+
+
+
+
+
+
+
+
+279.02 (1) Quiconque bénéficie d’un avantage matériel, notamment pécuniaire, qu’il sait provenir ou avoir été obtenu, directement ou indirectement, de la perpétration de l’infraction visée au paragraphe 279.01(1) commet une infraction passible, sur déclaration de culpabilité par voie de mise en accusation, d’un emprisonnement maximal de dix ans.
+
+
+
+Avantage matériel — traite de personnes
+
+
+
+
+
+
+
+
+
+
+Material benefit — trafficking of person under 18 years
+
+
+
+(2) Everyone who receives a financial or other material benefit, knowing that it is obtained by or derived directly or indirectly from the commission of an offence under subsection 279.011(1), is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of two years.
+
+
+
+
+
+
+
+
+
+(2) Quiconque bénéficie d’un avantage matériel, notamment pécuniaire, qu’il sait provenir ou avoir été obtenu, directement ou indirectement de la perpétration de l’infraction visée au paragraphe 279.011(1) commet une infraction passible, sur déclaration de culpabilité par voie de mise en accusation, d’un emprisonnement maximal de quatorze ans, la peine minimale étant de deux ans.
+
+
+
+Avantage matériel — traite de personnes âgées de moins de dix-huit ans
+
+
+
+
+
+
+
+
+
+
+Withholding or destroying documents — trafficking
+
+
+
+279.03 (1) Everyone who, for the purpose of committing or facilitating an offence under subsection 279.01(1), conceals, removes, withholds or destroys any travel document that belongs to another person or any document that establishes or purports to establish another person’s identity or immigration status — whether or not the document is of Canadian origin or is authentic — is guilty of an indictable offence and liable to imprisonment for a term of not more than five years.
+
+
+
+
+
+
+
+
+
+279.03 (1) Quiconque, en vue de faciliter ou de perpétrer l’infraction visée au paragraphe 279.01(1), cache, enlève, retient ou détruit tout document de voyage d’une personne ou tout document pouvant établir ou censé établir l’identité ou le statut d’immigrant d’une personne, qu’il soit authentique ou non, canadien ou étranger, commet une infraction passible, sur déclaration de culpabilité par voie de mise en accusation, d’un emprisonnement maximal de cinq ans.
+
+
+
+Rétention ou destruction de documents — traite de personnes
+
+
+
+
+
+
+
+
+
+
+Withholding or destroying documents — trafficking of person under 18 years
+
+
+
+(2) Everyone who, for the purpose of committing or facilitating an offence under subsection 279.011(1), conceals, removes, withholds or destroys any travel document that belongs to another person or any document that establishes or purports to establish another person’s identity or immigration status — whether or not the document is of Canadian origin or is authentic — is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years and to a minimum punishment of imprisonment for a term of one year.
+
+
+
+
+
+
+
+
+
+(2) Quiconque, en vue de faciliter ou de perpétrer l’infraction visée au paragraphe 279.011(1), cache, enlève, retient ou détruit tout document de voyage d’une personne ou tout document pouvant établir ou censé établir l’identité ou le statut d’immigrant d’une personne, qu’il soit authentique ou non, canadien ou étranger, commet une infraction passible, sur déclaration de culpabilité par voie de mise en accusation, d’un emprisonnement maximal de dix ans, la peine minimale étant de un an.
+
+
+
+Rétention ou destruction de documents — traite de personnes âgées de moins de dix-huit ans
+
+
+
+
+
+
+
+
+
+
+
+
+20. The Act is amended by adding the following after section 286:
+
+
+
+
+
+
+
+
+
+20. La même loi est modifiée par adjonction, après l’article 286, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Commodification of Sexual Activity
+
+
+
+
+
+
+
+
+
+Marchandisation des activités sexuelles
+
+
+
+
+
+
+
+
+
+
+
+
+Obtaining sexual services for consideration
+
+
+
+286.1 (1) Everyone who, in any place, obtains for consideration, or communicates with anyone for the purpose of obtaining for consideration, the sexual services of a person is guilty of
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to imprisonment for a term of not more than five years and a minimum punishment of,
+
+
+
+
+
+
+
+
+(i) in the case where the offence is committed in a public place, or in any place open to public view, that is or is next to a park or the grounds of a school or religious institution or that is or is next to any other place where persons under the age of 18 can reasonably be expected to be present,
+
+
+
+
+
+
+
+
+(A) for a first offence, a fine of  $2,000, and
+
+
+
+
+
+
+
+
+(B) for each subsequent offence, a fine of  $4,000, or
+
+
+
+
+
+
+
+
+(ii) in any other case,
+
+
+
+
+
+
+
+
+(A) for a first offence, a fine of  $1,000, and
+
+
+
+
+
+
+
+
+(B) for each subsequent offence, a fine of  $2,000; or
+
+
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and liable to imprisonment for a term of not more than 18 months and a minimum punishment of,
+
+
+
+
+
+
+
+
+(i) in the case referred to in subparagraph (a)(i),
+
+
+
+
+
+
+
+
+(A) for a first offence, a fine of  $1,000, and
+
+
+
+
+
+
+
+
+(B) for each subsequent offence, a fine of  $2,000, or
+
+
+
+
+
+
+
+
+(ii) in any other case,
+
+
+
+
+
+
+
+
+(A) for a first offence, a fine of  $500, and
+
+
+
+
+
+
+
+
+(B) for each subsequent offence, a fine of  $1,000.
+
+
+
+
+
+
+
+
+
+286.1 (1) Quiconque, en quelque endroit que ce soit, obtient, moyennant rétribution, les services sexuels d’une personne ou communique avec quiconque en vue d’obtenir, moyennant rétribution, de tels services est coupable :
+
+
+
+Obtention de services sexuels moyennant rétribution
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans, la peine minimale étant :
+
+
+
+
+
+
+
+
+(i) dans le cas où l’infraction est commise dans un endroit public ou situé à la vue du public, la peine ci-après, lorsque cet endroit est soit un parc, soit un terrain sur lequel est situé une école ou un établissement religieux soit un endroit quelconque où il est raisonnable de s’attendre à ce que s’y trouvent des personnes âgées de moins de dix-huit ans ou encore lorsque cet endroit est à côté soit d’un parc, soit d’un terrain sur lequel est situé une école ou un établissement religieux soit d’un endroit quelconque où il est raisonnable de s’attendre à ce que s’y trouvent des personnes âgées de moins de dix-huit ans :
+
+
+
+
+
+
+
+
+(A) pour la première infraction, une amende de deux mille dollars,
+
+
+
+
+
+
+
+
+(B) pour chaque récidive, une amende de quatre mille dollars,
+
+
+
+
+
+
+
+
+(ii) dans tout autre cas :
+
+
+
+
+
+
+
+
+(A) pour la première infraction, une amende de mille dollars,
+
+
+
+
+
+
+
+
+(B) pour chaque récidive, une amende de deux mille dollars;
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire passible d’un emprisonnement maximal de dix-huit mois, la peine minimale étant :
+
+
+
+
+
+
+
+
+(i) dans le cas visé au sous-alinéa a)(i) :
+
+
+
+
+
+
+
+
+(A) pour la première infraction, une amende de mille dollars,
+
+
+
+
+
+
+
+
+(B) pour chaque récidive, une amende de deux mille dollars,
+
+
+
+
+
+
+
+
+(ii) dans tout autre cas :
+
+
+
+
+
+
+
+
+(A) pour la première infraction, une amende de cinq cents dollars,
+
+
+
+
+
+
+
+
+(B) pour chaque récidive, une amende de mille dollars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obtaining sexual services for consideration from person under 18 years
+
+
+
+(2) Everyone who, in any place, obtains for consideration, or communicates with anyone for the purpose of obtaining for consideration, the sexual services of a person under the age of 18 years is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years and to a minimum punishment of imprisonment for a term of
+
+
+
+
+
+
+
+
+(a) for a first offence, six months; and
+
+
+
+
+
+
+
+
+(b) for each subsequent offence, one year.
+
+
+
+
+
+
+
+
+
+(2) Quiconque, en quelque endroit que ce soit, obtient, moyennant rétribution, les services sexuels d’une personne âgée de moins de dix-huit ans ou communique avec quiconque en vue d’obtenir, moyennant rétribution, les services sexuels d’une telle personne est coupable d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant :
+
+
+
+Obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans
+
+
+
+
+a) de six mois, dans le cas d’une première infraction;
+
+
+
+
+
+
+
+
+b) d’un an, en cas de récidive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subsequent offences
+
+
+
+(3) In determining, for the purpose of subsection (2), whether a convicted person has committed a subsequent offence, if the person was earlier convicted of any of the following offences, that offence is to be considered as an earlier offence:
+
+
+
+
+
+
+
+
+(a) an offence under that subsection; or
+
+
+
+
+
+
+
+
+(b) an offence under subsection 212(4) of this Act, as it read from time to time before the day on which this subsection comes into force.
+
+
+
+
+
+
+
+
+
+(3) Lorsqu’il s’agit de décider, pour l’application du paragraphe (2), si la personne déclarée coupable se trouve en état de récidive, il est tenu compte de toute condamnation antérieure à l’égard :
+
+
+
+Récidive
+
+
+
+
+a) d’une infraction prévue à ce paragraphe;
+
+
+
+
+
+
+
+
+b) d’une infraction prévue au paragraphe 212(4) de la présente loi, dans toute version antérieure à la date d’entrée en vigueur du présent paragraphe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sequence of convictions only
+
+
+
+(4) In determining, for the purposes of this section, whether a convicted person has committed a subsequent offence, the only question to be considered is the sequence of convictions and no consideration shall be given to the sequence of commission of offences, whether any offence occurred before or after any conviction or whether offences were prosecuted by indictment or by way of summary conviction proceedings.
+
+
+
+
+
+
+
+
+
+(4) Pour décider si la personne déclarée coupable se trouve en état de récidive pour l’application du présent article, il est tenu compte de l’ordre des déclarations de culpabilité et non de l’ordre de la perpétration des infractions ni du fait qu’une infraction a été commise avant ou après une déclaration de culpabilité ni du mode de poursuite retenu pour ces infractions.
+
+
+
+Précision relative aux condamnations antérieures
+
+
+
+
+
+
+
+
+
+
+Definitions of “place” and “public place”
+
+
+
+(5) For the purposes of this section, “place” and “public place” have the same meaning as in subsection 197(1).
+
+
+
+
+
+
+
+
+
+(5) Pour l’application du présent article, « endroit » et « endroit public » s’entendent au sens du paragraphe 197(1).
+
+
+
+Définitions de « endroit » et « endroit public »
+
+
+
+
+
+
+
+
+
+
+Material benefit from sexual services
+
+
+
+286.2 (1) Everyone who receives a financial or other material benefit, knowing that it is obtained by or derived directly or indirectly from the commission of an offence under subsection 286.1(1), is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years.
+
+
+
+
+
+
+
+
+
+286.2 (1) Quiconque bénéficie d’un avantage matériel, notamment pécuniaire, qu’il sait provenir ou avoir été obtenu, directement ou indirectement, de la perpétration de l’infraction visée au paragraphe 286.1(1) est coupable d’un acte criminel passible d’un emprisonnement maximal de dix ans.
+
+
+
+Avantage matériel provenant de la prestation de services sexuels
+
+
+
+
+
+
+
+
+
+
+Material benefit from sexual services provided by person under 18 years
+
+
+
+(2) Everyone who receives a financial or other material benefit, knowing that it is obtained by or derived directly or indirectly from the commission of an offence under subsection 286.1(2), is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of two years.
+
+
+
+
+
+
+
+
+
+(2) Quiconque bénéficie d’un avantage matériel, notamment pécuniaire, qu’il sait provenir ou avoir été obtenu, directement ou indirectement, de la perpétration de l’infraction visée au paragraphe 286.1(2) est coupable d’un acte criminel passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de deux ans.
+
+
+
+Avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans
+
+
+
+
+
+
+
+
+
+
+Presumption
+
+
+
+(3) For the purposes of subsections (1) and (2), evidence that a person lives with or is habitually in the company of a person who offers or provides sexual services for consideration is, in the absence of evidence to the contrary, proof that the person received a financial or other material benefit from those services.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application des paragraphes (1) et (2), la preuve qu’une personne vit ou se trouve habituellement en compagnie d’une personne qui, moyennant rétribution, offre ou rend des services sexuels constitue, sauf preuve contraire, la preuve qu’elle bénéficie d’un avantage matériel provenant de tels services.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(4) Subject to subsection (5), subsections (1) and (2) do not apply to a person who receives the benefit
+
+
+
+
+
+
+
+
+(a) in the context of a legitimate living arrangement with the person from whose sexual services the benefit is derived;
+
+
+
+
+
+
+
+
+(b) as a result of a legal or moral obligation of the person from whose sexual services the benefit is derived;
+
+
+
+
+
+
+
+
+(c) in consideration for a service or good that they offer, on the same terms and conditions, to the general public; or
+
+
+
+
+
+
+
+
+(d) in consideration for a service or good that they do not offer to the general public but that they offered or provided to the person from whose sexual services the benefit is derived, if they did not counsel or encourage that person to provide sexual services and the benefit is proportionate to the value of the service or good.
+
+
+
+
+
+
+
+
+
+(4) Sous réserve du paragraphe (5), les paragraphes (1) et (2) ne s’appliquent pas à quiconque reçoit l’avantage matériel :
+
+
+
+Exception
+
+
+
+
+a) dans le cadre d’une entente de cohabitation légitime avec la personne qui rend les services sexuels à l’origine de l’avantage matériel;
+
+
+
+
+
+
+
+
+b) en conséquence d’une obligation morale ou légale de la personne qui rend ces services sexuels;
+
+
+
+
+
+
+
+
+c) en contrepartie de la fourniture de biens ou services qu’il offre à la population en général, s’ils sont fournis aux mêmes conditions que pour celle-ci;
+
+
+
+
+
+
+
+
+d) en contrepartie de la fourniture de biens ou services qu’il n’offre pas à la population en général mais qu’il a offert ou fourni à la personne qui rend ces services sexuels, tant qu’il ne conseille pas à cette personne de rendre de tels services sexuels ni ne l’y encourage et que l’avantage reçu soit proportionnel à la valeur de ces biens ou services.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No exception
+
+
+
+(5) Subsection (4) does not apply to a person who commits an offence under subsection (1) or (2) if that person
+
+
+
+
+
+
+
+
+(a) used, threatened to use or attempted to use violence, intimidation or coercion in relation to the person from whose sexual services the benefit is derived;
+
+
+
+
+
+
+
+
+(b) abused a position of trust, power or authority in relation to the person from whose sexual services the benefit is derived;
+
+
+
+
+
+
+
+
+(c) provided a drug, alcohol or any other intoxicating substance to the person from whose sexual services the benefit is derived for the purpose of aiding or abetting that person to offer or provide sexual services for consideration;
+
+
+
+
+
+
+
+
+(d) engaged in conduct, in relation to any person, that would constitute an offence under section 286.3; or
+
+
+
+
+
+
+
+
+(e) received the benefit in the context of a commercial enterprise that offers sexual services for consideration.
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe (4) ne s’applique pas à quiconque commet l’infraction prévue aux paragraphes (1) ou (2) dans les cas suivants :
+
+
+
+Exception non applicable
+
+
+
+
+a) il a usé de violence envers la personne qui rend les services sexuels à l’origine de l’avantage matériel, l’a intimidée ou l’a contrainte, ou a tenté ou menacé de le faire;
+
+
+
+
+
+
+
+
+b) il a abusé de son pouvoir sur cette personne ou de la confiance de celle-ci;
+
+
+
+
+
+
+
+
+c) il a fourni des drogues, de l’alcool ou d’autres substances intoxicantes à celle-ci en vue de l’aider ou de l’encourager à offrir ou à rendre des services sexuels moyennant rétribution;
+
+
+
+
+
+
+
+
+d) il a eu un comportement, à l’égard de toute personne, qui constituerait une infraction à l’article 286.3;
+
+
+
+
+
+
+
+
+e) il a reçu l’avantage matériel dans le cadre d’une entreprise commerciale qui offre des services sexuels moyennant rétribution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aggravating factor
+
+
+
+(6) If a person is convicted of an offence under this section, the court that imposes the sentence shall consider as an aggravating factor the fact that that person received the benefit in the context of a commercial enterprise that offers sexual services for consideration.
+
+
+
+
+
+
+
+
+
+(6) Le tribunal qui détermine la peine à infliger à une personne déclarée coupable d’une infraction au présent article est tenu de considérer comme circonstance aggravante le fait que cette personne a reçu l’avantage dans le cadre d’une entreprise commerciale qui offre des services sexuels moyennant rétribution.
+
+
+
+Circonstances aggravantes
+
+
+
+
+
+
+
+
+
+
+Procuring
+
+
+
+286.3 (1) Everyone who procures a person to offer or provide sexual services for consideration or, for the purpose of facilitating an offence under subsection 286.1(1), recruits, holds, conceals or harbours a person who offers or provides sexual services for consideration, or exercises control, direction or influence over the movements of that person, is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years.
+
+
+
+
+
+
+
+
+
+286.3 (1) Est coupable d’un acte criminel et passible d’un emprisonnement maximal de quatorze ans quiconque amène une person- ne à offrir ou à rendre des services sexuels moyennant rétribution ou, en vue de faciliter une infraction visée au paragraphe 286.1(1), recrute, détient, cache ou héberge une personne qui offre ou rend de tels services moyennant rétribution, ou exerce un contrôle, une direction ou une influence sur les mouvements d’une telle personne.
+
+
+
+Proxénétisme
+
+
+
+
+
+
+
+
+
+
+Procuring — person under 18 years
+
+
+
+(2) Everyone who procures a person under the age of 18 years to offer or provide sexual services for consideration or, for the purpose of facilitating an offence under subsection 286.1(2), recruits, holds, conceals or harbours a person under the age of 18 who offers or provides sexual services for consideration, or exercises control, direction or influence over the movements of that person, is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of five years.
+
+
+
+
+
+
+
+
+
+(2) Est coupable d’un acte criminel et passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de cinq ans, quiconque amène une personne âgée de moins de dix-huit ans à offrir ou à rendre des services sexuels moyennant rétribution ou, en vue de faciliter une infraction visée au paragraphe 286.1(2), recrute, détient, cache ou héberge une telle personne qui offre ou rend de tels services moyennant rétribution, ou exerce un contrôle, une direction ou une influence sur les mouvements d’une telle personne.
+
+
+
+Proxénétisme — personne âgée de moins de dix-huit ans
+
+
+
+
+
+
+
+
+
+
+Advertising sexual services
+
+
+
+286.4 Everyone who knowingly advertises an offer to provide sexual services for consideration is guilty of
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to imprisonment for a term of not more than five years; or
+
+
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and liable to imprisonment for a term of not more than 18 months.
+
+
+
+
+
+
+
+
+
+286.4 Quiconque fait sciemment de la publicité pour offrir des services sexuels moyennant rétribution est coupable :
+
+
+
+Publicité de services sexuels
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de cinq ans;
+
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire passible d’un emprisonnement maximal de dix-huit mois.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Immunity — material benefit and advertising
+
+
+
+286.5 (1) No person shall be prosecuted for
+
+
+
+
+
+
+
+
+(a) an offence under section 286.2 if the benefit is derived from the provision of their own sexual services; or
+
+
+
+
+
+
+
+
+(b) an offence under section 286.4 in relation to the advertisement of their own sexual services.
+
+
+
+
+
+
+
+
+
+286.5 (1) Nul ne peut être poursuivi :
+
+
+
+Immunité — avantage matériel reçu et publicité
+
+
+
+
+a) pour une infraction à l’article 286.2 si l’avantage matériel reçu provient de la prestation de ses propres services sexuels;
+
+
+
+
+
+
+
+
+b) pour une infraction à l’article 286.4 en ce qui touche la publicité de ses propres services sexuels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Immunity — aiding, abetting, etc.
+
+
+
+(2) No person shall be prosecuted for aiding, abetting, conspiring or attempting to commit an offence under any of sections 286.1 to 286.4 or being an accessory after the fact or counselling a person to be a party to such an offence, if the offence relates to the offering or provision of their own sexual services.
+
+
+
+
+
+
+
+
+
+(2) Nul ne peut être poursuivi pour avoir aidé ou encouragé une personne à perpétrer une infraction aux articles 286.1 à 286.4, avoir conseillé d’y participer ou en être complice après le fait ou avoir tenté de perpétrer une telle infraction ou comploté à cette fin, si l’infraction est rattachée à l’offre ou à la prestation de ses propres services sexuels.
+
+
+
+Immunité — participation à une infraction
+
+
+
+
+
+
+
+
+
+
+
+
+21. Subsection 486(3) of the Act is amended
+
+
+
+
+
+
+(a) by striking out the reference to “212,”; and
+
+
+
+
+
+
+(b) by replacing the reference to “279.02 or 279.03” with a reference to “279.02, 279.03, 286.1, 286.2 or 286.3”.
+
+
+
+
+
+
+
+
+
+21. Le paragraphe 486(3) de la même loi est modifié :
+
+
+
+
+
+
+a) par suppression de « 212, »;
+
+
+
+
+
+
+b) par remplacement de « 279.02 ou 279.03 » par « 279.02, 279.03, 286.1, 286.2 ou 286.3 ».
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22. (1) Subparagraph 486.4(1)(a)(i) of the Act is amended
+
+
+
+
+
+
+(a) by striking out the reference to “212,”; and
+
+
+
+
+
+
+(b) by replacing the reference to “281” with a reference to “281, 286.1, 286.2, 286.3”.
+
+
+
+
+
+
+
+
+
+22. (1) Le sous-alinéa 486.4(1)a)(i) de la même loi est modifié :
+
+
+
+
+
+
+a) par suppression de « 212, »;
+
+
+
+
+
+
+b) par remplacement de « 281 » par « 281, 286.1, 286.2, 286.3 ».
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 15
+
+
+
+(2) Paragraph 486.4(1)(a) of the Act is amended by adding “or” at the end of subparagraph (i) and by replacing subparagraphs (ii) and (iii) with the following:
+
+
+
+
+
+
+
+
+
+(2) Les sous-alinéas 486.4(1)a)(ii) et (iii) de la même loi sont remplacés par ce qui suit :
+
+
+
+2005, ch. 32, art. 15
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) any offence under this Act, as it read from time to time before the day on which this subparagraph comes into force, if the conduct alleged would be an offence referred to in subparagraph (i) if it occurred on or after that day; or
+
+
+
+
+
+
+
+
+
+(ii) une infraction prévue par la présente loi, dans toute version antérieure à la date d’entrée en vigueur du présent sous-alinéa, dans le cas où l’acte reproché constituerait une infraction visée au sous-alinéa (i) s’il était commis à cette date ou par la suite;
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 15
+
+
+
+(3) Paragraph 486.4(1)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 486.4(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 32, art. 15
+
+
+
+
+
+
+
+
+
+
+
+
+(b) two or more offences being dealt with in the same proceeding, at least one of which is an offence referred to in paragraph (a).
+
+
+
+
+
+
+
+
+
+b) deux infractions ou plus dans le cadre de la même procédure, dont l’une est une infraction visée à l’alinéa a).
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 3(1)
+
+
+
+23. (1) Subparagraphs (a)(i.93) to (i.96) of the definition “primary designated offence” in section 487.04 of the Act are repealed.
+
+
+
+
+
+
+
+
+
+23. (1) Les sous-alinéas a)(i.93) à (i.96) de la définition de « infraction primaire », à l’article 487.04 de la même loi, sont abrogés.
+
+
+
+2010, ch. 17, par. 3(1)
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definition “primary designated offence” in section 487.04 of the Act is amended by adding the following after subparagraph (a)(xiv):
+
+
+
+
+
+
+
+
+
+(2) La définition de « infraction primaire », à l’article 487.04 de la même loi, est modifiée par adjonction, après le sous-alinéa a)(xiv), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(xiv.1) section 279.011 (trafficking — person under 18 years),
+
+
+
+
+
+
+(xiv.2) subsection 279.02(2) (material benefit — trafficking of person under 18 years),
+
+
+
+
+
+
+(xiv.3) subsection 279.03(2) (withholding or destroying documents — trafficking of person under 18 years),
+
+
+
+
+
+
+(xiv.4) subsection 286.1(2) (obtaining sexual services for consideration from person under 18 years),
+
+
+
+
+
+
+(xiv.5) subsection 286.2(2) (material benefit from sexual services provided by person under 18 years),
+
+
+
+
+
+
+(xiv.6) subsection 286.3(2) (procuring — person under 18 years),
+
+
+
+
+
+
+
+
+
+(xiv.1) article 279.011 (traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(xiv.2) paragraphe 279.02(2) (avantage matériel — traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(xiv.3) paragraphe 279.03(2) (rétention ou destruction de documents — traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(xiv.4) paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(xiv.5) paragraphe 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(xiv.6) paragraphe 286.3(2) (proxénétisme — personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 3(4)
+
+
+
+(3) Subparagraphs (a.1)(iv) and (v) of the definition “primary designated offence” in section 487.04 of the Act are repealed.
+
+
+
+
+
+
+
+
+
+(3) Les sous-alinéas a.1)(iv) et (v) de la définition de « infraction primaire », à l’article 487.04 de la même loi, sont abrogés.
+
+
+
+2010, ch. 17, par. 3(4)
+
+
+
+
+
+
+
+
+
+
+2010, c. 3, s. 6
+
+
+
+(4) Subparagraph (a.1)(vii.11) of the definition “primary designated offence” in section 487.04 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le sous-alinéa a.1)(vii.11) de la définition de « infraction primaire », à l’article 487.04 de la même loi, est remplacé par ce qui suit :
+
+
+
+2010, ch. 3, art. 6
+
+
+
+
+
+
+
+
+
+
+
+
+(vii.11) subsection 279.02(1) (material benefit — trafficking),
+
+
+
+
+
+
+(vii.12) subsection 279.03(1) (withholding or destroying documents — trafficking),
+
+
+
+
+
+
+
+
+
+(vii.11) paragraphe 279.02(1) (avantage matériel — traite de personnes),
+
+
+
+
+
+
+(vii.12) paragraphe 279.03(1) (rétention ou destruction de documents — traite de personnes),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) The definition “primary designated offence” in section 487.04 of the Act is amended by adding the following after subparagraph (a.1)(viii):
+
+
+
+
+
+
+
+
+
+(5) La définition de « infraction primaire », à l’article 487.04 de la même loi, est modifiée par adjonction, après le sous-alinéa a.1)(viii), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(viii.1) subsection 286.2(1) (material benefit from sexual services),
+
+
+
+
+
+
+(viii.2) subsection 286.3(1) (procuring),
+
+
+
+
+
+
+
+
+
+(viii.1) paragraphe 286.2(1) (avantage matériel provenant de la prestation de services sexuels),
+
+
+
+
+
+
+(viii.2) paragraphe 286.3(1) (proxénétisme),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6) The definition “primary designated offence” of section 487.04 of the Act is amended by adding the following after paragraph (c.01):
+
+
+
+
+
+
+
+
+
+(6) La définition de « infraction primaire », à l’article 487.04 de la même loi, est modifiée par adjonction, après l’alinéa c.01), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c.02) an offence under any of the following provisions of this Act, as they read from time to time before the day on which this paragraph comes into force:
+
+
+
+
+
+
+(i) paragraph 212(1)(i) (stupefying or overpowering for the purpose of sexual intercourse),
+
+
+
+
+
+
+(ii) subsection 212(2) (living on the avails of prostitution of person under 18 years),
+
+
+
+
+
+
+(iii) subsection 212(2.1) (aggravated offence in relation to living on the avails of prostitution of person under 18 years), and
+
+
+
+
+
+
+(iv) subsection 212(4) (prostitution of person under 18 years),
+
+
+
+
+
+
+(c.03) an offence under any of paragraphs 212(1)(a) to (h) (procuring) of this Act, as they read from time to time before the day on which this paragraph comes into force,
+
+
+
+
+
+
+
+
+
+c.02) soit prévue à l’une des dispositions ci-après de la présente loi, dans toute version antérieure à la date d’entrée en vigueur du présent alinéa :
+
+
+
+
+
+
+(i) alinéa 212(1)i) (stupéfaction ou subjugation pour avoir des rapports sexuels),
+
+
+
+
+
+
+(ii) paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(iii) paragraphe 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(iv) paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+c.03) soit prévue à l’un des alinéas 212(1)a) à h) (proxénétisme) de la présente loi, dans toute version antérieure à la date d’entrée en vigueur du présent alinéa;
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 3(9)
+
+
+
+(7) Paragraph (d) of the definition “primary designated offence” in section 487.04 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(7) L’alinéa d) de la définition de « infraction primaire », à l’article 487.04 de la même loi, est remplacé par ce qui suit :
+
+
+
+2010, ch. 17, par. 3(9)
+
+
+
+
+
+
+
+
+
+
+
+
+(d) an attempt to commit or, other than for the purposes of subsection 487.05(1), a conspiracy to commit an offence referred to in any of paragraphs (a) to (c.03);
+
+
+
+
+
+
+
+
+
+d) soit constituée par la tentative ou, sauf pour l’application du paragraphe 487.05(1), le complot de perpétrer l’une ou l’autre des infractions énumérées aux alinéas a) à c.03).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(8) The definition “secondary designated offence” in section 487.04 of the Act is amended by adding the following after subparagraph (c)(viii):
+
+
+
+
+
+
+
+
+
+(8) La définition de « infraction secondaire », à l’article 487.04 de la même loi, est modifiée par adjonction, après le sous-alinéa c)(viii), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(viii.1) subsection 286.1(1) (obtaining sexual services for consideration),
+
+
+
+
+
+
+
+
+
+(viii.1) paragraphe 286.1(1) (obtention de services sexuels moyennant rétribution),
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 22, s. 47(2)
+
+
+
+24. Subsections 487.051(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+24. Les paragraphes 487.051(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+2007, ch. 22, par. 47(2)
+
+
+
+
+
+
+
+
+
+
+Order — primary designated offences
+
+
+
+487.051 (1) The court shall make an order in Form 5.03 authorizing the taking of the number of samples of bodily substances that is reasonably required for the purpose of forensic DNA analysis from a person who is convicted, discharged under section 730 or found guilty under the Youth Criminal Justice Act or the Young Offenders Act, of an offence committed at any time, including before June 30, 2000, if that offence is a primary designated offence within the meaning of paragraphs (a) and (c.02) of the definition “primary designated offence” in section 487.04 when the person is sentenced or discharged.
+
+
+
+
+
+
+
+
+
+487.051 (1) En cas de déclaration de culpabilité sous le régime de la présente loi, de la Loi sur le système de justice pénale pour les adolescents ou de la Loi sur les jeunes contrevenants, ou d’absolution en vertu de l’article 730, à l’égard d’une infraction qui a été commise même avant le 30 juin 2000 et qui, à la date du prononcé de la peine ou de l’absolution, était une infraction primaire au sens des alinéas a) et c.02) de la définition de ce terme à l’article 487.04, le tribunal doit rendre une ordonnance — rédigée selon la formule 5.03 — autorisant le prélèvement du nombre d’échantillons de substances corporelles de l’intéressé jugé nécessaire pour analyse génétique.
+
+
+
+Ordonnance : infractions primaires
+
+
+
+
+
+
+
+
+
+
+Order — primary designated offences
+
+
+
+(2) The court shall make such an order in Form 5.03 in relation to a person who is convicted, discharged under section 730 or found guilty under the Youth Criminal Justice Act or the Young Offenders Act, of an offence committed at any time, including before June 30, 2000, if that offence is a primary designated offence within the meaning of any of paragraphs (a.1) to (c.01) and (c.03) to (d) of the definition “primary designated offence” in section 487.04 when the person is sentenced or discharged. However, the court is not required to make the order if it is satisfied that the person has established that the impact of such an order on their privacy and security of the person would be grossly disproportionate to the public interest in the protection of society and the proper administration of justice, to be achieved through the early detection, arrest and conviction of offenders.
+
+
+
+
+
+
+
+
+
+(2) En cas de déclaration de culpabilité sous le régime de la présente loi, de la Loi sur le système de justice pénale pour les adolescents ou de la Loi sur les jeunes contrevenants, ou d’absolution en vertu de l’article 730, à l’égard d’une infraction qui a été commise même avant le 30 juin 2000 et qui, à la date du prononcé de la peine ou de l’absolution, était une infraction primaire au sens de l’un des alinéas a.1) à c.01) et c.03) à d) de la définition de ce terme à l’article 487.04, le tribunal doit rendre une ordonnance — rédigée selon la formule 5.03 — au même effet. Toutefois, il n’est pas tenu de le faire s’il est convaincu que l’intéressé a établi que l’ordonnance aurait, sur sa vie privée et la sécurité de sa personne, un effet nettement démesuré par rapport à l’intérêt public en ce qui touche la protection de la société et la bonne administration de la justice, que visent à assurer la découverte, l’arrestation et la condamnation rapides des contrevenants.
+
+
+
+Ordonnance : infractions primaires
+
+
+
+
+
+
+
+
+
+
+2004, c. 10, s. 20
+
+
+
+25. (1) Subparagraphs (a)(xii) to (xv) of the definition “designated offence” in subsection 490.011(1) of the Act are repealed.
+
+
+
+
+
+
+
+
+
+25. (1) Les sous-alinéas a)(xii) à (xv) de la définition de « infraction désignée », au paragraphe 490.011(1) de la même loi, sont abrogés.
+
+
+
+2004, ch. 10, art. 20
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definition “designated offence” in subsection 490.011(1) of the Act is amended by striking out “and” at the end of subparagraph (a)(xix) and by adding the following after subparagraph (a)(xx):
+
+
+
+
+
+
+
+
+
+(2) La définition de « infraction désignée », au paragraphe 490.011(1) de la même loi, est modifiée par adjonction, après le sous-alinéa a)(xx), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(xxi) section 279.011 (trafficking — person under 18 years),
+
+
+
+
+
+
+(xxii) subsection 279.02(2) (material benefit — trafficking of person under 18 years),
+
+
+
+
+
+
+(xxiii) subsection 279.03(2) (withholding or destroying documents — trafficking of person under 18 years),
+
+
+
+
+
+
+(xxiv) subsection 286.1(2) (obtaining sexual services for consideration from person under 18 years),
+
+
+
+
+
+
+(xxv) subsection 286.2(2) (material benefit from sexual services provided by person under 18 years), and
+
+
+
+
+
+
+(xxvi) subsection 286.3(2) (procuring — person under 18 years);
+
+
+
+
+
+
+
+
+
+(xxi) l’article 279.011 (traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(xxii) le paragraphe 279.02(2) (avantage matériel — traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(xxiii) le paragraphe 279.03(2) (rétention ou destruction de documents — traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(xxiv) le paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(xxv) le paragraphe 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(xxvi) le paragraphe 286.3(2) (proxénétisme — personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 3, s. 7
+
+
+
+(3) Subparagraph (b)(vii.11) of the definition “designated offence” in subsection 490.011(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le sous-alinéa b)(vii.11) de la définition de « infraction désignée », au paragraphe 490.011(1) de la même loi, est remplacé par ce qui suit :
+
+
+
+2010, ch. 3, art. 7
+
+
+
+
+
+
+
+
+
+
+
+
+(vii.11) subsection 279.02(1) (material benefit — trafficking),
+
+
+
+
+
+
+(vii.12) subsection 279.03(1) (withholding or destroying documents — trafficking),
+
+
+
+
+
+
+
+
+
+(vii.11) le paragraphe 279.02(1) (avantage matériel — traite de personnes),
+
+
+
+
+
+
+(vii.12) le paragraphe 279.03(1) (rétention ou destruction de documents — traite de personnes),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) The definition “designated offence” in subsection 490.011(1) of the Act is amended by adding the following after subparagraph (b)(ix):
+
+
+
+
+
+
+
+
+
+(4) La définition de « infraction désignée », au paragraphe 490.011(1) de la même loi, est modifiée par adjonction, après le sous-alinéa b)(ix), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(ix.1) subsection 286.1(1) (obtaining sexual services for consideration),
+
+
+
+
+
+
+(ix.2) subsection 286.2(1) (material benefit from sexual services),
+
+
+
+
+
+
+(ix.3) subsection 286.3(1) (procuring),
+
+
+
+
+
+
+
+
+
+(ix.1) le paragraphe 286.1(1) (obtention de services sexuels moyennant rétribution),
+
+
+
+
+
+
+(ix.2) le paragraphe 286.2(1) (avantage matériel provenant de la prestation de services sexuels),
+
+
+
+
+
+
+(ix.3) le paragraphe 286.3(1) (proxénétisme),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) The definition “designated offence” in subsection 490.011(1) of the Act is amended by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+(5) La définition de « infraction désignée », au paragraphe 490.011(1) de la même loi, est modifiée par adjonction, après l’alinéa d), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d.1) an offence under any of the following provisions of this Act, as they read from time to time before the day on which this paragraph comes into force:
+
+
+
+
+
+
+(i) paragraph 212(1)(i) (stupefying or overpowering for the purpose of sexual intercourse),
+
+
+
+
+
+
+(ii) subsection 212(2) (living on the avails of prostitution of person under 18 years),
+
+
+
+
+
+
+(iii) subsection 212(2.1) (aggravated offence in relation to living on the avails of prostitution of person under 18 years), and
+
+
+
+
+
+
+(iv) subsection 212(4) (prostitution of person under 18 years);
+
+
+
+
+
+
+
+
+
+d.1) prévue à l’une des dispositions ci-après de la présente loi, dans toute version antérieure à la date d’entrée en vigueur du présent alinéa :
+
+
+
+
+
+
+(i) l’alinéa 212(1)i) (stupéfaction ou subjugation pour avoir des rapports sexuels),
+
+
+
+
+
+
+(ii) le paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(iii) le paragraphe 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(iv) le paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 11(4)
+
+
+
+(6) Paragraph (e) of the definition “designated offence” in subsection 490.011(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(6) L’alinéa e) de la définition de « infraction désignée », au paragraphe 490.011(1) de la même loi, est remplacé par ce qui suit :
+
+
+
+2007, ch. 5, par. 11(4)
+
+
+
+
+
+
+
+
+
+
+
+
+(e) an attempt or conspiracy to commit an offence referred to in any of paragraphs (a), (c), (c.1), (d) and (d.1); or
+
+
+
+
+
+
+
+
+
+e) constituée par la tentative ou le complot en vue de perpétrer l’une ou l’autre des infractions énumérées aux alinéas a), c), c.1), d) et d.1);
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 5
+
+
+
+26. (1) Subsections 490.012(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+26. (1) Les paragraphes 490.012(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+2010, ch. 17, art. 5
+
+
+
+
+
+
+
+
+
+
+Order
+
+
+
+490.012 (1) When a court imposes a sentence on a person for an offence referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the definition “designated offence” in subsection 490.011(1) or renders a verdict of not criminally responsible on account of mental disorder for such an offence, it shall make an order in Form 52 requiring the person to comply with the Sex Offender Information Registration Act for the applicable period specified in section 490.013.
+
+
+
+
+
+
+
+
+
+490.012 (1) Le tribunal doit, lors du prononcé de la peine ou du verdict de non-responsabilité à l’égard d’une infraction visée aux alinéas a), c), c.1), d), d.1) ou e) de la définition de « infraction désignée » au paragraphe 490.011(1), enjoindre à la per-sonne en cause, par ordonnance rédigée selon laformule 52, de se conformer à la Loi sur l’enregistrement de renseignements sur les délinquants sexuels pendant la période applicable selon l’article 490.013.
+
+
+
+Ordonnance
+
+
+
+
+
+
+
+
+
+
+Order — if intent established
+
+
+
+(2) When a court imposes a sentence on a person for an offence referred to in paragraph (b) or (f) of the definition “designated offence” in subsection 490.011(1), it shall, on application of the prosecutor, make an order in Form 52 requiring the person to comply with the Sex Offender Information Registration Act for the applicable period specified in section 490.013 if the prosecutor establishes beyond a reasonable doubt that the person committed the offence with the intent to commit an offence referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of that definition.
+
+
+
+
+
+
+
+
+
+(2) Le tribunal doit, sur demande du poursuivant, lors du prononcé de la peine, enjoindre à la personne déclarée coupable à l’égard d’une infraction visée aux alinéas b) ou f) de la définition de « infraction désignée » au paragraphe 490.011(1), par ordonnance rédigée selon la formule 52, de se conformer à la Loi sur l’enregistrement de renseignements sur les délinquants sexuels pendant la période applicable selon l’article 490.013, dès lors que le poursuivant établit hors de tout doute raisonnable que la personne a commis l’infraction avec l’intention de commettre une infraction visée aux alinéas a), c), c.1), d), d.1) ou e) de cette définition.
+
+
+
+Ordonnance
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 5
+
+
+
+(2) Paragraph 490.012(3)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 490.012(3)a) de la même loi est remplacé par ce qui suit :
+
+
+
+2010, ch. 17, art. 5
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the person was, before or after the coming into force of this paragraph, previously convicted of, or found not criminally responsible on account of mental disorder for, an offence referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the defini- tion “designated offence” in subsection 490.011(1) or in paragraph (a) or (c) of the definition “designated offence” in section 227 of the National Defence Act;
+
+
+
+
+
+
+
+
+
+a) que la personne a déjà, avant ou après l’entrée en vigueur du présent alinéa, fait l’objet d’une déclaration de culpabilité ou d’un verdict de non-responsabilité à l’égard d’une infraction visée aux alinéas a), c), c.1), d), d.1) ou e) de la définition de « infraction désignée » au paragraphe 490.011(1) ou aux alinéas a) ou c) de la définition de « infraction désignée » à l’article 227 de la Loi sur la défense nationale;
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 6
+
+
+
+27. Subsection 490.013(2.1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+27. Le paragraphe 490.013(2.1) de la même loi est remplacé par ce qui suit :
+
+
+
+2010, ch. 17, art. 6
+
+
+
+
+
+
+
+
+
+
+Duration of order
+
+
+
+(2.1) An order made under subsection 490.012(1) applies for life if the person is convicted of, or found not criminally responsible on account of mental disorder for, more than one offence referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the definition “designated offence” in subsection 490.011(1).
+
+
+
+
+
+
+
+
+
+(2.1) L’ordonnance visée au paragraphe 490.012(1) s’applique à perpétuité si l’intéressé fait l’objet d’une déclaration de culpabilité ou d’un verdict de non-responsabilité à l’égard de plus d’une infraction visée aux alinéas a), c), c.1), d), d.1) ou e) de la définition de « infraction désignée » au paragraphe 490.011(1).
+
+
+
+Durée de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 19
+
+
+
+28. Paragraph 490.02904(3)(d) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+28. L’alinéa 490.02904(3)d) de la même loi est remplacé par ce qui suit :
+
+
+
+2010, ch. 17, art. 19
+
+
+
+
+
+
+
+
+
+
+
+
+(d) applies for life if, before or after the coming into force of this paragraph, the person was convicted of, or found not criminally responsible on account of mental disorder for, more than one offence referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the definition “designated offence” in subsection 490.011(1) or referred to in paragraph (a) or (c) of the definition “designated offence” in section 227 of the National Defence Act and if more than one of those offences is listed in the notice.
+
+
+
+
+
+
+
+
+
+d) s’applique à perpétuité en cas de déclaration de culpabilité ou de verdict de non-responsabilité, avant ou après l’entrée en vigueur du présent alinéa, à l’égard de plusieurs infractions — dont au moins deux sont mentionnées dans l’avis — visées aux alinéas a), c), c.1), d), d.1) ou e) de la définition de « infraction désignée » au paragraphe 490.011(1) ou aux alinéas a) ou c) de la définition de « infraction désignée » à l’article 227 de la Loi sur la défense nationale.
+
+
+
+
+
+
+
+
+
+
+
+
+2008, c. 6, s. 40; 2012, c. 1, s. 35
+
+
+
+29. (1) Subparagraphs (b)(x) to (xii) of the definition “designated offence” in section 752 of the Act are repealed.
+
+
+
+
+
+
+
+
+
+29. (1) Les sous-alinéas b)(x) à (xii) de la définition de « infraction désignée », à l’article 752 de la même loi, sont abrogés.
+
+
+
+2008, ch. 6, art. 40; 2012, ch. 1, art. 35
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definition “designated offence” in section 752 of the Act is amended by adding the following after subparagraph (b)(xx.1):
+
+
+
+
+
+
+
+
+
+(2) La définition de « infraction désignée », à l’article 752 de la même loi, est modifiée par adjonction, après le sous-alinéa b)(xx.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(xx.2) section 279.02 (material benefit — trafficking),
+
+
+
+
+
+
+(xx.3) section 279.03 (withholding or destroying documents — trafficking),
+
+
+
+
+
+
+
+
+
+(xx.2) l’article 279.02 (avantage matériel — traite de personnes),
+
+
+
+
+
+
+(xx.3) l’article 279.03 (rétention ou destruction de documents — traite de personnes),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) The definition “designated offence” in section 752 of the Act is amended by adding the following after subparagraph (b)(xxiii):
+
+
+
+
+
+
+
+
+
+(3) La définition de « infraction désignée », à l’article 752 de la même loi, est modifiée par adjonction, après le sous-alinéa b)(xxiii), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(xxiii.1) subsection 286.1(2) (obtaining sexual services for consideration from person under 18 years),
+
+
+
+
+
+
+(xxiii.2) section 286.2 (material benefit from sexual services),
+
+
+
+
+
+
+(xxiii.3) section 286.3 (procuring),
+
+
+
+
+
+
+
+
+
+(xxiii.1) le paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(xxiii.2) l’article 286.2 (avantage matériel provenant de la prestation de services sexuels),
+
+
+
+
+
+
+(xxiii.3) l’article 286.3 (proxénétisme),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) The definition “designated offence” in section 752 of the Act is amended by striking out “or” at the end of paragraph (c) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+(4) La définition de « infraction désignée », à l’article 752 de la même loi, est modifiée par adjonction, après l’alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c.1) an offence under any of the following provisions of this Act, as they read from time to time before the day on which this paragraph comes into force:
+
+
+
+
+
+
+(i) subsection 212(1) (procuring),
+
+
+
+
+
+
+(ii) subsection 212(2) (living on the avails of prostitution of person under 18 years),
+
+
+
+
+
+
+(iii) subsection 212(2.1) (aggravated offence in relation to living on the avails of prostitution of person under 18 years), and
+
+
+
+
+
+
+(iv) subsection 212(4) (prostitution of person under 18 years); or
+
+
+
+
+
+
+
+
+
+c.1) infraction prévue à l’une des dispositions ci-après de la présente loi, dans toute version antérieure à la date d’entrée en vigueur du présent alinéa :
+
+
+
+
+
+
+(i) le paragraphe 212(1) (proxénétisme),
+
+
+
+
+
+
+(ii) le paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(iii) le paragraphe 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(iv) le paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+
+
+
+
+
+
+2008, c. 6, s. 40
+
+
+
+(5) Paragraph (d) of the definition “designated offence” in section 752 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) L’alinéa d) de la définition de « infraction désignée », à l’article 752 de la même loi, est remplacé par ce qui suit :
+
+
+
+2008, ch. 6, art. 40
+
+
+
+
+
+
+
+
+
+
+
+
+(d) an attempt or conspiracy to commit an offence referred to in paragraph (b), (c) or (c.1);
+
+
+
+
+
+
+
+
+
+d) infraction constituée par la tentative ou le complot en vue de perpétrer l’une ou l’autre des infractions énumérées aux alinéas b), c) et c.1).
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 36
+
+
+
+30. Paragraph 753.1(2)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+30. L’alinéa 753.1(2)a) de la même loi est remplacé par ce qui suit :
+
+
+
+2012, ch. 1, art. 36
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the offender has been convicted of an offence under section 151 (sexual interference), 152 (invitation to sexual touching) or 153 (sexual exploitation), subsection 163.1(2) (making child pornography), 163.1(3) (distribution, etc., of child pornography), 163.1(4) (possession of child pornography) or 163.1(4.1) (accessing child pornography), section 170 (parent or guardian procuring sexual activity), 171 (householder permitting sexual activity), 171.1 (making sexually explicit material available to child), 172.1 (luring a child) or 172.2 (agreement or arrangement — sexual offence against child), subsection 173(2) (exposure) or section 271 (sexual assault), 272 (sexual assault with a weapon) 273 (aggravated sexual assault) or 279.011 (trafficking — person under 18 years) or subsection 279.02(2) (material benefit — trafficking of person under 18 years), 279.03(2) (withholding or destroying documents — trafficking of person under 18 years), 286.1(2) (obtaining sexual services for consideration from person under 18 years), 286.2(2) (material benefit from sexual serv­ices provided by person under 18 years) or 286.3(2) (procuring — person under 18 years), or has engaged in serious conduct of a sexual nature in the commission of another offence of which the offender has been convicted; and
+
+
+
+
+
+
+
+
+
+a) d’une part, celui-ci a été déclaré coupable d’une infraction visée aux articles 151 (contacts sexuels), 152 (incitation à des contacts sexuels) ou 153 (exploitation sexuelle), aux paragraphes 163.1(2) (production de pornographie juvénile), 163.1(3) (distribution de pornographie juvénile), 163.1(4) (possession de pornographie juvénile) ou 163.1(4.1) (accès à la pornographie juvénile), aux articles 170 (père, mère ou tuteur qui sert d’entremetteur), 171 (maître de maison qui permet des actes sexuels interdits), 171.1 (rendre accessible à un enfant du matériel sexuellement explicite), 172.1 (leurre) ou 172.2 (entente ou arrangement — infraction d’ordre sexuel à l’égard d’un enfant), au paragraphe 173(2) (exhibitionnisme), aux articles 271 (agression sexuelle), 272 (agression sexuelle armée), 273 (agression sexuelle grave) ou 279.011 (traite de personnes âgées de moins de dix-huit ans), aux paragraphes 279.02(2) (avantage matériel — traite de personnes âgées de moins de dix-huit ans), 279.03(2) (rétention ou destruction de documents — traite de personnes âgées de moins de dix-huit ans), 286.1(2) (obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans), 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans) ou 286.3(2) (proxénétisme — personne âgée de moins de dix-huit ans) ou a commis un acte grave de nature sexuelle lors de la perpétration d’une autre infraction dont il a été déclaré coupable;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31. Subsection 810.1(1) of the Act is amended
+
+
+
+
+
+
+(a) by replacing the reference to “173(2) or 212(1), (2), (2.1) or (4) or” with a reference to “173(2),”; and
+
+
+
+
+
+
+(b) by replacing the reference to “273, 280 or 281” with a reference to “273 or 279.011, subsection 279.02(2) or 279.03(2), section 280 or 281 or subsection 286.1(2), 286.2(2) or 286.3(2)”.
+
+
+
+
+
+
+
+
+
+31. Au paragraphe 810.1(1) de la même loi :
+
+
+
+
+
+
+a) « aux paragraphes 173(2) ou 212(1), (2), (2.1) ou (4) » est remplacé par « au paragraphe 173(2) »;
+
+
+
+
+
+
+b) « 273, 280 ou 281 » est remplacé par « 273 ou 279.011, aux paragraphes 279.02(2) ou 279.03(2), aux articles 280 ou 281 ou aux paragraphes 286.1(2), 286.2(2) ou 286.3(2) ».
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 22, s. 23; 2012, c. 1, s. 38
+
+
+
+32. Subparagraph (b)(iii) of Form 5.04 in Part XXVIII of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+32. Le sous-alinéa b)(iii) de la formule 5.04 de la partie XXVIII de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 22, art. 23; 2012, ch. 1, art. 38
+
+
+
+
+
+
+
+
+
+
+
+
+[ ]       (iii) an offence under any of sections 145 to 148, subsection 173(1), sections 252, 264, 264.1, 266 and 270, subsection 286.1(1), paragraph 348(1)(e) and sections 349 and 423 of the Criminal Code,
+
+
+
+
+
+
+
+
+
+[ ]       (iii) une infraction créée par l’une des dispositions suivantes : les articles 145 à 148, le paragraphe 173(1), les articles 252, 264, 264.1, 266 et 270, le paragraphe 286.1(1), l’alinéa 348(1)e) et les articles 349 et 423 du Code criminel,
+
+
+
+
+
+
+
+
+
+
+
+
+2004, c. 10, s. 21; 2007, c. 5, s. 31
+
+
+
+33. The paragraph before section 1 of Form 53 in Part XXVIII of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+33. Le paragraphe précédant l’article 1 de la formule 53 de la partie XXVIII de la même loi est remplacé par ce qui suit :
+
+
+
+2004, ch. 10, art. 21; 2007, ch. 5, art. 31
+
+
+
+
+
+
+
+
+
+
+
+
+Because, on .......... (insert date(s)), you were convicted of, or found not criminally responsible on account of mental disorder for, .......... (insert description of offence(s)), one or more offences referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the definition “designated offence” in subsection 490.011(1) of the Criminal Code or in paragraph (a) or (c) of the definition “designated offence” in section 227 of the National Defence Act, under .......... (insert the applicable offence provision(s)), this is provided to give you notice that you are required to comply with the Sex Offender Information Registration Act.
+
+
+
+
+
+
+
+
+
+Vu la déclaration de culpabilité du .......... (inscrire la ou les dates) pour .......... (décrire chaque infraction), infraction(s) visée(s) aux alinéas a), c), c.1), d), d.1) ou e) de la définition de « infraction désignée » au paragraphe 490.011(1) du Code criminel ou aux alinéas a) ou c) de la définition de « infraction désignée » à l’article 227 de la Loi sur la défense nationale, en violation de .......... (citer la disposition du Code criminel ou de la Loi sur la défense nationale relative à chaque infraction désignée) ou le verdict de non-responsabilité, à l’égard de cette (ces) infraction(s), avis vous est donné, par les présentes, que vous devez vous conformer à la Loi sur l’enregistrement de renseignements sur les délinquants sexuels.
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-5
+
+
+
+Canada Evidence Act
+
+
+
+
+
+
+
+
+
+Loi sur la preuve au Canada
+
+
+
+L.R., ch. C-5
+
+
+
+
+
+
+
+
+
+
+
+
+34. Subsection 4(2) of the Canada Evidence Act is amended
+
+
+
+
+
+
+(a) by striking out the reference to “212,”; and
+
+
+
+
+
+
+(b) by replacing the reference to “273, 280 to 283” with a reference to “273, 279.01 to 279.03, 280 to 283, 286.1 to 286.3”.
+
+
+
+
+
+
+
+
+
+34. Le paragraphe 4(2) de la Loi sur la preuve au Canada est modifié :
+
+
+
+
+
+
+a) par suppression de « 212, »;
+
+
+
+
+
+
+b) par remplacement de « 273, 280 à 283 » par « 273, 279.01 à 279.03, 280 à 283, 286.1 à 286.3 ».
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-47
+
+
+
+Criminal Records Act
+
+
+
+
+
+
+
+
+
+Loi sur le casier judiciaire
+
+
+
+L.R., ch. C-47
+
+
+
+
+
+
+
+
+
+
+2010, c. 5, s. 9
+
+
+
+35. (1) Subparagraphs 1(a)(xi) to (xiii) of Schedule 1 to the Criminal Records Act are repealed.
+
+
+
+
+
+
+
+
+
+35. (1) Les sous-alinéas 1a)(xi) à (xiii) de l’annexe 1 de la Loi sur le casier judiciaire sont abrogés.
+
+
+
+2010, ch. 5, art. 9
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 1(a) of Schedule 1 to the Act is amended by adding the following after subparagraph (xvi):
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 1a) de l’annexe 1 de la même loi est modifié par adjonction, après le sous-alinéa (xvi), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(xvi.1) section 279.011 (trafficking — person under 18 years),
+
+
+
+
+
+
+(xvi.2) subsection 279.02(2) (material benefit — trafficking of person under 18 years),
+
+
+
+
+
+
+(xvi.3) subsection 279.03(2) (withholding or destroying documents — trafficking of person under 18 years),
+
+
+
+
+
+
+(xvi.4) subsection 286.1(2) (obtaining sexual services for consideration from person under 18 years),
+
+
+
+
+
+
+(xvi.5) subsection 286.2(2) (material benefit from sexual services provided by person under 18 years),
+
+
+
+
+
+
+(xvi.6) subsection 286.3(2) (procuring — person under 18 years),
+
+
+
+
+
+
+
+
+
+(xvi.1) l’article 279.011 (traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(xvi.2) le paragraphe 279.02(2) (avantage matériel — traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(xvi.3) le paragraphe 279.03(2) (rétention ou destruction de documents — traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(xvi.4) le paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(xvi.5) le paragraphe 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(xvi.6) le paragraphe 286.3(2) (proxénétisme — personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Schedule 1 to the Act is amended by adding the following after paragraph 1(b):
+
+
+
+
+
+
+
+
+
+(3) L’annexe 1 de la même loi est modifiée par adjonction, après l’alinéa 1b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) under the following provisions of the Criminal Code, as they read from time to time before the day on which this paragraph comes into force:
+
+
+
+
+
+
+(i) subsection 212(2) (living on the avails of prostitution of person under 18 years),
+
+
+
+
+
+
+(ii) subsection 212(2.1) (aggravated offence in relation to living on the avails of prostitution of person under 18 years), and
+
+
+
+
+
+
+(iii) subsection 212(4) (prostitution of person under 18 years);
+
+
+
+
+
+
+
+
+
+b.1) aux dispositions ci-après du Code criminel, dans toute version antérieure à la date d’entrée en vigueur du présent alinéa :
+
+
+
+
+
+
+(i) le paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(ii) le paragraphe 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(iii) le paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+
+
+
+
+R.S., c. N-5
+
+
+
+National Defence Act
+
+
+
+
+
+
+
+
+
+Loi sur la défense nationale
+
+
+
+L.R., ch. N-5
+
+
+
+
+
+
+
+
+
+
+2005, c. 25, s. 23(1); 2007, c. 22, s. 48(1); 2010, c. 17, s. 46
+
+
+
+36. The definition “primary designated offence” in section 196.11 of the National Defence Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+36. La définition de « infraction primaire », à l’article 196.11 de la Loi sur la défense nationale, est remplacée par ce qui suit :
+
+
+
+2005, ch. 25, par. 23(1); 2007, ch. 22, par. 48(1); 2010, ch. 17, art. 46
+
+
+
+
+
+
+
+
+
+
+“primary designated offence”« infraction primaire »
+
+
+
+“primary designated offence” means 
+
+
+
+
+
+
+
+
+(a) an offence within the meaning of paragraphs (a) and (c.02) of the definition “primary designated offence” in section 487.04 of the Criminal Code that is punishable under section 130;
+
+
+
+
+
+
+
+
+(a.1) an offence within the meaning of any of paragraphs (a.1) to (c.01), (c.03) and (c.1) of the definition “primary designated offence” in section 487.04 of the Criminal Code that is punishable under section 130; and
+
+
+
+
+
+
+
+
+(b) an attempt to commit or, other than for the purpose of subsection 196.12(1), a conspiracy to commit an offence within the meaning of any of paragraphs (a) to (c.03) of the definition “primary designated offence” in section 487.04 of the Criminal Code that is punishable under section 130.
+
+
+
+
+
+
+
+
+
+« infraction primaire »
+
+
+
+« infraction primaire »“primary designated offence”
+
+
+
+
+a) Infraction visée aux alinéas a) et c.02) de la définition de « infraction primaire », à l’article 487.04 du Code criminel, qui est punissable en application de l’article 130;
+
+
+
+
+
+
+
+
+a.1) infraction visée à l’un des alinéas a.1) à c.01), c.03) et c.1) de la définition de « infraction primaire », à l’article 487.04 du Code criminel, qui est punissable en application de l’article 130;
+
+
+
+
+
+
+
+
+b) la tentative et, sauf en ce qui touche le paragraphe 196.12(1), le complot en vue de perpétrer une infraction visée à l’un des alinéas a) à c.03) de la définition de « infraction primaire », à l’article 487.04 du Code criminel, qui est punissable en application de l’article 130.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 4
+
+
+
+37. Paragraph (a) of the definition “designated offence” in section 227 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+37. L’alinéa a) de la définition de « infraction désignée », à l’article 227 de la même loi, est remplacé par ce qui suit :
+
+
+
+2007, ch. 5, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an offence within the meaning of paragraph (a), (c), (c.1), (d) or (d.1) of the definition “designated offence” in subsection 490.011(1) of the Criminal Code that is punishable under section 130 of this Act;
+
+
+
+
+
+
+
+
+
+a) Infraction visée aux alinéas a), c), c.1), d) ou d.1) de la définition de « infraction désignée » au paragraphe 490.011(1) du Code criminel et punissable en vertu de l’article 130 de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 47(1)
+
+
+
+38. Paragraph 227.01(3)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+38. L’alinéa 227.01(3)a) de la même loi est remplacé par ce qui suit :
+
+
+
+2010, ch. 17, par. 47(1)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the person was, before or after the coming into force of this paragraph, previously convicted of, or found not responsible on account of mental disorder for, an offence referred to in paragraph (a) or (c) of the definition “designated offence” in section 227 of this Act or in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the definition “designated offence” in subsection 490.011(1) of the Criminal Code;
+
+
+
+
+
+
+
+
+
+a) que la personne a déjà, avant ou après l’entrée en vigueur du présent alinéa, fait l’objet d’une déclaration de culpabilité ou d’un verdict de non-responsabilité pour cause de troubles mentaux à l’égard d’une infraction visée aux alinéas a) ou c) de la définition de « infraction désignée » à l’article 227 de la présente loi ou aux alinéas a), c), c.1), d), d.1) ou e) de la définition de « infraction désignée » au paragraphe 490.011(1) du Code criminel;
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 4
+
+
+
+39. Paragraph 227.09(3)(d) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+39. L’alinéa 227.09(3)d) de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 5, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+(d) applies for life if, at any time, the person was convicted of, or found not responsible on account of mental disorder for, more than one offence that is referred to in paragraph (a) or (c) of the definition “designated offence” in section 227 of this Act or in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the defini- tion “designated offence” in subsection 490.011(1) of the Criminal Code and if more than one of those offences is listed in the notice.
+
+
+
+
+
+
+
+
+
+d) s’applique à perpétuité en cas de déclaration de culpabilité ou de verdict de non-responsabilité pour cause de troubles mentaux à l’égard de plusieurs infractions — dont au moins deux sont mentionnées dans l’avis — visées aux alinéas a) ou c) de la définition de « infraction désignée » à l’article 227 de la présente loi ou aux alinéas a), c), c.1), d), d.1) ou e) de la définition de « infraction désignée » au paragraphe 490.011(1) du Code criminel.
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 4
+
+
+
+40. Subsection 227.12(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+40. Le paragraphe 227.12(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 5, art. 4
+
+
+
+
+
+
+
+
+
+
+More than one offence
+
+
+
+(3) If more than one offence is listed in the notice served under section 227.08, the person may apply for a termination order if 20 years have elapsed since they were sentenced, or found not responsible on account of mental disorder, for the most recent offence referred to in paragraph (a) or (c) of the definition “designated offence” in section 227 of this Act or in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the definition “designated offence” in subsection 490.011(1) of the Criminal Code.
+
+
+
+
+
+
+
+
+
+(3) En cas de pluralité des infractions mentionnées dans l’avis signifié en application de l’article 227.08, le délai est de vingt ans à compter du prononcé de la peine ou du verdict de non-responsabilité pour cause de troubles mentaux visant la plus récente infraction visée aux alinéas a) ou c) de la définition de « infraction désignée » à l’article 227 de la présente loi ou aux alinéas a), c), c.1), d), d.1) ou e) de la définition de « infraction désignée » au paragraphe 490.011(1) du Code criminel.
+
+
+
+Délai : pluralité d’infractions
+
+
+
+
+
+
+
+
+1992, c. 20
+
+
+
+Corrections and Conditional Release Act
+
+
+
+
+
+
+
+
+
+Loi sur le système correctionnel et la mise en liberté sous condition
+
+
+
+1992, ch. 20
+
+
+
+
+
+
+
+
+
+
+1995, c. 42, s. 44(7)
+
+
+
+41. (1) Subparagraphs (a)(viii) and (ix) of the definition “sexual offence involving a child” in subsection 129(9) of the Corrections and Conditional Release Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+41. (1) Les sous-alinéas a)(viii) et (ix) de la définition de « infraction d’ordre sexuel à l’égard d’un enfant », au paragraphe 129(9) de la Loi sur le système correctionnel et la mise en liberté sous condition, sont remplacés par ce qui suit :
+
+
+
+1995, ch. 42, par. 44(7)
+
+
+
+
+
+
+
+
+
+
+
+
+(viii) section 279.011 (trafficking — person under 18 years),
+
+
+
+
+
+
+(ix) subsection 279.02(2) (material benefit — trafficking of person under 18 years),
+
+
+
+
+
+
+(x) subsection 279.03(2) (withholding or destroying documents — trafficking of person under 18 years),
+
+
+
+
+
+
+(xi) subsection 286.1(2) (obtaining sexual services for consideration from person under 18 years),
+
+
+
+
+
+
+(xii) subsection 286.2(2) (material benefit from sexual services provided by person under 18 years), and
+
+
+
+
+
+
+(xiii) subsection 286.3(2) (procuring — person under 18 years),
+
+
+
+
+
+
+
+
+
+(viii) article 279.011 (traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(ix) paragraphe 279.02(2) (avantage matériel — traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(x) paragraphe 279.03(2) (rétention ou destruction de documents — traite de personnes âgées de moins de dix-huit ans),
+
+
+
+
+
+
+(xi) paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(xii) paragraphe 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(xiii) paragraphe 286.3(2) (proxénétisme — personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The definition “sexual offence involv­ing a child” in subsection 129(9) of the Act is amended by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+(2) La définition de « infraction d’ordre sexuel à l’égard d’un enfant », au paragraphe 129(9) de la même loi, est modifiée par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) an offence under any of the following provisions of the Criminal Code, as they read from time to time before the day on which this paragraph comes into force, that was prosecuted by way of indictment:
+
+
+
+
+
+
+(i) subsection 212(2) (living on the avails of prostitution of person under 18 years), and
+
+
+
+
+
+
+(ii) subsection 212(4) (prostitution of person under 18 years),
+
+
+
+
+
+
+
+
+
+b.1) infraction prévue à l’une des dispositions ci-après du Code criminel, dans toute version antérieure à la date d’entrée en vigueur du présent alinéa, et poursuivie par mise en accusation :
+
+
+
+
+
+
+(i) paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+(ii) paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 103(7)
+
+
+
+42. (1) Paragraphs 1(n) to (o) of Schedule I to the Act are repealed.
+
+
+
+
+
+
+
+
+
+42. (1) Les alinéas 1n) à o) de l’annexe I de la même loi sont abrogés.
+
+
+
+2012, ch. 1, par. 103(7)
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 1 of Schedule I to the Act is amended by adding the following after paragraph (z.2):
+
+
+
+
+
+
+
+
+
+(2) L’article 1 de l’annexe I de la même loi est modifié par adjonction, après l’alinéa z.2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(z.201) section 279.011 (trafficking — person under 18 years);
+
+
+
+
+
+
+(z.202) subsection 279.02(2) (material benefit — trafficking of person under 18 years);
+
+
+
+
+
+
+(z.203) subsection 279.03(2) (withholding or destroying documents — trafficking of person under 18 years);
+
+
+
+
+
+
+
+
+
+z.201) article 279.011 (traite de personnes âgées de moins de dix-huit ans);
+
+
+
+
+
+
+z.202) paragraphe 279.02(2) (avantage matériel — traite de personnes âgées de moins de dix-huit ans);
+
+
+
+
+
+
+z.203) paragraphe 279.03(2) (rétention ou destruction de documents — traite de personnes âgées de moins de dix-huit ans);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 1 of Schedule I to the Act is amended by adding the following after paragraph (z.21):
+
+
+
+
+
+
+
+
+
+(3) L’article 1 de l’annexe I de la même loi est modifié par adjonction, après l’alinéa z.21), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(z.22) subsection 286.1(2) (obtaining sexual services for consideration from person under 18 years);
+
+
+
+
+
+
+(z.23) subsection 286.2(2) (material benefit from sexual services provided by person under 18 years);
+
+
+
+
+
+
+(z.24) subsection 286.3(2) (procuring — person under 18 years);
+
+
+
+
+
+
+
+
+
+z.22) paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+z.23) paragraphe 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+z.24) paragraphe 286.3(2) (proxénétisme — personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Schedule I to the Act is amended by adding the following after section 5.1:
+
+
+
+
+
+
+
+
+
+(4) L’annexe I de la même loi est modifiée par adjonction, après l’article 5.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.2 An offence under any of the following provisions of the Criminal Code, as they read from time to time before the day on which this section comes into force, that was prosecuted by way of indictment:
+
+
+
+
+
+
+(a) subsection 212(2) (living on the avails of prostitution of person under 18 years);
+
+
+
+
+
+
+(b) subsection 212(2.1) (aggravated offence in relation to living on the avails of prostitution of person under 18 years); and
+
+
+
+
+
+
+(c) subsection 212(4) (prostitution of person under 18 years).
+
+
+
+
+
+
+
+
+
+5.2 Une infraction prévue à l’une des dispositions ci-après du Code criminel, dans toute version antérieure à la date d’entrée en vigueur du présent article, et poursuivie par mise en accusation :
+
+
+
+
+
+
+a) paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+b) paragraphe 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+c) paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans).
+
+
+
+
+
+
+
+
+
+
+2002, c. 1
+
+
+
+Youth Criminal Justice Act
+
+
+
+
+
+
+
+
+
+Loi sur le système de justice pénale pour les adolescents
+
+
+
+2002, ch. 1
+
+
+
+
+
+
+
+
+
+
+
+
+43. (1) Paragraphs 1(i) and (j) of the schedule to the Youth Criminal Justice Act are repealed.
+
+
+
+
+
+
+
+
+
+43. (1) Les alinéas 1i) et j) de l’annexe de la Loi sur le système de justice pénale pour les adolescents sont abrogés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 1 of the schedule to the Act is amended by adding the following after paragraph (t):
+
+
+
+
+
+
+
+
+
+(2) L’article 1 de l’annexe de la même loi est modifié par adjonction, après l’alinéa t), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(t.1) section 279.011 (trafficking — person under 18 years);
+
+
+
+
+
+
+(t.2) subsection 279.02(2) (material benefit — trafficking of person under 18 years);
+
+
+
+
+
+
+(t.3) subsection 279.03(2) (withholding or destroying documents — trafficking of person under 18 years);
+
+
+
+
+
+
+(t.4) subsection 286.1(2) (obtaining sexual services for consideration from person under 18 years);
+
+
+
+
+
+
+(t.5) subsection 286.2(2) (material benefit from sexual services provided by person under 18 years);
+
+
+
+
+
+
+(t.6) subsection 286.3(2) (procuring — person under 18 years);
+
+
+
+
+
+
+
+
+
+t.1) article 279.011 (traite de personnes âgées de moins de dix-huit ans);
+
+
+
+
+
+
+t.2) paragraphe 279.02(2) (avantage matériel — traite de personnes âgées de moins de dix-huit ans);
+
+
+
+
+
+
+t.3) paragraphe 279.03(2) (rétention ou destruction de documents — traite de personnes âgées de moins de dix-huit ans);
+
+
+
+
+
+
+t.4) paragraphe 286.1(2) (obtention de services sexuels moyennant rétribution — personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+t.5) paragraphe 286.2(2) (avantage matériel provenant de la prestation de services sexuels d’une personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+t.6) paragraphe 286.3(2) (proxénétisme — personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) The schedule to the Act is amended by adding the following after section 1:
+
+
+
+
+
+
+
+
+
+(3) L’annexe de la même loi est modifiée par adjonction, après l’article 1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.1 An offence under one of the following provisions of the Criminal Code, as they read from time to time before the day on which this section comes into force:
+
+
+
+
+
+
+(a) subsection 212(2) (living on the avails of prostitution of person under 18 years); and
+
+
+
+
+
+
+(b) subsection 212(4) (prostitution of person under 18 years).
+
+
+
+
+
+
+
+
+
+1.1 Une infraction prévue à l’une des dispositions ci-après du Code criminel, dans toute version antérieure à la date d’entrée en vigueur du présent article :
+
+
+
+
+
+
+a) paragraphe 212(2) (vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans);
+
+
+
+
+
+
+b) paragraphe 212(4) (prostitution d’une personne âgée de moins de dix-huit ans).
+
+
+
+
+
+
+
+
+
+
+2004, c. 21
+
+
+
+International Transfer of Offenders Act
+
+
+
+
+
+
+
+
+
+Loi sur le transfèrement international des délinquants
+
+
+
+2004, ch. 21
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 62
+
+
+
+44. Section 36.1 of the International Transfer of Offenders Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+44. L’article 36.1 de la Loi sur le transfèrement international des délinquants est remplacé par ce qui suit :
+
+
+
+2010, ch. 17, art. 62
+
+
+
+
+
+
+
+
+
+
+Obligation
+
+
+
+36.1 If the criminal offence identified under section 15 or 36.3 is one referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the definition “designated offence” in subsection 490.011(1) of the Criminal Code, the person is required to comply with the Sex Offender Information Registration Act.
+
+
+
+
+
+
+
+
+
+36.1 Si l’infraction criminelle visée aux articles 15 ou 36.3 est une infraction visée aux alinéas a), c), c.1), d), d.1) ou e) de la définition de « infraction désignée » au paragraphe 490.011(1) du Code criminel, la personne est tenue de se conformer à la Loi sur l’enregistrement de renseignements sur les délinquants sexuels.
+
+
+
+Obligation
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 62
+
+
+
+45. (1) Subsection 36.2(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+45. (1) Le paragraphe 36.2(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2010, ch. 17, art. 62
+
+
+
+
+
+
+
+
+
+
+Duration — if more than one offence
+
+
+
+(3) The obligation applies for life if the person was convicted of, or found not crimi­nally responsible on account of mental disorder for, more than one offence in respect of which the equivalent criminal offence is an offence referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the definition “designated offence” in subsection 490.011(1) of the Criminal Code.
+
+
+
+
+
+
+
+
+
+(3) Elle s’applique à perpétuité si l’intéressé fait l’objet d’une déclaration de culpabilité ou d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard de plus d’une infraction dont l’infraction criminelle correspondante est une infraction visée aux alinéas a), c), c.1), d), d.1) ou e) de la définition de « infraction désignée » au paragraphe 490.011(1) du Code criminel.
+
+
+
+Durée de l’obligation — plus d’une infraction
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 62
+
+
+
+(2) Paragraph 36.2(6)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 36.2(6)a) de la même loi est remplacé par ce qui suit :
+
+
+
+2010, ch. 17, art. 62
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the person was, before or after the coming into force of this paragraph, previously convicted of, or found not criminally responsible on account of mental disorder for, an offence referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of the defini- tion “designated offence” in subsection 490.011(1) of the Criminal Code or in paragraph (a) or (c) of the definition “designated offence” in section 227 of the National Defence Act;
+
+
+
+
+
+
+
+
+
+a) l’intéressé a déjà, avant ou après l’entrée en vigueur du présent alinéa, fait l’objet d’une déclaration de culpabilité ou d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard d’une infraction visée aux alinéas a), c), c.1), d), d.1) ou e) de la définition de « infraction désignée » au paragraphe 490.011(1) du Code criminel ou aux alinéas a) ou c) de la définition de « infraction désignée » à l’article 227 de la Loi sur la défense nationale;
+
+
+
+
+
+
+
+
+
+
+
+
+REVIEW AND REPORT
+
+
+
+
+
+
+
+
+
+EXAMEN ET RAPPORT
+
+
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+45.1 (1) Within five years after this section comes into force, a comprehensive review of the provisions and operation of this Act shall be undertaken by such committee of the House of Commons as may be designated or established by the House for that purpose.
+
+
+
+
+
+
+
+
+
+45.1 (1) Dans les cinq ans suivant l'entrée en vigueur du présent article, un examen complet des dispositions et de l'application de la présente loi doit être fait par le comité de la Chambre des communes que celle-ci désigne ou constitue à cette fin.
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(2) The committee referred to in subsection (1) shall, within a year after a review is undertaken pursuant to that subsection or within such further time as the House may authorize, submit a report on the review to the Speaker of the House, including a statement of any changes the committee recommends.
+
+
+
+
+
+
+
+
+
+(2) Dans l’année qui suit le début de son examen ou dans le délai supérieur que la Chambre lui accorde, le comité visé au paragraphe (1) remet son rapport, accompagné des modifications qu’il recommande, au président de la Chambre.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENTS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-13
+
+
+
+46. (1) Subsections (2) to (7) apply if Bill C-13, introduced in the 2nd session of the 41st Parliament and entitled the Protecting Canadians from Online Crime Act (in this section referred to as the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+46. (1) Les paragraphes (2) à (7) s’appliquent en cas de sanction du projet de loi C-13, déposé au cours de la 2e session de la 41e législature et intitulé Loi sur la protection des Canadiens contre la cybercriminalité (appelé « autre loi » au présent article).
+
+
+
+Projet de loi C-13
+
+
+
+
+
+
+
+
+
+
+
+
+(2) On the first day on which both subsection 4(1) of the other Act and subsection 6(1) of this Act are in force, subsection 164(1) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Dès le premier jour où le paragraphe 4(1) de l’autre loi et le paragraphe 6(1) de la présente loi sont tous deux en vigueur, le paragraphe 164(1) du Code criminel est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Warrant of seizure
+
+
+
+164. (1) A judge may issue a warrant authorizing seizure of copies of a recording, a publication, a representation or any written material, if the judge is satisfied by information on oath that there are reasonable grounds to believe that
+
+
+
+
+
+
+
+
+(a) the recording, copies of which are kept for sale or distribution in premises within the jurisdiction of the court, is a voyeuristic recording;
+
+
+
+
+
+
+
+
+(b) the recording, copies of which are kept for sale or distribution in premises within the jurisdiction of the court, is an intimate image;
+
+
+
+
+
+
+
+
+(c) the publication, copies of which are kept for sale or distribution in premises within the jurisdiction of the court, is obscene or a crime comic, as defined in section 163;
+
+
+
+
+
+
+
+
+(d) the representation, written material or recording, copies of which are kept in premises within the jurisdiction of the court, is child pornography as defined in section 163.1; or
+
+
+
+
+
+
+
+
+(e) the representation, written material or recording, copies of which are kept in premises within the jurisdiction of the court, is an advertisement of sexual services.
+
+
+
+
+
+
+
+
+
+164. (1) Le juge peut décerner un mandat autorisant la saisie des exemplaires d’une publication ou des copies d’une représentation, d’un écrit ou d’un enregistrement s’il est convaincu, par une dénonciation sous serment, qu’il existe des motifs raisonnables de croire :
+
+
+
+Mandat de saisie
+
+
+
+
+a) soit que l’enregistrement, dont des copies sont tenues, pour vente ou distribution, dans un local du ressort du tribunal, constitue un enregistrement voyeuriste;
+
+
+
+
+
+
+
+
+b) soit que l’enregistrement, dont des copies sont tenues, pour vente ou distribution, dans un local du ressort du tribunal, constitue une image intime;
+
+
+
+
+
+
+
+
+c) soit que la publication, dont des exemplaires sont tenus, pour vente ou distribution, dans un local du ressort du tribunal, est obscène ou est une histoire illustrée de crime au sens de l’article 163;
+
+
+
+
+
+
+
+
+d) soit que la représentation, l’écrit ou l’enregistrement, dont des copies sont tenues dans un local du ressort du tribunal, constitue de la pornographie juvénile au sens de l’article 163.1;
+
+
+
+
+
+
+
+
+e) soit que la représentation, l’écrit ou l’enregistrement, dont des copies sont tenues dans un local du ressort du tribunal, constitue de la publicité de services sexuels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) On the first day on which both subsection 4(2) of the other Act and subsection 6(2) of this Act are in force, subsections 164(3) to (5) of the Criminal Code are replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Dès le premier jour où le paragraphe 4(2) de l’autre loi et le paragraphe 6(2) de la présente loi sont tous deux en vigueur, les paragraphes 164(3) à (5) du Code criminel sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Owner and maker may appear
+
+
+
+(3) The owner and the maker of the matter seized under subsection (1), and alleged to be obscene, a crime comic, child pornography, a voyeuristic recording, an intimate image or an advertisement of sexual services, may appear and be represented in the proceedings to oppose the making of an order for the forfeiture of the matter.
+
+
+
+
+
+
+
+
+
+(3) Le propriétaire ainsi que l’auteur de la matière saisie dont on prétend qu’elle est obscène ou une histoire illustrée de crime, ou qu’elle constitue de la pornographie juvénile, un enregistrement voyeuriste, une image intime ou de la publicité de services sexuels, peuvent comparaître et être représentés dans les procédures pour s’opposer à l’établissement d’une ordonnance portant confiscation de cette matière.
+
+
+
+Le propriétaire et l’auteur peuvent comparaître
+
+
+
+
+
+
+
+
+
+
+Order of forfeiture
+
+
+
+(4) If the court is satisfied, on a balance of probabilities, that the publication, representation, written material or recording referred to in subsection (1) is obscene, a crime comic, child pornography, a voyeuristic recording, an intimate image or an advertisement of sexual services, it may make an order declaring the matter forfeited to Her Majesty in right of the province in which the proceedings take place, for disposal as the Attorney General may direct.
+
+
+
+
+
+
+
+
+
+(4) Si le tribunal est convaincu, selon la prépondérance des probabilités, que la matière est obscène ou une histoire illustrée de crime, ou constitue de la pornographie juvénile, un enregistrement voyeuriste, une image intime ou de la publicité de services sexuels, il peut rendre une ordonnance la déclarant confisquée au profit de Sa Majesté du chef de la province où les procédures ont lieu, pour qu’il en soit disposé conformément aux instructions du procureur général.
+
+
+
+Ordonnance de confiscation
+
+
+
+
+
+
+
+
+
+
+Disposal of matter
+
+
+
+(5) If the court is not satisfied that the publication, representation, written material or recording referred to in subsection (1) is obscene, a crime comic, child pornography, a voyeuristic recording, an intimate image or an advertisement of sexual services, it shall order that the matter be restored to the person from whom it was seized without delay after the time for final appeal has expired.
+
+
+
+
+
+
+
+
+
+(5) Si le tribunal n’est pas convaincu que la publication, la représentation, l’écrit ou l’enregistrement est obscène ou une histoire illustrée de crime, ou constitue de la pornographie juvénile, un enregistrement voyeuriste, une image intime ou de la publicité de services sexuels, il doit ordonner que la matière soit remise à la personne de laquelle elle a été saisie, dès l’expiration du délai imparti pour un appel final.
+
+
+
+Sort de la matière
+
+
+
+
+
+
+
+
+
+
+
+
+(4) On the first day on which both subsection 4(3) of the other Act and subsection 6(3) of this Act are in force, subsection 164(7) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Dès le premier jour où le paragraphe 4(3) de l’autre loi et le paragraphe 6(3) de la présente loi sont tous deux en vigueur, le paragraphe 164(7) du Code criminel est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Consent
+
+
+
+(7) If an order is made under this section by a judge in a province with respect to one or more copies of a publication, a representation, written material or a recording, no proceedings shall be instituted or continued in that province under section 162, 162.1, 163, 163.1 or 286.4 with respect to those or other copies of the same publication, representation, written material or recording without the consent of the Attorney General.
+
+
+
+
+
+
+
+
+
+(7) Dans le cas où un juge a rendu une ordonnance, en vertu du présent article, dans une province relativement à un ou plusieurs exemplaires d’une publication ou à une ou plusieurs copies d’une représentation, d’un écrit ou d’un enregistrement, aucune poursuite ne peut être intentée ni continuée dans cette province aux termes des articles 162, 162.1, 163, 163.1 ou 286.4 en ce qui concerne ces exemplaires ou d’autres exemplaires de la même publication, ou ces copies ou d’autres copies de la même représentation, du même écrit ou du même enregistrement, sans le consentement du procureur général.
+
+
+
+Consentement
+
+
+
+
+
+
+
+
+
+
+
+
+(5) On the first day on which both subsection 5(1) of the other Act and subsection 7(1) of this Act are in force, the portion of subsection 164.1(1) of the Criminal Code before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Dès le premier jour où le paragraphe 5(1) de l’autre loi et le paragraphe 7(1) de la présente loi sont tous deux en vigueur, le passage du paragraphe 164.1(1) du Code criminel précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Warrant of seizure
+
+
+
+164.1 (1) If a judge is satisfied by information on oath that there are reasonable grounds to believe that there is material — namely, child pornography as defined in section 163.1, a voyeuristic recording, an intimate image or an advertisement of sexual services as defined in 164(8) or computer data as defined in subsection 342.1(2) that makes child pornography, a voyeuristic recording, an intimate image or an advertisement of sexual services available — that is stored on and made available through a computer system as defined in subsection 342.1(2) that is within the jurisdiction of the court, the judge may order the custodian of the computer system to
+
+
+
+
+
+
+
+
+
+164.1 (1) Le juge peut, s’il est convaincu par une dénonciation sous serment qu’il y a des motifs raisonnables de croire qu’il existe une matière — constituant de la pornographie juvénile au sens de l’article 163.1, un enregistrement voyeuriste, une image intime ou de la publicité de services sexuels au sens du paragraphe 164(8) ou des données informatiques au sens du paragraphe 342.1(2) qui rendent la pornographie juvénile, l’enregistrement voyeuriste, l’image intime ou la publicité de services sexuels accessible — qui est emmagasinée et rendue accessible au moyen d’un ordinateur au sens de ce paragraphe, situé dans le ressort du tribunal, ordonner au gardien de l’ordinateur :
+
+
+
+Mandat de saisie
+
+
+
+
+
+
+
+
+
+
+
+
+(6) On the first day on which both subsection 5(2) of the other Act and subsection 7(2) of this Act are in force, subsection 164.1(5) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+(6) Dès le premier jour où le paragraphe 5(2) de l’autre loi et le paragraphe 7(2) de la présente loi sont tous deux en vigueur, le paragraphe 164.1(5) du Code criminel est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Order
+
+
+
+(5) If the court is satisfied, on a balance of probabilities, that the material is child pornog­raphy as defined in section 163.1, a voyeuristic recording, an intimate image or an advertisement of sexual services as defined in subsection 164(8) or computer data as defined in subsection 342.1(2) that makes child pornography, the voyeuristic recording, the intimate image or the advertisement of sexual services available, it may order the custodian of the computer system to delete the material.
+
+
+
+
+
+
+
+
+
+(5) Si le tribunal est convaincu, selon la prépondérance des probabilités, que la matière constitue de la pornographie juvénile au sens de l’article 163.1, un enregistrement voyeuriste, une image intime ou de la publicité de services sexuels au sens du paragraphe 164(8) ou des données informatiques au sens du paragraphe 342.1(2) qui rendent la pornographie juvénile, l’enregistrement voyeuriste, l’image intime ou la publicité de services sexuels accessible, il peut ordonner au gardien de l’ordinateur de l’effacer.
+
+
+
+Ordonnance
+
+
+
+
+
+
+
+
+
+
+
+
+(7) On the first day on which both subsection 5(3) of the other Act and subsection 7(3) of this Act are in force, subsection 164.1(7) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+(7) Dès le premier jour où le paragraphe 5(3) de l’autre loi et le paragraphe 7(3) de la présente loi sont tous deux en vigueur, le paragraphe 164.1(7) du Code criminel est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Return of material
+
+
+
+(7) If the court is not satisfied that the material is child pornography as defined in 163.1, a voyeuristic recording, an intimate image or an advertisement of sexual services as defined in subsection 164(8) or computer data as defined in subsection 342.1(2) that makes child pornography, the voyeuristic recording, the intimate image or the advertisement of sexual services available, the court shall order that the electronic copy be returned to the custodian of the computer system and terminate the order under paragraph (1)(b).
+
+
+
+
+
+
+
+
+
+(7) Si le tribunal n’est pas convaincu que la matière constitue de la pornographie juvénile au sens de l’article 163.1, un enregistrement voyeuriste, une image intime ou de la publicité de services sexuels au sens du paragraphe 164(8) ou des données informatiques au sens du paragraphe 342.1(2) qui rendent la pornographie juvénile, l’enregistrement voyeuriste, l’image intime ou la publicité de services sexuels accessible, il doit ordonner que la copie électronique soit remise au gardien de l’ordinateur et mettre fin à l’ordonnance visée à l’alinéa (1)b).
+
+
+
+Sort de la matière
+
+
+
+
+
+
+
+
+
+
+Bill C-26
+
+
+
+47. (1) Subsections (2) and (3) apply if Bill C-26, introduced in the 2nd session of the 41st Parliament and entitled the Tougher Penalties for Child Predators Act (in this section referred to as the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+47. (1) Les paragraphes (2) et (3) s’appliquent en cas de sanction du projet de loi C-26, déposé au cours de la 2e session de la 41e législature et intitulé Loi sur le renforcement des peines pour les prédateurs d’enfants (appelé « autre loi » au présent article).
+
+
+
+Projet de loi C-26
+
+
+
+
+
+
+
+
+
+
+
+
+(2) If section 13 of this Act comes into force before section 13 of the other Act, then section 13 of the other Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Si l’article 13 de la présente loi entre en vigueur avant l’article 13 de l’autre loi, l’article 13 de l’autre loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If section 13 of this Act comes into force on the same day as section 13 of the other Act, then section 13 of the other Act is deemed to have come into force before section 13 of this Act.
+
+
+
+
+
+
+
+
+
+(3) Si l’entrée en vigueur de l’article 13 de la présente loi et celle de l’article 13 de l’autre loi sont concomitantes, l’article 13 de l’autre loi est réputé être entré en vigueur avant l’article 13 de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-32
+
+
+
+48. (1) Subsections (2) to (11) apply if Bill C-32, introduced in the 2nd session of the 41st Parliament and entitled the Victims Bill of Rights Act (in this section referred to as the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+48. (1) Les paragraphes (2) à (11) s’appliquent en cas de sanction du projet de loi C-32, déposé au cours de la 2e session de la 41e législature et intitulé Loi sur la Charte des droits des victimes (appelé « autre loi » au présent article).
+
+
+
+Projet de loi C-32
+
+
+
+
+
+
+
+
+
+
+
+
+(2) If subsection 5(1) of the other Act comes into force before subsection 17(1) of this Act, then that subsection 17(1) is repealed.
+
+
+
+
+
+
+
+
+
+(2) Si le paragraphe 5(1) de l’autre loi entre en vigueur avant le paragraphe 17(1) de la présente loi, ce paragraphe 17(1) est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If subsection 17(1) of this Act comes into force before subsection 5(1) of the other Act, then that subsection 5(1) is repealed.
+
+
+
+
+
+
+
+
+
+(3) Si le paragraphe 17(1) de la présente loi entre en vigueur avant le paragraphe 5(1) de l’autre loi, ce paragraphe 5(1) est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) If subsection 5(1) of the other Act comes into force on the same day as subsection 17(1) of this Act, then that subsection 5(1) is deemed to have come into force before that subsection 17(1) and subsection (2) applies as a consequence.
+
+
+
+
+
+
+
+
+
+(4) Si l’entrée en vigueur du paragraphe 5(1) de l’autre loi et celle du paragraphe 17(1) de la présente loi sont concomitantes, ce paragraphe 5(1) est réputé être entré en vigueur avant ce paragraphe 17(1), le paragraphe (2) s’appliquant en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) On the first day on which both subsection 5(2) of the other Act and subsection 17(3) of this Act are in force, then the portion of subsection 278.2(1) of the Criminal Code after paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Dès le premier jour où le paragraphe 5(2) de l’autre loi et le paragraphe 17(3) de la présente loi sont tous deux en vigueur, le passage du paragraphe 278.2(1) du Code criminel suivant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) any offence under this Act, as it read from time to time before the day on which this paragraph comes into force, if the conduct alleged would be an offence referred to in paragraph (a) if it occurred on or after that day.
+
+
+
+
+
+
+
+
+
+b) une infraction prévue par la présente loi, dans toute version antérieure à la date d’entrée en vigueur du présent alinéa, dans le cas où l’acte reproché constituerait une infraction visée à l’alinéa a) s’il était commis à cette date ou par la suite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6) On the first day on which both subsection 18(2) of the other Act and subsection 22(2) of this Act are in force, then the portion of paragraph 486.4(1)(a) of the Criminal Code after subparagraph (i) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(6) Dès le premier jour où le paragraphe 18(2) de l’autre loi et le paragraphe 22(2) de la présente loi sont tous deux en vigueur, le passage de l’alinéa 486.4(1)a) du Code criminel suivant le sous-alinéa (i) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) any offence under this Act, as it read from time to time before the day on which this subparagraph comes into force, if the conduct alleged would be an offence referred to in subparagraph (i) if it occurred on or after that day; or
+
+
+
+
+
+
+
+
+
+(ii) une infraction prévue par la présente loi, dans toute version antérieure à la date d’entrée en vigueur du présent sous-alinéa, dans le cas où l’acte reproché constituerait une infraction visée au sous-alinéa (i) s’il était commis à cette date ou par la suite;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(7) If subsection 18(3) of the other Act comes into force before subsection 22(3) of this Act, then that subsection 22(3) is repealed.
+
+
+
+
+
+
+
+
+
+(7) Si le paragraphe 18(3) de l’autre loi entre en vigueur avant le paragraphe 22(3) de la présente loi, ce paragraphe 22(3) est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(8) If subsection 22(3) of this Act comes into force before subsection 18(3) of the other Act, then that subsection 18(3) is repealed.
+
+
+
+
+
+
+
+
+
+(8) Si le paragraphe 22(3) de la présente loi entre en vigueur avant le paragraphe 18(3) de l’autre loi, ce paragraphe 18(3) est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(9) If subsection 18(3) of the other Act comes into force on the same day as subsection 22(3) of this Act, then that subsection 18(3) is deemed to have come into force before that subsection 22(3) and subsection (7) applies as a consequence.
+
+
+
+
+
+
+
+
+
+(9) Si l’entrée en vigueur du paragraphe 18(3) de l’autre loi et celle du paragraphe 22(3) de la présente loi sont concomitantes, ce paragraphe 18(3) est réputé être entré en vigueur avant ce paragraphe 22(3), le paragraphe (7) s’appliquant en conséquence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(10) If subsection 52(1) of the other Act comes into force before section 34 of this Act, then that section 34 is repealed.
+
+
+
+
+
+
+
+
+
+(10) Si le paragraphe 52(1) de l’autre loi entre en vigueur avant l’article 34 de la présente loi, cet article 34 est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(11) If subsection 52(1) of the other Act comes into force on the same day as section 34 of this Act, then that section 34 is deemed to have come into force before that subsection 52(1).
+
+
+
+
+
+
+
+
+
+(11) Si l’entrée en vigueur du paragraphe 52(1) de l’autre loi et celle de l’article 34 de la présente loi sont concomitantes, l’article 34 de la présente loi est réputé être entré en vigueur avant le paragraphe 52(1) de l’autre loi.
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Thirty days after royal assent
+
+
+
+49. The provisions of this Act, other than sections 46 to 48, come into force 30 days after the day on which this Act receives royal assent.
+
+
+
+
+
+
+
+
+
+49. La présente loi, à l’exception des articles 46 à 48, entre en vigueur trente jours après la date de sa sanction.
+
+
+
+Trente jours après la sanction
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

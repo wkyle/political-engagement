@@ -1,0 +1,1773 @@
+
+
+
+
+
+C-656
+
+
+
+
+
+C-656
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-656
+
+
+
+
+
+PROJET DE LOI C-656
+
+
+
+
+
+
+An Act to amend the Criminal Code and the Corrections and Conditional Release Act (fetal alcohol disorder)
+
+
+
+
+
+Loi modifiant le Code criminel et la Loi sur le système correctionnel et la mise en liberté sous condition (troubles causés par l’alcoolisation foetale)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, March 10, 2015
+
+première lecture le 10 mars 2015
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Casey
+
+412258
+
+
+
+M. Casey
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code to establish a procedure for assessing individuals who are involved in the criminal justice system and who may suffer from a fetal alcohol disorder. It requires the court to consider, as a mitigating factor in sentencing, a determination that the offender suffers from a fetal alcohol disorder.
+The enactment also requires the court to make orders to require individuals who are determined to suffer from a fetal alcohol disorder to follow an external support plan to ensure that they receive the necessary support to facilitate their successful reintegration into society.
+Lastly, it makes consequential amendments to the Corrections and Conditional Release Act.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel afin d’établir une procédure permettant l’évaluation des personnes confrontées au système de justice pénale qui pourraient être atteintes de troubles causés par l’alcoolisation foetale. Il exige du tribunal que celui-ci considère comme circonstance atténuante, pour la détermination de la peine, le fait que le délinquant est atteint de ces troubles.
+Il oblige également le tribunal à ordonner aux personnes atteintes de ces troubles de suivre un plan de soutien externe afin qu’elles reçoivent le soutien dont elles ont besoin pour leur réinsertion sociale.
+Il modifie enfin la Loi sur le système correctionnel et la mise en liberté sous condition en conséquence.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-656
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-656
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code and the Corrections and Conditional Release Act (fetal alcohol disorder)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel et la Loi sur le système correctionnel et la mise en liberté sous condition (troubles causés par l’alcoolisation foetale)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 2 of the Criminal Code is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+1. L’article 2 du Code criminel est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“fetal alcohol disorder”« troubles causés par l’alcoolisation foetale »
+
+
+
+“fetal alcohol disorder” refers to any neurodevelopmental disorder that is associated with prenatal alcohol exposure — the spectrum of these disorders being commonly known as fetal alcohol spectrum disorder (FASD) — and that is characterized by permanent organic brain injury and central nervous system damage that result in a pattern of permanent birth defects, the symptoms of which include
+
+
+
+
+
+
+
+
+(a) impaired mental functioning,
+
+
+
+
+
+
+
+
+(b) poor executive functioning,
+
+
+
+
+
+
+
+
+(c) memory problems,
+
+
+
+
+
+
+
+
+(d) impaired judgment,
+
+
+
+
+
+
+
+
+(e) impaired ability to control impulse behaviour, and
+
+
+
+
+
+
+
+
+(f) impaired ability to understand the consequences of one’s actions;
+
+
+
+
+
+
+
+
+
+« troubles causés par l’alcoolisation foetale » Troubles neurologiques du développement liés à l’exposition prénatale à l’alcool — souvent regroupés sous l'appellation « ensemble des troubles causés par l'alcoolisation foetale » (ETCAF) — qui se caractérisent par des lésions organiques permanentes au cerveau et des dommages au système nerveux central ayant pour conséquence des déficiences congénitales permanentes se manifestant chez un individu notamment par les symptômes suivants :
+
+
+
+« troubles causés par l’alcoolisation foetale »“fetal alcohol disorder”
+
+
+
+
+a) troubles du fonctionnement intellectuel;
+
+
+
+
+
+
+
+
+b) fonctions exécutives faibles;
+
+
+
+
+
+
+
+
+c) troubles de la mémoire;
+
+
+
+
+
+
+
+
+d) jugement affaibli;
+
+
+
+
+
+
+
+
+e) capacité réduite de maîtriser son impulsivité;
+
+
+
+
+
+
+
+
+f) capacité réduite de comprendre les conséquences de ses actions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after section 672:
+
+
+
+
+
+
+
+
+
+2. La même loi est modifiée par adjonction, après l’article 672, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+PART XX.01
+
+
+
+
+
+
+
+
+
+PARTIE XX.01
+
+
+
+
+
+
+
+
+
+
+
+
+FETAL ALCOHOL DISORDER
+
+
+
+
+
+
+
+
+
+TROUBLES CAUSÉS PAR L’ALCOOLISATION FOETALE
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+
+
+
+
+
+
+Définitions
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+672.01 The following definitions apply in this Part.
+
+
+
+
+“accused”« accusé »
+
+
+
+“accused” includes a defendant in summary conviction proceedings and an accused in respect of whom a verdict of not criminally responsible on account of mental disorder has been rendered.
+
+
+
+
+“assessment”« évaluation »
+
+
+
+“assessment” means a fetal alcohol disorder assessment.
+
+
+
+
+“court”« tribunal »
+
+
+
+“court” includes a summary conviction court as defined in section 785, a judge, a justice and a judge of the court of appeal as defined in section 673.
+
+
+
+
+“qualified person”« personne compétente »
+
+
+
+“qualified person” means a person duly qualified by provincial law to practice medicine or psychiatry or to carry out psychological examinations or assessments, as the circumstances require, or, if no such law exists, a person who is, in the opinion of the court, so qualified, and includes a person or a member of a class of persons designated by the lieutenant governor in council of a province or his or her delegate.
+
+
+
+
+
+
+
+
+
+672.01 Les définitions qui suivent s’appliquent à la présente partie.
+
+
+
+Définitions
+
+
+
+
+« accusé » S’entend notamment d’un défendeur dans des poursuites par voie de procédure sommaire et d’un accusé à l’égard duquel un verdict de non-responsabilité criminelle pour cause de troubles mentaux a été rendu.
+
+
+
+« accusé »“accused”
+
+
+
+
+« évaluation » Évaluation destinée à établir s'il y a présence de troubles causés par l’alcoolisation foetale.
+
+
+
+« évaluation »“assessment”
+
+
+
+
+« personne compétente » Personne qui remplit les conditions requises par la législation d’une province pour pratiquer la médecine ou la psychiatrie, ou pour accomplir des examens ou évaluations psychologiques, selon le cas, ou, en l’absence d’une telle législation, la personne que le tribunal estime compétente en la matière. Est en outre une personne compétente celle qui est désignée comme telle, à titre individuel ou au titre de son appartenance à une catégorie, par le lieutenant-gouverneur en conseil d’une province ou son délégué.
+
+
+
+« personne compétente »“qualified person”
+
+
+
+
+« tribunal » S’entend notamment d’une cour des poursuites sommaires au sens de l’article 785, d’un juge, d’un juge de paix et d’un juge de la cour d’appel au sens de l’article 673. 
+
+
+
+« tribunal »“court”
+
+
+
+
+
+
+
+
+
+
+Assessment Order
+
+
+
+
+
+
+
+
+
+Ordonnance d'évaluation
+
+
+
+
+
+
+
+
+
+
+
+
+Fetal alcohol disorder assessment
+
+
+
+672.02 (1) A court may, at any stage of proceedings against an accused, by order require that the accused be assessed by a qualified person, alone or with the input of other qualified persons, to determine whether the accused suffers from a fetal alcohol disorder and, if so, to indicate the relative severity of the disorder. The assessment may be ordered
+
+
+
+
+
+
+
+
+(a) on application of the accused;
+
+
+
+
+
+
+
+
+(b) on application of the prosecutor if the accused raised the issue of a possible fetal alcohol disorder or if the prosecutor satisfies the court that there are reasonable grounds to believe that the accused suffers from a fetal alcohol disorder; or
+
+
+
+
+
+
+
+
+(c) by the court on its own motion, if the court believes a medical, psychological or psychiatric assessment in respect of the accused is necessary for a purpose mentioned in paragraphs (2)(a) to (d) and the court has reasonable grounds to believe that the accused may be suffering from a fetal alcohol disorder.
+
+
+
+
+
+
+
+
+
+672.02 (1) Le tribunal peut, à toute étape des procédures dirigées contre l'accusé, exiger par ordonnance que l’accusé soit évalué par une personne compétente, seule ou en collaboration avec d’autres personnes compétentes, en vue de déterminer si celui-ci est atteint de troubles causés par l’alcoolisation foetale et, le cas échéant, d’en préciser le degré de gravité. L’évaluation peut être ordonnée : 
+
+
+
+Évaluation — troubles causés par l’alcoolisation foetale
+
+
+
+
+a) soit à la demande de l’accusé;
+
+
+
+
+
+
+
+
+b) soit à la demande du poursuivant si l’accusé a soulevé la question d'un éventuel trouble causé par l'alcoolisation foetale ou si le poursuivant démontre au tribunal qu’il existe des motifs raisonnables de croire que l’accusé est atteint de troubles causés par l’alcoolisation foetale;
+
+
+
+
+
+
+
+
+c) soit d’office, si le tribunal estime qu’une évaluation médicale, psychologique ou psychiatrique concernant l’accusé est nécessaire à l’une des fins visées aux alinéas (2)a) à d) et qu’il a des motifs raisonnables de croire que l’accusé pourrait être atteint de troubles causés par l’alcoolisation foetale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose of assessment
+
+
+
+(2) A court may make an order under subsection (1) in respect of an accused for the purpose of
+
+
+
+
+
+
+
+
+(a) considering an application under section 515 (judicial interim release);
+
+
+
+
+
+
+
+
+(b) making or reviewing a sentence;
+
+
+
+
+
+
+
+
+(c) setting conditions under subsection 105(1) of the Youth Criminal Justice Act (conditional supervision); or
+
+
+
+
+
+
+
+
+(d) making an order under subsection 109(2) of the Youth Criminal Justice Act (conditional supervision).
+
+
+
+
+
+
+
+
+
+(2) Le tribunal peut rendre l’ordonnance visée au paragraphe (1) à l’égard de l’accusé afin, selon le cas :
+
+
+
+Buts de l’évaluation
+
+
+
+
+a) d’examiner une demande présentée en vertu de l’article 515 (mise en liberté provisoire par voie judiciaire);
+
+
+
+
+
+
+
+
+b) d’infliger ou de réviser une peine;
+
+
+
+
+
+
+
+
+c) de prévoir les conditions visées au paragraphe 105(1) de la Loi sur le système de justice pénale pour les adolescents (liberté sous condition);
+
+
+
+
+
+
+
+
+d) de rendre l’ordonnance visée au paragraphe 109(2) de la Loi sur le système de justice pénale pour les adolescents (liberté sous condition).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Expeditious assessment
+
+
+
+(3) A qualified person shall conduct the assessment as soon as practicable and report the results of the assessment in writing to the court.
+
+
+
+
+
+
+
+
+
+(3) La personne compétente procède dès que possible à l’évaluation et présente au tribunal un rapport écrit des résultats de celle-ci.
+
+
+
+Célérité
+
+
+
+
+
+
+
+
+
+
+Copies of reports to accused and prosecutor
+
+
+
+(4) Copies of any report filed with the court shall be provided without delay to the prosecutor, the accused and any counsel representing the accused.
+
+
+
+
+
+
+
+
+
+(4) Des copies du rapport déposé auprès du tribunal sont envoyées sans délai au poursuivant, à l’accusé et à l’avocat qui le représente.
+
+
+
+Copies à l’accusé et au poursuivant
+
+
+
+
+
+
+
+
+
+
+Evidence may be presumed
+
+
+
+672.03 If the court is satisfied that there is good reason the evidence of alcohol consumption by the mother of the accused while she was pregnant with him or her is not available, such as in circumstances in which the mother has died or cannot be identified or found, the cause of the disorder of the accused may be presumed to be the maternal consumption of alcohol.
+
+
+
+
+
+
+
+
+
+672.03 Si le tribunal est convaincu qu’il y a une raison valable pour laquelle il est impossible de prouver la consommation d’alcool par la mère de l'accusé durant la grossesse, notamment dans les cas où la mère est décédée ou inconnue ou ne peut être localisée, il peut être présumé que les troubles de l'accusé résultent de la consommation d’alcool par la mère.
+
+
+
+Preuve présumée
+
+
+
+
+
+
+
+
+
+
+Custody for assessment
+
+
+
+672.04 (1) Subject to subsection (2) and section 672.05, a court may, for the purpose of an assessment under section 672.02, remand an accused to any custody that it directs for a period not exceeding 30 days.
+
+
+
+
+
+
+
+
+
+672.04 (1) Sous réserve du paragraphe (2) et de l’article 672.05, le tribunal peut, pour les besoins de l’évaluation visée à l'article 672.02, renvoyer l’accusé sous garde pour une période maximale de trente jours.
+
+
+
+Garde aux fins d'évaluation
+
+
+
+
+
+
+
+
+
+
+Grounds for remanding
+
+
+
+(2) An accused shall not be remanded in custody in accordance with an order made under subsection (1) unless
+
+
+
+
+
+
+
+
+(a) the court is satisfied that on the evidence custody is necessary to conduct an assessment of the accused; or
+
+
+
+
+
+
+
+
+(b) the accused is required to be detained in custody in respect of any other matter or by virtue of any provision of this Act.
+
+
+
+
+
+
+
+
+
+(2) L'accusé ne peut être renvoyé sous garde en conformité avec une ordonnance visée au paragraphe (1) que dans les cas suivants :
+
+
+
+Motifs du renvoi
+
+
+
+
+a) le tribunal est convaincu que, compte tenu des éléments de preuve présentés, la détention de l’accusé est nécessaire pour mener l'évaluation;
+
+
+
+
+
+
+
+
+b) l’accusé doit être détenu pour une autre raison ou en vertu d’une autre disposition de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report of qualified person in writing
+
+
+
+(3) For the purposes of paragraph (2)(a), if the prosecutor and the accused agree, evidence of a qualified person may be received in the form of a report in writing.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application de l’alinéa (2)a), le témoignage de la personne compétente peut, si le poursuivant et l’accusé y consentent, être présenté sous la forme d’un rapport écrit.
+
+
+
+Rapport écrit
+
+
+
+
+
+
+
+
+
+
+Application to vary assessment order
+
+
+
+672.05 At any time while an order made under subsection 672.02(1) is in force, a court may, on cause being shown, vary the terms and conditions specified in the order in any manner that the court considers appropriate in the circumstances.
+
+
+
+
+
+
+
+
+
+672.05 Lorsque la nécessité lui en est démontrée, le tribunal peut, pendant que l’ordonnance rendue en vertu du paragraphe 672.02(1) est en cours de validité, modifier les modalités de celle-ci de la façon qu’il juge indiquée dans les circonstances. 
+
+
+
+Demande de modification de l'ordonnance
+
+
+
+
+
+
+
+
+
+
+Assessment not ordered by court
+
+
+
+672.06 An assessment made by a qualified person as to whether an accused suffers from a fetal alcohol disorder may be admitted as evidence for a purpose set out in paragraphs 672.02(2)(a) to (d) even if the assessment was not made as a result of an order by the court under subsection 672.02(1).
+
+
+
+
+
+
+
+
+
+672.06 L’évaluation faite par une personne compétente afin d’établir si l’accusé est atteint de troubles causés par l’alcoolisation foetale peut être admise en preuve aux fins visées aux alinéas 672.02(2)a) à d), même si elle n’a pas été faite par suite d’une ordonnance rendue en vertu du paragraphe 672.02(1).
+
+
+
+Évaluation non ordonnée par le tribunal
+
+
+
+
+
+
+
+
+
+
+Report to be part of record
+
+
+
+672.07 A report made following an assessment ordered under subsection 672.02(1) or an assessment admitted as evidence under section 672.06 forms part of the record of the case in respect of which it was ordered or admitted.
+
+
+
+
+
+
+
+
+
+672.07 Le rapport de l’évaluation menée en vertu du paragraphe 672.02(1) ou l’évaluation admise en preuve au titre de l’article 672.06 sont versés au dossier de l’affaire pour laquelle l’évaluation a été ordonnée ou admise en preuve.
+
+
+
+Inclusion du rapport dans le dossier
+
+
+
+
+
+
+
+
+
+
+Disclosure by qualified person
+
+
+
+672.08 Despite any other provision of this Act, a qualified person who is of the opinion that an accused held in detention or remanded to custody is likely to endanger his or her own life or safety or to endanger the life of, or cause bodily harm to, another person may immediately so advise any person who has the care and custody of the accused whether or not the same information is contained in a report made following an assessment under subsection 672.02(1).
+
+
+
+
+
+
+
+
+
+672.08 Malgré les autres dispositions de la présente loi, la personne compétente, si elle estime que l’accusé en détention ou renvoyé sous garde est susceptible d’attenter à sa vie ou à sa sécurité ou d’attenter à la vie d’un tiers ou de lui causer des lésions corporelles, peut en aviser toute personne qui assume les soins et la garde de celui-ci, que ce renseignement figure ou non au rapport de l’évaluation menée en vertu du paragraphe 672.02(1).
+
+
+
+Communication de renseignements par la personne compétente
+
+
+
+
+
+
+
+
+
+
+Period order is in force
+
+
+
+672.09 (1) An assessment order made under subsection 672.02(1) shall not be in force for more than 30 days, unless a court is satisfied that compelling circumstances exist that warrant a longer period.
+
+
+
+
+
+
+
+
+
+672.09 (1) Une ordonnance d’évaluation rendue en vertu du paragraphe 672.02(1) ne peut être en vigueur durant plus de trente jours, sauf si le tribunal est convaincu que des circonstances exceptionnelles exigent une période de validité plus longue.
+
+
+
+Période de validité
+
+
+
+
+
+
+
+
+
+
+Extension
+
+
+
+(2) Subject to subsection (3), a court may extend an assessment order, on its own motion or on the application of the accused or the prosecutor made during or at the end of the period during which the order is in force, for any further period that is required, in its opinion, to complete the assessment of the accused.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve du paragraphe (3), le tribunal peut, d’office ou à la demande de l’accusé ou du poursuivant présentée pendant que l’ordonnance est en cours de validité ou à la fin de sa période de validité, prolonger l’ordonnance d'évaluation pour la période qu’il juge nécessaire pour que soit menée à terme l’évaluation de l’accusé.
+
+
+
+Prolongation
+
+
+
+
+
+
+
+
+
+
+Maximum duration of extension
+
+
+
+(3) No extension of an assessment order shall exceed 30 days, and the period of the initial order together with all extensions shall not exceed 60 days.
+
+
+
+
+
+
+
+
+
+(3) Une prolongation de l’ordonnance d'évaluation ne peut dépasser trente jours et l’ensemble de l’ordonnance et de ses prolongations, soixante jours.
+
+
+
+Durée maximale des prolongations
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after section 718.2:
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l’article 718.2, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Presumption
+
+
+
+718.201 Evidence that an offender suffers from a fetal alcohol disorder shall be deemed to be a mitigating factor if the disorder impairs the offender’s ability
+
+
+
+
+
+
+
+
+(a) to make judgments;
+
+
+
+
+
+
+
+
+(b) to foresee and understand the consequences or risks of his or her actions; or
+
+
+
+
+
+
+
+
+(c) to control impulse behaviour.
+
+
+
+
+
+
+
+
+
+718.201 Le fait que le délinquant est atteint de troubles causés par l’alcoolisation foetale est considéré comme une circonstance atténuante si ces troubles portent atteinte à sa capacité, selon le cas :
+
+
+
+Présomption
+
+
+
+
+a) d’exercer un bon jugement;
+
+
+
+
+
+
+
+
+b) de prévoir ou de comprendre les conséquences de ses actions ou les risques qu’elles posent;
+
+
+
+
+
+
+
+
+c) de maîtriser son impulsivité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 731 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+4. L’article 731 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+External support plan
+
+
+
+(3) Where an offender has been determined to suffer from a fetal alcohol disorder following an assessment referred to in section 672.02, the court shall prescribe, as a condition of the probation order, that the offender comply with an external support plan established for him or her by a probation officer that includes any components that the probation officer considers necessary to ensure that the offender has the necessary support to facilitate his or her successful reintegration into society.
+
+
+
+
+
+
+
+
+
+(3) Dans le cas d’un délinquant déclaré atteint de troubles causés par l’alcoolisation foetale au terme d’une évaluation visée à l’article 672.02, le tribunal ajoute aux conditions de l’ordonnance de probation l’obligation pour le délinquant de se conformer à un plan de soutien externe établi pour lui par un agent de probation et comportant les éléments que ce dernier estime nécessaires pour favoriser la réussite de la réinsertion sociale du délinquant.
+
+
+
+Plan de soutien externe
+
+
+
+
+
+
+
+
+1992, c. 20
+
+
+
+CORRECTIONS AND CONDITIONAL RELEASE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE SYSTÈME CORRECTIONNEL ET LA MISE EN LIBERTÉ SOUS CONDITION
+
+
+
+1992, ch. 20
+
+
+
+
+
+
+
+
+
+
+
+
+5. Subsection 2(1) of the Corrections and Conditional Release Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 2(1) de la Loi sur le système correctionnel et la mise en liberté sous condition est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“fetal alcohol disorder”« troubles causés par l’alcoolisation foetale »
+
+
+
+“fetal alcohol disorder” has the same meaning as in section 2 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+« troubles causés par l’alcoolisation foetale » S’entend au sens de l’article 2 du Code criminel.
+
+
+
+« troubles causés par l’alcoolisation foetale »“fetal alcohol disorder”
+
+
+
+
+
+
+
+
+
+
+
+
+6. Paragraph 4(g) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+6. L’alinéa 4g) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(g) correctional policies, programs and practices respect gender, ethnic, cultural and linguistic differences and are responsive to the special needs of women, aboriginal peoples, persons requiring mental health care, persons suffering from a fetal alcohol disorder or other disability and other groups;
+
+
+
+
+
+
+
+
+
+g) ses directives d’orientation générale, programmes et pratiques respectent les différences ethniques, culturelles et linguistiques, ainsi qu’entre les sexes, et tiennent compte des besoins propres aux femmes, aux autochtones, aux personnes nécessitant des soins de santé mentale, aux personnes atteintes de troubles causés par l’alcoolisation foetale ou d'une autre déficience  et à d’autres groupes;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Section 77 of the Act is renumbered as subsection 77(1) and is amended by adding the following: 
+
+
+
+
+
+
+
+
+
+7. L’article 77 de la même loi devient le paragraphe 77(1) et est modifié par adjonction de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Other programs 
+
+
+
+(2) The Service shall also provide programs designed particularly to address the special requirements or limitations of persons requiring mental health care and persons suffering from a fetal alcohol disorder. 
+
+
+
+
+
+
+
+
+
+(2) Il doit également fournir des programmes adaptés aux besoins particuliers ou aux limitations des personnes nécessitant des soins de santé mentale et de celles atteintes de troubles causés par l’alcoolisation foetale. 
+
+
+
+Autres programmes
+
+
+
+
+
+
+
+
+
+
+
+
+8. Subsection 151(3) of the Act is replaced by the following: 
+
+
+
+
+
+
+
+
+
+8. Le paragraphe 151(3) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Respect for diversity
+
+
+
+(3) Policies adopted under paragraph (2)(a) must respect gender, ethnic, cultural and linguistic differences and be responsive to the special needs of women and aboriginal peoples, as well as to the needs of other groups of offenders with special requirements or limitations, including persons requiring mental health
+
+
+
+
+
+
+
+
+care and persons suffering from a fetal alcohol disorder.
+
+
+
+
+
+
+
+
+
+(3) Les directives établies en vertu du paragraphe (2) doivent respecter les différences ethniques, culturelles et linguistiques, ainsi qu’entre les sexes, et tenir compte des besoins propres aux femmes, aux autochtones et à d’autres groupes ayant des besoins particuliers ou  des limitations,  notamment les personnes
+
+
+
+Directives égalitaires
+
+
+
+
+nécessitant des soins de santé mentale et celles atteintes de troubles causés par l’alcoolisation foetale.
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

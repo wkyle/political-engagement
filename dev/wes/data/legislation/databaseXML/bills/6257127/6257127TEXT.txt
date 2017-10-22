@@ -1,0 +1,1085 @@
+
+
+
+
+
+
+S-202
+
+
+
+
+
+S-202
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-202
+
+
+
+
+
+PROJET DE LOI S-202
+
+
+
+
+
+
+An Act to amend the Payment Card Networks Act (credit card acceptance fees)
+
+
+
+
+
+Loi modifiant la Loi sur les réseaux de cartes de paiement (frais d’acceptation d’une carte de crédit)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, October 17, 2013
+
+
+
+
+
+première lecture le 17 octobre 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR RINGUETTE
+
+0915
+
+
+
+L’HONORABLE SÉNATRICE RINGUETTE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Payment Card Networks Act in order to limit the fees that the participants in a designated payment card network require from merchants who accept payments by credit card. The payment card networks operated in Canada by Visa and MasterCard are designated. The Minister of Finance may vary the fee limits and is responsible for supervising the compliance of the participants. The Minister may seek an order of a court to enforce compliance.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur les réseaux de cartes de paiement pour imposer des limites aux frais que les participants à un réseau de cartes de paiement désigné exigent des commerçants qui acceptent les paiements par carte de crédit. Les réseaux de cartes de paiement exploités au Canada par Visa et MasterCard sont désignés. Le ministre des Finances peut modifier les limites et est chargé de veiller à ce que les participants s’y conforment. Il peut s’adresser aux tribunaux pour en contrôler l’application.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+
+
+
+62 Elizabeth II, 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-202
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-202
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Payment Card Networks Act (credit card acceptance fees)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les réseaux de cartes de paiement (frais d’acceptation d’une carte de crédit)
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 12, s. 1834
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+2010, ch. 12, art. 1834
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 3 of the Payment Card Networks Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+
+1. L’article 3 de la Loi sur les réseaux de cartes de paiement est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“credit card acceptance fees”« frais d’acceptation d’une carte de crédit »
+
+
+
+
+“credit card acceptance fees” means the fees that a merchant incurs for accepting a payment by credit card; such fees include the interchange fee and any other fees related to the transmission or processing of the payment transaction.
+
+
+
+
+
+“designated payment card network”« réseau de cartes de paiement désigné »
+
+
+
+
+“designated payment card network” means a payment card network designated under section 9.
+
+
+
+
+
+“interchange fee”« commission interbancaire »
+
+
+
+
+“interchange fee” means the fee retained by the issuer of a credit card on a payment transaction made by the cardholder.
+
+
+
+
+
+
+
+
+
+
+
+« commission interbancaire » La commission prélevée par l’émetteur d’une carte de crédit sur une opération de paiement effectuée par le titulaire de la carte.
+
+
+
+
+« commission interbancaire »“interchange fee”
+
+
+
+
+
+« frais d’acceptation d’une carte de crédit » Les frais que le commerçant supporte pour l’acceptation d’un paiement par carte de crédit; sont compris parmi ces frais la commission interbancaire et les autres frais afférents à la transmission et au traitement de l’opération de paiement.
+
+
+
+
+« frais d’acceptation d’une carte de crédit »“credit card acceptance fees”
+
+
+
+
+
+« réseau de cartes de paiement désigné » Réseau de cartes de paiement désigné en vertu de l’article 9.
+
+
+
+
+« réseau de cartes de paiement désigné »“designated payment card network”
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after section 8:
+
+
+
+
+
+
+
+
+
+
+2. La même loi est modifiée par adjonction, après l’article 8, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DESIGNATED PAYMENT CARD NETWORKS
+
+
+
+
+
+
+
+
+
+
+
+RÉSEAUX DE CARTES DE PAIEMENT DÉSIGNÉS
+
+
+
+
+
+
+
+
+
+
+
+
+
+Designation
+
+
+
+
+
+9. The payment card networks operated in Canada by Visa Canada Corporation and MasterCard International Incorporated are hereby designated.
+
+
+
+
+
+
+
+
+
+
+
+
+9. Les réseaux de cartes de paiement exploités au Canada par les sociétés Visa Canada Corporation et MasterCard International Incorporated sont désignés.
+
+
+
+
+Désignation
+
+
+
+
+
+
+
+
+
+
+Credit card acceptance fees
+
+
+
+
+
+10. (1) The following tariff of credit card acceptance fees applies to credit card transactions made through a designated payment card network
+
+
+
+
+
+
+
+
+
+
+
+
+(a) charities: no credit card acceptance fees;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) government institutions: 0.3% of the transaction value; and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) users other than those referred to in paragraphs (a) and (b): 0.5% of the transaction value.
+
+
+
+
+
+
+
+
+
+
+
+
+10. (1) Le tarif des frais d’acceptation d’une carte de crédit ci-après s’applique aux opérations par carte de crédit effectuées dans le cadre d’un réseau de cartes de paiement désigné :
+
+
+
+
+Frais d’acceptation d’une carte de crédit
+
+
+
+
+
+
+a) les organismes de charité : aucun frais d’acceptation d’une carte de crédit;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) les institutions gouvernementales : 0,3 % de la valeur de l’opération;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) les utilisateurs autres que ceux visés aux alinéas a) et b) : 0,5 % de la valeur de l’opération.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+
+(2) The tariff of credit card acceptance fees established by subsection (1) applies from the first day of the calendar year immediately following the coming into force of this section.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le tarif des frais d’acceptation d’une carte de crédit fixé par le paragraphe (1) s’applique à compter du premier jour de l’année civile suivant celle de l’entrée en vigueur du présent article.
+
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+
+
+
+Amendments to the tariff
+
+
+
+
+
+11. (1) The Minister may, by order, amend the tariff of credit card acceptance fees established by section 10.
+
+
+
+
+
+
+
+
+
+
+
+
+11. (1) Le ministre peut, par arrêté, modifier le tarif des frais d’acceptation d’une carte de crédit fixé par l’article 10.
+
+
+
+
+Modifications du tarif
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+
+(2) The amended tariff of credit card acceptance fees applies from the first day of a calendar year following the calendar year referred to in subsection 10(2).
+
+
+
+
+
+
+
+
+
+
+
+(2) Le tarif des frais d’acceptation d’une carte de crédit modifié s’applique à compter du premier jour d’une année civile postérieure à celle visée au paragraphe 10(2). 
+
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+
+
+
+Limit
+
+
+
+
+
+12. The credit card acceptance fees imposed on a merchant for its credit card transactions made through a designated payment card network may not exceed the amount of the credit card acceptance fees set out in subsection 10(1) or under subsection 11(1) for each category of users described in subsection 10(1).
+
+
+
+
+
+
+
+
+
+
+
+
+12. Les frais d’acceptation d’une carte de crédit imposés au commerçant pour ses opérations par carte de crédit effectuées dans le cadre d’un réseau de cartes de paiement désigné ne peuvent dépasser le montant des frais d’acceptation d’une carte de crédit fixé au paragraphe 10(1) ou en vertu du paragraphe 11(1) pour chaque catégorie d’utilisateurs visée au paragraphe 10(1).
+
+
+
+
+Limite
+
+
+
+
+
+
+
+
+
+
+Supervision
+
+
+
+
+
+13. (1) The Minister is responsible for supervising designated payment card networks to determine whether they are in compliance with the tariff of credit card acceptance fees established under this Act.
+
+
+
+
+
+
+
+
+
+
+
+
+13. (1) Il incombe au ministre de superviser les réseaux de cartes de paiement désignés pour veiller à ce qu’ils se conforment au tarif des frais d’acceptation d’une carte de crédit fixé en vertu de la présente loi.
+
+
+
+
+Supervision
+
+
+
+
+
+
+
+
+
+
+Examination and inquiry
+
+
+
+
+(2) The Minister must, from time to time but at least once in each year, make any examination and inquiry that the Minister considers necessary to determine whether the tariff of credit card acceptance fees established under this Act is being complied with by the entities participating in the designated payment card networks.
+
+
+
+
+
+
+
+
+
+
+
+(2) Afin de veiller à ce que les entités participant aux réseaux de cartes de paiement désignés se conforment au tarif des frais d’acceptation d’une carte de crédit fixé en vertu de la présente loi, le ministre procède, au moins une fois par année, à un examen et à une enquête.
+
+
+
+
+Examen et enquête
+
+
+
+
+
+
+
+
+
+
+Access to records
+
+
+
+
+(3) For the purposes of this section, the Minister
+
+
+
+
+
+
+
+
+
+
+
+
+(a) has a right of access to any records, including electronic records, of an entity participating in a designated payment card network; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) may require an entity participating in a designated payment card network to provide information and explanations, to the extent that the entity is reasonably able to do so.
+
+
+
+
+
+
+
+
+
+
+
+(3) Pour l’application du présent article, le ministre :
+
+
+
+
+Accès aux renseignements
+
+
+
+
+
+
+a) a accès aux documents, notamment sous forme électronique, de toute entité participant à un réseau de cartes de paiement désigné;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) peut exiger de l’entité qu’elle lui fournisse, dans la mesure du possible, les renseignements et éclaircissements qu’il réclame.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Required information
+
+
+
+
+(4) An entity participating in a designated payment card network must provide the Minister with any information that the Minister may require for the purposes of this section.
+
+
+
+
+
+
+
+
+
+
+
+(4) Toute entité participant à un réseau de cartes de paiement désigné est tenue de fournir au ministre tout renseignement que celui-ci peut exiger pour l’application du présent article.
+
+
+
+
+Renseignements à fournir
+
+
+
+
+
+
+
+
+
+
+Compliance orders
+
+
+
+
+
+14. If an entity participating in a designated payment card network fails to comply with the tariff of credit card acceptance fees established under this Act, the Minister may apply to a superior court for an order directing the entity to comply with the tariff and, on the application, the court may so order and make any further order it thinks fit.
+
+
+
+
+
+
+
+
+
+
+
+
+14. Le ministre peut, après constatation du défaut, demander à une cour supérieure d’enjoindre à une entité participant à un réseau de cartes de paiement désigné de se conformer au tarif des frais d’acceptation d’une carte de crédit fixé en vertu de la présente loi. Le tribunal peut agréer à la demande et rendre toute autre ordonnance qu’il juge indiquée.
+
+
+
+
+Ordonnance judiciaire
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Payment Card Networks Act
+
+Clause 1: New.
+
+
+
+Loi sur les réseaux de cartes de paiement
+
+Article 1 : Nouveau.
+
+
+
+
+
+Clause 2: New.
+
+
+
+
+Article  2 : Nouveau.
+
+
+
+
+
+

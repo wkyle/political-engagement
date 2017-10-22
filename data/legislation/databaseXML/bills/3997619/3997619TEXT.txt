@@ -1,0 +1,10495 @@
+
+
+
+
+
+
+C-47
+
+
+
+
+
+C-47
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-47
+
+
+
+
+
+PROJET DE LOI C-47
+
+
+
+
+
+
+An Act regulating telecommunications facilities to support investigations
+
+
+
+
+
+Loi régissant les installations de télécommunication aux fins de soutien aux enquêtes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 18, 2009
+
+
+
+
+
+première lecture le 18 juin 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF PUBLIC SAFETY
+
+90523
+
+
+
+MINISTRE DE LA SÉCURITÉ PUBLIQUE
+
+
+
+
+
+
+
+
+
+
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act regulating telecommunications facilities to support investigations”.
+SUMMARY
+This enactment requires telecommunications service providers to put in place and maintain certain capabilities that facilitate the lawful interception of information transmitted by telecommunications and to provide basic information about their subscribers to the Royal Canadian Mounted Police, the Canadian Security Intelligence Service, the Commissioner of Competition and any police service constituted under the laws of a province.
+
+
+
+RECOMMANDATION
+Son Excellence la gouverneure générale recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi régissant les installations de télécommunication aux fins de soutien aux enquêtes ».
+SOMMAIRE
+Le texte exige des télécommunicateurs qu’ils disposent des moyens nécessaires pour faciliter l’interception licite de l’information transmise par télécommunication et qu’ils fournissent des renseignements de base sur leurs abonnés à la Gendarmerie royale du Canada, au Service canadien du renseignement de sécurité, au commissaire de la concurrence ou à tout service de police constitué sous le régime d’une loi provinciale.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+
+
+TABLE OF PROVISIONS
+
+
+
+TABLE ANALYTIQUE
+
+
+
+
+AN ACT REGULATING TELECOMMUNICATIONS FACILITIES TO SUPPORT INVESTIGATIONS
+
+
+
+LOI RÉGISSANT LES INSTALLATIONS DE TÉLÉCOMMUNICATION AUX FINS DE SOUTIEN AUX ENQUÊTES
+
+
+
+
+SHORT TITLE
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+1.       Technical Assistance for Law Enforcement in the 21st Century Act
+
+
+
+
+
+
+
+
+
+1.       Loi sur l’assistance au contrôle d’application des lois au 21e siècle
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+DÉFINITIONS ET INTERPRÉTATION
+
+
+
+
+
+
+
+2.       Definitions
+
+
+
+
+
+
+
+
+
+2.       Définitions
+
+
+
+
+
+
+
+PURPOSE
+
+
+
+OBJET DE LA LOI
+
+
+
+
+
+
+
+3.       Purpose
+
+
+
+
+
+
+
+
+
+3.       Objet
+
+
+
+
+
+
+
+HER MAJESTY
+
+
+
+SA MAJESTÉ
+
+
+
+
+
+
+
+4.       Act binding on Her Majesty
+
+
+
+
+
+
+
+
+
+4.       Obligation de Sa Majesté
+
+
+
+
+
+
+
+APPLICATION
+
+
+
+CHAMP D’APPLICATION
+
+
+
+
+
+
+
+5.       Exclusions — Schedule 1
+
+
+
+
+
+
+
+
+
+5.       Non-application — annexe 1
+
+
+
+
+
+
+
+OBLIGATIONS
+
+
+
+OBLIGATIONS
+
+
+
+
+Obligations Concerning Interceptions
+
+
+
+Obligations concernant les interceptions
+
+
+
+
+
+
+
+6.       Obligation to have capabilities
+
+
+
+
+
+
+
+
+
+6.       Obligations relatives aux mesures de facilitation
+
+
+
+
+
+
+
+
+
+
+7.       Operational requirements for transmission apparatus
+
+
+
+
+
+
+
+
+
+7.       Exigences opérationnelles liées aux appareils de transmission
+
+
+
+
+
+
+
+
+
+
+8.       No degradation of capabilities
+
+
+
+
+
+
+
+
+
+8.       Maintien de la conformité aux exigences opérationnelles
+
+
+
+
+
+
+
+
+
+
+9.       Maintaining capabilities in respect of new services
+
+
+
+
+
+
+
+
+
+9.       Maintien de la capacité à l’égard des nouveaux services
+
+
+
+
+
+
+
+
+
+
+10.       Beginning to operate transmission apparatus
+
+
+
+
+
+
+
+
+
+10.       Exploitation d’appareils de transmission
+
+
+
+
+
+
+
+
+
+
+11.       New software
+
+
+
+
+
+
+
+
+
+11.       Installation d’un nouveau logiciel
+
+
+
+
+
+
+
+
+
+
+12.       Global limit
+
+
+
+
+
+
+
+
+
+12.       Limite globale
+
+
+
+
+
+
+
+
+
+
+13.       Order suspending obligations
+
+
+
+
+
+
+
+
+
+13.       Demande de suspension d’obligation
+
+
+
+
+
+
+
+
+
+
+14.       Ministerial orders
+
+
+
+
+
+
+
+
+
+14.       Arrêté
+
+
+
+
+
+
+
+
+
+
+15.       Statutory Instruments Act does not apply
+
+
+
+
+
+
+
+
+
+15.       Non-application de la Loi sur les textes réglementaires
+
+
+
+
+
+
+
+Obligations Concerning Subscriber Information
+
+
+
+Obligations concernant les renseignements sur les abonnés
+
+
+
+
+
+
+
+16.       Provision of subscriber information
+
+
+
+
+
+
+
+
+
+16.       Accès aux renseignements sur les abonnés
+
+
+
+
+
+
+
+
+
+
+17.       Exceptional circumstances
+
+
+
+
+
+
+
+
+
+17.       Circonstances exceptionnelles
+
+
+
+
+
+
+
+
+
+
+18.       Creation of record by designated person
+
+
+
+
+
+
+
+
+
+18.       Création d’un registre — personne désignée
+
+
+
+
+
+
+
+
+
+
+19.       Use of information
+
+
+
+
+
+
+
+
+
+19.       Usage des renseignements recueillis
+
+
+
+
+
+
+
+
+
+
+20.       Internal audit
+
+
+
+
+
+
+
+
+
+20.       Vérification interne
+
+
+
+
+
+
+
+
+
+
+21.       Entitlement to fee
+
+
+
+
+
+
+
+
+
+21.       Droits
+
+
+
+
+
+
+
+
+
+
+22.       Preservation of existing authority
+
+
+
+
+
+
+
+
+
+22.       Précision
+
+
+
+
+
+
+
+
+
+
+23.       Deemed nature of information
+
+
+
+
+
+
+
+
+
+23.       Dérogation
+
+
+
+
+
+
+
+Miscellaneous Provisions
+
+
+
+Dispositions diverses
+
+
+
+
+
+
+
+24.       Facility and service information
+
+
+
+
+
+
+
+
+
+24.       Renseignements sur les installations et les services
+
+
+
+
+
+
+
+
+
+
+25.       Obligation to assist — assessment and testing
+
+
+
+
+
+
+
+
+
+25.       Obligation de prêter assistance : évaluation et mise à l’essai
+
+
+
+
+
+
+
+
+
+
+26.       Notification of change
+
+
+
+
+
+
+
+
+
+26.       Notification
+
+
+
+
+
+
+
+
+
+
+27.       Notification — simultaneous interception capability
+
+
+
+
+
+
+
+
+
+27.       Notification : interceptions simultanées
+
+
+
+
+
+
+
+
+
+
+28.       Persons engaged in interceptions
+
+
+
+
+
+
+
+
+
+28.       Liste d’employés pouvant prêter assistance
+
+
+
+
+
+
+
+
+
+
+29.       Specialized telecommunications support
+
+
+
+
+
+
+
+
+
+29.       Appui spécialisé en télécommunication
+
+
+
+
+
+
+
+
+
+
+30.       Mandatory reporting — acquisition of transmission apparatus
+
+
+
+
+
+
+
+
+
+30.       Rapport : acquisition d’appareil
+
+
+
+
+
+
+
+
+
+
+31.       No redundant performance required
+
+
+
+
+
+
+
+
+
+31.       Exécution d’une obligation
+
+
+
+
+
+
+
+EXEMPTIONS
+
+
+
+EXEMPTIONS
+
+
+
+
+
+
+
+32.       Exemption regulation
+
+
+
+
+
+
+
+
+
+32.       Règlement d’exemption
+
+
+
+
+
+
+
+ADMINISTRATION AND ENFORCEMENT
+
+
+
+EXÉCUTION ET CONTRÔLE D’APPLICATION
+
+
+
+
+
+
+
+33.       Designation
+
+
+
+
+
+
+
+
+
+33.       Désignation
+
+
+
+
+
+
+
+
+
+
+34.       Authority to enter
+
+
+
+
+
+
+
+
+
+34.       Visite
+
+
+
+
+
+
+
+
+
+
+35.       Warrant for dwelling-house
+
+
+
+
+
+
+
+
+
+35.       Mandat pour maison d’habitation
+
+
+
+
+
+
+
+
+
+
+36.       Entry onto private property
+
+
+
+
+
+
+
+
+
+36.       Droit de passage sur une propriété privée
+
+
+
+
+
+
+
+
+
+
+37.       Use of force
+
+
+
+
+
+
+
+
+
+37.       Usage de la force
+
+
+
+
+
+
+
+
+
+
+38.       False statements or information
+
+
+
+
+
+
+
+
+
+38.       Renseignements faux ou trompeurs
+
+
+
+
+
+
+
+ADMINISTRATIVE MONETARY PENALTIES
+
+
+
+PÉNALITÉS
+
+
+
+
+Violations
+
+
+
+Violations
+
+
+
+
+
+
+
+39.       Violations
+
+
+
+
+
+
+
+
+
+39.       Violations
+
+
+
+
+
+
+
+
+
+
+40.       Designation
+
+
+
+
+
+
+
+
+
+40.       Désignation
+
+
+
+
+
+
+
+Notices of Violation
+
+
+
+Procès-verbaux
+
+
+
+
+
+
+
+41.       Issuance and service
+
+
+
+
+
+
+
+
+
+41.       Procès-verbal
+
+
+
+
+
+
+
+Determination of Responsibility and Penalty
+
+
+
+Responsabilité et pénalité
+
+
+
+
+
+
+
+42.       Options
+
+
+
+
+
+
+
+
+
+42.       Option
+
+
+
+
+
+
+
+
+
+
+43.       Making representations
+
+
+
+
+
+
+
+
+
+43.       Observations
+
+
+
+
+
+
+
+Appeal to Minister
+
+
+
+Appel auprès du ministre
+
+
+
+
+
+
+
+44.       Right of appeal
+
+
+
+
+
+
+
+
+
+44.       Droit d’appel
+
+
+
+
+
+
+
+Rules About Violations
+
+
+
+Règles propres aux violations
+
+
+
+
+
+
+
+45.       Vicarious liability — acts of employees, agents and mandataries
+
+
+
+
+
+
+
+
+
+45.       Responsabilité indirecte — employés et mandataires
+
+
+
+
+
+
+
+
+
+
+46.       Officers of corporations, etc.
+
+
+
+
+
+
+
+
+
+46.       Cadres des personnes morales
+
+
+
+
+
+
+
+
+
+
+47.       Defence of due diligence
+
+
+
+
+
+
+
+
+
+47.       Précautions voulues
+
+
+
+
+
+
+
+
+
+
+48.       Continuing violation
+
+
+
+
+
+
+
+
+
+48.       Violation continue
+
+
+
+
+
+
+
+
+
+
+49.       Limitation period or prescription
+
+
+
+
+
+
+
+
+
+49.       Prescription
+
+
+
+
+
+
+
+
+
+
+50.       Violation or offence
+
+
+
+
+
+
+
+
+
+50.       Précision
+
+
+
+
+
+
+
+
+
+
+51.       Admissibility of documents
+
+
+
+
+
+
+
+
+
+51.       Admissibilité des documents
+
+
+
+
+
+
+
+Recovery of Penalties and Other Amounts
+
+
+
+Recouvrement des pénalités et autres sommes
+
+
+
+
+
+
+
+52.       Debts to Her Majesty
+
+
+
+
+
+
+
+
+
+52.       Créance de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+53.       Certificate
+
+
+
+
+
+
+
+
+
+53.       Certificat de non-paiement
+
+
+
+
+
+
+
+OFFENCES AND PUNISHMENT
+
+
+
+INFRACTIONS ET PEINES
+
+
+
+
+
+
+
+54.       Misleading statements and information
+
+
+
+
+
+
+
+
+
+54.       Fausses déclarations
+
+
+
+
+
+
+
+
+
+
+55.       Offence
+
+
+
+
+
+
+
+
+
+55.       Infraction
+
+
+
+
+
+
+
+
+
+
+56.       Offence
+
+
+
+
+
+
+
+
+
+56.       Infraction
+
+
+
+
+
+
+
+
+
+
+57.       Offence
+
+
+
+
+
+
+
+
+
+57.       Infraction
+
+
+
+
+
+
+
+
+
+
+58.       Consent of Attorney General of Canada required
+
+
+
+
+
+
+
+
+
+58.       Consentement du procureur général du Canada
+
+
+
+
+
+
+
+
+
+
+59.       Due diligence
+
+
+
+
+
+
+
+
+
+59.       Disculpation
+
+
+
+
+
+
+
+
+
+
+60.       Officers of corporations, etc.
+
+
+
+
+
+
+
+
+
+60.       Cadres des personnes morales
+
+
+
+
+
+
+
+
+
+
+61.       Continuing offence
+
+
+
+
+
+
+
+
+
+61.       Infraction continue
+
+
+
+
+
+
+
+
+
+
+62.       Limitation period or prescription
+
+
+
+
+
+
+
+
+
+62.       Prescription
+
+
+
+
+
+
+
+
+
+
+63.       Injunctions
+
+
+
+
+
+
+
+
+
+63.       Injonctions
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+64.       Regulations
+
+
+
+
+
+
+
+
+
+64.       Règlements
+
+
+
+
+
+
+
+APPROPRIATION
+
+
+
+AFFECTATION DE FONDS
+
+
+
+
+
+
+
+65.       Consolidated Revenue Fund
+
+
+
+
+
+
+
+
+
+65.       Paiement sur le Trésor
+
+
+
+
+
+
+
+REVIEW OF ACT
+
+
+
+EXAMEN DE LA LOI
+
+
+
+
+
+
+
+66.       Review
+
+
+
+
+
+
+
+
+
+66.       Examen
+
+
+
+
+
+
+
+TRANSITIONAL PROVISIONS
+
+
+
+DISPOSITIONS TRANSITOIRES
+
+
+
+
+
+
+
+
+67.       Delayed application — s. 10
+
+
+
+
+
+
+
+
+
+
+67.       Suspension de l’application de l’article 10
+
+
+
+
+
+
+
+
+
+
+
+68.       Deemed to meet operational requirements
+
+
+
+
+
+
+
+
+
+
+68.       Présomption : exigences opérationnelles
+
+
+
+
+
+
+
+
+
+
+
+69.       Mandatory reporting — existing service providers
+
+
+
+
+
+
+
+
+
+
+69.       Rapport : télécommunicateurs existants
+
+
+
+
+
+
+
+COORDINATING AMENDMENT
+
+
+
+DISPOSITION DE COORDINATION
+
+
+
+
+
+
+
+
+70.       Investigative Powers for the 21st Century Act
+
+
+
+
+
+
+
+
+
+
+70.       Loi sur les pouvoirs d’enquête au 21e siècle
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+71.       Order in council
+
+
+
+
+
+
+
+
+
+
+71.       Décret
+
+
+
+
+
+
+
+SCHEDULE 1
+
+
+
+ANNEXE 1
+
+
+
+
+EXCLUSIONS FROM THE APPLICATION OF THE ACT
+
+
+
+NON-APPLICATION DE LA LOI
+
+
+
+
+SCHEDULE 2
+
+
+
+ANNEXE 2
+
+
+
+
+PARTIAL APPLICATION OF THE ACT
+
+
+
+APPLICATION PARTIELLE DE LA LOI
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-47
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-47
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act regulating telecommunications facilities to support investigations
+
+
+
+
+
+
+
+
+
+Loi régissant les installations de télécommunication aux fins de soutien aux enquêtes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Technical Assistance for Law Enforcement in the 21st Century Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur l’assistance au contrôle d’application des lois au 21e siècle.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS ET INTERPRÉTATION
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+2. (1) The following definitions apply in this Act.
+
+
+
+
+“authorized”« autorisée »
+
+
+
+“authorized”, in relation to a person, means having authority, under the Criminal Code or the Canadian Security Intelligence Service Act, to intercept communications.
+
+
+
+
+“communication”« communication »
+
+
+
+“communication” means a communication effected by a means of telecommunication and includes any related telecommunications data or other ancillary information.
+
+
+
+
+“intercept”« intercepter »
+
+
+
+“intercept” includes listen to, record or acquire a communication or acquire the substance, meaning or purport of the communication.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Public Safety and Emergency Preparedness.
+
+
+
+
+“person”« personne »
+
+
+
+“person” includes a partnership, an unincorporated organization, a government, a government agency and any other person or entity that acts in the name of or for the benefit of another.
+
+
+
+
+“prescribed” Version anglaise seulement
+
+
+
+“prescribed” means prescribed by the regulations.
+
+
+
+
+“telecommunications data”« données de télécommunication »
+
+
+
+“telecommunications data” means data relating to the telecommunications functions of dialling, routing, addressing or signalling that identifies or purports to identify the origin, type, direction, date, time, duration, size, destination or termination of a telecommunication generated or received by means of a telecommunications facility or the type of telecommunications service used and includes any information that may be obtained under subsection 492.2(1) of the Criminal Code.
+
+
+
+
+“telecommunications facility”« installation de télécommunication »
+
+
+
+“telecommunications facility” means any facility, apparatus or other thing that is used for telecommunications or for any operation directly connected with telecommunications.
+
+
+
+
+“telecommunications service”« service de télécommunication »
+
+
+
+“telecommunications service” means a service, or a feature of a service, that is provided by means of telecommunications facilities, whether the provider owns, leases or has any other interest in or right respecting the telecommunications facilities and any related equipment used to provide the service.
+
+
+
+
+“telecommunications service provider”« télécommunicateur »
+
+
+
+“telecommunications service provider” means a person that, independently or as part of a group or association, provides telecommunications services.
+
+
+
+
+“transmission apparatus”« appareil de transmission »
+
+
+
+“transmission apparatus” means any apparatus of a prescribed class whose principal functions are one or more of the following:
+
+
+
+
+
+
+
+
+
+
+(a) the switching or routing of communications;
+
+
+
+
+
+
+
+
+
+
+(b) the input, capture, storage, organization, modification, retrieval, output or other processing of communications;
+
+
+
+
+
+
+
+
+
+
+(c) the control of the speed, code, protocol, content, format, switching or routing or similar aspects of communications; or
+
+
+
+
+
+
+
+
+
+
+(d) any other function that is similar to one described in paragraphs (a) to (c).
+
+
+
+
+
+
+
+
+
+
+2. (1) Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« appareil de transmission » Appareil qui appartient à une catégorie réglementaire et dont les fonctions principales sont comprises parmi les suivantes :
+
+
+
+« appareil de transmission »“transmission apparatus”
+
+
+
+
+
+a) commutation ou routage de communications;
+
+
+
+
+
+
+
+
+
+
+
+b) saisie, réception, mise en mémoire, classement, modification, récupération ou sortie de communications, ou tout autre traitement de celles-ci;
+
+
+
+
+
+
+
+
+
+
+
+c) commande de la vitesse, du code, du protocole, du contenu, de la forme, de la commutation, du routage ou des aspects analogues de communications;
+
+
+
+
+
+
+
+
+
+
+
+d) toute fonction semblable à celles énumérées aux alinéas a) à c).
+
+
+
+
+
+
+
+
+
+
+« autorisée » Se dit de toute personne qui est autorisée, au titre du Code criminel ou de la Loi sur le Service canadien du renseignement de sécurité, à intercepter des communications.
+
+
+
+« autorisée »“authorized”
+
+
+
+
+« communication » Communication effectuée par voie de télécommunication, y compris les données de télécommunication connexes et toute autre information accessoire.
+
+
+
+« communication »“communication”
+
+
+
+
+« données de télécommunication » Données concernant les fonctions de composition, de routage, d’adressage ou de signalisation en matière de télécommunication et indiquant, ou visant à indiquer, l’origine, le type, la direction, la date, l’heure, la durée, le volume, la destination ou la terminaison de la télécommunication produite ou reçue au moyen d’une installation de télécommunication ou le type de service utilisé. Sont également visés les renseignements obtenus au titre du paragraphe 492.2(1) du Code criminel.
+
+
+
+« données de télécommunication »“telecommunications data”
+
+
+
+
+« installation de télécommunication » Installation, appareil ou dispositif quelconque servant à la télécommunication ou à toute opération qui y est directement liée.
+
+
+
+« installation de télécommunication »“telecommunications facility”
+
+
+
+
+« intercepter » S’entend notamment du fait d’écouter, d’enregistrer ou de prendre volontairement connaissance d’une communication ou de sa substance, son sens ou son objet.
+
+
+
+« intercepter »“intercept”
+
+
+
+
+« ministre » Le ministre de la Sécurité publique et de la Protection civile.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« personne » Sont assimilés à des personnes les sociétés de personnes, les organisations non personnalisées, les gouvernements et les organismes administratifs. Est assimilée à la personne intéressée toute autre personne ou toute entité qui agit en son nom ou pour elle.
+
+
+
+« personne »“person”
+
+
+
+
+« service de télécommunication » Service — ou complément de service — fourni au moyen d’installations de télécommunication, que celles-ci et le matériel connexe appartiennent au télécommunicateur ou soient loués ou fassent l’objet d’un intérêt ou d’un droit en faveur de celui-ci.
+
+
+
+« service de télécommunication »“telecommunications service”
+
+
+
+
+« télécommunicateur » Personne qui fournit des services de télécommunication, seule ou au titre de son appartenance à un groupe ou à une association.
+
+
+
+« télécommunicateur »“telecommunications service provider”
+
+
+
+
+
+
+
+
+
+
+Preservation of existing powers
+
+
+
+(2) Nothing in this Act derogates from any power in the Criminal Code, the Canadian Security Intelligence Service Act or the National Defence Act to intercept communications or to request that telecommunications service provid- ers assist in such interceptions.
+
+
+
+
+
+
+
+
+
+(2) La présente loi ne porte pas atteinte aux pouvoirs prévus par le Code criminel, la Loi sur le Service canadien du renseignement de sécurité et la Loi sur la défense nationale concernant l’interception de toute communication ou toute demande d’assistance adressée aux télécommunicateurs en vue de procéder à une telle interception.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PURPOSE
+
+
+
+
+
+
+
+
+
+OBJET DE LA LOI
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+
+3. The purpose of this Act is to ensure that telecommunications service providers have the capability to enable national security and law enforcement agencies to exercise their authority to intercept communications and to require telecommunications service providers to provide subscriber and other information, without unreasonably impairing the privacy of individ- uals, the provision of telecommunications services to Canadians or the competitiveness of the Canadian telecommunications industry.
+
+
+
+
+
+
+
+
+
+
+3. La présente loi a pour objet d’exiger des télécommunicateurs qu’ils disposent des moyens nécessaires pour permettre aux organismes chargés de la sécurité nationale ou du contrôle d’application des lois d’exercer leur pouvoir d’intercepter les communications et qu’ils fournissent des renseignements, notamment sur les abonnés, sans toutefois porter atteinte indûment à la vie privée des particuliers ou entraver sérieusement la prestation de services de télécommunication aux Canadiens et la compétitivité de l’industrie canadienne des télécommunications.
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HER MAJESTY
+
+
+
+
+
+
+
+
+
+SA MAJESTÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Act binding on Her Majesty
+
+
+
+
+4. This Act is binding on Her Majesty in right of Canada or of a province.
+
+
+
+
+
+
+
+
+
+
+4. La présente loi lie Sa Majesté du chef du Canada et des provinces.
+
+
+
+Obligation de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPLICATION
+
+
+
+
+
+
+
+
+
+CHAMP D’APPLICATION
+
+
+
+
+
+
+
+
+
+
+
+
+Exclusions — Schedule 1
+
+
+
+
+5. (1) This Act does not apply to telecommunications service providers in respect of the telecommunications services specified in Part 1 of Schedule 1 or to the telecommunications service providers in the classes listed in Part 2 of that Schedule in respect of the activities specified in that Part for that class.
+
+
+
+
+
+
+
+
+
+
+5. (1) La présente loi ne s’applique pas aux télécommunicateurs à l’égard des services de télécommunication prévus à la partie 1 de l’annexe 1 ni aux télécommunicateurs appartenant aux catégories figurant à la partie 2 de cette annexe à l’égard des activités qui y sont précisées.
+
+
+
+Non-application — annexe 1
+
+
+
+
+
+
+
+
+
+
+Partial application — Schedule 2, Part 1
+
+
+
+(2) This Act — other than sections 8, 9, 14, 15, 24 to 26, 28 and 32 to 64 — does not apply to the telecommunications service providers in the classes listed in Part 1 of Schedule 2 in respect of the activities specified in that Part for that class.
+
+
+
+
+
+
+
+
+
+(2) La présente loi, à l’exception des articles 8, 9, 14, 15, 24 à 26, 28 et 32 à 64, ne s’applique pas aux télécommunicateurs appartenant aux catégories figurant à la partie 1 de l’annexe 2 à l’égard des activités qui y sont précisées.
+
+
+
+Application partielle — annexe 2, partie 1
+
+
+
+
+
+
+
+
+
+
+Partial application — Schedule 2, Part 2
+
+
+
+(3) This Act, other than section 24, does not apply to the telecommunications service provid- ers in the classes listed in Part 2 of Schedule 2 in respect of the activities specified in that Part for that class.
+
+
+
+
+
+
+
+
+
+(3) La présente loi, à l’exception de l’article 24, ne s’applique pas aux télécommunicateurs appartenant aux catégories figurant à la partie 2 de l’annexe 2 à l’égard des activités qui y sont précisées.
+
+
+
+Application partielle — annexe 2, partie 2
+
+
+
+
+
+
+
+
+
+
+Amendment of Schedules
+
+
+
+(4) The Governor in Council may, by regulation, amend Schedule 1 or 2 by adding, deleting or changing a telecommunications service, an activity or a class of telecommunications service providers.
+
+
+
+
+
+
+
+
+
+(4) Le gouverneur en conseil peut, par règlement, modifier les annexes 1 et 2 pour y ajouter, en retrancher ou y modifier des services de télécommunication, des activités ou des catégories de télécommunicateurs.
+
+
+
+Modification des annexes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBLIGATIONS
+
+
+
+
+
+
+
+
+
+OBLIGATIONS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obligations Concerning Interceptions
+
+
+
+
+
+
+
+
+
+Obligations concernant les interceptions
+
+
+
+
+
+
+
+
+
+
+
+
+Obligation to have capabilities
+
+
+
+
+6. (1) For the purpose of enabling authorized persons to exercise their authority to intercept communications, every telecommunications service provider shall have the capa- bility to do the following:
+
+
+
+
+
+
+
+
+
+
+(a) provide intercepted communications to authorized persons; and
+
+
+
+
+
+
+
+
+
+
+(b) provide authorized persons with the prescribed information that is in the possession or control of the service provider respecting the location of equipment used in the transmission of communications.
+
+
+
+
+
+
+
+
+
+
+6. (1) Afin de permettre à toute personne autorisée d’exercer son pouvoir d’intercepter les communications, il incombe à tout télécommunicateur de disposer des moyens nécessaires pour fournir à celle-ci :
+
+
+
+Obligations relatives aux mesures de facilitation
+
+
+
+
+
+a) toute communication interceptée;
+
+
+
+
+
+
+
+
+
+
+
+b) toute information réglementaire qu’il a en sa possession ou à sa disposition relativement à l’emplacement de l’équipement utilisé pour la transmission d’une communication.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confidentiality and security measures
+
+
+
+(2) A telecommunications service provider, in connection with the interception of communications, shall comply with any prescribed confidentiality or security measures.
+
+
+
+
+
+
+
+
+
+(2) Le télécommunicateur est tenu d’appliquer les mesures réglementaires concernant la confidentialité et la sécurité pour ce qui est de l’interception de communications.
+
+
+
+Confidentialité et sécurité
+
+
+
+
+
+
+
+
+
+
+Obligations for treated communications
+
+
+
+(3) If an intercepted communication is encoded, compressed, encrypted or otherwise treated by a telecommunications service provid- er, the service provider shall use the means in its control to provide the intercepted communication in the same form as it was before the communication was treated by the service provider.
+
+
+
+
+
+
+
+
+
+(3) Si la communication interceptée a fait l’objet d’un traitement — notamment codage, compression et chiffrement — par le télécommunicateur, celui-ci est tenu d’utiliser les moyens dont il dispose pour fournir la communication dans la forme où elle était avant ce traitement.
+
+
+
+Traitement de la communication
+
+
+
+
+
+
+
+
+
+
+Exceptions
+
+
+
+(4) Despite subsection (3), a telecommunications service provider is not required to make the form of an intercepted communication the same as it was before the communication was treated if
+
+
+
+
+
+
+
+
+
+
+(a) the service provider would be required to develop or acquire decryption techniques or decryption tools; or
+
+
+
+
+
+
+
+
+
+
+(b) the treatment is intended only for the purposes of generating a digital signature or for certifying a communication by a prescribed certification authority, and has not been used for any other purpose.
+
+
+
+
+
+
+
+
+
+(4) Il n’est toutefois pas tenu de remettre la communication interceptée dans la forme où elle était avant le traitement dans les cas suivants :
+
+
+
+Exceptions
+
+
+
+
+
+a) il aurait à développer ou à acquérir des méthodes ou des outils de déchiffrement;
+
+
+
+
+
+
+
+
+
+
+
+b) le traitement visait uniquement à générer une signature numérique ou à faire certifier la communication par une autorité de certification réglementaire et n’a pas été utilisé à d’autres fins.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Providing information as requested
+
+
+
+(5) A telecommunications service provider that is capable of providing intercepted communications to an authorized person in more than one form or manner that conforms with the regulations shall provide them in whichever of those forms or manners the authorized person requires.
+
+
+
+
+
+
+
+
+
+(5) Il incombe au télécommunicateur, dans le cas où il est en mesure de fournir à la personne autorisée la communication interceptée sous différentes formes et par différents moyens qui sont conformes aux règlements, de la lui fournir dans la forme et par le moyen qu’elle précise.
+
+
+
+Fourniture de la communication interceptée
+
+
+
+
+
+
+
+
+
+
+Operational requirements for transmission apparatus
+
+
+
+
+7. The operational requirements in respect of any transmission apparatus are that the telecommunications service provider operating the apparatus have the capability to do the following:
+
+
+
+
+
+
+
+
+
+
+(a) enable the interception of communications generated by or transmitted through the apparatus to or from any temporary or permanent user of the service provider’s telecommunications services;
+
+
+
+
+
+
+
+
+
+
+(b) isolate the communication that is authorized to be intercepted from other information, including
+
+
+
+
+
+
+
+
+
+
+(i) isolating the communications of the person whose communications are authorized to be intercepted from those of other persons, and
+
+
+
+
+
+
+
+
+
+
+(ii) isolating the telecommunications data of the person whose communications are authorized to be intercepted from the rest of the person’s communications;
+
+
+
+
+
+
+
+
+
+
+(c) provide prescribed information that permits the accurate correlation of all elements of intercepted communications; and
+
+
+
+
+
+
+
+
+
+
+(d) enable simultaneous interceptions by authorized persons from multiple national security and law enforcement agencies of communications of multiple users, including enabling
+
+
+
+
+
+
+
+
+
+
+(i) at least the minimum number of those interceptions, and
+
+
+
+
+
+
+
+
+
+
+(ii) any greater number of those interceptions — up to the maximum number — for the period that an agency requests.
+
+
+
+
+
+
+
+
+
+
+7. Constituent des exigences opérationnelles liées à tout appareil de transmission le fait pour le télécommunicateur qui exploite l’appareil d’être en mesure de prendre les dispositions suivantes :
+
+
+
+Exigences opérationnelles liées aux appareils de transmission
+
+
+
+
+
+a) permettre l’interception de la communication produite par l’appareil ou transmise ou reçue au moyen de celui-ci par l’utilisateur temporaire ou permanent de ses services de télécommunication;
+
+
+
+
+
+
+
+
+
+
+
+b) isoler la communication dont l’interception est autorisée de toute autre information, notamment isoler :
+
+
+
+
+
+
+
+
+
+
+(i) les communications de la personne visée de celles de toute autre personne,
+
+
+
+
+
+
+
+
+
+
+(ii) les données de télécommunication du reste de ses communications;
+
+
+
+
+
+
+
+
+
+
+
+c) fournir l’information réglementaire qui permet de mettre en corrélation avec exactitude tous les éléments des communications interceptées;
+
+
+
+
+
+
+
+
+
+
+
+d) permettre à des personnes autorisées provenant de plusieurs organismes chargés de la sécurité nationale ou du contrôle d’application des lois d’intercepter simultanément des communications de plusieurs utilisateurs, notamment permettre :
+
+
+
+
+
+
+
+
+
+
+(i) au moins le nombre minimal d’interceptions simultanées,
+
+
+
+
+
+
+
+
+
+
+(ii) un nombre accru d’interceptions — jusqu’à concurrence du nombre maximal — pour la période demandée par un tel organisme.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No degradation of capabilities
+
+
+
+
+8. A telecommunications service provider that meets, in whole or in part, an operational requirement in respect of transmission apparatus that the service provider operates shall continue to so meet that operational requirement.
+
+
+
+
+
+
+
+
+
+
+8. Il incombe au télécommunicateur qui satisfait à tout ou partie d’une exigence opérationnelle liée à un appareil de transmission qu’il exploite de continuer d’y satisfaire.
+
+
+
+Maintien de la conformité aux exigences opérationnelles
+
+
+
+
+
+
+
+
+
+
+Maintaining capabilities in respect of new services
+
+
+
+
+9. A telecommunications service provider that meets, in whole or in part, an operational requirement in respect of transmission apparatus that the service provider operates in connection with any of the service provider’s telecommunications services shall meet that operational requirement to the same extent in respect of any new service that the service provider begins to provide using that apparatus.
+
+
+
+
+
+
+
+
+
+
+9. Il incombe au télécommunicateur qui satisfait à tout ou partie d’une exigence opérationnelle liée à un appareil de transmission qu’il exploite afin de fournir des services de télécommunication d’y satisfaire tout autant à l’égard des nouveaux services qu’il fournit au moyen de l’appareil.
+
+
+
+Maintien de la capacité à l’égard des nouveaux services
+
+
+
+
+
+
+
+
+
+
+Beginning to operate transmission apparatus
+
+
+
+
+10. (1) A telecommunications service provider that begins to operate any transmission apparatus for the purpose of providing telecommunications services shall meet the operational requirements in respect of the apparatus, whether by means of the apparatus itself or by any other means.
+
+
+
+
+
+
+
+
+
+
+10. (1) Le télécommunicateur qui commence à exploiter un appareil de transmission afin de fournir des services de télécommunication est tenu de satisfaire aux exigences opérationnelles liées à l’appareil, au moyen de celui-ci ou autrement.
+
+
+
+Exploitation d’appareils de transmission
+
+
+
+
+
+
+
+
+
+
+Acquisition from another provider
+
+
+
+(2) Subsection (1) does not apply in respect of transmission apparatus that a telecommunications service provider acquires from another telecommunications service provider and operates in order to continue to provide the same telecommunications service to approximately the same users. However, the acquiring service provider shall continue to meet any operational requirements in respect of the transmission apparatus that the service provider from whom it was acquired was obligated to meet.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas si le télécommunicateur commence à exploiter un appareil de transmission qu’il acquiert d’un autre télécommunicateur afin de continuer à fournir les mêmes services de télécommunication à approximativement les mêmes utilisateurs. Toutefois, il est tenu de satisfaire aux mêmes exigences opérationnelles liées à l’appareil que celles auxquelles l’autre télécommunicateur devait satisfaire.
+
+
+
+Transfert de propriété
+
+
+
+
+
+
+
+
+
+
+New software
+
+
+
+
+11. (1) When a telecommunications service provider installs new software for any transmission apparatus that the service provider operates, the service provider shall meet the operational requirements in respect of that apparatus to the extent that would be enabled by the installation of the software in the form available from the software’s manufacturer that would most increase the service provider’s ability to meet those operational requirements.
+
+
+
+
+
+
+
+
+
+
+11. (1) Lorsqu’il installe un nouveau logiciel pour un appareil de transmission qu’il exploite, le télécommunicateur est tenu de satisfaire aux exigences opérationnelles liées à l’appareil dans la même mesure que s’il installait le logiciel dans la forme offerte par le fabricant la plus susceptible d’accroître sa capacité de satisfaire à ces exigences.
+
+
+
+Installation d’un nouveau logiciel
+
+
+
+
+
+
+
+
+
+
+Other software licences or telecommunications facilities
+
+
+
+(2) Subsection (1) applies even if the form of the software in question would require the telecommunications service provider to acquire additional software licences or telecommunications facilities to achieve that increased ability.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) s’applique même si la forme du logiciel, pour qu’elle puisse permettre au télécommunicateur d’accroître ainsi sa capacité, nécessitait l’acquisition de licences d’exploitation ou d’installations de télécommu- nication supplémentaires.
+
+
+
+Licence et installation de télécommunication supplémentaires
+
+
+
+
+
+
+
+
+
+
+Global limit
+
+
+
+
+12. Subject to section 14, a telecommunications service provider is not required, under sections 8 to 11, to increase the service provider’s capability to enable simultaneous interceptions beyond the applicable global limit.
+
+
+
+
+
+
+
+
+
+
+12. Sous réserve de l’article 14, le télécommunicateur n’est pas tenu, au titre des articles 8 à 11, d’augmenter sa capacité de permettre des interceptions simultanées au-delà de la limite globale applicable.
+
+
+
+Limite globale
+
+
+
+
+
+
+
+
+
+
+Order suspending obligations
+
+
+
+
+13. (1) The Minister may, by order made on the application of a telecommunications service provider, suspend in whole or in part any obligation of the service provider to meet an operational requirement that would arise from the operation of section 10 or 11.
+
+
+
+
+
+
+
+
+
+
+13. (1) Sur demande de tout télécommunicateur, le ministre peut, par arrêté, suspendre en tout ou en partie l’obligation de satisfaire aux exigences opérationnelles découlant de l’application des articles 10 et 11.
+
+
+
+Demande de suspension d’obligation
+
+
+
+
+
+
+
+
+
+
+Applications
+
+
+
+(2) The application must
+
+
+
+
+
+
+
+
+
+
+(a) specify the operational requirement with respect to which an order is sought;
+
+
+
+
+
+
+
+
+
+
+(b) set out the reasons for making the application;
+
+
+
+
+
+
+
+
+
+
+(c) include a plan that
+
+
+
+
+
+
+
+
+
+
+(i) sets out the measures by which and the time within which the telecommunications service provider proposes to meet the operational requirement specified in ac- cordance with paragraph (a),
+
+
+
+
+
+
+
+
+
+
+(ii) describes any measures that the service provider proposes to take to improve the service provider’s capability to meet the operational requirements, even if they are not yet applicable, and
+
+
+
+
+
+
+
+
+
+
+(iii) identifies the stages at which and methods by which the Minister can measure progress in the implementation of the plan and the time, manner and form for reports the service provider proposes to make to the Minister; and
+
+
+
+
+
+
+
+
+
+
+(d) conform with the prescribed requirements relating to the content or form of the application or the manner in which it is to be made.
+
+
+
+
+
+
+
+
+
+(2) La demande :
+
+
+
+Contenu de la demande
+
+
+
+
+
+a) précise les exigences opérationnelles qui sont visées;
+
+
+
+
+
+
+
+
+
+
+
+b) énonce les moyens sur lesquels elle est fondée;
+
+
+
+
+
+
+
+
+
+
+
+c) comporte un plan précisant :
+
+
+
+
+
+
+
+
+
+
+(i) les mesures que se propose de prendre le télécommunicateur pour satisfaire à ces exigences opérationnelles et le délai dans lequel il compte le faire,
+
+
+
+
+
+
+
+
+
+
+(ii) les mesures que le télécommunicateur se propose de prendre pour accroître sa capacité de satisfaire aux exigences opérationnelles même si celles-ci ne lui sont pas encore applicables,
+
+
+
+
+
+
+
+
+
+
+(iii) les étapes de sa mise en oeuvre auxquelles le ministre pourra mesurer les progrès réalisés à cet égard, les méthodes pour ce faire, ainsi que les modalités — de temps et autres — concernant les rapports que le télécommunicateur se propose de soumettre au ministre;
+
+
+
+
+
+
+
+
+
+
+
+d) satisfait aux exigences réglementaires visant son contenu et les modalités de présentation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Considerations
+
+
+
+(3) In deciding whether to make an order, the Minister shall take into account the public interest in national security and law enforcement and the commercial interests of the telecommunications service provider as well as any other matter that the Minister considers relevant.
+
+
+
+
+
+
+
+
+
+(3) Avant de statuer sur la demande, le ministre prend en considération tous les facteurs qu’il estime pertinents, notamment l’intérêt public — sécurité nationale et contrôle d’application des lois — et les intérêts commerciaux de l’auteur de la demande.
+
+
+
+Facteurs à prendre en considération
+
+
+
+
+
+
+
+
+
+
+Notification of decision
+
+
+
+(4) The Minister shall, within 120 days after the day on which the Minister receives the application, notify the applicant of the Minister’s decision to accept or refuse it and, if no notification has been received by the applicant at the end of that period, the Minister is deemed to have refused the application.
+
+
+
+
+
+
+
+
+
+(4) Le ministre a cent vingt jours, après la réception de la demande, pour l’accepter ou la refuser; si le télécommunicateur n’est pas avisé de la décision du ministre dans ce délai, celui-ci est réputé avoir refusé.
+
+
+
+Notification de la décision
+
+
+
+
+
+
+
+
+
+
+Conditions and term of order
+
+
+
+(5) In the order, the Minister may include any conditions that the Minister considers appropriate and shall fix its term for a period of not more than three years.
+
+
+
+
+
+
+
+
+
+(5) Le ministre peut, dans l’arrêté, assortir la suspension des conditions qu’il estime indiquées et l’accorde pour une période maximale de trois ans.
+
+
+
+Conditions et durée de la suspension
+
+
+
+
+
+
+
+
+
+
+Obligation to comply with conditions of order
+
+
+
+(6) The telecommunications service provider shall comply with the conditions of the order as soon as the service provider begins to operate the telecommunications apparatus or installs the new software, as the case may be.
+
+
+
+
+
+
+
+
+
+(6) Le télécommunicateur est tenu de satisfaire à de telles conditions dès qu’il commence à exploiter l’appareil de transmission en cause ou qu’il installe le nouveau logiciel.
+
+
+
+Obligation de satisfaire aux conditions imposées par le ministre
+
+
+
+
+
+
+
+
+
+
+Notice of revocation
+
+
+
+(7) The Minister may revoke an order on written notice to the telecommunications service provider if
+
+
+
+
+
+
+
+
+
+
+(a) the service provider has contravened this Act, the regulations or the conditions of the order; or
+
+
+
+
+
+
+
+
+
+
+(b) the order was obtained through misrepresentation.
+
+
+
+
+
+
+
+
+
+(7) Le ministre peut, sur avis écrit donné au télécommunicateur, révoquer l’arrêté :
+
+
+
+Avis de révocation
+
+
+
+
+
+a) soit au motif que celui-ci a enfreint la présente loi, ses règlements ou les conditions de la suspension;
+
+
+
+
+
+
+
+
+
+
+
+b) soit au motif que la suspension a été obtenue par des moyens faux ou trompeurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amendment
+
+
+
+(8) The Minister may amend an order with the consent of the telecommunications service provider.
+
+
+
+
+
+
+
+
+
+(8) Il peut modifier l’arrêté avec le consentement du télécommunicateur.
+
+
+
+Modification
+
+
+
+
+
+
+
+
+
+
+Ministerial orders
+
+
+
+
+14. (1) The Minister may, at the request of the Commissioner of the Royal Canadian Mounted Police or the Director of the Canadian Security Intelligence Service and if in the Minister’s opinion it is necessary to do so, order a telecommunications service provider
+
+
+
+
+
+
+
+
+
+
+(a) to comply with any obligation under subsections 6(1) and (2) in a manner or within a time that the Minister specifies;
+
+
+
+
+
+
+
+
+
+
+(b) to enable, in a manner or within a time that the Minister specifies, a number of simultaneous interceptions greater than any maximum or limit that would otherwise apply;
+
+
+
+
+
+
+
+
+
+
+(c) to comply, in a manner or within a time that the Minister specifies, with any confidentiality or security measures respecting interceptions that the Minister specifies in addition to those referred to in subsection 6(2);
+
+
+
+
+
+
+
+
+
+
+(d) to meet an operational requirement in respect of transmission apparatus operated by the service provider that the service provider would not otherwise be required to meet; or
+
+
+
+
+
+
+
+
+
+
+(e) to meet an operational requirement in respect of transmission apparatus operated by the service provider in a manner or within a time that the Minister specifies.
+
+
+
+
+
+
+
+
+
+
+14. (1) S’il le juge nécessaire, le ministre peut par arrêté, à la demande du commissaire de la Gendarmerie royale du Canada ou du directeur du Service canadien du renseignement de sécurité, ordonner au télécommunicateur :
+
+
+
+Arrêté
+
+
+
+
+
+a) d’exécuter, selon les modalités — de temps et autres — indiquées, toute obligation prévue aux paragraphes 6(1) et (2);
+
+
+
+
+
+
+
+
+
+
+
+b) de permettre, selon les modalités — de temps et autres — indiquées, de faire des interceptions simultanées en un nombre supérieur à la limite qui s’appliquerait par ailleurs;
+
+
+
+
+
+
+
+
+
+
+
+c) d’appliquer, selon les modalités — de temps et autres — indiquées, des mesures concernant la confidentialité ou la sécurité liées aux interceptions qui s’ajoutent à celles visées au paragraphe 6(2);
+
+
+
+
+
+
+
+
+
+
+
+d) de satisfaire à toute exigence opérationnelle qui ne lui est pas par ailleurs applicable et qui est liée à un appareil de transmission qu’il exploite;
+
+
+
+
+
+
+
+
+
+
+
+e) de satisfaire, selon les modalités — de temps et autres — indiquées, à toute exigence opérationnelle liée à un appareil de transmission qu’il exploite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(2) The Minister may not make an order under subsection (1) in respect of a telecommunications service provider in relation to a telecommunications service specified in Part 1 of Schedule 1 or in respect of a telecommunications service provider in a class listed in Part 2 of Schedule 1 or Part 2 of Schedule 2 in relation to the activities specified for that class in Part 2 of Schedule 1 or Part 2 of Schedule 2, as the case may be.
+
+
+
+
+
+
+
+
+
+(2) Il ne peut toutefois prendre d’arrêté en vertu du paragraphe (1) à l’égard des télécommunicateurs relativement aux services de télécommunication prévus à la partie 1 de l’annexe 1 ni à l’égard des télécommunicateurs appartenant aux catégories figurant à la partie 2 de cette annexe ou à la partie 2 de l’annexe 2 relativement aux activités qui y sont précisées.
+
+
+
+Limite
+
+
+
+
+
+
+
+
+
+
+Compensation
+
+
+
+(3) The Commissioner of the Royal Canadian Mounted Police or the Director of the Canadian Security Intelligence Service, as the case may be, shall pay the telecommunications service provider an amount that the Minister considers reasonable towards the expenses that the Minister considers are necessary for the service provider to incur initially to comply with an order made under this section.
+
+
+
+
+
+
+
+
+
+(3) Le commissaire de la Gendarmerie royale du Canada ou le directeur du Service canadien du renseignement de sécurité, selon le cas, verse au télécommunicateur l’indemnité que le ministre estime suffisante au regard des dépenses qui, à son avis, sont nécessaires et que le télécommunicateur engage initialement pour se conformer à l’arrêté.
+
+
+
+Indemnisation
+
+
+
+
+
+
+
+
+
+
+Equipment
+
+
+
+(4) The Minister may provide the telecommunications service provider with any equipment or other thing that the Minister considers the service provider needs to comply with an order made under this section.
+
+
+
+
+
+
+
+
+
+(4) Le ministre peut fournir au télécommunicateur l’équipement et les autres biens qu’il estime nécessaires pour lui permettre de se conformer à l’arrêté.
+
+
+
+Équipement
+
+
+
+
+
+
+
+
+
+
+Non-application of ss. 8 and 9
+
+
+
+(5) Sections 8 and 9 do not apply in respect of any equipment or other thing provided by the Minister under subsection (4). However, the telecommunications service provider shall provide notice to the Minister of any problems with the equipment or other thing provided and provide assistance in resolving the problem.
+
+
+
+
+
+
+
+
+
+(5) Les articles 8 et 9 ne s’appliquent pas à l’équipement et aux autres biens fournis par le ministre. Toutefois, le télécommunicateur est tenu d’aviser le ministre de tout problème que ceux-ci présentent et de prêter son assistance pour le corriger.
+
+
+
+Non-application des articles 8 et 9
+
+
+
+
+
+
+
+
+
+
+Order prevails
+
+
+
+(6) An order made by the Minister under subsection (1) prevails over any regulations, to the extent of any inconsistency.
+
+
+
+
+
+
+
+
+
+(6) L’arrêté pris en vertu du paragraphe (1) l’emporte sur tout règlement incompatible.
+
+
+
+Incompatibilité
+
+
+
+
+
+
+
+
+
+
+Delegation
+
+
+
+(7) The Commissioner of the Royal Canadian Mounted Police and the Director of the Canadian Security Intelligence Service may delegate his or her power to pay amounts under subsection (3) to, respectively, a member of a prescribed class of senior officers of the Royal Canadian Mounted Police or a member of a prescribed class of senior officials of the Canadian Security Intelligence Service.
+
+
+
+
+
+
+
+
+
+(7) Le commissaire de la Gendarmerie royale du Canada peut déléguer son pouvoir de verser l’indemnité visée au paragraphe (3) à tout membre d’une catégorie réglementaire d’officiers supérieurs de son organisme. Le directeur du Service canadien du renseignement de sécurité peut déléguer son propre pouvoir de verser l’indemnité visée au paragraphe (3) à tout membre d’une catégorie réglementaire de cadres supérieurs de son organisme.
+
+
+
+Délégation
+
+
+
+
+
+
+
+
+
+
+
+Statutory Instruments Act does not apply
+
+
+
+
+15. The Statutory Instruments Act does not apply in respect of an order made under section 13 or 14.
+
+
+
+
+
+
+
+
+
+
+15. La Loi sur les textes réglementaires ne s’applique pas aux arrêtés pris en vertu des articles 13 ou 14.
+
+
+
+Non-application de la Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obligations Concerning Subscriber Information
+
+
+
+
+
+
+
+
+
+Obligations concernant les renseignements sur les abonnés
+
+
+
+
+
+
+
+
+
+
+
+
+Provision of subscriber information
+
+
+
+
+16. (1) Every telecommunications service provider shall provide a person designated under subsection (3), on his or her written request, with any information in the service provider’s possession or control respecting the name, address, telephone number and electronic mail address of any subscriber to any of the service provider’s telecommunications services and the Internet protocol address, mobile identification number, electronic serial number, local service provider identifier, international mobile equipment identity number, international mobile subscriber identity number and subscrib- er identity module card number that are associated with the subscriber’s service and equipment.
+
+
+
+
+
+
+
+
+
+
+16. (1) Le télécommunicateur fournit, sur demande écrite, à toute personne désignée en vertu du paragraphe (3) les renseignements qu’il a en sa possession ou à sa disposition concernant les nom, adresse, numéro de téléphone et adresse de courriel de tout abonné de ses services de télécommunication et l’adresse de protocole Internet, le numéro d’identification mobile, le numéro de série électronique, l’identificateur du fournisseur de services locaux, le numéro d’identité international d’équipement mobile, le numéro d’identité internationale d’abonné mobile ainsi que le numéro de module d’identité d’abonné de service associés aux services et à l’équipement de l’abonné.
+
+
+
+Accès aux renseignements sur les abonnés
+
+
+
+
+
+
+
+
+
+
+Purpose of the request
+
+
+
+(2) A designated person shall ensure that he or she makes a request under subsection (1) only in performing, as the case may be, a duty or function
+
+
+
+
+
+
+
+
+
+
+(a) of the Canadian Security Intelligence Service under the Canadian Security Intelligence Service Act;
+
+
+
+
+
+
+
+
+
+
+(b) of a police service, including any related to the enforcement of any laws of Canada, of a province or of a foreign jurisdiction; or
+
+
+
+
+
+
+
+
+
+
+(c) of the Commissioner of Competition under the Competition Act.
+
+
+
+
+
+
+
+
+
+(2) La personne désignée veille à ce que la demande ne soit faite que dans l’exercice d’une fonction, selon le cas :
+
+
+
+Objet de la demande
+
+
+
+
+
+a) du Service canadien du renseignement de sécurité au titre de la Loi sur le Service canadien du renseignement de sécurité;
+
+
+
+
+
+
+
+
+
+
+
+b) d’un service de police, notamment en ce qui a trait au contrôle d’application du droit canadien, provincial ou étranger;
+
+
+
+
+
+
+
+
+
+
+
+c) du commissaire de la concurrence au titre de la Loi sur la concurrence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Designated persons
+
+
+
+(3) The Commissioner of the Royal Canadian Mounted Police, the Director of the Canadian Security Intelligence Service, the Commissioner of Competition and the chief or head of a police service constituted under the laws of a province may designate for the purposes of this section any employee of his or her agency, or a class of such employees, whose duties are related to protecting national security or to law enforcement.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application du présent article, le commissaire de la Gendarmerie royale du Canada, le directeur du Service canadien du renseignement de sécurité, le commissaire de la concurrence ou le chef ou directeur d’un service de police constitué sous le régime d’une loi provinciale peut désigner, nommément ou par catégorie, les employés de son organisme dont les fonctions sont liées à la protection de la sécurité nationale ou au contrôle d’application des lois.
+
+
+
+Personnes désignées
+
+
+
+
+
+
+
+
+
+
+Limit on number of designated persons
+
+
+
+(4) The number of persons designated under subsection (3) in respect of a particular agency may not exceed the greater of five and the number that is equal to five per cent of the total number of employees of that agency.
+
+
+
+
+
+
+
+
+
+(4) Le nombre de personnes désignées par organisme ne peut dépasser cinq ou, s’il est supérieur, le nombre correspondant à cinq pour cent des effectifs.
+
+
+
+Limite du nombre de personnes désignées
+
+
+
+
+
+
+
+
+
+
+Delegation
+
+
+
+(5) The Commissioner of the Royal Canadian Mounted Police and the Director of the Canadian Security Intelligence Service may delegate his or her power to designate persons under subsection (3) to, respectively, a member of a prescribed class of senior officers of the Royal Canadian Mounted Police or a member of a prescribed class of senior officials of the Canadian Security Intelligence Service.
+
+
+
+
+
+
+
+
+
+(5) Le commissaire de la Gendarmerie royale du Canada peut déléguer son pouvoir de désignation à tout membre d’une catégorie réglementaire d’officiers supérieurs de son organisme. Le directeur du Service canadien du renseignement de sécurité peut déléguer son propre pouvoir de désignation à tout membre d’une catégorie réglementaire de cadres supérieurs de son organisme.
+
+
+
+Délégation
+
+
+
+
+
+
+
+
+
+
+Exceptional circumstances
+
+
+
+
+17. (1) A police officer may request a telecommunications service provider to provide the officer with the information referred to in subsection 16(1) in the following circumstances:
+
+
+
+
+
+
+
+
+
+
+(a) the officer believes on reasonable grounds that the urgency of the situation is such that the request cannot, with reasonable diligence, be made under that subsection;
+
+
+
+
+
+
+
+
+
+
+(b) the officer believes on reasonable grounds that the information requested is immediately necessary to prevent an unlawful act that would cause serious harm to any person or to property; and
+
+
+
+
+
+
+
+
+
+
+(c) the information directly concerns either the person who would perform the act that is likely to cause the harm or is the victim, or intended victim, of the harm.
+
+
+
+
+
+
+
+
+
+
+The police officer shall inform the telecommunications service provider of his or her name, rank, badge number and the agency in which he or she is employed and state that the request is being made in exceptional circumstances and under the authority of this subsection.
+
+
+
+
+
+
+
+
+
+
+17. (1) Tout officier de police peut demander au télécommunicateur de lui fournir les renseignements visés au paragraphe 16(1) si, à la fois :
+
+
+
+Circonstances exceptionnelles
+
+
+
+
+
+a) il a des motifs raisonnables de croire que l’urgence de la situation est telle qu’une demande ne peut, avec toute la diligence voulue, être faite en vertu de ce paragraphe;
+
+
+
+
+
+
+
+
+
+
+
+b) il a des motifs raisonnables de croire que les renseignements demandés sont immédiatement nécessaires pour empêcher la perpétration d’un acte illicite qui causerait des blessures corporelles graves ou des dommages importants à un bien;
+
+
+
+
+
+
+
+
+
+
+
+c) les renseignements portent directement sur soit la personne dont les actes sont susceptibles de causer les blessures ou les dommages, soit la victime ou la personne menacée.
+
+
+
+
+
+
+
+
+
+
+Il communique au télécommunicateur ses nom, rang et numéro d’insigne ainsi que le nom de son organisme et l’informe que la demande est faite en vertu du présent paragraphe en raison de circonstances exceptionnelles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obligation of telecommunications service provider
+
+
+
+(2) The telecommunications service provider shall provide the information to the police officer as if the request were made by a designated person under subsection 16(1).
+
+
+
+
+
+
+
+
+
+(2) Le télécommunicateur lui fournit les renseignements demandés comme si la demande avait été faite en vertu du paragraphe 16(1) par une personne désignée.
+
+
+
+Obligation du télécommunicateur
+
+
+
+
+
+
+
+
+
+
+Communication
+
+
+
+(3) The police officer shall, within 24 hours after making a request under subsection (1), communicate to a designated person employed in the same agency as the officer all of the information relating to the request that would be necessary if it had been made under subsection 16(1) and inform that person of the circumstances referred to in paragraphs (1)(a) to (c).
+
+
+
+
+
+
+
+
+
+(3) Dans les vingt-quatre heures suivant la présentation de sa demande, l’officier de police transmet à toute personne désignée relevant de son organisme l’information concernant la demande qui aurait été nécessaire si celle-ci avait été faite en vertu du paragraphe 16(1) et l’informe des circonstances visées aux alinéas (1)a) à c).
+
+
+
+Transmission d’information
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(4) On receiving the information, the designated person shall in writing inform the telecommunications service provider that the request was made in exceptional circumstances under the authority of subsection (1).
+
+
+
+
+
+
+
+
+
+(4) Sur réception de l’information, la personne désignée informe par écrit le télécommunicateur du fait que la demande a été faite en vertu du paragraphe (1) en raison de circonstances exceptionnelles.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Creation of record by designated person
+
+
+
+
+18. (1) A designated person who makes a request under subsection 16(1), or who receives information under subsection 17(3), shall create a record that
+
+
+
+
+
+
+
+
+
+
+(a) in the case of a request under subsection 16(1), identifies the duty or function referred to in subsection 16(2) in the performance of which the request is made, describes the relevance of the information requested to that duty or function and includes any other information that justifies the request and any other prescribed information; and
+
+
+
+
+
+
+
+
+
+
+(b) in the case where the designated person receives information under subsection 17(3), includes the information referred to in paragraph (a) as well as the circumstances referred to in paragraphs 17(1)(a) to (c).
+
+
+
+
+
+
+
+
+
+
+18. (1) La personne désignée qui fait une demande en vertu du paragraphe 16(1) ou qui reçoit de l’information au titre du paragraphe 17(3) est tenue de créer un registre faisant état de ce qui suit :
+
+
+
+Création d’un registre — personne désignée
+
+
+
+
+
+a) dans le cas où elle a fait la demande, la fonction visée au paragraphe 16(2) dans l’exercice de laquelle elle l’a faite et la pertinence des renseignements demandés en regard de l’exercice de cette fonction, ainsi que tout autre justificatif et tout autre renseignement prévus par règlement;
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas où elle a reçu l’information, les renseignements visés à l’alinéa a) et les circonstances visées aux alinéas 17(1)a) à c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Retention of records and dealing with information
+
+
+
+(2) The agency that employs the designated person shall retain records created under subsection (1) and deal with the information provided in response to requests made under subsection 16(1) or 17(1).
+
+
+
+
+
+
+
+
+
+(2) L’organisme dont relève la personne désignée est tenu de conserver le registre et de traiter les renseignements obtenus dans le cadre des demandes faites en vertu des paragraphes 16(1) ou 17(1).
+
+
+
+Tenue du registre et traitement des renseignements
+
+
+
+
+
+
+
+
+
+
+Use of information
+
+
+
+
+19. Information that is provided in response to a request made under subsection 16(1) or 17(1) shall not, without the consent of the individual to whom it relates, be used by the agency in which the designated person or police officer is employed except for the purpose for which the information was obtained or for a use consistent with that purpose.
+
+
+
+
+
+
+
+
+
+
+19. Sauf consentement de l’intéressé, les renseignements obtenus par la personne désignée ou l’officier de police ne peuvent servir à son organisme qu’aux fins auxquelles ils ont été obtenus ou que pour des usages compatibles avec ces fins.
+
+
+
+Usage des renseignements recueillis
+
+
+
+
+
+
+
+
+
+
+Internal audit
+
+
+
+
+20. (1) The Commissioner of the Royal Canadian Mounted Police, the Director of the Canadian Security Intelligence Service, the Commissioner of Competition and any chief or head of a police service constituted under the laws of a province who makes a designation under subsection 16(3) shall cause internal audits to be regularly conducted of the practices of his or her agency to ensure compliance with sections 16 to 19 and the regulations made for the purposes of those sections and of the internal management and information systems and controls concerning requests made under sections 16 and 17.
+
+
+
+
+
+
+
+
+
+
+20. (1) Le commissaire de la Gendarmerie royale du Canada, le directeur du Service canadien du renseignement de sécurité, le commissaire de la concurrence ou le chef ou directeur d’un service de police constitué sous le régime d’une loi provinciale qui a fait la désignation prévue au paragraphe 16(3) fait procéder régulièrement, d’une part, à des vérifications internes des méthodes et usages de son organisme afin de contrôler l’observation des articles 16 à 19 et de leurs règlements d’application et, d’autre part, à des vérifications internes des moyens de contrôle et des systèmes en matière de gestion et d’information concernant les demandes prévues aux articles 16 et 17.
+
+
+
+Vérification interne
+
+
+
+
+
+
+
+
+
+
+Report to responsible minister
+
+
+
+(2) The person who causes an internal audit to be conducted shall, without delay, make a report to the responsible minister of anything arising out of the audit that in his or her opinion should be brought to the attention of that minister including any corrective action proposed or taken.
+
+
+
+
+
+
+
+
+
+(2) La personne qui fait procéder à une vérification interne établit dans les meilleurs délais à l’intention du ministre compétent un rapport sur toute question découlant de la vérification qui, à son avis, doit être portée à la connaissance de celui-ci, y compris les mesures de redressement prises ou proposées.
+
+
+
+Rapport au ministre
+
+
+
+
+
+
+
+
+
+
+Copy of report
+
+
+
+(3) A copy of the report is to be provided by that person
+
+
+
+
+
+
+
+
+
+
+(a) if it concerns the Royal Canadian Mounted Police or the Commissioner of Competition, to the Privacy Commissioner appointed under section 53 of the Privacy Act;
+
+
+
+
+
+
+
+
+
+
+(b) if it concerns the Canadian Security Intelligence Service, to the Security Intelligence Review Committee established by subsection 34(1) of the Canadian Security Intelligence Service Act; and
+
+
+
+
+
+
+
+
+
+
+(c) if it concerns a police service constituted under the laws of a province, to the public officer for that province whose duties include investigations relating to the protection of privacy.
+
+
+
+
+
+
+
+
+
+(3) Elle transmet une copie du rapport :
+
+
+
+Copie du rapport
+
+
+
+
+
+a) si celui-ci est établi par le commissaire de la Gendarmerie royale du Canada ou le commissaire de la concurrence, au Commissaire à la protection de la vie privée nommé en vertu de l’article 53 de la Loi sur la protection des renseignements personnels;
+
+
+
+
+
+
+
+
+
+
+
+b) s’il est établi par le directeur du Service canadien du renseignement de sécurité, au comité de surveillance des activités de renseignement de sécurité constitué par le paragraphe 34(1) de la Loi sur le Service canadien du renseignement de sécurité;
+
+
+
+
+
+
+
+
+
+
+
+c) s’il est établi par le chef ou directeur d’un service de police constitué sous le régime d’une loi provinciale, au fonctionnaire de la province dont les fonctions comportent les enquêtes relatives à la protection de la vie privée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Audit — Privacy Commissioner
+
+
+
+(4) The Privacy Commissioner may, on reasonable notice, conduct an audit of the practices of the Royal Canadian Mounted Police or the Commissioner of Competition to ensure compliance with sections 16 to 19 and the regulations made for the purposes of those sections and of the internal management and information systems and controls concerning requests made under sections 16 and 17. The provisions of the Privacy Act apply, with any necessary modifications, in respect of the audit as if it were an investigation under that Act.
+
+
+
+
+
+
+
+
+
+(4) Le Commissaire à la protection de la vie privée peut, sur préavis suffisant, procéder, d’une part, à des vérifications des méthodes et usages de la Gendarmerie royale du Canada ou du commissaire de la concurrence afin de contrôler l’observation des articles 16 à 19 et de leurs règlements d’application et, d’autre part, à des vérifications des moyens de contrôle et des systèmes en matière de gestion et d’information de l’un ou l’autre concernant les demandes prévues aux articles 16 et 17. La Loi sur la protection des renseignements personnels s’applique, avec les adaptations nécessaires, à la vérification comme si elle constituait une enquête en vertu de cette loi.
+
+
+
+Vérification : Commissaire à la protection de la vie privée
+
+
+
+
+
+
+
+
+
+
+Audit — Security Intelligence Review Committee
+
+
+
+(5) For greater certainty, the functions of the Security Intelligence Review Committee under section 38 of the Canadian Security Intelligence Service Act include the power to conduct an audit of the practices of the Canadian Security Intelligence Service to ensure compliance with sections 16, 18 and 19 and the regulations made for the purposes of those sections and of the internal management and information systems and controls concerning requests made under section 16.
+
+
+
+
+
+
+
+
+
+(5) Il est entendu que les fonctions du comité de surveillance des activités de renseignement de sécurité prévues à l’article 38 de la Loi sur le Service canadien du renseignement de sécurité comportent le pouvoir de procéder aux vérifications des méthodes et usages du Service canadien du renseignement de sécurité afin de contrôler l’observation des articles 16, 18 et 19 et de leurs règlements d’application et aux vérifications des moyens de contrôle et des systèmes en matière de gestion et d’information de celui-ci concernant les demandes prévues à l’article 16.
+
+
+
+Vérification : comité de surveillance des activités de renseignement de sécurité
+
+
+
+
+
+
+
+
+
+
+Report concerning provincial audit capability
+
+
+
+(6) The Privacy Commissioner shall, in the report made to Parliament for each financial year, identify the public officers to whom copies of reports are to be provided under paragraph (3)(c) and report on the powers that they have to conduct audits similar to those referred to in subsection (4) with respect to the police services constituted under the laws of their province.
+
+
+
+
+
+
+
+
+
+(6) Le Commissaire à la protection de la vie privée fait état, dans le rapport qu’il présente pour chaque exercice au Parlement, des fonctionnaires à qui des rapports doivent être transmis en application de l’alinéa (3)c) et du pouvoir qu’ils possèdent de procéder à des vérifications semblables à celles visées au paragraphe (4) à l’égard des services de police constitués sous le régime des lois de leur province.
+
+
+
+Rapport concernant la vérification faite au niveau provincial
+
+
+
+
+
+
+
+
+
+
+Records of service provider
+
+
+
+(7) A person conducting an internal audit under this section may require a telecommunications service provider to give the person access to any records in the possession or control of the service provider that are relevant to the audit.
+
+
+
+
+
+
+
+
+
+(7) Toute personne procédant à une vérification interne au titre du présent article peut exiger de tout télécommunicateur qu’il lui donne accès à tout registre qu’il possède ou dont il dispose et qui est pertinent.
+
+
+
+Registres des télécommunicateurs
+
+
+
+
+
+
+
+
+
+
+Definition of “responsible minister”
+
+
+
+(8) For the purposes of this section, “responsible minister” means
+
+
+
+
+
+
+
+
+
+
+(a) in relation to the Commissioner of the Royal Canadian Mounted Police and the Director of the Canadian Security Intelligence Service, the Minister of Public Safety and Emergency Preparedness;
+
+
+
+
+
+
+
+
+
+
+(b) in relation to the Commissioner of Competition, the Minister of Industry; and
+
+
+
+
+
+
+
+
+
+
+(c) in relation to the chief or head of a police service constituted under the laws of a province, the Attorney General of that province.
+
+
+
+
+
+
+
+
+
+(8) Pour l’application du présent article, « ministre compétent » s’entend :
+
+
+
+Définition de « ministre compétent »
+
+
+
+
+
+a) s’agissant du commissaire de la Gendarmerie royale du Canada et du directeur du Service canadien du renseignement de sécurité, du ministre de la Sécurité publique et de la Protection civile;
+
+
+
+
+
+
+
+
+
+
+
+b) s’agissant du commissaire de la concurrence, du ministre de l’Industrie;
+
+
+
+
+
+
+
+
+
+
+
+c) s’agissant du chef ou directeur d’un service de police constitué sous le régime d’une loi provinciale, du procureur général de la province.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Entitlement to fee
+
+
+
+
+21. (1) A telecommunications service pro- vider that provides information to a person under section 16 or 17 is entitled to be paid the prescribed fee for providing the information.
+
+
+
+
+
+
+
+
+
+
+21. (1) Le télécommunicateur qui fournit des renseignements en application des articles 16 ou 17 a le droit de recevoir les droits réglementaires.
+
+
+
+Droits
+
+
+
+
+
+
+
+
+
+
+Payment of fee by designating authority
+
+
+
+(2) If the information is requested by a designated person under section 16, the fee is to be paid by the designating authority.
+
+
+
+
+
+
+
+
+
+(2) Si la demande est faite par une personne désignée au titre de l’article 16, les droits sont payés par la personne qui l’a désignée.
+
+
+
+Paiement des droits — personne désignée
+
+
+
+
+
+
+
+
+
+
+Payment of fee by police service
+
+
+
+(3) If the information is requested by a police officer under section 17, the fee is to be paid by the chief or head of the police service that employs the police officer.
+
+
+
+
+
+
+
+
+
+(3) Si elle est faite par un officier de police au titre de l’article 17, ils sont payés par le chef ou directeur du service de police de qui relève l’officier.
+
+
+
+Paiement des droits — officier de police
+
+
+
+
+
+
+
+
+
+
+Preservation of existing authority
+
+
+
+
+22. Nothing in this Act derogates from any other authority under law to obtain the information referred to in subsection 16(1) from a telecommunications service provider.
+
+
+
+
+
+
+
+
+
+
+22. La présente loi n’a pas pour effet de porter atteinte aux pouvoirs de quiconque d’obtenir, en application d’une règle de droit, les renseignements visés au paragraphe 16(1) auprès d’un télécommunicateur.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Deemed nature of information
+
+
+
+
+23. Personal information, as defined in subsection 2(1) of the Personal Information Protection and Electronic Documents Act, that is provided under subsection 16(1) or 17(1) is deemed, for the purposes of subsections 9(2.1) to (2.4) of that Act, to be disclosed under subparagraph 7(3)(c.1)(i) or (ii), and not under paragraph 7(3)(i), of that Act. This section operates despite the other provisions of Part 1 of that Act.
+
+
+
+
+
+
+
+
+
+
+23. Pour l’application des paragraphes 9(2.1) à (2.4) de la Loi sur la protection des renseignements personnels et les documents électroniques, les renseignements personnels au sens du paragraphe 2(1) de cette loi qui sont fournis au titre des paragraphes 16(1) ou 17(1) sont réputés être communiqués au titre des sous-alinéas 7(3)c.1)(i) ou (ii) de cette loi et non de son alinéa 7(3)i). Le présent article s’applique malgré les autres dispositions de la partie 1 de la même loi.
+
+
+
+Dérogation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Miscellaneous Provisions
+
+
+
+
+
+
+
+
+
+Dispositions diverses
+
+
+
+
+
+
+
+
+
+
+
+
+Facility and service information
+
+
+
+
+24. (1) A telecommunications service pro- vider shall, on the request of a police officer or of an employee of the Royal Canadian Mounted Police or the Canadian Security Intelligence Service,
+
+
+
+
+
+
+
+
+
+
+(a) provide the prescribed information relating to the service provider’s telecommunications facilities;
+
+
+
+
+
+
+
+
+
+
+(b) indicate what telecommunications serv- ices the service provider offers to subscrib- ers; and
+
+
+
+
+
+
+
+
+
+
+(c) provide the name, address and telephone number of any telecommunications service providers from whom the service provider obtains or to whom the service provider provides telecommunications services, if the service provider has that information.
+
+
+
+
+
+
+
+
+
+
+24. (1) Sur demande de tout officier de police ou employé de la Gendarmerie royale du Canada ou du Service canadien du renseignement de sécurité, le télécommunicateur :
+
+
+
+Renseignements sur les installations et les services
+
+
+
+
+
+a) lui fournit l’information réglementaire se rapportant à ses installations de télécommunication;
+
+
+
+
+
+
+
+
+
+
+
+b) lui indique la nature des services de télécommunication qu’il offre à ses abonnés;
+
+
+
+
+
+
+
+
+
+
+
+c) lui fournit les nom, adresse et numéro de téléphone, s’il les connaît, de tout autre télécommunicateur dont il obtient des services de télécommunication ou à qui il en fournit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obligation to provide information to authorized persons
+
+
+
+(2) A telecommunications service provider shall, on the request of an authorized person, provide the prescribed information concerning
+
+
+
+
+
+
+
+
+
+
+(a) telecommunications services that are provided by the service provider to a person whose communications are the subject of a court order authorizing their interception; and
+
+
+
+
+
+
+
+
+
+
+(b) telecommunications facilities that are used by the service provider in providing those telecommunications services.
+
+
+
+
+
+
+
+
+
+(2) Sur demande de toute personne autorisée, le télécommunicateur lui fournit l’information réglementaire concernant :
+
+
+
+Obligation de fournir des renseignements à une personne autorisée
+
+
+
+
+
+a) les services de télécommunication qu’il fournit à la personne dont les communications font l’objet d’une ordonnance judiciaire autorisant leur interception;
+
+
+
+
+
+
+
+
+
+
+
+b) les installations de télécommunication qu’il utilise pour lui fournir ces services de télécommunication.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obligation to assist — assessment and testing
+
+
+
+
+25. A telecommunications service provider shall, on the request of a police officer or of an employee of the Royal Canadian Mounted Police or the Canadian Security Intelligence Service, provide all reasonable assistance to permit the police officer or employee to assess or to test the service provider’s telecommunications facilities that may be used to intercept communications.
+
+
+
+
+
+
+
+
+
+
+25. Sur demande de tout officier de police ou employé de la Gendarmerie royale du Canada ou du Service canadien du renseignement de sécurité, le télécommunicateur lui prête toute l’assistance possible pour évaluer ou mettre à l’essai celles de ses installations de télécommunication pouvant servir aux interceptions.
+
+
+
+Obligation de prêter assistance : évaluation et mise à l’essai
+
+
+
+
+
+
+
+
+
+
+Notification of change
+
+
+
+
+26. If the Canadian Security Intelligence Service or a law enforcement agency has provided a telecommunications service provider with any equipment or other thing for intercepting communications, the service provider shall, before making any change to the service provider’s telecommunications facilities that is likely to impair or reduce the interception capability of the equipment or other thing, notify the Canadian Security Intelligence Service or law enforcement agency, as the case may be, of the change.
+
+
+
+
+
+
+
+
+
+
+26. Si le Service canadien du renseignement de sécurité ou tout organisme chargé du contrôle d’application des lois lui a fourni tout équipement ou autre bien pouvant servir aux interceptions, le télécommunicateur notifie préala- blement au Service ou à l’organisme, selon le cas, toute modification à ses installations qui portera vraisemblablement atteinte à la capacité d’interception de l’équipement ou du bien.
+
+
+
+Notification
+
+
+
+
+
+
+
+
+
+
+Notification — simultaneous interception capability
+
+
+
+
+27. A telecommunications service provider shall notify the Minister when
+
+
+
+
+
+
+
+
+
+
+(a) in respect of any particular transmission apparatus, the increased number of simultaneous interceptions that the service provider is required, as a result of a request referred to in subparagraph 7(d)(ii), to be capable of enabling is 75% or more of the maximum number that is applicable under that subparagraph; or
+
+
+
+
+
+
+
+
+
+
+(b) the number of simultaneous interceptions that the service provider is required, under sections 8 to 11, to be capable of enabling is 75% or more of the global limit that is applicable under section 12.
+
+
+
+
+
+
+
+
+
+
+27. Le télécommunicateur informe le ministre lorsque :
+
+
+
+Notification : interceptions simultanées
+
+
+
+
+
+a) à l’égard d’un appareil de transmission donné, le nombre accru d’interceptions simultanées qu’il doit être en mesure de permettre par suite de la demande visée au sous-alinéa 7d)(ii) atteint 75 % du nombre maximal applicable au titre de ce sous-alinéa;
+
+
+
+
+
+
+
+
+
+
+
+b) le nombre d’interceptions simultanées qu’il doit être en mesure de permettre en application des articles 8 à 11 atteint 75 % de la limite globale applicable au titre de l’article 12.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Persons engaged in interceptions
+
+
+
+
+28. (1) A telecommunications service pro- vider shall, on the request of the Royal Canadian Mounted Police or the Canadian Security Intelligence Service, provide a list of the names of the persons who are employed by or carrying out work for the service provider who may assist in the interception of communications.
+
+
+
+
+
+
+
+
+
+
+28. (1) Sur demande de la Gendarmerie royale du Canada ou du Service canadien du renseignement de sécurité, le télécommunicateur lui fournit la liste des noms de ses employés ou contractuels qui peuvent prêter assistance dans le cadre de l’interception d’une communication.
+
+
+
+Liste d’employés pouvant prêter assistance
+
+
+
+
+
+
+
+
+
+
+Changes to the list
+
+
+
+(2) A telecommunications service provider shall provide any changes to the list to the agency who made the request.
+
+
+
+
+
+
+
+
+
+(2) Il informe l’organisme qui a fait la demande de toute modification à la liste.
+
+
+
+Modification à la liste
+
+
+
+
+
+
+
+
+
+
+Security assessments
+
+
+
+(3) The Royal Canadian Mounted Police or the Canadian Security Intelligence Service may conduct an investigation for the purposes of a security assessment of any of those persons who consent to the investigation.
+
+
+
+
+
+
+
+
+
+(3) La Gendarmerie royale du Canada ou le Service canadien du renseignement de sécurité peut tenir une enquête en vue d’une évaluation de sécurité de ces employés et contractuels s’ils y consentent.
+
+
+
+Évaluation de sécurité
+
+
+
+
+
+
+
+
+
+
+Specialized telecommunications support
+
+
+
+
+29. (1) If the prescribed conditions are met, a telecommunications service provider that provides under this Act prescribed specialized telecommunications support to the Canadian Security Intelligence Service or a law enforcement agency is entitled, on request, to be paid an amount determined in accordance with the regulations for providing that support.
+
+
+
+
+
+
+
+
+
+
+29. (1) Le télécommunicateur qui, au titre de la présente loi, fournit de l’appui spécialisé en télécommunication, prévu par règlement, au Service canadien du renseignement de sécurité ou à tout organisme chargé du contrôle d’application des lois a le droit de recevoir, sur demande, si les conditions réglementaires sont satisfaites, la somme établie conformément aux règlements.
+
+
+
+Appui spécialisé en télécommunication
+
+
+
+
+
+
+
+
+
+
+Payment
+
+
+
+(2) The amount shall be paid by the agency that received the specialized telecommunications support.
+
+
+
+
+
+
+
+
+
+(2) La somme est payée par l’organisme qui a reçu l’appui spécialisé en télécommunication.
+
+
+
+Paiement
+
+
+
+
+
+
+
+
+
+
+Mandatory reporting — acquisition of transmission apparatus
+
+
+
+
+30. (1) A telecommunications service pro- vider that acquires transmission apparatus referred to in subsection 10(2) shall, before using it in providing telecommunications services, submit to the Minister a report in the prescribed form and manner containing the following information:
+
+
+
+
+
+
+
+
+
+
+(a) the prescribed information concerning the extent to which the service provider meets operational requirements in respect of the transmission apparatus; and
+
+
+
+
+
+
+
+
+
+
+(b) any prescribed information relevant to the administration of this Act.
+
+
+
+
+
+
+
+
+
+
+30. (1) Le télécommunicateur qui acquiert tout appareil de transmission visé au paragraphe 10(2) présente au ministre, avant de fournir des services de télécommunication au moyen de l’appareil, un rapport établi selon les modalités réglementaires et contenant les renseignements suivants :
+
+
+
+Rapport : acquisition d’appareil
+
+
+
+
+
+a) les renseignements réglementaires indiquant la mesure dans laquelle il satisfait aux exigences opérationnelles liées à l’appareil;
+
+
+
+
+
+
+
+
+
+
+
+b) tout renseignement réglementaire qui touche à l’application de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other reporting
+
+
+
+(2) A telecommunications service provider shall, at the request of the Minister, submit a report or further report in the form and manner, and within the period, that the Minister specifies containing the information referred to in paragraphs (1)(a) and (b) and any additional related information that the Minister specifies.
+
+
+
+
+
+
+
+
+
+(2) Sur demande du ministre, le télécommunicateur présente, selon les modalités de temps et autres précisées, un rapport contenant les renseignements visés aux alinéas (1)a) et b) et les renseignements complémentaires précisés.
+
+
+
+Autre rapport
+
+
+
+
+
+
+
+
+
+
+Statement
+
+
+
+(3) Every report submitted under this section must include a written statement certifying that it does not contain any untrue statements or omissions of material facts, that it fairly presents the telecommunications service provider’s operations at the time of submission and that the signator has taken steps to ensure the report’s accuracy and promises to correct any material error that is detected in the report after its submission and to submit a revised report to the Minister as soon as possible, with another similar written statement accompanying it.
+
+
+
+
+
+
+
+
+
+(3) Le rapport présenté en conformité avec le présent article comprend une attestation portant qu’il ne comporte aucun faux renseignement, qu’il comporte tous les renseignements importants et qu’il présente fidèlement la situation du télécommunicateur à la date de sa présentation. Le signataire atteste également qu’il a pris toutes les mesures nécessaires pour s’assurer de l’exactitude du rapport. Si des erreurs importantes sont découvertes dans le rapport après sa présentation, il s’engage à faire parvenir au ministre, dans les meilleurs délais, un rapport corrigé qui comprend une autre attestation.
+
+
+
+Attestation
+
+
+
+
+
+
+
+
+
+
+Signator of statement
+
+
+
+(4) The statement must be signed
+
+
+
+
+
+
+
+
+
+
+(a) if the telecommunications service provid- er is a corporation, by one of its officers or directors; and
+
+
+
+
+
+
+
+
+
+
+(b) in any other case, by an individual who is an owner of the telecommunications service provider or by an officer or a director of a corporation that is an owner of the telecommunications service provider.
+
+
+
+
+
+
+
+
+
+(4) Le signataire de l’attestation est :
+
+
+
+Signataire
+
+
+
+
+
+a) dans le cas où le télécommunicateur est une personne morale, un de ses dirigeants ou administrateurs;
+
+
+
+
+
+
+
+
+
+
+
+b) dans les autres cas, soit le particulier qui est propriétaire du télécommunicateur, seul ou avec d’autres, soit un des dirigeants ou administrateurs de la personne morale qui en est propriétaire, seule ou avec d’autres.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No redundant performance required
+
+
+
+
+31. If two or more telecommunications service providers have, in effect, the same obligation under this Act in connection with any given transmission apparatus or a given interception and any one of them performs that obligation, it is deemed to be performed by all.
+
+
+
+
+
+
+
+
+
+
+31. Si plusieurs télécommunicateurs sont tenus d’exécuter la même obligation prévue par la présente loi dans le cadre de l’exploitation d’un appareil de transmission ou d’une interception, ils sont solidaires de l’exécution de cette obligation par l’un d’eux.
+
+
+
+Exécution d’une obligation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXEMPTIONS
+
+
+
+
+
+
+
+
+
+EXEMPTIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Exemption regulation
+
+
+
+
+32. (1) The Governor in Council may, on the recommendation of the Minister and the Minister of Industry, by regulation, exempt any class of telecommunications service providers from all or part of the obligations under any of sections 6, 9 to 11, 16, 17 and 30 or under any regulations made for the purposes of those sections.
+
+
+
+
+
+
+
+
+
+
+32. (1) Sur recommandation du ministre et du ministre de l’Industrie, le gouverneur en conseil peut par règlement exempter, par catégorie, des télécommunicateurs de tout ou partie des obligations prévues aux articles 6, 9 à 11, 16, 17 et 30 et par leurs règlements d’application.
+
+
+
+Règlement d’exemption
+
+
+
+
+
+
+
+
+
+
+Considerations
+
+
+
+(2) Before making or amending such a regulation, the Governor in Council shall consider
+
+
+
+
+
+
+
+
+
+
+(a) the extent to which the exemption would adversely affect national security or law enforcement;
+
+
+
+
+
+
+
+
+
+
+(b) whether the telecommunications service providers can comply with the obligations from which they would be exempted;
+
+
+
+
+
+
+
+
+
+
+(c) whether the costs of compliance with those obligations would have an unreasonable adverse effect on the business of the telecommunications service providers; and
+
+
+
+
+
+
+
+
+
+
+(d) whether compliance with those obligations would unreasonably impair the provision of telecommunications services to Canadians or the competitiveness of the Canadian telecommunications industry.
+
+
+
+
+
+
+
+
+
+(2) Avant de prendre ou de modifier un tel règlement, le gouverneur en conseil prend en considération :
+
+
+
+Éléments à prendre en considération
+
+
+
+
+
+a) la mesure dans laquelle l’exemption est susceptible de nuire à la sécurité nationale ou au contrôle d’application des lois;
+
+
+
+
+
+
+
+
+
+
+
+b) le fait que les télécommunicateurs visés ont la capacité ou non d’exécuter les obligations en cause;
+
+
+
+
+
+
+
+
+
+
+
+c) le fait que les dépenses liées au respect des obligations en cause auraient ou non des effets négatifs injustifiés sur les activités commerciales des télécommunicateurs;
+
+
+
+
+
+
+
+
+
+
+
+d) le fait que l’exécution des obligations en cause entraverait ou non sérieusement la prestation de services de télécommunication aux Canadiens ou la compétitivité de l’industrie canadienne des télécommunications.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conditions and term of regulation
+
+
+
+(3) In the regulation, the Governor in Council may include any conditions that the Governor in Council considers appropriate and shall fix its term for a period of not more than two years.
+
+
+
+
+
+
+
+
+
+(3) Il peut assortir l’exemption des conditions qu’il estime indiquées et l’accorde pour une période maximale de deux ans.
+
+
+
+Conditions et durée de l’exemption
+
+
+
+
+
+
+
+
+
+
+Exemptions related to ss. 10 or 11
+
+
+
+(4) When a regulation under which a telecommunications service provider is exempted from an obligation under section 10 or 11 expires or is repealed, section 10 or 11, as the case may be, applies to the telecommunications service provider that was exempted as of the date of expiry or repeal as if the exemption had never been made.
+
+
+
+
+
+
+
+
+
+(4) À la date d’expiration de l’exemption d’une obligation prévue aux articles 10 ou 11 ou de l’abrogation du règlement, l’article en cause s’applique au télécommunicateur pour l’avenir comme si l’exemption n’avait jamais été accordée.
+
+
+
+Exemption de l’application des articles 10 et 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATION AND ENFORCEMENT
+
+
+
+
+
+
+
+
+
+EXÉCUTION ET CONTRÔLE D’APPLICATION
+
+
+
+
+
+
+
+
+
+
+
+
+Designation
+
+
+
+
+33. (1) For the purposes of the administration of this Act, the Minister may designate persons or classes of persons to exercise powers in relation to any matter referred to in the designation.
+
+
+
+
+
+
+
+
+
+
+33. (1) Le ministre peut, pour l’exécution de la présente loi, désigner toute personne — individuellement ou au titre de son appartenance à une catégorie — pour exercer des pouvoirs relativement à toute question mentionnée dans la désignation.
+
+
+
+Désignation
+
+
+
+
+
+
+
+
+
+
+Certificate of designation
+
+
+
+(2) Designated persons are to receive a certificate attesting to their designation and shall, on request, present the certificate to any person appearing to be in charge of any place that they enter.
+
+
+
+
+
+
+
+
+
+(2) La personne désignée reçoit un certificat attestant sa qualité, qu’elle présente, sur demande, à toute personne apparemment responsable du lieu visité.
+
+
+
+Certificat
+
+
+
+
+
+
+
+
+
+
+Authority to enter
+
+
+
+
+34. (1) A person who is designated to verify compliance with this Act may, for that purpose, enter any place owned by, or under the control of, any telecommunications service provider in which that person has reasonable grounds to believe there is any document, information, transmission apparatus, telecommunications facility or any other thing to which this Act applies.
+
+
+
+
+
+
+
+
+
+
+34. (1) La personne désignée pour vérifier le respect de la présente loi peut, à cette fin, procéder à la visite de tout lieu appartenant à un télécommunicateur — ou placé sous sa responsabilité — où se trouvent, à son avis fondé sur des motifs raisonnables, des installations de télécommunication, des appareils de transmission, des documents, des renseignements ou des objets visés par la présente loi.
+
+
+
+Visite
+
+
+
+
+
+
+
+
+
+
+Powers on entry
+
+
+
+(2) The designated person may, for the purpose of verifying compliance with this Act,
+
+
+
+
+
+
+
+
+
+
+(a) examine any document, information or thing found in the place and open or cause to be opened any container or other thing;
+
+
+
+
+
+
+
+
+
+
+(b) examine or test or cause to be tested any telecommunications facility or transmission apparatus or related equipment found in the place;
+
+
+
+
+
+
+
+
+
+
+(c) use, or cause to be used, any computer system at the place to search and examine any information contained in or available to the system;
+
+
+
+
+
+
+
+
+
+
+(d) reproduce, or cause to be reproduced, any information in the form of a printout, or other intelligible output, and remove the printout, or other output, for examination or copying; or
+
+
+
+
+
+
+
+
+
+
+(e) use, or cause to be used, any copying equipment or means of telecommunication at the place.
+
+
+
+
+
+
+
+
+
+(2) Elle peut, à cette même fin :
+
+
+
+Pouvoirs
+
+
+
+
+
+a) examiner les documents, les renseignements ou les objets se trouvant dans le lieu et ouvrir, directement ou indirectement, tout contenant ou autre objet;
+
+
+
+
+
+
+
+
+
+
+
+b) examiner toute installation de télécommunication ou tout appareil de transmission ou matériel connexe s’y trouvant et lui faire subir, directement ou indirectement, des essais;
+
+
+
+
+
+
+
+
+
+
+
+c) faire usage, directement ou indirectement, de tout système informatique s’y trouvant pour vérifier les données qu’il contient ou auxquelles il donne accès;
+
+
+
+
+
+
+
+
+
+
+
+d) reproduire ou faire reproduire toute information sous forme d’imprimé ou toute autre forme intelligible qu’elle peut emporter pour examen ou reproduction;
+
+
+
+
+
+
+
+
+
+
+
+e) faire usage, directement ou indirectement, du matériel de reproduction et des moyens de télécommunication se trouvant dans le lieu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assistance and information
+
+
+
+(3) The owner or person in charge of the place and every person who is in the place shall give all assistance that is reasonably required to enable the designated person to verify compliance with this Act and shall provide any documents, data and information that are reasonably required for that purpose.
+
+
+
+
+
+
+
+
+
+(3) Le propriétaire ou le responsable du lieu visité, ainsi que quiconque s’y trouve, sont tenus de prêter à la personne désignée toute l’assistance possible pour lui permettre de vérifier le respect de la présente loi et de lui fournir les documents, données et renseignements qu’elle peut valablement exiger.
+
+
+
+Assistance
+
+
+
+
+
+
+
+
+
+
+Designated person may be accompanied
+
+
+
+(4) The designated person, when entering a place referred to in subsection (1), may be accompanied by any person chosen by the designated person.
+
+
+
+
+
+
+
+
+
+(4) La personne désignée peut, pour la visite, se faire accompagner de toute personne de son choix.
+
+
+
+Personne désignée accompagnée d’un tiers
+
+
+
+
+
+
+
+
+
+
+Warrant for dwelling-house
+
+
+
+
+35. (1) If the place referred to in subsection 34(1) is a dwelling-house, the designated person may not enter it without the consent of the occupant except under the authority of a warrant issued under subsection (2).
+
+
+
+
+
+
+
+
+
+
+35. (1) Dans le cas d’une maison d’habitation, la personne désignée ne peut toutefois procéder à la visite sans le consentement de l’occupant que si elle est munie du mandat prévu au paragraphe (2).
+
+
+
+Mandat pour maison d’habitation
+
+
+
+
+
+
+
+
+
+
+Authority to issue warrant
+
+
+
+(2) On ex parte application, a justice of the peace may issue a warrant authorizing a designated person who is named in it to enter a dwelling-house, subject to any conditions that may be specified in the warrant, if the justice is satisfied by information on oath that
+
+
+
+
+
+
+
+
+
+
+(a) the dwelling-house is a place referred to in subsection 34(1);
+
+
+
+
+
+
+
+
+
+
+(b) entry to the dwelling-house is necessary for the purpose of verifying compliance with this Act; and
+
+
+
+
+
+
+
+
+
+
+(c) entry was refused by the occupant or there are reasonable grounds to believe that entry will be refused or that consent to entry cannot be obtained from the occupant.
+
+
+
+
+
+
+
+
+
+(2) Sur demande ex parte, le juge de paix peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, la personne désignée qui y est nommée à procéder à la visite d’une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que sont réunis les éléments suivants :
+
+
+
+Délivrance du mandat
+
+
+
+
+
+a) la maison d’habitation est un lieu visé au paragraphe 34(1);
+
+
+
+
+
+
+
+
+
+
+
+b) la visite est nécessaire pour vérifier le respect de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+c) soit un refus a été opposé à la visite, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il est impossible d’obtenir le consentement de l’occupant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Entry onto private property
+
+
+
+
+36. (1) For the purpose of gaining entry to a place referred to in subsection 34(1), a designated person may enter private property and pass through it, and is not liable for doing so. For greater certainty, no person has a right to object to that use of the property and no warrant is required for entry onto the property unless the property is a dwelling-house.
+
+
+
+
+
+
+
+
+
+
+36. (1) La personne désignée peut, afin d’accéder au lieu visé au paragraphe 34(1), pénétrer dans une propriété privée et y circuler, et ce, sans encourir de poursuites à cet égard; il est entendu que nul ne peut s’y opposer et qu’aucun mandat n’est requis, sauf s’il s’agit d’une maison d’habitation.
+
+
+
+Droit de passage sur une propriété privée
+
+
+
+
+
+
+
+
+
+
+Persons accompanying designated persons
+
+
+
+(2) A person may, at the designated person’s request, accompany the designated person to assist them to gain entry to the place referred to in subsection 34(1) and is not liable for doing so.
+
+
+
+
+
+
+
+
+
+(2) Toute personne peut, à la demande de la personne désignée, accompagner celle-ci en vue de l’aider à accéder au lieu, et ce, sans encourir de poursuites à cet égard.
+
+
+
+Personne accompagnant la personne désignée
+
+
+
+
+
+
+
+
+
+
+Use of force
+
+
+
+
+37. In executing a warrant to enter a dwelling-house, a designated person shall not use force unless they are accompanied by a peace officer and the use of force has been specifically authorized in the warrant.
+
+
+
+
+
+
+
+
+
+
+37. La personne désignée ne peut recourir à la force dans l’exécution d’un mandat relatif à une maison d’habitation que si celui-ci en autorise expressément l’usage et qu’elle est accompagnée d’un agent de la paix.
+
+
+
+Usage de la force
+
+
+
+
+
+
+
+
+
+
+False statements or information
+
+
+
+
+38. (1) No person shall knowingly make a false or misleading statement or provide false or misleading information, in connection with any matter under this Act, to a designated person who is carrying out their functions under section 34.
+
+
+
+
+
+
+
+
+
+
+38. (1) Il est interdit à toute personne de faire sciemment une déclaration fausse ou trompeuse ou de communiquer sciemment des renseignements faux ou trompeurs, relativement à toute question visée par la présente loi, à toute personne désignée qui agit dans l’exercice des attributions qui lui sont conférées au titre de l’article 34.
+
+
+
+Renseignements faux ou trompeurs
+
+
+
+
+
+
+
+
+
+
+Obstruction
+
+
+
+(2) No person shall obstruct or hinder a designated person who is carrying out their functions under section 34.
+
+
+
+
+
+
+
+
+
+(2) Il est interdit à toute personne d’entraver l’action de toute personne désignée qui agit dans l’exercice des attributions qui lui sont conférées au titre de l’article 34.
+
+
+
+Entrave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE MONETARY PENALTIES
+
+
+
+
+
+
+
+
+
+PÉNALITÉS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Violations
+
+
+
+
+
+
+
+
+
+Violations
+
+
+
+
+
+
+
+
+
+
+
+
+Violations
+
+
+
+
+39. Every person who contravenes a provision, order, requirement or condition designated under subparagraph 64(1)(p)(i) commits a violation and is liable to an administrative monetary penalty not exceeding the prescribed maximum or, if no maximum has been prescribed, to a penalty not exceeding $50,000, in the case of an individual, and $250,000, in any other case.
+
+
+
+
+
+
+
+
+
+
+39. Toute contravention à un texte désigné en vertu du sous-alinéa 64(1)p)(i) constitue une violation passible d’une pénalité ne dépassant pas le maximum réglementaire; à défaut de ce maximum, la pénalité maximale est de 50 000 $, dans le cas des personnes physiques, et de 250 000 $, dans les autres cas.
+
+
+
+Violations
+
+
+
+
+
+
+
+
+
+
+Designation
+
+
+
+
+40. For the purposes of any of sections 39 and 41 to 53, the Minister may designate persons or classes of persons to exercise powers in relation to any matter referred to in the designation.
+
+
+
+
+
+
+
+
+
+
+40. Pour l’application de l’un ou l’autre des articles 39 et 41 à 53, le ministre peut désigner toute personne — individuellement ou au titre de son appartenance à une catégorie — pour exercer des pouvoirs relativement à toute question mentionnée dans la désignation.
+
+
+
+Désignation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notices of Violation
+
+
+
+
+
+
+
+
+
+Procès-verbaux
+
+
+
+
+
+
+
+
+
+
+
+
+Issuance and service
+
+
+
+
+41. (1) A designated person may issue a notice of violation and cause it to be served on a person if they believe on reasonable grounds that the person has committed a violation.
+
+
+
+
+
+
+
+
+
+
+41. (1) La personne désignée qui a des motifs raisonnables de croire qu’une violation a été commise peut dresser un procès-verbal qu’elle fait signifier à l’auteur présumé.
+
+
+
+Procès-verbal
+
+
+
+
+
+
+
+
+
+
+Contents of notice
+
+
+
+(2) The Minister may establish the form and content of notices of violation, but each notice of violation must
+
+
+
+
+
+
+
+
+
+
+(a) set out the name of the person believed to have committed the violation;
+
+
+
+
+
+
+
+
+
+
+(b) identify the violation;
+
+
+
+
+
+
+
+
+
+
+(c) set out the penalty that the person is liable to pay;
+
+
+
+
+
+
+
+
+
+
+(d) inform the person that they may, within 30 days after the day on which the notice is served or within any longer period specified in it, either pay the penalty set out in the notice or make representations with respect to the alleged violation or penalty — including any representations about entering into a compliance agreement — and set out the manner for doing so; and
+
+
+
+
+
+
+
+
+
+
+(e) inform the person that, if they fail to pay the penalty or make representations in accordance with the notice, they will be considered to have committed the violation and the penalty will be imposed.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut déterminer la forme et la teneur des procès-verbaux de violation. Tout procès-verbal mentionne :
+
+
+
+Contenu
+
+
+
+
+
+a) le nom de l’auteur présumé de la violation;
+
+
+
+
+
+
+
+
+
+
+
+b) les faits reprochés;
+
+
+
+
+
+
+
+
+
+
+
+c) le montant de la pénalité à payer;
+
+
+
+
+
+
+
+
+
+
+
+d) la faculté qu’a l’intéressé soit de payer la pénalité, soit de présenter des observations relativement à la violation ou à la pénalité — y compris en ce qui touche la conclusion d’une transaction —, et ce, dans les trente jours suivant la signification du procès-verbal ou dans le délai plus long précisé dans celui-ci, ainsi que les modalités d’exercice de cette faculté;
+
+
+
+
+
+
+
+
+
+
+
+e) le fait que le non-exercice de cette faculté vaut aveu de responsabilité et entraîne l’imposition de la pénalité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Criteria for penalty
+
+
+
+(3) The amount of a penalty is, in each case, to be determined taking into account the following matters:
+
+
+
+
+
+
+
+
+
+
+(a) that administrative monetary penalties have as their purpose to encourage compliance rather than to punish;
+
+
+
+
+
+
+
+
+
+
+(b) the nature and scope of the violation;
+
+
+
+
+
+
+
+
+
+
+(c) the person’s history of prior violations or convictions — or compliance agreements entered into — under this Act during the five-year period immediately before the violation;
+
+
+
+
+
+
+
+
+
+
+(d) the cumulative amount of the penalties that may be imposed for any violation in respect of which section 48 applies;
+
+
+
+
+
+
+
+
+
+
+(e) any prescribed criteria; and
+
+
+
+
+
+
+
+
+
+
+(f) any other relevant matter.
+
+
+
+
+
+
+
+
+
+(3) Pour la détermination du montant de la pénalité, il est tenu compte des éléments suivants :
+
+
+
+Détermination du montant de la pénalité
+
+
+
+
+
+a) le caractère non punitif de la pénalité, laquelle est destinée à encourager l’observation de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+b) la nature et la portée de la violation;
+
+
+
+
+
+
+
+
+
+
+
+c) les antécédents de l’auteur présumé — violation ou condamnation pour infraction à la présente loi ou conclusion de transactions en application de celle-ci — au cours des cinq ans précédant la violation;
+
+
+
+
+
+
+
+
+
+
+
+d) la totalité des montants des pénalités qui peuvent être imposées en application de l’article 48;
+
+
+
+
+
+
+
+
+
+
+
+e) tout critère réglementaire;
+
+
+
+
+
+
+
+
+
+
+
+f) tout autre élément pertinent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Determination of Responsibility and Penalty
+
+
+
+
+
+
+
+
+
+Responsabilité et pénalité
+
+
+
+
+
+
+
+
+
+
+
+
+Options
+
+
+
+
+42. (1) A person who is served with a notice of violation shall, in accordance with the notice, pay the penalty set out in the notice or make representations with respect to the amount of the penalty or the acts or omissions that constitute the alleged violation.
+
+
+
+
+
+
+
+
+
+
+42. (1) La personne à qui est signifié le procès-verbal est tenue, selon les modalités qui sont prévues dans celui-ci, soit de payer le montant de la pénalité, soit de présenter des observations relativement à celui-ci ou aux actes ou omissions en cause.
+
+
+
+Option
+
+
+
+
+
+
+
+
+
+
+Deemed violation
+
+
+
+(2) A person is deemed to have committed the violation if they either pay the penalty in accordance with the notice of violation or do not pay the penalty and do not make representations in accordance with the notice of violation.
+
+
+
+
+
+
+
+
+
+(2) Vaut déclaration de responsabilité à l’égard de la violation soit le paiement du montant de la pénalité selon les modalités prévues dans le procès-verbal, soit le défaut de paiement si l’intéressé a omis de présenter des observations selon ces modalités.
+
+
+
+Responsabilité réputée
+
+
+
+
+
+
+
+
+
+
+Making representations
+
+
+
+
+43. (1) The person alleged to have committed a violation may make representations to a designated person other than the one who issued the notice of violation.
+
+
+
+
+
+
+
+
+
+
+43. (1) L’auteur présumé de la violation peut présenter des observations à toute personne désignée autre que celle qui a dressé le procès-verbal.
+
+
+
+Observations
+
+
+
+
+
+
+
+
+
+
+Compliance agreement or decision
+
+
+
+(2) The designated person to whom the representations are made shall either
+
+
+
+
+
+
+
+
+
+
+(a) enter into a compliance agreement with the person on behalf of the Minister; or
+
+
+
+
+
+
+
+
+
+
+(b) decide on a balance of probabilities whether the person committed the violation and, if so, impose the penalty set out in the notice of violation, a lesser penalty or no penalty, taking into account the matters mentioned in subsection 41(3).
+
+
+
+
+
+
+
+
+
+
+The designated person shall cause notice of any decision made under paragraph (b) to be issued and served on the person together with written reasons for the decision and notice of the person’s right of appeal under subsection 44(1).
+
+
+
+
+
+
+
+
+
+(2) La personne désignée à qui l’auteur présumé de la violation présente des observations :
+
+
+
+Transaction ou décision
+
+
+
+
+
+a) soit conclut avec lui une transaction au nom du ministre;
+
+
+
+
+
+
+
+
+
+
+
+b) soit détermine, selon la prépondérance des probabilités, sa responsabilité et, le cas échéant, lui impose la pénalité mentionnée au procès-verbal ou une pénalité réduite, ou encore n’impose aucune pénalité, compte tenu des éléments énumérés au paragraphe 41(3).
+
+
+
+
+
+
+
+
+
+
+Elle lui fait signifier avis de la décision motivée prise au titre de l’alinéa b) et l’informe par la même occasion de son droit d’interjeter appel au titre du paragraphe 44(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms of compliance agreements
+
+
+
+(3) A compliance agreement
+
+
+
+
+
+
+
+
+
+
+(a) may include any terms that the designated person considers appropriate including a requirement that the person alleged to have committed a violation give reasonable security — in a form and an amount that the designated person considers satisfactory — for the person’s performance of the agreement; and
+
+
+
+
+
+
+
+
+
+
+(b) must provide for payment by the person alleged to have committed a violation to the Receiver General of a specified amount not greater than the penalty set out in the notice of violation if the person does not comply with the agreement.
+
+
+
+
+
+
+
+
+
+(3) La transaction :
+
+
+
+Conditions de la transaction
+
+
+
+
+
+a) peut être assortie des conditions que la personne désignée estime indiquées, notamment la fourniture d’une sûreté suffisante — dont le montant et la nature doivent lui agréer — en garantie de l’exécution de la transaction;
+
+
+
+
+
+
+
+
+
+
+
+b) doit exiger de l’auteur présumé qu’il verse au receveur général une somme ne pouvant dépasser le montant de la pénalité mentionné au procès-verbal s’il ne se conforme pas aux conditions prévues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agreement ends proceedings
+
+
+
+(4) Entry into a compliance agreement ends the violation proceedings and precludes any further violation or offence proceedings in relation to the act or omission in question.
+
+
+
+
+
+
+
+
+
+(4) La conclusion de la transaction met fin à la procédure et fait obstacle à toute autre procédure en violation ou procédure pénale à l’égard de l’acte ou de l’omission en cause.
+
+
+
+La transaction met fin à la procédure
+
+
+
+
+
+
+
+
+
+
+If agreement not complied with
+
+
+
+(5) The Minister may issue and serve a notice of default on a person who has entered into a compliance agreement but has not complied with it. On service of the notice, the person is liable to pay without delay the amount provided for in the agreement, failing which, the Minister may realize any security for the person’s performance of the agreement.
+
+
+
+
+
+
+
+
+
+(5) Le cas échéant, le ministre peut dresser et signifier à l’intéressé un avis du défaut d’exécution de la transaction, la somme prévue par la transaction devenant exigible, à défaut de quoi le ministre peut réaliser la sûreté.
+
+
+
+Avis de défaut d’exécution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appeal to Minister
+
+
+
+
+
+
+
+
+
+Appel auprès du ministre
+
+
+
+
+
+
+
+
+
+
+
+
+Right of appeal
+
+
+
+
+44. (1) A person served with notice of a decision made under paragraph 43(2)(b) may, within 30 days after the day on which the notice is served or within any longer period that the Minister allows in accordance with the regulations, appeal the decision to the Minister.
+
+
+
+
+
+
+
+
+
+
+44. (1) Il peut être interjeté appel auprès du ministre de la décision prise au titre de l’alinéa 43(2)b), dans les trente jours suivant la signification de l’avis de la décision ou dans le délai supérieur que le ministre peut accorder en conformité avec les règlements.
+
+
+
+Droit d’appel
+
+
+
+
+
+
+
+
+
+
+Powers of Minister
+
+
+
+(2) On an appeal, the Minister may confirm, set aside or vary the decision of the designated person.
+
+
+
+
+
+
+
+
+
+(2) Le cas échéant, le ministre confirme, annule ou modifie la décision.
+
+
+
+Pouvoirs du ministre
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rules About Violations
+
+
+
+
+
+
+
+
+
+Règles propres aux violations
+
+
+
+
+
+
+
+
+
+
+
+
+Vicarious liability — acts of employees, agents and mandataries
+
+
+
+
+45. A person is liable for a violation that is committed by the person’s employee acting in the course of his or her employment or the person’s agent or mandatary acting within the scope of his or her authority, whether or not the employee, agent or mandatary who actually committed the violation is identified or proceeded against.
+
+
+
+
+
+
+
+
+
+
+45. L’employeur ou le mandant est responsable de la violation commise par son employé ou son mandataire dans le cadre de son emploi ou du mandat, que celui-ci soit ou non connu ou poursuivi.
+
+
+
+Responsabilité indirecte — employés et mandataires
+
+
+
+
+
+
+
+
+
+
+Officers of corporations, etc.
+
+
+
+
+46. An officer, director, agent or mandatary of a person other than an individual that commits a violation is a party to the violation if he or she directed, authorized, assented to, acquiesced in or participated in the commission of the violation and is liable to the administrative monetary penalty provided for that violation whether or not the person that committed the violation has been proceeded against under sections 41 to 43. For greater certainty, an officer or director, or any agent or mandatary who is an individual, is liable only to the penalty provided in respect of an individual.
+
+
+
+
+
+
+
+
+
+
+46. En cas de commission par une personne autre qu’une personne physique d’une violation, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation et encourent la pénalité prévue, que la personne ayant commis la violation ait été ou non poursuivie au titre des articles 41 à 43. Il est entendu que les dirigeants et administrateurs, ainsi que les mandataires qui sont des personnes physiques, n’encourent que la pénalité prévue pour une personne physique.
+
+
+
+Cadres des personnes morales
+
+
+
+
+
+
+
+
+
+
+Defence of due diligence
+
+
+
+
+47. A person shall not be found to be liable for a violation if they establish that they exercised due diligence to prevent the commission of the violation.
+
+
+
+
+
+
+
+
+
+
+47. Nul ne peut être tenu responsable d’une violation s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa commission.
+
+
+
+Précautions voulues
+
+
+
+
+
+
+
+
+
+
+Continuing violation
+
+
+
+
+48. A violation that is committed or continued on more than one day constitutes a separate violation for each day on which it is committed or continued.
+
+
+
+
+
+
+
+
+
+
+48. Il est compté une violation distincte pour chacun des jours au cours desquels se commet ou se continue la violation.
+
+
+
+Violation continue
+
+
+
+
+
+
+
+
+
+
+Limitation period or prescription
+
+
+
+
+49. Any proceedings in respect of a violation may be instituted at any time within, but not later than, two years after the day on which the subject matter of the proceedings arose.
+
+
+
+
+
+
+
+
+
+
+49. Toute procédure en violation se prescrit par deux ans après le fait reproché.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Violation or offence
+
+
+
+
+50. (1) If it is possible to proceed with any act or omission as a violation and it is also possible to proceed with it as an offence, proceeding in one manner precludes proceeding in the other.
+
+
+
+
+
+
+
+
+
+
+50. (1) L’acte ou l’omission qualifiable à la fois de violation et d’infraction peut être réprimé soit comme violation, soit comme infraction, la procédure en violation et la poursuite pour infraction s’excluant toutefois mutuellement.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Violation not an offence
+
+
+
+(2) For greater certainty, a violation is not an offence.
+
+
+
+
+
+
+
+
+
+(2) Il est entendu que les violations ne sont pas des infractions.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Non-application of s. 126 of Criminal Code
+
+
+
+(3) Section 126 of the Criminal Code does not apply in respect of any obligation or prohibition under this Act whose contravention is a violation under this Act.
+
+
+
+
+
+
+
+
+
+(3) L’article 126 du Code criminel ne s’applique pas aux obligations ou interdictions prévues par la présente loi dont la contravention constitue une violation aux termes de celle-ci.
+
+
+
+Non-application — article 126 du Code criminel
+
+
+
+
+
+
+
+
+
+
+Admissibility of documents
+
+
+
+
+51. In any proceeding, in the absence of evidence to the contrary, a document that appears to be a notice issued under subsection 41(1) or 43(2) or (5) or a certificate issued under subsection 53(1) is presumed to be authentic and is proof of its contents.
+
+
+
+
+
+
+
+
+
+
+51. Dans toute instance, le document qui paraît être un procès-verbal dressé en vertu du paragraphe 41(1), un avis signifié en vertu des paragraphes 43(2) ou (5) ou un certificat de non-paiement établi en vertu du paragraphe 53(1) fait foi, sauf preuve contraire, de son authenticité et de son contenu.
+
+
+
+Admissibilité des documents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recovery of Penalties and Other Amounts
+
+
+
+
+
+
+
+
+
+Recouvrement des pénalités et autres sommes
+
+
+
+
+
+
+
+
+
+
+
+
+Debts to Her Majesty
+
+
+
+
+52. (1) A penalty imposed under this Act and an amount referred to in subsection 43(5) each constitute a debt due to Her Majesty in right of Canada and may be recovered in the Federal Court or any other court of competent jurisdiction.
+
+
+
+
+
+
+
+
+
+
+52. (1) Les pénalités et toute somme visée au paragraphe 43(5) constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale ou tout autre tribunal compétent.
+
+
+
+Créance de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+Limitation period or prescription
+
+
+
+(2) No proceedings to recover such a debt may be commenced later than five years after the day on which the debt became payable.
+
+
+
+
+
+
+
+
+
+(2) Le recouvrement de la créance se prescrit par cinq ans après la date à laquelle elle est devenue exigible.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Proceeds payable to Receiver General
+
+
+
+(3) Each such debt is payable to the Receiver General.
+
+
+
+
+
+
+
+
+
+(3) Les sommes en cause sont versées au receveur général.
+
+
+
+Receveur général
+
+
+
+
+
+
+
+
+
+
+Certificate
+
+
+
+
+53. (1) The Minister may issue a certificate certifying the unpaid amount of any debt referred to in subsection 52(1).
+
+
+
+
+
+
+
+
+
+
+53. (1) Le ministre peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe 52(1).
+
+
+
+Certificat de non-paiement
+
+
+
+
+
+
+
+
+
+
+Registration in Federal Court
+
+
+
+(2) Registration in the Federal Court or in any other court of competent jurisdiction of the certificate has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
+
+
+
+
+
+
+
+
+
+(2) L’enregistrement à la Cour fédérale ou à tout autre tribunal compétent confère au certificat valeur de jugement pour la somme visée et les frais afférents.
+
+
+
+Enregistrement en Cour fédérale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OFFENCES AND PUNISHMENT
+
+
+
+
+
+
+
+
+
+INFRACTIONS ET PEINES
+
+
+
+
+
+
+
+
+
+
+
+
+Misleading statements and information
+
+
+
+
+54. No person shall do any of the following things in performing any obligation under this Act or in any application, declaration or report made under it:
+
+
+
+
+
+
+
+
+
+
+(a) knowingly make a false or misleading statement or knowingly provide false or misleading information; or
+
+
+
+
+
+
+
+
+
+
+(b) knowingly omit to state a material fact or to provide material information.
+
+
+
+
+
+
+
+
+
+
+54. Il est interdit, dans le cadre de l’exécution d’une obligation prévue par la présente loi ou dans une demande, un rapport ou une déclaration faits sous son régime :
+
+
+
+Fausses déclarations
+
+
+
+
+
+a) de faire sciemment une déclaration fausse ou trompeuse ou de fournir sciemment des renseignements faux ou trompeurs;
+
+
+
+
+
+
+
+
+
+
+
+b) d’omettre sciemment de mentionner un fait important ou de fournir des renseignements importants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offence
+
+
+
+
+55. Every person who wilfully contravenes subsection 6(1) or (2), any of sections 8 to 11, an order made under subsection 14(1) or any regulations made under paragraph 64(1)(a) commits an offence and is liable on prosecution by summary conviction
+
+
+
+
+
+
+
+
+
+
+(a) in the case of an individual, to a fine not exceeding $100,000; or
+
+
+
+
+
+
+
+
+
+
+(b) in any other case, to a fine not exceeding $500,000.
+
+
+
+
+
+
+
+
+
+
+55. Quiconque contrevient volontairement aux paragraphes 6(1) ou (2), à l’un ou l’autre des articles 8 à 11, à un arrêté pris en vertu du paragraphe 14(1) ou à tout règlement pris en vertu de l’alinéa 64(1)a) commet une infraction passible, sur déclaration de culpabilité par procédure sommaire :
+
+
+
+Infraction
+
+
+
+
+
+a) dans le cas d’une personne physique, d’une amende maximale de 100 000 $;
+
+
+
+
+
+
+
+
+
+
+
+b) dans les autres cas, d’une amende maximale de 500 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offence
+
+
+
+
+56. (1) Every person who contravenes subsection 13(6), section 26, 30 or 54 or a condition referred to in subsection 32(3) is guilty of an offence punishable on summary conviction and liable
+
+
+
+
+
+
+
+
+
+
+(a) in the case of an individual, to a fine not exceeding $25,000 for a first offence, or $50,000 for a subsequent offence; or
+
+
+
+
+
+
+
+
+
+
+(b) in any other case, to a fine not exceeding $100,000 for a first offence, or $250,000 for a subsequent offence.
+
+
+
+
+
+
+
+
+
+
+56. (1) Quiconque contrevient au paragraphe 13(6), aux articles 26, 30 ou 54 ou à toute condition visée au paragraphe 32(3) commet une infraction passible, sur déclaration de culpabilité par procédure sommaire :
+
+
+
+Infraction
+
+
+
+
+
+a) dans le cas d’une personne physique, d’une amende maximale de 25 000 $ et, en cas de récidive, d’une amende maximale de 50 000 $;
+
+
+
+
+
+
+
+
+
+
+
+b) dans les autres cas, d’une amende maximale de 100 000 $ et, en cas de récidive, d’une amende maximale de 250 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obstruction of designated person
+
+
+
+(2) Every person who contravenes subsection 34(3) or 38(1) or (2) is guilty of an offence punishable on summary conviction and liable to a fine not exceeding $15,000.
+
+
+
+
+
+
+
+
+
+(2) Quiconque contrevient aux paragraphes 34(3) ou 38(1) ou (2) commet une infraction passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 15 000 $.
+
+
+
+Infraction
+
+
+
+
+
+
+
+
+
+
+Offence
+
+
+
+
+57. Every person who contravenes any provision of this Act or a regulation made under this Act, except in the case of an offence referred to in sections 55 and 56, is guilty of an offence punishable on summary conviction and liable to a fine not exceeding $250,000.
+
+
+
+
+
+
+
+
+
+
+57. Quiconque contrevient à toute disposition de la présente loi ou de ses règlements — sauf s’il s’agit d’une infraction prévue aux articles 55 ou 56 — commet une infraction passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 250 000 $.
+
+
+
+Infraction
+
+
+
+
+
+
+
+
+
+
+Consent of Attorney General of Canada required
+
+
+
+
+58. A prosecution may not be commenced in respect of an offence referred to in section 55 or subsection 56(1) without the consent of the Attorney General of Canada.
+
+
+
+
+
+
+
+
+
+
+58. La poursuite des infractions prévues à l’article 55 et au paragraphe 56(1) est subordonnée au consentement du procureur général du Canada.
+
+
+
+Consentement du procureur général du Canada
+
+
+
+
+
+
+
+
+
+
+Due diligence
+
+
+
+
+59. A person shall not be convicted of an offence under this Act, other than for a contravention of subsection 38(1) or section 54 or an offence referred to in section 55, if they establish that they exercised due diligence to prevent the commission of the offence.
+
+
+
+
+
+
+
+
+
+
+59. Nul ne peut être déclaré coupable d’une infraction à la présente loi, sauf pour une contravention au paragraphe 38(1) ou à l’article 54 ou dans le cas d’une infraction prévue à l’article 55, s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+
+
+
+Disculpation
+
+
+
+
+
+
+
+
+
+
+Officers of corporations, etc.
+
+
+
+
+60. If a person other than an individual commits an offence under this Act, every officer, director, agent or mandatary of the person who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and liable on conviction to the punishment provided for the offence whether or not the person that committed the offence has been prosecuted or convicted. For greater certainty, an officer or director, or any agent or mandatary who is an individual, is liable only to the punishment provided in respect of an individual.
+
+
+
+
+
+
+
+
+
+
+60. En cas de perpétration par une personne autre qu’une personne physique d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne ayant perpétré l’infraction ait été ou non poursuivie ou déclarée coupable. Il est entendu que les dirigeants et les administrateurs, ainsi que les mandataires qui sont des personnes physiques, n’encourent que la peine prévue pour une personne physique.
+
+
+
+Cadres des personnes morales
+
+
+
+
+
+
+
+
+
+
+Continuing offence
+
+
+
+
+61. If an offence under this Act is committed or continued on more than one day, the person who committed the offence is liable to be convicted for a separate offence for each day on which the offence is committed or continued.
+
+
+
+
+
+
+
+
+
+
+61. Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction à la présente loi.
+
+
+
+Infraction continue
+
+
+
+
+
+
+
+
+
+
+Limitation period or prescription
+
+
+
+
+62. Proceedings in respect of an offence under this Act may be instituted at any time within, but not later than, two years after the day on which the subject matter of the proceedings arose.
+
+
+
+
+
+
+
+
+
+
+62. La poursuite de toute infraction à la présente loi se prescrit par deux ans après le fait reproché.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Injunctions
+
+
+
+
+63. (1) If a court of competent jurisdiction is satisfied that a contravention of subsection 10(1) or section 11 is being or is likely to be committed, the court may, on application by the Minister, grant an injunction, subject to any conditions that it considers appropriate, ordering any person to cease or refrain from operating the transmission apparatus referred to in subsection 10(1) or to refrain from acquiring, installing or operating the new software referred to in section 11.
+
+
+
+
+
+
+
+
+
+
+63. (1) S’il est convaincu qu’une contravention au paragraphe 10(1) ou à l’article 11 se commet ou est sur le point d’être commise, le tribunal compétent peut, sur demande du ministre, accorder une injonction, assortie des conditions qu’il juge indiquées, interdisant à quiconque, selon le cas, d’exploiter l’appareil de transmission visé au paragraphe 10(1) ou d’acquérir, d’installer ou d’exploiter le nouveau logiciel visé à l’article 11.
+
+
+
+Injonctions
+
+
+
+
+
+
+
+
+
+
+Federal Court
+
+
+
+(2) For the purposes of subsection (1), the Federal Court is a court of competent jurisdiction.
+
+
+
+
+
+
+
+
+
+(2) La Cour fédérale est, pour l’application du paragraphe (1), un tribunal compétent.
+
+
+
+Cour fédérale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+64. (1) The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+
+
+(a) respecting the obligations to be performed under subsections 6(1) and (2), including specifying the circumstances in which those obligations do not apply or need not be performed;
+
+
+
+
+
+
+
+
+
+
+(b) respecting the time, manner and form in which the information referred to in paragraph 6(1)(b) is to be provided to an authorized person;
+
+
+
+
+
+
+
+
+
+
+(c) respecting the time, manner and form in which an intercepted communication is to be provided to an authorized person;
+
+
+
+
+
+
+
+
+
+
+(d) requiring telecommunications service providers to specify the locations where intercepted communications will be provided, respecting the time, manner and form in which the locations are specified and respecting which locations may be so specified;
+
+
+
+
+
+
+
+
+
+
+(e) requiring telecommunications service providers to create and keep records with respect to interceptions;
+
+
+
+
+
+
+
+
+
+
+(f) respecting the operational requirements referred to in section 7, including matters of time, manner and form in relation to them and the circumstances in which they do not apply or need not be met;
+
+
+
+
+
+
+
+
+
+
+(g) for the purposes of paragraph 7(a), specifying what is a communication;
+
+
+
+
+
+
+
+
+
+
+(h) for the purposes of paragraph 7(d)
+
+
+
+
+
+
+
+
+
+
+(i) providing for the minimum number and maximum number of simultaneous interceptions or the manner of determining them,
+
+
+
+
+
+
+
+
+
+
+(ii) prescribing what is to be counted as a single interception,
+
+
+
+
+
+
+
+
+
+
+(iii) respecting the time, manner and form in which a request to increase the number of those interceptions is to be made, the circumstances in which such a request may be made, the time within which the increase is to be made and the duration of the increase, and
+
+
+
+
+
+
+
+
+
+
+(iv) respecting the maximum number of agencies for which a telecommunications service provider is to simultaneously enable interceptions;
+
+
+
+
+
+
+
+
+
+
+(i) providing for the global limit referred to in section 12, or the manner of determining it, respecting the circumstances in which it does not apply or need not be met and prescribing what is to be counted as a single interception;
+
+
+
+
+
+
+
+
+
+
+(j) for the purposes of subsection 14(3), prescribing expenses and prescribing matters that the Minister is to consider in deciding what amount is reasonable or what prescribed expenses are necessary;
+
+
+
+
+
+
+
+
+
+
+(k) for the purposes of subsection 14(5), respecting the provision of notice and assistance;
+
+
+
+
+
+
+
+
+
+
+(l) for the purposes of sections 16 and 17, respecting requests made under those sections and the provision of information under those sections, including
+
+
+
+
+
+
+
+
+
+
+(i) specifying the form of that information, the manner of — and time for — providing it and the circumstances under which particular information is to be provided, and
+
+
+
+
+
+
+
+
+
+
+(ii) prescribing any confidentiality or security measures with which the telecommunications service provider must comply;
+
+
+
+
+
+
+
+
+
+
+(m) for the purposes of section 18, respecting the creation and retention of records and the dealing with information;
+
+
+
+
+
+
+
+
+
+
+(n) for the purposes of section 25, respecting the assistance to be provided in the assessment and testing of telecommunications facilities;
+
+
+
+
+
+
+
+
+
+
+(o) for the purposes of section 29, respecting requests for payment and the making of payments;
+
+
+
+
+
+
+
+
+
+
+(p) for carrying out sections 39 to 53, including
+
+
+
+
+
+
+
+
+
+
+(i) designating any provision of this Act or of any regulation, or any order or class of orders made under this Act or any requirement or condition of such a provision or order or class of orders — or class of such requirements or conditions — as a provision, order, requirement or condition whose contravention may be proceeded with as a violation,
+
+
+
+
+
+
+
+
+
+
+(ii) prescribing the maximum administrative monetary penalty for a particular violation, which maximum may not exceed $50,000, in the case of an individual, and $250,000, in any other case,
+
+
+
+
+
+
+
+
+
+
+(iii) respecting compliance agreements referred to in subsection 43(3),
+
+
+
+
+
+
+
+
+
+
+(iv) respecting the service of notices referred to in those sections, including the manner of serving them, the proof of their service and the circumstances under which they are deemed to have been served, and
+
+
+
+
+
+
+
+
+
+
+(v) respecting procedure on appeals, which procedure must provide for a reasonable opportunity for the appellant to present written evidence and make representations in writing;
+
+
+
+
+
+
+
+
+
+
+(q) prescribing anything that is to be prescribed under this Act; and
+
+
+
+
+
+
+
+
+
+
+(r) generally, for carrying out the purposes and provisions of this Act.
+
+
+
+
+
+
+
+
+
+
+64. (1) Le gouverneur en conseil peut prendre des règlements :
+
+
+
+Règlements
+
+
+
+
+
+a) concernant les obligations prévues aux paragraphes 6(1) et (2), notamment les circonstances où elles ne s’appliquent pas ou celles où il n’est pas nécessaire de les exécuter;
+
+
+
+
+
+
+
+
+
+
+
+b) concernant les modalités de temps et autres afférentes à la fourniture, à la personne autorisée, de l’information visée à l’alinéa 6(1)b);
+
+
+
+
+
+
+
+
+
+
+
+c) concernant les modalités de temps et autres afférentes à la fourniture, à la personne autorisée, de la communication interceptée;
+
+
+
+
+
+
+
+
+
+
+
+d) exigeant des télécommunicateurs qu’ils précisent les lieux où les communications interceptées seront fournies et concernant les modalités de temps et autres à cet égard et les lieux qui peuvent être ainsi précisés;
+
+
+
+
+
+
+
+
+
+
+
+e) exigeant des télécommunicateurs la création et la conservation de registres relativement aux interceptions;
+
+
+
+
+
+
+
+
+
+
+
+f) concernant les exigences opérationnelles prévues à l’article 7, notamment les modalités de temps et autres afférentes et les circonstances où elles ne s’appliquent pas ou celles où il n’est pas nécessaire d’y satisfaire;
+
+
+
+
+
+
+
+
+
+
+
+g) en ce qui a trait à l’alinéa 7a), précisant ce qui constitue une communication;
+
+
+
+
+
+
+
+
+
+
+
+h) pour l’application de l’alinéa 7d) :
+
+
+
+
+
+
+
+
+
+
+(i) prévoyant le nombre minimal et le nombre maximal d’interceptions simultanées ou la façon de les calculer,
+
+
+
+
+
+
+
+
+
+
+(ii) déterminant ce qui constitue une seule interception,
+
+
+
+
+
+
+
+
+
+
+(iii) concernant les modalités de temps et autres visant toute demande d’augmentation du nombre de telles interceptions, les circonstances dans lesquelles elle est faite, le délai pour procéder à l’augmentation et la période visée,
+
+
+
+
+
+
+
+
+
+
+(iv) concernant le nombre maximal d’organismes pour lesquels le télécommunicateur est tenu de permettre des interceptions simultanées;
+
+
+
+
+
+
+
+
+
+
+
+i) prévoyant la limite globale visée à l’article 12 ou la façon de la calculer et les circonstances où elle ne s’applique pas ou celles où il n’est pas nécessaire de la respecter et déterminant ce qui constitue une seule interception;
+
+
+
+
+
+
+
+
+
+
+
+j) pour l’application du paragraphe 14(3), établissant les dépenses et les éléments que le ministre doit prendre en considération pour décider d’une indemnité suffisante ou des dépenses nécessaires;
+
+
+
+
+
+
+
+
+
+
+
+k) pour l’application du paragraphe 14(5), concernant l’avis à donner et l’assistance à prêter;
+
+
+
+
+
+
+
+
+
+
+
+l) pour l’application des articles 16 et 17, concernant les demandes et la fourniture des renseignements visés à ces articles, notamment :
+
+
+
+
+
+
+
+
+
+
+(i) précisant les modalités de présentation et de temps visant ces renseignements et les circonstances dans lesquelles certains de ceux-ci sont fournis,
+
+
+
+
+
+
+
+
+
+
+(ii) prévoyant les mesures concernant la confidentialité ou la sécurité que le télécommunicateur doit prendre;
+
+
+
+
+
+
+
+
+
+
+
+m) pour l’application de l’article 18, concernant la création et la conservation des registres et le traitement des renseignements;
+
+
+
+
+
+
+
+
+
+
+
+n) pour l’application de l’article 25, concernant l’assistance à prêter pour l’évaluation et la mise à l’essai des installations de télécommunication;
+
+
+
+
+
+
+
+
+
+
+
+o) pour l’application de l’article 29, concernant les demandes de paiement et le versement de ceux-ci;
+
+
+
+
+
+
+
+
+
+
+
+p) prévoyant les mesures d’application des articles 39 à 53, notamment :
+
+
+
+
+
+
+
+
+
+
+(i) désignant comme texte dont la contravention constitue une violation toute disposition de la présente loi ou de ses règlements, tout arrêté pris en vertu de celle-ci, ou toute catégorie de tels arrêtés, ou toute condition ou exigence prévue — ou catégorie de conditions ou d’exigences prévue — par une telle disposition ou un tel arrêté, ou une telle catégorie d’arrêtés,
+
+
+
+
+
+
+
+
+
+
+(ii) prévoyant le montant maximal — plafonné, dans le cas des personnes physiques, à 50 000 $ et, dans les autres cas, à 250 000 $ — de la pénalité applicable à chaque violation,
+
+
+
+
+
+
+
+
+
+
+(iii) concernant les transactions visées au paragraphe 43(3),
+
+
+
+
+
+
+
+
+
+
+(iv) concernant, notamment par l’établissement de présomptions et de règles de preuve, la signification des avis ou des procès-verbaux prévus par ces articles,
+
+
+
+
+
+
+
+
+
+
+(v) concernant la procédure d’appel, qui doit comporter notamment la possibilité pour l’appelant de présenter, par écrit, ses éléments de preuve et ses observations;
+
+
+
+
+
+
+
+
+
+
+
+q) concernant toute mesure d’ordre réglementaire prévue par la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+r) d’une façon générale, concernant toute mesure d’application de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations may be limited or vary
+
+
+
+(2) Regulations made under subsection (1) may apply generally or to particular classes of telecommunications service providers and may vary by class of telecommunications service provider, by class of telecommunications serv- ice provided, by class of telecommunications facility, according to the population of the region in which a telecommunications facility of a given class is located or by the manner in which information is provided.
+
+
+
+
+
+
+
+
+
+(2) Les règlements peuvent être d’application générale, ou ne viser que telle ou telle catégorie de télécommunicateurs et s’appliquer de manière différente selon la catégorie de télécommunicateurs, la catégorie de services de télécommunication fournis, la catégorie d’installations de télécommunication, la population de la région où est située une installation de télécommunication d’une catégorie donnée ou la façon dont les renseignements sont fournis.
+
+
+
+Catégories
+
+
+
+
+
+
+
+
+
+
+Incorporation by reference
+
+
+
+(3) Regulations made under subsection (1) that incorporate documents by reference may incorporate them as amended from time to time.
+
+
+
+
+
+
+
+
+
+(3) Les règlements qui incorporent des documents par renvoi peuvent les incorporer dans leur version éventuellement modifiée.
+
+
+
+Incorporation par renvoi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPROPRIATION
+
+
+
+
+
+
+
+
+
+AFFECTATION DE FONDS
+
+
+
+
+
+
+
+
+
+
+
+
+Consolidated Revenue Fund
+
+
+
+
+65. There shall be paid out of the Consolidated Revenue Fund the sums required to meet the monetary obligations of Her Majesty in right of Canada under subsections 14(3), 21(1) and 29(1).
+
+
+
+
+
+
+
+
+
+
+65. Sont prélevées sur le Trésor les sommes nécessaires pour satisfaire aux obligations pécuniaires de Sa Majesté du chef du Canada aux termes des paragraphes 14(3), 21(1) et 29(1).
+
+
+
+Paiement sur le Trésor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REVIEW OF ACT
+
+
+
+
+
+
+
+
+
+EXAMEN DE LA LOI
+
+
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+
+66. Five years after the day on which this section comes into force, a committee of the House of Commons, of the Senate or of both Houses of Parliament is to be designated or established for the purpose of reviewing this Act.
+
+
+
+
+
+
+
+
+
+
+66. Cinq ans après la date d’entrée en vigueur du présent article, le comité de la Chambre des communes, du Sénat ou des deux chambres désigné ou constitué à cette fin entreprend l’examen de l’application de la présente loi.
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISIONS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS TRANSITOIRES
+
+
+
+
+
+
+
+
+
+
+
+
+Delayed application — s. 10
+
+
+
+
+67. (1) The application of section 10 with respect to transmission apparatus that a telecommunications service provider begins to operate in the 18-month period beginning on the day on which that section comes into force is suspended for the duration of that period.
+
+
+
+
+
+
+
+
+
+
+67. (1) L’application de l’article 10 à un appareil de transmission que le télécommunicateur commence à exploiter au cours de la période de dix-huit mois commençant à la date d’entrée en vigueur de cet article est suspendue jusqu’à l’expiration de cette période.
+
+
+
+Suspension de l’application de l’article 10
+
+
+
+
+
+
+
+
+
+
+Delayed application — s. 11
+
+
+
+(2) The application of section 11 with respect to transmission apparatus for which a telecommunications service provider installs new software in the 18-month period beginning on the day on which that section comes into force is suspended for the duration of that period.
+
+
+
+
+
+
+
+
+
+(2) L’application de l’article 11 à un appareil de transmission pour lequel le télécommunicateur installe un nouveau logiciel au cours de la période de dix-huit mois commençant à la date d’entrée en vigueur de cet article est suspendue jusqu’à l’expiration de cette période.
+
+
+
+Suspension de l’application de l’article 11
+
+
+
+
+
+
+
+
+
+
+Deemed to meet operational requirements
+
+
+
+
+68. (1) A telecommunications service provider that, together with any affiliated or associated telecommunications service pro- vider, has fewer than 100,000 subscribers, without regard to the telecommunications service to which they subscribe, is considered — during the three years after the day on which section 10 or 11 comes into force, as the case may be — to meet any operational requirement in respect of transmission apparatus that the service provider is obligated to meet by virtue of that section if the service provider provides a physical connection point for the transmission apparatus permitting an authorized person to effect an interception.
+
+
+
+
+
+
+
+
+
+
+68. (1) Au cours des trois années suivant la date d’entrée en vigueur des articles 10 ou 11, selon le cas, le télécommunicateur qui, avec les télécommunicateurs qui font partie de son groupe ou avec lesquels il a des liens, compte moins de 100 000 abonnés, tous services de télécommunication confondus, est réputé satisfaire à toute exigence opérationnelle à laquelle il est tenu de satisfaire au titre de l’un ou l’autre de ces articles, s’il fournit un point de raccordement physique à l’appareil de transmission en cause qui permet à toute personne autorisée de procéder à une interception.
+
+
+
+Présomption : exigences opérationnelles
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+(2) For the purposes of subsection (1), the Governor in Council may make regulations defining the expression “affiliated or associated telecommunications service provider” and respecting the provision of a physical connection point.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), le gouverneur en conseil peut prendre des règlements définissant l’expression « les télécommunicateurs qui font partie de son groupe ou avec lesquels il a des liens » et concernant la fourniture d’un point de raccordement physique.
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+Mandatory reporting — existing service providers
+
+
+
+
+69. Every telecommunications service provider that is providing telecommunications services on the day on which section 30 comes into force shall, within six months after that day, submit a report to the Minister in accordance with that section.
+
+
+
+
+
+
+
+
+
+
+69. Le télécommunicateur qui fournit des services de télécommunication à la date d’entrée en vigueur de l’article 30 présente au ministre, dans les six mois suivant cette date, un rapport établi selon les modalités prévues au titre de cet article.
+
+
+
+Rapport : télécommunicateurs existants
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENT
+
+
+
+
+
+
+
+
+
+DISPOSITION DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+Investigative Powers for the 21st Century Act
+
+
+
+
+
+
+
+70. If a Bill entitled the Investigative Powers for the 21st Century Act is introduced in the 2nd session of the 40th Parliament and receives royal assent, then, on the first day on which both section 21 of that Act and subsection 2(1) of this Act are in force, the definition “telecommunications data” in subsection 2(1) of this Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+70. Si le projet de loi intitulé Loi sur les pouvoirs d’enquête au 21e siècle est déposé au cours de la 2e session de la 40e législature et reçoit la sanction royale, dès le premier jour où l’article 21 de cette loi et le paragraphe 2(1) de la présente loi sont tous deux en vigueur, la définition de « données de télécommunication », au paragraphe 2(1) de la présente loi, est remplacée par ce qui suit :
+
+
+
+
+Loi sur les pouvoirs d’enquête au 21e siècle
+
+
+
+
+
+
+
+
+
+
+
+
+
+“telecommunications data”« données de télécommunication »
+
+
+
+“telecommunications data” means data relating to the telecommunications functions of dialling, routing, addressing or signalling that identifies or purports to identify the origin, type, direction, date, time, duration, size, destination or termination of a telecommunication generated or received by means of a telecommunications facility or the type of telecommunications service used. It also means any transmission data that may be obtained under subsection 492.2(1) of the Criminal Code.
+
+
+
+
+
+
+
+
+
+« données de télécommunication » Données concernant les fonctions de composition, de routage, d’adressage ou de signalisation en matière de télécommunication et indiquant, ou visant à indiquer, l’origine, le type, la direction, la date, l’heure, la durée, le volume, la destination ou la terminaison de la télécommunication produite ou reçue au moyen d’une installation de télécommunication ou le type de service utilisé. Sont également visées les données de transmission obtenues au titre du paragraphe 492.2(1) du Code criminel.
+
+
+
+« données de télécommunication »“telecommunications data”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+71. The provisions of this Act, other than section 70, come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+71. Les dispositions de la présente loi, à l’exception de l’article 70, entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 1 
+
+
+
+
+
+ANNEXE 1 
+
+
+
+
+
+
+(Subsections 5(1) and (4) and 14(2))
+
+
+
+
+
+(paragraphes 5(1) et (4) et 14(2))
+
+
+
+
+
+
+EXCLUSIONS FROM THE APPLICATION OF THE ACT
+
+
+
+
+
+NON-APPLICATION DE LA LOI
+
+
+
+
+
+
+PART 1
+
+
+
+
+
+PARTIE 1
+
+
+
+
+
+
+1. A telecommunications service intended principally for the use of its provider and the provider’s household or employees and not by the public.
+
+
+
+
+
+1. Services de télécommunication destinés principalement à leur fournisseur, aux membres de sa famille ou à ses employés, et non au public.
+
+
+
+
+
+
+2. A telecommunications service intended principally for the sale or purchase of goods or services other than telecommunications services to the public.
+
+
+
+
+
+2. Services de télécommunication destinés principalement à la vente ou à l’achat par le public de biens ou de services, autres que des services de télécommunication.
+
+
+
+
+
+
+3. A telecommunications service provided by a financial institution, as defined in section 2 of the Bank Act, that enables the business of banking, the trust, loan or insurance business, the business of a cooperative credit society or the business of dealing in securities or other business primarily related to the business of providing financial services.
+
+
+
+
+
+3. Services de télécommunication fournis par une institution financière, au sens de l’article 2 de la Loi sur les banques, qui permettent à quiconque de se livrer à des activités bancaires ou à des activités fiduciaires, de prêt ou d’assurance, aux activités d’une société coopérative de crédit ou de faire le commerce des valeurs mobilières, ou encore, de toute autre manière, de se livrer à des activités ayant principalement trait à la prestation de services financiers.
+
+
+
+
+
+
+PART 2
+
+
+
+
+
+PARTIE 2
+
+
+
+
+
+
+1. Telecommunications service providers whose principal function is operating a registered charity within the meaning of the Income Tax Act, other than any service provider in a class listed in Schedule 2, or operating an educational institution other than a post-secondary institution, or operating a hospital, a place of worship, a retirement home or a telecommunications research network, only in respect of telecommunications services that they provide ancillary to their principal function.
+
+
+
+
+
+1. Télécommunicateurs dont l’activité principale consiste à exploiter un organisme de bienfaisance enregistré, au sens de la Loi de l’impôt sur le revenu — sauf s’ils appartiennent à l’une ou l’autre des catégories figurant à l’annexe 2 — un établissement d’enseignement autre qu’un établissement d’enseignement postsecondaire, un hôpital, un lieu de culte, une maison de retraite ou un réseau de recherche sur les télécommunications, uniquement pour ce qui est des services de télécommunication qu’ils fournissent de façon accessoire à leur activité principale.
+
+
+
+
+
+
+2. Telecommunications service providers that are also broadcasting undertakings, as defined in subsection 2(1) of the Broadcasting Act, only in respect of broadcasting.
+
+
+
+
+
+2. Télécommunicateurs qui sont également des entreprises de radiodiffusion au sens du paragraphe 2(1) de la Loi sur la radiodiffusion, uniquement pour ce qui est de leur activité de radiodiffusion.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 2 
+
+
+
+
+
+ANNEXE 2 
+
+
+
+
+
+
+(Subsections 5(2) to (4) and 14(2) and Schedule 1)
+
+
+
+
+
+(paragraphes 5(2) à (4) et 14(2) et annexe 1)
+
+
+
+
+
+
+PARTIAL APPLICATION OF THE ACT
+
+
+
+
+
+APPLICATION PARTIELLE DE LA LOI
+
+
+
+
+
+
+PART 1
+
+
+
+
+
+PARTIE 1
+
+
+
+
+
+
+1. Telecommunications service providers that transmit communications on behalf of other telecommunications service providers, that do not modify particular communications transmitted and that do not authenticate the end users of the telecommunications services of those other service providers, only in respect of the telecommunications services provided to the other service providers.
+
+
+
+
+
+1. Télécommunicateurs qui transmettent des communications pour le compte d’autres télécommunicateurs et qui ne modifient pas les communications transmises et n’authentifient pas les utilisateurs finaux des services de télécommunication des autres télécommunicateurs, uniquement pour ce qui est des services de télécommunication fournis à ces télécommunicateurs.
+
+
+
+
+
+
+PART 2
+
+
+
+
+
+PARTIE 2
+
+
+
+
+
+
+1. Telecommunications service providers whose principal business or function is operating a post-secondary educational institution, a library, a community centre, a restaurant or an establishment that provides lodgings or residential accommodations, such as a hotel, an apartment building or a condominium, only in respect of telecommunications services that they provide ancillary to their principal business or function.
+
+
+
+
+
+1. Télécommunicateurs dont l’entreprise ou l’activité principale consiste à exploiter un établissement d’enseignement postsecondaire, une bibliothèque, un centre communautaire, un restaurant, un établissement qui offre des services d’hébergement ou de logement, notamment un hôtel, un immeuble d’habitation ou un immeuble d’habitation en copropriété, uniquement pour ce qui est des services de télécommunication qu’ils fournissent de façon accessoire à leur activité principale.
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

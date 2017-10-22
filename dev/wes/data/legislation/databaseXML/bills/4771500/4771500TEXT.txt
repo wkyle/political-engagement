@@ -1,0 +1,3101 @@
+
+
+
+
+
+S-13
+
+
+
+
+
+S-13
+
+
+
+
+
+
+Second Session, Thirty-sixth Parliament,
+
+
+
+
+
+Deuxième session, trente-sixième législature,
+
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-13
+
+
+
+
+
+PROJET DE LOI S-13
+
+
+
+
+
+
+An Act to assist in the prevention of wrongdoing in the Public Service by establishing a framework for education on ethical practices in the workplace, for dealing with allegations of wrongdoing and for protecting whistleblowers
+
+
+
+
+
+Loi visant à favoriser la prévention des conduites répréhensibles dans la fonction publique en établissant un cadre pour l’éducation en ce qui a trait aux pratiques conformes à l’éthique en milieu de travail, le traitement des allégations de conduites répréhensibles et la protection des dénonciateurs
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 2, 1999
+
+première lecture le 2 décembre 1999
+
+
+
+
+
+
+
+
+
+
+
+
+The Honourable Senator Kinsella
+
+0334
+
+
+
+L’honorable sénateur Kinsella
+
+
+
+
+
+Summary
+This enactment promotes the public interest by establishing a regime for dealing with wrongdoing in the Public Service of Canada.  The regime will be centred in the Public Service Commission, under the direction of a commissioner to be designated the Public Interest Commissioner.
+Under the regime, employees will be able to give notice of wrongful acts or omissions.  The Commissioner will be able to investigate and report allegations of wrongful acts or omissions and see that actual wrongdoing is dealt with.  Ministers of the Crown will be able to learn of wrongdoing from the Commissioner, and will be expected to deal with it.
+The Public Interest Commissioner will ensure a positive environment for the regime by providing for education on ethical practices in the workplace and on the rights and responsibilities of employees under this Act with respect to wrongdoing in the Public Service.
+
+
+
+Sommaire
+Ce texte vise à favoriser l’intérêt public par l’établissement d’un régime traitant des conduites répréhensibles dans la fonction publique. Ce régime est mis en oeuvre au sein de la Commission de la fonction publique et est placé sous la direction d’un commissaire désigné à titre de Commissaire de l’intérêt publique.
+Dans le cadre de ce régime, les fonctionnaires pourront faire une dénonciation en cas d’abus ou d’omission au sens du texte.  Le commissaire pourra faire enquête et faire rapport sur les allégations d’abus ou d’omission et veiller au traitement des situations de conduite répréhensible. Les ministres pourront être informés par le commissaire des situations de conduite répréhensible et il leur incombera de prendre les correctifs nécessaires.
+Le Commissaire de l’intérêt public veillera à la mise en place d’un environnement favorable au régime en prévoyant des mesures de sensibilisation aux pratiques conformes à l’éthique en milieu de travail ainsi qu’aux droits et obligations des fonctionnaires aux termes de la présente loi quant aux conduites répréhensibles dans la fonction publique.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 36th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 36e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-13
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to assist in the prevention of wrongdoing in the Public Service by establishing a framework for education on ethical practices in the workplace, for dealing with allegations of wrongdoing and for protecting whistleblowers
+
+
+
+
+
+
+
+
+
+Loi visant à favoriser la prévention des conduites répréhensibles dans la fonction publique en établissant un cadre pour l’éducation en ce qui a trait aux pratiques conformes à l’éthique en milieu de travail, le traitement des allégations de conduites répréhensibles et la protection des dénonciateurs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+Short Title
+
+
+
+
+
+
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Public Service Whistleblowing Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la dénonciation dans la fonction publique.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+
+
+
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+2. The purpose of this Act is
+
+
+
+
+
+
+
+
+(a) to educate persons working in the Public Service workplace on ethical practices in the workplace and to promote the observance of these practices;
+
+
+
+
+
+
+
+
+(b) to protect the public interest by providing a means for employees of the Public Service to make allegations of wrongful acts or omissions in the workplace, in confidence, to an independent Commissioner who will investigate them and seek to have the situation dealt with, and who will report to Parliament in respect of problems that are confirmed but have not been dealt with; and
+
+
+
+
+
+
+
+
+(c) to protect employees of the Public Service from retaliation for having made or for proposing to make, in good faith and on the basis of reasonable belief, allegations of wrongdoing in the workplace.
+
+
+
+
+
+
+
+
+
+2. La présente loi a pour objet :
+
+
+
+Objet
+
+
+
+
+a) de sensibiliser les personnes travaillant dans le lieu de travail de la fonction publique aux pratiques conformes à l’éthique en milieu de travail et d’encourager le respect de ces pratiques;
+
+
+
+
+
+
+
+
+b) de protéger l’intérêt public en instituant un mécanisme pour permettre aux fonctionnaires de la fonction publique de dénoncer en toute confidentialité des abus ou omissions dans le lieu de travail à un commissaire indépendant qui pourra mener des enquêtes à leur sujet, assurer le suivi nécessaire et faire rapport au Parlement relativement à toute irrégularité vérifiée et non corrigée;
+
+
+
+
+
+
+
+
+c) de protéger ces fonctionnaires contre des mesures de représailles pour avoir dénoncé de bonne foi — ou avoir l’intention de le faire —, pour des motifs raisonnables, des conduites répréhensibles au sein du lieu de travail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+
+
+
+
+
+
+Définitions
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+3. The definitions in this section apply in this Act.
+
+
+
+
+“Commissioner”« commissaire »
+
+
+
+“Commissioner” means a commissioner of the Public Service Commission designated as Public Interest Commissioner under section 4.
+
+
+
+
+“employee”« fonctionnaire »
+
+
+
+“employee” means a person who is an employee within the meaning of the Public Service Employment Act.
+
+
+
+
+“law in force in Canada”« loi en vigueur au Canada »
+
+
+
+“law in force in Canada” means an Act of the Parliament of Canada or of the legislature of a province or any instrument issued under the authority of any such Act.
+
+
+
+
+“minister”« ministre »
+
+
+
+“minister” means any member of the Queen’s Privy Council for Canada holding the office of a minister of the Crown.
+
+
+
+
+“Public Service”« fonction publique »
+
+
+
+“Public Service” means the parts of the public service of Canada to which the Public Service Staff Relations Act applies.
+
+
+
+
+“wrongful act or omission”« abus » ou « omission »
+
+
+
+“wrongful act or omission” means an act or omission that is
+
+
+
+
+
+
+
+
+(a) an offence against any law in force in Canada;
+
+
+
+
+
+
+
+
+(b) likely to cause a significant waste of public money;
+
+
+
+
+
+
+
+
+(c) likely to endanger public health or safety or the environment;
+
+
+
+
+
+
+
+
+(d) a significant breach of an established public policy or directive in the written record of the Public Service; or
+
+
+
+
+
+
+
+
+(e) one of gross mismanagement or abuse of authority.
+
+
+
+
+
+
+
+
+
+3. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« abus » ou « omission » Acte ou omission ayant l’une ou l’autre des caractéristiques suivantes :
+
+
+
+« abus » ou « omission »“wrongful act or omission”
+
+
+
+
+a) il constitue une infraction à toute loi en vigueur au Canada;
+
+
+
+
+
+
+
+
+b) il risque d’entraîner un gaspillage considérable de fonds publics;
+
+
+
+
+
+
+
+
+c) il risque de compromettre soit la santé publique, soit la sécurité, soit l’environnement;
+
+
+
+
+
+
+
+
+d) il constitue un manquement à une politique ou à une directive publique et confirmée dans les documents de la fonction publique;
+
+
+
+
+
+
+
+
+e) il constitue un cas flagrant de mauvaise gestion ou d’abus de pouvoir.
+
+
+
+
+
+
+
+
+« commissaire » Le commissaire de la Commission de la fonction publique désigné à titre de  Commissaire de l’intérêt public en vertu de l’article 4.
+
+
+
+« commissaire »“Commissioner”
+
+
+
+
+« fonction publique » Les secteurs de l’administration publique fédérale auxquels s’applique la Loi sur les relations de travail dans la fonction publique.
+
+
+
+« fonction publique »“Public Service”
+
+
+
+
+« fonctionnaire » S’entend au sens de la Loi sur l’emploi dans la fonction publique.
+
+
+
+« fonctionnaire »“employee”
+
+
+
+
+« loi en vigueur au Canada » Loi fédérale ou provinciale ou tout texte réglementaire d’application de celle-ci.
+
+
+
+« loi en vigueur au Canada »“law in force in Canada”
+
+
+
+
+« ministre » Tout membre du Conseil privé de la Reine pour le Canada qui exerce les fonctions de ministre.
+
+
+
+“minister”« ministre »
+
+
+
+
+
+
+
+
+
+
+Public Interest Commissioner
+
+
+
+
+
+
+
+
+
+Commissaire de l’intérêt public
+
+
+
+
+
+
+
+
+
+
+
+
+Designation
+
+
+
+4. (1) The Governor in Council shall designate one of the commissioners of the Public Service Commission to serve as Public Interest Commissioner for the purposes of this Act.
+
+
+
+
+
+
+
+
+
+4. (1) Le gouverneur en conseil désigne l’un des commissaires de la Commission de la fonction publique pour agir à titre de Commissaire de l’intérêt public pour l’application de la présente loi.
+
+
+
+Désignation
+
+
+
+
+
+
+
+
+
+
+Functions
+
+
+
+(2) The functions of the Commissioner under this Act are within the work of the Public Service Commission for the purposes of the Public Service Employment Act.
+
+
+
+
+
+
+
+
+
+(2) Les fonctions du commissaire prévues par la présente loi font partie du mandat de la Commission de la fonction publique pour l’application de la Loi sur l’emploi dans la fonction publique.
+
+
+
+Fonctions
+
+
+
+
+
+
+
+
+
+
+Powers
+
+
+
+(3) The powers granted to the Commissioner by the Public Service Employment Act for the purposes of that Act may be exercised for the purposes of this Act.
+
+
+
+
+
+
+
+
+
+(3) Les pouvoirs conférés au commissaire par la Loi sur l’emploi dans la fonction publique pour l’application de cette loi peuvent être exercés pour l’application de la présente loi.
+
+
+
+Pouvoirs
+
+
+
+
+
+
+
+
+
+
+Public interest
+
+
+
+5. (1) Subject to section 10, the Commissioner may make public any information that comes to the attention of the Commissioner as a result of the performance or exercise of the Commissioner’s duties or powers under this Act if, in the Commissioner’s opinion, it is in the public interest to do so.
+
+
+
+
+
+
+
+
+
+5. (1) Sous réserve de l’article 10, s’il estime que l’intérêt public le justifie, le commissaire peut rendre public les renseignements dont il prend connaissance dans l’exercice des pouvoirs et fonctions que lui sont conférés en vertu de la présente loi.
+
+
+
+Intérêt public
+
+
+
+
+
+
+
+
+
+
+Disclosure of necessary information
+
+
+
+(2) The Commissioner may disclose, or may authorize any person acting on behalf or under the direction of the Commissioner to disclose, information that in the Commissioner’s opinion is necessary to
+
+
+
+
+
+
+
+
+(a) conduct an investigation under this Act; or
+
+
+
+
+
+
+
+
+(b) establish the grounds for findings or recommendations contained in any report made under this Act.
+
+
+
+
+
+
+
+
+
+(2) Le commissaire peut divulguer, ou autoriser les personnes agissant en son nom ou sous son autorité à divulguer, les renseignements qui, à son avis, sont nécessaires :
+
+
+
+Divulgation de renseignements nécessaires
+
+
+
+
+a) soit pour mener une enquête prévue par la présente loi;
+
+
+
+
+
+
+
+
+b) soit pour motiver les conclusions et recommandations contenues dans les rapports prévus par la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure in the course of proceedings
+
+
+
+(3) The Commissioner may disclose, or may authorize any person acting on behalf or under the direction of the Commissioner to disclose, information in the course of
+
+
+
+
+
+
+
+
+(a) a prosecution for an offence under section 21; or
+
+
+
+
+
+
+
+
+(b) a prosecution for an offence under section 132 of the Criminal Code (perjury) in respect of a statement made under this Act.
+
+
+
+
+
+
+
+
+
+(3) Le commissaire peut divulguer, ou autoriser les personnes agissant en son nom ou sous son autorité à divulguer, des renseignements dans le cadre des procédures intentées :
+
+
+
+Divulgation dans le cadre de poursuites
+
+
+
+
+a) soit pour infraction à l’article 21;
+
+
+
+
+
+
+
+
+b) soit pour infraction à l’article 132 du Code criminel (parjure) se rapportant à une déclaration faite en vertu de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure of offence
+
+
+
+(4) The Commissioner may disclose to the Attorney General of Canada or of a province, as the case may be, information relating to the commission of an offence against any law in force in Canada that comes to the attention of the Commissioner as a result of the performance or exercise of the Commissioner’s duties or powers under this Act if, in the Commissioner’s opinion, there is evidence of an offence.
+
+
+
+
+
+
+
+
+
+(4) Dans les cas où, à son avis, il existe des éléments de preuve touchant la perpétration d’infractions à toute loi en vigueur au Canada, le commissaire peut faire part au procureur général du Canada ou d’une province, selon le cas, des renseignements dont il prend connaissance dans l’exercice des pouvoirs et fonctions qui lui sont conférées en vertu de la présente loi.
+
+
+
+Dénonciation autorisée
+
+
+
+
+
+
+
+
+
+
+Not competent witness
+
+
+
+6. The Commissioner or person acting on behalf or under the direction of the Commissioner is not a competent witness in respect of any matter that comes to their knowledge as a result of the performance or exercise of the Commissioner’s duties or powers under this Act in any proceeding other than
+
+
+
+
+
+
+
+
+(a) a prosecution for an offence under section 21; or
+
+
+
+
+
+
+
+
+(b) a prosecution for an offence under section 132 of the Criminal Code (perjury) in respect of a statement made under this Act.
+
+
+
+
+
+
+
+
+
+6. En ce qui concerne les questions venues à leur connaissance dans l’exercice des pouvoirs et fonctions qui lui sont conférés en vertu de la présente loi, le commissaire ou les personnes qui agissent en son nom ou sous son autorité n’ont qualité pour témoigner que dans les procédures intentées :
+
+
+
+Habilité à témoigner
+
+
+
+
+a) soit pour infraction à l’article 21;
+
+
+
+
+
+
+
+
+b) soit pour infraction à l’article 132 du Code criminel (parjure) se rapportant à une déclaration faite en vertu de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Protection of Commissioner
+
+
+
+7. (1) No criminal or civil proceedings lie against the Commissioner, or against any person acting on behalf or under the direction of the Commissioner, for anything done, reported or said in good faith as a result of the performance or exercise or purported performance or exercise of the Commissioner’s duties or powers under this Act.
+
+
+
+
+
+
+
+
+
+7. (1) Le commissaire et les personnes qui agissent en son nom ou sous son autorité bénéficient de l’immunité en matière civile ou pénale pour les actes accomplis, les rapports établis et les paroles prononcées de bonne foi dans l’exercice effectif ou censé tel des pouvoirs et fonctions qui lui sont conférés en vertu de la présente loi.
+
+
+
+Immunité du commissaire
+
+
+
+
+
+
+
+
+
+
+Libel or slander
+
+
+
+(2) For the purposes of any law relating to libel or slander,
+
+
+
+
+
+
+
+
+(a) anything said, any information supplied or any record or thing produced in good faith and on the basis of reasonable belief in the course of an investigation carried out by or on behalf of the Commissioner under this Act is privileged; and
+
+
+
+
+
+
+
+
+(b) any report made in good faith by the Commissioner under this Act and any fair and accurate account of the report made in good faith for the purpose of news reporting is privileged.
+
+
+
+
+
+
+
+
+
+(2) Ne peuvent donner lieu à poursuites pour diffamation verbale ou écrite :
+
+
+
+Diffamation
+
+
+
+
+a) les paroles prononcées, les renseignements fournis ou les pièces produites de bonne foi et pour des motifs raisonnables au cours d’une enquête menée par le commissaire ou en son nom dans le cadre de la présente loi;
+
+
+
+
+
+
+
+
+b) les rapports établis de bonne foi par le commissaire dans le cadre de la présente loi, ainsi que les relations qui en sont faites de bonne foi par la presse.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Education
+
+
+
+
+
+
+
+
+
+Éducation
+
+
+
+
+
+
+
+
+
+
+
+
+Dissemination
+
+
+
+8. The Commissioner shall promote ethical practices in the Public Service workplace and a positive environment for giving notice of wrongdoing, by disseminating knowledge of this Act and information about its purposes and processes and by such other means as seem fit to the Commissioner.
+
+
+
+
+
+
+
+
+
+8. Le commissaire doit encourager dans le lieu de travail de la fonction publique des pratiques conformes à l’éthique et un environnement favorable à la dénonciation de conduites répréhensibles, par la diffusion d’information relative à la présente loi, à son objet et à son processus d’application, ainsi que par tout autre moyen qui lui semble approprié.
+
+
+
+Diffusion de l’information
+
+
+
+
+
+
+
+
+
+
+Notice of Wrongful Act or Omission
+
+
+
+
+
+
+
+
+
+Dénonciation
+
+
+
+
+
+
+
+
+
+
+
+
+Notice by employee
+
+
+
+9. (1) An employee who has reasonable grounds to believe that another person working for the Public Service or in the Public Service workplace has committed or intends to commit a wrongful act or omission
+
+
+
+
+
+
+
+
+(a) may file with the Commissioner a written notice of allegation; and
+
+
+
+
+
+
+
+
+(b) may request that their identity be kept confidential with respect to the notice.
+
+
+
+
+
+
+
+
+
+9. (1) Un fonctionnaire qui a des motifs raisonnables de croire qu’une autre personne au service de la fonction publique ou au sein du lieu de travail de la fonction publique a commis ou s’apprête à commettre un abus ou une omission peut :
+
+
+
+Dénonciation d’un fonctionnaire
+
+
+
+
+a) présenter une dénonciation écrite au commissaire;
+
+
+
+
+
+
+
+
+b) demander que la confidentialité de son identité soit assurée relativement à la dénonciation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Form and content
+
+
+
+(2) A notice under subsection (1) shall identify
+
+
+
+
+
+
+
+
+(a) the employee making the allegation, and be signed by that person;
+
+
+
+
+
+
+
+
+(b) the person against whom the allegation is being made; and
+
+
+
+
+
+
+
+
+(c) the grounds on which the employee believes that the wrongful act or omission is wrongful and has been or will be committed, giving the particulars that are known to the employee.
+
+
+
+
+
+
+
+
+
+(2) La dénonciation précise :
+
+
+
+Forme et contenu
+
+
+
+
+a) l’identité du fonctionnaire qui en est l’auteur, attestée par sa signature;
+
+
+
+
+
+
+
+
+b) l’identité de la personne qui en fait l’objet;
+
+
+
+
+
+
+
+
+c) les motifs que le fonctionnaire a de croire qu’un abus ou une omission a été commis ou est sur le point de l’être, ainsi que les détails connus de lui.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No breach of oath
+
+
+
+(3) A notice by an employee to the Commissioner under subsection (1), given in good faith and on the basis of reasonable belief, is not a breach of any oath of office or loyalty or secrecy taken by the employee and, subject to subsection (4), is not a breach of duty.
+
+
+
+
+
+
+
+
+
+(3) La dénonciation présentée au commissaire conformément au paragraphe (1), si elle est faite de bonne foi et pour des motifs raisonnables, ne constitue pas une violation du serment professionnel ou du serment de secret souscrit par le fonctionnaire et, sous réserve du paragraphe (4), ne constitue pas un manquement à son devoir.
+
+
+
+Violation du serment
+
+
+
+
+
+
+
+
+
+
+Solicitor-client privilege
+
+
+
+(4) No employee, in giving notice under subsection (1), shall violate any law in force in Canada or rule of law protecting privileged communications as between solicitor and client, unless the employee is prompted by reasonable concerns for public health or safety.
+
+
+
+
+
+
+
+
+
+(4) Un fonctionnaire ne peut, lorsqu’il fait une dénonciation conformément au paragraphe (1), violer une loi en vigueur au Canada ou une règle de droit protégeant les communications confidentielles entre un avocat et son client, à moins qu’il ne l’ait fait pour des motifs raisonnables de préoccupation au sujet de la santé ou de la sécurité publiques.
+
+
+
+Secret professionnel de l’avocat
+
+
+
+
+
+
+
+
+
+
+Confidentiality
+
+
+
+10. Subject to any lawful requirement made of the Commissioner under this Act or any law in force in Canada, the Commissioner shall keep confidential the identity of an employee who has filed a notice with the Commissioner under subsection 9(1) and to whom the Commissioner has given an assurance that, subject to this Act, their identity will be kept confidential.
+
+
+
+
+
+
+
+
+
+10. Sous réserve de toute obligation légale qui lui est imposée par la présente loi ou toute autre loi en vigueur au Canada, le commissaire est tenu de garder confidentielle l’identité du fonctionnaire qui lui a présenté une dénonciation conformément au paragraphe 9(1), auquel il a donné, sous réserve de la présente loi, l’assurance de l’anonymat.
+
+
+
+Caractère confidentiel
+
+
+
+
+
+
+
+
+
+
+Initial review
+
+
+
+11. On receiving a notice under subsection 9(1), the Commissioner shall review it, may ask the employee for further information and may make such further inquiries as, in the opinion of the Commissioner, may be necessary.
+
+
+
+
+
+
+
+
+
+11. Sur réception de la dénonciation, le commissaire l’examine et peut demander des renseignements additionnels au fonctionnaire qui la lui a présentée et procéder à toute autre forme d’enquête qu’il estime nécessaire.
+
+
+
+Examen initial
+
+
+
+
+
+
+
+
+
+
+Rejected notices
+
+
+
+12. (1) The Commissioner shall reject and take no further action on a notice given under subsection 9(1) where the Commissioner makes a preliminary determination that the notice
+
+
+
+
+
+
+
+
+(a) is trivial, frivolous or vexatious;
+
+
+
+
+
+
+
+
+(b) fails to allege or give adequate particulars of a wrongful act or omission;
+
+
+
+
+
+
+
+
+(c) breaches subsection 9(4); or
+
+
+
+
+
+
+
+
+(d) was not given in good faith or on the basis of reasonable belief.
+
+
+
+
+
+
+
+
+
+12. (1) Le commissaire rejette la dénonciation si, après un examen préliminaire, il détermine, selon le cas :
+
+
+
+Rejet de la dénonciation
+
+
+
+
+a) qu’elle est vexatoire ou que l’objet en est trivial ou frivole;
+
+
+
+
+
+
+
+
+b) qu’elle ne représente pas une allégation d’abus ou d’omission ou ne donne pas de détails suffisants au sujet d’un abus ou d’une omission;
+
+
+
+
+
+
+
+
+c) qu’elle contrevient au paragraphe 9(4);
+
+
+
+
+
+
+
+
+d) qu’elle n’a pas été faite de bonne foi ou pour des motifs raisonnables.
+
+
+
+
+
+
+
+
+Dans chacun de ces cas, le commissaire clôt le dossier de l’affaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+False statements
+
+
+
+(2) The Commissioner may determine that a notice that contains any statement that the employee knew to be false or misleading at the time it was made was not given in good faith.
+
+
+
+
+
+
+
+
+
+(2) Si la dénonciation d’un fonctionnaire comporte des déclarations que ce dernier savait fausses ou trompeuses au moment où il les a faites, le commissaire peut conclure que la dénonciation n’a pas été faite de bonne foi.
+
+
+
+Déclaration fausse ou trompeuse
+
+
+
+
+
+
+
+
+
+
+Mistaken facts
+
+
+
+(3) The Commissioner need not determine that a notice was not given in good faith for the sole reason that it contains mistaken facts.
+
+
+
+
+
+
+
+
+
+(3) Le commissaire n’est pas tenu de conclure qu’une dénonciation n’a pas été faite de bonne foi pour le seul motif qu’elle est fondée sur une erreur de fait.
+
+
+
+Erreur de fait
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(4) Where the Commissioner has made a determination under subsection (1), the Commissioner shall, in writing and on a timely basis, advise the employee who gave notice under subsection (1) of that determination.
+
+
+
+
+
+
+
+
+
+(4) S’il rend une décision conformément au paragraphe (1), le commissaire en informe par écrit, en temps opportun, le fonctionnaire qui a fait la dénonciation.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+Report to official and minister
+
+
+
+(5) Where the Commissioner determines under subsection (1) that a notice was given in breach of subsection 9(4) or was not given in good faith and on the basis of reasonable belief, the Commissioner may advise the person against whom the allegation was made and the minister responsible for the employee who gave the notice.
+
+
+
+
+
+
+
+
+
+(5) S’il conclut en vertu du paragraphe (1) que la dénonciation a été faite en violation du paragraphe 9(4) ou qu’elle n’a pas été faite de bonne foi et pour des motifs raisonnables, le commissaire peut en aviser la personne qui en fait l’objet et le ministre responsable du fonctionnaire qui en est l’auteur.
+
+
+
+Rapport à la personne visée et au ministre
+
+
+
+
+
+
+
+
+
+
+Valid notice
+
+
+
+13. (1) The Commissioner shall accept a notice given under subsection 9(1) where the Commissioner determines that the notice
+
+
+
+
+
+
+
+
+(a) is not trivial, frivolous or vexatious;
+
+
+
+
+
+
+
+
+(b) alleges and gives adequate particulars of a wrongful act or omission;
+
+
+
+
+
+
+
+
+(c) does not breach subsection 9(4); and
+
+
+
+
+
+
+
+
+(d) was given in good faith and on the basis of reasonable belief.
+
+
+
+
+
+
+
+
+
+13. (1) Le commissaire accepte la dénonciation faite conformément au paragraphe 9(1) s’il conclut :
+
+
+
+Dénonciation valide
+
+
+
+
+a) qu’elle n’est pas vexatoire ou que l’objet n’est est pas trivial ou frivole;
+
+
+
+
+
+
+
+
+b) qu’elle représente une allégation d’abus ou d’omission et donne des détails suffisants au sujet d’un tel abus ou d’une telle omission;
+
+
+
+
+
+
+
+
+c) qu’elle ne contrevient pas au paragraphe 9(4);
+
+
+
+
+
+
+
+
+d) qu’elle a été faite de bonne foi et pour des motifs raisonnables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report to employee
+
+
+
+(2) Where the Commissioner has made a determination under subsection (1), the Commissioner shall, in writing and on a timely basis, advise the employee who gave notice under subsection (1) of that determination.
+
+
+
+
+
+
+
+
+
+(2) S’il rend une décision conformément au paragraphe (1), le commissaire en informe par écrit, en temps opportun, le fonctionnaire qui a fait la dénonciation.
+
+
+
+Rapport à l’employé
+
+
+
+
+
+
+
+
+
+
+Investigation and Report
+
+
+
+
+
+
+
+
+
+Enquête et rapport
+
+
+
+
+
+
+
+
+
+
+
+
+Investigation
+
+
+
+14. (1) The Commissioner shall investigate a notice accepted under section 13 and, subject to subsection (2), shall prepare a written report of findings and recommendations.
+
+
+
+
+
+
+
+
+
+14. (1) Le commissaire fait enquête sur la dénonciation qu’il a acceptée conformément à l’article 13 et, sous réserve du paragraphe (2), établit un rapport écrit faisant état des conclusions de son enquête ainsi que de ses recommandations.
+
+
+
+Enquête
+
+
+
+
+
+
+
+
+
+
+Report not required
+
+
+
+(2) The Commissioner is not required to prepare a report if the Commissioner is satisfied that
+
+
+
+
+
+
+
+
+(a) the employee ought to first exhaust review procedures otherwise available;
+
+
+
+
+
+
+
+
+(b) the matter could more appropriately be dealt with, initially or completely, by means of a procedure provided for under a law in force in Canada other than this Act; or
+
+
+
+
+
+
+
+
+(c) the length of time that has elapsed between when the wrongful act or omission that is the subject-matter of the notice occurred and the date when the notice was filed is such that a report would not serve a useful purpose.
+
+
+
+
+
+
+
+
+
+(2) Il n’est toutefois pas tenu d’établir un tel rapport s’il est convaincu, selon le cas :
+
+
+
+Exception
+
+
+
+
+a) que le fonctionnaire devrait épuiser les recours internes ou les procédures d’appel qui lui sont normalement ouverts;
+
+
+
+
+
+
+
+
+b) que la question pourrait avantageusement être instruite, dans un premier temps ou à toutes les étapes, selon des procédures prévues par une loi en vigueur au Canada autre que la présente loi;
+
+
+
+
+
+
+
+
+c) que la période qui s’est écoulée à compter du moment ou l’abus ou l’omission faisant l’objet de la dénonciation a eu lieu jusqu’à la date où la dénonciation a été présentée aurait pour effet de rendre un tel rapport inutile.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report to employee
+
+
+
+(3) Where the Commissioner has made a determination under subsection (2), the Commissioner shall, in writing and on a timely basis, advise the employee who gave notice of that determination.
+
+
+
+
+
+
+
+
+
+(3) S’il rend une décision conformément au paragraphe (2), le commissaire en informe par écrit, et en temps opportun, le fonctionnaire qui a fait la dénonciation.
+
+
+
+Rapport au fonctionnaire
+
+
+
+
+
+
+
+
+
+
+Report to minister
+
+
+
+(4) The Commissioner shall provide the minister responsible for the employee against whom an allegation has been made, on a timely basis and in no case later than one year after the Commissioner receives the notice, with a copy of the report under subsection (1).
+
+
+
+
+
+
+
+
+
+(4) Il envoie, en temps opportun dans l’année qui suit la réception de la dénonciation, une copie du rapport visé au paragraphe (1) au ministre responsable du fonctionnaire qui fait l’objet de la dénonciation.
+
+
+
+Rapport au ministre
+
+
+
+
+
+
+
+
+
+
+Minister’s response
+
+
+
+15. (1) A minister who receives a report under subsection 14(4) shall consider the matter and respond to the Commissioner.
+
+
+
+
+
+
+
+
+
+15. (1) Le ministre qui reçoit un rapport en application du paragraphe 14(4) examine la question et répond au commissaire.
+
+
+
+Réponse du ministre
+
+
+
+
+
+
+
+
+
+
+Content of response
+
+
+
+(2) The response of a minister under subsection (1) shall advise of any action the minister has taken or proposes to take to deal with the Commissioner’s report, or that the minister proposes to take no action.
+
+
+
+
+
+
+
+
+
+(2) La réponse du ministre indique soit les mesures qu’il a prises ou qu’il entend prendre à l’égard du rapport du commissaire, soit qu’il n’entend prendre aucune mesure.
+
+
+
+Contenu de la réponse
+
+
+
+
+
+
+
+
+
+
+Further responses
+
+
+
+(3) A minister who, for the purposes of this section, advises of any action proposed to be taken shall give such further responses as seem appropriate to the Commissioner until such time as the minister advises that the matter is dealt with.
+
+
+
+
+
+
+
+
+
+(3) S’il indique, en application du présent article, qu’il entend prendre des mesures, le ministre assure le suivi que le commissaire juge indiqué jusqu’à ce qu’il l’informe que la situation a été réglée.
+
+
+
+Suivi supplémentaire
+
+
+
+
+
+
+
+
+
+
+Emergency public report
+
+
+
+16. (1) The Commissioner may require the President of the Treasury Board to cause an emergency report prepared by the Commissioner to be made to Parliament on the next day that either House sits if, in the Commissioner’s opinion, it is in the public interest to do so.
+
+
+
+
+
+
+
+
+
+16. (1) Le commissaire peut, s’il le juge dans l’intérêt public, exiger que le président du Conseil du Trésor fasse déposer devant le Parlement, le prochain jour où siège l’une des deux chambres de celui-ci, un rapport d’urgence établi par le commissaire.
+
+
+
+Rapport public d’urgence
+
+
+
+
+
+
+
+
+
+
+Content of report
+
+
+
+(2) A report prepared by the Commissioner for the purposes of subsection (1) shall describe the substance of a report made to a minister under subsection 14(4) and the minister’s response or lack thereof under section 15.
+
+
+
+
+
+
+
+
+
+(2) Un tel rapport décrit la teneur du rapport fait au ministre en vertu du paragraphe 14(4) et fait état de la réponse fournie par le ministre en application de l’article 15 ou de l’absence d’une telle réponse.
+
+
+
+Contenu du rapport
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+17. (1) The Public Service Commission shall include in the annual report to Parliament made pursuant to section 47 of the Public Service Employment Act a statement of activity under this Act prepared by the Commissioner that includes:
+
+
+
+
+
+
+
+
+(a) a description of the Commissioner’s activities under section 8;
+
+
+
+
+
+
+
+
+(b) the number of notices received pursuant to section 9;
+
+
+
+
+
+
+
+
+(c) the number of notices rejected pursuant to section 12;
+
+
+
+
+
+
+
+
+(d) the number of notices accepted pursuant to section 13;
+
+
+
+
+
+
+
+
+(e) the number of accepted notices that are still under investigation pursuant to subsection 14(1);
+
+
+
+
+
+
+
+
+(f) the number of accepted notices that were reported to ministers pursuant to subsection 14(4);
+
+
+
+
+
+
+
+
+(g) the number of reports to ministers pursuant to section 14 in respect of which action satisfactory to the Commissioner has been taken;
+
+
+
+
+
+
+
+
+(h) the number of reports to ministers pursuant to section 14 in respect of which action satisfactory to the Commissioner has not been taken;
+
+
+
+
+
+
+
+
+(i) an abstract of the substance of all reports to ministers pursuant to section 14 and the responses of ministers pursuant to section 15; and
+
+
+
+
+
+
+
+
+(j) where the Commissioner is of the opinion that the public interest would be best served, the substance of an individual report made to a minister pursuant to section 14 and the response or lack thereof of a minister pursuant to section 15.
+
+
+
+
+
+
+
+
+
+17. (1) La Commission de la fonction publique inclut dans son rapport annuel présenté au Parlement conformément à l’article 47 de la Loi sur l’emploi dans la fonction publique un relevé, préparé par le commissaire, des activités découlant de l’application de la présente loi, où figurent :
+
+
+
+Rapport annuel
+
+
+
+
+a) la description des activités de celui-ci prévues à l’article 8;
+
+
+
+
+
+
+
+
+b) le nombre de dénonciations reçues en vertu de l’article 9;
+
+
+
+
+
+
+
+
+c) le nombre de dénonciations rejetées en vertu de l’article 12;
+
+
+
+
+
+
+
+
+d) le nombre de dénonciations acceptées en vertu de l’article 13;
+
+
+
+
+
+
+
+
+e) le nombre de dénonciations acceptées qui font encore l’objet d’une enquête aux termes du paragraphe 14(1);
+
+
+
+
+
+
+
+
+f) le nombre de dénonciations acceptées qui ont fait l’objet d’un rapport à un ministre aux termes du paragraphe 14(4);
+
+
+
+
+
+
+
+
+g) le nombre de rapports faits aux ministres aux termes de l’article 14 à l’égard desquels ont été prises des mesures jugées satisfaisantes par le commissaire;
+
+
+
+
+
+
+
+
+h) le nombre de rapports faits aux ministres aux termes de l’article 14 à l’égard desquels n’ont pas été prises de mesures jugées satisfaisantes par le commissaire;
+
+
+
+
+
+
+
+
+i) un sommaire de la teneur de tous les rapports faits aux ministres aux termes de l’article 14 et des réponses fournies par les ministres en application de l’article 15;
+
+
+
+
+
+
+
+
+j) dans les cas où le commissaire le juge utile dans l’intérêt public, la teneur d’un rapport individuel fait à un ministre en vertu de l’article 14 et la réponse fournie par le ministre en application de l’article 15 ou une mention de l’absence d’une telle réponse.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+(2) The Public Service Commission may include in the annual report to Parliament made pursuant to section 47 of the Public Service Employment Act an analysis of the administration and operation of this Act and any recommendations with respect to it.
+
+
+
+
+
+
+
+
+
+(2) La Commission de la fonction publique peut inclure dans son rapport annuel présenté au Parlement conformément à l’article 47 de la Loi sur l’emploi dans la fonction publique une analyse de la présente loi et des conséquences de son application, en l’assortissant, le cas échéant, de recommandations à l’égard de celle-ci.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Prohibitions
+
+
+
+
+
+
+
+
+
+Interdictions
+
+
+
+
+
+
+
+
+
+
+
+
+False information
+
+
+
+18. (1) No person shall give false information to the Commissioner or to any person acting on behalf or under the direction of the Commissioner while the Commissioner or person is engaged in the performance or exercise of the Commissioner’s duties or powers under this Act.
+
+
+
+
+
+
+
+
+
+18. (1) Il est interdit de communiquer de faux renseignements au commissaire ou à toute personne agissant en son nom ou sous son autorité pendant qu’ils exercent les pouvoirs et fonctions qui sont conférés au commissaire en vertu de la présente loi.
+
+
+
+Faux renseignements
+
+
+
+
+
+
+
+
+
+
+Bad faith
+
+
+
+(2) No employee shall give a notice under subsection 9(1) in bad faith.
+
+
+
+
+
+
+
+
+
+(2) Il est interdit à tout fonctionnaire de faire de mauvaise foi une dénonciation prévue au paragraphe 9(1).
+
+
+
+Mauvaise foi
+
+
+
+
+
+
+
+
+
+
+No disciplinary action
+
+
+
+19. (1) No person shall take disciplinary action against an employee because
+
+
+
+
+
+
+
+
+(a) the employee, acting in good faith and on the basis of reasonable belief, has disclosed or stated an intention to disclose to the Commissioner that a person working for the Public Service or in the Public Service workplace has committed a wrongful act or omission;
+
+
+
+
+
+
+
+
+(b) the employee, acting in good faith and on the basis of reasonable belief, has refused or stated an intention to refuse to commit an act or omission contrary to this Act;
+
+
+
+
+
+
+
+
+(c) the employee, acting in good faith and on the basis of reasonable belief, has done or stated an intention of doing anything that is required to be done in order to comply with this Act; or
+
+
+
+
+
+
+
+
+(d) the person believes that the employee will do anything referred to in paragraph (a), (b) or (c).
+
+
+
+
+
+
+
+
+
+19. (1) Il est interdit à toute personne d’imposer à un fonctionnaire quelque mesure disciplinaire que ce soit du fait que, selon le cas :
+
+
+
+Immunité
+
+
+
+
+a) le fonctionnaire, agissant de bonne foi et pour des motifs raisonnables, a révélé au commissaire ou a fait part de son intention de lui révéler qu’une personne au service de la fonction publique ou au sein du lieu de travail de la fonction publique a commis un abus ou une omission;
+
+
+
+
+
+
+
+
+b) le fonctionnaire, agissant de bonne foi et pour des motifs raisonnables, a refusé ou a fait part de son intention de refuser de commettre un abus ou une omission contraire à la présente loi;
+
+
+
+
+
+
+
+
+c) le fonctionnaire, agissant de bonne foi et pour des motifs raisonnables, a commis ou a fait part de son intention d’accomplir un acte qui est obligatoire pour assurer le respect de la présente loi;
+
+
+
+
+
+
+
+
+d) la personne croit que le fonctionnaire fera toute chose visée aux alinéas a), b) ou c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition
+
+
+
+(2) In subsection (1), “disciplinary action” means any action that adversely affects the employee or any term or condition of the employee’s employment, and includes
+
+
+
+
+
+
+
+
+(a) harassment;
+
+
+
+
+
+
+
+
+(b) financial penalty;
+
+
+
+
+
+
+
+
+(c) affecting seniority;
+
+
+
+
+
+
+
+
+(d) suspension or dismissal;
+
+
+
+
+
+
+
+
+(e) denial of meaningful work or demotion;
+
+
+
+
+
+
+
+
+(f) denial of a benefit of employment; or
+
+
+
+
+
+
+
+
+(g) an action that is otherwise disadvantageous to the employee.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), « mesure disciplinaire » s’entend de toute mesure négative concernant le fonctionnaire ou ses condition de travail, notamment :
+
+
+
+Définition
+
+
+
+
+a) le harcèlement;
+
+
+
+
+
+
+
+
+b) une sanction pécuniaire;
+
+
+
+
+
+
+
+
+c) des mesures touchant l’ancienneté;
+
+
+
+
+
+
+
+
+d) la suspension ou le congédiement;
+
+
+
+
+
+
+
+
+e) le refus de travail utile ou la rétrogradation;
+
+
+
+
+
+
+
+
+f) le refus d’avantages sociaux;
+
+
+
+
+
+
+
+
+g) toute autre mesure au désavantage du fonctionnaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rebuttable presumption
+
+
+
+(3) A person who takes disciplinary action contrary to this section within two years after an employee gives a notice to the Commissioner under subsection 9(1) shall be presumed, in the absence of a preponderance of evidence to the contrary, to have taken the disciplinary action against the employee because the employee gave the notice.
+
+
+
+
+
+
+
+
+
+(3) Quiconque impose à un fonctionnaire une mesure disciplinaire contrairement au présent article dans les deux ans suivant la présentation par celui-ci d’une dénonciation au commissaire conformément au paragraphe 9(1) est réputé, sauf preuve contraire — faite par prépondérance des probabilités — , avoir imposé cette mesure disciplinaire au fonctionnaire parce que ce dernier a fait une telle dénonciation.
+
+
+
+Présomption refutable
+
+
+
+
+
+
+
+
+
+
+Disclosure prohibited
+
+
+
+20. (1) Except as authorized by this Act or any other law in force in Canada, no person shall disclose to any other person the existence or nature of a notice given under to subsection 9(1) in such a way as to identify the employee who made it.
+
+
+
+
+
+
+
+
+
+20. (1) Sauf dans la mesure permise par la présente loi ou toute autre loi en vigueur au Canada, nul ne peut communiquer à autrui le fait ou la nature d’une dénonciation présentée en vertu du paragraphe 9(1), de manière à identifier l’auteur de la dénonciation.
+
+
+
+Interdiction de divulguer
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2) Subsection (1) does not apply where a notice was given in breach of subsection 9(4) or was not given in good faith and on the basis of reasonable belief.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas lorsque la dénonciation a été faite en violation du paragraphe 9(4) ou n’a pas été faite de bonne foi et pour des motifs raisonnables.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Enforcement
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+
+
+Offences and punishment
+
+
+
+21. A person who contravenes a provision of subsection 9(4), section 18, or subsection 19(1) or 20(1) of this Act is guilty of an offence and liable on summary conviction to a fine not exceeding $10,000.
+
+
+
+
+
+
+
+
+
+21. Quiconque contrevient au paragraphe 9(4), à l’article 18 ou aux paragraphes 19(1) ou 20(1) est coupable d’une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 10 000 $.
+
+
+
+Infractions
+
+
+
+
+
+
+
+
+
+
+Employee Recourse
+
+
+
+
+
+
+
+
+
+Recours du fonctionnaire
+
+
+
+
+
+
+
+
+
+
+
+
+Recourse available
+
+
+
+22. (1) An employee against whom disciplinary action is taken contrary to section 19 is entitled to use every recourse available to the employee under the law, including grievance proceedings provided for under an Act of Parliament or otherwise.
+
+
+
+
+
+
+
+
+
+22. (1) Le fonctionnaire qui fait l’objet d’une mesure disciplinaire contrairement à l’article 19 peut intenter tout recours prévu par une règle de droit, y compris les griefs prévus par une loi fédérale ou autrement.
+
+
+
+Recours
+
+
+
+
+
+
+
+
+
+
+Recourse not lost
+
+
+
+(2) An employee may seek recourse as described in subsection (1) whether or not proceedings based upon the same alleged facts are or may be brought under section 21.
+
+
+
+
+
+
+
+
+
+(2) Il peut intenter un tel recours indépendamment du fait qu’une poursuite fondée sur les mêmes faits que ceux allégués dans le cadre de son recours a été intentée en vertu de l’article 21 ou qu’elle puisse l’être.
+
+
+
+Autre poursuite fondée sur les mêmes faits
+
+
+
+
+
+
+
+
+
+
+Benefit of presumption
+
+
+
+(3) An employee is entitled in all recourse proceedings referred to in subsection (1) to the benefit of the presumption in subsection 19(3).
+
+
+
+
+
+
+
+
+
+(3) Il peut se prévaloir de la présomption prévue au paragraphe 19(3) dans le cadre d’un recours visé au paragraphe (1).
+
+
+
+Droit du fonctionnaire
+
+
+
+
+
+
+
+
+
+
+Transitional
+
+
+
+(4) Where grievance proceedings are pending on the coming into force of this Act, the proceedings shall be dealt with and disposed of as if this Act had not been enacted.
+
+
+
+
+
+
+
+
+
+(4) Les griefs en instance à la date d’entrée en vigueur de la présente loi sont entendus et tranchés comme si la présente loi n’avait pas été adoptée.
+
+
+
+Disposition transitoire
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

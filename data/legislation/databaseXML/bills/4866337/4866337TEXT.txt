@@ -1,0 +1,3056 @@
+
+
+
+
+
+C-607
+
+
+
+
+
+C-607
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+
+
+
+
+
+Troisième session, quarantième législature,
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-607
+
+
+
+
+
+PROJET DE LOI C-607
+
+
+
+
+
+
+An Act to establish the office of the Veterans' Ombudsman
+
+
+
+
+
+Loi constituant le poste d'ombudsman des anciens combattants
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 14, 2010
+
+première lecture le 14 décembre 2010
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Oliphant
+
+403135
+
+
+
+M. Oliphant
+
+
+
+
+
+SUMMARY
+This enactment establishes the office of the Veterans’ Ombudsman and provides a mandate and a legislative framework for the Ombudsman to review certain matters relating to veterans and other clients and to review the exercise of the powers, duties and functions of the Minister of Veterans Affairs under the Department of Veterans Affairs Act and systemic issues that relate to the operation of the Veterans Review and Appeal Board.
+
+
+
+SOMMAIRE
+Le texte constitue le poste d’ombudsman des anciens combattants et en définit le mandat. Il établit un cadre législatif pour l’examen, par l’ombudsman, de certaines questions concernant les anciens combattants et d’autres clients, l’exercice des pouvoirs et fonctions du ministre des Anciens Combattants énoncés dans la Loi sur le ministère des Anciens Combattants, et les problèmes d’ordre systémique relatifs au fonctionnement du Tribunal des anciens combattants (révision et appel).
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+3e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-607
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-607
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to establish the office of the Veterans' Ombudsman
+
+
+
+
+
+
+
+
+
+Loi constituant le poste d'ombudsman des anciens combattants
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Independent and Effective Office of the Veterans’ Ombudsman Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur l'indépendance et l'efficacité de l’ombudsman des anciens combattants.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“Board”« Tribunal »
+
+
+
+“Board” means the Veterans Review and Appeal Board.
+
+
+
+
+“Canadian Forces”« Forces canadiennes »
+
+
+
+“Canadian Forces” means the armed forces referred to in section 14 of the National Defence Act, and includes any predecessors of the naval, army or air forces of Canada or Newfoundland.
+
+
+
+
+“client”« client »
+
+
+
+“client” means any client of the Department, including
+
+
+
+
+
+
+
+
+(a) veterans with war service, veterans and serving members of the Canadian Forces (regular and reserve) and members and former members of the Royal Canadian Mounted Police; and
+
+
+
+
+
+
+
+
+(b) spouses, common-law partners, other family members, survivors, primary caregivers and other dependants of the persons referred to in paragraph (a).
+
+
+
+
+“Department”« ministère »
+
+
+
+“Department” means the Department of Veterans Affairs. 
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Veterans Affairs.
+
+
+
+
+“Ombudsman”« ombudsman »
+
+
+
+“Ombudsman” means the Veterans’ Ombudsman.
+
+
+
+
+“representative”« représentant »
+
+
+
+“representative” means a person authorized in writing by a client or authorized pursuant to the laws of Canada or a province for the purpose of managing the client’s affairs, but does not include an employee of the federal public administration acting within the scope of their employment or, in particular, an advocate or employee of the Bureau of Pensions Advocates.
+
+
+
+
+“request”« demande »
+
+
+
+“request” means a request to investigate any matter relating to the mandate of the Ombudsman and includes a complaint about any such matters.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« client » Client du ministère, notamment :
+
+
+
+« client »“client”
+
+
+
+
+a) les anciens combattants ayant servi en temps de guerre, les anciens combattants et les militaires des Forces canadiennes (force régulière et réserve), de même que les membres actifs et à la retraite de la Gendarmerie royale du Canada;
+
+
+
+
+
+
+
+
+b) les époux et conjoints de fait, les membres de la famille, les survivants, les principaux dispensateurs de soins ainsi que les autres personnes à charge d’une personne visée à l’alinéa a).
+
+
+
+
+
+
+
+
+« demande » Demande d'enquête ou plainte relative à toute question liée au mandat de l’ombudsman.
+
+
+
+« demande »“request”
+
+
+
+
+« Forces canadiennes » Les forces armées visées à l'article 14 de la Loi sur la défense nationale, ainsi que les forces navales, les forces de l'armée ou les forces aériennes du Canada ou de Terre-Neuve qui les ont précédées.
+
+
+
+« Forces canadiennes »“Canadian Forces”
+
+
+
+
+« ministère » Le ministère des Anciens Combattants.
+
+
+
+« ministère »“Department”
+
+
+
+
+« ministre » Le ministre des Anciens Combattants.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« ombudsman » L’ombudsman des anciens combattants.
+
+
+
+« ombudsman »“Ombudsman”
+
+
+
+
+« représentant » Personne autorisée à gérer les affaires d’un client, soit par écrit par ce dernier, soit conformément à une loi fédérale ou provinciale, à l’exclusion des employés de l’administration publique fédérale agissant dans le cadre de leurs fonctions, notamment les employés ou les avocats du Bureau de services juridiques des pensions.
+
+
+
+« représentant »“representative”
+
+
+
+
+« Tribunal » Le Tribunal des anciens combattants (révision et appel).
+
+
+
+« Tribunal »“Board”
+
+
+
+
+
+
+
+
+
+
+CONSTRUCTION
+
+
+
+
+
+
+
+
+
+PRINCIPE GÉNÉRAL
+
+
+
+
+
+
+
+
+
+
+
+
+Construction
+
+
+
+3. The provisions of this Act and of any other Act of Parliament or of any regulations made under this or any other Act of Parliament conferring or imposing jurisdiction, powers, duties or functions on the office of the Ombudsman shall be liberally construed and interpreted to the end that the recognized obligation of the people and Government of Canada to those who have served this country so well may be fulfilled.
+
+
+
+
+
+
+
+
+
+3. Les dispositions de la présente loi et de toute autre loi fédérale, ainsi que de leurs règlements, qui établissent la compétence de l'ombudsman ou lui confèrent des pouvoirs et fonctions doivent s’interpréter de façon large, compte tenu des obligations que le peuple et le gouvernement du Canada reconnaissent avoir à l’égard de ceux qui ont si bien servi leur pays.
+
+
+
+Principe général
+
+
+
+
+
+
+
+
+
+
+VETERANS’ OMBUDSMAN
+
+
+
+
+
+
+
+
+
+OMBUDSMAN DES ANCIENS COMBATTANTS
+
+
+
+
+
+
+
+
+
+
+
+
+Office established
+
+
+
+4. (1) There is hereby established the office of Veterans’ Ombudsman.
+
+
+
+
+
+
+
+
+
+4. (1) Est constitué le poste d’ombudsman des anciens combattants.
+
+
+
+Constitution
+
+
+
+
+
+
+
+
+
+
+Mandate
+
+
+
+(2) The mandate of the Ombudsman is to
+
+
+
+
+
+
+
+
+(a) investigate and address requests from clients and their representatives arising from the application of any legislative provisions relating to them;
+
+
+
+
+
+
+
+
+(b) investigate the exercise of powers, duties and functions of the Minister set out in the Department of Veterans Affairs Act;
+
+
+
+
+
+
+
+
+(c) investigate emerging and systemic issues that are related to programs and services provided or administered by the Department or by third parties on the Department’s behalf and that have a negative impact on clients;
+
+
+
+
+
+
+
+
+(d) investigate and address complaints from clients and their representatives related to programs and services provided or administered by the Department or by third parties on the Department’s behalf, including individual decisions related to the programs and services for which there is no right of appeal to the Board;
+
+
+
+
+
+
+
+
+(e) identify and investigate systemic issues related to the Board; and
+
+
+
+
+
+
+
+
+(f) facilitate access by clients to programs and services provided or administered by the Department or by third parties on the Department’s behalf by providing them with information and referrals.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman a pour mandat :
+
+
+
+Mandat
+
+
+
+
+a) d’enquêter sur les demandes des clients et de leurs représentants découlant de l’application de toute disposition législative les concernant, et de traiter ces demandes;
+
+
+
+
+
+
+
+
+b) d’enquêter sur l’exercice des pouvoirs et des fonctions du ministre énoncés dans la Loi sur le ministère des Anciens Combattants;
+
+
+
+
+
+
+
+
+c) d'enquêter sur tout problème nouveau ou d’ordre systémique qui est lié aux programmes et aux services offerts ou administrés par le ministère ou par un tiers agissant en son nom et qui a une incidence négative sur les clients;
+
+
+
+
+
+
+
+
+d) d’enquêter sur les plaintes des clients et de leurs représentants relatives aux programmes et aux services offerts ou administrés par le ministère ou par un tiers agissant en son nom, notamment les décisions particulières liées aux programmes et aux services pour lesquels aucun droit d’appel devant le Tribunal n’est prévu;
+
+
+
+
+
+
+
+
+e) de déceler les problèmes d’ordre systémique liés au Tribunal et d’enquêter sur ceux-ci;
+
+
+
+
+
+
+
+
+f) de faciliter l’accès pour les clients aux programmes et aux services offerts ou administrés par le ministère ou par un tiers agissant en son nom en leur fournissant de l’information et des services d’aiguillage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment
+
+
+
+5. (1) The Governor in Council shall appoint a Veterans’ Ombudsman.
+
+
+
+
+
+
+
+
+
+5. (1) Le gouverneur en conseil nomme l’ombudsman des anciens combattants.
+
+
+
+Nomination
+
+
+
+
+
+
+
+
+
+
+Eligibility
+
+
+
+(2) The Governor in Council shall, in making an appointment under subsection (1) give priority to candidates who are veterans of the Canadian Forces or who have experience and knowledge of veterans’ issues.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), le gouverneur en conseil donne priorité aux candidats qui sont des anciens combattants des Forces canadiennes ou qui ont de l’expérience et une connaissance des enjeux concernant les anciens combattants.
+
+
+
+Admissibilité
+
+
+
+
+
+
+
+
+
+
+Citizenship status
+
+
+
+(3) The Ombudsman shall be a Canadian citizen or a permanent resident of Canada.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman est citoyen canadien ou résident permanent du Canada.
+
+
+
+Citoyenneté
+
+
+
+
+
+
+
+
+
+
+Remuneration
+
+
+
+(4) The Ombudsman shall receive such remuneration, benefits and reimbursement of expenses as is ordered by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(4) L’ombudsman reçoit la rémunération, les avantages et le remboursement des dépenses ordonnés par le gouverneur en conseil.
+
+
+
+Rémunération
+
+
+
+
+
+
+
+
+
+
+Term of office
+
+
+
+6. (1) The Ombudsman holds office during good behaviour for a term of five years that may be renewed for a further term of three years.
+
+
+
+
+
+
+
+
+
+6. (1) L’ombudsman est nommé à titre inamovible pour un mandat de cinq ans renouvelable pour un second mandat de trois ans.
+
+
+
+Durée du mandat
+
+
+
+
+
+
+
+
+
+
+Rank of a deputy head
+
+
+
+(2) The Ombudsman shall have the rank and all the powers of a deputy head of a department.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman a rang d’administrateur général de ministère et en a tous les pouvoirs.
+
+
+
+Rang d’administrateur général
+
+
+
+
+
+
+
+
+
+
+Removal for cause
+
+
+
+(3) The Ombudsman may be removed for cause at any time by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman est nommé sous réserve de révocation motivée par le gouverneur en conseil.
+
+
+
+Révocation motivée
+
+
+
+
+
+
+
+
+
+
+Full-time
+
+
+
+(4) The Ombudsman shall engage exclusively in the duties and functions of his or her office under this Act or any other Act of Parliament and shall not hold any other office under Her Majesty the Queen in right of Canada or a province for reward or engage in any other employment for reward.
+
+
+
+
+
+
+
+
+
+(4) L’ombudsman se consacre exclusivement à la charge que lui confère la présente loi ou toute autre loi fédérale, à l’exclusion de toute charge rétribuée au service de Sa Majesté la Reine du chef du Canada ou des provinces ou de tout autre emploi rétribué.
+
+
+
+Temps plein
+
+
+
+
+
+
+
+
+
+
+Acting Ombudsman
+
+
+
+(5) In the event of the absence, incapacity or death of the Ombudsman, the Governor in Council may, on the recommendation of the Minister, appoint another person to act as Ombudsman until the Ombudsman returns or another Ombudsman is appointed, as the case may be.
+
+
+
+
+
+
+
+
+
+(5) En cas d’absence, d’empêchement ou de mort de l’ombudsman, le gouverneur en conseil peut, sur la recommandation du ministre, nommer une autre personne qui s’acquittera des fonctions de l’ombudsman jusqu’à ce que celui-ci reprenne ses fonctions ou jusqu’à ce qu’un autre ombudsman soit nommé, selon le cas.
+
+
+
+Ombudsman par intérim
+
+
+
+
+
+
+
+
+
+
+Staff
+
+
+
+7. (1) The Ombudsman shall be assisted in the performance of his or her duties under this Act or under any other Act of Parliament by officers and employees appointed pursuant to the Public Service Employment Act.
+
+
+
+
+
+
+
+
+
+7. (1) Le personnel qui assiste l’ombudsman dans l’exercice des fonctions que lui confèrent la présente loi ou toute autre loi fédérale est nommé conformément à la Loi sur l’emploi dans la fonction publique.
+
+
+
+Personnel
+
+
+
+
+
+
+
+
+
+
+Delegation
+
+
+
+(2) Subject to any other Act of Parliament, the Ombudsman may delegate to any person referred to in subsection (1), any power, duty or function conferred on the Ombudsman under this Act or any other enactment.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve de toute autre loi fédérale, l’ombudsman peut déléguer à toute personne visée au paragraphe (1) les pouvoirs et fonctions que lui confèrent la présente loi ou tout autre texte législatif.
+
+
+
+Délégation
+
+
+
+
+
+
+
+
+
+
+Technical assistance
+
+
+
+(3) The Ombudsman may engage on a temporary basis the services of persons having technical or specialized knowledge of any matter relating to the work of the Ombudsman, in order to advise and assist the Ombudsman in the performance of his or her functions and duties under this Act.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman peut retenir temporairement les services d’experts ou de spécialistes dont la compétence lui est utile dans l’exercice des fonctions que lui confère la présente loi.
+
+
+
+Assistance technique
+
+
+
+
+
+
+
+
+
+
+Budget
+
+
+
+8. (1) The Ombudsman shall, before each fiscal year, prepare a budget sufficient to permit him or her to carry out his or her mandate.
+
+
+
+
+
+
+
+
+
+8. (1) Avant chaque exercice, l’ombudsman établit le budget nécessaire à l’exercice de son mandat.
+
+
+
+Budget
+
+
+
+
+
+
+
+
+
+
+Submission to Treasury Board
+
+
+
+(2) The Ombudsman shall submit the budget to the Treasury Board for its consideration and approval.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman soumet le budget à l’aval du Conseil du Trésor.
+
+
+
+Approbation 
+
+
+
+
+
+
+
+
+
+
+Estimates to be prepared
+
+
+
+(3) After the Treasury Board has approved a budget under subsection (2), the Ombudsman shall prepare an estimate of the sums that will be required to pay the charges and expenses of his or her  office during the fiscal year.
+
+
+
+
+
+
+
+
+
+(3) Après l’approbation par le Conseil du Trésor du budget visé au paragraphe (2), l’ombudsman dresse un état estimatif des sommes à affecter au paiement des frais du bureau au cours de l’exercice. 
+
+
+
+État estimatif
+
+
+
+
+
+
+
+
+
+
+Inclusion in Government estimates
+
+
+
+(4) Before the fiscal year, the Ombudsman shall submit the estimate to the President of the Treasury Board, who shall lay it before the House of Commons with the estimates of the Government for the fiscal year.
+
+
+
+
+
+
+
+
+
+(4) Avant chaque exercice, l’ombudsman soumet l’état estimatif au président du Conseil du Trésor, qui le dépose devant la Chambre des communes avec les prévisions budgétaires du gouvernement pour l’exercice. 
+
+
+
+Adjonction au budget et dépôt
+
+
+
+
+
+
+
+
+
+
+POWERS
+
+
+
+
+
+
+
+
+
+POUVOIRS
+
+
+
+
+
+
+
+
+
+
+
+
+Powers
+
+
+
+9. The Ombudsman has all the powers of a commissioner under Part II of the Inquiries Act in conducting an investigation.
+
+
+
+
+
+
+
+
+
+9. Dans le cadre d’une enquête, l’ombudsman a tous les pouvoirs d’un commissaire nommé en vertu de la partie II de la Loi sur les enquêtes.
+
+
+
+Pouvoirs
+
+
+
+
+
+
+
+
+
+
+Resolution of issues
+
+
+
+10. The Ombudsman shall attempt to resolve all matters within his or her mandate at the level at which they can most efficiently and effectively be resolved and may communicate with appropriate government officials for that purpose.
+
+
+
+
+
+
+
+
+
+10. L’ombudsman tente de résoudre tout problème qui relève de son mandat au niveau présentant la solution la plus efficace possible et, à cette fin, il peut communiquer avec les fonctionnaires compétents du gouvernement.
+
+
+
+Résolution de problèmes
+
+
+
+
+
+
+
+
+
+
+Protection from prosecution
+
+
+
+11. No criminal or civil proceedings lie against the Ombudsman, or against any person acting on behalf or under the direction of the Ombudsman, for anything done, reported or said in good faith in the course of the performance or purported performance of the Ombudsman’s powers, duties or functions under this or any other Act of Parliament.
+
+
+
+
+
+
+
+
+
+11. L’ombudsman et les personnes qui agissent en son nom ou sous son autorité bénéficient de l’immunité en matière civile ou pénale pour les actes accomplis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif ou censé tel des pouvoirs et fonctions que lui confèrent la présente loi ou toute autre loi fédérale.
+
+
+
+Immunité de l’ombudsman
+
+
+
+
+
+
+
+
+
+
+INVESTIGATION
+
+
+
+
+
+
+
+
+
+ENQUÊTE
+
+
+
+
+
+
+
+
+
+
+
+
+Investigation
+
+
+
+12. (1) The Ombudsman shall commence an investigation in response to any request received from
+
+
+
+
+
+
+
+
+(a) the Minister; or
+
+
+
+
+
+
+
+
+(b) a client or his or her representative.
+
+
+
+
+
+
+
+
+
+12. (1) L’ombudsman ouvre une enquête à la suite de toute demande reçue :
+
+
+
+Enquête
+
+
+
+
+a) soit du ministre;
+
+
+
+
+
+
+
+
+b) soit d'un client ou de son représentant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Investigation on Ombudsman’s initiative
+
+
+
+(2) If the Ombudsman is satisfied that there are reasonable grounds to investigate a matter under this Act, the Ombudsman may on his or her own initiative commence an investigation in respect of that matter.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman peut lui-même prendre l’initiative d’une enquête s’il a des motifs raisonnables de croire qu’une enquête doit être menée sur une question relative à l’application de la présente loi.
+
+
+
+Initiative de l’ombudsman
+
+
+
+
+
+
+
+
+
+
+Discretion of the Ombudsman
+
+
+
+(3) The Ombudsman may
+
+
+
+
+
+
+
+
+(a) determine how an investigation is to be conducted; and
+
+
+
+
+
+
+
+
+(b) determine whether an investigation should be terminated before completion.
+
+
+
+
+
+
+
+
+
+(3) L’ombudsman peut :
+
+
+
+Pouvoir discrétionnaire
+
+
+
+
+a) choisir les modalités de l’enquête;
+
+
+
+
+
+
+
+
+b) déterminer s’il convient de mettre fin à l’enquête en cours de processus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Factors to be taken into account
+
+
+
+(4) In exercising his or her discretion under subsection (3), the Ombudsman shall consider such factors as
+
+
+
+
+
+
+
+
+(a) the time elapsed since the matter leading to the request arose;
+
+
+
+
+
+
+
+
+(b) the time elapsed since the requester became aware of the matter;
+
+
+
+
+
+
+
+
+(c) the nature and seriousness of the matter;
+
+
+
+
+
+
+
+
+(d) the question of whether the request was made in good faith; and
+
+
+
+
+
+
+
+
+(e) the availability of alternate redress mech­anisms with respect to the request.
+
+
+
+
+
+
+
+
+
+(4) Dans l’exercice du pouvoir discrétionnaire que lui confère le paragraphe (3), l’ombudsman tient compte des facteurs suivants :
+
+
+
+Facteurs
+
+
+
+
+a) le temps écoulé depuis que les faits ayant donné lieu à la demande sont survenus;
+
+
+
+
+
+
+
+
+b) le temps écoulé depuis que le demandeur a pris connaissance des faits;
+
+
+
+
+
+
+
+
+c) la nature et la gravité des faits;
+
+
+
+
+
+
+
+
+d) la question de savoir si la demande a été faite de bonne foi;
+
+
+
+
+
+
+
+
+e) l’existence d’autres recours permettant de régler la demande.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refusal to investigate a request
+
+
+
+13. The Ombudsman may refuse to commence an investigation in response to a request if he or she is of the opinion that the subject matter of the request is
+
+
+
+
+
+
+
+
+(a) beyond the jurisdiction of the Ombudsman; or
+
+
+
+
+
+
+
+
+(b) frivolous or vexatious in nature.
+
+
+
+
+
+
+
+
+
+13. L’ombudsman peut, à son appréciation, refuser d'ouvrir une enquête à la suite d'une demande dans l’un ou l’autre des cas suivants :
+
+
+
+Refus d’instruire
+
+
+
+
+a) l'objet de la demande ne relève pas de sa compétence;
+
+
+
+
+
+
+
+
+b) l'objet de la demande est de nature frivole ou vexatoire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitations
+
+
+
+14. The Ombudsman shall not commence an investigation in response to any request that, in the Ombudsman’s opinion, relates to
+
+
+
+
+
+
+
+
+(a) any decision of the Minister for which there is a right of review or appeal to the Board;
+
+
+
+
+
+
+
+
+(b) any decision of the Board made in the exercise of its exclusive jurisdiction under the Veterans Review and Appeal Board Act;
+
+
+
+
+
+
+
+
+(c) legal advice provided by the Bureau of Pensions Advocates in the preparation of applications for review or appeal or applications for reconsideration under the Veterans Review and Appeal Board Act or in the representation of the Bureau’s clients at proceedings under that Act;
+
+
+
+
+
+
+
+
+(d) any court decision or decision of a judge;
+
+
+
+
+
+
+
+
+(e) matters within the exclusive jurisdiction of the Royal Canadian Mounted Police, apart from those matters that have been expressly assigned to be administered by the Department;
+
+
+
+
+
+
+
+
+(f) legal advice provided to the Government of Canada or to the Board; or 
+
+
+
+
+
+
+
+
+(g) confidences of the Queen’s Privy Council for Canada.
+
+
+
+
+
+
+
+
+
+14. L’ombudsman n'ouvre pas d'enquête à la suite d'une demande qu’il estime liée aux sujets suivants :
+
+
+
+Limites du mandat
+
+
+
+
+a) toute décision du ministre pour laquelle un droit de révision ou d’appel peut être exercé devant le Tribunal;
+
+
+
+
+
+
+
+
+b) toute décision du Tribunal rendue dans l'exercice de sa compétence exclusive en vertu de la Loi sur le Tribunal des anciens combattants (révision et appel);
+
+
+
+
+
+
+
+
+c) les conseils juridiques formulés par le Bureau de services juridiques des pensions dans le cadre des demandes de révision, d’appel ou de réexamen prévues par la Loi sur le Tribunal des anciens combattants (révision et appel) ou dans le cadre de la représentation des clients aux audiences prévues par cette loi;
+
+
+
+
+
+
+
+
+d) toute décision rendue par un tribunal ou un juge;
+
+
+
+
+
+
+
+
+e) toute question qui relève de la compétence exclusive de la Gendarmerie royale du Canada et qui n’a pas été formellement confiée au ministère;
+
+
+
+
+
+
+
+
+f) les conseils juridiques donnés au gouvernement du Canada ou au Tribunal;
+
+
+
+
+
+
+
+
+g) les renseignements confidentiels du Conseil privé de la Reine pour le Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Systemic or recurrent issues
+
+
+
+15. Notwithstanding section 14, the Ombudsman may investigate systemic or recurrent issues that relate to the operation of the Board and make recommendations in respect of those issues.
+
+
+
+
+
+
+
+
+
+15. Malgré l’article 14, l’ombudsman peut enquêter sur les problèmes d’ordre systémique ou récurrents se rapportant au fonctionnement du Tribunal et formuler des recommandations à cet égard.
+
+
+
+Problèmes d'ordre systémique ou récurrents
+
+
+
+
+
+
+
+
+
+
+ALTERNATIVE DISPUTE RESOLUTION
+
+
+
+
+
+
+
+
+
+RÈGLEMENT EXTRAJUDICIAIRE DES DIFFÉRENDS
+
+
+
+
+
+
+
+
+
+
+
+
+Use of alternative dispute resolution methods
+
+
+
+16. (1) For the purposes of dealing with requests made under this Act, the Ombudsman shall establish mediation processes to address these requests.
+
+
+
+
+
+
+
+
+
+16. (1) En vue du traitement des demandes faites sous le régime de la présente loi, l’ombudsman élabore des mécanismes de médiation.
+
+
+
+Règlement extrajudiciaire des différends
+
+
+
+
+
+
+
+
+
+
+Mediation
+
+
+
+(2) If a requester consents to mediation, the Government of Canada officials referred to in the request shall not refuse to participate in mediation.
+
+
+
+
+
+
+
+
+
+(2) Les fonctionnaires du gouvernement du Canada mentionnés dans la demande ne peuvent refuser de prendre part à la médiation à laquelle consent le demandeur.
+
+
+
+Médiation
+
+
+
+
+
+
+
+
+
+
+Settlement
+
+
+
+(3) A settlement that includes a remedy for the requester shall be arrived at by mutual consent of the requester and the person with authority to implement this remedy.
+
+
+
+
+
+
+
+
+
+(3) Un règlement prévoyant les mesures de réparation à prendre à l’égard du demandeur doit être conclu mutuellement par le demandeur et la personne qui a le pouvoir de prendre ces mesures.
+
+
+
+Règlement
+
+
+
+
+
+
+
+
+
+
+Settlement — disciplinary action
+
+
+
+(4) A settlement may provide for disciplinary action against any person.
+
+
+
+
+
+
+
+
+
+(4) Le règlement peut prévoir la prise de mesures disciplinaires à l’égard de toute personne.
+
+
+
+Règlement — prise de mesures disciplinaires
+
+
+
+
+
+
+
+
+
+
+Formal investigation
+
+
+
+17. (1) If mediation does not result in a satisfactory resolution of a request, the Ombudsman shall conduct a formal investigation of the request.
+
+
+
+
+
+
+
+
+
+17. (1) Si le recours à la médiation ne permet pas de résoudre la demande de façon satisfaisante, l’ombudsman mène une enquête officielle relativement à celle-ci.
+
+
+
+Enquête officielle
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(2) The Ombudsman’s report of the investigation may include the following recommendations:
+
+
+
+
+
+
+
+
+(a) disciplinary action if appropriate;
+
+
+
+
+
+
+
+
+(b) any necessary policy, regulatory or legislative change; or
+
+
+
+
+
+
+
+
+(c) compensation for the affected party.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman peut, dans son rapport, formuler des recommandations sur les sujets suivants :
+
+
+
+Rapport
+
+
+
+
+a) les mesures disciplinaires devant être prises, le cas échéant;
+
+
+
+
+
+
+
+
+b) au besoin, les changements devant être apportés aux politiques, à la réglementation ou à la législation;
+
+
+
+
+
+
+
+
+c) le dédommagement devant être accordé à la partie touchée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personal information
+
+
+
+(3) The report referred to in subsection (2) shall be made available to the public and shall include
+
+
+
+
+
+
+
+
+(a) the name of any person subject to a recommendation for disciplinary action; and
+
+
+
+
+
+
+
+
+(b) the name of the requester, with his or her consent.
+
+
+
+
+
+
+
+
+
+(3) Le rapport visé au paragraphe (2) est mis à la disposition du public et précise notamment les renseignements suivants :
+
+
+
+Renseignements personnels
+
+
+
+
+a) le nom des personnes visées par toute recommandation prévoyant la prise de mesures disciplinaires;
+
+
+
+
+
+
+
+
+b) le nom du demandeur, si celui-ci consent à ce qu’il soit divulgué.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Results of investigation
+
+
+
+18. The Ombudsman shall inform the requester of the results of an investigation or any action taken in response to the request.
+
+
+
+
+
+
+
+
+
+18. L’ombudsman informe le demandeur du résultat de son enquête ou des mesures qu’il a prises pour donner suite à sa demande.
+
+
+
+Résultat de l’enquête
+
+
+
+
+
+
+
+
+
+
+ACCESS TO INFORMATION
+
+
+
+
+
+
+
+
+
+ACCÈS À L'INFORMATION
+
+
+
+
+
+
+
+
+
+
+
+
+Access to documents, records or personnel
+
+
+
+19. The Ombudsman shall be allowed access to any document, record or personnel of any government department that has been contacted by the Ombudsman in the course of carrying out his or her mandate subject only to any limitations that exist under the following legislation, policy and privileges:
+
+
+
+
+
+
+
+
+(a) the Privacy Act;
+
+
+
+
+
+
+
+
+(b) the Policy on Government Security;
+
+
+
+
+
+
+
+
+(c) the police informant identity privilege;
+
+
+
+
+
+
+
+
+(d) the spousal privilege;
+
+
+
+
+
+
+
+
+(e) the solicitor-client privilege; and
+
+
+
+
+
+
+
+
+(f) the penitential communications.
+
+
+
+
+
+
+
+
+
+19. L’ombudsman a accès aux documents, aux dossiers et aux membres du personnel de tous les ministères avec qui il a communiqué dans l’exercice de son mandat, sous réserve uniquement des exceptions prévues par les lois, politiques et privilèges suivants :
+
+
+
+Accès aux documents, dossiers et membres du personnel
+
+
+
+
+a) la Loi sur la protection des renseignements personnels;
+
+
+
+
+
+
+
+
+b) la Politique sur la sécurité du gouvernement;
+
+
+
+
+
+
+
+
+c) le privilège de protection de l’identité des informateurs de police;
+
+
+
+
+
+
+
+
+d) le privilège du conjoint;
+
+
+
+
+
+
+
+
+e) le secret professionnel de l'avocat;
+
+
+
+
+
+
+
+
+f) le secret des communications en confession.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Confidential information
+
+
+
+20. The Ombudsman and persons acting on the Ombudsman’s behalf shall not disclose any information that is acquired while carrying out the Ombudsman’s mandate without the permission of any person affected, unless the disclosure is in accordance with an Act of Parliament.
+
+
+
+
+
+
+
+
+
+20. L’ombudsman et les personnes agissant en son nom ne peuvent communiquer les renseignements qu’ils ont obtenus dans l’exercice du mandat de l'ombudsman sans le consentement des personnes concernées, sauf en conformité avec une loi fédérale.
+
+
+
+Confidentialité
+
+
+
+
+
+
+
+
+
+
+ADVISORY COMMITTEES
+
+
+
+
+
+
+
+
+
+COMITÉS CONSULTATIFS
+
+
+
+
+
+
+
+
+
+
+
+
+Advisory Committees
+
+
+
+21. (1) The Ombudsman may, as necessary, establish committees to assist the Ombudsman in dealing with general or specific situations or issues  that arise in carrying out the Ombudsman’s mandate under this Act.
+
+
+
+
+
+
+
+
+
+21. (1) L’ombudsman peut, au besoin, établir des comités pour l’aider dans des situations générales ou particulières dans l’exercice du mandat que lui confère la présente loi.
+
+
+
+Comités consultatifs
+
+
+
+
+
+
+
+
+
+
+Composition of Committee
+
+
+
+(2) The composition of the committee shall be determined by the Ombudsman, taking into consideration the need for significant representation from veterans’ and stakeholders’ groups and from those veterans who do not belong to a veterans association or advocacy group.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman détermine la composition du comité en prenant en considération la nécessité que les groupes d’anciens combattants et d’intéressés ainsi que les anciens combattants n'appartenant pas à une association ou à un groupe de défense d'anciens combattants y soient représentés dans une proportion importante.
+
+
+
+Composition du comité
+
+
+
+
+
+
+
+
+
+
+REPORTS
+
+
+
+
+
+
+
+
+
+RAPPORTS
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+22. (1) The Ombudsman shall prepare an annual report on his or her activities that shall include a statement as to whether the Ombudsman received all the information that he or she requested during the calendar year in the course of carrying out his or her duties under this Act.
+
+
+
+
+
+
+
+
+
+22. (1) L’ombudsman prépare un rapport annuel de ses activités dans lequel il signale s’il a reçu tous les renseignements qu’il a demandés au cours de l’année civile dans l’exercice de ses fonctions.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Report to be tabled in Parliament
+
+
+
+(2) The Ombudsman shall submit the annual report to the Minister, who shall table it in both Houses of Parliament within the first 60 sitting days of each House following the completion of the report.
+
+
+
+
+
+
+
+
+
+(2) L’ombudsman présente le rapport annuel au ministre, qui le dépose devant le Sénat et la Chambre des communes dans les soixante premiers jours de séance suivant l’achèvement du rapport.
+
+
+
+Rapport au Parlement
+
+
+
+
+
+
+
+
+
+
+Publication of annual report
+
+
+
+(3) As soon as an annual report has been tabled under subsection (2), the Ombudsman shall make it available to the public.
+
+
+
+
+
+
+
+
+
+(3) Dès que le rapport a été déposé conformément au paragraphe (2), l’ombudsman le rend public.
+
+
+
+Publication du rapport annuel
+
+
+
+
+
+
+
+
+
+
+Other reports and recommendations
+
+
+
+23. (1) The Ombudsman may at any time submit an additional report to the Minister, which may include recommendations, concerning any investigation or other matter that is within the Ombudsman’s mandate.
+
+
+
+
+
+
+
+
+
+23. (1) L’ombudsman peut à tout moment présenter au ministre d'autres rapports pouvant contenir des recommandations au sujet de toute enquête ou de toute question qui relève de son mandat.
+
+
+
+Autres rapports et recommandations
+
+
+
+
+
+
+
+
+
+
+Committees of both Houses
+
+
+
+(2) The Minister shall, within 60 days after receiving a report referred to in subsection (1), refer it for review by an appropriate committee of each House simultaneously or to an appropriate joint committee of both Houses.
+
+
+
+
+
+
+
+
+
+(2) Le ministre, dans les soixante jours suivant la réception d'un rapport visé au paragraphe (1), le renvoie pour examen à un comité compétent de chaque chambre simultanément ou à un comité mixte compétent.
+
+
+
+Comités
+
+
+
+
+
+
+
+
+
+
+Recommendations not binding
+
+
+
+(3) Any recommendations made by the Ombudsman under subsection (1) are not binding on the Minister.
+
+
+
+
+
+
+
+
+
+(3) Les recommandations formulées par l’ombudsman en vertu du paragraphe (1) ne lient pas le ministre.
+
+
+
+Recommandations non contraignantes
+
+
+
+
+
+
+
+
+
+
+Minister’s response
+
+
+
+(4) Where the Ombudsman has issued a report that recommends that the Minister take a certain action, the Minister shall, within 60 days after receiving the report, inform the Ombudsman as to what action is contemplated or being taken with respect to the recommendations or explain why the recommended action will not be taken.
+
+
+
+
+
+
+
+
+
+(4) Lorsque l’ombudsman a remis un rapport recommandant que le ministre prenne certaines mesures, celui-ci doit, dans les soixante jours suivant la réception du rapport, informer l’ombudsman des mesures qu’il entend prendre ou qu’il a prises à la suite des recommandations ou expliquer pourquoi les mesures recommandées ne seront pas prises.
+
+
+
+Réponse du ministre
+
+
+
+
+
+
+
+
+
+
+Publication of reports after 60 days
+
+
+
+(5) The Ombudsman may make any report, other than the annual report, available to the public on the expiry of 60 days after it has been submitted to the Minister.
+
+
+
+
+
+
+
+
+
+(5) L’ombudsman peut publier tout rapport, autre que le rapport annuel, à l’expiration de la période de soixante jours suivant sa présentation au ministre.
+
+
+
+Publication des rapports après soixante jours
+
+
+
+
+
+
+
+
+
+
+Inclusion of comments in reports
+
+
+
+24. (1) If it appears to the Ombudsman that information in an annual report or any additional report would adversely affect any person or organization, the Ombudsman shall give those affected an opportunity to comment and shall include a fair and accurate summary of the comments in the report.
+
+
+
+
+
+
+
+
+
+24. (1) S'il estime que les renseignements contenus dans le rapport annuel ou dans un autre rapport risquent d’avoir une incidence négative sur toute personne ou organisation, l’ombudsman donne à celle-ci la possibilité de se faire entendre et il inclut dans le rapport un résumé juste et fidèle de ses observations.
+
+
+
+Observations
+
+
+
+
+
+
+
+
+
+
+Personal information
+
+
+
+(2) With respect to the inclusion of any personal information in an annual report or any additional report, the Ombudsman shall comply with the relevant provisions of the Access to Information Act and the Privacy Act and any other applicable Act of Parliament.
+
+
+
+
+
+
+
+
+
+(2) En ce qui a trait aux renseignements personnels figurant dans le rapport annuel ou tout autre rapport, l’ombudsman doit se conformer aux dispositions pertinentes de la Loi sur l’accès à l’information, de la Loi sur la protection des renseignements personnels et de toute autre loi fédérale applicable.
+
+
+
+Renseignements personnels
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+25. The Governor in Council may make regulations prescribing any matter or thing that by this Act is to be or may be prescribed and generally to carry out the purposes and provisions of this Act.
+
+
+
+
+
+
+
+
+
+25. Le gouverneur en conseil peut, par règlement, prendre toute mesure d’ordre réglementaire prévue par la présente loi et toute autre mesure d’application de la présente loi.
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+FIVE-YEAR REVIEW
+
+
+
+
+
+
+
+
+
+EXAMEN QUINQUENNAL
+
+
+
+
+
+
+
+
+
+
+
+
+Five-year review
+
+
+
+26. (1) Within five years after this Act receives royal assent, a comprehensive review of the provisions, operation and administration of this Act shall be undertaken by the Standing Committee on Veterans Affairs of the House of Commons or such other committee as the House may designate for the purposes of this section.
+
+
+
+
+
+
+
+
+
+26. (1) Dans les cinq ans suivant la sanction de la présente loi, un examen approfondi des dispositions et de l’application de la présente loi doit être fait par le Comité permanent des anciens combattants de la Chambre des communes ou tout autre comité que la Chambre désigne pour l’application du présent article.
+
+
+
+Examen quinquennal
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(2) The committee referred to in subsection (1) shall, within one year after a review is undertaken pursuant to that subsection, or within such further time as may be authorized by the House of Commons, submit a report on the review to Parliament, including a statement of any changes that the committee recommends.
+
+
+
+
+
+
+
+
+
+(2) Dans l’année qui suit le début de son examen ou dans le délai supérieur que la Chambre des communes lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu’il recommande.
+
+
+
+Rapport
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

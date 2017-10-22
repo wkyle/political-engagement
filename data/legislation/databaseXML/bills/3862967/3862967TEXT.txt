@@ -1,0 +1,4722 @@
+
+
+
+
+
+
+C-30
+
+
+
+
+
+C-30
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-30
+
+
+
+
+
+PROJET DE LOI C-30
+
+
+
+
+
+
+An Act to amend the Parliament of Canada Act and to make consequential amendments to other Acts
+
+
+
+
+
+Loi modifiant la Loi sur le Parlement du Canada et d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 7, 2009
+
+
+
+
+
+première lecture le 7 mai 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF STATE (DEMOCRATIC REFORM)
+
+90505
+
+
+
+MINISTRE D’ÉTAT (RÉFORME DÉMOCRATIQUE)
+
+
+
+
+
+
+
+
+
+
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the Parliament of Canada Act and to make consequential amendments to other Acts”.
+SUMMARY
+This enactment amends the Parliament of Canada Act to eliminate the position of Senate Ethics Officer and to transfer the duties and functions of that Officer to the Conflict of Interest and Ethics Commissioner. It also makes consequential amendments to other Acts of Parliament.
+
+
+
+RECOMMANDATION
+Son Excellence la gouverneure générale recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi sur le Parlement du Canada et d’autres lois en conséquence ».
+SOMMAIRE
+Le texte modifie la Loi sur le Parlement du Canada en vue d’éliminer le poste de conseiller sénatorial en éthique et de transférer toutes ses fonctions au commissaire aux conflits d’intérêts et à l’éthique.  Enfin, il apporte des modifications corrélatives à d’autres lois fédérales. 
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-30
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Parliament of Canada Act and to make consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le Parlement du Canada et d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas it is important that Canada’s representative institutions, including the Senate, continue to evolve in accordance with the principles of modern democracy and the expectations of Canadians;
+
+
+
+
+
+
+
+
+
+
+And whereas the consistent application of ethical standards to all members of the Senate and of the House of Commons would be promoted by a single conflict of interest and ethics commissioner;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+qu’il est important que les institutions représentatives du Canada, notamment le Sénat, continuent d’évoluer de concert avec les principes d’une démocratie moderne et les attentes des Canadiens;
+
+
+
+
+
+
+
+
+
+
+que l’application constante des normes d’éthique aux membres du Sénat et de la Chambre des communes sera mis de l’avant par un commissaire aux conflits d’intérêts et à l’éthique,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Senate Ethics Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur des questions d’éthique (Sénat).
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. P-1
+
+
+
+PARLIAMENT OF CANADA ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE PARLEMENT DU CANADA
+
+
+
+L.R., ch. P-1
+
+
+
+
+
+
+
+
+
+
+2004, c. 7, s. 2; 2006, c. 9, ss. 26 and 112
+
+
+
+
+2. The heading before section 20.1 and sections 20.1 to 20.7 of the Parliament of Canada Act are repealed.
+
+
+
+
+
+
+
+
+
+
+2. L’intertitre précédant l’article 20.1 et les articles 20.1 à 20.7 de la Loi sur le Parlement du Canada sont abrogés.
+
+
+
+2004, ch. 7, art. 2; 2006, ch. 9, art. 26 et 112
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 28
+
+
+
+
+3. Subsection 81(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 81(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 28
+
+
+
+
+
+
+
+
+
+
+Appointment
+
+
+
+
+81. (1) The Governor in Council shall, by commission under the Great Seal, appoint a Conflict of Interest and Ethics Commissioner after consultation with the leader of every recognized party in the Senate and House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
+
+
+
+
+
+
+
+
+
+
+81. (1) Le gouverneur en conseil nomme un commissaire aux conflits d’intérêts et à l’éthique par commission sous le grand sceau, après consultation du chef de chacun des partis reconnus au Sénat et à la Chambre des communes et approbation par résolution du Sénat et de la Chambre des communes.
+
+
+
+Nomination
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 28
+
+
+
+
+4. Subsection 82(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. Le paragraphe 82(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 28
+
+
+
+
+
+
+
+
+
+
+Tenure
+
+
+
+
+82. (1) The Commissioner holds office during good behaviour for a term of seven years but may be removed for cause by the Governor in Council on address of the Senate and House of Commons.
+
+
+
+
+
+
+
+
+
+
+82. (1) Sauf révocation motivée par le gouverneur en conseil sur adresse du Sénat et de la Chambre des communes, le commissaire exerce ses fonctions à titre inamovible pour un mandat de sept ans.
+
+
+
+Exercice des fonctions
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 28
+
+
+
+
+5. Subsection 84(8) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 84(8) de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 28
+
+
+
+
+
+
+
+
+
+
+Inclusion in government estimates
+
+
+
+(8) The estimate referred to in subsection (7) shall be considered by the Speaker of the Senate and the Speaker of the House of Commons and then transmitted to the President of the Treasury Board, who shall lay it before the House of Commons with the estimates of the Government for the fiscal year.
+
+
+
+
+
+
+
+
+
+(8) L’état estimatif est examiné par le président du Sénat et le président de la Chambre des communes puis transmis au président du Conseil du Trésor, qui le dépose devant la Chambre des communes avec les prévisions budgétaires du gouvernement pour l’exercice.
+
+
+
+Adjonction au budget et dépôt
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 28
+
+
+
+
+6. Paragraph 85(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. L’alinéa 85a) de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 28
+
+
+
+
+
+
+
+
+
+
+
+
+(a) carry out the functions of the Commissioner referred to in sections 86, 86.01 and 87; and
+
+
+
+
+
+
+
+
+
+
+a) d’exercer les fonctions prévues aux articles 86, 86.01 et 87;
+
+
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 28
+
+
+
+
+7. Subsection 86(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. Le paragraphe 86(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 28
+
+
+
+
+
+
+
+
+
+
+General direction of committee
+
+
+
+(3) The Commissioner shall carry out those duties and functions under the general direction of any committee of the House of Commons or of both Houses of Parliament as may be designated or established by the House of Commons, or by both Houses of Parliament, as the case may be, for that purpose.
+
+
+
+
+
+
+
+
+
+(3) Lorsqu’il s’acquitte de ces fonctions, il est placé sous l’autorité générale du comité soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre, selon le cas, désigne ou constitue à cette fin.
+
+
+
+Autorité
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. The Act is amended by adding the following after section 86:
+
+
+
+
+
+
+
+
+
+
+8. La même loi est modifiée par adjonction, après l’article 86, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Functions — members of the Senate
+
+
+
+
+
+86.01 (1) The Commissioner shall perform the duties and functions assigned by the Senate for governing the conduct of members of the Senate when they are carrying out the duties and functions of their office as members of the Senate.
+
+
+
+
+
+
+
+
+
+
+
+
+86.01 (1) Le commissaire s’acquitte des fonctions qui lui sont conférées par le Sénat en vue de régir la conduite des sénateurs dans l’exercice de leurs fonctions.
+
+
+
+
+Fonctions à l’égard des sénateurs
+
+
+
+
+
+
+
+
+
+
+Privileges and immunities
+
+
+
+
+(2) The duties and functions of the Commissioner under subsection (1) are carried out within the institution of the Senate. The Commissioner enjoys the privileges and immunities of the Senate and its members when carrying out those duties and functions.
+
+
+
+
+
+
+
+
+
+
+
+(2) Lorsqu’il s’acquitte de ces fonctions, il agit dans le cadre de l’institution du Sénat et possède les privilèges et immunités du Sénat et des sénateurs.
+
+
+
+
+Privilèges et immunités
+
+
+
+
+
+
+
+
+
+
+General direction of committee
+
+
+
+
+(3) The Commissioner shall carry out those duties and functions under the general direction of any committee of the Senate or of both Houses of Parliament as may be designated or established by the Senate, or by both Houses of Parliament, as the case may be, for that purpose.
+
+
+
+
+
+
+
+
+
+
+
+(3) Lorsqu’il s’acquitte de ces fonctions, il est placé sous l’autorité générale du comité soit du Sénat, soit mixte, que le Parlement ou la chambre, selon le cas, désigne ou constitue à cette fin.
+
+
+
+
+Autorité
+
+
+
+
+
+
+
+
+
+
+Clarification — ethical principles, etc.
+
+
+
+
+(4) For greater certainty, the general direction of the committee referred to in subsection (3) does not include the administration of the Conflict of Interest Act in respect of ministers of the Crown, ministers of state or parliamentary secretaries.
+
+
+
+
+
+
+
+
+
+
+
+(4) Il est entendu que l’autorité générale du comité visé au paragraphe (3) ne vise pas l’application de la Loi sur les conflits d’intérêts aux ministres, ministres d’État et secrétaires parlementaires.
+
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Clarification — powers, etc., of the Senate
+
+
+
+
+(5) For greater certainty, this section shall not be interpreted as limiting in any way the powers, privileges, rights and immunities of the Senate or its members.
+
+
+
+
+
+
+
+
+
+
+
+(5) Il est entendu que le présent article n’a pas pour effet de restreindre de quelque façon les pouvoirs, droits, privilèges et immunités du Sénat et des sénateurs.
+
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Subsection 90(1) of the Act is amended by striking out “and” at the end of paragraph (a) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+
+9. Le paragraphe 90(1) de la même loi est modifié par adjonction, après l’alinéa a), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a.1) a report on his or her activities under section 86.01 for that year to the Speaker of the Senate, who shall table the report in that House; and
+
+
+
+
+
+
+
+
+
+
+
+
+a.1) un rapport sur ses activités au titre de l’article 86.01 pour l’exercice au président du Sénat, qui le dépose devant cette chambre;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISIONS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS TRANSITOIRES
+
+
+
+
+
+
+
+
+
+
+
+
+No continuation in office
+
+
+
+
+10. The person who holds the office of Senate Ethics Officer immediately before the coming into force of section 2 ceases to hold that office on the coming into force of that section.
+
+
+
+
+
+
+
+
+
+
+10. La personne qui occupait le poste de conseiller sénatorial en éthique immédiatement avant l’entrée en vigueur de l’article 2 cesse d’occuper ce poste à l’entrée en vigueur de cet article.
+
+
+
+Cessation des fonctions
+
+
+
+
+
+
+
+
+
+
+Conflict of Interest and Ethics Commissioner
+
+
+
+
+11. (1) Despite section 81 of the Parliament of Canada Act, the person who, immediately before the coming into force of section 3, holds the office of Conflict of Interest and Ethics Commissioner under section 81 of that Act continues in office during good behaviour and subject to removal for cause by the Governor in Council on address of the Senate and House of Commons until the earliest of the following:
+
+
+
+
+
+
+
+
+
+
+(a) a resolution of the Senate is adopted approving the original appointment of the person as Conflict of Interest and Ethics Commissioner,
+
+
+
+
+
+
+
+
+
+
+(b) a commissioner is appointed in accordance with section 81 of that Act, as amended by section 3, and
+
+
+
+
+
+
+
+
+
+
+(c) a period of six months has elapsed after the day on which this section comes into force.
+
+
+
+
+
+
+
+
+
+
+11. (1) Malgré l’article 81 de la Loi sur le Parlement du Canada, la personne qui occupait, en vertu de cet article, le poste de commissaire aux conflits d’intérêts et à l’éthique à l’entrée en vigueur de l’article 3 continue à occuper ce poste à titre inamovible, sauf révocation motivée par le gouverneur en conseil sur adresse du Sénat et de la Chambre des communes, jusqu’au premier en date des événements suivants :
+
+
+
+Commissaire aux conflits d’intérêts et à l’éthique
+
+
+
+
+
+a) l’adoption d’une résolution du Sénat approuvant la nomination originale de la personne à titre de commissaire aux conflits d’intérêts et à l’éthique;
+
+
+
+
+
+
+
+
+
+
+
+b) la nomination d’un commissaire conformément à l’article 81 de cette loi, dans sa version modifiée par l’article 3;
+
+
+
+
+
+
+
+
+
+
+
+c) l’expiration d’une période de six mois après l’entrée en vigueur du présent article.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Approval of appointment by Senate
+
+
+
+(2) If a resolution referred to in paragraph (1)(a) is adopted, the person holding office under subsection (1) continues in office during good behaviour and subject to removal for cause by the Governor in Council on address of the Senate and House of Commons until the expiry of a period of seven years after the date of the person’s original appointment as Conflict of Interest and Ethics Commissioner.
+
+
+
+
+
+
+
+
+
+(2) Dans le cas où la résolution visée à l’alinéa (1)a) est adoptée, la personne visée au paragraphe (1) continue à occuper son poste à titre inamovible, sauf révocation motivée par le gouverneur en conseil sur adresse du Sénat et de la Chambre des communes, jusqu’à l’expiration d’une période de sept ans suivant la date de sa nomination originale à titre de commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+Nomination approuvée par le Sénat
+
+
+
+
+
+
+
+
+
+
+Positions
+
+
+
+
+12. (1) An employee who occupies a position in the office of the Senate Ethics Officer immediately before the day on which section 2 comes into force continues in that position, except that from that day the employee occupies that position in the office of the Conflict of Interest and Ethics Commissioner.
+
+
+
+
+
+
+
+
+
+
+12. (1) L’entrée en vigueur de l’article 2 est sans effet sur la situation des employés qui, à la date de cette entrée en vigueur, occupaient un poste auprès du conseiller sénatorial en éthique, à la différence que, à compter de cette date, ils l’occupent auprès du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+Postes
+
+
+
+
+
+
+
+
+
+
+Transfer of appropriation
+
+
+
+(2) Any amount appropriated, for the fiscal year in which this section comes into force, by an appropriation Act based on the Estimates for that year for defraying the charges and expenses of the office of the Senate Ethics Officer that, on the day on which this section comes into force, is unexpended is deemed, on that day, to be an amount appropriated for defraying the charges and expenses of the office of the Conflict of Interest and Ethics Commissioner.
+
+
+
+
+
+
+
+
+
+(2) Les sommes affectées — mais non engagées —, pour l’exercice en cours à la date d’entrée en vigueur du présent article, par toute loi de crédits consécutive aux prévisions budgétaires de cet exercice, aux frais et dépenses du bureau du conseiller sénatorial en éthique sont réputées être affectées aux frais et dépenses du bureau du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+Transfert de crédit
+
+
+
+
+
+
+
+
+
+
+References
+
+
+
+(3) Every reference to the Senate Ethics Officer in any deed, contract, agreement, act, instrument or other document executed or signed by the Senate Ethics Officer is to be read as a reference to the Conflict of Interest and Ethics Commissioner, unless the context otherwise requires.
+
+
+
+
+
+
+
+
+
+(3) Sauf indication contraire du contexte, dans les contrats, accords, ententes, actes, instruments et autres documents signés par le conseiller sénatorial en éthique, la mention de celui-ci vaut mention du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+Mentions
+
+
+
+
+
+
+
+
+
+
+Continuation of proceedings
+
+
+
+(4) Any action, suit or other legal or administrative proceeding to which the Senate Ethics Officer is a party that is pending on the coming into force of this section may be continued by or against the Conflict of Interest and Ethics Commissioner in a similar manner and to the same extent as it would have been continued by or against the Senate Ethics Officer.
+
+
+
+
+
+
+
+
+
+(4) Le commissaire aux conflits d’intérêts et à l’éthique prend la suite du conseiller sénatorial en éthique, au même titre et dans les mêmes conditions que celui-ci, comme partie aux procédures judiciaires ou administratives en cours à la date d’entrée en vigueur du présent article et auxquelles le conseiller sénatorial en éthique est partie.
+
+
+
+Procédures en cours
+
+
+
+
+
+
+
+
+
+
+Transfer of data
+
+
+
+(5) All information that, on the day on which this section comes into force, is in the possession or control of the Senate Ethics Officer relating to the exercise of the powers and the performance of the duties and functions of the Senate Ethics Officer under the Parliament of Canada Act is, as of that day, under the control of the Conflict of Interest and Ethics Commissioner.
+
+
+
+
+
+
+
+
+
+(5) Est en la possession du commissaire aux conflits d’intérêts et à l’éthique ou sous son contrôle tout renseignement qui, à la date d’entrée en vigueur du présent article, se trouve sous le contrôle du conseiller sénatorial en éthique dans le cadre de l’exercice de ses attributions au titre de la Loi sur le Parlement du Canada.
+
+
+
+Transfert de renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-10
+
+
+
+Canada Post Corporation Act
+
+
+
+
+
+
+
+
+
+Loi sur la Société canadienne des postes
+
+
+
+L.R., ch. C-10
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 4
+
+
+
+
+13. Paragraph 35(2)(d) of the Canada Post Corporation Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. L’alinéa 35(2)d) de la Loi sur la Société canadienne des postes est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+(d) the Conflict of Interest and Ethics Commissioner
+
+
+
+
+
+
+
+
+
+
+d) le commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2009, c. 2, s. 393
+
+
+
+Expenditure Restraint Act
+
+
+
+
+
+
+
+
+
+Loi sur le contrôle des dépenses
+
+
+
+2009, ch. 2, art. 393
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. Paragraph 13(1)(c) of the Expenditure Restraint Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. L’alinéa 13(1)c) de la Loi sur le contrôle des dépenses est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the Senate, the House of Commons, the Library of Parliament and the office of the Conflict of Interest and Ethics Commissioner.
+
+
+
+
+
+
+
+
+
+
+c)  du Sénat, de la Chambre des communes, de la Bibliothèque du Parlement et du bureau du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. F-7; 2002, c. 8, s. 14
+
+
+
+Federal Courts Act
+
+
+
+
+
+
+
+
+
+Loi sur les Cours fédérales
+
+
+
+L.R., ch. F-7; 2002, ch. 8, art. 14
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 38
+
+
+
+
+15. Subsection 2(2) of the Federal Courts Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. Le paragraphe 2(2) de la Loi sur les Cours fédérales est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 38
+
+
+
+
+
+
+
+
+
+
+Senate and House of Commons
+
+
+
+(2) For greater certainty, the expression “federal board, commission or other tribunal”, as defined in subsection (1), does not include the Senate, the House of Commons, any committee or member of either House, or the Conflict of Interest and Ethics Commissioner with respect to the exercise of the jurisdiction or powers referred to in sections 41.1 to 41.5, 86 and 86.01 of the Parliament of Canada Act.
+
+
+
+
+
+
+
+
+
+(2) Il est entendu que sont également exclus de la définition de « office fédéral » le Sénat, la Chambre des communes, tout comité ou membre de l’une ou l’autre chambre et le commissaire aux conflits d’intérêts et à l’éthique à l’égard de l’exercice de sa compétence et de ses attributions visées aux articles 41.1 à 41.5, 86 et 86.01 de la Loi sur le Parlement du Canada.
+
+
+
+Sénat et Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. F-11
+
+
+
+Financial Administration Act
+
+
+
+
+
+
+
+
+
+Loi sur la gestion des finances publiques
+
+
+
+L.R., ch. F-11
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 7(1)
+
+
+
+
+16. (1) Paragraph (c) of the definition “appropriate Minister” in section 2 of the Financial Administration Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+16. (1) L’alinéa c) de la définition de « ministre compétent », à l’article 2 de la Loi sur la gestion des finances publiques, est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, par. 7(1)
+
+
+
+
+
+
+
+
+
+
+
+
+(c) with respect to the Senate, the Speaker of the Senate, with respect to the House of Commons, the Board of Internal Economy, with respect to the office of the Conflict of Interest and Ethics Commissioner, the Speakers of the Senate and the House of Commons, and with respect to the Library of Parliament, the Speakers of the Senate and the House of Commons,
+
+
+
+
+
+
+
+
+
+
+c) dans le cas du Sénat, le président du Sénat, dans celui de la Chambre des communes, le Bureau de régie interne, dans celui du bureau du commissaire aux conflits d’intérêts et à l’éthique, le président de chaque chambre et dans celui de la bibliothèque du Parlement, le président de chaque chambre;
+
+
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 7(2)
+
+
+
+(2) Paragraph (c) of the definition “department” in section 2 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa c) de la définition de « ministère », à l’article 2 de la même loi, est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, par. 7(2)
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the staffs of the Senate, House of Commons, Library of Parliament and office of the Conflict of Interest and Ethics Commissioner, and
+
+
+
+
+
+
+
+
+
+
+c) le personnel du Sénat, celui de la Chambre des communes, celui de la bibliothèque du Parlement et celui du bureau du commissaire aux conflits d’intérêts et à l’éthique;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. G-2
+
+
+
+Garnishment, Attachment and Pension Diversion Act
+
+
+
+
+
+
+
+
+
+Loi sur la saisie-arrêt et la distraction de pensions
+
+
+
+L.R., ch. G-2
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 9
+
+
+
+
+17. The heading of Division IV of Part 1 of the Garnishment, Attachment and Pension Diversion Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. Le titre de la section IV de la partie I de la Loi sur la saisie-arrêt et la distraction de pensions est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Senate, House of Commons, Library of Parliament and Office of the Conflict of Interest and Ethics Commissioner
+
+
+
+
+
+
+
+
+
+Sénat, Chambre des communes, bibliothèque du Parlement et bureau du commissaire aux conflits d’intérêts et à l’éthique
+
+
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 10
+
+
+
+
+18. The portion of paragraph (b) of the definition “salary” in section 16 of the Act before subparagraph (i) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+18. Le passage de l’alinéa b) de la définition de « traitement » précédant le sous-alinéa (i), à l’article 16 de la même loi, est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 10
+
+
+
+
+
+
+
+
+
+
+
+
+(b) in the case of the staff of the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner or the staff of members of the Senate or House of Commons, or in the case of any other person paid out of moneys appropriated by Parliament for use by the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner,
+
+
+
+
+
+
+
+
+
+
+b) les prestations pécuniaires allouées au personnel du Sénat, de la Chambre des communes, de la bibliothèque du Parlement ou du bureau du commissaire aux conflits d’intérêts et à l’éthique, au personnel des sénateurs ou des députés ou à toute autre personne rémunérée sur les deniers affectés par le Parlement à l’usage du Sénat, de la Chambre des communes, de la bibliothèque du Parlement ou du bureau du commissaire aux conflits d’intérêts et à l’éthique :
+
+
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 11
+
+
+
+
+19. The portion of section 17 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+19. Le passage de l’article 17 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 11
+
+
+
+
+
+
+
+
+
+
+Garnishment of salaries, remuneration
+
+
+
+
+17. The Senate, House of Commons, Library of Parliament and office of the Conflict of Interest and Ethics Commissioner are, subject to this Division and any regulation made under it, bound by provincial garnishment law in respect of
+
+
+
+
+
+
+
+
+
+
+17. Sous réserve de la présente section et de ses règlements d’application, le Sénat, la Chambre des communes, la bibliothèque du Parlement et le bureau du commissaire aux conflits d’intérêts et à l’éthique sont assujettis au droit provincial en matière de saisie-arrêt en ce qui concerne les sommes suivantes :
+
+
+
+Saisie de traitements, rémunération
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 12
+
+
+
+
+20. Sections 18 and 19 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+20. Les articles 18 et 19 de la même loi sont remplacés par ce qui suit :
+
+
+
+2006, ch. 9, art. 12
+
+
+
+
+
+
+
+
+
+
+Service binding
+
+
+
+
+18. (1) Subject to this Division, service on the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner of a garnishee summons, together with a copy of the judgment or order against the debtor and an application in the prescribed form, binds the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, as the case may be, 15 days after the day on which those documents are served.
+
+
+
+
+
+
+
+
+
+
+18. (1) Sous réserve des autres dispositions de la présente section, le bref de saisie-arrêt, accompagné de la demande présentée en la forme réglementaire et de la copie du jugement ou de l’ordonnance visant le débiteur, devient opposable au Sénat, à la Chambre des communes, à la bibliothèque du Parlement ou au bureau du commissaire aux conflits d’intérêts et à l’éthique, selon le cas, quinze jours après la signification de ces documents.
+
+
+
+Opposabilité
+
+
+
+
+
+
+
+
+
+
+When service is effective
+
+
+
+(2) A garnishee summons served on the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner is of no effect unless it is served on the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, as the case may be, in the first 30 days following the first day on which it could have been validly served on the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, as the case may be.
+
+
+
+
+
+
+
+
+
+(2) Le bref de saisie-arrêt ne produit ses effets que s’il a été signifié à l’institution en cause dans les trente jours suivant la date à compter de laquelle il pouvait valablement l’être.
+
+
+
+Date d’effet
+
+
+
+
+
+
+
+
+
+
+Place of service
+
+
+
+
+19. (1) Service of documents on the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner in connection with garnishment proceedings permitted by this Division must be effected at the place specified in the regulations.
+
+
+
+
+
+
+
+
+
+
+19. (1) Les actes relatifs à une saisie-arrêt prévue par la présente section doivent être signifiés au Sénat, à la Chambre des communes, à la bibliothèque du Parlement ou au bureau du commissaire aux conflits d’intérêts et à l’éthique au lieu indiqué dans les règlements.
+
+
+
+Lieu de la signification
+
+
+
+
+
+
+
+
+
+
+Method of service
+
+
+
+(2) In addition to any method of service permitted by the law of a province, service of documents on the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner under subsection (1) may be effected by registered mail, whether within or outside the province, or by any other method prescribed.
+
+
+
+
+
+
+
+
+
+(2) En plus des modes de signification prévus par le droit d’une province, la signification d’actes prévue au paragraphe (1) peut se faire soit par courrier recommandé, à l’intérieur ou à l’extérieur de la province, soit de toute autre manière réglementaire.
+
+
+
+Modes de signification
+
+
+
+
+
+
+
+
+
+
+If service by registered mail
+
+
+
+(3) If service of a document on the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner is effected by registered mail, the document is deemed to be served on the day of its receipt by the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, as the case may be.
+
+
+
+
+
+
+
+
+
+(3) La date de signification de tout acte effectuée au Sénat, à la Chambre des communes, à la bibliothèque du Parlement ou au bureau du commissaire aux conflits d’intérêts et à l’éthique par courrier recommandé est réputée être celle de sa réception.
+
+
+
+Date de signification
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 13
+
+
+
+
+21. Paragraphs 21(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+21. Le passage de l’article 21 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 13
+
+
+
+
+
+
+
+
+
+
+
+
+(a) in the case of a salary,
+
+
+
+
+
+
+(i) the salary to be paid on the last day of the second pay period next following the pay period in which the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, as the case may be, is bound by the garnishee summons, and
+
+
+
+
+
+
+(ii) if the garnishee summons has continuing effect under the law of the province, the salary to be paid on the last day of each subsequent pay period; or
+
+
+
+
+
+
+(b) in the case of remuneration described in paragraph 17(b),
+
+
+
+
+
+
+(i) the remuneration payable on the 15th day following the day on which the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, as the case may be, is bound by the garnishee summons, and
+
+
+
+
+
+
+(ii) either
+
+
+
+
+
+
+(A) any remuneration becoming payable in the 30 days following the 15th day after the day on which the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, as the case may be, is bound by the garnishee summons that is owing on that 15th day or that becomes owing in the 14 days following that 15th day, or
+
+
+
+
+
+
+(B) if the garnishee summons has continuing effect under the law of the province, any remuneration becoming payable subsequent to the 15th day after the day on which the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, as the case may be, is bound by the garnishee summons.
+
+
+
+
+
+
+
+
+
+
+21. Pour les besoins de toute procédure de saisie-arrêt prévue par la présente section, la signification du bref de saisie-arrêt au Sénat, à la Chambre des communes, à la bibliothèque du Parlement ou au bureau du commissaire aux conflits d’intérêts et à l’éthique frappe d’indisponibilité les sommes ci-après dont l’un ou l’autre est redevable envers le débiteur mentionné dans le bref :
+
+
+
+
+
+
+
+
+
+
+
+
+ 2006, c. 9, s. 14
+
+
+
+
+22. The portion of section 22 of the Act before paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+22. Le passage de l’article 22 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 14
+
+
+
+
+
+
+
+
+
+
+Time period to respond to a garnishee summons
+
+
+
+
+22. The Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner has the following time period within which to respond to a garnishee summons:
+
+
+
+
+
+
+
+
+
+
+(a) in the case of a salary, 15 days, or any lesser number of days that is prescribed, after the last day of the second pay period next following the pay period in which the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner is bound by the garnishee summons; or
+
+
+
+
+
+
+
+
+
+
+22. Le Sénat, la Chambre des communes, la bibliothèque du Parlement ou le bureau du commissaire aux conflits d’intérêts et à l’éthique dispose, pour comparaître, des délais suivants :
+
+
+
+Délai imparti pour comparaître
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 15
+
+
+
+
+23. Section 23 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+23. L’article 23 de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 15
+
+
+
+
+
+
+
+
+
+
+Method of response
+
+
+
+
+23. (1) In addition to any method of responding to a garnishee summons permitted by provincial garnishment law, the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner may respond to a garnishee summons by registered mail or by any other method prescribed.
+
+
+
+
+
+
+
+
+
+
+23. (1) En plus des modes de comparution autorisés par le droit provincial en matière de saisie-arrêt, le Sénat, la Chambre des communes, la bibliothèque du Parlement ou le bureau du commissaire aux conflits d’intérêts et à l’éthique peut comparaître soit par courrier recommandé, soit de toute autre manière réglementaire.
+
+
+
+Modes de comparution
+
+
+
+
+
+
+
+
+
+
+Response by registered mail
+
+
+
+(2) If the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner responds to a garnishee summons by registered mail, the receipt issued in accordance with regulations relating to registered mail made under the Canada Post Corporation Act shall be received in evidence and is, unless the contrary is shown, proof that the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, as the case may be, has responded to the garnishee summons.
+
+
+
+
+
+
+
+
+
+(2) Le récépissé conforme aux règlements pris, en matière de courrier recommandé, au titre de la Loi sur la Société canadienne des postes est admissible en preuve et établit, sauf preuve contraire, que l’institution en cause a comparu par courrier recommandé.
+
+
+
+Comparution par courrier recommandé
+
+
+
+
+
+
+
+
+
+
+Effect of payment into court
+
+
+
+(3) A payment into court by the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner under this section is a good and sufficient discharge of liability, to the extent of the payment.
+
+
+
+
+
+
+
+
+
+(3) Le versement d’une somme d’argent effectué par le Sénat, la Chambre des communes, la bibliothèque du Parlement ou le bureau du commissaire aux conflits d’intérêts et à l’éthique au greffe d’un tribunal au titre du présent article constitue bonne et valable quittance de son obligation, à concurrence du montant.
+
+
+
+Effet du dépôt
+
+
+
+
+
+
+
+
+
+
+Recovery of overpayment to debtor
+
+
+
+(4) If, in honouring a garnishee summons, the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that it should have paid to that debtor, the excess becomes a debt due to the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, as the case may be, by that debtor and may be recovered from the debtor at any time by set-off against future moneys payable to the debtor as salary or remuneration.
+
+
+
+
+
+
+
+
+
+(4) Lorsque le Sénat, la Chambre des communes, la bibliothèque du Parlement ou le bureau du commissaire aux conflits d’intérêts et à l’éthique, en obtempérant à un bref de saisie-arrêt, a, par erreur, versé à un débiteur, à titre de traitement ou de rémunération, une somme supérieure à celle qui aurait dû lui être versée, le trop-perçu constitue une créance de l’institution en cause sur ce débiteur, qui peut être recouvrée par compensation avec les versements à venir afférents au traitement ou à la rémunération de celui-ci.
+
+
+
+Recouvrement du trop-perçu
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 16
+
+
+
+
+24. Paragraph 24(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+24. L’alinéa 24a) de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 16
+
+
+
+
+
+
+
+
+
+
+
+
+(a) specifying the place where service of documents on the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner must be effected in connection with garnishment proceedings permitted by this Division;
+
+
+
+
+
+
+
+
+
+
+a) indiquer le lieu où les documents relatifs à une saisie-arrêt pratiquée sous le régime de la présente section doivent être signifiés au Sénat, à la Chambre des communes, à la bibliothèque du Parlement ou au bureau du commissaire aux conflits d’intérêts et à l’éthique;
+
+
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 17
+
+
+
+
+25. Section 26 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+25. L’article 26 de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 17
+
+
+
+
+
+
+
+
+
+
+No execution
+
+
+
+
+26. No execution shall issue on a judgment given against the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner in garnishment proceedings permitted by this Part.
+
+
+
+
+
+
+
+
+
+
+26. Le jugement rendu contre le Sénat, la Chambre des communes, la bibliothèque du Parlement ou le bureau du commissaire aux conflits d’intérêts et à l’éthique à la suite d’une saisie-arrêt pratiquée sous le régime de la présente partie n’est pas susceptible d’exécution forcée.
+
+
+
+Absence d’exécution forcée
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. G-5
+
+
+
+Government Employees Compensation Act
+
+
+
+
+
+
+
+
+
+Loi sur l’indemnisation des agents de l’État
+
+
+
+L.R., ch. G-5
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 18
+
+
+
+
+26. Paragraph (e) of the definition “employee” in section 2 of the Government Employees Compensation Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+26. L’alinéa e) de la définition de « agents de l’État », à l’article 2 de la Loi sur l’indemnisation des agents de l’État, est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 18
+
+
+
+
+
+
+
+
+
+
+
+
+(e) any officer or employee of the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner;
+
+
+
+
+
+
+
+
+
+
+e) employées par le Sénat, la Chambre des communes, la bibliothèque du Parlement ou le bureau du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 15 (4th Supp.)
+
+
+
+Non-smokers’ Health Act
+
+
+
+
+
+
+
+
+
+Loi sur la santé des non-fumeurs
+
+
+
+L.R., ch. 15 (4e suppl.)
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 19
+
+
+
+
+27. Paragraph (c) of the definition “employer” in subsection 2(1) of the Non-smokers’ Health Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+27. L’alinéa c) de la définition de « employeur », au paragraphe 2(1) de la Loi sur la santé des non-fumeurs, est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 19
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, in relation to its employees or employees of a committee of the Senate or House of Commons, as the case may be, or
+
+
+
+
+
+
+
+
+
+
+c) le Sénat, la Chambre des communes, la bibliothèque du Parlement ou le bureau du commissaire aux conflits d’intérêts et à l’éthique, pour ce qui est de leurs employés ou de ceux des comités respectifs de l’une ou l’autre des deux chambres;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 31 (4th Supp.)
+
+
+
+Official Languages Act
+
+
+
+
+
+
+
+
+
+Loi sur les langues officielles
+
+
+
+L.R., ch. 31 (4e suppl.)
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 20
+
+
+
+
+28. Paragraph (c.1) of the definition “federal institution” in subsection 3(1) of the Official Languages Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+28. La définition de « institutions fédérales », au paragraphe 3(1) de la Loi sur les langues officielles, est remplacée par ce qui suit :
+
+
+
+2006, ch. 9, art. 20
+
+
+
+
+
+
+
+
+
+
+
+
+(c.1) the office of the Conflict of Interest and Ethics Commissioner,
+
+
+
+
+
+
+
+
+
+« institutions fédérales » Les institutions du Parlement et du gouvernement du Canada, dont le Sénat, la Chambre des communes, la bibliothèque du Parlement et le bureau du commissaire aux conflits d’intérêts et à l’éthique, les tribunaux fédéraux, tout organisme — bureau, commission, conseil, office ou autre — chargé de fonctions administratives sous le régime d’une loi fédérale ou en vertu des attributions du gouverneur en conseil, les ministères fédéraux, les sociétés d’État créées sous le régime d’une loi fédérale et tout autre organisme désigné par la loi à titre de mandataire de Sa Majesté du chef du Canada ou placé sous la tutelle du gouverneur en conseil ou d’un ministre fédéral. Ne sont pas visés les institutions du conseil ou de l’administration du Yukon et des Territoires du Nord-Ouest, celles de l’assemblée législative ou de l’administration du Nunavut, ni les organismes — bande indienne, conseil de bande ou autres — chargés de l’administration d’une bande indienne ou d’autres groupes de peuples autochtones. 
+
+
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 21
+
+
+
+
+29. Section 33 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+29. L’article 33 de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 21
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+33. The Governor in Council may make any regulations that the Governor in Council deems necessary to foster actively communications with and services from offices or facilities of federal institutions — other than the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner — in both official languages, if those communications and services are required under this Part to be provided in both official languages.
+
+
+
+
+
+
+
+
+
+
+33. Le gouverneur en conseil peut, par règlement, prendre les mesures d’incitation qu’il estime nécessaires pour que soient effectivement assurés dans les deux langues officielles les communications et les services que sont tenues de pourvoir dans ces deux langues, au titre de la présente partie, les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement ou le bureau du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 22(1)
+
+
+
+
+30. (1) The portion of subsection 38(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+30. (1) Le passage du paragraphe 38(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, par. 22(1)
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+38. (1) The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner,
+
+
+
+
+
+
+
+
+
+
+38. (1) Le gouverneur en conseil peut, par règlement visant les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement et le bureau du commissaire aux conflits d’intérêts et à l’éthique :
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 22(2)(E)
+
+
+
+(2) Paragraph 38(2)(b) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 38(2)b) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, par. 22(2)(A)
+
+
+
+
+
+
+
+
+
+
+
+
+(b) substituting, with respect to any federal institution other than the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, a duty in relation to the use of the official languages of Canada in place of a duty under section 36 or the regulations made under subsection (1), having regard to the equality of status of both official languages, if there is a demonstrable conflict between the duty under section 36 or the regulations and the mandate of the institution.
+
+
+
+
+
+
+
+
+
+
+(b) substituting, with respect to any federal institution other than the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, a duty in relation to the use of the official languages of Canada in place of a duty under section 36 or the regulations made under subsection (1), having regard to the equality of status of both official languages, if there is a demonstrable conflict between the duty under section 36 or the regulations and the mandate of the institution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 23
+
+
+
+
+31. Subsection 41(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+31. Le paragraphe 41(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 23
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+(3) The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, prescribing the manner in which any duties of those institutions under this Part are to be carried out.
+
+
+
+
+
+
+
+
+
+(3) Le gouverneur en conseil peut, par règlement visant les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement et le bureau du commissaire aux conflits d’intérêts et à l’éthique, fixer les modalités d’exécution des obligations que la présente partie leur impose.
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 24
+
+
+
+
+32. Subsection 46(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+32. Le paragraphe 46(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 24
+
+
+
+
+
+
+
+
+
+
+Responsibilities of Treasury Board
+
+
+
+
+46. (1) The Treasury Board has responsibility for the general direction and coordination of the policies and programs of the Government of Canada relating to the implementation of Parts IV, V and VI in all federal institutions other than the Senate, House of Commons, Library of Parliament and office of the Conflict of Interest and Ethics Commissioner.
+
+
+
+
+
+
+
+
+
+
+46. (1) Le Conseil du Trésor est chargé de l’élaboration et de la coordination générales des principes et programmes fédéraux d’application des parties IV, V et VI dans les institutions fédérales, à l’exception du Sénat, de la Chambre des communes, de la bibliothèque du Parlement et du bureau du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+Mission du Conseil du Trésor
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 25
+
+
+
+
+33. Section 93 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+33. L’article 93 de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 25
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+93. The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+
+
+(a) prescribing anything that the Governor in Council considers necessary to effect compliance with this Act in the conduct of the affairs of federal institutions other than the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner; and
+
+
+
+
+
+
+
+
+
+
+(b) prescribing anything that is by this Act to be prescribed by regulation of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+93. Le gouverneur en conseil peut prendre les règlements qu’il estime nécessaires pour assurer le respect de la présente loi dans le cadre des activités des institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement et le bureau du commissaire aux conflits d’intérêts et à l’éthique. Il peut également prendre toute autre mesure réglementaire d’application de la présente loi.
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 33 (2nd Supp.)
+
+
+
+Parliamentary Employment and Staff Relations Act
+
+
+
+
+
+
+
+
+
+Loi sur les relations de travail au Parlement
+
+
+
+L.R., ch. 33 (2e suppl.)
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 29
+
+
+
+
+34. The long title of the Parliamentary Employment and Staff Relations Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+34. Le titre intégral de la Loi sur les relations de travail au Parlement est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 29
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting employment and employer and employee relations in the Senate, House of Commons, Library of Parliament and office of the Conflict of Interest and Ethics Commissioner
+
+
+
+
+
+
+
+
+
+Loi concernant les relations collectives entre employeur et employés au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement et au bureau du commissaire aux conflits d’intérêts et à l’éthique 
+
+
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 30
+
+
+
+
+35. Paragraph 2(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+35. L’article 2 de la même loi est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 30
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, and
+
+
+
+
+
+
+
+
+
+
+2. La présente loi, sous réserve de ses autres dispositions, s’applique, d’une part, aux personnes attachées dans leur travail, comme employés, au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du commissaire aux conflits d’intérêts et à l’éthique ou à des parlementaires, et, d’autre part, à ces institutions et aux parlementaires qui, ès qualités, les emploient ou ont sous leur direction ou leur responsabilité des documentalistes ou des personnes chargées de fonctions similaires affectés au service des membres de groupes parlementaires, ainsi qu’à ces documentalistes ou personnes; de plus, sauf disposition expresse de la présente loi, les autres lois fédérales qui réglementent des questions semblables à celles que réglementent la présente loi et les mesures prises en vertu de celles-ci, avant ou après l’entrée en vigueur du présent article, n’ont aucun effet à l’égard des institutions et des personnes visées au présent article.
+
+
+
+
+
+
+
+
+
+
+
+
+2004, c. 7, s. 33
+
+
+
+
+36. The definition “employer” in section 3 of the Act is amended by adding “or” at the end of paragraph (c) and by repealing paragraph (d).
+
+
+
+
+
+
+
+
+
+
+36. L’alinéa d) de la définition de « employeur », à l’article 3 de la même loi, est abrogé.
+
+
+
+2004, ch. 7, art. 33
+
+
+
+
+
+
+
+
+
+
+2004, c. 7, s. 34
+
+
+
+
+37. Paragraph 85(c.1) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+37. L’alinéa c.1) de la définition de « employeur », à l’article 85 de la même loi, est abrogé.
+
+
+
+2004, ch. 7, art. 34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2003, c. 22, ss. 12 and 13
+
+
+
+Public Service Employment Act
+
+
+
+
+
+
+
+
+
+Loi sur l’emploi dans la fonction publique
+
+
+
+2003, ch. 22, art. 12 et 13
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 101
+
+
+
+
+38. The portion of section 35.3 of the Public Service Employment Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+38. Le passage de l’article 35.3 de la Loi sur l’emploi dans la fonction publique précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2006, ch. 9, art. 101
+
+
+
+
+
+
+
+
+
+
+Parliamentary employees
+
+
+
+
+35.3 A person employed in the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner
+
+
+
+
+
+
+
+
+
+
+35.3 La personne employée au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement ou au bureau du commissaire aux conflits d’intérêts et à l’éthique :
+
+
+
+Employés parlementaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. P-36
+
+
+
+Public Service Superannuation Act
+
+
+
+
+
+
+
+
+
+Loi sur la pension de la fonction publique
+
+
+
+L.R., ch. P-36
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 33
+
+
+
+
+39. The definition “public service” in subsection 3(1) of the Public Service Superannuation Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+39. La définition de « fonction publique », au paragraphe 3(1) de la Loi sur la pension de la fonction publique, est remplacée par ce qui suit :
+
+
+
+2006, ch. 9, art. 33
+
+
+
+
+
+
+
+
+
+
+“public service”« fonction publique »
+
+
+
+“public service” means the several positions in or under any department or portion of the executive government of Canada, except those portions of departments or portions of the executive government of Canada prescribed by the regulations and, for the purposes of this Part, of the Senate, House of Commons, Library of Parliament and office of the Conflict of Interest and Ethics Commissioner and any board, commission, corporation or portion of the federal public administration specified in Schedule I;
+
+
+
+
+
+
+
+
+
+« fonction publique » Les divers postes dans quelque ministère ou secteur du gouvernement exécutif du Canada, ou relevant d’un tel ministère ou secteur, et, pour l’application de la présente partie, du Sénat et de la Chambre des communes, de la bibliothèque du Parlement, du bureau du commissaire aux conflits d’intérêts et à l’éthique et de tout office, conseil, bureau, commission ou personne morale, ou secteur de l’administration publique fédérale, que mentionne l’annexe I, à l’exception d’un secteur du gouvernement exécutif du Canada ou de la partie d’un ministère exclus par règlement de l’application de la présente définition.
+
+
+
+« fonction publique »“public service”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. R-2; 1989, c. 17, s. 2
+
+
+
+Radiocommunication Act
+
+
+
+
+
+
+
+
+
+Loi sur la radiocommunication
+
+
+
+L.R., ch. R-2; 1989, ch. 17, art. 2
+
+
+
+
+
+
+
+
+
+
+2006, c. 9, s. 34
+
+
+
+
+40. Subsections 3(1) and (2) of the Radiocommunication Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+40. Les paragraphes 3(1) et (2) de la Loi sur la radiocommunication sont remplacés par ce qui suit :
+
+
+
+2006, ch. 9, art. 34
+
+
+
+
+
+
+
+
+
+
+Application to Her Majesty and Parliament
+
+
+
+
+3. (1) Subject to subsection (2), this Act is binding on Her Majesty in right of Canada, on the Senate, House of Commons, Library of Parliament and office of the Conflict of Interest and Ethics Commissioner and on Her Majesty in right of a province.
+
+
+
+
+
+
+
+
+
+
+3. (1) La présente loi lie Sa Majesté du chef du Canada et de chaque province, le Sénat, la Chambre des communes, la bibliothèque du Parlement et le bureau du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+Application à Sa Majesté et au Parlement
+
+
+
+
+
+
+
+
+
+
+Exemptions
+
+
+
+(2) The Governor in Council may by order exempt Her Majesty in right of Canada, or the Senate, House of Commons, Library of Parliament or office of the Conflict of Interest and Ethics Commissioner, as represented by the person or persons named in the order, from any or all provisions of this Act or the regulations, and such an exemption may be
+
+
+
+
+
+
+
+
+
+
+(a) in the case of an exemption of Her Majesty in right of Canada, in respect of Her Majesty in right of Canada generally, or only in respect of a department or other body named in the order;
+
+
+
+
+
+
+
+
+
+
+(b) either absolute or qualified; and
+
+
+
+
+
+
+
+
+
+
+(c) of either general or specific application.
+
+
+
+
+
+
+
+
+
+(2) Le gouverneur en conseil peut toutefois, par décret, exempter Sa Majesté du chef du Canada ou tout représentant — désigné dans celui-ci — du Sénat, de la Chambre des communes, de la bibliothèque du Parlement ou du bureau du commissaire aux conflits d’intérêts et à l’éthique de l’application de toute disposition de la présente loi ou de ses règlements. L’exemption peut ou bien être générale ou relative à un ministère ou autre organisme désigné dans le décret, si elle s’applique à Sa Majesté du chef du Canada, ou bien absolue ou conditionnelle ou encore d’application générale ou spécifique.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+41. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+41. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Parliament of Canada Act
+
+Clause 2: Existing text of the heading and sections 20.1 to 20.7:
+Senate Ethics Officer
+
+20.1 The Governor in Council shall, by commission under the Great Seal, appoint a Senate Ethics Officer after consultation with the leader of every recognized party in the Senate and after approval of the appointment by resolution of the Senate.
+
+20.2 (1) The Senate Ethics Officer holds office during good behaviour for a term of seven years and may be removed for cause by the Governor in Council on address of the Senate. He or she may be reappointed for one or more terms of up to seven years each.
+(2) In the event of the absence or incapacity of the Senate Ethics Officer, or if that office is vacant, the Governor in Council may appoint any qualified person to hold that office in the interim for a term not exceeding six months, and that person shall, while holding office, be paid the salary or other remuneration and expenses that may be fixed by the Governor in Council.
+
+20.3 (1) The Senate Ethics Officer shall be paid the remuneration set by the Governor in Council.
+(2) The Senate Ethics Officer is entitled to be paid reasonable travel and living expenses incurred in the performance of his or her duties or functions while absent from his or her ordinary place of residence, in the case of a part-time appointment, and ordinary place of work, in the case of a full-time appointment.
+(3) In the case of a part-time appointment, the Senate Ethics Officer may not accept or hold any office or employment — or carry on any activity — inconsistent with his or her duties and functions under this Act.
+(4) In the case of a full-time appointment, the Senate Ethics Officer shall engage exclusively in the duties and functions of the Senate Ethics Officer and may not hold any other office under Her Majesty or engage in any other employment for reward.
+
+20.4 (1) The Senate Ethics Officer has the rank of a deputy head of a department of the Government of Canada and has the control and management of the office of the Senate Ethics Officer.
+(2) The Senate Ethics Officer may, in carrying out the work of the office of the Senate Ethics Officer, enter into contracts, memoranda of understanding or other arrangements.
+(3) The Senate Ethics Officer may employ any officers and employees and may engage the services of any agents, advisers and consultants that the Senate Ethics Officer considers necessary for the proper conduct of the work of the office of the Senate Ethics Officer.
+(4) The Senate Ethics Officer may, subject to the conditions he or she sets, authorize any person to exercise any powers under subsection (2) or (3) on behalf of the Senate Ethics Officer that he or she may determine.
+(5) The salaries of the officers and employees of the office of the Senate Ethics Officer shall be fixed according to the scale provided by law.
+(6) The salaries of the officers and employees of the office of the Senate Ethics Officer, and any casual expenses connected with the office, shall be paid out of moneys provided by Parliament for that purpose.
+(7) Prior to each fiscal year, the Senate Ethics Officer shall cause to be prepared an estimate of the sums that will be required to pay the charges and expenses of the office of the Senate Ethics Officer during the fiscal year.
+(8) The estimate referred to in subsection (7) shall be considered by the Speaker of the Senate and then transmitted to the President of the Treasury Board, who shall lay it before the House of Commons with the estimates of the government for the fiscal year.
+
+20.5 (1) The Senate Ethics Officer shall perform the duties and functions assigned by the Senate for governing the conduct of members of the Senate when carrying out the duties and functions of their office as members of the Senate.
+(2) The duties and functions of the Senate Ethics Officer are carried out within the institution of the Senate. The Senate Ethics Officer enjoys the privileges and immunities of the Senate and its members when carrying out those duties and functions.
+(3) The Senate Ethics Officer shall carry out those duties and functions under the general direction of any committee of the Senate that may be designated or established by the Senate for that purpose.
+(4) For greater certainty, the administration of the Conflict of Interest Act in respect of public office holders who are ministers of the Crown, ministers of state or parliamentary secretaries is not part of the duties and functions of the Senate Ethics Officer or the committee.
+(5) For greater certainty, this section shall not be interpreted as limiting in any way the powers, privileges, rights and immunities of the Senate or its members.
+
+20.6 (1) The Senate Ethics Officer, or any person acting on behalf or under the direction of the Senate Ethics Officer, is not a competent or compellable witness in respect of any matter coming to his or her knowledge as a result of exercising any powers or performing any duties or functions of the Senate Ethics Officer under this Act.
+(2) No criminal or civil proceedings lie against the Senate Ethics Officer, or any person acting on behalf or under the direction of the Senate Ethics Officer, for anything done, reported or said in good faith in the exercise or purported exercise of any power, or the performance or purported performance of any duty or function, of the Senate Ethics Officer under this Act.
+(3) The protection provided under subsections (1) and (2) does not limit any powers, privileges, rights and immunities that the Senate Ethics Officer may otherwise enjoy.
+
+20.7 (1) The Senate Ethics Officer shall, within three months after the end of each fiscal year, submit a report on his or her activities under section 20.5 for that year to the Speaker of the Senate, who shall table the report in the Senate.
+(2) The Senate Ethics Officer may not include in the annual report any information that he or she is required to keep confidential.
+
+
+
+Loi sur le Parlement du Canada
+
+Article 2 : Texte de l’intertitre et des articles 20.1 à 20.7 :
+Conseiller sénatorial en éthique
+
+20.1 Le gouverneur en conseil nomme le conseiller sénatorial en éthique par commission sous le grand sceau, après consultation du chef de chacun des partis reconnus au Sénat et après approbation par résolution du Sénat.
+
+20.2 (1) Sauf révocation motivée par le gouverneur en conseil sur adresse du Sénat, le conseiller exerce ses fonctions à titre inamovible pour un mandat de sept ans renouvelable pour une ou plusieurs périodes maximales de sept ans.
+(2) En cas d’absence ou d’empêchement du conseiller ou de vacance de son poste, le gouverneur en conseil peut confier l’intérim à toute personne compétente pour un mandat maximal de six mois et fixer la rémunération et les indemnités auxquelles cette personne aura droit.
+
+20.3 (1) Le conseiller reçoit la rémunération fixée par le gouverneur en conseil.
+(2) Il a droit aux frais de déplacement et de séjour entraînés par l’exercice de ses fonctions hors de son lieu habituel soit de résidence, s’il est nommé à temps partiel, soit de travail, s’il est nommé à temps plein.
+(3) S’il est nommé à temps partiel, il ne détient ni n’accepte de charge ou d’emploi — ni n’exerce d’activité — incompatibles avec ses fonctions.
+(4) S’il est nommé à temps plein, il se consacre à l’exercice de ses fonctions à l’exclusion de toute autre charge au service de Sa Majesté ou de tout autre emploi rétribué.
+
+20.4 (1) Le conseiller a rang d’administrateur général de ministère; il est, à ce titre, responsable de la gestion de son bureau.
+(2) Il peut, dans le cadre des activités du bureau, conclure des contrats, ententes ou autres arrangements.
+(3) Il peut s’assurer les services des personnes — membres du personnel, mandataires, conseillers ou experts — nécessaires à l’exercice de ses activités.
+(4) Il peut autoriser toute personne à exercer, aux conditions qu’il fixe, tel des pouvoirs visés aux paragraphes (2) ou (3) qu’il détermine.
+(5) Le personnel est rémunéré selon l’échelle salariale prévue par la loi.
+(6) Le traitement du personnel et les dépenses imprévues qui se rattachent au bureau sont payés sur les crédits votés par le Parlement à cette fin.
+(7) Avant chaque exercice, le conseiller fait dresser un état estimatif des sommes à affecter au paiement des frais du bureau au cours de l’exercice.
+(8) L’état estimatif est examiné par le président du Sénat puis transmis au président du Conseil du Trésor, qui le dépose devant la Chambre des communes avec les prévisions budgétaires du gouvernement pour l’exercice.
+
+20.5 (1) Le conseiller s’acquitte des fonctions qui lui sont conférées par le Sénat en vue de régir la conduite des sénateurs lorsqu’ils exercent la charge de sénateur.
+(2) Lorsqu’il s’acquitte de ces fonctions, il agit dans le cadre de l’institution du Sénat et possède les privilèges et immunités du Sénat et des sénateurs.
+(3) Il est placé sous l’autorité générale du comité du Sénat que celui-ci constitue ou désigne à cette fin.
+(4) Il est entendu que l’application de la Loi sur les conflits d’intérêts aux titulaires de charge publique qui sont ministres, ministres d’État ou secrétaires parlementaires ne fait pas partie des attributions du conseiller sénatorial en éthique ou comité.
+(5) Il est entendu que le présent article n’a pas pour effet de restreindre de quelque façon les pouvoirs, droits, privilèges et immunités du Sénat et des sénateurs.
+
+20.6 (1) Le conseiller et les personnes agissant en son nom ou sur son ordre n’ont pas qualité pour témoigner ni ne peuvent y être contraints en ce qui concerne les questions venues à leur connaissance dans l’exercice des pouvoirs et fonctions conférés au conseiller au titre de la présente loi.
+(2) Ils bénéficient de l’immunité en matière civile ou pénale pour les actes accomplis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif ou censé tel des pouvoirs et fonctions conférés au conseiller au titre de la présente loi.
+(3) Cette protection n’a pas pour effet de restreindre de quelque façon les pouvoirs, droits, privilèges et immunités dont le conseiller peut disposer.
+
+20.7 (1) Dans les trois mois suivant la fin de chaque exercice, le conseiller remet un rapport au président du Sénat — qui le dépose devant le Sénat — sur ses activités au titre de l’article 20.5 pour l’exercice.
+(2) Il ne peut inclure dans le rapport des renseignements dont il est tenu d’assurer la confidentialité.
+
+
+
+
+
+Clause 3: Existing text of subsection 81(1):
+
+81. (1) The Governor in Council shall, by commission under the Great Seal, appoint a Conflict of Interest and Ethics Commissioner after consultation with the leader of every recognized party in the House of Commons and approval of the appointment by resolution of that House.
+
+
+
+
+Article 3 : Texte du paragraphe 81(1) :
+
+81. (1) Le gouverneur en conseil nomme un commissaire aux conflits d’intérêts et à l’éthique par commission sous le grand sceau, après consultation du chef de chacun des partis reconnus à la Chambre des communes et approbation par résolution de cette chambre.
+
+
+
+
+
+Clause 4: Existing text of subsection 82(1):
+
+82. (1) The Commissioner holds office during good behaviour for a term of seven years but may be removed for cause by the Governor in Council on address of the House of Commons.
+
+
+
+
+Article 4 : Texte du paragraphe 82(1) :
+
+82. (1) Sauf révocation motivée par le gouverneur en conseil sur adresse de la Chambre des communes, le commissaire exerce ses fonctions à titre inamovible pour un mandat de sept ans.
+
+
+
+
+
+Clause 5: Existing text of subsection 84(8):
+(8) The estimate referred to in subsection (7) shall be considered by the Speaker of the House of Commons and then transmitted to the President of the Treasury Board, who shall lay it before the House of Commons with the estimates of the Government for the fiscal year.
+
+
+
+
+Article 5 : Texte du paragraphe 84(8) :
+(8) L’état estimatif est examiné par le président de la Chambre des communes puis transmis au président du Conseil du Trésor, qui le dépose devant la Chambre des communes avec les prévisions budgétaires du gouvernement pour l’exercice.
+
+
+
+
+
+Clause 6: Relevant portion of section 85:
+
+85. The mandate of the Commissioner is to
+(a) carry out the functions of the Commissioner referred to in sections 86 and 87; and
+
+
+
+
+Article 6 : Texte du passage visé de l’article 85 :
+
+85. Le commissaire a pour mission :
+
+a) d’exercer les fonctions prévues aux articles 86 et 87;
+
+
+
+
+
+Clause 7: Existing text of subsection 86(3):
+(3) The Commissioner shall carry out those duties and functions under the general direction of any committee of the House of Commons that may be designated or established by that House for that purpose.
+
+
+
+
+Article 7 : Texte du paragraphe 86(3) :
+(3) Lorsqu’il s’acquitte de ces fonctions, il est placé sous l’autorité générale du comité de la Chambre des communes que celle-ci constitue ou désigne à cette fin.
+
+
+
+
+
+Clause 8: New.
+
+
+
+
+Article 8 : Nouveau.
+
+
+
+
+
+Clause 9: Relevant portion of subsection 90(1):
+
+90. (1) Within three months after the end of each fiscal year, the Commissioner shall submit
+
+
+
+
+Article 9 : Texte du passage visé du paragraphe 90(1) :
+
+90. (1) Dans les trois mois suivant la fin de chaque exercice, le commissaire remet :
+
+
+
+
+Canada Post Corporation Act
+
+Clause 13: Relevant portion of subsection 35(2):
+(2) Subject to subsection (3), mail to or from
+... 
+(d) the Conflict of Interest and Ethics Commissioner or Senate Ethics Officer
+is free of postage.
+
+
+
+Loi sur la Société canadienne des postes
+
+Article 13 : Texte du passage visé du paragraphe 35(2) :
+(2) Sous réserve du paragraphe (3), sont transmis en franchise les envois dont sont expéditeurs ou destinataires :
+[...]  
+
+d) le commissaire aux conflits d’intérêts et à l’éthique ou le conseiller sénatorial en éthique.
+
+
+
+
+Expenditure Restraint Act
+
+Clause 14: Relevant portion of subsection 13(1):
+
+13. (1) This Act applies to employees who are employed in or by
+... 
+(c) the Senate, the House of Commons, the Library of Parliament, the office of the Senate Ethics Officer and the office of the Conflict of Interest and Ethics Commissioner.
+
+
+
+Loi sur le contrôle des dépenses
+
+Article 14 : Texte du passage visé du paragraphe 13(1) :
+
+13. (1) La présente loi s’applique aux employés :
+[...] 
+
+c) du Sénat, de la Chambre des communes, de la Bibliothèque du Parlement, du bureau du conseiller sénatorial en éthique et du bureau du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+
+Federal Courts Act
+
+Clause 15: Existing text of subsection 2(2):
+(2) For greater certainty, the expression “federal board, commission or other tribunal”, as defined in subsection (1), does not include the Senate, the House of Commons, any committee or member of either House, the Senate Ethics Officer or the Conflict of Interest and Ethics Commissioner with respect to the exercise of the jurisdiction or powers referred to in sections 41.1 to 41.5 and 86 of the Parliament of Canada Act.
+
+
+
+Loi sur les Cours fédérales
+
+Article 15 : Texte du paragraphe 2(2) :
+(2) Il est entendu que sont également exclus de la définition de « office fédéral » le Sénat, la Chambre des communes, tout comité ou membre de l’une ou l’autre chambre, le conseiller sénatorial en éthique et le commissaire aux conflits d’intérêts et à l’éthique à l’égard de l’exercice de sa compétence et de ses attributions visées aux articles 41.1 à 41.5 et 86 de la Loi sur le Parlement du Canada.
+
+
+
+
+Financial Administration Act
+
+Clause 16: (1) Relevant portion of the definition:
+“appropriate Minister” means,
+... 
+(c) with respect to the Senate and the office of the Senate Ethics Officer, the Speaker of the Senate, with respect to the House of Commons, the Board of Internal Economy, with respect to the office of the Conflict of Interest and Ethics Commissioner, the Speaker of the House of Commons, and with respect to the Library of Parliament, the Speakers of the Senate and the House of Commons,
+
+
+
+Loi sur la gestion des finances publiques
+
+Article 16 : (1) Texte du passage visé de la définition :
+« ministre compétent »
+[...] 
+
+c) dans le cas du Sénat et du bureau du conseiller sénatorial en éthique, le président du Sénat, dans celui de la Chambre des communes, le Bureau de régie interne, dans celui du bureau du commissaire aux conflits d’intérêts et à l’éthique, le président de la Chambre des communes et dans celui de la bibliothèque du Parlement, le président de chaque chambre;
+
+
+
+
+(2) Relevant portion of the definition:
+“department” means
+... 
+(c) the staffs of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer and office of the Conflict of Interest and Ethics Commissioner, and
+
+
+
+(2) Texte du passage visé de la définition :
+« ministère »
+[...] 
+
+c) le personnel du Sénat, celui de la Chambre des communes, celui de la bibliothèque du Parlement, celui du bureau du conseiller sénatorial en éthique et celui du bureau du commissaire aux conflits d’intérêts et à l’éthique;
+
+
+
+
+Garnishment, Attachment and Pension Diversion Act
+
+Clause 17: Existing text of the heading:
+Senate, House of Commons, Library of Parliament, Office of the Senate Ethics Officer and Office of the Conflict of Interest and Ethics Commissioner
+
+
+
+Loi sur la saisie-arrêt et la distraction de pensions
+
+Article 17 : Texte du titre :
+Sénat, Chambre des communes, bibliothèque du Parlement, bureau du conseiller sénatorial en éthique et bureau du commissaire aux conflits d’intérêts et à l’éthique
+
+
+
+
+
+Clause 18: Relevant portion of the definition:
+“salary” means
+... 
+(b) in the case of the staff of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner or the staff of members of the Senate or House of Commons, or in the case of any other person paid out of moneys appropriated by Parliament for use by the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner,
+
+
+
+
+Article 18 : Texte du passage visé de la définition :
+« traitement » À l’exclusion des montants qui sont réputés ne pas faire partie du salaire conformément aux règlements pris en vertu de l’alinéa 24b) :
+[...] 
+
+b) les prestations pécuniaires allouées au personnel du Sénat, de la Chambre des communes, de la bibliothèque du Parlement, du bureau du conseiller sénatorial en éthique ou du bureau du commissaire aux conflits d’intérêts et à l’éthique, au personnel des sénateurs ou des députés ou à toute autre personne rémunérée sur les deniers affectés par le Parlement à l’usage du Sénat, de la Chambre des communes, de la bibliothèque du Parlement, du bureau du conseiller sénatorial en éthique ou du bureau du commissaire aux conflits d’intérêts et à l’éthique :
+
+
+
+
+
+Clause 19: Relevant portion of section 17:
+
+17. The Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer and office of the Conflict of Interest and Ethics Commissioner are, subject to this Division and any regulation made under it, bound by provincial garnishment law in respect of
+
+
+
+
+Article 19 : Texte du passage visé de l’article 17 :
+
+17. Sous réserve de la présente section et de ses règlements d’application, le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique et le bureau du commissaire aux conflits d’intérêts et à l’éthique sont assujettis au droit provincial en matière de saisie-arrêt en ce qui concerne les sommes suivantes :
+
+
+
+
+
+Clause 20: Existing text of sections 18 and 19:
+
+18. (1) Subject to this Division, service on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner of a garnishee summons, together with a copy of the judgment or order against the debtor and an application in the prescribed form, binds the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, as the case may be, 15 days after the day on which those documents are served.
+(2) A garnishee summons served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner is of no effect unless it is served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, as the case may be, in the first 30 days following the first day on which it could have been validly served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, as the case may be.
+
+19. (1) Service of documents on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner in connection with garnishment proceedings permitted by this Division must be effected at the place specified in the regulations.
+(2) In addition to any method of service permitted by the law of a province, service of documents on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner under subsection (1) may be effected by registered mail, whether within or outside the province, or by any other method prescribed.
+(3) If service of a document on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner is effected by registered mail, the document shall be deemed to be served on the day of its receipt by the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, as the case may be.
+
+
+
+
+Article 20 : Texte des articles 18 et 19 :
+
+18. (1) Sous réserve des autres dispositions de la présente section, le bref de saisie-arrêt, accompagné de la demande présentée en la forme réglementaire et de la copie du jugement ou de l’ordonnance visant le débiteur, devient opposable au Sénat, à la Chambre des communes, à la bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique ou au bureau du commissaire aux conflits d’intérêts et à l’éthique, selon le cas, quinze jours après la signification de ces documents.
+(2) Le bref de saisie-arrêt ne produit ses effets que s’il a été signifié à l’institution en cause dans les trente jours suivant la date à compter de laquelle il pouvait valablement l’être.
+
+19. (1) Les actes relatifs à une saisie-arrêt prévue par la présente section doivent être signifiés au Sénat, à la Chambre des communes, à la bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique ou au bureau du commissaire aux conflits d’intérêts et à l’éthique au lieu indiqué dans les règlements.
+(2) En plus des modes de signification prévus par le droit d’une province, la signification d’actes prévue au paragraphe (1) peut se faire soit par courrier recommandé, à l’intérieur ou à l’extérieur de la province, soit de toute autre manière réglementaire.
+(3) La date de signification de tout acte effectuée au Sénat, à la Chambre des communes, à la bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique ou au bureau du commissaire aux conflits d’intérêts et à l’éthique par courrier recommandé est celle de sa réception.
+
+
+
+
+
+Clause 21: Existing text of section 21:
+
+21. For the purposes of garnishment proceedings permitted by this Division, service of a garnishee summons is binding in respect of the following money to be paid to the debtor named in the garnishee summons:
+(a) in the case of a salary,
+(i) the salary to be paid on the last day of the second pay period next following the pay period in which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, as the case may be, is bound by the garnishee summons, and
+(ii) where the garnishee summons has continuing effect under the law of the province, the salary to be paid on the last day of each subsequent pay period; or
+(b) in the case of remuneration described in paragraph 17(b),
+(i) the remuneration payable on the fifteenth day following the day on which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, as the case may be, is bound by the garnishee summons, and
+(ii) either
+(A) any remuneration becoming payable in the thirty days following the fifteenth day after the day on which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, as the case may be, is bound by the garnishee summons that is owing on that fifteenth day or that becomes owing in the fourteen days following that fifteenth day, or
+(B) if the garnishee summons has continuing effect under the law of the province, any remuneration becoming payable subsequent to the fifteenth day after the day on which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, as the case may be, is bound by the garnishee summons.
+
+
+
+
+Article 21 : Texte du passage visé de l’article 21 :
+
+21. Pour les besoins de toute procédure de saisie-arrêt prévue par la présente section, la signification au Sénat, à la Chambre des communes, à la bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique ou au bureau du commissaire aux conflits d’intérêts et à l’éthique du bref de saisie-arrêt frappe d’indisponibilité les sommes suivantes dont l’un ou l’autre est redevable envers le débiteur mentionné dans le bref :
+
+
+
+
+
+Clause 22: Relevant portion of section 22:
+
+22. The Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner has the following time period within which to respond to a garnishee summons:
+(a) in the case of a salary, fifteen days, or such lesser number of days as is prescribed, after the last day of the second pay period next following the pay period in which the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner is bound by the garnishee summons; or
+
+
+
+
+Article 22 : Texte du passage visé de l’article 22 :
+
+22. Le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le bureau du commissaire aux conflits d’intérêts et à l’éthique dispose, pour comparaître, des délais suivants :
+
+
+
+
+
+Clause 23: Existing text of section 23:
+
+23. (1) In addition to any method of responding to a garnishee summons permitted by provincial garnishment law, the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner may respond to a garnishee summons by registered mail or by any other method prescribed.
+(2) If the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner responds to a garnishee summons by registered mail, the receipt issued in accordance with regulations relating to registered mail made under the Canada Post Corporation Act shall be received in evidence and is, unless the contrary is shown, proof that the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, as the case may be, has responded to the garnishee summons.
+(3) A payment into court by the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner under this section is a good and sufficient discharge of liability, to the extent of the payment.
+(4) If, in honouring a garnishee summons, the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that it should have paid to that debtor, the excess becomes a debt due to the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, as the case may be, by that debtor and may be recovered from the debtor at any time by set-off against future moneys payable to the debtor as salary or remuneration.
+
+
+
+
+Article 23 : Texte de l’article 23 :
+
+23. (1) En plus des modes de comparution autorisés par le droit provincial en matière de saisie-arrêt, le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le bureau du commissaire aux conflits d’intérêts et à l’éthique peut comparaître soit par courrier recommandé, soit de toute autre manière réglementaire.
+(2) Le récépissé conforme aux règlements pris, en matière de courrier recommandé, au titre de la Loi sur la Société canadienne des postes est admissible en preuve et établit, sauf preuve contraire, que l’institution en cause a comparu par courrier recommandé.
+(3) Le versement d’une somme d’argent effectué par le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le bureau du commissaire aux conflits d’intérêts et à l’éthique au greffe d’un tribunal au titre du présent article constitue bonne et valable quittance de son obligation, à concurrence du montant.
+(4) Lorsque le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le bureau du commissaire aux conflits d’intérêts et à l’éthique, en obtempérant à un bref de saisie-arrêt, a, par erreur, versé à un débiteur, à titre de traitement ou de rémunération, une somme supérieure à celle qui aurait dû lui être versée, le trop-perçu constitue une créance de l’institution en cause sur ce débiteur, qui peut être recouvrée par compensation avec les versements à venir afférents au traitement ou à la rémunération de celui-ci.
+
+
+
+
+
+Clause 24: Relevant portion of section 24:
+
+24. The Governor in Council may, on the recommendation of the Minister, made after consultation between the Minister and the Speaker of the Senate and the Speaker of the House of Commons, make regulations
+(a) specifying the place where service of documents on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner must be effected in connection with garnishment proceedings permitted by this Division;
+
+
+
+
+Article 24 : Texte du passage visé de l’article 24 :
+
+24. Le gouverneur en conseil peut, par règlement, sur recommandation du ministre, après consultation par celui-ci du président du Sénat et du président de la Chambre des communes :
+
+a) indiquer le lieu où les documents relatifs à une saisie-arrêt pratiquée sous le régime de la présente section doivent être signifiés au Sénat, à la Chambre des communes, à la bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique ou au bureau du commissaire aux conflits d’intérêts et à l’éthique;
+
+
+
+
+
+Clause 25: Existing text of section 26:
+
+26. No execution shall issue on a judgment given against the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner in garnishment proceedings permitted by this Part.
+
+
+
+
+Article 25 : Texte de l’article 26 :
+
+26. Le jugement rendu contre le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le bureau du commissaire aux conflits d’intérêts et à l’éthique à la suite d’une saisie-arrêt pratiquée sous le régime de la présente partie n’est pas susceptible d’exécution forcée.
+
+
+
+
+Government Employees Compensation Act
+
+Clause 26: Relevant portion of the definition:
+“employee” means
+... 
+(e) any officer or employee of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner;
+
+
+
+Loi sur l’indemnisation des agents de l’État
+
+Article 26 : Texte du passage visé de la définition :
+« agents de l’État » Personnes :
+[...] 
+
+e) employées par le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le bureau du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+
+Non-smokers’ Health Act
+
+Clause 27: Relevant portion of the definition:
+“employer” means a person who employs one or more persons in employment described in subsection 123(1) of the Canada Labour Code, or
+... 
+(c) the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, in relation to employees thereof or employees of a committee of the Senate or House of Commons, as the case may be, or
+
+
+
+Loi sur la santé des non-fumeurs
+
+Article 27 : Texte du passage visé de la définition :
+« employeur » Quiconque emploie un ou plusieurs employés dans les conditions visées au paragraphe 123(1) du Code canadien du travail ou, selon le cas :
+[...] 
+
+c) le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le bureau du commissaire aux conflits d’intérêts et à l’éthique, pour ce qui est de leurs employés ou de ceux des comités respectifs de l’une ou l’autre des deux chambres;
+
+
+
+
+Official Languages Act
+
+Clause 28: Relevant portion of the definition:
+“federal institution” includes any of the following institutions of the Parliament or government of Canada:
+... 
+(c.1) the office of the Senate Ethics Officer and the office of the Conflict of Interest and Ethics Commissioner,
+
+
+
+Loi sur les langues officielles
+
+Article 28 : Texte de la définition :
+« institutions fédérales » Les institutions du Parlement et du gouvernement du Canada, dont le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique et le bureau du commissaire aux conflits d’intérêts et à l’éthique, les tribunaux fédéraux, tout organisme — bureau, commission, conseil, office ou autre — chargé de fonctions administratives sous le régime d’une loi fédérale ou en vertu des attributions du gouverneur en conseil, les ministères fédéraux, les sociétés d’État créées sous le régime d’une loi fédérale et tout autre organisme désigné par la loi à titre de mandataire de Sa Majesté du chef du Canada ou placé sous la tutelle du gouverneur en conseil ou d’un ministre fédéral. Ne sont pas visés les institutions du conseil ou de l’administration du Yukon et des Territoires du Nord-Ouest, celles de l’assemblée législative ou de l’administration du Nunavut, ni les organismes — bande indienne, conseil de bande ou autres — chargés de l’administration d’une bande indienne ou d’autres groupes de peuples autochtones. 
+
+
+
+
+
+Clause 29: Existing text of section 33:
+
+33. The Governor in Council may make any regulations that the Governor in Council deems necessary to foster actively communications with and services from offices or facilities of federal institutions — other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner — in both official languages, if those communications and services are required under this Part to be provided in both official languages.
+
+
+
+
+Article 29 : Texte de l’article 33 :
+
+33. Le gouverneur en conseil peut, par règlement, prendre les mesures d’incitation qu’il estime nécessaires pour que soient effectivement assurés dans les deux langues officielles les communications et les services que sont tenues de pourvoir dans ces deux langues, au titre de la présente partie, les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le bureau du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+
+
+Clause 30: (1) Relevant portion of subsection 38(1):
+
+38. (1) The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner,
+
+
+
+
+Article 30 : (1) Texte du passage visé du paragraphe 38(1) :
+
+38. (1) Le gouverneur en conseil peut, par règlement visant les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique et le bureau du commissaire aux conflits d’intérêts et à l’éthique :
+
+
+
+
+(2) Relevant portion of subsection 38(2):
+(2) The Governor in Council may make regulations
+... 
+(b) substituting, with respect to any federal institution other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, a duty in relation to the use of the official languages of Canada in place of a duty under section 36 or the regulations made under subsection (1), having regard to the equality of status of both official languages, if there is a demonstrable conflict between the duty under section 36 or the regulations and the mandate of the institution.
+
+
+
+(2) Texte du passage visé du paragraphe 38(2) :
+(2) Le gouverneur en conseil peut, par règlement :
+[...] 
+
+b) en cas de conflit — dont la réalité puisse se démontrer — entre l’une des obligations prévues par l’article 36 ou les règlements d’application du paragraphe (1) et le mandat d’une des institutions fédérales, y substituer, compte tenu de l’égalité de statut des deux langues officielles, une autre obligation touchant leur utilisation.
+
+
+
+
+
+Clause 31: Existing text of subsection 41(3):
+(3) The Governor in Council may make regulations in respect of federal institutions, other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, prescribing the manner in which any duties of those institutions under this Part are to be carried out.
+
+
+
+
+Article 31 : Texte du paragraphe 41(3) :
+(3) Le gouverneur en conseil peut, par règlement visant les institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique et le bureau du commissaire aux conflits d’intérêts et à l’éthique, fixer les modalités d’exécution des obligations que la présente partie leur impose.
+
+
+
+
+
+Clause 32: Existing text of subsection 46(1):
+
+46. (1) The Treasury Board has responsibility for the general direction and coordination of the policies and programs of the Government of Canada relating to the implementation of Parts IV, V and VI in all federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer and office of the Conflict of Interest and Ethics Commissioner.
+
+
+
+
+Article 32 : Texte du paragraphe 46(1) :
+
+46. (1) Le Conseil du Trésor est chargé de l’élaboration et de la coordination générales des principes et programmes fédéraux d’application des parties IV, V et VI dans les institutions fédérales, à l’exception du Sénat, de la Chambre des communes, de la bibliothèque du Parlement, du bureau du conseiller sénatorial en éthique et du bureau du commissaire aux conflits d’intérêts et à l’éthique.
+
+
+
+
+
+Clause 33: Existing text of section 93:
+
+93. The Governor in Council may make regulations
+(a) prescribing anything that the Governor in Council considers necessary to effect compliance with this Act in the conduct of the affairs of federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner; and
+(b) prescribing anything that is by this Act to be prescribed by regulation of the Governor in Council.
+
+
+
+
+Article 33 : Texte de l’article 93 :
+
+93. Le gouverneur en conseil peut prendre les règlements qu’il estime nécessaires pour assurer le respect de la présente loi dans le cadre des activités des institutions fédérales autres que le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique et le bureau du commissaire aux conflits d’intérêts et à l’éthique. Il peut également prendre toute autre mesure réglementaire d’application de la présente loi.
+
+
+
+
+Parliamentary Employment and Staff Relations Act
+
+Clause 34: Existing text of the long title:
+An Act respecting employment and employer and employee relations in the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer and office of the Conflict of Interest and Ethics Commissioner
+
+
+
+Loi sur les relations de travail au Parlement
+
+Article 34 : Texte du titre intégral :
+Loi concernant les relations collectives entre employeur et employés au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique et au bureau du commissaire aux conflits d’intérêts et à l’éthique
+
+
+
+
+
+Clause 35: Relevant portion of section 2:
+
+2. Subject to this Act, this Act applies to and in respect of every person employed by, and applies to and in respect of,
+(a) the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, and
+
+
+
+
+Article 35 : Texte de l’article 2 :
+
+2. La présente loi, sous réserve de ses autres dispositions, s’applique, d’une part, aux personnes attachées dans leur travail, comme employés, au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique, au bureau du commissaire aux conflits d’intérêts et à l’éthique ou à des parlementaires, d’autre part à ces institutions et aux parlementaires qui, ès qualités, les emploient ou qui ont sous leur direction ou leur responsabilité des documentalistes ou des personnes chargées de fonctions similaires affectés au service des membres de groupes parlementaires, ainsi qu’à ces documentalistes ou personnes; de plus, sauf disposition expresse de la présente loi, les autres lois fédérales qui réglementent des questions semblables à celles que réglementent la présente loi et les mesures prises en vertu de celles-ci, avant ou après l’entrée en vigueur du présent article, n’ont aucun effet à l’égard des institutions et des personnes visées au présent article.
+
+
+
+
+
+Clause 36: Relevant portion of the definition:
+“employer” means
+... 
+(d) the office of the Senate Ethics Officer as represented by the Ethics Officer, or
+
+
+
+
+Article 36 : Texte du passage visé de la définition :
+« employeur »
+[...] 
+
+d) le bureau du conseiller sénatorial en éthique, représenté par le conseiller sénatorial en éthique;
+
+
+
+
+
+Clause 37: Relevant portion of section 85:
+
+85. In this Part, “employer” means
+... 
+(c.1) the office of the Senate Ethics Officer as represented by the Ethics Officer;
+
+
+
+
+Article 37 : Texte du passage visé de la définition :
+
+ 
+« employeur »
+[...] 
+
+c.1) le bureau du conseiller sénatorial en éthique, représenté par le conseiller sénatorial en éthique;
+
+
+
+
+Public Service Employment Act
+
+Clause 38: Relevant portion of section 35.3:
+
+35.3 A person employed in the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner
+
+
+
+Loi sur l’emploi dans la fonction publique
+
+Article 38 : Texte du passage visé de l’article 35.3 :
+
+35.3 La personne employée au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique ou au bureau du commissaire aux conflits d’intérêts et à l’éthique :
+
+
+
+
+Public Service Superannuation Act
+
+Clause 39: Existing text of the definition:
+“public service” means the several positions in or under any department or portion of the executive government of Canada, except those portions of departments or portions of the executive government of Canada prescribed by the regulations and, for the purposes of this Part, of the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer and office of the Conflict of Interest and Ethics Commissioner and any board, commission, corporation or portion of the federal public administration specified in Schedule I;
+
+
+
+Loi sur la pension de la fonction publique
+
+Article 39 : Texte de la définition :
+« fonction publique » Les divers postes dans quelque ministère ou secteur du gouvernement exécutif du Canada, ou relevant d’un tel ministère ou secteur, et, pour l’application de la présente partie, du Sénat et de la Chambre des communes, de la bibliothèque du Parlement, du bureau du conseiller sénatorial en éthique, du bureau du commissaire aux conflits d’intérêts et à l’éthique et de tout office, conseil, bureau, commission ou personne morale, ou secteur de l’administration publique fédérale, que mentionne l’annexe I, à l’exception d’un secteur du gouvernement exécutif du Canada ou de la partie d’un ministère exclus par règlement de l’application de la présente définition.
+
+
+
+
+Radiocommunication Act
+
+Clause 40: Existing text of subsections 3(1) and (2):
+
+3. (1) Subject to subsection (2), this Act is binding on Her Majesty in right of Canada, on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer and office of the Conflict of Interest and Ethics Commissioner and on Her Majesty in right of a province.
+(2) The Governor in Council may by order exempt Her Majesty in right of Canada, or the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, as represented by the person or persons named in the order, from any or all provisions of this Act or the regulations, and such an exemption may be
+(a) in the case of an exemption of Her Majesty in right of Canada, in respect of Her Majesty in right of Canada generally, or only in respect of a department or other body named in the order;
+(b) either absolute or qualified; and
+(c) of either general or specific application.
+
+
+
+Loi sur la radiocommunication
+
+Article 40 : Texte des paragraphes 3(1) et (2) :
+
+3. (1) La présente loi lie Sa Majesté du chef du Canada et de chaque province, le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique et le bureau du commissaire aux conflits d’intérêts et à l’éthique.
+(2) Le gouverneur en conseil peut toutefois, par décret, exempter Sa Majesté du chef du Canada ou tout représentant — désigné dans celui-ci — du Sénat, de la Chambre des communes, de la bibliothèque du Parlement, du bureau du conseiller sénatorial en éthique ou du bureau du commissaire aux conflits d’intérêts et à l’éthique de l’application de toute disposition de la présente loi ou de ses règlements. L’exemption peut ou bien être générale ou relative à un ministère ou autre organisme désigné dans le décret, si elle s’applique à Sa Majesté du chef du Canada, ou bien absolue ou conditionnelle ou encore d’application générale ou spécifique.
+
+
+
+
+
+

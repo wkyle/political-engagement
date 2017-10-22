@@ -1,0 +1,2075 @@
+
+
+
+
+
+C-79
+
+
+
+
+
+C-79
+
+
+
+
+
+
+First Session, Thirty-eighth Parliament,
+
+
+
+
+
+Première session, trente-huitième législature,
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-79
+
+
+
+
+
+PROJET DE LOI C-79
+
+
+
+
+
+
+An Act to amend the Canada Elections Act (third party election advertising)
+
+
+
+
+
+Loi modifiant la Loi électorale du Canada (publicité électorale de tiers)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 23, 2005
+
+première lecture le 23 novembre 2005
+
+
+
+
+
+
+
+
+
+
+
+
+THE DEPUTY LEADER OF THE GOVERNMENT IN THE HOUSE OF COMMONS
+
+90366
+
+
+
+LE LEADER ADJOINT DU GOUVERNEMENT À LA CHAMBRE DES COMMUNES
+
+
+
+
+
+SUMMARY
+This enactment amends the Canada Elections Act to limit the ability of a third party to use, for election advertising purposes, contributions that are made during the period beginning six months before the issue of the writs and ending on polling day. The limits are set at $5,000 from the total contributions received from an individual and $1,000 from the total contributions received from any other person or entity.
+The enactment creates additional reporting requirements for third parties that receive contributions during that period that exceed those amounts.
+It also provides that the total amount of contributions that a person or other entity can make to third parties during that period for election advertising purposes cannot exceed the spending limit applicable to a third party during that election.
+The enactment amends the anti-collusion provision for third parties to ensure that persons and other entities cannot circumvent the limits and creates new offences to enforce those limits.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi électorale du Canada afin de restreindre la capacité des tiers d’utiliser, à des fins de publicité électorale, des contributions faites au cours de la période débutant six mois avant la délivrance des brefs et se terminant le jour du scrutin. Les plafonds sont fixés à 5 000 $ sur le total des contributions reçues d’un particulier et à 1 000 $ sur le total des contributions reçues de toute autre personne ou entité.
+Il impose aux tiers de nouvelles exigences en matière de communication de renseignements concernant les contributions reçues durant la période en cause qui dépassent ces sommes.
+Il prévoit également que le total des contributions destinées à la publicité électorale qu’une personne ou une autre entité peut faire à un ou plusieurs tiers durant la période en cause ne peut dépasser le plafond applicable aux tiers durant cette élection.
+Il modifie enfin la disposition interdisant toute tentative d’esquiver les plafonds applicable aux tiers afin de préciser que nulle personne ou entité ne peut contourner ces restrictions; il crée de nouvelles infractions afin de permettre le contrôle d’application de ces mesures.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 38th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 38e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-79
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-79
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Elections Act (third party election advertising)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi électorale du Canada (publicité électorale de tiers)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+2000, c. 9
+
+
+
+CANADA ELECTIONS ACT
+
+
+
+
+
+
+
+
+
+LOI ÉLECTORALE DU CANADA
+
+
+
+2000, ch. 9
+
+
+
+
+
+
+
+
+
+
+
+
+1. The definition “polling day” in subsection 2(1) of the Canada Elections Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. La définition de « jour du scrutin », au paragraphe 2(1) de la Loi électorale du Canada, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“polling day”« jour du scrutin »
+
+
+
+“polling day”, in relation to an election, means the date fixed under paragraph 57(1.2)(c) for voting at the election.
+
+
+
+
+
+
+
+
+
+« jour du scrutin » Le jour fixé pour la tenue du scrutin dans le cadre de l’alinéa 57(1.2)c).
+
+
+
+« jour du scrutin »“polling day”
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 349 of the Act is renumbered as subsection 349(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+2. L’article 349 de la même loi devient le paragraphe 349(1) et est modifié par adjonction de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Contributions
+
+
+
+(2) For the purposes of this Part, a contribution includes a third party’s use of its own funds if the funds are used to make a contribution to another third party.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application de la présente partie, les contributions comprennent les fonds qui appartiennent à un tiers et que ce dernier utilise pour faire des contributions à un autre tiers.
+
+
+
+Contributions
+
+
+
+
+
+
+
+
+
+
+
+
+3. (1) Subsection 350(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. (1) Le paragraphe 350(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Spending limit
+
+
+
+350. (1) Subject to subsection 350.2(1), a third party shall not incur election advertising expenses of a total amount of more than $150,000 during an election period in relation to a general election.
+
+
+
+
+
+
+
+
+
+350. (1) Sous réserve du paragraphe 350.2(1), il est interdit aux tiers, pendant la période électorale relative à une élection générale, d’engager des dépenses de publicité électorale dépassant, au total, 150 000 $.
+
+
+
+Plafond général
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The portion of subsection 350(2) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le passage du paragraphe 350(2) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Spending limit — electoral district
+
+
+
+(2) Subject to subsection 350.2(2), not more than $3,000 of the total amount referred to in subsection (1) shall be incurred to promote or oppose the election of one or more candidates in a given electoral district, including by
+
+
+
+
+
+
+
+
+
+(2) Sous réserve du paragraphe 350.2(2), du total visé au paragraphe (1), il est interdit aux tiers d’engager, au total, des dépenses de plus de 3 000 $ pour favoriser l’élection d’un ou de plusieurs candidats ou s’y opposer, dans une circonscription donnée, notamment :
+
+
+
+Plafond pour une circonscription
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 350(3) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 350(3) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Party leader
+
+
+
+(3) If a candidate referred to in subsection (2) is a leader of a registered party or an eligible party, the limit set out in that subsection applies only to the extent that the amount is incurred to promote or oppose his or her election in a given electoral district.
+
+
+
+
+
+
+
+
+
+(3) If a candidate referred to in subsection (2) is a leader of a registered party or an eligible party, the limit set out in that subsection applies only to the extent that the amount is incurred to promote or oppose his or her election in a given electoral district.
+
+
+
+Party leader
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Subsection 350(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 350(4) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Spending limit — by-election
+
+
+
+(4) Subject to subsection 350.2(3), a third party shall not incur election advertising expenses of a total amount of more than $3,000 in a given electoral district during the election period of a by-election.
+
+
+
+
+
+
+
+
+
+(4) Sous réserve du paragraphe 350.2(3), il est interdit aux tiers, pendant la période électorale relative à une élection partielle, d’engager des dépenses de publicité électorale dépassant 3 000 $, au total, dans une circonscription donnée.
+
+
+
+Plafond pour une élection partielle
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Section 350 of the Act is amended by adding the following after subsection (5):
+
+
+
+
+
+
+
+
+
+(5) L’article 350 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Limit on spending out of contributions
+
+
+
+(6) Not more than $5,000 of the total amount of contributions made to a third party by an individual in the period beginning six months before the issue of the writ or writs and ending on polling day may be used by the third party to pay, or be incurred by the third party as, election advertising expenses. The third party shall not exceed that limit.
+
+
+
+
+
+
+
+
+
+(6) Une somme maximale de 5 000 $ peut être consacrée par un tiers, sur le total des contributions faites par un particulier dans les six mois précédant la délivrance du ou des brefs et pendant la période électorale, au paiement de dépenses de publicité électorale ou à l’engagement de telles dépenses. Le tiers ne peut dépasser ce plafond.
+
+
+
+Plafond de dépenses sur des contributions
+
+
+
+
+
+
+
+
+
+
+Limit on spending out of contributions
+
+
+
+(7) Not more than $1,000 of the total amount of contributions made to a third party by any person other than an individual or any entity in the period beginning six months before the issue of the writ or writs and ending on polling day may be used by the third party to pay, or be incurred by the third party as, election advertising expenses. The third party shall not exceed that limit.
+
+
+
+
+
+
+
+
+
+(7) Une somme maximale de 1 000 $ peut être consacrée par un tiers, sur le total des contributions faites par toute entité ou personne autre qu’un particulier dans les six mois précédant la délivrance du ou des brefs et pendant la période électorale, au paiement de dépenses de publicité électorale ou à l’engagement de telles dépenses. Le tiers ne peut dépasser ce plafond.
+
+
+
+Plafond de dépenses sur des contributions
+
+
+
+
+
+
+
+
+
+
+Inflation adjustment factor
+
+
+
+(8) The amounts referred to in subsections (6) and (7) shall be multiplied by the inflation adjustment factor referred to in subsection 405.1(1) that is in effect on the issue of the writ or writs.
+
+
+
+
+
+
+
+
+
+(8) Les montants prévus aux paragraphes (6) et (7) sont multipliés à la date de délivrance du ou des brefs par le facteur d’ajustement à l’inflation prévu au paragraphe 405.1(1).
+
+
+
+Indexation
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 351 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. L’article 351 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Contribution limit
+
+
+
+350.1 (1) Subject to subsection 350.2(1), no person or entity shall, in the period beginning six months before the issue of the writs and ending on polling day, make contributions of a total amount of more than $150,000 to third parties for the purpose of election advertising in a general election.
+
+
+
+
+
+
+
+
+
+350.1 (1) Sous réserve du paragraphe 350.2(1), il est interdit, au cours des six mois précédant la délivrance des brefs et pendant la période électorale, de faire à des tiers des contributions dépassant, au total, 150 000 $ et destinées à la publicité électorale dans le cadre d’une élection générale.
+
+
+
+Plafond d’une contribution
+
+
+
+
+
+
+
+
+
+
+Contribution limit — electoral district
+
+
+
+(2) Subject to subsection 350.2(2), no person or entity shall, in the period beginning six months before the issue of the writs and ending on polling day, make contributions of a total amount of more than $3,000 to third parties for the purpose of election advertising to promote or oppose the election of one or more candidates in a given electoral district in a general election.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve du paragraphe 350.2(2), il est interdit, au cours des six mois précédant la délivrance des brefs et pendant la période électorale, de faire à des tiers des contributions dépassant, au total, 3 000 $ et destinées à la publicité électorale, pour favoriser l’élection d’un ou de plusieurs candidats dans une circonscription donnée ou s’y opposer, dans le cadre d’une élection générale.
+
+
+
+Plafond pour une circonscription
+
+
+
+
+
+
+
+
+
+
+Party leader
+
+
+
+(3) If a candidate referred to in subsection (2) is a leader of a registered party or an eligible party, the limit set out in that subsection applies only to the extent that the contribution is made to promote or oppose his or her election in a given electoral district.
+
+
+
+
+
+
+
+
+
+(3) Le plafond prévu au paragraphe (2) ne s’applique à l’égard du chef d’un parti enregistré ou d’un parti admissible que dans la mesure où les contributions visent à favoriser son élection dans une circonscription ou à s’y opposer.
+
+
+
+Chef de parti
+
+
+
+
+
+
+
+
+
+
+Contribution limit — by-election
+
+
+
+(4) Subject to subsection 350.2(3), no person or entity shall, in the period beginning six months before the issue of the writ and ending on polling day, make contributions of a total amount of more than $3,000 to third parties for the purpose of election advertising in a given electoral district in a by-election.
+
+
+
+
+
+
+
+
+
+(4) Sous réserve du paragraphe 350.2(3), il est interdit, au cours des six mois précédant la délivrance du bref et pendant la période électorale, de faire à des tiers des contributions dépassant, au total, 3 000 $ et destinées à la publicité électorale, dans une circonscription donnée, dans le cadre d’une élection partielle.
+
+
+
+Plafond pour une élection partielle
+
+
+
+
+
+
+
+
+
+
+Inflation adjustment factor
+
+
+
+(5) The amounts referred to in this section shall be multiplied by the inflation adjustment factor referred to in section 414 that is in effect on the issue of the writ or writs.
+
+
+
+
+
+
+
+
+
+(5) Les montants prévus au présent article sont multipliés à la date de délivrance du ou des brefs par le facteur d’ajustement à l’inflation prévu à l’article 414.
+
+
+
+Indexation
+
+
+
+
+
+
+
+
+
+
+Contribution and spending limits combined
+
+
+
+350.2 (1) For the purposes of subsections 350(1) and 350.1(1), if a third party incurs election advertising expenses during the election period of a general election and, in the period beginning six months before the issue of the writs and ending on polling day, makes contributions for the purpose of election advertising in a general election, the total amount of those expenses and contributions shall not exceed $150,000.
+
+
+
+
+
+
+
+
+
+350.2 (1) Pour l’application des paragraphes 350(1) et 350.1(1), si les tiers engagent des dépenses de publicité électorale pendant la période électorale d’une élection générale et, dans les six mois précédant la délivrance des brefs et pendant la période électorale, font des contributions destinées à la publicité électorale dans le cadre d’une élection générale, la somme totale de ces dépenses et contributions ne doit pas dépasser 150 000 $.
+
+
+
+Plafonds des contributions et des dépenses cumulés
+
+
+
+
+
+
+
+
+
+
+Contribution and spending limits combined — electoral district
+
+
+
+(2) For the purposes of subsections 350(2) and 350.1(2), if a third party incurs election advertising expenses to promote or oppose the election of one or more candidates in a given electoral district in a general election and, in the period beginning six months before the issue of the writs and ending on polling day, makes contributions for the purpose of election advertising in that electoral district, the total amount of those expenses and contributions shall not exceed $3,000.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application des paragraphes 350(2) et 350.1(2), si les tiers engagent des dépenses de publicité électorale, pour favoriser l’élection d’un ou de plusieurs candidats ou s’y opposer, dans une circonscription donnée, dans le cadre d’une élection générale et, dans les six mois précédant la délivrance des brefs et pendant la période électorale, font des contributions destinées à la publicité électorale dans cette circonscription, la somme totale de ces dépenses et contributions ne doit pas dépasser 3 000 $.
+
+
+
+Plafonds des contributions et des dépenses cumulés pour une circonscription
+
+
+
+
+
+
+
+
+
+
+Contribution and spending limits combined — by-election
+
+
+
+(3) For the purposes of subsections 350(4) and 350.1(4), if a third party incurs election advertising expenses in a given electoral district during the election period of a by-election and, in the period beginning six months before the issue of the writ and ending on polling day, makes contributions for the purpose of election advertising in that electoral district, the total amount of those expenses and contributions shall not exceed $3,000.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application des paragraphes 350(4) et 350.1(4), si les tiers engagent des dépenses de publicité électorale pendant la période électorale d’une élection partielle dans une circonscription donnée et, dans les six mois précédant la délivrance du bref et pendant la période électorale, font des contributions destinées à la publicité électorale dans cette circonscription, la somme totale de ces dépenses et contributions ne doit pas dépasser 3 000 $.
+
+
+
+Plafond pour une élection partielle
+
+
+
+
+
+
+
+
+
+
+No circumvention of limit
+
+
+
+351. No person or entity shall circumvent, or attempt to circumvent, a limit set out in section 350 or 350.1 in any manner, including by splitting into two or more persons or entities, or acting in collusion with another person or entity.
+
+
+
+
+
+
+
+
+
+351. Il est interdit à toute personne ou entité d’esquiver ou de tenter d’esquiver les plafonds prévus par les articles 350 ou 350.1, notamment en se subdivisant en plusieurs personnes ou entités ou en agissant de concert avec une autre personne ou entité.
+
+
+
+Interdiction d’esquiver les plafonds
+
+
+
+
+
+
+
+
+
+
+
+
+5. Subsection 353(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 353(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Registration requirement for third parties
+
+
+
+353. (1) A third party shall register immediately after having incurred election advertising expenses of a total amount of $500 and may not register before the issue of the writ or writs.
+
+
+
+
+
+
+
+
+
+353. (1) Le tiers doit s’enregistrer dès qu’il a engagé des dépenses de publicité électorale de 500 $ au total mais non avant la délivrance du ou des brefs.
+
+
+
+Obligation de s’enregistrer
+
+
+
+
+
+
+
+
+
+
+
+
+6. Subsection 355(1) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 355(1) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Nomination d’un vérificateur
+
+
+
+355. (1) Le tiers qui engage des dépenses de publicité électorale de 5 000 $ ou plus, au total, doit sans délai nommer un vérificateur.
+
+
+
+
+
+
+
+
+
+355. (1) Le tiers qui engage des dépenses de publicité électorale de 5 000 $ ou plus, au total, doit sans délai nommer un vérificateur.
+
+
+
+Nomination d’un vérificateur
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) Subsection 359(3) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+7. (1) Le paragraphe 359(3) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Cas d’absence de dépenses
+
+
+
+(3) Dans les cas où aucune dépense de publicité électorale n’a été engagée, le rapport doit signaler ce fait.
+
+
+
+
+
+
+
+
+
+(3) Dans les cas où aucune dépense de publicité électorale n’a été engagée, le rapport doit signaler ce fait.
+
+
+
+Cas d’absence de dépenses
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 359(4)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 359(4)a) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the amount, by class of contributor, of contributions for election advertising purposes that were received in the period beginning six months before the issue of the writ or writs and ending on polling day;
+
+
+
+
+
+
+
+
+
+a) le montant, par catégorie de donateurs, des contributions destinées à la publicité électorale reçues dans les six mois précédant la délivrance du ou des brefs et pendant la période électorale;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 359(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 359(5) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Contributions
+
+
+
+(5) The election advertising report shall also include
+
+
+
+
+
+
+
+
+(a) the name and address of every individual who made contributions of a total amount of more than $5,000 in the period beginning six months before the issue of the writ or writs and ending on polling day, the amount and date of each contribution and the amount that the third party paid out of, or incurred as expenses from, those contributions for election advertising expenses, if any; and
+
+
+
+
+
+
+
+
+(b) the name, address and class of every other person or every entity that made contributions of a total amount of more than $1,000 during that period, the amount and date of each contribution, the amount that the third party paid out of, or incurred as expenses from, those contributions for election advertising expenses, if any, and, if the contributor is a numbered company, the name of the chief executive officer or president of that company.
+
+
+
+
+
+
+
+
+
+(5) Il doit en outre mentionner :
+
+
+
+Mention des contributions
+
+
+
+
+a) pour tout particulier qui a fait des contributions dépassant, au total, 5 000 $ au cours des six mois précédant la délivrance du ou des brefs et pendant la période électorale, ses nom et adresse, le montant et la date de chacune de ses contributions et, le cas échéant, les sommes que le tiers a versées ou engagées, sur ces contributions, pour des dépenses de publicité électorale;
+
+
+
+
+
+
+
+
+b) pour toute autre personne ou entité qui a fait des contributions dépassant, au total, 1 000 $ au cours de cette période, la catégorie de donateurs à laquelle elle appartient, ses nom et adresse, le montant et la date de chacune de ses contributions, les sommes que le tiers a versées ou engagées, sur ces contributions, pour des dépenses de publicité électorale, le cas échéant, et, dans le cas d’une société à dénomination numérique, le nom de son premier dirigeant ou de son président.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inflation adjustment factor
+
+
+
+(5.1) The amounts referred to in subsection (5) shall be multiplied by the inflation adjustment factor referred to in subsection 405.1(1) that is in effect on the issue of the writ or writs.
+
+
+
+
+
+
+
+
+
+(5.1) Les montants prévus au paragraphe (5) sont multipliés à la date de délivrance du ou des brefs par le facteur d’ajustement à l’inflation prévu au paragraphe 405.1(1).
+
+
+
+Indexation
+
+
+
+
+
+
+
+
+
+
+
+
+(4) The portion of subsection 359(6) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le passage du paragraphe 359(6) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Categories
+
+
+
+(6) For the purposes of subsections (4) and (5), the following are the classes of contributor:
+
+
+
+
+
+
+
+
+
+(6) Pour l’application des paragraphes (4) et (5), les catégories de donateurs sont les suivantes :
+
+
+
+Catégories
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Subsection 359(7) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe 359(7) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Names must be provided
+
+
+
+(7) If one or more contributions for election advertising purposes are made to a third party in the period referred to in paragraph (4)(a) and the third party is unable to identify which contributions it received for those purposes in that period, the third party shall list the name and address of every contributor who donated a total of more than $200 to it during that period and, if the contributor is a numbered company, the name of the chief executive officer or president of that company.
+
+
+
+
+
+
+
+
+
+(7) Si une ou plusieurs contributions destinées à la publicité électorale ont été faites au tiers au cours de la période visée à l’alinéa (4)a) et que ce dernier n’est pas en mesure d’identifier lesquelles des contributions reçues pendant cette période étaient destinées à cette fin, il doit donner les nom et adresse de tous les donateurs ayant versé plus de 200 $ au cours de la période et, dans le cas où le donateur est une société à dénomination numérique, le nom de son premier dirigeant ou de son président.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Loans
+
+
+
+(7.1) For the purposes of subsections (4), (5) and (7), a contribution includes a loan.
+
+
+
+
+
+
+
+
+
+(7.1) Pour l’application des paragraphes (4), (5) et (7), un prêt est assimilé à une contribution.
+
+
+
+Assimilation
+
+
+
+
+
+
+
+
+
+
+
+
+8. Paragraph 362(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+8. L’alinéa 362b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) publish, within one year after the issue of the writ or writs, reports made under subsection 359(1).
+
+
+
+
+
+
+
+
+
+b) dans l’année qui suit la délivrance du ou des brefs, les rapports produits au titre du paragraphe 359(1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. (1) The portion of subsection 496(1) of the Act before paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+9. (1) Le passage du paragraphe 496(1) de la même loi précédant l’alinéa b) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Strict liability offences — summary conviction
+
+
+
+496. (1) Every third party is guilty of an offence who contravenes
+
+
+
+
+
+
+
+
+(a) any of subsections 350(1), (2), (4), (6) and (7) (exceeding election advertising expense limits);
+
+
+
+
+
+
+
+
+
+496. (1) Commet une infraction le tiers qui contrevient :
+
+
+
+Responsabilité stricte — déclaration sommaire
+
+
+
+
+a) à l’un ou l’autre des paragraphes 350(1), (2), (4), (6) et (7) (engagement de dépenses de publicité électorale dépassant les plafonds fixés);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The portion of subsection 496(2) of the Act before paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le passage du paragraphe 496(2) de la même loi précédant l’alinéa b) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offences requiring intent — dual procedure
+
+
+
+(2) Every third party is guilty of an offence who wilfully contravenes
+
+
+
+
+
+
+
+
+
+(2) Commet une infraction le tiers qui :
+
+
+
+Infraction exigeant une intention — double procédure
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 496 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(3) L’article 496 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offence requiring intent — dual procedure
+
+
+
+(3) Every person or entity who wilfully contravenes any of subsections 350(1), (2) and (4) (exceeding election advertising expense limits), any of subsections 350.1(1), (2) and (4) (exceeding contribution limits) or section 351 (circumventing election advertising expense or contribution limits) is guilty of an offence.
+
+
+
+
+
+
+
+
+
+(3) Commet une infraction la personne ou l’entité qui contrevient volontairement à l’un ou l’autre des paragraphes 350(1), (2) et (4) (engagement de dépenses de publicité électorale dépassant les plafonds fixés) ou des paragraphes 350.1(1), (2) et (4) (faire des contributions dépassant les plafonds fixés) ou à l’article 351 (esquiver les plafonds fixés pour les dépenses de publicité électorale ou les contributions).
+
+
+
+Infraction exigeant une intention — double procédure
+
+
+
+
+
+
+
+
+
+
+
+
+10. (1) The portion of subsection 500(5) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+10. (1) Le passage du paragraphe 500(5) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment — offences requiring intent (dual procedure)
+
+
+
+(5) Every person who is guilty of an offence under any of subsections 480(1) and (2), sections 481 to 483, subsections 484(3), 485(2), 486(3), 487(2), 488(2) and 489(3), section 490, subsections 491(3) and 492(2), section 494, subsections 495(5), 496(2) and (3) and 497(3), section 498 and subsection 499(2) is liable
+
+
+
+
+
+
+
+
+
+(5) Quiconque commet une infraction visée à l’une ou l’autre des dispositions suivantes : les paragraphes 480(1) et (2), les articles 481 à 483, les paragraphes 484(3), 485(2), 486(3), 487(2), 488(2) et 489(3), l’article 490, les paragraphes 491(3) et 492(2), l’article 494, les paragraphes 495(5), 496(2) et (3) et 497(3), l’article 498 et le paragraphe 499(2) est passible, sur déclaration de culpabilité :
+
+
+
+Peine — infractions intentionnelles (double procédure)
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 500(6) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 500(6) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Additional punishment — third parties
+
+
+
+(6) Every third party that is guilty of an offence under paragraph 496(1)(a) or subsection 496(3) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount by which the third party exceeded the election advertising expense limit in question.
+
+
+
+
+
+
+
+
+
+(6) Le tribunal peut, en sus de la peine prévue aux paragraphes (1) ou (5), imposer au tiers qui commet l’infraction visée à l’alinéa 496(1)a) ou au paragraphe 496(3) une amende correspondant au quintuple de l’excédent du montant des dépenses de publicité électorale sur le plafond autorisé.
+
+
+
+Peine supplémentaire — tiers
+
+
+
+
+
+
+
+
+
+
+2003, c. 19, s. 59(1)
+
+
+
+11. Subsections 503(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+11. Les paragraphes 503(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+2003, ch. 19, par. 59(1)
+
+
+
+
+
+
+
+
+
+
+Deregistered parties
+
+
+
+503. (1) A political party that is deregistered during an election period does not commit an offence under paragraph 496(1)(a) or subsection 496(3) if the party, during the portion of the election period before the deregistration, has spent more than the spending limit set out in section 350.
+
+
+
+
+
+
+
+
+
+503. (1) Le parti politique qui est radié au cours d’une période électorale ne commet pas l’infraction visée à l’alinéa 496(1)a) ou au paragraphe 496(3) si les dépenses de publicité électorale faites par ce parti avant sa radiation ont dépassé les plafonds fixés par l’article 350.
+
+
+
+Partis politiques radiés
+
+
+
+
+
+
+
+
+
+
+Eligible party
+
+
+
+(2) An eligible party that, during the election period of a general election, does not become a registered party does not commit an offence referred to in paragraph 496(1)(a) or subsection 496(3) if its election advertising expenses, as of the day on which it is informed under subsection 370(4) that it has not been registered, are more than the spending limit set out in section 350.
+
+
+
+
+
+
+
+
+
+(2) Le parti admissible qui ne devient pas un parti enregistré ne commet pas l’infraction visée à l’alinéa 496(1)a) ou au paragraphe 496(3) si les dépenses de publicité électorale faites par ce parti avant la date où il perd son statut de parti admissible dans le cadre du paragraphe 370(4) ont dépassé les plafonds fixés par l’article 350.
+
+
+
+Parti admissible
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+12. (1) This Act comes into force six months after the day on which it receives royal assent.
+
+
+
+
+
+
+
+
+
+12. (1) La présente loi entre en vigueur six mois après sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+
+
+
+Non-application
+
+
+
+(2) If a writ of election is issued before this Act comes into force, the provisions of the Canada Elections Act, as enacted by this Act, do not apply in respect of that election.
+
+
+
+
+
+
+
+
+
+(2) Si un bref d’élection est délivré avant l’entrée en vigueur de la présente loi, les dispositions de la Loi électorale du Canada édictées par la présente loi ne s’appliquent pas à l’élection.
+
+
+
+Non-application
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

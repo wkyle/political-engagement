@@ -1,0 +1,9602 @@
+
+
+
+
+
+
+C-26
+
+
+
+
+
+C-26
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+
+
+
+
+
+Troisième session, quarantième législature,
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-26
+
+
+
+
+
+PROJET DE LOI C-26
+
+
+
+
+
+
+An Act to amend the International Boundary Waters Treaty Act and the International River Improvements Act
+
+
+
+
+
+Loi modifiant la Loi du traité des eaux limitrophes internationales et la Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 13, 2010
+
+
+
+
+
+première lecture le 13 mai 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF FOREIGN AFFAIRS
+
+90538
+
+
+
+MINISTRE DES AFFAIRES ÉTRANGÈRES
+
+
+
+
+
+
+
+
+
+
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the International Boundary Waters Treaty Act and the International River Improvements Act”.
+SUMMARY
+This enactment amends the International Boundary Waters Treaty Act to prohibit the bulk removal of transboundary waters. Some definitions and exceptions that are currently found in regulations are transferred to the Act. The enactment also provides for measures to administer and enforce the Act. Lastly, it also makes a consequential amendment to the International River Improvements Act.
+
+
+
+RECOMMANDATION
+Son Excellence la gouverneure générale recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi du traité des eaux limitrophes internationales et la Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux ».
+SOMMAIRE
+Le texte modifie la Loi du traité des eaux limitrophes internationales en vue d’interdire le captage massif d’eaux transfrontalières. Certaines définitions et exceptions se trouvant dans les règlements sont incluses dans la loi. De plus, le texte prévoit des mesures d’exécution et de contrôle d’application de la loi. Enfin, il modifie la Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux en conséquence.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+3e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-26
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the International Boundary Waters Treaty Act and the International River Improvements Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi du traité des eaux limitrophes internationales et la Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Transboundary Waters Protection Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la protection des eaux transfrontalières.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. I-17
+
+
+
+INTERNATIONAL BOUNDARY WATERS TREATY ACT
+
+
+
+
+
+
+
+
+
+LOI DU TRAITÉ DES EAUX LIMITROPHES INTERNATIONALES
+
+
+
+L.R., ch. I-17
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 2 of the International Boundary Waters Treaty Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. L’article 2 de la Loi du traité des eaux limitrophes internationales est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Treaty in schedule confirmed
+
+
+
+
+2. The treaty relating to the boundary waters and to questions arising along the boundary between Canada and the United States made between His Majesty, King Edward VII, and the United States, signed at Washington on January 11, 1909, and the protocol of May 5, 1910, in Schedule 1, are hereby confirmed and sanctioned.
+
+
+
+
+
+
+
+
+
+
+2. Sont confirmés et sanctionnés le traité  relatif aux eaux limitrophes et aux questions survenant le long de la frontière entre le Canada et les États-Unis, conclu entre Sa Majesté le Roi Édouard VII et les États-Unis et signé à Washington le 11 janvier 1909, ainsi que le protocole du 5 mai 1910, figurant tous deux à l’annexe 1.
+
+
+
+Confirmation
+
+
+
+
+
+
+
+
+
+
+2001, c. 40, s. 1
+
+
+
+
+3. (1) The portion of section 10 of the Act before the definition “boundary waters” is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. (1) Le passage de l’article 10 de la même loi précédant la définition de « eaux limitrophes » est remplacé par ce qui suit :
+
+
+
+2001, ch. 40, art. 1
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+10. The definitions in this section apply in sections 11 to 42.
+
+
+
+
+
+
+
+
+
+
+10. Les définitions qui suivent s’appliquent aux articles 11 à 42.
+
+
+
+Définitions
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 10 of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) L’article 10 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“analyst”« analyste »
+
+
+
+
+“analyst” means a person who is designated under section 20.1 to assist an inspector to verify compliance with this Act.
+
+
+
+
+
+“bulk removal”« captage massif »
+
+
+
+
+“bulk removal” means the removal of water from boundary or transboundary waters and the taking of that water, whether it has been treated or not, outside the Canadian portion of the water basin set out in Schedule 2 in which the waters are located
+
+
+
+
+
+
+
+
+
+
+
+
+(a) by any means of diversion, including by pipeline, canal, tunnel, aqueduct or channel; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) by any other means by which more than 50 000 L of water are taken outside the water basin per day.
+
+
+
+
+
+
+
+
+
+
+
+
+Bulk removal does not include the taking of a manufactured product that contains water, including water and other beverages in bottles or other containers, outside a water basin.
+
+
+
+
+
+“inspector”« inspecteur »
+
+
+
+
+“inspector” means a person who is designated under section 20.1 to verify compliance with this Act.
+
+
+
+
+
+“non-commercial project”« projet non commercial »
+
+
+
+
+“non-commercial project” means a project involving bulk removal in which no one is required to pay for the water that is removed.
+
+
+
+
+
+“transboundary waters”« eaux transfrontalières »
+
+
+
+
+“transboundary waters” means those waters that in their natural channels flow across the international boundary between Canada and the United States, including those set out in Schedule 3.
+
+
+
+
+
+
+
+
+
+
+
+« analyste » Personne désignée en vertu de l’article 20.1 pour aider l’inspecteur à vérifier le respect de la présente loi.
+
+
+
+
+« analyste »“analyst”
+
+
+
+
+
+« captage massif » Le captage d’eaux limitrophes ou d’eaux transfrontalières et leur transfert — qu’elles aient été traitées ou non — à l’extérieur de la partie canadienne de leur bassin hydrographique, mentionné à l’annexe 2, par l’un ou l’autre des moyens suivants :
+
+
+
+
+« captage massif »“bulk removal”
+
+
+
+
+
+
+a) la dérivation, notamment grâce à un pipeline, canal, tunnel, aqueduc ou chenal;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) tout autre moyen permettant le transfert, à l’extérieur d’un bassin hydrographique, de plus de 50 000 litres d’eau par jour.
+
+
+
+
+
+
+
+
+
+
+
+
+Est exclu de la présente définition le transfert, à l’extérieur d’un bassin hydrographique, d’un produit manufacturé qui contient de l’eau, notamment l’eau et toute autre boisson mises dans des bouteilles ou d’autres contenants.
+
+
+
+
+
+
+
+
+
+
+
+
+« eaux transfrontalières » Les eaux qui, dans leur cours naturel, traversent la frontière entre le Canada et les États-Unis, notamment celles qui sont mentionnées à l’annexe 3.
+
+
+
+
+« eaux transfrontalières »“transboundary waters”
+
+
+
+
+
+« inspecteur » Personne désignée en vertu de l’article 20.1 pour vérifier le respect de la présente loi.
+
+
+
+
+« inspecteur »“inspector”
+
+
+
+
+
+« projet non commercial » Projet comportant un captage massif et dans le cadre duquel personne n’a à payer les eaux captées.
+
+
+
+
+« projet non commercial »“non-commercial project”
+
+
+
+
+
+
+
+
+
+
+2001, c. 40, s. 1
+
+
+
+
+4. Section 13 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. L’article 13 de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 40, art. 1
+
+
+
+
+
+
+
+
+
+
+Prohibition — removal of boundary waters
+
+
+
+
+13. (1) Despite section 11, the bulk removal of boundary waters is prohibited.
+
+
+
+
+
+
+
+
+
+
+13. (1) Malgré l’article 11, le captage massif d’eaux limitrophes est interdit.
+
+
+
+Prohibition : captage d’eaux limitrophes
+
+
+
+
+
+
+
+
+
+
+Prohibition — removal of transboundary waters
+
+
+
+
+(2) Despite section 12, the bulk removal of transboundary waters is prohibited.
+
+
+
+
+
+
+
+
+
+
+
+(2) Malgré l’article 12, le captage massif d’eaux transfrontalières est interdit.
+
+
+
+
+Prohibition : captage d’eaux transfrontalières
+
+
+
+
+
+
+
+
+
+
+Deeming
+
+
+
+
+(3) For the purposes of subsections (1) and (2) and the application of the treaty, bulk removal is deemed, given its cumulative effects on boundary waters and on transboundary waters that flow to the United States, to affect the natural level or flow of those waters on the other side of the international boundary.
+
+
+
+
+
+
+
+
+
+
+(3) Pour l’application des paragraphes (1) et (2) et du traité, le captage massif est réputé, étant donné l’effet cumulatif de ce type d’activité sur les eaux limitrophes ou sur les eaux transfrontalières coulant vers les États-Unis, modifier le débit ou le niveau naturels de ces eaux de l’autre côté de la frontière internationale.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+Exceptions
+
+
+
+
+(4) Subsections (1) and (2) do not apply in respect of boundary waters or transboundary waters that are used
+
+
+
+
+
+
+
+
+
+
+
+
+(a) in a vehicle, including a vessel, aircraft or train,
+
+
+
+
+
+
+
+
+
+
+
+
+(i) as ballast,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for the operation of the vehicle, or
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) for people, animals or goods on or in the vehicle; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) in a non-commercial project on a short-term basis for firefighting or humanitarian purposes.
+
+
+
+
+
+
+
+
+
+
+
+(4) Les paragraphes (1) et (2) ne s’appliquent pas aux eaux limitrophes ou transfrontalières qui sont utilisées, selon le cas :
+
+
+
+
+Exceptions
+
+
+
+
+
+
+a) à bord d’un véhicule — notamment navire, aéronef ou train :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) comme lest,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) pour son fonctionnement,
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) pour ses occupants ou les animaux et les marchandises à son bord;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) de façon temporaire pour la lutte contre les incendies ou à des fins humanitaires, dans le cadre d’un projet non commercial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 40, s. 1
+
+
+
+
+5. The portion of subsection 19(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. Le passage du paragraphe 19(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2001, ch.40, art.1
+
+
+
+
+
+
+
+
+
+
+Ministerial orders
+
+
+
+
+19. (1) If a person contravenes subsection 11(1), 12(1) or 13(1) or (2), the Minister may
+
+
+
+
+
+
+
+
+
+
+19. (1) Dans les cas où une personne contrevient aux paragraphes 11(1), 12(1) ou 13(1) ou (2), le ministre peut lui enjoindre :
+
+
+
+Ordres ministériels
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Act is amended by adding the following after section 20:
+
+
+
+
+
+
+
+
+
+
+6. La même loi est modifiée par adjonction, après l’article 20, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Administration and Enforcement
+
+
+
+
+
+
+
+
+
+
+
+Exécution et contrôle d’application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Designation
+
+
+
+
+
+
+
+
+
+
+
+Désignation
+
+
+
+
+
+
+
+
+
+
+
+
+
+Power to designate
+
+
+
+
+
+20.1 For the purposes of the administration and enforcement of this Act, the Minister may designate persons or classes of persons to exercise powers in relation to any matter referred to in the designation, including, with the approval of a provincial government, persons or classes of persons who are authorized by that government to exercise powers and carry out functions with respect to bodies of water in the province.
+
+
+
+
+
+
+
+
+
+
+
+
+20.1 Pour l’exécution et le contrôle d’application de la présente loi, le ministre peut désigner toute personne — individuellement ou au titre de son appartenance à une catégorie déterminée — pour exercer des pouvoirs relativement à toute question mentionnée dans la désignation, y compris, avec l’approbation du gouvernement d’une province, toute personne autorisée par celui-ci à exercer des attributions en ce qui touche des étendues d’eau situées dans la province.
+
+
+
+
+Pouvoir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powers
+
+
+
+
+
+
+
+
+
+
+
+Pouvoirs
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authority to enter
+
+
+
+
+
+20.2 (1) An inspector may, for the purpose of verifying compliance with this Act, enter a place, including a vehicle, in which they have reasonable grounds to believe an object to which this Act applies is located or an activity regulated by this Act is taking place.
+
+
+
+
+
+
+
+
+
+
+
+
+20.2 (1) L’inspecteur peut, pour vérifier le respect de la présente loi, entrer dans tout lieu, y compris un véhicule, s’il a des motifs raisonnables de croire que s’y déroulent des activités réglementées par la présente loi ou s’y trouvent des objets visés par celle-ci.
+
+
+
+
+Accès au lieu
+
+
+
+
+
+
+
+
+
+
+Powers on entry
+
+
+
+
+(2) The inspector may, for that purpose,
+
+
+
+
+
+
+
+
+
+
+
+
+(a) examine anything in the place;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) use any means of communication in the place or cause it to be used;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) use any computer system in the place, or cause it to be used, to examine data contained in or available to it;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) prepare a document, or cause one to be prepared, based on the data;
+
+
+
+
+
+
+
+
+
+
+
+
+(e) use any copying equipment in the place, or cause it to be used;
+
+
+
+
+
+
+
+
+
+
+
+
+(f) remove anything from the place for examination or copying;
+
+
+
+
+
+
+
+
+
+
+
+
+(g) direct any person to put any machinery, vehicle or equipment in the place into operation or to cease operating it;
+
+
+
+
+
+
+
+
+
+
+
+
+(h) prohibit or limit access to all or part of the place;
+
+
+
+
+
+
+
+
+
+
+
+
+(i) take samples of anything in the place; and
+
+
+
+
+
+
+
+
+
+
+
+
+(j) conduct tests on, or take measurements of, anything in the place.
+
+
+
+
+
+
+
+
+
+
+
+(2) À cette fin, il peut :
+
+
+
+
+Autres pouvoirs
+
+
+
+
+
+
+a) examiner toute chose se trouvant dans le lieu;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) faire usage, directement ou indirectement, des moyens de communication se trouvant dans le lieu;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour examiner les données qu’il contient ou auxquelles il donne accès;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) établir ou faire établir tout document à partir de ces données;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) faire usage, directement ou indirectement, du matériel de reproduction se trouvant dans le lieu;
+
+
+
+
+
+
+
+
+
+
+
+
+
+f) emporter toute chose se trouvant dans le lieu à des fins d’examen ou pour en faire des copies;
+
+
+
+
+
+
+
+
+
+
+
+
+
+g) ordonner à quiconque de faire fonctionner ou de cesser de faire fonctionner une machine, un véhicule ou de l’équipement se trouvant dans le lieu;
+
+
+
+
+
+
+
+
+
+
+
+
+
+h) interdire ou limiter l’accès à tout ou partie du lieu;
+
+
+
+
+
+
+
+
+
+
+
+
+
+i) prélever des échantillons de toute chose se trouvant dans le lieu;
+
+
+
+
+
+
+
+
+
+
+
+
+
+j) faire des essais et effectuer des mesures à l’égard de toute chose se trouvant dans le lieu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dwelling-house
+
+
+
+
+(3) If the place is a dwelling-house, the inspector may enter it without the occupant’s consent only under the authority of a warrant issued under subsection (4).
+
+
+
+
+
+
+
+
+
+
+
+(3) Dans le cas d’une maison d’habitation, l’inspecteur ne peut toutefois y entrer sans le consentement de l’occupant que s’il est muni du mandat décerné en vertu paragraphe (4).
+
+
+
+
+Maison d’habitation
+
+
+
+
+
+
+
+
+
+
+Authority to issue warrant — dwelling-house
+
+
+
+
+(4) On ex parte application, a justice of the peace may issue a warrant authorizing an inspector who is named in it to enter a dwelling-house, subject to any conditions specified in the warrant, if the justice is satisfied by information on oath that
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the dwelling-house is a place referred to in subsection (1);
+
+
+
+
+
+
+
+
+
+
+
+
+(b) entry to the dwelling-house is necessary to verify compliance with this Act; and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) entry was refused by the occupant or there are reasonable grounds to believe that entry will be refused or that consent to entry cannot be obtained from the occupant.
+
+
+
+
+
+
+
+
+
+
+
+(4) Sur demande ex parte, le juge de paix peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à entrer dans une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que les conditions suivantes sont réunies :
+
+
+
+
+Mandat pour maison d’habitation
+
+
+
+
+
+
+a) la maison d’habitation est un lieu visé au paragraphe (1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) l’entrée est nécessaire à la vérification du respect de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) soit l’occupant s’est opposé à l’entrée, soit il y a des motifs raisonnables de croire que tel sera le cas ou qu’il est impossible d’obtenir le consentement de l’occupant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use of force
+
+
+
+
+(5) In executing a warrant to enter a dwelling-house, an inspector may use force only if the use of force has been specifically authorized in the warrant and the inspector is accompanied by a peace officer.
+
+
+
+
+
+
+
+
+
+
+
+(5) L’inspecteur ne peut recourir à la force dans l’exécution d’un mandat relatif à une maison d’habitation que si celui-ci en autorise expressément l’usage et que s’il est accompagné d’un agent de la paix.
+
+
+
+
+Usage de la force
+
+
+
+
+
+
+
+
+
+
+Authority to issue warrant — non-dwelling-houses
+
+
+
+
+(6) On ex parte application, a justice of the peace may issue a warrant authorizing an inspector who is named in it to enter a place other than a dwelling-house, subject to any conditions specified in the warrant, if the justice is satisfied by information on oath that
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the place is a place referred to in subsection (1);
+
+
+
+
+
+
+
+
+
+
+
+
+(b) entry to the place is necessary to verify compliance with this Act;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) entry was refused by the occupant or there are reasonable grounds to believe that entry will be refused or that consent to entry cannot be obtained from the occupant or that entry cannot be effected without the use of force or that the place is abandoned; and
+
+
+
+
+
+
+
+
+
+
+
+
+(d) all reasonable attempts were made to notify the owner, operator or person in charge of the place.
+
+
+
+
+
+
+
+
+
+
+
+(6) Sur demande ex parte, le juge de paix peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à entrer dans un lieu autre qu’une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que les conditions suivantes sont réunies :
+
+
+
+
+Mandat — lieu autre qu’une maison d’habitation
+
+
+
+
+
+
+a) le lieu est un lieu visé par le paragraphe (1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) l’entrée est nécessaire à la vérification du respect de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) soit l’occupant a opposé un refus à l’entrée, soit il y a des motifs raisonnables de croire que tel sera le cas, qu’il est impossible d’obtenir le consentement de l’occupant, que l’usage de la force est nécessaire à l’entrée ou que le lieu est abandonné;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) le nécessaire a été fait pour aviser le propriétaire, l’exploitant ou le responsable du lieu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Waiving notice
+
+
+
+
+(7) The justice may waive the requirement to give notice under paragraph (6)(d) if he or she is satisfied that attempts to give the notice would be unsuccessful because the owner, operator or person in charge is absent from the justice’s jurisdiction or that it is not in the public interest to give the notice.
+
+
+
+
+
+
+
+
+
+
+
+(7) Le juge de paix peut supprimer l’obligation d’aviser le propriétaire, l’exploitant ou le responsable du lieu s’il est convaincu soit qu’on ne peut les joindre parce qu’ils se trouvent hors de son ressort, soit qu’il n’est pas dans l’intérêt public de donner cet avis.
+
+
+
+
+Avis non requis
+
+
+
+
+
+
+
+
+
+
+Stopping and detaining vehicles
+
+
+
+
+(8) For the purpose of verifying compliance with this Act, an inspector may, at any reasonable time, direct that any vehicle be stopped — or be moved, by the route and in the manner that they specify, to a specified place — and they may, for a reasonable time, detain that vehicle.
+
+
+
+
+
+
+
+
+
+
+
+(8) Pour vérifier le respect de la présente loi, l’inspecteur peut, à toute heure convenable, ordonner l’immobilisation d’un véhicule, ainsi que son déplacement, par la route, de la manière et à l’endroit qu’il précise, et sa rétention pendant une période de temps raisonnable.
+
+
+
+
+Immobilisation et détention
+
+
+
+
+
+
+
+
+
+
+Authority of analyst
+
+
+
+
+
+20.3 (1) An analyst may, at an inspector’s request, accompany them into a place for the purpose of assisting them to verify compliance with this Act.
+
+
+
+
+
+
+
+
+
+
+
+
+20.3 (1) À la demande de l’inspecteur, tout analyste peut accompagner celui-ci dans tout lieu afin de l’aider à vérifier le respect de la présente loi.
+
+
+
+
+Analyste
+
+
+
+
+
+
+
+
+
+
+Powers on entry
+
+
+
+
+(2) The analyst may, for that purpose,
+
+
+
+
+
+
+
+
+
+
+
+
+(a) examine anything in the place;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) take samples of anything in the place; and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) conduct tests on, or take measurements of, anything in the place.
+
+
+
+
+
+
+
+
+
+
+
+(2) À cette fin, l’analyste peut :
+
+
+
+
+Pouvoirs
+
+
+
+
+
+
+a) examiner toute chose se trouvant dans le lieu;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) prélever des échantillons de toute chose s’y trouvant;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) faire des essais et effectuer des mesures à l’égard de toute chose s’y trouvant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disposition of sample
+
+
+
+
+
+20.4 An inspector or analyst may dispose of a sample taken in the place in any manner that they consider appropriate.
+
+
+
+
+
+
+
+
+
+
+
+
+20.4 L’inspecteur ou l’analyste peut disposer des échantillons de la façon qu’il estime indiquée.
+
+
+
+
+Sort des échantillons
+
+
+
+
+
+
+
+
+
+
+Entry on private property
+
+
+
+
+
+20.5 (1) For the purpose of gaining entry to a place referred to in subsection 20.2(1), an inspector and any analyst accompanying them may enter private property and pass through it, and are not liable for doing so. For greater certainty, no person has a right to object to that use of the property and no warrant is required for the entry, unless the property is a dwelling-house.
+
+
+
+
+
+
+
+
+
+
+
+
+20.5 (1) Pour accéder au lieu visé au paragraphe 20.2(1), l’inspecteur et tout analyste l’accompagnant peuvent entrer dans une propriété privée et y passer, et ce, sans encourir de poursuites à cet égard; il est entendu que nul ne peut s’y opposer et qu’aucun mandat n’est requis, sauf s’il s’agit d’une maison d’habitation.
+
+
+
+
+Entrée dans une propriété privée
+
+
+
+
+
+
+
+
+
+
+Accompanying person
+
+
+
+
+(2) A person may, at the inspector’s request, accompany the inspector to assist them to gain entry to the place referred to in subsection 20.2(1) and is not liable for doing so.
+
+
+
+
+
+
+
+
+
+
+
+(2) À la demande de l’inspecteur, toute personne peut accompagner celui-ci en vue de l’aider à accéder au lieu, et ce, sans encourir de poursuites à cet égard.
+
+
+
+
+Personne accompagnant l’inspecteur
+
+
+
+
+
+
+
+
+
+
+Assistance
+
+
+
+
+
+20.6 The owner or person in charge of the place and every person in the place shall give all assistance that is reasonably required to enable the inspector to verify compliance with this Act and shall provide any documents, data or information that is reasonably required for that purpose.
+
+
+
+
+
+
+
+
+
+
+
+
+20.6 Le propriétaire ou le responsable du lieu, ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance qu’il peut valablement exiger pour lui permettre de vérifier le respect de la présente loi, et de lui fournir les documents, données et renseignements qu’il peut valablement exiger.
+
+
+
+
+Assistance
+
+
+
+
+
+
+
+
+
+
+Certificate
+
+
+
+
+
+20.7 The Minister shall provide every inspector and analyst with a certificate of designation and, on entering a place, they shall produce the certificate to the person in charge of the place on request.
+
+
+
+
+
+
+
+
+
+
+
+
+20.7 Le ministre remet à tout inspecteur et analyste un certificat attestant sa qualité, que celui-ci présente, sur demande, au responsable du lieu dans lequel il entre.
+
+
+
+
+Certificat
+
+
+
+
+
+
+
+
+
+
+Immunity
+
+
+
+
+
+20.8 An inspector and an analyst are not personally liable for anything they do or omit to do in good faith in carrying out their functions.
+
+
+
+
+
+
+
+
+
+
+
+
+20.8 L’inspecteur et l’analyste sont dégagés de toute responsabilité personnelle en ce qui concerne les faits — actes ou omissions — accomplis de bonne foi dans le cadre de leurs attributions.
+
+
+
+
+Immunité
+
+
+
+
+
+
+
+
+
+
+Production of documents and samples
+
+
+
+
+
+20.9 (1) The Minister may, for the purpose of verifying compliance with this Act, by registered letter or by a demand served personally, require any person, within any reasonable time and in any reasonable manner that may be stipulated in the letter or demand,
+
+
+
+
+
+
+
+
+
+
+
+
+(a) to produce at a place specified by the Minister any sample taken or any document; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) to conduct any tests or take any measurements or samples there.
+
+
+
+
+
+
+
+
+
+
+
+
+20.9 (1) Pour vérifier le respect de la présente loi, le ministre peut, par lettre recommandée ou signification à personne, demander à quiconque de prendre, selon les modalités — de temps et autres — raisonnables éventuellement indiquées, les mesures suivantes :
+
+
+
+
+Production de documents et d’échantillons
+
+
+
+
+
+
+a) produire, au lieu qu’il précise, tout document ou échantillon;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) y faire des essais, y effectuer des mesures ou y prendre des échantillons.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance
+
+
+
+
+(2) Any person who is required to do anything under subsection (1) shall, despite any law to the contrary, comply with the requirement.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le destinataire de la demande visée au paragraphe (1) est tenu de s’y conformer, indépendamment de toute règle de droit contraire.
+
+
+
+
+Obligation d’obtempérer
+
+
+
+
+
+
+
+
+
+
+2001, c. 40, s. 1
+
+
+
+
+7. The heading before section 21 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. L’intertitre précédant l’article 21 de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 40, art. 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations and Orders
+
+
+
+
+
+
+
+
+
+Règlements et décrets
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 40, s. 1
+
+
+
+
+8. (1) Paragraphs 21(1)(c) and (d) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. (1) Les alinéas 21(1)c) et d) de la même loi sont remplacés par ce qui suit :
+
+
+
+2001, ch. 40, art. 1
+
+
+
+
+
+
+
+
+
+
+
+
+(d) specifying exceptions to the application of subsections 11(1) and 12(1);
+
+
+
+
+
+
+
+
+
+
+d) prévoir les cas d’exception à l’application des paragraphes 11(1) et 12(1);
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 40, s. 1
+
+
+
+(2) Subsection 21(1) of the Act is amended by adding “and” at the end of paragraph (k) and by repealing paragraph (l).
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 21(1)l) de la même loi est abrogé.
+
+
+
+2001, ch. 40 art. 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. The Act is amended by adding the following after section 21:
+
+
+
+
+
+
+
+
+
+
+9. La même loi est modifiée par adjonction, après l’article 21, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Order — Schedule 3
+
+
+
+
+
+21.01 (1) The Governor in Council may, by order, on the Minister’s recommendation, amend Schedule 3 by adding, deleting or amending the name of any transboundary waters.
+
+
+
+
+
+
+
+
+
+
+
+
+21.01 (1) Sur recommandation du ministre, le gouverneur en conseil peut, par décret, modifier l’annexe 3 par adjonction, modification ou suppression du nom d’eaux transfrontalières.
+
+
+
+
+Décrets — annexe 3
+
+
+
+
+
+
+
+
+
+
+Consultation
+
+
+
+
+(2) Before recommending that Schedule 3 be amended, the Minister is to consult with the appropriate Minister of the province where the transboundary waters are located.
+
+
+
+
+
+
+
+
+
+
+
+(2) Avant de recommander la prise d’un décret modifiant l’annexe 3, le ministre consulte le ministre compétent de la province où se trouvent les eaux transfrontalières en cause.
+
+
+
+
+Consultation
+
+
+
+
+
+
+
+
+
+
+2001, c. 40, s. 1
+
+
+
+
+10. The heading before section 22 and sections 22 to 26 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. L’intertitre précédant l’article 22 et les articles 22 à 26 de la même loi sont remplacés par ce qui suit :
+
+
+
+2001, ch. 40, art. 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obstruction and False Information
+
+
+
+
+
+
+
+
+
+
+
+Entrave et renseignements faux ou trompeurs
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obstruction
+
+
+
+
+
+22. Obstructing a person designated under section 20.1 or hindering them in carrying out their functions under this Act is prohibited.
+
+
+
+
+
+
+
+
+
+
+
+
+22. Il est interdit d’entraver l’action de la personne désignée en vertu de l’article 20.1 dans l’exercice des fonctions que lui confère la présente loi.
+
+
+
+
+Entrave
+
+
+
+
+
+
+
+
+
+
+Knowingly providing false or misleading information, etc.
+
+
+
+
+
+23. (1) It is prohibited to, with respect to any matter related to this Act, knowingly
+
+
+
+
+
+
+
+
+
+
+
+
+(a) provide any person with false or misleading information, results or samples; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) file a document that contains false or misleading information.
+
+
+
+
+
+
+
+
+
+
+
+
+23. (1) Il est interdit, relativement à toute question visée par la présente loi :
+
+
+
+
+Renseignements communiqués sciemment
+
+
+
+
+
+
+a) de communiquer sciemment des renseignements, échantillons ou résultats faux ou trompeurs;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) de produire sciemment des documents comportant des renseignements faux ou trompeurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Negligently providing false or misleading information, etc.
+
+
+
+
+(2) It is prohibited to, with respect to any matter related to this Act, negligently
+
+
+
+
+
+
+
+
+
+
+
+
+(a) provide any person with false or misleading information, results or samples; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) file a document that contains false or misleading information.
+
+
+
+
+
+
+
+
+
+
+
+(2) Il est interdit, relativement à toute question visée par la présente loi :
+
+
+
+
+Renseignements communiqués par négligence
+
+
+
+
+
+
+a) de communiquer par négligence des renseignements, échantillons ou résultats faux ou trompeurs;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) de produire par négligence des documents comportant des renseignements faux ou trompeurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offences and Punishment
+
+
+
+
+
+
+
+
+
+
+
+Infractions et peines
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offence
+
+
+
+
+
+24. (1) Every person commits an offence who contravenes
+
+
+
+
+
+
+
+
+
+
+
+
+(a) subsection 11(1), 12(1) or 13(1) or (2) or section 22;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) an order made by the Minister under section 19;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) subsection 23(1); or
+
+
+
+
+
+
+
+
+
+
+
+
+(d) an order made by a court under this Act.
+
+
+
+
+
+
+
+
+
+
+
+
+24. (1) Commet une infraction quiconque contrevient :
+
+
+
+
+Infraction
+
+
+
+
+
+
+a) aux paragraphes 11(1), 12(1) ou 13(1) ou (2) ou à l’article 22;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) à tout ordre du ministre donné en vertu de l’article 19;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) au paragraphe 23(1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) à toute ordonnance judiciaire rendue en vertu de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Penalty — individuals
+
+
+
+
+(2) Every individual who commits an offence under subsection (1) is liable
+
+
+
+
+
+
+
+
+
+
+
+
+(a) on conviction on indictment
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not less than $15,000 and not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not less than $30,000 and not more than $2,000,000 or to imprisonment for a term of not more than five years, or to both; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) on summary conviction
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not less than $5,000 and not more than $300,000 or to imprisonment for a term of not more than six months, or to both, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not less than $10,000 and not more than $600,000 or to imprisonment for a term of not more than six months, or to both.
+
+
+
+
+
+
+
+
+
+
+
+(2) La personne physique qui commet une infraction prévue au paragraphe (1) est passible :
+
+
+
+
+Peine — personnes physiques
+
+
+
+
+
+
+a) sur déclaration de culpabilité par mise en accusation :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende d’au moins 15 000 $ et d’au plus 1 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende d’au moins 30 000 $ et d’au plus 2 000 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) sur déclaration de culpabilité par procédure sommaire :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende d’au moins 5 000 $ et d’au plus 300 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende d’au moins 10 000 $ et d’au plus 600 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Penalty — other persons
+
+
+
+
+(3) Every person, other than an individual or a corporation referred to in subsection (4), who commits an offence under subsection (1) is liable
+
+
+
+
+
+
+
+
+
+
+
+
+(a) on conviction on indictment
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not less than $500,000 and not more than $6,000,000, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not less than $1,000,000 and not more than $12,000,000; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) on summary conviction
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not less than $100,000 and not more than $4,000,000, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not less than $200,000 and not more than $8,000,000.
+
+
+
+
+
+
+
+
+
+
+
+(3) La personne, à l’exception d’une personne physique et de la personne morale visée au paragraphe (4), qui commet une infraction prévue au paragraphe (1) est passible :
+
+
+
+
+Peine — autres personnes
+
+
+
+
+
+
+a) sur déclaration de culpabilité par mise en accusation :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende d’au moins 500 000 $ et d’au plus 6 000 000 $,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende d’au moins 1 000 000 $ et d’au plus 12 000 000 $;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) sur déclaration de culpabilité par procédure sommaire :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende d’au moins 100 000 $ et d’au plus 4 000 000 $,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende d’au moins 200 000 $ et d’au plus 8 000 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Penalty — small revenue corporations
+
+
+
+
+(4) Every corporation that commits an offence under subsection (1) and that the court determines under section 29 to be a small revenue corporation is liable
+
+
+
+
+
+
+
+
+
+
+
+
+(a) on conviction on indictment
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not less than $75,000 and not more than $4,000,000, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not less than $150,000 and not more than $8,000,000; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) on summary conviction
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not less than $25,000 and not more than $2,000,000, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not less than $50,000 and not more than $4,000,000.
+
+
+
+
+
+
+
+
+
+
+
+(4) La personne morale qui commet une infraction prévue au paragraphe (1) et que le tribunal déclare personne morale à revenus modestes en vertu de l’article 29 est passible :
+
+
+
+
+Peine — personnes morales à revenus modestes
+
+
+
+
+
+
+a) sur déclaration de culpabilité par mise en accusation :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende d’au moins 75 000 $ et d’au plus 4 000 000 $,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende d’au moins 150 000 $ et d’au plus 8 000 000 $;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) sur déclaration de culpabilité par procédure sommaire :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende d’au moins 25 000 $ et d’au plus 2 000 000 $,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende d’au moins 50 000 $ et d’au plus 4 000 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offence
+
+
+
+
+
+25. (1) Every person commits an offence who contravenes any provision of the Act or the regulations, other than a provision the contravention of which is an offence under subsection 24(1).
+
+
+
+
+
+
+
+
+
+
+
+
+25. (1) Commet une infraction quiconque contrevient à toute disposition de la présente loi ou des règlements, sauf une disposition dont la contravention constitue une infraction aux termes du paragraphe 24(1).
+
+
+
+
+Infraction
+
+
+
+
+
+
+
+
+
+
+Penalty — individuals
+
+
+
+
+(2) Every individual who commits an offence under subsection (1) is liable
+
+
+
+
+
+
+
+
+
+
+
+
+(a) on conviction on indictment
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not more than $100,000, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not more than $200,000; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) on summary conviction
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not more than $25,000, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not more than $50,000.
+
+
+
+
+
+
+
+
+
+
+
+(2) La personne physique qui commet une infraction prévue au paragraphe (1) est passible :
+
+
+
+
+Peine — personnes physiques
+
+
+
+
+
+
+a) sur déclaration de culpabilité par mise en accusation :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende maximale de 100 000 $,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende maximale de 200 000 $;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) sur déclaration de culpabilité par procédure sommaire :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende maximale de 25 000 $,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende maximale de 50 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Penalty — other persons
+
+
+
+
+(3) Every person, other than an individual or a corporation referred to in subsection (4), that commits an offence under subsection (1) is liable
+
+
+
+
+
+
+
+
+
+
+
+
+(a) on conviction on indictment
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not more than $500,000, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not more than $1,000,000; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) on summary conviction
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not more than $250,000, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not more than $500,000.
+
+
+
+
+
+
+
+
+
+
+
+(3) La personne, à l’exception d’une personne physique et de la personne morale visée au paragraphe (4), qui commet une infraction prévue au paragraphe (1) est passible :
+
+
+
+
+Peine — autres personnes
+
+
+
+
+
+
+a) sur déclaration de culpabilité par mise en accusation :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende maximale de 500 000 $,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende maximale de 1 000 000 $;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) sur déclaration de culpabilité par procédure sommaire :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende maximale de 250 000 $,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende maximale de 500 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Penalty — small revenue corporations
+
+
+
+
+(4) Every corporation that commits an offence under subsection (1) and that the court determines under section 29 to be a small revenue corporation is liable
+
+
+
+
+
+
+
+
+
+
+
+
+(a) on conviction on indictment
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not more than $250,000, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not more than $500,000; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) on summary conviction
+
+
+
+
+
+
+
+
+
+
+
+
+(i) for a first offence, to a fine of not more than $50,000, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) for a second or subsequent offence, to a fine of not more than $100,000.
+
+
+
+
+
+
+
+
+
+
+
+(4) La personne morale qui commet une infraction prévue au paragraphe (1) et que le tribunal déclare personne morale à revenus modestes en vertu de l’article 29 est passible :
+
+
+
+
+Peine — personnes morales à revenus modestes
+
+
+
+
+
+
+a) sur déclaration de culpabilité par mise en accusation :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende maximale de 250 000 $,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende maximale de 500 000 $;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) sur déclaration de culpabilité par procédure sommaire :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) pour une première infraction, d’une amende maximale de 50 000 $,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) en cas de récidive, d’une amende maximale de 100 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26. A person is not to be convicted of an offence under paragraph 24(1)(a), (b) or (d) or subsection 25(1) if they establish that they exercised due diligence to prevent the commission of the offence.
+
+
+
+
+
+
+
+
+
+
+
+
+26. Nul ne peut être déclaré coupable d’une infraction prévue aux alinéas 24(1)a), b) ou d) ou au paragraphe 25(1) s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Continuing offence
+
+
+
+
+
+27. If an offence under this Act is committed or continued on more than one day, it constitutes a separate offence for each day on which it is committed or continued.
+
+
+
+
+
+
+
+
+
+
+
+
+27. Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction.
+
+
+
+
+Infraction continue
+
+
+
+
+
+
+
+
+
+
+Deeming — second and subsequent offence
+
+
+
+
+
+28. (1) For the purposes of sections 24 and 25, a conviction for a particular offence under this Act is deemed to be a conviction for a second or subsequent offence if the court is satisfied that the offender has been previously convicted — under any Act of Parliament, or any Act of the legislature of a province, that relates to water resource management — of a substantially similar offence.
+
+
+
+
+
+
+
+
+
+
+
+
+28. (1) Pour l’application des articles 24 et 25, il y a récidive si le tribunal est convaincu que le contrevenant a déjà été déclaré coupable, sous le régime de toute loi fédérale ou provinciale visant la gestion des ressources en eau, d’une infraction essentiellement semblable.
+
+
+
+
+Présomption — récidive
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+
+(2) Subsection (1) applies only to previous convictions on indictment and to previous convictions on summary conviction, and to previous convictions under any similar procedure under any Act of the legislature of a province.
+
+
+
+
+
+
+
+
+
+
+
+(2) Les infractions pour lesquelles le contrevenant a déjà été déclaré coupable doivent être des infractions qui ont été poursuivies par mise en accusation, par procédure sommaire ou par toute autre procédure semblable établie sous le régime d’une loi provinciale.
+
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Determination of small revenue corporation status
+
+
+
+
+
+29. For the purposes of sections 24 and 25, a court may determine a corporation to be a small revenue corporation if the court is satisfied that the corporation’s gross revenues for the 12 months immediately before the day on which the subject matter of the proceedings arose — or, if it arose on more than one day, for the 12 months immediately before the first day on which the subject matter of the proceedings arose — were not more than $5,000,000.
+
+
+
+
+
+
+
+
+
+
+
+
+29. Pour l’application des articles 24 et 25, le tribunal peut déclarer qu’une personne morale est une personne morale à revenus modestes s’il est convaincu que ses revenus bruts, dans la période d’un an précédant immédiatement la date de l’infraction — ou si celle-ci a été commise sur plus d’un jour, dans la période d’un an précédant immédiatement le premier jour où elle a été commise —, n’excédaient pas 5 000 000 $.
+
+
+
+
+Déclaration : personne morale à revenus modestes
+
+
+
+
+
+
+
+
+
+
+Relief from minimum fine
+
+
+
+
+
+30. The court may impose a fine that is less than the minimum amount provided for in any of subsections 24(2) to (4) if it is satisfied, on the basis of evidence submitted to the court, that the minimum fine would cause undue financial hardship. The court shall provide reasons if it imposes a fine that is less than the minimum amount provided for in the subsection.
+
+
+
+
+
+
+
+
+
+
+
+
+30. Le tribunal peut imposer une amende inférieure à l’amende minimale prévue aux paragraphes 24(2) à (4) s’il est convaincu, sur le fondement de la preuve présentée, que l’amende minimale constituerait un fardeau financier excessif pour le contrevenant; le cas échéant, il motive sa décision.
+
+
+
+
+Allègement de l’amende minimale
+
+
+
+
+
+
+
+
+
+
+Additional fine
+
+
+
+
+
+31. If a person is convicted of an offence under this Act and the court is satisfied that, as a result of the commission of the offence, the person acquired any property, benefit or advantage, the court shall order the person to pay an additional fine in an amount equal to the court’s estimation of the value of that property, benefit or advantage. The additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
+
+
+
+
+
+
+
+
+
+
+
+
+31. Le tribunal saisi d’une poursuite pour infraction à la présente loi, s’il est convaincu que la personne déclarée coupable a acquis des biens par suite de la perpétration de l’infraction ou en a tiré des avantages, lui inflige une amende supplémentaire correspondant à son évaluation de ces biens ou avantages. Le montant de l’amende supplémentaire peut être supérieur à celui de toute autre amende pouvant être imposée en vertu de la présente loi.
+
+
+
+
+Amende supplémentaire
+
+
+
+
+
+
+
+
+
+
+Notice to shareholders
+
+
+
+
+
+32. If a corporation that has shareholders has been convicted of an offence under this Act, the court shall make an order directing the corporation to notify its shareholders, in the manner and within the time directed by the court, of the facts relating to the commission of the offence and of the details of the punishment imposed.
+
+
+
+
+
+
+
+
+
+
+
+
+32. En cas de déclaration de culpabilité au titre de la présente loi d’une personne morale ayant des actionnaires, le tribunal lui ordonne d’aviser ceux-ci, de la façon et dans les délais qu’il précise, des faits liés à la perpétration de l’infraction en cause et des détails de la peine imposée.
+
+
+
+
+Avis aux actionnaires
+
+
+
+
+
+
+
+
+
+
+Liability of directors, officers, etc., of corporation
+
+
+
+
+
+33. If a corporation commits an offence under this Act, any director, officer, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the penalty provided for by this Act for an individual in respect of the offence committed by the corporation, whether or not the corporation has been prosecuted or convicted.
+
+
+
+
+
+
+
+
+
+
+
+
+33. En cas de perpétration d’une infraction à la présente loi par une personne morale, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent la peine prévue pour une personne physique, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+
+
+
+Responsabilité pénale : dirigeants, administrateurs et mandataires
+
+
+
+
+
+
+
+
+
+
+Offences by employees, agents or mandataries
+
+
+
+
+
+34. In any prosecution for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by the accused’s employee acting within the scope of their employment or the accused’s agent or mandatary acting within the scope of their authority, whether or not the employee, agent or mandatary is identified or has been prosecuted for the offence, unless the accused establishes that the accused exercised due diligence to prevent the commission of the offence.
+
+
+
+
+
+
+
+
+
+
+
+
+34. Dans les poursuites pour infraction à la présente loi, il suffit, pour établir la responsabilité pénale de l’accusé, d’établir que l’infraction a été commise par son employé ou son mandataire dans le cadre de son emploi ou mandat, que celui-ci ait été ou non identifié ou poursuivi. L’accusé peut se disculper en prouvant qu’il avait pris les précautions voulues pour prévenir la perpétration de l’infraction.
+
+
+
+
+Employés ou mandataires
+
+
+
+
+
+
+
+
+
+
+Fundamental purpose of sentencing
+
+
+
+
+
+35. The fundamental purpose of sentencing for offences under this Act is to contribute to respect for this Act through the imposition of just sanctions that have as their objectives
+
+
+
+
+
+
+
+
+
+
+
+
+(a) to deter the offender and other persons from committing offences under this Act;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) to denounce unlawful conduct that causes damage or risk of damage to water resources; and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) to restore the environment harmed by the offence.
+
+
+
+
+
+
+
+
+
+
+
+
+35. La détermination des peines relatives aux infractions à la présente loi a pour objectif premier de contribuer au respect de celle-ci. Cet objectif est atteint par l’imposition de sanctions justes visant ce qui suit :
+
+
+
+
+Objectif premier de la détermination de la peine
+
+
+
+
+
+
+a) dissuader le contrevenant et toute autre personne de commettre des infractions à la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) dénoncer les comportements qui causent des dommages ou des risques de dommages aux ressources en eau;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) rétablir l’environnement endommagé par l’infraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sentencing principles
+
+
+
+
+
+36. (1) In addition to the principles and factors that the court is otherwise required to consider, including those set out in sections 718.1 to 718.21 of the Criminal Code, the court shall consider the following principles when sentencing a person who is convicted of an offence under this Act:
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the amount of the fine should be increased to account for every aggravating factor associated with the offence, including the aggravating factors set out in subsection (2); and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the amount of the fine should reflect the gravity of each aggravating factor associated with the offence.
+
+
+
+
+
+
+
+
+
+
+
+
+36. (1) Pour la détermination de la peine à infliger au contrevenant, le tribunal, en sus des principes et facteurs qu’il est par ailleurs tenu de prendre en considération — y compris ceux énoncés aux articles 718.1 à 718.21 du Code criminel —, tient compte des principes suivants :
+
+
+
+
+Détermination de la peine — principes
+
+
+
+
+
+
+a) le montant de l’amende devrait être majoré en fonction des circonstances aggravantes de l’infraction, notamment celles énoncées au paragraphe (2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) le montant de l’amende devrait refléter la gravité de chacune des circonstances aggravantes de l’infraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aggravating factors
+
+
+
+
+(2) The aggravating factors are the following:
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the offence caused damage or risk of damage to the environment;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the offence caused damage or risk of damage to any unique, particularly important or vulnerable environment;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the damage caused by the offence is extensive, persistent or irreparable;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) other than in the case of a contravention of subsection 23(1), the offender committed the offence intentionally or recklessly;
+
+
+
+
+
+
+
+
+
+
+
+
+(e) the offender failed to take reasonable steps to prevent the commission of the offence despite having the financial means to do so;
+
+
+
+
+
+
+
+
+
+
+
+
+(f) by committing the offence or failing to take action to prevent its commission, the offender increased revenue or decreased costs or intended to increase revenue or decrease costs;
+
+
+
+
+
+
+
+
+
+
+
+
+(g) the offender committed the offence despite having been warned in writing by an inspector of the circumstances that subsequently became the subject of the offence;
+
+
+
+
+
+
+
+
+
+
+
+
+(h) the offender has a history of non-compliance with federal or provincial legislation that relates to water resource management; and
+
+
+
+
+
+
+
+
+
+
+
+
+(i) after the commission of the offence, the offender
+
+
+
+
+
+
+
+
+
+
+
+
+(i) attempted to conceal its commission,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) failed to take prompt action to prevent, mitigate or remediate its effects, or
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) failed to take prompt action to reduce the risk of committing similar offences in the future.
+
+
+
+
+
+
+
+
+
+
+
+(2) Les circonstances aggravantes visées au paragraphe (2) sont les suivantes :
+
+
+
+
+Détermination de la peine — circonstances aggravantes
+
+
+
+
+
+
+a) l’infraction a causé un dommage ou un risque de dommage à l’environnement;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) l’infraction a causé un dommage ou un risque de dommage aux ressources uniques, particulièrement importantes ou vulnérables de l’environnement;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) l’infraction a causé un dommage considérable, persistant ou irréparable;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) sauf le cas visé au paragraphe 23(1), le contrevenant a agi de façon intentionnelle ou insouciante;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) le contrevenant a omis de prendre des mesures raisonnables pour prévenir la perpétration de l’infraction malgré sa capacité financière de le faire;
+
+
+
+
+
+
+
+
+
+
+
+
+
+f) le contrevenant, en commettant l’infraction ou en omettant de prendre des mesures pour prévenir sa perpétration, a accru ses revenus ou a réduit ses dépenses, ou avait l’intention de le faire;
+
+
+
+
+
+
+
+
+
+
+
+
+
+g) le contrevenant a commis l’infraction bien qu’il ait reçu de l’inspecteur un avertissement l’informant de la situation ayant par la suite donné lieu à l’infraction;
+
+
+
+
+
+
+
+
+
+
+
+
+
+h) le contrevenant a dans le passé accompli des actes contraires aux lois fédérales ou provinciales visant la gestion des ressources en eau;
+
+
+
+
+
+
+
+
+
+
+
+
+
+i) le contrevenant, après avoir commis l’infraction :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) a tenté de dissimuler sa perpétration,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) a omis de prendre rapidement des mesures afin d’empêcher ou d’atténuer les conséquences de l’infraction, ou encore d’y remédier,
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) a omis de prendre rapidement des mesures pour réduire le risque de commettre des infractions semblables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Absence of aggravating factor
+
+
+
+
+(3) The absence of an aggravating factor set out in subsection (2) is not a mitigating factor.
+
+
+
+
+
+
+
+
+
+
+
+(3) L’absence de circonstances aggravantes énoncées au paragraphe (2) n’est pas une circonstance atténuante.
+
+
+
+
+Absence de circonstances aggravantes
+
+
+
+
+
+
+
+
+
+
+Meaning of “damage”
+
+
+
+
+(4) For the purposes of paragraphs (2)(a) to (c), “damage” includes loss of use value and non-use value.
+
+
+
+
+
+
+
+
+
+
+
+(4) Pour l’application des alinéas (2)a) à c), le dommage comprend la perte des valeurs d’usage et de non-usage.
+
+
+
+
+Sens de « dommage »
+
+
+
+
+
+
+
+
+
+
+Reasons
+
+
+
+
+(5) If the court is satisfied of the existence of one or more of the aggravating factors set out in subsection (2) but decides not to increase the amount of the fine because of the factor, the court shall give reasons for that decision.
+
+
+
+
+
+
+
+
+
+
+
+(5) Si le tribunal décide de ne pas majorer le montant de l’amende bien qu’il soit convaincu de l’existence d’une ou de plusieurs des circonstances aggravantes mentionnées au paragraphe (2), il motive sa décision.
+
+
+
+
+Motifs
+
+
+
+
+
+
+
+
+
+
+Orders of court
+
+
+
+
+
+37. (1) If a person is convicted of an offence under this Act, in addition to any punishment imposed, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, make an order containing one or more of the following prohibitions, directions or requirements:
+
+
+
+
+
+
+
+
+
+
+
+
+(a) prohibiting the person from doing any act or engaging in any activity that may, in the opinion of the court, result in the continuation or repetition of the offence;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) directing the person to take any action that the court considers appropriate to remedy or avoid any damage to the environment that resulted or may result from the commission of the offence;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) directing the person to post a bond, provide surety or pay into court an amount of money that the court considers appropriate for the purpose of ensuring compliance with any prohibition, direction or requirement mentioned in this subsection;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) directing the person to carry out environmental effects monitoring in the manner established by the Minister or directing the person to pay, in the manner specified by the court, an amount for the purposes of environmental effects monitoring;
+
+
+
+
+
+
+
+
+
+
+
+
+(e) directing the person to implement an environmental management system that meets a recognized Canadian or international standard specified by the court;
+
+
+
+
+
+
+
+
+
+
+
+
+(f) directing the person to pay to Her Majesty in right of Canada an amount of money that the court considers appropriate for the purpose of promoting sustainable water resource management;
+
+
+
+
+
+
+
+
+
+
+
+
+(g) directing the person to publish, in the manner specified by the court, the facts relating to the commission of the offence and the details of the punishment imposed, including any orders made under this subsection;
+
+
+
+
+
+
+
+
+
+
+
+
+(h) directing the person to notify, at the person’s own cost and in the manner specified by the court, any person aggrieved or affected by the person’s conduct of the facts relating to the commission of the offence and of the details of the punishment imposed, including any orders made under this subsection;
+
+
+
+
+
+
+
+
+
+
+
+
+(i) directing the person to submit to the Minister, when requested to do so by the Minister at any time within three years after the date of conviction, any information with respect to the person’s activities that the court considers appropriate in the circumstances;
+
+
+
+
+
+
+
+
+
+
+
+
+(j) directing the person to compensate any person, monetarily or otherwise, in whole or in part, for the cost of any remedial or preventive action taken, caused to be taken or to be taken as a result of the act or omission that constituted the offence, including costs of assessing appropriate remedial or preventive action;
+
+
+
+
+
+
+
+
+
+
+
+
+(k) directing the person to perform community service, subject to any reasonable conditions that may be imposed in the order;
+
+
+
+
+
+
+
+
+
+
+
+
+(l) requiring the person to surrender to the Minister any licence issued under this Act to the person;
+
+
+
+
+
+
+
+
+
+
+
+
+(m) prohibiting the person from applying for any new licence under this Act during any period that the court considers appropriate; and
+
+
+
+
+
+
+
+
+
+
+
+
+(n) requiring the person to comply with any other conditions that the court considers appropriate for securing the person’s good conduct and for deterring the person and any other person from committing offences under this Act.
+
+
+
+
+
+
+
+
+
+
+
+
+37. (1) En plus de toute peine infligée et compte tenu de la nature de l’infraction ainsi que des circonstances de sa perpétration, le tribunal peut rendre une ordonnance imposant à la personne déclarée coupable tout ou partie des obligations suivantes :
+
+
+
+
+Ordonnance du tribunal
+
+
+
+
+
+
+a) s’abstenir de tout acte ou toute activité risquant d’entraîner, de l’avis du tribunal, la continuation de l’infraction ou la récidive;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) prendre les mesures que le tribunal estime indiquées pour réparer ou éviter tout dommage à l’environnement résultant ou pouvant résulter de la perpétration de l’infraction;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) en garantie de l’exécution des obligations imposées au titre du présent paragraphe, fournir le cautionnement ou déposer auprès du tribunal la somme que celui-ci estime indiquée;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) mener des études de suivi des effets sur l’environnement, de la façon que le ministre indique, ou verser, selon les modalités prescrites par le tribunal, une somme d’argent destinée à permettre ces études;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) mettre en place un système de gestion de l’environnement répondant à une norme canadienne ou internationale reconnue que le tribunal précise;
+
+
+
+
+
+
+
+
+
+
+
+
+
+f) verser à Sa Majesté du chef du Canada, en vue de promouvoir la gestion durable des ressources en eau, la somme que le tribunal estime indiquée;
+
+
+
+
+
+
+
+
+
+
+
+
+
+g) publier, de la façon que le tribunal précise, les faits liés à la perpétration de l’infraction et les détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
+
+
+
+
+
+
+
+
+
+
+
+
+
+h) aviser les personnes touchées ou lésées par sa conduite, à ses frais et de la façon que le tribunal précise, des faits liés à la perpétration de l’infraction et des détails de la peine imposée, y compris des ordonnances rendues en vertu du présent paragraphe;
+
+
+
+
+
+
+
+
+
+
+
+
+
+i) fournir au ministre, sur demande présentée par celui-ci dans les trois ans suivant sa déclaration de culpabilité, les renseignements relatifs à ses activités que le tribunal estime indiqués en l’occurrence;
+
+
+
+
+
+
+
+
+
+
+
+
+
+j) indemniser toute personne, de façon monétaire ou autrement, en tout ou en partie, des frais exposés par elle pour toute mesure prise ou à prendre pour la réparation ou la prévention du dommage résultant — ou pouvant résulter — des faits qui ont mené à la déclaration de culpabilité, y compris des frais occasionnés pour l’évaluation des mesures de réparation ou de prévention pertinentes;
+
+
+
+
+
+
+
+
+
+
+
+
+
+k) exécuter des travaux d’intérêt collectif à des conditions raisonnables;
+
+
+
+
+
+
+
+
+
+
+
+
+
+l) remettre au ministre les licences qui lui ont été délivrées sous le régime de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+
+
+m) s’abstenir de présenter une nouvelle demande de licence sous le régime de la présente loi pendant la période que le tribunal estime indiquée;
+
+
+
+
+
+
+
+
+
+
+
+
+
+n) se conformer aux autres conditions que le tribunal estime indiquées pour assurer sa bonne conduite et la dissuader, ainsi que toute autre personne, de commettre des infractions à la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+
+
+(2) If a person fails to comply with an order made under paragraph (1)(g), the Minister may, in the manner that the court directed the person to do so, publish the facts relating to the commission of the offence and the details of the punishment imposed and recover the costs of publication from the person.
+
+
+
+
+
+
+
+
+
+
+
+(2) En cas d’inexécution de l’obligation prévue à l’alinéa (1)g), le ministre peut procéder à la publication des faits liés à la perpétration de l’infraction et des détails de la peine imposée, de la façon précisée par le tribunal à la personne déclarée coupable, et en recouvrer les frais auprès de celle-ci.
+
+
+
+
+Publication
+
+
+
+
+
+
+
+
+
+
+Debt due to Her Majesty
+
+
+
+
+(3) If the court makes an order under paragraph (1)(f) or (j) directing a person to pay an amount to Her Majesty in right of Canada, or if the Minister incurs publication costs under subsection (2), the amount or the costs, as the case may be, constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
+
+
+
+
+
+
+
+
+
+
+
+(3) L’indemnité et la somme à verser à Sa Majesté du chef du Canada en application des alinéas (1)f) ou j), ainsi que les frais visés au paragraphe (2), constituent des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent.
+
+
+
+
+Créances de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+Enforcement
+
+
+
+
+(4) If the court makes an order under paragraph (1)(j) directing a person to compensate another person, other than Her Majesty in right of Canada, that other person may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the person who was directed to pay the amount in the same manner as if it were a judgment rendered against them in that court in civil proceedings.
+
+
+
+
+
+
+
+
+
+
+
+(4) Toute personne, à l’exception de Sa Majesté du chef du Canada, qui a droit à une indemnité en vertu de l’alinéa (1)j) peut, à défaut de paiement immédiat, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’indemnité en question; ce jugement peut être exécuté contre la personne déclarée coupable de la même manière que s’il s’agissait d’un jugement rendu contre elle par cette cour en matière civile.
+
+
+
+
+Exécution
+
+
+
+
+
+
+
+
+
+
+Cancellation or suspension of licences
+
+
+
+
+(5) If the court makes an order under paragraph (1)(l), any licence to which the order relates is cancelled unless the court makes an order suspending it for any period that the court considers appropriate.
+
+
+
+
+
+
+
+
+
+
+
+(5) Les licences remises en application de l’alinéa (1)l) sont annulées à moins que le tribunal ne les suspende pour la période qu’il estime indiquée.
+
+
+
+
+Annulation ou suspension du permis
+
+
+
+
+
+
+
+
+
+
+Coming into force and duration of order
+
+
+
+
+(6) An order made under subsection (1) comes into force on the day on which it is made or on any other day that the court may determine and does not continue in force for more than three years after that day unless the court provides otherwise in the order.
+
+
+
+
+
+
+
+
+
+
+
+(6) Toute ordonnance rendue en vertu du paragraphe (1) prend effet soit immédiatement, soit à la date fixée par le tribunal, et elle demeure en vigueur pendant une durée maximale de trois ans, à moins que le tribunal n’en ordonne autrement.
+
+
+
+
+Prise d’effet
+
+
+
+
+
+
+
+
+
+
+Compensation for loss of property
+
+
+
+
+
+38. (1) If a person has been convicted of an offence under this Act, the court may, at the time sentence is imposed and on the application of the person aggrieved, order the offender to pay to the aggrieved person an amount by way of satisfaction or compensation for loss of or damage to property suffered by that person as a result of the commission of the offence.
+
+
+
+
+
+
+
+
+
+
+
+
+38. (1) Le tribunal peut, lors du prononcé de la peine, ordonner à la personne déclarée coupable d’une infraction à la présente loi de verser à la personne lésée par sa conduite, sur demande de celle-ci, des dommages-intérêts pour la perte de biens ou les dommages causés à ceux-ci découlant de la perpétration de l’infraction.
+
+
+
+
+Dommages- intérêts
+
+
+
+
+
+
+
+
+
+
+Enforcement
+
+
+
+
+(2) If the amount ordered to be paid is not paid without delay, the aggrieved person may, by filing the order, enter as a judgment, in the superior court of the province in which the trial was held, the amount ordered to be paid, and that judgment is enforceable against the offend- er in the same manner as if it were a judgment rendered against the offender in that court in civil proceedings.
+
+
+
+
+
+
+
+
+
+
+
+(2) À défaut de paiement immédiat des dommages-intérêts, la personne lésée peut, par dépôt de l’ordonnance, faire enregistrer comme jugement, à la cour supérieure de la province où le procès a eu lieu, l’ordre de payer la somme en question; ce jugement peut être exécuté contre la personne déclarée coupable de la même manière que s’il s’agissait d’un jugement rendu contre elle par cette cour en matière civile.
+
+
+
+
+Exécution
+
+
+
+
+
+
+
+
+
+
+Limitation period
+
+
+
+
+
+39. No proceedings by way of summary conviction in respect of an offence under this Act may be instituted more than five years after the day on which the subject matter of the proceedings arose, unless the prosecutor and the defendant agree that they may be instituted after the five years.
+
+
+
+
+
+
+
+
+
+
+
+
+39. La poursuite visant une infraction à la présente loi punissable sur déclaration de culpabilité par procédure sommaire se prescrit par cinq ans à compter de sa perpétration, à moins que le poursuivant et le défendeur ne consentent à la prolongation de ce délai.
+
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Publication of information about contraventions
+
+
+
+
+
+40. (1) For the purpose of encouraging compliance with this Act and the regulations, the Minister shall maintain, in a registry accessible to the public, information about all convictions of corporations for offences under this Act.
+
+
+
+
+
+
+
+
+
+
+
+
+40. (1) Afin d’encourager le respect de la présente loi et des règlements, le ministre publie dans un registre accessible au public des renseignements concernant les déclarations de culpabilité des personnes morales pour infraction à la présente loi.
+
+
+
+
+Publication de renseignements sur les infractions
+
+
+
+
+
+
+
+
+
+
+Retention
+
+
+
+
+(2) Information in the registry is to be maintained for a minimum of five years.
+
+
+
+
+
+
+
+
+
+
+
+(2) Les renseignements sont conservés dans le registre pour une durée minimale de cinq ans.
+
+
+
+
+Rétention des renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Injunctions
+
+
+
+
+
+
+
+
+
+
+
+Injonction
+
+
+
+
+
+
+
+
+
+
+
+
+
+Injunctions
+
+
+
+
+
+41. (1) If, on the application of the Minister, it appears to a court of competent jurisdiction that a person has done or is about to do or is likely to do any act or thing constituting or directed toward the commission of an offence under this Act, the court may issue an injunction ordering any person named in the application
+
+
+
+
+
+
+
+
+
+
+
+
+(a) to refrain from doing any act or thing that it appears to the court may constitute or be directed toward the commission of the offence; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) to do any act or thing that it appears to the court may prevent the commission of the offence.
+
+
+
+
+
+
+
+
+
+
+
+
+41. (1) Si, sur demande présentée par le ministre, il conclut à l’existence, l’imminence ou la probabilité d’un fait constituant une infraction à la présente loi, ou tendant à sa perpétration, le tribunal compétent peut, par ordonnance, enjoindre à la personne nommée dans la demande :
+
+
+
+
+Injonction
+
+
+
+
+
+
+a) de s’abstenir de tout acte susceptible, selon lui, de constituer l’infraction ou de tendre à sa perpétration;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) d’accomplir tout acte susceptible, selon lui, d’empêcher la perpétration de l’infraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+
+(2) The party or parties named in the application are to be given 48 hours’ notice before the injunction is issued, unless the urgency of the situation is such that service of notice would not be in the public interest.
+
+
+
+
+
+
+
+
+
+
+
+(2) L’injonction est subordonnée à la signification d’un préavis d’au moins quarante-huit heures aux parties nommées dans la demande, sauf lorsque cela serait contraire à l’intérêt public en raison de l’urgence de la situation.
+
+
+
+
+Préavis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+
+
+
+
+
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+
+
+
+Review — sections 24 to 41
+
+
+
+
+
+42. (1) The Minister shall, 10 years after the day on which this section comes into force and every 10 years after that, undertake a review of sections 24 to 41.
+
+
+
+
+
+
+
+
+
+
+
+
+42. (1) Dix ans après l’entrée en vigueur du présent article, et tous les dix ans par la suite, le ministre procède à l’examen des articles 24 à 41.
+
+
+
+
+Examen — articles 24 à 41
+
+
+
+
+
+
+
+
+
+
+Report to Parliament
+
+
+
+
+(2) The Minister shall, no later than one year after the day on which the review is undertaken, cause a report on the review to be tabled in each House of Parliament.
+
+
+
+
+
+
+
+
+
+
+
+(2) Il fait déposer un rapport sur la question devant les deux chambres du Parlement dans l’année qui suit le début de l’examen.
+
+
+
+
+Rapport au Parlement
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. The schedule to the Act is renumbered as Schedule 1.
+
+
+
+
+
+
+
+
+
+
+11. L’annexe de la même loi devient l’annexe 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. The Act is amended by adding, after Schedule 1, the Schedules 2 and 3 set out in the schedule to this Act.
+
+
+
+
+
+
+
+
+
+
+12. La même loi est modifiée par adjonction, après l’annexe 1, des annexes 2 et 3 figurant à l’annexe de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. I-20
+
+
+
+CONSEQUENTIAL AMENDMENT TO THE INTERNATIONAL RIVER IMPROVEMENTS ACT
+
+
+
+
+
+
+
+
+
+MODIFICATION CORRÉLATIVE À LA LOI SUR LES OUVRAGES DESTINÉS À L’AMÉLIORATION DES COURS D’EAU INTERNATIONAUX
+
+
+
+L.R., ch. I-20
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. The portion of the definition “international river improvement” before paragraph (a) in section 2 of the International River Improvements Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. Le passage de la définition de « ouvrage destiné à l’amélioration d’un cours d’eau international » précédant l’alinéa a), à l’article 2 de la Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“international river improvement”« ouvrage destiné à l’amélioration d’un cours d’eau international »
+
+
+
+“international river improvement” means a dam, obstruction, canal, reservoir, pipeline or other work the purpose or effect of which is
+
+
+
+
+
+
+
+
+
+« ouvrage destiné à l’amélioration d’un cours d’eau international » Barrage, obstacle, canal, bassin de retenue, pipeline ou autre ouvrage dont l’objet ou l’effet consiste :
+
+
+
+« ouvrage destiné à l’amélioration d’un cours d’eau international »“international river improvement”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+14. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+14. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+International Boundary Waters Treaty Act
+
+Clause 2: Existing text of section 2:
+
+2. The treaty relating to the boundary waters and to questions arising along the boundary between Canada and the United States made between His Majesty, King Edward VII, and the United States, signed at Washington on January 11, 1909, and the protocol of May 5, 1910, in the schedule, are hereby confirmed and sanctioned.
+
+
+
+Loi du traité des eaux limitrophes internationales
+
+Article 2 : Texte de l’article 2 :
+
+2. Sont confirmés et sanctionnés le traité relatif aux eaux limitrophes et aux questions survenant le long de la frontière entre le Canada et les États-Unis, conclu entre Sa Majesté le Roi Édouard VII et les États-Unis et signé à Washington le 11 janvier 1909, ainsi que le protocole du 5 mai 1910, figurant tous deux à l’annexe.
+
+
+
+
+
+Clause 3: (1) Relevant portion of section 10:
+
+10. The definitions in this section apply in sections 11 to 26.
+
+
+
+
+Article 3 : (1) Texte du passage visé de l’article 10 :
+
+10. Les définitions qui suivent s’appliquent aux articles 11 à 26.
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+
+Clause 4: Existing text of section 13:
+
+13. (1) Despite section 11, no person shall use or divert boundary waters by removing water from the boundary waters and taking it outside the water basin in which the boundary waters are located.
+(2) For the purpose of subsection (1) and the application of the treaty, removing water from boundary waters and taking it outside the water basin in which the boundary waters are located is deemed, given the cumulative effect of removals of boundary waters outside their water basins, to affect the natural level or flow of the boundary waters on the other side of the international boundary.
+(3) Subsection (1) applies only in respect of the water basins described in the regulations.
+(4) Subsection (1) does not apply in respect of the exceptions specified in the regulations.
+
+
+
+
+Article 4 : Texte de l’article 13 :
+
+13. (1) Malgré l’article 11, nul ne peut utiliser ou dériver des eaux limitrophes d’un bassin hydrographique en les captant et en les transférant à l’extérieur du bassin.
+(2) Pour l’application du paragraphe (1) et du traité, le captage et le transfert d’eaux limitrophes à l’extérieur de leur bassin hydrographique sont réputés, étant donné l’effet cumulatif de ce type d’activité sur les eaux limitrophes, modifier le débit ou le niveau naturels de ces eaux de l’autre côté de la frontière internationale.
+(3) Le paragraphe (1) ne s’applique qu’aux bassins hydrographiques décrits par règlement.
+(4) Il ne s’applique pas dans les cas d’exception prévus par règlement.
+
+
+
+
+
+Clause 5: Relevant portion of subsection 19(1):
+
+19. (1) If a person contravenes subsection 11(1), 12(1) or 13(1), the Minister may
+
+
+
+
+Article 5 : Texte du passage visé du paragraphe 19(1) :
+
+19. (1) Dans les cas où une personne contrevient aux paragraphes 11(1), 12(1) ou 13(1), le ministre peut lui enjoindre :
+
+
+
+
+
+Clause 6: New.
+
+
+
+
+Article 6 : Nouveau.
+
+
+
+
+
+Clause 7: Existing text of the heading:
+Regulations
+
+
+
+
+Article 7 : Texte de l’intertitre :
+Règlements
+
+
+
+
+
+Clause 8: (1) and (2) Relevant portion of subsection 21(1):
+
+21. (1) The Governor in Council may, on the recommendation of the Minister, make regulations
+...  
+(c) describing the water basins to which section 13 applies;
+(d) specifying exceptions to the application of subsections 11(1), 12(1) and 13(1);
+...  
+(l) providing for inspections in respect of activities to which sections 11, 12 and 13 relate; and
+
+
+
+
+Article 8 : (1) et (2) Texte des passages visés du paragraphe 21(1) :
+
+21. (1) Le gouverneur en conseil, sur recommandation du ministre, peut par règlement :
+[...]  
+
+c) décrire les bassins hydrographiques pour l’application de l’article 13;
+
+d) prévoir les cas d’exception à l’application des paragraphes 11(1), 12(1) ou 13(1);
+[...]  
+
+l) prévoir un régime d’inspection en ce qui a trait aux activités visées aux articles 11, 12 et 13;
+
+
+
+
+
+Clause 9: New.
+
+
+
+
+Article 9 : Nouveau.
+
+
+
+
+
+Clause 10: Existing text of the heading and sections 22 to 26:
+Offences and Punishment
+
+22. (1) Every person who contravenes subsection 11(1), 12(1) or 13(1) is guilty of an offence and liable
+(a) on conviction on indictment, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than three years, or to both; or
+(b) on summary conviction, to a fine of not more than $300,000 or to imprisonment for a term of not more than six months, or to both.
+(2) A contravention of subsection 11(1), 12(1) or 13(1) that is committed or continued on more than one day is deemed to constitute a separate offence for each day on which the contravention is committed or continued.
+
+23. If a person is convicted of an offence of having contravened subsection 11(1), 12(1) or 13(1), the convicting court may, if satisfied that the person acquired monetary benefits or that monetary benefits accrued to the person as a result of committing the offence, order the person to pay an additional fine above the maximum amount of any fine that may otherwise be imposed under section 22, in an amount equal to the court’s finding of the amount of those monetary benefits.
+
+24. If a corporation commits an offence under this Act, an officer, director, agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted.
+
+25. In any prosecution for an offence under this Act, it is sufficient proof of the offence to establish that it was committed by an employee, agent or mandatary of the accused, whether or not the employee, agent or mandatary is identified or has been prosecuted for the offence, unless the accused establishes that the accused exercised all due diligence to prevent the commission of the offence.
+Injunctions
+
+26. (1) When, on the application of the Minister, it appears to a court of competent jurisdiction that a person has done or is about to do or is likely to do any act or thing constituting or directed toward the commission of an offence under this Act, the court may issue an injunction ordering any person named in the application
+(a) to refrain from doing any act or thing that it appears to the court may constitute or be directed toward the commission of the offence; or
+(b) to do any act or thing that it appears to the court may prevent the commission of the offence.
+(2) No injunction shall issue under subsection (1) unless 48 hours notice is given to the party or parties named in the application or the urgency of the situation is such that service of notice would not be in the public interest.
+
+
+
+
+Article 10 : Texte de l’intertitre et des articles 22 à 26 :
+Infractions et peines
+
+22. (1) Quiconque contrevient aux paragraphes 11(1), 12(1) ou 13(1) commet une infraction et encourt, sur déclaration de culpabilité :
+
+a) par mise en accusation, une amende maximale d’un million de dollars et un emprisonnement maximal de trois ans, ou l’une de ces peines;
+
+b) par procédure sommaire, une amende maximale de trois cent mille dollars et un emprisonnement maximal de six mois, ou l’une de ces peines.
+(2) Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue toute contravention aux paragraphes 11(1), 12(1) ou 13(1).
+
+23. Le tribunal saisi d’une poursuite pour contravention aux paragraphes 11(1), 12(1) ou 13(1) peut, s’il est convaincu que le contrevenant a tiré des avantages financiers de la perpétration de celle-ci, lui infliger, en plus de l’amende maximale qui peut être infligée en vertu de l’article 22, une amende supplémentaire d’un montant qu’il juge égal à ces avantages.
+
+24. En cas de perpétration par une personne morale d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie.
+
+25. Dans les poursuites pour infraction à la présente loi, il suffit, pour établir la responsabilité pénale de l’accusé, d’établir que l’infraction a été commise par son employé ou son mandataire, que celui-ci ait été ou non identifié ou poursuivi. L’accusé peut se disculper en prouvant qu’il avait pris les mesures nécessaires pour empêcher l’infraction.
+Injonction
+
+26. (1) Si, sur demande présentée par le ministre, il conclut à l’existence, l’imminence ou la probabilité d’un fait constituant une infraction à la présente loi, ou tendant à sa perpétration, le tribunal compétent peut, par ordonnance, enjoindre à la personne nommée dans la demande :
+
+a) de s’abstenir de tout acte susceptible, selon lui, de constituer l’infraction ou de tendre à sa perpétration;
+
+b) d’accomplir tout acte susceptible, selon lui, d’empêcher la perpétration de l’infraction.
+(2) L’injonction est subordonnée à la signification d’un préavis d’au moins quarante-huit heures aux parties nommées dans la demande, sauf lorsque cela serait contraire à l’intérêt public en raison de l’urgence de la situation.
+
+
+
+
+
+Clause 12: New.
+
+
+
+
+Article 12 : Nouveau.
+
+
+
+
+International River Improvements Act
+
+Clause 13: Relevant portion of the definition:
+“international river improvement” means a dam, obstruction, canal, reservoir or other work the purpose or effect of which is
+
+
+
+Loi sur les ouvrages destinés à l’amélioration des cours d’eau internationaux
+
+Article 13 : Texte du passage visé de la définition :
+« ouvrage destiné à l’amélioration d’un cours d’eau international » Barrage, obstacle, canal, bassin de retenue ou autre ouvrage dont l’objet ou effet consiste :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 
+
+
+
+
+
+ANNEXE 
+
+
+
+
+
+
+(Section 12)
+
+
+
+
+
+(article 12)
+
+
+
+
+
+
+SCHEDULE 2 
+
+
+
+
+
+ANNEXE 2 
+
+
+
+
+
+
+(Section 10)
+
+
+
+
+
+(article 10)
+
+
+
+
+
+
+WATER BASINS
+
+
+
+
+
+BASSINS HYDROGRAPHIQUES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arctic Ocean
+
+
+
+
+
+Baie d’Hudson
+
+
+
+
+
+
+
+Océan Arctique
+
+
+
+
+
+
+
+Hudson Bay
+
+
+
+
+
+
+
+Atlantic Ocean
+
+
+
+
+
+Golfe du Mexique
+
+
+
+
+
+
+
+Océan Atlantique
+
+
+
+
+
+
+
+Gulf of Mexico
+
+
+
+
+
+
+
+Gulf of Mexico
+
+
+
+
+
+Océan Arctique
+
+
+
+
+
+
+
+Golfe du Mexique
+
+
+
+
+
+
+
+Arctic Ocean
+
+
+
+
+
+
+
+Hudson Bay
+
+
+
+
+
+Océan Atlantique
+
+
+
+
+
+
+
+Baie d’Hudson
+
+
+
+
+
+
+
+Atlantic Ocean
+
+
+
+
+
+
+
+Pacific Ocean
+
+
+
+
+
+Océan Pacifique
+
+
+
+
+
+
+
+Océan Pacifique
+
+
+
+
+
+
+
+Pacific Ocean
+
+
+
+
+
+
+
+SCHEDULE 3 
+
+
+
+
+
+ANNEXE 3 
+
+
+
+
+
+
+(Sections 10 and 21.01)
+
+
+
+
+
+(articles 10 et 21.01)
+
+
+
+
+
+
+TRANSBOUNDARY WATERS
+
+
+
+
+
+EAUX TRANSFRONTALIÈRES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aroostook River
+
+
+
+
+
+Aroostook, Rivière
+
+
+
+
+
+
+
+Aroostook, Rivière
+
+
+
+
+
+
+
+Aroostook River
+
+
+
+
+
+
+
+Battle Creek
+
+
+
+
+
+Battle, Affluents est du ruisseau
+
+
+
+
+
+
+
+Battle, Ruisseau
+
+
+
+
+
+
+
+ Battle Creek, East tributaries of
+
+
+
+
+
+
+
+Battle Creek, East tributaries of
+
+
+
+
+
+Battle, Ruisseau
+
+
+
+
+
+
+
+Battle, Affluents est du ruisseau
+
+
+
+
+
+
+
+Battle Creek
+
+
+
+
+
+
+
+Bear River
+
+
+
+
+
+ Bear, Rivière 
+
+
+
+
+
+
+
+Bear, Rivière 
+
+
+
+
+
+
+
+Bear River
+
+
+
+
+
+
+
+Beaver Creek
+
+
+
+
+
+ Beaver, Ruisseau
+
+
+
+
+
+
+
+Beaver, Ruisseau
+
+
+
+
+
+
+
+Beaver Creek
+
+
+
+
+
+
+
+Belly River
+
+
+
+
+
+ Belly, Rivière
+
+
+
+
+
+
+
+Belly, Rivière 
+
+
+
+
+
+
+
+Belly River
+
+
+
+
+
+
+
+Bern Creek
+
+
+
+
+
+ Bern, Ruisseau
+
+
+
+
+
+
+
+Bern, Ruisseau 
+
+
+
+
+
+
+
+Bern Creek
+
+
+
+
+
+
+
+Big Black River
+
+
+
+
+
+Big Black, Rivière
+
+
+
+
+
+
+
+Big Black, Rivière
+
+
+
+
+
+
+
+Big Black River
+
+
+
+
+
+
+
+Big Muddy Creek
+
+
+
+
+
+Big Muddy, Ruisseau
+
+
+
+
+
+
+
+Big Muddy, Ruisseau
+
+
+
+
+
+
+
+Big Muddy Creek
+
+
+
+
+
+
+
+Big Sheep Creek
+
+
+
+
+
+Big Sheep, Ruisseau
+
+
+
+
+
+
+
+Big Sheep, Ruisseau
+
+
+
+
+
+
+
+Big Sheep Creek
+
+
+
+
+
+
+
+Big Sitdown Creek
+
+
+
+
+
+ Big Sitdown, Ruisseau
+
+
+
+
+
+
+
+Big Sitdown, Ruisseau
+
+
+
+
+
+
+
+Big Sitdown Creek
+
+
+
+
+
+
+
+Black River
+
+
+
+
+
+ Black, Rivière
+
+
+
+
+
+
+
+Black, Rivière 
+
+
+
+
+
+
+
+Black River
+
+
+
+
+
+
+
+Châteauguay River
+
+
+
+
+
+Champlain, Lac
+
+
+
+
+
+
+
+Châteauguay, Rivière 
+
+
+
+
+
+
+
+Lake Champlain
+
+
+
+
+
+
+
+Chilliwack River
+
+
+
+
+
+ Châteauguay, Rivière
+
+
+
+
+
+
+
+Chilliwack, Rivière 
+
+
+
+
+
+
+
+Châteauguay River
+
+
+
+
+
+
+
+Columbia River
+
+
+
+
+
+ Chilliwack, Rivière 
+
+
+
+
+
+
+
+Columbia, Fleuve 
+
+
+
+
+
+
+
+Chilliwack River
+
+
+
+
+
+
+
+Connecticut River, branches originating in Canada, such as Hall Stream
+
+
+
+
+
+Columbia, Fleuve
+
+
+
+
+
+
+
+Connecticut, Bras de la rivière (prenant leur source au Canada, tels que Hall Stream)
+
+
+
+
+
+
+
+Columbia River
+
+
+
+
+
+
+
+Cottonwood Coulee Creek
+
+
+
+
+
+Connecticut, Bras de la rivière (prenant leur source au Canada, tels que Hall Stream)
+
+
+
+
+
+
+
+Cottonwood Coulee, Ruisseau
+
+
+
+
+
+
+
+Connecticut River, branches originating in Canada, such as Hall Stream
+
+
+
+
+
+
+
+Daaquam River
+
+
+
+
+
+ Cottonwood Coulee, Ruisseau
+
+
+
+
+
+
+
+Daaquam, Rivière 
+
+
+
+
+
+
+
+Cottonwood Coulee Creek
+
+
+
+
+
+
+
+Eagle Creek
+
+
+
+
+
+ Daaquam, Rivière
+
+
+
+
+
+
+
+Eagle, Ruisseau
+
+
+
+
+
+
+
+Daaquam River
+
+
+
+
+
+
+
+Firth River
+
+
+
+
+
+ Eagle, Ruisseau
+
+
+
+
+
+
+
+Firth, Rivière 
+
+
+
+
+
+
+
+Eagle Creek
+
+
+
+
+
+
+
+Flathead River
+
+
+
+
+
+ Firth, Rivière 
+
+
+
+
+
+
+
+Flathead, Rivière 
+
+
+
+
+
+
+
+Firth River
+
+
+
+
+
+
+
+Fortymile River
+
+
+
+
+
+Flathead, Rivière
+
+
+
+
+
+
+
+Fortymile, Rivière 
+
+
+
+
+
+
+
+Flathead River
+
+
+
+
+
+
+
+Frenchman River
+
+
+
+
+
+ Fortymile, Rivière
+
+
+
+
+
+
+
+Frenchman, Rivière 
+
+
+
+
+
+
+
+Fortymile River
+
+
+
+
+
+
+
+Kahtate River
+
+
+
+
+
+ Frenchman, Rivière
+
+
+
+
+
+
+
+Kahtate, Rivière 
+
+
+
+
+
+
+
+Frenchman River
+
+
+
+
+
+
+
+Kandik River
+
+
+
+
+
+Kahtate, Rivière
+
+
+
+
+
+
+
+Kandik, Rivière 
+
+
+
+
+
+
+
+Kahtate River
+
+
+
+
+
+
+
+Kelsall River
+
+
+
+
+
+ Kandik, Rivière
+
+
+
+
+
+
+
+Kelsall, Rivière 
+
+
+
+
+
+
+
+Kandik River
+
+
+
+
+
+
+
+Kettle River
+
+
+
+
+
+ Kelsall, Rivière
+
+
+
+
+
+
+
+Kettle, Rivière 
+
+
+
+
+
+
+
+Kelsall River
+
+
+
+
+
+
+
+Kootenay River
+
+
+
+
+
+ Kettle, Rivière
+
+
+
+
+
+
+
+Kootenay, Rivière 
+
+
+
+
+
+
+
+Kettle River
+
+
+
+
+
+
+
+Ladue River
+
+
+
+
+
+ Kootenay, Rivière
+
+
+
+
+
+
+
+Ladue, Rivière 
+
+
+
+
+
+
+
+Kootenay River
+
+
+
+
+
+
+
+Lake Champlain
+
+
+
+
+
+ Ladue, Rivière 
+
+
+
+
+
+
+
+Champlain, Lac
+
+
+
+
+
+
+
+Ladue River
+
+
+
+
+
+
+
+Lake Memphrémagog
+
+
+
+
+
+Little Black, Rivière
+
+
+
+
+
+
+
+Memphrémagog, Lac 
+
+
+
+
+
+
+
+Little Black River
+
+
+
+
+
+
+
+Little Black River
+
+
+
+
+
+Lodge, Ruisseau
+
+
+
+
+
+
+
+Little Black, Rivière 
+
+
+
+
+
+
+
+Lodge Creek
+
+
+
+
+
+
+
+Lodge Creek
+
+
+
+
+
+ Long, Ruisseau 
+
+
+
+
+
+
+
+Lodge, Ruisseau
+
+
+
+
+
+
+
+Long Creek
+
+
+
+
+
+
+
+Long Creek
+
+
+
+
+
+ Mancha, Ruisseau
+
+
+
+
+
+
+
+Long, Ruisseau
+
+
+
+
+
+
+
+Mancha Creek
+
+
+
+
+
+
+
+Mancha Creek
+
+
+
+
+
+ McEachern, Ruisseau
+
+
+
+
+
+
+
+Mancha, Ruisseau
+
+
+
+
+
+
+
+McEachern Creek
+
+
+
+
+
+
+
+McEachern Creek
+
+
+
+
+
+ Meduxnekeag, Rivière
+
+
+
+
+
+
+
+McEachern, Ruisseau
+
+
+
+
+
+
+
+Meduxnekeag River
+
+
+
+
+
+
+
+Meduxnekeag River
+
+
+
+
+
+Memphrémagog, Lac 
+
+
+
+
+
+
+
+Meduxnekeag, Rivière 
+
+
+
+
+
+
+
+Lake Memphrémagog
+
+
+
+
+
+
+
+Milk River, North branch of
+
+
+
+
+
+Milk, Bras nord de la rivière
+
+
+
+
+
+
+
+Milk, Bras nord de la rivière
+
+
+
+
+
+
+
+ Milk River, North branch of
+
+
+
+
+
+
+
+Milk River, South branch of
+
+
+
+
+
+ Milk, Bras sud la rivière
+
+
+
+
+
+
+
+Milk, Bras sud de la rivière
+
+
+
+
+
+
+
+ Milk River, South branch of
+
+
+
+
+
+
+
+Moyie River
+
+
+
+
+
+ Missisquoi Nord, Rivière
+
+
+
+
+
+
+
+Moyie, Rivière 
+
+
+
+
+
+
+
+North Missisquoi River
+
+
+
+
+
+
+
+Myers Creek
+
+
+
+
+
+ Missisquoi Sud, Rivière
+
+
+
+
+
+
+
+Myers, Ruisseau
+
+
+
+
+
+
+
+South Missisquoi River
+
+
+
+
+
+
+
+Nation River
+
+
+
+
+
+ Moyie, Rivière 
+
+
+
+
+
+
+
+Nation, Rivière 
+
+
+
+
+
+
+
+Moyie River
+
+
+
+
+
+
+
+North Ladue River
+
+
+
+
+
+Mud de la rivière Sprague, Ruisseau
+
+
+
+
+
+
+
+North Ladue, Rivière 
+
+
+
+
+
+
+
+Sprague River Mud Creek
+
+
+
+
+
+
+
+North Missisquoi River
+
+
+
+
+
+ Myers, Ruisseau
+
+
+
+
+
+
+
+Missisquoi Nord, Rivière 
+
+
+
+
+
+
+
+Myers Creek
+
+
+
+
+
+
+
+Okanagan River (Osoyoos Lake)
+
+
+
+
+
+ Nation, Rivière
+
+
+
+
+
+
+
+Okanagan (lac Osoyoos), Rivière 
+
+
+
+
+
+
+
+Nation River
+
+
+
+
+
+
+
+Old Crow River
+
+
+
+
+
+North Ladue, Rivière
+
+
+
+
+
+
+
+Old Crow, Rivière 
+
+
+
+
+
+
+
+North Ladue River
+
+
+
+
+
+
+
+Orange Creek
+
+
+
+
+
+ Okanagan (lac Osoyoos), Rivière
+
+
+
+
+
+
+
+Orange, Ruisseau
+
+
+
+
+
+
+
+Okanagan River (Osoyoos Lake)
+
+
+
+
+
+
+
+Pasayten River
+
+
+
+
+
+ Old Crow, Rivière
+
+
+
+
+
+
+
+Pasayten, Rivière 
+
+
+
+
+
+
+
+Old Crow River
+
+
+
+
+
+
+
+Pembina River
+
+
+
+
+
+ Orange, Ruisseau
+
+
+
+
+
+
+
+Pembina, Rivière 
+
+
+
+
+
+
+
+Orange Creek
+
+
+
+
+
+
+
+Pend-d’Oreille River
+
+
+
+
+
+ Pasayten, Rivière
+
+
+
+
+
+
+
+Pend-d’Oreille, Rivière 
+
+
+
+
+
+
+
+Pasayten River
+
+
+
+
+
+
+
+Pine Creek
+
+
+
+
+
+ Pembina, Rivière
+
+
+
+
+
+
+
+Pine, Ruisseau
+
+
+
+
+
+
+
+Pembina River
+
+
+
+
+
+
+
+Poplar River, East branch of
+
+
+
+
+
+ Pend-d’Oreille, Rivière
+
+
+
+
+
+
+
+Poplar, Bras est de la rivière
+
+
+
+
+
+
+
+Pend-d’Oreille River
+
+
+
+
+
+
+
+Poplar River, Middle branch of
+
+
+
+
+
+Pine, Ruisseau
+
+
+
+
+
+
+
+Poplar, Bras central de la rivière
+
+
+
+
+
+
+
+Pine Creek
+
+
+
+
+
+
+
+Poplar River, West fork of
+
+
+
+
+
+Poplar, Bras central de la rivière
+
+
+
+
+
+
+
+Poplar, Fourche ouest de la rivière
+
+
+
+
+
+
+
+ Poplar River, Middle branch of
+
+
+
+
+
+
+
+Porcupine River
+
+
+
+
+
+ Poplar, Bras est de la rivière
+
+
+
+
+
+
+
+Porcupine, Rivière 
+
+
+
+
+
+
+
+Poplar River, East branch of
+
+
+
+
+
+
+
+Presqu’ile River
+
+
+
+
+
+ Poplar, Fourche ouest de la rivière
+
+
+
+
+
+
+
+Presqu’ile, Rivière 
+
+
+
+
+
+
+
+Poplar River, West fork of
+
+
+
+
+
+
+
+Red River
+
+
+
+
+
+ Porcupine, Rivière
+
+
+
+
+
+
+
+Red, Rivière 
+
+
+
+
+
+
+
+Porcupine River
+
+
+
+
+
+
+
+Régis Creek
+
+
+
+
+
+ Presqu’ile, Rivière
+
+
+
+
+
+
+
+Régis, Ruisseau 
+
+
+
+
+
+
+
+Presqu’ile River
+
+
+
+
+
+
+
+Richelieu River
+
+
+
+
+
+Red, Rivière
+
+
+
+
+
+
+
+Richelieu, Rivière 
+
+
+
+
+
+
+
+Red River
+
+
+
+
+
+
+
+Roch Creek
+
+
+
+
+
+Régis, Ruisseau
+
+
+
+
+
+
+
+Roch, Ruisseau
+
+
+
+
+
+
+
+Régis Creek
+
+
+
+
+
+
+
+Roseau River
+
+
+
+
+
+ Richelieu, Rivière
+
+
+
+
+
+
+
+Roseau, Rivière 
+
+
+
+
+
+
+
+Richelieu River
+
+
+
+
+
+
+
+Sage Creek
+
+
+
+
+
+Roch, Ruisseau
+
+
+
+
+
+
+
+Sage, Ruisseau
+
+
+
+
+
+
+
+Roch Creek
+
+
+
+
+
+
+
+St. Mary River
+
+
+
+
+
+ Roseau, Rivière
+
+
+
+
+
+
+
+St. Mary, Rivière 
+
+
+
+
+
+
+
+Roseau River
+
+
+
+
+
+
+
+Salmon River
+
+
+
+
+
+Sage, Ruisseau 
+
+
+
+
+
+
+
+Salmon, Rivière 
+
+
+
+
+
+
+
+Sage Creek
+
+
+
+
+
+
+
+Scottie Creek
+
+
+
+
+
+ Salmon, Rivière
+
+
+
+
+
+
+
+Scottie, Ruisseau
+
+
+
+
+
+
+
+Salmon River
+
+
+
+
+
+
+
+Similkameen River
+
+
+
+
+
+Scottie, Ruisseau 
+
+
+
+
+
+
+
+Similkameen, Rivière 
+
+
+
+
+
+
+
+Scottie Creek
+
+
+
+
+
+
+
+Sixty Mile River
+
+
+
+
+
+ Similkameen, Rivière
+
+
+
+
+
+
+
+Sixty Mile, Rivière 
+
+
+
+
+
+
+
+Similkameen River
+
+
+
+
+
+
+
+Skagit River
+
+
+
+
+
+ Sixty Mile, Rivière
+
+
+
+
+
+
+
+Skagit, Rivière 
+
+
+
+
+
+
+
+Sixty Mile River
+
+
+
+
+
+
+
+Snag Creek
+
+
+
+
+
+ Skagit, Rivière
+
+
+
+
+
+
+
+Snag, Ruisseau
+
+
+
+
+
+
+
+Skagit River
+
+
+
+
+
+
+
+Souris River
+
+
+
+
+
+ Snag, Ruisseau
+
+
+
+
+
+
+
+Souris, Rivière 
+
+
+
+
+
+
+
+Snag Creek
+
+
+
+
+
+
+
+South Missisquoi River
+
+
+
+
+
+ Souris, Rivière 
+
+
+
+
+
+
+
+Missisquoi Sud, Rivière 
+
+
+
+
+
+
+
+Souris River
+
+
+
+
+
+
+
+Sprague River Mud Creek
+
+
+
+
+
+ Stikine, Rivière
+
+
+
+
+
+
+
+Mud de la rivière Sprague, Ruisseau
+
+
+
+
+
+
+
+Stikine River
+
+
+
+
+
+
+
+Stikine River
+
+
+
+
+
+ St. Mary, Rivière
+
+
+
+
+
+
+
+Stikine, Rivière 
+
+
+
+
+
+
+
+St. Mary River
+
+
+
+
+
+
+
+Taku River
+
+
+
+
+
+ Taku, Rivière
+
+
+
+
+
+
+
+Taku, Rivière 
+
+
+
+
+
+
+
+Taku River
+
+
+
+
+
+
+
+Tatonduk River
+
+
+
+
+
+ Tatonduk, Rivière
+
+
+
+
+
+
+
+Tatonduk, Rivière 
+
+
+
+
+
+
+
+Tatonduk River
+
+
+
+
+
+
+
+Unuk River
+
+
+
+
+
+ Unuk, Rivière
+
+
+
+
+
+
+
+Unuk, Rivière 
+
+
+
+
+
+
+
+Unuk River
+
+
+
+
+
+
+
+Waterton River
+
+
+
+
+
+ Waterton, Rivière
+
+
+
+
+
+
+
+Waterton, Rivière 
+
+
+
+
+
+
+
+Waterton River
+
+
+
+
+
+
+
+White River
+
+
+
+
+
+ White, Rivière
+
+
+
+
+
+
+
+White, Rivière 
+
+
+
+
+
+
+
+White River
+
+
+
+
+
+
+
+Whitewater Creek, North fork of
+
+
+
+
+
+Whitewater, Fourche nord du ruisseau
+
+
+
+
+
+
+
+Whitewater, Fourche nord du ruisseau 
+
+
+
+
+
+
+
+Whitewater Creek, North fork of
+
+
+
+
+
+
+
+Whiting River
+
+
+
+
+
+ Whiting, Rivière
+
+
+
+
+
+
+
+Whiting, Rivière 
+
+
+
+
+
+
+
+Whiting River
+
+
+
+
+
+
+
+Woodpile Creek
+
+
+
+
+
+ Woodpile, Ruisseau
+
+
+
+
+
+
+
+Woodpile, Ruisseau
+
+
+
+
+
+
+
+Woodpile Creek
+
+
+
+
+
+
+
+Yukon River
+
+
+
+
+
+Yukon, Fleuve
+
+
+
+
+
+
+
+Yukon, Fleuve 
+
+
+
+
+
+
+
+Yukon River
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

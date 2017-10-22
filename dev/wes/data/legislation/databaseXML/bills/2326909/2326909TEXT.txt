@@ -1,0 +1,635 @@
+
+
+
+
+
+C-358
+
+
+
+
+
+C-358
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-358
+
+
+
+
+
+PROJET DE LOI C-358
+
+
+
+
+
+
+An Act to amend the Fisheries Act (deposit of sewage)
+
+
+
+
+
+Loi modifiant la Loi sur les pêches (rejet des eaux usées)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, October 18, 2006
+
+première lecture le 18 octobre 2006
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Zed
+
+391391
+
+
+
+M. Zed
+
+
+
+
+
+SUMMARY
+This enactment prohibits the deposit of untreated sewage in Canadian waters. It also allows the Governor in Council to prescribe by regulation how sewage must be treated and the standards that it must meet before it can be deposited in those waters.
+
+
+
+SOMMAIRE
+Le texte interdit le rejet d’eaux usées non traitées dans les eaux canadiennes. Il permet également au gouverneur en conseil de préciser par règlement le traitement des eaux usées et les normes auxquelles elles doivent répondre avant de pouvoir être rejetées dans les eaux canadiennes.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-358
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-358
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Fisheries Act (deposit of sewage)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les pêches (rejet des eaux usées)
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. F-14
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. F-14
+
+
+
+
+
+
+
+
+
+
+
+
+1. 	The Fisheries Act is amended by adding the following after section 36:
+
+
+
+
+
+
+
+
+
+1. La Loi sur les pêches est modifiée par adjonction, après l’article 36, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “sewage”
+
+
+
+36.1 (1) In this section, “sewage” means
+
+
+
+
+
+
+
+
+(a) drainage and other wastes from toilets and other receptacles intended to receive or retain human body wastes;
+
+
+
+
+
+
+
+
+(b) drainage from medical premises such as a dispensary or a sick bay via wash basins, wash tubs and scuppers located in such premises;
+
+
+
+
+
+
+
+
+(c) drainage from spaces containing living animals; or
+
+
+
+
+
+
+
+
+(d) other drainage or wastes when mixed with the drainage or other wastes referred to in paragraph (a), (b) or (c).
+
+
+
+
+
+
+
+
+
+36.1 (1) Au présent article, « eaux usées » s’entend :
+
+
+
+Définition de « eaux usées »
+
+
+
+
+a) des eaux et des autres déchets provenant des toilettes et autres réceptacles destinés à recevoir ou à contenir les déchets humains;
+
+
+
+
+
+
+
+
+b) des eaux provenant des lavabos, baignoires et dalots situés dans les locaux réservés aux soins médicaux, comme une infirmerie et une salle de soins;
+
+
+
+
+
+
+
+
+c) des eaux provenant des espaces dans lesquels se trouvent des animaux vivants;
+
+
+
+
+
+
+
+
+d) des eaux résiduaires ou des déchets qui sont mélangés aux eaux et aux autres déchets visés aux alinéas a), b) ou c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deposit of sewage prohibited
+
+
+
+(2) Despite any provision of this or any other Act, no person shall deposit or permit the deposit of sewage in Canadian fisheries waters unless
+
+
+
+
+
+
+
+
+(a) the sewage is treated in a manner prescribed by regulations made pursuant to subsection (3); and
+
+
+
+
+
+
+
+
+(b) the sewage meets the standards prescribed by regulations made pursuant to that subsection.
+
+
+
+
+
+
+
+
+
+(2) Malgré les autres dispositions de la présente loi et de tout texte législatif fédéral, il est interdit de rejeter des eaux usées — ou d’en permettre le rejet — dans les eaux de pêches canadiennes, sauf :
+
+
+
+Rejet d’eaux usées prohibé
+
+
+
+
+a) si les eaux usées sont traitées de la manière prescrite par un règlement d’application pris en vertu du paragraphe (3);
+
+
+
+
+
+
+
+
+b) si les eaux usées répondent aux normes prescrites par un règlement d’application pris en vertu du paragraphe (3).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+(3) The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+(a) prescribing the treatment referred to in paragraph (2)(a); and
+
+
+
+
+
+
+
+
+(b) prescribing the standards referred to in paragraph (2)(b).
+
+
+
+
+
+
+
+
+
+(3) Le gouverneur en conseil peut, par règlement, prévoir :
+
+
+
+Règlements
+
+
+
+
+a) le traitement visé à l’alinéa (2)a);
+
+
+
+
+
+
+
+
+b) les normes visées à l’alinéa (2)b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No exception if no regulations
+
+
+
+(4) For greater certainty, the exceptions referred to in paragraphs (2)(a) and (b) do not apply unless the Governor in Council has made regulations prescribing the treatment and the standards referred to in those paragraphs.
+
+
+
+
+
+
+
+
+
+(4) Il est entendu que les exceptions visées aux alinéas (2)a) et b) ne s’appliquent que si le gouverneur en conseil a pris un règlement décrivant le traitement et les normes mentionnés à ces alinéas.
+
+
+
+Aucune exception en l’absence de règlement
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

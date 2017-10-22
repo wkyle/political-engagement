@@ -1,0 +1,2702 @@
+
+
+
+
+
+
+C-17
+
+
+
+
+
+C-17
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+
+
+
+
+
+Troisième session, quarantième législature,
+
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-17
+
+
+
+
+
+PROJET DE LOI C-17
+
+
+
+
+
+
+An Act to amend the Criminal Code (investigative hearing and recognizance with conditions)
+
+
+
+
+
+Loi modifiant le Code criminel (investigation et engagement assorti de conditions)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reprinted as amended by the Standing Committee on Public Safety and National Security as a working copy for the use of the House of Commons at Report Stage and as reported to the House on March 2, 2011
+
+
+
+
+
+Réimprimé tel que modifié par le Comité permanent de la sécurité publique et nationale comme document de travail à l’usage de la Chambre des communes à l’étape du rapport et présenté à la Chambre le 2 mars 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF JUSTICE
+
+90416
+
+
+
+MINISTRE DE LA JUSTICE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment replaces sections 83.28 to 83.3 of the Criminal Code to provide for an investigative hearing to gather information for the purposes of an investigation of a terrorism offence and to provide for the imposition of a recognizance with conditions on a person to prevent them from carrying out a terrorist activity. It also provides for those sections to cease to have effect or for the possible extension of their operation.
+
+
+
+SOMMAIRE
+Le texte remplace les articles 83.28 à 83.3 du Code criminel afin de prévoir une investigation visant à recueillir des renseignements pouvant servir dans le cadre d’une enquête relative à une infraction de terrorisme et de permettre l’imposition à une personne d’un engagement assorti de conditions pour éviter qu’une activité terroriste ne soit entreprise. Il prévoit en outre la cessation d’effet de ces articles ou la possibilité de les proroger.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+3e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+
+
+
+
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-17
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (investigative hearing and recognizance with conditions)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (investigation et engagement assorti de conditions)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Combating Terrorism Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la lutte contre le terrorisme.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 4
+
+
+
+
+2. The heading before section 83.28 and sections 83.28 to 83.3 of the Criminal Code are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. L’intertitre précédant l’article 83.28 et les articles 83.28 à 83.3 du Code criminel sont remplacés par ce qui suit :
+
+
+
+2001, ch. 41, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Investigative Hearing
+
+
+
+
+
+
+
+
+
+Investigation
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “judge”
+
+
+
+
+83.28 (1) In this section and section 83.29, “judge” means a provincial court judge or a judge of a superior court of criminal jurisdiction.
+
+
+
+
+
+
+
+
+
+
+83.28 (1) Au présent article et à l’article 83.29, « juge » s’entend d’un juge de la cour provinciale ou d’un juge d’une cour supérieure de juridiction criminelle.
+
+
+
+Définition de « juge »
+
+
+
+
+
+
+
+
+
+
+Order for gathering information
+
+
+
+(2) Subject to subsection (3), a peace officer may, for the purposes of an investigation of a terrorism offence, apply ex parte to a judge for an order for the gathering of information.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve du paragraphe (3), l’agent de la paix peut, pour la conduite d’une enquête relative à une infraction de terrorisme, demander à un juge, en l’absence de toute autre partie, de rendre une ordonnance autorisant la recherche de renseignements.
+
+
+
+Demande de collecte de renseignements
+
+
+
+
+
+
+
+
+
+
+Attorney General’s consent
+
+
+
+(3) A peace officer may make an application under subsection (2) only if the Attorney General’s prior consent was obtained.
+
+
+
+
+
+
+
+
+
+(3) L’agent de la paix ne peut présenter la demande que s’il a obtenu le consentement préalable du procureur général.
+
+
+
+Consentement du procureur général
+
+
+
+
+
+
+
+
+
+
+Making of order
+
+
+
+(4) The judge to whom the application is made may make an order for the gathering of information if they are satisfied that the Attorney General’s consent was obtained as required by subsection (3), and
+
+
+
+
+
+
+
+
+
+
+(a) that there are reasonable grounds to believe that
+
+
+
+
+
+
+
+
+
+
+(i) a terrorism offence has been committed,
+
+
+
+
+
+
+
+
+
+
+(ii) information concerning the offence, or information that may reveal the whereabouts of a person suspected by the peace officer of having committed the offence, is likely to be obtained as a result of the order, and
+
+
+
+
+
+
+
+
+
+
+(iii) reasonable attempts have been made to obtain the information referred to in subparagraph (ii) by other means; or
+
+
+
+
+
+
+
+
+
+
+(b) that
+
+
+
+
+
+
+
+
+
+
+(i) there are reasonable grounds to believe that a terrorism offence will be committed,
+
+
+
+
+
+
+
+
+
+
+(ii) there are reasonable grounds to believe that a person has direct and material information that relates to the offence referred to in subparagraph (i), or that may reveal the whereabouts of an individ- ual who the peace officer suspects may commit the offence referred to in that subparagraph, and
+
+
+
+
+
+
+
+
+
+
+(iii) reasonable attempts have been made to obtain the information referred to in subparagraph (ii) by other means.
+
+
+
+
+
+
+
+
+
+(4) Le juge saisi de la demande peut rendre l’ordonnance s’il est convaincu que le consentement du procureur général a été obtenu en conformité avec le paragraphe (3) et :
+
+
+
+Ordonnance
+
+
+
+
+
+a) ou bien qu’il existe des motifs raisonnables de croire, à la fois :
+
+
+
+
+
+
+
+
+
+
+(i) qu’une infraction de terrorisme a été commise,
+
+
+
+
+
+
+
+
+
+
+(ii) que des renseignements relatifs à l’infraction ou susceptibles de révéler le lieu où se trouve l’individu soupçonné par l’agent de la paix de l’avoir commise sont susceptibles d’être obtenus grâce à l’ordonnance,
+
+
+
+
+
+
+
+
+
+
+(iii) que des efforts raisonnables ont été déployés pour obtenir par d’autres moyens les renseignements visés au sous-alinéa (ii);
+
+
+
+
+
+
+
+
+
+
+
+b) ou bien que les éléments suivants sont réunis :
+
+
+
+
+
+
+
+
+
+
+(i) il existe des motifs raisonnables de croire qu’une infraction de terrorisme sera commise,
+
+
+
+
+
+
+
+
+
+
+(ii) il existe des motifs raisonnables de croire qu’une personne a des renseignements directs et pertinents relatifs à l’infraction visée au sous-alinéa (i) ou de nature à révéler le lieu où se trouve l’individu soupçonné par l’agent de la paix de pouvoir la commettre,
+
+
+
+
+
+
+
+
+
+
+(iii) des efforts raisonnables ont été déployés pour obtenir par d’autres moyens les renseignements visés au sous-alinéa (ii).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents of order
+
+
+
+(5) An order made under subsection (4) shall order the examination, on oath or not, of the person named in the order and require the person to attend at the place fixed by the judge, or by the judge designated under paragraph (b), as the case may be, for the examination and to remain in attendance until excused by the presiding judge, and may
+
+
+
+
+
+
+
+
+
+
+(a) order the person to bring to the examination any thing in their possession or control, and produce it to the presiding judge;
+
+
+
+
+
+
+
+
+
+
+(b) designate another judge as the judge before whom the examination is to take place; and
+
+
+
+
+
+
+
+
+
+
+(c) include any other terms or conditions that the judge considers desirable, including terms or conditions for the protection of the interests of the person named in the order and of third parties or for the protection of any ongoing investigation.
+
+
+
+
+
+
+
+
+
+(5) L’ordonnance enjoint à la personne désignée dans celle-ci de se présenter au lieu fixé par le juge saisi de la demande ou par celui désigné en vertu de l’alinéa b) afin d’y être interrogée, sous serment ou non, et de demeurer présente jusqu’à ce qu’elle soit libérée par le juge présidant l’interrogatoire; l’ordonnance peut en outre :
+
+
+
+Teneur de l’ordonnance
+
+
+
+
+
+a) enjoindre à cette personne d’apporter avec elle toute chose qu’elle a en sa possession ou à sa disposition et de la remettre au juge présidant l’interrogatoire;
+
+
+
+
+
+
+
+
+
+
+
+b) désigner un autre juge pour présider l’interrogatoire;
+
+
+
+
+
+
+
+
+
+
+
+c) fixer les modalités que le juge estime indiquées, notamment pour la protection des droits de la personne que l’ordonnance vise ou de ceux des tiers, ou celle de toute investigation en cours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Execution of order
+
+
+
+(6) The order may be executed anywhere in Canada.
+
+
+
+
+
+
+
+
+
+(6) L’ordonnance peut être exécutée en tout lieu au Canada.
+
+
+
+Exécution
+
+
+
+
+
+
+
+
+
+
+Variation of order
+
+
+
+(7) The judge who made the order, or another judge of the same court, may vary its terms and conditions.
+
+
+
+
+
+
+
+
+
+(7) Le juge qui a rendu l’ordonnance ou un autre juge du même tribunal peut modifier les conditions de celle-ci.
+
+
+
+Modifications
+
+
+
+
+
+
+
+
+
+
+Obligation to answer questions and produce things
+
+
+
+(8) A person named in an order made under subsection (4) shall answer questions put to them by the Attorney General or the Attorney General’s agent, and shall produce to the presiding judge things that the person was ordered to bring, but may refuse if answering a question or producing a thing would disclose information that is protected by any law relating to privilege or to disclosure of information.
+
+
+
+
+
+
+
+
+
+(8) La personne visée par l’ordonnance répond aux questions qui lui sont posées par le procureur général ou son représentant, et remet au juge présidant l’interrogatoire les choses exigées par l’ordonnance, mais peut refuser d’obtempérer dans la mesure où le fait de répondre aux questions ou de remettre une chose irait à l’encontre du droit applicable en matière de privilèges ou de communication de renseignements protégés.
+
+
+
+Obligation d’obtempérer
+
+
+
+
+
+
+
+
+
+
+Judge to rule
+
+
+
+(9) The presiding judge shall rule on any objection or other issue relating to a refusal to answer a question or to produce a thing.
+
+
+
+
+
+
+
+
+
+(9) Le juge présidant l’interrogatoire statue sur toute objection ou question concernant le refus de répondre à une question ou de lui remettre une chose.
+
+
+
+Effet non suspensif
+
+
+
+
+
+
+
+
+
+
+No person excused from complying with subsection (8)
+
+
+
+(10) No person shall be excused from answering a question or producing a thing under subsection (8) on the ground that the answer or thing may tend to incriminate them or subject them to any proceeding or penalty, but
+
+
+
+
+
+
+
+
+
+
+(a) no answer given or thing produced under subsection (8) shall be used or received against the person in any criminal proceedings against them, other than a prosecution under section 132 or 136; and
+
+
+
+
+
+
+
+
+
+
+(b) no evidence derived from the evidence obtained from the person shall be used or received against the person in any criminal proceedings against them, other than a prosecution under section 132 or 136.
+
+
+
+
+
+
+
+
+
+(10) Nul n’est dispensé de répondre aux questions ou de produire une chose aux termes du paragraphe (8) pour la raison que la réponse ou la chose remise peut tendre à l’incriminer ou à l’exposer à quelque procédure ou pénalité, mais :
+
+
+
+Nul n’est dispensé de se conformer à l’ordonnance
+
+
+
+
+
+a) la réponse donnée ou la chose remise aux termes du paragraphe (8) ne peut être utilisée ou admise contre lui dans le cadre de poursuites criminelles autres que celles prévues aux articles 132 ou 136;
+
+
+
+
+
+
+
+
+
+
+
+b) aucun élément de preuve découlant de la preuve obtenue de la personne ne peut être utilisé ou admis contre elle dans le cadre de poursuites criminelles autres que celles prévues aux articles 132 ou 136.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Right to counsel
+
+
+
+(11) A person has the right to retain and instruct counsel at any stage of the proceedings.
+
+
+
+
+
+
+
+
+
+(11) Toute personne a le droit de retenir les services d’un avocat et de lui donner des instructions en tout état de cause.
+
+
+
+Droit à un avocat
+
+
+
+
+
+
+
+
+
+
+Order for custody of thing
+
+
+
+(12) The presiding judge, if satisfied that any thing produced during the course of the examination will likely be relevant to the investigation of any terrorism offence, may order that the thing be given into the custody of the peace officer or someone acting on the peace officer’s behalf.
+
+
+
+
+
+
+
+
+
+(12) Si le juge présidant l’interrogatoire est convaincu qu’une chose remise pendant celui-ci est susceptible d’être utile à l’enquête relative à une infraction de terrorisme, il peut ordonner que cette chose soit confiée à la garde de l’agent de la paix ou à une personne qui agit pour son compte.
+
+
+
+Garde des choses remises
+
+
+
+
+
+
+
+
+
+
+Arrest warrant
+
+
+
+
+83.29 (1) The judge who made the order under subsection 83.28(4), or another judge of the same court, may issue a warrant for the arrest of the person named in the order if the judge is satisfied, on an information in writing and under oath, that the person
+
+
+
+
+
+
+
+
+
+
+(a) is evading service of the order;
+
+
+
+
+
+
+
+
+
+
+(b) is about to abscond; or
+
+
+
+
+
+
+
+
+
+
+(c) did not attend the examination, or did not remain in attendance, as required by the order.
+
+
+
+
+
+
+
+
+
+
+83.29 (1) Le juge qui a rendu l’ordonnance au titre du paragraphe 83.28(4) ou un autre juge du même tribunal peut délivrer un mandat autorisant l’arrestation de la personne visée par l’ordonnance à la suite d’une dénonciation écrite faite sous serment, s’il est convaincu :
+
+
+
+Mandat d’arrestation
+
+
+
+
+
+a) soit qu’elle se soustrait à la signification de l’ordonnance;
+
+
+
+
+
+
+
+
+
+
+
+b) soit qu’elle est sur le point de s’esquiver;
+
+
+
+
+
+
+
+
+
+
+
+c) soit qu’elle ne s’est pas présentée ou n’est pas demeurée présente en conformité avec l’ordonnance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Execution of warrant
+
+
+
+(2) The warrant may be executed at any place in Canada by any peace officer having jurisdiction in that place.
+
+
+
+
+
+
+
+
+
+(2) Le mandat d’arrestation peut être exécuté en tout lieu au Canada par tout agent de la paix qui a compétence en ce lieu.
+
+
+
+Exécution
+
+
+
+
+
+
+
+
+
+
+Person to be brought before judge
+
+
+
+(3) A peace officer who arrests a person in the execution of the warrant shall, without delay, bring the person, or cause them to be brought, before the judge who issued the warrant or another judge of the same court. The judge in question may, to ensure compliance with the order, order that the person be detained in custody or released on recognizance, with or without sureties.
+
+
+
+
+
+
+
+
+
+(3) L’agent de la paix qui arrête une personne en exécution du mandat la conduit ou la fait conduire immédiatement devant le juge qui a délivré le mandat ou un autre juge du même tribunal; le juge peut alors, afin de faciliter l’exécution de l’ordonnance, ordonner que cette personne soit mise sous garde ou libérée sur engagement, avec ou sans caution.
+
+
+
+Ordonnance
+
+
+
+
+
+
+
+
+
+
+Application of section 707
+
+
+
+(4) Section 707 applies, with any necessary modifications, to persons detained in custody under this section.
+
+
+
+
+
+
+
+
+
+(4) L’article 707 s’applique à la personne mise sous garde au titre du présent article, avec les adaptations nécessaires.
+
+
+
+Application de l’article 707
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recognizance with Conditions
+
+
+
+
+
+
+
+
+
+Engagement assorti de conditions
+
+
+
+
+
+
+
+
+
+
+
+
+Attorney General’s consent
+
+
+
+
+83.3 (1) The Attorney General’s consent is required before a peace officer may lay an information under subsection (2).
+
+
+
+
+
+
+
+
+
+
+83.3 (1) Le dépôt d’une dénonciation au titre du paragraphe (2) est subordonné au consentement préalable du procureur général.
+
+
+
+Consentement du procureur général
+
+
+
+
+
+
+
+
+
+
+Terrorist activity
+
+
+
+(2) Subject to subsection (1), a peace officer may lay an information before a provincial court judge if the peace officer
+
+
+
+
+
+
+
+
+
+
+(a) believes on reasonable grounds that a terrorist activity will be carried out; and
+
+
+
+
+
+
+
+
+
+
+(b) suspects on reasonable grounds that the imposition of a recognizance with conditions on a person, or the arrest of a person, is necessary to prevent the carrying out of the terrorist activity.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve du paragraphe (1), l’agent de la paix peut déposer une dénonciation devant un juge de la cour provinciale si, à la fois :
+
+
+
+Activité terroriste
+
+
+
+
+
+a) il a des motifs raisonnables de croire qu’une activité terroriste sera entreprise;
+
+
+
+
+
+
+
+
+
+
+
+b) il a des motifs raisonnables de soupçonner que l’imposition, à une personne, d’un engagement assorti de conditions ou son arrestation est nécessaire pour éviter que l’activité terroriste ne soit entreprise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appearance
+
+
+
+(3) The judge who receives the information may cause the person to appear before any provincial court judge.
+
+
+
+
+
+
+
+
+
+(3) Le juge qui reçoit la dénonciation peut faire comparaître la personne devant tout juge de la cour provinciale.
+
+
+
+Comparution
+
+
+
+
+
+
+
+
+
+
+Arrest without warrant
+
+
+
+(4) Despite subsections (2) and (3), a peace officer may arrest a person without a warrant and cause the person to be detained in custody, in order to bring them before a provincial court judge in accordance with subsection (6), if
+
+
+
+
+
+
+
+
+
+
+(a) either
+
+
+
+
+
+
+
+
+
+
+(i) the grounds for laying an information referred to in paragraphs (2)(a) and (b) exist but, by reason of exigent circumstances, it would be impracticable to lay an information under subsection (2), or
+
+
+
+
+
+
+
+
+
+
+(ii) an information has been laid under subsection (2) and a summons has been issued; and
+
+
+
+
+
+
+
+
+
+
+(b) the peace officer suspects on reasonable grounds that the detention of the person in custody is necessary in order to prevent a terrorist activity.
+
+
+
+
+
+
+
+
+
+(4) Par dérogation aux paragraphes (2) et (3), l’agent de la paix, s’il a des motifs raisonnables de soupçonner que la mise sous garde de la personne est nécessaire afin de l’empêcher de se livrer à une activité terroriste, peut, sans mandat, arrêter la personne et la faire mettre sous garde en vue de la conduire devant un juge de la cour provinciale en conformité avec le paragraphe (6) dans l’un ou l’autre des cas suivants :
+
+
+
+Arrestation sans mandat
+
+
+
+
+
+a) l’urgence de la situation rend difficilement réalisable le dépôt d’une dénonciation au titre du paragraphe (2) et les motifs visés aux alinéas (2)a) et b) sont réunis;
+
+
+
+
+
+
+
+
+
+
+
+b) une sommation a été décernée par suite de la dénonciation déposée au titre du paragraphe (2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Duty of peace officer
+
+
+
+(5) If a peace officer arrests a person without a warrant in the circumstance described in subparagraph (4)(a)(i), the peace officer shall, within the time prescribed by paragraph (6)(a) or (b),
+
+
+
+
+
+
+
+
+
+
+(a) lay an information in accordance with subsection (2); or
+
+
+
+
+
+
+
+
+
+
+(b) release the person.
+
+
+
+
+
+
+
+
+
+(5) Si, dans le cas visé à l’alinéa (4)a), l’agent de la paix arrête une personne sans mandat, il dépose une dénonciation au titre du paragraphe (2) au plus tard dans le délai prévu aux alinéas (6)a) ou b), ou met la personne en liberté.
+
+
+
+Obligation de l’agent de la paix
+
+
+
+
+
+
+
+
+
+
+When person to be taken before judge
+
+
+
+(6) Unless a peace officer, or an officer in charge as defined in Part XVI, is satisfied that a person should be released from custody unconditionally before their appearance before a provincial court judge in accordance with the rules in paragraph (a) or (b), and so releases the person, the person detained in custody shall be taken before a provincial court judge in accordance with the following rules:
+
+
+
+
+
+
+
+
+
+
+(a) if a provincial court judge is available within 24 hours after the person has been arrested, the person shall be taken before a provincial court judge without unreasonable delay and in any event within that period; and
+
+
+
+
+
+
+
+
+
+
+(b) if a provincial court judge is not available within 24 hours after the person has been arrested, the person shall be taken before a provincial court judge as soon as feasible.
+
+
+
+
+
+
+
+
+
+(6) La personne mise sous garde est conduite devant un juge de la cour provinciale selon les règles ci-après, à moins que, avant sa comparution selon ces règles, l’agent de la paix ou le fonctionnaire responsable, au sens de la partie XVI, étant convaincu qu’elle devrait être mise en liberté inconditionnellement, ne la mette ainsi en liberté :
+
+
+
+Règles pour la comparution
+
+
+
+
+
+a) si un juge de la cour provinciale est disponible dans un délai de vingt-quatre heures après l’arrestation, elle est conduite devant un juge de ce tribunal sans retard injustifié et, à tout le moins, dans ce délai;
+
+
+
+
+
+
+
+
+
+
+
+b) si un juge de la cour provinciale n’est pas disponible dans un délai de vingt-quatre heures après l’arrestation, elle est conduite devant un juge de ce tribunal le plus tôt possible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How person dealt with
+
+
+
+(7) When a person is taken before a provincial court judge under subsection (6),
+
+
+
+
+
+
+
+
+
+
+(a) if an information has not been laid under subsection (2), the judge shall order that the person be released; or
+
+
+
+
+
+
+
+
+
+
+(b) if an information has been laid under subsection (2),
+
+
+
+
+
+
+
+
+
+
+(i) the judge shall order that the person be released unless the peace officer who laid the information shows cause why the person’s detention in custody is justified on one or more of the following grounds:
+
+
+
+
+
+
+
+
+
+
+(A) the detention is necessary to ensure the person’s appearance before a provincial court judge in order to be dealt with in accordance with subsection (8),
+
+
+
+
+
+
+
+
+
+
+(B) the detention is necessary for the protection or safety of the public, including any witness, having regard to all the circumstances including
+
+
+
+
+
+
+
+
+
+
+(I) the likelihood that, if the person is released from custody, a terrorist activity will be carried out, and
+
+
+
+
+
+
+
+
+
+
+(II) any substantial likelihood that the person will, if released from custody, interfere with the administration of justice, and
+
+
+
+
+
+
+
+
+
+
+(C) the detention is necessary to maintain confidence in the administration of justice, having regard to all the circumstances, including the apparent strength of the peace officer’s grounds under subsection (2), and the gravity of any terrorist activity that may be carried out, and
+
+
+
+
+
+
+
+
+
+
+(ii) the judge may adjourn the matter for a hearing under subsection (8) but, if the person is not released under subparagraph (i), the adjournment may not exceed 48 hours.
+
+
+
+
+
+
+
+
+
+(7) Dans le cas où la personne est conduite devant le juge au titre du paragraphe (6) :
+
+
+
+Traitement de la personne
+
+
+
+
+
+a) si aucune dénonciation n’a été déposée au titre du paragraphe (2), le juge ordonne qu’elle soit mise en liberté;
+
+
+
+
+
+
+
+
+
+
+
+b) si une dénonciation a été déposée au titre du paragraphe (2) :
+
+
+
+
+
+
+
+
+
+
+(i) le juge ordonne que la personne soit mise en liberté, sauf si l’agent de la paix qui a déposé la dénonciation fait valoir que sa mise sous garde est justifiée pour un des motifs suivants :
+
+
+
+
+
+
+
+
+
+
+(A) sa détention est nécessaire pour assurer sa comparution devant un juge de la cour provinciale conformément au paragraphe (8),
+
+
+
+
+
+
+
+
+
+
+(B) sa détention est nécessaire pour la protection ou la sécurité du public, notamment celle d’un témoin, eu égard aux circonstances, y compris :
+
+
+
+
+
+
+
+
+
+
+(I) la probabilité que, si la personne est mise en liberté, une activité terroriste sera entreprise,
+
+
+
+
+
+
+
+
+
+
+(II) toute probabilité marquée que la personne, si elle est mise en liberté, nuira à l’administration de la justice,
+
+
+
+
+
+
+
+
+
+
+(C) sa détention est nécessaire pour ne pas miner la confiance du public envers l’administration de la justice, compte tenu de toutes les circonstances, notamment le fait que les motifs de l’agent de la paix au titre du paragraphe (2) paraissent fondés, et la gravité de toute activité terroriste qui peut être entreprise,
+
+
+
+
+
+
+
+
+
+
+(ii) le juge peut ajourner la comparution prévue au paragraphe (8) mais, si la personne n’est pas mise en liberté, l’ajournement ne peut excéder quarante-huit heures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hearing before judge
+
+
+
+(8) The judge before whom the person appears in accordance with subsection (3)
+
+
+
+
+
+
+
+
+
+
+(a) may, if satisfied by the evidence adduced that the peace officer has reasonable grounds for the suspicion, order that the person enter into a recognizance to keep the peace and be of good behaviour for any period that does not exceed 12 months and to comply with any other reasonable conditions prescribed in the recognizance, including the conditions set out in subsection (10), that the judge considers desirable for preventing the carrying out of a terrorist activity; and
+
+
+
+
+
+
+
+
+
+
+(b) if the person was not released under subparagraph (7)(b)(i), shall order that the person be released, subject to the recognizance, if any, ordered under paragraph (a).
+
+
+
+
+
+
+
+
+
+(8) Le juge devant lequel la personne comparaît au titre du paragraphe (3) :
+
+
+
+Comparution devant le juge
+
+
+
+
+
+a) peut, s’il est convaincu par la preuve apportée que les soupçons de l’agent de la paix sont fondés sur des motifs raisonnables, ordonner que la personne contracte l’engagement de ne pas troubler l’ordre public et d’observer une bonne conduite pour une période maximale de douze mois, et se conforme aux autres conditions raisonnables énoncées dans l’engagement, y compris celle visée au paragraphe (10), que le juge estime souhaitables pour empêcher qu’une activité terroriste ne soit entreprise;
+
+
+
+
+
+
+
+
+
+
+
+b) si la personne n’a pas été mise en liberté au titre du sous-alinéa (7)b)(i), ordonne qu’elle soit mise en liberté, sous réserve, le cas échéant, de l’engagement imposé conformément à l’alinéa a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refusal to enter into recognizance
+
+
+
+(9) The judge may commit the person to prison for a term not exceeding 12 months if the person fails or refuses to enter into the recognizance.
+
+
+
+
+
+
+
+
+
+(9) Le juge peut infliger à la personne qui omet ou refuse de contracter l’engagement une peine de prison maximale de douze mois.
+
+
+
+Refus de contracter un engagement
+
+
+
+
+
+
+
+
+
+
+Conditions — firearms
+
+
+
+(10) Before making an order under paragraph (8)(a), the judge shall consider whether it is desirable, in the interests of the safety of the person or of any other person, to include as a condition of the recognizance that the person be prohibited from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or all of those things, for any period specified in the recognizance, and if the judge decides that it is so desirable, they shall add the condition to the recognizance.
+
+
+
+
+
+
+
+
+
+(10) En rendant l’ordonnance prévue à l’alinéa (8)a), le juge doit, s’il estime qu’il est souhaitable pour la sécurité de la personne ou pour celle d’autrui de lui interdire d’avoir en sa possession une arme à feu, une arbalète, une arme prohibée, une arme à autorisation restreinte, un dispositif prohibé, des munitions, des munitions prohibées ou des substances explosives, ordonner que la personne contracte l’engagement de s’abstenir d’avoir en sa possession l’un ou l’autre ou la totalité de ces objets pour la période indiquée dans l’engagement.
+
+
+
+Conditions : armes à feu
+
+
+
+
+
+
+
+
+
+
+Surrender, etc.
+
+
+
+(11) If the judge adds the condition described in subsection (10) to a recognizance, they shall specify in it the manner and method by which
+
+
+
+
+
+
+
+
+
+
+(a) the things referred to in that subsection that are in the person’s possession shall be surrendered, disposed of, detained, stored or dealt with; and
+
+
+
+
+
+
+
+
+
+
+(b) the authorizations, licences and registration certificates that are held by the person shall be surrendered.
+
+
+
+
+
+
+
+
+
+(11) Le cas échéant, l’ordonnance prévoit la façon de remettre, de détenir ou d’entreposer les objets visés au paragraphe (10) qui sont en la possession de la personne, ou d’en disposer, et de remettre les autorisations, permis et certificats d’enregistrement dont la personne est titulaire.
+
+
+
+Remise
+
+
+
+
+
+
+
+
+
+
+Reasons
+
+
+
+(12) If the judge does not add the condition to a recognizance, they shall include in the record a statement of the reasons for not adding it.
+
+
+
+
+
+
+
+
+
+(12) Le juge, s’il n’assortit pas l’ordonnance de la condition prévue au paragraphe (10), est tenu d’en donner les motifs, qui sont consignés au dossier de l’instance.
+
+
+
+Motifs
+
+
+
+
+
+
+
+
+
+
+Variance of conditions
+
+
+
+(13) The judge may, on application of the peace officer, the Attorney General or the person, vary the conditions fixed in the recognizance.
+
+
+
+
+
+
+
+
+
+(13) Le juge peut, sur demande de l’agent de la paix, du procureur général ou de la personne, modifier les conditions fixées dans l’engagement.
+
+
+
+Modification des conditions
+
+
+
+
+
+
+
+
+
+
+Other provisions to apply
+
+
+
+(14) Subsections 810(4) and (5) apply, with any necessary modifications, to proceedings under this section.
+
+
+
+
+
+
+
+
+
+(14) Les paragraphes 810(4) et (5) s’appliquent, avec les adaptations nécessaires, à toute procédure engagée en vertu du présent article.
+
+
+
+Autres dispositions applicables
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. (1) Section 83.31 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+
+3. (1) L’article 83.31 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Attorney General’s opinion
+
+
+
+(1.1) The Attorney General of Canada shall include in the annual report under subsection (1) his or her opinion, supported by reasons, on whether the operation of sections 83.28 and 83.29 should be extended.
+
+
+
+
+
+
+
+
+
+(1.1) Le procureur général du Canada exprime dans le rapport annuel établi au titre du paragraphe (1) son opinion quant à la nécessité de proroger les articles 83.28 et 83.29 et la motive.
+
+
+
+Opinion du procureur général du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 83.31 of the Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+(2) L’article 83.31 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Opinions
+
+
+
+(3.1) The Attorney General of Canada and the Minister of Public Safety and Emergency Preparedness shall include in their annual reports under subsections (2) and (3), respectively, their opinion, supported by reasons, on whether the operation of section 83.3 should be extended.
+
+
+
+
+
+
+
+
+
+(3.1) Le procureur général du Canada et le ministre de la Sécurité publique et de la Protection civile expriment dans leur rapport annuel établi au titre des paragraphes (2) et (3) respectivement leur opinion quant à la nécessité de proroger l’article 83.3 et la motivent.
+
+
+
+Opinions
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 4
+
+
+
+
+4. (1) Subsections 83.32(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. (1) Les paragraphes 83.32(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+2001, ch. 41, art. 4
+
+
+
+
+
+
+
+
+
+
+Sunset provision
+
+
+
+
+83.32 (1) Sections 83.28, 83.29 and 83.3 cease to have effect at the end of the 15th sitting day of Parliament after the second anniversary of the coming into force of this subsection unless, before the end of that day, the operation of those sections is extended by resolution — whose text is established under subsection (2) — passed by both Houses of Parliament in accordance with the rules set out in subsection (3).
+
+
+
+
+
+
+
+
+
+
+83.32 (1) Les articles 83.28, 83.29 et 83.3 cessent d’avoir effet à la fin du quinzième jour de séance postérieur au deuxième anniversaire de l’entrée en vigueur du présent paragraphe, sauf si, avant la fin de ce jour, ces articles sont prorogés par résolution — dont le texte est établi en vertu du paragraphe (2) — adoptée par les deux chambres du Parlement conformément aux règles prévues au paragraphe (3).
+
+
+
+Temporarisation
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+(1.1) A comprehensive review of sections 83.28, 83.29 and 83.3 and their operation shall be undertaken by a committee of the Senate and a committee of the House of Commons or a joint committee of both Houses of Parliament that may be designated or established by the Senate or the House of Commons, as the case may be, for that purpose.
+
+
+
+
+
+
+
+
+
+(1.1) Un examen approfondi des articles 83.28, 83.29 et 83.3 et de leur application doit être fait par le comité du Sénat et par le comité de la Chambre des communes ou par un comité mixte des deux chambres du Parlement que la chambre en question, selon le cas, peut désigner ou constituer à cette fin.
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(1.2) The committees referred to in subsection (1.1) shall, within a year after a review is undertaken under that subsection or within any further time that may be authorized by the Senate and the House of Commons or a joint committee of both Houses of Parliament, as the case may be, submit their reports on the review to Parliament, including their recommendations with respect to extending the operation of section 83.28, 83.29 or 83.3.
+
+
+
+
+
+
+
+
+
+(1.2) Dans l’année qui suit le début de l'examen ou dans le délai supérieur que la chambre en question leur accorde, le ou les comités visés au paragraphe (1.1) remettent leurs rapports au Parlement, accompagnés de leurs recommandations quant à la nécessité de proroger les articles 83.28, 83.29 ou 83.3.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+(2) The Governor in Council may, by order, establish the text of a resolution that provides for the extension of the operation of section 83.28, 83.29 or 83.3 and that specifies the period of the extension, which may not exceed five years from the first day on which the resolution has been passed by both Houses of Parliament.
+
+
+
+
+
+
+
+
+
+(2) Le gouverneur en conseil peut, par décret, établir le texte de toute résolution prévoyant la prorogation des articles 83.28, 83.29 ou 83.3 et précisant la durée de la prorogation, à concurrence d’un maximum de cinq ans à compter de la date à laquelle la deuxième chambre a adopté la résolution.
+
+
+
+Décret
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 4
+
+
+
+(2) Subsection 83.32(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 83.32(4) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 4
+
+
+
+
+
+
+
+
+
+
+Subsequent extensions
+
+
+
+(4) The operation of section 83.28, 83.29 or 83.3 may be further extended in accordance with the procedure set out in this section, but the reference to “the second anniversary of the coming into force of this subsection” in subsection (1) is to be read as a reference to “the expiry of the most recent extension under this section”.
+
+
+
+
+
+
+
+
+
+(4) Les articles 83.28, 83.29 ou 83.3 peuvent être prorogés par la suite en conformité avec le présent article, la mention « au deuxième anniversaire de l’entrée en vigueur du présent paragraphe », au paragraphe (1), étant alors remplacée par « à la date d’expiration de la dernière période de prorogation fixée par résolution conformément au présent article ».
+
+
+
+Prorogations subséquentes
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 4
+
+
+
+
+5. Section 83.33 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. L’article 83.33 de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, art. 4
+
+
+
+
+
+
+
+
+
+
+Transitional provision — sections 83.28 and 83.29
+
+
+
+
+83.33 (1) In the event that sections 83.28 and 83.29 cease to have effect in accordance with section 83.32, proceedings commenced under those sections shall be completed if the hearing before the judge of the application made under subsection 83.28(2) began before those sections ceased to have effect.
+
+
+
+
+
+
+
+
+
+
+83.33 (1) Dans le cas où, conformément à l’article 83.32, les articles 83.28 et 83.29 cessent d’avoir effet, les procédures engagées au titre de ces articles sont menées à terme si l’audition de la demande présentée au titre du paragraphe 83.28(2) a commencé avant la cessation d’effet de ces articles.
+
+
+
+Disposition transitoire : articles 83.28 et 83.29
+
+
+
+
+
+
+
+
+
+
+Transitional provision — section 83.3
+
+
+
+(2) In the event that section 83.3 ceases to have effect in accordance with section 83.32, a person detained in custody under section 83.3 shall be released when that section ceases to have effect, except that subsections 83.3(7) to (14) continue to apply to a person who was taken before a judge under subsection 83.3(6) before section 83.3 ceased to have effect.
+
+
+
+
+
+
+
+
+
+(2) Dans le cas où, conformément à l’article 83.32, l’article 83.3 cesse d’avoir effet, la personne mise sous garde au titre de cet article est mise en liberté à la date de cessation d’effet de cet article, sauf que les paragraphes 83.3(7) à (14) continuent de s’appliquer à la personne qui a été conduite devant le juge au titre du paragraphe 83.3(6) avant cette date.
+
+
+
+Disposition transitoire : article 83.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+6. This Act comes into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+6. La présente loi entre en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

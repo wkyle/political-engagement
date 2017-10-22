@@ -1,0 +1,1914 @@
+
+
+
+
+
+C-653
+
+
+
+
+
+C-653
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-653
+
+
+
+
+
+PROJET DE LOI C-653
+
+
+
+
+
+
+An Act to amend the Canada Water Act (recycling, conservation and efficiency)
+
+
+
+
+
+Loi modifiant la Loi sur les ressources en eau du Canada (recyclage, conservation et économie)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, February 18, 2015
+
+première lecture le 18 février 2015
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Scarpaleggia
+
+412005
+
+
+
+M. Scarpaleggia
+
+
+
+
+
+SUMMARY
+This enactment amends the Canada Water Act to
+(a) authorize the Governor in Council to make regulations respecting water devices and standards for water recycling, water conservation and water efficiency; 
+(b) confer powers on the Minister of the Environment in respect of the development and undertaking of programs relating to the development and promotion of water devices and water-recycling, water conservation and water efficiency practices;
+(c) establish requirements in respect of the importation and interprovincial sale or shipping of water devices;
+(d) create offences in respect of the failure to provide required information and the failure to comply with requirements in respect of the importation and the interprovincial sale or shipping of water devices; and
+(e) require the Minister to demonstrate in a report to Parliament
+(i) the extent to which the water efficiency standards prescribed under this Act compare to standards established by other jurisdictions, and
+(ii) the extent to which water efficiency standards have been prescribed under this Act for water devices whose use has a significant impact on water consumption in Canada.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur les ressources en eau du Canada afin :
+a) d’autoriser le gouverneur en conseil à prendre des règlements concernant les dispositifs d’eau et les normes relatives au recyclage de l’eau, à la conservation de l’eau et à l’économie d’eau;
+b) de conférer au ministre de l’Environnement des pouvoirs relativement à la création et au lancement de programmes visant l’élaboration et la promotion de dispositifs d’eau et de pratiques favorisant le recyclage de l’eau, la conservation de l’eau et l’économie d’eau;
+c) de fixer les exigences relatives à l’importation et à la vente ou à l’expédition interprovinciales de dispositifs d’eau;
+d) de prévoir que l’omission de fournir les renseignements exigés et le non-respect des exigences relatives à l’importation et à la vente ou à l’expédition interprovinciales de dispositifs d’eau constituent des infractions;
+e) d’exiger du ministre qu’il démontre dans un rapport au Parlement :
+(i) d’une part, dans quelle mesure les normes d’efficacité hydrique fixées sous le régime de la présente loi sont aussi rigoureuses que les normes comparables établies par d'autres administrations publiques,
+(ii) d’autre part, dans quelle mesure des normes d’efficacité hydrique ont été fixées sous le régime de la présente loi pour les dispositifs d’eau dont l’utilisation a un effet important sur la consommation d’eau au Canada.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-653
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-653
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Water Act (recycling, conservation and efficiency)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les ressources en eau du Canada (recyclage, conservation et économie)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-11
+
+
+
+CANADA WATER ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LES RESSOURCES EN EAU DU CANADA
+
+
+
+L.R., ch. C-11
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) The preamble to the Canada Water Act is amended by adding the following after the first paragraph:
+
+
+
+
+
+
+
+
+
+1. (1) Le préambule de la Loi sur les ressources en eau du Canada est modifié par adjonction, après le premier paragraphe, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AND WHEREAS those demands are increasing rapidly as a result of population and industrial growth and there is a need to sustain Canada’s agricultural, fishing, forestry and other resource-based sectors;
+
+
+
+
+
+
+AND WHEREAS there is concern that climate change will affect the availability and quality of water resources as a result of drought cycles that are increasing in frequency, length and warmth;
+
+
+
+
+
+
+
+
+
+que ces besoins augmentent rapidement en raison de la croissance démographique et industrielle et qu’il est nécessaire de soutenir les secteurs tributaires des ressources naturelles comme l’agriculture, la pêche et la foresterie;
+
+
+
+
+
+
+que les changements climatiques pourraient avoir des répercussions sur la disponibilité et la qualité des ressources en eau, les périodes de sécheresse étant de plus en plus fréquentes, longues et chaudes;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The third paragraph of the preamble to the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le troisième paragraphe du préambule de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AND WHEREAS there is a significant and immediate opportunity to promote the recycling, conservation and efficient use of the water resources of Canada to protect the well-being and prosperity of the people of Canada and the quality of the Canadian environment in general;
+
+
+
+
+
+
+AND WHEREAS the Government of Canada is committed to ensuring sustained improvement in the efficient use of water in all sectors of the Canadian economy;
+
+
+
+
+
+
+AND WHEREAS Parliament desires that, in addition, comprehensive programs be undertaken by the Government of Canada and by the Government of Canada in cooperation with provincial governments — each in accordance with its responsibilities in relation to water resources — for research and planning with respect to those resources, for the conservation, sustainable development and utilization of those resources and for the research, development and promotion of  water devices and water-recycling, water conservation and water efficiency practices to ensure the optimum use of those resources for the benefit of all Canadians;
+
+
+
+
+
+
+
+
+
+qu’il existe des moyens tangibles et immédiats de promouvoir le recyclage, la conservation et l’économie des ressources en eau du Canada en vue de préserver le bien-être et la prospérité de la population canadienne ainsi que l’environnement canadien dans son ensemble;
+
+
+
+
+
+
+que le gouvernement fédéral entend veiller à la rationalisation systématique de l’utilisation des ressources en eau dans tous les secteurs de l’économie canadienne;
+
+
+
+
+
+
+que le Parlement souhaite, en outre, que des programmes d’ensemble soient entrepris par le gouvernement fédéral agissant seul ou en collaboration avec les gouvernements provinciaux — en conformité avec leurs attributions respectives relativement aux ressources en eau — en vue de la recherche et de la planification relatives aux ressources en eau et en vue de leur conservation, de leur développement durable  et de leur utilisation  ainsi que pour  la recherche, le développement et la promotion de dispositifs d’eau et de pratiques favorisant le recyclage, la conservation et l’économie de ces ressources afin d’en assurer l’emploi optimal au profit de tous les Canadiens,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 2(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“recycling”« recyclage »
+
+
+
+“recycling” in respect of water, means any process by which water that has been used is made available for further use or reuse with or without treatment or processing to alter its physical, chemical or aesthetic qualities.
+
+
+
+
+“water device”« dispositif  d’eau »
+
+
+
+“water device” includes a water-applying device, water-consuming device, water-recycling device, water-conserving device and water efficient device.
+
+
+
+
+
+
+
+
+
+« dispositif  d’eau » Sont compris parmi les dispositifs d’eau les dispositifs d’épandage de l’eau, les dispositifs consommateurs d'eau, les dispositifs de recyclage de l’eau, les dispositifs de conservation de l’eau et les dispositifs économiseurs d’eau. 
+
+
+
+« dispositif  d’eau »“water device”
+
+
+
+
+« recyclage » S’agissant de l’eau, processus permettant de réutiliser l’eau usée ou d’en prolonger l’utilisation, avec ou sans traitement visant à en modifier les caractéristiques physiques, chimiques ou esthétiques.  
+
+
+
+« recyclage »“recycling”
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsection 18(1) of the Act is amended by striking out “and” at the end of paragraph (i) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 18(1) de la même loi est modifié par adjonction, après l’alinéa i), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i.1) prescribing classes of water devices;
+
+
+
+
+
+
+(i.2) prescribing test methods or protocols for determining the water efficiency rating of water devices;
+
+
+
+
+
+
+(i.3) respecting labels to be applied to water devices;
+
+
+
+
+
+
+(i.4) prescribing information to be made available by manufacturers, importers and distributors of water devices; 
+
+
+
+
+
+
+(i.5) establishing or recognizing standards for water recycling, water conservation and water efficiency;
+
+
+
+
+
+
+(i.6) defining “water-applying device”, “water-consuming device”, “water-recycling device”, “water-conserving device” and “water efficient device”;
+
+
+
+
+
+
+(i.7) prescribing anything that is required by this Act to be prescribed; and
+
+
+
+
+
+
+
+
+
+i.1) établir des catégories pour le classement des dispositifs d’eau;
+
+
+
+
+
+
+i.2) prévoir des méthodes ou des protocoles d’essai pour l’attribution d’un indice d’efficacité hydrique aux dispositifs d’eau;
+
+
+
+
+
+
+i.3) prévoir l’étiquetage des dispositifs d’eau;
+
+
+
+
+
+
+i.4) prévoir les renseignements devant être rendus disponibles par les fabricants, importateurs et distributeurs de dispositifs d’eau;
+
+
+
+
+
+
+i.5) établir ou officialiser des normes pour le recyclage de l’eau, la conservation de l’eau et l’économie d’eau;
+
+
+
+
+
+
+i.6) définir « dispositif d’épandage de l’eau », « dispositif consommateur d’eau », « dispositif de recyclage de l’eau », « dispositif de conservation de l’eau » et « dispositif économiseur d’eau »; 
+
+
+
+
+
+
+i.7) prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Act is amended by adding the following after section 18:
+
+
+
+
+
+
+
+
+
+4. La même loi est modifiée par adjonction, après l’article 18, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+PART III
+
+
+
+
+
+
+
+
+
+PARTIE III
+
+
+
+
+
+
+
+
+
+
+
+
+WATER RECYCLING, WATER CONSERVATION AND WATER EFFICIENCY 
+
+
+
+
+
+
+
+
+
+RECYCLAGE DE L'EAU, CONSERVATION DE L'EAU ET ÉCONOMIE D'EAU
+
+
+
+
+
+
+
+
+
+
+
+
+Arrangements
+
+
+
+
+
+
+
+
+
+Arrangements
+
+
+
+
+
+
+
+
+
+
+
+
+Establishment of intergovernmental committees or other bodies
+
+
+
+19. Subject to the approval of the Governor in Council and taking into consideration the distinctive geography of Canada and the character of water as a natural resource, the Minister may, in order to facilitate the formulation of policies and programs with respect to the recycling, conservation and efficient use of the water resources of Canada and to ensure the optimum use of those resources for the benefit of all Canadians, enter into arrangements with the government of the United States and with provincial governments to establish, on an international, national, provincial, regional, lake or river-basin basis, intergovernmental committees or other bodies for the purpose of
+
+
+
+
+
+
+
+
+(a) allowing consultation to take place on a continuing basis in respect of  development of and research on water devices and water-recycling, water conservation and water efficiency practices;
+
+
+
+
+
+
+
+
+(b) providing expertise in respect of the formulation of water-recycling, water conservation and water efficiency policies and programs; and
+
+
+
+
+
+
+
+
+(c) facilitating the coordination, promotion and implementation of water-recycling, water conservation and water efficiency policies and programs.
+
+
+
+
+
+
+
+
+
+19. Sous réserve de l’approbation du gouverneur en conseil et compte tenu de la géographie particulière du Canada et de la nature même de l’eau en tant que ressource naturelle, le ministre peut, en vue de faciliter l’élaboration d’une politique et de programmes en ce qui concerne le recyclage, la conservation et l'utilisation efficace des ressources en eau du Canada et d’en assurer l’utilisation optimale au profit de tous les Canadiens, conclure des arrangements avec le gouvernement des États-Unis ou avec les gouvernements provinciaux en vue d’établir, à l’échelle internationale, nationale, provinciale, régionale ou hydrographique, des comités intergouvernementaux ou autres organismes ayant pour objet :
+
+
+
+Constitution de comités intergouvernementaux ou d’autres organismes
+
+
+
+
+a) de permettre la tenue de consultations constantes sur la recherche et le développement en ce qui a trait aux dispositifs d’eau et aux pratiques favorisant le recyclage de l’eau, la conservation de l’eau et l’économie d’eau;
+
+
+
+
+
+
+
+
+b) de fournir des avis dans le cadre de l’élaboration de la politique et des programmes afférents au recyclage de l’eau, à la conservation de l’eau et à l’économie d’eau;
+
+
+
+
+
+
+
+
+c) de faciliter la coordination, la promotion et la mise en oeuvre de cette politique et de ces programmes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Programs
+
+
+
+
+
+
+
+
+
+Programmes
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements regarding programs
+
+
+
+20. Subject to the other provisions of this Act, the Minister may, with the approval of the Governor in Council, enter into agreements with the government of the United States, provincial governments, industrial and trade organizations and communities with an interest in the recycling, conservation and efficient use of water, to provide for programs to
+
+
+
+
+
+
+
+
+(a) develop water devices; and
+
+
+
+
+
+
+
+
+(b) promote the adoption of water devices and water-recycling, water conservation and water efficiency practices.
+
+
+
+
+
+
+
+
+
+20. Sous réserve des autres dispositions de la présente loi, le ministre peut, avec l’approbation du gouverneur en conseil, conclure avec le gouvernement des États-Unis, avec les gouvernements provinciaux ou avec des organisations commerciales ou industrielles ou d’autres groupes ayant un intérêt dans le recyclage de l’eau, la conservation de l’eau et l'utilisation efficace de l’eau, des accords relatifs à des programmes visant :
+
+
+
+Accords relatifs à des programmes
+
+
+
+
+a) la conception de dispositifs d’eau;
+
+
+
+
+
+
+
+
+b) la promotion de dispositifs d’eau et de pratiques favorisant le recyclage de l’eau, la conservation de l’eau et l’économie d’eau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Development, undertaking of programs under agreement
+
+
+
+21. (1) The Minister may, with the approval of the Governor in Council, develop and undertake a program pursuant to an agreement that has been entered into under section 20.
+
+
+
+
+
+
+
+
+
+21. (1) Le ministre peut, avec l’approbation du gouverneur en conseil, élaborer et entreprendre un programme conformément à un accord conclu en vertu de l’article 20.
+
+
+
+Élaboration et lancement de programmes faisant l’objet d’un accord
+
+
+
+
+
+
+
+
+
+
+Development, undertaking of programs without agreement
+
+
+
+(2) The Minister may, with the approval of the Governor in Council, develop and undertake a program described in paragraph 20(a) or (b), despite the fact that an agreement has not been entered into under section 20 in respect of that program,  if the Governor in Council is satisfied that all reasonable efforts have been made by the Minister to enter into such an agreement and that, despite those efforts, it is not possible for an agreement to be entered into in a timely fashion.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut, avec l’approbation du gouverneur en conseil, élaborer et entreprendre un programme visé aux alinéas 20a) ou b) à l’égard duquel aucun accord n’a été conclu en vertu de l’article 20 si le gouverneur en conseil est convaincu que le ministre a fait tous les efforts voulus pour en arriver à un accord et qu’en dépit de ces efforts, il est impossible de conclure un accord en temps opportun.
+
+
+
+Élaboration et lancement de programmes en l’absence d’accord
+
+
+
+
+
+
+
+
+
+
+Ministerial agreements with other countries
+
+
+
+22. The Minister may, with the approval of the Governor in Council, enter into agreements with the governments of other countries to facilitate the implementation and enforcement in those countries of programs or standards applicable to water devices.
+
+
+
+
+
+
+
+
+
+22. Le ministre peut, avec l’approbation du gouverneur en conseil, conclure avec un gouvernement étranger des accords relatifs à la mise en oeuvre et au respect de programmes ou de normes de ce pays applicables aux dispositifs d’eau.
+
+
+
+Accords avec des gouvernements étrangers 
+
+
+
+
+
+
+
+
+
+
+Ministerial agreements with provinces etc.
+
+
+
+23. The Minister may, with the approval of the Governor in Council, enter into agreements with provincial and municipal governments and any organization or group of organizations in Canada respecting the development and operation of demonstration projects or programs involving water recycling, water conservation or water efficiency.
+
+
+
+
+
+
+
+
+
+23. Le ministre peut, avec l'approbation du gouverneur en conseil, conclure avec le gouvernement d’une province, une administration municipale ou une organisation ou un groupe d’organisations au Canada des accords relatifs à l’élaboration et à l’exécution de projets ou de programmes de démonstration afférents au recyclage de l’eau, à la conservation de l’eau ou à l’économie d’eau.
+
+
+
+Accords avec les provinces, etc.
+
+
+
+
+
+
+
+
+
+
+Research and development
+
+
+
+24. The Minister may, in connection with the development and undertaking of programs, conduct research involving any aspect of water recycling, water conservation and water efficiency in cooperation with any government, organization or person.
+
+
+
+
+
+
+
+
+
+24. Le ministre peut, dans le cadre de l'élaboration et du lancement d'un programme et en collaboration avec des gouvernements, organismes ou personnes, effectuer de la recherche relativement à tout sujet lié au recyclage de l’eau, à la conservation de l’eau ou à l’économie d’eau.
+
+
+
+Recherche et développement
+
+
+
+
+
+
+
+
+
+
+Contribution to funding
+
+
+
+24.1 The Minister may, with the approval of the Governor in Council, contribute to the funding of any program undertaken under paragraph 20(b) or section 23.
+
+
+
+
+
+
+
+
+
+24.1 Le ministre peut, avec l’approbation du gouverneur en conseil, contribuer au financement de tout programme entrepris en vertu de l'alinéa 20b) ou de l'article 23.
+
+
+
+Contribution au financement
+
+
+
+
+
+
+
+
+
+
+Conditions applicable to grants and contributions
+
+
+
+24.2 The Minister may, with the approval of the Governor in Council, establish conditions to apply to applicants for and recipients of grants and contributions provided by the Government of Canada to implement water-recycling, water conservation and water efficiency practices.
+
+
+
+
+
+
+
+
+
+24.2 Le ministre peut, avec l’approbation du gouverneur en conseil, établir les conditions applicables aux demandeurs et aux bénéficiaires de subventions ou contributions versées par le gouvernement fédéral pour mettre en oeuvre des pratiques favorisant le recyclage de l’eau, la conservation de l’eau et l’économie d'eau.
+
+
+
+Conditions relatives aux subventions et contributions
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+24.3 (1) Within sixty days after the end of each fiscal year, the Minister shall publish on the departmental website an annual report on the activities carried out under sections 20 to 24.1.
+
+
+
+
+
+
+
+
+
+24.3 (1) Dans les soixante jours suivant la fin de chaque exercice, le ministre publie sur le site Web de son ministère un rapport annuel sur les activités exercées en vertu des articles 20 à 24.1.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Reports and recommendations
+
+
+
+(2) The Minister may, from time to time, publish on the departmental website reports and recommendations on water-recycling, water conservation and water efficiency policies and practices.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut, de temps à autre, publier sur le site Web de son ministère des rapports et des recommandations sur les politiques et pratiques afférentes au recyclage de l’eau, à la conservation de l’eau et à l’économie d’eau.
+
+
+
+Rapports et recommandations
+
+
+
+
+
+
+
+
+
+
+Importation and Interprovincial Sale or Shipping
+
+
+
+
+
+
+
+
+
+Importation et vente ou expédition interprovinciales
+
+
+
+
+
+
+
+
+
+
+
+
+Information to be provided by importers etc.
+
+
+
+24.4 (1) Every person who imports a water device into Canada, or sells or ships a water device from one province to another, shall provide the Minister, in the prescribed form and manner and at the prescribed time, with the prescribed information regarding those devices, including information regarding their water efficiency, their shipment or their importation.
+
+
+
+
+
+
+
+
+
+24.4 (1) Quiconque importe un dispositif d’eau au Canada ou vend ou expédie un dispositif d’eau dans une autre province est tenu de fournir au ministre, selon les modalités — notamment de temps et de forme — réglementaires, les renseignements réglementaires concernant le dispositif, y compris des renseignements sur son efficacité hydrique et sur son expédition ou importation.
+
+
+
+Renseignements fournis par l’importateur, etc.
+
+
+
+
+
+
+
+
+
+
+Exceptions
+
+
+
+(2) The requirement under subsection (1) to provide prescribed information in respect of the water efficiency of any particular water device does not apply if the Minister is satisfied that
+
+
+
+
+
+
+
+
+(a) the information has previously been provided under that subsection; or
+
+
+
+
+
+
+
+
+(b) information has previously been provided under that subsection in respect of the water efficiency of comparable water devices that differ from those devices solely in a manner that does not relate to water efficiency.
+
+
+
+
+
+
+
+
+
+(2) Nul n’est tenu de fournir les renseignements réglementaires sur l’efficacité hydrique du dispositif mentionnés au paragraphe (1) si le ministre est convaincu que ceux-ci :
+
+
+
+Exceptions
+
+
+
+
+a) soit ont déjà été fournis en application de ce paragraphe;
+
+
+
+
+
+
+
+
+b) soit ont déjà été fournis en application de ce paragraphe à l’égard d’un dispositif d’eau comparable qui est identique au dispositif d’eau en question du point de vue de son efficacité hydrique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+24.5 (1) No person shall import a water device into Canada, or sell or ship a water device from one province to another, unless
+
+
+
+
+
+
+
+
+(a) the water device has been certified by an accredited organization to conform to stand­ards established or incorporated by regulation; and
+
+
+
+
+
+
+
+
+(b) the water device is labelled in accordance with the regulations and the prescribed information is included in its packaging.
+
+
+
+
+
+
+
+
+
+24.5 (1) Il est interdit d’importer au Canada ou de vendre ou expédier dans une autre province un dispositif d’eau, sauf aux conditions suivantes : 
+
+
+
+Interdiction
+
+
+
+
+a) un organisme accrédité a certifié que le dispositif est conforme aux normes fixées ou incorporées par règlement;
+
+
+
+
+
+
+
+
+b) le dispositif est étiqueté conformément aux règlements et les renseignements réglementaires sont inclus dans l’emballage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “accredited organization”
+
+
+
+(2) In this section, “accredited organization” means an organization accredited by the Stand­ards Council of Canada as being competent to certify the conformance of water devices to standards established or incorporated by regulation.  
+
+
+
+
+
+
+
+
+
+(2) Au présent article, « organisme accrédité » s’entend d’un organisme accrédité par le Conseil canadien des normes comme étant compétent pour certifier la conformité des dispositifs d’eau aux normes fixées ou incorporées par règlement.
+
+
+
+Définition d’« organisme accrédité »
+
+
+
+
+
+
+
+
+
+
+
+
+5. Subsection 25(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 25(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Designation
+
+
+
+25. (1) The Minister may designate any qualified person as an inspector or analyst for the purposes of this Act but, if a qualified officer of any other department or agency of the Government of Canada or of a provincial government with which an agreement has been entered into under section 20 carries out similar duties for the purposes of other legislation, the Minister shall designate that officer whenever possible.
+
+
+
+
+
+
+
+
+
+25. (1) Le ministre peut désigner toute personne qualifiée à titre d’inspecteur ou d’analyste pour l’application de la présente loi; toutefois, chaque fois que la chose est possible, il doit désigner un fonctionnaire compétent d’un autre ministère ou organisme fédéral ou provincial avec lequel un accord a été conclu en vertu de l’article 20 qui exerce des fonctions analogues pour l’application d’une autre loi.
+
+
+
+
+Désignation
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) Paragraph 26(1)(a) of the Act is amended by striking out “or” at the end of subparagraph (i) and by adding the following after subparagraph (ii):
+
+
+
+
+
+
+
+
+
+6. (1) L’alinéa 26(1)a) de la même loi est modifié par adjonction, après le sous-alinéa (ii), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) there is being carried out any activity relating to the importing, manufacturing or distributing of water devices, or
+
+
+
+
+
+
+(iv) there is being or has been carried out any testing of water devices;
+
+
+
+
+
+
+
+
+
+(iii) que l’on y exerce des activités liées à l’importation, à la fabrication ou à la distribution de dispositifs d’eau,
+
+
+
+
+
+
+(iv) que l’on y effectue, ou y a effectué, des essais sur des dispositifs d’eau;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 26(1) of the Act is amended by striking out “and” at the end of paragraph (b) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe  26(1) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) examine and seize any water device found therein or open any container found therein that the inspector believes on reasonable grounds contains a water device; and
+
+
+
+
+
+
+
+
+
+b.1) examiner et saisir tout dispositif d’eau ou ouvrir tout contenant s’il a des motifs raisonnables de croire qu’il contient un dispositif d’eau; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. The Act is amended by adding the following after section 30:
+
+
+
+
+
+
+
+
+
+7. La même loi est modifiée par adjonction, après l’article 30, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+30.1 Every person who contravenes section 24.4 is guilty of an offence and liable on summary conviction to a fine not exceeding five thousand dollars for each offence.
+
+
+
+
+
+
+
+
+
+30.1 Quiconque contrevient à l’article 24.4 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinq mille dollars pour chaque infraction.
+
+
+
+Peine
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+30.2 Every person who contravenes section 24.5 is guilty of an offence and liable on summary conviction to a fine not exceeding fifty thousand dollars for each offence.
+
+
+
+
+
+
+
+
+
+30.2 Quiconque contrevient à l’article 24.5 commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de cinquante mille dollars pour chaque infraction.
+
+
+
+Peine
+
+
+
+
+
+
+
+
+
+
+
+
+8. Section 31 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+8. L’article 31 de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+31. Every person who contravenes section 27 or any regulation made under paragraph 18(1)(e), (f), (g), (i.3), (i.4) or (i.5) is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+31. Quiconque contrevient à l’article 27 ou à tout règlement d’application des alinéas
+18(1)e), f), g), i.3), i.4) ou i.5) commet une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+Peine
+
+
+
+
+
+
+
+
+
+
+
+
+9. Section 38 of the Act is renumbered as subsection 38(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+9. L’article 38 de la même loi devient le paragraphe 38(1) et est modifié par adjonction de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Comparison of water efficiency standards
+
+
+
+(2) Once every three years, the Minister shall, in the report referred to in subsection (1),  demonstrate the extent to which the water efficiency standards prescribed under this Act are as stringent as comparable standards established by a province, the United Mexican States, the United States of America or a state of the United States of America.
+
+
+
+
+
+
+
+
+
+(2) Tous les trois ans, le ministre démontre dans son rapport dans quelle mesure les normes d’efficacité hydrique fixées sous le régime de la présente loi sont aussi rigoureuses que les normes comparables établies par les provinces, les États-Unis, ou tout État des États-Unis, ou les États-Unis du Mexique.
+
+
+
+Comparaison des normes d’efficacité hydrique
+
+
+
+
+
+
+
+
+
+
+Report on extent water efficiency standards established
+
+
+
+(3) Within four years after the day on which this section comes into force, the Minister shall, in the report referred to in subsection (1), demonstrate the extent to which water efficiency standards have been prescribed under this Act for water devices whose use has a significant impact on water consumption in Canada.
+
+
+
+
+
+
+
+
+
+(3) Dans les quatre ans suivant l’entrée en vigueur du présent article, le ministre démontre dans le rapport visé au paragraphe (1) dans quelle mesure des normes d’efficacité hydrique ont été fixées sous le régime de la présente loi pour les dispositifs d’eau dont l’utilisation a un effet important sur la consommation d’eau au Canada.
+
+
+
+Rapport sur l’établissement des normes d’efficacité hydrique
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+10. The provisions of this Act come into force on a day or days to be fixed by the Governor in Council.
+
+
+
+
+
+
+
+
+
+10. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

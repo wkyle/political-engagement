@@ -1,0 +1,1014 @@
+
+
+
+
+
+
+C-457
+
+
+
+
+
+C-457
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-457
+
+
+
+
+
+PROJET DE LOI C-457
+
+
+
+
+
+
+An Act to amend the Income Tax Act (interest rates on debts owed) and to make a consequential amendment to the Income Tax Regulations
+
+
+
+
+
+Loi modifiant la Loi de l'impôt sur le revenu (taux d'intérêt sur les créances exigibles) et le Règlement de l'impôt sur le revenu en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 12, 2007
+
+
+
+
+
+première lecture le 12 juin 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2nd Session, 39th Parliament
+
+This bill was introduced during the First Session of the 39th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2e session, 39e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 39e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+
+Mr. Pallister
+
+
+391571
+
+
+
+
+M. Pallister
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment provides for the rates of interest to be paid in certain circumstances when money is owed to the Receiver General or to the taxpayer.
+
+
+
+SOMMAIRE
+Le texte établit les taux d’intérêt applicables dans certains cas pour les sommes dues au receveur général ou à un contribuable.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-457
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-457
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Income Tax Act (interest rates on debts owed) and to make a consequential amendment to the Income Tax Regulations
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de l'impôt sur le revenu (taux d'intérêt sur les créances exigibles) et le Règlement de l'impôt sur le revenu en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 1 (5th Supp.)
+
+
+
+INCOME TAX ACT
+
+
+
+
+
+
+
+
+
+LOI DE L’IMPÔT SUR LE REVENU
+
+
+
+L.R., ch. 1 (5e suppl.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Income Tax Act is amended by adding the following after section 227:
+
+
+
+
+
+
+
+
+
+
+1. La Loi de l’impôt sur le revenu est modifiée par adjonction, après l’article 227, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Rate of interest — quarterly
+
+
+
+
+
+227.01 (1) Subject to subsection (2), for the purposes of
+
+
+
+
+
+
+
+
+
+
+
+
+(a) every provision of this Act that requires interest at a prescribed rate to be paid to the Receiver General, the prescribed rate in effect during any particular quarter is the total of
+
+
+
+
+
+
+
+
+
+
+
+
+(i) the rate that is the simple arithmetic mean, expressed as a percentage per year and rounded to the next higher whole percentage where the mean is not a whole percentage, of all amounts each of which is the average equivalent yield, expressed as a percentage per year, of Government of Canada Treasury Bills that mature approximately three months after their date of issue and that are sold at auctions of Government of Canada Treasury Bills during the first month of the quarter preceding the particular quarter, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) 4%;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) every provision of this Act that requires interest at a prescribed rate to be paid or applied on an amount payable by the Minister to a taxpayer, the prescribed rate in effect during any particular quarter is the total of
+
+
+
+
+
+
+
+
+
+
+
+
+(i) the rate determined under subparagraph (a)(i) in respect of the particular quarter, and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) 4%; and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) every other provision of this Act in which reference is made to a prescribed rate of interest or to interest at a prescribed rate, the prescribed rate in effect during any particular quarter is the rate determined under subparagraph (a)(i) in respect of the particular quarter.
+
+
+
+
+
+
+
+
+
+
+
+
+227.01 (1) Sous réserve du paragraphe (2), le taux d’intérêt applicable à un trimestre donné est :
+
+
+
+
+Taux d’intérêt trimestriel
+
+
+
+
+
+
+a) pour l’application des dispositions de la présente loi selon lesquelles des intérêts calculés au taux prescrit sont à payer au receveur général, le total des taux suivants :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) le taux qui représente la moyenne arithmétique simple, exprimée en pourcentage annuel et arrondie au point de pourcentage supérieur, des pourcentages dont chacun représente le taux de rendement moyen, exprimé en pourcentage annuel, des bons du Trésor du gouvernement du Canada qui arrivent à échéance environ trois mois après la date de leur émission et qui sont vendus au cours d’adjudication de bons du Trésor pendant le premier mois du trimestre qui précède le trimestre donné,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) 4 %;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) pour l’application des dispositions de la présente loi selon lesquelles des intérêts calculés au taux prescrit sont à payer ou à imputer sur un montant que le ministre verse à un contribuable, le total des taux suivants :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) le taux déterminé selon le sous-alinéa a)(i) pour le trimestre donné,
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) 4 %;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) pour l’application des autres dispositions de la présente loi qui font mention d’un taux d’intérêt prescrit, le taux déterminé selon le sous-alinéa a)(i) pour le trimestre donné.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rate of interest — monthly
+
+
+
+
+(2) For the purposes of paragraph 16.1(1)(d) of this Act and subsection 1100(1.1) of the Income Tax Regulations, the interest rate in effect during any month is the rate that is one percentage point greater than the rate that was, during the month before the immediately preceding month, the average yield, expressed as a percentage per year rounded to two decimal points, prevailing on all outstanding domestic Canadian-dollar Government of Canada bonds on the last Wednesday of that month with a remaining term to maturity of over 10 years, as first published by the Bank of Canada.
+
+
+
+
+
+
+
+
+
+
+
+(2) Pour l’application de l’alinéa 16.1(1)d) de la présente loi et du paragraphe 1100(1.1) du Règlement de l'impôt sur le revenu, le taux d’intérêt applicable pour un mois donné est d’un point de pourcentage supérieur au taux qui correspondait, au cours du mois antérieur au mois précédant le mois donné, au rendement moyen, exprimé en pourcentage annuel et arrondi à deux décimales, de l’ensemble des obligations d’État intérieures, en monnaie canadienne, qui étaient en circulation le dernier mercredi de ce mois et dont la durée non écoulée jusqu’à l’échéance est supérieure à dix ans, tel que publié pour la première fois par la Banque du Canada.
+
+
+
+
+Taux d’intérêt mensuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Paragraph (b) of the definition “prescribed” in section 248 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. L’alinéa b) de la définition de « prescrit », à l’article 248 de la même loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) in any other case, prescribed by this Act or by regulation or determined in accordance with rules prescribed by regulation;
+
+
+
+
+
+
+
+
+
+
+b) dans les autres cas, visé par la présente loi ou par règlement du gouverneur en conseil, y compris déterminé conformément à des règles prévues par règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C.R.C., c. 945
+
+
+
+INCOME TAX REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENT DE L’IMPÔT SUR LE REVENU
+
+
+
+C.R.C., ch. 945
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Clause 1100(1.1)(a)(i)(B) of the Income Tax Regulations is replaced by the following :
+
+
+
+
+
+
+
+
+
+
+3. La division 1100(1.1)a)(i)(B) du Règlement de l’impôt sur le revenu est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(B) interest had been charged on the principal amount of the loan outstanding from 
+         time to time at the rate, determined in accordance with section 227.01 of the Act,
+         in effect at the earlier of
+
+
+
+
+
+
+
+(I) the time, if any, before the time referred to in subclause (II), at which the 
+            taxpayer last entered into an agreement to lease the property, and
+
+
+
+
+
+
+
+(II) the time that the property last became a specified leasing property
+
+
+
+
+
+
+(or, where a particular lease provides that the amount paid or payable by the  
+            lessee of the property for the use of, or the right to use, the property varies 
+            according to prevailing interest rates in effect from time to time, and the taxpayer 
+            so elects, in respect of all of the property that is the subject of the particular lease, 
+            in the taxpayer's return of income under Part I of the Act for the taxation year of 
+            the taxpayer in which the particular lease was entered into, the rate determined in 
+            accordance with section 227.01 of the Act that is in effect at the 
+            beginning of the period for which the interest is being calculated), compounded    
+            semi-annually not in advance, and
+
+
+
+
+
+
+
+
+
+
+(B) des intérêts, composés semestriellement et non à l'avance, avaient été imputés 
+         sur le principal du prêt impayé au taux, déterminé conformément à l'article 227.01  
+         de la Loi applicable au premier en date des moments suivants :
+
+
+
+
+
+
+
+(I) le moment éventuel, antérieur au moment visé à la subdivision (II), où le 
+            contribuable a conclu pour la dernière fois une convention pour la location du 
+            bien,
+
+
+
+
+
+
+
+(II) le moment où le bien est devenu pour la dernière fois un bien de location  
+            déterminé,
+
+
+
+
+
+
+
+(ou, lorsqu'un bail prévoit que le montant payé ou payable par le preneur du bien  
+            pour l'usage ou le droit d'usage du bien varie selon les taux d'intérêt applicables,     
+            et que le contribuable en fait le choix, à l'égard de tous les biens visés par le bail, 
+            dans sa déclaration de revenu produite en vertu de la partie I de la Loi pour son 
+            année d’imposition au cours de laquelle le bail est conclu, au taux, déterminé 
+            conformément à l'article 227.01 de la Loi, applicable au début de la période pour 
+            laquelle les intérêts sont calculés),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The description of “A” in section 2410 of the Regulations is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. L'élément A de l'article 2410 du même règlement est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A      is the average annual rate of interest determined by reference to rates of interest prescribed in section  227.01 of the Act for the months or portion thereof in the period;
+
+
+
+
+
+
+
+
+
+A      représente le taux annuel moyen des intérêts calculés en fonction du taux d’intérêt prescrit à l’article 227.01 de la Loi pour les mois ou parties de mois de la période;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Sections 4301 and 4302 of the Regulations are repealed.
+
+
+
+
+
+
+
+
+
+
+5. Les articles 4301 et 4302 du même règlement sont abrogés.
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

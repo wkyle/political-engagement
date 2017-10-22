@@ -1,0 +1,2446 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Session, Thirty-eighth Parliament,
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+Première session, trente-huitième législature,
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+STATUTES OF CANADA 2005CHAPTER 44
+
+
+
+
+
+LOIS DU CANADA (2005)CHAPITRE 44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (proceeds of crime) and the Controlled Drugs and Substances Act and to make consequential amendments to another Act
+
+
+
+
+
+Loi modifiant le Code criminel (produits de la criminalité) et la Loi réglementant certaines drogues et autres substances et modifiant une autre loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+25th NOVEMBER, 2005
+BILL C-53
+
+
+
+
+
+SANCTIONNÉE
+LE 25 NOVEMBRE 2005
+PROJET DE LOI C-53
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code, and makes consequential amendments to another Act, to provide a reverse onus of proof in proceeds of crime applications involving offenders who have been convicted of a criminal organization offence or certain offences under the Controlled Drugs and Substances Act. The enactment provides that a court shall make an order of forfeiture against any property of an offender that is identified in an application if the court is satisfied that the offender has engaged in a pattern of criminal activity or has an income unrelated to crime that cannot reasonably account for all of the offender’s property. A court may not, however, make an order of forfeiture against a property that the offender has shown, on a balance of probabilities, not to be proceeds of crime. A court may also decline to make an order of forfeiture against a property if the court considers it in the interests of justice.
+The enactment also amends the Criminal Code to clarify the authority of the Attorney General of Canada in regards to proceeds of crime and to clarify the definition “designated offence” in regards to offences that may be prosecuted by indictment or on summary conviction. It also amends a provision of the Criminal Code to ensure the equivalency of the English and French versions.
+The enactment also amends the Controlled Drugs and Substances Act to clarify the authority of a justice under that Act to issue warrants in respect of investigations of drug-related money laundering and the possession of property obtained by drug-related crime.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel pour prévoir le renversement du fardeau de la preuve quant aux demandes de confiscation relatives aux produits de la criminalité et visant un accusé déclaré coupable d’une infraction d’organisation criminelle ou d’une infraction à certaines dispositions de la Loi réglementant certaines drogues et autres substances, et modifie une autre loi en conséquence. Il prévoit que le tribunal est tenu d’ordonner la confiscation des biens de l’accusé précisés dans la demande s’il est convaincu soit que celui-ci s’est livré à des activités criminelles répétées, soit que son revenu de sources non liées à des infractions désignées ne peut justifier de façon raisonnable la valeur de son patrimoine. Toutefois, il ne peut rendre une telle ordonnance à l’égard de ceux de ces biens dont le contrevenant démontre, selon la prépondérance des probabilités, qu’ils ne constituent pas des produits de la criminalité et peut refuser, si l’intérêt de la justice l’exige, de rendre une telle ordonnance à l’égard de tout bien.
+Le texte modifie aussi le Code criminel en vue de clarifier les attributions du procureur général du Canada à l’égard des produits de la criminalité et la définition de « infraction désignée » à l’égard des infractions mixtes et en vue d’assurer l’équivalence des deux versions d’une disposition.
+Le texte modifie en outre la Loi réglementant certaines drogues et autres substances en vue de permettre l’utilisation des mandats délivrés sous son régime pour les enquêtes visant des infractions liées à la drogue et relatives au blanchiment d’argent ou à la possession de biens criminellement obtenus.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+53-54 ELIZABETH II
+
+
+
+
+
+
+
+
+
+53-54 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 44
+
+
+
+
+
+
+
+
+
+CHAPITRE 44
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (proceeds of crime) and the Controlled Drugs and Substances Act and to make consequential amendments to another Act
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (produits de la criminalité) et la Loi réglementant certaines drogues et autres substances et modifiant une autre loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 25th November, 2005]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 25 novembre 2005]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+2001, ch. 32, s. 12(1), (5)(F) and (6)(E)
+
+
+
+
+1. (1) The definition “designated offence” in subsection 462.3 (1) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. (1) La définition de « infraction désignée », au paragraphe 462.3(1) du Code criminel, est remplacée par ce qui suit :
+
+
+
+2001, ch. 32, par. 12(1), (5)(F) et (6)(A)
+
+
+
+
+
+
+
+
+
+
+“designated offence”« infraction désignée »
+
+
+
+“designated offence” means
+
+
+
+
+
+
+
+
+
+
+(a) any offence that may be prosecuted as an indictable offence under this or any other Act of Parliament, other than an indictable offence prescribed by regulation, or
+
+
+
+
+
+
+
+
+
+
+(b) a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in paragraph (a);
+
+
+
+
+
+
+
+
+
+« infraction désignée »
+
+
+
+« infraction désignée »“designated offence”
+
+
+
+
+
+a) Soit toute infraction prévue par la présente loi ou une autre loi fédérale et pouvant être poursuivie par mise en accusation, à l’exception de tout acte criminel désigné par règlement;
+
+
+
+
+
+
+
+
+
+
+
+b) soit le complot ou la tentative en vue de commettre une telle infraction ou le fait d’en être complice après le fait ou d’en conseiller la perpétration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 32, s. 12(7)
+
+
+
+(2) Subsection 462.3(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 462.3(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 32, par. 12(7)
+
+
+
+
+
+
+
+
+
+
+Powers of Attorney General of Canada
+
+
+
+(3) Despite the definition “Attorney General” in section 2, the Attorney General of Canada may
+
+
+
+
+
+
+
+
+
+
+(a) exercise all the powers and perform all the duties and functions assigned to the Attorney General by or under this Act in respect of a designated offence if the alleged offence arises out of conduct that in whole or in part is in relation to an alleged contravention of an Act of Parliament or a regulation made under such an Act, other than this Act or a regulation made under this Act; and
+
+
+
+
+
+
+
+
+
+
+(b) conduct proceedings and exercise all the powers and perform all the duties and functions assigned to the Attorney General by or under this Act in respect of
+
+
+
+
+
+
+
+
+
+
+(i) an offence referred to in section 354 or 462.31 if the alleged offence arises out of conduct that in whole or in part is in relation to an alleged contravention of an Act of Parliament or a regulation made under such an Act, other than this Act or a regulation made under this Act, and
+
+
+
+
+
+
+
+
+
+
+(ii) an offence under subsection 462.33(11) if the restraint order was made on application of the Attorney General of Canada.
+
+
+
+
+
+
+
+
+
+(3) Par dérogation à la définition de « procureur général » à l’article 2, le procureur général du Canada :
+
+
+
+Pouvoirs du procureur général du Canada
+
+
+
+
+
+a) a tous les pouvoirs et fonctions attribués en vertu de la présente loi au procureur général à l’égard d’une infraction désignée, dans les cas où l’infraction présumée découle de comportements constituant en tout ou en partie une présumée contravention à une loi fédérale — autre que la présente loi — ou aux règlements d’application d’une telle loi fédérale;
+
+
+
+
+
+
+
+
+
+
+
+b) peut intenter des poursuites et a tous les pouvoirs et fonctions attribués en vertu de la présente loi au procureur général à l’égard :
+
+
+
+
+
+
+
+
+
+
+(i) d’une infraction prévue aux articles 354 ou 462.31, dans les cas où l’infraction présumée découle de comportements constituant en tout ou en partie une présumée contravention à une loi fédérale — autre que la présente loi — ou aux règlements d’application d’une telle loi fédérale,
+
+
+
+
+
+
+
+
+
+
+(ii) d’une infraction prévue au paragraphe 462.33(11), dans les cas où l’ordonnance de blocage a été rendue à sa demande.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1997, c. 18, s. 28(1)
+
+
+
+
+2. The portion of subsection 462.31(1) of the French version of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le passage du paragraphe 462.31(1) de la version française de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1997, ch. 18, par. 28(1)
+
+
+
+
+
+
+
+
+
+
+Recyclage des produits de la criminalité
+
+
+
+
+
+462.31 (1) Est coupable d’une infraction quiconque — de quelque façon que ce soit — utilise, enlève, envoie, livre à une personne ou à un endroit, transporte ou modifie des biens ou leurs produits, en dispose, en transfère la possession ou prend part à toute autre forme d’opération à leur égard, dans l’intention de les cacher ou de les convertir sachant ou croyant qu’ils ont été obtenus ou proviennent, en totalité ou en partie, directement ou indirectement :
+
+
+
+
+
+
+
+
+
+
+
+462.31 (1) Est coupable d’une infraction quiconque — de quelque façon que ce soit — utilise, enlève, envoie, livre à une personne ou à un endroit, transporte ou modifie des biens ou leurs produits, en dispose, en transfère la possession ou prend part à toute autre forme d’opération à leur égard, dans l’intention de les cacher ou de les convertir sachant ou croyant qu’ils ont été obtenus ou proviennent, en totalité ou en partie, directement ou indirectement :
+
+
+
+Recyclage des produits de la criminalité
+
+
+
+
+
+
+
+
+
+
+2001, c. 32, s. 14(1)
+
+
+
+
+3. Subsection 462.32(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 462.32(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 32, par. 14(1)
+
+
+
+
+
+
+
+
+
+
+Special search warrant
+
+
+
+
+462.32 (1) Subject to subsection (3), if a judge, on application of the Attorney General, is satisfied by information on oath in Form 1 that there are reasonable grounds to believe that there is in any building, receptacle or place, within the province in which the judge has jurisdiction or any other province, any property in respect of which an order of forfeiture may be made under subsection 462.37(1) or (2.01) or 462.38(2), in respect of a designated offence alleged to have been committed within the province in which the judge has jurisdiction, the judge may issue a warrant authorizing a person named in the warrant or a peace officer to search the building, receptacle or place for that property and to seize that property and any other property in respect of which that person or peace officer believes, on reasonable grounds, that an order of forfeiture may be made under that subsection.
+
+
+
+
+
+
+
+
+
+
+462.32 (1) Sous réserve du paragraphe (3), le juge qui est convaincu, à la lumière des renseignements qui, à la demande du procureur général, lui sont présentés sous serment selon la formule 1, qu’il existe des motifs raisonnables de croire que des biens pourraient faire l’objet d’une ordonnance de confiscation en vertu des paragraphes 462.37(1) ou (2.01) ou 462.38(2) parce qu’ils sont liés à une infraction désignée qui aurait été commise dans la province où il est compétent et qu’ils se trouvent dans un bâtiment, contenant ou lieu situé dans cette province ou dans une autre province peut décerner un mandat autorisant la personne qui y est nommée ou un agent de la paix à perquisitionner dans ce bâtiment, contenant ou lieu et à saisir les biens en question ainsi que tout autre bien dont cette personne ou l’agent de la paix a des motifs raisonnables de croire qu’il pourrait faire l’objet d’une telle ordonnance.
+
+
+
+Mandat spécial
+
+
+
+
+
+
+
+
+
+
+R.S., c. 42 (4th Supp.), s. 2
+
+
+
+
+4. (1) Paragraph 462.33(2)(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. (1) L’alinéa 462.33(2)c) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 42 (4e suppl.), art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the grounds for the belief that an order of forfeiture may be made under subsection 462.37(1) or (2.01) or 462.38(2) in respect of the property;
+
+
+
+
+
+
+
+
+
+
+c) exposé des motifs de croire qu’une ordonnance de confiscation pourrait être rendue à l’égard du bien visé en vertu des paragraphes 462.37(1) ou (2.01) ou 462.38(2);
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 32, s. 15(1)
+
+
+
+(2) Subsection 462.33(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 462.33(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 32, par. 15(1)
+
+
+
+
+
+
+
+
+
+
+Restraint order
+
+
+
+(3) A judge who hears an application for a restraint order made under subsection (1) may — if the judge is satisfied that there are reasonable grounds to believe that there exists, within the province in which the judge has jurisdiction or any other province, any property in respect of which an order of forfeiture may be made under subsection 462.37(1) or (2.01) or 462.38(2), in respect of a designated offence alleged to have been committed within the province in which the judge has jurisdiction — make an order prohibiting any person from disposing of, or otherwise dealing with any interest in, the property specified in the order otherwise than in the manner that may be specified in the order.
+
+
+
+
+
+
+
+
+
+(3) Le juge saisi de la demande peut rendre une ordonnance de blocage s’il est convaincu qu’il existe des motifs raisonnables de croire qu’existent, dans la province où il est compétent ou dans une autre province, des biens qui pourraient faire l’objet, en vertu des paragraphes 462.37(1) ou (2.01) ou 462.38(2), d’une ordonnance visant une infraction désignée qui aurait été commise dans la province où il est compétent; l’ordonnance prévoit qu’il est interdit à toute personne de se départir des biens mentionnés dans l’ordonnance ou d’effectuer des opérations sur les droits qu’elle détient sur ceux-ci, sauf dans la mesure où l’ordonnance le prévoit.
+
+
+
+Ordonnance de blocage
+
+
+
+
+
+
+
+
+
+
+R.S., c. 42 (4th Supp.), s. 2
+
+
+
+(3) Subsection 462.33(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 462.33(5) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 42 (4e suppl.), art. 2
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(5) Before making an order under subsection (3) in relation to any property, a judge may require notice to be given to and may hear any person who, in the opinion of the judge, appears to have a valid interest in the property unless the judge is of the opinion that giving such notice before making the order would result in the disappearance, dissipation or reduction in value of the property or otherwise affect the property so that all or a part thereof could not be subject to an order of forfeiture under subsection 462.37(1) or (2.01) or 462.38(2).
+
+
+
+
+
+
+
+
+
+(5) Avant de rendre une ordonnance de blocage, le juge peut exiger qu’en soient avisées les personnes qui, à son avis, semblent avoir un droit sur les biens visés; il peut aussi les entendre. Le présent paragraphe ne s’applique toutefois pas si le juge estime que le fait de donner cet avis risquerait d’occasionner la disparition des biens visés, une diminution de leur valeur ou leur dissipation de telle façon qu’il serait impossible de rendre à leur égard une ordonnance de confiscation en vertu des paragraphes 462.37(1) ou (2.01) ou 462.38(2).
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+R.S., c. 42 (4th Supp.), s. 2
+
+
+
+(4) Paragraph 462.33(10)(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) L’alinéa 462.33(10)c) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 42 (4e suppl.), art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+(c) an order of forfeiture or restoration of the property is made under subsection 462.37(1) or (2.01), 462.38(2) or 462.41(3) or any other provision of this or any other Act of Parliament.
+
+
+
+
+
+
+
+
+
+
+c) une ordonnance de confiscation ou de restitution des biens est rendue en vertu des paragraphes 462.37(1) ou (2.01), 462.38(2) ou 462.41(3) ou d’une autre disposition de la présente loi ou d’une autre loi fédérale.
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 5, s. 14
+
+
+
+
+5. Section 462.341 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. L’article 462.341 de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 5, art. 14
+
+
+
+
+
+
+
+
+
+
+Application of property restitution provisions
+
+
+
+
+462.341 Subsection 462.34(2), paragraph 462.34(4)(c) and subsections 462.34(5), (5.1) and (5.2) apply, with any modifications that the circumstances require, to a person who has an interest in money or bank-notes that are seized under this Act or the Controlled Drugs and Substances Act and in respect of which proceedings may be taken under subsection 462.37(1) or (2.01) or 462.38(2).
+
+
+
+
+
+
+
+
+
+
+462.341 Le paragraphe 462.34(2), l’alinéa 462.34(4)c) et les paragraphes 462.34(5), (5.1) et (5.2) s’appliquent, avec les adaptations nécessaires, au détenteur d’un droit sur de l’argent ou des billets de banque saisis en vertu de la présente loi ou de la Loi réglementant certaines drogues et autres substances et qui peuvent faire l’objet des procédures prévues aux paragraphes 462.37(1) ou (2.01) ou 462.38(2).
+
+
+
+Application de dispositions en matière de restitution
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) Section 462.37 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+
+6. (1) L’article 462.37 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Order of forfeiture — particular circumstances
+
+
+
+(2.01) A court imposing sentence on an offender convicted of an offence described in subsection (2.02) shall, on application of the Attorney General and subject to this section and sections 462.4 and 462.41, order that any property of the offender that is identified by the Attorney General in the application be forfeited to Her Majesty to be disposed of as the Attorney General directs or otherwise dealt with in accordance with the law if the court is satisfied, on a balance of probabilities, that
+
+
+
+
+
+
+
+
+
+
+(a) within 10 years before the proceedings were commenced in respect of the offence for which the offender is being sentenced, the offender engaged in a pattern of criminal activity for the purpose of directly or indirectly receiving a material benefit, including a financial benefit; or
+
+
+
+
+
+
+
+
+
+
+(b) the income of the offender from sources unrelated to designated offences cannot reasonably account for the value of all the property of the offender.
+
+
+
+
+
+
+
+
+
+(2.01) Dans le cas où l’accusé est déclaré coupable d’une infraction mentionnée au paragraphe (2.02), le tribunal qui détermine la peine à infliger est tenu, sur demande du procureur général et sous réserve des autres dispositions du présent article et des articles 462.4 et 462.41, d’ordonner la confiscation au profit de Sa Majesté des biens de l’accusé précisés par le procureur général dans la demande et de prévoir dans l’ordonnance qu’il est disposé de ces biens selon les instructions du procureur général ou autrement en conformité avec la loi, s’il est convaincu, selon la prépondérance des probabilités, de l’un ou l’autre des faits suivants :
+
+
+
+Confiscation — circonstances particulières
+
+
+
+
+
+a) l’accusé s’est livré, dans les dix ans précédant l’inculpation relative à l’infraction en cause, à des activités criminelles répétées visant à lui procurer, directement ou indirectement, un avantage matériel, notamment pécuniaire;
+
+
+
+
+
+
+
+
+
+
+
+b) le revenu de l’accusé de sources non liées à des infractions désignées ne peut justifier de façon raisonnable la valeur de son patrimoine.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offences
+
+
+
+(2.02) The offences are the following:
+
+
+
+
+
+
+
+
+
+
+(a) a criminal organization offence punishable by five or more years of imprisonment; and
+
+
+
+
+
+
+
+
+
+
+(b) an offence under section 5, 6 or 7 of the Controlled Drugs and Substances Act — or a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to an offence under those sections — prosecuted by indictment.
+
+
+
+
+
+
+
+
+
+(2.02) Les infractions visées sont les suivantes :
+
+
+
+Infractions
+
+
+
+
+
+a) toute infraction d’organisation criminelle passible d’un emprisonnement de cinq ans ou plus;
+
+
+
+
+
+
+
+
+
+
+
+b) toute infraction aux articles 5, 6 ou 7 de la Loi réglementant certaines drogues et autres substances — y compris le complot ou la tentative de commettre une telle infraction, la complicité après le fait à son égard ou le fait de conseiller de la commettre — poursuivie par voie de mise en accusation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offender may establish that property is not proceeds of crime
+
+
+
+(2.03) A court shall not make an order of forfeiture under subsection (2.01) in respect of any property that the offender establishes, on a balance of probabilities, is not proceeds of crime.
+
+
+
+
+
+
+
+
+
+(2.03) L’ordonnance visée au paragraphe (2.01) ne peut être rendue à l’égard de biens dont le contrevenant démontre, selon la prépondérance des probabilités, qu’ils ne constituent pas des produits de la criminalité.
+
+
+
+Biens qui ne sont pas des produits de la criminalité
+
+
+
+
+
+
+
+
+
+
+Pattern of criminal activity
+
+
+
+(2.04) In determining whether the offender has engaged in a pattern of criminal activity described in paragraph (2.01)(a), the court shall consider
+
+
+
+
+
+
+
+
+
+
+(a) the circumstances of the offence for which the offender is being sentenced;
+
+
+
+
+
+
+
+
+
+
+(b) any act or omission — other than an act or omission that constitutes the offence for which the offender is being sentenced — that the court is satisfied, on a balance of probabilities, was committed by the offender and constitutes an offence punishable by indictment under any Act of Parliament;
+
+
+
+
+
+
+
+
+
+
+(c) any act or omission that the court is satisfied, on a balance of probabilities, was committed by the offender and is an offence in the place where it was committed and, if committed in Canada, would constitute an offence punishable by indictment under any Act of Parliament; and
+
+
+
+
+
+
+
+
+
+
+(d) any other factor that the court considers relevant.
+
+
+
+
+
+
+
+
+
+(2.04) Pour décider si le contrevenant s’est livré à des activités criminelles répétées, le tribunal prend en compte :
+
+
+
+Activités criminelles répétées
+
+
+
+
+
+a) les circonstances de la perpétration de l’infraction en cause;
+
+
+
+
+
+
+
+
+
+
+
+b) tout acte ou omission — autre que celui relatif à l’infraction en cause — dont il est convaincu, selon la prépondérance des probabilités, qu’il a été commis par le contrevenant et qu’il constitue une infraction à une loi fédérale punissable par acte d’accusation;
+
+
+
+
+
+
+
+
+
+
+
+c) tout acte ou omission dont il est convaincu, selon la prépondérance des probabilités, qu’il a été commis par le contrevenant, qu’il constitue une infraction dans le lieu où il a été commis et qu’il constituerait, s’il était commis au Canada, une infraction à une loi fédérale punissable par acte d’accusation;
+
+
+
+
+
+
+
+
+
+
+
+d) tout autre facteur qu’il juge pertinent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conditions — pattern of criminal activity
+
+
+
+(2.05) A court shall not determine that an offender has engaged in a pattern of criminal activity unless the court is satisfied, on a balance of probabilities, that the offender committed, within the period referred to in paragraph (2.01)(a),
+
+
+
+
+
+
+
+
+
+
+(a) acts or omissions — other than an act or omission that constitutes the offence for which the offender is being sentenced — that constitute at least two serious offences or one criminal organization offence;
+
+
+
+
+
+
+
+
+
+
+(b) acts or omissions that are offences in the place where they were committed and, if committed in Canada, would constitute at least two serious offences or one criminal organization offence; or
+
+
+
+
+
+
+
+
+
+
+(c) an act or omission described in paragraph (a) that constitutes a serious offence and an act or omission described in paragraph (b) that, if committed in Canada, would constitute a serious offence.
+
+
+
+
+
+
+
+
+
+(2.05) Toutefois, il ne peut se prononcer pour l’affirmative que s’il est convaincu, selon la prépondérance des probabilités, que l’une ou l’autre des conditions suivantes est remplie :
+
+
+
+Conditions
+
+
+
+
+
+a) le contrevenant a commis, au cours de la période visée à l’alinéa (2.01)a), des actes ou omissions — autres que celui relatif à l’infraction en cause — qui constituent au moins deux infractions graves ou une infraction d’organisation criminelle;
+
+
+
+
+
+
+
+
+
+
+
+b) le contrevenant a commis, au cours de la période visée à l’alinéa (2.01)a), des actes ou omissions qui constituent une infraction dans le lieu où ils ont été commis et qui, commis au Canada, constitueraient au moins deux infractions graves ou une infraction d’organisation criminelle;
+
+
+
+
+
+
+
+
+
+
+
+c) les conditions énoncées aux alinéas a) et b) sont toutes deux remplies, mais chacune à l’égard d’une seule infraction grave.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application under subsection (1) not prevented
+
+
+
+(2.06) Nothing in subsection (2.01) shall be interpreted as preventing the Attorney General from making an application under subsection (1) in respect of any property.
+
+
+
+
+
+
+
+
+
+(2.06) Le paragraphe (2.01) n’a pas pour effet d’empêcher le procureur général de faire une demande au titre du paragraphe (1) à l’égard de tout bien.
+
+
+
+Mesure n’empêchant pas une demande au titre du paragraphe (1)
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2.07) A court may, if it considers it in the interests of justice, decline to make an order of forfeiture against any property that would otherwise be subject to forfeiture under subsection (2.01). The court shall give reasons for its decision.
+
+
+
+
+
+
+
+
+
+(2.07) Le tribunal peut, s’il est d’avis que l’intérêt de la justice l’exige, refuser d’ordonner la confiscation de tout bien qui ferait par ailleurs l’objet d’une confiscation au titre du paragraphe (2.01). Il est tenu de motiver sa décision.
+
+
+
+Limite
+
+
+
+
+
+
+
+
+
+
+R.S., c. 42 (4th Supp.), s. 2
+
+
+
+(2) Subsection 462.37(3) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 462.37(3) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 42 (4e suppl.), art. 2
+
+
+
+
+
+
+
+
+
+
+Fine instead of forfeiture
+
+
+
+(3) If a court is satisfied that an order of forfeiture under subsection (1) or (2.01) should be made in respect of any property of an offender but that the property or any part of or interest in the property cannot be made subject to an order, the court may, instead of ordering the property or any part of or interest in the property to be forfeited, order the offender to pay a fine in an amount equal to the value of the property or the part of or interest in the property. In particular, a court may order the offender to pay a fine if the property or any part of or interest in the property
+
+
+
+
+
+
+
+
+
+
+(a) cannot, on the exercise of due diligence, be located;
+
+
+
+
+
+
+
+
+
+
+(b) has been transferred to a third party;
+
+
+
+
+
+
+
+
+
+
+(c) is located outside Canada;
+
+
+
+
+
+
+
+
+
+
+(d) has been substantially diminished in value or rendered worthless; or
+
+
+
+
+
+
+
+
+
+
+(e) has been commingled with other property that cannot be divided without difficulty.
+
+
+
+
+
+
+
+
+
+
+(3) If a court is satisfied that an order of forfeiture under subsection (1) or (2.01) should be made in respect of any property of an offender but that the property or any part of or interest in the property cannot be made subject to an order, the court may, instead of ordering the property or any part of or interest in the property to be forfeited, order the offender to pay a fine in an amount equal to the value of the property or the part of or interest in the property. In particular, a court may order the offender to pay a fine if the property or any part of or interest in the property
+
+
+
+
+Fine instead of forfeiture
+
+
+
+
+
+(a) cannot, on the exercise of due diligence, be located;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) has been transferred to a third party;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) is located outside Canada;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) has been substantially diminished in value or rendered worthless; or
+
+
+
+
+
+
+
+
+
+
+
+
+(e) has been commingled with other property that cannot be divided without difficulty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 42 (4th Supp.), s. 2
+
+
+
+
+7. Paragraph 462.4(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. L’article 462.4 de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 42 (4e suppl.), art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+(a) prior to ordering property to be forfeited under subsection 462.37(1) or (2.01) or 462.38(2), and
+
+
+
+
+
+
+
+
+
+
+462.4 Avant d’ordonner la confiscation d’un bien en vertu des paragraphes 462.37(1) ou (2.01) ou 462.38(2) et dans le cas d’un bien visé par une ordonnance de blocage rendue sous le régime de l’article 462.33 à la condition que celle-ci ait été signifiée en conformité avec le paragraphe 462.33(8), le tribunal peut écarter toute cession de ce bien survenue après la saisie ou le blocage; le présent article ne vise toutefois pas les cessions qui, pour contrepartie, ont été faites de bonne foi à une personne qui ignorait l’origine criminelle des biens.
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 42 (4th Supp.), s. 2
+
+
+
+
+8. (1) Subsection 462.41(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. (1) Le paragraphe 462.41(1) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 42 (4e suppl.), art. 2
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+
+462.41 (1) Before making an order under subsection 462.37(1) or (2.01) or 462.38(2) in relation to any property, a court shall require notice in accordance with subsection (2) to be given to and may hear any person who, in the opinion of the court, appears to have a valid interest in the property.
+
+
+
+
+
+
+
+
+
+
+462.41 (1) Avant de rendre une ordonnance en vertu des paragraphes 462.37(1) ou (2.01) ou 462.38(2) à l’égard d’un bien, le tribunal doit exiger qu’un avis soit donné à toutes les personnes qui, à son avis, semblent avoir un droit sur le bien; le tribunal peut aussi les entendre.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 462.41(3) of the Act is amended by replacing the reference to “subsection 462.37(1)” with a reference to “subsection 462.37(1) or (2.01)”.
+
+
+
+
+
+
+
+
+
+(2) Au paragraphe 462.41(3) de la même loi, « 462.37(1) » est remplacé par « 462.37(1) ou (2.01) ».
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 42 (4th Supp.), s. 2; 2001, c. 32, s. 23(1)
+
+
+
+
+9. Subsection 462.42(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. Le paragraphe 462.42(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 32, par. 23(1)
+
+
+
+
+
+
+
+
+
+
+Application by person claiming interest for relief from forfeiture
+
+
+
+
+462.42 (1) Any person who claims an interest in property that is forfeited to Her Majesty under subsection 462.37(1) or (2.01) or 462.38(2) may, within thirty days after the forfeiture, apply by notice in writing to a judge for an order under subsection (4) unless the person is
+
+
+
+
+
+
+
+
+
+
+(a) a person who is charged with, or was convicted of, a designated offence that resulted in the forfeiture; or
+
+
+
+
+
+
+
+
+
+
+(b) a person who acquired title to or a right of possession of the property from a person referred to in paragraph (a) under circumstances that give rise to a reasonable inference that the title or right was transferred from that person for the purpose of avoiding the forfeiture of the property.
+
+
+
+
+
+
+
+
+
+
+462.42 (1) Toute personne qui prétend avoir un droit sur un bien confisqué au profit de Sa Majesté en vertu des paragraphes 462.37(1) ou (2.01) ou 462.38(2) — à l’exception de celle qui est accusée de l’infraction désignée qui a mené à la confiscation du bien, ou qui a été déclarée coupable d’une telle infraction, ou de celle qui a obtenu un titre ou un droit de possession sur ce bien d’une personne accusée d’une telle infraction dans des circonstances telles qu’elles permettent raisonnablement d’induire que l’opération a été effectuée dans l’intention d’éviter la confiscation des biens — peut dans les trente jours suivant la confiscation demander, par écrit, à un juge de rendre en sa faveur une ordonnance en vertu du paragraphe (4).
+
+
+
+Demandes des tiers intéressés
+
+
+
+
+
+
+
+
+
+
+R.S., c. 42 (4th Supp.), s. 2
+
+
+
+
+10. The portion of section 462.45 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. Le passage de l’article 462.45 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+L.R., ch. 42 (4e suppl.), art. 2
+
+
+
+
+
+
+
+
+
+
+Suspension of forfeiture pending appeal
+
+
+
+
+462.45 Despite anything in this Part, the operation of an order of forfeiture or restoration of property under subsection 462.34(4), 462.37(1) or (2.01), 462.38(2) or 462.41(3) or section 462.43 is suspended pending
+
+
+
+
+
+
+
+
+
+
+462.45 Par dérogation aux autres dispositions de la présente partie, l’exécution d’une ordonnance de confiscation ou de restitution de certains biens en vertu des paragraphes 462.34(4), 462.37(1) ou (2.01), 462.38(2) ou 462.41(3) ou de l’article 462.43 est suspendue jusqu’à :
+
+
+
+Suspension d’exécution pendant un appel
+
+
+
+
+
+
+
+
+
+
+R.S., c. 42 (4th Supp.), s. 2
+
+
+
+
+11. Subsection 462.46(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. Le paragraphe 462.46(1) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 42 (4e suppl.), art. 2
+
+
+
+
+
+
+
+
+
+
+Copies of documents returned or forfeited
+
+
+
+
+462.46 (1) If any document is returned or ordered to be returned, forfeited or otherwise dealt with under subsection 462.34(3) or (4), 462.37(1) or (2.01), 462.38(2) or 462.41(3) or section 462.43, the Attorney General may, before returning the document or complying with the order, cause a copy of the document to be made and retained.
+
+
+
+
+
+
+
+
+
+
+462.46 (1) Le procureur général peut faire et conserver une copie des documents saisis avant de les remettre ou de se conformer à une ordonnance, notamment de confiscation ou de restitution, rendue en vertu des paragraphes 462.34(3) ou (4), 462.37(1) ou (2.01), 462.38(2) ou 462.41(3) ou de l’article 462.43.
+
+
+
+Copies des documents restitués ou confisqués
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 69
+
+
+
+
+12. The portion of subsection 689(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. Le passage du paragraphe 689(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, art. 69
+
+
+
+
+
+
+
+
+
+
+Restitution or forfeiture of property
+
+
+
+
+689. (1) If the trial court makes an order for compensation or for the restitution of property under section 738 or 739 or an order of forfeiture of property under subsection 164.2(1) or 462.37(1) or (2.01), the operation of the order is suspended
+
+
+
+
+
+
+
+
+
+
+689. (1) Lorsqu’une ordonnance d’indemnisation ou de restitution de biens est rendue par le tribunal de première instance en vertu des articles 738 ou 739 ou qu’une ordonnance de confiscation est rendue en vertu des paragraphes 164.2(1) ou 462.37(1) ou (2.01), l’application de l’ordonnance est suspendue :
+
+
+
+Restitution de biens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1996, c. 19
+
+
+
+CONTROLLED DRUGS AND SUBSTANCES ACT
+
+
+
+
+
+
+
+
+
+LOI RÉGLEMENTANT CERTAINES DROGUES ET AUTRES SUBSTANCES
+
+
+
+1996, ch. 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. Paragraph 11(1)(d) of the Controlled Drugs and Substances Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. L’alinéa 11(1)d) de la Loi réglementant certaines drogues et autres substances est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) any thing that will afford evidence in respect of an offence under this Act or an offence, in whole or in part in relation to a contravention of this Act, under section 354 or 462.31 of the Criminal Code
+
+
+
+
+
+
+
+
+
+
+d) une chose qui servira de preuve relativement à une infraction à la présente loi ou, dans les cas où elle découle en tout ou en partie d’une contravention à la présente loi, à une infraction prévue aux articles 354 ou 462.31 du Code criminel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1993, c. 37
+
+
+
+Seized Property Management Act
+
+
+
+
+
+
+
+
+
+Loi sur l’administration des biens saisis
+
+
+
+1993, ch. 37
+
+
+
+
+
+
+
+
+
+
+2000, c. 17, s. 95; 2001, c. 41, s. 110
+
+
+
+
+14. Paragraph 10(1)(a) of the Seized Property Management Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. L’alinéa 10(1)a) de la Loi sur l’administration des biens saisis est remplacé par ce qui suit :
+
+
+
+2000, ch. 17, art. 95; 2001, ch. 41, art. 110
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the forfeiture to Her Majesty of property pursuant to section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the Criminal Code or subsection 16(1) or 17(2) of the Controlled Drugs and Substances Act;
+
+
+
+
+
+
+
+
+
+
+a) la confiscation de biens au profit de Sa Majesté en vertu de l’article 83.14, des paragraphes 462.37(1), (2) ou (2.01) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou des paragraphes 490.1(1) ou 490.2(2) du Code criminel ou des paragraphes 16(1) ou 17(2) de la Loi réglementant certaines drogues et autres substances;
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 41, s. 137(4)
+
+
+
+
+15. Subparagraph 11(a)(i) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. L’alinéa 11a) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 41, par. 137(4)
+
+
+
+
+
+
+
+
+
+
+
+
+(i) property forfeited to Her Majesty pursuant to section 83.14, subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490.1(1) or 490.2(2) of the Criminal Code or subsection 16(1) or 17(2) of the Controlled Drugs and Substances Act, or
+
+
+
+
+
+
+
+
+
+
+a) le produit de l’aliénation des biens confisqués au profit de Sa Majesté en vertu de l’article 83.14, des paragraphes 462.37(1), (2) ou (2.01) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou des paragraphes 490.1(1) ou 490.2(2) du Code criminel ou des paragraphes 16(1) ou 17(2) de la Loi réglementant certaines drogues et autres substances et de ceux qui sont ou ont été visés par une ordonnance de prise en charge et qui ont été confisqués au profit de Sa Majesté en vertu du paragraphe 490(9) du Code criminel, ainsi que sur le produit des biens qui ont été aliénés par les gouvernements étrangers;
+
+
+
+
+
+
+
+
+
+
+
+
+1997, c. 23, s. 25
+
+
+
+
+16. Section 14 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+16. L’article 14 de la même loi est remplacé par ce qui suit :
+
+
+
+1997, ch. 23, art. 25
+
+
+
+
+
+
+
+
+
+
+If costs are greater than proceeds
+
+
+
+
+14. If the proceeds of disposition available to Her Majesty from the forfeiture of any property pursuant to subsection 462.37(1), (2) or (2.01) or 462.38(2), subparagraph 462.43(c)(iii) or subsection 490(9) of the Criminal Code or subsection 16(1) or 17(2) of the Controlled Drugs and Substances Act are insufficient to cover the outstanding amounts charged to the Working Capital Account pursuant to subsection 12(2), and any interest on it, in respect of the property, there shall be charged to the Proceeds Account and credited to the Working Capital Account, or to interest revenue, as the case may be, an amount equal to the amount of the shortfall.
+
+
+
+
+
+
+
+
+
+
+14. Sont portées au débit du compte des biens saisis et portées au crédit du fonds de roulement les sommes nécessaires pour couvrir le déficit qui pourrait résulter de la différence entre le produit de l’aliénation des biens confisqués au profit de Sa Majesté — en application des paragraphes 462.37(1), (2) ou (2.01) ou 462.38(2), du sous-alinéa 462.43c)(iii) ou du paragraphe 490(9) du Code criminel ou des paragraphes 16(1) ou 17(2) de la Loi réglementant certaines drogues et autres sub­stances — et les dépenses relatives aux biens, intérêts compris, portées au débit du fonds de roulement en application du paragraphe 12(2).
+
+
+
+Déficit
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3867 @@
+
+
+
+
+
+
+C-27
+
+
+
+
+
+C-27
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-27
+
+
+
+
+
+PROJET DE LOI C-27
+
+
+
+
+
+
+An Act to amend the Criminal Code (dangerous offenders and recognizance to keep the peace)
+
+
+
+
+
+Loi modifiant le Code criminel (délinquants dangereux et engagement de ne pas troubler l’ordre public)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, October 17, 2006
+
+
+
+
+
+première lecture le 17 octobre 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE MINISTER OF JUSTICE
+
+90383
+
+
+
+LE MINISTRE DE LA JUSTICE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the dangerous offender and long-term offender provisions of the Criminal Code
+(a) to require the prosecutor to advise the court whether the prosecutor intends to proceed with an application for an assessment under those provisions when the prosecutor is of the opinion that the offence for which the offender is convicted is a serious personal injury offence that is a designated offence and that the offender was convicted previously at least twice of a designated offence and was sentenced to at least two years of imprisonment for each of those convictions;
+(b) to remove the court’s discretion to refuse to order an assessment when it is of the opinion that there are reasonable grounds to believe that the offender might be found to be a dangerous offender or a long-term offender;
+(c) to provide that, if the court is satisfied, in a hearing for a dangerous offender designation, that the offence for which the offender has been convicted is a primary designated offence for which it would be appropriate to impose a sentence of imprisonment of two years or more and that the offender was convicted previously at least twice of a primary designated offence and was sentenced to at least two years of imprisonment for each of those convictions, the conditions to make the designation are presumed to have been met unless the contrary is proved on a balance of probabilities; and
+(d) to clarify that, even when the conditions to make a dangerous offender designation have been met, the court must consider whether a lesser sentence, including a long-term offender designation, would adequately protect the public and that neither the prosecutor nor the offender has the onus of proof in the matter.
+The enactment also amends sections 810.1 and 810.2 of the Criminal Code
+(a) to allow the duration of a recognizance to be for a period of up to two years if the court is satisfied that the defendant was convicted previously of an offence of a sexual nature against a child or a serious personal injury offence; and
+(b) to clarify that the scope of conditions available for recognizances is broad and that those conditions may include electronic monitoring, treatment and a requirement to report to a designated authority.
+
+
+
+SOMMAIRE
+Le texte modifie les dispositions du Code Criminel portant sur les délinquants dangereux et les délinquants à contrôler afin :
+
+a) d’obliger le poursuivant à aviser le tribunal de son intention de demander une évaluation sous le régime de ces dispositions lorsqu’il est d’avis que, d’une part, l’infraction dont le délinquant a été déclaré coupable constitue des sévices graves à la personne et est une infraction désignée et que, d’autre part, ce dernier a déjà été condamné pour au moins deux infractions désignées lui ayant valu, dans chaque cas, une peine d’emprisonnement de deux ans ou plus;
+
+b) de retirer au tribunal le pouvoir discrétionnaire de refuser d’ordonner une telle évaluation lorsqu’il existe, à son avis, des motifs raisonnables de croire que le délinquant pourrait être déclaré délinquant dangereux ou délinquant à contrôler;
+
+c) de prévoir que, dans le cas où le tribunal est convaincu, lors de l’audition visant à décider si le délinquant doit être déclaré délinquant dangereux, que, d’une part, l’infraction dont le délinquant a été déclaré coupable est une infraction primaire qui mérite une peine d’emprisonnement de deux ans ou plus et que, d’autre part, ce dernier a déjà été condamné pour au moins deux infractions primaires qui lui ont valu, dans chaque cas, une peine d’emprisonnement de deux ans ou plus, il est présumé, sauf preuve contraire établie selon la prépondérance des probabilités, que les conditions préalables à l’obtention d’une telle déclaration ont été remplies;
+
+d) de clarifier que le tribunal doit, même lorsque les conditions préalables lui permettant de déclarer qu’un délinquant est un délinquant dangereux ont été remplies, décider si une peine moins sévère, notamment le déclarer délinquant à contrôler, protégerait de façon suffisante le public, et que les parties n’assument aucune charge de preuve à cet égard.
+Le texte modifie aussi les articles 810.1 et 810.2 du Code criminel afin :
+
+a) de permettre que la durée des engagements de ne pas troubler l’ordre public soit de deux ans au plus dans les cas où le tribunal est convaincu que le défendeur a déjà été condamné pour une infraction d’ordre sexuel contre les enfants ou une infraction qui constitue des sévices graves à la personne;
+
+b) de clarifier que ces engagements peuvent être assortis d’un vaste éventail de conditions portant notamment sur la surveillance à distance, le traitement et l’obligation de se présenter devant une autorité désignée.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-27
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (dangerous offenders and recognizance to keep the peace)
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (délinquants dangereux et engagement de ne pas troubler l’ordre public)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 752 of the Criminal Code is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+
+1. L’article 752 du Code criminel est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“designated offence”« infraction désignée »
+
+
+
+
+“designated offence” means
+
+
+
+
+
+
+
+
+
+
+
+
+(a) a primary designated offence,
+
+
+
+
+
+
+
+
+
+
+
+
+(b) an offence under any of the following provisions:
+
+
+
+
+
+
+
+
+
+
+
+
+(i) paragraph 81(1)(a) (using explosives),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) paragraph 81(1)(b) (using explosives),
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) section 85 (using firearm or imitation firearm in commission of offence),
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) section 87 (pointing firearm),
+
+
+
+
+
+
+
+
+
+
+
+
+(v) section 153.1 (sexual exploitation of person with disability),
+
+
+
+
+
+
+
+
+
+
+
+
+(vi) section 163.1 (child pornography),
+
+
+
+
+
+
+
+
+
+
+
+
+(vii) section 170 (parent or guardian procuring sexual activity),
+
+
+
+
+
+
+
+
+
+
+
+
+(viii) section 171 (householder permitting sexual activity by or in presence of child),
+
+
+
+
+
+
+
+
+
+
+
+
+(ix) section 172.1 (luring child),
+
+
+
+
+
+
+
+
+
+
+
+
+(x) paragraph 212(1)(i) (stupefying or overpowering for purpose of sexual intercourse),
+
+
+
+
+
+
+
+
+
+
+
+
+(xi) subsection 212(2.1) (aggravated offence in relation to living on avails of prostitution of person under eighteen),
+
+
+
+
+
+
+
+
+
+
+
+
+(xii) subsection 212(4) (prostitution of person under eighteen),
+
+
+
+
+
+
+
+
+
+
+
+
+(xiii) section 245 (administering noxious thing),
+
+
+
+
+
+
+
+
+
+
+
+
+(xiv) section 266 (assault),
+
+
+
+
+
+
+
+
+
+
+
+
+(xv) section 269 (unlawfully causing bodily harm),
+
+
+
+
+
+
+
+
+
+
+
+
+(xvi) section 269.1 (torture),
+
+
+
+
+
+
+
+
+
+
+
+
+(xvii) paragraph 270(1)(a) (assaulting peace officer),
+
+
+
+
+
+
+
+
+
+
+
+
+(xviii) section 273.3 (removal of child from Canada),
+
+
+
+
+
+
+
+
+
+
+
+
+(xix) subsection 279(2) (forcible confinement),
+
+
+
+
+
+
+
+
+
+
+
+
+(xx) section 279.01 (trafficking in persons),
+
+
+
+
+
+
+
+
+
+
+
+
+(xxi) section 279.1 (hostage taking),
+
+
+
+
+
+
+
+
+
+
+
+
+(xxii) section 280 (abduction of person under age of sixteen),
+
+
+
+
+
+
+
+
+
+
+
+
+(xxiii) section 281 (abduction of person under age of fourteen),
+
+
+
+
+
+
+
+
+
+
+
+
+(xxiv) section 344 (robbery), and
+
+
+
+
+
+
+
+
+
+
+
+
+(xxv) section 348 (breaking and entering with intent, committing offence or breaking out),
+
+
+
+
+
+
+
+
+
+
+
+
+(c) an offence under subsection 245(2) of the Criminal Code (assault causing bodily harm), chapter C-34 of the Revised Statutes of Canada, 1970, as it read from time to time before January 4, 1983,
+
+
+
+
+
+
+
+
+
+
+
+
+(d) an offence under any of the following provisions of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as they read from time to time before January 1, 1988:
+
+
+
+
+
+
+
+
+
+
+
+
+(i) subsection 146(2) (sexual intercourse with female between ages of fourteen and sixteen),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) section 148 (sexual intercourse with feeble-minded),
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) section 166 (parent or guardian procuring defilement), and
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) section 167 (householder permitting defilement), or
+
+
+
+
+
+
+
+
+
+
+
+
+(e) an attempt or conspiracy to commit an offence referred to in any of paragraphs (b) to (d);
+
+
+
+
+
+“primary designated offence”« infraction primaire »
+
+
+
+
+“primary designated offence” means
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an offence under any of the following provisions:
+
+
+
+
+
+
+
+
+
+
+
+
+(i) section 151 (sexual interference),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) section 152 (invitation to sexual touching),
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) section 153 (sexual exploitation),
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) section 155 (incest),
+
+
+
+
+
+
+
+
+
+
+
+
+(v) section 239 (attempt to commit murder),
+
+
+
+
+
+
+
+
+
+
+
+
+(vi) section 244 (discharging firearm with intent),
+
+
+
+
+
+
+
+
+
+
+
+
+(vii) section 267 (assault with weapon or causing bodily harm),
+
+
+
+
+
+
+
+
+
+
+
+
+(viii) section 268 (aggravated assault),
+
+
+
+
+
+
+
+
+
+
+
+
+(ix) section 271 (sexual assault),
+
+
+
+
+
+
+
+
+
+
+
+
+(x) section 272 (sexual assault with weapon, threats to third party or causing bodily harm),
+
+
+
+
+
+
+
+
+
+
+
+
+(xi) section 273 (aggravated sexual assault), and
+
+
+
+
+
+
+
+
+
+
+
+
+(xii) subsection 279(1) (kidnapping),
+
+
+
+
+
+
+
+
+
+
+
+
+(b) an offence under any of the following provisions of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as they read from time to time before January 4, 1983:
+
+
+
+
+
+
+
+
+
+
+
+
+(i) section 144 (rape),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) section 145 (attempt to commit rape),
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) section 149 (indecent assault on female),
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) section 156 (indecent assault on male), and
+
+
+
+
+
+
+
+
+
+
+
+
+(v) subsection 246(1) (assault with intent) if the intent is to commit an offence referred to in any of subparagraphs (i) to (iv) of this paragraph,
+
+
+
+
+
+
+
+
+
+
+
+
+(c) an offence under any of the following provisions of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as enacted by section 19 of An Act to amend the Criminal Code in relation to sexual offences and other offences against the person and to amend certain other Acts in relation thereto or in consequence thereof, chapter 125 of the Statutes of Canada, 1980-81-82-83:
+
+
+
+
+
+
+
+
+
+
+
+
+(i) section 246.1 (sexual assault),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) section 246.2 (sexual assault with weapon, threats to third party or causing bodily harm), and
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) section 246.3 (aggravated sexual assault),
+
+
+
+
+
+
+
+
+
+
+
+
+(d) an offence under any of the following provisions of the Criminal Code, chapter C-34 of the Revised Statutes of Canada, 1970, as they read from time to time before January 1, 1988:
+
+
+
+
+
+
+
+
+
+
+
+
+(i) subsection 146(1) (sexual intercourse with female under age of fourteen), and
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) paragraph 153(1)(a) (sexual intercourse with step-daughter), or
+
+
+
+
+
+
+
+
+
+
+
+
+(e) an attempt or conspiracy to commit an offence referred to in any of paragraphs (a) to (d);
+
+
+
+
+
+
+
+
+
+
+
+« infraction désignée » 
+
+
+
+
+« infraction désignée »“designated offence”
+
+
+
+
+
+
+a) Infraction primaire;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) infraction prévue à l’une des dispositions suivantes :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) l’alinéa 81(1)a) (usage d’explosifs),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) l’alinéa 81(1)b) (usage d’explosifs),
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) l’article 85 (usage d’une arme à feu ou d’une fausse arme à feu lors de la perpétration d’une infraction),
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) l’article 87 (braquer une arme à feu),
+
+
+
+
+
+
+
+
+
+
+
+
+(v) l’article 153.1 (exploitation d’une personne handicapée à des fins sexuelles),
+
+
+
+
+
+
+
+
+
+
+
+
+(vi) l’article 163.1 (pornographie juvénile),
+
+
+
+
+
+
+
+
+
+
+
+
+(vii) l’article 170 (père, mère ou tuteur qui sert d’entremetteur),
+
+
+
+
+
+
+
+
+
+
+
+
+(viii) l’article 171 (maître de maison qui permet des actes sexuels interdits),
+
+
+
+
+
+
+
+
+
+
+
+
+(ix) l’article 172.1 (leurre),
+
+
+
+
+
+
+
+
+
+
+
+
+(x) l’alinéa 212(1)i) (fait de stupéfier ou subjuguer pour avoir des rapports sexuels),
+
+
+
+
+
+
+
+
+
+
+
+
+(xi) le paragraphe 212(2.1) (infraction grave — vivre des produits de la prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+
+
+
+
+
+
+(xii) le paragraphe 212(4) (infraction — prostitution d’une personne âgée de moins de dix-huit ans),
+
+
+
+
+
+
+
+
+
+
+
+
+(xiii) l’article 245 (fait d’administrer une substance délétère),
+
+
+
+
+
+
+
+
+
+
+
+
+(xiv) l’article 266 (voies de fait),
+
+
+
+
+
+
+
+
+
+
+
+
+(xv) l’article 269 (infliction illégale de lésions corporelles),
+
+
+
+
+
+
+
+
+
+
+
+
+(xvi) l’article 269.1 (torture),
+
+
+
+
+
+
+
+
+
+
+
+
+(xvii) l’alinéa 270(1)a) (voies de fait contre un agent de la paix),
+
+
+
+
+
+
+
+
+
+
+
+
+(xviii) l’article 273.3 (passage d’enfants à l’étranger),
+
+
+
+
+
+
+
+
+
+
+
+
+(xix) le paragraphe 279(2) (séquestration),
+
+
+
+
+
+
+
+
+
+
+
+
+(xx) l’article 279.01 (traite des personnes),
+
+
+
+
+
+
+
+
+
+
+
+
+(xxi) l’article 279.1 (prise d’otage),
+
+
+
+
+
+
+
+
+
+
+
+
+(xxii) l’article 280 (enlèvement d’une personne âgée de moins de seize ans),
+
+
+
+
+
+
+
+
+
+
+
+
+(xxiii) l’article 281 (enlèvement d’une personne âgée de moins de quatorze ans),
+
+
+
+
+
+
+
+
+
+
+
+
+(xxiv) l’article 344 (vol qualifié),
+
+
+
+
+
+
+
+
+
+
+
+
+(xxv) l’article 348 (introduction par effraction dans un dessein criminel);
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) infraction prévue au paragraphe 245(2) du Code criminel (voies de fait causant des lésions corporelles), chapitre C-34 des Statuts revisés du Canada de 1970, dans toute version antérieure au 4 janvier 1983;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) infraction prévue à l’une des dispositions ci-après du Code criminel, chapitre C-34 des Statuts revisés du Canada de 1970, dans toute version antérieure au 1er janvier 1988 :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) le paragraphe 146(2) (rapports sexuels avec une personne de sexe féminin âgée d’au moins quatorze ans mais de moins de seize ans),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) l’article 148 (rapports sexuels avec une personne faible d’esprit),
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) l’article 166 (père, mère ou tuteur qui cause le déflorement),
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) l’article 167 (maître de maison qui permet le déflorement);
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) infraction constituée par la tentative ou le complot en vue de perpétrer l’une ou l’autre des infractions énumérées aux alinéas b) à d).
+
+
+
+
+
+
+
+
+
+
+
+
+« infraction primaire » Infraction :
+
+
+
+
+« infraction primaire »“primary designated offence”
+
+
+
+
+
+
+a) prévue par l’une des dispositions suivantes :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) l’article 151 (contacts sexuels),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) l’article 152 (incitation à des contacts sexuels),
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) l’article 153 (exploitation sexuelle),
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) l’article 155 (inceste),
+
+
+
+
+
+
+
+
+
+
+
+
+(v) l’article 239 (tentative de meurtre),
+
+
+
+
+
+
+
+
+
+
+
+
+(vi) l’article 244 (décharger une arme à feu avec une intention particulière),
+
+
+
+
+
+
+
+
+
+
+
+
+(vii) l’article 267 (agression armée ou infliction de lésions corporelles),
+
+
+
+
+
+
+
+
+
+
+
+
+(viii) l’article 268 (voies de fait graves),
+
+
+
+
+
+
+
+
+
+
+
+
+(ix) l’article 271 (agression sexuelle),
+
+
+
+
+
+
+
+
+
+
+
+
+(x) l’article 272 (agression sexuelle armée, menaces à une tierce personne ou infliction de lésions corporelles),
+
+
+
+
+
+
+
+
+
+
+
+
+(xi) l’article 273 (agression sexuelle grave),
+
+
+
+
+
+
+
+
+
+
+
+
+(xii) le paragraphe 279(1) (enlèvement);
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) prévue à l’une des dispositions ci-après du Code criminel, chapitre C-34 des Statuts revisés du Canada de 1970, dans toute version antérieure au 4 janvier 1983 :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) l’article 144 (viol),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) l’article 145 (tentative de viol),
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) l’article 149 (attentat à la pudeur d’une personne de sexe féminin),
+
+
+
+
+
+
+
+
+
+
+
+
+(iv) l’article 156 (attentat à la pudeur d’une personne de sexe masculin),
+
+
+
+
+
+
+
+
+
+
+
+
+(v) le paragraphe 246(1) (voies de fait avec intention de commettre un acte criminel), si l’intention est de commettre l’une des infractions visées aux sous-alinéas (i) à (iv) du présent alinéa;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) prévue à l’une des dispositions ci-après du Code criminel, chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version édictée par l’article 19 de la Loi modifiant le Code criminel en matière d’infractions sexuelles et d’autres infractions contre la personne et apportant des modifications corrélatives à d’autres lois, chapitre 125 des Statuts du Canada de 1980-81-82-83 :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) l’article 246.1 (agression sexuelle),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) l’article 246.2 (agression sexuelle armée, menaces à une tierce personne ou infliction de lésions corporelles),
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) l’article 246.3 (agression sexuelle grave);
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) prévue à l’une des dispositions ci-après du Code criminel, chapitre C-34 des Statuts revisés du Canada de 1970, dans toute version antérieure au 1er janvier 1988 :
+
+
+
+
+
+
+
+
+
+
+
+
+(i) le paragraphe 146(1) (rapports sexuels avec une personne de sexe féminin âgée de moins de quatorze ans),
+
+
+
+
+
+
+
+
+
+
+
+
+(ii) l’alinéa 153(1)a) (rapports sexuels avec sa belle-fille);
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) constituée par la tentative ou le complot en vue de perpétrer l’une ou l’autre des infractions énumérées aux alinéas a) à d).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1997, c. 17, s. 4
+
+
+
+
+2. Section 752.1 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. L’article 752.1 de la même loi est remplacé par ce qui suit :
+
+
+
+1997, ch. 17, art. 4
+
+
+
+
+
+
+
+
+
+
+Duty to advise court
+
+
+
+
+
+752.01 If the prosecutor is of the opinion that an offence for which an offender is convicted is a serious personal injury offence that is a designated offence and that the offender was convicted previously at least twice of a designated offence and was sentenced to at least two years of imprisonment for each of those convictions, the prosecutor shall advise the court, as soon as feasible after the finding of guilt and in any event before sentence is imposed, whether the prosecutor intends to make an application under subsection 752.1(1).
+
+
+
+
+
+
+
+
+
+
+
+
+752.01 Dans le cas où le poursuivant est d’avis que, d’une part, l’infraction dont le délinquant a été déclaré coupable constitue des sévices graves à la personne et est une infraction désignée et que, d’autre part, celui-ci a déjà été condamné pour au moins deux infractions désignées lui ayant valu, dans chaque cas, une peine d’emprisonnement de deux ans ou plus, il est tenu, dans les meilleurs délais possible suivant la déclaration de culpabilité et, en tout état de cause, avant la détermination de la peine, d’aviser le tribunal s’il a ou non l’intention de faire une demande au titre du paragraphe 752.1(1).
+
+
+
+
+Obligation d’aviser le tribunal
+
+
+
+
+
+
+
+
+
+
+Application for remand for assessment
+
+
+
+
+752.1 (1) On application by the prosecutor, if the court is of the opinion that there are reasonable grounds to believe that an offender who is convicted of a serious personal injury offence or an offence referred to in paragraph 753.1(2)(a) might be found to be a dangerous offender under section 753 or a long-term offender under section 753.1, the court shall, by order in writing, before sentence is imposed, remand the offender, for a period not exceeding sixty days, to the custody of a person designated by the court who can perform an assessment or have an assessment performed by experts for use as evidence in an application under section 753 or 753.1.
+
+
+
+
+
+
+
+
+
+
+752.1 (1) Sur demande du poursuivant, le tribunal doit, avant d’imposer une peine au délinquant qui a commis des sévices graves à la personne ou une infraction visée à l’alinéa 753.1(2)a) et lorsqu’il a des motifs raisonnables de croire que celui-ci pourrait être déclaré délinquant dangereux ou délinquant à contrôler en vertu respectivement des articles 753 et 753.1, le renvoyer, par une ordonnance écrite et pour une période maximale de soixante jours, à la garde de la personne qu’il désigne, laquelle effectue ou fait effectuer par des experts une évaluation qui sera utilisée comme preuve lors de l’examen de la demande visée aux articles 753 ou 753.1.
+
+
+
+Renvoi pour évaluation
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(2) The person to whom the offender is remanded shall file a report of the assessment with the court not later than thirty days after the end of the assessment period and make copies of it available to the prosecutor and counsel for the offender.
+
+
+
+
+
+
+
+
+
+(2) La personne qui a la garde du délinquant doit, au plus tard trente jours après l’expiration de la période d’évaluation, déposer auprès du tribunal un rapport d’évaluation et mettre des copies de celui-ci à la disposition du poursuivant et de l’avocat du délinquant.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+Extension of time
+
+
+
+
+(3) On application by the prosecutor, the court may extend the period within which the report must be filed by a maximum of thirty days if the court is satisfied that there are reasonable grounds to do so.
+
+
+
+
+
+
+
+
+
+
+
+(3) Sur demande du poursuivant, le tribunal peut, s’il est convaincu qu’il y a des motifs raisonnables de le faire, proroger d’au plus trente jours le délai de dépôt du rapport.
+
+
+
+
+Prorogation des délais
+
+
+
+
+
+
+
+
+
+
+1997, c. 17, s. 4
+
+
+
+
+3. (1) The portion of subsection 753(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. (1) Le passage du paragraphe 753(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1997, ch. 17, art. 4
+
+
+
+
+
+
+
+
+
+
+Application for finding that an offender is a dangerous offender
+
+
+
+
+753. (1) On application made under this Part following the filing of an assessment report under subsection 752.1(2), the court shall find the offender to be a dangerous offender if it is satisfied
+
+
+
+
+
+
+
+
+
+
+753. (1) Sur demande faite, en vertu de la présente partie, postérieurement au dépôt du rapport d’évaluation visé au paragraphe 752.1(2), le tribunal doit déclarer qu’un délinquant est un délinquant dangereux s’il est convaincu que, selon le cas :
+
+
+
+Demande de déclaration — délinquant dangereux
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 753 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(2) L’article 753 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Presumption
+
+
+
+
+(1.1) If the court is satisfied that the offence for which the offender is convicted is a primary designated offence for which it would be appropriate to impose a sentence of imprisonment of two years or more and that the offender was convicted previously at least twice of a primary designated offence and was sentenced to at least two years of imprisonment for each of those convictions, the conditions in paragraph (1)(a) or (b), as the case may be, are presumed to have been met unless the contrary is proved on a balance of probabilities.
+
+
+
+
+
+
+
+
+
+
+
+(1.1) Si le tribunal est convaincu que, d’une part, l’infraction dont le délinquant a été reconnu coupable est une infraction primaire qui mérite une peine d’emprisonnement de deux ans ou plus et que, d’autre part, celui-ci a déjà été condamné pour au moins deux infractions primaires lui ayant valu, dans chaque cas, une peine d’emprisonnement de deux ans ou plus, il est présumé, sauf preuve contraire établie selon la prépondérance des probabilités, que les conditions prévues aux alinéas (1)a) ou b), selon le cas, sont remplies.
+
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+
+(1.2) Despite subsection (1), the court shall not find the offender to be a dangerous offender if it is satisfied by the evidence adduced during the hearing of an application under that subsection that a lesser sentence — either a finding that the offender is a long-term offender or a sentence for the offence for which the offender has been convicted — would adequately protect the public. Neither the prosecutor nor the offender has the onus of proof in this matter.
+
+
+
+
+
+
+
+
+
+
+
+(1.2) Malgré le paragraphe (1), le tribunal ne peut déclarer que le délinquant est un délinquant dangereux s’il est convaincu, sur le fondement des éléments mis en preuve lors de l’audition de la demande visée à ce paragraphe, qu’une peine moins sévère — le déclarer délinquant à contrôler ou lui imposer une peine pour l’infraction pour laquelle il a été déclaré coupable — protégerait de façon suffisante le public, les parties n’assumant à cet égard aucune charge de preuve.
+
+
+
+
+Limite
+
+
+
+
+
+
+
+
+
+
+1997, c. 17, s. 4
+
+
+
+(3) Paragraphs 753(2)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Les alinéas 753(2)a) et b) de la même loi sont remplacés par ce qui suit :
+
+
+
+1997, ch. 17, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+(a) before the imposition of sentence, the prosecutor gives notice to the offender of a possible intention to make an application under section 752.1 and an application under subsection (1) not later than six months after that imposition; and
+
+
+
+
+
+
+(b) at the time of the application under subsection (1) that is not later than six months after the imposition of sentence, it is shown that relevant evidence that was not reasonably available to the prosecutor at the time of the imposition of sentence became available in the interim.
+
+
+
+
+
+
+
+
+
+
+a) avant cette imposition, le poursuivant avise celui-ci de la possibilité qu’elle présente une demande en vertu de l’article 752.1 et une demande en vertu du paragraphe (1) au plus tard six mois après l’imposition;
+
+
+
+
+
+
+
+b) à la date de la présentation de cette dernière demande — au plus tard six mois après l’imposition —, il est démontré que le poursuivant a à sa disposition des éléments de preuve pertinents qui n’étaient pas normalement accessibles au moment de l’imposition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Paragraph 754(1)(b) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. L’alinéa 754(1)b) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) le poursuivant a donné au délinquant un préavis d’au moins sept jours francs après la présentation de la demande indiquant ce sur quoi la demande se fonde;
+
+
+
+
+
+
+
+
+
+
+
+b) le poursuivant a donné au délinquant un préavis d’au moins sept jours francs après la présentation de la demande indiquant ce sur quoi la demande se fonde;
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 13, s. 81(1)
+
+
+
+
+5. Subsection 810.1(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 810.1(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 13, par. 81(1)
+
+
+
+
+
+
+
+
+
+
+Adjudication
+
+
+
+(3) If the provincial court judge before whom the parties appear is satisfied by the evidence adduced that the informant has reasonable grounds for the fear, the judge may order that the defendant enter into a recognizance to keep the peace and be of good behaviour for a period that does not exceed twelve months.
+
+
+
+
+
+
+
+
+
+(3) Le juge devant lequel les parties comparaissent peut, s’il est convaincu par la preuve apportée que les craintes du dénonciateur sont fondées sur des motifs raisonnables, ordonner que le défendeur contracte l’engagement de ne pas troubler l’ordre public et d’avoir une bonne conduite pour une période maximale de douze mois.
+
+
+
+Décision
+
+
+
+
+
+
+
+
+
+
+Duration extended
+
+
+
+
+(3.01) However, if the provincial court judge is also satisfied that the defendant was convicted previously of a sexual offence in respect of a person who is under the age of fourteen years, the judge may order that the defendant enter into the recognizance for a period that does not exceed two years.
+
+
+
+
+
+
+
+
+
+
+
+(3.01) Toutefois, s’il est convaincu en outre que le défendeur a déjà été reconnu coupable d’une infraction d’ordre sexuel à l’égard d’une personne âgée de moins de quatorze ans, le juge peut lui ordonner de contracter l’engagement pour une période maximale de deux ans.
+
+
+
+
+Prolongation
+
+
+
+
+
+
+
+
+
+
+Conditions in recognizance
+
+
+
+
+(3.02) The provincial court judge may add any reasonable conditions to the recognizance that the judge considers desirable to secure the good conduct of the defendant, including conditions that
+
+
+
+
+
+
+
+
+
+
+
+
+(a) prohibit the defendant from engaging in any activity that involves contact with persons under the age of fourteen years, including using a computer system within the meaning of subsection 342.1(2) for the purpose of communicating with a person under that age;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) prohibit the defendant from attending a public park or public swimming area where persons under the age of fourteen years are present or can reasonably be expected to be present, or a daycare centre, schoolground or playground;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) require the defendant to participate in a treatment program;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) require the defendant to wear an elec-tronic monitoring device, as long as the Attorney General makes the request;
+
+
+
+
+
+
+
+
+
+
+
+
+(e) require the defendant to remain within a specified geographic area unless written permission to leave that area is obtained from the provincial court judge;
+
+
+
+
+
+
+
+
+
+
+
+
+(f) require the defendant to return to and remain at his or her place of residence at specified times; or
+
+
+
+
+
+
+
+
+
+
+
+
+(g) require the defendant to abstain from the consumption of drugs except in accordance with a medical prescription, of alcohol or of any other intoxicating substance.
+
+
+
+
+
+
+
+
+
+
+
+(3.02) Le juge peut assortir l’engagement des conditions raisonnables qu’il estime souhaitables pour garantir la bonne conduite du défendeur, notamment les conditions suivantes :
+
+
+
+
+Conditions de l’engagement
+
+
+
+
+
+
+a) ne pas se livrer à des activités qui entraînent des contacts avec des personnes âgées de moins de quatorze ans, notamment utiliser un ordinateur au sens du paragraphe 342.1(2) dans le but de communiquer avec une personne âgée de moins de quatorze ans;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) ne pas se trouver dans un parc public ou une zone publique où l’on peut se baigner, s’il s’y trouve des personnes âgées de moins de quatorze ans ou s’il est raisonnable de s’attendre à ce qu’il s’y en trouve, ou dans une garderie, une cour d’école ou un terrain de jeu;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) participer à un programme de traitement;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) porter un dispositif de surveillance à distance, si le procureur général demande l’ajout de cette condition;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) rester dans une région désignée, sauf permission écrite donnée par le juge;
+
+
+
+
+
+
+
+
+
+
+
+
+
+f) regagner sa résidence et y rester aux moments précisés dans l’engagement;
+
+
+
+
+
+
+
+
+
+
+
+
+
+g) s’abstenir de consommer des drogues — sauf sur ordonnance médicale —, de l’alcool ou d’autres substances intoxicantes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conditions — firearms
+
+
+
+
+(3.03) The provincial court judge shall consider whether it is desirable, in the interests of the defendant’s safety or that of any other person, to prohibit the defendant from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or all of those things. If the judge decides that it is desirable to do so, the judge shall add that condition to the recognizance and specify the period during which the condition applies.
+
+
+
+
+
+
+
+
+
+
+
+(3.03) Le juge doit décider s’il est souhaitable pour la sécurité du défendeur, ou pour celle d’autrui, de lui interdire d’avoir en sa possession des armes à feu, arbalètes, armes prohibées, armes à autorisation restreinte, dispositifs prohibés, munitions, munitions prohibées et substances explosives, ou l’un ou plusieurs de ces objets, et, dans l’affirmative, il doit assortir l’engagement d’une condition à cet effet et y prévoir la période d’application de celle-ci.
+
+
+
+
+Conditions — armes à feu
+
+
+
+
+
+
+
+
+
+
+Surrender, etc.
+
+
+
+
+(3.04) If the provincial court judge adds a condition described in subsection (3.03) to a recognizance, the judge shall specify in the recognizance how the things referred to in that subsection that are in the defendant’s possession should be surrendered, disposed of, detained, stored or dealt with and how the authorizations, licences and registration certificates that are held by the defendant should be surrendered.
+
+
+
+
+
+
+
+
+
+
+
+(3.04) Le cas échéant, l’engagement prévoit la façon de remettre, de détenir ou d’entreposer les objets visés au paragraphe (3.03) qui sont en la possession du défendeur, ou d’en disposer, et de remettre les autorisations, permis et certificats d’enregistrement dont celui-ci est titulaire.
+
+
+
+
+Remise
+
+
+
+
+
+
+
+
+
+
+Condition — reporting
+
+
+
+
+(3.05) The provincial court judge shall consider whether it is desirable to require the defendant to report to the correctional authority of a province or to an appropriate police authority. If the judge decides that it is desirable to do so, the judge shall add that condition to the recognizance.
+
+
+
+
+
+
+
+
+
+
+
+(3.05) Le juge doit décider s’il est souhaitable que le défendeur se présente devant les autorités correctionnelles de la province ou les autorités policières compétentes et, dans l’affirmative, il doit assortir l’engagement d’une condition à cet effet.
+
+
+
+
+Condition — présentation devant une autorité
+
+
+
+
+
+
+
+
+
+
+1997, c.17, s. 9(1)
+
+
+
+
+6. (1) Subsection 810.2(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. (1) Le paragraphe 810.2(3) de la même loi est remplacé par ce qui suit :
+
+
+
+1997, ch. 17, par. 9(1)
+
+
+
+
+
+
+
+
+
+
+Adjudication
+
+
+
+(3) If the provincial court judge before whom the parties appear is satisfied by the evidence adduced that the informant has reasonable grounds for the fear, the judge may order that the defendant enter into a recognizance to keep the peace and be of good behaviour for a period that does not exceed twelve months.
+
+
+
+
+
+
+
+
+
+(3) Le juge devant lequel les parties comparaissent peut, s’il est convaincu par la preuve apportée que les craintes du dénonciateur sont fondées sur des motifs raisonnables, ordonner que le défendeur contracte l’engagement de ne pas troubler l’ordre public et d’avoir une bonne conduite pour une période maximale de douze mois. 
+
+
+
+Décision
+
+
+
+
+
+
+
+
+
+
+Duration extended
+
+
+
+
+(3.01) However, if the provincial court judge is also satisfied that the defendant was convicted previously of an offence referred to in subsection (1), the judge may order that the defendant enter into the recognizance for a period that does not exceed two years.
+
+
+
+
+
+
+
+
+
+
+
+(3.01) Toutefois, s’il est convaincu en outre que le défendeur a déjà été reconnu coupable d’une infraction visée au paragraphe (1), le juge peut lui ordonner de contracter l’engagement pour une période maximale de deux ans.
+
+
+
+
+Prolongation
+
+
+
+
+
+
+
+
+
+
+1997, c. 17, ss. 9(1) and (2)
+
+
+
+(2) Subsections 810.2(5) to (6) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 810.2(5) à (6) de la même loi sont remplacés par ce qui suit :
+
+
+
+1997, ch. 17, par. 9(1) et (2)
+
+
+
+
+
+
+
+
+
+
+Conditions in recognizance
+
+
+
+
+(4.1) The provincial court judge may add any reasonable conditions to the recognizance that the judge considers desirable to secure the good conduct of the defendant, including conditions that require the defendant
+
+
+
+
+
+
+
+
+
+
+
+
+(a) to participate in a treatment program;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) to wear an electronic monitoring device, as long as the Attorney General makes the request;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) to remain within a specified geographic area unless written permission to leave that area is obtained from the provincial court judge;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) to return to and remain at his or her place of residence at specified times; or
+
+
+
+
+
+
+
+
+
+
+
+
+(e) to abstain from the consumption of drugs except in accordance with a medical prescription, of alcohol or of any other intoxicating substance.
+
+
+
+
+
+
+
+
+
+
+
+(4.1) Le juge peut assortir l’engagement des conditions raisonnables qu’il estime souhaitables pour garantir la bonne conduite du défendeur, notamment celles lui intimant :
+
+
+
+
+Conditions de l’engagement
+
+
+
+
+
+
+a) de participer à un programme de traitement;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) de porter un dispositif de surveillance à distance, si le procureur général demande l’ajout de cette condition;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) de rester dans une région désignée, sauf permission écrite donnée par le juge;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) de regagner sa résidence et d’y rester aux moments précisés dans l’engagement;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) de s’abstenir de consommer des drogues — sauf sur ordonnance médicale —, de l’alcool ou d’autres substances intoxicantes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conditions — firearms
+
+
+
+(5) The provincial court judge shall consider whether it is desirable, in the interests of the defendant’s safety or that of any other person, to prohibit the defendant from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or all of those things. If the judge decides that it is desirable to do so, the judge shall add that condition to the recognizance and specify the period during which the condition applies.
+
+
+
+
+
+
+
+
+
+(5) Le juge doit décider s’il est souhaitable pour la sécurité du défendeur, ou pour celle d’autrui, de lui interdire d’avoir en sa possession des armes à feu, arbalètes, armes prohibées, armes à autorisation restreinte, dispositifs prohibés, munitions, munitions prohibées et sub-stances explosives, ou l’un ou plusieurs de ces objets, et, dans l’affirmative, il doit assortir l’engagement d’une condition à cet effet et y prévoir la période d’application de celle-ci.
+
+
+
+Conditions — armes à feu
+
+
+
+
+
+
+
+
+
+
+Surrender, etc.
+
+
+
+(5.1) If the provincial court judge adds a condition described in subsection (5) to a recognizance, the judge shall specify in the recognizance how the things referred to in that subsection that are in the defendant’s possession should be surrendered, disposed of, detained, stored or dealt with and how the authorizations, licences and registration certificates that are held by the defendant should be surrendered.
+
+
+
+
+
+
+
+
+
+(5.1) Le cas échéant, l’engagement prévoit la façon de remettre, de détenir ou d’entreposer les objets visés au paragraphe (5) qui sont en la possession du défendeur, ou d’en disposer, et de remettre les autorisations, permis et certificats d’enregistrement dont celui-ci est titulaire.
+
+
+
+Remise
+
+
+
+
+
+
+
+
+
+
+Reasons
+
+
+
+(5.2) If the provincial court judge does not add a condition described in subsection (5) to a recognizance, the judge shall include in the record a statement of the reasons for not adding the condition.
+
+
+
+
+
+
+
+
+
+(5.2) Le juge qui n’assortit pas l’engagement de la condition prévue au paragraphe (5) est tenu de donner ses motifs, qui sont consignés au dossier de l’instance.
+
+
+
+Motifs
+
+
+
+
+
+
+
+
+
+
+Condition — reporting
+
+
+
+(6) The provincial court judge shall consider whether it is desirable to require the defendant to report to the correctional authority of a province or to an appropriate police authority. If the judge decides that it is desirable to do so, the judge shall add that condition to the recognizance.
+
+
+
+
+
+
+
+
+
+(6) Le juge doit décider s’il est souhaitable que le défendeur se présente devant les autorités correctionnelles de la province ou les autorités policières compétentes et, dans l’affirmative, il doit assortir l’engagement d’une condition à cet effet.
+
+
+
+Condition — présentation devant une autorité
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENTS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-10
+
+
+
+
+7. If Bill C-10, introduced in the 1st session of the 39th Parliament and entitled An Act to amend the Criminal Code (minimum penalties for offences involving firearms) and to make a consequential amendment to another Act, receives royal assent, then, on the later of the day on which section 9 of that Act comes into force and the day on which section 1 of this Act comes into force — or, if those days are the same day, then on that day — subparagraph (a)(i) of the definition “primary designated offence” in section 752 of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. En cas de sanction du projet de loi C-10, déposé au cours de la 1re session de la 39e législature et intitulé Loi modifiant le Code criminel (peines minimales pour les infractions mettant en jeu des armes à feu) et une autre loi en conséquence, à l’entrée en vigueur de l’article 9 de cette loi ou à celle, si elle est postérieure, de l’article 1 de la présente loi, le sous-alinéa a)(i) de la définition de « infraction primaire » à l’article 752 du Code criminel est remplacé par ce qui suit :
+
+
+
+Projet de loi C-10
+
+
+
+
+
+
+
+
+
+
+
+
+(i) section 98 (breaking and entering to steal firearm),
+
+
+
+
+
+
+(i.1) section 98.1 (robbery to steal firearm),
+
+
+
+
+
+
+(i.2) section 151 (sexual interference),
+
+
+
+
+
+
+
+
+
+(i) l’article 98 (introduction par effraction pour voler une arme à feu),
+
+
+
+
+
+
+(i.1) l’article 98.1 (vol qualifié visant une arme à feu),
+
+
+
+
+
+
+(i.2) l’article 151 (contacts sexuels),
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-22
+
+
+
+
+8. (1) Subsections (2) to (4) apply if Bill C-22, introduced in the 1st session of the 39th Parliament and entitled An Act to amend the Criminal Code (age of protection) and to make consequential amendments to the Criminal Records Act (the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+
+8. (1) Les paragraphes (2) à (4) s’appliquent en cas de sanction du projet de loi C-22, déposé au cours de la 1re session de la 39e législature et intitulé Loi modifiant le Code criminel (âge de protection) et la Loi sur le casier judiciaire en conséquence (appelé « autre loi » au présent article).
+
+
+
+Projet de loi C-22
+
+
+
+
+
+
+
+
+
+
+
+
+(2) If the other Act comes into force before this Act,
+
+
+
+
+
+
+(a) subsection 810.1(3.01) of the Criminal Code, as enacted by section 5 of this Act, is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Si l’autre loi entre en vigueur avant la présente loi :
+
+
+
+
+
+
+
+a) le paragraphe 810.1(3.01) du Code criminel, édicté par l’article 5 de la présente loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Duration extended
+
+
+
+(3.01) However, if the provincial court judge is also satisfied that the defendant was convicted previously of a sexual offence in respect of a person who is under the age of sixteen years, the judge may order that the defendant enter into the recognizance for a period that does not exceed two years.
+
+
+
+
+
+
+
+
+
+
+(b) paragraphs 810.1(3.02)(a) and (b) of the Criminal Code, as enacted by section 5 of this Act, are replaced by the following:
+
+
+
+
+
+
+
+
+
+(3.01) Toutefois, s’il est convaincu en outre que le défendeur a déjà été reconnu coupable d’une infraction d’ordre sexuel à l’égard d’une personne âgée de moins de seize ans, le juge peut lui ordonner de contracter l’engagement pour une période maximale de deux ans.
+
+
+
+Prolongation
+
+
+
+
+
+b) les alinéas 810.1(3.02)a) et b) du Code criminel, édictés par l’article 5 de la présente loi, sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) prohibit the defendant from engaging in any activity that involves contact with persons under the age of sixteen years, including using a computer system within the meaning of subsection 342.1(2) for the purpose of communicating with a person under that age;
+
+
+
+
+
+
+(b) prohibit the defendant from attending a public park or public swimming area where persons under the age of sixteen years are present or can reasonably be expected to be present, or a daycare centre, schoolground or playground;
+
+
+
+
+
+
+
+
+
+
+a) ne pas se livrer à des activités qui entraînent des contacts avec des personnes âgées de moins de seize ans, notamment utiliser un ordinateur au sens du paragraphe 342.1(2) dans le but de communiquer avec une personne âgée de moins de seize ans;
+
+
+
+
+
+
+
+b) ne pas se trouver dans un parc public ou une zone publique où l’on peut se baigner, s’il s’y trouve des personnes âgées de moins de seize ans ou s’il est raisonnable de s’attendre à ce qu’il s’y en trouve, ou dans une garderie, une cour d’école ou un terrain de jeu;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If this Act comes into force before the other Act, then paragraph 3(j) of that Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Si la présente loi entre en vigueur avant l’autre loi, l’alinéa 3j) de celle-ci est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(j) subsections 810.1(1) and (3.01) and paragraphs 810.1(3.02)(a) and (b).
+
+
+
+
+
+
+
+
+
+
+j) les paragraphes 810.1(1) et (3.01) et les alinéas 810.1(3.02)a) et b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) If this Act and the other Act come into force on the same day, then this Act is deemed to have come into force before the other Act.
+
+
+
+
+
+
+
+
+
+(4) Si l’entrée en vigueur de la présente loi et celle de l’autre loi sont concomitantes, la présente loi est réputée être entrée en vigueur avant l’autre loi.
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Criminal Code
+
+Clause 1: New.
+
+
+
+Code criminel
+
+Article 1 : Nouveau.
+
+
+
+
+
+Clause 2: Existing text of section 752.1:
+
+752.1 (1) Where an offender is convicted of a serious personal injury offence or an offence referred to in paragraph 753.1(2)(a) and, before sentence is imposed on the offender, on application by the prosecution, the court is of the opinion that there are reasonable grounds to believe that the offender might be found to be a dangerous offender under section 753 or a long-term offender under section 753.1, the court may, by order in writing, remand the offender, for a period not exceeding sixty days, to the custody of the person that the court directs and who can perform an assessment, or can have an assessment performed by experts. The assessment is to be used as evidence in an application under section 753 or 753.1.
+(2) The person to whom the offender is remanded shall file a report of the assessment with the court not later than fifteen days after the end of the assessment period and make copies of it available to the prosecutor and counsel for the offender.
+
+
+
+
+Article 2 : Texte de l’article 752.1 :
+
+752.1 (1) Sur demande faite par la poursuite, le tribunal peut, avant d’imposer une peine au délinquant qui a commis des sévices graves à la personne ou une infraction visée à l’alinéa 753.1(2)a) et lorsqu’il a des motifs raisonnables de croire que celui-ci pourrait être déclaré délinquant dangereux ou délinquant à contrôler en vertu respectivement des articles 753 et 753.1, le renvoyer, par une ordonnance écrite et pour une période maximale de soixante jours, à la garde de la personne qu’il désigne, laquelle effectue ou fait effectuer par des experts une évaluation qui sera utilisée comme preuve lors de l’examen de la demande visée aux articles 753 ou 753.1.
+(2) La personne qui a la garde du délinquant doit, au plus tard quinze jours après l’expiration de la période d’évaluation, déposer auprès du tribunal un rapport d’évaluation et mettre des copies de celui-ci à la disposition de la poursuite et de l’avocat du délinquant.
+
+
+
+
+
+Clause 3: (1) Relevant portion of subsection 753(1):
+
+753. (1) The court may, on application made under this Part following the filing of an assessment report under subsection 752.1(2), find the offender to be a dangerous offender if it is satisfied
+
+
+
+
+Article 3 : (1) Texte du passage visé du paragraphe 753(1) :
+
+753. (1) Sur demande faite, en vertu de la présente partie, postérieurement au dépôt du rapport d’évaluation visé au paragraphe 752.1(2), le tribunal peut déclarer qu’un délinquant est un délinquant dangereux, s’il est convaincu que, selon le cas :
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+(3) Relevant portion of subsection 753(2):
+(2) An application under subsection (1) must be made before sentence is imposed on the offender unless
+(a) before the imposition of sentence, the prosecution gives notice to the offender of a possible intention to make an application under section 752.1 and an application under subsection (1) not later than six months after that imposition; and
+(b) at the time of the application under subsection (1) that is not later than six months after the imposition of sentence, it is shown that relevant evidence that was not reasonably available to the prosecution at the time of the imposition of sentence became available in the interim.
+
+
+
+(3) Texte du passage visé du paragraphe 753(2) :
+(2) La demande visée au paragraphe (1) doit être présentée avant que la peine soit imposée au délinquant, sauf si les conditions suivantes sont réunies :
+
+a) avant cette imposition, la poursuite avise celui-ci de la possibilité qu’elle présente une demande en vertu de l’article 752.1 et une demande en vertu du paragraphe (1) au plus tard six mois après l’imposition;
+
+b) à la date de la présentation de cette dernière demande — au plus tard six mois après l’imposition —, il est démontré que la poursuite a à sa disposition des éléments de preuve pertinents qui n’étaient pas normalement accessibles au moment de l’imposition.
+
+
+
+
+
+Clause 4: Relevant portion of subsection 754(1):
+
+754. (1) Where an application under this Part has been made, the court shall hear and determine the application except that no such application shall be heard unless
+...  
+(b) at least seven days notice has been given to the offender by the prosecutor, following the making of the application, outlining the basis on which it is intended to found the application; and
+
+
+
+
+Article 4 : Texte du passage visé du paragraphe 754(1) :
+
+754. (1) Le tribunal ne peut entendre et statuer sur une demande faite en vertu de la présente partie que dans le cas suivant :
+[...]  
+
+b) la poursuite a donné au délinquant un préavis d’au moins sept jours francs après la présentation de la demande indiquant ce sur quoi la demande se fonde;
+
+
+
+
+
+Clause 5: Existing text of subsection 810.1(3):
+(3) The provincial court judge before whom the parties appear may, if satisfied by the evidence adduced that the informant has reasonable grounds for the fear, order the defendant to enter into a recognizance and, for a period fixed by the provincial court judge of not more than twelve months, comply with the conditions fixed by the provincial court judge, including a condition prohibiting the defendant from
+(a) engaging in any activity that involves contact with persons under the age of fourteen years, including using a computer system within the meaning of subsection 342.1(2) for the purpose of communicating with a person under the age of fourteen years; and
+(b) attending a public park or public swimming area where persons under the age of fourteen years are present or can reasonably be expected to be present, or a daycare centre, schoolground, playground or community centre.
+
+
+
+
+Article 5 : Texte du paragraphe 810.1(3) :
+(3) Le juge devant lequel les parties comparaissent peut, s’il est convaincu par la preuve apportée, que les craintes du dénonciateur sont fondées sur des motifs raisonnables, ordonner que le défendeur contracte un engagement assorti des conditions que le tribunal fixe, y compris celle interdisant au défendeur, pour une période maximale de douze mois :
+
+a) de se livrer à des activités qui entraînent des contacts avec des personnes âgées de moins de quatorze ans, notamment d’utiliser un ordinateur au sens du paragraphe 342.1(2) dans le but de communiquer avec une personne âgée de moins de quatorze ans;
+
+b) de se trouver dans un parc public ou une zone publique où l’on peut se baigner — s’il s’y trouve des personnes âgées de moins de quatorze ans ou s’il est raisonnable de s’attendre à ce qu’il s’y en trouve — ou une garderie, un terrain d’école, un terrain de jeu ou un centre communautaire.
+
+
+
+
+
+Clause 6: (1) Existing text of subsection 810.2(3):
+(3) The provincial court judge before whom the parties appear may, if satisfied by the evidence adduced that the informant has reasonable grounds for the fear, order that the defendant enter into a recognizance to keep the peace and be of good behaviour for any period that does not exceed twelve months and to comply with any other reasonable conditions prescribed in the recognizance, including the conditions set out in subsections (5) and (6), that the provincial court judge considers desirable for securing the good conduct of the defendant.
+
+
+
+
+Article 6 : (1) Texte du paragraphe 810.2(3) :
+(3) Le juge devant lequel les parties comparaissent peut, s’il est convaincu, par la preuve apportée, que les craintes du dénonciateur sont fondées sur des motifs raisonnables, ordonner que le défendeur contracte l’engagement de ne pas troubler l’ordre public et d’observer une bonne conduite pour une période maximale de douze mois, ainsi que de se conformer aux autres conditions raisonnables énoncées dans l’engagement, y compris celles visées aux paragraphes (5) et (6), que le juge estime souhaitables pour assurer la bonne conduite du défendeur.
+
+
+
+
+(2) Existing text of subsections 810.2(5) to (6):
+(5) Before making an order under subsection (3), the provincial court judge shall consider whether it is desirable to include as a condition of the recognizance that the defendant report to the correctional authority of a province or to an appropriate police authority, and where the provincial court judge decides that it is desirable for the defendant to so report, the provincial court judge may add the appropriate condition to the recognizance.
+(5.1) Where the provincial court judge adds a condition described in subsection (5) to a recognizance order, the provincial court judge shall specify in the order the manner and method by which
+(a) the things referred to in that subsection that are in the possession of the defendant shall be surrendered, disposed of, detained, stored or dealt with; and
+(b) the authorizations, licences and registration certificates held by the defendant shall be surrendered.
+(5.2) Where the provincial court judge does not add a condition described in subsection (5) to a recognizance order, the provincial court judge shall include in the record a statement of the reasons for not adding the condition.
+(6) Before making an order under subsection (3), the provincial court judge shall consider whether it is desirable to include as a condition of the recognizance that the defendant report to the correctional authority of a province or to an appropriate police authority, and where the provincial court judge decides that it is desirable for the defendant to so report, the provincial court judge may add the appropriate condition to the recognizance.
+
+
+
+(2) Texte des paragraphes 810.2(5) à (6) :
+(5) Le juge qui, en vertu du paragraphe (3), rend une ordonnance doit, s’il arrive à la conclusion qu’il est souhaitable pour la sécurité du défendeur, ou pour celle d’autrui, de lui interdire d’avoir en sa possession des armes à feu, arbalètes, armes prohibées, armes à autorisation restreinte, dispositifs prohibés, munitions, munitions prohibées et substances explosives, ou l’un ou plusieurs de ces objets, ordonner que celui-ci contracte l’engagement de n’avoir aucun des objets visés en sa possession pour la période indiquée dans l’engagement.
+(5.1) Le cas échéant, l’ordonnance prévoit la façon de remettre, de détenir ou d’entreposer les objets visés au paragraphe (5) qui sont en la possession du défendeur, ou d’en disposer, et de remettre les autorisations, permis et certificats d’enregistrement dont celui-ci est titulaire.
+(5.2) Le juge qui n’assortit pas l’ordonnance de la condition prévue au paragraphe (5) est tenu de donner ses motifs, qui sont consignés au dossier de l’instance.
+(6) Le juge qui, en vertu du paragraphe (3), rend une ordonnance doit considérer s’il est souhaitable que le défendeur se présente devant une autorité correctionnelle d’une province ou une autorité policière compétente et, le cas échéant, ordonner que celui-ci contracte l’engagement de se présenter devant une telle autorité.
+
+
+
+
+
+

@@ -1,0 +1,1473 @@
+
+
+
+
+
+C-435
+
+
+
+
+
+C-435
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-435
+
+
+
+
+
+PROJET DE LOI C-435
+
+
+
+
+
+
+An Act to favour Canadian procurements
+
+
+
+
+
+Loi visant à encourager le recours aux marchés publics canadiens
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, September 16, 2009
+
+première lecture le 16 septembre 2009
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Julian
+
+402059
+
+
+
+M. Julian
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to promote employment and economic development in Canada by ensuring that the Government of Canada, while complying with its international obligations, gives preference to Canadian products in transfers to provinces, municipalities and private parties and in the procurement of its goods.
+
+
+
+SOMMAIRE
+Le texte vise à promouvoir l’emploi et le développement économique au Canada en faisant en sorte que le gouvernement du Canada, lorsqu’il verse des paiements de transfert aux provinces, aux municipalités ou à des personnes du secteur privé et qu’il se procure des marchandises, accorde une préférence aux produits canadiens tout en respectant ses obligations internationales.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-435
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-435
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to favour Canadian procurements
+
+
+
+
+
+
+
+
+
+Loi visant à encourager le recours aux marchés publics canadiens
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas public sector investment plays a critical role in maintaining balance and ensuring a fair distribution of economic opportunity, income and prosperity to all citizens;
+
+
+
+
+
+
+
+
+
+
+Whereas public procurement, especially through infrastructure investment, is a major component of all government spending and thus plays a key role in stimulating sustainable economic growth, creating domestic jobs in key sectors and regions and maintaining a modern infrastructure, which are all in the public interest;
+
+
+
+
+
+
+
+
+
+
+Whereas, to achieve these goals, the funds used for procurement should be spent predominately in Canada to benefit domestic job creation and economic development, including regionally or sectorally targeted economic development;
+
+
+
+
+
+
+
+
+
+
+Whereas government procurement in Canada happens at the federal, provincial, and municipal levels; 
+
+
+
+
+
+
+
+
+
+
+Whereas Canada trades with other federated countries and with their states or provinces and municipalities;
+
+
+
+
+
+
+
+
+
+
+Whereas a fair procurement policy requires, above all, reciprocal access to procurement between jurisdictions, governments, and nations; 
+
+
+
+
+
+
+
+
+
+
+Whereas other levels of government, notably municipalities, have already indicated their desire to have reciprocal access to procurement in the United States of America in exchange for access to Canadian municipal procurement;
+
+
+
+
+
+
+
+
+
+
+And whereas it is in keeping with Canada`s commitment to fundamental human rights and labour rights to require that procurement be concluded with jurisdictions that respect core labour standards set by the international community;
+
+
+
+
+
+
+
+
+
+
+Attendu : 
+
+
+
+Préambule
+
+
+
+
+que les investissements du secteur public jouent un rôle crucial dans le maintien d’un équilibre et la répartition équitable entre les citoyens des possibilités économiques, des revenus et de la prospérité;
+
+
+
+
+
+
+
+
+que les marchés publics, en particulier ceux consacrés aux investissements en infrastructures, constituent un élément important des dépenses publiques et jouent ainsi un rôle de premier plan pour favoriser une croissance économique durable, créer des emplois dans des régions et secteurs clés au pays et maintenir une infrastructure moderne, tout cela dans l’intérêt du public;
+
+
+
+
+
+
+
+
+
+
+
+
+que, pour la réalisation de ces objectifs, la majeure partie des fonds destinés aux marchés publics devrait être dépensée au Canada afin de favoriser la création d’emplois et le développement économique du pays, notamment celui des régions et secteurs ciblés;
+
+
+
+
+
+
+
+
+
+
+que les marchés publics au Canada se concluent aux échelons fédéral, provincial et municipal;
+
+
+
+
+
+
+
+
+
+que le Canada entretient des échanges commerciaux avec d’autres pays fédérés ainsi qu’avec leurs États ou provinces et leurs municipalités;
+
+
+
+
+
+
+
+
+qu’une politique équitable en matière de marchés publics exige avant tout un accès réciproque aux marchés publics entre les instances, les gouvernements et les pays;
+
+
+
+
+
+
+
+
+que d’autres administrations, notamment les municipalités canadiennes, ont déjà manifesté leur désir de bénéficier d’un accès réciproque aux marchés publics des États-Unis en échange d’un accès à leurs marchés publics;
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+que le fait d’exiger que les marchés publics soient conclus avec les instances qui respectent les normes fondamentales du travail établies par la communauté internationale cadre avec l’engagement du Canada en matière de droits fondamentaux de la personne et de droits du travail,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Made in Canada Procurement Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur les marchés publics des produits canadiens.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The following definitions apply in this Act.
+
+
+
+
+“Canadian product”« produit canadien »
+
+
+
+“Canadian product” means any product that is part of, or incidental to, a procurement contract or a transfer
+
+
+
+
+
+
+
+
+(a) of which more than 50% of the total value is manufactured, produced or assembled in Canada and, in the case of an assembled product, where final assembly is done in Canada; or
+
+
+
+
+
+
+
+
+(b) in the case of a natural resource, of which more than 50% of the total value originates in Canada.
+
+
+
+
+“core labour standards”« normes fondamentales du travail »
+
+
+
+“core labour standards” means  the following labour standards of the International Labour Organization, namely
+
+
+
+
+
+
+
+
+(a) the right of association;
+
+
+
+
+
+
+
+
+(b) the right to bargain collectively;
+
+
+
+
+
+
+
+
+(c) the prohibition on the use of any form of forced or compulsory labour;
+
+
+
+
+
+
+
+
+(d) a minimum age for employment of children; and
+
+
+
+
+
+
+
+
+(e) acceptable conditions of work with respect to minimum wages, hours of work and occupational safety and health.
+
+
+
+
+“Government of Canada”« gouvernement du Canada »
+
+
+
+“Government of Canada” means
+
+
+
+
+
+
+
+
+(a) the Government of Canada or any department or agent of that government;
+
+
+
+
+
+
+
+
+(b) any Crown corporation; or
+
+
+
+
+
+
+
+
+(c) any foundation or trust established by the Government of Canada that receives over 75% of its income or funding from that government.
+
+
+
+
+“infrastructure”« infrastructure »
+
+
+
+“infrastructure” means any of the following fixed capital assets that are used or operated for the benefit of the public:
+
+
+
+
+
+
+
+
+(a) highway or rail infrastructure;
+
+
+
+
+
+
+
+
+(b) local transportation infrastructure;
+
+
+
+
+
+
+
+
+(c) tourism or urban development infrastructure;
+
+
+
+
+
+
+
+
+(d) sewage treatment infrastructure;
+
+
+
+
+
+
+
+
+(e) water infrastructure; or
+
+
+
+
+
+
+
+
+(f) infrastructure prescribed by regulation made under the Canada Strategic Infrastructure Fund Act.
+
+
+
+
+“similar product”« produit similaire »
+
+
+
+“similar product” means any product whose nature, quality or terms of delivery are substantially the same as those of another product and meet the requirements of the entity that procures it.
+
+
+
+
+“transfer”« transfert »
+
+
+
+“transfer” means any transfer of more than $100,000 made to a province, municipality or private party for infrastructure, under an appropriation Act or budget implementation legislation.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« gouvernement du Canada » Selon le cas :
+
+
+
+« gouvernement du Canada »“Government of Canada”
+
+
+
+
+a) le gouvernement du Canada ou l’un de ses ministères ou mandataires;
+
+
+
+
+
+
+
+
+b) toute société d’État;
+
+
+
+
+
+
+
+
+c) toute fondation ou fiducie créée par le gouvernement du Canada et dont plus de 75 % des revenus ou du financement proviennent du gouvernement du Canada.
+
+
+
+
+
+
+
+
+« infrastructure » L'un des actifs immobilisés ci-après utilisé ou exploité dans l’intérêt du public :
+
+
+
+« infrastructure »“infrastructure”
+
+
+
+
+a) infrastructure routière ou ferroviaire;
+
+
+
+
+
+
+
+
+b) infrastructure de transport local;
+
+
+
+
+
+
+
+
+c) infrastructure de tourisme ou de développement urbain;
+
+
+
+
+
+
+
+
+d) infrastructure de traitement des eaux usées;
+
+
+
+
+
+
+
+
+e) infrastructure relative à l’eau;
+
+
+
+
+
+
+
+
+f) infrastructure prévue par règlement pris en vertu de la Loi sur le Fonds canadien sur l'infrastructure stratégique.
+
+
+
+
+
+
+
+
+« normes fondamentales du travail » Les normes du travail de l’Organisation internationale du Travail portant sur :
+
+
+
+« normes fondamentales du travail »“core labour standards”
+
+
+
+
+a) le droit d’association;
+
+
+
+
+
+
+
+
+b) le droit de négociation collective;
+
+
+
+
+
+
+
+
+c) l’interdiction de toute forme de travail forcé ou obligatoire;
+
+
+
+
+
+
+
+
+d) l’âge minimum d’emploi des enfants;
+
+
+
+
+
+
+
+
+e) les conditions de travail acceptables quant au salaire minimum, aux heures de travail et à la sécurité et à la santé au travail.
+
+
+
+
+
+
+
+
+« produit canadien » Tout produit qui fait partie, intégralement ou accessoirement, d’un marché public ou d’un paiement de transfert et, selon le cas :
+
+
+
+« produit canadien »“Canadian product”
+
+
+
+
+a) dont les composants — fabriqués, produits ou assemblés au Canada — représentent plus de 50 % de la valeur totale et, s'il s'agit d’un produit assemblé, dont l’assemblage final se fait au Canada;
+
+
+
+
+
+
+
+
+b) dont les composants provenant du Canada représentent plus de 50 % de la valeur totale, s'il s'agit de ressources naturelles.
+
+
+
+
+
+
+
+
+« produit similaire » Tout produit dont la nature, la qualité ou les conditions de livraison sont essentiellement les mêmes que celles d’un autre produit et répondent aux exigences de l’entité qui se le procure.
+
+
+
+« produit similaire »“similar product”
+
+
+
+
+« transfert » Paiement de transfert de plus de 100 000 $ versé à une province, à une municipalité ou à une personne du secteur privé pour la réalisation d’infrastructures en vertu d'une loi de crédits ou d'une loi d’exécution du budget.
+
+
+
+« transfert »“transfer”
+
+
+
+
+
+
+
+
+
+
+PREFERENCE GIVEN TO CANADIAN PRODUCTS
+
+
+
+
+
+
+
+
+
+PRÉFÉRENCE ACCORDÉE AUX PRODUITS CANADIENS
+
+
+
+
+
+
+
+
+
+
+
+
+Preference
+
+
+
+3. When the Government of Canada procures a product, it shall, where similar products are available, give preference to a Canadian product over a non-Canadian product, except where the total value of the Canadian product exceeds by more than 10% the price of the non-Canadian product.  
+
+
+
+
+
+
+
+
+
+3. Lorsqu'il se procure un produit, dans la mesure où des produits similaires peuvent être obtenus, le gouvernement du Canada préfère le produit canadien à un produit non canadien, sauf si la valeur totale du produit canadien excède de plus de 10 % le prix du produit non canadien.
+
+
+
+Préférence
+
+
+
+
+
+
+
+
+
+
+Conditions
+
+
+
+4. The Government of Canada may, where similar products are available, fix conditions on access to a transfer to give preference to a Canadian product over a non-Canadian product, except where the total value of the Canadian product exceeds by more than 10% the price of the non-Canadian product.
+
+
+
+
+
+
+
+
+
+4. Lorsque des produits similaires peuvent être obtenus, le gouvernement du Canada peut assujettir l'accès au transfert à des conditions afin d’accorder la préférence au produit canadien, sauf si la valeur totale du produit canadien excède de plus de 10 % le prix du produit non canadien.  
+
+
+
+Conditions
+
+
+
+
+
+
+
+
+
+
+EXCEPTIONS
+
+
+
+
+
+
+
+
+
+DÉROGATIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Waivers
+
+
+
+5. (1) Despite sections 3 and 4, the Government of Canada may grant a waiver in the following circumstances:
+
+
+
+
+
+
+
+
+(a) a product is required to deal with an emergency in which there is danger to public health or safety, and there are reasonable grounds to believe that it would not be possible to procure the product in the quantity or within the time period required to deal with the emergency;
+
+
+
+
+
+
+
+
+(b) it is not possible to procure a Canadian product of sufficient quality or quantity or within the time period required;
+
+
+
+
+
+
+
+
+(c) a product is acquired to provide humanitarian assistance outside Canada or for the purposes of international development; or
+
+
+
+
+
+
+
+
+(d) the product is intended for use outside Canada, except in the case of ships, aircrafts and aerospatial products.
+
+
+
+
+
+
+
+
+
+5. (1) Malgré les articles 3 et 4, le gouvernement du Canada peut accorder une dérogation dans les situations suivantes :
+
+
+
+Dérogations
+
+
+
+
+a) le produit sert à répondre à une situation d’urgence mettant en danger la santé ou la sécurité publiques et il est raisonnable de croire qu'il serait impossible de se procurer ce produit en la quantité ou dans les délais requis pour y faire face;
+
+
+
+
+
+
+
+
+b) il est impossible de se procurer un produit canadien de qualité ou en quantité suffisantes ou dans les délais requis;
+
+
+
+
+
+
+
+
+c) le produit est acquis pour fournir de l’aide humanitaire à l’étranger ou à des fins de développement international;
+
+
+
+
+
+
+
+
+d) le produit est destiné à une utilisation à l’étranger, à l’exception des navires, des aéronefs et des produits du domaine aérospatial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notification
+
+
+
+(2) The minister responsible for an entity that grants a waiver under subsection (1) shall, within 30 days, cause a notice justifying the exception to be published in the Canada Gazette.
+
+
+
+
+
+
+
+
+
+(2) Le ministre responsable de l'entité qui accorde la dérogation prévue au paragraphe (1) justifie, dans les trente jours, le recours à cette dérogation en faisant publier un avis dans la Gazette du Canada.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+NON-APPLICATION
+
+
+
+
+
+
+
+
+
+NON-APPLICATION
+
+
+
+
+
+
+
+
+
+
+
+
+North American Free Trade Agreement
+
+
+
+6. As regards a country that is a party to the North American Free Trade Agreement (NAFTA), this Act does not apply to procurements or transfers in respect of which NAFTA requires that Canada accord to the suppliers of another NAFTA country  a treatment no less favourable than the most favourable treatment that Canada accords to its own suppliers.
+
+
+
+
+
+
+
+
+
+6. En ce qui concerne les pays parties à l'Accord de libre-échange nord-américain (ALÉNA), la présente loi ne s’applique pas aux marchés publics ou aux transferts pour lesquels l’ALÉNA exige que le Canada accorde aux fournisseurs d’un autre pays ALÉNA un traitement non moins favorable que le traitement le plus favorable qu’il accorde à ses propres fournisseurs.
+
+
+
+Accord de libre-échange nord-américain
+
+
+
+
+
+
+
+
+
+
+Agreement on Government Procurement of the World Trade Organization
+
+
+
+7. As regards countries that are parties to the Agreement on Government Procurement of the World Trade Organization and with which Canada has negotiated mutually acceptable commitments, this Act does not apply to procurements or transfers subject to that Agreement in respect of which Canada has made specific commitments.
+
+
+
+
+
+
+
+
+
+7. En ce qui concerne les pays parties à l’Accord sur les marchés publics de l’Organisation mondiale du commerce avec lesquels le Canada a négocié des engagements mutuellement acceptables, la présente loi ne s’applique pas aux marchés publics ou aux transferts régis par cet accord à l'égard desquels le Canada a pris des engagements spécifiques.
+
+
+
+Accord sur les marchés publics de l’Organisation mondiale du commerce
+
+
+
+
+
+
+
+
+
+
+Reciprocity
+
+
+
+8. Section 7 does not apply in respect of a country that is a party to the Agreement referred to in that section if
+
+
+
+
+
+
+
+
+(a) the acquisition is for a service in respect of which the country has not accorded Canada reciprocal access; or
+
+
+
+
+
+
+
+
+(b) the country has not adopted core labour standards.
+
+
+
+
+
+
+
+
+
+8. L’article 7 ne s’applique pas à un pays partie à l’accord qui y est mentionné si, selon le cas :
+
+
+
+Réciprocité
+
+
+
+
+a) l’acquisition vise un service à l'égard duquel ce pays n’a pas accordé au Canada un accès réciproque;
+
+
+
+
+
+
+
+
+b) ce pays n'a pas adopté les normes fondamentales du travail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+9. This Act comes into force three months after the day on which it receives royal assent.
+
+
+
+
+
+
+
+
+
+9. La présente loi entre en vigueur trois mois après la date de sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

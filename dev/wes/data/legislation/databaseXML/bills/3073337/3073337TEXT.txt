@@ -1,0 +1,1025 @@
+
+
+
+
+
+
+C-425
+
+
+
+
+
+C-425
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-425
+
+
+
+
+
+PROJET DE LOI C-425
+
+
+
+
+
+
+An Act to amend the Competition Act and the Canadian Environmental Protection Act, 1999 (right to repair)
+
+
+
+
+
+Loi modifiant la Loi sur la concurrence et la Loi canadienne sur la protection de l'environnement (1999) (droit de réparer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, April 17, 2007
+
+
+
+
+
+première lecture le 17 avril 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2nd Session, 39th Parliament
+
+This bill was introduced during the First Session of the 39th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+        2e session, 39e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 39e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+
+Mr. Masse
+
+
+391472
+
+
+
+
+M. Masse
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment adds a definition of “product” in section 75 of the Competition Act to make it clear that that term includes technical information that is required by a person in order to provide a service to a customer. This ensures that the Competition Tribunal is able to require a supplier to provide this information to a customer in accordance with section 75 in cases where the supplier has previously refused to do so.
+The enactment also amends the Canadian Environmental Protection Act, 1999 to provide that companies that manufacture motor vehicles in Canada or that import motor vehicles into Canada are required to make available to Canadian motor vehicle owners and repair facilities the information and diagnostic tools and capabilities necessary to diagnose, service and repair those motor vehicles.
+
+
+
+SOMMAIRE
+Le texte ajoute la définition de « produit » à l’article 75 de la Loi sur la concurrence afin de préciser que les renseignements techniques dont a besoin une personne pour fournir un service à un client sont assimilés à un produit. Cela permet ainsi au Tribunal de la concurrence d’exiger qu’un fournisseur donne ces renseignements à un client conformément à l’article 75 de cette loi dans les cas où il a déjà refusé de le faire.
+En outre, il apporte une modification à la Loi canadienne sur la protection de l’environnement (1999) afin d’exiger que les entreprises qui fabriquent au Canada ou y importent des véhicules automobiles mettent à la disposition des propriétaires de véhicules automobiles et des entreprises de réparation au Canada les renseignements, outils diagnostiques et moyens nécessaires au diagnostic, à l’entretien et à la réparation de ces véhicules.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-425
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-425
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Competition Act and the Canadian Environmental Protection Act, 1999 (right to repair)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la concurrence et la Loi canadienne sur la protection de l'environnement (1999) (droit de réparer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-34; c. 19 (2nd Supp.), s. 19
+
+
+
+
+COMPETITION ACT
+
+
+
+
+
+
+
+
+
+
+
+LOI SUR LA CONCURRENCE
+
+
+
+
+L.R., ch. C-34; ch. 19 (2e suppl.), art. 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Subsection 75(3) of the Competition Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. Le paragraphe 75(3) de la Loi sur la concurrence est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+(3) The definitions in this subsection apply in this section.
+
+
+
+
+“product”« produit »
+
+
+
+
+“product” includes technical information that is required by a person in order to provide a service to a customer.
+
+
+
+
+
+“trade terms”« conditions de commerce »
+
+
+
+“trade terms” means terms in respect of payment, units of purchase and reasonable technical and servicing requirements.
+
+
+
+
+
+
+
+
+
+(3) Les définitions qui suivent s’appliquent au présent article.
+
+
+
+Définitions
+
+
+
+
+« conditions de commerce » S'entend des conditions relatives au paiement, aux quantités unitaires d'achat et aux exigences raisonnables d'ordre technique ou d'entretien.
+
+
+
+« conditions de commerce »“trade terms”
+
+
+
+
+
+« produit » Sont assimilés à un produit les renseignements techniques dont a besoin une personne pour fournir un service à un client.
+
+
+
+
+« produit »“product”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 33
+
+
+
+
+CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999
+
+
+
+
+
+
+
+
+
+
+
+LOI CANADIENNE SUR LA PROTECTION DE L’ENVIRONNEMENT (1999)
+
+
+
+
+1999, ch. 33
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Canadian Environmental Protection Act, 1999 is amended by adding the following after section 159:
+
+
+
+
+
+
+
+
+
+
+2. La Loi canadienne sur la protection de l’environnement (1999) est modifiée par adjonction, après l’article 159, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Right to Repair
+
+
+
+
+
+
+
+
+
+
+
+
+
+Droit de réparer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+
+159.1 (1) The definitions in this subsection apply in this section.
+
+
+
+
+
+“motor vehicle”« véhicule automobile »
+
+
+
+
+“motor vehicle” means any vehicle that is capable of being driven or drawn on roads by any means other than muscular power exclusively, but does not include any vehicle designed to run exclusively on rails.
+
+
+
+
+
+“motor vehicle owner”« propriétaire d’un véhicule automobile »
+
+
+
+
+“motor vehicle owner” means any person who owns, leases, or otherwise has the legal right to use and possess a motor vehicle, and includes an agent of the person.
+
+
+
+
+
+“repair facility”« entreprise de réparation »
+
+
+
+
+“repair facility” means a facility operated by a person engaged in the repair, diagnosis or servicing of motor vehicles or motor vehicle engines and includes a business from which such a facility normally purchases tools used to diagnose problems with motor vehicles or motor vehicle engines.
+
+
+
+
+
+
+
+
+
+
+
+
+159.1 (1) Les définitions qui suivent s’appliquent au présent article.
+
+
+
+
+Définitions
+
+
+
+
+
+« entreprise de réparation » Entreprise exploitée par une personne qui se livre à la réparation, au diagnostic ou à l’entretien des véhicules automobiles ou des moteurs de ceux-ci, y compris toute entreprise de qui elle achète habituellement des outils pour diagnostiquer les défectuosités des véhicules automobiles ou des moteurs de ceux-ci.
+
+
+
+
+« entreprise de réparation »“repair facility”
+
+
+
+
+
+« propriétaire d’un véhicule automobile » Personne qui est le propriétaire ou le locataire d’un véhicule automobile ou qui a autrement le droit de l’utiliser et de le posséder, y compris le mandataire de cette personne.
+
+
+
+
+« propriétaire d’un véhicule automobile »“motor vehicle owner”
+
+
+
+
+
+« véhicule automobile » Véhicule pouvant être mû ou tiré sur les routes par tout moyen autre que la seule force musculaire. Sont exclus de la présente définition les véhicules conçus pour rouler exclusivement sur des rails.
+
+
+
+
+« véhicule automobile »“motor vehicle”
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+
+(2) This section applies only in respect of motor vehicles manufactured after the 1994 model year.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le présent article ne s’applique qu’aux véhicules automobiles fabriqués après l’année de modèle 1994.
+
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+Duty to disclose
+
+
+
+
+(3) In order to facilitate compliance with section 153, every company that manufactures a motor vehicle in Canada or that imports a motor vehicle into Canada shall
+
+
+
+
+
+
+
+
+
+
+
+
+(a) provide, in a standard format via the Internet,  motor vehicle owners and repair facilities with unrestricted access to all the service and training information relating to a motor vehicle manufactured by the company, including information necessary to activate the controls of that motor vehicle; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) on the request of a motor vehicle owner or a repair facility, promptly make available to the motor vehicle owner or repair facility, through reasonable business means, all the diagnostic tools and capabilities necessary to diagnose, service and repair the motor vehicle. 
+
+
+
+
+
+
+
+
+
+
+
+(3) Afin de faciliter l'observation de l’article 153, toute entreprise qui fabrique au Canada ou y importe un véhicule automobile est tenue :
+
+
+
+
+Obligation de communiquer
+
+
+
+
+
+
+a) de donner aux propriétaires de véhicules automobiles et aux entreprises de réparation le libre accès sur Internet — selon une présentation uniforme — à tous les renseignements en matière d’entretien et de formation qui ont trait aux véhicules automobiles fabriqués par elle, y compris les renseignements nécessaires à l’activation des commandes de ces véhicules;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) à la demande d’un propriétaire de véhicule automobile ou d’une entreprise de réparation, de mettre sans délai à sa disposition, par des moyens commerciaux raisonnables, tous les outils diagnostiques et moyens nécessaires au diagnostic, à l’entretien et à la réparation du véhicule automobile.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For greater certainty
+
+
+
+
+(4) For greater certainty, a company referred to in subsection (3) shall provide to motor vehicle owners and independent repair facilities the same information, and make available to them the same tools and capabilities, that it provides and makes available to franchised dealerships of the company, at the same time that they are provided and made available to those dealerships.
+
+
+
+
+
+
+
+
+
+
+
+(4) Il est entendu que l’entreprise visée au paragraphe (3) est tenue de donner aux propriétaires de véhicules automobiles et aux entreprises de réparation indépendantes les mêmes renseignements — et de mettre à leur disposition les mêmes outils diagnostiques et moyens — que ceux qu’elle fournit à ses concessionnaires franchisés, et au même moment qu’à ceux-ci.
+
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Protection of trade secrets
+
+
+
+
+(5) Nothing in this section is deemed to require the disclosure of trade secrets or the public disclosure of any information related exclusively to the design and manufacture of motor vehicle parts.
+
+
+
+
+
+
+
+
+
+
+
+(5) Les dispositions du présent article n'ont pas pour effet d'exiger la divulgation de secrets industriels ou la divulgation publique de renseignements concernant exclusivement la conception et la fabrication de pièces de véhicules automobiles.
+
+
+
+
+Protection des secrets industriels
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+
+159.2 The Governor in Council shall, within one year after the coming into force of this Act, make regulations for carrying into effect the purposes of section 159.1 and, in particular, regulations respecting 
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the method or methods by which companies shall provide the information and make available the diagnostic tools and capabilities referred to in subsections 159.1(3) and (4) to motor vehicle owners and repair facilities;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the fees that may be charged by companies for providing the information and making available the diagnostic tools and capabilities referred to in paragraph (a).
+
+
+
+
+
+
+
+
+
+
+
+
+159.2 Dans l’année qui suit l’entrée en vigueur de la présente loi, le gouverneur en conseil prend des règlements pour l’application de l’article 159.1, notamment en ce qui concerne :
+
+
+
+
+Règlements
+
+
+
+
+
+
+a) les méthodes selon lesquelles les entreprises donnent aux propriétaires de véhicules et aux entreprises de réparation les renseignements — et mettent à leur disposition les outils diagnostiques et les moyens — aux termes des paragraphes 159.1(3) et (4);
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) les frais que peuvent exiger les entreprises pour les renseignements, outils diagnostiques et moyens visés à l’alinéa a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

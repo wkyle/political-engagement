@@ -1,0 +1,1196 @@
+
+
+
+
+
+
+C-606
+
+
+
+
+
+C-606
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+
+
+
+
+
+Troisième session, quarantième législature,
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-606
+
+
+
+
+
+PROJET DE LOI C-606
+
+
+
+
+
+
+An Act to amend the Canada Shipping Act, 2001 (prohibition against the transportation of oil by oil tankers on Canada's Pacific North Coast)
+
+
+
+
+
+Loi modifiant la Loi de 2001 sur la marine marchande du Canada (interdiction de transporter du pétrole par pétrolier le long de la côte nord canadienne du Pacifique)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 14, 2010
+
+
+
+
+
+première lecture le 14 décembre 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ms. Murray
+
+
+403246
+
+
+
+
+Mme Murray
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends Part 9 of the Canada Shipping Act, 2001 to prohibit the transportation of oil by oil tankers in the areas of the sea adjacent to Canada’s Pacific North Coast known as Queen Charlotte Sound, Hecate Strait and Dixon Entrance.
+It also allows the Governor in Council, on the recommendation of the Minister of Fisheries and Oceans, to designate other areas of the sea in which the transportation of oil by oil tankers is prohibited.
+
+
+
+SOMMAIRE
+Le texte modifie la partie 9 de la Loi de 2001 sur la marine marchande du Canada afin d’interdire le transport de pétrole par pétrolier dans les zones maritimes adjacentes à la côte nord canadienne du Pacifique qui sont connues sous les noms de bassin de la Reine-Charlotte, de détroit d’Hécate et d'entrée Dixon.
+De plus, il autorise le gouverneur en conseil à prendre un décret, sur recommandation du ministre des Pêches et des Océans, afin d’étendre cette interdiction aux autres zones maritimes qu’il désigne.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+3e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-606
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-606
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Shipping Act, 2001 (prohibition against the transportation of oil by oil tankers on Canada's Pacific North Coast)
+
+
+
+
+
+
+Whereas Canada’s quality of life is closely connected to the sea, and the oceans are an integral part of our environmental, social, cultural and economic fabric;
+
+
+
+
+
+
+Whereas the ocean environments within Canada’s exclusive economic zone are a world treasure, home to some of the most abundant and diverse webs of marine life on earth;
+
+
+
+
+
+
+Whereas it is in the public interest of Canadians to protect the ocean’s vital natural resources;
+
+
+
+
+
+
+Whereas the coastal and inland areas adjacent to the Pacific North Coast of Canada constitute the Great Bear Rainforest, the largest intact, coastal temperate rainforest left in the world;
+
+
+
+
+
+
+Whereas Canada recognizes that oceans offer significant economic and cultural resources, and opportunities for economic diversification, which benefit all Canadians, and particularly coastal communities;
+
+
+
+
+
+
+Whereas the sustainable economic development of the Pacific North Coast region, and especially economic opportunity in remote communities, is highly dependent on investment and employment in sectors requiring healthy ecosystems, such as fisheries and tourism;
+
+
+
+
+
+
+Whereas the transportation of oil by oil tankers in certain areas of the sea adjacent to the coast of Canada poses a risk to the marine and coastal environment, to the communities that depend on that environment and to all Canadians who share in the common heritage of the oceans;
+
+
+
+
+
+
+Whereas the Pacific North Coast of Canada is presently free from the risk of an oil tanker spill, as oil tankers do not currently travel in the areas of the sea known as Queen Charlotte Sound, Hecate Strait and Dixon Entrance;
+
+
+
+
+
+
+Whereas alternative routes exist for the current and projected sale and transport of Canadian oil to export markets;
+
+
+
+
+
+
+And whereas the Parliament of Canada wishes to affirm in law the protection of the Pacific North Coast of Canada from oil tanker spills;
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de 2001 sur la marine marchande du Canada (interdiction de transporter du pétrole par pétrolier le long de la côte nord canadienne du Pacifique)
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que la qualité de vie des Canadiens est intimement liée à la mer et que les océans font partie intégrante de notre patrimoine environnemental, social, culturel et économique;
+
+
+
+
+
+
+que les milieux océaniques compris dans la zone économique exclusive du Canada constituent un trésor mondial et abritent certains réseaux de vie marine des plus abondants et des plus diversifiés de la planète;
+
+
+
+
+
+
+qu’il est dans l’intérêt public des Canadiens de protéger les ressources naturelles essentielles des océans;
+
+
+
+
+
+
+que les zones côtières et intérieures adjacentes à la côte nord canadienne du Pacifique forment la forêt pluviale Great Bear, la plus vaste forêt pluviale tempérée du littoral au monde qui soit toujours intacte;
+
+
+
+
+
+
+que le Canada reconnaît que les océans sont la source de précieuses ressources économiques et culturelles et qu’ils contribuent à la diversification économique au profit de tous les Canadiens et, en particulier, des collectivités côtières;
+
+
+
+
+
+
+que le développement économique durable de la région de la côte nord du Pacifique, notamment la création de débouchés économiques dans les collectivités éloignées, repose largement sur l’investissement et l’emploi dans les secteurs qui nécessitent des écosystèmes sains, tels que les pêches et le tourisme;
+
+
+
+
+
+
+que le transport de pétrole par pétrolier dans certaines zones maritimes adjacentes à la côte canadienne présente un risque pour le milieu marin et côtier, pour les collectivités qui dépendent de ce milieu et pour tous les Canadiens qui tirent profit du patrimoine collectif des océans;
+
+
+
+
+
+
+qu’à l’heure actuelle la côte nord canadienne du Pacifique est à l’abri des déversements d’hydrocarbure provenant de pétroliers puisque ceux-ci ne circulent pas actuellement dans les zones maritimes connues sous les noms de bassin de la Reine-Charlotte, de détroit d’Hécate et d'entrée Dixon;
+
+
+
+
+
+
+qu’il existe des trajets de rechange pour la vente et le transport — actuels et projetés — du pétrole canadien destiné aux marchés d’exportation;
+
+
+
+
+
+
+que le Parlement du Canada souhaite consacrer par voie législative la protection de la côte nord canadienne du Pacifique contre les déversements d’hydrocarbures provenant de pétroliers,
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 26
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+2001, ch. 26
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Canada Shipping Act, 2001 is amended by adding the following after section 189:
+
+
+
+
+
+
+
+
+
+
+1. La Loi de 2001 sur la marine marchande du Canada est modifiée par adjonction, après l’article 189, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+
+
+
+
+
+
+
+
+Régions interdites
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+
+
+
+
+
+
+
+
+Définitions
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+
+189.1 The following definitions apply in sections 189.2 and 189.3.
+
+
+
+
+
+“gas”« gaz »
+
+
+
+
+“gas” means natural gas and includes all substances, other than oil, that are produced in association with natural gas.
+
+
+
+
+
+“oil”« pétrole »
+
+
+
+
+“oil” means
+
+
+
+
+
+
+
+
+
+
+
+
+(a) crude petroleum, regardless of gravity, produced at a well-head in liquid form, and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) any other hydrocarbons, except coal and gas, including hydrocarbons that may be extracted or recovered from surface or subsurface deposits, such as deposits of oil sand, bitumen, bituminous sand or oil shale,
+
+
+
+
+
+
+
+
+
+
+
+
+and includes oil that has been treated to render it suitable for transportation.
+
+
+
+
+
+“oil tanker”« pétrolier »
+
+
+
+
+“oil tanker” means a vessel that is constructed or adapted primarily to carry oil in a hold or tank that is part of the structure of the vessel, without any intermediate form of containment.
+
+
+
+
+
+
+
+
+
+
+
+
+189.1 Les définitions qui suivent s’appliquent aux articles 189.2 et 189.3.
+
+
+
+
+Définitions
+
+
+
+
+
+« gaz » Le gaz naturel et toutes les substances produites avec ce gaz, à l’exclusion du pétrole.
+
+
+
+
+« gaz »“gas”
+
+
+
+
+
+« pétrole » S’entend, à la fois :
+
+
+
+
+« pétrole »“oil”
+
+
+
+
+
+
+a) du pétrole brut, quelle que soit sa densité, qui est extrait à la tête de puits sous forme liquide;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) de tout autre hydrocarbure — à l’exclusion du charbon et du gaz —, notamment ceux qui peuvent être extraits ou récupérés de gisements en affleurement ou souterrains de sables pétrolifères, de bitume, de sables ou de schiste bitumineux.
+
+
+
+
+
+
+
+
+
+
+
+
+Est également visé par la présente définition le pétrole qui a été traité pour servir au transport.
+
+
+
+
+
+
+
+
+
+
+
+
+« pétrolier » Bâtiment construit ou adapté principalement en vue de transporter du pétrole dans une cale ou une citerne faisant partie de la structure du navire, sans contenant intermédiaire.
+
+
+
+
+« pétrolier »“oil tanker”
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+
+
+189.2 (1) No person shall transport oil in an oil tanker in the areas of the sea adjacent to the coast of Canada known as Queen Charlotte Sound, Hecate Strait and Dixon Entrance, as described in Schedule 4 and depicted in the map set out in Schedule 5.
+
+
+
+
+
+
+
+
+
+
+
+
+189.2 (1) Il est interdit de transporter du pétrole par pétrolier dans les zones maritimes adjacentes à la côte canadienne connues sous les noms de bassin de la Reine-Charlotte, de détroit d’Hécate et d'entrée Dixon, décrites à l'annexe 4 et figurant sur la carte reproduite à l’annexe 5.
+
+
+
+
+Régions interdites
+
+
+
+
+
+
+
+
+
+
+For greater certainty
+
+
+
+
+(2) For greater certainty, the prohibition in subsection (1) does not apply in respect of the transportation of gasoline, aviation fuel, diesel oil or fuel oil that is intended for use in coastal and island communities in Canada.
+
+
+
+
+
+
+
+
+
+
+
+(2) Il est entendu que l’interdiction énoncée au paragraphe (1) ne s’applique pas au transport d’essence, de carburant aviation, de carburant-diesel ou de tout autre carburant destiné à l’usage des collectivités de la côte et des îles canadiennes.
+
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Designation of other prohibited areas
+
+
+
+
+
+189.3 The Governor in Council may, by order made on the recommendation of the Minister of Fisheries and Oceans, designate other areas of the sea within Canadian waters in which the transportation of oil by oil tankers is prohibited.
+
+
+
+
+
+
+
+
+
+
+
+
+189.3 Le gouverneur en conseil peut, par décret pris sur recommandation du ministre des Pêches et des Océans, désigner d’autres zones maritimes situées dans les eaux canadiennes où le transport de pétrole par pétrolier est interdit.
+
+
+
+
+Désignation d’autres régions interdites
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 191(1) of the Act is amended by striking out “and” at the end of paragraph (c) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 191(1) de la même loi est modifié par adjonction, après l’alinéa c),  de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c.1) section 189.2 (prohibition against operation of oil tanker in specified area);
+
+
+
+
+
+
+
+
+(c.2) an order made under section 189.3 (prohibition against operation of oil tanker in designated area); and
+
+
+
+
+
+
+
+
+
+
+
+
+c.1) à l’article 189.2 (interdiction d’utiliser un pétrolier dans une région précisée);
+
+
+
+
+
+
+
+
+
+c.2) à un décret pris en vertu de l’article 189.3 (interdiction d’utiliser un pétrolier dans une région désignée);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding, after Schedule 3, Schedules 4 and 5 set out in the schedule to this Act.
+
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l'annexe 3, des annexes 4 et 5 figurant à l'annexe de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 
+
+
+
+
+
+
+ANNEXE 
+
+
+
+
+
+
+
+(Section 3)
+
+
+
+
+
+
+
+(article 3)
+
+
+
+
+
+
+
+SCHEDULE 4
+
+
+
+
+
+ANNEXE 4
+
+
+
+
+
+
+
+(Section 189.1 and subsection 189.2(1))
+
+
+
+
+
+
+
+(article 189.1 et paragraphe 189.2(1))
+
+
+
+
+
+
+
+DESCRIPTION OF QUEEN CHARLOTTE SOUND, HECATE STRAIT AND DIXON ENTRANCE
+
+
+
+
+
+DESCRIPTION DU BASSIN DE LA REINE-CHARLOTTE, DU DÉTROIT D'HÉCATE ET DE L'ENTRÉE DIXON
+
+
+
+
+
+
+Those areas of the sea adjacent to the Pacific coast of Canada, bounded by a straight line beginning at 50°58.522′N Latitude and 127°28.147′W Longitude (Westcott Point), then proceeding to 50°56.512′N Latitude and 127°39.513′W Longitude (Bright Island), then proceeding to 50°56.686′N Latitude and 127°53.961′W Lon- gitude (Secretary Point), then following the northerly shoreline of Hope Island to 50°54.820′N Latitude and 127°59.842′W Longitude (Mexicana Point), then proceeding to 50°52.622′ N Latitude and 128°03.181′W Longitude (Cape Sutil), then proceeding to 50°47.192′ N Latitude and 128°25.862′W Longitude (Cape Scott), then proceeding to 50°39′40″N Latitude and 128°22′00″W Lon- gitude (Winifred Island), then proceeding to 50°47′03″N Latitude and 128°46′04″W Longitude (Beresford Islands), then proceeding to 50°49′02″N Latitude and 128°56′24″W Longitude (Sartine Islands), then proceeding to 50°51′09″N Latitude and 129°05′24″W Lon- gitude (Triangle Island), then proceeding to 51°54′20″N Latitude and 130°58′12″W Longitude (Kerouard Islands), then proceeding to 51°54′38″N Latitude and 130°59′04″W Longitude (Kerouard Islands), then proceeding to 51°55′20″N Latitude and 131°00′17″W Longitude (Kerouard Islands), then proceeding to 51°56′37″N Latitude and 131°01′52″W Longitude (Kunghit Island), then proceeding northerly along the west coast of the islands of Haida Gwaii to 54°14′58″N Latitude and 133°04′48″W Longitude (Langara Island), then proceeding to 54°39′45.16″N Latitude and 132°40′57.18″W Longitude (Point A of Line A-B), then following the international boundary easterly through Pearse Canal and Portland Canal to the point of intersection of the international boundary with the shoreline at the northern end of Portland Canal, as depicted in the map set out in Schedule 5.
+
+
+
+
+
+Les zones maritimes adjacentes à la côte pacifique du Canada, circonscrites par une ligne droite commençant à 50°58.522′ de latitude nord et 127°28.147′ de longitude ouest (pointe Westcott), de là jusqu’au point situé à 50°56.512′ de latitude nord et 127°39.513′ de longitude ouest (île Bright), de là jusqu’au point situé à 50°56.686′ de latitude nord et 27°53.961′ de longitude ouest (pointe Secretary), de là le long du rivage nord de l’île Hope jusqu’au point situé à 50°54.820′ de latitude nord et 127°59.842′ de longitude ouest (pointe Mexicana), de là jusqu’au point situé à 50°52.622′ de latitude nord et 128°03.181′ de longitude ouest (cap Sutil), de là jusqu’au point situé à 50°47.192′ de latitude nord et 128°25.862′ de longitude ouest (cap Scott), de là jusqu’au point situé à 50°39′40″ de latitude nord et 128°22′00″ de longitude ouest (île Winifred), de là jusqu’au point situé à 50°47′03″ de latitude nord et 128°46′04″ de longitude ouest (îles Beresford), de là jusqu’au point situé à 50°49′02″ de latitude nord et 128°56′24″ de longitude ouest (îles Sartine), de là jusqu’au point situé à 50°51′09″ de latitude nord et 129°05′24″ de longitude ouest (île Triangle), de là jusqu’au point situé à 51°54′20″ de latitude nord et 130°58′12″ de longitude ouest (îles Kerouard), de là jusqu’au point situé à 51°54′38″ de latitude nord et 130°59′04″ de longitude ouest (îles Kerouard), de là jusqu’au point situé à 51°55′20″ de latitude nord et 131°00′17″ de longitude ouest (îles Kerouard), de là jusqu’au point situé à 51°56′37″ de latitude nord et 131°01′52″ de longitude ouest (île Kunghit), de là vers le nord le long de la côte ouest des îles de Haida Gwaii jusqu’au point situé à 54°14′58″ de latitude nord et 133°04′48″ de longitude ouest (île Langara), de là jusqu’au point situé à 54°39′45.16″ de latitude nord et 132°40′57.18″ de longitude ouest (le point A de la ligne A-B), de là vers l’est le long de la frontière internationale  par le canal Pearse et le canal Portland jusqu’au point situé à l’intersection de la frontière internationale avec le rivage à l’extrémité nord du canal Portland, figurant sur la carte reproduite à l’annexe 5.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 5 
+
+
+
+
+
+ANNEXE 5 
+
+
+
+
+
+
+(Subsection 189.2(1))
+
+
+
+
+
+(paragraphe 189.2(1))
+
+
+
+
+
+
+Queen Charlotte Sound, Hecate Strait and Dixon Entrance
+
+
+
+
+
+Bassin de la Reine-Charlotte, détroit d’Hécate et entrée Dixon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			if(document.getElementById('ID0EHMAC').parentNode.width > 0){document.getElementById('ID0EHMAC').width = document.getElementById('ID0EHMAC').parentNode.width;}
+			else if(document.getElementById('ID0EHMAC').parentNode.parentNode.width > 0){document.getElementById('ID0EHMAC').width = document.getElementById('ID0EHMAC').parentNode.parentNode.width;}
+		
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

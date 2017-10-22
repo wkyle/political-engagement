@@ -1,0 +1,2463 @@
+
+
+
+
+
+C-681
+
+
+
+
+
+C-681
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-681
+
+
+
+
+
+PROJET DE LOI C-681
+
+
+
+
+
+
+An Act to amend the Competition Act (Competition Prosecution Service)
+
+
+
+
+
+Loi modifiant la Loi sur la concurrence (Service des poursuites en matière de concurrence)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 26, 2015
+
+première lecture le 26 mai 2015
+
+
+
+
+
+
+
+
+
+
+
+
+Ms. Papillon
+
+412182
+
+
+
+Mme Papillon
+
+
+
+
+
+SUMMARY
+This enactment amends the Competition Act to add a new part that provides for the appointment of the Director of the Competition Prosecution Service and one or more Deputy Directors. That Part gives the Director the authority to initiate and conduct, on behalf of the Attorney General of Canda, prosecutions under any Act for the enforcement of which the Commissioner of Competition is responsible. That Part also provides that the Director has the power to make binding and final decisions as to whether to prosecute, unless the Attorney General of Canada directs otherwise, and that any such directive must be in writing and published in the Canada Gazette. The Director holds office for a non-renewable term of seven years during good behaviour and is the Deputy Attorney General of Canada for the purposes of carrying out the work of the office.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur la concurrence afin d’y ajouter une nouvelle partie prévoyant la nomination du directeur du Service des poursuites en matière de concurrence ainsi que d’un ou de plusieurs directeurs adjoints. Cette nouvelle partie confère au directeur le pouvoir d’engager et de mener, au nom du procureur général du Canada, des poursuites en vertu de toute loi dont le contrôle d'application relève du  commissaire de la concurrence. Le directeur est aussi investi du pouvoir de décider en dernier ressort d’intenter ou non les poursuites, sous réserve des directives éventuelles du procureur général du Canada, lesquelles doivent être données par écrit et publiées dans la Gazette du Canada. Le directeur est nommé à titre inamovible pour un mandat de sept ans qui ne peut être renouvelé et il est, pour l’exercice de ses attributions, sous-procureur général du Canada.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-681
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-681
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Competition Act (Competition Prosecution Service)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la concurrence (Service des poursuites en matière de concurrence)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Competition Prosecution Service Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur le Service des poursuites en matière de concurrence. 
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+R.S., c. C-34; R.S., c.19 (2nd Supp.), s. 19
+
+
+
+COMPETITION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA CONCURRENCE
+
+
+
+L.R., ch. C-34; L.R., ch. 19 (2e suppl.), art. 19
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Competition Act is amended by adding the following after section 29.2:
+
+
+
+
+
+
+
+
+
+2. La Loi sur la concurrence est modifiée par adjonction, après l’article 29.2, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+PART II.1
+
+
+
+
+
+
+
+
+
+PARTIE II.1
+
+
+
+
+
+
+
+
+
+
+
+
+COMPETITION PROSECUTION SERVICE
+
+
+
+
+
+
+
+
+
+SERVICE DES POURSUITES EN MATIÈRE DE CONCURRENCE
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation
+
+
+
+
+
+
+
+
+
+Définition
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “prosecution”
+
+
+
+29.21 In this Part, “prosecution” means a prosecution under the jurisdiction of the Attorney General of Canada, a proceeding respecting any offence, the prosecution — or prospective prosecution — of which is under the  jurisdiction of the Attorney General of Canada, and any appeal related to such a prosecution or proceeding.
+
+
+
+
+
+
+
+
+
+29.21 Dans la présente partie, « poursuite » s’entend de toute poursuite qui relève de la compétence du procureur général du Canada. Y sont assimilés les procédures liées à toute infraction dont la poursuite, même éventuelle, relève de la compétence de ce dernier, ainsi que les recours connexes. 
+
+
+
+Définition de « poursuite »
+
+
+
+
+
+
+
+
+
+
+Director of the Competition Prosecution Service
+
+
+
+
+
+
+
+
+
+Directeur du Service des poursuites en matière de concurrence
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment
+
+
+
+29.22 (1) The Governor in Council shall, on the recommendation of the Attorney General of Canada, appoint a Director of the Competition Prosecution Service (in this Act referred to as the “Director”).
+
+
+
+
+
+
+
+
+
+29.22 (1) Le gouverneur en conseil nomme, sur recommandation du procureur général du Canada, le directeur du Service des poursuites en matière de concurrence (ci-après appelé le « directeur »).
+
+
+
+Nomination
+
+
+
+
+
+
+
+
+
+
+Rank and status
+
+
+
+(2) The Director has the rank and status of a deputy head of a department.
+
+
+
+
+
+
+
+
+
+(2) Le directeur a rang et statut d’administrateur général de ministère.
+
+
+
+Rang et statut
+
+
+
+
+
+
+
+
+
+
+Duties and functions
+
+
+
+(3) The Director, under and on behalf of the Attorney General of Canada,
+
+
+
+
+
+
+
+
+(a) initiates and conducts prosecutions under any Act for the enforcement of which the Commissioner is responsible on behalf of the Crown, except where the Attorney General of Canada has assumed conduct of a prosecution under section 29.33;
+
+
+
+
+
+
+
+
+(b) intervenes in any matter that raises a question of public interest that may affect the conduct of prosecutions or related investigations under any Act for the enforcement of which the Commissioner is responsible, except in proceedings in which the Attorney General of Canada has decided to intervene under section 29.32;
+
+
+
+
+
+
+
+
+(c) issues guidelines to persons acting as prosecutors respecting the conduct of prosecutions under any Act for the enforcement of which the Commissioner is responsible;
+
+
+
+
+
+
+
+
+(d) advises law enforcement agencies or investigative bodies in respect of prosecutions generally — or in respect of a particular investigation that may lead to a prosecution — under any Act for the enforcement of which the Commissioner is responsible;
+
+
+
+
+
+
+
+
+(e) communicates with the media and the public on all matters respecting the initiation and conduct of prosecutions under any Act for the enforcement of which the Commissioner is responsible; and
+
+
+
+
+
+
+
+
+(f) exercises any other power or carries out any other duty or function assigned to the Director by the Attorney General of Canada that is compatible with the office of Director.
+
+
+
+
+
+
+
+
+
+(3) Il exerce, sous l’autorité et pour le compte du procureur général du Canada, les attributions suivantes :
+
+
+
+Rôle et attributions
+
+
+
+
+a) engager et mener, au nom de l'État, les poursuites sous le régime de toute loi dont le contrôle d'application relève du commissaire, sauf celles qui sont prises en charge par le procureur général du Canada en vertu de l'article 29.33;
+
+
+
+
+
+
+
+
+b) intervenir relativement à toute affaire dans laquelle sont soulevées des questions d'intérêt public qui pourraient avoir une incidence sur la conduite des poursuites ou des enquêtes connexes engagées sous le régime de toute loi dont le contrôle d'application relève du commissaire, sauf les affaires à l'égard desquelles le procureur général du Canada a décidé d'intervenir en vertu de l'article 29.32;
+
+
+
+
+
+
+
+
+c) donner des lignes directrices aux personnes agissant à titre de procureurs relativement à la conduite des poursuites engagées sous le régime de toute loi dont le contrôle d'application relève du commissaire;
+
+
+
+
+
+
+
+
+d) conseiller les organismes chargés de l’application de la loi ou les organismes d’enquête à l’égard de la conduite des poursuites, de façon générale, engagées sous le régime de toute loi dont le contrôle d'application relève du commissaire ou à l’égard d’une enquête pouvant mener à des poursuites en vertu d’une telle loi;
+
+
+
+
+
+
+
+
+e) communiquer avec les médias et le public relativement à toute question liée à l’introduction ou à la conduite de poursuites sous le régime de toute loi dont le contrôle d'application relève du commissaire;
+
+
+
+
+
+
+
+
+f) exercer toutes autres attributions que lui assigne le procureur général du Canada et qui ne sont pas incompatibles avec sa charge.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deputy Attorney General of Canada
+
+
+
+(4) For the purpose of exercising the powers and performing the duties and functions referred to in subsection (3), the Director is the Deputy Attorney General of Canada.
+
+
+
+
+
+
+
+
+
+(4) Dans le cadre de l’exercice des attributions visées au paragraphe (3), il est sous-procureur général du Canada.
+
+
+
+Sous-procureur général du Canada
+
+
+
+
+
+
+
+
+
+
+Guidelines not statutory instruments
+
+
+
+(5) For greater certainty, guidelines referred to in paragraph (3)(c) are not statutory instruments within the meaning of the Statutory Instruments Act.
+
+
+
+
+
+
+
+
+
+(5) Il est entendu que les lignes directrices visées à l’alinéa (3)c) ne sont pas des textes réglementaires au sens de la Loi sur les textes réglementaires.
+
+
+
+Non-application de la Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+Publication
+
+
+
+(6) Any assignment under paragraph (3)(f) must be in writing and be published by the Attorney General of Canada in the Canada Gazette.
+
+
+
+
+
+
+
+
+
+(6) Le procureur général fait publier dans la Gazette du Canada les attributions qu’il assigne au directeur aux termes de l’alinéa (3)f).
+
+
+
+Publication
+
+
+
+
+
+
+
+
+
+
+Agreements and arrangements
+
+
+
+(7) The Director may, for the purposes of exercising the powers and performing the duties and functions referred to in subsection (3), enter into an agreement or arrangement on behalf of the Attorney General of Canada with the government of a province.
+
+
+
+
+
+
+
+
+
+(7) Dans le cadre de l’exercice des attributions visées au paragraphe (3), le directeur peut conclure, pour le compte du procureur général du Canada, des ententes ou accords avec le gouvernement d’une province.
+
+
+
+Ententes et accords
+
+
+
+
+
+
+
+
+
+
+Tenure and term
+
+
+
+29.23 (1) The Director holds office, during good behaviour, for a term of seven years, but may be removed by the Governor in Council at any time for cause with the support of a resolution of the House of Commons to that effect. The Director is not eligible to be reappointed for a further term of office.
+
+
+
+
+
+
+
+
+
+29.23 (1) Le directeur est nommé à titre inamovible pour un mandat de sept ans, sous réserve de révocation motivée par le gouverneur en conseil appuyée par une résolution de la Chambre des communes à cet effet. Son mandat ne peut être renouvelé.
+
+
+
+Mandat
+
+
+
+
+
+
+
+
+
+
+End of term
+
+
+
+(2) At the end of the Director’s term, the Director shall continue in office until his or her successor is appointed.
+
+
+
+
+
+
+
+
+
+(2) À l’expiration de son mandat, il demeure en fonction jusqu’à ce qu’il soit remplacé.
+
+
+
+Fin du mandat
+
+
+
+
+
+
+
+
+
+
+Full-time
+
+
+
+(3) The Director shall engage exclusively in the duties and functions of his or her office under this Act or any other Act of Parliament and shall not hold any other office for reward or engage in any other employment for reward.
+
+
+
+
+
+
+
+
+
+(3) Il se consacre exclusivement à la charge que lui confère la présente loi ou toute autre loi fédérale, à l’exclusion de toute autre charge rétribuée ou de tout autre emploi rétribué.
+
+
+
+Temps plein
+
+
+
+
+
+
+
+
+
+
+Incapacity or vacancy
+
+
+
+(4) In the event of the incapacity of the Director or a vacancy in that office, the Governor in Council may authorize a Deputy Director of the Competition Prosecution Service to act as Director, but no person may act as Director for a period exceeding 12 months without the approval of the Governor in Council.
+
+
+
+
+
+
+
+
+
+(4) En cas d’empêchement du directeur ou de vacance de son poste, le gouverneur en conseil peut autoriser un des adjoints du directeur à assurer l’intérim, qui ne peut cependant dépasser douze mois sans son approbation.
+
+
+
+Intérim
+
+
+
+
+
+
+
+
+
+
+Remuneration and expenses
+
+
+
+(5) The Director shall be paid the remuneration and expenses that are fixed by the Governor in Council. Once fixed, the remuneration may not be reduced.
+
+
+
+
+
+
+
+
+
+(5) Le directeur reçoit la rémunération et les indemnités fixées par le gouverneur en conseil. Une fois fixée, sa rémunération ne peut être réduite.
+
+
+
+Rémunération et indemnités 
+
+
+
+
+
+
+
+
+
+
+Deputy Directors, Prosecutors and Other Staff
+
+
+
+
+
+
+
+
+
+Adjoints, procureurs et autres membres du personnel 
+
+
+
+
+
+
+
+
+
+
+
+
+Deputy Director
+
+
+
+29.24 (1) The Governor in Council shall, on the recommendation of the Attorney General of Canada, appoint one or more members of at least 10 years’ standing at the bar of any province to be Deputy Directors of the Competition Prosecution Service.
+
+
+
+
+
+
+
+
+
+29.24 (1) Le gouverneur en conseil nomme, sur recommandation du procureur général du Canada, un ou plusieurs adjoints au directeur parmi les membres inscrits au barreau d’une province depuis au moins dix ans.
+
+
+
+Adjoints
+
+
+
+
+
+
+
+
+
+
+Selection committee
+
+
+
+(2) The Attorney General of Canada may only make the recommendation after consultation with a selection committee consisting of the Director, a person representing the Federation of Law Societies of Canada and the Deputy Minister of Justice.
+
+
+
+
+
+
+
+
+
+(2) La recommandation du procureur général du Canada ne peut être faite qu’après consultation d’un comité de sélection formé du directeur, d’un représentant de la Fédération des ordres professionnels de juristes du Canada et du sous-ministre de la Justice.
+
+
+
+Comité de sélection
+
+
+
+
+
+
+
+
+
+
+Powers, duties and functions — lawful deputy
+
+
+
+(3) Under the supervision of the Director, a Deputy Director may exercise any of the powers and perform any of the duties or functions referred to in subsection 29.22(3) and, for that purpose, is a lawful deputy of the Attorney General of Canada.
+
+
+
+
+
+
+
+
+
+(3) Les adjoints peuvent exercer, sous la supervision du directeur, les attributions visées au paragraphe 29.22(3) dans l’exercice desquelles ils sont des substituts légitimes du procureur général du Canada.
+
+
+
+Attributions : substituts légitimes
+
+
+
+
+
+
+
+
+
+
+Other powers, duties and functions
+
+
+
+(4) Under the supervision of the Director, a Deputy Director may also act for or on behalf of the Director in the exercise of any of the other powers or the performance of any of the other duties or functions that the Director is authorized to exercise or perform under this or any other Act of Parliament.
+
+
+
+
+
+
+
+
+
+(4) Ils peuvent aussi exercer, au nom et pour le compte du directeur et sous sa supervision, toute autre attribution que celui-ci est autorisé à exercer en vertu de la présente loi ou de toute autre loi fédérale.
+
+
+
+Autres attributions
+
+
+
+
+
+
+
+
+
+
+Employed prosecutors
+
+
+
+29.25 (1) The prosecutors that are necessary to enable the Director to perform any of the duties or functions of his or her office shall be appointed in accordance with the Public Service Employment Act.
+
+
+
+
+
+
+
+
+
+29.25 (1) Les procureurs dont le directeur a besoin pour l’exercice de sa charge sont nommés en conformité avec la Loi sur l’emploi dans la fonction publique.
+
+
+
+Procureurs : employés
+
+
+
+
+
+
+
+
+
+
+Non-employed prosecutors
+
+
+
+(2) The Director may also for that purpose retain, on behalf of Her Majesty, the services of barristers and, in the Province of Quebec, advocates to act as prosecutors and, with the approval of the Treasury Board, may fix and pay their fees, expenses and other remuneration.
+
+
+
+
+
+
+
+
+
+(2) Aux mêmes fins, le directeur peut aussi retenir, pour le compte de l’État, les services d’avocats pour agir comme procureurs et, avec l’approbation du Conseil du Trésor, fixer leur rémunération et leurs indemnités.
+
+
+
+Autres procureurs
+
+
+
+
+
+
+
+
+
+
+Qualification
+
+
+
+(3) A person appointed under subsection (1) or whose services are retained under subsection (2) must be a member of the bar of a province.
+
+
+
+
+
+
+
+
+
+(3) Les personnes nommées en vertu du paragraphe (1) ou dont les services sont retenus au titre du paragraphe (2) doivent être membres du barreau d’une province.
+
+
+
+Conditions requises
+
+
+
+
+
+
+
+
+
+
+Other staff
+
+
+
+29.26 (1) Any other officers and employees that are necessary to enable the Director to perform any of the duties and functions of his or her office shall be appointed in accordance with the Public Service Employment Act.
+
+
+
+
+
+
+
+
+
+29.26 (1) Les autres membres du personnel dont le directeur a besoin pour l’exercice de sa charge sont nommés conformément à la Loi sur l’emploi dans la fonction publique.
+
+
+
+Autres membres du personnel
+
+
+
+
+
+
+
+
+
+
+Technical assistance
+
+
+
+(2) The Director may engage the services of persons having technical or specialized knowledge of any matter relating to the Director’s work to advise and assist the Director in performing any of the duties and functions of his or her office and, with the approval of the Treasury Board, may fix and pay the remuneration and expenses of those persons.
+
+
+
+
+
+
+
+
+
+(2) Le directeur peut aussi retenir les services d’experts ou de spécialistes dont la compétence lui est utile dans l’exercice de sa charge; il peut fixer, avec l’approbation du Conseil du Trésor, leur rémunération et leurs indemnités.
+
+
+
+
+Assistance technique
+
+
+
+
+
+
+
+
+
+
+Delegation
+
+
+
+
+
+
+
+
+
+Délégation
+
+
+
+
+
+
+
+
+
+
+
+
+Delegation
+
+
+
+29.27 (1) The Director may, subject to any restrictions or limitations that the Director specifies, authorize a prosecutor, a person acting as a prosecutor under subsection 29.25(2) or any person referred to in subsection 29.26(1) to act for or on behalf of the Director in the exercise of any of the powers or the performance of any of the duties or functions that the Director is authorized to exercise or perform under this or any other Act of Parliament, except the power to delegate under this subsection.
+
+
+
+
+
+
+
+
+
+29.27 (1) Le directeur peut, dans les limites qu’il fixe, autoriser les procureurs, les personnes agissant à ce titre en vertu du paragraphe 29.25(2) ou toute autre personne visée au paragraphe 29.26(1) à exercer, pour lui ou en son nom, les attributions qu’il est autorisé à exercer sous le régime de la présente loi ou de toute autre loi fédérale, sauf le pouvoir de délégation lui-même.
+
+
+
+Pouvoir de délégation
+
+
+
+
+
+
+
+
+
+
+Agency
+
+
+
+(2) Every person who is authorized under subsection (1) acts as an agent of the Director and is not required to prove such authorization.
+
+
+
+
+
+
+
+
+
+(2) Toute personne agissant en vertu de la délégation visée au paragraphe (1) est mandataire du directeur et n’a pas à faire la preuve de cette délégation.
+
+
+
+Mandat
+
+
+
+
+
+
+
+
+
+
+Designation
+
+
+
+(3) The Director, a Deputy Director and any person referred to in subsection 29.25(3) may be designated as an agent of the Minister of Public Safety and Emergency Preparedness under section 185 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+(3) Le directeur, ses adjoints ainsi que toute personne visée au paragraphe 29.25(3) peuvent être des mandataires désignés du ministre de la Sécurité publique et de la Protection civile aux termes de l’article 185 du Code criminel.
+
+
+
+Désignation
+
+
+
+
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+
+
+
+Directives
+
+
+
+
+
+
+
+
+
+
+
+
+Directive from Attorney General of Canada —specific prosecution
+
+
+
+29.28 (1) Any directive that the Attorney General of Canada issues to the Director with respect to the initiation or conduct of any specific prosecution must be in writing and be published in the Canada Gazette.
+
+
+
+
+
+
+
+
+
+29.28 (1) Toute directive donnée par le procureur général du Canada au directeur relativement à l’introduction ou à la conduite d’une poursuite en particulier l’est par écrit et est publiée dans la Gazette du Canada.
+
+
+
+Directives du procureur général du Canada : poursuite déterminée 
+
+
+
+
+
+
+
+
+
+
+Directive —generally applicable
+
+
+
+(2) The Attorney General of Canada may, after consulting the Director, issue directives respecting the initiation or conduct of prosecutions generally. Any such directives must be in writing and be published in the Canada Gazette.
+
+
+
+
+
+
+
+
+
+(2) Le procureur général du Canada peut, après consultation du directeur, lui donner des directives relativement à l’introduction ou à la conduite des poursuites en général. Ces directives sont données par écrit et publiées dans la Gazette du Canada.
+
+
+
+Directives générales relatives aux poursuites
+
+
+
+
+
+
+
+
+
+
+Delay in publication —directive
+
+
+
+29.29 (1) The Attorney General of Canada or the Director may, if he or she considers it to be in the interests of the administration of justice, direct that the publication in the Canada Gazette of a directive referred to in subsection 29.28(1) be delayed.
+
+
+
+
+
+
+
+
+
+29.29 (1) Le procureur général du Canada ou le directeur peut, s’il juge que l’administration de la justice l’exige, ordonner que la publication des directives dans la Gazette du Canada conformément au paragraphe 29.28(1) soit reportée.
+
+
+
+Report de la publication
+
+
+
+
+
+
+
+
+
+
+Limit on delay
+
+
+
+(2) The publication of a directive may not be delayed beyond the completion of the prosecution or any related prosecution.
+
+
+
+
+
+
+
+
+
+(2) Toutefois, elle ne peut être reportée au-delà du terme de la poursuite ou de celui de toute poursuite connexe.
+
+
+
+Limite
+
+
+
+
+
+
+
+
+
+
+Directives not statutory instruments
+
+
+
+29.3 For greater certainty, directives issued under section 29.28 are not statutory instruments within the meaning of the Statutory Instruments Act.
+
+
+
+
+
+
+
+
+
+29.3 Il est entendu que les directives visées à l’article 29.28  ne sont pas des textes réglementaires au sens de la Loi sur les textes régle-mentaires.
+
+
+
+Non-application de la Loi sur les textes réglementaires 
+
+
+
+
+
+
+
+
+
+
+Issues of General or Public Interest
+
+
+
+
+
+
+
+
+
+Questions d'intérêt général ou public
+
+
+
+
+
+
+
+
+
+
+
+
+Duty to inform
+
+
+
+29.31 The Director must inform the Attorney General of Canada in a timely manner of any prosecution, or intervention that the Director intends to make, that raises important questions of general interest.
+
+
+
+
+
+
+
+
+
+29.31 Le directeur informe le procureur général du Canada en temps utile de toute poursuite — ou de toute intervention qu'il se propose de faire — soulevant d'importantes questions d'intérêt général.
+
+
+
+Communication au procureur général du Canada 
+
+
+
+
+
+
+
+
+
+
+Intervention
+
+
+
+29.32 When, in the opinion of the Attorney General of Canada, proceedings raise questions of public interest, the Attorney General of Canada may, after notifying the Director, intervene in first instance or on appeal.
+
+
+
+
+
+
+
+
+
+29.32 Lorsqu’une poursuite soulève, à son avis, des questions d’intérêt public, le procureur général du Canada peut intervenir, après en avoir avisé le directeur, en première instance ou en appel.
+
+
+
+Intervention du procureur général du Canada
+
+
+
+
+
+
+
+
+
+
+Assuming Conduct of Prosecution
+
+
+
+
+
+
+
+
+
+Prise en charge
+
+
+
+
+
+
+
+
+
+
+
+
+Taking conduct of prosecution
+
+
+
+29.33 (1) The Attorney General of Canada may only assume conduct of a prosecution after first consulting the Director. The Attorney General of Canada must then give to the Director a notice of intent to assume conduct of the prosecution and publish it in the Canada Gazette without delay.
+
+
+
+
+
+
+
+
+
+29.33 (1) Le procureur général du Canada peut prendre en charge une poursuite s’il a, au préalable, consulté le directeur à ce sujet; le cas échéant, il l’avise de son intention et publie sans tarder l’avis dans la Gazette du Canada.
+
+
+
+Prise en charge
+
+
+
+
+
+
+
+
+
+
+Transfer of file
+
+
+
+(2) The Director is required to turn the prosecution file over to the Attorney General of Canada and to provide any information that the Attorney General of Canada requires within the time specified.
+
+
+
+
+
+
+
+
+
+(2) Le directeur remet alors le dossier au procureur général du Canada et lui fournit, dans le délai que ce dernier indique, tout renseignement exigé par lui.
+
+
+
+Remise du dossier
+
+
+
+
+
+
+
+
+
+
+Delay in publication
+
+
+
+(3) However, publication may be delayed if the Attorney General of Canada or the Director considers it to be in the interests of the administration of justice.
+
+
+
+
+
+
+
+
+
+(3) La publication peut cependant être reportée si le directeur ou le procureur général du Canada estime que l’administration de la justice l’exige.
+
+
+
+Report de la publication
+
+
+
+
+
+
+
+
+
+
+Annual Report
+
+
+
+
+
+
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+29.34 (1) The Director shall, not later than June 30 of each year, report to the Attorney General of Canada in respect of the activities of the office of the Director in the immediately preceding fiscal year.
+
+
+
+
+
+
+
+
+
+29.34 (1) Au plus tard le 30 juin de chaque année, le directeur présente au procureur général du Canada un rapport des activités de son bureau pour l’exercice précédent.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Tabling in Parliament
+
+
+
+(2) The Attorney General of Canada shall cause a copy of the Director’s report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after he or she receives the report.
+
+
+
+
+
+
+
+
+
+(2) Le procureur général du Canada fait déposer le rapport devant chacune des chambres du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISIONS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS TRANSITOIRES
+
+
+
+
+
+
+
+
+
+
+
+
+Continuation of prosecutions
+
+
+
+3. (1) Any prosecution under any Act for the enforcement of which the Commissioner of Competition is responsible, to which the Attorney General of Canada is a party and that is ongoing on the day on which this Act comes into force is continued by the Director of the Competition Prosecution Service without further formality.
+
+
+
+
+
+
+
+
+
+3. (1) Les poursuites engagées sous le régime de toute loi dont le contrôle d'application relève du commissaire de la concurrence, auxquelles le procureur général du Canada est partie et qui sont en cours à la date d’entrée en vigueur de la présente loi, sont continuées sans autres formalités par le directeur du Service des poursuites en matière de concurrence.
+
+
+
+Poursuites en cours
+
+
+
+
+
+
+
+
+
+
+Definition of “prosecution”
+
+
+
+(2) In subsection (1), “prosecution” has the same meaning as in section 29.21 of the Competition Act, as enacted by section 2 of this Act.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du paragraphe (1), « poursuite » s’entend au sens de l’article 29.21 de la Loi sur la concurrence, édicté par l’article 2 de la présente loi.
+
+
+
+Définition de « poursuite »
+
+
+
+
+
+
+
+
+
+
+Non-employed prosecutors
+
+
+
+4. Any barrister or, in the Province of Quebec, any advocate whose services were retained, immediately before the day on which this Act comes into force, to act as a prosecutor for the Crown in connection with any matter under any Act for the enforcement of which the Commissioner of Competition is responsible is deemed, on that day, to have had his or her services retained under subsection 29.25 of the Competition Act, as enacted by section 2 of this Act, to act in connection with that matter.
+
+
+
+
+
+
+
+
+
+4. L’article 29.25  de la Loi sur la concurrence, édicté par l’article 2 de la présente loi, s’applique à l’avocat dont les services ont été retenus avant la date d’entrée en vigueur de la présente loi pour agir comme procureur pour l’État relativement à toute affaire régie par une loi dont le contrôle d'application relève du commissaire de la concurrence, comme si ces services avaient été retenus sous le régime de cet article 29.25. 
+
+
+
+Procureurs autres que des fonctionnaires
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+R.S., c. A-1
+
+
+
+Access to Information Act
+
+
+
+
+
+
+
+
+
+Loi sur l'accès à l'information
+
+
+
+L.R., ch. A-1
+
+
+
+
+
+
+
+
+
+
+
+
+5. Schedule I to the Access to Information Act is amended by adding the following in alphabetical order under the heading “OTHER GOVERNMENT INSTITUTIONS”:
+
+
+
+
+
+
+
+
+
+5. L’annexe I de la Loi sur l’accès à l’information est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « AUTRES INSTITUTIONS FÉDÉRALES », de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Director of the Competition Prosecution Service 
+
+
+
+
+
+
+Bureau du directeur du Service des poursuites en matière de concurrence
+
+
+
+
+
+
+
+
+
+Bureau du directeur du Service des poursuites en matière de concurrence
+
+
+
+
+
+
+Office of the Director of the Competition Prosecution Service
+
+
+
+
+
+
+
+
+
+
+R.S., c. J-2
+
+
+
+Department of Justice Act
+
+
+
+
+
+
+
+
+
+Loi sur le ministère de la Justice
+
+
+
+L.R., ch. J-2
+
+
+
+
+
+
+
+
+
+
+
+
+6. Subsection 3(2) of the Department of Justice Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 3(2) de la Loi sur le ministère de la Justice est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Deputy Attorney General
+
+
+
+(2) The Deputy Minister is ex officio the Deputy Attorney General of Canada except in respect of the powers, duties and functions
+
+
+
+
+
+
+
+
+(a) that the Director of Public Prosecutions is authorized to exercise or perform under subsection 3(3) of the Director of Public Prosecutions Act; and
+
+
+
+
+
+
+
+
+(b) that the Director of the Competition Prosecution Service is authorized to exercise or perform under subsection 29.22(3) of the Competition Act.
+
+
+
+
+
+
+
+
+
+(2) Le sous-ministre est d’office sous-procureur général, sauf en ce qui concerne les attributions suivantes :
+
+
+
+Sous-procureur général
+
+
+
+
+a) celles que le directeur des poursuites pénales est autorisé à exercer en vertu du paragraphe 3(3) de la Loi sur le directeur des poursuites pénales;
+
+
+
+
+
+
+
+
+b) celles que le directeur du Service des poursuites en matière de concurrence est autorisé à exercer en vertu du paragraphe 29.22(3) de la Loi sur la concurrence. 
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. F-11
+
+
+
+Financial Administration Act
+
+
+
+
+
+
+
+
+
+Loi sur la gestion des finances publiques
+
+
+
+L.R., ch. F-11
+
+
+
+
+
+
+
+
+
+
+
+
+7. Schedule I.1 to the Financial Administration Act is amended by adding the fol-lowing in alphabetical order in column I:
+
+
+
+
+
+
+
+
+
+7. L’annexe I.1 de la Loi sur la gestion des finances publiques est modifiée par adjonction, dans la colonne I, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Director of the Competition Prosecution Service
+
+
+
+
+
+
+Bureau du directeur du Service des poursuites en matière de concurrence
+
+
+
+
+
+
+and a corresponding reference in column II to the “Minister of Justice”.
+
+
+
+
+
+
+
+
+
+Bureau du directeur du Service des poursuites en matière de concurrence
+
+
+
+
+
+
+Office of the Director of the Competition Prosecution Service
+
+
+
+
+
+
+ainsi que de la mention « Le ministre de la Justice », dans la colonne II, en regard de ce secteur. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Schedule IV to the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+8. L’annexe IV de la même loi est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Director of the Competition Prosecution Service
+
+
+
+
+
+
+Bureau du directeur du Service des poursuites en matière de concurrence
+
+
+
+
+
+
+
+
+
+Bureau du directeur du Service des poursuites en matière de concurrence
+
+
+
+
+
+
+Office of the Director of the Competition Prosecution Service
+
+
+
+
+
+
+
+
+
+
+R.S., c. P-21
+
+
+
+Privacy Act
+
+
+
+
+
+
+
+
+
+Loi sur la protection des renseignements personnels
+
+
+
+L.R., ch. P-21
+
+
+
+
+
+
+
+
+
+
+
+
+9. The schedule to the Privacy Act is amended by adding the following in alphabetical order under the heading “OTHER GOVERNMENT INSTITUTIONS”:
+
+
+
+
+
+
+
+
+
+9. L’annexe de la Loi sur la protection des renseignements personnels est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « AUTRES INSTITUTIONS FÉDÉRALES », de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Director of the Competition Prosecution Service 
+
+
+
+
+
+
+Bureau du directeur du Service des poursuites en matière de concurrence
+
+
+
+
+
+
+
+
+
+Bureau du directeur du Service des poursuites en matière de concurrence
+
+
+
+
+
+
+Office of the Director of the Competition Prosecution Service
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

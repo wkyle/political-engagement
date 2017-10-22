@@ -1,0 +1,929 @@
+
+
+
+
+
+C-628
+
+
+
+
+
+C-628
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-628
+
+
+
+
+
+PROJET DE LOI C-628
+
+
+
+
+
+
+An Act to amend the Canada Shipping Act, 2001 and the National Energy Board Act (oil transportation and pipeline certificate)
+
+
+
+
+
+Loi modifiant la Loi de 2001 sur la marine marchande du Canada et la Loi sur l’Office national de l’énergie (transport du pétrole et certificat pour pipeline)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, September 23, 2014
+
+première lecture le 23 septembre 2014
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Cullen
+
+412220
+
+
+
+M. Cullen
+
+
+
+
+
+SUMMARY
+This enactment amends the Canada Shipping Act, 2001 to prohibit the transportation of oil in oil tankers in the Dixon Entrance, Hecate Strait and Queen Charlotte Sound. It also amends the National Energy Board Act to require the National Energy Board to take into account certain specified factors before making a recommendation to the Minister in respect of the issuance of a pipeline certificate.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi de 2001 sur la marine marchande du Canada afin d’interdire le transport du pétrole par pétrolier dans l’entrée Dixon, le détroit d’Hécate et le bassin de la Reine-Charlotte. Il modifie également la Loi sur l’Office national de l’énergie afin d’exiger de l'Office national de l'énergie qu’il tienne compte de certains facteurs avant de faire une recommandation au ministre quant à la délivrance d’un certificat visant un pipeline.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-628
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-628
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Shipping Act, 2001 and the National Energy Board Act (oil transportation and pipeline certificate)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de 2001 sur la marine marchande du Canada et la Loi sur l’Office national de l’énergie (transport du pétrole et certificat pour pipeline)
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas British Columbia’s North Coast comprises a unique and diverse ocean ecosystem whose marine resources sustain regional economies in British Columbia, and hold crucial cultural and historic importance for the communities and First Nations who call the North Coast home;
+
+
+
+
+
+
+
+
+Whereas the Supreme Court of Canada has recognized the duty of the Crown to obtain prior consent from First Nations affected by resource development projects on their territories;
+
+
+
+
+
+
+
+
+Whereas Canada’s current resource development framework disempowers local and region-al voices in decision-making processes and unfairly concentrates power away from those who would be affected;
+
+
+
+
+
+
+
+
+And whereas Canada holds some of the largest energy reserves in the world yet still imports half of its energy from international sources and is foregoing enormous social and economic benefits under the current raw export regime;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que la côte nord de la Colombie-Britannique comprend un écosystème océanique unique et divers dont les ressources marines sont le pilier d’économies régionales de la province et revêtent une importance culturelle et historique cruciale pour les collectivités et les Premières Nations qui y sont établies;
+
+
+
+
+
+
+
+
+que la Cour suprême du Canada a reconnu l’obligation pour la Couronne d’obtenir le consentement préalable des Premières Nations touchées par un projet de développement des ressources sur leur territoire; 
+
+
+
+
+
+
+
+
+que le cadre de développement des ressources actuellement en vigueur au Canada ne permet pas aux populations locales et régionales de jouer un rôle dans le processus de prise de décision et prive injustement de tout pouvoir les personnes qui seraient concernées;
+
+
+
+
+
+
+
+
+que le Canada, bien qu’il possède des réserves d’énergie parmi les plus vastes au monde, importe encore la moitié de son énergie de l’étranger et renonce à d’importants avantages sociaux et économiques de par le régime en place d’exportation de ressources brutes,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+2001, c. 26
+
+
+
+CANADA SHIPPING ACT, 2001
+
+
+
+
+
+
+
+
+
+LOI DE 2001 SUR LA MARINE MARCHANDE DU CANADA
+
+
+
+2001, ch. 26
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Canada Shipping Act, 2001 is amended by adding the following after section 189:
+
+
+
+
+
+
+
+
+
+1. La Loi de 2001 sur la marine marchande du Canada est modifiée par adjonction, après l’article 189, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+
+
+
+
+
+
+Interdiction
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+189.1 The following definitions apply in section 189.2.
+
+
+
+
+
+
+
+
+
+189.1 Les définitions qui suivent s'appliquent à l'article 189.2.
+
+
+
+Définitions
+
+
+
+
+
+
+
+
+
+
+“in bulk”« en vrac »
+
+
+
+“in bulk” means in a hold or tank that is part of the structure of a vessel, without any intermediate form of containment.
+
+
+
+
+“oil”« pétrole »
+
+
+
+“oil” has the same meaning as in section 2 of the Canada Oil and Gas Operations Act.
+
+
+
+
+“oil tanker”« pétrolier »
+
+
+
+“oil tanker” means a vessel that is constructed or adapted primarily to transport oil in bulk.
+
+
+
+
+
+
+
+
+
+« en vrac » Dans une cale ou une citerne faisant partie de la structure du bâtiment, sans contenant intermédiaire.
+
+
+
+« en vrac »“in bulk”
+
+
+
+
+« pétrole » S'entend au sens de l'article 2 de la Loi sur les opérations pétrolières au Canada.
+
+
+
+« pétrole »“oil”
+
+
+
+
+« pétrolier » Bâtiment construit ou adapté principalement en vue de transporter du pétrole en vrac.
+
+
+
+« pétrolier »“oil tanker”
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+189.2 (1) It is prohibited to transport oil in an oil tanker in the areas of the sea adjacent to the coast of Canada known as Dixon Entrance, Hecate Strait and Queen Charlotte Sound.
+
+
+
+
+
+
+
+
+
+189.2 (1) Il est interdit de transporter du pétrole par pétrolier dans les régions de la mer adjacentes à la côte canadienne appelées entrée Dixon, détroit d'Hécate et bassin de la Reine-Charlotte.
+
+
+
+Régions interdites
+
+
+
+
+
+
+
+
+
+
+Clarification
+
+
+
+(2) The areas of the sea referred to in subsection (1) are those areas included within Zone 3 as described in the Fishing Zones of Canada (Zones 1, 2 and 3) Order made under the Oceans Act.
+
+
+
+
+
+
+
+
+
+(2) Les régions de la mer visées au paragraphe (1) sont celles de la zone 3 établie dans le  Décret sur les zones de pêche du Canada (zones 1, 2 et 3), pris en vertu de la Loi sur les océans.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+For greater certainty
+
+
+
+(3) For greater certainty, the prohibition in subsection (1) does not apply in respect of the transportation of gasoline, aviation fuel, diesel oil or fuel oil that is intended for use in coastal and island communities in Canada.
+
+
+
+
+
+
+
+
+
+(3) Il est entendu que l’interdiction énoncée au paragraphe (1) ne s’applique pas au transport d’essence, de carburant aviation, de carburant diesel ou de mazout destiné à l’usage des collectivités côtières et des îles canadiennes.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 191(1) of the Act is amended by striking out “and” at the end of paragraph (c) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 191(1) de la même loi est modifié par adjonction, après l'alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c.1) section 189.2 (prohibition against operation of oil tanker in specified areas); and
+
+
+
+
+
+
+
+
+
+c.1) à l’article 189.2 (interdiction d’exploiter un pétrolier dans une région interdite);
+
+
+
+
+
+
+
+
+
+
+R.S., c. N-7
+
+
+
+NATIONAL ENERGY BOARD ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’OFFICE NATIONAL DE L’ÉNERGIE
+
+
+
+L.R., ch. N-7
+
+
+
+
+
+
+
+
+
+
+
+
+3. (1) The portion of subsection 52(2) of the National Energy Board Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. (1) Le passage du paragraphe 52(2) de la Loi sur l’Office national de l’énergie précédant l’alinéa a) est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Factors to consider
+
+
+
+(2) In making its recommendation, the Board shall have regard to all considerations that appear to it to be directly related to the pipeline and to be relevant, as well as to
+
+
+
+
+
+
+
+
+
+(2) En faisant sa recommandation, l’Office tient compte de tous les facteurs qu’il estime directement liés au pipeline et pertinents, ainsi que de ce qui suit :
+
+
+
+Facteurs à considérer 
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 52(2) of the Act is amended by striking out “and” at the end of paragraph (d) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 52(2) de la même loi est modifié par adjonction, après l’alinéa d), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d.1) the extent to which the pipeline is expected to have an impact on employment in upgraders, refineries and petrochemical complexes within Canada; and
+
+
+
+
+
+
+
+
+
+d.1) la mesure dans laquelle le pipeline aura des répercussions sur l'emploi dans les usines de valorisation, les raffineries et les complexes pétrochimiques au Canada;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 52 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(3) L’article 52 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Consultations required
+
+
+
+(2.1) Before submitting a report under subsection (1), the Board shall ensure that consultations have taken place between the Government of Canada and all provincial, territorial, municipal and First Nations governments whose lands or waters will be affected by the pipeline and take into account the position of those governments on the issuance of a certificate in respect of the pipeline. The report shall include a summary of those positions and specify how the Board took each position into account in deciding whether or not to recommend the issuance of a certificate in respect of the pipeline.
+
+
+
+
+
+
+
+
+
+(2.1) Avant de présenter son rapport en application du paragraphe (1), l’Office veille à ce que des consultations aient lieu entre le gouvernement du Canada et les provinces, territoires, municipalités et premières nations dont les terres ou les eaux seront touchées par le pipeline et tient compte de leur position sur la délivrance d’un certificat. Le rapport comporte le résumé de ces positions et précise la façon dont l’Office a pris chacune d’elles en compte dans sa décision de recommander ou non la délivrance du certificat. 
+
+
+
+Consultations requises
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

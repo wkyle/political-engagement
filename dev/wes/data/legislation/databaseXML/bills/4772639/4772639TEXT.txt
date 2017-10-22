@@ -1,0 +1,1230 @@
+
+
+
+
+
+S-229
+
+
+
+
+
+S-229
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-229
+
+
+
+
+
+PROJET DE LOI S-229
+
+
+
+
+
+
+An Act to amend the Income Tax Act and the Excise Tax Act (tax relief for Nunavik)
+
+
+
+
+
+Loi modifiant la Loi de l’impôt sur le revenu et la Loi sur la taxe d’accise (allégements fiscaux pour les habitants du Nunavik)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 13, 2007
+
+première lecture le 13 juin 2007
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR WATT
+
+0622
+
+
+
+L’HONORABLE SÉNATEUR WATT
+
+
+
+
+
+SUMMARY
+This enactment provides tax relief in Nunavik by
+(a) amending the Income Tax Act to provide an individual who meets certain residency requirements with a deduction of $70 for each day on which he or she resided in Nunavik during a qualifying period in a taxation year, to be deducted in computing the individual’s taxable income; and
+(b) amending the Excise Tax Act to provide for a 0% GST tax rate on the supply of goods and services in Nunavik and to exempt petroleum products and fuels sold or purchased in Nunavik from certain excise and consumption or sales taxes.
+
+
+
+SOMMAIRE
+Le texte établit des allègements fiscaux pour les habitants du Nunavik :
+a) en modifiant la Loi de l’impôt sur le revenu de façon à permettre à un contribuable qui satisfait à certaines exigences de résidence de déduire de son revenu imposable 70 $ pour chaque jour où il réside au Nunavik au cours d’une période admissible comprise dans une année d’imposition;
+b) en modifiant la Loi sur la taxe d’accise de façon à prévoir un taux de TPS de 0 % applicable à la fourniture de biens et services au Nunavik, et à exempter les produits pétroliers et les combustibles vendus ou achetés au Nunavik de certaines taxes d’accise, de consommation ou de vente.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-229
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-229
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Income Tax Act and the Excise Tax Act (tax relief for Nunavik)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi de l’impôt sur le revenu et la Loi sur la taxe d’accise (allégements fiscaux pour les habitants du Nunavik)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHEREAS the people of Nunavik, in the Province of Quebec, most of whom are Inuit, are experiencing a fiscal imbalance owing to the fact that their cost of living is exorbitant compared with that of Canadians living south of the fifty-fifth parallel;
+
+
+
+
+
+
+WHEREAS the people of Nunavik are cut off from other Canadians geographically, economically and politically, and their living conditions are desperate and deteriorating further because of isolation and distance;
+
+
+
+
+
+
+WHEREAS the high cost of transportation has a direct impact on the cost of goods and services, and this seriously limits people’s purchasing power;
+
+
+
+
+
+
+WHEREAS, on a per capita basis, the Inuit are the most heavily taxed people in Canada;
+
+
+
+
+
+
+WHEREAS the level of taxation erodes people’s savings and makes it extremely difficult for small businesses to operate at a profit;
+
+
+
+
+
+
+WHEREAS tax relief is necessary to promote economic prosperity and social well-being in Nunavik;
+
+
+
+
+
+
+WHEREAS the Parliament of Canada recognizes the need to act in order to remove the economic injustice endured by the people of Nunavik;
+
+
+
+
+
+
+WHEREAS studies carried out by various institutions have strongly recommended changes to the tax system in order to exempt the Inuit of Nunavik from paying income tax;
+
+
+
+
+
+
+AND WHEREAS the same recommendations have called for government transfers to be indexed in order to better reflect the cost of living in Nunavik;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que la population du Nunavik, dans la province de Québec, composée principalement d’Inuits, vit un déséquilibre fiscal causé par un coût de la vie qui est exorbitant comparativement au reste de la population canadienne vivant au sud du cinquante-cinquième parallèle;
+
+
+
+
+
+
+que la population du Nunavik est coupée du reste de la population du Canada sur le triple plan géographique, économique et politique et que les conditions de vie qu’elle connaît sont très critiques, et ne vont qu’en s’aggravant à cause de l’isolement et de la distance;
+
+
+
+
+
+
+que les coûts élevés du transport se répercutent directement sur les coûts des biens et des services, ce qui a une incidence majeure sur le pouvoir d’achat de la population;
+
+
+
+
+
+
+que sur la base d’imposition par habitant, les Inuit sont les contribuables les plus lourdement imposés du Canada;
+
+
+
+
+
+
+que les impôts et les taxes dévaluent l’épargne des particuliers et empêchent presque les petites entreprises de réaliser des bénéfices;
+
+
+
+
+
+
+que des des allégements fiscaux sont nécessaires pour favoriser la prospérité économique et sociale au Nunavik;
+
+
+
+
+
+
+que le Parlement du Canada reconnaît la nécessité de prendre des mesures pour enrayer l’injustice économique que vivent les individus du Nunavik;
+
+
+
+
+
+
+que plusieurs recommandations d’études effectuées par diverses institutions insistent sur la nécessité de réviser le régime fiscal pour exonérer de l’impôt sur le revenu les Inuit du Nunavik;
+
+
+
+
+
+
+que ces mêmes recommandations demandent d’indexer les transferts gouvernementaux afin de mieux refléter le coût de la vie au Nunavik,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., 1985,
+c.1 (5th Supp.)
+
+
+
+INCOME TAX ACT
+
+
+
+
+
+
+
+
+
+LOI DE L’IMPÔT SUR LE REVENU
+
+
+
+L.R. (1985),
+ch. 1 (5e suppl.)
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) The portion of subsection 110.7(1) of the Income Tax Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. (1) Le passage du paragraphe 110.7(1) de la Loi de l’impôt sur le revenu précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Residing in prescribed zone or Nunavik
+
+
+
+110.7 (1) Where, throughout a period (in this section referred to as the “qualifying period”) of not less than 6 consecutive months beginning or ending in a taxation year, a taxpayer who is an individual has resided in one or more particular areas each of which is a prescribed northern zone, a prescribed intermediate zone or Nunavik for the year and files for the year a claim in prescribed form, there may be deducted in computing the taxpayer’s taxable income for the year
+
+
+
+
+
+
+
+
+
+110.7 (1) Le contribuable, étant un particulier, qui, tout au long d’une période (appelée « période admissible » au présent article) d’au moins six mois consécutifs commençant ou se terminant au cours d’une année d’imposition, réside dans une ou plusieurs régions — chacune étant, pour l’année, une zone nordique visée par règlement, une zone intermédiaire visée par règlement ou le Nunavik — et qui en fait la demande pour l’année sur formulaire prescrit peut déduire les montants suivants dans le calcul de son revenu imposable pour l’année :
+
+
+
+Habitants des régions visées par règlement ou du Nunavik
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 110.7(1) of the Act is amended by striking out the word “and” at the end of paragraph (a), by adding the word “and” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 110.7(1) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the amount obtained by multiplying $70 by the number of days in the year included in the qualifying period in which the taxpayer resided in Nunavik.
+
+
+
+
+
+
+
+
+
+c) le produit de 70 $ par le nombre de jours dans l’année compris dans la période admissible où le contribuable réside au Nunavik.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 110.7(2) of the Act is amended by striking out the word “and” at the end of paragraph (a), by adding the word “and” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 110.7(2) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) where the area is Nunavik for the year, 100%.
+
+
+
+
+
+
+
+
+
+c) si la région est le Nunavik pour l’année, 100 %.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Subsection 110.7(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 110.7(5) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Residing in more than one area
+
+
+
+(5) Where on any day an individual resides in more than one particular area referred to in subsection 110.7(1), for the purpose of that subsection, the individual shall be deemed to reside in only one such area on that day and, for greater certainty, Nunavik and the prescribed northern zone that includes Nunavik are two particular areas for the purpose of this subsection.
+
+
+
+
+
+
+
+
+
+(5) Le particulier qui, un jour donné, réside dans plusieurs régions visées au paragraphe (1) est réputé, pour l’application de ce paragraphe, ne résider que dans une seule de ces régions ce jour-là; il est entendu que le Nunavik et la zone nordique visée par règlement qui englobe le Nunavik constituent deux régions distinctes pour l’application du présent paragraphe.
+
+
+
+Résidence multiple
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Section 110.7 of the Act is amended by adding the following after subsection (5):
+
+
+
+
+
+
+
+
+
+(5) L’article 110.7 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “Nunavik”
+
+
+
+(6) In this section, “Nunavik” has the meaning assigned to the word “Territory” by An Act respecting Northern villages and the Kativik Regional Government, Chapter V-6.1 of the Revised Statutes of Quebec, as amended from time to time.
+
+
+
+
+
+
+
+
+
+(6) Dans le présent article, « Nunavik » s’entend d’un « Territoire » au sens de la Loi sur les villages nordiques et l’Administration régionale Kativik, chapitre V-6.1 des Lois refondues du Québec, avec ses modifications successives.
+
+
+
+Définition de « Nunavik »
+
+
+
+
+
+
+
+
+R.S., 1985, c. E-15
+
+
+
+EXCISE TAX ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA TAXE D’ACCISE
+
+
+
+L.R. (1985),
+ch. E-15
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 2(1) of the Excise Tax Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 2(1) de la Loi sur la taxe d’accise est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“Nunavik”« Nunavik »
+
+
+
+“Nunavik” has the meaning assigned to the word “Territory” by An Act respecting Northern villages and the Kativik Regional Government, Chapter V-6.1 of the Revised Statutes of Quebec, as amended from time to time.
+
+
+
+
+
+
+
+
+
+« Nunavik » S’entend d’un « Territoire » au sens de la Loi sur les villages nordiques et l’Administration régionale Kativik, chapitre V-6.1 des Lois refondues du Québec, avec ses modifications successives.
+
+
+
+« Nunavik »“Nunavik”
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsection 50(5) of the Act is amended by striking out the word “or” at the end of paragraph (k), by adding the word “or” at the end of paragraph (l) and by adding the following after paragraph (l):
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 50(5) de la même loi est modifié par adjonction, après l’alinéa l), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(m) sold or purchased in Nunavik, if the goods are goods enumerated in Schedule II.1 or Part VI of Schedule III.
+
+
+
+
+
+
+
+
+
+m) celles vendues ou achetées au Nunavik, si elles sont énumérées à l’annexe II.1 ou à la partie VI de l’annexe III.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Schedule I to the Act is amended by adding the following after section 9.1:
+
+
+
+
+
+
+
+
+
+4. L’annexe I de la même loi est modifiée par adjonction, après l’article 9.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9.2 Sections 9 and 9.1 do not apply in respect of any of the goods mentioned in those sections that are sold or purchased in Nunavik.
+
+
+
+
+
+
+
+
+
+9.2 Les articles 9 et 9.1 ne s’appliquent à aucune des marchandises qui y sont mentionnées et qui sont vendues ou achetées au Nunavik.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Schedule VI to the Act is amended by adding the following after Part X:
+
+
+
+
+
+
+
+
+
+5. L’annexe VI de la même loi est modifiée par adjonction, après la partie X, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART XI
+
+
+
+
+
+
+
+
+
+PARTIE XI
+
+
+
+
+
+
+
+
+
+
+
+
+NUNAVIK
+
+
+
+
+
+
+1. In this Part, “Nunavik” has the meaning assigned to the word “Territory” by An Act respecting Northern villages and the Kativik Regional Government, Chapter V-6.1 of the Revised Statutes of Quebec, as amended from time to time.
+
+
+
+
+
+
+2. A supply of property or a service made in Nunavik.
+
+
+
+
+
+
+
+
+
+NUNAVIK
+
+
+
+
+
+
+1. Dans la présente partie, « Nunavik » s’entend d’un « Territoire » au sens de la Loi sur les villages nordiques et l’Administration régionale Kativik, chapitre V-6.1 des Lois refondues du Québec, avec ses modifications successives.
+
+
+
+
+
+
+2. La fourniture d’un bien ou d’un service effectuée au Nunavik.
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+6. This Act comes into force on January 1 of the year following the year in which it receives royal assent.
+
+
+
+
+
+
+
+
+
+6. La présente loi entre en vigueur le 1er janvier de l’année suivant celle de sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Income Tax Act
+Clause 1: (1) Relevant portion of subsection 110.7(1):
+110.7 (1) Where, throughout a period (in this section referred to as the “qualifying period”) of not less than 6 consecutive months beginning or ending in a taxation year, a taxpayer who is an individual has resided in one or more particular areas each of which is a prescribed northern zone or prescribed intermediate zone for the year and files for the year a claim in prescribed form, there may be deducted in computing the taxpayer’s taxable income for the year
+
+
+
+Loi de l’impôt sur le revenu
+Article 1 : Texte du passage visé du paragraphe 110.7(1) :
+110.7 (1) Le contribuable, étant un particulier, qui, tout au long d’une période (appelée « période admissible » au présent article) d’au moins six mois consécutifs commençant ou se terminant au cours d’une année d’imposition, réside dans une ou plusieurs régions — chacune étant, pour l’année, une zone nordique visée par règlement ou une zone intermédiaire visée par règlement — et qui en fait la demande pour l’année sur formulaire prescrit peut déduire les montants suivants dans le calcul de son revenu imposable pour l’année:
+
+
+
+
+(2) and (3) New.
+
+
+
+(2) et (3) Nouveau.
+
+
+
+
+(4) Existing text of subsection 110.7(5):
+(5) Where on any day an individual resides in more than one particular area referred to in subsection 110.7(1), for the purpose of that subsection, the individual shall be deemed to reside in only one such area on that day.
+
+
+
+(4) Texte du paragraphe 110.7(5) :
+(5) Le particulier qui, un jour donné, réside dans plusieurs régions visées au paragraphe (1) est réputé, pour l’application de ce paragraphe, ne résider que dans une seule de ces régions ce jour-là.
+
+
+
+
+(5) New.
+
+
+
+(5) Nouveau.
+
+
+
+
+Excise Tax Act
+Clause 2: New.
+
+
+
+Loi sur la taxe d’accise
+Article 2 : Nouveau.
+
+
+
+
+Clause 3: New.
+
+
+
+Article 3 : Nouveau.
+
+
+
+
+Clause 4: New.
+
+
+
+Article 4 : Nouveau.
+
+
+
+
+Clause 5: New.
+
+
+
+Article 5 : Nouveau.
+
+
+
+

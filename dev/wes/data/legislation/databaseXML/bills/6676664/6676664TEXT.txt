@@ -1,0 +1,4305 @@
+
+
+
+
+
+C-622
+
+
+
+
+
+C-622
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-622
+
+
+
+
+
+PROJET DE LOI C-622
+
+
+
+
+
+
+An  Act to amend the National Defence Act (transparency and accountability), to enact the Intelligence and Security Committee of Parliament Act and to make consequential amendments to other Acts
+
+
+
+
+
+Loi modifiant la Loi sur la défense nationale (transparence et responsabilité), édictant la Loi sur le Comité parlementaire sur le renseignement et la sécurité et modifiant d'autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 18, 2014
+
+première lecture le 18 juin 2014
+
+
+
+
+
+
+
+
+
+
+
+
+Ms. Murray
+
+412178
+
+
+
+Mme Murray
+
+
+
+
+
+SUMMARY
+This enactment
+(a) amends Part V.1 of the National Defence Act to  improve the transparency and accountability and provide for an independent review in respect of the operations of the Communications Security Establishment; and
+(b) enacts an Act to establish the Intelligence and Security Committee of Parliament.
+
+
+
+SOMMAIRE
+Le texte :  
+a) modifie la partie V.1 de la Loi sur la défense nationale afin d’améliorer la transparence et la responsabilité ainsi que de prévoir l’examen indépendant des activités du Centre de la sécurité des télécommunications;
+b) édicte la Loi constituant le Comité parlementaire sur le renseignement et la sécurité.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-622
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-622
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An  Act to amend the National Defence Act (transparency and accountability), to enact the Intelligence and Security Committee of Parliament Act and to make consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la défense nationale (transparence et responsabilité), édictant la Loi sur le Comité parlementaire sur le renseignement et la sécurité et modifiant d'autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the CSEC Accountability and Transparency Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la responsabilité et la transparence du CSTC. 
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+PART 1
+
+
+
+
+
+
+
+
+
+PARTIE 1
+
+
+
+
+
+
+
+
+
+
+R.S., c. N-5
+
+
+
+AMENDMENTS TO THE NATIONAL DEFENCE ACT
+
+
+
+
+
+
+
+
+
+MODIFICATIONS À LA LOI SUR LA DÉFENSE NATIONALE 
+
+
+
+L.R., ch. N-5
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) The definition “private communications” in section 273.61 of the National Defence Act is repealed.
+
+
+
+
+
+
+
+
+
+2. (1) La définition de « communication privée », à l’article 273.61 de la Loi sur la défense nationale, est abrogée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 273.61 of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) L’article 273.61 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“Commissioner”« commissaire »
+
+
+
+“Commissioner” means the Commissioner of the Communications Security Establishment appointed under section 273.63.
+
+
+
+
+“Court”« Cour »
+
+
+
+“Court” means the Federal Court.
+
+
+
+
+“protected information”« renseignements protégés »
+
+
+
+“protected information” means any information produced by, conveyed by, or associated with a telecommunication sent or received, inside or outside Canada, by a Canadian or a person in Canada.
+
+
+
+
+“special advocate”« avocat spécial »
+
+
+
+“special advocate” means a person appointed under section 273.71.
+
+
+
+
+
+
+
+
+
+« avocat spécial » Personne nommée à ce titre en vertu de l’article 273.71.
+
+
+
+« avocat spécial »“special advocate”
+
+
+
+
+« commissaire » Le commissaire du Centre de la sécurité des télécommunications nommé en vertu de l’article 273.63.
+
+
+
+« commissaire »“Commissioner”
+
+
+
+
+« Cour » La Cour fédérale.
+
+
+
+« Cour »“Court”
+
+
+
+
+« renseignements protégés » S’entend des renseignements produits ou transmis au moyen d’une télécommunication, ou des renseignements associés à celle-ci, qui sont envoyés ou reçus — au Canada ou à l'étranger — par un Canadien ou une personne au Canada.
+
+
+
+« renseignements protégés »“protected information”
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 273.62 of the Act is amended by adding the following after subsection (4):
+
+
+
+
+
+
+
+
+
+3. L’article 273.62 de la même loi est modifié par adjonction, après le paragraphe (4), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Duties of Chief
+
+
+
+(5) The Chief shall
+
+
+
+
+
+
+
+
+(a) keep the Minister informed of any sensitive matters that are likely to have a significant impact on
+
+
+
+
+
+
+
+
+(i) public or international affairs, or
+
+
+
+
+
+
+
+
+(ii) relevant legal, mandate, ethical, sovereignty, national security or policy issues;
+
+
+
+
+
+
+
+
+(b) notify the National Security Advisor to the Prime Minister of any operational, policy or other issues affecting the Establishment that may have a significant impact on the wider security and intelligence community; and
+
+
+
+
+
+
+
+
+(c) inform the Minister and the Commissioner of any operational incidents involving the Establishment that have or may have an impact on the privacy of Canadians.
+
+
+
+
+
+
+
+
+
+(5) Le chef a pour mandat :
+
+
+
+Mandat du chef
+
+
+
+
+a) d’informer le ministre de toute question de nature délicate susceptible d’avoir une incidence importante :
+
+
+
+
+
+
+
+
+(i) soit sur les relations publiques ou les affaires internationales, 
+
+
+
+
+
+
+
+
+(ii) soit sur toute question pertinente au plan juridique, éthique ou stratégique ou relative à ses fonctions, à la souveraineté ou à la sécurité nationale;
+
+
+
+
+
+
+
+
+b) d’aviser le conseiller en matière de sécurité nationale auprès du premier ministre de toute question, notamment d’ordre opérationnel ou stratégique, concernant le Centre qui pourrait avoir une incidence importante sur le monde de la sécurité et du renseignement;
+
+
+
+
+
+
+
+
+c) d’informer le ministre et le commissaire de tout incident opérationnel impliquant le Centre qui a ou qui est susceptible d’avoir une incidence sur la vie privée des Canadiens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report by Chief
+
+
+
+(6) Within 90 days after the end of each fiscal year, the Chief shall provide a detailed report to the Minister and the National Security Advisor to the Prime Minister in respect of
+
+
+
+
+
+
+
+
+(a) the activities carried out by the Establishment during the fiscal year under the mandate set out in section 273.64;
+
+
+
+
+
+
+
+
+(b) the actions taken by the Establishment during the fiscal year to fulfill the intelligence priorities of the Government of Canada;
+
+
+
+
+
+
+
+
+(c) the actions taken by the Establishment during the fiscal year to protect the privacy of Canadians; and 
+
+
+
+
+
+
+
+
+(d) current and anticipated threats to the global cyberspace environment. 
+
+
+
+
+
+
+
+
+
+(6) Dans les quatre-vingt-dix jours suivant la fin de chaque exercice, le chef adresse au ministre et au conseiller en matière de sécurité nationale auprès du premier ministre un rapport détaillé concernant : 
+
+
+
+Rapport du chef
+
+
+
+
+a) les activités qui ont été menées par le Centre au cours de l’exercice dans le cadre de son mandat prévu à l’article 273.64;
+
+
+
+
+
+
+
+
+b) les mesures prises par le Centre au cours de l’exercice afin de répondre aux priorités du gouvernement du Canada en matière de renseignement;
+
+
+
+
+
+
+
+
+c) les mesures prises par le Centre au cours de l’exercice afin de protéger la vie privée des Canadiens; 
+
+
+
+
+
+
+
+
+d) les menaces actuelles et probables au cyberenvironnement mondial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report to public
+
+
+
+(7) Within 90 days after the end of each fiscal year, the Chief shall  make available to the public a report on the matters referred to in subsection (6).
+
+
+
+
+
+
+
+
+
+(7) Dans les quatre-vingt-dix jours suivant la fin de chaque exercice, le chef rend public un rapport sur les sujets énumérés au paragraphe (6).
+
+
+
+Rapport public
+
+
+
+
+
+
+
+
+
+
+
+
+4. (1) Subsections 273.63(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+4. (1) Les paragraphes 273.63(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment of Commissioner
+
+
+
+273.63 (1) After consultation by the Prime Minister with the Leader of the Opposition in the House of Commons and the leader in the House of Commons of each party having at least 12 members in that House, the Governor in Council may appoint a supernumerary judge or retired judge of a superior court as Commissioner of the Communications Security Establishment to hold office, during good behaviour, for a term of not more than five years. 
+
+
+
+
+
+
+
+
+
+273.63 (1) Après la consultation, par le premier ministre, du chef de l’opposition à la Chambre des communes et du chef de chacun des partis qui y disposent d’au moins douze députés, le gouverneur en conseil peut nommer, à titre inamovible pour une période maximale de cinq ans, un juge à la retraite surnuméraire d’une juridiction supérieure qu’il charge de remplir les fonctions de commissaire du Centre de la sécurité des télécommunications.
+
+
+
+Nomination du commissaire et durée du mandat
+
+
+
+
+
+
+
+
+
+
+ 	Duties
+
+
+
+(2) The duties of the Commissioner are
+
+
+
+
+
+
+
+
+(a) to review the activities of the Establishment to ensure that they
+
+
+
+
+
+
+
+
+(i) comply with the law, court orders and ministerial directives, and
+
+
+
+
+
+
+
+
+(ii) do not involve an unreasonable or unnecessary exercise of the Establishment’s lawful powers;
+
+
+
+
+
+
+
+
+(b) to undertake any investigation that the Commissioner considers necessary, whether at his or her own initiative or in response to a complaint;
+
+
+
+
+
+
+
+
+(c) to review all information-sharing agreements entered into by the Establishment and to review the provision of information and intelligence under those agreements; and
+
+
+
+
+
+
+
+
+(d) to inform the Minister and the Attorney General of Canada of any activity of the Establishment that the Commissioner believes may not be in compliance with the law or may be unreasonable or unnecessary.
+
+
+
+
+
+
+
+
+
+(2) Le commissaire a pour mandat :
+
+
+
+ 	Mandat
+
+
+
+
+a) de procéder à des examens concernant les activités du Centre pour : 
+
+
+
+
+
+
+
+
+(i) en contrôler la légalité et la conformité avec les ordonnances judiciaires et les directives ministérielles,
+
+
+
+
+
+
+
+
+(ii) vérifier qu’elles ne comportent pas un exercice abusif ou inutile par le Centre de ses pouvoirs;
+
+
+
+
+
+
+
+
+b) de faire les enquêtes qu’il estime nécessaires, de sa propre initiative ou à la suite de plaintes qui lui sont présentées;
+
+
+
+
+
+
+
+
+c) de procéder à l’examen de toutes les ententes sur l’échange de renseignements conclues par le Centre et de surveiller les informations ou renseignements qui sont transmis en vertu de celles-ci;
+
+
+
+
+
+
+
+
+d) d’informer le ministre et le procureur général du Canada de tous les cas où, à son avis, le Centre pourrait ne pas avoir agi en conformité avec la loi ou avoir agi de manière abusive ou inutile.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 273.63 of the Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+(2) L’article 273.63 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Detailed account
+
+
+
+(3.1) The report referred to in subsection (3) must include a sufficiently detailed account of the Commissioner’s findings to meaningfully inform Parliament and the public on matters of public interest, subject only to those exclusions that are necessary to protect the confidentiality of information associated with matters relating to international affairs, defence or security.  
+
+
+
+
+
+
+
+
+
+(3.1) Le rapport visé au paragraphe (3) doit présenter les conclusions du commissaire d’une manière suffisamment détaillée pour qu’il puisse constituer une source valable d’information pour le Parlement et le public sur les questions d’intérêt public, sous réserve uniquement des exclusions qui sont nécessaires pour protéger la confidentialité des renseignements concernant des questions liées aux affaires internationales, à la défense ou à la sécurité.  
+
+
+
+Compte détaillé 
+
+
+
+
+
+
+
+
+
+
+
+
+5. Section 273.64 of the Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+5. L’article 273.64 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Record
+
+
+
+(4) The Chief shall maintain a record for each request the Establishment receives for technical or operational assistance from a federal law enforcement or security agency.
+
+
+
+
+
+
+
+
+
+(4) Le chef inscrit chaque demande d’assistance technique ou opérationnelle adressée au Centre par un organisme fédéral chargé de l’application de la loi ou de la sécurité.
+
+
+
+Inscription des demandes
+
+
+
+
+
+
+
+
+
+
+Contents of record
+
+
+
+(5) Each record must specify
+
+
+
+
+
+
+
+
+(a) the name of the requesting agency;
+
+
+
+
+
+
+
+
+(b) the date and time the request was received;
+
+
+
+
+
+
+
+
+(c) the nature of the request;
+
+
+
+
+
+
+
+
+(d) the legal authority that permits the requesting agency to intercept or acquire the information, record, document or thing that is sought;
+
+
+
+
+
+
+
+
+(e) any conditions or terms that govern the collection, use, retention, or further disclosure of the communications or information; 
+
+
+
+
+
+
+
+
+(f) the manner in which the Establishment responded to the request;
+
+
+
+
+
+
+
+
+(g) the date or dates on which the Establishment responded to the request;
+
+
+
+
+
+
+
+
+(h) the nature and duration of any technical and operational assistance provided by the Establishment; 
+
+
+
+
+
+
+
+
+(i) the date of destruction of any communications or information obtained as a result of the request; and 
+
+
+
+
+
+
+
+
+(j) the rules established by the Minister governing the Establishment's retention, use and disclosure of any information, record, document or thing that it has obtained in response to a request for assistance.
+
+
+
+
+
+
+
+
+
+(5) Chaque inscription doit préciser :
+
+
+
+Contenu de l’inscription
+
+
+
+
+a) le nom de l’organisme qui fait la demande;
+
+
+
+
+
+
+
+
+b) la date et l’heure de réception de la demande;
+
+
+
+
+
+
+
+
+c) la nature de la demande;
+
+
+
+
+
+
+
+
+d) le fondement juridique en vertu duquel l’organisme qui fait la demande peut intercepter ou acquérir les renseignements, le dossier, le document ou la chose visés;
+
+
+
+
+
+
+
+
+e) les conditions régissant la collecte, l’utilisation, la rétention ou la divulgation subséquente des communications ou rensei-gnements; 
+
+
+
+
+
+
+
+
+f) la manière dont le Centre a répondu à la demande;
+
+
+
+
+
+
+
+
+g) la date ou les dates auxquelles le Centre a répondu à la demande;
+
+
+
+
+
+
+
+
+h) la nature et la durée de l’assistance technique ou opérationnelle fournie par le Centre; 
+
+
+
+
+
+
+
+
+i) la date à laquelle seront détruits les communications ou renseignements obtenus par suite de la demande;  
+
+
+
+
+
+
+
+
+j) les règles établies par le ministre qui régissent la rétention, l’utilisation et la divulgation par le Centre de tout renseignement, dossier, document ou chose obtenus en réponse à une demande d’assistance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) Subsections 273.65(1) to (5) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+6. (1) Les paragraphes 273.65(1) à (5) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application for interception order — foreign intelligence
+
+
+
+273.65 (1) The Minister may, for the sole purpose of obtaining foreign intelligence, apply to the Court for an order authorizing the Communications Security Establishment to intercept or acquire communications if there is a reasonable expectation that such interception or acquisition would result in the collection of protected information.
+
+
+
+
+
+
+
+
+
+273.65 (1) Le ministre peut, dans le seul but d’obtenir des renseignements étrangers, demander à la Cour de rendre une ordonnance autorisant le Centre de la sécurité des télécommunications à intercepter ou à acquérir des communications si l’on peut vraisemblablement s’attendre à ce que l’interception ou l’acquisition donne lieu à la collecte de renseignements protégés.
+
+
+
+Demande d’ordonnance d’interception— renseignements étrangers
+
+
+
+
+
+
+
+
+
+
+Requirements of application
+
+
+
+(2) An application under subsection (1) must identify the person, persons or classes of persons whose communications are proposed to be intercepted or acquired and establish by sworn evidence that
+
+
+
+
+
+
+
+
+(a) the interception or acquisition will be directed at foreign entities located outside Canada;
+
+
+
+
+
+
+
+
+(b) the information to be obtained could not reasonably be obtained by other means;
+
+
+
+
+
+
+
+
+(c) the expected foreign intelligence value of the information that would be derived from the interception or acquisition justifies it; and
+
+
+
+
+
+
+
+
+(d) satisfactory measures are in place to protect the privacy of Canadians and to ensure that communications containing protected information will only be used or retained if they are essential to international affairs, defence or security.
+
+
+
+
+
+
+
+
+
+(2) La demande faite en vertu du paragraphe (1) identifie la personne ou les personnes ou  catégories de personnes dont les communications doivent faire l’objet de l’interception ou de l’acquisition et comporte une déclaration sous serment affirmant ce qui suit :   
+
+
+
+Exigences applicables à la demande
+
+
+
+
+a) l’interception ou l’acquisition vise des entités étrangères situées à l’extérieur du Canada;
+
+
+
+
+
+
+
+
+b) les renseignements à obtenir ne peuvent raisonnablement être obtenus d’une autre manière;
+
+
+
+
+
+
+
+
+c) la valeur des renseignements étrangers que l’on espère obtenir grâce à l’interception ou à l’acquisition justifie l’interception ou l’acquisition envisagées;
+
+
+
+
+
+
+
+
+d) il existe des mesures satisfaisantes pour protéger la vie privée des Canadiens et pour faire en sorte que les communications comportant des renseignements protégés ne seront utilisées ou conservées que si elles sont essentielles aux affaires internationales, à la défense ou à la sécurité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application for interception order —communications security
+
+
+
+(3) The Minister may, for the sole purpose of protecting the computer systems or networks of the Government of Canada from mischief, unauthorized use or interference, in the circumstances specified in paragraph 184(2)(c) of the Criminal Code, apply to the Court for an order authorizing the Communications Security Establishment to intercept or acquire communications if there is a reasonable expectation that such interception or acquisition would result in the collection of protected information.
+
+
+
+
+
+
+
+
+
+(3) Le ministre peut, dans le seul but de protéger les systèmes ou les réseaux informatiques du gouvernement du Canada de tout méfait ou de toute utilisation non autorisée ou de toute perturbation de leur fonctionnement, demander à la Cour de rendre une ordonnance autorisant le Centre de la sécurité des télécommunications à intercepter ou à acquérir des communications dans les cas visés à l’alinéa 184(2)c) du Code criminel si l’on peut vraisemblablement s’attendre à ce que l’interception ou l’acquisition donne lieu à la collecte de renseignements protégés.
+
+
+
+Demande d’ordonnance d’interception— sécurité des télécommunications
+
+
+
+
+
+
+
+
+
+
+Requirements of application
+
+
+
+(4) An application under subsection (3) must identify the person, persons or classes of persons whose communications are proposed to be intercepted or acquired and establish by sworn evidence that
+
+
+
+
+
+
+
+
+(a) the interception or acquisition is necessary to identify, isolate or prevent harm to Government of Canada computer systems or networks;
+
+
+
+
+
+
+
+
+(b) the information to be obtained could not reasonably be obtained by other means;
+
+
+
+
+
+
+
+
+(c) the consent of persons whose communications may be intercepted or acquired cannot reasonably be obtained;
+
+
+
+
+
+
+
+
+(d) satisfactory measures are in place to ensure that only information that is essential to identify, isolate or prevent harm to Government of Canada computer systems or networks will be used or retained; and
+
+
+
+
+
+
+
+
+(e) satisfactory measures are in place to protect the privacy of Canadians in the use or retention of that information.
+
+
+
+
+
+
+
+
+
+(4) La demande faite en vertu du paragraphe (3) identifie la personne ou les personnes ou catégories de personnes dont les communications doivent faire l’objet de l’interception ou de l’acquisition et comporte une déclaration sous serment affirmant ce qui suit : 
+
+
+
+Exigences applicables à la demande 
+
+
+
+
+a) l’interception ou l’acquisition est nécessaire pour identifier, isoler ou prévenir les activités dommageables visant les systèmes ou les réseaux informatiques du gouvernement du Canada;
+
+
+
+
+
+
+
+
+b) les renseignements à obtenir ne peuvent raisonnablement être obtenus d’une autre manière;
+
+
+
+
+
+
+
+
+c) le consentement des personnes dont les communications peuvent être interceptées ou acquises ne peut raisonnablement être obtenu; 
+
+
+
+
+
+
+
+
+d) des mesures satisfaisantes sont en place pour faire en sorte que seuls les renseignements qui sont essentiels pour identifier, isoler ou prévenir les activités dommageables visant les systèmes ou les réseaux informatiques du gouvernement du Canada seront utilisés ou conservés; 
+
+
+
+
+
+
+
+
+e) des mesures satisfaisantes sont en place pour protéger la vie privée des Canadiens en ce qui touche l’utilisation et la conservation de ces renseignements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Authorization order 
+
+
+
+(5) The Court may issue an order authorizing the interception or acquisition of communications under this section, subject to the terms that the Court deems necessary and the following restrictions:
+
+
+
+
+
+
+
+
+(a) the order must specify the period of time during which the authorized method of interception or acquisition may be carried out, up to a maximum period of 120 days;
+
+
+
+
+
+
+
+
+(b) the order must provide that the authorized method of interception or acquisition may not be directed at the protected information of Canadians or persons in Canada; and
+
+
+
+
+
+
+
+
+(c) before issuing the order, the Court must be satisfied that adequate measures are in place to protect the privacy of Canadians and persons in Canada whose protected information may be obtained as an incidental result of the use of the authorized method of interception or acquisition.
+
+
+
+
+
+
+
+
+
+(5) La Cour peut rendre une ordonnance autorisant l’interception ou l’acquisition de communications au titre du présent article, sous réserve des conditions qu’elle estime indiquées et des règles suivantes : 
+
+
+
+Ordonnance d’autorisation 
+
+
+
+
+a) l’ordonnance précise la période, qui ne peut excéder cent vingt jours, durant laquelle la méthode autorisée d’interception ou d’acquisition peut être mise en oeuvre;
+
+
+
+
+
+
+
+
+b) l’ordonnance prévoit que la méthode autorisée d’interception ou d’acquisition ne peut viser les renseignements protégés de Canadiens ou de personnes au Canada; 
+
+
+
+
+
+
+
+
+c) avant de rendre l’ordonnance, la cour doit être convaincue que des mesures adéquates sont en place afin de protéger la vie privée des Canadiens et des personnes au Canada dont les renseignements protégés pourraient être obtenus en conséquence incidente de l’utilisation de la méthode autorisée d’interception ou d’acquisition.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Renewal of order
+
+
+
+(5.1) If an order made under this section has expired or is about to expire, the Minister may apply to the Court to renew the order for a further period. Subsection (2) or (4), as the case may be, and subsection (5) apply in respect of any such application.
+
+
+
+
+
+
+
+
+
+(5.1) Le ministre peut demander le renouvellement de l’ordonnance rendue en vertu du présent article dont l’expiration est effective ou prochaine. Les paragraphes (2)  ou (4), selon le cas, et le paragraphe (5) s’appliquent à cette demande. 
+
+
+
+Renouvellement de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 273.65(7) of the Act is replaced by the following: 
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 273.65(7) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Directions not statutory instruments 
+
+
+
+(7) Directions issued under subsection (6) are not statutory instruments within the meaning of the Statutory Instruments Act.
+
+
+
+
+
+
+
+
+
+(7) Les instructions données en vertu du paragraphe (6) ne sont pas des textes réglementaires au sens de la Loi sur les textes réglementaires.
+
+
+
+Non-application de la Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+
+
+7. The Act is amended by adding the following after section 273.65:
+
+
+
+
+
+
+
+
+
+7. La même loi est modifiée par adjonction, après l’article 273.65, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Procedure on application
+
+
+
+273.651 (1) An application for an order under subsection 273.65(1) or (3) must be heard in camera by a single judge of the Court on an ex parte basis.
+
+
+
+
+
+
+
+
+
+273.651 (1) La demande d’ordonnance prévue aux paragraphes 273.65(1) ou (3) est entendue ex parte à huis clos par un seul juge de la Cour.
+
+
+
+Procédure relative à la demande
+
+
+
+
+
+
+
+
+
+
+Special advocate must be present
+
+
+
+(2) Subject to subsection (3), a judge may not proceed with a hearing relating to an application under subsection 273.65(1) or (3) unless a special advocate is present.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve du paragraphe (3), le juge ne peut entendre la demande prévue aux paragraphes 273.65(1) ou (3) qu’en présence d’un avocat spécial.
+
+
+
+Présence de l’avocat spécial
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(3) If a judge determines that the application in question does not raise any significant new legal issues, he or she may proceed with the hearing without a special advocate being present.
+
+
+
+
+
+
+
+
+
+(3) S'il conclut que la demande ne soulève aucune nouvelle question juridique importante, le juge peut l’entendre en l’absence d’un avocat spécial.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Direction to Chief
+
+
+
+273.652 If an order is issued under subsection 273.65(5) that authorizes the interception of communications, the Minister may direct the Chief of the Communications Security Establishment to intercept communications in accord-ance with the terms of the order.
+
+
+
+
+
+
+
+
+
+273.652 Dans le cas où est rendue en vertu du paragraphe 273.65(5) une ordonnance autorisant l’interception de communications, le ministre peut donner au chef du Centre de la sécurité des télécommunications l’instruction d’intercepter des communications conformément à l’ordonnance.
+
+
+
+Instructions au chef
+
+
+
+
+
+
+
+
+
+
+Retention of obtained information
+
+
+
+273.653 (1) Subject to subsection (2), the Chief of the Communications Security Establishment shall destroy any information obtained in accordance with a direction under section 273.652 as soon as practicable — at the latest within 90 days after the date on which the information was obtained — if that information pertains to, is associated with or is capable of being linked to a Canadian or a person in Canada.
+
+
+
+
+
+
+
+
+
+273.653 (1) Sous réserve du paragraphe (2), le chef du Centre de la sécurité des télécommunications détruit les renseignements obtenus par l’exécution d’une instruction donnée au titre de l’article 273.652 dès que possible — au plus tard dans les quatre-vingt-dix jours suivant la date à laquelle les renseignements ont été obtenus — si ces renseignements sont liés ou susceptibles d’être liés à un Canadien ou à une personne au Canada.
+
+
+
+Conservation des renseignements obtenus 
+
+
+
+
+
+
+
+
+
+
+Certificate
+
+
+
+(2) Subsection (1) does not apply if the Chief has, within the 90-day period, submitted to the Minister a certificate demonstrating that it is necessary to retain the information in question because it is essential to international affairs, defence or security.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas si le chef, au cours de la période de quatre-vingt-dix jours, a présenté au ministre un certificat démontrant qu’il est nécessaire de conserver les renseignements en question du fait qu’ils sont essentiels aux affaires internationales, à la défense ou à la sécurité.
+
+
+
+Certificat
+
+
+
+
+
+
+
+
+
+
+Notification of Chief
+
+
+
+(3) Within 60 days after receiving the certificate, the Minister shall notify the Chief in writing as to whether he or she has approved or refused the certificate in whole or in part.
+
+
+
+
+
+
+
+
+
+(3) Dans les soixante jours suivant la réception du certificat, le ministre avise le chef par écrit qu’il a approuvé ou refusé tout ou partie du certificat.
+
+
+
+Avis au chef
+
+
+
+
+
+
+
+
+
+
+Approval of certificate
+
+
+
+(4) The Minister may approve the certificate in whole or in part if he or she determines that the retention of the information in question is essential to international affairs, defence or security.  
+
+
+
+
+
+
+
+
+
+(4) Le ministre peut approuver tout ou partie du certificat s’il conclut que la conservation des renseignements en question est essentielle aux affaires internationales, à la défense ou à la sécurité.  
+
+
+
+Approbation du certificat
+
+
+
+
+
+
+
+
+
+
+Retention, use or disclosure of information
+
+
+
+(5) If the Minister approves the certificate in whole or in part, the information in question 
+
+
+
+
+
+
+
+
+(a) may be retained by the Establishment for the period specified in the approval, to a maximum of one year from the date of the approval; and
+
+
+
+
+
+
+
+
+(b) may be used or disclosed by the Establishment as specified in the approval. 
+
+
+
+
+
+
+
+
+
+(5) Dans le cas où le ministre approuve tout ou partie du certificat, le Centre peut : 
+
+
+
+Conservation, utilisation ou communication des renseignements 
+
+
+
+
+a) conserver les renseignements en question pour la période précisée dans l’approbation, laquelle ne peut excéder un an à compter de la date de l’approbation; 
+
+
+
+
+
+
+
+
+b) utiliser ou communiquer les renseignements en question, conformément à l’approbation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Variance and renewal of certificate
+
+
+
+(6) The Minister may vary the terms of an approval, as he or she considers necessary, and may renew the approval in whole or in part for further one-year periods if he or she determines that the requirements of subsection (4) continue to be met.
+
+
+
+
+
+
+
+
+
+(6) Le ministre peut modifier les modalités de l’approbation, selon ce qu’il estime nécessaire, et peut la renouveler en tout ou en partie pour des périodes d’un an si, selon lui, les exigences prévues au paragraphe (4) continuent d'être satisfaites.  
+
+
+
+Modification et renouvellement du certificat 
+
+
+
+
+
+
+
+
+
+
+Notification regarding variance or renewal
+
+
+
+(7) The Minister shall immediately inform the Chief in writing of any variance or renewal of an approval.
+
+
+
+
+
+
+
+
+
+(7) Le ministre informe le chef sans délai et par écrit de la modification ou du renouvellement de l’approbation.
+
+
+
+Avis de modification ou de renouvellement 
+
+
+
+
+
+
+
+
+
+
+Duty to maintain copies
+
+
+
+(8) The Chief shall maintain a copy of 
+
+
+
+
+
+
+
+
+(a) each certificate submitted to the Minister under subsection (2);
+
+
+
+
+
+
+
+
+(b) each approval, refusal or modification of a certificate by the Minister.
+
+
+
+
+
+
+
+
+
+(8) Le chef conserve une copie : 
+
+
+
+Obligation de conserver des copies
+
+
+
+
+a) de chaque certificat présenté au ministre au titre du paragraphe (2);
+
+
+
+
+
+
+
+
+b) de chaque approbation, refus ou modification d’un certificat par le ministre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Section 273.66 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+8. L’article 273.66 de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Limits on activities
+
+
+
+273.66 The Communications Security Establishment may only undertake activities that are within its mandate and consistent with ministe-rial direction, including a direction made under section 273.652.
+
+
+
+
+
+
+
+
+
+273.66 Le Centre de la sécurité des télécommunications ne peut exercer une activité qui relève de son mandat que dans la mesure où elle est compatible avec les instructions ministérielles, y compris les instructions données en vertu de l’article 273.652.
+
+
+
+Limites
+
+
+
+
+
+
+
+
+
+
+
+
+9. Sections 273.68 and 273.69 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+9. Les articles 273.68 et 273.69 de la même loi sont remplacés par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Exclusion of Part VI ofCriminal Code
+
+
+
+273.69 Part VI of the Criminal Code does not apply in relation to an interception or acquisition of a communication under the authority of an authorization issued or renewed under section 273.65 or in relation to a communication so intercepted or acquired.
+
+
+
+
+
+
+
+
+
+273.69 La partie VI du Code criminel ne s’applique pas à l’interception ou à l’acquisition d’une communication, autorisée ou renouvelée sous le régime de l’article 273.65,  ni à toute communication faisant l’objet d’une  telle interception ou acquisition.
+
+
+
+Non-application de la partie VI du Code criminel
+
+
+
+
+
+
+
+
+
+
+
+
+10. Paragraph 273.7(a)  of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+10. L’alinéa 273.7a) de la même loi est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the use or disclosure under this Part of any communication intercepted under the authority of a direction made under section 273.652; or
+
+
+
+
+
+
+
+
+
+a) l’utilisation ou la divulgation, sous le régime de la présente partie, de communications interceptées en conformité avec une instruction donnée en vertu de l’article 273.652;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. The Act is amended by adding the following after section 273.7:
+
+
+
+
+
+
+
+
+
+11. La même loi est modifiée par adjonction, après l’article 273.7, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Special advocate
+
+
+
+273.71 (1) The Governor in Council may, in accordance with regulations made by the Governor in Council, appoint a special advocate for the purposes of section 273.651.
+
+
+
+
+
+
+
+
+
+273.71 (1) Le gouverneur en conseil peut, en conformité avec les règlements qu’il a pris, nommer un avocat spécial pour l’application de l’article 273.651.
+
+
+
+Avocat spécial
+
+
+
+
+
+
+
+
+
+
+Mandate
+
+
+
+(2) The mandate of the special advocate is
+
+
+
+
+
+
+
+
+(a) to appear at hearings at which an application under subsection 273.65(1) or (3) is being considered by the Court in order to assist the Court in testing the legal and factual basis of the application; 
+
+
+
+
+
+
+
+
+(b) to inform the Court of any concerns that he or she might have in respect of an application made under subsection 273.65(1) or (3); and
+
+
+
+
+
+
+
+
+(c) to carry out any other duties prescribed by regulations made by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(2) L’avocat spécial a pour mandat : 
+
+
+
+Mandat
+
+
+
+
+a) de comparaître aux audiences où la Cour examine une demande présentée en vertu des paragraphes 273.65(1) ou (3) afin d'aider la Cour à mettre à l’épreuve les fondements juridiques et factuels de la demande; 
+
+
+
+
+
+
+
+
+b) d’informer la Cour de toute préoccupation quant à une demande présentée en vertu des paragraphes 273.65(1) ou (3); 
+
+
+
+
+
+
+
+
+c) d’exercer toute autre fonction prévue par règlement du gouverneur en conseil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Requirement to publish
+
+
+
+273.72 (1) Subject to subsection (2), the Court shall publish any written reasons for the decision taken by the Court in relation to an application made under subsection 273.65(1) or (3).
+
+
+
+
+
+
+
+
+
+273.72 (1) Sous réserve du paragraphe (2), la Cour publie les motifs écrits de ses décisions sur les demandes présentées en vertu des paragraphes 273.65(1) ou (3). 
+
+
+
+Obligation de publier
+
+
+
+
+
+
+
+
+
+
+When publication not required
+
+
+
+(2) If, in the opinion of a judge of the Court, it would be against the public interest to publish written reasons — or any portion of such reasons — in a particular case, the Court is not required to do so.
+
+
+
+
+
+
+
+
+
+(2) La Cour n’est pas tenue de publier tout ou partie des motifs écrits dont la publication, de l’avis d’un juge de la Cour, serait contraire à l’intérêt public.
+
+
+
+Publication non obligatoire
+
+
+
+
+
+
+
+
+
+
+PART 2
+
+
+
+
+
+
+
+
+
+PARTIE 2
+
+
+
+
+
+
+
+
+
+
+
+
+AN ACT TO ESTABLISH THE INTELLIGENCE AND SECURITY COMMITTEE OF PARLIAMENT
+
+
+
+
+
+
+
+
+
+LOI CONSTITUANT LE COMITÉ PARLEMENTAIRE SUR LE RENSEIGNEMENT ET LA SÉCURITÉ 
+
+
+
+
+
+
+
+
+
+
+
+
+Enactment of Act
+
+
+
+
+
+
+
+
+
+Édiction de la loi
+
+
+
+
+
+
+
+
+
+
+
+
+Enactment
+
+
+
+12. The Intelligence and Security Committee of Parliament Act is enacted as follows:
+
+
+
+
+
+
+
+
+
+12. Est édictée la Loi sur le Comité parlementaire sur le renseignement et la sécurité, dont le texte suit : 
+
+
+
+Édiction
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to establish the Intelligence and Security Committee of Parliament
+
+
+
+
+
+
+
+
+
+Loi constituant le Comité parlementaire sur le renseignement et la sécurité 
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Intelligence and Security Committee of Parliament Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur le Comité parlementaire sur le renseignement et la sécurité.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITION
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “Committee”
+
+
+
+2. In this Act, “Committee” means the Intelligence and Security Committee of Parliament established by section 3.
+
+
+
+
+
+
+
+
+
+2. Dans la présente loi, « Comité » désigne le Comité parlementaire sur le renseignement et la sécurité constitué par l’article 3.
+
+
+
+Définition de « Comité »
+
+
+
+
+
+
+
+
+
+
+COMMITTEE, MEMBERS AND STAFF
+
+
+
+
+
+
+
+
+
+CONSTITUTION ET COMPOSITION DU COMITÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Committee established
+
+
+
+3. (1) There is established a committee, to be known as the Intelligence and Security Committee of Parliament, which is to be composed of three members of the Senate and six members of the House of Commons, none of whom are ministers of the Crown or parliamentary secretaries.
+
+
+
+
+
+
+
+
+
+3. (1) Est constitué le Comité parlementaire sur le renseignement et la sécurité, composé de trois sénateurs et de six députés, dont aucun n’est ministre ou secrétaire parlementaire. 
+
+
+
+Constitution
+
+
+
+
+
+
+
+
+
+
+Restriction on membership
+
+
+
+(2) No more than four members of the Committee may be members of the same political party.
+
+
+
+
+
+
+
+
+
+(2) Le Comité peut compter au plus quatre membres appartenant à un même parti politique.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+Not a Committee of Parliament
+
+
+
+(3) The Committee is not a committee of either House of Parliament or of both Houses.
+
+
+
+
+
+
+
+
+
+(3) Le Comité n’est pas un comité du Sénat ou de la Chambre des communes ni un comité mixte de ces deux chambres.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Appointment of members
+
+
+
+
+
+4. (1) Members of the Committee must be appointed by the Governor in Council and hold office during pleasure until the dissolution of Parliament following their appointment.
+
+
+
+
+
+
+
+
+
+4. (1) Les membres du Comité sont nommés par le gouverneur en conseil et exercent leur charge à titre amovible jusqu’à la dissolution du Parlement suivant leur nomination.
+
+
+
+Nomination des membres
+
+
+
+
+
+
+
+
+
+
+Opposition members 
+
+
+
+(2) A member of either House belonging to an opposition party recognized in that House may only be appointed as a member of the Committee after consultation with the leader of that party.
+
+
+
+
+
+
+
+
+
+(2) Un membre provenant du Sénat ou de la Chambre des communes appartenant à un parti de l’opposition reconnu dans cette chambre ne peut être nommé au Comité qu’après consultation du chef de ce parti.
+
+
+
+Membre provenant d’un parti de l’opposition
+
+
+
+
+
+
+
+
+
+
+Approval 
+
+
+
+(3) A member of either House may only be appointed as a member of the Committee after approval of the appointment by resolution of that House.
+
+
+
+
+
+
+
+
+
+(3) Un membre provenant du Sénat ou de la Chambre des communes ne peut être nommé au Comité qu’après approbation par résolution de cette chambre.
+
+
+
+Approbation
+
+
+
+
+
+
+
+
+
+
+Ceasing to be member
+
+
+
+(4) A member of the Committee ceases to be a member on appointment as a minister of the Crown or parliamentary secretary or on ceasing to be a member of the Senate or of the House of Commons.
+
+
+
+
+
+
+
+
+
+(4) Les membres du Comité cessent d’occuper leur poste s’ils sont nommés ministre ou secrétaire parlementaire ou s’ils cessent d’être sénateur ou député.
+
+
+
+Perte du statut de membre
+
+
+
+
+
+
+
+
+
+
+Designation of Chair
+
+
+
+5. (1) The Chair of the Committee must be elected by the members of the Committee.
+
+
+
+
+
+
+
+
+
+5. (1) Le président du Comité est élu par les membres du Comité.
+
+
+
+Désignation du président
+
+
+
+
+
+
+
+
+
+
+Absence
+
+
+
+(2) The Chair may designate one of the other members to act as Chair in his or her absence for a period not exceeding 45 days.
+
+
+
+
+
+
+
+
+
+(2) Le président peut désigner un membre du Comité qui, en son absence, assume la présidence pour une période maximale de quarante-cinq jours.
+
+
+
+Suppléant
+
+
+
+
+
+
+
+
+
+
+Voting
+
+
+
+(3) The Chair or acting Chair may vote at meetings of the Committee and, in the case of equality of votes, also has a deciding vote.
+
+
+
+
+
+
+
+
+
+(3) Le président ou son suppléant a droit de vote aux réunions du Comité et, en cas de partage des voix, il a voix prépondérante.
+
+
+
+Voix prépondérante
+
+
+
+
+
+
+
+
+
+
+Procedure
+
+
+
+6. Subject to this Act, the Committee may determine the procedure to be followed in the performance of any of its duties or functions.
+
+
+
+
+
+
+
+
+
+6. Sous réserve des autres dispositions de la présente loi, le Comité peut déterminer la procédure à suivre dans l’exercice de ses fonctions.
+
+
+
+Procédure
+
+
+
+
+
+
+
+
+
+
+Staff
+
+
+
+7. The Committee may engage a secretary and any other staff that it requires, and may fix and pay the remuneration and expenses of that staff. 
+
+
+
+
+
+
+
+
+
+7. Le Comité peut engager un secrétaire et le personnel dont il a besoin, et fixer et verser la rémunération et les frais de ces personnes.
+
+
+
+Personnel
+
+
+
+
+
+
+
+
+
+
+Service without remuneration
+
+
+
+8. (1) Members of the Committee are not to be remunerated for their services in connection with the work of the Committee.
+
+
+
+
+
+
+
+
+
+8. (1) Les membres du Comité ne touchent aucune rémunération pour l’exercice de leurs attributions dans le cadre des travaux du Comité.
+
+
+
+Absence de rémunération
+
+
+
+
+
+
+
+
+
+
+Reimbursement of expenses
+
+
+
+(2) Members of the Committee are entitled to be reimbursed, in accordance with directives of the Treasury Board, for expenses incurred by them in connection with the work of the Committee while they are absent
+
+
+
+
+
+
+
+
+(a) from the National Capital Region, as described in the schedule to the National Capital Act, on days that the Senate or the House of Commons, as the case may be, is sitting; or
+
+
+
+
+
+
+
+
+(b) from their ordinary place of residence at any other time.
+
+
+
+
+
+
+
+
+
+(2) Les membres du Comité sont indemnisés, en conformité avec les directives du Conseil du Trésor, des frais entraînés par l’exercice de leurs attributions dans le cadre des travaux du Comité :
+
+
+
+Frais
+
+
+
+
+a) hors de la région de la capitale nationale délimitée à l’annexe de la Loi sur la capitale nationale pendant les jours de séance du Sénat ou de la Chambre des communes, selon le cas;
+
+
+
+
+
+
+
+
+b) hors de leur lieu habituel de résidence en tout autre temps.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eligibility to remain in Commons
+
+
+
+9. Despite section 32 of the Parliament of Canada Act, no member of the Committee is ineligible to be a member of the House of Commons or to sit or vote in that House by reason of the reimbursement of expenses under subsection 8(2).
+
+
+
+
+
+
+
+
+
+9. Malgré l’article 32 de la Loi sur le Parlement du Canada, le membre du Comité qui est un député n’est pas inadmissible à exercer le mandat de député ou à siéger ou à voter à la Chambre des communes du seul fait qu’il est indemnisé de ses frais au titre du paragraphe 8(2).
+
+
+
+Mandat de député
+
+
+
+
+
+
+
+
+
+
+Estimates
+
+
+
+10. The Chair of the Committee must annually cause to be prepared an estimate of the sums that will be required to be provided by Parliament for the payment of the salaries, allowances and expenses of the Committee during the next ensuing fiscal year, and must transmit that estimate to the President of the Treasury Board, who must lay it before the House of Commons with the estimates of the government for the fiscal year.
+
+
+
+
+
+
+
+
+
+10. Chaque année, le président du Comité fait préparer l’état estimatif des sommes d’argent qu’il demandera au Parlement pour couvrir les salaires, les indemnités et les dépenses du Comité pour le prochain exercice, et transmet l’état estimatif au président du Conseil du Trésor, qui le dépose devant la Chambre des communes avec les prévisions budgétaires du gouvernement pour l’exercice.
+
+
+
+État estimatif
+
+
+
+
+
+
+
+
+
+
+SECURITY AND CONFIDENTIALITY
+
+
+
+
+
+
+
+
+
+SÉCURITÉ ET CONFIDENTIALITÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Oath of office
+
+
+
+11. Every member of the Committee and every person engaged by it must, before commencing the duties of office, take an oath in the form set out in the schedule to this Act, and must comply with the oath both during and after their term of appointment or employment.
+
+
+
+
+
+
+
+
+
+11. Les membres du Comité et les personnes qu’il engage sont tenus, avant d’entrer en fonctions, de prêter le serment figurant à l’annexe de la présente loi et de s’y conformer à la fois lors de leur mandat et à la fin de celui-ci.
+
+
+
+Serment
+
+
+
+
+
+
+
+
+
+
+Security of Information Act
+
+
+
+12. For the purposes of the Security of Information Act, every member of the Committee and every person engaged by it is a person permanently bound to secrecy.
+
+
+
+
+
+
+
+
+
+12. Pour l’application de la Loi sur la protection de l’information, chaque membre du Comité et chaque personne qu’il engage est une personne astreinte au secret à perpétuité.
+
+
+
+Loi sur la protection de l’information
+
+
+
+
+
+
+
+
+
+
+Parliamentary privilege
+
+
+
+13. Despite any other Act of Parliament, members of the Committee may not claim immunity based on parliamentary privilege for the use or communication of information that comes into their possession or knowledge in their capacity as members of the Committee.
+
+
+
+
+
+
+
+
+
+13. Malgré toute autre loi fédérale, les membres du Comité ne peuvent invoquer l’immunité fondée sur le privilège parlementaire en cas d’utilisation ou de communication de renseignements qu’ils ont en leur possession — ou dont ils prennent connaissance — en leur qualité de membre du Comité.
+
+
+
+Privilège parlementaire
+
+
+
+
+
+
+
+
+
+
+Meetings in camera
+
+
+
+14. Meetings of the Committee must be held in camera whenever the Chair, or a majority of members present, considers it necessary for the Committee to do so.
+
+
+
+
+
+
+
+
+
+14. Les réunions du Comité sont tenues à huis clos lorsque le président ou la majorité des membres du Comité présents l’estiment nécessaire.
+
+
+
+Réunions à huis clos
+
+
+
+
+
+
+
+
+
+
+MANDATE OF THE COMMITTEE
+
+
+
+
+
+
+
+
+
+MANDAT DU COMITÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Mandate
+
+
+
+15. The mandate of the Committee is to 
+
+
+
+
+
+
+
+
+(a) review the legislative, regulatory, policy and administrative framework for intelligence and national security in Canada;
+
+
+
+
+
+
+
+
+(b) review the activities of federal departments and agencies in relation to intelligence and national security; and
+
+
+
+
+
+
+
+
+(c) report publicly on its activities, findings and recommendations.
+
+
+
+
+
+
+
+
+
+15. Le Comité a pour mandat :
+
+
+
+Mandat
+
+
+
+
+a) d’examiner les cadres législatif, réglementaire, stratégique et administratif du renseignement et de la sécurité nationale au Canada;
+
+
+
+
+
+
+
+
+b) d’examiner les activités des ministères et organismes fédéraux relativement au renseignement et à la sécurité nationale; 
+
+
+
+
+
+
+
+
+c) de faire rapport publiquement de ses activités, conclusions et recommandations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POWERS OF THE COMMITTEE
+
+
+
+
+
+
+
+
+
+POUVOIRS DU COMITÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Powers
+
+
+
+16. The Committee has the power to summon before it any witnesses, and to require them to
+
+
+
+
+
+
+
+
+(a) give evidence orally or in writing, and on oath or, if they are persons entitled to affirm in civil matters, on solemn affirmation; and
+
+
+
+
+
+
+
+
+(b) produce any documents and things that the Committee deems requisite for the performance of its duties and functions.
+
+
+
+
+
+
+
+
+
+16. Le Comité a le pouvoir d’assigner devant lui des témoins et de leur enjoindre :
+
+
+
+Pouvoirs
+
+
+
+
+a) de déposer oralement ou par écrit sous la foi du serment ou d’une affirmation solennelle si ceux-ci en ont le droit en matière civile;
+
+
+
+
+
+
+
+
+b) de produire les documents et pièces qu’il juge nécessaires à l’exercice de ses fonctions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Access to information
+
+
+
+17. (1) Despite any other Act of Parliament or any privilege under the law of evidence, but subject to subsection (2), the Committee is entitled to have access to any information under the control of federal departments and agencies that relates to the performance of the duties and functions of the Committee and to receive from their employees any information, reports and explanations that the Committee deems necessary for the performance of its duties and functions.
+
+
+
+
+
+
+
+
+
+17. (1) Malgré toute autre loi fédérale ou toute immunité reconnue par le droit de la preuve, mais sous réserve du paragraphe (2), le Comité est autorisé à avoir accès aux renseignements qui se rattachent à l’exercice de ses fonctions et qui relèvent d’un ministère ou d’un organisme fédéral et à recevoir de leurs employés les renseignements, rapports et explications dont il juge avoir besoin dans cet exercice.
+
+
+
+Accès aux renseignements
+
+
+
+
+
+
+
+
+
+
+Prohibition against withholding information
+
+
+
+(2) No information described in subsection (1), other than a confidence of the Queen’s Privy Council for Canada in respect of which subsection 39(1) of the Canada Evidence Act applies, may be withheld from the Committee on any grounds.
+
+
+
+
+
+
+
+
+
+(2) À l’exception des renseignements confidentiels du Conseil privé de la Reine pour le Canada visés par le paragraphe 39(1) de la Loi sur la preuve au Canada, aucun des renseignements visés au paragraphe (1) ne peut, pour quelque motif que ce soit, être refusé au Comité.
+
+
+
+Renseignements refusés
+
+
+
+
+
+
+
+
+
+
+REPORT
+
+
+
+
+
+
+
+
+
+RAPPORT
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+18. (1) The Committee must submit an annual report to the Prime Minister on reviews conducted by the Committee under section 15 during the year.
+
+
+
+
+
+
+
+
+
+18. (1) Le Comité soumet un rapport annuel au premier ministre portant sur les questions qu’il a examinées en application de l’article 15 au cours de l’année.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Detailed account of Committee's activities
+
+
+
+(2) The report must include a sufficiently detailed account of the Committee's activities, findings and recommendations so as to meaningfully inform Parliament and the public on matters identified by the Committee as being of particular public interest, subject only to those exclusions that are necessary to protect the confidentiality of information related to matters of international affairs, defence or security.  
+
+
+
+
+
+
+
+
+
+(2) Le rapport fait état des activités, conclusions et recommandations du Comité d’une façon suffisamment détaillée pour qu'il puisse constituer une source valable d'information pour le Parlement et le public sur les questions considérées par le Comité comme étant d’intérêt public particulier, sous réserve uniquement des exclusions nécessaires pour protéger la confidentialité des renseignements liés aux affaires internationales, à la défense ou à la sécurité.  
+
+
+
+Rapport détaillé des activités du Comité 
+
+
+
+
+
+
+
+
+
+
+
+
+Information excluded
+
+
+
+(3) The Prime Minister may, after the Chair of the Committee has been consulted, exclude from the copy of the report that is to be laid before each House of Parliament under subsection (4) any information the disclosure of which would, in the Prime Minister’s opinion, be injurious to international affairs, defence or security.
+
+
+
+
+
+
+
+
+
+(3) Le premier ministre peut, après consultation du président du Comité, exclure de l’exemplaire du rapport visé au paragraphe (4) les renseignements dont, à son avis, la divulgation porterait préjudice aux affaires internationales, à la défense ou à la sécurité. 
+
+
+
+Renseignements exclus du rapport
+
+
+
+
+
+
+
+
+
+
+Tabling in Parliament
+
+
+
+(4) The Prime Minister must cause a copy of the report to be laid before each House of Parliament within the first 45 days on which that House is sitting after the Prime Minister receives the report.
+
+
+
+
+
+
+
+
+
+(4) Le premier ministre fait déposer un exemplaire du rapport devant chaque chambre du Parlement dans les quarante-cinq premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt
+
+
+
+
+
+
+
+
+
+
+Statement regarding exclusion
+
+
+
+(5) The copy of the report laid before each House of Parliament under subsection (4) must state whether any information has been excluded from it pursuant to subsection (3).
+
+
+
+
+
+
+
+
+
+(5) L’exemplaire du rapport déposé devant chaque chambre du Parlement en application du paragraphe (4) indique si des renseignements ont été exclus en vertu du paragraphe (3).
+
+
+
+Déclaration concernant l’exclusion
+
+
+
+
+
+
+
+
+
+
+Disclosure of information
+
+
+
+(6) The Chair of the Committee may disclose to the public the general nature of any information that has been excluded from the report by the Prime Minister under subsection (3) as long as the disclosure does not reveal the substance of the excluded information.
+
+
+
+
+
+
+
+
+
+(6) Le président du Comité peut communiquer au public la nature générale de tout renseignement que le premier ministre a exclu du rapport en vertu du paragraphe (3) dans la mesure où la communication ne révèle pas la substance du renseignement exclu.
+
+
+
+Communication de renseignements
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS 
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES 
+
+
+
+
+
+
+
+
+
+
+R.S., c. O-5; 2001, c. 41, s. 25
+
+
+
+Security of Information Act
+
+
+
+
+
+
+
+
+
+Loi sur la protection de l'information
+
+
+
+L.R., ch. O-5; 2001, ch. 41, art. 25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. Section 12 of the Security of Information Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+13. L’article 12 de la Loi sur la protection de l’information est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certificate
+
+
+
+(1.1) Subject to subsection (2), a certificate purporting to have been issued by or under the authority of the President of the Queen’s Privy Council for Canada stating that a person is a member or employee or former member or former employee of the Intelligence and Secu-rity Committee of Parliament — and, as such, is a person permanently bound to secrecy by virtue of section 12 of the Intelligence and Security Committee of Parliament Act — shall be received and is admissible in evidence in any proceedings for an offence under section 13 or 14, without proof of the signature or authority of the President, and, in the absence of evidence to the contrary, is proof of the fact so stated. 
+
+
+
+
+
+
+
+
+
+(1.1) Sous réserve du paragraphe (2), le certificat apparemment signé par le président du Conseil privé de la Reine pour le Canada ou en son nom, où il est déclaré qu’une personne est un membre ou un employé — actuel ou ancien — du Comité parlementaire sur le renseignement et la sécurité et qu’à ce titre elle est astreinte au secret à perpétuité au titre de l’article 12 de la Loi sur le Comité parlementaire sur le renseignement et la sécurité est admissible en preuve dans les poursuites engagées pour infraction aux articles 13 et 14, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire; sauf preuve contraire, le certificat fait foi de son contenu. 
+
+
+
+Certificat
+
+
+
+
+
+
+
+
+2006, c. 9, s. 2
+
+
+
+Conflict of Interest Act
+
+
+
+
+
+
+
+
+
+Loi sur les conflits d'intérêts
+
+
+
+2006, ch. 9, art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+14. The definition “public office holder” in subsection 2(1) of the Conflict of Interest Act is amended by striking out “and” at the end of subparagraph (d)(v), by adding “and” at the end of subparagraph (d)(vi) and by adding the following after subparagraph (d)(vi):
+
+
+
+
+
+
+
+
+
+14. La définition de « titulaire de charge publique », au paragraphe 2(1) de la Loi sur les conflits d’intérêts, est modifiée par adjonction, après le sous-alinéa d)(vi), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(vii) a member of the Intelligence and Security Committee of Parliament established by section 3 of the Intelligence and Security Committee of Parliament Act;
+
+
+
+
+
+
+
+
+
+(vii) des membres du Comité parlementaire sur le renseignement et la sécurité constitué par l’article 3 de la Loi sur le Comité parlementaire sur le renseignement et la sécurité;
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE 
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR 
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+15. This Act comes into force one year after the day on which it receives royal assent or on any earlier day that may be fixed by order of the Governor in Council. 
+
+
+
+
+
+
+
+
+
+15. La présente loi entre en vigueur un an après la date de sa sanction ou à la date antérieure que le gouverneur en conseil peut fixer par décret. 
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 
+
+
+
+
+
+ANNEXE 
+
+
+
+
+
+
+(Section 12)
+
+
+
+
+
+(article 12)
+
+
+
+
+
+
+SCHEDULE 
+
+
+
+
+
+ANNEXE 
+
+
+
+
+
+
+(Section 11)
+
+
+
+
+
+(article 11)
+
+
+
+
+
+
+OATH
+
+
+
+
+
+SERMENT
+
+
+
+
+
+
+I, ....................., swear (or solemnly affirm) that I will faithfully and impartially to the best of my abilities perform the duties required of me as a member (or an employee) of the Intelligence and Security Committee of Parliament. I will not, without due authority, disclose or make known to any person any information acquired by me by reason of the duties performed by me as a member (or an employee) of the Intelligence and Security Committee of Parliament.
+
+
+
+
+
+Moi, ...................., je jure (ou j’affirme solennellement) que je remplirai avec fidélité, impartialité et dans toute la mesure de mes moyens les fonctions qui m’incombent en qualité de membre (ou d’employé) du Comité parlementaire sur le renseignement et la sécurité et que, sauf autorisation régulièrement donnée, je ne révélerai rien de ce qui sera parvenu à ma connaissance dans l’exercice de mes fonctions de membre (ou d’employé) de ce comité.
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+

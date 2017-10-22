@@ -1,0 +1,3193 @@
+
+
+
+
+
+C-49
+
+
+
+
+
+C-49
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-49
+
+
+
+
+
+PROJET DE LOI C-49
+
+
+
+
+
+
+An Act to amend the Competition Act
+
+
+
+
+
+Loi modifiant la Loi sur la concurrence
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 9, 2014
+
+première lecture le 9 décembre 2014
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF INDUSTRY
+
+90754
+
+
+
+MINISTRE DE L’INDUSTRIE
+
+
+
+
+
+SUMMARY
+This enactment amends the Competition Act to authorize the Commissioner of Competition to conduct inquiries to determine the reasons why a product or class of products has a higher selling price in Canada than in the United States and to require the Commissioner to make public reports on completed inquiries. It also requires that those amendments be reviewed within five years after the day on which they come into force.
+The enactment also amends that Act to expressly authorize the issuance of court orders requiring a person who is located outside Canada to attend an examination, to produce documents or to make a written return in order to provide the Commissioner with information. It also amends that Act to enable the Commissioner to obtain a court order requiring a person to provide the Commissioner with information that an affiliate of the person is likely to have and that is relevant to an inquiry. Finally, the enactment amends that Act to expand the concept of affiliation to a broader range of business organizations.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur la concurrence pour autoriser le commissaire de la concurrence à mener des enquêtes visant à déterminer les raisons pour lesquelles le prix de vente d’un produit ou d’une catégorie de produits est plus élevé au Canada qu’aux États-Unis et pour exiger qu’il rende publics les rapports qu’il prépare relativement aux enquêtes complétées. Le texte prévoit également que ces modifications devront faire l’objet d’un examen parlementaire dans les cinq ans suivant leur entrée en vigueur.
+Il modifie en outre cette loi pour autoriser explicitement la prise d’ordonnances judiciaires enjoignant à une personne se trouvant à l’étranger de comparaître, de produire des documents ou de préparer une déclaration écrite afin de fournir des renseignements au commissaire. Il modifie également cette loi pour permettre au commissaire d’obtenir une ordonnance judiciaire enjoignant à une personne de lui fournir des renseignements, pertinents pour une enquête, qu’une affiliée de la personne détient vraisemblablement. Enfin, il modifie cette loi pour rendre la notion d’affiliation applicable à un plus grand éventail d’organisations d’affaires.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-49
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Competition Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la concurrence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+ALTERNATIVE TITLE
+
+
+
+
+
+
+
+
+
+TITRE SUBSIDIAIRE
+
+
+
+
+
+
+
+
+
+
+
+
+Alternative title
+
+
+
+1. This Act may be cited as the Price Transparency Act.
+
+
+
+
+
+
+
+
+
+1. La présente loi peut être ainsi désignée : Loi sur la transparence en matière de prix.
+
+
+
+Titre subsidiaire
+
+
+
+
+
+
+
+
+R.S., c. C-34; R.S., c. 19 (2nd Supp.), s. 19
+
+
+
+COMPETITION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA CONCURRENCE
+
+
+
+L.R., ch. C-34; L.R., ch. 19 (2e suppl.), art. 19
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) Subsection 2(1) of the Competition Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+2. (1) Le paragraphe 2(1) de la Loi sur la concurrence est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“entity”« entité »
+
+
+
+“entity” means a corporation or a partnership, sole proprietorship, trust or other unincorporated organization capable of conducting business;
+
+
+
+
+
+
+
+
+
+« entité » Personne morale ou société de personnes, entreprise individuelle, fiducie ou autre organisation non constituée en personne morale qui est en mesure d’exploiter une entreprise.
+
+
+
+« entité »“entity”
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (2nd Supp.), s. 20(4); 1999, c. 31, s. 44(F)
+
+
+
+(2) Subsections 2(2) and (3) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les paragraphes 2(2) et (3) de la même loi sont remplacés par ce qui suit :
+
+
+
+L.R., ch. 19 (2e suppl.), par. 20(4); 1999, ch. 31, art. 44(F)
+
+
+
+
+
+
+
+
+
+
+Affiliation
+
+
+
+(2) For the purposes of this Act,
+
+
+
+
+
+
+
+
+(a) one entity is affiliated with another entity if one of them is the subsidiary of the other or both are subsidiaries of the same entity or each of them is controlled by the same person;
+
+
+
+
+
+
+
+
+(b) if two entities are affiliated with the same entity at the same time, they are deemed to be affiliated with each other; and
+
+
+
+
+
+
+
+
+(c) an individual is affiliated with an entity if the individual controls the entity.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application de la présente loi :
+
+
+
+Affiliation
+
+
+
+
+a) une entité est affiliée à une autre si l’une d’elles est la filiale de l’autre, si toutes deux sont des filiales d’une même entité ou encore si chacune d’elles est contrôlée par la même personne;
+
+
+
+
+
+
+
+
+b) si deux entités sont affiliées à la même entité au même moment, elles sont réputées être affiliées l’une à l’autre;
+
+
+
+
+
+
+
+
+c) un individu est affilié à une entité s’il la contrôle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subsidiary entity
+
+
+
+(3) For the purposes of this Act, an entity is a subsidiary of another entity if it is controlled by that other entity.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application de la présente loi, une entité est une filiale d’une autre entité si elle est contrôlée par cette autre entité.
+
+
+
+Filiale
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (2nd Supp.), s. 20(4)
+
+
+
+(3) The portion of paragraph 2(4)(a) of the Act before subparagraph (ii) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le passage de l’alinéa 2(4)a) de la même loi précédant le sous-alinéa (ii) est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (2e suppl.), par. 20(4)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) a corporation is controlled by an entity or an individual other than Her Majesty if
+
+
+
+
+
+
+(i) securities of the corporation to which are attached more than 50% of the votes that may be cast to elect directors of the corporation are held, directly or indirectly, whether through one or more subsidiaries or otherwise, otherwise than by way of security only, by or for the benefit of that entity or individual, and
+
+
+
+
+
+
+
+
+
+a) une personne morale est contrôlée par une entité ou par un individu autre que Sa Majesté si :
+
+
+
+
+
+
+(i) des valeurs mobilières de cette personne morale comportant plus de cinquante pour cent des votes qui peuvent être exercés lors de l’élection des administrateurs de la personne morale en question sont détenues, directement ou indirectement, notamment par l’intermédiaire d’une ou de plusieurs filiales, autrement qu’à titre de garantie uniquement, par cette entité ou cet individu ou pour son bénéfice,
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 2, s. 1(3)
+
+
+
+(4) Paragraph 2(4)(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) L’alinéa 2(4)c) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 2, par. 1(3)
+
+
+
+
+
+
+
+
+
+
+
+
+(c) an entity other than a corporation is controlled by an entity or individual if the entity or individual, directly or indirectly, whether through one or more subsidiaries or otherwise, holds an interest in the entity that is not a corporation that entitles them to receive more than 50% of the profits of that entity or more than 50% of its assets on dissolution.
+
+
+
+
+
+
+
+
+
+c) contrôle une entité autre qu’une personne morale l’entité ou l’individu qui détient dans cette entité — directement ou indirectement, notamment par l’intermédiaire d’une ou de plusieurs filiales — des titres de participation lui donnant droit de recevoir plus de cinquante pour cent des bénéfices de cette entité ou plus de cinquante pour cent des éléments d’actif de celle-ci au moment de sa dissolution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 10 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+3. L’article 10 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Inquiry — higher price in Canada
+
+
+
+(1.1) If the Commissioner has reason to believe that the selling price of a product or class of products is or was higher in Canada than the selling price of that product or class of products — or of a similar product or class of similar products — in the United States, the Commissioner may make an inquiry into the matter with a view to determining the facts, including the extent of the difference between the selling prices, and the reasons for that difference.
+
+
+
+
+
+
+
+
+
+(1.1) S’il a des raisons de croire que le prix de vente d’un produit ou d’une catégorie de produits au Canada est ou était plus élevé que leur prix de vente — ou le prix de vente d’un produit semblable ou d’une catégorie de produits semblables — aux États-Unis, le commissaire peut mener une enquête en vue de déterminer les faits, notamment l’ampleur de l’écart de prix, et les causes de cet écart.
+
+
+
+Enquête — prix plus élevé au Canada
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (2nd Supp.), s. 24
+
+
+
+4. Subsections 11(2) and (3) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+4. Les paragraphes 11(2) et (3) de la même loi sont remplacés par ce qui suit :
+
+
+
+L.R., ch. 19 (2e suppl.), art. 24
+
+
+
+
+
+
+
+
+
+
+Order —information in possession of affiliate
+
+
+
+(2) If, on the ex parte application of the Commissioner or his or her authorized representative, a judge of a superior or county court is satisfied by information on oath or solemn affirmation that an inquiry is being made under section 10 and that any affiliate of a person, whether the affiliate is located in Canada or outside Canada, has or is likely to have information that is relevant to the inquiry, the judge may order the person to
+
+
+
+
+
+
+
+
+(a) produce to the Commissioner or the authorized representative of the Commissioner within a period and at a place specified in the order, a record, a copy of a record certified by affidavit to be a true copy, or any other thing, specified in the order; or
+
+
+
+
+
+
+
+
+(b) make and deliver to the Commissioner or the authorized representative of the Commissioner, within a period specified in the order, a written return on oath or solemn affirmation showing in detail the information that is required by the order.
+
+
+
+
+
+
+
+
+
+(2) Sur demande ex parte du commissaire ou de son représentant autorisé, un juge d’une cour supérieure ou d’une cour de comté peut, lorsqu’il est convaincu d’après une dénonciation faite sous serment ou affirmation solennelle qu’une enquête est menée en application de l’article 10 et qu’une quelconque affiliée d’une personne détient ou détient vraisemblablement des renseignements qui sont pertinents à l’enquête, sans égard au fait que l’affiliée soit située au Canada ou ailleurs, ordonner à la personne :
+
+
+
+Ordonnance —renseignements détenus par une affiliée
+
+
+
+
+a) de produire auprès du commissaire ou de son représentant autorisé, dans le délai et au lieu que prévoit l’ordonnance, les documents— originaux ou copies certifiées conformes par affidavit — ou les autres choses dont l’ordonnance fait mention;
+
+
+
+
+
+
+
+
+b) de préparer et de donner au commissaire ou à son représentant autorisé, dans le délai que prévoit l’ordonnance, une déclaration écrite faite sous serment ou affirmation solennelle et énonçant en détail les renseignements exigés par l’ordonnance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Person outside Canada
+
+
+
+(2.1) An order under subsection (1) or (2) may be made against a person who is located outside Canada.
+
+
+
+
+
+
+
+
+
+(2.1) L’ordonnance visée aux paragraphes (1) ou (2) peut être rendue contre une personne se trouvant à l’étranger.
+
+
+
+Personne située à l’étranger
+
+
+
+
+
+
+
+
+
+
+No person excused from complying with order
+
+
+
+(3) No person shall be excused from complying with an order made under subsection (1) or (2) on the ground that the testimony, record or other thing or return required of the person may tend to criminate the person or subject him or her to any proceeding or penalty, but no testimony given by an individual under an order made under paragraph (1)(a), or return made by an individual under an order made under paragraph (1)(c) or (2)(b), shall be used or received against that individual in any criminal proceedings instituted against him or her after the testimony is given or the return is made, other than a prosecution under section 132 or 136 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+(3) Nul n’est dispensé de se conformer à une ordonnance visée aux paragraphes (1) ou (2) au motif que le témoignage oral, le document, l’autre chose ou la déclaration qu’on exige de lui peut tendre à l’incriminer ou à l’exposer à quelque procédure ou pénalité, mais un témoignage oral qu’un individu a rendu conformément à une ordonnance prononcée en application de l’alinéa (1)a) ou une déclaration qu’il a faite en conformité avec une ordonnance prononcée en application des alinéas (1)c) ou (2)b) ne peut être utilisé ou admis contre celui-ci dans le cadre de poursuites criminelles intentées contre lui par la suite sauf en ce qui concerne une poursuite prévue aux articles 132 ou 136 du Code criminel.
+
+
+
+Nul n’est dispensé de se conformer à l’ordonnance
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Act is amended by adding the following after section 23:
+
+
+
+
+
+
+
+
+
+5. La même loi est modifiée par adjonction, après l’article 23, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Report —inquiry under subsection 10(1.1)
+
+
+
+23.1 (1) Subject to subsections 22(1) and 23(1), the Commissioner shall prepare a report in writing setting out the Commissioner’s conclusions with respect to an inquiry made under subsection 10(1.1) and shall make the report accessible to the public.
+
+
+
+
+
+
+
+
+
+23.1 (1) Sous réserve des paragraphes 22(1) et 23(1), le commissaire établit un rapport écrit énonçant ses conclusions à la suite de toute enquête menée en vertu du paragraphe 10(1.1) et le rend accessible au public.
+
+
+
+Rapport d’enquête —paragraphe 10(1.1)
+
+
+
+
+
+
+
+
+
+
+Time period
+
+
+
+(2) The Commissioner shall take all reasonable steps to complete the report within one year after the day on which the Commissioner receives — on the Commissioner’s request or as the result of an order made under section 11 — the information that the Commissioner considers sufficient for the inquiry.
+
+
+
+
+
+
+
+
+
+(2) Il prend toutes les mesures raisonnables pour que le rapport soit terminé dans l’année suivant la date à laquelle il obtient — à sa demande ou en application d’une ordonnance rendue en vertu de l’article 11 — les renseignements qu’il estime suffisants pour les besoins de l’enquête.
+
+
+
+Délai
+
+
+
+
+
+
+
+
+
+
+2009, c. 2, s. 410
+
+
+
+6. Paragraph 45(6)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+6. L’alinéa 45(6)a) de la même loi est remplacé par ce qui suit :
+
+
+
+2009, ch. 2, art. 410
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is entered into only by entities each of which is, in respect of every one of the others, an affiliate or by entities and an individual each of which is, in respect of every one of the others, an affiliate; or
+
+
+
+
+
+
+
+
+
+a) intervenu exclusivement entre des entités qui sont chacune des affiliées de toutes les autres ou entre un individu et des entités qui sont chacun des affiliés de tous les autres;
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (2nd Supp.), s. 33
+
+
+
+7. Subsection 47(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+7. Le paragraphe 47(3) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (2e suppl.), art. 33
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(3) This section does not apply in respect of an agreement or arrangement that is entered into or a submission that is arrived at only by entities each of which is, in respect of every one of the others, an affiliate or by entities and an individual each of which is, in respect of every one of the others, an affiliate.
+
+
+
+
+
+
+
+
+
+(3) Le présent article ne s’applique pas à un accord, à un arrangement ou à une soumission intervenu exclusivement entre des entités qui, considérées individuellement, sont des affiliées de chacune des autres entités en question ou entre un individu et des entités qui sont chacun des affiliés de tous les autres.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+2009, c. 2, s. 426
+
+
+
+8. Subsection 76(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+8. Le paragraphe 76(4) de la même loi est remplacé par ce qui suit :
+
+
+
+2009, ch. 2, art. 426
+
+
+
+
+
+
+
+
+
+
+When no order may be made
+
+
+
+(4) No order may be made under subsection (2) if the person referred to in subsection (3) and the customer or other person referred to in subparagraph (1)(a)(i) or (ii) are
+
+
+
+
+
+
+
+
+(a) principal and agent or mandator and mandatary;
+
+
+
+
+
+
+
+
+(b) a corporation and an individual who controls it or affiliated corporations; or
+
+
+
+
+
+
+
+
+(c) directors, agents, mandataries, officers or employees of the same entity or of entities that are affiliated.
+
+
+
+
+
+
+
+
+
+(4) L’ordonnance prévue au paragraphe (2) ne peut être rendue lorsque la personne visée au paragraphe (3) et le client ou la personne visés aux sous-alinéas (1)a)(i) ou (ii) se trouvent dans l’une des situations suivantes :
+
+
+
+Cas où il ne peut être rendu d’ordonnance
+
+
+
+
+a) ils ont entre eux des relations de mandant à mandataire;
+
+
+
+
+
+
+
+
+b) il s’agit d’une personne morale et d’un individu qui la contrôle ou ils sont des personnes morales affiliées;
+
+
+
+
+
+
+
+
+c) ils sont des administrateurs, mandataires, dirigeants ou employés soit de la même entité, soit d’entités qui sont affiliées.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1999, c. 31, s. 52(1)(F)
+
+
+
+9. (1) The portion of subsection 77(4) of the Act after paragraph (c) is replaced by the following:
+
+
+
+
+
+
+
+
+
+9. (1) Le passage du paragraphe 77(4) de la même loi suivant l’alinéa c) est remplacé par ce qui suit :
+
+
+
+1999. ch. 31, par. 52(1)(F)
+
+
+
+
+
+
+
+
+
+
+
+
+No order made under this section applies in respect of exclusive dealing, market restriction or tied selling between or among entities that are affiliated.
+
+
+
+
+
+
+
+
+
+Aucune ordonnance rendue en vertu du présent article ne s’applique en ce qui concerne l’exclusivité, la limitation du marché ou les ventes liées entre des entités qui sont affiliées.
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (2nd Supp.), s. 45; 1999, c. 31, ss. 52(2) and (3)(F)
+
+
+
+(2) Subsection 77(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 77(5) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (2e suppl.), art. 45; 1999, ch. 31, par. 52(2) et (3)(F)
+
+
+
+
+
+
+
+
+
+
+If entity affiliated
+
+
+
+(5) For the purposes of subsection (4), an entity is affiliated with another entity
+
+
+
+
+
+
+
+
+(a) in the manner set out in paragraph 2(2)(a) or (b); and
+
+
+
+
+
+
+
+
+(b) in respect of any agreement between them in which one of them grants to the other the right to use a trademark or trade name to identify the business of the grantee, if
+
+
+
+
+
+
+
+
+(i) the business is related to the sale or distribution, in accordance with a marketing plan or system prescribed substantially by the grantor, of a multiplicity of products obtained from competing sources of supply and a multiplicity of suppliers, and
+
+
+
+
+
+
+
+
+(ii) no one product dominates the business.
+
+
+
+
+
+
+
+
+
+(5) Pour l’application du paragraphe (4), une entité est affiliée à une autre entité :
+
+
+
+Affiliation d’entités
+
+
+
+
+a) dans les cas prévus aux alinéas 2(2)a) ou b);
+
+
+
+
+
+
+
+
+b) en ce qui concerne tout accord entre elles par lequel l’une concède à l’autre le droit d’utiliser une marque de commerce ou un nom de commerce pour identifier les affaires du concessionnaire, à la condition :
+
+
+
+
+
+
+
+
+(i) que ces affaires soient liées à la vente ou la distribution, conformément à un programme ou système de commercialisation prescrit en substance par le concédant, d’une multiplicité de produits obtenus de sources d’approvisionnement qui sont en concurrence et d’une multiplicité de fournisseurs,
+
+
+
+
+
+
+
+
+(ii) qu’aucun produit ne soit primordial dans ces affaires.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2009, c. 2, s. 429
+
+
+
+10. Subsection 90.1(7) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+10. Le paragraphe 90.1(7) de la même loi est remplacé par ce qui suit :
+
+
+
+2009, ch. 2, art. 429
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(7) Subsection (1) does not apply if the agreement or arrangement is entered into, or would be entered into, only by entities each of which is, in respect of every one of the others, an affiliate or by entities and an individual each of which is, in respect of every one of the others, an affiliate.
+
+
+
+
+
+
+
+
+
+(7) Le paragraphe (1) ne s’applique pas à l’accord ou à l’arrangement qui est intervenu ou interviendrait exclusivement entre des entités qui sont chacune des affiliées de toutes les autres ou entre un individu et des entités qui sont chacun des affiliés de tous les autres.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (2nd Supp.), s. 45
+
+
+
+11. (1) The definition “person” in subsection 108(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+11. (1) La définition de « personne », au paragraphe 108(1) de la même loi, est remplacée par ce qui suit :
+
+
+
+L.R. ch. 19, (2e suppl.), art. 45
+
+
+
+
+
+
+
+
+
+
+“person”« personne »
+
+
+
+“person” means an entity, an individual or a trustee, executor, administrator or liquidator of the succession, administrator of the property of others or representative, but does not include a bare trustee or a trustee responsible exclusively for preserving and transferring the property of a person;
+
+
+
+
+
+
+
+
+
+« personne » Entité, individu ou fiduci-aire, exécuteur testamentaire, administrateur successoral, liquidateur d’une succession, administrateur du bien d’autrui ou représentant, à l’exclusion d’un fiduciaire à charge exclusive de conservation et de remise.
+
+
+
+« personne »“person”
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 108(1) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 108(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“equity interest”« intérêt relatif à des capitaux propres »
+
+
+
+“equity interest” means
+
+
+
+
+
+
+
+
+(a) in the case of a corporation, a share in the corporation; and
+
+
+
+
+
+
+
+
+(b) in the case of an entity other than a corporation, an interest that entitles the holder of that interest to receive profits of that entity or assets of that entity on its dissolution.
+
+
+
+
+
+
+
+
+
+« intérêt relatif à des capitaux propres » 
+
+
+
+« intérêt relatif à des capitaux propres »“equity interest”
+
+
+
+
+a) S’agissant d’une personne morale, toute action de celle-ci;
+
+
+
+
+
+
+
+
+b) s’agissant d’une entité autre qu’une personne morale, tout titre de participation qui confère à son détenteur le droit de recevoir des bénéfices de cette entité ou des actifs de celle-ci à sa dissolution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (2nd Supp.), s. 45
+
+
+
+(3) Subsection 108(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 108(2) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R. ch. 19, (2e suppl.), art. 45
+
+
+
+
+
+
+
+
+
+
+Entities controlled by Her Majesty
+
+
+
+(2) For the purposes of this Part, except section 113, one entity is not affiliated with another entity by reason only of the fact that both entities are controlled by Her Majesty in right of Canada or a province, as the case may be.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application de la présente partie, à l’exception de l’article 113, une entité n’est pas affiliée à une autre entité du seul fait que ces deux entités sont contrôlées par Sa Majesté du chef du Canada ou d’une province, selon le cas.
+
+
+
+Entités contrôlées par Sa Majesté
+
+
+
+
+
+
+
+
+
+
+1999, c. 2, s. 26
+
+
+
+12. Subsection 109(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+12. Le paragraphe 109(2) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 2, art. 26
+
+
+
+
+
+
+
+
+
+
+Parties to acquisition of shares or interest
+
+
+
+(2) For the purposes of this Part,
+
+
+
+
+
+
+
+
+(a) the parties to a proposed acquisition of shares are the person or persons who propose to acquire the shares and the corporation whose shares are to be acquired; and
+
+
+
+
+
+
+
+
+(b) the parties to a proposed acquisition of an interest in a combination are the person or persons who propose to acquire the interest and the combination whose interest is to be acquired.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application de la présente partie, sont parties à une transaction :
+
+
+
+Parties à une acquisition d’actions ou de titres de participation
+
+
+
+
+a) en ce qui concerne une acquisition proposée d’actions, la ou les personnes qui proposent d’acquérir ces actions de même que la personne morale dont les actions font l’objet de l’acquisition proposée;
+
+
+
+
+
+
+
+
+b) en ce qui concerne une acquisition proposée de titres de participation dans une association d’intérêts, la ou les personnes qui proposent d’acquérir ces titres de même que l’association d’intérêts dont les titres font l’objet de l’acquisition proposée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2009, c. 2, s. 436
+
+
+
+13. (1) The portion of subsection 110(3) of the Act before subparagraph (a)(ii) is replaced by the following:
+
+
+
+
+
+
+
+
+
+13. (1) Le passage du paragraphe 110(3) de la même loi précédant le sous-alinéa a)(ii) est remplacé par ce qui suit :
+
+
+
+2009, ch. 2, art. 436
+
+
+
+
+
+
+
+
+
+
+Acquisition of shares
+
+
+
+(3) Subject to sections 111 and 113, this Part applies in respect of a proposed acquisition of voting shares of a corporation that carries on an operating business or controls an entity that carries on an operating business
+
+
+
+
+
+
+
+
+(a) if
+
+
+
+
+
+
+
+
+(i) the aggregate value of the assets in Canada, determined as of the time and in the manner that is prescribed, that are owned by the corporation or by entities controlled by that corporation, other than assets that are equity interests in those entities, would exceed the amount set out in subsection (7) or the amount determined under subsection (8), as the case may be, or
+
+
+
+
+
+
+
+
+
+(3) Sous réserve des articles 111 et 113, la présente partie s’applique à l’égard d’une acquisition proposée d’actions comportant droit de vote d’une personne morale qui exploite une entreprise en exploitation ou qui contrôle une entité qui exploite une telle entreprise si :
+
+
+
+Acquisition d’actions
+
+
+
+
+a) d’une part :
+
+
+
+
+
+
+
+
+(i) soit la valeur totale des éléments d’actif, au Canada, qui sont la propriété de la personne morale ou d’entités que contrôle cette personne morale, autres que des éléments d’actif qui sont des intérêts relatifs à des capitaux propres de l’une quelconque de ces entités, déterminée selon les modalités réglementaires de forme et de temps, dépasse la somme prévue au paragraphe (7) ou celle obtenue par application du paragraphe (8), selon le cas,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2009, c. 2, s. 436
+
+
+
+(2) The portion of subsection 110(4) of the Act before paragraph (b) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le passage du paragraphe 110(4) de la même loi précédant l’alinéa b) est remplacé par ce qui suit :
+
+
+
+2009, ch. 2, art. 436
+
+
+
+
+
+
+
+
+
+
+Amalgamation
+
+
+
+(4) Subject to subsection (4.1) and section 113, this Part applies in respect of a proposed amalgamation of two or more entities if one or more of those entities carries on an operating business, or controls an entity that carries on an operating business, if
+
+
+
+
+
+
+
+
+(a) the aggregate value of the assets in Canada, determined as of the time and in the manner that is prescribed, that would be owned by the continuing entity that would result from the amalgamation or by entities controlled by the continuing entity, other than assets that are equity interests in those entities, would exceed the amount set out in subsection (7) or the amount determined under subsection (8), as the case may be; or
+
+
+
+
+
+
+
+
+
+(4) Sous réserve du paragraphe (4.1) et de l’article 113, la présente partie s’applique à l’égard de la fusion proposée d’entités dans les cas où au moins une de ces entités exploite une entreprise en exploitation ou contrôle une entité qui exploite une entreprise en exploitation, si :
+
+
+
+Fusion
+
+
+
+
+a) la valeur totale des éléments d’actif, au Canada, dont seraient propriétaires l’entité devant résulter de la fusion ou des entités qu’elle contrôle, autres que des éléments d’actif qui sont des intérêts relatifs à des capitaux propres de ces entités, déterminée selon les modalités réglementaires de forme et de temps, dépasse la somme prévue au paragraphe (7) ou celle obtenue par application du paragraphe (8), selon le cas;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2009, c. 2, s. 436
+
+
+
+(3) The portion of subsection 110(4.1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le passage du paragraphe 110(4.1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2009, ch. 2, art. 436
+
+
+
+
+
+
+
+
+
+
+General limit relating to parties to an amalgamation
+
+
+
+(4.1) This Part does not apply in respect of a proposed amalgamation of two or more entities if one or more of those entities carries on an operating business or controls an entity that carries on an operating business, unless each of at least two of the amalgamating entities, together with its affiliates,
+
+
+
+
+
+
+
+
+
+(4.1) La présente partie ne s’applique pas à l’égard de la fusion proposée d’entités dans les cas où au moins une de ces entités exploite une entreprise en exploitation ou contrôle une entité qui exploite une entreprise en exploitation, sauf si chacune d’au moins deux des entités visées par la fusion, avec ses affiliées :
+
+
+
+Limite générale applicable aux parties à une fusion
+
+
+
+
+
+
+
+
+
+
+2009, c. 2, s. 436
+
+
+
+(4) The portion of subsection 110(5) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le passage du paragraphe 110(5) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2009, ch. 2, art. 436
+
+
+
+
+
+
+
+
+
+
+Combination
+
+
+
+(5) Subject to sections 112 and 113, this Part applies in respect of a proposed combination of two or more persons to carry on business otherwise than through a corporation if one or more of those persons proposes to contribute to the combination assets that form all or part of an operating business carried on by those persons, or entities controlled by those persons, and if
+
+
+
+
+
+
+
+
+
+(5) Sous réserve des articles 112 et 113, la présente partie s’applique à l’égard de l’association d’intérêts proposée entre plusieurs personnes dans le but d’exercer une entreprise autrement que par l’intermédiaire d’une personne morale dans les cas où au moins une de ces personnes propose de fournir à l’association d’intérêts des éléments d’actif constituant le tout ou une partie seulement d’une entreprise en exploitation exploitée par ces personnes ou par des entités que contrôlent ces personnes, et si :
+
+
+
+Associations d’intérêts
+
+
+
+
+
+
+
+
+
+
+1999, c. 31, s. 229
+
+
+
+14. Paragraph 111(f) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+14. L’alinéa 111f) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 31, art. 229
+
+
+
+
+
+
+
+
+
+
+
+
+(f) an acquisition of equity interests in an entity under an agreement in writing that provides for the creation of those equity interests only if the person or persons acquiring them incur expenses to carry out exploration or development activities with respect to a Canadian resource property, as defined in subsection 66(15) of the Income Tax Act, in respect of which the entity has the right to carry out those activities if the entity does not have any significant assets other than that property.
+
+
+
+
+
+
+
+
+
+f) l’acquisition d’intérêts relatifs à des capitaux propres d’une entité aux termes d’une entente écrite qui prévoit que les intérêts relatifs à des capitaux propres en question ne sont octroyés que dans les cas où la ou les personnes qui en font l’acquisition engagent des frais dans l’exercice d’activités d’exploration ou de développement se rapportant à un avoir minier canadien, au sens du paragraphe 66(15) de la Loi de l’impôt sur le revenu, à l’égard duquel l’entité peut exercer des activités d’exploration ou de développement, dans les cas où cette entité n’a pas d’éléments d’actif importants autres que cet avoir.
+
+
+
+
+
+
+
+
+
+
+
+
+2009, c. 2, s. 437
+
+
+
+15. (1) Paragraph 114(1)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+15. (1) L’alinéa 114(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+2009, ch. 2, art. 437
+
+
+
+
+
+
+
+
+
+
+
+
+(b) two or more entities propose to amalgam-ate in the circumstances set out in subsection 110(4); or
+
+
+
+
+
+
+
+
+
+b) au moins deux entités se proposent de fusionner dans les circonstances visées au paragraphe 110(4);
+
+
+
+
+
+
+
+
+
+
+
+
+2009, c. 2, s. 437
+
+
+
+(2) Subsection 114(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 114(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2009, ch. 2, art. 437
+
+
+
+
+
+
+
+
+
+
+Entity whose equity interests are acquired
+
+
+
+(3) If a proposed transaction is an acqui-sition of equity interests in an entity and the Commissioner receives information supplied under subsection (1) by a party to the transaction, other than the entity whose equity interests are being acquired, before receiving the information from the entity,
+
+
+
+
+
+
+
+
+(a) the Commissioner shall immediately notify the entity that the Commissioner has received from that party the prescribed information; and
+
+
+
+
+
+
+
+
+(b) the entity shall supply the Commissioner with the prescribed information within 10 days after being notified under paragraph (a).
+
+
+
+
+
+
+
+
+
+(3) Dans le cas où la transaction proposée est une acquisition d’intérêts relatifs à des capitaux propres d’une entité et que le commissaire reçoit les renseignements prévus au paragraphe (1) d’une partie à la transaction autre que l’entité dont les intérêts relatifs à ses capitaux propres font l’objet de l’acquisition proposée, avant de recevoir ces renseignements de cette entité :
+
+
+
+Entité visée par l’acquisition
+
+
+
+
+a) le commissaire avise immédiatement cette entité qu’il a reçu de l’autre partie les renseignements réglementaires;
+
+
+
+
+
+
+
+
+b) cette entité produit auprès du commissaire les renseignements réglementaires dans les dix jours suivant la réception de l’avis prévu à l’alinéa a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (2nd Supp.), s. 45; 1999, c. 2, s. 33 and par. 37(z.16); 2009, c. 2, s. 438
+
+
+
+16. Section 116 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+16. L’article 116 de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (2e suppl.), art. 45; 1999, ch. 2, art. 33 et al. 37z.16); 2009, ch. 2, art. 438
+
+
+
+
+
+
+
+
+
+
+If information cannot be supplied
+
+
+
+116. (1) If any of the information required under section 114 is not known or reasonably obtainable, or cannot be supplied because of the privilege that exists in respect of lawyers and notaries and their clients or because of a confidentiality requirement established by law, the entity or individual who is supplying the information may, instead of supplying the information, inform the Commissioner under oath or solemn affirmation of the matters in respect of which information has not been supplied and the reason why it has not been supplied.
+
+
+
+
+
+
+
+
+
+116. (1) Dans les cas où l’un ou l’autre des renseignements exigés en vertu de l’article 114 n’est pas connu, ne peut pas être obtenu raisonnablement ou ne peut pas être fourni en raison du secret professionnel de l’avocat ou du notaire et de son client ou d’une norme de confidentialité établie par le droit, l’entité ou l’individu qui fournit les renseignements peut, au lieu de fournir les renseignements en question, faire connaître au commissaire, sous serment ou affirmation solennelle, les questions au sujet desquelles des renseignements n’ont pas été fournis ainsi que les motifs pour lesquels ils ne l’ont pas été.
+
+
+
+Cas où les renseignements ne peuvent être fournis
+
+
+
+
+
+
+
+
+
+
+If information not relevant
+
+
+
+(2) If any of the information required under section 114 could not, on any reasonable basis, be considered to be relevant to an assessment by the Commissioner as to whether the proposed transaction would or would be likely to prevent or lessen competition substantially, the entity or individual who is supplying the information may, instead of supplying the information, inform the Commissioner under oath or solemn affirmation of the matters in respect of which information has not been supplied and why the information was not considered relevant.
+
+
+
+
+
+
+
+
+
+(2) Dans les cas où l’un ou l’autre des renseignements exigés en vertu de l’article 114 ne pouvaient, en toute raison, être jugés pertinents aux fins de l’examen que fait le commissaire de la question de savoir si la transaction proposée empêcherait ou diminuerait sensiblement la concurrence ou aurait vraisemblablement cet effet, l’entité ou l’individu qui fournit les renseignements peut, au lieu de fournir les renseignements en question, aviser le commissaire, sous serment ou affirmation solennelle, des questions au sujet desquelles des renseignements n’ont pas été fournis ainsi que des motifs pour lesquels ils n’ont pas été considérés comme pertinents.
+
+
+
+Cas où les renseignements ne sont pas pertinents
+
+
+
+
+
+
+
+
+
+
+If information previously supplied
+
+
+
+(2.1) If any of the information required under section 114 has previously been supplied to the Commissioner, the entity or individual who is supplying the information may, instead of supplying it, inform the Commissioner under oath or solemn affirmation of the matters in respect of which information has previously been supplied and when it was supplied.
+
+
+
+
+
+
+
+
+
+(2.1) L’entité ou l’individu qui a fourni antérieurement au commissaire des renseignements exigés en vertu de l’article 114 peut, au lieu de les fournir, informer celui-ci de ce fait, sous serment ou sur affirmation solennelle, en lui indiquant l’objet de ces renseignements et la date à laquelle ils ont été fournis.
+
+
+
+Cas où les renseignements ont été fournis antérieurement
+
+
+
+
+
+
+
+
+
+
+Commissioner may require information
+
+
+
+(3) If an entity or individual chooses not to supply the Commissioner with information required under section 114 and so informs the Commissioner in accordance with subsection (2) or (2.1) and the Commissioner or a person authorized by the Commissioner notifies that entity or individual, within seven days after the Commissioner is so informed, that the information is required, the entity or individual shall supply the Commissioner with the information.
+
+
+
+
+
+
+
+
+
+(3) L’entité ou l’individu qui choisit de ne pas fournir au commissaire les renseignements exigés en vertu de l’article 114 et qui l’informe de ce fait en conformité avec les paragraphes (2) ou (2.1) est néanmoins tenu de le faire si le commissaire ou son délégué exige les renseignements dans les sept jours suivant la date à laquelle il est informé de ce choix.
+
+
+
+Demande de renseignements par le commissaire
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (2nd Supp.), s. 45
+
+
+
+17. Subsection 117(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+17. Le paragraphe 117(1) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (2e suppl.), art. 45
+
+
+
+
+
+
+
+
+
+
+Saving
+
+
+
+117. (1) Nothing in section 114 requires
+
+
+
+
+
+
+
+
+(a) any individual who is a director of a corporation to supply information that is known to that individual by virtue only of their position as a director of an affiliate of the corporation that is neither a wholly-owned affiliate nor a wholly-owning affiliate of the corporation; or
+
+
+
+
+
+
+
+
+(b) any individual who, in respect of an entity other than a corporation, serves in a capacity similar to that of a director to supply information that is known to that individual by virtue only of their serving in that capacity with respect to an affiliate of the entity that is neither a wholly-owned affiliate nor a wholly-owning affiliate of the entity.
+
+
+
+
+
+
+
+
+
+117. (1) L’article 114 n’a pas pour effet d’imposer :
+
+
+
+Exclusion
+
+
+
+
+a) à l’individu qui est administrateur d’une personne morale l’obligation de fournir des renseignements qui sont parvenus à sa connaissance uniquement parce qu’il occupe le poste d’administrateur d’une affiliée de la personne morale en question, à condition que cette affiliée ne soit pas une affiliée en propriété exclusive ou une affiliée-propriétaire exclusive de cette personne morale;
+
+
+
+
+
+
+
+
+b) à l’individu qui exerce des fonctions similaires à celles d’un administrateur à l’égard d’une entité autre qu’une personne morale l’obligation de fournir des renseignements qui sont parvenus à sa connaissance uniquement parce qu’il exerce de telles fonctions à l’égard d’une affiliée de l’entité en question, à condition que cette affiliée ne soit pas une affiliée en propriété exclusive ou une affiliée-propriétaire exclusive de cette entité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (2nd Supp.), s. 45; 1999, c. 2, par. 37(z.17)
+
+
+
+18. Section 118 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+18. L’article 118 de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 19 (2e suppl.), art. 45; 1999, ch. 2, al. 37z.17)
+
+
+
+
+
+
+
+
+
+
+Information to be certified
+
+
+
+118. The information supplied to the Commissioner under section 114 shall be certified on oath or solemn affirmation as having been examined by one of the following individuals and as being, to the best of that individual’s knowledge and belief, correct and complete in all material respects:
+
+
+
+
+
+
+
+
+(a) in the case of a corporation supplying the information, by an officer of the corporation or other person duly authorized by the board of directors or other governing body of the corporation;
+
+
+
+
+
+
+
+
+(b) in the case of an entity other than a corporation supplying the information, by an individual who serves in a capacity similar to that of an officer of a corporation or other individual duly authorized by the governing body of that entity;
+
+
+
+
+
+
+
+
+(c) in the case of an individual supplying the information, by that individual.
+
+
+
+
+
+
+
+
+
+118. Les renseignements fournis au commissaire en application de l’article 114 sont attestés sous serment ou affirmation solennelle comme ayant été examinés par l’un ou l’autre des individus ci-après et comme étant, à leur connaissance, exacts et complets sur toute question pertinente :
+
+
+
+Attestation des renseignements
+
+
+
+
+a) dans le cas où une personne morale les fournit, par un de ses dirigeants ou par tout autre individu dûment autorisé par le conseil d’administration ou tout autre organisme dirigeant de la personne morale;
+
+
+
+
+
+
+
+
+b) dans le cas où une entité non constituée en personne morale les fournit, par un individu qui y exerce des fonctions similaires à celles d’un dirigeant d’une personne morale ou par tout autre individu dûment autorisé par l’organisme dirigeant de l’entité;
+
+
+
+
+
+
+
+
+c) dans le cas où tout individu les fournit, par l’individu lui-même.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2009, c. 2, s. 439
+
+
+
+19. Subsections 123(2) and (3) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+19. Les paragraphes 123(2) et (3) de la même loi sont remplacés par ce qui suit :
+
+
+
+2009, ch. 2, art. 439
+
+
+
+
+
+
+
+
+
+
+Waiving of waiting period
+
+
+
+(2) A proposed transaction referred to in section 114 may be completed before the end of a period referred to in subsection (1) if, before the end of that period, the Commissioner or a person authorized by the Commissioner notifies the parties to the transaction that the Commissioner does not, at that time, intend to make an application under section 92 in respect of that proposed transaction.
+
+
+
+
+
+
+
+
+
+(2) La transaction proposée visée à l’article 114 peut être complétée avant l’expiration d’un délai prévu au paragraphe (1) dans les cas où le commissaire ou son délégué, avant l’expiration du délai, avise les parties à la transaction qu’il n’envisage pas, pour le moment, de présenter une demande en vertu de l’article 92 à l’égard de celle-ci.
+
+
+
+Inapplication des délais
+
+
+
+
+
+
+
+
+
+
+Acquisition of equity interests
+
+
+
+(3) In the case of an acquisition of equity interests to which subsection 114(3) applies, the periods referred to in subsection (1) shall be determined without reference to the day on which the information required under section 114 is received by the Commissioner from the entity whose equity interests are being acquired.
+
+
+
+
+
+
+
+
+
+(3) Dans le cas d’une acquisition d’intérêts relatifs à des capitaux propres d’une entité à laquelle le paragraphe 114(3) s’applique, les délais prévus au paragraphe (1) sont fixés compte non tenu de la date à laquelle le commissaire reçoit les renseignements exigés en vertu de l’article 114 de l’entité dont les intérêts relatifs à ses capitaux propres font l’objet de l’acquisition.
+
+
+
+Acquisition d’intérêts relatifs à des capitaux propres
+
+
+
+
+
+
+
+
+
+
+
+
+20. The Act is amended by adding the following after section 127:
+
+
+
+
+
+
+
+
+
+20. La même loi est modifiée par adjonction, après l’article 127, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Review —subsection 10(1.1) and section 23.1
+
+
+
+127.1 (1) Within five years after the day on which this section comes into force, a review of subsection 10(1.1) and section 23.1 and their operation shall be undertaken by a committee of the Senate, of the House of Commons or of both Houses of Parliament that is designated or established for that purpose.
+
+
+
+
+
+
+
+
+
+127.1 (1) Dans les cinq ans suivant la date d’entrée en vigueur du présent article, le comité soit du Sénat, soit de la Chambre des communes, soit mixte, désigné ou constitué à cette fin procède à un examen du paragraphe 10(1.1) et de l’article 23.1 ainsi que des conséquences de leur application.
+
+
+
+Examen —paragraphe 10(1.1) et article 23.1
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(2) The committee shall cause a report on the review to be laid before each House of Parliament within a reasonable time after the review has been completed.
+
+
+
+
+
+
+
+
+
+(2) Il fait déposer un rapport de l’examen devant chaque chambre du Parlement dans un délai raisonnable une fois l’examen complété.
+
+
+
+Rapport
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Competition Act
+Clause 2: (1) New.
+
+
+
+Loi sur la concurrence
+Article 2 : (1) Nouveau.
+
+
+
+
+(2) Existing text of subsections 2(2) and (3):
+(2) For the purposes of this Act,
+(a) one corporation is affiliated with another corporation if one of them is the subsidiary of the other or both are subsidiaries of the same corporation or each of them is controlled by the same person;
+(b) if two corporations are affiliated with the same corporation at the same time, they are deemed to be affiliated with each other; and
+(c) a partnership or sole proprietorship is affiliated with another partnership, sole proprietorship or a company if both are controlled by the same person.
+(3) For the purposes of this Act, a corporation is a subsidiary of another corporation if it is controlled by that other corporation.
+
+
+
+(2) Texte des paragraphes 2(2) et (3) :
+(2) Pour l’application de la présente loi :
+a) une personne morale est affiliée à une autre personne morale si l’une d’elles est la filiale de l’autre, si toutes deux sont des filiales d’une même personne morale ou encore si chacune d’elles est contrôlée par la même personne;
+b) si deux personnes morales sont affiliées à la même personne morale au même moment, elles sont réputées être affiliées l’une à l’autre;
+c) une société de personnes ou une entreprise individuelle est affiliée à une autre société de personnes, à une autre entreprise individuelle ou à une personne morale si toutes deux sont contrôlées par la même personne.
+(3) Pour l’application de la présente loi, une personne morale est une filiale d’une autre personne morale si elle est contrôlée par cette autre personne morale.
+
+
+
+
+(3) and (4) Relevant portion of subsection 2(4):
+(4) For the purposes of this Act,
+(a) a corporation is controlled by a person other than Her Majesty if
+(i) securities of the corporation to which are attached more than fifty per cent of the votes that may be cast to elect directors of the corporation are held, directly or indirectly, whether through one or more subsidiaries or otherwise, otherwise than by way of security only, by or for the benefit of that person, and
+... 
+(c) a partnership is controlled by a person if the person holds an interest in the partnership that entitles the person to receive more than fifty per cent of the profits of the partnership or more than fifty per cent of its assets on dissolution.
+
+
+
+(3) et (4) Texte du passage visé du paragraphe 2(4) :
+(4) Pour l’application de la présente loi :
+a) une personne morale est contrôlée par une personne autre que Sa Majesté si :
+(i) des valeurs mobilières de cette personne morale comportant plus de cinquante pour cent des votes qui peuvent être exercés lors de l’élection des administrateurs de la personne morale en question sont détenues, directement ou indirectement, notamment par l’intermédiaire d’une ou de plusieurs filiales, autrement qu’à titre de garantie uniquement, par cette personne ou pour son bénéfice,
+[...] 
+c) contrôle une société de personnes la personne qui détient dans cette société des titres de participation lui donnant droit de recevoir plus de cinquante pour cent des bénéfices de la société ou plus de cinquante pour cent des éléments d’actif de celle-ci au moment de sa dissolution.
+
+
+
+
+Clause 3: New.
+
+
+
+Article 3 : Nouveau.
+
+
+
+
+Clause 4: Existing text of subsections 11(2) and (3):
+(2) Where the person against whom an order is sought under paragraph (1)(b) in relation to an inquiry is a corporation and the judge to whom the application is made under subsection (1) is satisfied by information on oath or solemn affirmation that an affiliate of the corporation, whether the affiliate is located in Canada or outside Canada, has records that are relevant to the inquiry, the judge may order the corporation to produce the records.
+(3) No person shall be excused from complying with an order under subsection (1) or (2) on the ground that the testimony, record or other thing or return required of the person may tend to criminate the person or subject him to any proceeding or penalty, but no testimony given by an individual pursuant to an order made under paragraph (1)(a), or return made by an individual pursuant to an order made under paragraph (1)(c), shall be used or received against that individual in any criminal proceedings thereafter instituted against him, other than a prosecution under section 132 or 136 of the Criminal Code.
+
+
+
+Article 4 : Texte des paragraphes 11(2) et (3) :
+(2) Lorsque, en rapport avec une enquête, la personne contre qui une ordonnance est demandée en application de l’alinéa (1)b) est une personne morale et que le juge à qui la demande est faite aux termes du paragraphe (1) est convaincu, d’après une dénonciation faite sous serment ou affirmation solennelle, qu’une affiliée de cette personne morale a des documents qui sont pertinents à l’enquête, il peut, sans égard au fait que l’affiliée soit située au Canada ou ailleurs, ordonner à la personne morale de produire les documents en question.
+(3) Nul n’est dispensé de se conformer à une ordonnance visée au paragraphe (1) ou (2) au motif que le témoignage oral, le document, l’autre chose ou la déclaration qu’on exige de lui peut tendre à l’incriminer ou à l’exposer à quelque procédure ou pénalité, mais un témoignage oral qu’un individu a rendu conformément à une ordonnance prononcée en application de l’alinéa (1)a) ou une déclaration qu’il a faite en conformité avec une ordonnance prononcée en application de l’alinéa (1)c) ne peut être utilisé ou admis contre celui-ci dans le cadre de poursuites criminelles intentées contre lui par la suite sauf en ce qui concerne une poursuite prévue à l’article 132 ou 136 du Code criminel.
+
+
+
+
+Clause 5: New.
+
+
+
+Article 5 : Nouveau.
+
+
+
+
+Clause 6: Relevant portion of subsection 45(6):
+(6) Subsection (1) does not apply if the conspiracy, agreement or arrangement
+(a) is entered into only by companies each of which is, in respect of every one of the others, an affiliate; or
+
+
+
+Article 6 : Texte du passage visé du paragraphe 45(6)  :
+(6) Le paragraphe (1) ne s’applique pas au complot, à l’accord ou à l’arrangement :
+a) intervenu exclusivement entre des personnes morales qui sont chacune des affiliées de toutes les autres;
+
+
+
+
+Clause 7: Existing text of subsection 47(3):
+(3) This section does not apply in respect of an agreement or arrangement that is entered into or a submission that is arrived at only by companies each of which is, in respect of every one of the others, an affiliate.
+
+
+
+Article 7 : Texte du paragraphe 47(3) :
+(3) Le présent article ne s’applique pas à un accord, un arrangement ou une soumission intervenu exclusivement entre des personnes morales qui, considérées individuellement, sont des affiliées de chacune des autres personnes morales en question.
+
+
+
+
+Clause 8: Existing text of subsection 76(4):
+(4) No order may be made under subsection (2) if the person referred to in subsection (3) and the customer or other person referred to in subparagraph (1)(a)(i) or (ii) are principal and agent or mandator and mandatary, or are affiliated corporations or directors, agents, mandataries, officers or employees of
+(a) the same corporation, partnership or sole proprietorship; or
+(b) corporations, partnerships or sole proprietorships that are affiliated.
+
+
+
+Article 8 : Texte du paragraphe 76(4) :
+(4) L’ordonnance prévue au paragraphe (2) ne peut être rendue lorsque la personne visée au paragraphe (3) et le client ou la personne visés aux sous-alinéas (1)a)(i) ou (ii) ont entre eux des relations de mandant à mandataire ou sont des personnes morales affiliées ou des administrateurs, mandataires, dirigeants ou employés :
+a) soit de la même personne morale, société de personnes ou entreprise individuelle;
+b) soit de personnes morales, sociétés de personnes ou entreprises individuelles qui sont affiliées.
+
+
+
+
+Clause 9: (1) Relevant portion of subsection 77(4):
+(4) The Tribunal shall not make an order under this section where, in its opinion,
+... 
+(c) tied selling that is engaged in by a person in the business of lending money is for the purpose of better securing loans made by that person and is reasonably necessary for that purpose,
+and no order made under this section applies in respect of exclusive dealing, market restriction or tied selling between or among companies, partnerships and sole proprietorships that are affiliated.
+
+
+
+Article 9 : (1) Texte du passage visé du paragraphe 77(4) :
+(4) Le Tribunal ne rend pas l’ordonnance prévue par le présent article, lorsque, à son avis :
+[...] 
+c) les ventes liées que pratique une personne exploitant une entreprise de prêt d’argent ont pour objet de mieux garantir le remboursement des prêts qu’elle consent et sont raisonnablement nécessaires à cette fin,
+et, aucune ordonnance rendue en vertu du présent article ne s’applique en ce qui concerne l’exclusivité, la limitation du marché ou les ventes liées entre des personnes morales, des sociétés de personnes et des entreprises individuelles qui sont affiliées.
+
+
+
+
+(2) Existing text of subsection 77(5):
+(5) For the purposes of subsection (4),
+(a) one company is affiliated with another company if one of them is the subsidiary of the other or both are the subsidiaries of the same company or each of them is controlled by the same person;
+(b) if two companies are affiliated with the same company at the same time, they are deemed to be affiliated with each other;
+(c) a partnership or sole proprietorship is affiliated with another partnership, sole proprietorship or a company if both are controlled by the same person; and
+(d) a company, partnership or sole proprietorship is affiliated with another company, partnership or sole proprietorship in respect of any agreement between them whereby one party grants to the other party the right to use a trade-mark or trade-name to identify the business of the grantee, if
+(i) the business is related to the sale or distribution, pursuant to a marketing plan or system prescribed substantially by the grantor, of a multiplicity of products obtained from competing sources of supply and a multiplicity of suppliers, and
+(ii) no one product dominates the business.
+
+
+
+(2) Texte du paragraphe 77(5) :
+(5) Pour l’application du paragraphe (4) :
+a) une personne morale est affiliée à une autre personne morale si l’une d’elle est la filiale de l’autre, si toutes deux sont des filiales d’une même personne morale ou encore si chacune d’elles est contrôlée par la même personne;
+b) si deux personnes morales sont affiliées à la même personne morale au même moment, elles sont réputées être affiliées l’une à l’autre;
+c) une société de personnes ou une entreprise individuelle est affiliée à une autre société de personnes, à une autre entreprise individuelle ou à une personne morale si l’une et l’autre sont contrôlées par la même personne;
+d) une personne morale, société de personnes ou entreprise individuelle est affiliée à une autre personne morale, société de personnes ou entreprise individuelle en ce qui concerne tout accord entre elles par lequel l’une concède à l’autre le droit d’utiliser une marque ou un nom de commerce pour identifier les affaires du concessionnaire, à la condition :
+(i) que ces affaires soient liées à la vente ou la distribution, conformément à un programme ou système de commercialisation prescrit en substance par le concédant, d’une multiplicité de produits obtenus de sources d’approvisionnement qui sont en concurrence et d’une multiplicité de fournisseurs,
+(ii) qu’aucun produit ne soit primordial dans ces affaires.
+
+
+
+
+Clause 10: Existing text of subsection 90.1(7):
+(7) Subsection (1) does not apply if the agreement or arrangement is entered into, or would be entered into, only by companies each of which is, in respect of every one of the others, an affiliate.
+
+
+
+Article 10 : Texte du paragraphe 90.1(7) :
+(7) Le paragraphe (1) ne s’applique pas à l’accord ou à l’arrangement qui est intervenu ou interviendrait exclusivement entre des personnes morales qui sont chacune des affiliées de toutes les autres.
+
+
+
+
+Clause 11: (1) Existing text of the definition:
+“person” means an individual, body corporate, unincorporated syndicate, unincorporated organization, trustee, executor, administrator or other legal representative, but does not include a bare trustee;
+
+
+
+Article 11 : (1) Texte de la définition :
+« personne » Personne physique ou morale, consortium sans personnalité morale, organisation sans personnalité morale, fiduciaire, exécuteur testamentaire, administrateur du bien d’autrui ou autre représentant légal, à l’exclusion d’un fiduciaire à charge exclusive de conservation et de remise.
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+(3) Existing text of subsection 108(2):
+(2) For the purposes of this Part, except for the purposes of section 113, one corporation is not affiliated with another corporation by reason only of the fact that both corporations are controlled by Her Majesty in right of Canada or a province, as the case may be.
+
+
+
+(3) Texte du paragraphe 108(2) :
+(2) Pour l’application de la présente partie, sauf pour celle de l’article 113, une personne morale n’est pas affiliée à une autre personne morale du seul fait que ces deux personnes morales sont contrôlées par Sa Majesté du chef du Canada ou d’une province, selon le cas.
+
+
+
+
+Clause 12: Existing text of subsection 109(2):
+(2) For the purposes of this Part, the parties to a proposed acquisition of shares are the person or persons who propose to acquire the shares and the corporation the shares of which are to be acquired.
+
+
+
+Article 12 : Texte du paragraphe 109(2) :
+(2) Pour l’application de la présente partie, en ce qui concerne une acquisition proposée d’actions, les parties à la transaction sont la ou les personnes qui proposent d’acquérir ces actions de même que la personne morale dont les actions font l’objet de l’acquisition proposée.
+
+
+
+
+Clause 13: (1) Relevant portion of subsection 110(3):
+(3) Subject to sections 111 and 113, this Part applies in respect of a proposed acquisition of voting shares of a corporation that carries on an operating business or controls a corporation that carries on an operating business
+(a) if
+(i) the aggregate value of the assets in Canada, determined as of the time and in the manner that is prescribed, that are owned by the corporation or by corporations controlled by that corporation, other than assets that are shares of any of those corporations, would exceed the amount determined under subsection (7) or (8), as the case may be, or
+
+
+
+Article 13 : (1) Texte du passage visé du paragraphe 110(3) :
+(3) Sous réserve des articles 111 et 113, la présente partie s’applique à l’égard d’une acquisition proposée d’actions comportant droit de vote d’une personne morale qui exploite une entreprise en exploitation ou qui contrôle une personne morale qui exploite une telle entreprise si :
+a) d’une part :
+(i) soit la valeur totale des éléments d’actif, au Canada, qui sont la propriété de la personne morale ou de personnes morales que contrôle cette personne morale, autres que des éléments d’actif qui sont des actions de l’une quelconque de ces personnes morales, déterminée selon les modalités réglementaires de forme et de temps, dépasse la somme prévue au paragraphe (7) ou celle obtenue par application du paragraphe (8), selon le cas,
+
+
+
+
+(2) Relevant portion of subsection 110(4):
+(4) Subject to subsection (4.1) and section 113, this Part applies in respect of a proposed amalgamation of two or more corporations if one or more of those corporations carries on an operating business, or controls a corporation that carries on an operating business, where
+(a) the aggregate value of the assets in Canada, determined as of the time and in the manner that is prescribed, that would be owned by the continuing corporation that would result from the amalgamation or by corporations controlled by the continuing corporation, other than assets that are shares of any of those corporations, would exceed the amount determined under subsection (7) or (8), as the case may be; or
+
+
+
+(2) Texte du passage visé du paragraphe 110(4) :
+(4) Sous réserve du paragraphe (4.1) et de l’article 113, la présente partie s’applique à l’égard de la fusion proposée de personnes morales dans les cas où au moins une de ces personnes morales exploite une entreprise en exploitation ou contrôle une personne morale qui exploite une entreprise en exploitation, si :
+a) la valeur totale des éléments d’actif, au Canada, dont seraient propriétaires la personne morale devant résulter de la fusion ou des personnes morales qu’elle contrôle, autres que des éléments d’actif qui sont des actions de ces personnes morales, déterminée selon les modalités réglementaires de forme et de temps, dépasse la somme prévue au paragraphe (7) ou celle obtenue par application du paragraphe (8), selon le cas;
+
+
+
+
+(3) Relevant portion of subsection 110(4.1):
+(4.1) This Part does not apply in respect of a proposed amalgamation of two or more corporations if one or more of those corporations carries on an operating business or controls a corporation that carries on an operating business, unless each of at least two of the amalgamating corporations, together with its affiliates,
+
+
+
+(3) Texte du passage visé du paragraphe 110(4.1) :
+(4.1) La présente partie ne s’applique pas à l’égard de la fusion proposée de personnes morales dans les cas où au moins une de ces personnes morales exploite une entreprise en exploitation ou contrôle une personne morale qui exploite une entreprise en exploitation, sauf si chacune d’au moins deux des personnes morales visées par la fusion, avec ses affiliées :
+
+
+
+
+(4) Relevant portion of subsection 110(5):
+(5) Subject to sections 112 and 113, this Part applies in respect of a proposed combination of two or more persons to carry on business otherwise than through a corporation if one or more of those persons proposes to contribute to the combination assets that form all or part of an operating business carried on by those persons, or corporations controlled by those persons, and if
+
+
+
+(4) Texte du passage visé du paragraphe 110(5) :
+(5) Sous réserve des articles 112 et 113, la présente partie s’applique à l’égard de l’association d’intérêts proposée entre plusieurs personnes dans le but d’exercer une entreprise autrement que par l’intermédiaire d’une personne morale dans les cas où au moins une de ces personnes propose de fournir à l’association d’intérêts des éléments d’actif constituant le tout ou une partie seulement d’une entreprise en exploitation exploitée par ces personnes ou par des personnes morales que contrôlent ces personnes, et si :
+
+
+
+
+Clause 14: Relevant portion of section 111:
+111. The following classes of transactions are exempt from the application of this Part:
+... 
+(f) an acquisition of voting shares of a corporation pursuant to an agreement in writing that provides for the issuance of those shares only if the person or persons acquiring them incur expenses to carry out exploration or development activities with respect to a Canadian resource property, as defined in subsection 66(15) of the Income Tax Act, in respect of which the corporation has the right to carry out those activities where the corporation does not have any significant assets other than that property.
+
+
+
+Article 14 : Texte du passage visé de l’article 111 :
+111. Sont soustraites à l’application de la présente partie les catégories de transactions suivantes :
+[...] 
+f) l’acquisition d’actions comportant droit de vote d’une personne morale aux termes d’une entente écrite qui prévoit que l’émission des actions en question n’a lieu que dans les cas où la ou les personnes qui en font l’acquisition engagent des frais dans l’exercice d’activités d’exploration ou de développement se rapportant à un avoir minier canadien au sens du paragraphe 66(15) de la Loi de l’impôt sur le revenu à l’égard duquel la personne morale peut exercer des activités d’exploration ou de développement, dans les cas où cette personne morale n’a pas d’éléments d’actif importants autres que cet avoir.
+
+
+
+
+Clause 15: (1) Relevant portion of subsection 114(1):
+114. (1) Subject to this Part, the parties to a proposed transaction shall, before the transaction is completed, notify the Commissioner that the transaction is proposed and supply the Commissioner with the prescribed information in accordance with this Part, if
+... 
+(b) two or more corporations propose to amalgamate in the circumstances set out in subsection 110(4); or
+
+
+
+Article 15 : (1) Texte du passage visé du paragraphe 114(1) :
+114. (1) Sous réserve de la présente partie, les parties à une transaction proposée sont tenues, avant que celle-ci soit complétée, d’aviser le commissaire du fait que la transaction est proposée et de fournir à celui-ci les renseignements réglementaires conformément à la présente partie, si :
+[...] 
+b) au moins deux personnes morales se proposent de fusionner dans les circonstances visées au paragraphe 110(4);
+
+
+
+
+(2) Existing text of subsection 114(3):
+(3) If a proposed transaction is an acquisition of shares and the Commissioner receives information supplied under subsection (1) by a party to the transaction, other than the corporation whose shares are being acquired, before receiving such information from the corporation,
+(a) the Commissioner shall immediately notify the corporation that the Commissioner has received from that party the prescribed information; and
+(b) the corporation shall supply the Commissioner with the prescribed information within 10 days after being notified under paragraph (a).
+
+
+
+(2) Texte du paragraphe 114(3) :
+(3) Dans le cas où la transaction proposée est une acquisition d’actions et que le commissaire reçoit les renseignements prévus au paragraphe (1) d’une partie à la transaction, sauf la personne morale dont les actions font l’objet de l’acquisition proposée, avant de recevoir ces renseignements de la personne morale :
+a) le commissaire avise immédiatement la personne morale qu’il a reçu de cette partie les renseignements réglementaires;
+b) la personne morale produit auprès du commissaire les renseignements réglementaires dans les dix jours suivant la réception de l’avis prévu à l’alinéa a).
+
+
+
+
+Clause 16: Existing text of section 116:
+116. (1) If any of the information required under section 114 is not known or reasonably obtainable, or cannot be supplied because of the privilege that exists in respect of lawyers and notaries and their clients or because of a confidentiality requirement established by law, the person who is supplying the information may, instead of supplying the information, inform the Commissioner under oath or solemn affirmation of the matters in respect of which information has not been supplied and the reason why it has not been supplied.
+(2) If any of the information required under section 114 could not, on any reasonable basis, be considered to be relevant to an assessment by the Commissioner as to whether the proposed transaction would or would be likely to prevent or lessen competition substantially, the person who is supplying the information may, in lieu of supplying the information, inform the Commissioner under oath or solemn affirmation of the matters in respect of which information has not been supplied and why the information was not considered relevant.
+(2.1) If any of the information required under section 114 has previously been supplied to the Commissioner, the person who is supplying the information may, in lieu of supplying it, inform the Commissioner under oath or solemn affirmation of the matters in respect of which information has previously been supplied and when it was supplied.
+(3) Where a person chooses not to supply the Commissioner with information required under section 114 and so informs the Commissioner in accordance with subsection (2) or (2.1) and the Commissioner or a person authorized by the Commissioner notifies that person, within seven days after the Commissioner is so informed, that the information is required, the person shall supply the Commissioner with the information.
+
+
+
+Article 16 : Texte de l’article 116 :
+116. (1) Dans les cas où l’un ou l’autre des renseignements exigés en vertu de l’article 114 n’est pas connu, ne peut pas être obtenu raisonnablement ou ne peut pas être fourni en raison du secret professionnel de l’avocat ou du notaire et de son client ou d’une norme de confidentialité établie par le droit, la personne qui fournit les renseignements peut, au lieu de fournir les renseignements en question, faire connaître au commissaire, sous serment ou affirmation solennelle, les questions au sujet desquelles des renseignements n’ont pas été fournis ainsi que les motifs pour lesquels ils ne l’ont pas été.
+(2) Dans les cas où l’un ou l’autre des renseignements exigés en vertu de l’article 114 ne pouvaient, en toute raison, être jugés pertinents aux fins de l’examen que fait le commissaire de la question de savoir si la transaction proposée empêcherait ou diminuerait sensiblement la concurrence ou aurait vraisemblablement cet effet, la personne qui fournit les renseignements peut, au lieu de fournir les renseignements en question, aviser le commissaire, sous serment ou affirmation solennelle, des questions au sujet desquelles des renseignements n’ont pas été fournis ainsi que des motifs pour lesquels ils n’ont pas été considérés pertinents.
+(2.1) La personne qui a fourni antérieurement au commissaire des renseignements exigés par l’article 114 peut, au lieu de les fournir, informer celui-ci de ce fait, sous serment ou sur affirmation solennelle, en lui indiquant l’objet de ces renseignements et la date à laquelle ils ont été fournis.
+(3) La personne qui choisit de ne pas fournir au commissaire les renseignements prévus à l’article 114 et qui l’informe de ce fait en conformité avec les paragraphes (2) ou (2.1) est tenue de le faire si le commissaire ou son délégué exige les renseignements dans les sept jours suivant la date à laquelle il est informé de ce choix.
+
+
+
+
+Clause 17: Existing text of subsection 117(1):
+117. (1) Nothing in section 114 requires any person who is a director of a corporation to supply information that is known to that person by virtue only of his position as a director of an affiliate of the corporation that is neither a wholly-owned affiliate nor a wholly-owning affiliate of the corporation.
+
+
+
+Article 17 : Texte du paragraphe 117(1) :
+117. (1) L’article 114 n’a pas pour effet d’imposer à une personne qui est administrateur d’une personne morale l’obligation de fournir des renseignements qui sont parvenus à la connaissance de cette personne uniquement en raison de son poste d’administrateur d’une affiliée de la personne morale en question, à condition que cette affiliée ne soit pas une affiliée en propriété exclusive ou une affiliée-propriétaire exclusive de cette personne morale.
+
+
+
+
+Clause 18: Existing text of section 118:
+118. The information supplied to the Commissioner under section 114 shall be certified on oath or solemn affirmation
+(a) in the case of a corporation supplying the information, by an officer thereof or other person duly authorized by the board of directors or other governing body of the corporation, or
+(b) in the case of any other person supplying the information, by that person,
+as having been examined by that person and as being, to the best of his knowledge and belief, correct and complete in all material respects.
+
+
+
+Article 18 : Texte de l’article 118 :
+118. Les renseignements fournis au commissaire en vertu de l’article 114 sont attestés sous serment ou affirmation solennelle :
+a) dans le cas d’une personne morale fournissant ces renseignements, par un de ses dirigeants ou par une autre personne dûment autorisé par le conseil d’administration ou tout autre bureau de direction de la personne morale;
+b) dans le cas de toute autre personne fournissant ces renseignements, par la personne elle-même,
+comme ayant été examinés par cette personne et comme étant, au meilleur de sa connaissance, exacts et complets sur toute question pertinente.
+
+
+
+
+Clause 19: Existing text of subsections 123(2) and (3):
+(2) A proposed transaction referred to in section 114 may be completed before the end of a period referred to in subsection (1) if, before the end of that period, the Commissioner or a person authorized by the Commissioner notifies the persons who are required to give notice and supply information that the Commissioner does not, at that time, intend to make an application under section 92 in respect of the proposed transaction.
+(3) In the case of an acquisition of voting shares to which subsection 114(3) applies, the periods referred to in subsection (1) shall be determined without reference to the day on which the information required under section 114 is received by the Commissioner from the corporation whose shares are being acquired.
+
+
+
+Article 19 : Texte des paragraphes 123(2) et (3) :
+(2) La transaction proposée visée à l’article 114 peut être complétée avant l’expiration d’un délai prévu au paragraphe (1) dans les cas où le commissaire ou son délégué, avant l’expiration du délai, avise les personnes qui doivent donner un avis et fournir des renseignements qu’il n’envisage pas, pour le moment, de présenter une demande en vertu de l’article 92 à l’égard de la transaction proposée.
+(3) Dans le cas d’une acquisition d’actions comportant droit de vote à laquelle le paragraphe 114(3) s’applique, les délais prévus au paragraphe (1) sont fixés compte non tenu de la date à laquelle le commissaire reçoit les renseignements exigés en vertu de l’article 114 de la personne morale dont les actions font l’objet de l’acquisition.
+
+
+
+
+Clause 20: New.
+
+
+
+Article 20 : Nouveau.
+
+
+
+

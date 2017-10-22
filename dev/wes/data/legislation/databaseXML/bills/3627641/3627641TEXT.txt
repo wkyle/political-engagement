@@ -1,0 +1,1119 @@
+
+
+
+
+
+C-265
+
+
+
+
+
+C-265
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-265
+
+
+
+
+
+PROJET DE LOI C-265
+
+
+
+
+
+
+An Act to amend the Pension Benefits Stand­ards Act, 1985 (protection of  assets)
+
+
+
+
+
+Loi  modifiant la Loi de 1985 sur les normes de prestation de pension (protection de l’actif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, January 27, 2009
+
+première lecture le 27 janvier 2009
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Martin (Winnipeg Centre)
+
+401057
+
+
+
+M. Martin (Winnipeg-Centre)
+
+
+
+
+
+SUMMARY
+This enactment improves the protection of the assets of pension plan members and beneficiaries by
+(a) ensuring that members have substantial representation on boards of trustees, pension committees and pension councils;
+(b) providing that not more than 10% of the total value of the assets of a pension plan may be held in securities issued by the employer or by a corporation associated with the employer (the limit is currently in the regulations);
+(c) preventing pension plan administrators and beneficiaries from being restricted in the sale of the employer’s securities unless the directors and officers of the employer are similarly restricted, and in any event for not more than a year; and 
+(d) requiring that information that affects or is likely to affect the value of securities be provided to pension plan administrators and to persons with the power to trade in those securities at the same time as it is provided to anyone other than the directors, officers, management and advisors of the employer.
+
+
+
+SOMMAIRE
+Le texte vise à améliorer la protection de l’actif des participants et des bénéficiaires d’un régime de pension au moyen des mesures suivantes :
+a) une forte représentation des participants au sein des organes de gestion, des comités des pensions et des conseils des pensions;
+b) l’imposition d’une restriction selon laquelle les titres émis par l'employeur ou par une société qui lui est associée ne peuvent excéder 10 % de la valeur totale de l'actif du régime, cette limite étant présentement prévue par règlement;
+c) l’interdiction d’imposer des restrictions aux administrateurs et bénéficiaires des régimes relativement à la vente des titres de l’employeur, à moins que les administrateurs et dirigeants de celui-ci ne soient soumis aux mêmes restrictions, qui ne peuvent en tout état de cause s’appliquer pendant plus d’un an;
+d) l’obligation de fournir, aux administrateurs des régimes et aux personnes habilitées à négocier ces titres, les renseignements qui ont ou sont susceptibles d’avoir une incidence sur la valeur des titres en même temps qu’ils sont communiqués à toute personne autre qu’un administrateur, un dirigeant, un gestionnaire ou un conseiller de l’employeur.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-265
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-265
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Pension Benefits Stand­ards Act, 1985 (protection of  assets)
+
+
+
+
+
+
+Whereas it is necessary to ensure that a pension plan is managed in a way that ensures sufficient independence from the employer who establishes it and adequate protection and security for the employees’ interests;
+
+
+
+
+
+
+
+Whereas employees’ interests in a pension plan must be protected by a statutory limitation on the proportion of the assets of a pension fund that may be invested in or lent to the employer;
+
+
+
+
+
+
+
+And whereas employees who purchase securities of the employer as a part of a defined contribution plan should have the same right to sell or trade in those securities as the directors and officers of the employer and should have timely access to information that might affect the securities;
+
+
+
+
+
+
+
+
+
+
+Loi  modifiant la Loi de 1985 sur les normes de prestation de pension (protection de l’actif)
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que des mesures s’imposent pour assurer dans la gestion des régimes de pension une indépendance suffisante par rapport à l’employeur qui les a établis et pour protéger adéquatement les intérêts des employés;
+
+
+
+
+
+
+
+
+que la protection des intérêts des employés dans leur régime de pension exige l’imposition d’une limite, spécifiée dans la loi, sur la proportion de l’actif du fonds de pension pouvant être investie dans les titres de l’employeur ou lui être prêtée;
+
+
+
+
+
+
+
+
+que les employés qui achètent des titres de l’employeur dans le cadre d’un régime à cotisations déterminées devraient bénéficier des mêmes droits pour leur vente ou leur négociation que les administrateurs et les dirigeants de l’employeur et devraient avoir accès aux moments opportuns aux renseignements pouvant avoir une incidence sur ces titres,
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 32
+(2nd Supp.)
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+L.R., ch. 32
+(2e suppl.)
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 7 of the Pension Benefits Stand- ards Act, 1985 is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+1. L’article 7 de la Loi de 1985 sur les normes de prestation de pension est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Representation of members on board of trustees
+
+
+
+(3) Where a board of trustees or other similar body is constituted,
+
+
+
+
+
+
+
+
+
+
+(a) a minimum of one third of its number must be members or other persons nominated by the members to represent their interests; and 
+
+
+
+
+
+
+
+
+(b) the members or other persons nominated under paragraph (a) must, if a majority of the retired members so requests, include one retired member.
+
+
+
+
+
+
+
+
+
+
+(3) Lorsqu’un organe de gestion est constitué :
+
+
+
+Représentation des participants au sein de l’organe de gestion
+
+
+
+
+
+a) au moins un tiers de ses membres doivent être des participants ou des personnes nommées par ceux-ci pour représenter leurs intérêts;
+
+
+
+
+
+
+
+
+b) à la demande de la majorité des participants retraités, les participants ou personnes visés à l’alinéa a) doivent compter un participant retraité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Directors or officers
+
+
+
+(4) A person nominated to serve on a board of trustees or other similar body under subsection (3) must not be a director or officer of the employer.
+
+
+
+
+
+
+
+
+
+
+(4) Aucun administrateur ou dirigeant de l’employeur ne peut être nommé membre d’un organe de gestion aux termes du paragraphe (3).
+
+
+
+Administrateurs et dirigeants
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 7.1 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. L’article 7.1 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+Representation of members on pension committee
+
+
+
+7.1 (1) Where a pension committee is constituted,
+
+
+
+
+
+
+
+
+(a) a minimum of one third of its number must be members or other persons nominated by the members to represent their interests; and
+
+
+
+
+
+
+
+
+(b) the members or other persons nominated under paragraph (a) must, if a majority of the retired members so requests, include one retired member.
+
+
+
+
+
+
+
+
+
+7.1 (1) Lorsqu’un comité des pensions est constitué :
+
+
+
+
+
+Représentation des participants au sein du comité des pensions
+
+
+
+
+
+a) au moins un tiers de ses membres doivent être des participants ou des personnes nommées par ceux-ci pour représenter leurs intérêts;
+
+
+
+
+
+
+
+
+b) à la demande de la majorité des participants retraités, les participants ou personnes visés à l’alinéa a) doivent compter un participant retraité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Directors or officers
+
+
+
+(2) A person nominated to serve on a pension committee under subsection (1) must not be a director or officer of the employer.
+
+
+
+
+
+
+
+
+
+
+(2) Aucun administrateur ou dirigeant de l’employeur ne peut être nommé membre d’un comité des pensions aux termes du paragraphe (1).
+
+
+
+Administrateurs et dirigeants
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsection 7.2(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 7.2(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+Representation of members on pension council
+
+
+
+(2) Where a pension council is established,
+
+
+
+
+
+
+
+
+(a) a minimum of one third of its number must be members or other persons nominated by the members to represent their interests; and
+
+
+
+
+
+
+
+
+
+(b) the members or other persons nominated under paragraph (a) must, if a majority of the retired members so requests, include one retired member.
+
+
+
+
+
+
+
+
+
+
+(2) Lorsqu’un conseil des pensions est constitué :
+
+
+
+Représentation des participants au sein du conseil des pensions
+
+
+
+
+
+a) au moins un tiers de ses membres doivent être des participants ou des personnes nommées par ceux-ci pour représenter leurs intérêts; 
+
+
+
+
+
+
+
+
+b) à la demande de la majorité des participants retraités, les participants ou personnes visés à l’alinéa a) doivent compter un participant retraité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Directors or officers
+
+
+
+(2.1) A person nominated to serve on a pension council under subsection (2) must not be a director or officer of the employer.
+
+
+
+
+
+
+
+
+
+(2.1)  Aucun administrateur ou dirigeant de l’employeur ne peut être nommé membre d’un conseil des pensions aux termes du paragraphe (2).
+
+
+
+Administrateurs et dirigeants
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 8 of the Act is amended by adding the following after subsection (4.1):
+
+
+
+
+
+
+
+
+
+4. L’article 8 de la même loi est modifié par adjonction, après le paragraphe (4.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation on assets held in securities
+
+
+
+(4.2) A defined benefit plan shall not hold its assets in securities issued by the employer or by any corporation associated with the employer within the meaning of section 256 of the Income Tax Act in a proportion that exceeds ten per cent of the total value of the assets of the plan.
+
+
+
+
+
+
+
+
+
+
+(4.2) L’actif d’un régime à prestations déterminées ne peut être constitué de titres émis par l’employeur ou par une société qui lui est associée, au sens de l’article 256 de la Loi de l’impôt sur le revenu, dans une proportion de plus de dix pour cent de sa valeur totale.
+
+
+
+
+Limite applicable
+aux titres
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Act is amended by adding the following after section 8:
+
+
+
+
+
+
+
+
+
+
+5. La même loi est modifiée par adjonction, après l’article 8, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+
+
+
+8.1 (1) If an employer provides to any person other than a director or officer of the employer information that affects or is likely to affect the value of its securities, it must at the same time provide the information to the administrator of any defined benefit plan it has established and to any person with the power to trade in the securities of a defined contribution plan it has established.
+
+
+
+
+
+
+
+
+
+
+8.1 (1)   L’employeur qui fournit à toute personne autre qu’un de ses administrateurs ou dirigeants des renseignements qui ont ou sont susceptibles d’avoir une incidence sur la valeur de ses titres doit en même temps fournir ces renseignements à l’administrateur du régime à prestations déterminées qu’il a établi et à toute personne habilitée à négocier les titres détenus par le régime à cotisations déterminées qu’il a établi.
+
+
+
+
+Renseignements
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2) Subsection (1) does not apply to information provided in confidence to
+
+
+
+
+
+
+
+
+(a) a director, officer or manager of the employer in the course of business, or 
+
+
+
+
+
+
+
+
+(b) a person who provides confidential legal, financial or technical advice to the employer,
+
+
+
+
+
+
+
+
+
+
+in order to assist the director, officer, manager or person to discharge duties for or provide advice to the employer.
+
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas aux renseignements qui sont fournis à titre confidentiel à l’une des personnes suivantes pour l’aider à exercer ses fonctions pour le compte de l’employeur ou à donner des conseils à celui-ci :
+
+
+
+
+
+Exception
+
+
+
+
+a) un administrateur, un dirigeant ou un gestionnaire de l’employeur qui agit à titre officiel; 
+
+
+
+
+
+
+
+
+
+
+b) une personne qui donne à l’employeur des conseils juridiques, financiers ou techniques de nature confidentielle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Section 9 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+
+6. L’article 9 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Restriction on trading
+
+
+
+
+(1.1) A restriction on the power of the administrator of a defined benefit plan or the beneficiaries of a defined contribution plan to sell securities of the employer held under the plan is void unless it
+
+
+
+
+
+
+
+
+
+
+(a) prevents the sale of securities for a period of not more than twelve months after their purchase; and 
+
+
+
+
+
+
+
+
+(b) applies equally at all times to all the directors and officers of the employer.
+
+
+
+
+
+
+
+
+
+
+(1.1) Toute restriction limitant le pouvoir de l’administrateur d’un régime à prestations déterminées ou des bénéficiaires d’un régime à cotisations déterminées de vendre des titres de l’employeur détenus dans le cadre du régime est nulle, sauf si :
+
+
+
+
+
+Restrictions 
+sur les transactions
+
+
+
+
+a) d’une part, elle empêche la vente des titres pour une période maximale de douze mois suivant leur achat; 
+
+
+
+
+
+
+
+
+b) d’autre part, elle s’applique également, en tout temps, à tous les administrateurs et dirigeants de l’employeur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not
+dependent on employer contribution
+
+
+
+
+(1.2) For greater certainty, subsection (1.1) applies whether or not the employer contributes to the employee’s purchase of securities through a pension plan.
+
+
+
+
+
+
+
+
+
+
+(1.2) Il est entendu que le paragraphe (1.1) s’applique indépendamment du fait que l’employeur contribue à l’achat de titres par l’employé par l’entremise d’un régime de pension.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

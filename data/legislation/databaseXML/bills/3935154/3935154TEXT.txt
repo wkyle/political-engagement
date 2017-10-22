@@ -1,0 +1,2074 @@
+
+
+
+
+
+
+C-35
+
+
+
+
+
+C-35
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-35
+
+
+
+
+
+PROJET DE LOI C-35
+
+
+
+
+
+
+An Act to deter terrorism, and to amend the State Immunity Act
+
+
+
+
+
+Loi visant à décourager le terrorisme et modifiant la Loi sur l’immunité des États
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 2, 2009
+
+
+
+
+
+première lecture le 2 juin 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF PUBLIC SAFETY
+
+90515
+
+
+
+MINISTRE DE LA SÉCURITÉ PUBLIQUE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment creates, in order to deter terrorism, a cause of action that allows victims of terrorism to sue perpetrators of terrorism and their supporters. The enactment also amends the State Immunity Act to prevent a foreign state from claiming immunity from the jurisdiction of Canadian courts in respect of actions that relate to its support of terrorism.
+
+
+
+SOMMAIRE
+Le texte établit, en vue de décourager le terrorisme, une cause d’action permettant aux victimes d’actes de terrorisme d’engager des poursuites contre leurs auteurs et ceux qui les soutiennent. Il modifie également la Loi sur l’immunité des États afin d’empêcher un État étranger d’invoquer, devant les tribunaux canadiens, l’immunité de juridiction dans les actions judiciaires portant sur son soutien du terrorisme.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-35
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to deter terrorism, and to amend the State Immunity Act
+
+
+
+
+
+
+
+
+
+Loi visant à décourager le terrorisme et modifiant la Loi sur l’immunité des États
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas Canadians and people everywhere are entitled to live their lives in peace, freedom and security;
+
+
+
+
+
+
+
+
+
+
+Whereas Parliament recognizes that terrorism is a matter of national concern that affects the security of the nation and considers it a priority to deter and prevent acts of terrorism against Canada and Canadians;
+
+
+
+
+
+
+
+
+
+
+Whereas acts of terrorism threaten Canada’s political institutions, the stability of the economy and the general welfare of the nation;
+
+
+
+
+
+
+
+
+
+
+Whereas the challenge of eradicating terrorism, with its sophisticated and trans-border nature, requires enhanced international cooperation and a strengthening of Canada’s capacity to suppress and incapacitate acts of terrorism;
+
+
+
+
+
+
+
+
+
+
+Whereas United Nations Security Council Resolution 1373 (2001) reaffirms that acts of international terrorism constitute a threat to international peace and security, and reaffirms the need to combat by all means, in accordance with the Charter of the United Nations, threats to international peace and security caused by acts of terrorism;
+
+
+
+
+
+
+
+
+
+
+Whereas Canada ratified the 1999 International Convention for the Suppression of the Financing of Terrorism on February 15, 2002;
+
+
+
+
+
+
+
+
+
+
+Whereas hundreds of Canadians have been murdered or injured in terrorist attacks;
+
+
+
+
+
+
+
+
+
+
+Whereas terrorism is dependent on financial and material support;
+
+
+
+
+
+
+
+
+
+
+Whereas certain states that support terrorism should not benefit from state immunity in this regard;
+
+
+
+
+
+
+
+
+
+
+And whereas Parliament considers that it is in the public interest to enable plaintiffs to bring lawsuits against terrorists and their supporters, which will have the effect of impairing the functioning of terrorist groups in order to deter and prevent acts of terrorism against Canada and Canadians;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que les Canadiens et les citoyens des autres pays ont droit à la paix, à la liberté et à la sécurité;
+
+
+
+
+
+
+
+
+
+
+que le Parlement reconnaît que le terrorisme est une question d’intérêt national qui touche la sécurité de la nation et considère comme une priorité le fait de prévenir et de décourager les actes de terrorisme contre le Canada et les Canadiens;
+
+
+
+
+
+
+
+
+
+
+que les actes de terrorisme menacent les institutions politiques du Canada, la stabilité de son économie et le bien-être de la nation;
+
+
+
+
+
+
+
+
+
+
+que le terrorisme déborde les frontières et dispose de moyens perfectionnés, de sorte que son éradication pose un défi et suppose une collaboration accrue entre les États et l’accroissement de la capacité du Canada de réprimer et de désamorcer les actes de terrorisme;
+
+
+
+
+
+
+
+
+
+
+que la résolution 1373 (2001) du Conseil de sécurité des Nations Unies réaffirme que les actes de terrorisme international constituent une menace à la paix et à la sécurité internationales et qu’il est nécessaire de lutter par tous les moyens, conformément à la Charte des Nations Unies, contre ces menaces à la paix et à la sécurité internationales que font peser les actes de terrorisme;
+
+
+
+
+
+
+
+
+
+
+que, le 15 février 2002, le Canada a ratifié la Convention internationale pour la répression du financement du terrorisme de 1999;
+
+
+
+
+
+
+
+
+
+
+que des centaines de Canadiens ont été tués ou blessés lors d’attaques terroristes;
+
+
+
+
+
+
+
+
+
+
+que le terrorisme s’appuie sur le soutien financier et matériel qui lui est fourni;
+
+
+
+
+
+
+
+
+
+
+que certains États qui soutiennent le terrorisme ne devraient pas bénéficier de l’immunité des États à cet égard;
+
+
+
+
+
+
+
+
+
+
+que le Parlement considère qu’il est dans l’intérêt public de permettre aux demandeurs d’intenter des poursuites contre les terroristes et ceux qui les soutiennent, ce qui aura pour effet d’entraver le fonctionnement des groupes terroristes et, par conséquent, de prévenir et de décourager les actes de terrorisme contre le Canada et les Canadiens,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Justice for Victims of Terrorism Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la justice pour les victimes d’actes de terrorisme.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+2. The following definitions apply in this Act.
+
+
+
+
+“foreign state”« État étranger »
+
+
+
+“foreign state” has the same meaning as in section 2 of the State Immunity Act.
+
+
+
+
+“listed entity”« entité inscrite »
+
+
+
+“listed entity” has the same meaning as in subsection 83.01(1) of the Criminal Code.
+
+
+
+
+“person”« personne »
+
+
+
+“person” includes an organization as defined in section 2 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« entité inscrite » S’entend au sens du paragraphe 83.01(1) du Code criminel.
+
+
+
+« entité inscrite »“listed entity”
+
+
+
+
+« État étranger » S’entend au sens de l’article 2 de la Loi sur l’immunité des États.
+
+
+
+« État étranger »“foreign state”
+
+
+
+
+« personne » Sont notamment visées les organisations au sens de l’article 2 du Code criminel.
+
+
+
+« personne »“person”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PURPOSE
+
+
+
+
+
+
+
+
+
+OBJET
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+
+3. The purpose of this Act is to deter terrorism by establishing a cause of action that allows victims of terrorism to sue perpetrators of terrorism and their supporters.
+
+
+
+
+
+
+
+
+
+
+3. La présente loi a pour objet de décourager le terrorisme en établissant une cause d’action permettant aux victimes d’actes de terrorisme d’engager des poursuites contre leurs auteurs et ceux qui les soutiennent.
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAUSE OF ACTION
+
+
+
+
+
+
+
+
+
+CAUSE D’ACTION
+
+
+
+
+
+
+
+
+
+
+
+
+Action
+
+
+
+
+4. (1) Any person that has suffered loss or damage in or outside Canada on or after January 1, 1985 as a result of an act or omission that is, or had it been committed in Canada would be, punishable under Part II.1 of the Criminal Code, may, in any court of competent jurisdiction, bring an action to recover an amount equal to the loss or damage proved to have been suffered by the person and obtain any additional amount that the court may allow, from any of the following:
+
+
+
+
+
+
+
+
+
+
+(a) any listed entity or other person that committed the act or omission that resulted in the loss or damage; or
+
+
+
+
+
+
+
+
+
+
+(b) a foreign state or listed entity or other person that — for the benefit of or otherwise in relation to the listed entity referred to in paragraph (a) — committed an act or omission that is, or had it been committed in Canada would be, punishable under sections 83.02 to 83.04 or 83.18 to 83.23 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+
+4. (1) Toute personne qui, le 1er janvier 1985 ou après cette date, a subi au Canada ou à l’étranger des pertes ou des dommages par suite de tout acte ou omission qui est sanctionné par la partie II.1 du Code criminel ou le serait s’il avait été commis au Canada peut, devant tout tribunal compétent, intenter une action contre les personnes ou États étrangers ci-après en vue du recouvrement d’une somme égale au montant des pertes ou des dommages constatés ainsi que de l’attribution de toute somme supplémentaire que le tribunal peut fixer :
+
+
+
+Action
+
+
+
+
+
+a) toute entité inscrite ou autre personne ayant commis l’acte ou l’omission en cause;
+
+
+
+
+
+
+
+
+
+
+
+b) l’État étranger ou toute entité inscrite ou autre personne qui, au profit ou au regard de l’entité inscrite ayant commis l’acte ou l’omission en cause, a commis tout acte ou omission qui est sanctionné par l’un des articles 83.02 à 83.04 et 83.18 à 83.23 du Code criminel ou le serait s’il avait été commis au Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Real and substantial connection to Canada
+
+
+
+(2) A court may hear and determine the action referred to in subsection (1) only if the action has a real and substantial connection to Canada.
+
+
+
+
+
+
+
+
+
+(2) Le tribunal n’est toutefois compétent que si l’affaire a un lien réel et substantiel avec le Canada.
+
+
+
+Lien réel et substantiel avec le Canada
+
+
+
+
+
+
+
+
+
+
+Suspension of limitation or prescription period
+
+
+
+(3) A limitation or prescription period in respect of an action brought under subsection (1) does not begin before the day on which this section comes into force and is suspended during any period in which the person that suffered the loss or damage
+
+
+
+
+
+
+
+
+
+
+(a) is incapable of beginning the action because of any physical, mental or psychological condition; or
+
+
+
+
+
+
+
+
+
+
+(b) is unable to ascertain the identity of the listed entity, person or foreign state referred to in paragraph (1)(a) or (b).
+
+
+
+
+
+
+
+
+
+(3) La prescription relative à l’action intentée en vertu du paragraphe (1) ne court pas avant l’entrée en vigueur du présent article ni pendant la période où la personne qui a subi les pertes ou les dommages :
+
+
+
+Suspension de la prescription
+
+
+
+
+
+a) soit est incapable d’intenter une action en raison de son état physique, mental ou psychologique;
+
+
+
+
+
+
+
+
+
+
+
+b) soit est incapable d’établir l’identité de l’entité inscrite, de la personne ou de l’État étranger visés aux alinéas (1)a) ou b).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refusal to hear claim
+
+
+
+(4) The court may refuse to hear a claim against a foreign state under subsection (1) if the loss or damage to the plaintiff occurred in the foreign state and the plaintiff has not given the foreign state a reasonable opportunity to submit the dispute to arbitration in accordance with accepted international rules of arbitration.
+
+
+
+
+
+
+
+
+
+(4) Le tribunal peut refuser d’entendre une demande déposée à l’encontre d’un État étranger en application du paragraphe (1) si le demandeur a subi les pertes ou les dommages dans l’État étranger et qu’il n’a pas accordé à cet État la possibilité raisonnable de soumettre le différend à l’arbitrage conformément aux règles d’arbitrage internationales reconnues.
+
+
+
+Refus d’entendre la demande
+
+
+
+
+
+
+
+
+
+
+Judgments of foreign courts
+
+
+
+(5) A court of competent jurisdiction must recognize a judgment of a foreign court that, in addition to meeting the criteria under Canadian law for being recognized in Canada, is in favour of a person that has suffered loss or damage referred to in subsection (1). However, if the judgment is against a foreign state, that state must be set out on the list referred to in subsection 6.1(2) of the State Immunity Act for the judgment to be recognized.
+
+
+
+
+
+
+
+
+
+(5) Tout tribunal compétent doit reconnaître tout jugement d’un tribunal étranger qui, en plus de satisfaire aux critères applicables en droit canadien pour être reconnu au Canada, est rendu en faveur de la personne ayant subi des pertes ou des dommages visée au paragraphe (1); toutefois, si le jugement est rendu contre un État étranger, il ne le reconnaît que si l’État est inscrit sur la liste visée au paragraphe 6.1(2) de la Loi sur l’immunité des États.
+
+
+
+Jugement d’un tribunal étranger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. S-18
+
+
+
+AMENDMENTS TO THE STATE IMMUNITY ACT
+
+
+
+
+
+
+
+
+
+MODIFICATION DE LA LOI SUR L’IMMUNITÉ DES ÉTATS
+
+
+
+L.R., ch. S-18
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. The heading before section 2 of the French version of the State Immunity Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. L’intertitre précédant l’article 2 de la version française de la Loi sur l’immunité des États est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DÉFINITIONS ET INTERPRÉTATION
+
+
+
+
+
+
+
+
+
+
+
+
+DÉFINITIONS ET INTERPRÉTATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Act is amended by adding the following after section 2:
+
+
+
+
+
+
+
+
+
+
+6. La même loi est modifiée par adjonction, après l’article 2, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Meaning of supports terrorism
+
+
+
+
+
+2.1 For the purposes of this Act, a foreign state supports terrorism if it commits, for the benefit of or otherwise in relation to a listed entity as defined in subsection 83.01(1) of the Criminal Code, an act or omission that is, or had it been committed in Canada would be, punishable under sections 83.02 to 83.04 or 83.18 to 83.23 of the Criminal Code.
+
+
+
+
+
+
+
+
+
+
+
+
+2.1 Pour l’application de la présente loi, un État étranger soutient le terrorisme s’il commet, au profit ou au regard de toute entité inscrite au sens du paragraphe 83.01(1) du Code criminel, tout acte ou omission qui est sanctionné par l’un des articles 83.02 à 83.04 et 83.18 à 83.23 de cette loi ou le serait s’il avait été commis au Canada.
+
+
+
+
+Soutien du terrorisme — sens
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. The Act is amended by adding the following after section 6:
+
+
+
+
+
+
+
+
+
+
+7. La même loi est modifiée par adjonction, après l’article 6, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Support of terrorism
+
+
+
+
+
+6.1 (1) A foreign state that is set out on the list referred to in subsection (2) is not immune from the jurisdiction of a court in proceedings against it for its support of terrorism on or after January 1, 1985.
+
+
+
+
+
+
+
+
+
+
+
+
+6.1 (1) L’État étranger inscrit sur la liste visée au paragraphe (2) ne bénéficie pas de l’immunité de juridiction dans les actions intentées contre lui pour avoir soutenu le terrorisme le 1er janvier 1985 ou après cette date.
+
+
+
+
+Soutien du terrorisme
+
+
+
+
+
+
+
+
+
+
+List of foreign states
+
+
+
+
+(2) The Governor in Council may, by order, establish a list on which the Governor in Council may set out the name of a foreign state if, on the recommendation of the Minister of Foreign Affairs made after consulting with the Minister of Public Safety and Emergency Preparedness, the Governor in Council is satisfied that there are reasonable grounds to believe that the foreign state supported or supports terrorism.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le gouverneur en conseil peut, par décret, établir une liste sur laquelle il peut inscrire tout État étranger s’il est convaincu, sur la recommandation du ministre des Affaires étrangères faite après consultation du ministre de la Sécurité publique et de la Protection civile, qu’il existe des motifs raisonnables de croire que cet État soutient ou a soutenu le terrorisme.
+
+
+
+
+Liste d’États étrangers
+
+
+
+
+
+
+
+
+
+
+Application to be removed from list
+
+
+
+
+(3) On application in writing by a foreign state, the Minister of Foreign Affairs must, after consulting with the Minister of Public Safety and Emergency Preparedness, decide whether there are reasonable grounds to recommend to the Governor in Council that the applicant no longer be set out on the list.
+
+
+
+
+
+
+
+
+
+
+
+(3) Le ministre des Affaires étrangères, saisi d’une demande écrite présentée par un État étranger, décide, après consultation du ministre de la Sécurité publique et de la Protection civile, s’il existe des motifs raisonnables de recommander ou non au gouverneur en conseil de radier cet État de la liste.
+
+
+
+
+Demande de radiation
+
+
+
+
+
+
+
+
+
+
+Notice of decision to applicant
+
+
+
+
+(4) The Minister must without delay give notice to the applicant of the Minister’s decision respecting the application.
+
+
+
+
+
+
+
+
+
+
+
+(4) Il donne sans délai au demandeur un avis de la décision qu’il a rendue relativement à la demande.
+
+
+
+
+Avis de la décision au demandeur
+
+
+
+
+
+
+
+
+
+
+New application
+
+
+
+
+(5) A foreign state set out on the list may not make another application under subsection (3), unless there has been a material change in its circumstances since the foreign state made its last application or the Minister has completed the review under subsection (6).
+
+
+
+
+
+
+
+
+
+
+
+(5) L’État étranger ne peut présenter une nouvelle demande de radiation en vertu du paragraphe (3) que si sa situation a évolué d’une manière importante depuis la présentation de sa dernière demande ou que si le ministre a terminé l’examen mentionné au paragraphe (6).
+
+
+
+
+Nouvelle demande de radiation
+
+
+
+
+
+
+
+
+
+
+Review of list
+
+
+
+
+(6) Two years after the establishment of the list, and every two years after that, the Minister of Foreign Affairs must review the list in consultation with the Minister of Public Safety and Emergency Preparedness to determine whether there are still reasonable grounds, as set out in subsection (2), for a foreign state to be set out on the list and make a recommendation to the Governor in Council as to whether the foreign state should remain set out on the list. The review does not affect the validity of the list.
+
+
+
+
+
+
+
+
+
+
+
+(6) Deux ans après l’établissement de la liste et tous les deux ans par la suite, le ministre des Affaires étrangères examine celle-ci, en consultation avec le ministre de la Sécurité publique et de la Protection civile, pour savoir si les motifs visés au paragraphe (2) justifiant l’inscription d’un État étranger sur la liste existent toujours et recommande au gouverneur en conseil de radier ou non cet État de la liste. L’examen est sans effet sur la validité de la liste.
+
+
+
+
+Examen périodique de la liste
+
+
+
+
+
+
+
+
+
+
+Completion of review
+
+
+
+
+(7) The Minister must complete the review as soon as feasible, but in any case within 120 days, after its commencement. After completing the review, the Minister must without delay cause a notice to be published in the Canada Gazette that it has been completed.
+
+
+
+
+
+
+
+
+
+
+
+(7) Le ministre termine son examen dans les meilleurs délais mais au plus tard cent vingt jours après l’avoir commencé. Une fois l’examen terminé, il fait publier sans délai un avis à cet effet dans la Gazette du Canada.
+
+
+
+
+Fin de l’examen
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Subsection 11(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. Le paragraphe 11(3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+
+(3) This section does not apply either to an agency of a foreign state or to a foreign state that is set out on the list referred to in subsection 6.1(2) in respect of an action brought against that foreign state for its support of terrorism.
+
+
+
+
+
+
+
+
+
+
+
+(3) Le présent article ne s’applique pas aux organismes d’un État étranger ni à un État étranger inscrit sur la liste visée au paragraphe 6.1(2) dans le cadre de toute action intentée contre lui pour avoir soutenu le terrorisme.
+
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. (1) Paragraph 12(1)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. (1) L’alinéa 12(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the property is used or is intended to be used for a commercial activity or, if the foreign state is set out on the list referred to in subsection 6.1(2), is used or intended to be used by it to support terrorism;
+
+
+
+
+
+
+
+
+
+
+
+
+b) les biens sont utilisés ou destinés à être utilisés soit dans le cadre d’une activité commerciale, soit par l’État au soutien du terrorisme si celui-ci est inscrit sur la liste visée au paragraphe 6.1(2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 12(1) of the Act is amended by adding “or” at the end of paragraph (c) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 12(1) de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) the foreign state is set out on the list referred to in subsection 6.1(2) and the attachment or execution relates to a judgment rendered in an action brought against it for its support of terrorism and to property other than property that has cultural or historical value.
+
+
+
+
+
+
+
+
+
+
+
+
+d) la saisie ou l’exécution a trait à un bien autre qu’un bien ayant une valeur culturelle ou historique et à un jugement rendu dans le cadre d’une action intentée contre l’État pour avoir soutenu le terrorisme, si celui-ci est inscrit sur la liste visée au paragraphe 6.1(2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. The Act is amended by adding the following after section 12:
+
+
+
+
+
+
+
+
+
+
+10. La même loi est modifiée par adjonction, après l’article 12, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Assistance for judgment creditors
+
+
+
+
+
+12.1 (1) At the request of any party in whose favour a judgment is rendered against a foreign state in proceedings referred to in section 6.1, the Minister of Finance or the Minister of Foreign Affairs may, within the confines of his or her mandate, assist, to the extent that is reasonably practical, any judgment creditor in identifying and locating the following property, unless the Minister of Foreign Affairs believes that to do so would be injurious to Canada’s international relations or either Minister believes that to do so would be injurious to Canada’s other interests:
+
+
+
+
+
+
+
+
+
+
+
+
+(a) in the case of the Minister of Finance, the financial assets of the foreign state that are held within Canadian jurisdiction; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) in the case of the Minister of Foreign Affairs, the property of the foreign state that is situated in Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+12.1 (1) À la demande d’une partie ayant obtenu gain de cause à l’encontre d’un État étranger dans le cadre d’une action visée à l’article 6.1, le ministre des Finances ou le ministre des Affaires étrangères peut, dans le cadre de son mandat et dans la mesure du possible, aider le créancier bénéficiaire du jugement à identifier et localiser les biens ci-après, sauf si, de l’avis du ministre des Affaires étrangères, cela est préjudiciable aux intérêts du Canada sur le plan des relations internationales ou, de l’avis de l’un ou l’autre des ministres, cela est préjudiciable aux autres intérêts du Canada :
+
+
+
+
+Aide aux créanciers bénéficiaires du jugement
+
+
+
+
+
+
+a) s’agissant du ministre des Finances, les actifs financiers de l’État étranger ressortissant à la compétence du Canada;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) s’agissant du ministre des Affaires étrangères, les biens de l’État étranger situés au Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure of information
+
+
+
+
+(2) In exercising the power referred to in subsection (1), the Minister of Finance or the Minister of Foreign Affairs, as the case may be, may not disclose
+
+
+
+
+
+
+
+
+
+
+
+
+(a) information that was produced in or for a government institution, without the authorization of the government institution; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) information produced in circumstances other than those referred to in paragraph (a), without the authorization of the government institution that first received the information.
+
+
+
+
+
+
+
+
+
+
+
+(2) Dans le cadre de l’exercice de ce pouvoir, le ministre ne peut communiquer aucun renseignement produit par ou pour une institution fédérale sans l’autorisation de celle-ci, ni aucun renseignement qui n’a pas été ainsi produit sans l’autorisation de la première institution fédérale à l’avoir reçu.
+
+
+
+
+Communication des renseignements
+
+
+
+
+
+
+
+
+
+
+Definition of “government institution”
+
+
+
+
+(3) In subsection (2), “government institution” means any department, branch, office, board, agency, commission, corporation or other body for the administration or affairs of which a minister is accountable to Parliament.
+
+
+
+
+
+
+
+
+
+
+
+(3) Au paragraphe (2), « institution fédérale » s’entend des ministères, directions, bureaux, conseils, commissions, offices, services, personnes morales ou autres organismes dont un ministre est responsable devant le Parlement.
+
+
+
+
+Définition de « institution fédérale »
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. Subsection 13(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. Le paragraphe 13(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+
+(2) Subsection (1) does not apply either to an agency of a foreign state or to a foreign state that is set out on the list referred to in subsection 6.1(2) in respect of an action brought against that foreign state for its support of terrorism.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas aux organismes d’un État étranger ni à un État étranger inscrit sur la liste visée au paragraphe 6.1(2) dans le cadre de toute action intentée contre lui pour avoir soutenu le terrorisme.
+
+
+
+
+Exception
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+State Immunity Act
+
+Clause 5: Existing text of the heading:
+INTERPRETATION
+
+
+
+Loi sur l’immunité des États
+
+Article 5 : Texte de l’intertitre :
+DÉFINITIONS
+
+
+
+
+
+Clause 6: New.
+
+
+
+
+Article 6 : Nouveau.
+
+
+
+
+
+Clause 7: New.
+
+
+
+
+Article 7 : Nouveau.
+
+
+
+
+
+Clause 8: Existing text of subsection 11(3):
+(3) This section does not apply to an agency of a foreign state.
+
+
+
+
+Article 8 : Texte du paragraphe 11(3) :
+(3) Le présent article ne s’applique pas à un organisme d’un État étranger.
+
+
+
+
+
+Clause 9: (1) and (2) Relevant portion of subsection 12(1):
+
+12. (1) Subject to subsections (2) and (3), property of a foreign state that is located in Canada is immune from attachment and execution and, in the case of an action in rem, from arrest, detention, seizure and forfeiture except where
+. . . 
+(b) the property is used or is intended for a commercial activity; or
+
+
+
+
+Article 9 : (1) et (2) Texte du passage visé du paragraphe 12(1) :
+
+12. (1) Sous réserve des paragraphes (2) et (3), les biens de l’État étranger situés au Canada sont insaisissables et ne peuvent, dans le cadre d’une action réelle, faire l’objet de saisie, rétention, mise sous séquestre ou confiscation, sauf dans les cas suivants :
+[...]  
+
+b) les biens sont utilisés ou destinés à être utilisés dans le cadre d’une activité commerciale;
+
+
+
+
+
+Clause 10: New.
+
+
+
+
+Article 10 : Nouveau.
+
+
+
+
+
+Clause 11: Existing text of subsection 13(2):
+(2) Subsection (1) does not apply to an agency of a foreign state.
+
+
+
+
+Article 11 : Texte du paragraphe 13(2) :
+(2) Le paragraphe (1) ne s’applique pas aux organismes des États étrangers.
+
+
+
+
+
+

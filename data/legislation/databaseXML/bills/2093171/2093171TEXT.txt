@@ -1,0 +1,4210 @@
+
+
+
+
+
+
+C-73
+
+
+
+
+
+C-73
+
+
+
+
+
+
+First Session, Thirty-eighth Parliament,
+
+
+
+
+
+Première session, trente-huitième législature,
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-73
+
+
+
+
+
+PROJET DE LOI C-73
+
+
+
+
+
+
+An Act to amend the Telecommunications Act (No. 2)
+
+
+
+
+
+Loi modifiant la Loi sur les télécommunications (no 2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 14, 2005
+
+
+
+
+
+première lecture le 14 novembre 2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE MINISTER OF INDUSTRY
+
+90352
+
+
+
+LE MINISTRE DE L’INDUSTRIE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Telecommunications Act to provide the Canadian Radio-television and Telecommunications Commission with the authority to create and administer an administrative monetary penalty scheme for contraventions of its decisions or of the Act. It also streamlines existing summary conviction provisions and raises the associated penalties, and enables the Commission to share confidential information with the Commissioner of Competition.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur les télécommunications afin de permettre au Conseil de la radiodiffusion et des télécommunications canadiennes de créer et d’administrer un régime de sanctions administratives pour les cas de non-respect de ses décisions ou de contravention à la loi. En outre, il simplifie les dispositions actuelles relatives aux déclarations de culpabilité par procédure sommaire, augmente les sanctions afférentes et permet au Conseil de partager des renseignements confidentiels avec le commissaire de la concurrence.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 38th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 38e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-73
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-73
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Telecommunications Act (No. 2)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les télécommunications (no 2)
+
+
+
+
+
+
+
+
+
+
+
+
+1993, c. 38
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+1993, ch. 38
+
+
+
+
+
+
+
+
+
+
+2003, c. 22, par. 224(z.81)(E)
+
+
+
+
+1. Subsections 39(3) and (4) of the Telecommunications Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. Les paragraphes 39(3) et (4) de la Loi sur les télécommunications sont remplacés par ce qui suit :
+
+
+
+2003, ch. 22, al. 224z.81)(A)
+
+
+
+
+
+
+
+
+
+
+Persons who must not disclose information
+
+
+
+(3) Subsection (2) applies to any person referred to in the following paragraphs who comes into possession of designated information while holding the office or employment described in that paragraph, whether or not the person has ceased to hold that office or be so employed:
+
+
+
+
+
+
+
+
+
+
+(a) a member of, or person employed by, the Commission;
+
+
+
+
+
+
+
+
+
+
+
+(b) in respect of information disclosed under paragraph (4)(b), the Commissioner of Competition appointed under the Competition Act or a person whose duties involve the carrying out of that Act and who is referred to in section 25 of that Act; and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) in respect of information provided under subsection 37(3), the Minister, the Chief Statistician of Canada and a person employed in the federal public administration.
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe (2) vise les personnes ci-après qui entrent en possession, au cours de leur emploi ou de leur mandat, de renseignements désignés comme confidentiels et continue de s’appliquer à toutes ces personnes après la cessation de leurs fonctions :
+
+
+
+Interdiction de communication
+
+
+
+
+
+
+a) les employés et membres du Conseil;
+
+
+
+
+
+
+
+
+
+
+
+
+b) s’agissant des renseignements transmis au titre de l’alinéa (4)b), le commissaire de la concurrence nommé au titre de la Loi sur la concurrence de même que les personnes chargées de l’application de cette loi et visées à son article 25;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) s’agissant des renseignements transmis au titre du paragraphe 37(3), le ministre, le statisticien en chef du Canada et les agents et autres employés de l’administration publique fédérale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure of information submitted in proceedings
+
+
+
+(4) If designated information is submitted in the course of proceedings before the Commission
+
+
+
+
+
+
+
+
+
+
+
+(a) the Commission may disclose or require its disclosure if it determines, after considering any representations from interested persons, that the disclosure is in the public interest; and
+
+
+
+
+
+
+
+
+
+
+
+(b) the Commission may disclose or require its disclosure to the Commissioner of Competition if the Commission determines, after considering any representations from interested parties, that the information is relevant to competition issues being considered in the proceedings and that, despite the fact that it is not disclosed to other parties in the proceeding, its disclosure to the Commissioner is in the public interest.
+
+
+
+
+
+
+
+
+
+
+(4) Dans le cas de renseignements désignés comme confidentiels fournis dans le cadre d’une affaire dont il est saisi, le Conseil peut :
+
+
+
+Communication de renseignements
+
+
+
+
+
+
+a
+) effectuer ou exiger la communication des renseignements s’il est d’avis, après avoir pris connaissance des observations des intéressés, qu’elle est dans l’intérêt public;
+
+
+
+
+
+
+
+
+
+
+
+
+b) effectuer ou exiger la communication des renseignements au commissaire de la concurrence si le Conseil est d’avis, après avoir pris connaissance des observations des intéressés, qu’ils sont de nature à faciliter l’examen des questions de concurrence soulevées dans le cadre de l’affaire et que, même s’ils ne sont pas communiqués aux autres parties à l’affaire, la communication est dans l’intérêt public.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use of information disclosed to Commissioner of Competition
+
+
+
+
+(4.1) Neither the Commissioner of Competition nor any person whose duties involve the carrying out of the Competition Act and who is referred to in section 25 of that Act shall use information disclosed under paragraph (4)(b) other than to facilitate the Commissioner’s participation in those proceedings.
+
+
+
+
+
+
+
+
+
+
+
+(4.1) Le commissaire de la concurrence de même que les personnes chargées de l’application de la Loi sur la concurrence et visées à son article 25 ne peuvent utiliser les renseignements qui leur sont communiqués au titre de l’alinéa (4)b) à des fins autres que la participation de ce dernier à l’affaire.
+
+
+
+
+Utilisation des renseignements communiqués au commissaire de la concurrence
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after section 72:
+
+
+
+
+
+
+
+
+
+
+2. La même loi est modifiée par adjonction, après l’article 72, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Administrative Monetary Penalties
+
+
+
+
+
+
+
+
+
+
+
+Régime de sanctions administratives
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commission of violation
+
+
+
+
+
+72.1 Every contravention of a provision of this Act, other than section 17 or 69.2, and every contravention of a regulation, or a decision, made by the Commission under this Act, other than a prohibition or a requirement of the Commission under section 41, constitutes a violation and the person who commits the violation is liable
+
+
+
+
+
+
+
+
+
+
+
+
+(a) in the case of an individual, to an administrative monetary penalty not exceeding $25,000 and, for each subsequent contravention of the same provision of this Act or the same regulation or decision, not exceeding $50,000; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) in the case of a corporation, to an administrative monetary penalty not exceeding $10,000,000 and, for each subsequent contravention of the same provision of this Act or the same regulation or decision, not exceeding $15,000,000.
+
+
+
+
+
+
+
+
+
+
+
+
+72.1 Toute contravention à une disposition de la présente loi — autre que les articles 17 ou 69.2 — ou à une décision ou un règlement pris par le Conseil sous son régime — à l’exception d’une mesure prise au titre de l’article 41 — constitue une violation exposant son auteur à une pénalité dont le montant maximal est :
+
+
+
+
+Violation
+
+
+
+
+
+
+a) dans le cas d’une personne physique, de vingt-cinq mille dollars pour une première contravention ou de cinquante mille dollars pour chaque contravention subséquente au même texte;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas d’une personne morale, de dix millions de dollars pour une première contravention ou de quinze millions de dollars pour chaque contravention subséquente au même texte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Criteria for penalty
+
+
+
+
+
+72.2 (1) The amount of the penalty is to be determined taking into account the following matters:
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the nature of the violation;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the frequency and duration of the conduct constituting the violation;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the history of compliance with this Act by the person who committed the violation;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) the financial position of the person who committed the violation;
+
+
+
+
+
+
+
+
+
+
+
+
+(e) the question of whether any compensation has been made voluntarily to any affected party; and
+
+
+
+
+
+
+
+
+
+
+
+
+(f) any other relevant factor.
+
+
+
+
+
+
+
+
+
+
+
+
+72.2 (1) Pour la détermination du montant de la pénalité, il est tenu compte des éléments suivants :
+
+
+
+
+Détermination du montant de la pénalité
+
+
+
+
+
+
+a) la nature de la violation;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) la fréquence et la durée de la conduite constituant la violation;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) le comportement antérieur, dans le cadre de la présente loi, de l’auteur de la violation;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) la situation financière de l’auteur de la violation;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) la question de savoir si une somme a été versée volontairement, à titre de dédommagement, à toute partie touchée;
+
+
+
+
+
+
+
+
+
+
+
+
+
+f) toute autre circonstance pertinente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose of penalty
+
+
+
+
+(2) The purpose of the penalty is to promote compliance with this Act and not to punish.
+
+
+
+
+
+
+
+
+
+
+
+(2) L’imposition de la pénalité vise non pas à punir, mais plutôt à favoriser l’observation de la présente loi.
+
+
+
+
+But de la pénalité
+
+
+
+
+
+
+
+
+
+
+Vicarious liability — acts of employees, agents and mandataries
+
+
+
+
+
+72.3 A person is liable for a violation that is committed by an employee of the person acting in the course of the employee’s employment, or by an agent or mandatary of the person acting within the scope of the agent’s or mandatary’s authority, whether or not the employee, agent or mandatary who actually committed the violation is identified or proceeded against in accordance with this Act.
+
+
+
+
+
+
+
+
+
+
+
+
+72.3 L’employeur ou le mandant est responsable de la violation commise par son employé ou son mandataire dans le cadre de son emploi ou du mandat, selon le cas, que l’auteur de la violation soit ou non connu ou poursuivi au titre de la présente loi.
+
+
+
+
+Responsabilité indirecte : employeurs et mandants
+
+
+
+
+
+
+
+
+
+
+Continuing violation
+
+
+
+
+
+72.4 A violation that is continued on more than one day constitutes a separate violation in respect of each day during which it is continued.
+
+
+
+
+
+
+
+
+
+
+
+
+72.4 Il est compté une violation distincte pour chacun des jours au cours desquels se continue une violation.
+
+
+
+
+Violation continue
+
+
+
+
+
+
+
+
+
+
+Issuance and service
+
+
+
+
+
+72.5 (1) If the Commission believes on reasonable grounds that a person has committed a violation, the Commission may issue, and shall cause to be served on the person, a notice of violation.
+
+
+
+
+
+
+
+
+
+
+
+
+72.5 (1) Dans le cas où le Conseil a des motifs raisonnables de croire qu’une violation a été commise, il peut dresser un procès-verbal qu’il fait signifier à l’auteur présumé de celle-ci.
+
+
+
+
+Procès-verbal
+
+
+
+
+
+
+
+
+
+
+Contents of notice
+
+
+
+
+(2) The notice of violation must name the person believed to have committed a violation, identify the violation and include
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the penalty that the Commission proposes to impose for the violation;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) a statement as to the right of the person, within 30 days after the day on which the notice is served, or within any longer period that the Commission specifies, to pay the proposed penalty or to make representations to the Commission with respect to the violation and the proposed penalty, and the manner for doing so; and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) a statement indicating that, if the person does not pay the proposed penalty or make representations in accordance with the notice, the person will be deemed to have committed the violation and the Commission may impose that penalty.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le procès-verbal mentionne, outre le nom de l’auteur présumé et les faits reprochés :
+
+
+
+
+Contenu du procès-verbal
+
+
+
+
+
+
+a) la pénalité que le Conseil prévoit imposer pour la violation;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) la faculté qu’a l’auteur présumé soit de payer la pénalité prévue, soit de présenter au Conseil des observations relativement à la violation et à la pénalité, et ce dans les trente jours suivant la signification du procès-verbal — ou dans le délai plus long que peut préciser le Conseil —, ainsi que les modalités d’exercice de cette faculté;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) le fait que le non-exercice de cette faculté dans le délai imparti vaut aveu de responsabilité et permet au Conseil d’imposer la pénalité prévue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payment
+
+
+
+
+
+72.6 (1) If a person who is served with a notice of violation pays the penalty proposed in the notice, the person is deemed to have committed the violation and proceedings in respect of it are ended.
+
+
+
+
+
+
+
+
+
+
+
+
+72.6 (1) Le paiement de la pénalité prévue au procès-verbal vaut aveu de responsabilité à l’égard de la violation et met fin à la procédure.
+
+
+
+
+Paiement
+
+
+
+
+
+
+
+
+
+
+Representations to Commission
+
+
+
+
+(2) If a person who is served with a notice of violation makes representations in accordance with the notice, the Commission shall decide, on a balance of probabilities, after considering any other representations that it considers appropriate, whether the person committed the violation and, if it so decides, it may impose the penalty proposed in the notice, a lesser penalty or no penalty.
+
+
+
+
+
+
+
+
+
+
+
+(2) Si des observations sont présentées dans le délai imparti par la personne à qui un procès-verbal est signifié, le Conseil détermine la responsabilité de cette personne selon la prépondérance des probabilités, et ce après avoir examiné toutes autres observations qu’il estime appropriées. Le cas échéant, il peut imposer la pénalité prévue, une pénalité réduite, ou encore n’imposer aucune pénalité.
+
+
+
+
+Présentation d’observations
+
+
+
+
+
+
+
+
+
+
+Failure to pay or make representations
+
+
+
+
+(3) If a person who is served with a notice of violation neither pays the proposed penalty nor makes representations in accordance with the notice, the person is deemed to have committed the violation and the Commission may impose that penalty.
+
+
+
+
+
+
+
+
+
+
+
+(3) Le non-exercice de la faculté mentionnée au procès-verbal dans le délai imparti vaut aveu de responsabilité et permet au Conseil d’imposer la pénalité prévue.
+
+
+
+
+Défaut de payer ou de faire des observations
+
+
+
+
+
+
+
+
+
+
+Copy of decision and notice of rights
+
+
+
+
+(4) The Commission shall cause a copy of any decision made under subsection (2) or (3) to be issued and served on the person together with a notice of the person’s right to apply for a review under section 62 and to appeal under section 64.
+
+
+
+
+
+
+
+
+
+
+
+(4) Le Conseil fait signifier à l’intéressé copie de la décision prise au titre des paragraphes (2) ou (3) et l’avise par la même occasion de son droit de présenter une demande de révision en vertu de l’article 62 ou d’interjeter appel en vertu de l’article 64.
+
+
+
+
+Avis de décision et des droits de l’intéressé
+
+
+
+
+
+
+
+
+
+
+Defence
+
+
+
+
+
+72.7 (1) It is a defence for a person in a proceeding in relation to a violation to establish that the person exercised due diligence to prevent the violation.
+
+
+
+
+
+
+
+
+
+
+
+
+72.7 (1) L’auteur de la violation peut invoquer en défense dans le cadre de toute procédure en violation qu’il a pris les précautions voulues.
+
+
+
+
+Moyens de défense
+
+
+
+
+
+
+
+
+
+
+Common law principles
+
+
+
+
+(2) Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under a relevant provision of this Act applies in respect of a violation to the extent that the rule or principle is not inconsistent with this Act.
+
+
+
+
+
+
+
+
+
+
+
+(2) Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à une disposition pertinente de la présente loi s’appliquent à l’égard d’une violation, sauf dans la mesure où ils sont incompatibles avec la présente loi.
+
+
+
+
+Principes de la common law
+
+
+
+
+
+
+
+
+
+
+Evidence
+
+
+
+
+
+72.8 In a proceeding in respect of a violation, a notice purporting to be served under subsection 72.5(1) or a copy of a decision purporting to be served under subsection 72.6(4) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
+
+
+
+
+
+
+
+
+
+
+
+
+72.8 Dans toute procédure en violation, le procès-verbal apparemment signifié au titre du paragraphe 72.5(1) ou la copie de la décision apparemment signifiée au titre du paragraphe 72.6(4) sont admissibles en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+
+
+
+Admissibilité en preuve
+
+
+
+
+
+
+
+
+
+
+Time limit
+
+
+
+
+
+72.9 (1) No proceedings in respect of a violation may be commenced later than two years after the day on which the subject-matter of the proceedings became known to the Commission.
+
+
+
+
+
+
+
+
+
+
+
+
+72.9 (1) Les procédures en violation se prescrivent par deux ans à compter de la date où le Conseil a eu connaissance des éléments constitutifs de la violation.
+
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Certificate of secretary to the Commission
+
+
+
+
+(2) A document appearing to have been issued by the secretary to the Commission, certifying the day on which the subject-matter of any proceedings became known to the Commission, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
+
+
+
+
+
+
+
+
+
+
+
+(2) Tout document apparemment délivré par le secrétaire du Conseil et attestant la date où ces éléments sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+
+
+
+Certificat du secrétaire du Conseil
+
+
+
+
+
+
+
+
+
+
+Debt to Her Majesty
+
+
+
+
+
+72.91 (1) An administrative monetary penalty constitutes a debt due to Her Majesty in right of Canada that may be recovered as such in the Federal Court.
+
+
+
+
+
+
+
+
+
+
+
+
+72.91 (1) La pénalité constitue une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale.
+
+
+
+
+Créance de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+Time limit
+
+
+
+
+(2) No proceedings to recover such a debt may be commenced later than five years after the day on which the debt became payable.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
+
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Proceeds payable to Receiver General
+
+
+
+
+(3) An administrative monetary penalty paid or recovered in relation to a violation is payable to and shall be remitted to the Receiver General.
+
+
+
+
+
+
+
+
+
+
+
+(3) Toute pénalité perçue au titre d’une violation est versée au receveur général.
+
+
+
+
+Receveur général
+
+
+
+
+
+
+
+
+
+
+Certificate of default
+
+
+
+
+(4) The Commission may issue a certificate certifying the unpaid amount of any debt referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+
+
+(4) Le Conseil peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe (1).
+
+
+
+
+Certificat de non-paiement
+
+
+
+
+
+
+
+
+
+
+Registration in Federal Court
+
+
+
+
+(5) When registered in the Federal Court, the certificate has the same effect as if it were a judgment of that Court for a debt of the amount specified in the certificate and all related registration costs.
+
+
+
+
+
+
+
+
+
+
+
+(5) L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+
+
+
+
+Enregistrement à la Cour fédérale
+
+
+
+
+
+
+
+
+
+
+How act or omission may be proceeded with
+
+
+
+
+
+72.92 If a contravention of this Act or of any regulation, or decision, made by the Commission under this Act can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
+
+
+
+
+
+
+
+
+
+
+
+
+72.92 S’agissant d’une contravention à la présente loi ou aux décisions ou règlements du Conseil pris sous son régime et qui est qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+
+
+
+Exclusion
+
+
+
+
+
+
+
+
+
+
+Section 12 does not apply
+
+
+
+
+
+72.93 Section 12 does not apply in respect of any decision of the Commission made under subsection 72.6(2) or (3).
+
+
+
+
+
+
+
+
+
+
+
+
+72.93 L’article 12 ne s’applique pas aux décisions du Conseil rendues au titre des paragraphes 72.6(2) ou (3).
+
+
+
+
+Non-application de l’article 12
+
+
+
+
+
+
+
+
+
+
+1998, c. 8, ss. 9(1) to (3)
+
+
+
+
+3. Subsections 73(1) to (3) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Les paragraphes 73(1) à (3) de la même loi sont remplacés par ce qui suit :
+
+
+
+1998, ch. 8, par. 9(1) à (3)
+
+
+
+
+
+
+
+
+
+
+Offences
+
+
+
+
+73. (1) Every person is guilty of an offence punishable on summary conviction and liable, in the case of an individual, to a fine not exceeding $75,000 for a first offence or $150,000 for a subsequent offence, and in the case of a corporation, to a fine not exceeding $20,000,000 for a first offence or $30,000,000 for a subsequent offence who
+
+
+
+
+
+
+
+
+
+
+(a) contravenes subsection 16(4) or 16.1(1) or (2), section 17 or 25, subsection 27(1) or (2), subsection 43(2) or (3) or section 69.2;
+
+
+
+
+
+
+
+
+
+
+(b) contravenes a decision made under section 9 or 24, subsection 34(1) or (2), section 42, subsection 43(4) or (5) or section 44 or 51; or
+
+
+
+
+
+
+
+
+
+
+(c) knowingly makes a material misrepresentation of fact or omits to state a material fact to the Minister, the Commission, a person appointed under section 70 or an inspector appointed under paragraph 69.3(1)(h) or section 71.
+
+
+
+
+
+
+
+
+
+
+73. (1) Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale soit de soixante-quinze mille dollars, ou de cent cinquante mille dollars en cas de récidive, s’il s’agit d’une personne physique, soit de vingt millions de dollars, ou de trente millions de dollars en cas de récidive, s’il s’agit d’une personne morale, quiconque :
+
+
+
+Infractions
+
+
+
+
+
+a) contrevient aux paragraphes 16(4) ou 16.1(1) ou (2), aux articles 17 ou 25, aux paragraphes 27(1) ou (2), aux paragraphes 43(2) ou (3) ou à l’article 69.2;
+
+
+
+
+
+
+
+
+
+
+
+b) contrevient à toute décision prise au titre des articles 9 ou 24, des paragraphes 34(1) ou (2), de l’article 42, des paragraphes 43(4) ou (5) ou des articles 44 ou 51;
+
+
+
+
+
+
+
+
+
+
+
+c) sciemment, fait au Conseil, au ministre, à la personne désignée au titre de l’article 70 ou à l’inspecteur visé à l’alinéa 69.3(1)h) ou à l’article 71 une présentation erronée de faits importants ou omet de lui mentionner l’un de ceux-ci.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offences
+
+
+
+
+(2) Every person who contravenes any other provision of this Act or any other decision made under this Act, or any special Act or any regulation made under this Act, is guilty of an offence punishable on summary conviction and liable, in the case of an individual, to a fine not exceeding $50,000 for a first offence or $100,000 for a subsequent offence, and in the case of a corporation, to a fine not exceeding $15,000,000 for a first offence or $20,000,000 for a subsequent offence.
+
+
+
+
+
+
+
+
+
+
+(2) Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale soit de cinquante mille dollars, ou de cent mille dollars en cas de récidive, s’il s’agit d’une personne physique, soit de quinze millions de dollars, ou de vingt millions de dollars en cas de récidive, s’il s’agit d’une personne morale, quiconque contrevient à toute autre disposition de la présente loi, à toute autre décision prise sous son régime, aux règlements pris sous son régime ou aux dispositions d’une loi spéciale.
+
+
+
+Infractions
+
+
+
+
+
+
+
+
+
+
+Bill C-37
+
+
+
+
+4. (1) Subsections (2) and (3) apply if Bill C-37, introduced in the 1st session of the 38th Parliament and entitled An Act to amend the Telecommunications Act (the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+
+4. (1) Les paragraphes (2) et (3) s’appliquent en cas de sanction du projet de loi C-37, déposé au cours de la 1re session de la 38e législature et intitulé Loi modifiant la Loi sur les télécommunications (appelé « autre loi » au présent article).
+
+
+
+Projet de loi C-37
+
+
+
+
+
+
+
+
+
+
+Bill C-37
+
+
+
+(2) If the other Act comes into force before this Act receives royal assent, then, on the day on which this Act receives royal assent,
+
+
+
+
+
+
+
+
+
+
+(a) the heading before section 72.01 of the Telecommunications Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Si l’entrée en vigueur de l’autre loi est antérieure à la sanction de la présente loi :
+
+
+
+Projet de loi C-37
+
+
+
+
+
+a) l’intertitre précédant l’article 72.01 de la Loi sur les télécommunications est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Administrative Monetary Penalties for Unsolicited Telecommunications
+
+
+
+
+
+
+(b) section 2 of this Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+Régime de sanctions administratives — télécommunications non sollicitées
+
+
+
+
+
+
+
+b) l’article 2 de la présente loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after section 72.15:
+
+
+
+
+
+
+
+
+
+
+2. La même loi est modifiée par adjonction, après l’article 72.15, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Administrative Monetary Penalties
+
+
+
+
+
+
+
+
+
+Régime général de sanctions administratives
+
+
+
+
+
+
+
+
+
+
+
+
+Commission of violation
+
+
+
+
+72.2 Every contravention of a provision of this Act, other than section 17 or 69.2, and every contravention of a regulation, or a decision, made by the Commission under this Act, other than a prohibition or a requirement of the Commission under section 41, constitutes a violation and the person who commits the violation is liable
+
+
+
+
+
+
+
+
+
+
+(a) in the case of an individual, to an administrative monetary penalty not exceeding $25,000 and, for each subsequent contravention of the same provision of this Act or the same regulation or decision, not exceeding $50,000; or
+
+
+
+
+
+
+
+
+
+
+(b) in the case of a corporation, to an administrative monetary penalty not exceeding $10,000,000 and, for each subsequent contravention of the same provision of this Act or the same regulation or decision, not exceeding $15,000,000.
+
+
+
+
+
+
+
+
+
+
+72.2 Toute contravention à une disposition de la présente loi — autre que les articles 17 ou 69.2 — ou à une décision ou un règlement pris par le Conseil sous son régime — à l’exception d’une mesure prise au titre de l’article 41 — constitue une violation exposant son auteur à une pénalité dont le montant maximal est :
+
+
+
+Violation
+
+
+
+
+
+a) dans le cas d’une personne physique, de vingt-cinq mille dollars pour une première contravention ou de cinquante mille dollars pour chaque contravention subséquente au même texte;
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas d’une personne morale, de dix millions de dollars pour une première contravention ou de quinze millions de dollars pour chaque contravention subséquente au même texte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Criteria for penalty
+
+
+
+
+72.3 (1) The amount of the penalty is to be determined taking into account the following matters:
+
+
+
+
+
+
+
+
+
+
+(a) the nature of the violation;
+
+
+
+
+
+
+
+
+
+
+(b) the frequency and duration of the conduct constituting the violation;
+
+
+
+
+
+
+
+
+
+
+(c) the history of compliance with this Act by the person who committed the violation;
+
+
+
+
+
+
+
+
+
+
+(d) the financial position of the person who committed the violation;
+
+
+
+
+
+
+
+
+
+
+(e) the question of whether any compensation has been made voluntarily to any affected party; and
+
+
+
+
+
+
+
+
+
+
+(f) any other relevant factor.
+
+
+
+
+
+
+
+
+
+
+72.3 (1) Pour la détermination du montant de la pénalité, il est tenu compte des éléments suivants :
+
+
+
+Détermination du montant de la pénalité
+
+
+
+
+
+a) la nature de la violation;
+
+
+
+
+
+
+
+
+
+
+
+b) la fréquence et la durée de la conduite constituant la violation;
+
+
+
+
+
+
+
+
+
+
+
+c) le comportement antérieur, dans le cadre de la présente loi, de l’auteur de la violation;
+
+
+
+
+
+
+
+
+
+
+
+d) la situation financière de l’auteur de la violation;
+
+
+
+
+
+
+
+
+
+
+
+e) la question de savoir si une somme a été versée volontairement, à titre de dédommagement, à toute partie touchée;
+
+
+
+
+
+
+
+
+
+
+
+f) toute autre circonstance pertinente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose of penalty
+
+
+
+(2) The purpose of the penalty is to promote compliance with this Act and not to punish.
+
+
+
+
+
+
+
+
+
+(2) L’imposition de la pénalité vise non pas à punir, mais plutôt à favoriser l’observation de la présente loi.
+
+
+
+But de la pénalité
+
+
+
+
+
+
+
+
+
+
+Vicarious liability — acts of employees, agents and mandataries
+
+
+
+
+72.4 A person is liable for a violation that is committed by an employee of the person acting in the course of the employee’s employment, or by an agent or mandatary of the person acting within the scope of the agent’s or mandatary’s authority, whether or not the employee, agent or mandatary who actually committed the violation is identified or proceeded against in accordance with this Act.
+
+
+
+
+
+
+
+
+
+
+72.4 L’employeur ou le mandant est responsable de la violation commise par son employé ou son mandataire dans le cadre de son emploi ou du mandat, selon le cas, que l’auteur de la violation soit ou non connu ou poursuivi au titre de la présente loi.
+
+
+
+Responsabilité indirecte : employeurs et mandants
+
+
+
+
+
+
+
+
+
+
+Continuing violation
+
+
+
+
+72.5 A violation that is continued on more than one day constitutes a separate violation in respect of each day during which it is continued.
+
+
+
+
+
+
+
+
+
+
+72.5 Il est compté une violation distincte pour chacun des jours au cours desquels se continue une violation.
+
+
+
+Violation continue
+
+
+
+
+
+
+
+
+
+
+Issuance and service
+
+
+
+
+72.6 (1) If the Commission believes on reasonable grounds that a person has committed a violation, the Commission may issue, and shall cause to be served on the person, a notice of violation.
+
+
+
+
+
+
+
+
+
+
+72.6 (1) Dans le cas où le Conseil a des motifs raisonnables de croire qu’une violation a été commise, il peut dresser un procès-verbal qu’il fait signifier à l’auteur présumé de celle-ci.
+
+
+
+Procès-verbal
+
+
+
+
+
+
+
+
+
+
+Contents of notice
+
+
+
+(2) The notice of violation must name the person believed to have committed a violation, identify the violation and include
+
+
+
+
+
+
+
+
+
+
+(a) the penalty that the Commission proposes to impose for the violation;
+
+
+
+
+
+
+
+
+
+
+(b) a statement as to the right of the person, within 30 days after the day on which the notice is served, or within any longer period that the Commission specifies, to pay the proposed penalty or to make representations to the Commission with respect to the violation and the proposed penalty, and the manner for doing so; and
+
+
+
+
+
+
+
+
+
+
+(c) a statement indicating that, if the person does not pay the proposed penalty or make representations in accordance with the notice, the person will be deemed to have committed the violation and the Commission may impose that penalty.
+
+
+
+
+
+
+
+
+
+(2) Le procès-verbal mentionne, outre le nom de l’auteur présumé et les faits reprochés :
+
+
+
+Contenu du procès-verbal
+
+
+
+
+
+a) la pénalité que le Conseil prévoit imposer pour la violation;
+
+
+
+
+
+
+
+
+
+
+
+b) la faculté qu’a l’auteur présumé soit de payer la pénalité prévue, soit de présenter au Conseil des observations relativement à la violation et à la pénalité, et ce dans les trente jours suivant la signification du procès-verbal — ou dans le délai plus long que peut préciser le Conseil —, ainsi que les modalités d’exercice de cette faculté;
+
+
+
+
+
+
+
+
+
+
+
+c) le fait que le non-exercice de cette faculté dans le délai imparti vaut aveu de responsabilité et permet au Conseil d’imposer la pénalité prévue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payment
+
+
+
+
+72.7 (1) If a person who is served with a notice of violation pays the penalty proposed in the notice, the person is deemed to have committed the violation and proceedings in respect of it are ended.
+
+
+
+
+
+
+
+
+
+
+72.7 (1) Le paiement de la pénalité prévue au procès-verbal vaut aveu de responsabilité à l’égard de la violation et met fin à la procédure.
+
+
+
+Paiement
+
+
+
+
+
+
+
+
+
+
+Representations to Commission
+
+
+
+(2) If a person who is served with a notice of violation makes representations in accordance with the notice, the Commission shall decide, on a balance of probabilities, after considering any other representations that it considers appropriate, whether the person committed the violation and, if it so decides, it may impose the penalty proposed in the notice, a lesser penalty or no penalty.
+
+
+
+
+
+
+
+
+
+(2) Si des observations sont présentées dans le délai imparti par la personne à qui un procès-verbal est signifié, le Conseil détermine la responsabilité de cette personne selon la prépondérance des probabilités, et ce après avoir examiné toutes autres observations qu’il estime appropriées. Le cas échéant, il peut imposer la pénalité prévue, une pénalité réduite, ou encore n’imposer aucune pénalité.
+
+
+
+Présentation d’observations
+
+
+
+
+
+
+
+
+
+
+Failure to pay or make representations
+
+
+
+(3) If a person who is served with a notice of violation neither pays the proposed penalty nor makes representations in accordance with the notice, the person is deemed to have committed the violation and the Commission may impose that penalty.
+
+
+
+
+
+
+
+
+
+(3) Le non-exercice de la faculté mentionnée au procès-verbal dans le délai imparti vaut aveu de responsabilité et permet au Conseil d’imposer la pénalité prévue.
+
+
+
+Défaut de payer ou de faire des observations
+
+
+
+
+
+
+
+
+
+
+Copy of decision and notice of rights
+
+
+
+(4) The Commission shall cause a copy of any decision made under subsection (2) or (3) to be issued and served on the person together with a notice of the person’s right to apply for a review under section 62 and to appeal under section 64.
+
+
+
+
+
+
+
+
+
+(4) Le Conseil fait signifier à l’intéressé copie de la décision prise au titre des paragraphes (2) ou (3) et l’avise par la même occasion de son droit de présenter une demande de révision en vertu de l’article 62 ou d’interjeter appel en vertu de l’article 64.
+
+
+
+Avis de décision et des droits de l’intéressé
+
+
+
+
+
+
+
+
+
+
+Defence
+
+
+
+
+72.8 (1) It is a defence for a person in a proceeding in relation to a violation to establish that the person exercised due diligence to prevent the violation.
+
+
+
+
+
+
+
+
+
+
+72.8 (1) L’auteur de la violation peut invoquer en défense dans le cadre de toute procédure en violation qu’il a pris les précautions voulues.
+
+
+
+Moyens de défense
+
+
+
+
+
+
+
+
+
+
+Common law principles
+
+
+
+(2) Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under a relevant provision of this Act applies in respect of a violation to the extent that the rule or principle is not inconsistent with this Act.
+
+
+
+
+
+
+
+
+
+(2) Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à une disposition pertinente de la présente loi s’appliquent à l’égard d’une violation, sauf dans la mesure où ils sont incompatibles avec la présente loi.
+
+
+
+Principes de la common law
+
+
+
+
+
+
+
+
+
+
+Evidence
+
+
+
+
+72.9 In a proceeding in respect of a violation, a notice purporting to be served under subsection 72.6(1) or a copy of a decision purporting to be served under subsection 72.7(4) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
+
+
+
+
+
+
+
+
+
+
+72.9 Dans toute procédure en violation, le procès-verbal apparemment signifié au titre du paragraphe 72.6(1) ou la copie de la décision apparemment signifiée au titre du paragraphe 72.7(4) sont admissibles en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+
+
+Admissibilité en preuve
+
+
+
+
+
+
+
+
+
+
+Time limit
+
+
+
+
+72.91 (1) No proceedings in respect of a violation may be commenced later than two years after the day on which the subject-matter of the proceedings became known to the Commission.
+
+
+
+
+
+
+
+
+
+
+72.91 (1) Les procédures en violation se prescrivent par deux ans à compter de la date où le Conseil a eu connaissance des éléments constitutifs de la violation.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Certificate of secretary to the Commission
+
+
+
+(2) A document appearing to have been issued by the secretary to the Commission, certifying the day on which the subject-matter of any proceedings became known to the Commission, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
+
+
+
+
+
+
+
+
+
+(2) Tout document apparemment délivré par le secrétaire du Conseil et attestant la date où ces éléments sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+
+
+Certificat du secrétaire du Conseil
+
+
+
+
+
+
+
+
+
+
+Debt to Her Majesty
+
+
+
+
+72.92 (1) An administrative monetary penalty constitutes a debt due to Her Majesty in right of Canada that may be recovered as such in the Federal Court.
+
+
+
+
+
+
+
+
+
+
+72.92 (1) La pénalité constitue une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale.
+
+
+
+Créance de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+Time limit
+
+
+
+(2) No proceedings to recover such a debt may be commenced later than five years after the day on which the debt became payable.
+
+
+
+
+
+
+
+
+
+(2) Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Proceeds payable to Receiver General
+
+
+
+(3) An administrative monetary penalty paid or recovered in relation to a violation is payable to and shall be remitted to the Receiver General.
+
+
+
+
+
+
+
+
+
+(3) Toute pénalité perçue au titre d’une violation est versée au receveur général.
+
+
+
+Receveur général
+
+
+
+
+
+
+
+
+
+
+Certificate of default
+
+
+
+(4) The Commission may issue a certificate certifying the unpaid amount of any debt referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+(4) Le Conseil peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe (1).
+
+
+
+Certificat de non-paiement
+
+
+
+
+
+
+
+
+
+
+Registration in Federal Court
+
+
+
+(5) When registered in the Federal Court, the certificate has the same effect as if it were a judgment of that Court for a debt of the amount specified in the certificate and all related registration costs.
+
+
+
+
+
+
+
+
+
+(5) L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+
+
+
+Enregistrement à la Cour fédérale
+
+
+
+
+
+
+
+
+
+
+How act or omission may be proceeded with
+
+
+
+
+72.93 If a contravention of this Act or of any regulation, or decision, made by the Commission under this Act can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
+
+
+
+
+
+
+
+
+
+
+72.93 S’agissant d’une contravention à la présente loi ou aux décisions ou règlements du Conseil pris sous son régime et qui est qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+
+
+Exclusion
+
+
+
+
+
+
+
+
+
+
+Section 12 does not apply
+
+
+
+
+72.94 Section 12 does not apply in respect of any decision of the Commission made under subsection 72.7(2) or (3).
+
+
+
+
+
+
+
+
+
+
+72.94 L’article 12 ne s’applique pas aux décisions du Conseil rendues au titre des paragraphes 72.7(2) ou (3).
+
+
+
+Non-application de l’article 12
+
+
+
+
+
+
+
+
+
+
+Bill C-37
+
+
+
+(3) If this Act receives royal assent before the other Act comes into force, then, on the day on which the other Act comes into force,
+
+
+
+
+
+
+
+
+
+
+(a) the heading before section 72.01 of the Telecommunications Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Si la sanction de la présente loi est antérieure à l’entrée en vigueur de l’autre loi, à l’entrée en vigueur de l’autre loi :
+
+
+
+Projet de loi C-37
+
+
+
+
+
+a) l’intertitre précédant l’article 72.01 de la Loi sur les télécommunications est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Administrative Monetary Penalties for Unsolicited Telecommunications
+
+
+
+
+
+
+(b) the heading before section 72.1 and sections 72.1 to 72.93 of the Act, as enacted by section 2 of this Act, are replaced by the following:
+
+
+
+
+
+
+
+
+
+Régime de sanctions administratives — télécommunications non sollicitées
+
+
+
+
+
+
+
+b) l’intertitre précédant l’article 72.1 et les articles 72.1 à 72.93 de la même loi, édictés par l’article 2 de la présente loi, sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Administrative Monetary Penalties
+
+
+
+
+
+
+
+
+
+Régime général de sanctions administratives
+
+
+
+
+
+
+
+
+
+
+
+
+Commission of violation
+
+
+
+
+72.2 Every contravention of a provision of this Act, other than section 17 or 69.2, and every contravention of a regulation, or a decision, made by the Commission under this Act, other than a prohibition or a requirement of the Commission under section 41, constitutes a violation and the person who commits the violation is liable
+
+
+
+
+
+
+
+
+
+
+(a) in the case of an individual, to an administrative monetary penalty not exceeding $25,000 and, for each subsequent contravention of the same provision of this Act or the same regulation or decision, not exceeding $50,000; or
+
+
+
+
+
+
+
+
+
+
+(b) in the case of a corporation, to an administrative monetary penalty not exceeding $10,000,000 and, for each subsequent contravention of the same provision of this Act or the same regulation or decision, not exceeding $15,000,000.
+
+
+
+
+
+
+
+
+
+
+72.2 Toute contravention à une disposition de la présente loi — autre que les articles 17 ou 69.2 — ou à une décision ou un règlement pris par le Conseil sous son régime — à l’exception d’une mesure prise au titre de l’article 41 — constitue une violation exposant son auteur à une pénalité dont le montant maximal est :
+
+
+
+Violation
+
+
+
+
+
+a) dans le cas d’une personne physique, de vingt-cinq mille dollars pour une première contravention ou de cinquante mille dollars pour chaque contravention subséquente au même texte;
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas d’une personne morale, de dix millions de dollars pour une première contravention ou de quinze millions de dollars pour chaque contravention subséquente au même texte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Criteria for penalty
+
+
+
+
+72.3 (1) The amount of the penalty is to be determined taking into account the following matters:
+
+
+
+
+
+
+
+
+
+
+(a) the nature of the violation;
+
+
+
+
+
+
+
+
+
+
+(b) the frequency and duration of the conduct constituting the violation;
+
+
+
+
+
+
+
+
+
+
+(c) the history of compliance with this Act by the person who committed the violation;
+
+
+
+
+
+
+
+
+
+
+(d) the financial position of the person who committed the violation;
+
+
+
+
+
+
+
+
+
+
+(e) the question of whether any compensation has been made voluntarily to any affected party; and
+
+
+
+
+
+
+
+
+
+
+(f) any other relevant factor.
+
+
+
+
+
+
+
+
+
+
+72.3 (1) Pour la détermination du montant de la pénalité, il est tenu compte des éléments suivants :
+
+
+
+Détermination du montant de la pénalité
+
+
+
+
+
+a) la nature de la violation;
+
+
+
+
+
+
+
+
+
+
+
+b) la fréquence et la durée de la conduite constituant la violation;
+
+
+
+
+
+
+
+
+
+
+
+c) le comportement antérieur, dans le cadre de la présente loi, de l’auteur de la violation;
+
+
+
+
+
+
+
+
+
+
+
+d) la situation financière de l’auteur de la violation;
+
+
+
+
+
+
+
+
+
+
+
+e) la question de savoir si une somme a été versée volontairement, à titre de dédommagement, à toute partie touchée;
+
+
+
+
+
+
+
+
+
+
+
+f) toute autre circonstance pertinente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose of penalty
+
+
+
+(2) The purpose of the penalty is to promote compliance with this Act and not to punish.
+
+
+
+
+
+
+
+
+
+(2) L’imposition de la pénalité vise non pas à punir, mais plutôt à favoriser l’observation de la présente loi.
+
+
+
+But de la pénalité
+
+
+
+
+
+
+
+
+
+
+Vicarious liability — acts of employees, agents and mandataries
+
+
+
+
+72.4 A person is liable for a violation that is committed by an employee of the person acting in the course of the employee’s employment, or by an agent or mandatary of the person acting within the scope of the agent’s or mandatary’s authority, whether or not the employee, agent or mandatary who actually committed the violation is identified or proceeded against in accordance with this Act.
+
+
+
+
+
+
+
+
+
+
+72.4 L’employeur ou le mandant est responsable de la violation commise par son employé ou son mandataire dans le cadre de son emploi ou du mandat, selon le cas, que l’auteur de la violation soit ou non connu ou poursuivi au titre de la présente loi.
+
+
+
+Responsabilité indirecte : employeurs et mandants
+
+
+
+
+
+
+
+
+
+
+Continuing violation
+
+
+
+
+72.5 A violation that is continued on more than one day constitutes a separate violation in respect of each day during which it is continued.
+
+
+
+
+
+
+
+
+
+
+72.5 Il est compté une violation distincte pour chacun des jours au cours desquels se continue une violation.
+
+
+
+Violation continue
+
+
+
+
+
+
+
+
+
+
+Issuance and service
+
+
+
+
+72.6 (1) If the Commission believes on reasonable grounds that a person has committed a violation, the Commission may issue, and shall cause to be served on the person, a notice of violation.
+
+
+
+
+
+
+
+
+
+
+72.6 (1) Dans le cas où le Conseil a des motifs raisonnables de croire qu’une violation a été commise, il peut dresser un procès-verbal qu’il fait signifier à l’auteur présumé de celle-ci.
+
+
+
+Procès-verbal
+
+
+
+
+
+
+
+
+
+
+Contents of notice
+
+
+
+(2) The notice of violation must name the person believed to have committed a violation, identify the violation and include
+
+
+
+
+
+
+
+
+
+
+(a) the penalty that the Commission proposes to impose for the violation;
+
+
+
+
+
+
+
+
+
+
+(b) a statement as to the right of the person, within 30 days after the day on which the notice is served, or within any longer period that the Commission specifies, to pay the proposed penalty or to make representations to the Commission with respect to the violation and the proposed penalty, and the manner for doing so; and
+
+
+
+
+
+
+
+
+
+
+(c) a statement indicating that, if the person does not pay the proposed penalty or make representations in accordance with the notice, the person will be deemed to have committed the violation and the Commission may impose that penalty.
+
+
+
+
+
+
+
+
+
+(2) Le procès-verbal mentionne, outre le nom de l’auteur présumé et les faits reprochés :
+
+
+
+Contenu du procès-verbal
+
+
+
+
+
+a) la pénalité que le Conseil prévoit imposer pour la violation;
+
+
+
+
+
+
+
+
+
+
+
+b) la faculté qu’a l’auteur présumé soit de payer la pénalité prévue, soit de présenter au Conseil des observations relativement à la violation et à la pénalité, et ce dans les trente jours suivant la signification du procès-verbal — ou dans le délai plus long que peut préciser le Conseil —, ainsi que les modalités d’exercice de cette faculté;
+
+
+
+
+
+
+
+
+
+
+
+c) le fait que le non-exercice de cette faculté dans le délai imparti vaut aveu de responsabilité et permet au Conseil d’imposer la pénalité prévue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payment
+
+
+
+
+72.7 (1) If a person who is served with a notice of violation pays the penalty proposed in the notice, the person is deemed to have committed the violation and proceedings in respect of it are ended.
+
+
+
+
+
+
+
+
+
+
+72.7 (1) Le paiement de la pénalité prévue au procès-verbal vaut aveu de responsabilité à l’égard de la violation et met fin à la procédure.
+
+
+
+Paiement
+
+
+
+
+
+
+
+
+
+
+Representations to Commission
+
+
+
+(2) If a person who is served with a notice of violation makes representations in accordance with the notice, the Commission shall decide, on a balance of probabilities, after considering any other representations that it considers appropriate, whether the person committed the violation and, if it so decides, it may impose the penalty proposed in the notice, a lesser penalty or no penalty.
+
+
+
+
+
+
+
+
+
+(2) Si des observations sont présentées dans le délai imparti par la personne à qui un procès-verbal est signifié, le Conseil détermine la responsabilité de cette personne selon la prépondérance des probabilités, et ce après avoir examiné toutes autres observations qu’il estime appropriées. Le cas échéant, il peut imposer la pénalité prévue, une pénalité réduite, ou encore n’imposer aucune pénalité.
+
+
+
+Présentation d’observations
+
+
+
+
+
+
+
+
+
+
+Failure to pay or make representations
+
+
+
+(3) If a person who is served with a notice of violation neither pays the proposed penalty nor makes representations in accordance with the notice, the person is deemed to have committed the violation and the Commission may impose that penalty.
+
+
+
+
+
+
+
+
+
+(3) Le non-exercice de la faculté mentionnée au procès-verbal dans le délai imparti vaut aveu de responsabilité et permet au Conseil d’imposer la pénalité prévue.
+
+
+
+Défaut de payer ou de faire des observations
+
+
+
+
+
+
+
+
+
+
+Copy of decision and notice of rights
+
+
+
+(4) The Commission shall cause a copy of any decision made under subsection (2) or (3) to be issued and served on the person together with a notice of the person’s right to apply for a review under section 62 and to appeal under section 64.
+
+
+
+
+
+
+
+
+
+(4) Le Conseil fait signifier à l’intéressé copie de la décision prise au titre des paragraphes (2) ou (3) et l’avise par la même occasion de son droit de présenter une demande de révision en vertu de l’article 62 ou d’interjeter appel en vertu de l’article 64.
+
+
+
+Avis de décision et des droits de l’intéressé
+
+
+
+
+
+
+
+
+
+
+Defence
+
+
+
+
+72.8 (1) It is a defence for a person in a proceeding in relation to a violation to establish that the person exercised due diligence to prevent the violation.
+
+
+
+
+
+
+
+
+
+
+72.8 (1) L’auteur de la violation peut invoquer en défense dans le cadre de toute procédure en violation qu’il a pris les précautions voulues.
+
+
+
+Moyens de défense
+
+
+
+
+
+
+
+
+
+
+Common law principles
+
+
+
+(2) Every rule and principle of the common law that renders any circumstance a justification or excuse in relation to a charge for an offence under a relevant provision of this Act applies in respect of a violation to the extent that the rule or principle is not inconsistent with this Act.
+
+
+
+
+
+
+
+
+
+(2) Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à une disposition pertinente de la présente loi s’appliquent à l’égard d’une violation, sauf dans la mesure où ils sont incompatibles avec la présente loi.
+
+
+
+Principes de la common law
+
+
+
+
+
+
+
+
+
+
+Evidence
+
+
+
+
+72.9 In a proceeding in respect of a violation, a notice purporting to be served under subsection 72.6(1) or a copy of a decision purporting to be served under subsection 72.7(4) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
+
+
+
+
+
+
+
+
+
+
+72.9 Dans toute procédure en violation, le procès-verbal apparemment signifié au titre du paragraphe 72.6(1) ou la copie de la décision apparemment signifiée au titre du paragraphe 72.7(4) sont admissibles en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+
+
+Admissibilité en preuve
+
+
+
+
+
+
+
+
+
+
+Time limit
+
+
+
+
+72.91 (1) No proceedings in respect of a violation may be commenced later than two years after the day on which the subject-matter of the proceedings became known to the Commission.
+
+
+
+
+
+
+
+
+
+
+72.91 (1) Les procédures en violation se prescrivent par deux ans à compter de la date où le Conseil a eu connaissance des éléments constitutifs de la violation.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Certificate of secretary to the Commission
+
+
+
+(2) A document appearing to have been issued by the secretary to the Commission, certifying the day on which the subject-matter of any proceedings became known to the Commission, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
+
+
+
+
+
+
+
+
+
+(2) Tout document apparemment délivré par le secrétaire du Conseil et attestant la date où ces éléments sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+
+
+Certificat du secrétaire du Conseil
+
+
+
+
+
+
+
+
+
+
+Debt to Her Majesty
+
+
+
+
+72.92 (1) An administrative monetary penalty constitutes a debt due to Her Majesty in right of Canada that may be recovered as such in the Federal Court.
+
+
+
+
+
+
+
+
+
+
+72.92 (1) La pénalité constitue une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale.
+
+
+
+Créance de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+Time limit
+
+
+
+(2) No proceedings to recover such a debt may be commenced later than five years after the day on which the debt became payable.
+
+
+
+
+
+
+
+
+
+(2) Le recouvrement de la créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Proceeds payable to Receiver General
+
+
+
+(3) An administrative monetary penalty paid or recovered in relation to a violation is payable to and shall be remitted to the Receiver General.
+
+
+
+
+
+
+
+
+
+(3) Toute pénalité perçue au titre d’une violation est versée au receveur général.
+
+
+
+Receveur général
+
+
+
+
+
+
+
+
+
+
+Certificate of default
+
+
+
+(4) The Commission may issue a certificate certifying the unpaid amount of any debt referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+(4) Le Conseil peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe (1).
+
+
+
+Certificat de non-paiement
+
+
+
+
+
+
+
+
+
+
+Registration in Federal Court
+
+
+
+(5) When registered in the Federal Court, the certificate has the same effect as if it were a judgment of that Court for a debt of the amount specified in the certificate and all related registration costs.
+
+
+
+
+
+
+
+
+
+(5) L’enregistrement à la Cour fédérale confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+
+
+
+Enregistrement à la Cour fédérale
+
+
+
+
+
+
+
+
+
+
+How act or omission may be proceeded with
+
+
+
+
+72.93 If a contravention of this Act or of any regulation, or decision, made by the Commission under this Act can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
+
+
+
+
+
+
+
+
+
+
+72.93 S’agissant d’une contravention à la présente loi ou aux décisions ou règlements du Conseil pris sous son régime et qui est qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+
+
+Exclusion
+
+
+
+
+
+
+
+
+
+
+Section 12 does not apply
+
+
+
+
+72.94 Section 12 does not apply in respect of any decision of the Commission made under subsection 72.7(2) or (3).
+
+
+
+
+
+
+
+
+
+
+72.94 L’article 12 ne s’applique pas aux décisions du Conseil rendues au titre des paragraphes 72.7(2) ou (3).
+
+
+
+Non-application de l’article 12
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+
+Clause 1: Existing text of subsections 39(3) and (4):
+(3) Subsection (2) applies to
+(a) any member of, or person employed by, the Commission, and
+(b) in respect of information provided under subsection 37(3), the Minister, the Chief Statistician of Canada and any person employed in the federal public administration,
+who comes into possession of designated information while holding that office or being so employed, whether or not the person has ceased to hold that office or be so employed.
+(4) Where designated information is submitted in the course of proceedings before the Commission, the Commission may disclose or require its disclosure where it determines, after considering any representations from interested persons, that the disclosure is in the public interest.
+
+
+
+
+Article 1 :  Texte des paragraphes 39(3) et (4) :
+(3) Le paragraphe (2) vise les employés et membres du Conseil et, en ce qui a trait aux renseignements transmis au titre du paragraphe 37(3), le ministre, le statisticien en chef du Canada et les agents et autres employés de l’administration publique fédérale qui entrent en possession, au cours de leur emploi ou de leur mandat, de renseignements désignés comme confidentiels. Il continue de s’appliquer à toutes ces personnes après leur cessation de fonctions.
+(4) Le Conseil peut effectuer ou exiger la communication de renseignements désignés comme confidentiels fournis dans le cadre d’une affaire dont il est saisi s’il est d’avis, après avoir pris connaissance des observations des intéressés, qu’elle est dans l’intérêt public.
+
+
+
+
+
+Clause 2: New.
+
+
+
+
+Article 2 : Nouveau.
+
+
+
+
+
+Clause 3: Existing text of subsections 73(1) to (3):
+
+73. (1) Every person who contravenes subsection 16(4) or 16.1(1) or (2) or section 17 is guilty of an offence punishable on summary conviction and liable
+(a) in the case of an individual, to a fine not exceeding fifty thousand dollars for a first offence, or one hundred thousand dollars for a subsequent offence; or
+(b) in the case of a corporation, to a fine not exceeding five hundred thousand dollars for a first offence, or one million dollars for a subsequent offence.
+(2) Every person who
+(a) contravenes section 25, subsection 27(1) or (2) or section 69.2,
+(b) contravenes any condition referred to in section 9 or 24 or subsection 34(1) or (2),
+(c) contravenes any prohibition or requirement of the Commission under section 41, or
+(d) knowingly makes a material misrepresentation of fact or omits to state a material fact to the Minister, the Commission, a person appointed under section 70 or an inspector appointed under paragraph 69.3(1)(h) or section 71
+is guilty of an offence punishable on summary conviction and liable, in the case of an individual, to a fine not exceeding ten thousand dollars for a first offence or twenty-five thousand dollars for a subsequent offence, and in the case of a corporation, to a fine not exceeding one hundred thousand dollars for a first offence or two hundred and fifty thousand dollars for a subsequent offence.
+(3) Every person who
+(a) contravenes any other provision of this Act or any special Act or any regulation or decision made under this Act, or
+(b) fails to do anything required or does anything prohibited under a provision, regulation or decision referred to in paragraph (a)
+is guilty of an offence punishable on summary conviction and liable, in the case of an individual, to a fine not exceeding five thousand dollars for a first offence or ten thousand dollars for a subsequent offence, and in the case of a corporation, to a fine not exceeding fifty thousand dollars for a first offence or one hundred thousand dollars for a subsequent offence.
+
+
+
+
+Article 3 : Texte des paragraphes 73(1) à (3) :
+
+73. (1) Quiconque contrevient aux paragraphes 16(4) ou 16.1(1) ou (2) ou à l’article 17 commet une infraction passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale :
+
+a) de cinquante mille dollars, ou de cent mille dollars en cas de récidive, s’il s’agit d’une personne physique;
+
+b) de cinq cent mille dollars, ou de un million de dollars en cas de récidive, s’il s’agit d’une personne morale.
+(2) Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale soit de dix mille dollars, ou de vingt-cinq mille dollars en cas de récidive, s’il s’agit d’une personne physique, soit de cent mille dollars, ou de deux cent cinquante mille dollars en cas de récidive, s’il s’agit d’une personne morale, quiconque :
+
+a) contrevient à l’article 25, aux paragraphes 27(1) ou (2) ou à l’article 69.2;
+
+b) n’observe pas les conditions fixées au titre des articles 9 ou 24 ou des paragraphes 34(1) ou (2);
+
+c) ne se conforme pas aux mesures prises par le Conseil au titre de l’article 41;
+
+d) sciemment, fait au Conseil, au ministre, à la personne désignée au titre de l’article 70 ou à l’inspecteur visé à l’alinéa 69.3(1)h) ou à l’article 71 une présentation erronée de faits importants ou omet de lui mentionner l’un de ceux-ci.
+(3) Commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale soit de cinq mille dollars, ou de dix mille dollars en cas de récidive, s’il s’agit d’une personne physique, soit de cinquante mille dollars, ou de cent mille dollars en cas de récidive, s’il s’agit d’une personne morale, quiconque contrevient :
+
+a) à toute autre disposition de la présente loi, aux décisions ou règlements pris sous son régime ou aux dispositions d’une loi spéciale;
+
+b) aux obligations qui en découlent.
+
+
+
+
+
+

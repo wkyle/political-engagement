@@ -1,0 +1,794 @@
+
+
+
+
+
+C-68
+
+
+
+
+
+C-68
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-68
+
+
+
+
+
+PROJET DE LOI C-68
+
+
+
+
+
+
+An Act to amend the Canadian Human Rights Act, the Privacy Act and the Personal Information Protection and Elec­tronic Documents Act
+
+
+
+
+
+Loi modifiant la Loi canadienne sur les droits de la personne, la Loi sur la protection des renseignements personnels et la Loi sur la protection des renseignements personnels et les documents électroniques
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 9, 2015
+
+première lecture le 9 juin 2015
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF JUSTICE
+
+90779
+
+
+
+MINISTRE DE LA JUSTICE
+
+
+
+
+
+SUMMARY
+This enactment amends the Canadian Human Rights Act to provide that discrimination on the ground of a predisposition to disability that is inferred from the results of genetic testing is deemed to be discrimination on the ground of disability. It also amends the Privacy Act and the Personal Information Protection and Electronic Documents Act to specifically include information resulting from genetic testing.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi canadienne sur les droits de la personne afin de préciser que la distinction fondée sur la prédisposition à une déficience est réputée être fondée sur la déficience lorsque la prédisposition est inférée à partir des résultats de tests génétiques. Il modifie également la Loi sur la protection des renseignements personnels et la Loi sur la protection des renseignements personnels et les documents électroniques afin que ces lois fassent expressément mention des renseignements provenant des tests génétiques.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-68
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-68
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canadian Human Rights Act, the Privacy Act and the Personal Information Protection and Elec­tronic Documents Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi canadienne sur les droits de la personne, la Loi sur la protection des renseignements personnels et la Loi sur la protection des renseignements personnels et les documents électroniques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Protection Against Genetic Discrimination Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la protection contre la discrimination génétique.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+R.S., c. H-6
+
+
+
+CANADIAN HUMAN RIGHTS ACT
+
+
+
+
+
+
+
+
+
+LOI CANADIENNE SUR LES DROITS DE LA PERSONNE
+
+
+
+L.R., ch. H-6
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 3 of the Canadian Human Rights Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+2. L’article 3 de la Loi canadienne sur les droits de la personne est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Predisposition to disability
+
+
+
+(3) If the ground of discrimination is a predisposition to disability that is inferred from the results of genetic testing, the discrimination shall be deemed to be on the ground of disability.
+
+
+
+
+
+
+
+
+
+(3) Une distinction fondée sur la prédisposition à une déficience est réputée être fondée sur la déficience lorsque la prédisposition est inférée à partir des résultats de tests génétiques.
+
+
+
+Prédisposition à une déficience
+
+
+
+
+
+
+
+
+R.S., c. P-21
+
+
+
+PRIVACY ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA PROTECTION DES RENSEIGNEMENTS PERSONNELS
+
+
+
+L.R., ch. P-21
+
+
+
+
+
+
+
+
+
+
+
+
+3. The definition “personal information” in section 3 of the Privacy Act is amended by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+3. La définition de « renseignements personnels », à l’article 3 de la Loi sur la protection des renseignements personnels, est modifiée par adjonction, après l’alinéa d), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d.1) information resulting from genetic testing of the individual,
+
+
+
+
+
+
+
+
+
+d.1) les renseignements provenant de ses tests génétiques;
+
+
+
+
+
+
+
+
+
+
+2000, c. 5
+
+
+
+PERSONAL INFORMATION PROTECTION AND ELECTRONIC DOCUMENTS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA PROTECTION DES RENSEIGNEMENTS PERSONNELS ET LES DOCUMENTS ÉLECTRONIQUES
+
+
+
+2000, ch. 5
+
+
+
+
+
+
+
+
+
+
+
+
+4. The heading “Définitions” before section 2 of the French version of the Personal Information Protection and Elec­tronic Documents Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. L’intertitre « Définitions » précédant l’article 2 de la version française de la Loi sur la protection des renseignements personnels et les documents électroniques est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Définitions et interprétation
+
+
+
+
+
+
+
+
+
+Définitions et interprétation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Section 2 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+5. L’article 2 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Information derived from genetic testing
+
+
+
+(1.1) For greater certainty, personal information includes personal health information, such as information derived from genetic testing.
+
+
+
+
+
+
+
+
+
+(1.1) Il est entendu que les renseignements personnels comprennent les renseignements personnels sur la santé tels les renseignements provenant de tests génétiques.
+
+
+
+Renseignements provenant de tests génétiques
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Thirtieth day after royal assent
+
+
+
+6. This Act comes into force on the 30th day after the day on which it receives royal assent.
+
+
+
+
+
+
+
+
+
+6. La présente loi entre en vigueur le trentième jour suivant la date de sa sanction.
+
+
+
+Trentième jour suivant la sanction
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Canadian Human Rights Act
+Clause 2: New.
+
+
+
+Loi canadienne sur les droits de la personne
+Article 2 : Nouveau.
+
+
+
+
+Privacy Act
+Clause 3: Relevant portion of the definition:
+“personal information” means information about an identifiable individual that is recorded in any form including, without restricting the generality of the foregoing,
+
+
+
+Loi sur la protection des renseignements personnels
+Article 3 : Texte du passage visé de la définition :
+« renseignements personnels » Les renseignements, quels que soient leur forme et leur support, concernant un individu identifiable, notamment :
+
+
+
+
+Personal Information Protection and Electronic Documents Act
+Clause 4: Existing text of the heading:
+Interpretation
+
+
+
+Loi sur la protection des renseignements personnels et les documents électroniques
+Article 4 : Texte de l’intertitre :
+Définitions
+
+
+
+
+Clause 5: New.
+
+
+
+Article 5 : Nouveau.
+
+
+
+

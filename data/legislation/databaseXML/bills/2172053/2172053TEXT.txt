@@ -1,0 +1,11724 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+Première session, trente-neuvième législature,
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+STATUTES OF CANADA 2007CHAPTER 19
+
+
+
+
+
+LOIS DU CANADA (2007)CHAPITRE 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Transportation Act and the Railway Safety Act and to make consequential amendments to other Acts
+
+
+
+
+
+Loi modifiant la Loi sur les transports au Canada et la Loi sur la sécurité ferroviaire et d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+22nd JUNE, 2007
+BILL C-11
+
+
+
+
+
+SANCTIONNÉE
+LE 22 JUIN 2007
+PROJET DE LOI C-11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the Canada Transportation Act and the Railway Safety Act and to make consequential amendments to other Acts”.
+SUMMARY
+This enactment amends the Canada Transportation Act. Certain amendments apply to all modes of transportation, including amendments that clarify the national transportation policy and the operation of the Competition Act in the transportation sector, change the number of members of the Canadian Transportation Agency, create a mediation process for transportation matters, modify requirements regarding the provision of information to the Minister of Transport and modify and extend provisions regarding mergers and acquisitions of air transportation undertakings to all transportation undertakings.
+It amends the Act with respect to the air transportation sector, in particular, in relation to complaints processes, the advertising of prices for air services and the disclosure of terms and conditions of carriage.
+The enactment also makes several amendments with respect to the railway transportation sector. It creates a mechanism for dealing with complaints concerning noise and vibration resulting from the construction or operation of railways and provisions for dealing with the transfer and discontinuance of operation of railway lines. It also establishes a mechanism for resolving disputes between public passenger service providers and railway companies regarding the use of railway company equipment and facilities.
+The enactment also amends the Railway Safety Act to create provisions for the appointment of police constables with respect to railway companies and procedures for dealing with complaints concerning them.
+In addition, it contains transitional provisions and consequential amendments.
+
+
+
+RECOMMANDATION
+Son Excellence la gouverneure générale recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi sur les transports au Canada et la Loi sur la sécurité ferroviaire et d’autres lois en conséquence ».
+SOMMAIRE
+Le texte modifie la Loi sur les transports au Canada. Certaines modifications visent tous les modes de transport. Entre autres, elles clarifient la politique nationale des transports et l’application de la Loi sur la concurrence en matière de transport, modifient le nombre de membres de l’Office des transports du Canada, créent un processus de médiation et modifient les dispositions régissant la communication de renseignements au ministre des Transports. Outre qu’elles modifient les dispositions régissant les fusions et les acquisitions d’entreprises de transport aérien, les modifications prévoient leur application à tous les modes de transport.
+Certaines modifications sont propres au transport aérien; elles visent notamment le traitement des plaintes, la publicité du prix des services aériens et la communication des conditions de transport.
+D’autres modifications sont propres au transport ferroviaire. Entre autres, elles prévoient la création d’un mode de règlement des plaintes portant sur le bruit et les vibrations produits par la construction ou l’exploitation de chemins de fer et modifient le régime applicable au transfert ou à la cessation d’exploitation des lignes de chemin de fer. De plus, elles prévoient un mécanisme de règlement des différends relatifs à l’utilisation d’équipements ou d’installations des compagnies de chemin de fer par les sociétés de transport publiques.
+Le texte modifie aussi la Loi sur la sécurité ferroviaire afin de permettre la nomination d’agents de police à l’égard des compagnies de chemin de fer et de régir le règlement des plaintes concernant ceux-ci.
+Finalement, il prévoit des dispositions transitoires et des modifications corrélatives.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+55-56 ELIZABETH II
+
+
+
+
+
+
+
+
+
+55-56 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 19
+
+
+
+
+
+
+
+
+
+CHAPITRE 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Transportation Act and the Railway Safety Act and to make consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les transports au Canada et la Loi sur la sécurité ferroviaire et d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 22nd June, 2007]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 22 juin 2007]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1996, c. 10
+
+
+
+CANADA TRANSPORTATION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LES TRANSPORTS AU CANADA
+
+
+
+1996, ch. 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Subsection 4(2) of the Canada Transportation Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. Le paragraphe 4(2) de la Loi sur les transports au Canada est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+Competition Act
+
+
+
+
+
+
+(2) Subject to subsection (3), nothing in or done under the authority of this Act, other than Division IV of Part III, affects the operation of the Competition Act.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve du paragraphe (3), les dispositions de la présente loi — sauf celles de la section IV de la partie III — et les actes accomplis sous leur régime ne portent pas atteinte à l’application de la Loi sur la concurrence.
+
+
+
+
+Loi sur la concurrence
+
+
+
+
+
+
+
+
+
+
+
+
+
+International agreements respecting air services
+
+
+
+(3) In the event of any inconsistency or conflict between an international agreement or convention respecting air services to which Canada is a party and the Competition Act, the provisions of the agreement or convention prevail to the extent of the inconsistency or conflict.
+
+
+
+
+
+
+
+
+
+(3) En cas d’incompatibilité ou de conflit entre une convention internationale ou un accord international sur les services aériens dont le Canada est signataire et les dispositions de la Loi sur la concurrence, la convention ou l’accord l’emporte dans la mesure de l’incompatibilité ou du conflit.
+
+
+
+Conventions ou accords internationaux sur les services aériens
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Section 5 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. L’article 5 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration
+
+
+
+
+5. It is declared that a competitive, economic and efficient national transportation system that meets the highest practicable safety and security standards and contributes to a sustainable environment and makes the best use of all modes of transportation at the lowest total cost is essential to serve the needs of its users, advance the well-being of Canadians and enable competitiveness and economic growth in both urban and rural areas throughout Canada. Those objectives are most likely to be achieved when
+
+
+
+
+
+
+
+
+
+
+(a) competition and market forces, both within and among the various modes of transportation, are the prime agents in providing viable and effective transportation services;
+
+
+
+
+
+
+
+
+
+
+(b) regulation and strategic public intervention are used to achieve economic, safety, security, environmental or social outcomes that cannot be achieved satisfactorily by competition and market forces and do not unduly favour, or reduce the inherent advantages of, any particular mode of transportation;
+
+
+
+
+
+
+
+
+
+
+(c) rates and conditions do not constitute an undue obstacle to the movement of traffic within Canada or to the export of goods from Canada;
+
+
+
+
+
+
+
+
+
+
+(d) the transportation system is accessible without undue obstacle to the mobility of persons, including persons with disabilities; and
+
+
+
+
+
+
+
+
+
+
+(e) governments and the private sector work together for an integrated transportation system.
+
+
+
+
+
+
+
+
+
+
+5. Il est déclaré qu’un système de transport national compétitif et rentable qui respecte les plus hautes normes possibles de sûreté et de sécurité, qui favorise un environnement durable et qui utilise tous les modes de transport au mieux et au coût le plus bas possible est essentiel à la satisfaction des besoins de ses usagers et au bien-être des Canadiens et favorise la compétitivité et la croissance économique dans les régions rurales et urbaines partout au Canada. Ces objectifs sont plus susceptibles d’être atteints si :
+
+
+
+Déclaration
+
+
+
+
+
+a) la concurrence et les forces du marché, au sein des divers modes de transport et entre eux, sont les principaux facteurs en jeu dans la prestation de services de transport viables et efficaces;
+
+
+
+
+
+
+
+
+
+
+
+b) la réglementation et les mesures publiques stratégiques sont utilisées pour l'obtention de résultats de nature économique, environnementale ou sociale ou de résultats dans le domaine de la sûreté et de la sécurité que la concurrence et les forces du marché ne permettent pas d’atteindre de manière satisfaisante, sans pour autant favoriser indûment un mode de transport donné ou en réduire les avantages inhérents;
+
+
+
+
+
+
+
+
+
+
+
+c) les prix et modalités ne constituent pas un obstacle abusif au trafic à l’intérieur du Canada ou à l’exportation des marchandises du Canada;
+
+
+
+
+
+
+
+
+
+
+
+d) le système de transport est accessible sans obstacle abusif à la circulation des personnes, y compris les personnes ayant une déficience;
+
+
+
+
+
+
+
+
+
+
+
+e) les secteurs public et privé travaillent ensemble pour le maintien d’un système de transport intégré.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 27, s. 221
+
+
+
+
+3. Subsection 7(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 7(2) de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 27, art. 221
+
+
+
+
+
+
+
+
+
+
+Composition of Agency
+
+
+
+(2) The Agency shall consist of not more than five members appointed by the Governor in Council, and such temporary members as are appointed under subsection 9(1), each of whom must, on appointment or reappointment and while serving as a member, be a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act.
+
+
+
+
+
+
+
+
+
+(2) L’Office est composé, d’une part, d’au plus cinq membres nommés par le gouverneur en conseil et, d’autre part, des membres temporaires nommés en vertu du paragraphe 9(1). Tout membre doit, du moment de sa nomination, être et demeurer un citoyen canadien ou un résident permanent au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés.
+
+
+
+Composition
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Subsection 8(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. Le paragraphe 8(3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Continuation in office
+
+
+
+(3) If a member appointed under subsection 7(2) ceases to hold office, the Chairperson may authorize the member to continue to hear any matter that was before the member on the expiry of the member’s term of office and that member is deemed to be a member of the Agency, but that person’s status as a member does not preclude the appointment of up to five members under subsection 7(2) or up to three temporary members under subsection 9(1).
+
+
+
+
+
+
+
+
+
+(3) Le président peut autoriser un membre nommé en vertu du paragraphe 7(2) qui cesse d’exercer ses fonctions à continuer, après la date d’expiration de son mandat, à entendre toute question dont il se trouve saisi à cette date. À cette fin, le membre est réputé être membre de l’Office mais son statut n’empêche pas la nomination de cinq membres en vertu du paragraphe 7(2) ou de trois membres temporaires en vertu du paragraphe 9(1).
+
+
+
+Continuation de mandat
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Subsection 18(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. Le paragraphe 18(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Residence of members
+
+
+
+(2) The members shall reside in the National Capital Region described in the schedule to the National Capital Act or within any distance of it that the Governor in Council determines.
+
+
+
+
+
+
+
+
+
+(2) Les membres résident dans la région de la capitale nationale délimitée à l’annexe de la Loi sur la capitale nationale ou dans la périphérie de cette région définie par le gouverneur en conseil.
+
+
+
+Lieu de résidence des membres
+
+
+
+
+
+
+
+
+
+
+2002, c. 8, s. 122
+
+
+
+
+6. Subsection 33(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 33(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 8, art. 122
+
+
+
+
+
+
+
+
+
+
+Enforcement of decision or order
+
+
+
+
+33. (1) A decision or order of the Agency may be made an order of the Federal Court or of any superior court and is enforceable in the same manner as such an order.
+
+
+
+
+
+
+
+
+
+
+33. (1) Les décisions ou arrêtés de l’Office peuvent être homologués par la Cour fédérale ou une cour supérieure; le cas échéant, leur exécution s’effectue selon les mêmes modalités que les ordonnances de la cour saisie.
+
+
+
+Homologation
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. The Act is amended by adding the following after section 36:
+
+
+
+
+
+
+
+
+
+
+7. La même loi est modifiée par adjonction, après l’article 36, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mediation
+
+
+
+
+
+
+
+
+
+Médiation
+
+
+
+
+
+
+
+
+
+
+
+
+Request by parties
+
+
+
+
+36.1 (1) If there is a dispute concerning a matter within the Agency’s jurisdiction, all the parties to the dispute may, by agreement, make a request to the Agency for mediation. On receipt of the request, the Agency shall refer the dispute for mediation.
+
+
+
+
+
+
+
+
+
+
+36.1 (1) Les parties entre lesquelles survient un différend sur toute question relevant de la compétence de l’Office peuvent d’un commun accord faire appel à la médiation de celui-ci. Le cas échéant, l’Office renvoie sans délai le différend à la médiation.
+
+
+
+Demande des parties
+
+
+
+
+
+
+
+
+
+
+Appointment of mediator
+
+
+
+(2) When a dispute is referred for mediation, the Chairperson shall appoint one or two persons to mediate the dispute.
+
+
+
+
+
+
+
+
+
+(2) En cas de renvoi à la médiation par l’Office, le président nomme une ou deux personnes pour procéder à celle-ci.
+
+
+
+Nomination d’un médiateur
+
+
+
+
+
+
+
+
+
+
+Mediator not to act in other proceedings
+
+
+
+(3) A person who is appointed to mediate a dispute may not act in any other proceedings before the Agency in relation to that matter.
+
+
+
+
+
+
+
+
+
+(3) Aucune personne ainsi nommée ne peut agir dans le cadre d’autres procédures devant l’Office à l’égard des questions faisant l’objet de la médiation.
+
+
+
+Impossibilité d’agir
+
+
+
+
+
+
+
+
+
+
+Confidentiality of mediation
+
+
+
+(4) All matters relating to the mediation of a dispute shall be kept confidential, unless the parties to the dispute otherwise agree, and information provided by a party for the purposes of mediation shall not be used for any other purpose without the consent of that party.
+
+
+
+
+
+
+
+
+
+(4) Sauf accord contraire entre les parties, tout ce qui se rapporte à la médiation d’un différend est confidentiel; sauf consentement de la partie, les renseignements qu’elle fournit aux fins de médiation ne peuvent servir à d’autres fins.
+
+
+
+Caractère confidentiel
+
+
+
+
+
+
+
+
+
+
+Time limit for completion of mediation
+
+
+
+(5) Unless the parties to a dispute otherwise agree, the mediation of the dispute shall be completed within 30 days after the dispute is referred for mediation.
+
+
+
+
+
+
+
+
+
+(5) Sauf accord contraire entre les parties, la médiation doit être terminée dans un délai de trente jours après le renvoi.
+
+
+
+Délai
+
+
+
+
+
+
+
+
+
+
+Effect of mediation on proceedings
+
+
+
+(6) The mediation has the effect of
+
+
+
+
+
+
+
+
+
+
+(a) staying for the period of the mediation any proceedings before the Agency in so far as they relate to a matter that is the subject of the mediation; and
+
+
+
+
+
+
+
+
+
+
+(b) extending the time within which the Agency may make a decision or determination under this Act with regard to those proceedings by the period of the mediation.
+
+
+
+
+
+
+
+
+
+(6) La médiation a pour effet :
+
+
+
+Effet de la médiation sur les procédures
+
+
+
+
+
+a) de suspendre, jusqu’à ce qu’elle prenne fin, les procédures dans toute affaire dont l’Office est saisi, dans la mesure où elles touchent les questions faisant l’objet de la médiation;
+
+
+
+
+
+
+
+
+
+
+
+b) de prolonger, d’une période équivalant à sa durée, le délai dont dispose l’Office pour rendre en vertu de la présente loi une décision à l’égard de ces procédures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filing of mediation agreement
+
+
+
+(7) An agreement that is reached as a result of mediation may be filed with the Agency and, after filing, is enforceable as if it were an order of the Agency.
+
+
+
+
+
+
+
+
+
+(7) L’accord éventuellement conclu au terme de la médiation peut être déposé devant l’Office; le cas échéant, il est assimilé à un arrêté de l’Office en vue de son exécution.
+
+
+
+Dépôt de l’accord conclu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mediation or Arbitration
+
+
+
+
+
+
+
+
+
+Médiation ou arbitrage
+
+
+
+
+
+
+
+
+
+
+
+
+Request by all parties
+
+
+
+
+36.2 (1) If section 36.1 does not apply, the Agency may mediate or arbitrate a dispute relating to any railway matter covered under Part III or Part IV, or to the application of any rate or charge for the movement of goods by railways or for the provision of incidental services, if requested to do so by all parties to the dispute.
+
+
+
+
+
+
+
+
+
+
+36.2 (1) Si l’article 36.1 ne s’applique pas, l’Office peut, sur demande de toutes les parties en cause, agir à titre de médiateur ou d’arbitre à l’égard de tout différend portant sur toute question relative aux chemins de fer visée aux parties III ou IV ou sur l’application de prix ou de frais au transport de marchandises par chemin de fer ou à des services connexes.
+
+
+
+Demande des parties
+
+
+
+
+
+
+
+
+
+
+Reimbursement of costs
+
+
+
+(2) The parties are jointly and severally, or solidarily, liable to reimburse the Agency its costs arising from the mediation or arbitration.
+
+
+
+
+
+
+
+
+
+(2) Les demandeurs sont solidairement tenus de rembourser à l’Office les frais afférents à la médiation ou à l’arbitrage.
+
+
+
+Remboursement à l'Office
+
+
+
+
+
+
+
+
+
+
+Mediator not to act in other proceedings
+
+
+
+(3) The person who acts as mediator or arbitrator may not act in any other proceedings before the Agency in relation to any matter that was at issue in the mediation or arbitration.
+
+
+
+
+
+
+
+
+
+(3) La personne qui agit à titre de médiateur ou d’arbitre ne peut agir dans le cadre d’autres procédures devant l’Office à l’égard des questions qui ont fait l’objet de la médiation ou de l’arbitrage.
+
+
+
+Impossibilité d'agir
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) The portion of subsection 50(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. (1) Le passage du paragraphe 50(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations re information
+
+
+
+
+50. (1) The Governor in Council may make regulations requiring any persons referred to in subsection (1.1) who are subject to the legislative authority of Parliament to provide information, other than personal information as defined in section 3 of the Privacy Act, to the Minister, when and in the form and manner that the regulations may specify, for the purposes of
+
+
+
+
+
+
+
+
+
+
+50. (1) Le gouverneur en conseil peut, par règlement, exiger des personnes visées au paragraphe (1.1) qui sont assujetties à la compétence législative du Parlement qu’elles fournissent au ministre des renseignements, autres que les renseignements personnels au sens de l’article 3 de la Loi sur la protection des renseignements personnels, aux dates, en la forme et de la manière précisées dans le règlement, en vue :
+
+
+
+Règlements relatifs aux renseignements
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 50(1)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 50(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) reporting under section 52;
+
+
+
+
+
+
+
+
+
+
+b) de l’établissement du rapport prévu à l’article 52;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Paragraph 50(1)(d) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 50(1)d) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) any safety, security or subsidy program;
+
+
+
+
+
+
+
+
+
+
+d) des programmes de sécurité, de sûreté ou de subvention;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Section 50 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(4) L’article 50 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Persons referred to
+
+
+
+(1.1) The persons for the purposes of subsection (1) are
+
+
+
+
+
+
+
+
+
+
+(a) carriers;
+
+
+
+
+
+
+
+
+
+
+(b) owners or operators of
+
+
+
+
+
+
+
+
+
+
+(i) transportation undertakings,
+
+
+
+
+
+
+
+
+
+
+(ii) transportation works, infrastructure, facilities or assets, and
+
+
+
+
+
+
+
+
+
+
+(iii) grain handling undertakings;
+
+
+
+
+
+
+
+
+
+
+(c) providers of services in relation to transportation, including
+
+
+
+
+
+
+
+
+
+
+(i) the Canadian Air Transport Security Authority,
+
+
+
+
+
+
+
+
+
+
+(ii) NAV CANADA, a corporation incorporated on May 26, 1995 under Part II of the Canada Corporations Act, chapter C-32 of the Revised Statutes of Canada, 1970, and
+
+
+
+
+
+
+
+
+
+
+(iii) Pilotage Authorities named in the schedule to the Pilotage Act;
+
+
+
+
+
+
+
+
+
+
+(d) intermediaries involved in transportation movements who are specified in the regulations; and
+
+
+
+
+
+
+
+
+
+
+(e) any other person or class of persons specified in the regulations.
+
+
+
+
+
+
+
+
+
+(1.1) Les renseignements peuvent être exigés des personnes suivantes :
+
+
+
+Personnes visées
+
+
+
+
+
+a) les transporteurs;
+
+
+
+
+
+
+
+
+
+
+
+b) les propriétaires ou exploitants :
+
+
+
+
+
+
+
+
+
+
+(i) d’entreprises de transport,
+
+
+
+
+
+
+
+
+
+
+(ii) d’ouvrages, d’infrastructures ou d’installations de transport ou d’autres éléments d’actif liés au transport,
+
+
+
+
+
+
+
+
+
+
+(iii) d’entreprises de manutention de grain;
+
+
+
+
+
+
+
+
+
+
+
+c) les fournisseurs de services en matière de transport, notamment :
+
+
+
+
+
+
+
+
+
+
+(i) l’Administration canadienne de la sûreté du transport aérien,
+
+
+
+
+
+
+
+
+
+
+(ii) la société NAV CANADA, constituée le 26 mai 1995 sous le régime de la partie II de la Loi sur les corporations canadiennes, chapitre C-32 des Statuts revisés du Canada de 1970,
+
+
+
+
+
+
+
+
+
+
+(iii) les administrations de pilotage dont le nom figure à l’annexe de la Loi sur le pilotage;
+
+
+
+
+
+
+
+
+
+
+
+d) les intermédiaires prenant part au transport visés par règlement;
+
+
+
+
+
+
+
+
+
+
+
+e) toute autre personne visée par règlement, individuellement ou au titre de son appartenance à une catégorie déterminée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. The Act is amended by adding the following after section 50:
+
+
+
+
+
+
+
+
+
+
+9. La même loi est modifiée par adjonction, après l’article 50, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Information already provided
+
+
+
+
+50.1 For the purposes of subsection 50(1), if any information referred to in that subsection has already been provided to a department or agency of the Government of Canada, the Minister may request that department or agency to provide the information to the Minister.
+
+
+
+
+
+
+
+
+
+
+50.1 Pour l’application du paragraphe 50(1), le ministre peut demander, au ministère ou à l’organisme fédéral à qui les renseignements ont déjà été fournis, de les lui communiquer.
+
+
+
+Renseignements déjà fournis
+
+
+
+
+
+
+
+
+
+
+2000, c. 16, s. 2
+
+
+
+
+10. (1) Subsection 51(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. (1) Le paragraphe 51(2) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 16, art. 2
+
+
+
+
+
+
+
+
+
+
+Administrative use of information
+
+
+
+(2) Subsection (1) does not apply so as to prohibit
+
+
+
+
+
+
+
+
+
+
+(a) the communication of information to the Agency or to a minister of the Crown in right of Canada, the agent of any such minister or an officer or employee of, or adviser to, Her Majesty in right of Canada for the purposes of the administration of this Act or any other Act of Parliament or for the purposes of the development of policies;
+
+
+
+
+
+
+
+
+
+
+(b) the communication of information to persons referred to in paragraph 50(1.1)(c) that is necessary for them to carry out their duties and functions;
+
+
+
+
+
+
+
+
+
+
+(c) the reporting of information in an aggregated form that prevents information obtained from an identifiable person from being related to that person;
+
+
+
+
+
+
+
+
+
+
+(d) the communication of information by the Minister for the purpose of monitoring the grain transportation and handling system; or
+
+
+
+
+
+
+
+
+
+
+(e) the communication of information that is available to, or ascertainable by, the public.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) n’a pas pour effet :
+
+
+
+Usage administratif des renseignements
+
+
+
+
+
+a) d’empêcher la communication de renseignements à l’Office, à un ministre fédéral ou à son représentant, ou à un employé ou conseiller de Sa Majesté du chef du Canada dans le cadre de l’application de la présente loi ou de toute autre loi fédérale ou en vue de l’élaboration d’orientations;
+
+
+
+
+
+
+
+
+
+
+
+b) d’empêcher la communication de renseignements à toute personne visée à l’alinéa 50(1.1)c) si cela est nécessaire dans l’exercice de ses attributions;
+
+
+
+
+
+
+
+
+
+
+
+c) d’empêcher la communication de renseignements sous forme de compilation qui ne permet pas d’associer les renseignements obtenus d’une personne identifiable à celle-ci;
+
+
+
+
+
+
+
+
+
+
+
+d) d’empêcher la communication par le ministre de renseignements visant la surveillance du système de transport et de manutention du grain;
+
+
+
+
+
+
+
+
+
+
+
+e) d’empêcher la communication de renseignements auxquels le public a accès ou qu’il peut obtenir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms and conditions
+
+
+
+(2.1) The Minister may, with the approval of the Governor in Council, make regulations respecting the terms and conditions for the communication of information referred to in subsection (2).
+
+
+
+
+
+
+
+
+
+(2.1) Le ministre peut, avec l’agrément du gouverneur en conseil, prendre des règlements régissant les modalités de la communication de renseignements visée au paragraphe (2).
+
+
+
+Modalités de la communication
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 51 of the Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+(2) L’article 51 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Requirement for other persons to maintain confidentiality
+
+
+
+(4) Any person who receives information from the Minister that is confidential under this Act shall not knowingly disclose that information and shall take the measures necessary to maintain its confidentiality.
+
+
+
+
+
+
+
+
+
+(4) La personne à qui le ministre communique des renseignements qui sont confidentiels en application de la présente loi ne peut, sciemment, les communiquer à son tour; elle prend les mesures nécessaires pour en préserver le caractère confidentiel.
+
+
+
+Obligation de ceux à qui les renseignements sont communiqués
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. (1) Subsection 52(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. (1) Le  paragraphe 52(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Industry overview
+
+
+
+
+52. (1) Each year before the end of May, the Minister shall, using the most current information available, prepare and lay before both Houses of Parliament a report providing a brief overview of the state of transportation in Canada.
+
+
+
+
+
+
+
+
+
+
+52. (1) Chaque année, avant la fin du mois de mai, le ministre établit, en utilisant les meilleures informations connues, un rapport qu'il dépose devant chaque chambre du Parlement et qui résume la situation des transports au Canada.
+
+
+
+Rapport du ministre
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 52(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 52(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Industry review
+
+
+
+(2) Every five years, the report referred to in subsection (1) shall be expanded to a comprehensive review of the state of transportation in Canada which shall include
+
+
+
+
+
+
+
+
+
+
+(a) the financial performance of each mode of transportation and its contribution to the Canadian economy;
+
+
+
+
+
+
+
+
+
+
+(b) the extent to which carriers and modes of transportation were provided resources, facilities and services at public expense;
+
+
+
+
+
+
+
+
+
+
+(c) the extent to which carriers and modes of transportation received compensation, indi­- rectly and directly, for the resources, facilities and services that were required to be provided as an imposed public duty;
+
+
+
+
+
+
+
+
+
+
+(c.1) the long term outlook and trends in transportation in Canada; and
+
+
+
+
+
+
+
+
+
+
+(d) any other transportation matters that the Minister considers appropriate.
+
+
+
+
+
+
+
+
+
+(2) Tous les cinq ans, le ministre présente un rapport approfondi de la situation des transports au Canada qui traite notamment :
+
+
+
+Rapport du ministre
+
+
+
+
+
+a) du rendement économique des modes de transport et de leur contribution à l'économie canadienne;
+
+
+
+
+
+
+
+
+
+
+
+b) de la mesure dans laquelle les fonds publics ont servi à mettre des ressources, des installations et des services à la disposition des transporteurs et des modes de transport;
+
+
+
+
+
+
+
+
+
+
+
+c) de la mesure dans laquelle les transporteurs et les modes de transport ont été indemnisés, directement ou indirectement, du coût des ressources, installations et services qu'ils sont tenus de mettre à la disposition du public;
+
+
+
+
+
+
+
+
+
+
+
+c.1) des perspectives à long terme et des tendances dans le domaine des transports au Canada;
+
+
+
+
+
+
+
+
+
+
+
+d) de toute autre question de transport que le ministre estime indiquée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. (1) Subsections 53(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. (1) Les paragraphes 53(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Statutory review
+
+
+
+
+53. (1) The Minister shall, no later than eight years after the day this subsection comes into force, appoint one or more persons to carry out a comprehensive review of the operation of this Act and any other Act of Parliament for which the Minister is responsible that pertains to the economic regulation of a mode of transportation or to transportation activities under the legislative authority of Parliament.
+
+
+
+
+
+
+
+
+
+
+53. (1) Le ministre nomme, dans les huit ans suivant la date d’entrée en vigueur du présent paragraphe, une ou plusieurs personnes chargées de procéder à un examen complet de l’application de la présente loi et de toute autre loi fédérale dont le ministre est responsable et qui porte sur la réglementation économique d’un mode de transport ou sur toute activité de transport assujettie à la compétence législative du Parlement.
+
+
+
+Examen complet
+
+
+
+
+
+
+
+
+
+
+Objective of review
+
+
+
+(2) The person or persons conducting the review shall assess whether the legislation referred to in subsection (1) provides Canadians with a transportation system that is consistent with the national transportation policy set out in section 5 and, if necessary or desirable, may recommend amendments to
+
+
+
+
+
+
+
+
+
+
+(a) the national transportation policy; and
+
+
+
+
+
+
+
+
+
+
+(b) the legislation referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Les personnes qui effectuent l’examen vérifient si les lois visées au paragraphe (1) fournissent aux Canadiens un système de transport qui est conforme à la politique nationale des transports énoncée à l’article 5. Si elles l’estiment utile, elles peuvent recommander des modifications :
+
+
+
+But de l’examen
+
+
+
+
+
+a) à cette politique;
+
+
+
+
+
+
+
+
+
+
+
+b) aux lois visées au paragraphe (1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 53(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 53(5) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(5) The review shall be completed and a report of the review submitted to the Minister within 18 months after the appointment referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+(5) L’examen doit être terminé, et le rapport sur celui-ci présenté au ministre, dans les dix-huit mois suivant la date de la nomination prévue au paragraphe (1).
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. The Act is amended by adding the following after section 53:
+
+
+
+
+
+
+
+
+
+
+13. La même loi est modifiée par adjonction, après l’article 53, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Review of Mergers and Acquisitions
+
+
+
+
+
+
+
+
+
+Examen des fusions et acquisitions
+
+
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+
+53.1 (1) Every person who is required to notify the Commissioner of Competition under subsection 114(1) of the Competition Act of a proposed transaction that involves a transportation undertaking shall, at the same time as the Commissioner is notified and, in any event, not later than the date by which the person is required to notify the Commissioner,
+
+
+
+
+
+
+
+
+
+
+(a) give notice of the proposed transaction to the Minister; and
+
+
+
+
+
+
+
+
+
+
+(b) in the case of a proposed transaction that involves an air transportation undertaking, also give notice of the transaction to the Agency.
+
+
+
+
+
+
+
+
+
+
+53.1 (1) La personne qui doit, au titre du paragraphe 114(1) de la Loi sur la concurrence, donner avis au commissaire de la concurrence d’une transaction portant sur une entreprise de transport qu’elle se propose de conclure est tenue, à la date à laquelle elle lui en donne avis et, en tout état de cause, au plus tard à la date à laquelle elle est tenue de le faire :
+
+
+
+Avis
+
+
+
+
+
+a) d’en donner avis au ministre;
+
+
+
+
+
+
+
+
+
+
+
+b) s’agissant d’une entreprise de transport aérien, d’en donner également avis à l’Office.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+
+
+
+(2) A notice given to the Minister or to the Agency shall, subject to the regulations, contain the information required under subsection 114(1) of the Competition Act. The notice shall also contain any information with respect to the public interest as it relates to national transportation that is required under any guidelines that shall be issued and published by the Minister. After receipt of a notice, the Minister may require the person who has given the notice to provide further information.
+
+
+
+
+
+
+
+
+
+(2) L’avis donné au ministre ou à l’Office comprend, sous réserve des règlements, les renseignements exigés au titre du paragraphe 114(1) de la Loi sur la concurrence. Il comprend en outre les renseignements relatifs à l’intérêt public en matière de transports nationaux exigés au titre des lignes directrices que le ministre établit et publie. Ce dernier peut, après réception de l’avis, exiger de la personne l’ayant donné qu’elle fournisse des renseignements supplémentaires.
+
+
+
+Renseignements
+
+
+
+
+
+
+
+
+
+
+Guidelines
+
+
+
+(2.1) The guidelines referred to in subsection (2) shall be elaborated in consultation with the Competition Bureau and shall include factors that may be considered to determine whether a proposed transaction raises issues with respect to the public interest as it relates to national transportation.
+
+
+
+
+
+
+
+
+
+(2.1) Les lignes directrices sont élaborées de concert avec le Bureau de la concurrence et comprennent les facteurs qui peuvent être pris en compte pour établir si la transaction soulève des questions d'intérêt public en matière de transports nationaux.
+
+
+
+Lignes directrices
+
+
+
+
+
+
+
+
+
+
+Not statutory instruments
+
+
+
+(3) The guidelines referred to in subsection (2) are not statutory instruments within the meaning of the Statutory Instruments Act.
+
+
+
+
+
+
+
+
+
+(3) Les lignes directrices ne sont pas des textes réglementaires au sens de la Loi sur les textes réglementaires.
+
+
+
+
+Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+No public interest issues
+
+
+
+(4) If the Minister is of the opinion that the proposed transaction does not raise issues with respect to the public interest as it relates to national transportation, the Minister shall, within 42 days after a person gives notice under subsection (1), give notice of the opinion to that person, in which case sections 53.2 and 53.3 do not apply in respect of that transaction.
+
+
+
+
+
+
+
+
+
+(4) S’il estime que la transaction ne soulève aucune question d’intérêt public en matière de transports nationaux, le ministre en avise la personne qui lui a donné l’avis mentionné au paragraphe (1), dans les quarante-deux jours suivant celui-ci. Dans ce cas, les articles 53.2 et 53.3 ne s’appliquent pas à la transaction.
+
+
+
+Aucune question d’intérêt public
+
+
+
+
+
+
+
+
+
+
+Public interest issues
+
+
+
+(5) If the Minister is of the opinion that the proposed transaction raises issues with respect to the public interest as it relates to national transportation, the Minister may direct the Agency to examine those issues under section 49 or appoint and direct any person to examine those issues under section 7.1 of the Department of Transport Act.
+
+
+
+
+
+
+
+
+
+(5) S’il estime que la transaction soulève des questions d’intérêt public en matière de transports nationaux, le ministre peut, au titre de l’article 49, déléguer à l’Office la charge d’étudier ces questions ou, au titre de l’article 7.1 de la Loi sur le ministère des Transports, charger une personne de les étudier.
+
+
+
+Question d’intérêt public
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(6) The Agency or person, as the case may be, shall report to the Minister within 150 days after being directed under subsection (5), or within any longer period that the Minister may allow.
+
+
+
+
+
+
+
+
+
+(6) L’Office ou la personne, selon le cas, fait rapport au ministre dans les cent cinquante jours suivant la date où celui-ci l’a chargé de l’étude ou dans le délai plus long qu’il peut lui accorder.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+
+53.2 (1) No person shall complete a proposed transaction referred to in subsection 53.1(1) unless the transaction is approved by the Governor in Council and, in the case of a transaction that involves an air transportation undertaking, the Agency determines that the transaction would result in an undertaking that is Canadian as defined in subsection 55(1).
+
+
+
+
+
+
+
+
+
+
+53.2 (1) Il est interdit de conclure la transaction visée au paragraphe 53.1(1), sauf si le gouverneur en conseil l’a agréée et, dans le cas où elle porte sur une entreprise de transport aérien, si l’Office a conclu qu’elle donnerait lieu à une entreprise de transport aérien ayant la qualité de Canadien au sens du paragraphe 55(1).
+
+
+
+Interdiction
+
+
+
+
+
+
+
+
+
+
+Commissioner’s report
+
+
+
+(2) The Commissioner of Competition shall within 150 days after the Commissioner is notified of the proposed transaction under subsection 114(1) of the Competition Act, or within any longer period that the Minister may allow, report to the Minister and the parties to the transaction on any concerns regarding potential prevention or lessening of competition that may occur as a result of the transaction.
+
+
+
+
+
+
+
+
+
+(2) Dans les cent cinquante jours suivant la date où le commissaire de la concurrence est avisé de la transaction au titre du paragraphe 114(1) de la Loi sur la concurrence ou dans le délai plus long que le ministre peut lui accorder, il fait rapport au ministre et aux parties à la transaction des questions relatives à l’empêchement ou à la diminution de la concurrence qui pourrait en résulter.
+
+
+
+Rapport du commissaire
+
+
+
+
+
+
+
+
+
+
+Report to be made public
+
+
+
+(3) The report shall be made public immediately after its receipt by the Minister.
+
+
+
+
+
+
+
+
+
+(3) Le rapport est rendu public aussitôt après sa réception par le ministre.
+
+
+
+Publication
+
+
+
+
+
+
+
+
+
+
+Concerns relating to public interest and competition
+
+
+
+(4) After receipt of the Commissioner’s report and any report given under subsection 53.1(6), but before the Minister makes a recommendation for the purposes of subsection (7), the Minister shall
+
+
+
+
+
+
+
+
+
+
+(a) consult with the Commissioner regarding any overlap between any concerns that the Minister has in respect of the proposed transaction with regard to the public interest as it relates to national transportation and any concerns in respect of the transaction that are raised in the Commissioner’s report; and
+
+
+
+
+
+
+
+
+
+
+(b) request the parties to the transaction to address
+
+
+
+
+
+
+
+
+
+
+(i) with the Minister any concerns that the Minister has in respect of the transaction with regard to the public interest as it relates to national transportation, and
+
+
+
+
+
+
+
+
+
+
+(ii) with the Commissioner any concerns that the Commissioner has regarding potential prevention or lessening of competition that may occur as a result of the transaction.
+
+
+
+
+
+
+
+
+
+(4) Après réception du rapport du commissaire et de tout rapport fait aux termes du paragraphe 53.1(6), mais avant de recommander au gouverneur en conseil d’agréer la transaction, le ministre :
+
+
+
+Questions d’intérêt public et questions relatives à la concurrence
+
+
+
+
+
+a) consulte le commissaire au sujet de tout chevauchement entre les questions soulevées dans le rapport de celui-ci et les questions d’intérêt public en matière de transports nationaux soulevées, selon lui, par la transaction;
+
+
+
+
+
+
+
+
+
+
+
+b) demande aux parties d’étudier :
+
+
+
+
+
+
+
+
+
+
+(i) avec lui les questions d’intérêt public en matière de transports nationaux soulevées, selon lui, par la transaction,
+
+
+
+
+
+
+
+
+
+
+(ii) avec le commissaire les questions relatives à l’empêchement ou à la diminution de la concurrence qui, selon celui-ci, pourrait résulter de la transaction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Measures to address concerns
+
+
+
+(5) The parties to the transaction shall
+
+
+
+
+
+
+
+
+
+
+(a) after conferring with the Minister regarding concerns referred to in subparagraph (4)(b)(i), inform the Minister of any measures they are prepared to undertake to address those concerns; and
+
+
+
+
+
+
+
+
+
+
+(b) after conferring with the Commissioner regarding concerns identified under subparagraph (4)(b)(ii), inform the Commissioner of any measures they are prepared to undertake to address those concerns.
+
+
+
+
+
+
+
+
+
+
+The parties may propose revisions to the transaction.
+
+
+
+
+
+
+
+
+
+(5) Les parties à la transaction informent :
+
+
+
+Prise de mesures par les parties
+
+
+
+
+
+a) le ministre, après s’être entretenues avec lui au sujet des questions visées au sous-alinéa (4)b)(i), des mesures qu’elles sont disposées à prendre pour répondre à ces questions;
+
+
+
+
+
+
+
+
+
+
+
+b) le commissaire, après s’être entretenues avec lui au sujet des questions visées au sous-alinéa (4)b)(ii), des mesures qu’elles sont disposées à prendre pour répondre à ces questions.
+
+
+
+
+
+
+
+
+
+
+Elles peuvent proposer des modifications à la transaction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preconditions to recommendation
+
+
+
+(6) Before making a recommendation for the purposes of subsection (7), the Minister shall obtain the Commissioner’s assessment of the adequacy of any undertaking proposed by the parties to address the concerns that have been identified under subparagraph (4)(b)(ii) and the effects of any proposed revisions to the transaction on those concerns.
+
+
+
+
+
+
+
+
+
+(6) Le ministre, avant de recommander au gouverneur en conseil d’agréer la transaction, obtient l’opinion du commissaire sur la justesse des engagements proposés par les parties pour répondre aux questions visées au sous-alinéa (4)b)(ii) et sur l’effet, le cas échéant, des modifications à la transaction proposées sur ces questions.
+
+
+
+Opinion du commissaire
+
+
+
+
+
+
+
+
+
+
+Approval of Governor in Council
+
+
+
+(7) If the Governor in Council is satisfied that it is in the public interest to approve the proposed transaction, taking into account any revisions to it proposed by the parties and any measures they are prepared to undertake, the Governor in Council may, on the recommendation of the Minister, approve the transaction and specify any terms and conditions that the Governor in Council considers appropriate. The Governor in Council shall indicate those terms and conditions that relate to potential prevention or lessening of competition and those that relate to the public interest as it relates to national transportation.
+
+
+
+
+
+
+
+
+
+(7) Le gouverneur en conseil peut, sur recommandation du ministre, agréer la transaction selon les conditions qu’il estime indiquées s’il est convaincu que celle-ci servirait l’intérêt public, compte tenu, le cas échéant, des modifications proposées par les parties et des mesures qu’elles sont disposées à prendre. Il précise celles des conditions qui portent sur l’empêchement ou la diminution éventuels de la concurrence et celles qui portent sur des questions d’intérêt public en matière de transports nationaux.
+
+
+
+Agrément du gouverneur en conseil
+
+
+
+
+
+
+
+
+
+
+Variation of terms and conditions
+
+
+
+(8) On application by a person who is subject to terms and conditions specified under subsection (7), the Governor in Council may, on the recommendation of the Minister, vary or rescind the terms and conditions. If the terms and conditions to be varied or rescinded affect competition, the Minister shall consult with the Commissioner before making the recommendation.
+
+
+
+
+
+
+
+
+
+(8) Le gouverneur en conseil peut, sur recommandation du ministre, modifier ou annuler les conditions de l’agrément à la demande de toute personne tenue de s’y conformer. Si ces conditions portent sur la concurrence, le ministre consulte le commissaire avant de présenter sa recommandation.
+
+
+
+Modification des conditions
+
+
+
+
+
+
+
+
+
+
+Commissioner’s representations
+
+
+
+(9) If the Minister directs the Agency under section 49 to inquire into any matter or thing to assist the Minister in making a recommendation under subsection (7) or (8), the Agency shall give notice of the inquiry to the Commissioner and allow the Commissioner to make representations to the Agency.
+
+
+
+
+
+
+
+
+
+(9) Si le ministre lui délègue, au titre de l’article 49, la charge d’enquêter sur une question pour l’aider à faire la recommandation prévue aux paragraphes (7) ou (8), l’Office avise le commissaire de la tenue de l’enquête et lui donne la possibilité de présenter des observations.
+
+
+
+Observations du commissaire
+
+
+
+
+
+
+
+
+
+
+Compliance with terms and conditions
+
+
+
+(10) Every person who is subject to terms and conditions shall comply with them.
+
+
+
+
+
+
+
+
+
+(10) Toute personne assujettie aux conditions visées aux paragraphes (7) ou (8) est tenue de s’y conformer.
+
+
+
+Obligation de se conformer aux conditions
+
+
+
+
+
+
+
+
+
+
+Canadian
+
+
+
+
+53.3 The Agency shall determine whether a proposed transaction referred to in subsection 53.1(1) that involves an air transportation undertaking would result in an undertaking that is Canadian as defined in subsection 55(1).
+
+
+
+
+
+
+
+
+
+
+53.3 Dans le cas où la transaction visée au paragraphe 53.1(1) porte sur une entreprise de transport aérien, l’Office vérifie si la transaction donnerait lieu à une entreprise de transport aérien ayant la qualité de Canadien au sens du paragraphe 55(1).
+
+
+
+Qualité de Canadien
+
+
+
+
+
+
+
+
+
+
+Order of divestiture — application by Minister
+
+
+
+
+53.4 (1) If a person contravenes subsection 53.2(1) or (10) with respect to a term or condition that relates to the public interest as it relates to national transportation, a superior court may, on application by the Minister, order the person to cease the contravention or do any thing that is required to be done, and may make any other order that it considers appropriate, including an order requiring the divestiture of assets. The Minister shall notify the Commissioner of Competition before making an application.
+
+
+
+
+
+
+
+
+
+
+53.4 (1) En cas de contravention aux paragraphes 53.2(1) ou (10) à l’égard de conditions portant sur des questions d’intérêt public en matière de transports nationaux, toute cour supérieure peut, à la demande du ministre, enjoindre au contrevenant de mettre fin à la contravention ou d’y remédier et rendre toute autre ordonnance qu’elle estime indiquée, notamment obliger une personne à se départir d’éléments d’actif. Le ministre avise le commissaire de la concurrence avant de présenter la demande.
+
+
+
+Ordonnance en cas de contravention des conditions
+
+
+
+
+
+
+
+
+
+
+Order of divestiture — application by Commissioner
+
+
+
+(2) If a person contravenes subsection 53.2(10) with respect to a term or condition that relates to potential prevention or lessening of competition, a superior court may, on application by the Commissioner, order the person to cease the contravention or do any thing that is required to be done, and may make any other order that it considers appropriate, including an order requiring the divestiture of assets. The Commissioner shall notify the Minister before making an application.
+
+
+
+
+
+
+
+
+
+(2) En cas de contravention au paragraphe 53.2(10) à l’égard de conditions portant sur l’empêchement ou la diminution éventuels de la concurrence, toute cour supérieure peut, à la demande du commissaire, enjoindre au contrevenant de mettre fin à la contravention ou d’y remédier et rendre toute autre ordonnance qu’elle estime indiquée, notamment obliger une personne à se départir d’éléments d’actif. Le commissaire avise le ministre avant de présenter la demande.
+
+
+
+Ordonnance en cas de contravention des conditions
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+53.5 The Governor in Council may, on the recommendation of the Minister, make regulations
+
+
+
+
+
+
+
+
+
+
+(a) specifying information required in a notice under subsection 53.1(1); and
+
+
+
+
+
+
+
+
+
+
+(b) exempting classes of transactions from the application of sections 53.1 to 53.3.
+
+
+
+
+
+
+
+
+
+
+53.5 Le gouverneur en conseil peut, par règlement pris sur recommandation du ministre :
+
+
+
+Règlements
+
+
+
+
+
+a) prévoir les renseignements à inclure dans l’avis mentionné au paragraphe 53.1(1);
+
+
+
+
+
+
+
+
+
+
+
+b) exempter toute catégorie de transactions de l’application des articles 53.1 à 53.3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offence — subsection 53.1(1)
+
+
+
+
+53.6 (1) Every person who contravenes subsection 53.1(1) is guilty of an offence and is liable
+
+
+
+
+
+
+
+
+
+
+(a) on conviction on indictment, to a fine not exceeding $50,000; or
+
+
+
+
+
+
+
+
+
+
+(b) on summary conviction, to a fine not exceeding $25,000.
+
+
+
+
+
+
+
+
+
+
+53.6 (1) Quiconque contrevient au paragraphe 53.1(1) commet une infraction et encourt, sur déclaration de culpabilité :
+
+
+
+Infraction : par. 53.1(1)
+
+
+
+
+
+a) par mise en accusation, une amende maximale de 50 000 $;
+
+
+
+
+
+
+
+
+
+
+
+b) par procédure sommaire, une amende maximale de 25 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Offence — subsection 53.2(1) or (10)
+
+
+
+(2) Every person who contravenes subsection 53.2(1) or (10) is guilty of an indictable offence and is liable to imprisonment for a term not exceeding five years or to a fine not exceeding $10,000,000, or to both.
+
+
+
+
+
+
+
+
+
+(2) Quiconque contrevient aux paragraphes 53.2(1) ou (10) commet un acte criminel passible d’un emprisonnement maximal de cinq ans et d’une amende maximale de 10 000 000 $, ou de l’une de ces peines.
+
+
+
+Infraction : par. 53.2(1) ou (10)
+
+
+
+
+
+
+
+
+
+
+Continuing offence
+
+
+
+(3) If an offence under subsection 53.2(10) is committed or continued on more than one day, the person who commits it is liable to be convicted for a separate offence for each day on which it is committed or continued.
+
+
+
+
+
+
+
+
+
+(3) Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction visée au paragraphe 53.2(10).
+
+
+
+Infractions continues
+
+
+
+
+
+
+
+
+
+
+Officers, etc., of corporations
+
+
+
+(4) If a corporation commits an offence under subsection (1) or (2), any officer, director or agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for the offence whether or not the corporation has been prosecuted or convicted.
+
+
+
+
+
+
+
+
+
+(4) En cas de perpétration par une personne morale d’une infraction visée aux paragraphes (1) ou (2), ceux de ses administrateurs, dirigeants ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme coauteurs de l’infraction et sont passibles, sur déclaration de culpabilité, de la peine prévue pour l’infraction en cause, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+
+
+Administrateurs, dirigeants et mandataires
+
+
+
+
+
+
+
+
+
+
+Sections 174 and 175 do not apply
+
+
+
+(5) Sections 174 and 175 do not apply in respect of an offence committed under subsection (1) or (2).
+
+
+
+
+
+
+
+
+
+(5) Les articles 174 et 175 ne s’appliquent pas aux infractions visées aux paragraphes (1) et (2).
+
+
+
+Non-application des articles 174 et 175
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. (1) Subsection 56(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. (1) Le paragraphe 56(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Non-application of Part
+
+
+
+
+56. (1) This Part does not apply to a person that uses an aircraft on behalf of the Canadian Armed Forces or any other armed forces cooperating with the Canadian Armed Forces.
+
+
+
+
+
+
+
+
+
+
+56. (1) La présente partie ne s’applique pas aux personnes qui utilisent un aéronef pour le compte des Forces armées canadiennes ou des forces armées coopérant avec celles-ci.
+
+
+
+Exclusions — forces armées
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 56 of the Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+(2) L’article 56 de la même loi est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Emergency service exclusion
+
+
+
+(3) This Part does not apply to the provision of an air service if the federal government or a provincial or a municipal government declares an emergency under federal or provincial law, and that government directly or indirectly requests that the air service be provided to respond to the emergency.
+
+
+
+
+
+
+
+
+
+(3) La présente partie ne s’applique pas à la fourniture d’un service aérien dans le cas où le gouvernement fédéral, le gouvernement d’une province ou une administration municipale déclare en vertu d’une loi fédérale ou provinciale qu’une situation de crise existe et présente directement ou indirectement une demande en vue d’obtenir ce service pour faire face à la situation de crise.
+
+
+
+Exclusion — urgences
+
+
+
+
+
+
+
+
+
+
+Public interest
+
+
+
+(4) The Minister may, by order, prohibit the provision of an air service under subsection (3) or require the discontinuance of that air service if, in the opinion of the Minister, it is in the public interest to do so.
+
+
+
+
+
+
+
+
+
+(4) Le ministre peut, par arrêté, interdire la fourniture d’un service aérien au titre du paragraphe (3) ou exiger qu’il y soit mis fin s’il estime qu’il est dans l’intérêt public de le faire.
+
+
+
+Intérêt public
+
+
+
+
+
+
+
+
+
+
+Not a statutory instrument
+
+
+
+(5) The order is not a statutory instrument within the meaning of the Statutory Instruments Act.
+
+
+
+
+
+
+
+
+
+(5) Les arrêtés ne sont pas des textes réglementaires au sens de la Loi sur les textes réglementaires.
+
+
+
+
+Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 2
+
+
+
+
+15. The heading before section 56.1 and sections 56.1 to 56.7 of the Act are repealed.
+
+
+
+
+
+
+
+
+
+
+15. L’intertitre précédant l’article 56.1 et les articles 56.1 à 56.7 de la même loi sont abrogés.
+
+
+
+2000, ch. 15, art. 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. Section 59 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+16. L’article 59 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibition re sale
+
+
+
+
+59. No person shall sell, cause to be sold or publicly offer for sale in Canada an air service unless, if required under this Part, a person holds a licence issued under this Part in respect of that service and that licence is not suspended.
+
+
+
+
+
+
+
+
+
+
+59. La vente, directe ou indirecte, et l’offre publique de vente, au Canada, d’un service aérien sont subordonnées à la détention, pour celui-ci, d’une licence en règle délivrée sous le régime de la présente partie.
+
+
+
+Opérations visant le service
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 3
+
+
+
+
+17. Subsection 64(1.2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. Le paragraphe 64(1.2) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 3
+
+
+
+
+
+
+
+
+
+
+Discussion with elected officials
+
+
+
+(1.2) A licensee shall, as soon as practicable, provide an opportunity for elected officials of the municipal or local government of the community of the point or points, as the case may be, to meet and discuss with the licensee the impact of the proposed discontinuance or reduction.
+
+
+
+
+
+
+
+
+
+(1.2) Le licencié offre dans les meilleurs délais aux représentants élus des administrations municipales ou locales de la collectivité où se trouvent le ou les points touchés la possibilité de le rencontrer et de discuter avec lui de l’effet qu’auraient l’interruption ou la réduction du service.
+
+
+
+Consultation
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. Paragraph 65(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+18. L’article 65 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) for such a period, not exceeding 120 days after the date of the finding by the Agency, as the Agency deems appropriate; and
+
+
+
+
+
+
+
+
+
+
+65. L’Office, saisi d’une plainte formulée par écrit à l’encontre d’un licencié, peut, s’il constate que celui-ci ne s’est pas conformé à l’article 64 et que les circonstances permettent à celui-ci de se conformer à l’arrêté, ordonner à celui-ci de rétablir le service pour la période, d’au plus cent vingt jours après la date de son constat, qu’il estime indiquée, et selon la fréquence qu’il peut fixer.
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 4
+
+
+
+
+19. (1) Subsection 66(2) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+19. (1) Le paragraphe 66(2) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 4
+
+
+
+
+
+
+
+
+
+
+Gamme de prix insuffisante
+
+
+
+
+(2) S’il conclut, sur dépôt d’une plainte, qu’un licencié, y compris les licenciés de son groupe, est la seule personne à offrir un service intérieur entre deux points, d’une part, et que celui-ci offre une gamme de prix ou de taux insuffisante à l’égard de ce service, d’autre part, l’Office peut, par ordonnance, enjoindre au licencié, pour la période qu’il estime indiquée dans les circonstances, de publier et d’appliquer à l’égard de ce service un ou plusieurs prix ou taux supplémentaires qu’il estime indiqués dans les circonstances.
+
+
+
+
+
+
+
+
+
+
+(2) S’il conclut, sur dépôt d’une plainte, qu’un licencié, y compris les licenciés de son groupe, est la seule personne à offrir un service intérieur entre deux points, d’une part, et que celui-ci offre une gamme de prix ou de taux insuffisante à l’égard de ce service, d’autre part, l’Office peut, par ordonnance, enjoindre au licencié, pour la période qu’il estime indiquée dans les circonstances, de publier et d’appliquer à l’égard de ce service un ou plusieurs prix ou taux supplémentaires qu’il estime indiqués dans les circonstances.
+
+
+
+Gamme de prix insuffisante
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 4
+
+
+
+(2) The portion of subsection 66(3) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le passage du paragraphe 66(3) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 4
+
+
+
+
+
+
+
+
+
+
+Relevant information
+
+
+
+(3) When making a finding under subsection (1) or (2) that a fare, cargo rate or increase in a fare or cargo rate published or offered in respect of a domestic service between two points is unreasonable or that a licensee is offering an inadequate range of fares or cargo rates in respect of a domestic service between two points, the Agency may take into consideration any information or factor that it considers relevant, including
+
+
+
+
+
+
+
+
+
+(3) Pour décider, au titre des paragraphes (1) ou (2), si le prix, le taux ou l’augmentation de prix ou de taux publiés ou appliqués à l’égard d’un service intérieur entre deux points sont excessifs ou si le licencié offre une gamme de prix ou de taux insuffisante à l’égard d’un service intérieur entre deux points, l’Office peut tenir compte de tout renseignement ou facteur qu’il estime pertinent, notamment :
+
+
+
+Facteurs à prendre en compte
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 4
+
+
+
+(3) Paragraph 66(3)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 66(3)b) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+(b) fares or cargo rates applicable to similar domestic services offered by the licensee and one or more other licensees, including terms and conditions related to the fares or cargo rates, the number of seats available at those fares and the cargo capacity and cargo container types available at those rates;
+
+
+
+
+
+
+
+
+
+
+b) des prix ou des taux applicables à l’égard des services intérieurs similaires offerts par le licencié et un ou plusieurs autres licenciés, y compris les conditions relatives aux prix ou aux taux applicables, le nombre de places offertes à ces prix et la capacité de transport et les types de conteneurs pour le transport disponibles à ces taux;
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 4
+
+
+
+(4) Paragraph 66(3)(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) L’alinéa 66(3)c) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+(c) any other information provided by the licensee, including information that the licensee is required to provide under section 83.
+
+
+
+
+
+
+
+
+
+
+c) des autres renseignements que lui fournit le licencié, y compris ceux qu’il est tenu de fournir au titre de l’article 83.
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 4
+
+
+
+(5) Subsection 66(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe 66(4) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 4
+
+
+
+
+
+
+
+
+
+
+Alternative domestic services
+
+
+
+(4) The Agency may find that a licensee is the only person providing a domestic service between two points if every alternative domestic service between those points is, in the Agency’s opinion, unreasonable, taking into consideration the number of stops, the number of seats offered, the frequency of service, the flight connections and the total travel time and, more specifically, in the case of cargo, the cargo capacity and cargo container types available.
+
+
+
+
+
+
+
+
+
+(4) L’Office peut conclure qu’un licencié est la seule personne à offrir un service intérieur entre deux points s’il estime que tous les autres services intérieurs offerts entre ces points sont insuffisants, compte tenu du nombre d’escales, de correspondances ou de places disponibles, de la fréquence des vols et de la durée totale du voyage et, plus précisément, dans le cas du transport de marchandises, de la capacité de transport et des types de conteneurs disponibles.
+
+
+
+Services insuffisants
+
+
+
+
+
+
+
+
+
+
+Alternative service
+
+
+
+(4.1) The Agency shall not make an order under subsection (1) or (2) in respect of a licensee found by the Agency to be the only person providing a domestic service between two points if, in the Agency’s opinion, there exists another domestic service that is not between the two points but is a reasonable alternative taking into consideration the conven­ience of access to the service, the number of stops, the number of seats offered, the frequency of service, the flight connections and the total travel time and, more specifically, in the case of cargo, the cargo capacity and cargo container types available.
+
+
+
+
+
+
+
+
+
+(4.1) L’Office ne rend pas l’ordonnance prévue aux paragraphes (1) ou (2) à l’égard du licencié s’il conclut que celui-ci est la seule personne à offrir un service intérieur entre deux points et s’il estime qu’il existe un autre service intérieur, qui n’est pas offert entre ces deux points, mais qui est suffisant compte tenu de la commodité de l’accès au service, du nombre d’escales, de correspondances ou de places disponibles, de la fréquence des vols et de la durée totale du voyage et, plus précisément, dans le cas du transport de marchandises, de la capacité de transport et des types de conteneurs disponibles.
+
+
+
+Autres services
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 4
+
+
+
+(6) Subsections 66(6) and (7) of the Act are repealed.
+
+
+
+
+
+
+
+
+
+(6) Les paragraphes 66(6) et (7) de la même loi sont abrogés.
+
+
+
+2000, ch. 15, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+20. Paragraph 67(1)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+20. L’alinéa 67(1)a) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) display in a prominent place at the business offices of the licensee a sign indicating that the tariffs for the domestic service offered by the licensee, including the terms and conditions of carriage, are available for public inspection at the business offices of the licensee, and allow the public to make such inspections;
+
+
+
+
+
+
+(a.1) publish the terms and conditions of carriage on any Internet site used by the licensee for selling the domestic service offered by the licensee;
+
+
+
+
+
+
+
+
+
+
+a) poser à ses bureaux, dans un endroit bien en vue, une affiche indiquant que les tarifs et notamment les conditions de transport pour le service intérieur qu’il offre sont à la disposition du public pour consultation à ses bureaux et permettre au public de les consulter;
+
+
+
+
+
+
+
+a.1) publier les conditions de transport sur tout site Internet qu’il utilise pour vendre le service intérieur;
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 6
+
+
+
+
+21. The portion of section 67.1 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+21. Le passage de l’article 67.1 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 6
+
+
+
+
+
+
+
+
+
+
+Fares or rates not set out in tariff
+
+
+
+
+67.1 If, on complaint in writing to the Agency by any person, the Agency finds that, contrary to subsection 67(3), the holder of a domestic licence has applied a fare, rate, charge or term or condition of carriage applicable to the domestic service it offers that is not set out in its tariffs, the Agency may order the licensee to
+
+
+
+
+
+
+
+
+
+
+67.1 S’il conclut, sur dépôt d’une plainte, que le titulaire d’une licence intérieure a, contrairement au paragraphe 67(3), appliqué à l’un de ses services intérieurs un prix, un taux, des frais ou d’autres conditions de transport ne figurant pas au tarif, l’Office peut, par ordonnance, lui enjoindre :
+
+
+
+Prix, taux, frais ou conditions non inclus au tarif
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 6
+
+
+
+
+22. Subsection 67.2(1) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+22. Le paragraphe 67.2(1) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 6
+
+
+
+
+
+
+
+
+
+
+Conditions déraisonnables
+
+
+
+
+
+67.2 (1) S’il conclut, sur dépôt d’une plainte, que le titulaire d’une licence intérieure a appliqué pour un de ses services intérieurs des conditions de transport déraisonnables ou injustement discriminatoires, l’Office peut suspendre ou annuler ces conditions et leur en substituer de nouvelles.
+
+
+
+
+
+
+
+
+
+
+
+67.2 (1) S’il conclut, sur dépôt d’une plainte, que le titulaire d’une licence intérieure a appliqué pour un de ses services intérieurs des conditions de transport déraisonnables ou injustement discriminatoires, l’Office peut suspendre ou annuler ces conditions et leur en substituer de nouvelles.
+
+
+
+Conditions déraisonnables
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 7
+
+
+
+
+23. Subsection 68(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+23. Le paragraphe 68(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 7
+
+
+
+
+
+
+
+
+
+
+Non-application of fares, etc.
+
+
+
+
+68. (1) Sections 66 to 67.2 do not apply in respect of fares, rates or charges applicable to a domestic service provided for under a contract between a holder of a domestic licence and another person whereby the parties to the contract agree to keep its provisions confidential.
+
+
+
+
+
+
+
+
+
+
+68. (1) Les articles 66 à 67.2 ne s’appliquent pas aux prix, taux ou frais applicables au service intérieur qui fait l’objet d’un contrat entre le titulaire d’une licence intérieure et une autre personne et par lequel les parties conviennent d’en garder les stipulations confidentielles.
+
+
+
+Non-application de certaines dispositions
+
+
+
+
+
+
+
+
+
+
+Non-application of terms and conditions
+
+
+
+(1.1) Sections 66 to 67.2 do not apply in respect of terms and conditions of carriage applicable to a domestic service provided for under a contract referred to in subsection (1) to which an employer is a party and that relates to travel by its employees.
+
+
+
+
+
+
+
+
+
+(1.1) Les articles 66 à 67.2 ne s’appliquent pas aux conditions de transport applicables au service intérieur qui fait l’objet d’un contrat visé au paragraphe (1) portant sur les voyages d’employés faits pour le compte d’un employeur qui est partie au contrat.
+
+
+
+Non-application aux conditions de transport
+
+
+
+
+
+
+
+
+
+
+
+
+
+24. The Act is amended by adding the following after section 75:
+
+
+
+
+
+
+
+
+
+
+24. La même loi est modifiée par adjonction, après l’article 75, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Issuance of International Charter Permits
+
+
+
+
+
+
+
+
+
+Délivrance de permis d’affrètement international
+
+
+
+
+
+
+
+
+
+
+
+
+Issuance, amendment and cancellation of permits
+
+
+
+
+75.1 The issuance of a permit for the operation of an international charter to a licensee and the amendment or cancellation of the permit shall be made in accordance with regulations made under paragraph 86(1)(e).
+
+
+
+
+
+
+
+
+
+
+75.1 La délivrance d’un permis d’affrètement international à un licencié, de même que la modification ou l’annulation d’un tel permis, est faite en conformité avec les règlements pris en vertu de l’alinéa 86(1)e).
+
+
+
+Délivrance, modification et annulation de permis
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 7.1
+
+
+
+
+25. Section 85.1 of the Act and the heading before it are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+25. L’article 85.1 de la même loi et l’intertitre le précédant sont remplacés par ce qui suit :
+
+
+
+2000, ch. 15, art. 7.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Air Travel Complaints
+
+
+
+
+
+
+
+
+
+Plaintes relatives au transport aérien
+
+
+
+
+
+
+
+
+
+
+
+
+Review and mediation
+
+
+
+
+85.1 (1) If a person has made a complaint under any provision of this Part, the Agency, or a person authorized to act on the Agency’s behalf, shall review and may attempt to resolve the complaint and may, if appropriate, mediate or arrange for mediation of the complaint.
+
+
+
+
+
+
+
+
+
+
+85.1 (1) L’Office ou son délégué examine toute plainte déposée en vertu de la présente partie et peut tenter de régler l’affaire; il peut, dans les cas indiqués, jouer le rôle de médiateur entre les parties ou pourvoir à la médiation entre celles-ci.
+
+
+
+Examen et médiation
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(2) The Agency or a person authorized to act on the Agency’s behalf shall report to the parties outlining their positions regarding the complaint and any resolution of the complaint.
+
+
+
+
+
+
+
+
+
+(2) L’Office ou son délégué fait rapport aux parties des grandes lignes de la position de chacune d’entre elles et de tout éventuel règlement.
+
+
+
+Communication aux parties
+
+
+
+
+
+
+
+
+
+
+Complaint not resolved
+
+
+
+(3) If the complaint is not resolved under this section to the complainant’s satisfaction, the complainant may request the Agency to deal with the complaint in accordance with the provisions of this Part under which the complaint has been made.
+
+
+
+
+
+
+
+
+
+(3) Si l’affaire n’est pas réglée à la satisfaction du plaignant dans le cadre du présent article, celui-ci peut demander à l’Office d’examiner la plainte conformément aux dispositions de la présente partie en vertu desquelles elle a été déposée.
+
+
+
+Affaire non réglée
+
+
+
+
+
+
+
+
+
+
+Further proceedings
+
+
+
+(4) A member of the Agency or any person authorized to act on the Agency’s behalf who has been involved in attempting to resolve or mediate the complaint under this section may not act in any further proceedings before the Agency in respect of the complaint.
+
+
+
+
+
+
+
+
+
+(4) Le membre de l’Office ou le délégué qui a tenté de régler l’affaire ou joué le rôle de médiateur en vertu du présent article ne peut agir dans le cadre de procédures ultérieures, le cas échéant, devant l’Office à l’égard de la plainte en question.
+
+
+
+Inhabilité
+
+
+
+
+
+
+
+
+
+
+Extension of time
+
+
+
+(5) The period of 120 days referred to in subsection 29(1) shall be extended by the period taken by the Agency or any person authorized to act on the Agency’s behalf to review and attempt to resolve or mediate the complaint under this section.
+
+
+
+
+
+
+
+
+
+(5) La période de cent vingt jours prévue au paragraphe 29(1) est prolongée de la durée de la période durant laquelle l’Office ou son délégué agit en vertu du présent article.
+
+
+
+Prolongation
+
+
+
+
+
+
+
+
+
+
+Part of annual report
+
+
+
+(6) The Agency shall, as part of its annual report, indicate the number and nature of the complaints filed under this Part, the names of the carriers against whom the complaints were made, the manner complaints were dealt with and the systemic trends observed.
+
+
+
+
+
+
+
+
+
+(6) L'Office inclut dans son rapport annuel le nombre et la nature des plaintes déposées au titre de la présente partie, le nom des transporteurs visés par celles-ci, la manière dont elles ont été traitées et les tendances systémiques qui se sont manifestées.
+
+
+
+Inclusion dans le rapport annuel
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 8
+
+
+
+
+26. (1) Paragraph 86(1)(h) of the Act is amended by striking out the word “and” at the end of subparagraph (ii) and by replacing subparagraph (iii) with the following:
+
+
+
+
+
+
+
+
+
+
+26. (1) Le sous-alinéa 86(1)h)(iii) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 8
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) authorizing the Agency to direct a licensee or carrier to take corrective measures that the Agency considers appropriate and to pay compensation for any expense incurred by a person adversely affected by the licensee’s or carrier’s failure to apply the fares, rates, charges or terms or conditions of carriage applicable to the service it offers that were set out in its tariffs, and
+
+
+
+
+
+
+(iv) requiring a licensee or carrier to display the terms and conditions of carriage for its international service on its Internet site, if the site is used for selling the international service of the licensee or carrier;
+
+
+
+
+
+
+
+
+
+(iii) enjoindre à tout licencié ou transporteur de prendre les mesures correctives qu’il estime indiquées et de verser des indemnités aux personnes lésées par la non-application par le licencié ou transporteur des prix, taux, frais ou conditions de transport applicables au service et qui figuraient au tarif,
+
+
+
+
+
+
+(iv) obliger tout licencié ou transporteur à publier les conditions de transport du service international sur tout site Internet qu’il utilise pour vendre ce service;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 86(1)(j) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 86(1)j) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(j) requiring licensees to include in contracts or arrangements with travel wholesalers, tour operators, charterers or other persons associated with the provision of air services to the public, or to make those contracts and arrangements subject to, terms and conditions specified or referred to in the regulations;
+
+
+
+
+
+
+
+
+
+
+j) demander aux licenciés d’inclure dans les contrats ou ententes conclus avec les grossistes en voyages, voyagistes, affréteurs ou autres personnes associées à la prestation de services aériens au public les conditions prévues dans les règlements ou d’assujettir ces contrats ou ententes à ces conditions;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 86(3) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 86(3) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27. The Act is amended by adding the following after section 86:
+
+
+
+
+
+
+
+
+
+
+27. La même loi est modifiée par adjonction, après l’article 86, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Advertising regulations
+
+
+
+
+86.1 (1) The Agency shall make regulations respecting advertising in all media, including on the Internet, of prices for air services within, or originating in, Canada.
+
+
+
+
+
+
+
+
+
+
+86.1 (1) L’Office régit,  par règlement, la publicité dans les médias, y compris dans Internet, relative aux prix des services aériens au Canada ou dont le point de départ est au Canada.
+
+
+
+Règlement concernant la publicité des prix
+
+
+
+
+
+
+
+
+
+
+Contents of regulations
+
+
+
+(2) Without limiting the generality of subsection (1), regulations shall be made under that subsection requiring a carrier who advertises a price for an air service to include in the price all costs to the carrier of providing the service and to indicate in the advertisement all fees, charges and taxes collected by the carrier on behalf of another person in respect of the service, so as to enable a purchaser of the service to readily determine the total amount to be paid for the service.
+
+
+
+
+
+
+
+
+
+(2) Les règlements exigent notamment que le prix des services aériens mentionné dans toute publicité faite par le transporteur inclue les coûts supportés par celui-ci pour la fourniture des services et que la publicité indique les frais, droits et taxes perçus par lui pour le compte d’autres personnes, de façon à permettre à l’acheteur de déterminer aisément la somme à payer pour ces services.
+
+
+
+Contenu des règlements
+
+
+
+
+
+
+
+
+
+
+Regulations may prescribe
+
+
+
+(3) Without limiting the generality of subsection (1), the regulations may prescribe what are costs, fees, charges and taxes for the purposes of subsection (2).
+
+
+
+
+
+
+
+
+
+(3) Les règlements peuvent également préciser, pour l’application du paragraphe (2), les types de coûts, frais, droits et taxes visés à ce paragraphe.
+
+
+
+Précisions
+
+
+
+
+
+
+
+
+
+
+Regulations and orders
+
+
+
+
+86.2 A regulation or order made under this Part may be conditional or unconditional or qualified or unqualified and may be general or restricted to a specific area, person or thing or group or class of persons or things.
+
+
+
+
+
+
+
+
+
+
+86.2 Les textes d’application de la présente partie peuvent être conditionnels ou absolus, assortis ou non de réserves, et de portée générale ou limitée quant aux zones, personnes, objets ou catégories de personnes ou d’objets visés.
+
+
+
+Textes d’application
+
+
+
+
+
+
+
+
+
+
+
+
+
+28. Section 87 of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+
+28. L’article 87 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“metropolitan area”« région métropolitaine »
+
+
+
+“metropolitan area” means any area that is classified by Statistics Canada in its most recent census of Canada as a census metropolitan area;
+
+
+
+
+“public passenger service provider”« société de transport publique »
+
+
+
+“public passenger service provider” means VIA Rail Canada Inc., a passenger rail service provider designated by the Minister or an urban transit authority;
+
+
+
+
+“urban transit authority”« administration de transport de banlieue »
+
+
+
+“urban transit authority” means an entity owned or controlled by the federal government or a provincial, municipal or district government that provides commuter services.
+
+
+
+
+
+
+
+
+
+« administration de transport de banlieue » Entité qui est contrôlée par le gouvernement fédéral ou provincial ou une administration municipale, ou qui lui appartient, et qui fournit des services publics de transport de passagers. 
+
+
+
+« administration de transport de banlieue »“urban transit authority”
+
+
+
+
+« région métropolitaine » Région que Statistique Canada a classée comme région métropolitaine de recensement lors de son dernier recensement.
+
+
+
+« région métropolitaine »“metropolitan area”
+
+
+
+
+« société de transport publique » La société VIA Rail Canada Inc., tout fournisseur de services de transport par rail de passagers désigné par le ministre ou toute administration de transport de banlieue.
+
+
+
+« société de transport publique »“public passenger service provider”
+
+
+
+
+
+
+
+
+
+
+
+
+
+29. The Act is amended by adding the following after section 95:
+
+
+
+
+
+
+
+
+
+
+29. La même loi est modifiée par adjonction, après l’article 95, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Noise and Vibration
+
+
+
+
+
+
+
+
+
+Bruit et vibrations
+
+
+
+
+
+
+
+
+
+
+
+
+Obligation
+
+
+
+
+95.1 When constructing or operating a railway, a railway company shall cause only such noise and vibration as is reasonable, taking into account
+
+
+
+
+
+
+
+
+
+
+(a) its obligations under sections 113 and 114, if applicable;
+
+
+
+
+
+
+
+
+
+
+(b) its operational requirements; and
+
+
+
+
+
+
+
+
+
+
+(c) the area where the construction or operation takes place.
+
+
+
+
+
+
+
+
+
+
+95.1 La compagnie de chemin de fer qui construit ou exploite un chemin de fer doit limiter les vibrations et le bruit produits à un niveau raisonnable, compte tenu des éléments suivants :
+
+
+
+Obligation
+
+
+
+
+
+a) les obligations qui lui incombent au titre des articles 113 et 114, le cas échéant;
+
+
+
+
+
+
+
+
+
+
+
+b) ses besoins en matière d’exploitation;
+
+
+
+
+
+
+
+
+
+
+
+c) le lieu de construction ou d’exploitation du chemin de fer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Guidelines
+
+
+
+
+95.2 (1) The Agency shall issue, and publish in any manner that it considers appropriate, guidelines with respect to
+
+
+
+
+
+
+
+
+
+
+(a) the elements that the Agency will use to determine whether a railway company is complying with section 95.1; and
+
+
+
+
+
+
+
+
+
+
+(b) the collaborative resolution of noise and vibration complaints relating to the construction or operation of railways.
+
+
+
+
+
+
+
+
+
+
+95.2 (1) L’Office établit — et publie de la manière qu’il estime indiquée — des lignes directrices :
+
+
+
+Lignes directrices
+
+
+
+
+
+a) sur les éléments dont il tient compte pour décider si une compagnie de chemin de fer se conforme à l’article 95.1;
+
+
+
+
+
+
+
+
+
+
+
+b) sur des mesures de coopération en matière de résolution des conflits concernant le bruit ou les vibrations liés à la construction ou à l’exploitation de chemins de fer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consultations
+
+
+
+(2) The Agency must consult with interested parties, including municipal governments, before issuing any guidelines.
+
+
+
+
+
+
+
+
+
+(2) Avant d’établir des lignes directrices, l’Office consulte les intéressés, notamment les administrations municipales.
+
+
+
+Consultation
+
+
+
+
+
+
+
+
+
+
+Not statutory instruments
+
+
+
+(3) The guidelines are not statutory instruments within the meaning of the Statutory Instruments Act.
+
+
+
+
+
+
+
+
+
+(3) Les lignes directrices ne sont pas des textes réglementaires au sens de la Loi sur les textes réglementaires.
+
+
+
+
+Loi sur les textes réglementaires
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complaints and investigations
+
+
+
+
+95.3 (1) On receipt of a complaint made by any person that a railway company is not complying with section 95.1, the Agency may order the railway company to undertake any changes in its railway construction or operation that the Agency considers reasonable to ensure compliance with that section.
+
+
+
+
+
+
+
+
+
+
+95.3 (1) Sur réception d’une plainte selon laquelle une compagnie de chemin de fer ne se conforme pas à l’article 95.1, l’Office peut ordonner à celle-ci de prendre les mesures qu’il estime raisonnables pour assurer qu'elle se conforme à cet article.
+
+
+
+Plaintes et enquêtes
+
+
+
+
+
+
+
+
+
+
+Restriction
+
+
+
+(2) If the Agency has published guidelines under paragraph 95.2(1)(b), it must first satisfy itself that the collaborative measures set out in the guidelines have been exhausted in respect of the noise or vibration complained of before it conducts any investigation or hearing in respect of the complaint.
+
+
+
+
+
+
+
+
+
+(2) S’il a publié des lignes directrices au titre de l’alinéa 95.2(1)b), l’Office ne peut procéder à l’examen de la plainte que s’il est convaincu que toutes les mesures de coopération prévues par celles-ci ont été appliquées.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+Public passenger service providers
+
+
+
+
+95.4 Sections 95.1 to 95.3 apply, with any modifications that are necessary, to public passenger service providers.
+
+
+
+
+
+
+
+
+
+
+95.4 Les articles 95.1 à 95.3 s’appliquent, avec les adaptations nécessaires, aux sociétés de transport publiques.
+
+
+
+Sociétés de transport publiques
+
+
+
+
+
+
+
+
+
+
+1999, c. 31, ss. 37(E) and 38(E)
+
+
+
+
+30. Section 104 of the Act and the heading before it are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+30. L’article 104 de la même loi et l’intertitre le précédant sont remplacés par ce qui suit :
+
+
+
+1999, ch. 31, art. 37(A) et 38(A)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Security
+
+
+
+
+
+
+
+
+
+Sûretés
+
+
+
+
+
+
+
+
+
+
+
+
+Deposit of mortgage, hypothec or security agreement
+
+
+
+
+104. (1) The following may, in accordance with the regulations, be deposited by any person in the office of the Registrar General of Canada or in any other place that the Governor in Council may, by order, specify:
+
+
+
+
+
+
+
+
+
+
+(a) a mortgage or hypothec issued by a railway company;
+
+
+
+
+
+
+
+
+
+
+(b) a security agreement entered into by a railway company;
+
+
+
+
+
+
+
+
+
+
+(c) an assignment or other document affecting a document referred to in paragraph (a) or (b); or
+
+
+
+
+
+
+
+
+
+
+(d) a copy of any document referred to in any of paragraphs (a) to (c) or a summary of any such document made in accordance with regulations made under section 105.1.
+
+
+
+
+
+
+
+
+
+
+104. (1) Peuvent être déposés par toute personne, conformément aux règlements, au bureau du registraire général du Canada ou à tout autre endroit que peut désigner, par décret, le gouverneur en conseil :
+
+
+
+Dépôt
+
+
+
+
+
+a) l’acte constatant l’hypothèque constituée par la compagnie de chemin de fer;
+
+
+
+
+
+
+
+
+
+
+
+b) l’accord de garantie conclu par celle-ci;
+
+
+
+
+
+
+
+
+
+
+
+c) l’acte de cession ou tout autre document qui a une incidence sur l’hypothèque ou l’accord;
+
+
+
+
+
+
+
+
+
+
+
+d) une copie de tout document visé à l’un des alinéas a) à c) ou un résumé d’un tel document qui est conforme aux règlements pris en vertu de l’article 105.1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effect of deposit
+
+
+
+(2) Once the deposit is made, the mortgage or hypothec, security agreement, assignment or other document need not be deposited, registered or filed under any other law or statute respecting real or personal property, and the deposited document is valid against all persons.
+
+
+
+
+
+
+
+
+
+(2) L’accomplissement de cette formalité rend facultatif le dépôt, l’enregistrement ou le classement requis par toute autre loi à cet effet; une fois déposé, le document, la copie ou le résumé est opposable aux tiers.
+
+
+
+Effet du dépôt
+
+
+
+
+
+
+
+
+
+
+
+
+
+31. (1) Subsections 105(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+31. (1) Les paragraphes 105(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Deposit of documents
+
+
+
+
+105. (1) A document, or a copy or summary of a document, evidencing any of the following transactions may, in accordance with the regulations, be deposited by any person in the office of the Registrar General of Canada or in any other place that the Governor in Council may, by order, specify:
+
+
+
+
+
+
+
+
+
+
+(a) a lease, sale, conditional sale, instalment sale, mortgage, hypothec, bailment, leasing, deposit or security agreement relating to rolling stock or any accessories or appurtenances relating to rolling stock; and
+
+
+
+
+
+
+
+
+
+
+(b) an amendment, assignment or discharge of a document mentioned in paragraph (a).
+
+
+
+
+
+
+
+
+
+
+105. (1) Tout document, ou résumé ou copie de celui-ci, qui constate l’une ou l’autre des opérations ci-après peut être déposé par toute personne, conformément aux règlements, au bureau du registraire général du Canada ou à tout autre endroit que peut désigner, par décret, le gouverneur en conseil :
+
+
+
+Dépôt de documents
+
+
+
+
+
+a) le louage, le dépôt, la vente, la vente conditionnelle, la vente à tempérament, l’hypothèque, le baillement ou le crédit-bail de matériel roulant ou de ses accessoires ou équipements connexes, ou l’accord de garantie afférent;
+
+
+
+
+
+
+
+
+
+
+
+b) la révision, la cession ou la libération d’un document visé à l’alinéa a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 105(4) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 105(4) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32. The Act is amended by adding the following after section 105:
+
+
+
+
+
+
+
+
+
+
+32. La même loi est modifiée par adjonction, après l’article 105, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+
+
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+105.1 The Governor in Council may make regulations respecting
+
+
+
+
+
+
+
+
+
+
+(a) the depositing of copies of documents under sections 104 and 105;
+
+
+
+
+
+
+
+
+
+
+(b) the form and content of summaries to be deposited under those sections; and
+
+
+
+
+
+
+
+
+
+
+(c) the effects, in Canada, of the deposit, registration or filing in other countries of documents evidencing any transaction referred to in paragraph 105(1)(a) or of documents evidencing amendments, assignments or discharges of those documents.
+
+
+
+
+
+
+
+
+
+
+105.1 Le gouverneur en conseil peut, par règlement :
+
+
+
+Règlements
+
+
+
+
+
+a) régir le dépôt de copies des documents visés aux articles 104 et 105;
+
+
+
+
+
+
+
+
+
+
+
+b) régir le contenu et la forme des résumés visés à ces articles;
+
+
+
+
+
+
+
+
+
+
+
+c) prévoir les effets que produit au Canada le dépôt, l’enregistrement ou le classement à l’étranger de documents constatant soit l’une ou l’autre des opérations visées à l’alinéa 105(1)a), soit la révision, la cession ou la libération d’un tel document.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33. Subsections 106(5) and (6) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+33. Les paragraphes 106(5) et (6) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(5) No order of the Federal Court or any other court restraining action against the railway company affects any right or remedy of a person in respect of, including the right to take possession of, the rolling stock, or any accessories or appurtenances relating to the rolling stock, of the company as a creditor under a security agreement, mortgage or hypothec or as a bailor, depositary, lessor or vendor under a conditional sale or an instalment sale, whether as trustee or otherwise, unless
+
+
+
+
+
+
+
+
+
+
+(a) within 60 days after filing the scheme of arrangement, or any extended period to which the person may agree, the railway company agrees to perform all its obligations under the security agreement, mortgage, hypothec, bailment, leasing, deposit, lease, conditional sale agreement or instalment sale agreement, as the case may be;
+
+
+
+
+
+
+
+
+
+
+(b) any event that occurred before or after the scheme was filed and that constitutes a default under the security agreement, mortgage, hypothec, bailment, leasing, deposit, lease, conditional sale agreement or instalment sale agreement, as the case may be, is cured before the later of
+
+
+
+
+
+
+
+
+
+
+(i) 30 days after the event, and
+
+
+
+
+
+
+
+
+
+
+(ii) the end of the period referred to in paragraph (a); and
+
+
+
+
+
+
+
+
+
+
+(c) any event that occurred on or after the expiry of the period referred to in paragraph (a) and that constitutes a default under the security agreement, mortgage, hypothec, bailment, leasing, deposit, lease, conditional sale agreement or instalment sale agreement, as the case may be, is cured in accordance with that instrument or act.
+
+
+
+
+
+
+
+
+
+(5) Malgré toute ordonnance de la Cour fédérale ou de toute autre juridiction interdisant une action contre la compagnie, une personne peut exercer tout droit ou recours — notamment la prise de possession — à l’égard du matériel roulant de la compagnie, ou de ses accessoires ou équipements connexes, en sa qualité de créancier au titre d’un accord constatant une hypothèque, un baillement, un crédit-bail, un dépôt, un bail ou une vente sous condition ou à tempérament, ou au titre d’un accord de garantie, comme fiduciaire ou autrement, sauf :
+
+
+
+Restriction
+
+
+
+
+
+a) si, dans les soixante jours suivant le dépôt du projet ou dans le délai consenti au titre du paragraphe (6), la compagnie accepte d’exécuter toutes ses obligations envers elle;
+
+
+
+
+
+
+
+
+
+
+
+b) s’il a été remédié à tout fait — préalable ou postérieur au dépôt du projet et constituant un défaut — dans les trente jours du défaut ou avant l’expiration du délai mentionné à l’alinéa a), la dernière en date de ces éventualités étant retenue;
+
+
+
+
+
+
+
+
+
+
+
+c) s’il a été remédié, conformément à l’accord, à tout fait qui survient à l’expiration du délai mentionné à l’alinéa a) ou par la suite et qui constitue un défaut au titre de l’accord.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Extension of 60-day period
+
+
+
+(6) An extension of the 60-day period under paragraph (5)(a) does not prejudice the right to take possession of, or any other right or remedy in respect of, the rolling stock or the accessories or appurtenances relating to the rolling stock.
+
+
+
+
+
+
+
+
+
+(6) La personne peut, sans préjudice de son droit de prendre possession du matériel roulant ou des accessoires ou équipements connexes, ou de celui d’exercer d’autres droits ou recours à leur égard, consentir à la prorogation du délai de soixante jours.
+
+
+
+Prorogation du délai
+
+
+
+
+
+
+
+
+
+
+
+
+
+34. (1) Subsection 108(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+34. (1) Le paragraphe 108(2) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 108(5) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 108(5) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 16, s. 5(2)
+
+
+
+
+35. Subsection 141(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+35. Le paragraphe 141(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 16, par. 5(2)
+
+
+
+
+
+
+
+
+
+
+Notification of changes
+
+
+
+(2.1) Whenever the railway company makes a change to the plan, it shall notify the following of the change within 10 days after the change:
+
+
+
+
+
+
+
+
+
+
+(a) the Minister;
+
+
+
+
+
+
+
+
+
+
+(b) the Agency;
+
+
+
+
+
+
+
+
+
+
+(c) the minister responsible for transportation matters in the government of each province through which the railway line passes;
+
+
+
+
+
+
+
+
+
+
+(d) the chairperson of every urban transit authority through whose territory the railway line passes; and
+
+
+
+
+
+
+
+
+
+
+(e) the clerk or other senior administrative officer of every municipal or district government through which the railway line passes.
+
+
+
+
+
+
+
+
+
+(2.1) Si elle modifie son plan, la compagnie de chemin de fer en avise, dans les dix jours :
+
+
+
+Avis de modification du plan
+
+
+
+
+
+a) le ministre;
+
+
+
+
+
+
+
+
+
+
+
+b) l’Office;
+
+
+
+
+
+
+
+
+
+
+
+c) le ministre chargé des transports dans toute province dont la ligne franchit le territoire;
+
+
+
+
+
+
+
+
+
+
+
+d) le président de toute administration de transport de banlieue dont la ligne franchit le territoire;
+
+
+
+
+
+
+
+
+
+
+
+e) le greffier ou un premier dirigeant de toute administration municipale dont la ligne franchit le territoire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When sale, etc., permitted
+
+
+
+(3) Subject to section 144.1, a railway company may sell, lease or otherwise transfer its railway lines, or its operating interest in its lines, for continued operation.
+
+
+
+
+
+
+
+
+
+(3) Sous réserve de l’article 144.1, la compagnie de chemin de fer peut transférer, notamment par vente ou bail, ses droits de propriété ou d’exploitation sur une ligne en vue de la continuation de son exploitation.
+
+
+
+Transfert d’une ligne
+
+
+
+
+
+
+
+
+
+
+
+
+
+36. Subsections 143(3) and (4) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+36. Les paragraphes 143(3) et (4) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure of agreement with public passenger service provider
+
+
+
+(3) The advertisement must also disclose the existence of any agreement between the railway company and a public passenger service provider in respect of the operation of a passenger rail service on the railway line.
+
+
+
+
+
+
+
+
+
+(3) L’annonce doit aussi mentionner toute entente conclue entre la compagnie et une société de transport publique sur l’exploitation d’un service passagers sur une ligne de la compagnie.
+
+
+
+Existence d’une entente
+
+
+
+
+
+
+
+
+
+
+
+
+
+37. Subsection 144(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+37. Le paragraphe 144(2) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38. The Act is amended by adding the following after section 144:
+
+
+
+
+
+
+
+
+
+
+38. La même loi est modifiée par adjonction, après l’article 144, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Rights and obligations under passenger service agreements continued
+
+
+
+
+144.1 (1) If a railway line, or a railway company’s operating interest in a railway line, is sold, leased or otherwise transferred under subsection 141(3) or as the result of an advertisement under subsection 143(1) and, before the day such advertisement was made, an agreement was in force between the railway company and a public passenger service provider in respect of the operation of a passenger rail service on the railway line, the rights and obligations of the railway company under the agreement in respect of the operation of that service on that line vest, as of the day the transfer takes place, in the person or entity to which the railway line, or the operating interest, is transferred, unless the public passenger service provider indicates otherwise before that day.
+
+
+
+
+
+
+
+
+
+
+144.1 (1) Si la compagnie de chemin de fer transfère, notamment par vente ou bail, ses droits de propriété ou d’exploitation sur une ligne au titre du paragraphe 141(3) ou d’une annonce faite en vertu du paragraphe 143(1), les droits et obligations découlant de toute entente conclue — avant l’annonce, le cas échéant — avec une société de transport publique sur l’exploitation d’un service passagers sur la ligne sont dévolus au cessionnaire dès le transfert, sauf avis contraire donné par la société avant le transfert.
+
+
+
+Dévolution des droits et obligations
+
+
+
+
+
+
+
+
+
+
+Declaration that line is for general advantage of Canada
+
+
+
+(2) Whenever a railway company’s rights and obligations under an agreement with VIA Rail Canada Inc. are vested in another person or entity by subsection (1), the portion of the railway line to which the agreement relates is hereby declared, as of the day the transfer takes place, to be a work for the general advantage of Canada.
+
+
+
+
+
+
+
+
+
+(2) Si le transfert concerne une partie d’une ligne à laquelle s’applique une entente conclue avec VIA Rail Canada Inc., cette partie de la ligne est déclarée être un ouvrage à l’avantage général du Canada, et ce à compter de la date du transfert.
+
+
+
+Ouvrage à l’avantage du Canada
+
+
+
+
+
+
+
+
+
+
+Duration of declaration
+
+
+
+(3) The declaration referred to in subsection (2) ceases to have effect if
+
+
+
+
+
+
+
+
+
+
+(a) VIA Rail Canada Inc. ceases to operate a passenger rail service on the portion of railway line to which the declaration relates; or
+
+
+
+
+
+
+
+
+
+
+(b) the operation of the railway line is discontinued.
+
+
+
+
+
+
+
+
+
+(3) La déclaration visée au paragraphe (2) cesse d’avoir effet si, selon le cas :
+
+
+
+Durée d’application de la déclaration
+
+
+
+
+
+a) VIA Rail Canada Inc. cesse d’exploiter un service passagers sur cette partie de la ligne;
+
+
+
+
+
+
+
+
+
+
+
+b) la ligne cesse d’être exploitée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39. (1) The portion of subsection 145(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+39. (1) Le paragraphe 145(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offer to governments
+
+
+
+
+145. (1) The railway company shall offer to transfer all of its interest in the railway line to the governments and urban transit authorities mentioned in this section for not more than its net salvage value to be used for any purpose if
+
+
+
+
+
+
+
+
+
+
+145. (1) La compagnie de chemin de fer est tenue d’offrir aux gouvernements, administrations de transport de banlieue et administrations municipales de leur transférer tous ses intérêts à leur valeur nette de récupération ou moins si personne ne manifeste d’intérêt ou aucune entente n’est conclue dans le délai prescrit, ou si le transfert n’est pas effectué conformément à l’entente.
+
+
+
+Offre aux gouvernements et administra-tions
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 145(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 145(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Which governments receive offer
+
+
+
+(2) After the requirement to make the offer arises, the railway company shall send it simultaneously
+
+
+
+
+
+
+
+
+
+
+(a) to the Minister if the railway line passes through
+
+
+
+
+
+
+
+
+
+
+(i) more than one province or outside Canada,
+
+
+
+
+
+
+
+
+
+
+(ii) land that is or was a reserve, as defined in subsection 2(1) of the Indian Act,
+
+
+
+
+
+
+
+
+
+
+(iii) land that is the subject of an agreement entered into by the railway company and the Minister for the settlement of aboriginal land claims, or
+
+
+
+
+
+
+
+
+
+
+(iv) a metropolitan area;
+
+
+
+
+
+
+
+
+
+
+(b) to the minister responsible for transportation matters in the government of each province through which the railway line passes;
+
+
+
+
+
+
+
+
+
+
+(c) to the chairperson of every urban transit authority through whose territory the railway line passes; and
+
+
+
+
+
+
+
+
+
+
+(d) to the clerk or other senior administrative officer of every municipal or district government through whose territory the railway line passes.
+
+
+
+
+
+
+
+
+
+(2) L’offre est faite simultanément :
+
+
+
+Précision
+
+
+
+
+
+a) au ministre si la ligne franchit, selon le cas :
+
+
+
+
+
+
+
+
+
+
+(i) les limites d’une province ou les frontières du Canada,
+
+
+
+
+
+
+
+
+
+
+(ii) une réserve ou une terre ayant déjà été une réserve au sens du paragraphe 2(1) de la Loi sur les Indiens,
+
+
+
+
+
+
+
+
+
+
+(iii) une terre faisant l’objet d’un accord, entre la compagnie de chemin de fer et le ministre, ayant pour but le règlement de revendications territoriales autochtones,
+
+
+
+
+
+
+
+
+
+
+(iv) une région métropolitaine;
+
+
+
+
+
+
+
+
+
+
+
+b) au ministre chargé des transports dans toute province dont la ligne franchit le territoire;
+
+
+
+
+
+
+
+
+
+
+
+c) au président de toute administration de transport de banlieue dont la ligne franchit le territoire;
+
+
+
+
+
+
+
+
+
+
+
+d) au greffier ou à un premier dirigeant de toute administration municipale dont la ligne franchit le territoire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) The portion of subsection 145(3) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le passage du paragraphe 145(3) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Time limits for acceptance
+
+
+
+(3) Subject to subsection 146.3(3), after the offer is received
+
+
+
+
+
+
+
+
+
+(3) Sous réserve du paragraphe 146.3(3), les destinataires de l’offre disposent, après sa réception, des délais suivants pour l’accepter :
+
+
+
+Délai d’acceptation
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Subsection 145(3) of the Act is amended by striking out the word “and” at the end of paragraph (b) and by replacing paragraph (c) with the following:
+
+
+
+
+
+
+
+
+
+(4) L’alinéa 145(3)c) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) by an urban transit authority, it may accept it within an additional 30 days after the end of the period or periods for acceptance under paragraphs (a) and (b), if it is not accepted under those paragraphs; and
+
+
+
+
+
+
+(c) by a municipal or district government, it may accept it within an additional 30 days after the end of the period or periods for acceptance under paragraphs (a), (b) and (b.1), if it is not accepted under those paragraphs.
+
+
+
+
+
+
+
+
+
+
+b.1) trente jours pour chaque administration de transport de banlieue, une fois expirés les délais mentionnés aux alinéas a) et b);
+
+
+
+
+
+
+
+c) trente jours pour chaque administration municipale, une fois expirés les délais mentionnés aux alinéas a), b) et b.1).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Subsections 145(4) and (5) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Les paragraphes 145(4) et (5) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Communication and notice of acceptance
+
+
+
+(4) Once a government or an urban transit authority communicates its written acceptance of the offer to the railway company, the right of any other government or urban transit authority to accept the offer is extinguished, and the railway company must notify the other governments and urban transit authorities of the acceptance.
+
+
+
+
+
+
+
+
+
+(4) La communication, par écrit, de l’acceptation à la compagnie éteint le droit des autres destinataires de l’offre; celle-ci leur notifie l’acceptation de l’offre.
+
+
+
+Acceptation
+
+
+
+
+
+
+
+
+
+
+Net salvage value
+
+
+
+(5) If a government or an urban transit authority accepts the offer, but cannot agree with the railway company on the net salvage value within 90 days after the acceptance, the Agency may, on the application of the government or urban transit authority or the railway company, determine the net salvage value.
+
+
+
+
+
+
+
+
+
+(5) Si les parties ne peuvent s’entendre, dans les quatre-vingt-dix jours suivant l’acceptation de l’offre, sur la valeur nette de récupération, l’Office la détermine, sur demande de l’une d’elles.
+
+
+
+Valeur nette de récupération
+
+
+
+
+
+
+
+
+
+
+
+
+
+40. Section 146 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+40. L’article 146 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Discontinuation
+
+
+
+
+146. (1) If a railway company has complied with the process set out in sections 143 to 145, but an agreement for the sale, lease or other transfer of the railway line or an interest in it is not entered into through that process, the railway company may discontinue operating the line on providing notice of the discontinuance to the Agency. After providing the notice, the railway company has no obligations under this Act in respect of the operation of the railway line and has no obligations with respect to any operations by any public passenger service provider over the railway line.
+
+
+
+
+
+
+
+
+
+
+146. (1) Lorsqu’elle s’est conformée au processus établi en vertu des articles 143 à 145, sans qu’une convention de transfert n’en résulte, la compagnie de chemin de fer peut mettre fin à l’exploitation de la ligne pourvu qu’elle en avise l’Office. Par la suite, elle n’a aucune obligation, en vertu de la présente loi, relativement à l’exploitation de la ligne ou à son utilisation par toute société de transport publique.
+
+
+
+Cessation d’exploitation
+
+
+
+
+
+
+
+
+
+
+No obligation
+
+
+
+(2) If the railway line, or any interest of the railway company in it, is sold, leased or otherwise transferred by an agreement entered into through the process set out in sections 143 to 145 or otherwise, the railway company that conveyed the railway line has no obligations under this Act in respect of the operation of the railway line as and from the date the sale, lease or other transfer was completed and has no obligations with respect to any operations by any public passenger service provider over the railway line as and from that date.
+
+
+
+
+
+
+
+
+
+(2) En cas de transfert — notamment par vente ou bail — par la compagnie de la ligne ou de droits qu’elle y détient, en vertu d’une convention résultant du processus établi en vertu des articles 143 à 145 ou autrement, la compagnie cessionnaire n’a plus d’obligation en vertu de la présente loi relativement à l’exploitation de la ligne ou à son utilisation par la société de transport publique, et ce à compter de la date de signature de l’acte de transfert.
+
+
+
+Non-obligation
+
+
+
+
+
+
+
+
+
+
+2000, c. 16, s. 8
+
+
+
+
+41. Section 146.1 of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+41. L’article 146.1 de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 16, art. 8
+
+
+
+
+
+
+
+
+
+
+Indemnisation
+
+
+
+
+
+146.1 La compagnie de chemin de fer qui cesse d’exploiter un embranchement tributaire du transport du grain mentionné à l’annexe I, ou une partie d’un tel embranchement, passant dans une municipalité fait à celle-ci trois versements annuels à compter de la date où elle avise l’Office en application du paragraphe 146(1). Chaque versement est égal au produit de 10 000 $ et du nombre de milles de l’embranchement ou de la partie d’embranchement situés dans le territoire de la municipalité.
+
+
+
+
+
+
+
+
+
+
+
+146.1 La compagnie de chemin de fer qui cesse d’exploiter un embranchement tributaire du transport du grain mentionné à l’annexe I, ou une partie d’un tel embranchement, passant dans une municipalité fait à celle-ci trois versements annuels à compter de la date où elle avise l’Office en application du paragraphe 146(1). Chaque versement est égal au produit de 10 000 $ et du nombre de milles de l’embranchement ou de la partie d’embranchement situés dans le territoire de la municipalité.
+
+
+
+Indemnisation
+
+
+
+
+
+
+
+
+
+
+
+
+
+42. The Act is amended by adding the following after section 146.1:
+
+
+
+
+
+
+
+
+
+
+42. La même loi est modifiée par adjonction, après l’article 146.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+List of metropolitan sidings and spurs to be dismantled
+
+
+
+
+146.2 (1) A railway company shall prepare and keep up to date a list of its sidings and spurs that it plans to dismantle and that are located in metropolitan areas or within the territory served by any urban transit authority, except for sidings and spurs located on a railway right-of-way that will continue to be used for railway operations subsequent to their dismantlement.
+
+
+
+
+
+
+
+
+
+
+146.2 (1) La compagnie de chemin de fer est tenue d’établir et de mettre à jour la liste des voies d’évitement et des épis à démonter qui sont situés dans les régions métropolitaines, ou sur le territoire desservi par une administration de transport de banlieue, exception faite des voies et des épis situés sur une emprise qui continuera d’être utilisée dans le cadre d’opérations ferroviaires après qu’ils auront été démontés.
+
+
+
+Voies d’évitement et épis
+
+
+
+
+
+
+
+
+
+
+Publication of list and notification of changes
+
+
+
+(2) The railway company shall publish the list on its Internet site and, whenever it makes a change to the list, it shall notify the following of the change within 10 days after the change:
+
+
+
+
+
+
+
+
+
+
+(a) the Minister;
+
+
+
+
+
+
+
+
+
+
+(b) the Agency;
+
+
+
+
+
+
+
+
+
+
+(c) the minister responsible for transportation matters in the government of the province in which the siding or spur that is the subject of the change is located;
+
+
+
+
+
+
+
+
+
+
+(d) the chairperson of the urban transit authority in whose territory the siding or spur that is the subject of the change is located; and
+
+
+
+
+
+
+
+
+
+
+(e) the clerk or other senior administrative officer of the municipal or district government in which the siding or spur that is the subject of the change is located.
+
+
+
+
+
+
+
+
+
+(2) La compagnie publie sa liste sur son site Internet. En cas de modification de celle-ci, elle en avise, dans les dix jours :
+
+
+
+Publication de la liste et avis
+
+
+
+
+
+a) le ministre;
+
+
+
+
+
+
+
+
+
+
+
+b) l’Office;
+
+
+
+
+
+
+
+
+
+
+
+c) le ministre chargé des transports dans la province où est situé la voie d’évitement ou l’épi qui est l’objet de la modification;
+
+
+
+
+
+
+
+
+
+
+
+d) le président de l’administration de transport de banlieue du territoire où est situé la voie d’évitement ou l’épi qui est l’objet de la modification;
+
+
+
+
+
+
+
+
+
+
+
+e) le greffier ou un premier dirigeant de l’administration municipale du territoire où est situé la voie d’évitement ou l’épi qui est l’objet de la modification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(3) A railway company shall not take steps to dismantle a siding or a spur until at least 12 months have elapsed since the siding or spur was added to the list.
+
+
+
+
+
+
+
+
+
+(3) La compagnie ne peut démonter une voie d’évitement ou un épi que s’il figure sur la liste depuis au moins douze mois.
+
+
+
+Réserve
+
+
+
+
+
+
+
+
+
+
+Offer to governments
+
+
+
+(4) Before dismantling a siding or a spur that has been on the list for at least 12 months, a railway company shall send simultaneously to each of the following an offer to transfer all of its interest in the siding or spur for not more than its net salvage value:
+
+
+
+
+
+
+
+
+
+
+(a) the Minister;
+
+
+
+
+
+
+
+
+
+
+(b) the minister responsible for transportation matters in the government of the province in which the siding or spur is located;
+
+
+
+
+
+
+
+
+
+
+(c) the chairperson of the urban transit authority in whose territory the siding or spur is located; and
+
+
+
+
+
+
+
+
+
+
+(d) the clerk or other senior administrative officer of the municipal or district government in which the siding or spur is located.
+
+
+
+
+
+
+
+
+
+(4) Avant de démonter une voie d’évitement ou un épi qui figure sur la liste depuis au moins douze mois, la compagnie est tenue d’offrir de transférer tous ses intérêts, à un prix n’excédant pas leur valeur nette de récupération :
+
+
+
+Offre aux gouvernements et administra-tions
+
+
+
+
+
+a) au ministre;
+
+
+
+
+
+
+
+
+
+
+
+b) au ministre chargé des transports dans la province où la voie d’évitement ou l’épi est situé;
+
+
+
+
+
+
+
+
+
+
+
+c) au président de l’administration de transport de banlieue du territoire où la voie d’évitement ou l’épi est situé;
+
+
+
+
+
+
+
+
+
+
+
+d) au greffier ou à un premier dirigeant de l’administration municipale du territoire où la voie d’évitement ou l’épi est situé.
+
+
+
+
+
+
+
+
+
+
+Cette offre leur est faite simultanément.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Time limits for acceptance
+
+
+
+(5) Subject to subsection 146.3(3), after the offer is received
+
+
+
+
+
+
+
+
+
+
+(a) by the Minister, the Government of Canada may accept it within 30 days;
+
+
+
+
+
+
+
+
+
+
+(b) by the provincial minister, the government of the province may accept it within an additional 30 days after the end of the period mentioned in paragraph (a) if it is not accepted under that paragraph;
+
+
+
+
+
+
+
+
+
+
+(c) by the chairperson of an urban transit authority, that authority may accept it within an additional 30 days after the end of the periods for acceptance under paragraphs (a) and (b), if it is not accepted under those paragraphs; and
+
+
+
+
+
+
+
+
+
+
+(d) by the clerk or other senior administrative officer of a municipal or district government, that government may accept it within an additional 30 days after the end of the periods for acceptance under paragraphs (a), (b) and (c), if it is not accepted under those paragraphs.
+
+
+
+
+
+
+
+
+
+(5) Sous réserve du paragraphe 146.3(3), les destinataires de l’offre disposent, après sa réception, des délais suivants pour l’accepter :
+
+
+
+Délai d’acceptation
+
+
+
+
+
+a) trente jours pour le gouvernement fédéral;
+
+
+
+
+
+
+
+
+
+
+
+b) trente jours pour le gouvernement provincial, une fois expiré le délai mentionné à l’alinéa a);
+
+
+
+
+
+
+
+
+
+
+
+c) trente jours pour l’administration de transport de banlieue, une fois expirés les délais mentionnés aux alinéas a) et b);
+
+
+
+
+
+
+
+
+
+
+
+d) trente jours pour l’administration municipale, une fois expirés les délais mentionnés aux alinéas a), b) et c).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Communication and notice of acceptance
+
+
+
+(6) Once a government or an urban transit authority communicates its written acceptance of the offer to the railway company, the right of any other government or urban transit authority to accept the offer is extinguished, and the railway company shall notify the other governments and urban transit authorities of the acceptance.
+
+
+
+
+
+
+
+
+
+(6) La communication, par écrit, de l’acceptation à la compagnie éteint le droit des autres destinataires de l’offre; celle-ci leur notifie l’acceptation de l’offre.
+
+
+
+Acceptation
+
+
+
+
+
+
+
+
+
+
+Net salvage value
+
+
+
+(7) If a government or an urban transit authority accepts the offer, but cannot agree with the railway company on the net salvage value within 90 days after the acceptance, the Agency may, on the application of the government, the urban transit authority or the railway company, determine the net salvage value.
+
+
+
+
+
+
+
+
+
+(7) Si les parties ne peuvent s’entendre, dans les quatre-vingt-dix jours suivant l’acceptation de l’offre, sur la valeur nette de récupération, l’Office la détermine, sur demande de l’une d’elles.
+
+
+
+Valeur nette de récupération
+
+
+
+
+
+
+
+
+
+
+Dismantling permitted
+
+
+
+(8) If the offer is not accepted, the railway company may dismantle the siding or spur on providing notice to the Agency.
+
+
+
+
+
+
+
+
+
+(8) Si l’offre n’est pas acceptée, la compagnie peut démonter la voie d’évitement ou l’épi à la condition d’en aviser l’Office.
+
+
+
+Avis à l’Office
+
+
+
+
+
+
+
+
+
+
+Determination of net salvage value before expiry of time to accept offer
+
+
+
+
+146.3 (1) A person to whom a railway line is offered under section 145, or to whom a siding or spur is offered under section 146.2, may apply to the Agency for a determination of the net salvage value of the railway line, siding or spur, as the case may be, at any time before the expiry of the period available to the person to accept the offer.
+
+
+
+
+
+
+
+
+
+
+146.3 (1) Le destinataire de l’offre faite au titre des articles 145 ou 146.2 peut, avant l’expiration du délai imparti pour l’accepter, demander à l’Office de déterminer la valeur nette de récupération de la ligne, de la voie d’évitement ou de l’épi, selon le cas.
+
+
+
+Détermination de la valeur nette de récupération avant l’acceptation de l’offre
+
+
+
+
+
+
+
+
+
+
+Notification of application
+
+
+
+(2) The applicant shall without delay provide a copy of the application to the railway company, and the railway company shall without delay notify every other person to whom the offer was made and whose time to accept the offer has not expired that an application for a determination of the net salvage value was made.
+
+
+
+
+
+
+
+
+
+(2) Le demandeur envoie, sans délai, copie de sa demande à la compagnie de chemin de fer. Celle-ci en avise immédiatement les autres destinataires de l’offre à l’égard desquels le délai d’acceptation n’est pas expiré.
+
+
+
+Copie de la demande
+
+
+
+
+
+
+
+
+
+
+Effect of application
+
+
+
+(3) If an application is made under subsection (1), the time available to the applicant to accept the offer expires on the day that is 30 days after the day the Agency notifies the applicant of its determination of the net salvage value and the 30-day period for each other person to accept the offer is calculated on the expiry of the period available to the applicant to accept the offer.
+
+
+
+
+
+
+
+
+
+(3) Le demandeur dispose, après décision de l’Office, d’un délai de trente jours pour accepter l’offre. Les délais — de trente jours — dont disposent respectivement les autres destinataires pour l’accepter commencent à courir à compter de l’expiration du délai applicable au demandeur.
+
+
+
+Effet de la demande
+
+
+
+
+
+
+
+
+
+
+Costs
+
+
+
+(4) The applicant shall reimburse the Agency’s costs associated with the application.
+
+
+
+
+
+
+
+
+
+(4) Le demandeur est tenu de rembourser à l’Office les frais afférents à sa demande.
+
+
+
+Frais
+
+
+
+
+
+
+
+
+
+
+Railway rights of way
+
+
+
+
+146.4 Sections 146.2 and 146.3 apply, with any modifications that are necessary, to railway rights-of-way, that are located in metropolitan areas or within the territory served by any urban transit authority and in respect of which the sidings and spurs have been dismantled, that a railway company plans to sell, lease or otherwise transfer.
+
+
+
+
+
+
+
+
+
+
+146.4 Les articles 146.2 et 146.3 s’appliquent, avec les adaptations nécessaires, aux emprises qui sont situées dans les régions métropolitaines ou sur le territoire desservi par une administration de transport de banlieue, sur lesquelles se trouvaient des voies d’évitement ou des épis qui ont été démontés, et que la compagnie de chemin de fer entend transférer, notamment par vente ou bail.
+
+
+
+Emprises
+
+
+
+
+
+
+
+
+
+
+Passenger railway stations
+
+
+
+
+146.5 Sections 146.2 and 146.3 apply, with any modifications that are necessary, to passenger railway stations in Canada that a railway company plans to sell, lease or otherwise transfer or dismantle.
+
+
+
+
+
+
+
+
+
+
+146.5 Les articles 146.2 et 146.3 s’appliquent également, avec les adaptations nécessaires, aux gares de voyageurs situées au Canada que la compagnie de chemin de fer entend transférer, notamment par vente ou bail, ou démonter.
+
+
+
+Gares de voyageurs
+
+
+
+
+
+
+
+
+
+
+2000, c. 16, s. 10
+
+
+
+
+43. (1) Paragraph 151(4)(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+43. (1) L’alinéa 151(4)c) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 16, art. 10
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the Agency shall make adjustments to the index to reflect the costs incurred by the prescribed railway companies for the purpose of obtaining cars as a result of the sale, lease or other disposal or withdrawal from service of government hopper cars and the costs incurred by the prescribed railway companies for the maintenance of cars that have been so obtained.
+
+
+
+
+
+
+
+
+
+
+c) l’Office ajuste l’indice afin de tenir compte des coûts supportés par les compagnies de chemin de fer régies, d’une part, pour l’obtention de wagons à la suite de la disposition, notamment par vente ou location, ou de la mise hors de service de wagons-trémies du gouvernement et, d’autre part, pour l’entretien des wagons ainsi obtenus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 151 of the Act is amended by adding the following after subsection (5):
+
+
+
+
+
+
+
+
+
+(2) L’article 151 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Making of adjustments
+
+
+
+(6) Despite subsection (5), the Agency shall make the adjustments referred to in paragraph (4)(c) at any time that it considers appropriate and determine the date when the adjusted index takes effect.
+
+
+
+
+
+
+
+
+
+(6) Malgré le paragraphe (5), l’Office effectue les ajustements visés à l’alinéa (4)c) lorsqu’il l’estime indiqué, et détermine la date de prise d’effet de l’indice ainsi ajusté.
+
+
+
+Ajustements
+
+
+
+
+
+
+
+
+
+
+
+
+
+44. The Act is amended by adding the following after section 152:
+
+
+
+
+
+
+
+
+
+
+44. La même loi est modifiée par adjonction, après l’article 152, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Division VI.1
+
+
+
+
+
+
+
+
+
+Section VI.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Public Passenger Service Providers
+
+
+
+
+
+
+
+
+
+Sociétés de transport publiques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dispute Resolution
+
+
+
+
+
+
+
+
+
+Règlement de différends
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+
+152.1 (1) Whenever a public passenger serv­ice provider and a railway company are unable to agree in respect of any matter raised in the context of the negotiation of any agreement concerning the use of the railway company’s railway, land, equipment, facilities or services by the public passenger service provider or concerning the conditions, or the amount to be paid, for that use, the public passenger service provider may, after reasonable efforts to resolve the matter have been made, apply to the Agency to decide the matter.
+
+
+
+
+
+
+
+
+
+
+152.1 (1) En cas de différend survenant entre une société de transport publique et une compagnie de chemin de fer sur toute question soulevée dans le cadre de la négociation d’un accord et touchant l’utilisation de chemins de fer, de terres, d’installations, d’équipements ou de services de la compagnie, ou les conditions afférentes ou le prix à payer pour leur utilisation, la société peut, à la suite d’efforts raisonnables faits pour régler le différend, demander à l’Office de trancher la question.
+
+
+
+Demande
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) Whenever a public passenger service provider and a railway company are unable to agree in respect of any matter raised in the context of the implementation of any matter previously decided by the Agency, either the public passenger service provider or the railway company may, after reasonable efforts to resolve the matter have been made, apply to the Agency to decide the matter.
+
+
+
+
+
+
+
+
+
+(2) En cas de différend survenant entre une société de transport publique et une compagnie de chemin de fer sur toute question soulevée dans le cadre de la mise en oeuvre de l’accord et concernant une question que l’Office a réglée, l’une ou l’autre des parties peut, à la suite d’efforts raisonnables faits pour régler le différend, demander à celui-ci de trancher la question.
+
+
+
+Demande
+
+
+
+
+
+
+
+
+
+
+Amount to be fixed
+
+
+
+
+152.2 (1) If, pursuant to an application made under subsection 152.1(1), the Agency fixes the amount to be paid by the public passenger service provider for the use of any of the railway company’s railway, land, equipment, facilities or services, that amount must reflect the cost associated with the public passenger service provider’s use of that railway, land or equipment or those facilities or services.
+
+
+
+
+
+
+
+
+
+
+152.2 (1) La somme que l’Office fixe éventuellement, au titre de la demande visée au paragraphe 152.1(1), pour l’utilisation de chemins de fer, de terres, d’installations, d’équipements ou de services de la compagnie de chemin de fer par la société de transport publique doit refléter les coûts liés à leur utilisation par celle-ci.
+
+
+
+Somme fixée par l’Office
+
+
+
+
+
+
+
+
+
+
+Factors
+
+
+
+(2) In determining that amount, the Agency must take into consideration, among other things,
+
+
+
+
+
+
+
+
+
+
+(a) the variable costs incurred by the railway company as a result of the public passenger service provider’s use of the railway company’s railway, land, equipment, facilities or services, including, but not limited to, its variable costs incurred to maintain safe operations and to avoid congestion and undue delay;
+
+
+
+
+
+
+
+
+
+
+(b) the railway company’s cost of capital, based on a rate set by the Agency, applied to the net book value of the assets to be used by the public passenger service provider, less any amount to be paid by the public passenger service provider in respect of those assets;
+
+
+
+
+
+
+
+
+
+
+(c) the cost of any improvements made by the railway company in relation to the public passenger service provider’s use of the railway company’s railway, land, equipment, facilities or services;
+
+
+
+
+
+
+
+
+
+
+(d) a reasonable contribution towards the railway company’s constant costs; and
+
+
+
+
+
+
+
+
+
+
+(e) the value of any benefits that would accrue to the railway company from any investment made by the public passenger service provider.
+
+
+
+
+
+
+
+
+
+(2) Pour la fixation de la somme, l’Office tient compte notamment des éléments suivants :
+
+
+
+Éléments
+
+
+
+
+
+a) les frais variables supportés par la compagnie de chemin de fer en raison de l’utilisation de ses chemins de fer, terres, installations, équipements ou services par la société de transport publique, notamment ceux qui sont nécessaires pour les exploiter en toute sécurité et pour éviter la trop grande densité de circulation et les retards indus;
+
+
+
+
+
+
+
+
+
+
+
+b) le coût du capital de l’actif de la compagnie utilisé par la société, lequel s’obtient par application du taux fixé par l’Office au montant de la valeur nette aux livres de l’actif et soustraction des sommes à payer par la société à l’égard de celui-ci;
+
+
+
+
+
+
+
+
+
+
+
+c) les frais supportés par la compagnie en raison des améliorations faites en vue de l’utilisation de ses chemins de fer, terres, installations, équipements ou services par la société;
+
+
+
+
+
+
+
+
+
+
+
+d) une contribution raisonnable de la société aux frais fixes de la compagnie;
+
+
+
+
+
+
+
+
+
+
+
+e) la valeur des avantages que la compagnie retire des investissements faits par la société.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Duration of decision
+
+
+
+
+152.3 Any decision of the Agency in respect of an application made under subsection 152.1(1) is binding on the parties for a period of five years after the day on which the decision is made, or for any other period agreed to by the parties that is specified in the decision.
+
+
+
+
+
+
+
+
+
+
+152.3 La décision prise par l’Office au titre de la demande visée au paragraphe 152.1(1) lie les parties pendant les cinq années suivant sa prise ou pour la période spécifiée dont conviennent les parties.
+
+
+
+Durée de la décision
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements
+
+
+
+
+
+
+
+
+
+Accords
+
+
+
+
+
+
+
+
+
+
+
+
+Providing copies
+
+
+
+
+152.4 (1) A railway company or a public passenger service provider must provide to any person who requests it
+
+
+
+
+
+
+
+
+
+
+(a) a copy of any agreement entered into on or after the day on which this section comes into force concerning the use of the railway company’s railway, land, equipment, facilities or services; and
+
+
+
+
+
+
+
+
+
+
+(b) subject to subsection (2), a copy of any agreement entered into before the day on which this section comes into force concerning the use of the railway company’s railway, land, equipment, facilities or services.
+
+
+
+
+
+
+
+
+
+
+152.4 (1) La compagnie de chemin de fer ou la société de transport publique est tenue de fournir à quiconque lui en fait la demande :
+
+
+
+Obligation de fournir une copie de l’accord
+
+
+
+
+
+a) une copie de tout accord conclu depuis la date d’entrée en vigueur du présent article et concernant l’utilisation des chemins de fer, terres, installations, équipements ou services en cause;
+
+
+
+
+
+
+
+
+
+
+
+b) sous réserve du paragraphe (2), une copie de tout accord conclu avant la date d’entrée en vigueur du présent article et concernant l’utilisation des chemins de fer, terres, installations, équipements ou services en cause.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exclusion
+
+
+
+(2) The Agency may, on application by a railway company or a public passenger service provider, exclude an agreement, or any specified portion of an agreement, from the application of paragraph (1)(b) on the grounds that harm would likely result to the applicant if the agreement, or the specified portion, were to be disclosed.
+
+
+
+
+
+
+
+
+
+(2) Sur demande de la compagnie ou de la société, l’Office peut soustraire tout ou partie de l’accord à l’application de l’alinéa (1)b) au motif que sa divulgation causerait vraisemblablement un préjudice au demandeur.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+
+
+
+45. The Act is amended by adding the following after section 157:
+
+
+
+
+
+
+
+
+
+
+45. La même loi est modifiée par adjonction, après l’article 157, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements
+
+
+
+
+
+
+
+
+
+Accords
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46. Subsection 157.1(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+46. Le paragraphe 157.1(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements to apply transportation law to provincial railways
+
+
+
+
+157.1 (1) The Minister may enter into an agreement with a provincial minister responsible for transportation matters providing for the administration, in relation to persons who operate railways within the legislative authority of the province, of any law respecting:
+
+
+
+
+
+
+
+
+
+
+(a) railway safety, accident investigation and railway crossings; or
+
+
+
+
+
+
+
+
+
+
+(b) railway noise or the regulation of the rates and conditions of service of railway companies to the extent that those matters are governed by this Act.
+
+
+
+
+
+
+
+
+
+
+157.1 (1) Le ministre peut conclure avec un ministre provincial chargé des transports un accord relatif à l’application, à des exploitants de chemin de fer assujettis à la compétence législative de la province en cause, de toute loi ayant trait :
+
+
+
+Accords avec les ministres des transports provinciaux
+
+
+
+
+
+a) à la sécurité ferroviaire, aux enquêtes sur les accidents ou aux franchissements ferroviaires;
+
+
+
+
+
+
+
+
+
+
+
+b) au bruit résultant de l’activité ferroviaire ou à la réglementation des prix et conditions visant les services des chemins de fer dans la mesure où ces questions sont régies par la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+47. Section 158 of the Act and the heading before it are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+47. L’article 158 de la même loi et l’intertitre le précédant sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements made with provincial authorities
+
+
+
+
+158. The Minister may enter into an agreement with a provincial authority to authorize the provincial authority to regulate the construction, operation and safety of a railway as well as the rates and conditions of service in the same manner and to the same extent as it may regulate a railway within its jurisdiction.
+
+
+
+
+
+
+
+
+
+
+158. Le ministre peut conclure avec toute autorité provinciale un accord autorisant celle-ci à réglementer la construction, l’exploitation et la sécurité de tout chemin de fer ainsi que les prix et conditions visant les services; le cas échéant, l’autorité exerce ce pouvoir de la même manière et dans la même mesure que celui qu’elle peut exercer à l’égard d’un chemin de fer relevant de sa compétence.
+
+
+
+Accords avec des autorités provinciales
+
+
+
+
+
+
+
+
+
+
+
+
+
+48. The Act is amended by adding the following after the heading “Administra- tive Monetary Penalties” before section 177:
+
+
+
+
+
+
+
+
+
+
+48. La même loi est modifiée par adjonction, après l’intertitre « Sanctions administratives pécuniaires » précédant l’article 177, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “Tribunal”
+
+
+
+
+176.1 For the purposes of sections 180.1 to 180.7, “Tribunal” means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the Transportation Appeal Tribunal of Canada Act.
+
+
+
+
+
+
+
+
+
+
+176.1 Pour l’application des articles 180.1 à 180.7, « Tribunal » s’entend du Tribunal d’appel des transports du Canada, constitué par le paragraphe 2(1) de la Loi sur le Tribunal d’appel des transports du Canada.
+
+
+
+Définition de « Tribunal »
+
+
+
+
+
+
+
+
+
+
+
+
+
+49. (1) The portion of section 177 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+49. (1) Le passage de l’article 177 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations by Agency
+
+
+
+
+177. (1) The Agency may, by regulation,
+
+
+
+
+
+
+
+
+
+
+177. (1) L’Office peut, par règlement :
+
+
+
+Pouvoirs réglementaires de l’Office
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 177(1)(b) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 177(1)b) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) prévoir le montant maximal — plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des personnes morales, à 25 000 $ — de la sanction applicable à chaque contravention à un texte ainsi désigné.
+
+
+
+
+
+
+
+
+
+
+
+b) prévoir le montant maximal — plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des personnes morales, à 25 000 $ — de la sanction applicable à chaque contravention à un texte ainsi désigné.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 177 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(3) L’article 177 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations by Minister
+
+
+
+(2) The Minister may, by regulation,
+
+
+
+
+
+
+
+
+
+
+(a) designate as a provision or requirement the contravention of which may be proceeded with as a violation in accordance with sections 179 and 180 any provision of section 51 or of any regulation made under section 50 or 51, or any requirement of any of those provisions; and
+
+
+
+
+
+
+
+
+
+
+(b) prescribe the maximum amount payable for each violation, but the amount shall not exceed
+
+
+
+
+
+
+
+
+
+
+(i) $5,000, in the case of an individual, and
+
+
+
+
+
+
+
+
+
+
+(ii) $25,000, in the case of a corporation.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut, par règlement :
+
+
+
+Pouvoirs réglementaires du ministre
+
+
+
+
+
+a) désigner comme texte dont la contravention est assujettie aux articles 179 et 180 toute disposition de l’article 51 ou des règlements pris en vertu des articles 50 ou 51, ou toute obligation imposée par l’article 51 ou ces règlements;
+
+
+
+
+
+
+
+
+
+
+
+b) prévoir le montant maximal — plafonné, dans le cas des personnes physiques, à 5 000 $ et, dans le cas des personnes morales, à 25 000 $ — de la sanction applicable à chaque contravention à un texte ainsi désigné.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50. (1) The portion of subsection 178(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+50. (1) Le paragraphe 178(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Notices of violation
+
+
+
+
+178. (1) The Agency, in respect of a violation referred to in subsection 177(1), or the Minister, in respect of a violation referred to in subsection 177(2), may
+
+
+
+
+
+
+
+
+
+
+178. (1) L’Office ou le ministre, à l’égard d’une contravention à un texte désigné au titre des paragraphes 177(1) ou (2), peut désigner, individuellement ou par catégorie, les agents verbalisateurs et déterminer la forme et la teneur des procès-verbaux de violation.
+
+
+
+Procès-verbaux
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 178(3) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 178(3) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Certificat
+
+
+
+
+(3) Chaque agent reçoit un certificat établi en la forme fixée par l’Office ou le ministre, selon le cas, et attestant sa qualité, qu’il présente sur demande à la personne à qui il veut demander des renseignements.
+
+
+
+
+
+
+
+
+
+
+(3) Chaque agent reçoit un certificat établi en la forme fixée par l’Office ou le ministre, selon le cas, et attestant sa qualité, qu’il présente sur demande à la personne à qui il veut demander des renseignements.
+
+
+
+Certificat
+
+
+
+
+
+
+
+
+
+
+
+
+
+51. Subsection 179(1) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+51. Le paragraphe 179(1) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Violation
+
+
+
+
+
+179. (1) Toute contravention à un texte désigné au titre de l’article 177 constitue une violation pour laquelle le contrevenant s’expose à la sanction établie conformément à cet article.
+
+
+
+
+
+
+
+
+
+
+
+179. (1) Toute contravention à un texte désigné au titre de l’article 177 constitue une violation pour laquelle le contrevenant s’expose à la sanction établie conformément à cet article.
+
+
+
+Violation
+
+
+
+
+
+
+
+
+
+
+2001, c. 29, s. 52
+
+
+
+
+52. Section 180 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+52. L’article 180 de la même loi est remplacé par ce qui suit :
+
+
+
+2001, ch. 29, art. 52
+
+
+
+
+
+
+
+
+
+
+Issuance of notice of violation
+
+
+
+
+180. If a person designated as an enforcement officer under paragraph 178(1)(a) believes that a person has committed a violation, the enforcement officer may issue and serve on the person a notice of violation that names the person, identifies the violation and sets out
+
+
+
+
+
+
+
+
+
+
+(a) the penalty, established in accordance with the regulations made under section 177, for the violation that the person is liable to pay; and
+
+
+
+
+
+
+
+
+
+
+(b) the particulars concerning the time for paying and the manner of paying the penalty.
+
+
+
+
+
+
+
+
+
+
+180. L’agent verbalisateur qui croit qu’une violation a été commise peut dresser un procès-verbal qu’il signifie au contrevenant. Le procès-verbal comporte, outre le nom du contrevenant et les faits reprochés, le montant, établi conformément aux règlements pris en vertu de l’article 177, de la sanction à payer, ainsi que le délai et les modalités de paiement.
+
+
+
+Verbalisation
+
+
+
+
+
+
+
+
+
+
+Option
+
+
+
+
+180.1 A person who has been served with a notice of violation must either pay the amount of the penalty specified in the notice or file with the Tribunal a written request for a review of the facts of the alleged contravention or of the amount of the penalty.
+
+
+
+
+
+
+
+
+
+
+180.1 Le destinataire du procès-verbal doit soit payer la sanction, soit déposer auprès du Tribunal une requête en révision des faits reprochés ou du montant de la sanction.
+
+
+
+Option
+
+
+
+
+
+
+
+
+
+
+Payment of specified amount precludes further proceedings
+
+
+
+
+180.2 If a person who is served with a notice of violation pays the amount specified in the notice in accordance with the particulars set out in it, the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the contravention by that person of the designated provision and no further proceedings under this Part shall be taken against the person in respect of that contravention.
+
+
+
+
+
+
+
+
+
+
+180.2 Lorsque le destinataire du procès-verbal paie la somme requise dans les délais et selon les modalités qui y sont prévues, le ministre accepte ce paiement en règlement de la sanction imposée; aucune poursuite ne peut être intentée par la suite au titre de la présente partie contre l’intéressé pour la même contravention.
+
+
+
+Paiement de la sanction
+
+
+
+
+
+
+
+
+
+
+Request for review of determination
+
+
+
+
+
+180.3
+ (1) A person who is served with a notice of violation and who wishes to have the facts of the alleged contravention or the amount of the penalty reviewed shall, on or before the date specified in the notice or within any further time that the Tribunal on application may allow, file a written request for a review with the Tribunal at the address set out in the notice.
+
+
+
+
+
+
+
+
+
+
+180.3 (1) Le destinataire du procès-verbal qui veut faire réviser la décision du ministre à l’égard des faits reprochés ou du montant de la sanction dépose une requête auprès du Tribunal à l’adresse indiquée dans le procès-verbal, au plus tard à la date limite qui y est indiquée, ou dans le délai supérieur éventuellement accordé à sa demande par le Tribunal.
+
+
+
+Requête en révision
+
+
+
+
+
+
+
+
+
+
+Time and place for review
+
+
+
+(2) On receipt of a request filed under subsection (1), the Tribunal shall appoint a time and place for the review and shall notify the Minister and the person who filed the request of the time and place in writing.
+
+
+
+
+
+
+
+
+
+(2) Le Tribunal, sur réception de la requête, fixe la date, l’heure et le lieu de l’audience et en avise par écrit le ministre et l’intéressé.
+
+
+
+Audience
+
+
+
+
+
+
+
+
+
+
+Review procedure
+
+
+
+(3) The member of the Tribunal assigned to conduct the review shall provide the Minister and the person who filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
+
+
+
+
+
+
+
+
+
+(3) À l’audience, le membre du Tribunal commis à l’affaire accorde au ministre et à l’intéressé la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+
+
+Déroulement
+
+
+
+
+
+
+
+
+
+
+Burden of proof
+
+
+
+(4) The burden of establishing that a person has contravened a designated provision is on the Minister.
+
+
+
+
+
+
+
+
+
+(4) S’agissant d’une requête portant sur les faits reprochés, il incombe au ministre d’établir que l’intéressé a contrevenu au texte désigné.
+
+
+
+Charge de la preuve
+
+
+
+
+
+
+
+
+
+
+Person not compelled to testify
+
+
+
+(5) A person who is alleged to have contravened a designated provision is not required, and shall not be compelled, to give any evidence or testimony in the matter.
+
+
+
+
+
+
+
+
+
+(5) L’intéressé n’est pas tenu de témoigner à l’audience.
+
+
+
+Intéressé non tenu de témoigner
+
+
+
+
+
+
+
+
+
+
+Certificate
+
+
+
+
+
+180.4
+ If a person neither pays the amount of the penalty in accordance with the particulars set out in the notice of violation nor files a request for a review under subsection 180.3(1), the person is deemed to have committed the contravention alleged in the notice, and the Minister may obtain from the Tribunal a certificate in the form that may be established by the Governor in Council that indicates the amount of the penalty specified in the notice.
+
+
+
+
+
+
+
+
+
+
+180.4 L’omission, par l’intéressé, de payer la pénalité dans les délais et selon les modalités prévus dans le procès-verbal et de présenter une requête en révision vaut déclaration de responsabilité à l’égard de la contravention. Sur demande, le ministre peut alors obtenir du Tribunal un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrite la somme.
+
+
+
+Omission de payer la sanction ou de présenter une requête
+
+
+
+
+
+
+
+
+
+
+Determination by Tribunal member
+
+
+
+
+180.5 If, at the conclusion of a review under section 180.3, the member of the Tribunal who conducts the review determines that
+
+
+
+
+
+
+
+
+
+
+(a) the person has not contravened the designated provision that the person is alleged to have contravened, the member of the Tribunal shall without delay inform the person and the Minister of the determination and, subject to section 180.6, no further proceedings under this Part shall be taken against the person in respect of the alleged contravention; or
+
+
+
+
+
+
+
+
+
+
+(b) the person has contravened the designated provision that the person is alleged to have contravened, the member of the Tribunal shall without delay inform the person and the Minister of the determination and, subject to any regulations made under section 177, of the amount determined by the member of the Tribunal to be payable by the person in respect of the contravention and, if the amount is not paid to the Tribunal by or on behalf of the person within the time that the member of the Tribunal may allow, the member of the Tribunal shall issue to the Minister a certificate in the form that may be established by the Governor in Council, setting out the amount required to be paid by the person.
+
+
+
+
+
+
+
+
+
+
+180.5 Après audition des parties, le membre du Tribunal informe sans délai l’intéressé et le ministre de sa décision. S’il décide :
+
+
+
+Décision
+
+
+
+
+
+a) qu’il n’y a pas eu contravention, sous réserve de l’article 180.6, nulle autre poursuite ne peut être intentée à cet égard sous le régime de la présente partie;
+
+
+
+
+
+
+
+
+
+
+
+b) qu’il y a eu contravention, il les informe également, sous réserve des règlements pris en vertu de l’article 177, de la somme qu’il fixe et qui doit être payée au Tribunal. En outre, à défaut de paiement dans le délai imparti, il expédie au ministre un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrite la somme.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Right of appeal
+
+
+
+
+
+180.6
+ (1) The Minister or a person affected by a determination made under section 180.5 may, within 30 days after the determination, appeal it to the Tribunal.
+
+
+
+
+
+
+
+
+
+
+180.6 (1) Le ministre ou toute personne concernée peut faire appel au Tribunal de la décision rendue au titre de l’article 180.5. Le délai d’appel est de trente jours.
+
+
+
+Appel
+
+
+
+
+
+
+
+
+
+
+Loss of right of appeal
+
+
+
+(2) A party that does not appear at a review hearing is not entitled to appeal a determination, unless they establish that there was sufficient reason to justify their absence.
+
+
+
+
+
+
+
+
+
+(2) La partie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+
+
+Perte du droit d’appel
+
+
+
+
+
+
+
+
+
+
+Disposition of appeal
+
+
+
+(3) The appeal panel of the Tribunal assigned to hear the appeal may dispose of the appeal by dismissing it or allowing it and, in allowing the appeal, the panel may substitute its decision for the determination appealed against.
+
+
+
+
+
+
+
+
+
+(3) Le comité du Tribunal peut rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause.
+
+
+
+Sort de l’appel
+
+
+
+
+
+
+
+
+
+
+Certificate
+
+
+
+(4) If the appeal panel finds that a person has contravened the designated provision, the panel shall without delay inform the person of the finding and, subject to any regulations made under section 177, of the amount determined by the panel to be payable by the person in respect of the contravention and, if the amount is not paid to the Tribunal by or on behalf of the person within the time allowed by the Tribunal, the Tribunal shall issue to the Minister a certificate in the form that may be established by the Governor in Council, setting out the amount required to be paid by the person.
+
+
+
+
+
+
+
+
+
+(4) S’il statue qu’il y a eu contravention, le comité en informe sans délai l’intéressé. Sous réserve des règlements pris en vertu de l’article 177, il l’informe également de la somme qu’il fixe et qui doit être payée au Tribunal. En outre, à défaut de paiement dans le délai imparti, il expédie au ministre un certificat, établi en la forme que le gouverneur en conseil peut déterminer, sur lequel est inscrite la somme.
+
+
+
+Avis
+
+
+
+
+
+
+
+
+
+
+Registration of certificate
+
+
+
+
+180.7 (1) If the time limit for the payment of an amount determined by the Minister in a notice of violation has expired, the time limit for the request for a review has expired, the time limit for an appeal has expired, or an appeal has been disposed of, on production in any superior court, a certificate issued under section 180.4, paragraph 180.5(b) or subsection 180.6(4) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate.
+
+
+
+
+
+
+
+
+
+
+180.7 (1) Sur présentation à la juridiction supérieure, une fois le délai d’appel expiré, la décision sur l’appel rendue ou le délai pour payer la sanction ou déposer une requête en révision expiré, selon le cas, le certificat visé à l’article 180.4, à l’alinéa 180.5b) ou au paragraphe 180.6(4) est enregistré. Dès lors, il devient exécutoire et toute procédure d’exécution peut être engagée, le certificat étant assimilé à un jugement de cette juridiction obtenu par Sa Majesté du chef du Canada contre la personne désignée dans le certificat pour une dette dont le montant y est indiqué.
+
+
+
+Enregistrement du certificat
+
+
+
+
+
+
+
+
+
+
+Recovery of costs and charges
+
+
+
+(2) All reasonable costs and charges attend­ant on the registration of the certificate are recoverable in like manner as if they had been certified and the certificate had been registered under subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Tous les frais entraînés par l’enregistrement du certificat peuvent être recouvrés comme s’ils faisaient partie de la somme indiquée sur le certificat enregistré en application du paragraphe (1).
+
+
+
+Recouvrement des frais
+
+
+
+
+
+
+
+
+
+
+Amounts received deemed public moneys
+
+
+
+(3) An amount received by the Minister or the Tribunal under this section is deemed to be public money within the meaning of the Financial Administration Act.
+
+
+
+
+
+
+
+
+
+(3) Les sommes reçues par le ministre ou le Tribunal au titre du présent article sont assimilées à des fonds publics au sens de la Loi sur la gestion des finances publiques.
+
+
+
+Fonds publics
+
+
+
+
+
+
+
+
+
+
+References to “Minister”
+
+
+
+
+180.8 (1) In the case of a violation referred to in subsection 177(1), every reference to the “Minister” in sections 180.3 to 180.7 shall be read as a reference to the Agency or to a person designated by the Agency.
+
+
+
+
+
+
+
+
+
+
+180.8 (1) S’il s’agit d’une contravention à un texte désigné au titre du paragraphe 177(1), la mention du ministre aux articles 180.3 à 180.7 vaut mention de l’Office ou de la personne que l’Office peut désigner.
+
+
+
+Mention du ministre
+
+
+
+
+
+
+
+
+
+
+Delegation by Minister
+
+
+
+(2) In the case of a violation referred to in subsection 177(2), the Minister may delegate to the Agency any power, duty or function conferred on the Minister under this Part.
+
+
+
+
+
+
+
+
+
+(2) S’il s’agit d’une contravention à un texte désigné au titre du paragraphe 177(2), le ministre peut déléguer à l’Office les attributions que lui confère la présente partie.
+
+
+
+Délégation ministérielle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 32 (4th Supp.)
+
+
+
+RAILWAY SAFETY ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA SÉCURITÉ FERROVIAIRE
+
+
+
+L.R., ch. 32 (4e suppl.)
+
+
+
+
+
+
+
+
+
+
+2002, c. 8, s. 168
+
+
+
+
+53. Subsection 34(1) of the Railway Safety Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+53. Le paragraphe 34(1) de la Loi sur la sécurité ferroviaire est remplacé par ce qui suit :
+
+
+
+2002, ch. 8, art. 168
+
+
+
+
+
+
+
+
+
+
+Enforcement through court
+
+
+
+
+34. (1) An order or emergency directive made by the Minister may be made an order of the Federal Court or of any superior court, and shall be enforced in the same manner as an order of the court.
+
+
+
+
+
+
+
+
+
+
+34. (1) Les ordres et les injonctions ministériels peuvent être assimilés à des ordonnances de la Cour fédérale ou d’une cour supérieure; le cas échéant, leur exécution s’effectue selon les mêmes modalités.
+
+
+
+Assimilation
+
+
+
+
+
+
+
+
+
+
+
+
+
+54. The Act is amended by adding the following after section 43:
+
+
+
+
+
+
+
+
+
+
+54. La même loi est modifiée par adjonction, après l’article 43, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PART IV.1
+
+
+
+
+
+
+
+
+
+PARTIE IV.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POLICE CONSTABLES
+
+
+
+
+
+
+
+
+
+AGENTS DE POLICE
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment
+
+
+
+
+44. (1) A judge of a superior court may appoint a person as a police constable for the enforcement of Part III of the Canada Transportation Act and for the enforcement of the laws of Canada or a province in so far as their enforcement relates to the protection of property owned, possessed or administered by a railway company and the protection of persons and property on that property.
+
+
+
+
+
+
+
+
+
+
+44. (1) Tout juge d’une cour supérieure peut nommer un agent de police chargé de faire observer la partie III de la Loi sur les transports au Canada, ainsi que les autres lois fédérales ou les lois provinciales touchant la protection des biens qu’administre ou possède la compagnie de chemin de fer, ou dont elle est propriétaire, ou la protection de personnes ou de biens se trouvant en des lieux qu’elle administre ou possède ou dont elle est propriétaire.
+
+
+
+Nomination
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(2) The appointment may only be made on the application of a railway company that owns, possesses or administers property located within the judge’s jurisdiction.
+
+
+
+
+
+
+
+
+
+(2) La nomination ne peut se faire que sur demande de la compagnie qui administre ou possède des biens, ou en est le propriétaire, dans le ressort où le juge a compétence.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+Jurisdiction
+
+
+
+(3) The police constable has jurisdiction on property under the administration of the railway company and in any place within 500 m of property that the railway company owns, possesses or administers.
+
+
+
+
+
+
+
+
+
+(3) L’agent de police exerce sa compétence sur les biens que la compagnie administre ou possède ou dont elle est propriétaire, ainsi qu’en tout lieu se trouvant dans un rayon de cinq cents mètres de ceux-ci.
+
+
+
+Compétence de l’agent de police
+
+
+
+
+
+
+
+
+
+
+Power to take persons before a court
+
+
+
+(4) The police constable may take a person charged with an offence under Part III of the Canada Transportation Act, or any law referred to in subsection (1), before a court that has jurisdiction in such cases over any area where property owned, possessed or administered by the railway company is located, whether or not the person was arrested, or the offence occurred or is alleged to have occurred, within that area.
+
+
+
+
+
+
+
+
+
+(4) L’agent de police peut amener toute personne inculpée d’une infraction créée par la partie III de la Loi sur les transports au Canada ou par toute autre loi visée au paragraphe (1) devant un tribunal ayant compétence dans le ressort où sont situés des biens que la compagnie administre ou possède ou dont elle est propriétaire, indépendamment du lieu d’arrestation ou du lieu, réel ou présumé, de perpétration.
+
+
+
+Pouvoirs de l’agent de police
+
+
+
+
+
+
+
+
+
+
+Court’s jurisdiction
+
+
+
+(5) The court must deal with the person as though the person had been arrested, and the offence had occurred, within the area of the court’s jurisdiction, but the court may not deal with the person if the offence is alleged to have occurred outside the province in which the court is sitting.
+
+
+
+
+
+
+
+
+
+(5) Le tribunal statue sur le cas comme si l’inculpé avait été arrêté dans son ressort et y avait commis l’infraction, sauf si le lieu présumé de perpétration est situé à l’extérieur de la province.
+
+
+
+Compétence du tribunal
+
+
+
+
+
+
+
+
+
+
+Dismissal or discharge of police constable
+
+
+
+(6) A superior court judge referred to in subsection (1) or the railway company may dismiss or discharge the police constable and the dismissal or discharge terminates the powers, duties and privileges conferred on the constable by this section.
+
+
+
+
+
+
+
+
+
+(6) Tout juge visé au paragraphe (1) ou la compagnie peut destituer ou licencier l’agent de police, ce qui met fin à l’exercice des attributions qui lui sont conférées aux termes du présent article.
+
+
+
+Destitution ou licenciement
+
+
+
+
+
+
+
+
+
+
+Procedures for dealing with complaints
+
+
+
+
+44.1 (1) If one or more police constables are appointed with respect to a railway company, the railway company must
+
+
+
+
+
+
+
+
+
+
+(a) establish procedures for dealing with complaints concerning police constables;
+
+
+
+
+
+
+
+
+
+
+(b) designate one or more persons to be responsible for implementing the procedures; and
+
+
+
+
+
+
+
+
+
+
+(c) designate one or more persons to receive and deal with the complaints.
+
+
+
+
+
+
+
+
+
+
+44.1 (1) En cas de nomination d’agents de police à l’égard d’une compagnie de chemin de fer, celle-ci est tenue :
+
+
+
+Procédure d’examen des plaintes
+
+
+
+
+
+a) d’établir une procédure d’examen des plaintes concernant les agents de police;
+
+
+
+
+
+
+
+
+
+
+
+b) de charger une ou plusieurs personnes de la mise en oeuvre de la procédure;
+
+
+
+
+
+
+
+
+
+
+
+c) de charger une ou plusieurs personnes du règlement des plaintes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Procedures to be filed with Minister
+
+
+
+(2) The railway company must file with the Minister a copy of its procedures for dealing with complaints and must implement any recommendations made by the Minister, including recommendations concerning how the procedures are to be made public.
+
+
+
+
+
+
+
+
+
+(2) La compagnie dépose auprès du ministre un double de la procédure. Elle met en oeuvre les recommandations de celui-ci, notamment celles concernant les moyens de porter à la connaissance du public l’existence de la procédure.
+
+
+
+Dépôt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISIONS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS TRANSITOIRES
+
+
+
+
+
+
+
+
+
+
+
+
+Agreements entered into prior to the coming into force of section 44
+
+
+
+
+55. (1) Section 152.1 of the Canada Transportation Act, as enacted by section 44 of this Act, does not apply in respect of agreements entered into before the day on which section 44 of this Act comes into force.
+
+
+
+
+
+
+
+
+
+
+55. (1) L’article 152.1 de la Loi sur les transports au Canada, édicté par l’article 44 de la présente loi, ne s’applique pas aux accords conclus avant l’entrée en vigueur de cet article 44.
+
+
+
+Accords conclus avant l’entrée en vigueur de l’article 44
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2) Despite subsection (1), in the case of an agreement between VIA Rail Canada Inc. and a railway company that was entered into before the day on which section 44 of this Act comes into force, Via Rail Canada Inc. may apply to the Canadian Transportation Agency to decide any matter respecting the priority to be given to the trains of any of the parties to the agreement. In making its decision, the Agency shall have regard to the public interest and to the operational requirements of the parties to the agreement. Section 152.2 of the Canada Transportation Act, as enacted by section 44 of this Act, applies, with any modifications that are necessary, if the Agency, as part of its decision, fixes an amount to be paid by Via Rail Canada Inc. In the event of any inconsistency between the Agency’s decision and the provisions of the agreement, the Agency’s decision prevails to the extent of the inconsistency.
+
+
+
+
+
+
+
+
+
+(2) Dans le cadre de tout accord qu’elle a conclu avec une compagnie de chemin de fer avant l’entrée en vigueur de l’article 44 de la présente loi, VIA Rail Canada Inc. peut, malgré le paragraphe (1), demander à l’Office des transports du Canada de régler toute question concernant la priorité des trains exploités par les parties à l’accord. Pour rendre sa décision, ce dernier tient compte de l’intérêt public et des besoins d’exploitation des parties, l’article 152.2 de la Loi sur les transports au Canada, édicté par l’article 44 de la présente loi, s’appliquant, avec les adaptations nécessaires, à toute somme éventuelle à payer par VIA Rail Canada Inc. Les dispositions de la décision l’emportent sur les dispositions incompatibles de l’accord.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+Members continued
+
+
+
+
+56. (1) Despite sections 3 to 5 of this Act, the members of the Canadian Transportation Agency, including its Chairperson and Vice-Chairperson, who hold office on the coming into force of those sections continue to hold office according to the conditions of their appointments, until the expiry of their respective terms.
+
+
+
+
+
+
+
+
+
+
+56. (1) Malgré les articles 3 à 5 de la présente loi, les membres de l’Office des transports du Canada — dont le président et le vice-président — en fonctions à l’entrée en vigueur de ces articles continuent d’exercer leur charge, en conformité avec les conditions de leur nomination, jusqu’à l’expiration de leur mandat.
+
+
+
+Membres en fonctions
+
+
+
+
+
+
+
+
+
+
+Temporary limitation on appointment of new members
+
+
+
+(2) Despite section 3 of this Act, the Governor in Council may not appoint or reappoint members of the Canadian Transportation Agency under subsection 7(2) or subsection 8(2), respectively, of the Canada Transportation Act until the number of members of the Agency, other than the Chairperson and the Vice-Chairperson, is less than three.
+
+
+
+
+
+
+
+
+
+(2) Malgré l’article 3 de la présente loi, aucune nomination ne peut être faite en vertu du paragraphe 7(2) de la Loi sur les transports au Canada et aucun mandat ne peut être renouvelé en vertu du paragraphe 8(2) de cette loi avant que le nombre de membres en fonctions — autres que le président et le vice-président — ne soit inférieur à trois.
+
+
+
+Nouvelles nominations
+
+
+
+
+
+
+
+
+
+
+Exception for appointment of Chairperson and Vice-Chair­person
+
+
+
+(3) Despite subsection (2) and section 3 of this Act, the Governor in Council may appoint or reappoint members of the Canadian Transportation Agency to be designated as the Chairperson or the Vice-Chairperson of the Agency under subsection 7(3) of the Canada Transportation Act.
+
+
+
+
+
+
+
+
+
+(3) Malgré le paragraphe (2) et l’article 3 de la présente loi, le gouverneur en conseil peut nommer des membres choisis par lui en vertu du paragraphe 7(3) de la Loi sur les transports au Canada — ou renouveler leur mandat —, pour exercer la charge de président et de vice-président de l’Office des transports du Canada.
+
+
+
+Président et vice-président
+
+
+
+
+
+
+
+
+
+
+Adjustment to the volume-related composite price index
+
+
+
+
+57. Despite subsection 151(5) of the Canada Transportation Act, the Canadian Transportation Agency shall, once only, on request of the Minister of Transport and on the date set by the Agency, adjust the volume-related composite price index to reflect costs incurred by the prescribed railway companies, as defined in section 147 of that Act, for the maintenance of hopper cars used for the movement of grain, as defined in section 147 of that Act.
+
+
+
+
+
+
+
+
+
+
+57. Malgré le paragraphe 151(5) de la Loi sur les transports au Canada, l’Office des transports du Canada effectue une seule fois, à la demande du ministre des Transports et à la date fixée par l’Office, l’ajustement de l’indice des prix composite afférent au volume pour tenir compte des coûts supportés par les compagnies de chemin de fer régies, au sens de l’article 147 de cette loi, pour l’entretien des wagons-trémies servant au mouvement du grain, au sens de cet article 147.
+
+
+
+Ajustement de l’indice des prix composite afférent au volume
+
+
+
+
+
+
+
+
+
+
+Police constables appointed under section 158 of the Canada Transportation Act
+
+
+
+
+58. Every police constable appointed under section 158 of the Canada Transportation Act who holds office on the day on which section 54 of this Act comes into force is deemed to have been appointed under section 44 of the Railway Safety Act, as enacted by section 54 of this Act.
+
+
+
+
+
+
+
+
+
+
+58. Les agents de police nommés en vertu de l’article 158 de la Loi sur les transports au Canada qui sont en fonctions à l’entrée en vigueur de l’article 54 de la présente loi sont réputés avoir été nommés en vertu de l’article 44 de la Loi sur la sécurité ferroviaire, édicté par cet article 54.
+
+
+
+Agents de police nommés en vertu de l’article 158 de la Loi sur les transports au Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 35 (4th Supp.)
+
+
+
+Air Canada Public Participation Act
+
+
+
+
+
+
+
+
+
+Loi sur la participation publique au capital d’Air Canada
+
+
+
+L.R., ch. 35 (4e suppl.)
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 19
+
+
+
+
+59. (1) Subsections 10.1(1) and (2) of the Air Canada Public Participation Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+59. (1) Les paragraphes 10.1(1) et (2) de la Loi sur la participation publique au capital d’Air Canada sont remplacés par ce qui suit :
+
+
+
+2000, ch. 15, art. 19
+
+
+
+
+
+
+
+
+
+
+Deemed approval
+
+
+
+
+10.1 (1) The proposed acquisition described in a letter dated December 21, 1999 from 853350 Alberta Ltd. and Air Canada to the Minister of Transport is deemed to be a transaction that has been approved by the Governor in Council under subsection 53.2(7) of the Canada Transportation Act on the day on which that subsection comes into force.
+
+
+
+
+
+
+
+
+
+
+10.1 (1) Le projet d’acquisition décrit dans la lettre du 21 décembre 1999 envoyée par la société 853350 Alberta Ltd. et Air Canada au ministre des Transports est réputé être une transaction agréée par le gouverneur en conseil au titre du paragraphe 53.2(7) de la Loi sur les transports au Canada à la date d’entrée en vigueur de ce paragraphe.
+
+
+
+Assimilation
+
+
+
+
+
+
+
+
+
+
+Deemed terms and conditions
+
+
+
+(2) The undertakings provided by 853350 Alberta Ltd. and Air Canada to the Minister of Transport in the letter referred to in subsection (1) are deemed to be terms and conditions specified in an approval by the Governor in Council under subsection 53.2(7) of the Canada Transportation Act that relate to national transportation concerns, and the undertakings provided by 853350 Alberta Ltd. and Air Canada to the Commissioner of Competition that are set out in Annex A to a letter from the Commissioner dated December 21, 1999 in respect of the acquisition referred to in that subsection are deemed to be terms and conditions of an approval under subsection 53.2(7) of the Canada Transportation Act that relate to potential prevention or lessening of competition.
+
+
+
+
+
+
+
+
+
+(2) Les engagements pris envers le ministre des Transports par la société 853350 Alberta Ltd. et Air Canada dans la lettre mentionnée au paragraphe (1) sont réputés être des conditions de l’agrément visé au paragraphe 53.2(7) de la Loi sur les transports au Canada portant sur des questions relatives aux transports nationaux et les engagements pris par elles envers le commissaire de la concurrence et figurant à l’annexe A de la lettre de celui-ci, datée du 21 décembre 1999, à l’égard du projet d’acquisition visé au paragraphe (1) sont réputés être des conditions de cet agrément portant sur l’empêchement ou la diminution éventuels de la concurrence.
+
+
+
+Assimilation
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 19
+
+
+
+(2) The portion of subsection 10.1(4) of the French version of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le passage du paragraphe 10.1(4) de la version française de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 19
+
+
+
+
+
+
+
+
+
+
+Cessation d’effet des engagements
+
+
+
+
+(4) Le gouverneur en conseil peut, par décret, déclarer que la société 853350 Alberta Ltd. et Air Canada ne sont pas assujetties aux conditions mentionnées au paragraphe (2) si les engagements cessent d’avoir effet et ne reprennent pas effet dans les circonstances prévues :
+
+
+
+
+
+
+
+
+
+
+(4) Le gouverneur en conseil peut, par décret, déclarer que la société 853350 Alberta Ltd. et Air Canada ne sont pas assujetties aux conditions mentionnées au paragraphe (2) si les engagements cessent d’avoir effet et ne reprennent pas effet dans les circonstances prévues :
+
+
+
+Cessation d’effet des engagements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. L-2
+
+
+
+Canada Labour Code
+
+
+
+
+
+
+
+
+
+Code canadien du travail
+
+
+
+L.R., ch. L-2
+
+
+
+
+
+
+
+
+
+
+1998, c. 10, s. 182
+
+
+
+
+60. The definition “private constable” in subsection 3(1) of the Canada Labour Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+60. La définition de « agent de police privé », au paragraphe 3(1) du Code canadien du travail, est remplacée par ce qui suit :
+
+
+
+1998, ch. 10, art. 182
+
+
+
+
+
+
+
+
+
+
+“private constable”« agent de police privé »
+
+
+
+“private constable” means a person appointed as a police constable under Part IV.1 of the Railway Safety Act;
+
+
+
+
+
+
+
+
+
+« agent de police privé » Personne nommée à titre d’agent de police aux termes de la partie IV.1 de la Loi sur la sécurité ferroviaire.
+
+
+
+« agent de police privé »“private constable”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-34; R.S., c. 19 (2nd Supp.), s. 19
+
+
+
+Competition Act
+
+
+
+
+
+
+
+
+
+Loi sur la concurrence
+
+
+
+L.R., ch. C-34; L.R., ch. 19 (2e suppl.), art. 19
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 12
+
+
+
+
+61. Subsections 29.1(3) to (5) of the Competition Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+61. Les paragraphes 29.1(3) à (5) de la Loi sur la concurrence sont remplacés par ce qui suit :
+
+
+
+2000, ch. 15, art. 12
+
+
+
+
+
+
+
+
+
+
+Contents of request
+
+
+
+(3) Requests under this section must be in writing and must
+
+
+
+
+
+
+
+
+
+
+(a) specify the information referred to in any of paragraphs (2)(a) to (f) that is required; and
+
+
+
+
+
+
+
+
+
+
+(b) state that the Minister of Transport requires the information for the purposes of section 53.1 or 53.2 of the Canada Transportation Act and identify the transaction being considered under that section.
+
+
+
+
+
+
+
+
+
+(3) La demande du ministre des Transports doit être faite par écrit et :
+
+
+
+Demande du ministre
+
+
+
+
+
+a) préciser les renseignements, parmi ceux qui sont mentionnés aux alinéas (2)a) à f), dont il a besoin;
+
+
+
+
+
+
+
+
+
+
+
+b) indiquer que les renseignements lui sont nécessaires pour l’application des articles 53.1 ou 53.2 de la Loi sur les transports au Canada et préciser la transaction visée par ces articles.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Restriction
+
+
+
+(4) The information communicated under subsection (1) may be used only for the purposes of section 53.1 or 53.2, as the case may be, of the Canada Transportation Act.
+
+
+
+
+
+
+
+
+
+(4) Les renseignements ne peuvent être utilisés que pour l’application des articles 53.1 ou 53.2 de la Loi sur les transports au Canada.
+
+
+
+Restriction quant à l’utilisation
+
+
+
+
+
+
+
+
+
+
+Confidentiality
+
+
+
+(5) No person who performs or has performed duties or functions in the administration or enforcement of the Canada Transportation Act shall communicate or allow to be communicated to any other person any information communicated under subsection (1), except to persons who perform duties or functions under section 53.1 or 53.2 of that Act.
+
+
+
+
+
+
+
+
+
+(5) Il est interdit à quiconque exerce ou a exercé des fonctions dans le cadre de l’application ou du contrôle d’application de la Loi sur les transports au Canada de communiquer ou de permettre que soient communiqués des renseignements communiqués dans le cadre du paragraphe (1), sauf à une personne qui exerce des fonctions sous le régime des articles 53.1 ou 53.2 de cette loi.
+
+
+
+Confidentialité
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 14
+
+
+
+
+62. Paragraph 94(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+62. L’alinéa 94c) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 15, art. 14
+
+
+
+
+
+
+
+
+
+
+
+
+(c) a merger or proposed merger approved under subsection 53.2(7) of the Canada Transportation Act and in respect of which the Minister of Transport has certified to the Commissioner the names of the parties.
+
+
+
+
+
+
+
+
+
+
+c) d’une fusion — réalisée ou proposée — agréée en vertu du paragraphe 53.2(7) de la Loi sur les transports au Canada et à l’égard de laquelle le ministre des Transports certifie au commissaire le nom des parties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENT
+
+
+
+
+
+
+
+
+
+DISPOSITION DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-6
+
+
+
+
+63. (1) Subsections (2) and (3) apply if Bill C-6, introduced in the 1st session of the 39th Parliament and entitled An Act to amend the Aeronautics Act and to make consequential amendments to other Acts (referred to in this section as the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+
+63. (1) Les paragraphes (2) et (3) s’appliquent en cas de sanction du projet de loi C-6, déposé au cours de la 1re session de la 39e législature et intitulé Loi modifiant la Loi sur l’aéronautique et d’autres lois en conséquence (appelé « autre loi » au présent article).
+
+
+
+Projet de loi C-6
+
+
+
+
+
+
+
+
+
+
+
+
+(2) If section 52 of this Act comes into force before section 44 of the other Act, then section 44 of the other Act and the heading before it are repealed.
+
+
+
+
+
+
+
+
+
+(2) Si l’article 52 de la présente loi entre en vigueur avant l’article 44 de l’autre loi, cet article 44 et l’intertitre le précédant sont abrogés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If section 52 of this Act comes into force on the same day as section 44 of the other Act, then section 44 of the other Act is deemed to have come into force before section 52 of this Act.
+
+
+
+
+
+
+
+
+
+(3) Si l’entrée en vigueur de l’article 52 de la présente loi et celle de l’article 44 de l’autre loi sont concomitantes, l’article 44 de l’autre loi est réputé être entré en vigueur avant l’article 52 de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council — section 27
+
+
+
+
+64. Section 27 comes into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+64. L'article 27 entre en vigueur à la date fixée par décret.
+
+
+
+Décret — article 27
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

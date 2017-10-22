@@ -1,0 +1,2541 @@
+
+
+
+
+
+
+C-58
+
+
+
+
+
+C-58
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-58
+
+
+
+
+
+PROJET DE LOI C-58
+
+
+
+
+
+
+An Act to amend the Canada Transportation Act (railway transportation)
+
+
+
+
+
+Loi modifiant la Loi sur les transports au Canada (transport ferroviaire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 30, 2007
+
+
+
+
+
+première lecture le 30 mai 2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE MINISTER OF TRANSPORT, INFRASTRUCTURE AND COMMUNITIES
+
+90374
+
+
+
+LE MINISTRE DES TRANSPORTS, DE L’INFRASTRUCTURE ET DES COLLECTIVITÉS
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Canada Transportation Act with respect to railway transportation.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur les transports au Canada relativement au transport ferroviaire.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-58
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Transportation Act (railway transportation)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur les transports au Canada (transport ferroviaire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1996, c. 10
+
+
+
+CANADA TRANSPORTATION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LES TRANSPORTS AU CANADA
+
+
+
+1996, ch. 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) Subsections 27(2) and (3) of the Canada Transportation Act are repealed.
+
+
+
+
+
+
+
+
+
+
+1. (1) Les paragraphes 27(2) et (3) de la Loi sur les transports au Canada sont abrogés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 27(5) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 27(5) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 119(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 119(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Notice of change of tariff
+
+
+
+
+119. (1) A railway company that proposes to increase a rate in a tariff for the movement of traffic shall publish a notice of the increase at least 30 days before its effective date.
+
+
+
+
+
+
+
+
+
+
+119. (1) La compagnie de chemin de fer qui a l’intention de hausser les prix d’un tarif de transport publie la modification au moins trente jours avant la date de sa prise d’effet.
+
+
+
+Avis de modification du tarif
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after section 120:
+
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l’article 120, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Unreasonable charges or terms
+
+
+
+
+
+120.1 (1) If, on complaint in writing to the Agency by a shipper who is subject to any charges and associated terms and conditions for the movement of traffic or for the provision of incidental services that are found in a tariff that applies to more than one shipper other than a tariff referred to in subsection 165(3), the Agency finds that the charges or associated terms and conditions are unreasonable, the Agency may, by order, establish new charges or associated terms and conditions.
+
+
+
+
+
+
+
+
+
+
+
+
+120.1 (1) Sur dépôt d’une plainte de tout expéditeur assujetti à un tarif applicable à plus d’un expéditeur — autre qu’un tarif visé au paragraphe 165(3) — prévoyant des frais relatifs au transport ou aux services connexes ou des conditions afférentes, l’Office peut, s’il les estime déraisonnables, fixer de nouveaux frais ou de nouvelles conditions par ordonnance.
+
+
+
+
+Frais ou conditions déraisonnables
+
+
+
+
+
+
+
+
+
+
+Period of validity
+
+
+
+
+(2) An order made under subsection (1) remains in effect for the period, not exceeding one year, specified in the order.
+
+
+
+
+
+
+
+
+
+
+
+(2) L’ordonnance précise la période de validité de ces frais ou conditions, qui ne peut excéder un an.
+
+
+
+
+Validité
+
+
+
+
+
+
+
+
+
+
+Factors to be considered
+
+
+
+
+(3) In deciding whether any charges or associated terms and conditions are unreasonable, the Agency shall take into account the following factors:
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the objective of the charges or associated terms and conditions;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the industry practice in setting the charges or associated terms and conditions;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) in the case of a complaint relating to the provision of any incidental service, the existence of an effective, adequate and competitive alternative to the provision of that service; and
+
+
+
+
+
+
+
+
+
+
+
+
+(d) any other factor that the Agency considers relevant.
+
+
+
+
+
+
+
+
+
+
+
+(3) Pour décider si les frais ou conditions sont déraisonnables, l’Office tient compte des facteurs suivants :
+
+
+
+
+Facteurs à prendre en compte
+
+
+
+
+
+
+a) le but dans lequel les frais ou conditions sont imposés;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) les pratiques suivies par l’industrie pour leur fixation;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) dans le cas d’une plainte relative à des services connexes, l’existence d’une solution de rechange efficace, bien adaptée et concurrentielle;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) tout autre facteur que l’Office estime pertinent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commercially fair and reasonable
+
+
+
+
+(4) Any charges or associated terms and conditions established by the Agency shall be commercially fair and reasonable to the shippers who are subject to them as well as to the railway company that issued the tariff containing them.
+
+
+
+
+
+
+
+
+
+
+
+(4) Les frais ou conditions fixés par l’Office doivent être commercialement équitables et raisonnables tant pour les expéditeurs qui y sont assujettis que pour la compagnie de chemin de fer qui a établi le tarif les prévoyant.
+
+
+
+
+Obligations
+
+
+
+
+
+
+
+
+
+
+Duty to vary tariff
+
+
+
+
+(5) The railway company shall, without delay after the Agency establishes any charges or associated terms and conditions, vary its tariff to reflect those charges or associated terms and conditions.
+
+
+
+
+
+
+
+
+
+
+
+(5) La compagnie de chemin de fer modifie le tarif en conséquence dès le prononcé de l’ordonnance par l’Office.
+
+
+
+
+Modification du tarif
+
+
+
+
+
+
+
+
+
+
+No variation
+
+
+
+
+(6) The railway company shall not vary its tariff with respect to any charges or associated terms and conditions established by the Agency until the period referred to in subsection (2) has expired.
+
+
+
+
+
+
+
+
+
+
+
+(6) La compagnie de chemin de fer ne peut modifier son tarif à l’égard des frais et conditions fixés par l’Office avant l’expiration de la période de validité précisée au titre du paragraphe (2).
+
+
+
+
+Pas de modification
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The Act is amended by adding the following after section 146:
+
+
+
+
+
+
+
+
+
+
+4. La même loi est modifiée par adjonction, après l’article 146, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Obligation following return
+
+
+
+
+
+146.01 (1) If, by reason of the instrument or act by which a railway line or an operating interest in a railway line is transferred through the process set out in sections 143 to 145 or otherwise, the railway line or operating interest in the railway line returns to the railway company that transferred it, the railway company shall, within 60 days after the day on which the return takes place, resume operations of the line or follow the process set out in sections 143 to 145.
+
+
+
+
+
+
+
+
+
+
+
+
+146.01 (1) Si, au titre de la convention de transfert résultant notamment du processus établi en vertu des articles 143 à 145, la ligne de chemin de fer ou les droits d’exploitation d’une telle ligne font retour à la compagnie qui les avait transférés, celle-ci doit, dans les soixante jours suivant le retour, reprendre l’exploitation de la ligne ou se conformer au processus établi en vertu de ces articles.
+
+
+
+
+Obligation découlant du retour
+
+
+
+
+
+
+
+
+
+
+No condition or obligation
+
+
+
+
+(2) If a railway line or operating interest in a railway line returns to a railway company that transferred it and the company decides to follow the process set out in sections 143 to 145 in respect of the railway line or operating interest, the company is not subject to subsection 142(2) in respect of the railway line or operating interest and has no obligations under this Act in respect of the operation of the railway line.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le cas échéant, la compagnie de chemin de fer qui choisit de suivre le processus établi en vertu des articles 143 à 145 n’est pas assujettie au paragraphe 142(2) à l’égard de la ligne ou des droits d’exploitation et elle n’a pas d’obligation en vertu de la présente loi relativement à l’exploitation de la ligne de chemin de fer.
+
+
+
+
+Absence d’obligation
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Section 146.1 of the Act is renumbered as subsection 146.1(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+
+5. L’article 146.1 de la même loi devient le paragraphe 146.1(1) et est modifié par adjonction de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Compensation
+
+
+
+
+(2) If a railway company to which subsection 146.01(1) applies does not resume operations on a grain-dependent branch line listed in Schedule I within the period provided for in that subsection and does not enter into an agreement for the sale, lease or other transfer of that railway line, or applicable interest in that railway line, after following the process set out in sections 143 to 145, the railway company shall, beginning on the day after the last day on which its offer could have been accepted under section 145, make the annual payments referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+
+
+(2) Si la compagnie à laquelle s’applique le paragraphe 146.01(1) ne reprend pas l’exploitation d’un embranchement tributaire du transport du grain mentionné à l’annexe I dans le délai prévu à ce paragraphe et qu’aucune convention de transfert n’est conclue au titre du processus établi en vertu des articles 143 à 145, la compagnie effectue les versements annuels prévus au paragraphe (1) à compter du lendemain du dernier jour où l’offre aurait pu être acceptée au titre de l’article 145.
+
+
+
+
+Indemnisation
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Act is amended by adding the following after section 151:
+
+
+
+
+
+
+
+
+
+
+6. La même loi est modifiée par adjonction, après l’article 151, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of Available Sidings
+
+
+
+
+
+
+
+
+
+
+
+Liste des voies d’évitement
+
+
+
+
+
+
+
+
+
+
+
+
+
+List of available sidings
+
+
+
+
+
+151.1 (1) A prescribed railway company shall prepare and keep up to date a list of the sidings that it makes available in the Western Division where railway cars that are allocated by the Canadian Grain Commission under subsection 87(2) of the Canada Grain Act can be loaded.
+
+
+
+
+
+
+
+
+
+
+
+
+151.1 (1) La compagnie de chemin de fer régie est tenue d’établir et de tenir à jour la liste de ses voies d’évitement situées dans la région de l’Ouest où peuvent être chargés des wagons affectés par la Commission canadienne des grains au titre du paragraphe 87(2) de la Loi sur les grains du Canada.
+
+
+
+
+Liste des voies d’évitement disponibles
+
+
+
+
+
+
+
+
+
+
+Publication of list
+
+
+
+
+(2) The railway company shall publish the list on its Internet site.
+
+
+
+
+
+
+
+
+
+
+
+(2) Elle publie sa liste sur son site Internet.
+
+
+
+
+Publication de la liste
+
+
+
+
+
+
+
+
+
+
+Removal from list
+
+
+
+
+(3) The railway company may remove a siding from the list only after the expiry of 60 days after the publication of a notice of its intention to do so in a newspaper of general circulation in the area where the siding is located.
+
+
+
+
+
+
+
+
+
+
+
+(3) Elle ne peut supprimer une voie d’évitement de la liste qu’à l’expiration d’un délai de soixante jours suivant la publication d’un avis à cet effet dans un journal à grande diffusion dans la région concernée.
+
+
+
+
+Suppression de la liste
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. The Act is amended by adding the following after section 169:
+
+
+
+
+
+
+
+
+
+
+7. La même loi est modifiée par adjonction, après l’article 169, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Mediation
+
+
+
+
+
+169.1 (1) The parties to a final offer arbitration may, by agreement, refer to a mediator, which may be the Agency, a matter that has been submitted for a final offer arbitration under section 161.
+
+
+
+
+
+
+
+
+
+
+
+
+169.1 (1) Les parties à un arbitrage peuvent d’un commun accord faire appel à un médiateur, notamment l’Office, pour que celui-ci règle la question qui lui est soumise pour arbitrage au titre de l’article 161.
+
+
+
+
+Médiation
+
+
+
+
+
+
+
+
+
+
+Establishment of roster
+
+
+
+
+(2) The Agency may establish a roster of persons, which may include members and staff of the Agency, to act as mediators in any matter referred to it under subsection (1).
+
+
+
+
+
+
+
+
+
+
+
+(2) L’Office peut établir une liste de personnes, choisies ou non parmi ses membres ou son personnel, pour agir comme médiateur dans les cas où il est retenu à ce titre aux termes du paragraphe (1).
+
+
+
+
+Liste
+
+
+
+
+
+
+
+
+
+
+Confidentiality of mediation
+
+
+
+
+(3) All matters relating to the mediation shall be kept confidential, unless the parties otherwise agree, and information provided by a party for the purposes of the mediation shall not be used for any other purpose without the consent of that party.
+
+
+
+
+
+
+
+
+
+
+
+(3) Sauf accord entre les parties à l’effet contraire, tout ce qui se rapporte à la médiation du différend est confidentiel et les renseignements fournis par une partie dans le cadre de la médiation ne peuvent servir à d’autres fins à moins qu’elle n’y consente.
+
+
+
+
+Caractère confidentiel
+
+
+
+
+
+
+
+
+
+
+Time limit for completion of mediation
+
+
+
+
+(4) Unless the parties otherwise agree, the mediation shall be completed within 30 days after the matter is referred for mediation.
+
+
+
+
+
+
+
+
+
+
+
+(4) Sauf accord entre les parties à l’effet contraire, la médiation doit se terminer dans les trente jours suivant le renvoi de la question au médiateur.
+
+
+
+
+Délai
+
+
+
+
+
+
+
+
+
+
+Effect of mediation on final offer arbitration
+
+
+
+
+(5) The mediation has the effect of
+
+
+
+
+
+
+
+
+
+
+
+
+(a) staying the conduct of the final offer arbitration for the period of the mediation; and
+
+
+
+
+
+
+
+
+
+
+
+
+(b) extending the time within which the arbitrator must make a decision in the matter of the final offer arbitration by the period of the mediation.
+
+
+
+
+
+
+
+
+
+
+
+(5) La médiation a pour effet :
+
+
+
+
+Effets de la médiation
+
+
+
+
+
+
+a) de suspendre, jusqu’à ce qu’elle prenne fin, la procédure d’arbitrage;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) de prolonger, d’une période égale à sa durée initiale, le délai dont dispose l’arbitre pour rendre sa décision.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mediator not to act in other proceedings
+
+
+
+
+(6) The person who acts as mediator may not act in any other proceedings in relation to any matter that was at issue in the mediation.
+
+
+
+
+
+
+
+
+
+
+
+(6) La personne qui agit à titre de médiateur ne peut agir dans le cadre d’autres procédures à l’égard d’aucune question ayant fait l’objet de la médiation.
+
+
+
+
+Impossibilité d’agir
+
+
+
+
+
+
+
+
+
+
+Joint offer of several shippers
+
+
+
+
+
+169.2 (1) In the case where more than one shipper is dissatisfied with the rate or rates charged or proposed to be charged by a carrier for the movement of goods, or with any conditions associated with the movement of goods, those shippers may, if the matter cannot be resolved between them and the carrier, submit the matter jointly to the Agency for a final offer arbitration, in which case sections 161 to 169 apply, with any modifications that the circumstances require.
+
+
+
+
+
+
+
+
+
+
+
+
+169.2 (1) Dans le cas où plusieurs expéditeurs sont insatisfaits des prix appliqués ou proposés par un transporteur pour le transport de marchandises, ou des conditions imposées à l’égard de ce transport, et que les expéditeurs et le transporteur ne sont pas en mesure de régler eux-mêmes la question, ils peuvent la soumettre conjointement à l’Office pour arbitrage, auquel cas les articles 161 à 169 s’appliquent à eux avec les adaptations nécessaires.
+
+
+
+
+Offre conjointe — expéditeurs
+
+
+
+
+
+
+
+
+
+
+Common matter and application of the offer
+
+
+
+
+(2) A matter submitted jointly to the Agency for a final offer arbitration shall be common to all the shippers and the shippers shall make a joint offer in respect of the matter, the terms of which apply to all of them.
+
+
+
+
+
+
+
+
+
+
+
+(2) La question soumise conjointement doit être commune à tous les expéditeurs, qui doivent présenter une seule et même offre dont les conditions s’appliquent à tous.
+
+
+
+
+Conditions
+
+
+
+
+
+
+
+
+
+
+Arbitration precluded in certain cases
+
+
+
+
+(3) The Agency shall not have any matter submitted to it for a final offer arbitration under subsection (1) arbitrated unless the shippers demonstrate, to the satisfaction of the Agency, that an attempt has been made to mediate the matter.
+
+
+
+
+
+
+
+
+
+
+
+(3) L’Office écarte l’arbitrage prévu au paragraphe (1) lorsque les expéditeurs ne peuvent le convaincre que des efforts ont été déployés pour régler la question par médiation.
+
+
+
+
+Arbitrage écarté
+
+
+
+
+
+
+
+
+
+
+Confidentiality of mediation
+
+
+
+
+(4) All matters relating to a mediation shall be kept confidential, unless the parties otherwise agree, and information provided by a party for the purposes of the mediation shall not be used for any other purpose without the consent of that party.
+
+
+
+
+
+
+
+
+
+
+
+(4) Sauf accord entre les parties à l’effet contraire, tout ce qui se rapporte à une médiation du différend est confidentiel et les renseignements fournis par une partie dans le cadre de la médiation ne peuvent servir à d’autres fins à moins qu’elle n’y consente.
+
+
+
+
+Caractère confidentiel
+
+
+
+
+
+
+
+
+
+
+Mediator not to act in other proceedings
+
+
+
+
+(5) The person who acts as mediator may not act in any other proceedings in relation to any matter that was at issue in the mediation.
+
+
+
+
+
+
+
+
+
+
+
+(5) La personne qui agit à titre de médiateur ne peut agir dans le cadre d’autres procédures à l’égard d’aucune question ayant fait l’objet de la médiation.
+
+
+
+
+Impossibilité d’agir
+
+
+
+
+
+
+
+
+
+
+Matter submitted by more than one shipper
+
+
+
+
+(6) In the case of a matter that is submitted jointly under subsection (1),
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the period referred to in subsection 161.1(1) is 20 days;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the arbitrator may, if he or she considers it necessary, extend any of the periods referred to in subsections 163(3) and (4) and paragraph 164.1(a); and
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the decision of the arbitrator shall, despite paragraph 165(2)(b), be rendered within 120 days or, in the case of an arbitration conducted in accordance with section 164.1, 90 days after the day on which the submission for the final offer arbitration is received by the Agency unless the parties agree otherwise.
+
+
+
+
+
+
+
+
+
+
+
+(6) En cas de soumission conjointe d’une question en vertu du paragraphe (1) :
+
+
+
+
+Question soumise par plusieurs expéditeurs
+
+
+
+
+
+
+a) le délai est de vingt jours pour l’application du paragraphe 161.1(1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) l’arbitre peut proroger les délais prévus aux paragraphes 163(3) et (4) et à l’alinéa 164.1a) s’il l’estime indiqué;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) la décision de l’arbitre est, par dérogation à l’alinéa 165(2)b), rendue dans les cent vingt jours suivant la date de réception par l’Office de la demande d’arbitrage ou, dans le cas de la demande entendue conformément à l’article 164.1, dans les quatre-vingt-dix jours suivant cette date, sauf accord entre les parties à l’effet contraire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Time limit — preliminary applications
+
+
+
+
+
+169.3 (1) Despite sections 162 and 162.1, any application filed with the Agency by a carrier in respect of a matter submitted jointly to the Agency under subsection 169.2(1) shall be filed with the Agency no later than seven days after the day on which the joint submission is made.
+
+
+
+
+
+
+
+
+
+
+
+
+169.3 (1) Malgré les articles 162 et 162.1, toute demande présentée par le transporteur relativement à une question soumise à l’Office pour arbitrage au titre du paragraphe 169.2(1) est présentée à ce dernier au plus tard sept jours après la soumission de cette question à l’arbitrage.
+
+
+
+
+Délai — demande préliminaire
+
+
+
+
+
+
+
+
+
+
+Service of copy
+
+
+
+
+(2) A copy of the application shall be served on each of the shippers making the joint submission no later than the day on which the application is required to be filed under subsection (1).
+
+
+
+
+
+
+
+
+
+
+
+(2) Le transporteur signifie copie de la demande à chacun des expéditeurs qui ont soumis la question à l’arbitrage au plus tard le dernier jour prévu pour la présentation de la demande.
+
+
+
+
+Signification
+
+
+
+
+
+
+
+
+
+
+Joint answer
+
+
+
+
+(3) The shippers, no later than five days after the day on which the last shipper was served under subsection (2), shall file with the Agency a joint answer to the application and serve a copy of it on the carrier.
+
+
+
+
+
+
+
+
+
+
+
+(3) Au plus tard cinq jours après la signification au dernier expéditeur au titre du paragraphe (2), les expéditeurs présentent à l’Office une réponse commune et en signifie copie au transporteur.
+
+
+
+
+Réponse des expéditeurs
+
+
+
+
+
+
+
+
+
+
+Reply
+
+
+
+
+(4) The carrier, no later than two days after the day on which it was served under subsection (3), shall file with the Agency a reply to the joint answer and serve a copy of it on each of the shippers.
+
+
+
+
+
+
+
+
+
+
+
+(4) Au plus tard deux jours après la signification au transporteur au titre du paragraphe (3), celui-ci présente à l’Office sa réplique et en signifie copie à chacun des expéditeurs.
+
+
+
+
+Réplique du transporteur
+
+
+
+
+
+
+
+
+
+
+Decision of Agency
+
+
+
+
+(5) The Agency shall issue its decision on the application no later than the day on which the matter is required to be referred to arbitration under subsection 162(1).
+
+
+
+
+
+
+
+
+
+
+
+(5) L’Office décide de la demande au plus tard le jour où la question doit être soumise à l’arbitrage au titre du paragraphe 162(1).
+
+
+
+
+Décision de l’Office
+
+
+
+
+
+
+
+
+
+
+Deemed conformity
+
+
+
+
+(6) If no application referred to in subsection (1) is filed within the limit set out in that subsection, the matter submitted jointly is deemed to conform to the requirements of subsection 169.2(2).
+
+
+
+
+
+
+
+
+
+
+
+(6) Si aucune demande n’est présentée par le transporteur dans le délai prévu au paragraphe (1), les conditions visées au paragraphe 169.2(2) sont réputées remplies.
+
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-11
+
+
+
+AN ACT TO AMEND THE CANADA TRANSPORTATION ACT AND THE RAILWAY SAFETY ACT AND TO MAKE CONSEQUENTIAL AMENDMENTS TO OTHER ACTS
+
+
+
+
+
+
+
+
+
+LOI MODIFIANT LA LOI SUR LES TRANSPORTS AU CANADA ET LA LOI SUR LA SÉCURITÉ FERROVIAIRE ET D’AUTRES LOIS EN CONSÉQUENCE
+
+
+
+Projet de loi C-11
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) Subsections (2) to (4) apply if Bill C-11, introduced in the 1st session of the 39th Parliament and entitled An Act to amend the Canada Transportation Act and the Railway Safety Act and to make consequential amendments to other Acts (referred to in this section as the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+
+8. (1) Les paragraphes (2) à (4) s’appliquent en cas de sanction du projet de loi C-11, déposé au cours de la 1re session de la 39e législature et intitulé Loi modifiant la Loi sur les transports au Canada et la Loi sur la sécurité ferroviaire et d’autres lois en conséquence (appelé « autre loi » au présent article).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) On the later of the day on which this Act receives royal assent and the day on which section 7 of the other Act comes into force — or, if those days are the same day, then on that day — section 36.2 of the Canada Transportation Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(2) À la date d’entrée en vigueur de l’article 7 de l’autre loi ou à la date, si elle est postérieure, de la sanction de la présente loi, l’article 36.2 de la Loi sur les transports au Canada est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Establishment of roster
+
+
+
+
+(1.1) The Agency may establish a roster of persons, which may include members and staff of the Agency, to act as mediators or arbitrators.
+
+
+
+
+
+
+
+
+
+
+
+(1.1) L’Office peut établir une liste de personnes, choisies ou non parmi ses membres ou son personnel, pour agir à titre de médiateur ou d’arbitre.
+
+
+
+
+Liste
+
+
+
+
+
+
+
+
+
+
+
+
+(3) On the later of the day on which this Act receives royal assent and the day on which section 38 of the other Act comes into force — or, if those days are the same day, then on that day — the Canada Transportation Act is amended by adding the following after section 146.01:
+
+
+
+
+
+
+
+
+
+(3) À la date d’entrée en vigueur de l’article 38 de l’autre loi ou à la date, si elle est postérieure, de la sanction de la présente loi, la Loi sur les transports au Canada est modifiée par adjonction, après l’article 146.01, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+
+
+146.02 Despite section 146.01, if a railway line or operating interest in a railway line returns to a railway company referred to in that section and, before the day on which the return takes place, an agreement was in force between the person or entity that owned the railway line or had the operating interest in the railway line immediately before the return and a public passenger service provider as defined in section 87 in respect of the operation of a passenger rail service on that railway line, then, unless the public passenger service provider indicates otherwise before that day, the rights and obligations of the person or entity under the agreement in respect of the operation of that service on that line vest, as of that day, in the railway company and the railway company shall resume operations of the railway line.
+
+
+
+
+
+
+
+
+
+
+
+
+146.02 Malgré l’article 146.01, si une ligne de chemin de fer ou les droits d’exploitation d’une ligne font retour à la compagnie de chemin de fer visée à cet article, les droits et obligations découlant, avant le retour, de tout accord auquel sont parties le propriétaire de la ligne ou le détenteur des droits d’exploitation et une société de transport publique, au sens de l’article 87, relativement à l’exploitation d’un service de passagers sur la ligne sont, sauf avis contraire donné par la société avant le retour, dévolus dès le retour à la compagnie de chemin de fer qui est alors tenue de reprendre l’exploitation de la ligne.
+
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+
+
+(4) On the later of the day on which this Act receives royal assent and the day on which section 28 of the other Act comes into force — or, if those days are the same day, then on that day — section 160 of the Canada Transportation Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) À l’entrée en vigueur de l’article 28 de l’autre loi ou à la date, si elle est postérieure, de la sanction de la présente loi, l’article 160 de la Loi sur les transports au Canada est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Rail passenger services
+
+
+
+
+160. Sections 161 to 169 also apply, with any modifications that the circumstances require, in respect of the rates charged or proposed to be charged by, and in respect of any of the conditions associated with the provision of services by, a railway company to any other railway company engaged in passenger rail services, except a public passenger service provider as defined in section 87.
+
+
+
+
+
+
+
+
+
+
+160. Les articles 161 à 169 s’appliquent également, avec les adaptations nécessaires, aux prix appliqués ou proposés par une compagnie de chemin de fer et aux conditions qu’elle impose pour la fourniture de services à une autre compagnie de chemin de fer se livrant au transport de passagers qui n’est pas une société de transport publique au sens de l’article 87.
+
+
+
+Compagnies de chemin de fer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENTS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-11
+
+
+
+
+9. (1) Subsections (2) to (4) apply if Bill C-11, introduced in the 1st session of the 39th Parliament and entitled An Act to amend the Canada Transportation Act and the Railway Safety Act and to make consequential amendments to other Acts (referred to in this section as the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+
+9. (1) Les paragraphes (2) à (4) s’appliquent en cas de sanction du projet de loi C-11, déposé au cours de la 1re session de la 39e législature et intitulé Loi modifiant la Loi sur les transports au Canada et la Loi sur la sécurité ferroviaire et d’autres lois en conséquence (appelé « autre loi » au présent article).
+
+
+
+Projet de loi C-11
+
+
+
+
+
+
+
+
+
+
+
+
+(2) On the later of the day on which this Act receives royal assent and the day on which section 7 of the other Act comes into force — or, if those days are the same day, then on that day — subsection 36.2(1) of the Canada Transportation Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) À la date d’entrée en vigueur de l’article 7 de l’autre loi ou à la date, si elle est postérieure, de la sanction de la présente loi, le paragraphe 36.2(1) de la Loi sur les transports au Canada est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Request by all parties
+
+
+
+
+36.2 (1) If sections 36.1 and 169.1 do not apply, the Agency may mediate or arbitrate a dispute relating to any railway matter covered under Part III or IV, or to the application of any rate or charge for the movement of goods by railways or for the provision of incidental services, if requested to do so by all parties to the dispute.
+
+
+
+
+
+
+
+
+
+
+36.2 (1) Si les articles 36.1 et 169.1 ne s’appliquent pas, l’Office peut, sur demande de toutes les parties en cause, agir à titre de médiateur ou d’arbitre à l’égard de tout différend portant sur une question relative aux chemins de fer visée aux parties III ou IV ou sur l’application de taux ou de frais au transport de marchandises par chemin de fer ou à des services connexes.
+
+
+
+Demande des parties
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If section 5 of this Act comes into force before section 41 of the other Act, section 41 of the other Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Si l’article 5 de la présente loi entre en vigueur avant l’article 41 de l’autre loi, l’article 41 de l’autre loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+41. Subsection 146.1(1) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+41. Le paragraphe 146.1(1) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Indemnisation
+
+
+
+
+
+146.1 (1) La compagnie de chemin de fer qui cesse d’exploiter un embranchement tributaire du transport du grain mentionné à l’annexe I, ou une partie d’un tel embranchement, passant dans une municipalité fait à celle-ci trois versements annuels à compter de la date où elle avise l’Office en application du paragraphe 146(1). Chaque versement est égal au produit de 10 000 $ et du nombre de milles de l’embranchement ou de la partie d’embranchement situés dans le territoire de la municipalité.
+
+
+
+
+
+
+
+
+
+
+
+146.1 (1) La compagnie de chemin de fer qui cesse d’exploiter un embranchement tributaire du transport du grain mentionné à l’annexe I, ou une partie d’un tel embranchement, passant dans une municipalité fait à celle-ci trois versements annuels à compter de la date où elle avise l’Office en application du paragraphe 146(1). Chaque versement est égal au produit de 10 000 $ et du nombre de milles de l’embranchement ou de la partie d’embranchement situés dans le territoire de la municipalité.
+
+
+
+Indemnisation
+
+
+
+
+
+
+
+
+
+
+
+
+(4) If section 5 of this Act comes into force on the same day as section 41 of the other Act, section 41 of the other Act is deemed to have come into force before section 5 of this Act.
+
+
+
+
+
+
+
+
+
+(4) Si l’entrée en vigueur de l’article 5 de la présente loi et celle de l’article 41 de l’autre loi sont concomitantes, l’article 41 de l’autre loi est réputé être entré en vigueur avant l’article 5 de la présente loi.
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+
+
+						  Notes explicatives
+						  
+
+
+
+
+Canada Transportation Act
+
+Clause 1: (1) Existing text of subsections 27(2) and (3):
+(2) Where an application is made to the Agency by a shipper in respect of a transportation rate or service, the Agency may grant the relief sought, in whole or in part, but in making its decision the Agency must be satisfied, after considering the circumstances of the particular case, that the applicant would suffer substantial commercial harm if the relief were not granted.
+(3) The circumstances to be considered by the Agency in making its decision under subsection (2) may include, but are not limited to, the following:
+(a) the market or market conditions relating to the goods involved;
+(b) the location and volume of traffic of the goods;
+(c) the scale of operation connected with the traffic;
+(d) the type of traffic or service involved;
+(e) the availability to the applicant of alternative means of transporting the goods; and
+(f) any other matters that appear to the Agency to be relevant.
+
+
+
+Loi sur les transports au Canada
+
+Article 1 : (1) Texte des paragraphes 27(2) et (3) :
+(2) L’Office n’acquiesce à tout ou partie de la demande d’un expéditeur relative au prix ou au service d’un envoi que s’il estime, compte tenu des circonstances, que celui-ci subirait autrement un préjudice commercial important.
+(3) Les circonstances peuvent notamment comprendre :
+
+a) le marché et les conditions du marché qui ont trait aux marchandises en cause;
+
+b) les lieux desservis et l’importance du trafic;
+
+c) l’ampleur des activités connexes;
+
+d) la nature du trafic ou du service en cause;
+
+e) la possibilité pour l’expéditeur de faire appel à un autre mode de transport des marchandises;
+
+f) tout autre élément que l’Office estime pertinent.
+
+
+
+
+(2) Existing text of subsection 27(5):
+(5) This section does not apply in respect of final offer arbitration under Part IV.
+
+
+
+(2) Texte du paragraphe 27(5) :
+(5) le présent article ne s’applique pas à l’arbitrage prévu par la partie IV.
+
+
+
+
+
+Clause 2: Existing text of subsection 119(1):
+
+119. (1) A railway company that proposes to increase a rate in a tariff for the movement of traffic shall publish a notice of the increase at least twenty days before its effective date.
+
+
+
+
+Article 2 : Texte du paragraphe 119(1) :
+
+119. (1) La compagnie de chemin de fer qui a l’intention de hausser les prix d’un tarif de transport publie la modification au moins vingt jours avant la date de sa prise d’effet.
+
+
+
+
+
+Clause 3: New.
+
+
+
+
+Article 3 : Nouveau.
+
+
+
+
+
+Clause 4: New.
+
+
+
+
+Article 4 : Nouveau.
+
+
+
+
+
+Clause 5: New.
+
+
+
+
+Article 5 : Nouveau.
+
+
+
+
+
+Clause 6: New.
+
+
+
+
+Article 6 : Nouveau.
+
+
+
+
+
+Clause 7: New.
+
+
+
+
+Article 7 : Nouveau.
+
+
+
+
+
+Clause 8: (2) and (3) New.
+
+
+
+
+Article 8 : (2) et (3) Nouveau.
+
+
+
+
+ (4) Existing text of section 160:
+
+160. Sections 161 to 169 also apply, with such modifications as the circumstances require, in respect of the rates charged or proposed to be charged by, or any of the conditions associated with the provision of services by, a railway company to
+(a) a commuter rail authority designated by the government of a province; or
+(b) a railway company engaged in passenger rail services.
+
+
+
+ (4) Texte de l’article 160 :
+
+160. Les articles 161 à 169 s’appliquent également, avec les adaptations nécessaires, aux prix appliqués ou proposés par une compagnie de chemin de fer et aux conditions qu’elle impose pour la fourniture de services à une administration ferroviaire de banlieue désignée par le gouvernement d’une province ou à une compagnie de chemin de fer se livrant au transport de passagers.
+
+
+
+
+
+

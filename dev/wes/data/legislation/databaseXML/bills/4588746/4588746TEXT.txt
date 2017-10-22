@@ -1,0 +1,1415 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+Troisième session, quarantième législature,
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+
+STATUTES OF CANADA 2011CHAPTER 8
+
+
+
+
+
+LOIS DU CANADA (2011)CHAPITRE 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Immigration and Refugee Protection Act
+
+
+
+
+
+Loi modifiant la Loi sur l’immigration et la protection des réfugiés
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+23rd MARCH, 2011
+BILL C-35
+
+
+
+
+
+SANCTIONNÉE
+LE 23 MARS 2011
+PROJET DE LOI C-35
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Immigration and Refugee Protection Act to change the manner of regulating third parties in immigration processes. Among other things it
+(a) creates a new offence by extending the prohibition against representing or advising persons for consideration — or offering to do so — to all stages in connection with a proceeding or application under that Act, including before a proceeding has been commenced or an application has been made, and provides for penalties in case of contravention;
+(b) exempts from the prohibition
+(i) members of a provincial law society or notaries of the Chambre des notaires du Québec, and students-at-law acting under their supervision,
+(ii) any other members of a provincial law society or the Chambre des notaires du Québec, including a paralegal,
+(iii) members of a body designated by the Minister of Citizenship and Immigration, and
+(iv) entities, and persons acting on the entities’ behalf, acting in accordance with an agreement or arrangement with Her Majesty in right of Canada;
+(c) extends the time for instituting certain proceedings by way of summary conviction from six months to 10 years;
+(d) gives the Minister of Citizenship and Immigration the power to make transitional regulations in relation to the designation  or revocation by the Minister of a body;
+(e) provides for oversight by that Minister of a designated body through regulations requiring the body to provide information to allow the Minister to determine whether it governs its members in the public interest; and
+(f) facilitates information sharing with regulatory bodies regarding the professional and ethical conduct of their members.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur l’immigration et la protection des réfugiés afin de changer la façon de réglementer les tiers qui interviennent dans le processus d’immigration. Il prévoit notamment :
+
+a) la création d’une nouvelle infraction en élargissant l’interdiction de représenter ou de conseiller une personne — ou d’offrir de le faire —, moyennant rétribution, de sorte qu’elle s’appliquera non seulement à toute étape d’une demande ou d’une instance prévue par cette loi, mais également avant la présentation de la demande ou l’introduction de l’instance, et l'imposition de peines en cas de contravention;
+
+b) une exception à cette interdiction pour :
+(i) les membres du barreau d’une province ou les notaires de la Chambre des notaires du Québec, ainsi que pour les stagiaires en droit agissant sous leur supervision,
+(ii) les autres membres du barreau d'une province ou de la Chambre des notaires du Québec, notamment les parajuristes,
+(iii) les membres d’un organisme désigné par le ministre de la Citoyenneté et de l’Immigration,
+(iv) les entités et les personnes qui agissent en leur nom, lorsqu’elles agissent conformément à un accord ou à une entente conclus avec Sa Majesté du chef du Canada;
+
+c) la prolongation du délai pour intenter certaines poursuites par voie de procédure sommaire, qui passe de 6 mois à 10 ans;
+
+d) la faculté du ministre de la Citoyenneté et de l’Immigration de prendre des règlements transitoires relativement à la désignation ou la révocation d’organismes;
+
+e) la surveillance de tout organisme désigné par ce ministre au moyen de règlements l’obligeant à fournir des renseignements pour permettre au ministre de vérifier s’il régit ses membres dans l’intérêt public;
+
+f) la simplification de l’échange d’information avec les organismes de réglementation en ce qui a trait à la conduite de leurs membres sur les plans professionnel ou de l’éthique.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+59-60 ELIZABETH II
+
+
+
+
+
+
+
+
+
+59-60 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 8
+
+
+
+
+
+
+
+
+
+CHAPITRE 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Immigration and Refugee Protection Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur l’immigration et la protection des réfugiés
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 23rd March, 2011]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 23 mars 2011]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 27
+
+
+
+IMMIGRATION AND REFUGEE PROTECTION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’IMMIGRATION ET LA PROTECTION DES RÉFUGIÉS
+
+
+
+2001, ch. 27
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 91 of the Immigration and Refugee Protection Act and the heading before it are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+1. L’article 91 de la Loi sur l’immigration et la protection des réfugiés et l’intertitre le précédant sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Representation or Advice
+
+
+
+
+
+
+
+
+
+Représentation ou conseil
+
+
+
+
+
+
+
+
+
+
+
+
+Representation or advice for consideration
+
+
+
+
+91. (1) Subject to this section, no person shall knowingly, directly or indirectly, represent or advise a person for consideration — or offer to do so — in connection with a proceeding or application under this Act.
+
+
+
+
+
+
+
+
+
+
+91. (1) Sous réserve des autres dispositions du présent article, commet une infraction quiconque sciemment, de façon directe ou indirecte, représente ou conseille une personne, moyennant rétribution, relativement à une demande ou à une instance prévue par la présente loi, ou offre de le faire.
+
+
+
+Représentation ou conseil moyennant rétribution
+
+
+
+
+
+
+
+
+
+
+Persons who may represent or advise
+
+
+
+(2) A person does not contravene subsection (1) if they are
+
+
+
+
+
+
+
+
+
+
+(a) a lawyer who is a member in good standing of a law society of a province or a notary who is a member in good standing of the Chambre des notaires du Québec;
+
+
+
+
+
+
+
+
+
+
+(b) any other member in good standing of a law society of a province or the Chambre des notaires du Québec, including a paralegal; or
+
+
+
+
+
+
+
+
+
+
+(c) a member in good standing of a body designated under subsection (5).
+
+
+
+
+
+
+
+
+
+(2) Sont soustraites à l’application du paragraphe (1) les personnes suivantes :
+
+
+
+Personnes pouvant représenter ou conseiller
+
+
+
+
+
+a) les avocats qui sont membres en règle du barreau d’une province et les notaires qui sont membres en règle de la Chambre des notaires du Québec;
+
+
+
+
+
+
+
+
+
+
+
+b) les autres membres en règle du barreau d’une province ou de la Chambre des notaires du Québec, notamment les parajuristes;
+
+
+
+
+
+
+
+
+
+
+
+c) les membres en règle d’un organisme désigné en vertu du paragraphe (5).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Students-at-law
+
+
+
+(3) A student-at-law does not contravene subsection (1) by offering or providing representation or advice to a person if the student-at-law is acting under the supervision of a person mentioned in paragraph (2)(a) who is representing or advising the person — or offering to do so — in connection with a proceeding or application under this Act.
+
+
+
+
+
+
+
+
+
+(3) Le stagiaire en droit qui représente ou conseille une personne, ou qui offre de le faire, est soustrait à l’application du paragraphe (1) s’il agit sous la supervision d’une personne visée à l’alinéa (2)a) qui représente ou conseille cette personne, ou qui offre de le faire, relativement à une demande ou à une instance prévue par la présente loi.
+
+
+
+Stagiaires en droit
+
+
+
+
+
+
+
+
+
+
+Agreement or arrangement with Her Majesty
+
+
+
+(4) An entity, including a person acting on its behalf, that offers or provides services to assist persons in connection with an application under this Act, including for a permanent or temporary resident visa, travel documents or a work or study permit, does not contravene subsection (1) if it is acting in accordance with an agreement or arrangement between that entity and Her Majesty in right of Canada that authorizes it to provide those services.
+
+
+
+
+
+
+
+
+
+(4) Est également soustraite à l’application du paragraphe (1) l’entité — ou la personne agissant en son nom — qui offre ou fournit des services relativement à une demande prévue par la présente loi, notamment une demande de visa de résident permanent ou temporaire, de titre de voyage ou de permis d’études ou de travail, si elle agit conformément à un accord ou à une entente avec Sa Majesté du chef du Canada l’autorisant à fournir ces services.
+
+
+
+Accord ou entente avec Sa Majesté
+
+
+
+
+
+
+
+
+
+
+Designation by Minister
+
+
+
+(5) The Minister may, by regulation, designate a body whose members in good standing may represent or advise a person for consideration — or offer to do so — in connection with a proceeding or application under this Act.
+
+
+
+
+
+
+
+
+
+(5) Le ministre peut, par règlement, désigner un organisme dont les membres en règle peuvent représenter ou conseiller une personne, moyennant rétribution, relativement à une demande ou à une instance prévue par la présente loi, ou offrir de le faire.
+
+
+
+Désignation par le ministre
+
+
+
+
+
+
+
+
+
+
+Revocation of designation
+
+
+
+(5.1) For greater certainty, subsection (5) authorizes the Minister to revoke, by regulation, a designation made under that subsection.
+
+
+
+
+
+
+
+
+
+(5.1) Il est entendu que le paragraphe (5) autorise le ministre à révoquer, par règlement, toute désignation faite sous son régime.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Regulations — required information
+
+
+
+(6) The Governor in Council may make regulations requiring the designated body to provide the Minister with any information set out in the regulations, including information relating to its governance and information to assist the Minister to evaluate whether the designated body governs its members in a manner that is in the public interest so that they provide professional and ethical representation and advice.
+
+
+
+
+
+
+
+
+
+(6) Le gouverneur en conseil peut, par règlement, exiger que l’organisme désigné fournisse au ministre les renseignements réglementaires, notamment des renseignements relatifs à sa régie interne et des renseignements visant à aider le ministre à vérifier si l’organisme régit ses membres dans l’intérêt public de manière que ces derniers représentent ou conseillent les personnes en conformité avec les règles de leur profession et les règles d’éthique.
+
+
+
+Règlement : renseignements requis
+
+
+
+
+
+
+
+
+
+
+Regulations — transitional measures
+
+
+
+(7) The Minister may, by regulation, provide for measures respecting any transitional issues raised by the exercise of his or her power under subsection (5), including measures
+
+
+
+
+
+
+
+
+
+
+(a) making any person or member of a class of persons a member for a specified period of a body that is designated under that subsection; and
+
+
+
+
+
+
+
+
+
+
+(b) providing that members or classes of members of a body that has ceased to be a designated body under that subsection continue for a specified period to be authorized to represent or advise a person for consideration — or offer to do so — in connection with a proceeding or application under this Act without contravening subsection (1).
+
+
+
+
+
+
+
+
+
+(7) Le ministre peut, par règlement, prévoir des mesures à l’égard de toute question transitoire soulevée par l’exercice du pouvoir que lui confère le paragraphe (5), notamment des mesures :
+
+
+
+Règlement : mesures transitoires
+
+
+
+
+
+a) donnant à toute personne — individuellement ou au titre de son appartenance à une catégorie déterminée — le statut de membre d’un organisme désigné en vertu de ce paragraphe pour la période prévue par règlement;
+
+
+
+
+
+
+
+
+
+
+
+b) permettant à tout membre — individuellement ou au titre de son appartenance à une catégorie déterminée — d’un organisme qui a cessé d’être un organisme désigné visé au même paragraphe de continuer d’être soustrait à l’application du paragraphe (1) pour la période prévue par règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting immigration to Québec
+
+
+
+
+
+
+(7.1) For greater certainty, An Act respecting immigration to Québec, R.S.Q., c. I-0.2, applies to, among other persons, every person who, in Quebec, represents or advises a person for consideration — or offers to do so — in connection with a proceeding or application under this Act and
+
+
+
+
+
+
+
+
+
+
+(a) is authorized to do so under regulations made under paragraph (7)(b); or
+
+
+
+
+
+
+
+
+
+
+(b) is a member of a body designated under subsection (5).
+
+
+
+
+
+
+
+
+
+(7.1) Il est entendu que la Loi sur l’immigration au Québec, L.R.Q., ch. I-0.2, s’applique notamment à quiconque, au Québec, représente ou conseille une personne, moyennant rétribution, relativement à une demande ou à une instance prévue par la présente loi, ou offre de le faire, et :
+
+
+
+
+Loi sur l'immigration au Québec
+
+
+
+
+
+
+
+
+a) soit est visé à l’alinéa (7)b);
+
+
+
+
+
+
+
+
+
+
+
+b) soit est membre d’un organisme désigné en vertu du paragraphe (5).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Persons made members of a body
+
+
+
+(8) For greater certainty, nothing in measures referred to in paragraph (7)(a) exempts a person made a member of a body under the measures from the body’s disciplinary rules concerning suspension or revocation of membership for providing — or offering to provide — representation or advice that is not professional or is not ethical.
+
+
+
+
+
+
+
+
+
+(8) Il est entendu que toute personne qui, en vertu d’un règlement pris en vertu de l’alinéa (7)a), a reçu le statut de membre d’un organisme est assujettie aux règles de discipline de cet organisme concernant la suspension ou la révocation de ce statut si elle représente ou conseille une personne, ou offre de le faire, d’une manière contraire aux règles de sa profession ou aux règles d’éthique.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Penalties
+
+
+
+(9) Every person who contravenes subsection (1) commits an offence and is liable
+
+
+
+
+
+
+
+
+
+
+(a) on conviction on indictment, to a fine of not more than $100,000 or to imprisonment for a term of not more than two years, or to both; or
+
+
+
+
+
+
+
+
+
+
+(b) on summary conviction, to a fine of not more than $20,000 or to imprisonment for a term of not more than six months, or to both.
+
+
+
+
+
+
+
+
+
+(9) Quiconque commet une infraction au paragraphe (1) encourt :
+
+
+
+Peine
+
+
+
+
+
+a) sur déclaration de culpabilité par mise en accusation, une amende maximale de 100 000 $ et un emprisonnement maximal de deux ans, ou l'une de ces peines;
+
+
+
+
+
+
+
+
+
+
+
+b) sur déclaration de culpabilité par procédure sommaire, une amende maximale de 20 000 $ et un emprisonnement maximal de six mois, ou l'une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meaning of  “proceeding”
+
+
+
+(10) For greater certainty, in this section, “proceeding” does not include a proceeding before a superior court.
+
+
+
+
+
+
+
+
+
+(10) Il est entendu qu’au présent article « instance » ne vise pas une instance devant une cour supérieure.
+
+
+
+Sens de « instance »
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The heading after section 129 of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+2. L’intertitre suivant l’article 129 de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after section 133:
+
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l’article 133, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation period
+
+
+
+
+133.1 (1) A proceeding by way of summary conviction in respect of an offence under section 117, 126, 127 or 131 may be instituted at any time within, but not later than, 10 years after the day on which the subject-matter of the proceeding arose.
+
+
+
+
+
+
+
+
+
+
+133.1 (1) Toute poursuite par voie de procédure sommaire à l’égard d’une infraction visée aux articles 117, 126, 127 ou 131 se prescrit par dix ans à compter du fait reproché.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(2) Subsection (1) does not apply if the subject-matter of the proceeding arose before the day on which this section comes into force.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas si le fait reproché est survenu avant l’entrée en vigueur du présent article.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Subsection 150.1(1) of the Act is amended by striking out “and” at the end of paragraph (a), by adding “and’’ at the end of paragraph (b) and by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+
+4. Le paragraphe 150.1(1) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the disclosure of information relating to the professional or ethical conduct of a person referred to in any of paragraphs 91(2)(a) to (c) in connection with a proceeding — other than a proceeding before a superior court — or application under this Act to a body that is responsible for governing or investigating that conduct or to a person who is responsible for investigating that conduct, for the purposes of ensuring that persons referred to in those paragraphs offer and provide professional and ethical representation and advice to persons in connection with such proceedings and applications.
+
+
+
+
+
+
+
+
+
+
+c) la communication de renseignements relatifs à la conduite, sur le plan professionnel ou de l’éthique, d’une personne visée à l’un des alinéas 91(2)a) à c) relativement à une demande ou à une instance prévue par la présente loi — à l’exception d’une instance devant une cour supérieure — à l’organisme qui régit la conduite de cette personne ou à l’organisme ou à la personne qui enquête sur cette conduite, et ce en vue d’assurer que la personne visée à l’un ou l’autre de ces alinéas représente ou conseille des personnes, ou offre de le faire, en conformité avec les règles de sa profession et les règles d’éthique relativement à une telle demande ou instance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISION
+
+
+
+
+
+
+
+
+
+DISPOSITION TRANSITOIRE
+
+
+
+
+
+
+
+
+
+
+
+
+Persons authorized to represent, advise or consult
+
+
+
+
+5. Despite subsection 91(1) of the Immigration and Refugee Protection Act, as enacted by section 1 of this Act, a person — other than a member in good standing of a bar of a province or of the Chambre des notaires du Québec — who, immediately before the coming into force of this section, was authorized under regulations made under the Immigration and Refugee Protection Act to, for a fee, represent, advise or consult with a person who was the subject of a proceeding or application before the Minister of Citizenship and Immigration, an officer designated under subsection 6(1) of that Act or the Immigration and Refugee Board, may represent or advise a person for consideration — or offer to do so — in connection with a proceeding — other than a proceeding before a superior court — or application under that Act until regulations made under subsection 91(5) of that Act, as enacted by section 1 of this Act, come into force.
+
+
+
+
+
+
+
+
+
+
+5. Malgré le paragraphe 91(1) de la Loi sur l’immigration et la protection des réfugiés, édicté par l’article 1, toute personne — à l’exception d’un membre en règle du barreau d’une province ou de la Chambre des notaires du Québec — qui, à l’entrée en vigueur du présent article, est autorisée, en vertu d’un règlement pris en vertu de cette loi, contre rémunération, à représenter une personne dans toute affaire devant le ministre de la Citoyenneté et de l’Immigration, l’agent désigné en vertu du paragraphe 6(1) de la même loi ou la Commission de l’immigration et du statut de réfugié, ou à faire office de conseil, peut représenter ou conseiller une personne, moyennant rétribution, relativement à une demande ou à une instance prévue par la même loi — à l’exception d’une instance devant une cour supérieure —, ou offrir de le faire, jusqu’à l’entrée en vigueur du premier règlement pris en vertu du paragraphe 91(5) de la même loi, édicté par l’article 1.
+
+
+
+Personnes autorisées à représenter ou à faire office de conseil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENTS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-11
+
+
+
+
+6. (1) Subsections (2) and (3) apply if Bill C-11, introduced in the 3rd session of the 40th Parliament and entitled the Balanced Refugee Reform Act (in this section referred to as the “other Act”), receives royal assent.
+
+
+
+
+
+
+
+
+
+
+6. (1) Les paragraphes (2) et (3) s’appliquent en cas de sanction du projet de loi C-11, déposé au cours de la 3e session de la 40e législature et intitulé Loi sur des mesures de réforme équitables concernant les réfugiés (appelé « autre loi » au présent article).
+
+
+
+Projet de loi C-11
+
+
+
+
+
+
+
+
+
+
+
+
+(2) If section 1 of this Act comes into force before section 8 of the other Act, then that section 8 is repealed.
+
+
+
+
+
+
+
+
+
+(2) Si l’article 1 de la présente loi entre en vigueur avant l’article 8 de l’autre loi, cet article 8 est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) If section 8 of the other Act comes into force on the same day as section 1 of this Act, then that section 8 is deemed to have come into force before that section 1.
+
+
+
+
+
+
+
+
+
+(3) Si l’entrée en vigueur de l’article 8 de l’autre loi et celle de l’article 1 de la présente loi sont concomitantes, cet article 8 est réputé être entré en vigueur avant cet article 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+7. The provisions of this Act, other than section 6, come into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+7. Les dispositions de la présente loi, à l’exception de l’article 6, entrent en vigueur à la date fixée par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

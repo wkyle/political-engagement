@@ -1,0 +1,1985 @@
+
+
+
+
+
+C-357
+
+
+
+
+
+C-357
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-357
+
+
+
+
+
+PROJET DE LOI C-357
+
+
+
+
+
+
+An Act to amend the Employment Insurance Act (Employment Insurance Account and premium rate setting) and another Act in consequence
+
+
+
+
+
+Loi modifiant la Loi sur l'assurance-emploi (Compte d'assurance-emploi et fixation du taux de cotisation) et une autre loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, October 18, 2006
+
+première lecture le 18 octobre 2006
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Blais
+
+391409
+
+
+
+M. Blais
+
+
+
+
+
+SUMMARY
+This enactment amends the method for setting the premium rate in the Employment Insurance Act. It also amends a number of provisions in that Act with respect to the Employment Insurance Account.
+This enactment provides that every year the Canada Employment Insurance Commission will set the premium rate and cause a report to be sent to the Minister of Human Resources and Skills Development who will cause a copy of the report to be laid before each House of Parliament.
+This enactment provides also that the Employment Insurance Account will no longer form part of the accounts of Canada. The amounts paid into the Employment Insurance Account will become part of the assets of the Canada Employment Insurance Commission, and the Commission will manage them in the best interests of the contributors and beneficiaries under the employment insurance system.
+At the request of the Minister of Finance, the Canada Employment Insurance Commission may extend a loan to Her Majesty in right of Canada and establish the interest rate and other terms and conditions for its repayment. Conversely, that Minister must extend a loan to the Commission if the Commission is unable to pay the amounts that it is liable to pay.
+Under the enactment, the Canada Employment Insurance Commission is composed of 17 commissioners, including a Chairperson, two Vice-Chairpersons, seven representatives of employees and seven representatives of employers. The representatives of employees and employers are appointed by the Governor in Council from lists of nominees provided by representative associations. The Chairperson is appointed by the House of Commons and the Vice-Chairpersons are selected from among the Deputy Ministers or the Associate Deputy Ministers of the Department of Human Resources Development.
+
+
+
+SOMMAIRE
+Le texte modifie le mode de fixation du taux de cotisation prévu par la Loi sur l’assurance-emploi, ainsi que plusieurs dispositions de cette loi ayant trait au Compte d’assurance-emploi.
+Le texte prévoit qu’à chaque année, la Commission de l’assurance-emploi du Canada fixe le taux de cotisation et fait parvenir au ministre des Ressources humaines et du Développement des compétences un rapport, qu'il fait déposer devant chaque chambre du Parlement.
+Le texte prévoit en outre que le Compte d’assurance-emploi ne fait plus partie des comptes du Canada. Les sommes versées au Compte d’assurance-emploi font partie de l’actif de la Commission de l’assurance-emploi du Canada, et celle-ci doit les gérer dans l’intérêt des cotisants et des bénéficiaires du régime d’assurance-emploi.
+À la demande du ministre des Finances, la Commission de l’assurance-emploi du Canada peut accorder à Sa Majesté du chef du Canada un prêt dont elle fixe le taux d’intérêt et les modalités du remboursement. Par ailleurs, le ministre doit accorder un prêt à la Commission lorsqu’elle n’est pas en mesure de payer les montants découlant d’une de ses obligations.
+Le texte prévoit également la composition de la Commission de l’assurance-emploi du Canada : dix-sept commissaires dont un président, deux vice-présidents, sept représentants des employés et sept représentants des employeurs. Les représentants des employeurs et des employés sont nommés par le gouverneur en conseil à partir de listes de noms fournies par des associations représentatives. Le président est nommé par la Chambre des communes et les vice-présidents sont choisis parmi les sous-ministres ou sous-ministres délégués du ministère du Développement des ressources humaines.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-357
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-357
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Employment Insurance Act (Employment Insurance Account and premium rate setting) and another Act in consequence
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur l'assurance-emploi (Compte d'assurance-emploi et fixation du taux de cotisation) et une autre loi en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+1996, c. 23
+
+
+
+EMPLOYMENT INSURANCE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’ASSURANCE-EMPLOI
+
+
+
+1996, ch. 23
+
+
+
+
+
+
+
+
+
+
+
+
+1. Sections 65.3 to 67 of the Employment Insurance Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+1. Les articles 65.3 à 67 de la Loi sur l’assurance-emploi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Premium rate setting
+
+
+
+66. (1) Not later than November 30 in each year, the Commission shall set the premium rate that the Commission considers will, to the extent possible, over a business cycle,
+
+
+
+
+
+
+
+
+(a) serve the best interests of the contributors and beneficiaries under the employment insurance system;
+
+
+
+
+
+
+
+
+(b) ensure that there is enough revenue to pay the expenses authorized to be charged to the Employment Insurance Account;
+
+
+
+
+
+
+
+
+(c) maintain stable rate levels; and
+
+
+
+
+
+
+
+
+(d) ensure that the difference between the assets of the Employment Insurance Account and its liabilities does not exceed fifteen billion dollars.
+
+
+
+
+
+
+
+
+
+66. (1) Au plus tard le 30 novembre de chaque année, la Commission fixe le taux de cotisation qui, à son avis, permet le mieux, au cours d’un cycle économique :
+
+
+
+Fixation du taux de cotisation
+
+
+
+
+a) de servir l’intérêt des cotisants et des bénéficiaires du régime d’assurance-emploi;
+
+
+
+
+
+
+
+
+b) d’assurer un apport de revenus suffisant pour couvrir les dépenses autorisées sur le Compte d’assurance-emploi;
+
+
+
+
+
+
+
+
+c) de maintenir une stabilité des taux;
+
+
+
+
+
+
+
+
+d) de faire en sorte que la différence entre les actifs et le passif du Compte d’assurance-emploi ne dépasse pas quinze milliards de dollars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report to Minister
+
+
+
+(2) On the first day of October in each year, the Commission shall cause a report to be sent to the Minister containing
+
+
+
+
+
+
+
+
+(a) the reasons for setting the premium rate for the year;
+
+
+
+
+
+
+
+
+(b) any change to the amount of benefits that the Commission considers will, to the extent possible, over a business cycle,
+
+
+
+
+
+
+
+
+(i) ensure that there is enough revenue to pay the expenses authorized to be charged to the Employment Insurance Account, and
+
+
+
+
+
+
+
+
+(ii) maintain stable rate levels;
+
+
+
+
+
+
+
+
+(c) a detailed description of the assets of the Commission on the first day of September in each year;
+
+
+
+
+
+
+
+
+(d) a detailed description of the amounts that have been paid into or paid out of the Employment Insurance Account since the previous report;
+
+
+
+
+
+
+
+
+(e) an estimate of the amounts to be paid into the Employment Insurance Account under this Act for the following year, calculated on the basis of the premium rate set by the Commission in the report;
+
+
+
+
+
+
+
+
+(f) an estimate of the amounts to be paid out of the Employment Insurance Account under this Act for the following year, calculated on the basis of the amount of benefits to be paid set by the Commission in the report;
+
+
+
+
+
+
+
+
+(g) any recommendations that the Commission considers necessary for the improvement of the employment insurance system, including amendments to Acts, regulations and policies with respect to employment insurance; and
+
+
+
+
+
+
+
+
+(h) any other information that the Commission considers necessary.
+
+
+
+
+
+
+
+
+
+(2) Le 1er octobre de chaque année, la Commission fait parvenir au ministre un rapport contenant :
+
+
+
+Rapport au ministre
+
+
+
+
+a) les raisons pour lesquelles le taux de cotisation a été fixé à ce niveau pour l’année;
+
+
+
+
+
+
+
+
+b) toute modification du montant des prestations permettant le mieux, selon elle, d’assurer au cours d’un cycle économique :
+
+
+
+
+
+
+
+
+(i) un apport de revenus suffisant pour couvrir les dépenses autorisées sur le Compte d’assurance-emploi,
+
+
+
+
+
+
+
+
+(ii) une stabilité des taux;
+
+
+
+
+
+
+
+
+c) une description détaillée de l’actif de la Commission au 1er septembre de chaque année;
+
+
+
+
+
+
+
+
+d) une description détaillée des sommes ayant été, depuis le rapport précédent, versées au Compte d’assurance-emploi ou payées sur celui-ci;
+
+
+
+
+
+
+
+
+e) une estimation des sommes devant être versées au Compte d’assurance-emploi en vertu de la présente loi pour l’année subséquente en utilisant, aux fins de ce calcul, le taux de cotisation établi par la Commission dans le rapport;
+
+
+
+
+
+
+
+
+f) une estimation des sommes devant être payées sur le Compte d’assurance-emploi en vertu de la présente loi pour l’année subséquente en utilisant, aux fins de ce calcul, le montant des prestations à verser établi par la Commission dans le rapport;
+
+
+
+
+
+
+
+
+g) les recommandations qu’elle estime nécessaires pour améliorer le régime d’assurance-emploi, notamment des modifications aux lois, règlements et politiques qui touchent l’assurance-emploi;
+
+
+
+
+
+
+
+
+h) tout autre renseignement qu’elle estime nécessaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabling in Parliament
+
+
+
+(3) The Minister shall cause a copy of the report to be laid before each House of Parliament on any of the first five days on which that House is sitting after the Minister receives it.
+
+
+
+
+
+
+
+
+
+(3) Le ministre fait déposer le rapport devant chaque chambre du Parlement dans les cinq premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt devant le Parlement
+
+
+
+
+
+
+
+
+
+
+Employee's premium
+
+
+
+67. Subject to section 70, a person employed in insurable employment shall pay, by deduction as provided in subsection 82(1), a premium equal to their insurable earnings multiplied by the premium rate set under section 66.
+
+
+
+
+
+
+
+
+
+67. Sous réserve de l'article 70, toute personne exerçant un emploi assurable verse, par voie de retenue effectuée au titre du paragraphe 82(1), une cotisation correspondant au produit de sa rémunération assurable par le taux fixé en vertu de l'article 66.
+
+
+
+Cotisation ouvrière
+
+
+
+
+
+
+
+
+
+
+
+
+2. Sections 71 to 76 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+2. Les articles 71 à 76 de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Employment Insurance
+Account established
+
+
+
+
+71. There shall be established in the name of the Commission an account to be known as the Employment Insurance Account.
+
+
+
+
+
+
+
+
+
+71. Est ouvert, au nom de la Commission, un compte intitulé « Compte d’assurance-emploi ».
+
+
+
+Ouverture du compte
+
+
+
+
+
+
+
+
+
+
+
+Payment 
+into the Employment
+Insurance Account
+
+
+
+
+72. (1) There shall be paid into the Employment Insurance Account
+
+
+
+
+
+
+
+
+(a) all amounts credited to the Employment Insurance Account — as that Account exist-ed immediately prior to the day on which this section comes into force — and not charged to that Account for the purposes of this Act on the coming into force of this section;
+
+
+
+
+
+
+
+
+(b) all amounts received under Parts I and III to IX, as or on account of premiums, fines, penalties, interest, repayment of overpaid benefits and benefit repayment;
+
+
+
+
+
+
+
+
+(c) all amounts collected by the Commission for services rendered to other government departments or agencies or to the public;
+
+
+
+
+
+
+
+
+(d) all amounts received on account of principal or interest on loans made by the Commission under Part II or as repayment of overpayments made by the Commission under that Part;
+
+
+
+
+
+
+
+
+(e) all premiums required to be paid by Her Majesty in right of Canada as employer’s premiums for persons employed in insurable employment by Her Majesty in right of Canada;
+
+
+
+
+
+
+
+
+(f) all amounts paid into the Consolidated Revenue Fund that are
+
+
+
+
+
+
+
+
+(i) received as or on account of penalties imposed under section 38, 39 or 65.1 and repayments of overpaid benefits, except interest and penalties on benefit repayment,
+
+
+
+
+
+
+
+
+(ii) received on account of principal or interest on loans made by the Commission under Part II,
+
+
+
+
+
+
+
+
+(iii) received as repayments of overpayments by the Commission under section 61 for employment benefits and support measures authorized by Part II,
+
+
+
+
+
+
+
+
+(iv) received as repayments of overpayments by the Commission under agreements entered into under section 63, or
+
+
+
+
+
+
+
+
+(v) received as interest under section 80.1;
+
+
+
+
+
+
+
+
+(g) any amount provided out of the Consolidated Revenue Fund to the Commission by the Minister of Finance under section 74;
+
+
+
+
+
+
+
+
+(h) any amount provided out of the Consolidated Revenue Fund appropriated by Parliament intended for any purpose related to employment insurance and administered by the Commission; and
+
+
+
+
+
+
+
+
+(i) any other amounts paid into the Consolidated Revenue Fund or to the Commission under this Act for any purpose related to employment insurance and administered by the Commission.
+
+
+
+
+
+
+
+
+
+72. (1) Sont versées au Compte d’assurance-emploi :
+
+
+
+Versement au Compte 
+d’assurance-emploi
+
+
+
+
+
+a) toutes les sommes portées au crédit du Compte d’assurance-emploi — tel que ce compte existait immédiatement avant l’entrée en vigueur du présent article — et non débitées de ce compte pour l’application de la présente loi lors de l’entrée en vigueur du présent article;
+
+
+
+
+
+
+
+
+b) toutes les sommes reçues en application des parties I et III à IX au titre des cotisations, amendes, pénalités, intérêts, remboursements des versements excédentaires de prestations ou remboursements de prestations;
+
+
+
+
+
+
+
+
+c) toutes les sommes perçues par la Commission pour les services rendus à des ministères ou organismes du gouvernement ou au public;
+
+
+
+
+
+
+
+
+d) toutes les sommes reçues à titre de principal ou d’intérêts sur des prêts consentis par la Commission en application de la partie II ou à titre de remboursement de versements excédentaires faits par la Commission en application de cette partie;
+
+
+
+
+
+
+
+
+e) toutes les cotisations que Sa Majesté du chef du Canada est tenue de verser au titre de cotisations patronales à l’égard des personnes occupant un emploi assurable à son service;
+
+
+
+
+
+
+
+
+f) toutes les sommes versées au Trésor et 
+
+
+
+
+
+
+
+
+(i) reçues au titre des pénalités infligées en vertu des articles 38, 39 ou 65.1 ou des versements excédentaires de prestations remboursés, à l’exception des pénalités et des intérêts afférents à un remboursement de prestations,
+
+
+
+
+
+
+
+
+(ii) reçues à titre de principal ou d’intérêts sur des prêts consentis par la Commission en application de la partie II,
+
+
+
+
+
+
+
+
+(iii) reçues à titre de remboursement de versements excédentaires faits par la Commission au titre de l’article 61 à l’égard de prestations d’emploi ou de mesures de soutien prévues à la partie II,
+
+
+
+
+
+
+
+
+(iv) reçues à titre de remboursement de versements excédentaires faits par la Commission aux termes d’accords conclus au titre de l’article 63,
+
+
+
+
+
+
+
+
+(v) reçues à titre d’intérêts au titre de l’article 80.1;
+
+
+
+
+
+
+
+
+g) toute somme payée sur le Trésor et consentie à la Commission par le ministre des Finances en vertu de l’article 74;
+
+
+
+
+
+
+
+
+h) toute somme payée sur le Trésor et autorisée par affectation de crédits du Parlement qui est destinée à toute fin relative à l’assurance-emploi relevant des fonctions de la Commission;
+
+
+
+
+
+
+
+
+i) toute autre somme versée au Trésor ou à la Commission en vertu de la présente loi, qui est destinée à toute fin relative à l’assurance-emploi et qui relève des fonctions de la Commission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annual payments
+
+
+
+(2) The Minister shall pay the amounts referred to in paragraph (1)(a) into the Employment Insurance Account over a period of time that the Minister considers appropriate, having regard to the fiscal position and expected outlook of the Government of Canada.
+
+
+
+
+
+
+
+
+
+(2) Le ministre verse les sommes visées à l’alinéa (1)a) au Compte d’assurance-emploi sur une période de temps qu’il juge appropriée compte tenu de la situation budgétaire et des perspectives du gouvernement fédéral.
+
+
+
+Versements annuels
+
+
+
+
+
+
+
+
+
+
+Minimum payment
+
+
+
+(3) The amounts paid in the course of a year shall not be less than one half of the amount remaining at the end of that year in the Contingency Reserve provided for in the budget for that year.
+
+
+
+
+
+
+
+
+
+(3) Les sommes versées au cours d’une année ne peuvent être inférieures à la moitié du montant qu’il reste à la fin de cette année dans la réserve pour éventualités prévue dans le budget de l’exercice financier de cette année.
+
+
+
+Versement minimum
+
+
+
+
+
+
+
+
+
+
+Maximum payment
+
+
+
+(4) Despite subsection (3), the amounts paid in the course of a year shall not exceed the amounts referred to in paragraph 1(a).
+
+
+
+
+
+
+
+
+
+(4) Malgré le paragraphe (3), les sommes versées au cours d’une année ne peuvent être supérieures aux sommes visées à l’alinéa (1)a).
+
+
+
+Versement maximum
+
+
+
+
+
+
+
+
+
+
+Assets of the Commission
+
+
+
+(5) All amounts paid into the Employment Insurance Account
+
+
+
+
+
+
+
+
+(a) shall become part of the assets of the Commission; and
+
+
+
+
+
+
+
+
+(b) shall, as they are paid into the Account, be deposited with a financial institution within the meaning of the Financial Consumer Agency of Canada Act, a body corporate to which the Trust and Loan Companies Act applies, or an association to which the Cooperative Credit Associations Act applies.
+
+
+
+
+
+
+
+
+
+(5) Toutes les sommes versées au Compte d’assurance-emploi :
+
+
+
+Actif de la Commission
+
+
+
+
+a) font partie de l’actif de la Commission;
+
+
+
+
+
+
+
+
+b) sont, au fur et à mesure de leur versement, déposées auprès d’une institution financière au sens de la Loi sur l’Agence de la consommation en matière financière du Canada, d’une société régie par la Loi sur les sociétés de fiducie et de prêt ou d’une association régie par la Loi sur les associations coopératives de crédit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Duties of the Commission
+
+
+
+(6) The Commission shall
+
+
+
+
+
+
+
+
+(a) manage the amounts paid into the Employment Insurance Account in the best interests of the contributors and beneficiaries under the employment insurance system; and
+
+
+
+
+
+
+
+
+(b) subject to section 73, invest its assets with a financial institution, body corporate or association referred to in paragraph (5)(b) with a view to achieving a maximum rate of return without undue risk of loss, having regard to the factors that may affect the funding of the employment insurance system provided for in this Act and the ability of the Commission to meet its financial obligations.
+
+
+
+
+
+
+
+
+
+(6) La Commission :
+
+
+
+Fonctions de la Commission
+
+
+
+
+a) gère les sommes versées au Compte d’assurance-emploi dans l’intérêt des cotisants et des bénéficiaires du régime d’assurance-emploi;
+
+
+
+
+
+
+
+
+b) sous réserve de l’article 73, investit ces sommes auprès d’une institution financière, d’une société ou d’une association visées à l’alinéa (5)b) en vue d’un rendement maximal tout en évitant des risques de perte indus et compte tenu des facteurs pouvant avoir un effet sur le financement du régime d’assurance-emploi visé par la présente loi ainsi que sur son aptitude à s’acquitter de ses obligations financières.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loans to Her Majesty
+in right of Canada
+
+
+
+
+73. At the request of the Minister of Finance, the Commission may extend a loan to Her Majesty in right of Canada to be repaid on such terms and conditions, including interest, as the Commission may establish.
+
+
+
+
+
+
+
+
+
+73. À la demande du ministre des Finances, la Commission peut accorder des prêts à Sa Majesté du chef du Canada selon les modalités de remboursement, y compris les intérêts, qu’elle fixe.
+
+
+
+Prêts à Sa Majesté
+du chef du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+Loan to the Commission
+
+
+
+74. (1) Where the assets of the Employment Insurance Account are not sufficient for the payment of the amounts that the Commission is liable to pay under this Act, the Minister of Finance shall, at the request of the Commission, extend a loan from the Consolidated Revenue Fund to the Commission in an amount sufficient to meet the payments.
+
+
+
+
+
+
+
+
+
+74. (1) À la demande de la Commission, lorsque le Compte d’assurance-emploi est insuffisant pour payer les montants découlant d’une obligation dont elle est tenue de s’acquitter aux termes de la présente loi, le ministre des Finances lui consent, sur le Trésor, un prêt suffisant pour couvrir ses paiements.
+
+
+
+Prêt à la Commission
+
+
+
+
+
+
+
+
+
+
+Repayment
+
+
+
+(2) The Minister of Finance shall set an interest rate and terms and conditions for the repayment of the loan that are more advantageous to the Commission then those that the Commission can obtain from a financial institution.
+
+
+
+
+
+
+
+
+
+(2) Le ministre des Finances fixe, pour un tel prêt, des intérêts et des modalités de remboursement plus avantageux pour la Commission que ceux qu’elle peut obtenir d’une institution financière.
+
+
+
+Remboursement
+
+
+
+
+
+
+
+
+
+
+
+
+3. Sections 77 and 78 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+3. Les articles 77 et 78 de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Amounts paid out of the
+Employment Insurance Account
+
+
+
+
+77. (1) There shall be paid out of the Employment Insurance Account
+
+
+
+
+
+
+
+
+(a) all amounts paid as or on account of benefits under this Act;
+
+
+
+
+
+
+
+
+(b) all amounts paid under section 61 for employment benefits and support measures authorized by Part II;
+
+
+
+
+
+
+
+
+(c) all amounts paid under paragraph 63(a);
+
+
+
+
+
+
+
+
+(d) the costs of administering this Act, including administration costs paid under section 62 or paragraph 63(b);
+
+
+
+
+
+
+
+
+(e) any amount loaned by the Commission to Her Majesty in right of Canada under section 73; and
+
+
+
+
+
+
+
+
+(f) any other amount to be paid by the Commission under this Act, including all amounts paid by the Commission under an agreement with the government of a prov­ince.
+
+
+
+
+
+
+
+
+
+77. (1) Sont payés sur le Compte d’assurance-emploi :
+
+
+
+Sommes payées sur le Compte
+d’assurance-emploi
+
+
+
+
+
+a) toutes les sommes versées au titre des prestations sous le régime de la présente loi;
+
+
+
+
+
+
+
+
+b) toutes les sommes versées au titre de l’article 61 à l’égard de prestations d’emploi ou de mesures de soutien prévues à la partie II;
+
+
+
+
+
+
+
+
+c) toutes les sommes versées aux termes de l’alinéa 63a);
+
+
+
+
+
+
+
+
+d) les frais d’application de la présente loi, notamment les frais payés au titre de l’article 62 ou de l’alinéa 63b);
+
+
+
+
+
+
+
+
+e) toute somme versée à titre de prêt par la Commission à Sa Majesté du chef du Canada en vertu de l’article 73;
+
+
+
+
+
+
+
+
+f) toute autre somme devant être versée par la Commission en vertu de la présente loi, notamment toutes les sommes payables en vertu d’une entente avec le gouvernement d’une province.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Payment by 
+special
+warrants
+
+
+
+
+(2) Despite any other Act of Parliament, amounts mentioned in paragraph (1)(a) shall be paid by special warrants drawn on and issued by the Commission by electronic means or bearing the printed signature of the Chairperson and Vice-Chairperson of the Commission, and amounts mentioned in paragraphs (1)(b) and (c) may be paid by the special warrants.
+
+
+
+
+
+
+
+
+
+(2) Malgré toute autre loi fédérale, les sommes mentionnées à l’alinéa (1)a) sont payées par mandats spéciaux tirés sur la Commission et délivrés par elle sous forme électronique ou portant la griffe du président et du vice-président de la Commission. Celles mentionnées aux alinéas (1)b) et c) peuvent également être payées par mandats spéciaux.
+
+
+
+Paiement par
+mandats spéciaux
+
+
+
+
+
+
+
+
+
+
+
+No charge for negotiation
+
+
+
+(3) The special warrants are negotiable without charge at any financial institution in Canada.
+
+
+
+
+
+
+
+
+
+(3) Les mandats spéciaux sont négociables sans frais dans toute institution financière du Canada.
+
+
+
+Négociation sans frais
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 80 of the Act is repealed.
+
+
+
+
+
+
+
+
+
+4. L’article 80 de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+2005, c. 34
+
+
+
+DEPARTMENT OF HUMAN RESOURCES AND SKILLS DEVELOPMENT ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE MINISTÈRE DES RESSOURCES HUMAINES ET DU DÉVELOPPEMENT DES COMPÉTENCES
+
+
+
+2005, ch. 34
+
+
+
+
+
+
+
+
+
+
+
+
+5. Subsections 20(1) and (2) of the Department of Human Resources and Skills Development Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+5. Les paragraphes 20(1) et (2) de la Loi sur le ministère des Ressources humaines et du Développement des compétences sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Establishment of Commission
+
+
+
+20. (1) There is hereby established a Commission to be known as the Canada Employment Insurance Commission.
+
+
+
+
+
+
+
+
+
+20. (1) Est constituée la Commission de l’assurance-emploi du Canada.
+
+
+
+Constitution de la Commission
+
+
+
+
+
+
+
+
+
+
+Commissioners
+
+
+
+(2) The Commission shall be composed of 17  commissioners, as follows:
+
+
+
+
+
+
+
+
+(a) a Chairperson;
+
+
+
+
+
+
+
+
+(b) two Vice-Chairpersons;
+
+
+
+
+
+
+
+
+(c) seven representatives of employees and seven representatives of employers.
+
+
+
+
+
+
+
+
+
+(2) La Commission se compose de dix-sept commissaires dont :
+
+
+
+Commissaires
+
+
+
+
+a) un président;
+
+
+
+
+
+
+
+
+b) deux vice-présidents;
+
+
+
+
+
+
+
+
+c) sept représentants des employés et sept représentants des employeurs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Act is amended by adding the following after section 21:
+
+
+
+
+
+
+
+
+
+6. La même loi est modifiée par adjonction, après l’article 21, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment of commissioners
+
+
+
+21.1 (1) The Governor in Council shall appoint the commissioners who will represent employees and employers from a list of nominees provided by associations represen-ting employees and employers in Canada.
+
+
+
+
+
+
+
+
+
+21.1 (1) Le gouverneur en conseil nomme les commissaires représentant les employés et les employeurs parmi les personnes proposées sur une liste de noms fournie par des associations représentatives d’employés et d’employeurs au Canada.
+
+
+
+Nomination des commissaires
+
+
+
+
+
+
+
+
+
+
+Appointment of Vice-Chairpersons
+
+
+
+(2) The Governor in Council appoints the Vice-Chairpersons from among the Deputy Ministers or the Associate Deputy Ministers of the Department of Human Resources and Skills Development.
+
+
+
+
+
+
+
+
+
+(2) Le gouverneur en conseil nomme les vice-présidents parmi les sous-ministres ou sous-ministres délégués du ministère des Ressources humaines et du Développement des compétences.
+
+
+
+Nomination des vice-présidents
+
+
+
+
+
+
+
+
+
+
+Appointment of Chairperson
+
+
+
+21.2 (1) The Chairperson shall be appointed by the House of Commons on the recom-mendation of the Minister following consultation of the commissioners representing employees and employers.
+
+
+
+
+
+
+
+
+
+21.2 (1) Le président est nommé par la Chambre des communes, sur la recomman-dation du ministre après consultation des commissaires représentant les employés et les employeurs.
+
+
+
+Nomination du président
+
+
+
+
+
+
+
+
+
+
+Deciding vote
+
+
+
+(2) The Chairperson shall not vote, but shall cast a deciding vote in case of an equal division.
+
+
+
+
+
+
+
+
+
+(2) Le président ne prend pas part au vote, mais il a voix prépondérante en cas d’égalité des voix.
+
+
+
+Voix prépondérante
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

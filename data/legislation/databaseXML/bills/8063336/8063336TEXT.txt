@@ -1,0 +1,4202 @@
+
+
+
+
+
+S-205
+
+
+
+
+
+S-205
+
+
+
+
+
+
+First Session, Forty-second Parliament,
+
+
+
+
+
+Première session, quarante-deuxième législature,
+
+
+
+
+
+
+64 Elizabeth II, 2015
+
+
+
+
+
+64 Elizabeth II, 2015
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-205
+
+
+
+
+
+PROJET DE LOI S-205
+
+
+
+
+
+
+An Act to amend the Canada Border Services Agency Act (Inspector General of the Canada Border Services Agency) and to make consequential amendments to other Acts
+
+
+
+
+
+Loi modifiant la Loi sur l’Agence des services frontaliers du Canada (inspecteur général de l’Agence des services frontaliers du Canada) et d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 8, 2015
+
+première lecture le 8 décembre 2015
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR MOORE
+
+4211124
+
+
+
+L’HONORABLE SÉNATEUR MOORE
+
+
+
+
+
+SUMMARY
+This enactment provides for the appointment of an Inspector General of the Canada Border Services Agency with the authority to report on and make recommendations concerning the Agency’s activities and the capacity to receive and investigate complaints about the Agency.
+
+
+
+SOMMAIRE
+Le texte prévoit la nomination d’un inspecteur général de l’Agence des services frontaliers du Canada ayant le pouvoir de présenter des rapports et des recommandations sur les activités de l’Agence et étant chargé de recevoir et d’instruire les plaintes concernant celle-ci.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+TABLE OF PROVISIONS
+
+
+
+TABLE ANALYTIQUE
+
+
+
+
+AN ACT TO AMEND THE CANADA BORDER SERVICES AGENCY ACT (INSPECTOR GENERAL OF THE CANADA BORDER SERVICES AGENCY) AND TO MAKE CONSEQUENTIAL AMENDMENTS TO OTHER ACTS
+
+
+
+LOI MODIFIANT LA LOI SUR L’AGENCE DES SERVICES FRONTALIERS DU CANADA (INSPECTEUR GÉNÉRAL DE L’AGENCE DES SERVICES FRONTALIERS DU CANADA) ET D’AUTRES LOIS EN CONSÉQUENCE
+
+
+
+
+CANADA BORDER SERVICES AGENCY ACT
+
+
+
+LOI SUR L’AGENCE DES SERVICES FRONTALIERS DU CANADA
+
+
+
+
+
+
+
+1-2.       Amendments
+
+
+
+
+
+
+
+
+
+1-2.       Modifications
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+3-4.       Access to Information Act
+
+
+
+
+
+
+
+
+
+3-4.       Loi sur l’accès à l’information
+
+
+
+
+
+
+
+
+
+
+5.       Canada Evidence Act
+
+
+
+
+
+
+
+
+
+5.       Loi sur la preuve au Canada
+
+
+
+
+
+
+
+
+
+
+6-7.       Financial Administration Act
+
+
+
+
+
+
+
+
+
+6-7.       Loi sur la gestion des finances publiques
+
+
+
+
+
+
+
+
+
+
+8.       Privacy Act
+
+
+
+
+
+
+
+
+
+8.       Loi sur la protection des renseignements personnels
+
+
+
+
+
+
+
+
+
+
+9.       Official Languages Act
+
+
+
+
+
+
+
+
+
+9.       Loi sur les langues officielles
+
+
+
+
+
+
+
+
+
+
+10.       Public Sector Compensation Act
+
+
+
+
+
+
+
+
+
+10.       Loi sur la rémunération du secteur public
+
+
+
+
+
+
+
+
+
+
+11.       Public Servants Disclosure Protection Act
+
+
+
+
+
+
+
+
+
+11.       Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+12.       Coming into force
+
+
+
+
+
+
+
+
+
+12.       Entrée en vigueur
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 42nd Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 42e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+64 Elizabeth II, 2015
+
+
+
+
+
+
+
+
+
+64 Elizabeth II, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-205
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-205
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Canada Border Services Agency Act (Inspector General of the Canada Border Services Agency) and to make consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur l’Agence des services frontaliers du Canada (inspecteur général de l’Agence des services frontaliers du Canada) et d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+2005, c. 38
+
+
+
+CANADA BORDER SERVICES AGENCY ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’AGENCE DES SERVICES FRONTALIERS DU CANADA
+
+
+
+2005, ch. 38
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 2 of the Canada Border Services Agency Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+1. L’article 2 de la Loi sur l’Agence des services frontaliers du Canada est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“Inspector General”« inspecteur général »
+
+
+
+“Inspector General” means the Inspector General of the Agency appointed under subsection 15.2(1).
+
+
+
+
+
+
+
+
+
+« inspecteur général » L’inspecteur général de l’Agence nommé en vertu du paragraphe 15.2(1). 
+
+
+
+« inspecteur général »“Inspector General”
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after section 15.1:
+
+
+
+
+
+
+
+
+
+2. La même loi est modifiée par adjonction, après l’article 15.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+INSPECTOR GENERAL
+
+
+
+
+
+
+
+
+
+INSPECTEUR GÉNÉRAL
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment and Powers
+
+
+
+
+
+
+
+
+
+Nomination et pouvoirs
+
+
+
+
+
+
+
+
+
+
+
+
+Appointment
+
+
+
+15.2 (1) The Governor in Council shall appoint an Inspector General of the Agency after consultation with the leader of every recognized party in the Senate and House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
+
+
+
+
+
+
+
+
+
+15.2 (1) Le gouverneur en conseil nomme l’inspecteur général de l’Agence après consultation du chef de chacun des partis reconnus au Sénat et à la Chambre des communes et approbation par résolution du Sénat et de la Chambre des communes.
+
+
+
+Nomination
+
+
+
+
+
+
+
+
+
+
+Tenure
+
+
+
+(2) The Inspector General holds office during good behaviour for a term of seven years, but may be removed for cause by the Governor in Council at any time on address of the Senate and House of Commons.
+
+
+
+
+
+
+
+
+
+(2) L’inspecteur général occupe sa charge à titre inamovible pour un mandat de sept ans, sauf révocation motivée par le gouverneur en conseil sur adresse du Sénat et de la Chambre des communes.
+
+
+
+Durée du mandat et révocation
+
+
+
+
+
+
+
+
+
+
+Further terms
+
+
+
+(3) The Inspector General is eligible to be reappointed for one or more further terms of not more than seven years each.
+
+
+
+
+
+
+
+
+
+(3) Le mandat de l’inspecteur général est renouvelable pour des périodes maximales de sept ans chacune.
+
+
+
+Renouvellement du mandat
+
+
+
+
+
+
+
+
+
+
+Interim appointment
+
+
+
+(4) In the event of the absence or incapacity of the Inspector General, or if that office is vacant, the Governor in Council may appoint any qualified person to hold that office in the interim for a term not exceeding six months, and that person shall, while holding office, be paid the salary or other remuneration and expenses that may be fixed by the Governor in Council.
+
+
+
+
+
+
+
+
+
+(4) En cas d’absence ou d’empêchement de l’inspecteur général ou de vacance de son poste, le gouverneur en conseil peut confier l’intérim à toute personne compétente pour un mandat maximal de six mois et fixer la rémunération et les indemnités auxquelles cette personne aura droit.
+
+
+
+Intérim
+
+
+
+
+
+
+
+
+
+
+Rank and powers
+
+
+
+15.3 (1) The Inspector General has the rank and all the powers of a deputy head of a department.  
+
+
+
+
+
+
+
+
+
+15.3 (1) L’inspecteur général a rang et pouvoirs d’administrateur général de ministère.
+
+
+
+Rang et pouvoirs
+
+
+
+
+
+
+
+
+
+
+Duties
+
+
+
+(2) The Inspector General shall engage exclusively in the duties of the office of Inspector General under this Act and shall not hold any other office or engage in any other employment for reward.
+
+
+
+
+
+
+
+
+
+(2) Il se consacre exclusivement à la charge que lui confère la présente loi, à l’exclusion de toute autre charge ou de tout autre emploi rétribué.
+
+
+
+Fonctions
+
+
+
+
+
+
+
+
+
+
+Salary and expenses
+
+
+
+(3) The Inspector General shall be paid the remuneration that is fixed by the Governor in Council, and is entitled to be paid reasonable travel and living expenses incurred in the performance of his or her duties while absent from his or her ordinary place of work.
+
+
+
+
+
+
+
+
+
+(3) Il reçoit la rémunération fixée par le gouverneur en conseil et a droit aux frais de déplacement et de séjour entraînés par l’exercice de ses fonctions hors de son lieu habituel de travail.
+
+
+
+Traitement et frais
+
+
+
+
+
+
+
+
+
+
+Pension benefits
+
+
+
+(4) The Inspector General is deemed to be employed in the public service for the purposes of the Public Service Superannuation Act.
+
+
+
+
+
+
+
+
+
+(4) Il est réputé faire partie de la fonction publique pour l’application de la Loi sur la pension de la fonction publique.
+
+
+
+Régime de pension
+
+
+
+
+
+
+
+
+
+
+Other benefits
+
+
+
+(5) The Inspector General is deemed to be employed in the federal public administration for the purposes of the Government Employees Compensation Act and regulations made under section 9 of the Aeronautics Act.
+
+
+
+
+
+
+
+
+
+(5) Il est réputé faire partie de l’administration publique fédérale pour l’application de la Loi sur l’indemnisation des agents de l’État et des règlements pris en vertu de l’article 9 de la Loi sur l’aéronautique. 
+
+
+
+Autres avantages
+
+
+
+
+
+
+
+
+
+
+Staff
+
+
+
+
+
+
+
+
+
+Personnel
+
+
+
+
+
+
+
+
+
+
+
+
+Staff of the Inspector General
+
+
+
+15.4 (1) The officers and employees necessary to enable the Inspector General to perform his or her powers, duties and functions under this Act shall be appointed in accordance with the Public Service Employment Act.
+
+
+
+
+
+
+
+
+
+15.4 (1) Le personnel nécessaire à l’inspecteur général pour l’exercice des attributions que lui confère la présente loi est nommé conformément à la Loi sur l’emploi dans la fonction publique.
+
+
+
+Personnel de l’inspecteur général
+
+
+
+
+
+
+
+
+
+
+Technical assistance
+
+
+
+(2) The Inspector General may engage, on a temporary basis, the services of persons having technical or specialized knowledge of any matter relating to the work of the Inspector General to advise and assist the Inspector General in the performance of his or her powers, duties and functions and, with the approval of the Treasury Board, may fix and pay the remuneration and expenses of those persons.
+
+
+
+
+
+
+
+
+
+(2) L’inspecteur général peut retenir temporairement les services d’experts ou de spécialistes dont la compétence lui est utile dans l’exercice de ses attributions; il peut fixer et payer, avec l’approbation du Conseil du Trésor, leur rémunération et leurs indemnités.
+
+
+
+Assistance technique
+
+
+
+
+
+
+
+
+
+
+Delegation
+
+
+
+(3) The Inspector General may authorize any person employed in his or her office to exercise and perform, in any manner and subject to any terms and conditions that he or she directs, any of the powers, duties and functions of the Inspector General. 
+
+
+
+
+
+
+
+
+
+(3) L’inspecteur général peut, aux conditions et selon les modalités qu’il fixe, déléguer de ses attributions à tout employé de son bureau.
+
+
+
+Délégation
+
+
+
+
+
+
+
+
+
+
+Subdelegation
+
+
+
+(4) Any person authorized under subsection (3) may, subject to and in accordance with the authorization, authorize one or more persons under that person’s jurisdiction to exercise any power or perform any function to which the authorization relates.
+
+
+
+
+
+
+
+
+
+(4) Les délégataires visés au paragraphe (3) peuvent, sous réserve des conditions et modalités de la délégation, subdéléguer les pouvoirs qu’ils ont reçus à leurs subordonnés.
+
+
+
+Subdélégation
+
+
+
+
+
+
+
+
+
+
+Mandate
+
+
+
+
+
+
+
+
+
+Mandat
+
+
+
+
+
+
+
+
+
+
+
+
+Mandate
+
+
+
+15.5 (1) The mandate of the Inspector General is
+
+
+
+
+
+
+
+
+(a) to monitor and report on the activities of the Agency in carrying out its mandate under section 5, which may include making observations and recommendations concerning the procedures and performance of the Agency in relation to any of its activities, including:
+
+
+
+
+
+
+
+
+(i) the making of decisions,
+
+
+
+
+
+
+
+
+(ii) the handling of complaints,
+
+
+
+
+
+
+
+
+(iii) the consistency of approach,
+
+
+
+
+
+
+
+
+(iv) the exercise of enforcement powers, including powers of arrest, entry, search and seizure,
+
+
+
+
+
+
+
+
+(v) the management of information and, where relevant, the direct or indirect provision of information to other organizations or persons in Canada or in a foreign state,
+
+
+
+
+
+
+
+
+(vi) the respect for and protection of individual rights and freedoms of Canadian citizens and foreign nationals, and
+
+
+
+
+
+
+
+
+(vii) the performance of the Agency compared to other organizations or persons with a similar mandate and similar powers in Canada or in foreign states; and
+
+
+
+
+
+
+
+
+(b) to carry out investigations in relation to complaints made to the Inspector General under section 15.6.
+
+
+
+
+
+
+
+
+
+15.5 (1) L’inspecteur général a pour mandat :
+
+
+
+Mandat
+
+
+
+
+a) de contrôler les activités de l’Agence dans l’exécution du mandat que lui confère l’article 5 et d’en faire rapport, notamment en formulant des observations et des recommandations concernant les procédures et le rendement de l’Agence en ce qui a trait, entre autres, aux activités suivantes :
+
+
+
+
+
+
+
+
+(i) la prise de décisions,
+
+
+
+
+
+
+
+
+(ii) le traitement de plaintes,
+
+
+
+
+
+
+
+
+(iii) l’uniformité de sa démarche,
+
+
+
+
+
+
+
+
+(iv) l’exercice des pouvoirs de contrainte, notamment en matière d’arrestation, d’accès à des lieux, de perquisition, de fouille et de saisie,
+
+
+
+
+
+
+
+
+(v) la gestion des renseignements et, le cas échéant, la fourniture directe ou indirecte de renseignements à d’autres organisations ou personnes au Canada et à l’étranger, 
+
+
+
+
+
+
+
+
+(vi) le respect et la protection des droits et libertés individuels des citoyens canadiens et des ressortissants étrangers,
+
+
+
+
+
+
+
+
+(vii) le rendement de l’Agence par rapport à celui d’autres organisations ou personnes au Canada ou à l’étranger ayant un mandat et des pouvoirs similaires;
+
+
+
+
+
+
+
+
+b) de faire enquête sur les plaintes qu’il reçoit au titre de l’article 15.6.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clarification
+
+
+
+(2) For greater certainty, the mandate of the Inspector General in respect of the Agency extends to its officers, employees and agents.
+
+
+
+
+
+
+
+
+
+(2) Il est entendu que le mandat de l’inspecteur général relativement à l’Agence s’applique à son personnel et ses mandataires.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Investigations
+
+
+
+
+
+
+
+
+
+Enquêtes
+
+
+
+
+
+
+
+
+
+
+
+
+Investigation of complaints
+
+
+
+15.6 (1) Any person may make a complaint to the Inspector General with respect to any act or thing done by the Agency and, subject to this section, the Inspector General shall investigate the complaint.
+
+
+
+
+
+
+
+
+
+15.6 (1) Toute personne peut porter plainte au sujet des activités de l’Agence auprès de l’inspecteur général et, sous réserve du présent article, celui-ci instruit les plaintes reçues.
+
+
+
+Enquête sur les plaintes
+
+
+
+
+
+
+
+
+
+
+Written complaint
+
+
+
+(2) A complaint shall be in writing unless the Inspector General authorizes otherwise.
+
+
+
+
+
+
+
+
+
+(2) Sauf autorisation contraire de l’inspecteur général, les plaintes lui sont présentées par écrit.
+
+
+
+Plainte écrite
+
+
+
+
+
+
+
+
+
+
+Procedure
+
+
+
+(3) Subject to this Act, the Inspector General may determine the procedure to be followed in carrying out an investigation under this Act.
+
+
+
+
+
+
+
+
+
+(3) Sous réserve des autres dispositions de la présente loi, l’inspecteur peut établir la procédure à suivre dans les enquêtes menées sous le régime de la présente loi.
+
+
+
+Procédure
+
+
+
+
+
+
+
+
+
+
+Discontinuance of investigation
+
+
+
+(4) If, in the course of investigating any complaint, the Inspector General is of the opinion that, having regard to all the circumstances of the case, any further investigation is unnecessary, the Inspector General may refuse to investigate the matter further.
+
+
+
+
+
+
+
+
+
+(4) L’inspecteur général peut, à son appréciation, interrompre toute enquête qu’il estime, compte tenu des circonstances, inutile de poursuivre.
+
+
+
+Interruption de l’instruction
+
+
+
+
+
+
+
+
+
+
+Refuse or cease investigation
+
+
+
+(5) The Inspector General may refuse to investigate or cease to investigate any complaint if, in the opinion of the Inspector General,
+
+
+
+
+
+
+
+
+(a) the complaint is trivial, frivolous, vexatious or made in bad faith; or
+
+
+
+
+
+
+
+
+(b) the subject-matter of the complaint does not come within the authority of the Inspector General under this Act.
+
+
+
+
+
+
+
+
+
+(5) L’inspecteur général peut, à son appréciation, refuser ou cesser d’instruire une plainte dans l’un ou l’autre des cas suivants :
+
+
+
+Refus d’instruire
+
+
+
+
+a) elle est futile ou vexatoire ou a été portée de mauvaise foi;
+
+
+
+
+
+
+
+
+b) son objet ne relève pas de la compétence de l’inspecteur général sous le régime de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complainant to be notified
+
+
+
+(6) If the Inspector General decides to refuse to investigate or cease to investigate a complaint under subsection (4) or (5), the Inspector General shall inform the complainant of that decision and the reasons for it.
+
+
+
+
+
+
+
+
+
+(6) En cas de refus d’ouvrir une enquête ou de la poursuivre en vertu des paragraphes (4) ou (5), l’inspecteur général donne au plaignant un avis motivé.
+
+
+
+Avis au plaignant
+
+
+
+
+
+
+
+
+
+
+Notice of intention to investigate
+
+
+
+15.7 Before commencing an investigation of a complaint, the Inspector General shall inform the complainant and shall notify the Minister and the President of his or her intention to carry out the investigation and inform them of the subject-matter of the complaint.
+
+
+
+
+
+
+
+
+
+15.7 L’inspecteur général, avant de procéder à une enquête, informe le plaignant et il avise le ministre et le président de son intention d’enquêter et fait connaître à ces derniers l’objet de la plainte.
+
+
+
+Préavis d’enquête
+
+
+
+
+
+
+
+
+
+
+Investigations in private
+
+
+
+15.8 (1) Every investigation of a complaint under this Act by the Inspector General shall be conducted in private.
+
+
+
+
+
+
+
+
+
+15.8 (1) Les enquêtes menées par l’inspecteur général sous le régime de la présente loi sont secrètes.
+
+
+
+Secret des enquêtes
+
+
+
+
+
+
+
+
+
+
+Right to make representations
+
+
+
+(2) In the course of an investigation of a complaint by the Inspector General, the complainant and the President shall be given an opportunity to make representations to the Inspector General, to present evidence and to be heard personally, by counsel or by any other representative, but no one is entitled as of right to be present during, to have access to or to comment on representations made to the Inspector General by any other person.
+
+
+
+
+
+
+
+
+
+(2) Au cours d’une enquête de l’inspecteur général, le plaignant et le président doivent avoir la possibilité de présenter des observations et des éléments de preuve à l’inspecteur général ainsi que d’être entendus en personne ou par l’intermédiaire d’un avocat ou d’un représentant; toutefois, nul n’a le droit absolu d’être présent lorsqu’une autre personne présente des observations à l’inspecteur général, ni d’en recevoir communication ou de faire des commentaires à leur sujet.
+
+
+
+Droit de présenter des observations
+
+
+
+
+
+
+
+
+
+
+Powers of Inspector General
+
+
+
+15.9 The Inspector General has, in relation to the investigation of any complaint under this Act, power
+
+
+
+
+
+
+
+
+(a) to summon and enforce the appearance of persons before the Inspector General  and to compel them to give oral or written evidence on oath and to produce any documents or things that the Inspector General considers necessary for the full investigation and consideration of the complaint in the same manner and to the same extent as a superior court of record;
+
+
+
+
+
+
+
+
+(b) to administer oaths; and
+
+
+
+
+
+
+
+
+(c) to receive and accept any evidence and other information, on oath or by affidavit or otherwise, that the Inspector General sees fit, whether or not that evidence or information is or would be admissible in a court of law.
+
+
+
+
+
+
+
+
+
+15.9 L’inspecteur général a, dans les enquêtes qu’il mène sous le régime de la présente loi, le pouvoir :
+
+
+
+Pouvoirs de l’inspecteur général
+
+
+
+
+a) d’assigner et de contraindre des témoins à comparaître devant lui, à déposer verbalement ou par écrit sous serment et à produire les pièces qu’il juge indispensables pour instruire et examiner à fond les plaintes, de la même façon et dans la même mesure qu’une cour supérieure d’archives;
+
+
+
+
+
+
+
+
+b) de faire prêter serment;
+
+
+
+
+
+
+
+
+c) de recevoir des éléments de preuve ou des informations par déclaration verbale ou écrite sous serment ou par tout autre moyen qu’il estime indiqué, indépendamment de leur admissibilité devant les tribunaux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evidence in other proceedings
+
+
+
+15.10 Except in a prosecution of a person for an offence under section 131 of the Criminal Code (perjury) in respect of a statement made under this Act, evidence given by a person in proceedings under this Act and evidence of the existence of the proceedings are inadmissible against that person in a court or in any other proceedings.
+
+
+
+
+
+
+
+
+
+15.10 Sauf les cas où une personne est poursuivie pour une infraction visée à l’article 131 du Code criminel (parjure) se rapportant à une déclaration faite en vertu de la présente loi, les dépositions faites au cours de procédures prévues par la présente loi ou le fait de l’existence de ces procédures ne sont pas admissibles contre le déposant devant les tribunaux ni dans aucune procédure.
+
+
+
+Inadmissibilité de la preuve dans d’autres procédures
+
+
+
+
+
+
+
+
+
+
+Findings and recommendations of Inspector General
+
+
+
+15.11 (1) If, on investigating a complaint under this Act, the Inspector General finds that the complaint is well-founded, the Inspector General shall provide the Minister and the President with a report containing
+
+
+
+
+
+
+
+
+(a) the findings of the investigation and any recommendations that the Inspector General considers appropriate; and
+
+
+
+
+
+
+
+
+(b) where appropriate, a request that, within a specified time, notice be given to the Inspector General of any action taken or proposed to be taken to implement the recommendations contained in the report or reasons why no such action has been or is proposed to be taken.
+
+
+
+
+
+
+
+
+
+15.11 (1) Dans le cas où il conclut au bien-fondé d’une plainte, l’inspecteur général adresse au ministre et au président un rapport où :
+
+
+
+Conclusions et recommandations de l’inspecteur général
+
+
+
+
+a) il présente les conclusions de son enquête ainsi que les recommandations qu’il juge indiquées;
+
+
+
+
+
+
+
+
+b) il demande, s’il le juge à propos, au ministre et au président de lui donner avis, dans un délai déterminé, soit des mesures prises ou envisagées pour la mise en œuvre de ses recommandations, soit des motifs invoqués pour ne pas y donner suite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Report to complainant
+
+
+
+(2) The Inspector General shall, after investigating a complaint under this Act, report to the complainant the results of the investigation, but where a notice has been requested under paragraph (1)(b) no report shall be made under this subsection until the expiration of the time within which the notice is to be given to the Inspector General.
+
+
+
+
+
+
+
+
+
+(2) L’inspecteur général rend compte au plaignant des conclusions de son enquête; toutefois, dans les cas prévus à l’alinéa (1)b), l’inspecteur général ne peut faire son compte rendu qu’après l’expiration du délai imparti au ministre et au président.
+
+
+
+Compte rendu au plaignant
+
+
+
+
+
+
+
+
+
+
+Matter to be included in report to complainant
+
+
+
+(3) Where a notice has been requested under paragraph (1)(b) but no such notice is received by the Inspector General within the time specified for such notice or the action described in the notice is, in the opinion of the Inspector General, inadequate or inappropriate or will not be taken within a reasonable time, the Inspector General shall so advise the complainant in the report under subsection (2) and may include in the report any comments on the matter that he or she considers appropriate.
+
+
+
+
+
+
+
+
+
+(3) L’inspecteur général mentionne également dans son compte rendu au plaignant, s’il y a lieu, le fait que, dans les cas prévus à l’alinéa (1)b), il n’a pas reçu d’avis dans le délai imparti ou que les mesures indiquées dans l’avis sont, selon lui, insuffisantes, inadaptées ou non susceptibles d’être prises en temps utile. Il peut en outre y inclure tous les commentaires qu’il estime indiqués. 
+
+
+
+Éléments à inclure dans le compte rendu
+
+
+
+
+
+
+
+
+
+
+Reports to Parliament
+
+
+
+
+
+
+
+
+
+Rapports au Parlement
+
+
+
+
+
+
+
+
+
+
+
+
+Inspector General’s report
+
+
+
+15.12 (1) Within three months after the end of each fiscal year, the Inspector General shall submit to the Minister a report on the Inspector General’s activities for that fiscal year.
+
+
+
+
+
+
+
+
+
+15.12 (1) Dans les trois mois suivant la fin de chaque exercice, l’inspecteur général présente au ministre un rapport sur ses activités pendant l'exercice.
+
+
+
+Rapport de l’inspecteur général
+
+
+
+
+
+
+
+
+
+
+Special report
+
+
+
+(2) The Inspector General may, at any time, submit to the Minister a special report referring to and commenting on any matter within the scope of the powers, duties and functions of the Inspector General where, in his or her opinion, the matter is of such urgency or importance that a report on it should not be deferred until the next annual report.
+
+
+
+
+
+
+
+
+
+(2) L’inspecteur général peut à tout moment présenter au ministre, un rapport spécial sur toute question relevant de ses attributions et dont l’urgence ou l’importance sont telles, selon lui, qu’il serait contre-indiqué d’en différer le compte rendu jusqu’au rapport annuel suivant.
+
+
+
+Rapport spécial
+
+
+
+
+
+
+
+
+
+
+Submission and tabling of report
+
+
+
+(3) The Minister shall cause a copy of a report received under subsection (1) or (2) to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the Minister receives the report.
+
+
+
+
+
+
+
+
+
+(3) Le ministre fait déposer une copie du rapport visé aux paragraphes (1) ou (2) devant chacune des chambres du Parlement dans les quinze premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt du rapport
+
+
+
+
+
+
+
+
+
+
+General Provisions
+
+
+
+
+
+
+
+
+
+Dispositions générales
+
+
+
+
+
+
+
+
+
+
+
+
+Access to information
+
+
+
+15.13 Despite any other Act of Parliament, the Inspector General is entitled to have access to any information under the control of the Agency that relates to the performance of the powers, duties and functions of the Inspector General and to receive from the Agency any information, reports and explanations that the Inspector General considers necessary for the performance of those duties and functions.
+
+
+
+
+
+
+
+
+
+15.13 Par dérogation à toute autre loi fédérale, l’inspecteur général est autorisé à avoir accès aux informations qui se rattachent à l’exercice de ses attributions et qui relèvent de l’Agence et à recevoir de l’Agence les informations, rapports et explications dont il juge avoir besoin dans cet exercice.
+
+
+
+Accès à l’information
+
+
+
+
+
+
+
+
+
+
+Security requirements
+
+
+
+15.14 The Inspector General and every person acting on behalf or under the direction of the Inspector General who receives or obtains information under this Act shall, with respect to access to and the use of that information, satisfy any security requirements applicable to, and take any oath of secrecy required to be taken by, persons who normally have access to and use of that information.
+
+
+
+
+
+
+
+
+
+15.14 L’inspecteur général et les personnes agissant en son nom ou sous son autorité qui reçoivent ou recueillent des renseignements dans le cadre de la présente loi sont tenus, quant à l’accès à ces renseignements et à leur utilisation, de satisfaire aux normes en matière de sécurité applicables aux personnes qui y ont normalement accès et de prêter les serments exigés de celle-ci.
+
+
+
+Normes de sécurité
+
+
+
+
+
+
+
+
+
+
+Confidentiality
+
+
+
+15.15 Unless the disclosure is required by law or permitted by this Act, the Inspector General and every person acting on behalf or under the direction of the Inspector General shall not disclose any information that comes to their knowledge in the performance of their powers, duties and functions under this Act.
+
+
+
+
+
+
+
+
+
+15.15 Sauf si la communication est faite en exécution d’une obligation légale ou est autorisée par la présente loi, l’inspecteur général et les personnes agissant en son nom ou sous son autorité sont tenus au secret en ce qui concerne les renseignements dont ils prennent connaissance dans l’exercice des attributions que leur confère la présente loi.
+
+
+
+Secret
+
+
+
+
+
+
+
+
+
+
+Disclosure not waiver
+
+
+
+15.16 The disclosure of information to the Inspector General under this Act does not, by itself, constitute a waiver of any privilege that may exist with respect to the information.
+
+
+
+
+
+
+
+
+
+15.16 La communication d’un renseignement à l’inspecteur général sous le régime de la présente loi ne constitue pas en soi une renonciation à la protection dont peut faire l’objet le renseignement.
+
+
+
+Absence de renonciation
+
+
+
+
+
+
+
+
+
+
+Protection of confidential information
+
+
+
+15.17 (1) The Inspector General shall consult with the Minister in order to ensure compliance with section 15.14 in preparing any report made under this Act.
+
+
+
+
+
+
+
+
+
+15.17 (1) L’inspecteur général consulte le ministre en vue de l’observation de l’article 15.14 lorsqu’il établit un rapport en vertu de la présente loi.
+
+
+
+Protection des rensignements confidentiels
+
+
+
+
+
+
+
+
+
+
+Information not to be disclosed
+
+
+
+(2) Subject to subsections (3) and (4), the Inspector General and any person acting on behalf or under the direction of the Inspector General shall not disclose any information that the Agency or the Government of Canada or any portion of the public sector is taking measures to protect, including, but not limited to, information that
+
+
+
+
+
+
+
+
+(a) is a confidence of the Queen’s Privy Council for Canada in respect of which subsection 39(1) of the Canada Evidence Act applies;
+
+
+
+
+
+
+
+
+(b) is subject to solicitor-client privilege;
+
+
+
+
+
+
+
+
+(c) is special operational information within the meaning of subsection 8(1) of the Security of Information Act;
+
+
+
+
+
+
+
+
+(d) is subject to any restriction on disclosure created by or under any other Act of Parliament;
+
+
+
+
+
+
+
+
+(e) could reasonably be expected to cause injury to international relations, national defence or national security, or to the detection, prevention or suppression of criminal, subversive or hostile activities;
+
+
+
+
+
+
+
+
+(f) could reasonably be expected to cause injury to the privacy interests of an individual; or
+
+
+
+
+
+
+
+
+(g) could reasonably be expected to cause injury to commercial interests.
+
+
+
+
+
+
+
+
+
+(2) Sour réserve des paragraphes (3) et (4), l’inspecteur général et les personnes agissant en son nom ou sous son autorité ne peuvent communiquer des renseignements à l’égard desquels l’Agence, le gouvernement fédéral ou un élément du secteur public prend des mesures de protection, notamment :
+
+
+
+Communication interdite
+
+
+
+
+a) des renseignements confidentiels du Conseil privé de la Reine pour le Canada visés par le paragraphe 39(1) de la Loi sur la preuve au Canada;
+
+
+
+
+
+
+
+
+b) des renseignements protégés par le secret professionnel liant l’avocat à son client;
+
+
+
+
+
+
+
+
+c) des renseignements opérationnels spéciaux au sens du paragraphe 8(1) de la Loi sur la protection de l’information;
+
+
+
+
+
+
+
+
+d) des renseignements qui font l’objet de restriction de communication prévue sous le régime d’une autre loi fédérale;
+
+
+
+
+
+
+
+
+e) des renseignements dont la communication risquerait vraisemblablement de porter atteinte aux relations internationales ou à la défense ou à la sécurité nationales ou à la détection, la prévention ou la répression d’activités criminelles, subversives ou hostiles;
+
+
+
+
+
+
+
+
+f) des renseignements dont la communication risquerait vraisemblablement de porter atteinte au droit à la vie privée d’une personne;
+
+
+
+
+
+
+
+
+g) des renseignements dont la communication risquerait vraisemblablement de porter atteinte à des intérêts commerciaux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception – previously disclosed information or consent
+
+
+
+(3) The Inspector General may disclose any information referred to in subsection (2) if it has already been disclosed following a request under the Access to Information Act or with the consent of the relevant individual or an authorized person in the organization that has a primary interest in the information.
+
+
+
+
+
+
+
+
+
+(3) L’Inspecteur général peut communiquer des renseignements de la nature de ceux qui sont visés au paragraphe (2) si ces renseignements ont déjà été communiqués sur demande présentée en vertu de la Loi sur l’accès à l’information, si la personne concernée par les renseignements y consent ou si une personne de l’organisation concernée au premier chef par les renseignements qui est autorisée à donner un tel consentement y consent.
+
+
+
+Exception – renseignement déjà communiqué ou consentement
+
+
+
+
+
+
+
+
+
+
+Exception — disclosure necessary
+
+
+
+(4) The Inspector General may disclose any information referred to in subsection (2) if, in his or her opinion,
+
+
+
+
+
+
+
+
+(a) the disclosure is necessary to carry out the powers, duties and functions of the Inspector General, to establish the grounds for any finding or recommendation in a report under section 15.11 or to make a report under section 15.12; and
+
+
+
+
+
+
+
+
+(b)  the public interest in making the disclosure clearly outweighs the potential harm from the disclosure.
+
+
+
+
+
+
+
+
+
+(4) L’inspecteur général peut communiquer des renseignements de la nature de ceux qui sont visés au paragraphe (2) lorsqu’il est d’avis :
+
+
+
+Exception 
+
+
+
+
+a) d’une part,  qu’il est nécessaire de communiquer ces renseignements afin qu’il puisse exercer ses attributions, motiver les conclusions ou recommandations d’un rapport établi en vertu de l’article 15.11 ou établir un rapport en vertu de l’article 15.12;
+
+
+
+
+
+
+
+
+b)  d’autre part,  que l’intérêt du public à la communication justifie clairement le préjudice pouvant résulter de celle-ci.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance and consultation
+
+
+
+(5) Before disclosing any information as permitted by subsection (4), the Inspector General shall
+
+
+
+
+
+
+
+
+(a) comply with subsection 38.02(1.1) of the Canada Evidence Act; and
+
+
+
+
+
+
+
+
+(b) except for information that only affects the privacy interests of an individual, consult with the organization that has a primary interest in the information.
+
+
+
+
+
+
+
+
+
+(5) Avant de communiquer les renseignements en vertu du paragraphe (4), l’inspecteur général :
+
+
+
+Conformité et consultation
+
+
+
+
+a) se conforme au paragraphe 38.02(1.1) de la Loi sur la preuve au Canada;
+
+
+
+
+
+
+
+
+b) consulte l’organisation concernée au premier chef par ces renseignements, à moins que ceux-ci concernent exclusivement la vie privée d’une personne.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No summons
+
+
+
+15.18 In respect of any matter coming to the knowledge of the Inspector General or any person acting on behalf or under the direction of the Inspector General as a result of performing any powers, duties or functions conferred on them under this Act, neither the Inspector General nor that person is a competent or compellable witness in any proceedings other than
+
+
+
+
+
+
+
+
+(a) proceedings commenced under section 15.22; or
+
+
+
+
+
+
+
+
+(b) a prosecution for an offence under this Act or an offence under section 131 of the Criminal Code (perjury) in respect of a statement made under this Act.
+
+
+
+
+
+
+
+
+
+15.18 En ce qui concerne les questions venues à leur connaissance dans l’exercice des attributions qui leur sont conférées en vertu de la présente loi, l’inspecteur général et les personnes qui agissent en son nom ou sous son autorité n’ont qualité pour témoigner ou ne peuvent y être contraints que dans les procédures suivantes :
+
+
+
+Non-assignation
+
+
+
+
+a) les procédures intentées en vertu de l’article 15.22;
+
+
+
+
+
+
+
+
+b) les procédures intentées pour infraction à la présente loi ou pour une infraction à l’article 131 du Code criminel (parjure) se rapportant à une déclaration faite en vertu de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Protection of  Inspector General
+
+
+
+15.19 No criminal or civil proceedings lie against the Inspector General, or against any person acting on behalf or under the direction of the Inspector General, for anything done — or omitted to be done — or reported or said in good faith in the course of the actual or purported exercise or performance of any power, duty or function of the Inspector General.
+
+
+
+
+
+
+
+
+
+15.19 L’inspecteur général et les personnes qui agissent en son nom ou sous son autorité bénéficient de l’immunité en matière civile ou pénale pour les actes accomplis ou omis, les rapports ou comptes rendus établis et les paroles prononcées de bonne foi dans l’exercice effectif ou censé tel des attributions de l’inspecteur général.
+
+
+
+Immunité de l’inspecteur général
+
+
+
+
+
+
+
+
+
+
+Offences
+
+
+
+
+
+
+
+
+
+Infractions
+
+
+
+
+
+
+
+
+
+
+
+
+Obstruction
+
+
+
+15.20 (1) No person shall obstruct the Inspector General or any person acting on behalf or under the direction of the Inspector General in the performance of the Inspector General’s powers, duties and functions.
+
+
+
+
+
+
+
+
+
+15.20 (1) Il est interdit d’entraver l’action de l’inspecteur général ou des personnes agissant en son nom ou sous son autorité dans l’exercice des attributions de l’inspecteur général.
+
+
+
+Entrave
+
+
+
+
+
+
+
+
+
+
+Offence and punishment
+
+
+
+(2) Every person who contravenes subsection (1) is guilty of an offence and liable on summary conviction to a fine not exceeding $1,000.
+
+
+
+
+
+
+
+
+
+(2) Quiconque contrevient au paragraphe (1) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 $.
+
+
+
+Infraction et peine
+
+
+
+
+
+
+
+
+
+
+Court Remedy
+
+
+
+
+
+
+
+
+
+Recours judiciaire
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “Court”
+
+
+
+15.21 In sections 15.22 to 15.26, “Court” means the Federal Court.
+
+
+
+
+
+
+
+
+
+15.21 Dans les articles 15.22 à 15.26, « tribunal » s'entend de la Cour fédérale.
+
+
+
+Définition de « tribunal »
+
+
+
+
+
+
+
+
+
+
+Application for remedy
+
+
+
+15.22 (1) Any person who has made a complaint to the Inspector General under section 15.6 may apply to the Court for a remedy.
+
+
+
+
+
+
+
+
+
+15.22 (1) Quiconque a saisi l’inspecteur général d’une plainte au titre de l’article 15.6 peut former un recours devant le tribunal.
+
+
+
+Recours
+
+
+
+
+
+
+
+
+
+
+Limitation period
+
+
+
+(2) An application may be made under subsection (1) within 60 days after
+
+
+
+
+
+
+
+
+(a) the results of an investigation of the complaint by the Inspector General are reported to the complainant under subsection 15.11(2); or
+
+
+
+
+
+
+
+
+(b) the complainant is informed of the Inspector General’s decision to refuse or cease to investigate the complaint under subsection 15.6(6).
+
+
+
+
+
+
+
+
+
+(2) Le recours est formé dans les soixante jours qui suivent la communication au plaignant, selon le cas :
+
+
+
+Délai
+
+
+
+
+a) des conclusions de l’enquête en vertu du paragraphe 15.11(2);
+
+
+
+
+
+
+
+
+b) de l’avis de refus d’ouverture ou de poursuite d’une enquête donné au titre du paragraphe 15.6(6).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Extension of time
+
+
+
+(3) The Court may extend the time for making an application under subsection (1), either before or after the end of the 60 day period.
+
+
+
+
+
+
+
+
+
+(3) Le tribunal peut prolonger le délai pour former un recours en vertu du paragraphe (1), avant ou après l’expiration du délai de soixante jours.
+
+
+
+Prolongation du délai
+
+
+
+
+
+
+
+
+
+
+Application six months after complaint
+
+
+
+(4) Where a complaint is made to the Inspector General under this Act but the complainant is not informed of the results of the investigation of the complaint under subsection 15.11(2) or of a decision referred to in subsection 15.6(6) within six months after the complaint is made, the complainant may make an application under subsection (1) at any time after the end of that six month period.
+
+
+
+
+
+
+
+
+
+(4) Si, dans les six mois suivant le dépôt d’une plainte, il n’est pas avisé des conclusions de l’enquête en vertu du paragraphe 15.11(2) ou du refus visé au paragraphe 15.6(6), le plaignant peut former le recours à l’expiration de ces six mois.
+
+
+
+Autre délai
+
+
+
+
+
+
+
+
+
+
+Order of Court
+
+
+
+(5) Where, in proceedings under subsection (1), the Court concludes that the Agency has failed to comply with this Act, the Court may grant any remedy that it considers appropriate and just in the circumstances.
+
+
+
+
+
+
+
+
+
+(5) Le tribunal peut, s’il estime que l’Agence ne s’est pas conformée à la présente loi, accorder la réparation qu’il estime convenable et juste eu égard aux circonstances.
+
+
+
+Ordonnance
+
+
+
+
+
+
+
+
+
+
+Other rights of action
+
+
+
+(6) Nothing in this section abrogates or derogates from any right of action a person might have other than the right of action set out in this section.
+
+
+
+
+
+
+
+
+
+(6) Le présent article ne porte atteinte à aucun autre droit d’action.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Inspector General may apply or appear
+
+
+
+15.23 (1) The Inspector General may
+
+
+
+
+
+
+
+
+(a) within the time limits prescribed by subsection 15.22(2), apply to the Court for a remedy under this Act in relation to a complaint investigated by the Inspector General if the Inspector General has the consent of the complainant;
+
+
+
+
+
+
+
+
+(b) appear before the Court on behalf of any person who has applied under section 15.22 for a remedy under this Act; or
+
+
+
+
+
+
+
+
+(c) with leave of the Court, appear as a party to any proceedings commenced under section 15.22.
+
+
+
+
+
+
+
+
+
+15.23 (1) L’inspecteur général peut, selon le cas :
+
+
+
+Exercice de recours par l’inspecteur général
+
+
+
+
+a) exercer lui-même le recours, dans le délai prévu au paragraphe 15.22(2), si le plaignant y consent;
+
+
+
+
+
+
+
+
+b) comparaître devant le tribunal pour le compte de l’auteur d’un recours;
+
+
+
+
+
+
+
+
+c) comparaître, avec l’autorisation du tribunal, comme partie à une instance engagée au titre de l’article 15.22.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complainant may appear as party
+
+
+
+(2) Where the Inspector General makes an application under paragraph (1)(a), the complainant may appear as a party to any proceedings resulting from the application.
+
+
+
+
+
+
+
+
+
+(2) Dans le cas prévu à l’alinéa (1)a), le plaignant peut comparaître comme partie à l’instance.
+
+
+
+Comparution de l’auteur du recours
+
+
+
+
+
+
+
+
+
+
+Capacity to intervene
+
+
+
+(3) Nothing in this section abrogates or derogates from the capacity of the Inspector General to seek leave to intervene in any adjudicative proceedings relating to the Agency's activities or mandate.
+
+
+
+
+
+
+
+
+
+(3) Le présent article n’a pas pour effet de porter atteinte au pouvoir de l’inspecteur général de demander l’autorisation d’intervenir dans toute instance judiciaire relative aux activités ou au mandat de l’Agence.
+
+
+
+Pouvoir d’intervenir
+
+
+
+
+
+
+
+
+
+
+Evidence relating to similar complaint
+
+
+
+15.24 In proceedings under this Act relating to a complaint against the Agency, the Court may admit as evidence information relating to any similar complaint under this Act.
+
+
+
+
+
+
+
+
+
+15.24 Sont recevables en preuve dans les recours les renseignements portant sur des plaintes de même nature concernant l’Agence.
+
+
+
+Preuve — plainte de même nature
+
+
+
+
+
+
+
+
+
+
+Hearing in summary manner
+
+
+
+15.25 An application made under section 15.22 shall be heard and determined in a summary manner in accordance with any special rules made in respect of such applications pursuant to section 46 of the Federal Courts Act.
+
+
+
+
+
+
+
+
+
+15.25 Le recours est entendu et jugé en procédure sommaire, conformément aux règles de pratique spéciales adoptées à cet égard en vertu de l’article 46 de la Loi sur les Cours fédérales.
+
+
+
+Procédure sommaire
+
+
+
+
+
+
+
+
+
+
+Costs
+
+
+
+15.26 (1) Subject to subsection (2), the costs of and incidental to all proceedings in the Court under this Act shall be in the discretion of the Court and shall follow the event unless the Court orders otherwise.
+
+
+
+
+
+
+
+
+
+15.26 (1) Les frais et dépens sont laissés à l’appréciation du tribunal et suivent, sauf ordonnance contraire de celui-ci, le sort du principal.
+
+
+
+Frais et dépens
+
+
+
+
+
+
+
+
+
+
+New principle
+
+
+
+(2) Where the Court is of the opinion that an application under section 15.22 has raised an important new principle in relation to the mandate of the Agency, the Court shall order that costs be awarded to the applicant even if the applicant has not been successful in the result.
+
+
+
+
+
+
+
+
+
+(2) Cependant, dans les cas où il estime que l’objet du recours a soulevé un principe important et nouveau quant au mandat de l’Agence, le tribunal accorde les frais et dépens à l’auteur du recours, même s’il est débouté.
+
+
+
+Nouveau principe
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+R.S., c. A-1
+
+
+
+Access to Information Act
+
+
+
+
+
+
+
+
+
+Loi sur l’accès à l’information
+
+
+
+L.R., ch. A-1
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsection 16.1(1) of the Access to Information Act is amended by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 16.1(1) de la Loi sur l’accès à l’information est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) the Inspector General of the Canada Border Services Agency;
+
+
+
+
+
+
+
+
+
+b.1) l’inspecteur général de l’Agence des services frontaliers du Canada;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Schedule I to the Act is amended by adding the following in alphabetical order under the heading “OTHER GOVERNMENT INSTITUTIONS”:
+
+
+
+
+
+
+
+
+
+4. L’annexe I de la même loi est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre «  AUTRES INSTITUTIONS FÉDÉRALES », de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-5
+
+
+
+Canada Evidence Act
+
+
+
+
+
+
+
+
+
+Loi sur la preuve au Canada
+
+
+
+L.R., ch. C-5
+
+
+
+
+
+
+
+
+
+
+
+
+5. The schedule to the Canada Evidence Act is amended by adding the following after item 22 under the heading “DESIGNATED ENTITIES”:
+
+
+
+
+
+
+
+
+
+5. L’annexe de la Loi sur la preuve au Canada est modifiée par adjonction, après l’article 22, sous l’intertitre « ENTITÉS DÉSIGNÉES », de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23. The Inspector General of the Canada Border Services Agency, for the purposes of the Canada Border Services Agency Act.
+
+
+
+
+
+
+
+
+
+23. L’inspecteur général de l’Agence des services frontaliers du Canada, pour l’application de la Loi sur l’Agence des services frontaliers du Canada.
+
+
+
+
+
+
+
+
+
+
+R.S., c. F-11
+
+
+
+Financial Administration Act
+
+
+
+
+
+
+
+
+
+Loi sur la gestion des finances publiques
+
+
+
+L.R., ch. F-11
+
+
+
+
+
+
+
+
+
+
+
+
+6. Schedule I.1 to the Financial Administration Act is amended by adding, in alphabetical order in column I, a reference to
+
+
+
+
+
+
+
+
+
+6. L’annexe I.1 de la Loi sur la gestion des finances publiques est modifiée par adjonction, dans la colonne I, selon l’ordre alphabétique, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+and a corresponding reference in column II to the “Minister of Public Safety and Emergency Preparedness”.
+
+
+
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+ainsi que de la mention « Le ministre de la Sécurité publique et de la Protection civile » dans la colonne II, en regard de ce secteur.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Schedule IV to the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+7. L’annexe IV de la même loi est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+
+
+
+
+R.S., c. P-21
+
+
+
+Privacy Act
+
+
+
+
+
+
+
+
+
+Loi sur la protection des renseignements personnels
+
+
+
+L.R., ch. P-21
+
+
+
+
+
+
+
+
+
+
+
+
+8. The schedule to the Privacy Act is amended by adding the following in alphabetical order under the heading “OTHER GOVERNMENT INSTITUTIONS”:
+
+
+
+
+
+
+
+
+
+8. L’annexe de la Loi sur la protection des renseignements personnels est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « AUTRES INSTITUTIONS FÉDÉRALES », de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+
+
+
+
+R.S., c. 31 (4th Supp.)
+
+
+
+Official Languages Act
+
+
+
+
+
+
+
+
+
+Loi sur les langues officielles
+
+
+
+L.R., ch. 31 (4e suppl.)
+
+
+
+
+
+
+
+
+
+
+
+
+9. Subsection 24(3) of the Official Languages Act is amended by striking out “and” at the end of paragraph (e), by adding “and” at the end of paragraph (f) and by adding the following after paragraph (f):
+
+
+
+
+
+
+
+
+
+9. Le paragraphe 24(3) de la Loi sur les langues officielles est modifié par adjonction, après l’alinéa f), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(g) the Office of the Inspector General of the Canada Border Services Agency.
+
+
+
+
+
+
+
+
+
+g) le bureau de l’inspecteur général de l’Agence des services frontaliers du Canada.
+
+
+
+
+
+
+
+
+
+
+1991, c. 30
+
+
+
+Public Sector Compensation Act
+
+
+
+
+
+
+
+
+
+Loi sur la rémunération du secteur public
+
+
+
+1991, ch. 30
+
+
+
+
+
+
+
+
+
+
+
+
+10. Schedule I to the Public Sector Compensation Act is amended by adding the following in alphabetical order under the heading “OTHER PORTIONS OF THE PUBLIC SERVICE”:
+
+
+
+
+
+
+
+
+
+10. L’annexe I de la Loi sur la rémunération du secteur public est modifiée par adjonction, selon l’ordre alphabétique, sous l’intertitre « ADMINISTRATIONS FÉDÉRALES », de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+
+
+
+
+2005, c. 46
+
+
+
+Public Servants Disclosure Protection Act
+
+
+
+
+
+
+
+
+
+Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles
+
+
+
+2005, ch. 46
+
+
+
+
+
+
+
+
+
+
+
+
+11. Schedule 2 to the Public Servants Disclosure Protection Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+11. L’annexe 2 de la Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles est modifiée par adjonction, selon l’ordre alphabétique, de ce qui suit :  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+
+
+
+Bureau de l’inspecteur général de l’Agence des services frontaliers du Canada
+
+
+
+
+
+
+Office of the Inspector General of the Canada Border Services Agency
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+12. (1) Subject to subsection (2), this Act comes into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+12. (1) Sous réserve du paragraphe (2), la présente loi entre en vigueur à la date fixée par décret.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+
+
+
+Royal recommendation
+
+
+
+(2) No order may be made under subsection (1) unless the appropriation of moneys for the purposes of this Act has been recommended by the Governor General and such moneys have been appropriated by Parliament.
+
+
+
+
+
+
+
+
+
+(2) Le décret visé au paragraphe (1) ne peut être pris que si le gouverneur général a recommandé l’affectation de crédits pour l’application de la présente loi et que le Parlement a affecté ces crédits.
+
+
+
+Recommandation royale
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Canada Border Services Agency Act
+Clause 1: New.
+
+
+
+Loi sur l’Agence des services frontaliers du Canada
+Article 1 : Nouveau.
+
+
+
+
+Clause 2: New.
+
+
+
+Article 2 : Nouveau.
+
+
+
+
+Access to Information Act
+Clause 3: New.
+
+
+
+Loi sur l’accès à l’information
+Article 3 : Nouveau.
+
+
+
+
+Clause 4: New.
+
+
+
+Article 4 : Nouveau.
+
+
+
+
+Canada Evidence Act
+Clause 5: New.
+
+
+
+Loi sur la preuve au Canada
+Article 5 : Nouveau.
+
+
+
+
+Financial Administration Act
+Clause 6: New.
+
+
+
+Loi sur la gestion des finances publiques
+Article 6 : Nouveau.
+
+
+
+
+Clause 7: New.
+
+
+
+Article 7 : Nouveau.
+
+
+
+
+Privacy Act
+Clause 8: New.
+
+
+
+Loi sur la protection des renseignements personnels
+Article 8 : Nouveau.
+
+
+
+
+Official Languages Act
+Clause 9: Relevant portion of subsection 24(3):
+(3) Without restricting the generality of subsection (2), the duty set out in that subsection applies in respect of
+. . . 
+(e) the Office of the Privacy Commissioner; and
+(f) the Office of the Commissioner of Lobbying.
+
+
+
+Loi sur les langues officielles
+Article 9 : Texte du passage visé du paragraphe 24(3) :
+(3) Cette obligation vise notamment :
+[. . .] 
+e) le commissariat à la protection de la vie privée;
+f) le Commissariat au lobbying.
+
+
+
+
+Public Sector Compensation Act
+Clause 10: New.
+
+
+
+Loi sur la rémunération du secteur public
+Article 10 : Nouveau.
+
+
+
+
+Public Servants Disclosure Protection Act
+Clause 11: New.
+
+
+
+Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles
+Article 11 :  Nouveau.
+
+
+
+

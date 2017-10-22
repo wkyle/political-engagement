@@ -1,0 +1,3081 @@
+
+
+
+
+
+C-498
+
+
+
+
+
+C-498
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+
+
+
+
+
+Troisième session, quarantième législature,
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-498
+
+
+
+
+
+PROJET DE LOI C-498
+
+
+
+
+
+
+An Act prohibiting the commission, abetting or exploitation of torture by Canadian officials and ensuring freedom from torture for all Canadians at home and abroad and making consequential amendments to other Acts
+
+
+
+
+
+Loi visant à interdire la pratique, la promotion et l'usage de la torture par des fonctionnaires canadiens et à garantir aux Canadiens le droit de ne pas être soumis à la torture dans leur pays et à l'étranger, et modifiant d'autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, March 15, 2010
+
+première lecture le 15 mars 2010
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Marston
+
+403032
+
+
+
+M. Marston
+
+
+
+
+
+SUMMARY
+This enactment strengthens Canada's protection against torture by making it a criminal offence to use information known to be derived from torture; prohibiting Canadian officials from handing over prisoners to be tortured at home or abroad; creating a government watch list of countries known to engage in torture and providing for those countries to be treated accordingly in matters relating to information-sharing and deportation and extradition from Canada; placing a duty on officials to report knowledge of torture to the proper authorities; and establishing diplomatic protocols for the immediate repatriation of any Canadian citizen at risk of torture abroad, without undermining our ability to investigate and prosecute those citizens in Canada.
+
+
+
+SOMMAIRE
+Le texte vise à renforcer, au Canada, les mesures de protection contre la torture. Il érige en infraction criminelle le fait d’utiliser des renseignements que l’on sait avoir été obtenus sous la torture. Il interdit aux fonctionnaires canadiens de livrer des prisonniers en sachant qu’ils seront torturés dans leur pays ou à l’étranger. Il dresse une liste officielle de surveillance des pays dont on sait qu'ils pratiquent la torture et leur assure un traitement en conséquence en matière d’échange de renseignements ainsi que d’expulsion et d’extradition du Canada. Il oblige les fonctionnaires à signaler aux autorités compétentes les cas de torture dont ils ont connaissance et il établit des protocoles diplomatiques visant le rapatriement immédiat de tout citoyen canadien susceptible d’être soumis à la torture à l’étranger, sans toutefois miner la capacité du Canada de mener une enquête et d’intenter une poursuite à l’égard de ce citoyen au pays.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+3e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-498
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-498
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act prohibiting the commission, abetting or exploitation of torture by Canadian officials and ensuring freedom from torture for all Canadians at home and abroad and making consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+Loi visant à interdire la pratique, la promotion et l'usage de la torture par des fonctionnaires canadiens et à garantir aux Canadiens le droit de ne pas être soumis à la torture dans leur pays et à l'étranger, et modifiant d'autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Prevention of Torture Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la prévention de la torture.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+PURPOSE
+
+
+
+
+
+
+
+
+
+OBJET
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+2. (1) The purpose of this Act is
+
+
+
+
+
+
+
+
+(a) to ensure that Canada meets or exceeds the standards set out in the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment and the International Covenant on Civil and Political Rights;
+
+
+
+
+
+
+
+
+(b) to ensure that the Government of Canada and its agents conduct their affairs in a manner that consistently serves to keep both Canadians and foreign nationals free from torture in any matter in respect of which Canada has jurisdiction or influence; and
+
+
+
+
+
+
+
+
+(c) to clarify and strengthen Canada’s position with respect to the infliction of torture.
+
+
+
+
+
+
+
+
+
+2. (1) La présente loi a pour objet :
+
+
+
+Objet
+
+
+
+
+a) d’assurer le respect — ou le dépassement — par le Canada des normes établies dans la Convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants et dans le Pacte international relatif aux droits civils et politiques;
+
+
+
+
+
+
+
+
+b) de faire en sorte que le gouvernement du Canada et ses mandataires exercent leurs activités d’une façon qui a pour effet durable de soustraire les Canadiens et les ressortissants étrangers à la torture quant à toute question relevant de la compétence du Canada ou sur laquelle le Canada peut exercer une influence;
+
+
+
+
+
+
+
+
+c) de préciser et de renforcer la position du Canada à l’égard de la torture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Principles
+
+
+
+(2) This Act shall be carried out in accord- ance with and in recognition of the following principles:
+
+
+
+
+
+
+
+
+(a) the infliction of torture by the Government of Canada and its agents is prohibited;
+
+
+
+
+
+
+
+
+(b) the encouragement of or complicity in torture by the Government of Canada and its agents is prohibited;
+
+
+
+
+
+
+
+
+(c) the use by Canadian officials of information acquired through torture is prohibited;
+
+
+
+
+
+
+
+
+(d) the Government of Canada and its agents shall protect Canadian citizens from torture abroad; and
+
+
+
+
+
+
+
+
+(e) the Government of Canada and its agents shall undertake timely and effective investigations to ensure compliance with this Act.
+
+
+
+
+
+
+
+
+
+(2) L’application de la présente loi doit se faire dans le respect et la reconnaissance des principes suivants :
+
+
+
+Principes
+
+
+
+
+a) le gouvernement du Canada et ses mandataires ne peuvent recourir à la torture;
+
+
+
+
+
+
+
+
+b) le gouvernement du Canada et ses mandataires ne peuvent promouvoir la torture ni en être complices;
+
+
+
+
+
+
+
+
+c) les fonctionnaires canadiens ne peuvent utiliser les renseignements acquis par la torture;
+
+
+
+
+
+
+
+
+d) le gouvernement du Canada et ses mandataires doivent protéger les citoyens canadiens contre la torture à l’étranger;
+
+
+
+
+
+
+
+
+e) le gouvernement du Canada et ses mandataires doivent mener des enquêtes opportunes et efficaces pour assurer le respect de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+3. The following definitions apply in this Act.
+
+
+
+
+“Department”« ministère »
+
+
+
+“Department” means the Department of Foreign Affairs and International Trade.
+
+
+
+
+“governmental department”« ministère fédéral »
+
+
+
+“governmental department” means an investigative agency or a department of the federal government.
+
+
+
+
+“investigative agency”« organisme d’enquête »
+
+
+
+“investigative agency” means the Royal Canadian Mounted Police, the Canadian Security Intelligence Service, the Communications Security Establishment and any other governmental department, other than the Department of Foreign Affairs and International Trade, which is involved in the collection of information that may be relevant under this Act.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Foreign Affairs.
+
+
+
+
+“official”« fonctionnaire »
+
+
+
+“official” means
+
+
+
+
+
+
+
+
+(a) a peace officer;
+
+
+
+
+
+
+
+
+(b) a public officer;
+
+
+
+
+
+
+
+
+(c) a member of the Canadian Forces;
+
+
+
+
+
+
+
+
+(d) any employee or agent of, or contractor providing services for
+
+
+
+
+
+
+
+
+(i) Parliament,
+
+
+
+
+
+
+
+
+(ii) the Governor in Council,
+
+
+
+
+
+
+
+
+(iii) the Government of Canada, or
+
+
+
+
+
+
+
+
+(iv) a Canadian consulate or embassy; or
+
+
+
+
+
+
+
+
+(e) any agent corporation as defined in section 83 of the Financial Administration Act, or any person outside Canada who may exercise powers that would, in Canada, be exercised by a person referred to in paragraphs (a) to (d).
+
+
+
+
+“sensitive information”« renseignements sensibles »
+
+
+
+“sensitive information” means information relating to
+
+
+
+
+
+
+
+
+(a) national defence;
+
+
+
+
+
+
+
+
+(b) national security; or
+
+
+
+
+
+
+
+
+(c) national or international law enforcement.
+
+
+
+
+“torture”« torture »
+
+
+
+“torture” means any act or omission by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person
+
+
+
+
+
+
+
+
+(a) for a purpose including
+
+
+
+
+
+
+
+
+(i) obtaining from the person or from a third person information or a statement,
+
+
+
+
+
+
+
+
+(ii) punishing the person for an act that the person or a third person has committed or is suspected of having committed, and
+
+
+
+
+
+
+
+
+(iii) intimidating or coercing the person or a third person, or
+
+
+
+
+
+
+
+
+(b) for any reason based on discrimination of any kind,
+
+
+
+
+
+
+
+
+but does not include any act or omission by which pain or suffering arises only from, is inherent in or is incidental to lawful imprisonment in humane and reasonable conditions.
+
+
+
+
+
+
+
+
+
+3. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« fonctionnaire » L’une des personnes suivantes :
+
+
+
+« fonctionnaire »“official”
+
+
+
+
+a) un agent de la paix;
+
+
+
+
+
+
+
+
+b) un fonctionnaire public;
+
+
+
+
+
+
+
+
+c) un membre des Forces canadiennes;
+
+
+
+
+
+
+
+
+d) un employé ou un mandataire de l’une des personnes ou entités ci-après, ou tout entrepreneur qui fournit des services pour le compte de celle-ci :
+
+
+
+
+
+
+
+
+(i) le Parlement,
+
+
+
+
+
+
+
+
+(ii) le gouverneur en conseil,
+
+
+
+
+
+
+
+
+(iii) le gouvernement du Canada,
+
+
+
+
+
+
+
+
+(iv) un consulat ou une ambassade du Canada;
+
+
+
+
+
+
+
+
+e) toute société mandataire au sens de l’article 83 de la Loi sur la gestion des finances publiques ou toute personne à l’étranger investie de pouvoirs qui, au Canada, seraient ceux d’une personne mentionnée à l'un des  alinéas a) à d).
+
+
+
+
+
+
+
+
+« ministère » Le ministère des Affaires étrangères et du Commerce international.
+
+
+
+« ministère »“Department”
+
+
+
+
+« ministère fédéral » Organisme d’enquête ou ministère du gouvernement fédéral.
+
+
+
+« ministère fédéral »“governmental department”
+
+
+
+
+« ministre » Le ministre des Affaires étrangères.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« organisme d’enquête » La Gendarmerie royale du Canada, le Service canadien du renseignement de sécurité, le Centre de la sécurité des télécommunications ou tout ministère fédéral, autre que le ministère des Affaires étrangères et du Commerce international, qui participe à la collecte de renseignements pouvant être pertinents dans le cadre de la présente loi.
+
+
+
+« organisme d’enquête »“investigative agency”
+
+
+
+
+« renseignements sensibles » Les renseignements qui concernent, selon le cas :
+
+
+
+« renseignements sensibles »“sensitive information”
+
+
+
+
+a) la défense nationale;
+
+
+
+
+
+
+
+
+b) la sécurité nationale;
+
+
+
+
+
+
+
+
+c) l’application de lois nationales ou internationales.
+
+
+
+
+
+
+
+
+« torture » Acte, commis par action ou omission, par lequel une douleur ou des souffrances aiguës, physiques ou mentales, sont intentionnellement infligées à une personne :
+
+
+
+« torture »“torture”
+
+
+
+
+a) soit afin notamment :
+
+
+
+
+
+
+
+
+(i) d’obtenir d’elle ou d’une tierce personne des renseignements ou une déclaration,
+
+
+
+
+
+
+
+
+(ii) de la punir d’un acte qu’elle ou une tierce personne a commis ou est soupçonnée d’avoir commis,
+
+
+
+
+
+
+
+
+(iii) de l’intimider ou de faire pression sur elle ou d’intimider une tierce personne ou de faire pression sur celle-ci;
+
+
+
+
+
+
+
+
+b) soit pour tout autre motif fondé sur quelque forme de discrimination que ce soit.
+
+
+
+
+
+
+
+
+La torture ne s’entend toutefois pas d’actes, commis par action ou omission, entraînant une douleur ou des souffrances qui résultent uniquement d’une incarcération légitime dans des conditions humaines et raisonnables, qui sont inhérentes à celle-ci ou qui sont occasionnées par elle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OBLIGATIONS OF DEPARTMENT
+
+
+
+
+
+
+
+
+
+OBLIGATIONS DU MINISTÈRE
+
+
+
+
+
+
+
+
+
+
+
+
+Obligations of Department
+
+
+
+4. The Department shall
+
+
+
+
+
+
+
+
+(a) collect, organize and provide reasonable access to timely information regarding the practice of torture abroad;
+
+
+
+
+
+
+
+
+(b) respond in a timely fashion to requests from officials for information regarding the practice of torture abroad, taking into account the interests of national security and the obligations of the official requesting the information;
+
+
+
+
+
+
+
+
+(c) maintain an updated list of countries suspected of engaging in torture, taking into account all relevant intelligence, including whether there has been a consistent pattern of human rights violations within a country; and
+
+
+
+
+
+
+
+
+(d) disseminate the list referred to in paragraph (c) to all officials who may be involved, directly or indirectly, in decisions that have the potential to subject a person to torture.
+
+
+
+
+
+
+
+
+
+4. Le ministère :
+
+
+
+Obligations du ministère
+
+
+
+
+a) recueille des renseignements opportuns sur la pratique de la torture à l’étranger, les organise et en assure un accès raisonnable;
+
+
+
+
+
+
+
+
+b) répond en temps opportun aux demandes de renseignements des fonctionnaires sur la pratique de la torture à l’étranger, en tenant compte de l’intérêt de la sécurité nationale et des obligations incombant à ces fonctionnaires;
+
+
+
+
+
+
+
+
+c) tient à jour une liste des pays soupçonnés de pratiquer la torture, en tenant compte de tous les renseignements pertinents, y compris le fait que des violations systématiques des droits de la personne se produisent dans le pays;
+
+
+
+
+
+
+
+
+d) communique la liste visée à l’alinéa c) à tous les fonctionnaires susceptibles de participer, directement ou indirectement, à la prise de décisions pouvant mener à des actes de torture contre une personne.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROHIBITIONS
+
+
+
+
+
+
+
+
+
+INTERDICTIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Exposure to risk of torture
+
+
+
+5. (1) No official shall expose any prisoner or detainee to substantial risk of torture by
+
+
+
+
+
+
+
+
+(a) releasing, transferring or ordering the release or transfer of that prisoner or detainee into the custody of another person, group of persons or government entity; or
+
+
+
+
+
+
+
+
+(b) knowingly or recklessly abandoning a prisoner or detainee, where there are reasonable grounds for believing the prisoner or detainee would be in danger of being subjected to torture.
+
+
+
+
+
+
+
+
+
+5. (1) Il est interdit au fonctionnaire d’exposer un prisonnier ou un détenu à un risque sérieux de torture :
+
+
+
+Exposition à un risque de torture
+
+
+
+
+a) soit en le libérant, en le transférant ou en ordonnant sa libération ou son transfert à la garde d’une autre personne, d’un groupe de personnes ou d’une entité gouvernementale;
+
+
+
+
+
+
+
+
+b) soit en l’abandonnant sciemment ou avec insouciance alors qu’il existe des motifs raisonnables de croire qu’il pourrait être soumis à la torture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Applicable to all prisoners or detainees
+
+
+
+(2) Subsection (1) applies to any prisoner or detainee in the custody of any official, regardless of
+
+
+
+
+
+
+
+
+(a) the residency or citizenship of the prisoner or detainee;
+
+
+
+
+
+
+
+
+(b) the location in which the prisoner or detainee is being held in custody; or
+
+
+
+
+
+
+
+
+(c) the location in which or to which the transfer is to take or has taken place.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) s’applique à tout prisonnier ou détenu sous la garde d’un fonctionnaire, indépendamment :
+
+
+
+Application
+
+
+
+
+a) du lieu de résidence ou de la citoyenneté du prisonnier ou du détenu;
+
+
+
+
+
+
+
+
+b) du lieu où le prisonnier ou le détenu est tenu sous garde;
+
+
+
+
+
+
+
+
+c) du lieu où le transfert sera ou a été fait.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No expulsion, extradition
+
+
+
+6. (1) Notwithstanding any other Act of Parliament, no official shall expel or extradite a person to another country if there are reasonable grounds for believing that the person may be subjected to torture in the other country.
+
+
+
+
+
+
+
+
+
+6. (1) Malgré toute autre loi fédérale, il est interdit au fonctionnaire d’expulser ou d’extrader une personne vers un autre pays s’il existe des motifs raisonnables de croire qu’elle peut être soumise à la torture dans l’autre pays.
+
+
+
+Expulsion ou extradition interdites
+
+
+
+
+
+
+
+
+
+
+Due diligence
+
+
+
+(2) For the purposes of determining whether grounds referred to in subsection (1) exist, an official shall consult all of the relevant material, including all the relevant information collected under paragraphs 4(a) and (c).
+
+
+
+
+
+
+
+
+
+(2) En vue de déterminer si les motifs mentionnés au paragraphe (1) existent, le fonctionnaire consulte l’ensemble des documents pertinents, y compris les renseignements pertinents recueillis en application des alinéas 4a) et c).
+
+
+
+Diligence requise
+
+
+
+
+
+
+
+
+
+
+If reasonable suspicion of torture
+
+
+
+7. (1) The Department and investigative agencies shall not provide a foreign country listed under paragraph 4(c) with any information where there is any reasonable suspicion the information may be used for torture.
+
+
+
+
+
+
+
+
+
+7. (1) Le ministère et les organismes d’enquête ne peuvent communiquer des renseignements à un pays étranger inscrit sur la liste prévue à l’alinéa 4c) lorsqu’il existe un soupçon raisonnable que les renseignements peuvent servir à la pratique de la torture.
+
+
+
+Soupçon raisonnable de torture
+
+
+
+
+
+
+
+
+
+
+If reasonable risk of torture
+
+
+
+(2) The Department and investigative agencies shall not provide any other foreign country with information where there is a reasonable risk that the information may be used for torture.
+
+
+
+
+
+
+
+
+
+(2) Le ministère et les organismes d’enquête ne peuvent communiquer des renseignements à aucun autre pays étranger lorsqu’il existe un risque raisonnable que les renseignements puissent servir à la pratique de la torture.
+
+
+
+Risque raisonnable de torture
+
+
+
+
+
+
+
+
+
+
+Agreement to be signed
+
+
+
+(3) If there is no reason to suspect the information mentioned in subsections (1) and (2) may be used for torture, the information may be shared with a country, subject to an agreement to be signed by that country, stating that the information shall not be used for torture.
+
+
+
+
+
+
+
+
+
+(3) S’il n’existe aucune raison de soupçonner que les renseignements visés aux paragraphes (1) et (2) peuvent servir à la pratique de la torture, ils peuvent être communiqués à un pays, pourvu que celui-ci signe un accord stipulant que les renseignements ne serviront pas à la pratique de la torture.
+
+
+
+Signature d’un accord
+
+
+
+
+
+
+
+
+
+
+Contravention of agreement to be reported
+
+
+
+(4) If an official has reasonable grounds to believe that an agreement under subsection (3) has been contravened, the official shall immediately submit all relevant information to the Minister.
+
+
+
+
+
+
+
+
+
+(4) S’il a des motifs raisonnables de croire qu’il y a eu contravention à l’accord signé conformément au paragraphe (3), le fonctionnaire communique sans délai tous les renseignements pertinents au ministre.
+
+
+
+Contravention à l’accord
+
+
+
+
+
+
+
+
+
+
+Minister to make formal objection
+
+
+
+(5) If the Minister is of the opinion that an agreement under subsection (3) has been contravened, the Minister shall make a formal objection to the foreign country that has committed the contravention.
+
+
+
+
+
+
+
+
+
+(5) Si le ministre est d’avis qu’il y a eu contravention à l’accord signé conformément au paragraphe (3), il dépose une plainte formelle auprès du pays étranger visé.
+
+
+
+Plainte formelle du ministre
+
+
+
+
+
+
+
+
+
+
+DISCLOSURE OF INFORMATION
+
+
+
+
+
+
+
+
+
+COMMUNICATION DE RENSEIGNEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Information sharing
+
+
+
+8. (1) Prior to requesting sensitive information from foreign officials, an official shall take reasonable steps to ensure that the information requested is not derived from an act of torture.
+
+
+
+
+
+
+
+
+
+8. (1) Avant de présenter une demande aux représentants d’un pays étranger pour obtenir des renseignements sensibles, le fonctionnaire prend les mesures nécessaires pour s’assurer que ces renseignements n’ont pas été acquis par la torture.
+
+
+
+Échange de renseignements
+
+
+
+
+
+
+
+
+
+
+Dissemination of sensitive information
+
+
+
+(2) Prior to using or disseminating sensitive information obtained from foreign officials in countries listed under paragraph 4(c), the official shall
+
+
+
+
+
+
+
+
+(a) seek a guarantee from an appropriate and competent foreign authority that the information to be used was not derived from torture; and
+
+
+
+
+
+
+
+
+(b) take appropriate steps to assess the reliability of that guarantee and of the information itself.
+
+
+
+
+
+
+
+
+
+(2) Avant d’utiliser ou de communiquer des renseignements sensibles obtenus des représentants d’un pays étranger inscrit sur la liste prévue à l’alinéa 4c), le fonctionnaire :
+
+
+
+Communication de renseignements sensibles
+
+
+
+
+a) obtient auprès d’une autorité étrangère compétente l’assurance que les renseignements n’ont pas été acquis par la torture;
+
+
+
+
+
+
+
+
+b) prend les mesures voulues pour évaluer la fiabilité de cette assurance et de ces renseignements.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dissemination of sensitive information
+
+
+
+(3) Prior to disseminating sensitive information obtained from foreign officials in countries listed under paragraph 4(c), the official shall mark that information as being derived from a country listed under that paragraph and  include an indication of its reliability according to the results of the investigative measures taken under paragraph (2)(b).
+
+
+
+
+
+
+
+
+
+(3) Avant de communiquer des renseignements sensibles obtenus des représentants d’un pays étranger inscrit sur la liste prévue à l’alinéa 4c), le fonctionnaire y inscrit une mention indiquant que les renseignements proviennent d’un pays inscrit sur cette liste et précisant dans quelle mesure ils sont fiables selon le résultat de l’enquête menée en application de l’alinéa (2)b).
+
+
+
+Communication de renseignements sensibles
+
+
+
+
+
+
+
+
+
+
+Information not to be provided
+
+
+
+(4) No official or investigative agency shall provide information to any foreign country where there is a reasonable risk that it will cause or contribute to the use of torture.
+
+
+
+
+
+
+
+
+
+(4) Il est interdit à tout fonctionnaire ou organisme d’enquête de communiquer des renseignements à un pays étranger lorsqu’il y a un risque raisonnable qu’ils mèneront ou serviront à la pratique de la torture.
+
+
+
+Non-communication
+
+
+
+
+
+
+
+
+
+
+DUTY TO REPORT
+
+
+
+
+
+
+
+
+
+OBLIGATION DE COMMUNICATION
+
+
+
+
+
+
+
+
+
+
+
+
+Duty to report
+
+
+
+9. (1) If an official has reasonable grounds to suspect that torture is being committed abroad by a Canadian official other than a Royal Canadian Mounted Police officer, the official shall immediately report any information respecting the suspected torture to the Royal Canadian Mounted Police and to the Minister.
+
+
+
+
+
+
+
+
+
+9. (1) Le fonctionnaire qui a des motifs raisonnables de soupçonner qu’un fonctionnaire canadien — autre qu'un membre de la Gendarmerie royale du Canada — commet des actes de torture à l’étranger communique sans délai à la Gendarmerie royale du Canada et au ministre les renseignements concernant les actes de torture soupçonnés.
+
+
+
+Obligation de communication
+
+
+
+
+
+
+
+
+
+
+Torture — RCMP
+
+
+
+(2) If an official has reasonable grounds to suspect that torture is being committed abroad by a member, employee, agent or contractor in the service of the Royal Canadian Mounted Police, the official shall immediately report any information respecting the suspected torture to the Royal Canadian Mounted Police Public Complaints Commission and to the Minister.
+
+
+
+
+
+
+
+
+
+(2) Le fonctionnaire qui a des motifs raisonnables de soupçonner qu’un membre, un employé ou un mandataire de la Gendarmerie royale du Canada ou un entrepreneur au service de celle-ci commet des actes de torture à l’étranger communique sans délai à la Commission des plaintes du public contre la Gendarmerie royale du Canada et au ministre les renseignements concernant les actes de torture soupçonnés.
+
+
+
+Actes de torture — GRC
+
+
+
+
+
+
+
+
+
+
+Torture — other than Canadian official
+
+
+
+(3) If an official has reasonable grounds to suspect that torture is being committed abroad by a person other than a Canadian official, the official shall immediately report any information respecting the suspected torture to the Minister.
+
+
+
+
+
+
+
+
+
+(3) Le fonctionnaire qui a des motifs raisonnables de soupçonner qu’une personne autre qu’un fonctionnaire canadien commet des actes de torture à l’étranger communique sans délai au ministre les renseignements concernant les actes de torture soupçonnés.
+
+
+
+Actes de torture — personnes autres que les fonctionnaires canadiens
+
+
+
+
+
+
+
+
+
+
+TORTURE OF CANADIAN CITIZEN ABROAD
+
+
+
+
+
+
+
+
+
+TORTURE D'UN CITOYEN CANADIEN À L'ÉTRANGER
+
+
+
+
+
+
+
+
+
+
+
+
+Report to Minister
+
+
+
+10. (1) If an official, including a Canadian consular official, becomes aware of any information suggesting that a Canadian citizen is being or has been subjected to torture by any person, group of persons or government entity abroad, that official shall immediately file a report outlining the grounds for that suspicion to the Minister.
+
+
+
+
+
+
+
+
+
+10. (1) Le fonctionnaire, y compris un fonctionnaire consulaire canadien, qui prend connaissance de renseignements donnant à croire qu’un citoyen canadien est ou a été soumis à la torture à l’étranger par une personne, un groupe de personnes ou une entité gouvernementale présente sans délai au ministre un rapport exposant les motifs de ses soupçons.
+
+
+
+Rapport au ministre
+
+
+
+
+
+
+
+
+
+
+Minister to secure custody
+
+
+
+(2) If a report is filed under subsection (1), or if the Minister becomes aware in any other manner that a Canadian citizen has a reasonable risk of being tortured while detained abroad, the Minister shall undertake all reasonable diplomatic measures to secure custody of that citizen for return to Canada, regardless of whether that citizen is a person of interest to an investigative agency,  a person listed on a government watch list, a person listed on a border lookout list, a person suspected of a crime or a person facing criminal charges.
+
+
+
+
+
+
+
+
+
+(2) Si le ministre reçoit un rapport visé au paragraphe (1) ou qu’il prend autrement connaissance du fait qu’un citoyen canadien est exposé à un risque raisonnable de torture pendant sa détention à l’étranger, il prend toutes les mesures diplomatiques nécessaires pour assurer la garde du citoyen en vue de son rapatriement au Canada, qu’il s’agisse ou non d’une personne présentant un intérêt particulier pour un organisme d’enquête, d’une personne dont le nom figure sur une liste de surveillance du gouvernement ou des services frontaliers, ou d’une personne soupçonnée ou accusée d’une infraction criminelle.
+
+
+
+Mesures visant la garde
+
+
+
+
+
+
+
+
+
+
+Consular rights to be exercised
+
+
+
+(3) The diplomatic measures referred to in subsection (2) shall include the exercise, to the fullest extent possible, of Canada’s consular rights in relation to the country in which the citizen is being detained, including the rights referred to in Article 36 of the Vienna Convention on Consular Relations.
+
+
+
+
+
+
+
+
+
+(3) Les mesures diplomatiques visées au paragraphe (2) comprennent l’exercice, dans toute la mesure du possible, des droits consulaires du Canada à l’égard du pays qui détient le citoyen, y compris les droits prévus à l’article 36 de la Convention de Vienne sur les relations consulaires.
+
+
+
+Droits consulaires
+
+
+
+
+
+
+
+
+
+
+Assistance of other agencies
+
+
+
+(4) If the Minister initiates diplomatic meas- ures under subsection (2), the Minister may request the assistance of any governmental department or of any agency of a foreign government in order to secure the custody of that citizen for return to Canada.
+
+
+
+
+
+
+
+
+
+(4) Lorsqu’il prend des mesures diplomatiques aux termes du paragraphe (2), le ministre peut demander l’aide de tout ministère fédéral ou de tout organisme d’un gouvernement étranger pour assurer la garde du citoyen en vue de son rapatriement au Canada.
+
+
+
+Aide d’autres organismes
+
+
+
+
+
+
+
+
+
+
+Request to governmental department
+
+
+
+(5) A governmental department receiving a request under subsection (4) shall make concerted efforts to fulfil the Minister’s request.
+
+
+
+
+
+
+
+
+
+(5) Le ministère fédéral qui reçoit une demande d’aide en application du paragraphe (4) déploie des efforts concertés pour répondre à la demande du ministre.
+
+
+
+Demande d’aide à un ministère fédéral
+
+
+
+
+
+
+
+
+
+
+Protocol to be developed
+
+
+
+(6) The Minister, in conjunction with investigative agencies and other governmental departments the Minister deems appropriate, shall develop a protocol to provide for a coordinated strategy to respond in a timely fashion with all due diligence to situations in which a Canadian citizen is being detained in a country where there is a reasonable risk the citizen is being or may be subjected to torture.
+
+
+
+
+
+
+
+
+
+(6) Le ministre, en collaboration avec les organismes d’enquête et autres ministères fédéraux qu’il juge indiqués, établit un protocole prévoyant une stratégie coordonnée pour corriger en temps opportun et avec la diligence voulue les situations où un citoyen canadien est détenu dans un pays où il y a un risque raisonnable qu’il soit ou pourrait être soumis à la torture.
+
+
+
+Établissement d’un protocole
+
+
+
+
+
+
+
+
+
+
+Protocol
+
+
+
+(7) The protocol referred to in subsection (6) shall include:
+
+
+
+
+
+
+
+
+(a) requirements for mutual consultation among designated members of the investigative agencies and governmental departments involved;
+
+
+
+
+
+
+
+
+(b) provisions for arriving at and implementing a unified approach in a timely fashion; and
+
+
+
+
+
+
+
+
+(c) political accountability for the protocol as a whole, as well as the course of action adopted in any particular circumstance.
+
+
+
+
+
+
+
+
+
+(7) Le protocole prévu au paragraphe (6) comporte :
+
+
+
+Protocole
+
+
+
+
+a) des exigences relatives à la consultation mutuelle des membres désignés des organismes d’enquête et des ministères fédéraux concernés;
+
+
+
+
+
+
+
+
+b) des dispositions visant l’adoption et la mise en oeuvre en temps opportun d’une démarche intégrée;
+
+
+
+
+
+
+
+
+c) l’obligation de rendre compte au niveau politique du protocole dans son ensemble, ainsi que des mesures prises dans les cas particuliers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No prejudice
+
+
+
+(8) No efforts undertaken under this section by the Minister or a governmental department shall undermine or prejudice in any way
+
+
+
+
+
+
+
+
+(a) the ability of the Minister of Public Safety or the Attorney General of Canada to initiate or continue criminal or other proceedings against a citizen who has been returned to Canada under this section; or
+
+
+
+
+
+
+
+
+(b) the ability of any investigative or law enforcement agency to lawfully arrest, charge, initiate or continue investigations involving a citizen who has been returned to Canada under this section.
+
+
+
+
+
+
+
+
+
+(8) Les efforts déployés par le ministre ou un ministère fédéral aux termes du présent article ne peuvent miner ou entraver de quelque manière que ce soit :
+
+
+
+Capacité
+
+
+
+
+a) la capacité du ministre de la Sécurité publique ou du procureur général du Canada d’intenter des procédures pénales ou d’autres procédures contre un citoyen rapatrié au Canada aux termes du présent article, ou de poursuivre de telles procédures;
+
+
+
+
+
+
+
+
+b) la capacité d’un organisme d’enquête ou d’un organisme chargé de l’application de la loi d’arrêter légitimement un citoyen rapatrié au Canada aux termes du présent article, de porter des accusations contre lui, ou d’ouvrir ou de poursuivre une enquête à son sujet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OFFENCE AND PUNISHMENT
+
+
+
+
+
+
+
+
+
+INFRACTION ET PEINE
+
+
+
+
+
+
+
+
+
+
+
+
+Offence and punishment
+
+
+
+11. Every person who contravenes this Act is guilty of an offence and liable
+
+
+
+
+
+
+
+
+(a) on summary conviction, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both; or
+
+
+
+
+
+
+
+
+(b) on conviction on indictment, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 10 years, or to both.
+
+
+
+
+
+
+
+
+
+11. Quiconque contrevient à la présente loi commet une infraction et encourt, sur déclaration de culpabilité :
+
+
+
+Infraction et peine
+
+
+
+
+a) par procédure sommaire, une amende maximale de 500 000 $ et un emprisonnement maximal de trois ans, ou l’une de ces peines;
+
+
+
+
+
+
+
+
+b) par mise en accusation, une amende maximale de 1 000 000 $ et un emprisonnement maximal de dix ans, ou l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+R.S., c. A-1
+
+
+
+Access to Information Act
+
+
+
+
+
+
+
+
+
+Loi sur l’accès à l’information
+
+
+
+L.R., ch. A-1
+
+
+
+
+
+
+
+
+
+
+
+
+12. Section 15 of the Access to Information Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+12. L’article 15 de la Loi sur l’accès à l’information est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Release of information
+
+
+
+(1.1) Nothing in subsection (1) shall be construed as to prevent the release of information which relates to torture.
+
+
+
+
+
+
+
+
+
+(1.1) Le paragraphe (1) n’a pas pour effet d’empêcher la communication de renseignements concernant la torture.
+
+
+
+Communication de renseignements
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+Criminal Code
+
+
+
+
+
+
+
+
+
+Code criminel
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+13. Paragraph 7(3.7)(c) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+13. L’alinéa 7(3.7)c) du Code criminel est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the person who commits the act or omission is a Canadian citizen or official as defined in section 269.1;
+
+
+
+
+
+
+
+
+
+c) l’auteur de l’acte a la citoyenneté canadienne ou est un fonctionnaire au sens de l’article 269.1;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. Subsections 269.1(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+14. Les paragraphes 269.1(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Torture
+
+
+
+269.1 (1) Every official, or every person acting at the instigation of or with the consent or acquiescence of an official, who inflicts torture on any other person is guilty of an indictable offence and liable to imprisonment for a term not exceeding twenty years.
+
+
+
+
+
+
+
+
+
+269.1 (1) Est coupable d’un acte criminel et passible d’un emprisonnement maximal de vingt ans le fonctionnaire qui — ou la personne qui, avec le consentement exprès ou tacite d’un fonctionnaire ou à sa demande — torture une autre personne.
+
+
+
+Torture
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+(2) For the purposes of this section and sections 269.2 and 269.3,
+
+
+
+
+“official”« fonctionnaire »
+
+
+
+“official” means
+
+
+
+
+
+
+
+
+(a) a peace officer,
+
+
+
+
+
+
+
+
+(b) a public officer,
+
+
+
+
+
+
+
+
+(c) a member of the Canadian Forces, or
+
+
+
+
+
+
+
+
+(d) any employee or agent of, or contractor providing services for the Crown or  any agent corporation as defined in section 83 of the Financial Administration Act, or any person who may exercise powers that would, in Canada, be exercised by a person referred to in this paragraph or in paragraph (a), (b) or (c),
+
+
+
+
+
+
+
+
+whether the person exercises powers in Canada or outside Canada.
+
+
+
+
+“torture”« torture »
+
+
+
+“torture” means any act or omission by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person
+
+
+
+
+
+
+
+
+(a) for a purpose including
+
+
+
+
+
+
+
+
+(i) obtaining from the person or from a third person information or a statement,
+
+
+
+
+
+
+
+
+(ii) punishing the person for an act that the person or a third person has committed or is suspected of having committed, and
+
+
+
+
+
+
+
+
+(iii) intimidating or coercing the person or a third person, or
+
+
+
+
+
+
+
+
+(b) for any reason based on discrimination of any kind,
+
+
+
+
+
+
+
+
+but does not include any act or omission by which pain or suffering arises only from, is inherent in or is incidental to lawful imprisonment in humane and reasonable conditions.
+
+
+
+
+
+
+
+
+
+(2) Les définitions qui suivent s’appliquent au présent article et aux articles 269.2 et 269.3.
+
+
+
+Définitions
+
+
+
+
+« fonctionnaire » L’une des personnes ci-après, qu’elle exerce ses pouvoirs au Canada ou à l’étranger :
+
+
+
+« fonctionnaire »“official”
+
+
+
+
+a) un agent de la paix;
+
+
+
+
+
+
+
+
+b) un fonctionnaire public;
+
+
+
+
+
+
+
+
+c) un membre des Forces canadiennes;
+
+
+
+
+
+
+
+
+d) un employé ou un mandataire de Sa Majesté, un entrepreneur qui fournit des services pour le compte de Sa Majesté, une société mandataire au sens de l’article 83 de la Loi sur la gestion des finances publiques, ou une personne investie de pouvoirs qui, au Canada, seraient ceux d’une personne mentionnée au présent alinéa ou aux alinéas a), b) ou c).
+
+
+
+
+
+
+
+
+« torture » Acte, commis par action ou omission, par lequel une douleur ou des souffrances aiguës, physiques ou mentales, sont intentionnellement infligées à une personne :
+
+
+
+« torture »“torture”
+
+
+
+
+a) soit afin notamment :
+
+
+
+
+
+
+
+
+(i) d’obtenir d’elle ou d’une tierce personne des renseignements ou une déclaration,
+
+
+
+
+
+
+
+
+(ii) de la punir d’un acte qu’elle ou une tierce personne a commis ou est soupçonnée d’avoir commis,
+
+
+
+
+
+
+
+
+(iii) de l’intimider ou de faire pression sur elle ou d’intimider une tierce personne ou de faire pression sur celle-ci;
+
+
+
+
+
+
+
+
+b) soit pour tout autre motif fondé sur quelque forme de discrimination que ce soit.
+
+
+
+
+
+
+
+
+La torture ne s’entend toutefois pas d’actes, commis par action ou omission, entraînant une douleur ou des souffrances qui résultent uniquement d’une incarcération légitime dans des conditions humaines et raisonnables, qui sont inhérentes à celle-ci ou qui sont occasionnées par elle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. The Act is amended by adding the following after section 269.1:
+
+
+
+
+
+
+
+
+
+15. La même loi est modifiée par adjonction, après l’article 269.1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Party to offence of torture
+
+
+
+269.2 (1) For greater certainty, any official who is a party to an offence under sections 21 to 24 involving torture is a party to torture.
+
+
+
+
+
+
+
+
+
+269.2 (1) Il est entendu que le fonctionnaire qui participe à une infraction prévue à l’un des articles 21 à 24 impliquant la torture participe à un acte de torture.
+
+
+
+Partie à une infraction de torture
+
+
+
+
+
+
+
+
+
+
+Counselling torture
+
+
+
+(2) Notwithstanding subsection 22(3), for the purposes of determining whether an official is a party to torture, “counsel” includes procure, solicit, incite, recommend, capitulate to or encourage, whether implicitly or explicitly, by act or omission.
+
+
+
+
+
+
+
+
+
+(2) Malgré le paragraphe 22(3), afin de déterminer si un fonctionnaire a participé à un acte de torture, « conseiller » s’entend du fait d’amener quelqu’un, par action ou omission, à commettre un tel acte, de l’y inciter, de le lui recommander, d’y consentir ou de l’y encourager, implicitement ou explicitement.
+
+
+
+Conseiller de commettre un acte de torture
+
+
+
+
+
+
+
+
+
+
+Use of information derived from torture
+
+
+
+269.3 (1) Every official who knowingly uses information derived from an act of torture is guilty of an indictable offence and liable to imprisonment for a term not exceeding 20 years.
+
+
+
+
+
+
+
+
+
+269.3 (1) Est coupable d’un acte criminel et passible d’un emprisonnement maximal de vingt ans le fonctionnaire qui utilise sciemment des renseignements acquis par la torture.
+
+
+
+Utilisation de renseignements obtenus sous la torture
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(2) Every official who uses information that the official ought to have known was derived from torture is guilty of an offence punishable on summary conviction and liable to imprisonment for a term not exceeding six months.
+
+
+
+
+
+
+
+
+
+(2) Est coupable d’une infraction punissable par procédure sommaire et passible d’un emprisonnement maximal de six mois le fonctionnaire qui utilise des renseignements alors qu’il devait savoir que ceux-ci ont été acquis par la torture.
+
+
+
+Peine
+
+
+
+
+
+
+
+
+
+
+Statement inadmissible
+
+
+
+(3) In any proceedings over which Parliament has jurisdiction, any statement obtained as a result of the commission of an offence under this section is inadmissible in evidence, except as evidence that the statement was so obtained.
+
+
+
+
+
+
+
+
+
+(3) Dans toute procédure qui relève de la compétence du Parlement, une déclaration obtenue par la perpétration d’une infraction au présent article est inadmissible en preuve, sauf à titre de preuve de cette infraction.
+
+
+
+Déclaration inadmissible
+
+
+
+
+
+
+
+
+
+
+When information may be used
+
+
+
+(4) For greater certainty, it is not an offence to use information derived from torture in connection with any judicial proceeding against a person accused of torture, or to communicate the information to persons concerned in such proceedings.
+
+
+
+
+
+
+
+
+
+(4) Il est entendu que l’utilisation de renseignements acquis par la torture qui se rapportent à une procédure judiciaire engagée contre une personne accusée d’avoir commis un acte de torture, ou la communication de renseignements aux personnes visées par une telle procédure, ne constitue pas une infraction.
+
+
+
+Utilisation permise des renseignements
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+16. This Act shall come into force 30 days after it receives royal assent.
+
+
+
+
+
+
+
+
+
+16. La présente loi entre en vigueur trente jours suivant sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1594 @@
+
+
+
+
+
+
+C-479
+
+
+
+
+
+C-479
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-479
+
+
+
+
+
+PROJET DE LOI C-479
+
+
+
+
+
+
+An Act to amend the Corrections and Conditional Release Act (fairness for victims)
+
+
+
+
+
+Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition (équité à l'égard des victimes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, February 27, 2013
+
+
+
+
+
+première lecture le 27 février 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Sweet
+
+
+411538
+
+
+
+
+M. Sweet
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to amend Part II of the Corrections and Conditional Release Act in respect of the following matters:
+(a) the parole review of offenders who are serving a sentence of at least two years for an offence involving violence;
+(b) the attendance of victims and members of their family at parole review hearings;
+(c) the consideration of victims’ statements by the National Parole Board when making a determination regarding the release of an offender;
+(d) the manner of presentation of victims’ statements at a parole review hearing;
+(e) the providing of information under consideration by the Board to a victim;
+(f) the cancellation of a parole review hearing if an offender has repeatedly refused to attend, or waived his or her right to attend, previous hearings;
+(g) the providing of transcripts of a parole review hearing to the victim and members of their family and the offender; and
+(h) the notification of victims if an offender is to be released on temporary absence, parole or statutory release.
+
+
+
+SOMMAIRE
+Le texte a pour objet de modifier la Partie II de la Loi sur le système correctionnel et la mise en liberté sous condition relativement aux sujets suivants :
+
+a) l’examen en vue de la libération conditionnelle des délinquants qui purgent une peine d’emprisonnement d’au moins deux ans pour une infraction accompagnée de violence;
+
+b) la présence des victimes ou de membres de leur famille lors des audiences de libération conditionnelle;
+
+c) la prise en considération, par la Commission nationale des libérations conditionnelles, des déclarations des victimes dans ses décisions relatives à la libération de délinquants;
+
+d) la manière dont peuvent être présentées les déclarations des victimes lors des audiences de libération conditionnelle;
+
+e) la communication aux victimes de renseignements pris en considération par la Commission dans ses examens;
+
+f) l’annulation des audiences de libération conditionnelle dans le cas des délinquants qui ont, à plusieurs reprises, refusé d’être présents à une audience ou renoncé à leur droit à une audience;
+
+g) l’obligation de fournir la transcription d’audiences de libération conditionnelle aux victimes et aux membres de leur famille ainsi qu’aux délinquants;
+
+h) la notification des victimes lorsqu’un délinquant bénéficie d'une permission de sortir ou d’une libération conditionnelle ou d’office.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-479
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-479
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Corrections and Conditional Release Act (fairness for victims)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le système correctionnel et la mise en liberté sous condition (équité à l'égard des victimes)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as An Act to Bring Fairness for the Victims of Violent Offenders.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur l’équité à l’égard des victimes de délinquants violents.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1992, c. 20
+
+
+
+CORRECTIONS AND CONDITIONAL RELEASE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE SYSTÈME CORRECTIONNEL ET LA MISE EN LIBERTÉ SOUS CONDITION
+
+
+
+1992, ch. 20
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) Section 123 of the Corrections and Conditional Release Act is amended by adding the following after subsection (5):
+
+
+
+
+
+
+
+
+
+
+
+2. (1) L’article 123 de la Loi sur le système correctionnel et la mise en liberté sous
+condition est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+Violent offender
+
+
+
+
+(5.01) Despite subsection (5), if the Board decides not to grant parole to an offender who has been convicted of an offence involving violence for which the offender is serving a sentence of at least two years following a review under subsection (1) or section 122, or if a review is not made by virtue of subsection (2), the Board shall conduct another review within five years after the later of the day on which the review took place or was scheduled to take place and thereafter within five years after that day until
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the offender is released on full parole or on statutory release;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the offender’s sentence expires; or
+
+
+
+
+
+
+
+
+
+
+
+
+(c) less than four months remain to be served before the offender’s statutory release date.
+
+
+
+
+
+
+
+
+
+
+
+(5.01) Malgré le paragraphe (5), lorsqu’elle refuse à l’issue de l’examen visé au paragraphe (1) ou à l’article 122, d’accorder la libération conditionnelle à un délinquant déclaré coupable d'une infraction accompagnée de violence pour laquelle il purge une peine d’au moins deux ans, ou encore en l’absence de tout examen pour les raisons exposées au paragraphe (2), la Commission procède au réexamen dans les cinq ans qui suivent la date de la tenue de l’examen ou celle fixée pour cet examen, selon la plus éloignée de ces dates, et ainsi de suite, au cours de chaque période de cinq ans, jusqu’au premier en date des événements suivants : 
+
+
+
+
+
+Délinquant violent
+
+
+
+
+
+
+a) la libération conditionnelle totale ou d’office;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) l’expiration de la peine;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) le délinquant a moins de quatre mois à purger avant sa libération d’office.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Written reasons
+
+
+
+
+(5.02) If the Board decides not to grant parole to an offender referred to in subsection (5.01), it shall provide the offender with written reasons for its decision. 
+
+
+
+
+
+
+
+
+
+
+
+(5.02) Lorsqu’elle refuse d’accorder la libération conditionnelle au délinquant visé au paragraphe (5.01), la Commission lui donne, par écrit, les motifs de sa décision.
+
+
+
+
+Motifs écrits
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 123 of Act is amended by adding the following after subsection (5.1):
+
+
+
+
+
+
+
+
+
+(2) L’article 123 de la même loi est modifié par adjonction, après le paragraphe (5.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Violent offender
+
+
+
+
+(5.2) If the Board cancels or terminates parole for an offender who has been convicted of an offence involving violence for which the offender is serving a sentence of at least two years, it shall conduct another review within four years after the cancellation or termination and, after that date, within five years after the day on which each preceding review takes place until
+
+
+
+
+
+
+
+
+
+
+
+
+(a) the offender is released on full parole or on statutory release;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the offender’s sentence expires; or
+
+
+
+
+
+
+
+
+
+
+
+
+(c) less than four months remain to be served before the offender’s statutory release date.
+
+
+
+
+
+
+
+
+
+
+
+(5.2) En cas d’annulation ou de cessation de la libération conditionnelle d’un délinquant déclaré coupable d'une infraction accompagnée de violence pour laquelle il purge une peine d’au moins deux ans, la Commission procède au réexamen du cas dans les quatre ans qui suivent la date d’annulation ou de cessation, et ainsi de suite, au cours de chaque période de cinq ans, jusqu’au premier en date des événements suivants :
+
+
+
+
+Délinquant violent
+
+
+
+
+
+
+a) la libération conditionnelle totale ou d’office;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) l’expiration de la peine;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) le délinquant a moins de quatre mois à purger avant sa libération d’office.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 123 of Act is amended by adding the following after subsection (7):
+
+
+
+
+
+
+
+
+
+(3) L’article 123 de la même loi est modifié par adjonction, après le paragraphe (7), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “offence involving violence”
+
+
+
+
+(8) In this section, “offence involving violence” means murder or any offence set out in Schedule I.
+
+
+
+
+
+
+
+
+
+
+
+(8) Au présent article, « infraction accompagnée de violence » s’entend du
+meurtre ou de toute infraction mentionnée à l’annexe I.
+
+
+
+
+Définition d’« infraction accompagnée de violence »
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 131 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+
+3. L’article 131 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule I offence
+
+
+
+
+(1.1) Despite subsection (1), if the order made under subsection 130(3) relates to an offender who is serving a sentence for an offence set out in Schedule I that caused the death of, or serious harm to, a person, the Board shall review the order within two years after the date the order was made, and thereafter within two years after the date of each preceding review while the offender remains subject to the order.
+
+
+
+
+
+
+
+
+
+
+
+(1.1) Malgré le paragraphe (1), lorsque l'ordonnance visée au paragraphe 130(3) est prise à l’égard d’un délinquant qui purge une peine pour une infraction mentionnée à l’annexe I ayant causé la mort ou un dommage grave à une autre personne, la Commission réexamine, dans les deux ans suivant la prise de l'ordonnance et tous les deux ans par la suite, le cas du délinquant à l’égard duquel l’ordonnance est toujours en vigueur.
+
+
+
+
+Infractions mentionnées à l’annexe I
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. (1) The portion of subsection 140(4) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. (1) Le passage du paragraphe 140(4) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Attendance by observers
+
+
+
+(4) Subject to subsections (5) and (5.1), the Board or a person designated, by name or by position, by the Chairperson of the Board shall, subject to such conditions as the Board or person considers appropriate and after taking into account the offender’s views, permit a person who applies in writing therefor to attend as an observer at a hearing relating to an offender, unless the Board or person is satisfied that
+
+
+
+
+
+
+
+
+
+(4) Sous réserve des paragraphes (5) et (5.1), la Commission, ou la personne que le président désigne nommément ou par indication de son poste, doit, aux conditions qu’elle estime indiquées et après avoir pris en compte les observations du délinquant, autoriser la personne qui en fait la demande écrite à être présente, à titre d’observateur, lors d’une audience, sauf si elle est convaincue que, selon le cas :
+
+
+
+Présence des observateurs
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 140 of the Act is amended by adding the following after subsection (5):
+
+
+
+
+
+
+
+
+
+(2) L’article 140 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Attendance by victim or member of their family
+
+
+
+
+(5.1) In determining whether to permit a victim or a member of the victim’s family to attend as an observer at a hearing, the Board or its designate shall make every effort to fully understand the need of the victim and of the members of his or her family to attend the hearing and witness its proceedings. The Board or its designate shall permit a victim or a member of his or her family to attend as an observer unless satisfied that the presence of the victim or family member would result in a situation described in paragraph (4)(a), (b), (c) or (d).
+
+
+
+
+
+
+
+
+
+
+
+(5.1) Lorsqu’elle détermine si une victime ou un membre de  sa famille peut être présent, à titre d’observateur, lors d’une audience, la Commission ou la personne qu’elle désigne s’efforce de comprendre le besoin de la victime ou des membres de sa famille d’être présents lors de l’audience et d’en observer le déroulement. La Commission ou la personne qu’elle désigne autorise cette présence sauf si elle est convaincue que celle-ci entraînerait une situation visée aux alinéas (4)a), b), c) ou d).
+
+
+
+
+Présence d’une victime ou d'un membre de sa famille
+
+
+
+
+
+
+
+
+
+
+Attendance not permitted
+
+
+
+
+(5.2) If the Board or its designate decides under subsection (5.1) to not permit a victim or a member of his or her family to attend a hearing, the Board shall provide for the victim  or family member to follow the hearing by teleconference or by means of a one-way closed circuit video feed.
+
+
+
+
+
+
+
+
+
+
+
+(5.2) Lorsque la Commission ou la personne qu’elle désigne décide, en application du paragraphe (5.1), de ne pas autoriser la présence d’une victime ou d'un membre de sa famille lors de l’audience, elle prend les dispositions nécessaires pour que la victime ou le membre de sa famille puisse observer le déroulement de l’audience par téléconférence ou par transmission vidéo unidirectionnelle en circuit fermé.
+
+
+
+
+Présence refusée
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 140 of the Act is amended by adding the following after subsection (10):
+
+
+
+
+
+
+
+
+
+(3) L’article 140 de la même loi est modifié par adjonction, après le paragraphe (10), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Consideration of statement
+
+
+
+
+(10.1) The Board shall, in deciding whether an offender should be released and what conditions might be applicable to the release, take into consideration any statement that has been presented in accordance with paragraph (10)(a) or (b).
+
+
+
+
+
+
+
+
+
+
+
+(10.1) Lorsqu’elle détermine si le délinquant devrait bénéficier d’une libération et, le cas échéant, fixe les conditions de celle-ci, la Commission prend en considération la déclaration présentée en conformité avec les alinéas 10a) ou b).
+
+
+
+
+Prise en considération de la déclaration
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Subsection 140(11) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 140(11) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Forms of statement
+
+
+
+(11) If a victim or a person referred to in subsection 142(3) is not attending a hearing, their statement may be presented at the hearing in the form of a written statement, which may be accompanied by an audio or video recording, or in any other form provided for by regulation.
+
+
+
+
+
+
+
+
+
+(11) La déclaration de la victime ou de la personne visée au paragraphe 142(3), même si celle-ci n’assiste pas à l’audience, peut y être présentée sous la forme d’une déclaration écrite pouvant être accompagnée d’un enregistrement audio ou vidéo, ou sous toute autre forme réglementaire.
+
+
+
+Déclaration —formes
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Act is amended by adding the following after section 140:
+
+
+
+
+
+
+
+
+
+
+5. La même loi est modifiée par adjonction, après l’article 140, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Cancellation of review hearing
+
+
+
+
+
+140.1 Despite any other provision of this Act, if an offender has, on more than one occasion, refused to attend a review hearing or waived his or her right to a review hearing less than 15 days before the date scheduled for the hearing without providing a reasonable explanation for doing so, the Board may cancel the next review hearing to which the offender would otherwise be entitled to under this Act.
+
+
+
+
+
+
+
+
+
+
+
+
+140.1 Malgré les autres dispositions de la présente loi, dans le cas d’un délinquant qui a, à plus d’une reprise, refusé d’être présent à une audience ou renoncé à son droit à une audience sans explication raisonnable moins de quinze jours avant la date fixée pour celle-ci, la Commission peut annuler l’audience suivante à laquelle le délinquant aurait droit en vertu de la présente loi.
+
+
+
+
+Annulation de l’audience
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) Paragraph 142(1)(a) of the Act is amended by striking out “and” at the end of subparagraph (iv) and by adding the following after that subparagraph:
+
+
+
+
+
+
+
+
+
+
+6. (1) L’alinéa 142(1)a) de la même loi est modifié par adjonction, après le sous-alinéa (iv), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(v) the date, if any, on which the offender is to be released on unescorted temporary absence, escorted temporary absence where the Board has approved the absence as required by subsection 746.1(2) of the Criminal Code, parole or statutory release,
+
+
+
+
+
+
+
+
+(vi) any of the conditions attached to the offender’s unescorted temporary absence, parole or statutory release and the reasons for any unescorted temporary absence, and
+
+
+
+
+
+
+
+
+(vii) the destination of the offender when released on unescorted temporary absence, parole or statutory release, and whether the offender will be in the vicinity of the victim while travelling to that destination; and
+
+
+
+
+
+
+
+
+
+
+
+(v) la date de ses permissions de sortir sans escorte, de ses permissions de sortir
+avec escorte approuvées par la Commission au titre du paragraphe 746.1(2) du Code criminel, de sa libération conditionnelle ou de sa libération d’office,
+
+
+
+
+
+
+
+
+
+(vi) les conditions dont est assortie la permission de sortir sans escorte et les raisons de celle-ci, ainsi que les conditions de la libération conditionnelle ou d’office,
+
+
+
+
+
+
+
+
+
+(vii) sa destination lors de sa mise en liberté et son éventuel rapprochement de la victime, selon son itinéraire;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subparagraph 142(1)(b)(iii) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le sous-alinéa 142(1)b)(iii) de la même loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subparagraphs 142(1)(b)(v) and (vi) of the Act are repealed.
+
+
+
+
+
+
+
+
+
+(3) Les sous-alinéas 142(1)b)(v) et (vi) de la même loi sont abrogés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Paragraph 142(1)(b) of the Act is amended by striking out “and” at the end of subparagraph (viii) and by adding the following after that subparagraph:
+
+
+
+
+
+
+
+
+
+(4) L’alinéa 142(1)b) de la même loi est modifié par adjonction, après le sous-alinéa (viii), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(viii.1) information pertaining to the offender’s correctional plan, including information regarding the offender’s progress towards meeting the objectives of the plan, and
+
+
+
+
+
+
+
+
+
+
+
+(viii.1) les données concernant le plan correctionnel du délinquant, notamment les progrès accomplis par celui-ci en vue d’en atteindre les objectifs,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Section 142 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(5) L’article 142 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Timing of disclosure
+
+
+
+
+(1.1) The Chairperson must disclose the information referred to in subparagraphs (1)(a)(v) to (vii) at least 14 days before the offender in question is to be released.
+
+
+
+
+
+
+
+
+
+
+
+(1.1) Le président communique les renseignements mentionnés aux sous-alinéas (1)a)(v) à (vii) au moins quatorze jours avant la libération du délinquant en question.
+
+
+
+
+Moment de la communication
+
+
+
+
+
+
+
+
+
+
+Continuing duty to disclose
+
+
+
+
+(1.2) If a victim makes a request to the Chairperson under subsection (1) in respect of the information relating to an offender and, subsequent to that initial request, there are changes to that information, the Chairperson shall, in accordance with that subsection, disclose any such changes to the victim, unless the victim notifies the Chairperson that he or she does not wish to be so informed.
+
+
+
+
+
+
+
+
+
+
+
+(1.2) Lorsqu’une victime présente une demande au président au titre du paragraphe (1) en vue d’obtenir des renseignements sur un délinquant et que les renseignements ainsi obtenus changent par la suite, le président communique les renseignements à jour à la victime conformément à ce paragraphe, sauf en cas d’avis de celle-ci indiquant qu’elle renonce à la communication de tels renseignements.
+
+
+
+
+Communication — suivi
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. The Act is amended by adding the following after section 144:
+
+
+
+
+
+
+
+
+
+
+7. La même loi est modifiée par adjonction, après l’article 144, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Providing transcript
+
+
+
+
+
+144.1 If a transcript of a hearing has been made, a copy of it shall, on written request, be provided by the Board free of charge to the victim, a member of the victim’s family or the offender.
+
+
+
+
+
+
+
+
+
+
+
+
+144.1 Lorsque la transcription d’une audience a été effectuée, la Commission fournit gratuitement une copie de celle-ci à la victime, à un membre de sa famille ou au délinquant qui en fait la demande écrite.
+
+
+
+
+Transcription
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

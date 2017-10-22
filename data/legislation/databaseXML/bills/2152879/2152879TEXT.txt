@@ -1,0 +1,905 @@
+
+
+
+
+
+
+C-315
+
+
+
+
+
+C-315
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-315
+
+
+
+
+
+PROJET DE LOI C-315
+
+
+
+
+
+
+An Act to provide for the harmonization of environmental standards throughout Canada
+
+
+
+
+
+Loi visant l'harmonisation des normes environnementales à l'échelle nationale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 31, 2006
+
+
+
+
+
+première lecture le 31 mai 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Silva
+
+
+391126
+
+
+
+
+M. Silva
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+The purpose of this enactment is to establish a process of consultation with the provinces in order to achieve uniformity in the environmental standards applied throughout the country.
+The Minister of the Environment  is required to convene a conference of provincial ministers of the environment and to establish an advisory committee on uniformity in environmental standards. The Committee is responsible for the preparation of a report to be laid by the Minister before each House of  Parliament and to be considered by the appropriate Standing Committees.
+
+
+
+SOMMAIRE
+Le texte a pour objet d’établir un processus de consultation avec les provinces afin d’assurer l’uniformité des normes environnementales appliquées dans l’ensemble du pays.
+Le ministre de l’Environnement est tenu de convoquer une conférence des ministres de l’environnement afin de constituer un comité consultatif sur l’uniformisation des normes environnementales. Ce comité a la responsabilité d’établir un rapport qu’il remet au ministre pour dépôt devant les deux chambres du Parlement, lequel est ensuite soumis aux comités permanents compétents pour étude.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-315
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-315
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to provide for the harmonization of environmental standards throughout Canada
+
+
+
+
+
+
+
+
+
+Loi visant l'harmonisation des normes environnementales à l'échelle nationale
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+WHEREAS Canada and its provinces have similar objectives for the protection of the environment;
+
+
+
+
+
+
+
+
+
+
+WHEREAS environmental standards have been set at similar but not identical levels throughout the nation;
+
+
+
+
+
+
+
+
+
+
+WHEREAS municipalities and industry will benefit from the standardization of equipment and procedures;
+
+
+
+
+
+
+
+
+
+
+AND WHEREAS environmental quality can best be maintained throughout Canada if standards, monitoring procedures and enforcement methods are consistent throughout the nation;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que le Canada et ses provinces poursuivent des objectifs semblables en matière de protection de l’environnement;
+
+
+
+
+
+
+
+
+
+
+que les normes environnementales établies au Canada se ressemblent mais ne sont pas tout à fait identiques;
+
+
+
+
+
+
+
+
+
+
+que les municipalités et les entreprises tireront avantage de la normalisation du matériel et des méthodes à utiliser;
+
+
+
+
+
+
+
+
+
+
+que la meilleure façon d’assurer la qualité de l’environnement au Canada est de mettre en oeuvre des normes, des méthodes de contrôle et des procédures d’application qui sont uniformes dans l’ensemble du pays,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the National Environmental Standards Act.
+
+
+
+
+
+
+
+
+
+
+1. Titre abrégé : Loi sur les normes environnementales nationales.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+
+2. The following definitions apply in this Act.
+
+
+
+
+“Committee”« Comité »
+
+
+
+“Committee” means the Canadian Environmental Standards Committee established under section 4.
+
+
+
+
+“environmental standard”« norme environnementale »
+
+
+
+“environmental standard” means a stipulated standard or allowed limit established by or under an Act of Parliament or of the legislature of a province that is used as the basis for environmental management.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of the Environment.
+
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« Comité » Le Comité des normes environnementales canadiennes constitué aux termes de l’article 4.
+
+
+
+« Comité »“Committee”
+
+
+
+
+« ministre » Le ministre de l’Environnement.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« norme environnementale » Norme prescrite ou limite permise qui est établie sous le régime d’une loi fédérale ou provinciale et qui sert de fondement à la gestion de l’environnement.
+
+
+
+« norme environnementale »“environmental standard”
+
+
+
+
+
+
+
+
+
+
+Conference of ministers
+
+
+
+
+3. (1) The Minister shall, within 180 days after the coming into force of this Act, convene a conference of the provincial ministers of the Crown responsible for the environment.
+
+
+
+
+
+
+
+
+
+
+3. (1) Dans les cent quatre-vingts jours suivant l’entrée en vigueur de la présente loi, le ministre convoque une conférence des ministres provinciaux responsables de l’environnement.
+
+
+
+Conférence des ministres
+
+
+
+
+
+
+
+
+
+
+Objective of conference
+
+
+
+(2) The objective of the conference is to implement a process of consultation among the provinces in order to achieve uniformity in the environmental standards applied throughout Canada.
+
+
+
+
+
+
+
+
+
+(2) La conférence a pour objet de mettre en oeuvre un processus de consultation entre les provinces en vue d’assurer l’uniformité des normes environnementales appliquées dans l’ensemble du Canada.
+
+
+
+Objet de la conférence
+
+
+
+
+
+
+
+
+
+
+Advisory committee
+
+
+
+
+4. (1) The Minister shall establish a committee,  to be known as the Canadian Environmental Standards Committee, the members of which shall be appointed by the Minister in accordance with subsection (3).
+
+
+
+
+
+
+
+
+
+
+4. (1) Le ministre constitue un comité, appelé le Comité des normes environnementales canadiennes, composé des membres qu’il nomme en conformité avec le paragraphe (3).
+
+
+
+Comité consultatif
+
+
+
+
+
+
+
+
+
+
+Mandate
+
+
+
+(2) The mandate of the Committee is to undertake a comprehensive review of the specific environmental needs of each province, to advise and make recommendations to the Minister on matters related to achieving uniform environmental standards throughout Canada, and to propose relevant  draft legislation that could be passed by Parliament and the legislature of every  province.
+
+
+
+
+
+
+
+
+
+(2) Le Comité a pour mandat d’entreprendre un examen approfondi des besoins environnementaux particuliers de chaque province, de conseiller le ministre et de lui faire des recommandations sur les questions liées à l’uniformisation des normes environnementales à l’échelle nationale, ainsi que de proposer les mesures législatives pertinentes que pourraient adopter le Parlement et l’assemblée législative de chaque province.
+
+
+
+Mandat
+
+
+
+
+
+
+
+
+
+
+Composition of Committee
+
+
+
+(3) The Minister shall make all reasonable efforts to ensure that the Committee’s membership
+
+
+
+
+
+
+
+
+
+
+(a) reflects a broad range of scientific and technical disciplines related to the protection of the environment; and
+
+
+
+
+
+
+
+
+
+
+(b) reflects expertise in matters related to municipalities, and industry, law, and other social sciences, as needed.
+
+
+
+
+
+
+
+
+
+(3) Le ministre veille, dans la mesure du possible, à ce que le Comité soit composé de membres qui assurent la représentation :
+
+
+
+Composition
+
+
+
+
+
+a) d’un large éventail de disciplines scientifiques et techniques liées à la protection de l’environnement;
+
+
+
+
+
+
+
+
+
+
+
+b) d’une expertise dans les questions touchant les municipalités, les entreprises, le droit et, au besoin, d’autres sciences sociales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+
+5. (1) The Committee shall submit to the Minister a report for each of the three consecutive twelve-month periods starting with the period commencing on the day on which this Act comes into force.
+
+
+
+
+
+
+
+
+
+
+5. (1) Le Comité présente au ministre un rapport pour chacune des trois périodes consécutives de douze mois dont la première commence à la date d’entrée en vigueur de la présente loi.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Contents
+
+
+
+(2) The report submitted under subsection (1) shall set out the Committee’s  findings, conclusions and recommendations respecting the achievement of uniformity or a greater degree of uniformity in the environmental standards applied throughout Canada,  the status of relevant draft legislation and any other matter that the Committee deems appropriate.
+
+
+
+
+
+
+
+
+
+(2) Le rapport contient les constatations, conclusions et recommandations du Comité sur les progrès accomplis quant à la réalisation ou l’accroissement de l’uniformité dans les normes environnementales appliquées dans l’ensemble du Canada, et fait mention de l’état des mesures législatives pertinentes ainsi que de toute autre question que le Comité juge indiquée.
+
+
+
+Contenu
+
+
+
+
+
+
+
+
+
+
+Report laid before Parliament
+
+
+
+(3) Every report under subsection (1) shall be submitted within six months after the end of each period, and the Minister shall cause a copy of the report to be laid before each House of Parliament on any of the first ten days on which the House sits after the Minister receives it.
+
+
+
+
+
+
+
+
+
+(3) Le rapport est présenté dans les six mois suivant la fin de la période visée; le ministre en fait déposer un exemplaire devant chaque chambre du Parlement dans les dix premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+Dépôt du rapport
+
+
+
+
+
+
+
+
+
+
+Report referred to standing committee
+
+
+
+(4) When a report is laid before a House of Parliament under subsection (3), it shall stand referred to the standing committee of that House that normally considers matters relating to the environment.
+
+
+
+
+
+
+
+
+
+(4) Le comité permanent de chaque chambre du Parlement habituellement chargé des questions concernant l’environnement est saisi d’office du rapport déposé conformément au paragraphe (3).
+
+
+
+Renvoi au comité permanent
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

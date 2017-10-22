@@ -1,0 +1,1687 @@
+
+
+
+
+
+S-217
+
+
+
+
+
+S-217
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-217
+
+
+
+
+
+PROJET DE LOI S-217
+
+
+
+
+
+
+An Act to amend the Financial Administration Act and the Bank of Canada Act (quarterly financial reports)
+
+
+
+
+
+Loi modifiant la Loi sur la gestion des finances publiques et la Loi sur la Banque du Canada (rapports financiers trimestriels)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 30, 2006
+
+première lecture le 30 mai 2006
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR HUGH SEGAL
+
+0525
+
+
+
+L’HONORABLE SÉNATEUR HUGH SEGAL
+
+
+
+
+
+SUMMARY
+This enactment amends the Financial Administration Act to require that every portion of the federal public administration named in Schedule I, IV or V of that Act, as well as parent Crown corporations, submit quarterly financial reports to Parliament.
+It also amends the Bank of Canada Act to add a similar requirement.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur la gestion des finances publiques afin d’exiger que tous les éléments de l’administration publique fédérale nommés aux annexes I, IV ou V de cette loi et toutes les sociétés d’État mères présentent un rapport financier trimestriel au Parlement.
+Il modifie également la Loi sur la Banque du Canada pour y ajouter des dispositions similaires.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+55 Elizabeth II, 2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-217
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-217
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Financial Administration Act and the Bank of Canada Act (quarterly financial reports)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la gestion des finances publiques et la Loi sur la Banque du Canada (rapports financiers trimestriels)
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+WHEREAS Canadian taxpayers’ trust in the management of public moneys needs to be enhanced;
+
+
+
+
+
+
+
+
+AND WHEREAS Canadian taxpayers’ rights to quarterly financial reports from their federal public administration and Crown corporations should be similar to the rights held by shareholders of publicly traded companies;
+
+
+
+
+
+
+
+
+AND WHEREAS the requirements of a firm financial disclosure policy for federal public administration and Crown corporations and frequent disclosure to Parliament would lead to more openness and accountability;
+
+
+
+
+
+
+
+
+AND WHEREAS the discipline of more frequent financial reporting would give early warning of problems and enable more timely remedial action;
+
+
+
+
+
+
+
+
+AND WHEREAS Canadian taxpayers need to feel confident that public moneys are being managed prudently;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+qu’il y a lieu d’accroître la confiance des contribuables canadiens dans la gestion des fonds publics;
+
+
+
+
+
+
+
+
+que les contribuables canadiens devraient avoir les mêmes droits à des rapports trimestriels sur les finances de l’administration publique fédérale et des sociétés d’État que les actionnaires de sociétés publiques;
+
+
+
+
+
+
+
+
+que l’obligation pour l’administration publique fédérale et les sociétés d’État de dévoiler leurs données financières ainsi que la présentation plus fréquente de ces données au Parlement mèneraient à plus de transparence et de reddition de comptes;
+
+
+
+
+
+
+
+
+que la rigueur associée à la préparation plus fréquente de rapports financiers permettrait plus rapidement de déceler les problèmes et de prendre des mesures correctrices en temps opportun,
+
+
+
+
+
+
+
+
+que les contribuables canadiens doivent sentir que les fonds publics sont gérés avec prudence,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., c. F-11
+
+
+
+FINANCIAL ADMINISTRATION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA GESTION
+DES FINANCES PUBLIQUES
+
+
+
+L.R., 1985,
+ch. F-11
+
+
+
+
+
+
+
+
+
+
+
+
+1. The Financial Administration Act is amended by adding the following after section 65:
+
+
+
+
+
+
+
+
+
+1. La Loi sur la gestion des finances publiques est modifiée par adjonction, après l’article 65, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+PART VI.1
+
+
+
+
+
+
+
+
+
+PARTIE VI.1
+
+
+
+
+
+
+
+
+
+
+
+
+QUARTERLY FINANCIAL REPORTS
+
+
+
+
+
+
+
+
+
+RAPPORTS FINANCIERS TRIMESTRIELS
+
+
+
+
+
+
+
+
+
+
+
+
+Quarterly financial reports
+
+
+
+65.1 (1) During each fiscal year, every portion of the federal public administration named in Schedule I, IV or V shall cause to be prepared for submission to each House of Parliament a quarterly financial report for each three-month period of the fiscal year.
+
+
+
+
+
+
+
+
+
+65.1 (1) Au cours de chaque exercice, chaque élément de l’administration publique fédérale nommé aux annexes I, IV ou V fait établir, pour présentation à chaque chambre du Parlement, un rapport financier trimestriel.
+
+
+
+Rapports financiers trimestriels
+
+
+
+
+
+
+
+
+
+
+Contents
+
+
+
+(2) The quarterly financial report shall be prepared in accordance with generally accepted accounting principles using the accrual accounting method, and shall include
+
+
+
+
+
+
+
+
+(a) a balance sheet as at the end of the three-month period and a balance sheet as at the end of the preceding fiscal year;
+
+
+
+
+
+
+
+
+(b) comparative financial information for the corresponding three-month period in the preceding fiscal year;
+
+
+
+
+
+
+
+
+(c) a cash-flow statement;
+
+
+
+
+
+
+
+
+(d) a statement of revenues and expenditures; and
+
+
+
+
+
+
+
+
+(e) a management discussion and analysis on
+
+
+
+
+
+
+
+
+(i) material changes in operations,
+
+
+
+
+
+
+
+
+(ii) key changes in personnel,
+
+
+
+
+
+
+
+
+(iii) key changes in program parameters, and
+
+
+
+
+
+
+
+
+(iv) any other matter that, in the opinion of the appropriate Minister, should be brought to the attention of Parliament.
+
+
+
+
+
+
+
+
+
+(2) Le rapport financier trimestriel est établi selon les principes comptables généralement reconnus conformément à la méthode de la comptabilité d’exercice et renferme les éléments suivants :
+
+
+
+Contenu
+
+
+
+
+a) le bilan à la fin du trimestre et le bilan à la fin de l’exercice précédent;
+
+
+
+
+
+
+
+
+b) les données financières comparatives du trimestre correspondant de l’exercice précédent;
+
+
+
+
+
+
+
+
+c) l’état de l’évolution de la situation financière;
+
+
+
+
+
+
+
+
+d) l’état des recettes et des charges;
+
+
+
+
+
+
+
+
+e) un rapport de gestion sur :
+
+
+
+
+
+
+
+
+(i) les changements importants de fonctionnement,
+
+
+
+
+
+
+
+
+(ii) les changements touchant le personnel clé,
+
+
+
+
+
+
+
+
+(iii) les principaux changements apportés aux paramètres des programmes,
+
+
+
+
+
+
+
+
+(iv) tout autre sujet qui, de l’avis du ministre responsable, devrait être porté à l’attention du Parlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabling in Parliament
+
+
+
+(3) The appropriate Minister shall cause the report referred to in subsection (1) to be laid before each House of Parliament on any of the first 45 days on which that House is sitting after the end of each three-month period referred to that subsection.
+
+
+
+
+
+
+
+
+
+(3) Le ministre responsable fait déposer le rapport visé au paragraphe (1) devant chaque chambre du Parlement dans les quarante-cinq premiers jours de séance de celle-ci suivant la fin du trimestre mentionné au même paragraphe.
+
+
+
+Dépôt
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(4) This section applies in respect of each fiscal year beginning with the fiscal year next following that in which this section comes into force.
+
+
+
+
+
+
+
+
+
+(4) Le présent article s’applique à chaque exercice à compter du premier exercice suivant la date de l’entrée en vigueur du présent article.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after section 131:
+
+
+
+
+
+
+
+
+
+2. La même loi est modifiée par adjonction, après l’article 131, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Quarterly Financial Reports
+
+
+
+
+
+
+
+
+
+Rapports financiers trimestriels
+
+
+
+
+
+
+
+
+
+
+
+
+Quarterly financial reports
+
+
+
+131.1 (1) During each financial year, each parent Crown corporation shall cause to be prepared for submission to each House of Parliament, in respect of itself and its wholly-owned subsidiaries, if any, a quarterly financial report for each three-month period of the financial year.
+
+
+
+
+
+
+
+
+
+131.1 (1) Au cours de chaque exercice, chaque société d’État mère fait établir, pour présentation à chaque chambre du Parlement, un rapport financier trimestriel sur ses activités et celles de ses filiales à cent pour cent, s’il y a lieu.
+
+
+
+Rapports financiers trimestriels
+
+
+
+
+
+
+
+
+
+
+Contents
+
+
+
+(2) The quarterly financial report shall be prepared in accordance with generally accepted accounting principles using the accrual accounting method, and shall include
+
+
+
+
+
+
+
+
+(a) a balance sheet as at the end of the three-month period and a balance sheet as at the end of the preceding financial year;
+
+
+
+
+
+
+
+
+(b) comparative financial information for the corresponding three-month period in the preceding financial year;
+
+
+
+
+
+
+
+
+(c) a cash-flow statement;
+
+
+
+
+
+
+
+
+(d) a statement of retained earnings;
+
+
+
+
+
+
+
+
+(e) a statement of revenues and expenditures; and
+
+
+
+
+
+
+
+
+(f) a management discussion and analysis on
+
+
+
+
+
+
+
+
+(i) material changes in operations,
+
+
+
+
+
+
+
+
+(ii) key changes in personnel,
+
+
+
+
+
+
+
+
+(iii) key changes in program parameters, and
+
+
+
+
+
+
+
+
+(iv) any other matter that, in the opinion of the board of directors of the parent Crown corporation, should be brought to the attention of Parliament.
+
+
+
+
+
+
+
+
+
+(2) Le rapport financier trimestriel est établi selon les principes comptables généralement reconnus conformément à la méthode de la comptabilité d’exercice et renferme les éléments suivants :
+
+
+
+Contenu
+
+
+
+
+a) le bilan à la fin du trimestre et le bilan à la fin de l’exercice précédent;
+
+
+
+
+
+
+
+
+b) les données financières comparatives du trimestre correspondant de l’exercice précédent;
+
+
+
+
+
+
+
+
+c) l’état de l’évolution de la situation financière;
+
+
+
+
+
+
+
+
+d) l’état des bénéfices non répartis;
+
+
+
+
+
+
+
+
+e) l’état des recettes et des charges;
+
+
+
+
+
+
+
+
+f) un rapport de gestion sur :
+
+
+
+
+
+
+
+
+(i) les changements importants de fonctionnement,
+
+
+
+
+
+
+
+
+(ii) les changements touchant le personnel clé,
+
+
+
+
+
+
+
+
+(iii) les principaux changements apportés aux paramètres des programmes,
+
+
+
+
+
+
+
+
+(iv) tout autre sujet qui, de l’avis du conseil d’administration de la société d’État mère, devrait être porté à l’attention du Parlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabling in Parliament
+
+
+
+(3) The appropriate Minister shall cause the report referred to in subsection (1) to be laid before each House of Parliament on any of the first 45 days on which that House is sitting after the end of each three-month period referred to that subsection.
+
+
+
+
+
+
+
+
+
+(3) Le ministre responsable fait déposer le rapport visé au paragraphe (1) devant chaque chambre du Parlement dans les quarante-cinq premiers jours de séance de celle-ci suivant la fin du trimestre mentionné au même paragraphe.
+
+
+
+Dépôt
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(4) This section applies in respect of each financial year beginning with the financial year next following that in which this section comes into force.
+
+
+
+
+
+
+
+
+
+(4) Le présent article s’applique à chaque exercice à compter du premier exercice suivant la date d’entrée en vigueur du présent article.
+
+
+
+Application
+
+
+
+
+
+
+
+
+R.S., c. B-2
+
+
+
+BANK OF CANADA ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA BANQUE DU CANADA
+
+
+
+L.R., 1985, ch. B-2
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Bank of Canada Act is amended by adding the following after section 29:
+
+
+
+
+
+
+
+
+
+3. La Loi sur la Banque du Canada est modifiée par adjonction, après l’article 29, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Quarterly financial reports
+
+
+
+29.1 (1) During each financial year, the Bank shall prepare for submission to each House of Parliament a quarterly financial report for each three-month period of the financial year.
+
+
+
+
+
+
+
+
+
+29.1 (1) Au cours de chaque exercice, la Banque fait établir, pour présentation à chaque chambre du Parlement, un rapport financier trimestriel sur ses activités.
+
+
+
+Rapports financiers trimestriels
+
+
+
+
+
+
+
+
+
+
+Contents
+
+
+
+(2) The quarterly financial report, in the form prescribed by the by-laws of the Bank, shall be prepared in accordance with generally accepted accounting principles using the accrual accounting method, and shall include
+
+
+
+
+
+
+
+
+(a) a balance sheet as at the end of the three-month period and a balance sheet as at the end of the preceding financial year;
+
+
+
+
+
+
+
+
+(b) comparative financial information for the corresponding three-month period in the preceding financial year;
+
+
+
+
+
+
+
+
+(c) a cash-flow statement;
+
+
+
+
+
+
+
+
+(d) a statement of retained earnings;
+
+
+
+
+
+
+
+
+(e) a statement of revenues and expenses; and
+
+
+
+
+
+
+
+
+(f) a management discussion and analysis on
+
+
+
+
+
+
+
+
+(i) material changes in operations,
+
+
+
+
+
+
+
+
+(ii) key changes in personnel,
+
+
+
+
+
+
+
+
+(iii) key changes in program parameters, and
+
+
+
+
+
+
+
+
+(iv) any other matter that, in the opinion of the Governor, should be brought to the attention of Parliament.
+
+
+
+
+
+
+
+
+
+(2) Le rapport financier trimestriel est établi selon les principes comptables généralement reconnus conformément à la méthode de la comptabilité d’exercice, selon la présentation prescrite par les règlements de la Banque, et renferme les éléments suivants :
+
+
+
+Contenu
+
+
+
+
+a) le bilan à la fin du trimestre et le bilan à la fin de l’exercice précédent;
+
+
+
+
+
+
+
+
+b) les données financières comparatives du trimestre correspondant de l’exercice précédent;
+
+
+
+
+
+
+
+
+c) l’état de l’évolution de la situation financière;
+
+
+
+
+
+
+
+
+d) l’état des bénéfices non répartis;
+
+
+
+
+
+
+
+
+e) l’état des recettes et des charges;
+
+
+
+
+
+
+
+
+f) un rapport de gestion sur :
+
+
+
+
+
+
+
+
+(i) les changements importants de fonctionnement,
+
+
+
+
+
+
+
+
+(ii) les changements touchant le personnel clé,
+
+
+
+
+
+
+
+
+(iii) les principaux changements apportés aux paramètres des programmes,
+
+
+
+
+
+
+
+
+(iv) tout autre sujet qui, de l’avis du gouverneur, devrait être porté à l’attention du Parlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabling in Parliament
+
+
+
+(3) The appropriate Minister shall cause the report referred to in subsection (1) to be laid before each House of Parliament on any of the first 45 days on which that House is sitting after the end of each three-month period referred to that subsection.
+
+
+
+
+
+
+
+
+
+(3) Le ministre responsable fait déposer le rapport visé au paragraphe (1) devant chaque chambre du Parlement dans les quarante-cinq premiers jours de séance de celle-ci suivant la fin du trimestre mentionné au même paragraphe.
+
+
+
+Dépôt
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+(4) This section applies in respect of each financial year beginning with the first financial year next following that in which this section comes into force.
+
+
+
+
+
+
+
+
+
+(4) Le présent article s’applique à chaque exercice à compter du premier exercice suivant la date d’entrée en vigueur du présent article.
+
+
+
+Application
+
+
+
+
+
+
+
+
+
+
+
+
+4. Paragraph 35(1)(d) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. L’alinéa 35(1)d) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) the form of the quarterly financial reports and the annual statement of accounts; and
+
+
+
+
+
+
+
+
+
+d) la présentation du rapport financier trimestriel et de l’état de compte annuel;
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+5. This Act comes into force 120 days after the day on which it receives royal assent.
+
+
+
+
+
+
+
+
+
+5. La présente loi entre en vigueur cent-vingt jours après sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Financial Administration Act
+Clause 1: New.
+
+
+
+Loi sur la gestion des finances publiques
+Article 1 : Nouveau.
+
+
+
+
+Clause 2: New.
+
+
+
+Article 2 : Nouveau.
+
+
+
+
+Bank of Canada Act
+Clause 3: New.
+
+
+
+Loi sur la Banque du Canada
+Article 3 : Nouveau.
+
+
+
+
+Clause 4: Relevant portion of paragraph 35(1)(d):
+35. (1) The Board, with the approval of the Governor in Council, may make by-laws with respect to
+. . . 
+(d) the form of the annual statement of accounts; and
+
+
+
+Article  4 : Partie pertinente de l’alinea 35(1)d) :
+35. (1) Dans le cadre de la présente loi et avec l’agrément du gouverneur en conseil, le conseil peut, par règlement administratif, prévoir :
+[. . .] 
+d) la présentation de l’état de compte annuel;
+
+
+
+

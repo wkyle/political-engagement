@@ -1,0 +1,6267 @@
+
+
+
+
+
+
+C-23B
+
+
+
+
+
+C-23B
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+
+
+
+
+
+Troisième session, quarantième législature,
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-23B
+
+
+
+
+
+PROJET DE LOI C-23B
+
+
+
+
+
+
+An Act to amend the Criminal Records Act and to make consequential amendments to other Acts
+
+
+
+
+
+Loi modifiant la Loi sur le casier judiciaire et d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pursuant to the order of the House of Commons dated June 17, 2010, prepared as a working copy for the use of the Standing Committee on Public Safety and National Security
+
+
+
+
+
+En vertu de l’ordre du 17 juin 2010 de la Chambre des communes, préparé comme document de travail à l’usage du comité permanent de la sécurité publique et nationale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MINISTER OF PUBLIC SAFETY
+
+90560
+
+
+
+MINISTRE DE LA SÉCURITÉ PUBLIQUE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Records Act to substitute the term “record suspension” for the term “pardon”. It extends the ineligibility periods for applications for a record suspension. It also makes certain offences ineligible for a record suspension and enables the National Parole Board to consider additional factors when deciding whether to order a record suspension.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur le casier judiciaire afin de remplacer le terme « réhabilitation » par « suspension du casier » et d’allonger la période d’inadmissibilité pour la présentation d’une demande de suspension du casier. Il rend aussi certaines infractions inadmissibles à la suspension du casier et donne à la Commission nationale des libérations conditionnelles le pouvoir de tenir compte de critères additionnels pour décider d’ordonner ou de refuser la suspension du casier.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3rd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+3e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+59 Elizabeth II, 2010
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-23B
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-23B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Records Act and to make consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le casier judiciaire et d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Eliminating Pardons for Serious Crimes Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi supprimant l’admissibilité à la réhabilitation pour des crimes graves.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-47
+
+
+
+CRIMINAL RECORDS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE CASIER JUDICIAIRE
+
+
+
+L.R., ch. C-47
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The long title of the Criminal Records Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le titre intégral de la Loi sur le casier judiciaire est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to provide for the suspension of the records of persons who have been convicted of offences and have subsequently rehabilitated themselves
+
+
+
+
+
+
+
+
+
+Loi relative à la suspension du casier judiciaire des condamnés qui se sont réadaptés
+
+
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 1(1)
+
+
+
+
+3. (1) The definition “pardon” in subsection 2(1) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+3. (1) La définition de « réhabilitation », au paragraphe 2(1) de la même loi, est abrogée.
+
+
+
+1992, ch. 22, par. 1(1)
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 2(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“child”« enfant »
+
+
+
+“child” means a person who is less than 18 years of age;
+
+
+
+
+“Executive Committee”« Bureau »
+
+
+
+“Executive Committee” means the Executive Committee of the Board referred to in subsection 151(1) of the Corrections and Conditional Release Act;
+
+
+
+
+“record suspension”« suspension du casier »
+
+
+
+“record suspension” means a measure ordered by the Board under section 4.1;
+
+
+
+
+“service offence”« infraction d’ordre militaire »
+
+
+
+“service offence” has the same meaning as in subsection 2(1) of the National Defence Act;
+
+
+
+
+
+
+
+
+
+« Bureau » Le Bureau de la Commission visé au paragraphe 151(1) de la Loi sur le système correctionnel et la mise en liberté sous condition.
+
+
+
+« Bureau »“Executive Committee”
+
+
+
+
+« enfant » Personne âgée de moins de dix-huit ans.
+
+
+
+« enfant »“child”
+
+
+
+
+« infraction d’ordre militaire » S’entend au sens du paragraphe 2(1) de la Loi sur la défense nationale.
+
+
+
+« infraction d’ordre militaire »“service offence”
+
+
+
+
+« suspension du casier » Mesure ordonnée par la Commission en vertu de l’article 4.1.
+
+
+
+« suspension du casier »“record suspension”
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 2(1)
+
+
+
+
+4. Section 2.1 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. L’article 2.1 de la même loi est remplacé par ce qui suit :
+
+
+
+1992, ch. 22, par. 2(1)
+
+
+
+
+
+
+
+
+
+
+Jurisdiction of the Board
+
+
+
+
+2.1 The Board has exclusive jurisdiction and absolute discretion to order, refuse to order or revoke a record suspension.
+
+
+
+
+
+
+
+
+
+
+2.1 La Commission a toute compétence et latitude pour ordonner, refuser ou révoquer la suspension du casier.
+
+
+
+Attributions
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 2(1)
+
+
+
+
+5. (1) Subsection 2.2(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. (1) Le paragraphe 2.2(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1992, ch. 22, par. 2(1)
+
+
+
+
+
+
+
+
+
+
+Quorum
+
+
+
+
+2.2 (1) An application for a record suspension shall be determined, and a decision whether to revoke a record suspension under section 7 shall be made, by a panel that consists of one member of the Board.
+
+
+
+
+
+
+
+
+
+
+2.2 (1) L’examen des demandes de suspension du casier ainsi que des dossiers en vue d’une révocation de suspension du casier visée à l’article 7 est mené par un membre de la Commission.
+
+
+
+Instruction
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, ss. 2(1) and (2)(E)
+
+
+
+(2) Subsection 2.2(2) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 2.2(2) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+1992, ch. 22, par. 2(1) et (2)(A)
+
+
+
+
+
+
+
+
+
+
+Panel of two or more persons
+
+
+
+(2) The Chairperson of the Board may direct that the number of members of the Board required to constitute a panel to determine an application for a record suspension, to decide whether to revoke a record suspension under section 7 or to determine any class of those applications or make any class of those decisions shall be greater than one.
+
+
+
+
+
+
+
+
+
+
+(2) The Chairperson of the Board may direct that the number of members of the Board required to constitute a panel to determine an application for a record suspension, to decide whether to revoke a record suspension under section 7 or to determine any class of those applications or make any class of those decisions shall be greater than one.
+
+
+
+
+Panel of two or more persons
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Act is amended by adding the following after section 2.2:
+
+
+
+
+
+
+
+
+
+
+6. La même loi est modifiée par adjonction, après l’article 2.2, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EFFECT OF RECORD SUSPENSION
+
+
+
+
+
+
+
+2.3 A record suspension
+
+
+
+
+
+
+(a) is evidence of the fact that
+
+
+
+
+
+
+(i) the Board, after making inquiries, was satisfied that the applicant was of good conduct, and
+
+
+
+
+
+
+(ii) the conviction in respect of which the record suspension is ordered should no longer reflect adversely on the applicant’s character; and
+
+
+
+
+
+
+(b) unless the record suspension is subsequently revoked or ceases to have effect, requires that the judicial record of the conviction be kept separate and apart from other criminal records and removes any disqualification or obligation to which the applicant is, by reason of the conviction, subject under any Act of Parliament, other than section 109, 110, 161, 259, 490.012 or 490.019 of the Criminal Code or subsection 147.1(1) or section 227.01 or 227.06 of the National Defence Act.
+
+
+
+
+
+
+
+
+
+EFFET DE LA SUSPENSION DU CASIER
+
+
+
+
+
+
+
+2.3 La suspension du casier :
+
+
+
+
+
+
+
+a) d’une part, établit la preuve des faits suivants :
+
+
+
+
+
+
+(i) la Commission, après avoir mené les enquêtes, a été convaincue que le demandeur s’était bien conduit,
+
+
+
+
+
+
+(ii) la condamnation en cause ne devrait plus ternir la réputation du demandeur;
+
+
+
+
+
+
+
+b) d’autre part, sauf cas de révocation ultérieure ou de nullité, entraîne le classement du dossier ou du relevé de la condamnation à part des autres dossiers judiciaires et fait cesser toute incapacité ou obligation — autre que celles imposées au titre des articles 109, 110, 161, 259, 490.012 ou 490.019 du Code criminel ou du paragraphe 147.1(1) ou des articles 227.01 ou 227.06 de la Loi sur la défense nationale — que la condamnation pouvait entraîner en vertu d’une loi fédérale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. The heading before section 3 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. L’intertitre précédant l’article 3 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPLICATION FOR RECORD SUSPENSION
+
+
+
+
+
+
+
+
+
+DEMANDE DE SUSPENSION DU CASIER
+
+
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 3; 2004, c. 21, par. 40(1)(b)
+
+
+
+
+8. Subsection 3(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. Le paragraphe 3(1) de la même loi est remplacé par ce qui suit :
+
+
+
+1992, ch. 22, art. 3; 2004, ch. 21, al. 40(1)b)
+
+
+
+
+
+
+
+
+
+
+Application for record suspension
+
+
+
+
+3. (1) Subject to section 4, a person who has been convicted of an offence under an Act of Parliament may apply to the Board for a record suspension in respect of that offence, and a Canadian offender, within the meaning of the International Transfer of Offenders Act, who has been transferred to Canada under that Act may apply to the Board for a record suspension in respect of the offence of which he or she has been found guilty.
+
+
+
+
+
+
+
+
+
+
+3. (1) Sous réserve de l’article 4, toute personne condamnée pour une infraction à une loi fédérale peut présenter une demande de suspension du casier à la Commission à l’égard de cette infraction et un délinquant canadien — au sens de la Loi sur le transfèrement international des délinquants — transféré au Canada par application de cette loi peut présenter une demande de suspension du casier à la Commission à l’égard de l’infraction dont il a été déclaré coupable.
+
+
+
+Demandes de suspension du casier
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 4(1); 1997, c. 17, s. 38; 2000, c. 1, s. 1(F)
+
+
+
+
+9. Sections 4 to 4.1 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. Les articles 4 à 4.1 de la même loi sont remplacés par ce qui suit :
+
+
+
+1992, ch. 22, par. 4(1); 1997, ch. 17, art. 38; 2000, ch. 1, art. 1(F)
+
+
+
+
+
+
+
+
+
+
+Restrictions on application for record suspension
+
+
+
+
+4. (1) A person is ineligible to apply for a record suspension until the following period has elapsed after the expiry according to law of any sentence, including a sentence of imprisonment, a period of probation and the payment of any fine, imposed for an offence:
+
+
+
+
+
+
+
+
+
+
+(a) 10 years, in the case of an offence that is prosecuted by indictment or is a service offence for which the offender was punished by a fine of more than five thousand dollars, detention for more than six months, dismissal from Her Majesty’s service, imprisonment for more than six months or a punishment that is greater than imprisonment for less than two years in the scale of punishments set out in subsection 139(1) of the National Defence Act; or
+
+
+
+
+
+
+
+
+
+
+(b) five years, in the case of an offence that is punishable on summary conviction or is a service offence other than a service offence referred to in paragraph (a).
+
+
+
+
+
+
+
+
+
+
+4. (1) Nul n’est admissible à présenter une demande de suspension du casier avant que la période consécutive à l’expiration légale de la peine, notamment une peine d’emprisonnement, une période de probation ou le paiement d’une amende, énoncée ci-dessous ne soit écoulée :
+
+
+
+Restrictions relatives aux demandes de suspension du casier
+
+
+
+
+
+a) dix ans pour l’infraction qui est punissable par voie de mise en accusation ou qui est une infraction d’ordre militaire en cas de condamnation à une amende de plus de cinq mille dollars, à une peine de détention de plus de six mois, à la destitution du service de Sa Majesté, à l’emprisonnement de plus de six mois ou à une peine plus lourde que l’emprisonnement pour moins de deux ans selon l’échelle des peines établie au paragraphe 139(1) de la Loi sur la défense nationale;
+
+
+
+
+
+
+
+
+
+
+
+b) cinq ans pour l’infraction qui est punissable sur déclaration de culpabilité par procédure sommaire ou qui est une infraction d’ordre militaire autre que celle visée à l’alinéa a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ineligible persons
+
+
+
+(2) Subject to subsection (3), a person is ineligible to apply for a record suspension if he or she has been convicted of
+
+
+
+
+
+
+
+
+
+
+(a) an offence referred to in Schedule 1; or
+
+
+
+
+
+
+
+
+
+
+(b) more than three offences each of which either was prosecuted by indictment or is a service offence that is subject to a maximum punishment of imprisonment for life and for which the person was sentenced to imprisonment for two years or more.
+
+
+
+
+
+
+
+
+
+(2) Sous réserve du paragraphe (3), n’est pas admissible à présenter une demande de suspension du casier la personne qui a été condamnée :
+
+
+
+Personnes inadmissibles
+
+
+
+
+
+a) soit pour une infraction visée à l’annexe 1;
+
+
+
+
+
+
+
+
+
+
+
+b) soit pour plus de trois infractions dont chacune a fait l’objet d’une poursuite par voie de mise en accusation, ou, s’agissant d’infractions d’ordre militaire passibles d’emprisonnement à perpétuité, s’il lui a été infligé pour chacune une peine d’emprisonnement de deux ans ou plus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(3) A person who has been convicted of an offence referred to in item 3 of Schedule 1 may apply for a record suspension if the Board is satisfied that
+
+
+
+
+
+
+
+
+
+
+(a) the person was not in a position of trust or authority towards the victim of the offence and the victim was not in a relationship of dependency with him or her;
+
+
+
+
+
+
+
+
+
+
+(b) the person did not use, threaten to use or attempt to use violence, intimidation or coercion in relation to the victim; and
+
+
+
+
+
+
+
+
+
+
+(c) the person was less than five years older than the victim.
+
+
+
+
+
+
+
+
+
+(3) La personne qui a été condamnée pour une infraction visée à l’article 3 de l’annexe 1 peut présenter une demande de suspension du casier si la Commission est convaincue :
+
+
+
+Exception
+
+
+
+
+
+a) qu’elle n’était pas en situation d’autorité ou de confiance vis-à-vis de la victime de l’infraction et que la victime n’était pas en situation de dépendance vis-à-vis d’elle;
+
+
+
+
+
+
+
+
+
+
+
+b) qu’elle n’a pas usé de violence, d’intimidation ou de contrainte envers la victime, ni tenté ou menacé de le faire;
+
+
+
+
+
+
+
+
+
+
+
+c) qu’elle était de moins de cinq ans l’aînée de la victime.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Onus — exception
+
+
+
+(4) The person has the onus of satisfying the Board that the conditions referred to in subsection (3) are met.
+
+
+
+
+
+
+
+
+
+(4) Cette personne a le fardeau de convaincre la Commission de l’existence des conditions visées au paragraphe (3).
+
+
+
+Fardeau : exception
+
+
+
+
+
+
+
+
+
+
+Exception — long-term supervision
+
+
+
+
+4.01 The period during which a person is supervised under an order for long-term supervision, within the meaning of subsection 2(1) of the Corrections and Conditional Release Act, is not included in the calculation of the period referred to in subsection 4(1).
+
+
+
+
+
+
+
+
+
+
+4.01 La période pendant laquelle une personne est surveillée aux termes d’une ordonnance de surveillance de longue durée, au sens du paragraphe 2(1) de la Loi sur le système correctionnel et la mise en liberté sous condition, n’est pas prise en considération dans la détermination de la période visée au paragraphe 4(1).
+
+
+
+Exception : surveillance de longue durée
+
+
+
+
+
+
+
+
+
+
+Record suspension
+
+
+
+
+4.1 (1) The Board may order that an applicant’s record in respect of an offence be suspended if the Board is satisfied that
+
+
+
+
+
+
+
+
+
+
+(a) the applicant, during the applicable period referred to in subsection 4(1), has been of good conduct and has not been convicted of an offence under an Act of Parliament; and
+
+
+
+
+
+
+
+
+
+
+(b) in the case of an offence referred to in paragraph 4(1)(a), ordering the record suspension at that time would provide a measurable benefit to the applicant, would sustain his or her rehabilitation in society as a law-abiding citizen and would not bring the administration of justice into disrepute.
+
+
+
+
+
+
+
+
+
+
+4.1 (1) La Commission peut ordonner que le casier judiciaire du demandeur soit suspendu à l’égard d’une infraction lorsqu’elle est convaincue :
+
+
+
+Suspension du casier
+
+
+
+
+
+a) que le demandeur s’est bien conduit pendant la période applicable mentionnée au paragraphe 4(1) et qu’aucune condamnation, au titre d’une loi du Parlement, n’est intervenue pendant cette période;
+
+
+
+
+
+
+
+
+
+
+
+b) dans le cas d’une infraction visée à l’alinéa 4(1)a), que le fait d’ordonner à ce moment la suspension du casier apporterait au demandeur un bénéfice mesurable, soutiendrait sa réadaptation en tant que citoyen respectueux des lois au sein de la société et ne serait pas susceptible de déconsidérer l’administration de la justice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Onus on applicant
+
+
+
+(2) In the case of an offence referred to in paragraph 4(1)(a), the applicant has the onus of satisfying the Board that the record suspension would provide a measurable benefit to the applicant and would sustain his or her rehabil- itation in society as a law-abiding citizen.
+
+
+
+
+
+
+
+
+
+(2) Dans le cas d’une infraction visée à l’alinéa 4(1)a), le demandeur a le fardeau de convaincre la Commission que la suspension du casier lui apporterait un bénéfice mesurable et soutiendrait sa réadaptation en tant que citoyen respectueux des lois au sein de la société.
+
+
+
+Fardeau du demandeur
+
+
+
+
+
+
+
+
+
+
+Factors
+
+
+
+(3) In determining whether ordering the record suspension would bring the administration of justice into disrepute, the Board may consider
+
+
+
+
+
+
+
+
+
+
+(a) the nature, gravity and duration of the offence;
+
+
+
+
+
+
+
+
+
+
+(b) the circumstances surrounding the commission of the offence;
+
+
+
+
+
+
+
+
+
+
+(c) information relating to the applicant’s criminal history and, in the case of a service offence, to any service offence history of the applicant that is relevant to the application; and
+
+
+
+
+
+
+
+
+
+
+(d) any factor that is prescribed by regulation.
+
+
+
+
+
+
+
+
+
+(3) Afin de déterminer si le fait d’ordonner la suspension du casier serait susceptible de déconsidérer l’administration de la justice, la Commission peut tenir compte des critères suivants :
+
+
+
+Critères
+
+
+
+
+
+a) la nature et la gravité de l’infraction ainsi que la durée de sa perpétration;
+
+
+
+
+
+
+
+
+
+
+
+b) les circonstances entourant la perpétration de l’infraction;
+
+
+
+
+
+
+
+
+
+
+
+c) les renseignements concernant les antécédents criminels du demandeur et, dans le cas d’une infraction d’ordre militaire, concernant ses antécédents à l’égard d’infractions d’ordre militaire qui sont pertinents au regard de la demande;
+
+
+
+
+
+
+
+
+
+
+
+d) tout critère prévu par règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 4(1); 2000, c. 1, s. 2
+
+
+
+
+10. (1) Subsections 4.2(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+10. (1) Les paragraphes 4.2(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+1992, ch. 22, par. 4(1); 2000, ch. 1, art. 2
+
+
+
+
+
+
+
+
+
+
+Inquiries
+
+
+
+
+4.2 (1) On receipt of an application for a record suspension, the Board
+
+
+
+
+
+
+
+
+
+
+(a) shall cause inquiries to be made to ascertain whether the applicant is eligible to make the application;
+
+
+
+
+
+
+
+
+
+
+(b) if the applicant is eligible, shall cause inquiries to be made to ascertain the applicant’s conduct since the date of the conviction; and
+
+
+
+
+
+
+
+
+
+
+(c) may, in the case of an offence referred to in paragraph 4(1)(a), cause inquiries to be made with respect to any factors that it may consider in determining whether ordering the record suspension would bring the administration of justice into disrepute.
+
+
+
+
+
+
+
+
+
+
+4.2 (1) Sur réception d’une demande de suspension du casier, la Commission :
+
+
+
+Enquêtes
+
+
+
+
+
+a) fait procéder à des enquêtes en vue de déterminer si le demandeur est admissible à présenter la demande;
+
+
+
+
+
+
+
+
+
+
+
+b) si le demandeur est admissible, fait procéder aux enquêtes pour connaître sa conduite, depuis la date de sa condamnation;
+
+
+
+
+
+
+
+
+
+
+
+c) peut, dans le cas d’une infraction visée à l’alinéa 4(1)a), faire procéder à des enquêtes au sujet des critères sur lesquels elle peut se fonder pour déterminer si le fait d’ordonner la suspension du casier serait susceptible de déconsidérer l’administration de la justice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Entitlement to make representations
+
+
+
+(2) If the Board proposes to refuse to order a record suspension, it shall notify in writing the applicant of its proposal and advise the applicant that he or she is entitled to make, or have made on his or her behalf, any representations to the Board that he or she believes relevant either in writing or, with the Board’s authorization, orally at a hearing held for that purpose.
+
+
+
+
+
+
+
+
+
+(2) Si elle se propose de refuser la suspension du casier, elle en avise par écrit le demandeur et lui fait part de son droit de présenter ou de faire présenter pour son compte les observations qu’il estime utiles soit par écrit soit, dans le cas où elle l’y autorise, oralement dans le cadre d’une audience tenue à cette fin.
+
+
+
+Droit de présenter des observations
+
+
+
+
+
+
+
+
+
+
+2000, c. 1, s. 2
+
+
+
+(2) Subsection 4.2(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 4.2(4) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 1, art. 2
+
+
+
+
+
+
+
+
+
+
+Waiting period
+
+
+
+(4) An applicant may not re-apply for a record suspension until the expiry of one year after the day on which the Board refuses to order a record suspension.
+
+
+
+
+
+
+
+
+
+(4) Aucune autre demande ne peut être présentée avant l’expiration d’un an à compter de la date du refus de la suspension du casier.
+
+
+
+Délai en cas de refus
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. The Act is amended by adding the following after section 4.3:
+
+
+
+
+
+
+
+
+
+
+11. La même loi est modifiée par adjonction, après l’article 4.3, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Functions of Executive Committee
+
+
+
+
+4.4 The Executive Committee shall, after the consultation with Board members that it considers appropriate, adopt policies relating to applications for record suspensions, including related inquiries and proceedings.
+
+
+
+
+
+
+
+
+
+
+4.4 Après avoir consulté les membres de la Commission de la façon qu’il estime indiquée, le Bureau établit des directives régissant les demandes de suspension du casier, notamment les enquêtes et procédures afférentes.
+
+
+
+Attributions du Bureau
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 5; 2000, c. 1, s. 3; 2007, c. 5, s. 50
+
+
+
+
+12. Section 5 of the Act and the heading before it are repealed.
+
+
+
+
+
+
+
+
+
+
+12. L’article 5 de la même loi et l’intertitre le précédant sont abrogés.
+
+
+
+1992, ch. 22, art. 5; 2000, ch. 1, art. 3; 2007, ch. 5, art. 50
+
+
+
+
+
+
+
+
+
+
+2000, c. 1, s. 5(E)
+
+
+
+
+13. Subsections 6(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. Les paragraphes 6(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+2000, ch. 1, art. 5(A)
+
+
+
+
+
+
+
+
+
+
+Records to be delivered to Commissioner
+
+
+
+
+6. (1) The Minister may, by order in writing addressed to a person having the custody or control of a judicial record of a conviction in respect of which a record suspension has been ordered, require that person to deliver that record into the Commissioner’s custody.
+
+
+
+
+
+
+
+
+
+
+6. (1) Le ministre peut, par écrit, ordonner à toute personne ayant la garde ou la responsabilité du dossier judiciaire relatif à la condamnation visée par la suspension du casier de le remettre au commissaire.
+
+
+
+Transmission au commissaire
+
+
+
+
+
+
+
+
+
+
+Records to be kept separate and not to be disclosed
+
+
+
+(2) A record of a conviction in respect of which a record suspension has been ordered that is in the custody of the Commissioner or of any department or agency of the Government of Canada shall be kept separate and apart from other criminal records. No such record shall be disclosed to any person, nor shall the existence of the record or the fact of the conviction be disclosed to any person, without the prior approval of the Minister.
+
+
+
+
+
+
+
+
+
+(2) Tout dossier ou relevé de la condamnation visée par la suspension du casier que garde le commissaire ou un ministère ou organisme fédéral doit être classé à part des autres dossiers ou relevés relatifs à des affaires pénales et il est interdit de le communiquer, d’en révéler l’existence ou de révéler le fait de la condamnation sans l’autorisation préalable du ministre.
+
+
+
+Classement et interdiction de communiquer
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 6
+
+
+
+
+14. The portion of section 6.2 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. Le passage de l’article 6.2 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1992, ch. 22, art. 6
+
+
+
+
+
+
+
+
+
+
+Disclosure to police forces
+
+
+
+
+6.2 Despite sections 6 and 6.1, the name, date of birth and last known address of a person whose record is suspended under section 4.1 or who has received a discharge referred to in section 6.1 may be disclosed to a police force if a fingerprint, identified as that of the person, is found
+
+
+
+
+
+
+
+
+
+
+6.2 Malgré les articles 6 et 6.1, les nom, date de naissance et domicile de la personne dont le casier est suspendu en application de l’article 4.1 ou dont l’absolution est visée à l’article 6.1 peuvent être communiqués sans délai aux services de police compétents lorsque des empreintes digitales sont identifiées comme étant les siennes dans le cadre :
+
+
+
+Divulgation aux services de police
+
+
+
+
+
+
+
+
+
+
+2000, c. 1, s. 6
+
+
+
+
+15. (1) Subsections 6.3(1) to (3) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. (1) Les paragraphes 6.3(1) à (3) de la même loi sont remplacés par ce qui suit :
+
+
+
+2000, ch. 1, art. 6
+
+
+
+
+
+
+
+
+
+
+Definition of “vulnerable person”
+
+
+
+
+6.3 (1) In this section, “vulnerable person” means a person who, because of his or her age, a disability or other circumstances, whether temporary or permanent,
+
+
+
+
+
+
+
+
+
+
+(a) is in a position of dependency on others; or
+
+
+
+
+
+
+
+
+
+
+(b) is otherwise at a greater risk than the general population of being harmed by a person in a position of trust or authority towards them.
+
+
+
+
+
+
+
+
+
+
+6.3 (1) Au présent article, « personne vulnérable » s’entend d’une personne qui, en raison de son âge, d’une déficience ou d’autres circonstances temporaires ou permanentes :
+
+
+
+Définition de « personne vulnérable »
+
+
+
+
+
+a) soit est en position de dépendance par rapport à d’autres personnes;
+
+
+
+
+
+
+
+
+
+
+
+b) soit court un risque d’abus ou d’agression plus élevé que la population en général de la part d’une personne en situation d’autorité ou de confiance vis-à-vis d’elle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notation of records
+
+
+
+(2) The Commissioner shall make, in the automated criminal conviction records retrieval system maintained by the Royal Canadian Mounted Police, a notation enabling a member of a police force or other authorized body to determine whether there is a record of an individual’s conviction for an offence listed in Schedule 2 in respect of which a record suspension has been ordered.
+
+
+
+
+
+
+
+
+
+(2) Le commissaire doit inclure dans le fichier automatisé des relevés de condamnations criminelles géré par la Gendarmerie royale du Canada une indication permettant à un corps policier ou autre organisme autorisé de constater qu’il existe, relativement à une personne, un dossier ou relevé d’une condamnation pour une infraction mentionnée à l’annexe 2 à l’égard de laquelle une suspension du casier a été ordonnée.
+
+
+
+Indication sur certains dossiers
+
+
+
+
+
+
+
+
+
+
+Verification
+
+
+
+(3) At the request of any person or organization responsible for the well-being of a child or vulnerable person and to whom or to which an application is made for a paid or volunteer position, a member of a police force or other authorized body shall verify whether the applicant is the subject of a notation made in accordance with subsection (2) if
+
+
+
+
+
+
+
+
+
+
+(a) the position is one of trust or authority towards that child or vulnerable person; and
+
+
+
+
+
+
+
+
+
+
+(b) the applicant has consented in writing to the verification.
+
+
+
+
+
+
+
+
+
+(3) Un corps policier ou autre organisme autorisé doit, à la demande d’un particulier ou d’une organisation responsable du bien-être d’un enfant ou d’une personne vulnérable, vérifier si la personne qui postule un emploi — rémunéré ou à titre bénévole — auprès de ce particulier ou de cette organisation fait l’objet de l’indication mentionnée au paragraphe (2) lorsque :
+
+
+
+Vérification
+
+
+
+
+
+a) d’une part, l’emploi placerait le postulant en situation d’autorité ou de confiance vis-à-vis de l’enfant ou de la personne vulnérable;
+
+
+
+
+
+
+
+
+
+
+
+b) d’autre part, le postulant a consenti par écrit à la vérification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 1, s. 6
+
+
+
+(2) Subsection 6.3(9) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 6.3(9) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 1, art. 6
+
+
+
+
+
+
+
+
+
+
+Amendment of schedule
+
+
+
+(9) The Governor in Council may, by order, amend Schedule 1 or 2 by adding or deleting a reference to an offence.
+
+
+
+
+
+
+
+
+
+(9) Le gouverneur en conseil peut, par décret, modifier les annexes 1 ou 2 pour y ajouter ou en retrancher une infraction.
+
+
+
+Modification d’annexe
+
+
+
+
+
+
+
+
+
+
+2000, c. 1, s. 6
+
+
+
+
+16. Section 6.4 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+16. L’article 6.4 de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 1, art. 6
+
+
+
+
+
+
+
+
+
+
+Operation of section 6.3
+
+
+
+
+6.4 Section 6.3 applies in respect of a record of a conviction for any offence in respect of which a record suspension has been ordered regardless of the date of the conviction.
+
+
+
+
+
+
+
+
+
+
+6.4 L’article 6.3 s’applique au dossier ou relevé d’une condamnation pour toute infraction à l’égard de laquelle une suspension du casier a été ordonnée, indépendamment de la date de la condamnation.
+
+
+
+Application de l’article 6.3
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 7
+
+
+
+
+17. Section 7 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. L’article 7 de la même loi est remplacé par ce qui suit :
+
+
+
+1992, ch. 22, art. 7
+
+
+
+
+
+
+
+
+
+
+Revocation of record suspension
+
+
+
+
+7. A record suspension may be revoked by the Board
+
+
+
+
+
+
+
+
+
+
+(a) if the person to whom it relates is subsequently convicted of an offence referred to in paragraph 4(1)(b);
+
+
+
+
+
+
+
+
+
+
+(b) on evidence establishing to the satisfaction of the Board that the person to whom it relates is no longer of good conduct; or
+
+
+
+
+
+
+
+
+
+
+(c) on evidence establishing to the satisfaction of the Board that the person to whom it relates knowingly made a false or deceptive statement in relation to the application for the record suspension, or knowingly concealed some material particular in relation to that application.
+
+
+
+
+
+
+
+
+
+
+7. La Commission peut révoquer la suspension du casier dans l’un ou l’autre des cas suivants :
+
+
+
+Cas de révocation
+
+
+
+
+
+a) la personne dont le casier a été suspendu est condamnée pour une nouvelle infraction visée à l’alinéa 4(1)b);
+
+
+
+
+
+
+
+
+
+
+
+b) il existe des preuves convaincantes, selon elle, du fait que l’intéressé a cessé de bien se conduire;
+
+
+
+
+
+
+
+
+
+
+
+c) il existe des preuves convaincantes, selon elle, que l’intéressé avait délibérément, à l’occasion de sa demande de suspension du casier, fait une déclaration inexacte ou trompeuse, ou dissimulé un point important.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 1, s. 7
+
+
+
+
+18. (1) Subsection 7.1(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+18. (1) Le paragraphe 7.1(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 1, art. 7
+
+
+
+
+
+
+
+
+
+
+Entitlement to make representations
+
+
+
+
+7.1 (1) If the Board proposes to revoke a record suspension, it shall notify in writing the person to whom it relates of its proposal and advise that person that he or she is entitled to make, or have made on his or her behalf, any representations to the Board that he or she believes relevant either in writing or, with the Board’s authorization, orally at a hearing held for that purpose.
+
+
+
+
+
+
+
+
+
+
+7.1 (1) Si elle se propose de révoquer la suspension du casier, la Commission en avise par écrit l’intéressé et lui fait part de son droit de présenter ou de faire présenter pour son compte les observations qu’il estime utiles soit par écrit soit, dans le cas où elle l’y autorise, oralement dans le cadre d’une audience tenue à cette fin.
+
+
+
+Droit de présenter des observations
+
+
+
+
+
+
+
+
+
+
+2000, c. 1, s. 7
+
+
+
+(2) Subsection 7.1(2) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 7.1(2) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 1, art. 7
+
+
+
+
+
+
+
+
+
+
+Board to consider representations
+
+
+
+(2) The Board shall, before making its decision, consider any representations made to it within a reasonable time after the notification is given to a person under subsection (1).
+
+
+
+
+
+
+
+
+
+
+(2) The Board shall, before making its decision, consider any representations made to it within a reasonable time after the notification is given to a person under subsection (1).
+
+
+
+
+Board to consider representations
+
+
+
+
+
+
+
+
+
+
+2000, c. 1, s. 7
+
+
+
+
+19. Section 7.2 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+19. L’article 7.2 de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 1, art. 7
+
+
+
+
+
+
+
+
+
+
+Cessation of effect of record suspension
+
+
+
+
+7.2 A record suspension ceases to have effect if
+
+
+
+
+
+
+
+
+
+
+(a) the person to whom it relates is subsequently convicted of
+
+
+
+
+
+
+
+
+
+
+(i) an offence referred to in paragraph 4(1)(a), or
+
+
+
+
+
+
+
+
+
+
+(ii) an offence under the Criminal Code, except subsection 255(1), or under the Controlled Drugs and Substances Act, the Firearms Act, Part III or IV of the Food and Drugs Act or the Narcotic Control Act, chapter N-1 of the Revised Statutes of Canada, 1985, that is punishable either on conviction on indictment or on summary conviction; or
+
+
+
+
+
+
+
+
+
+
+(b) the Board is convinced by new information that the person was not eligible for the record suspension when it was ordered.
+
+
+
+
+
+
+
+
+
+
+7.2 Les faits suivants entraînent la nullité de la suspension du casier :
+
+
+
+Nullité de la suspension du casier
+
+
+
+
+
+a) la personne dont le casier est suspendu est condamnée :
+
+
+
+
+
+
+
+
+
+
+(i) soit pour une infraction visée à l’alinéa 4(1)a),
+
+
+
+
+
+
+
+
+
+
+(ii) soit pour une infraction — punissable par voie de mise en accusation ou par procédure sommaire — au Code criminel, à l’exception de l’infraction prévue au paragraphe 255(1) de cette loi, à la Loi réglementant certaines drogues et autres substances, à la Loi sur les armes à feu, aux parties III ou IV de la Loi sur les aliments et drogues ou à la Loi sur les stupéfiants, chapitre N-1 des Lois révisées du Canada (1985);
+
+
+
+
+
+
+
+
+
+
+
+b) la Commission est convaincue, à la lumière de renseignements nouveaux, que l’intéressé n’était pas admissible à la suspension du casier à la date à laquelle elle a été ordonnée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 8(1)
+
+
+
+
+20. The portion of section 8 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+20. Le passage de l’article 8 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1992, ch. 22, par. 8(1)
+
+
+
+
+
+
+
+
+
+
+Applications for employment
+
+
+
+
+8. No person shall use or authorize the use of an application form for or relating to any of the following matters that contains a question that by its terms requires the applicant to disclose a conviction in respect of which a record suspension has been ordered and has not been revoked or ceased to have effect:
+
+
+
+
+
+
+
+
+
+
+8. Nul ne peut utiliser ou permettre d’utiliser une demande d’emploi comportant une question qui, par sa teneur, obligerait le postulant à révéler une condamnation visée par une suspension du casier qui n’a pas été révoquée ou annulée contenue dans un formulaire ayant trait à :
+
+
+
+Demandes d’emploi
+
+
+
+
+
+
+
+
+
+
+
+
+
+21. The Act is amended by adding the following after section 9:
+
+
+
+
+
+
+
+
+
+
+21. La même loi est modifiée par adjonction, après l’article 9, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure of decisions
+
+
+
+
+9.01 The Board may disclose decisions that order or refuse to order record suspensions. However, it may not disclose information that could reasonably be expected to identify an individual unless the individual authorizes the disclosure in writing.
+
+
+
+
+
+
+
+
+
+
+9.01 La Commission peut communiquer ses décisions ordonnant ou refusant d’ordonner la suspension du casier. Elle ne peut toutefois révéler les renseignements qui risquent vraisemblablement de permettre l’identification d’un individu, à moins d’avoir le consentement de celui-ci par écrit.
+
+
+
+Communication des décisions
+
+
+
+
+
+
+
+
+
+
+2000, c. 1, s. 8
+
+
+
+
+22. (1) Paragraph 9.1(c) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+22. (1) L’alinéa 9.1c) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 1, art. 8
+
+
+
+
+
+
+
+
+
+
+
+
+(c) respecting the consent given by applicants to the verification of records and the disclosure of information contained in them, including the information to be given to applicants before obtaining their consent and the manner in which consent is to be given, for the purposes of subsections 6.3(3) and (7);
+
+
+
+
+
+
+
+
+
+
+(c) respecting the consent given by applicants to the verification of records and the disclosure of information contained in them, including the information to be given to applicants before obtaining their consent and the manner in which consent is to be given, for the purposes of subsections 6.3(3) and (7);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 9.1 of the Act is amended by adding the following after paragraph (c):
+
+
+
+
+
+
+
+
+
+(2) L’article 9.1 de la même loi est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c.1) prescribing factors for the purposes of paragraph 4.1(3)(d);
+
+
+
+
+
+
+(c.2) respecting the disclosure of decisions under section 9.01; and
+
+
+
+
+
+
+
+
+
+
+c.1) prévoir des critères pour l’application de l’alinéa 4.1(3)d);
+
+
+
+
+
+
+
+c.2) régir la communication des décisions visées à l’article 9.01;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23. The Act is amended by adding the following after section 10:
+
+
+
+
+
+
+
+
+
+
+23. La même loi est modifiée par adjonction, après l’article 10, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT TO PARLIAMENT
+
+
+
+
+
+
+
+11. (1)  The Board shall, within three months after the end of each fiscal year, submit to the Minister a report for that year containing the following information:
+
+
+
+
+
+
+(a) the number of applications for record suspensions made in respect of the offences referred to in each of paragraphs 4(1)(a) and (b);
+
+
+
+
+
+
+(b) the number of record suspensions that the Board ordered or refused to order, in respect of the offences referred to in each of paragraphs 4(1)(a) and (b);
+
+
+
+
+
+
+(c) the number of record suspensions ordered, categorized by the offence to which they relate and, if applicable, the province of residence of the applicant; and
+
+
+
+
+
+
+(d) any other information required by the Minister.
+
+
+
+
+
+
+(2) The Minister shall cause the report to be laid before each House of Parliament on any of the first 30 days on which that House is sitting after the day on which the Minister receives it.
+
+
+
+
+
+
+
+
+
+RAPPORT AU PARLEMENT
+
+
+
+
+
+
+
+11. (1)  La Commission présente au ministre, dans les trois premiers mois de chaque exercice, un rapport contenant les renseignements ci-après concernant l’exercice précédent :
+
+
+
+
+
+
+
+a) le nombre de demandes de suspension du casier présentées à l’égard des infractions visées aux alinéas 4(1)a) et b) respectivement;
+
+
+
+
+
+
+
+b) le nombre de suspensions du casier ordonnées ou refusées à l’égard des infractions visées aux alinéas 4(1)a) et b) respectivement;
+
+
+
+
+
+
+
+c) le nombre de suspensions du casier ordonnées, classées par infraction et, le cas échéant, par province de résidence du demandeur;
+
+
+
+
+
+
+(d) tout autre renseignement exigé par le ministre.
+
+
+
+
+
+
+(2) Le ministre fait déposer le rapport devant chaque chambre du Parlement dans les trente premiers jours de séance de celle-ci suivant sa réception.
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 1, s. 8.1; 2008, c. 6, s. 58
+
+
+
+
+24. Schedule 2 to the Act is replaced by the schedule set out in the schedule to this Act.
+
+
+
+
+
+
+
+
+
+
+24. L’annexe 2 de la même loi est remplacée par l'annexe figurant à l’annexe de la présente loi.
+
+
+
+2000, ch. 1, art. 8.1; 2008, ch. 6, art. 58
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. H-6
+
+
+
+Canadian Human Rights Act
+
+
+
+
+
+
+
+
+
+Loi canadienne sur les droits de la personne
+
+
+
+L.R., ch. H-6
+
+
+
+
+
+
+
+
+
+
+1998, c. 9, s. 9
+
+
+
+
+25. Section 2 of the English version of the Canadian Human Rights Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+25. L’article 2 de la version anglaise de la Loi canadienne sur les droits de la personne est remplacé par ce qui suit :
+
+
+
+1998, ch. 9, art. 9
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+
+2. The purpose of this Act is to extend the laws in Canada to give effect, within the purview of matters coming within the legislative authority of Parliament, to the principle that all individuals should have an opportunity equal with other individuals to make for themselves the lives that they are able and wish to have and to have their needs accommodated, consistent with their duties and obligations as members of society, without being hindered in or prevented from doing so by discriminatory practices based on race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family status, disability or conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered.
+
+
+
+
+
+
+
+
+
+
+
+2. The purpose of this Act is to extend the laws in Canada to give effect, within the purview of matters coming within the legislative authority of Parliament, to the principle that all individuals should have an opportunity equal with other individuals to make for themselves the lives that they are able and wish to have and to have their needs accommodated, consistent with their duties and obligations as members of society, without being hindered in or prevented from doing so by discriminatory practices based on race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family status, disability or conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered.
+
+
+
+
+Purpose
+
+
+
+
+
+
+
+
+
+
+1996, c. 14, s. 2
+
+
+
+
+26. Subsection 3(1) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+26. Le paragraphe 3(1) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+1996, ch. 14, art. 2
+
+
+
+
+
+
+
+
+
+
+Prohibited grounds of discrimination
+
+
+
+
+3. (1) For all purposes of this Act, the prohibited grounds of discrimination are race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family status, disability and conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered.
+
+
+
+
+
+
+
+
+
+
+
+3. (1) For all purposes of this Act, the prohibited grounds of discrimination are race, national or ethnic origin, colour, religion, age, sex, sexual orientation, marital status, family status, disability and conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered.
+
+
+
+
+Prohibited grounds of discrimination
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 13
+
+
+
+
+27. (1) The definition “conviction for which a pardon has been granted” in section 25 of the English version of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+27. (1) La définition de « conviction for which a pardon has been granted », à l’article 25 de la version anglaise de la même loi, est abrogée.
+
+
+
+1992, ch. 22, art. 13
+
+
+
+
+
+
+
+
+
+
+1992, c. 22, s. 13
+
+
+
+(2) The definition “état de personne graciée” in section 25 of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) La définition de « état de personne graciée », à l’article 25 de la version française de la même loi, est remplacée par ce qui suit :
+
+
+
+1992, ch. 22, art. 13
+
+
+
+
+
+
+
+
+
+
+« état de personne graciée »“conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered”
+
+
+
+
+« état de personne graciée » État d’une personne physique qui a légalement obtenu un pardon ou une suspension du casier, au titre de la Loi sur le casier judiciaire, qui n’a pas été révoqué ni annulé.
+
+
+
+
+
+
+
+
+
+
+« état de personne graciée » État d’une personne physique qui a légalement obtenu un pardon ou une suspension du casier, au titre de la Loi sur le casier judiciaire, qui n’a pas été révoqué ni annulé.
+
+
+
+« état de personne graciée »“conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered”
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 25 of the English version of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(3) L’article 25 de la version anglaise de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered”« état de personne graciée »
+
+
+
+“conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered” means a conviction of an individual for an offence in respect of which a pardon has been granted by any authority under law, or a record suspension has been ordered under the Criminal Records Act, that has not been revoked or ceased to have effect;
+
+
+
+
+
+
+
+
+
+
+“conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered” means a conviction of an individual for an offence in respect of which a pardon has been granted by any authority under law, or a record suspension has been ordered under the Criminal Records Act, that has not been revoked or ceased to have effect;
+
+
+
+
+“conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered”« état de personne graciée »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1992, c. 47
+
+
+
+Contraventions Act
+
+
+
+
+
+
+
+
+
+Loi sur les contraventions
+
+
+
+1992, ch. 47
+
+
+
+
+
+
+
+
+
+
+
+
+
+28. Section 63 of the French version of the Contraventions Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+28. L’article 63 de la version française de la Loi sur les contraventions est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Pas de casier judiciaire
+
+
+
+
+
+63. Quiconque est déclaré coupable d’une contravention n’est pas coupable d’une infraction criminelle et une contravention ne constitue pas une infraction pour l’application de la Loi sur le casier judiciaire, sauf si elle aboutit à une déclaration de culpabilité par voie de mise en accusation.
+
+
+
+
+
+
+
+
+
+
+
+63. Quiconque est déclaré coupable d’une contravention n’est pas coupable d’une infraction criminelle et une contravention ne constitue pas une infraction pour l’application de la Loi sur le casier judiciaire, sauf si elle aboutit à une déclaration de culpabilité par voie de mise en accusation.
+
+
+
+Pas de casier judiciaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+Criminal Code
+
+
+
+
+
+
+
+
+
+Code criminel
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+2004, c. 10, s. 20
+
+
+
+
+29. (1) The definition “réhabilitation” in subsection 490.011(1) of the French version of the Criminal Code is repealed.
+
+
+
+
+
+
+
+
+
+
+29. (1) La définition de « réhabilitation », au paragraphe 490.011(1) de la version française du Code criminel, est abrogée.
+
+
+
+2004, ch. 10, art. 20
+
+
+
+
+
+
+
+
+
+
+2004, c. 10, s. 20
+
+
+
+(2) The definition “pardon” in subsection 490.011(1) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) La définition de « pardon », au paragraphe 490.011(1) de la version anglaise de la même loi, est remplacée par ce qui suit :
+
+
+
+2004, ch. 10, art. 20
+
+
+
+
+
+
+
+
+
+
+“pardon”« pardon »
+
+
+
+“pardon” means a pardon granted by any authority under law, other than a free pardon granted under Her Majesty’s royal prerogative of mercy or under section 748, that has not been revoked or ceased to have effect.
+
+
+
+
+
+
+
+
+
+
+“pardon” means a pardon granted by any authority under law, other than a free pardon granted under Her Majesty’s royal prerogative of mercy or under section 748, that has not been revoked or ceased to have effect.
+
+
+
+
+“pardon”« pardon »
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 490.011(1) of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 490.011(1) de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“record suspension”« suspension du casier »
+
+
+
+“record suspension” means a record suspension, as defined in subsection 2(1) of the Criminal Records Act, that has not been revoked or ceased to have effect.
+
+
+
+
+
+
+
+
+
+« suspension du casier » Suspension du casier, au sens du paragraphe 2(1) de la Loi sur le casier judiciaire, qui n’a pas été révoquée ni annulée.
+
+
+
+« suspension du casier »“record suspension”
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Subsection 490.011(1) of the French version of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 490.011(1) de la version française de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+« pardon »“pardon”
+
+
+
+
+« pardon » Pardon octroyé par toute autorité en vertu de la loi, autre qu’un pardon absolu accordé en vertu de la prérogative royale de clémence que possède Sa Majesté ou de l’article 748, qui n’a pas été révoqué ni annulé.
+
+
+
+
+
+
+
+
+
+
+« pardon » Pardon octroyé par toute autorité en vertu de la loi, autre qu’un pardon absolu accordé en vertu de la prérogative royale de clémence que possède Sa Majesté ou de l’article 748, qui n’a pas été révoqué ni annulé.
+
+
+
+« pardon »“pardon”
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 15
+
+
+
+
+30. (1) Subsection 490.015(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+30. (1) Le paragraphe 490.015(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 5, art. 15
+
+
+
+
+
+
+
+
+
+
+Pardon or record suspension
+
+
+
+(3) Despite subsections (1) and (2), a person may apply for a termination order once they receive a pardon or once a record suspension is ordered.
+
+
+
+
+
+
+
+
+
+(3) Malgré les paragraphes (1) et (2), la demande peut être présentée dès le pardon ou la suspension du casier de l’intéressé.
+
+
+
+Pardon ou suspension du casier
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 15
+
+
+
+(2) Subsection 490.015(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 490.015(5) de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 5, art. 15
+
+
+
+
+
+
+
+
+
+
+Re-application
+
+
+
+(5) A person whose application is refused may re-apply if five years have elapsed since they made the previous application. They may also re-apply once they receive a pardon or once a record suspension is ordered. However, they may not re-apply under this subsection if an order is made with respect to them under section 490.012 of this Act or section 227.01 of the National Defence Act after the previous application was made.
+
+
+
+
+
+
+
+
+
+(5) En cas de rejet, une nouvelle demande ne peut être présentée avant que se soient écoulés cinq ans depuis la précédente; elle peut toutefois être présentée dès le pardon ou la suspension du casier de l’intéressé. Elle est irrecevable si, entre-temps, ce dernier fait l’objet d’une ordonnance rendue en application de l’article 490.012 de la présente loi ou de l’article 227.01 de la Loi sur la défense nationale.
+
+
+
+Nouvelle demande
+
+
+
+
+
+
+
+
+
+
+2004, c. 10, s. 20
+
+
+
+
+31. Paragraph 490.022(2)(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+31. L’alinéa 490.022(2)c) de la même loi est remplacé par ce qui suit :
+
+
+
+2004, ch. 10, art. 20
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the day on which a person referred to in paragraph 490.02(1)(b) provides satisfactory proof of a pardon or record suspension to a person who collects information, within the meaning of subsection 3(1) of the Sex Offender Information Registration Act, at a registration centre.
+
+
+
+
+
+
+
+
+
+
+c) la date, s’agissant de la personne visée à l’alinéa 490.02(1)b), à laquelle elle fournit au préposé à la collecte — au sens du paragraphe 3(1) de la Loi sur l’enregistrement de renseignements sur les délinquants sexuels —, à un bureau d’inscription, une preuve satisfaisante du pardon ou de la suspension du casier.
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 24
+
+
+
+
+32. Subsections 490.026(4) and (5) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+32. Les paragraphes 490.026(4) et (5) de la même loi sont remplacés par ce qui suit :
+
+
+
+2007, ch. 5, art. 24
+
+
+
+
+
+
+
+
+
+
+Pardon or record suspension
+
+
+
+(4) Despite subsections (2) and (3), a person may apply for a termination order once they receive a pardon or once a record suspension is ordered.
+
+
+
+
+
+
+
+
+
+(4) Malgré les paragraphes (2) et (3), la demande peut être présentée dès le pardon ou la suspension du casier de l’intéressé.
+
+
+
+Pardon ou suspension du casier
+
+
+
+
+
+
+
+
+
+
+Re-application
+
+
+
+(5) A person whose application is refused may re-apply if five years have elapsed since they made the previous application. They may also re-apply once they receive a pardon or once a record suspension is ordered. However, they may not re-apply under this subsection if an order is made with respect to them under section 490.012 of this Act or section 227.01 of the National Defence Act after the previous application was made.
+
+
+
+
+
+
+
+
+
+(5) En cas de rejet, une nouvelle demande ne peut être présentée avant que se soient écoulés cinq ans depuis la précédente; elle peut toutefois être présentée dès le pardon ou la suspension du casier de l’intéressé. Elle est irrecevable si, entre-temps, ce dernier fait l’objet d’une ordonnance rendue en application de l’article 490.012 de la présente loi ou de l’article 227.01 de la Loi sur la défense nationale.
+
+
+
+Délai : nouvelle demande
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 4
+
+
+
+
+33. Paragraph 672.35(c) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+33. L’alinéa 672.35c) de la même loi est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 4
+
+
+
+
+
+
+
+
+
+
+
+
+(c) the National Parole Board or any provincial parole board may take the verdict into account in considering an application by the accused for parole or for a record suspension under the Criminal Records Act in respect of any other offence.
+
+
+
+
+
+
+
+
+
+
+c) la Commission nationale des libérations conditionnelles ou une commission provinciale des libérations conditionnelles peut prendre en considération le verdict lors de l’étude d’une demande de libération conditionnelle ou d’une demande de suspension du casier faite au titre de la Loi sur le casier judiciaire à l’égard de toute autre infraction commise par l’accusé.
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 1, s. 9
+
+
+
+
+34. Subsection 750(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+34. Le paragraphe 750(4) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 1, art. 9
+
+
+
+
+
+
+
+
+
+
+Application for restoration of privileges
+
+
+
+(4) A person to whom subsection (3) applies may, at any time before a record suspension for which he or she has applied is ordered under the Criminal Records Act, apply to the Governor in Council for the restoration of one or more of the capacities lost by the person by virtue of that subsection.
+
+
+
+
+
+
+
+
+
+(4) La personne visée au paragraphe (3) peut, avant que ne soit ordonnée la suspension du casier dont elle a fait la demande au titre de la Loi sur le casier judiciaire, demander au gouverneur en conseil d’être rétablie dans les droits dont elle est privée en application de ce paragraphe.
+
+
+
+Demande de rétablissement des droits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1998, c. 37
+
+
+
+DNA Identification Act
+
+
+
+
+
+
+
+
+
+Loi sur l’identification par les empreintes génétiques
+
+
+
+1998, ch. 37
+
+
+
+
+
+
+
+
+
+
+
+
+
+35. Subsection 10(8) of the DNA Identification Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+35. Le paragraphe 10(8) de la Loi sur l’identification par les empreintes génétiques est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+When record suspension is in effect
+
+
+
+(8) Despite anything in this section, stored bodily substances of a person in respect of whom a record suspension, as defined in subsection 2(1) of the Criminal Records Act, is in effect shall be kept separate and apart from other stored bodily substances, and no such bodily substance shall be used for forensic DNA analysis, nor shall the existence of such a bodily substance be communicated to any person.
+
+
+
+
+
+
+
+
+
+(8) Malgré toute autre disposition du présent article, dans le cas où elles proviennent d’une personne qui bénéficie d’une suspension du casier au sens du paragraphe 2(1) de la Loi sur le casier judiciaire, les substances corporelles entreposées doivent être conservées à part et il est interdit d’en révéler l’existence ou de les utiliser pour analyse génétique.
+
+
+
+Suspension du casier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 27
+
+
+
+Immigration and Refugee Protection Act
+
+
+
+
+
+
+
+
+
+Loi sur l’immigration et la protection des réfugiés
+
+
+
+2001, ch. 27
+
+
+
+
+
+
+
+
+
+
+
+
+
+36. Paragraph 36(3)(b) of the Immigration and Refugee Protection Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+36. L’alinéa 36(3)b) de la Loi sur l’immigration et la protection des réfugiés est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) inadmissibility under subsections (1) and (2) may not be based on a conviction in respect of which a record suspension has been ordered and has not been revoked or ceased to have effect under the Criminal Records Act, or in respect of which there has been a final determination of an acquittal;
+
+
+
+
+
+
+
+
+
+
+b) la déclaration de culpabilité n’emporte pas interdiction de territoire en cas de verdict d’acquittement rendu en dernier ressort ou en cas de suspension du casier — sauf cas de révocation ou de nullité — au titre de la Loi sur le casier judiciaire;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37. Paragraph 53(f) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+37. L’alinéa 53f) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(f) the effect of a record suspension under the Criminal Records Act on the status of permanent residents and foreign nationals and removal orders made against them; and
+
+
+
+
+
+
+
+
+
+
+f) les effets de la suspension du casier ordonnée en vertu de la Loi sur le casier judiciaire sur le statut du résident permanent ou de l’étranger et la mesure de renvoi le visant;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. N-5
+
+
+
+National Defence Act
+
+
+
+
+
+
+
+
+
+Loi sur la défense nationale
+
+
+
+L.R., ch. N-5
+
+
+
+
+
+
+
+
+
+
+1991, c. 43, s. 18
+
+
+
+
+38. Paragraph 202.14(2)(h) of the National Defence Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+38. L’alinéa 202.14(2)h) de la Loi sur la défense nationale est remplacé par ce qui suit :
+
+
+
+1991, ch. 43, art. 18
+
+
+
+
+
+
+
+
+
+
+
+
+(h) the National Parole Board or any provincial parole board may take the finding into account in considering an application by that person for parole or for a record suspension under the Criminal Records Act in respect of any other offence.
+
+
+
+
+
+
+
+
+
+
+h) la Commission nationale des libérations conditionnelles ou une commission provinciale des libérations conditionnelles peut prendre en considération le verdict lors de l’étude d’une demande de libération conditionnelle ou d’une demande de suspension du casier faite au titre de la Loi sur le casier judiciaire à l’égard de toute autre infraction.
+
+
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 4
+
+
+
+
+39. (1) The definition “réhabilitation” in section 227 of the French version of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+39. (1) La définition de « réhabilitation », à l’article 227 de la version française de la même loi, est abrogée.
+
+
+
+2007, ch. 5, art. 4
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 4
+
+
+
+(2) The definition “pardon” in section 227 of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) La définition de « pardon », à l’article 227 de la version anglaise de la même loi, est remplacée par ce qui suit :
+
+
+
+2007, ch. 5, art. 4
+
+
+
+
+
+
+
+
+
+
+“pardon”« pardon »
+
+
+
+“pardon” means a pardon granted by any authority under law, other than a free pardon granted under Her Majesty’s royal prerogative of mercy or under section 748 of the Criminal Code, that has not been revoked or ceased to have effect.
+
+
+
+
+
+
+
+
+
+
+“pardon” means a pardon granted by any authority under law, other than a free pardon granted under Her Majesty’s royal prerogative of mercy or under section 748 of the Criminal Code, that has not been revoked or ceased to have effect.
+
+
+
+
+“pardon”« pardon »
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 227 of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(3) L’article 227 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“record suspension”« suspension du casier »
+
+
+
+“record suspension” means a record suspension, as defined in subsection 2(1) of the Criminal Records Act, that has not been revoked or ceased to have effect.
+
+
+
+
+
+
+
+
+
+« suspension du casier » Suspension du casier, au sens du paragraphe 2(1) de la Loi sur le casier judiciaire, qui n’a pas été révoquée ni annulée.
+
+
+
+« suspension du casier »“record suspension”
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Section 227 of the French version of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(4) L’article 227 de la version française de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+« pardon »“pardon”
+
+
+
+
+« pardon » Pardon octroyé par toute autorité en vertu de la loi, autre qu’un pardon absolu accordé en vertu de la prérogative royale de clémence que possède Sa Majesté ou de l’article 748 du Code criminel, qui n’a pas été révoqué ni annulé.
+
+
+
+
+
+
+
+
+
+
+« pardon » Pardon octroyé par toute autorité en vertu de la loi, autre qu’un pardon absolu accordé en vertu de la prérogative royale de clémence que possède Sa Majesté ou de l’article 748 du Code criminel, qui n’a pas été révoqué ni annulé.
+
+
+
+« pardon »“pardon”
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 4
+
+
+
+
+40. (1) Subsection 227.03(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+40. (1) Le paragraphe 227.03(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 5, art. 4
+
+
+
+
+
+
+
+
+
+
+Pardon or record suspension
+
+
+
+(3) Despite subsections (1) and (2), a person may apply for a termination order once they receive a pardon or once a record suspension is ordered.
+
+
+
+
+
+
+
+
+
+(3) Malgré les paragraphes (1) et (2), la demande peut être présentée dès le pardon ou la suspension du casier de l’intéressé.
+
+
+
+Pardon ou suspension du casier
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 4
+
+
+
+(2) Subsection 227.03(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 227.03(5) de la même loi est remplacé par ce qui suit :
+
+
+
+2007, ch. 5, art. 4
+
+
+
+
+
+
+
+
+
+
+Re-application
+
+
+
+(5) A person whose application is refused may re-apply if five years have elapsed since they made the previous application. They may also re-apply once they receive a pardon or once a record suspension is ordered. However, they may not re-apply under this subsection if an order is made with respect to them under section 227.01 of this Act or section 490.012 of the Criminal Code after the previous application was made.
+
+
+
+
+
+
+
+
+
+(5) En cas de rejet, une nouvelle demande ne peut être présentée avant que se soient écoulés cinq ans depuis la précédente; elle peut toutefois être présentée dès le pardon ou la suspension du casier de l’intéressé. Elle est irrecevable si, entre-temps, ce dernier fait l’objet d’une ordonnance rendue en application de l’article 227.01 de la présente loi ou de l’article 490.012 du Code criminel.
+
+
+
+Nouvelle demande
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 4
+
+
+
+
+41. Subsections 227.12(4) and (5) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+41. Les paragraphes 227.12(4) et (5) de la même loi sont remplacés par ce qui suit :
+
+
+
+2007, ch. 5, art. 4
+
+
+
+
+
+
+
+
+
+
+Pardon or record suspension
+
+
+
+(4) Despite subsections (2) and (3), a person may apply for a termination order once they receive a pardon or once a record suspension is ordered.
+
+
+
+
+
+
+
+
+
+(4) Malgré les paragraphes (2) et (3), la demande peut être présentée dès le pardon ou la suspension du casier de l’intéressé.
+
+
+
+Pardon ou suspension du casier
+
+
+
+
+
+
+
+
+
+
+Re-application
+
+
+
+(5) A person whose application is refused may re-apply if five years have elapsed since they made the previous application. They may also re-apply once they receive a pardon or once a record suspension is ordered. However, they may not re-apply under this subsection if an order is made with respect to them under section 227.01 of this Act or section 490.012 of the Criminal Code after the previous application was made.
+
+
+
+
+
+
+
+
+
+(5) En cas de rejet, une nouvelle demande ne peut être présentée avant que se soient écoulés cinq ans depuis la précédente; elle peut toutefois être présentée dès le pardon ou la suspension du casier de l’intéressé. Elle est irrecevable si, entre-temps, ce dernier fait l’objet d’une ordonnance rendue en application de l’article 227.01 de la présente loi ou de l’article 490.012 du Code criminel.
+
+
+
+Nouvelle demande
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 1
+
+
+
+Youth Criminal Justice Act
+
+
+
+
+
+
+
+
+
+Loi sur le système de justice pénale pour les adolescents
+
+
+
+2002, ch. 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+42. Paragraph 82(1)(d) of the Youth Criminal Justice Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+42. L’alinéa 82(1)d) de la Loi sur le système de justice pénale pour les adolescents est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) the National Parole Board or any provincial parole board may consider the finding of guilt in considering an application for conditional release or for a record suspension under the Criminal Records Act.
+
+
+
+
+
+
+
+
+
+
+d) la Commission nationale des libérations conditionnelles ou une commission provinciale des libérations conditionnelles peut tenir compte de la déclaration de culpabilité dans le cadre d’une demande de libération conditionnelle ou d’une demande de suspension du casier faite au titre de la Loi sur le casier judiciaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43. Subparagraph 119(1)(n)(iii) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+43. Le sous-alinéa 119(1)n)(iii) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) considering an application for conditional release, or for a record suspension under the Criminal Records Act, made by the young person, whether as a young person or an adult,
+
+
+
+
+
+
+
+
+
+(iii) d’examiner une demande de libération sous condition ou d’une demande de suspension du casier faite au titre de la Loi sur le casier judiciaire présentée par l’adolescent même devenu adulte,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44. Subparagraph 120(4)(c)(iii) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+44. Le sous-alinéa 120(4)c)(iii) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) considering an application for conditional release, or for a record suspension under the Criminal Records Act, made by the young person after the young person becomes an adult.
+
+
+
+
+
+
+
+
+
+(iii) d’examiner une demande de libération conditionnelle ou d’une demande de suspension du casier faite au titre de la Loi sur le casier judiciaire présentée par l’adolescent devenu adulte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45. Subsection 128(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+45. Le paragraphe 128(5) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(5) Despite subsections (1), (2) and (4), an entry that is contained in a system maintained by the Royal Canadian Mounted Police to match crime scene information and that relates to an offence committed or alleged to have been committed by a young person shall be dealt with in the same manner as information that relates to an offence committed by an adult for which a record suspension ordered under the Criminal Records Act is in effect.
+
+
+
+
+
+
+
+
+
+(5) Par dérogation aux paragraphes (1), (2) et (4), les renseignements relatifs à une infraction commise ou alléguée avoir été commise par un adolescent et qui figurent dans une banque de données maintenue par la Gendarmerie royale du Canada en vue d’établir des liens entre des renseignements recueillis sur les lieux d’une autre infraction sont traités de la façon dont le sont les renseignements relatifs aux infractions commises par des adultes et à l’égard desquelles une suspension du casier ordonnée en vertu de la Loi sur le casier judiciaire est en vigueur.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISIONS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS TRANSITOIRES
+
+
+
+
+
+
+
+
+
+
+
+
+New applications for pardons
+
+
+
+
+46. Subject to subsection 47(1), an application for a pardon under the Criminal Records Act in respect of an offence that is referred to in paragraph 4(a) of that Act, as it read immediately before the day on which this Act comes into force, and that is committed before that day shall be dealt with and disposed of in accordance with the Criminal Records Act, as amended by this Act, as though it were an application for a record suspension.
+
+
+
+
+
+
+
+
+
+
+46. Sous réserve du paragraphe 47(1), la demande de réhabilitation présentée en vertu de la Loi sur le casier judiciaire à l’égard d’une infraction visée à l’alinéa 4a) de cette loi, dans sa version antérieure à la date d’entrée en vigueur de la présente loi, et perpétrée avant cette date est traitée en conformité avec la Loi sur le casier judiciaire, dans sa version modifiée par la présente loi, comme s’il s’agissait d’une demande de suspension du casier.
+
+
+
+Nouvelles demandes de réhabilitation
+
+
+
+
+
+
+
+
+
+
+Pending applications — Criminal Records Act
+
+
+
+
+47. (1) An application for a pardon under the Criminal Records Act that is made before the day on which this Act comes into force shall be dealt with and disposed of in accordance with the Criminal Records Act, as it read when the Board received the application, if the application
+
+
+
+
+
+
+
+
+
+
+(a) is made after the period referred to in paragraph 4(a) of that Act, as it read immediately before the day on which this Act comes into force, has elapsed; and
+
+
+
+
+
+
+
+
+
+
+(b) is not finally disposed of on the day on which this Act comes into force.
+
+
+
+
+
+
+
+
+
+
+47. (1) La demande de réhabilitation qui est présentée en vertu de la Loi sur le casier judiciaire avant la date d’entrée en vigueur de la présente loi est traitée en conformité avec la Loi sur le casier judiciaire, dans sa version en vigueur au moment de la réception de la demande, si :
+
+
+
+Demandes en instance : Loi sur le casier judiciaire
+
+
+
+
+
+a) elle est présentée après l’écoulement de la période visée à l’alinéa 4a) de cette loi, dans sa version antérieure à la date d’entrée en vigueur de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+b) elle n’a pas encore fait l’objet d’une décision définitive à la date d’entrée en vigueur de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References — other legislation
+
+
+
+(2) A reference to an application for a record suspension in the following provisions, as enacted by this Act, is deemed also to be a reference to an application for a pardon referred to in subsection (1):
+
+
+
+
+
+
+
+
+
+
+(a) paragraph 672.35(c) and subsection 750(4) of the Criminal Code;
+
+
+
+
+
+
+
+
+
+
+(b) paragraph 202.14(2)(h) of the National Defence Act; and
+
+
+
+
+
+
+
+
+
+
+(c) paragraph 82(1)(d) and subparagraphs 119(1)(n)(iii) and 120(4)(c)(iii) of the Youth Criminal Justice Act.
+
+
+
+
+
+
+
+
+
+(2) Dans les dispositions ci-après, édictées par la présente loi, la mention de la demande de suspension du casier vaut aussi mention de la demande de réhabilitation visée au paragraphe (1) :
+
+
+
+Mention : autres lois
+
+
+
+
+
+a) l’alinéa 672.35c) et le paragraphe 750(4) du Code criminel;
+
+
+
+
+
+
+
+
+
+
+
+b) l’alinéa 202.14(2)h) de la Loi sur la défense nationale;
+
+
+
+
+
+
+
+
+
+
+
+c) l’alinéa 82(1)d) et les sous-alinéas 119(1)n)(iii) et 120(4)c)(iii) de la Loi sur le système de justice pénale pour les adolescents.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pardons in effect — Criminal Records Act
+
+
+
+
+48. (1) The Criminal Records Act, as it read immediately before the day on which this Act comes into force, applies to a pardon that was granted or issued before that day and that has not been revoked or ceased to have effect.
+
+
+
+
+
+
+
+
+
+
+48. (1) La Loi sur le casier judiciaire, dans sa version antérieure à la date d’entrée en vigueur de la présente loi, s’applique à la réhabilitation octroyée ou délivrée avant cette date et qui n’a pas été révoquée ni annulée.
+
+
+
+Réhabilitation en vigueur : Loi sur le casier judiciaire
+
+
+
+
+
+
+
+
+
+
+References — other legislation
+
+
+
+(2) A reference to a record suspension in the following provisions, as enacted by this Act, is deemed also to be a reference to a pardon that is granted or issued under the Criminal Records Act before the day on which this Act comes into force:
+
+
+
+
+
+
+
+
+
+
+(a) the definition “conviction for an offence for which a pardon has been granted or in respect of which a record suspension has been ordered” in section 25 of the Canadian Human Rights Act;
+
+
+
+
+
+
+
+
+
+
+(b) the definition “record suspension” in subsection 490.011(1) of the Criminal Code;
+
+
+
+
+
+
+
+
+
+
+(c) subsection 10(8) of the DNA Identification Act;
+
+
+
+
+
+
+
+
+
+
+(d) paragraphs 36(3)(b) and 53(f) of the Immigration and Refugee Protection Act;
+
+
+
+
+
+
+
+
+
+
+(e) the definition “record suspension” in section 227 of the National Defence Act; and
+
+
+
+
+
+
+
+
+
+
+(f) subsection 128(5) of the Youth Criminal Justice Act.
+
+
+
+
+
+
+
+
+
+(2) Dans les dispositions ci-après, édictées par la présente loi, la mention de la suspension du casier vaut aussi mention de la réhabilitation octroyée ou délivrée en vertu de la Loi sur le casier judiciaire avant la date d’entrée en vigueur de la présente loi :
+
+
+
+Mention : autres lois
+
+
+
+
+
+a) la définition de « état de personne graciée » à l’article 25 de la Loi canadienne sur les droits de la personne;
+
+
+
+
+
+
+
+
+
+
+
+b) la définition de « suspension du casier » au paragraphe 490.011(1) du Code criminel;
+
+
+
+
+
+
+
+
+
+
+
+c) le paragraphe 10(8) de la Loi sur l’identification par les empreintes génétiques;
+
+
+
+
+
+
+
+
+
+
+
+d) les alinéas 36(3)b) et 53f) de la Loi sur l’immigration et la protection des réfugiés;
+
+
+
+
+
+
+
+
+
+
+
+e) la définition de « suspension du casier » à l’article 227 de la Loi sur la défense nationale;
+
+
+
+
+
+
+
+
+
+
+
+f) le paragraphe 128(5) de la Loi sur le système de justice pénale pour les adolescents.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SCHEDULE 
+
+
+
+
+
+
+ANNEXE 
+
+
+
+
+
+
+
+(Section 24)
+
+
+
+
+
+
+
+
+(article 24)
+
+
+
+
+
+
+
+
+SCHEDULE 2
+
+
+
+
+
+ANNEXE 2
+
+
+
+
+
+
+
+(Subsections 6.3(2) and (9))
+
+
+
+
+
+
+
+(paragraphes 6.3(2) et (9))
+
+
+
+
+
+
+
+1. Offences
+
+
+
+
+
+1. Les infractions  :
+
+
+
+
+
+
+(a) under the following provisions of the Criminal Code:
+
+
+
+
+
+
+a) aux dispositions suivantes du Code criminel :
+
+
+
+
+
+
+(i) section 153.1 (sexual exploitation of a person with a disability),
+
+
+
+
+
+(i) l’article 153.1 (personne en situation d’autorité par rapport à une personne ayant une déficience),
+
+
+
+
+
+
+(ii) section 155 (incest),
+
+
+
+
+
+(ii) l’article 155 (inceste),
+
+
+
+
+
+
+(iii) section 162 (voyeurism),
+
+
+
+
+
+(iii) l’article 162 (voyeurisme),
+
+
+
+
+
+
+(iv) paragraph 163(1)(a) (obscene materials),
+
+
+
+
+
+(iv) l’alinéa 163(1)a) (corruption de moeurs),
+
+
+
+
+
+
+(v) paragraph 163(2)(a) (obscene materials),
+
+
+
+
+
+(v) l’alinéa 163(2)a) (corruption de moeurs),
+
+
+
+
+
+
+(vi) section 168 (mailing obscene matter),
+
+
+
+
+
+(vi) l’article 168 (mise à la poste de choses obscènes),
+
+
+
+
+
+
+(vii) subsection 173(1) (indecent acts),
+
+
+
+
+
+(vii) le paragraphe 173(1) (actions indécentes),
+
+
+
+
+
+
+(viii) section 271 (sexual assault),
+
+
+
+
+
+(viii) l’article 271 (agression sexuelle),
+
+
+
+
+
+
+(ix) subsection 272(1) and paragraph 272(2)(a) (sexual assault with firearm),
+
+
+
+
+
+(ix) le paragraphe 272(1) et l’alinéa 272(2)a) (agression sexuelle avec une arme à feu),
+
+
+
+
+
+
+(x) subsection 272(1) and paragraph 272(2)(b) (sexual assault other than with firearm),
+
+
+
+
+
+(x) le paragraphe 272(1) et l’alinéa 272(2)b) (agression sexuelle sans arme à feu),
+
+
+
+
+
+
+(xi) section 273 (aggravated sexual assault),
+
+
+
+
+
+(xi) l’article 273 (agression sexuelle grave),
+
+
+
+
+
+
+(xii) section 280 (abduction of a person under 16),
+
+
+
+
+
+(xii) l’article 280 (enlèvement d’une personne âgée de moins de 16 ans),
+
+
+
+
+
+
+(xiii) section 281 (abduction of a person under 14),
+
+
+
+
+
+(xiii) l’article 281 (enlèvement d’une personne âgée de moins de 14 ans),
+
+
+
+
+
+
+(xiv) subsection 372(2) (indecent phone calls),
+
+
+
+
+
+(xiv) le paragraphe 372(2) (propos indécents au téléphone),
+
+
+
+
+
+
+(xv) paragraph 348(1)(a) with respect to breaking and entering a place with intent to commit in that place an indictable offence listed in any of subparagraphs (i) to (xiv), and
+
+
+
+
+
+(xv) l’alinéa 348(1)a) en ce qui a trait à l’introduction par effraction dans un endroit avec intention d’y commettre un acte criminel mentionné à l’un ou l’autre des sous-alinéas (i) à (xiv),
+
+
+
+
+
+
+(xvi) paragraph 348(1)(b) with respect to breaking and entering a place and committing in that place an indictable offence listed in any of subparagraphs (i) to (xiv); and
+
+
+
+
+
+(xvi) l’alinéa 348(1)b) en ce qui a trait à l’introduction par effraction dans un endroit et à la commission d’un acte criminel mentionné à l’un ou l’autre des sous-alinéas (i) à (xiv);
+
+
+
+
+
+
+(b) of attempt or conspiracy to commit an offence referred to in any of subparagraphs (a)(i) to (xvi).
+
+
+
+
+
+
+b) de complot ou de tentative en vue de commettre une infraction visée à l’un ou l’autre des sous-alinéas a)(i) à (xvi).
+
+
+
+
+
+
+2. Offences
+
+
+
+
+
+2. Les infractions :
+
+
+
+
+
+
+(a) under the following provisions of the Criminal Code, R.S.C. 1970, c. C-34, as that Act read before January 1, 1988:
+
+
+
+
+
+
+a) aux dispositions suivantes du Code criminel, S.R.C. 1970, ch. C-34, dans sa version antérieure au 1er janvier 1988 :
+
+
+
+
+
+
+(i) subsection 146(1) (sexual intercourse with a female under 14),
+
+
+
+
+
+(i) le paragraphe 146(1) (rapports sexuels avec une personne du sexe féminin âgée de moins de 14 ans),
+
+
+
+
+
+
+(ii) subsection 146(2) (sexual intercourse with a female 14 or more but under 16),
+
+
+
+
+
+(ii) le paragraphe 146(2) (rapports sexuels avec une personne du sexe féminin âgée de 14 ans ou plus mais de moins de 16 ans),
+
+
+
+
+
+
+(iii) section 151 (seduction of a female 16 or more but under 18),
+
+
+
+
+
+(iii) l’article 151 (séduction d’une personne du sexe féminin âgée de 16 ans ou plus mais de moins de 18 ans),
+
+
+
+
+
+
+(iv) section 153 (sexual intercourse with stepdaughter, etc., or female employee), and
+
+
+
+
+
+(iv) l’article 153 (rapports sexuels avec sa belle-fille, etc., ou son employée),
+
+
+
+
+
+
+(v) section 157 (gross indecency); and
+
+
+
+
+
+(v) l’article 157 (actes de grossière indécence);
+
+
+
+
+
+
+(b) of attempt or conspiracy to commit an offence referred to in any of subparagraphs (a)(i) to (v).
+
+
+
+
+
+
+b) de complot ou de tentative en vue de commettre une infraction visée à l’un ou l’autre des sous-alinéas a)(i) à (v).
+
+
+
+
+
+
+3. Offences
+
+
+
+
+
+3. Les infractions :
+
+
+
+
+
+
+(a) under the following provisions of the Criminal Code, R.S.C. 1970, c. C-34, as that Act read before January 4, 1983:
+
+
+
+
+
+
+a) aux dispositions suivantes du Code criminel, S.R.C. 1970, ch. C-34, dans sa version antérieure au 4 janvier 1983 :
+
+
+
+
+
+
+(i) section 144 (rape),
+
+
+
+
+
+(i) l’article 144 (viol),
+
+
+
+
+
+
+(ii) section 145 (attempt to commit rape),
+
+
+
+
+
+(ii) l’article 145 (tentative de viol),
+
+
+
+
+
+
+(iii) section 149 (indecent assault on female),
+
+
+
+
+
+(iii) l’article 149 (attentat à la pudeur d’une personne du sexe féminin),
+
+
+
+
+
+
+(iv) section 156 (indecent assault on male),
+
+
+
+
+
+(iv) l’article 156 (attentat à la pudeur d’une personne du sexe masculin),
+
+
+
+
+
+
+(v) section 245 (common assault),
+
+
+
+
+
+(v) l’article 245 (voies de fait simples),
+
+
+
+
+
+
+(vi) subsection 246(1) (assault with intent to commit an indictable offence); and
+
+
+
+
+
+(vi) le paragraphe 246(1) (voies de fait avec intention de commettre un acte criminel);
+
+
+
+
+
+
+(b) of attempt or conspiracy to commit an offence referred to in any of subparagraphs (a)(i) to (vi).
+
+
+
+
+
+
+b) de complot ou de tentative en vue de commettre une infraction visée à l’un ou l’autre des sous-alinéas a)(i) à (vi).
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

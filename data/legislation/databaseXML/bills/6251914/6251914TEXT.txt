@@ -1,0 +1,853 @@
+
+
+
+
+
+
+C-523
+
+
+
+
+
+C-523
+
+
+
+
+
+
+First Session, Forty-first Parliament,
+
+
+
+
+
+Première session, quarante et unième législature,
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-523
+
+
+
+
+
+PROJET DE LOI C-523
+
+
+
+
+
+
+An Act to amend the Department of Health Act (disclosure of drug shortages)
+
+
+
+
+
+Loi modifiant la Loi sur le ministère de la Santé (divulgation des pénuries de médicaments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 4, 2013
+
+
+
+
+
+première lecture le 4 juin 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+2nd Session, 41st Parliament
+
+This bill was introduced during the First Session of the 41st Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the First Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+2e session, 41e législature
+
+Le présent projet de loi a été présenté lors de la première session de la 41e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la première session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+
+Mrs. Sellah
+
+
+411719
+
+
+
+
+Mme Sellah
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Department of Health Act to oblige drug suppliers to advise the Minister of any interruption or cessation of the production, distribution or importation of drugs and to oblige the Minister to prepare and implement an emergency response plan to address shortages of drugs.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur le ministère de la Santé afin de prévoir, d’une part, l’obligation pour les fournisseurs de médicaments d’aviser le ministre en cas d’interruption ou de cessation de la production, de la distribution ou de l’importation de médicaments et, d’autre part, l’obligation pour le ministre d'élaborer et de mettre en oeuvre un plan d'intervention d’urgence pour remédier aux pénuries de médicaments.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+60-61-62 Elizabeth II, 2011-2012-2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-523
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-523
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Department of Health Act (disclosure of drug shortages)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le ministère de la Santé (divulgation des pénuries de médicaments)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Mandatory Disclosure of Drug Shortages Act.
+
+
+
+
+
+
+
+
+
+
+1. Loi sur la divulgation obligatoire des pénuries de médicaments.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1996, c. 8
+
+
+
+DEPARTMENT OF HEALTH ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE MINISTÈRE DE LA SANTÉ
+
+
+
+1996, ch. 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Department of Health Act is amended by adding the following after section 4.2:
+
+
+
+
+
+
+
+
+
+
+2. La Loi sur le ministère de la Santé est modifiée par adjonction, après l’article 4.2, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “supplier” 
+
+
+
+
+
+4.3 (1)  For the purpose of this section, “supplier” means a manufacturer, wholesaler, distributor or importer of drugs.
+
+
+
+
+
+
+
+
+
+
+
+
+4.3 (1) Pour l'application du présent article, « fournisseur » s'entend du fabriquant, grossiste, distributeur ou importateur de médicaments.
+
+
+
+
+Définition de « fournisseur »
+
+
+
+
+
+
+
+
+
+
+Notification of interruption of production, distribution or importation
+
+
+
+
+(2) The supplier shall notify the Minister of any planned or foreseeable interruption of the production, distribution or importation of a drug at least six months in advance.
+
+
+
+
+
+
+
+
+
+
+
+(2) Le fournisseur avise le ministre de toute interruption prévue ou prévisible de la production, de la distribution ou de l’importation d’un médicament au moins six mois avant la date prévue de celle-ci.
+
+
+
+
+Avis — interrup-tion de la pro-duction, de la distribution ou de l’importation
+
+
+
+
+
+
+
+
+
+
+Notification of unexpected interruption
+
+
+
+
+(3) In the case of an unexpected interruption of the production, distribution or importation of a drug, the supplier shall notify the Minister as soon as possible.
+
+
+
+
+
+
+
+
+
+
+
+(3) Dans le cas où l’interruption de la production, de la distribution ou de l’importation d’un médicament est non prévue, le fournisseur en avise le ministre dès que possible.
+
+
+
+
+Avis — interruption non prévue
+
+
+
+
+
+
+
+
+
+
+Notification of production, distribution or importation cessation
+
+
+
+
+(4) A supplier who intends to cease produc-ing, distributing or importing a drug shall notify the Minister at least 12 months in advance.
+
+
+
+
+
+
+
+
+
+
+
+(4) Le fournisseur qui entend cesser de produire, de distribuer ou d’importer un médicament en avise le ministre au moins douze mois avant la date prévue de la cessation.
+
+
+
+
+Avis — cessation de la production, de la distribution ou de l’importa-tion
+
+
+
+
+
+
+
+
+
+
+Emergency response plan
+
+
+
+
+
+4.4 The Minister shall, in cooperation with the provincial authorities, coordinate efforts to prevent and address shortages of drugs, inform, as necessary, patients and health care providers of possible shortages, and prepare and implement an emergency response plan to address any shortage of a drug that the Minister considers necessary for public health.
+
+
+
+
+
+
+
+
+
+
+
+
+4.4 En collaboration avec les autorités provinciales, le ministre coordonne les efforts pour prévenir toute pénurie de médicaments et y remédier, avise au besoin les patients et fournisseurs de soins de santé de toute possibilité de pénurie et élabore et met en oeuvre un plan d'intervention d’urgence pour remédier à toute pénurie d'un médicament qu'il considère comme nécessaire à la santé publique.
+
+
+
+
+Plan d'intervention d'urgence
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after section 11:
+
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l’article 11, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Offence —s. 4.3(2) or (4)
+
+
+
+
+
+11.01 (1) Any person who voluntarily contravenes subsection 4.3(2) or (4) is guilty of an offence and liable on summary conviction to a fine of not more than $1,800,000.
+
+
+
+
+
+
+
+
+
+
+
+
+11.01 (1) Toute personne qui contrevient volontairement aux paragraphes 4.3(2) ou (4) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale d’un million huit cent mille dollars.
+
+
+
+
+Infraction —par. 4.3(2) ou (4)
+
+
+
+
+
+
+
+
+
+
+Offence —s. 4.3(3)
+
+
+
+
+(2) Any person who voluntarily contravenes subsection 4.3(3) is guilty of an offence and liable on summary conviction to a fine of not more than $10,000 for each day on which the offence is committed or continued and not more than $1,800,000 in total.
+
+
+
+
+
+
+
+
+
+
+
+(2) Toute personne qui contrevient volontairement au paragraphe 4.3(3) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de dix mille dollars pour chaque jour où se commet ou se continue l’infraction, mais n’excédant pas au total un million huit cent mille dollars.
+
+
+
+
+Infraction —par. 4.3(3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRANSITIONAL PROVISION
+
+
+
+
+
+
+
+
+
+DISPOSITION TRANSITOIRE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. The emergency response plan referred to in section 4.4 of the Department of Health Act, as enacted by section 2, must be prepared within 18 months after the day on which this Act receives royal assent.
+
+
+
+
+
+
+
+
+
+
+4. Le plan d'intervention d’urgence visé à l’article 4.4 de la Loi sur le ministère de la Santé, édicté par l’article 2, doit être élaboré dans les dix-huit mois suivant la date de sanction de la présente loi.
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

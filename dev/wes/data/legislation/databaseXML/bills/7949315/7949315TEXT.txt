@@ -1,0 +1,970 @@
+
+
+
+
+
+C-682
+
+
+
+
+
+C-682
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-682
+
+
+
+
+
+PROJET DE LOI C-682
+
+
+
+
+
+
+An Act to amend the Department of Industry Act (small businesses)
+
+
+
+
+
+Loi modifiant la Loi sur le ministère de l’Industrie (petites entreprises)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 28, 2015
+
+première lecture le 28 mai 2015
+
+
+
+
+
+
+
+
+
+
+
+
+Ms. May
+
+412298
+
+
+
+Mme May
+
+
+
+
+
+SUMMARY
+This enactment amends the Department of Industry Act to establish a mandatory review of the potential impact on small businesses in Canada of any proposed government bill or regulation that is designated by the Minister of Industry on the basis of certain considerations. 
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur le ministère de l’Industrie afin de prévoir un examen obligatoire des incidences potentielles, sur les petites entreprises canadiennes, de tout projet de loi ou de règlement que désigne le ministre de l’Industrie en fonction de certains facteurs. 
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-682
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-682
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Department of Industry Act (small businesses)
+
+
+
+
+
+
+Whereas a Canadian economy that is prosperous, sustainable and resilient depends on healthy local economies and thriving small and medium-sized Canadian enterprises;
+
+
+
+
+
+
+Whereas small businesses employ more than sixty percent of all working Canadians and are responsible for more than fifty percent of Canada’s economic activity;
+
+
+
+
+
+
+Whereas small businesses are the lifeblood of small and rural communities and, according to the Canadian Federation of Independent Business, owners of small businesses are more likely to reduce their own salaries during periods of economic recession than reduce the number of their employees;
+
+
+
+
+
+
+And whereas the Government of Canada must protect and promote the role of small businesses in the Canadian economy by ensuring that the potential impacts of any new legislation on the success of small businesses are carefully considered;  
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur le ministère de l’Industrie (petites entreprises)
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que la prospérité, la durabilité et la résilience de l’économie canadienne dépendent du maintien d’économies locales saines et de petites et moyennes entreprises canadiennes florissantes; 
+
+
+
+
+
+
+que les petites entreprises emploient plus de soixante pour cent de l’ensemble des travailleurs canadiens et génèrent plus de cinquante pour cent de l’activité économique au Canada;
+
+
+
+
+
+
+qu’elles constituent l’élément moteur des petites collectivités et des collectivités rurales et que, d’après la Fédération canadienne de l’entreprise indépendante, les propriétaires de petites entreprises sont plus susceptibles de réduire leurs propres salaires en période de récession économique que de réduire le nombre de leurs employés;
+
+
+
+
+
+
+qu’il incombe au gouvernement du Canada de protéger et de promouvoir le rôle des petites entreprises au sein de l’économie canadienne en veillant à ce que les incidences potentielles de toute nouvelle législation sur le succès des petites entreprises soient soigneusement prises en compte,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short Title
+
+
+
+1. This Bill may be cited as the Creation of Small Business Impact Assessment Act.
+
+
+
+
+
+
+
+
+
+1. Loi instaurant l’évaluation des incidences sur les petites entreprises.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+1995, c. 1
+
+
+
+DEPARTMENT OF INDUSTRY ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE MINISTÈRE DE L'INDUSTRIE
+
+
+
+1995, ch. 1
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Department of Industry Act is amended by adding the following after section 1:
+
+
+
+
+
+
+
+
+
+2. La Loi sur le ministère de l’Industrie est modifiée par adjonction, après l’article 1, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+1.1 The following definitions apply in this Act.
+
+
+
+
+“designated legislative initiative”« mesure législative désignée »
+
+
+
+“designated legislative initiative” means any proposed government bill or regulation designated by the Minister in accordance with section 6.1.
+
+
+
+
+“Small Business Impact Assessment”« évaluation des incidences sur les petites entreprises »
+
+
+
+“Small Business Impact Assessment” means an assessment, conducted in accordance with paragraph 6(f), of the significant direct and indirect effects that a designated legislative initiative would reasonably be expected to have on the successful operation and underlying conditions of Canadian small businesses. 
+
+
+
+
+
+
+
+
+
+1.1 Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« évaluation des incidences sur les petites entreprises » Évaluation, effectuée conformément à l’alinéa 6f), des effets importants —directs et indirects — qu’une mesure législative désignée aurait vraisemblablement sur le succès des activités des petites entreprises canadiennes et sur leurs conditions sous-jacentes.
+
+
+
+« évaluation des incidences sur les petites entreprises »“Small Business Impact Assessment”
+
+
+
+
+« mesure législative désignée » Projet de loi ou de règlement du gouvernement désigné par le ministre conformément à l’article 6.1.
+
+
+
+« mesure législative désignée »“designated legislative initiative”
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 5 of the Act is amended by striking out “and” at the end of paragraph (h), by adding “and” at the end of paragraph (i) and by adding the following after paragraph (i):
+
+
+
+
+
+
+
+
+
+3. L’article 5 de la même loi est modifié par adjonction, après l’alinéa i), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(j) protect and promote the role of small businesses within the Canadian economy.
+
+
+
+
+
+
+
+
+
+j) protéger et promouvoir le rôle des petites entreprises au sein de l’économie canadienne.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Section 6 of the Act is amended by striking out “and” at the end of paragraph (d), by adding “and” at the end of paragraph (e) and by adding the following after paragraph (e):  
+
+
+
+
+
+
+
+
+
+4. L’article 6 de la même loi est modifié par adjonction, après l’alinéa e), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(f) conduct, in accordance with any regulations made under section 6.3,  a Small Business Impact Assessment of designated legislative initiatives based on the following considerations:
+
+
+
+
+
+
+(i) the need to ensure that meaningful measures continue to be in place for facilitating the access of small businesses to financial assistance,
+
+
+
+
+
+
+(ii) the benefits of improving conditions for investment in small businesses and by small businesses,
+
+
+
+
+
+
+(iii) the need to ensure that the designated legislative initiative does not inhibit, directly or indirectly, the participation of small businesses in an efficient and competitive marketplace, and
+
+
+
+
+
+
+(iv) the recognition and application of the principle of net positive impact — as it pertains to the sustainibility of small businesses — in determining whether or not the designated legislative initiative is beneficial to those businesses.
+
+
+
+
+
+
+
+
+
+f) procède, conformément aux règlements pris en vertu de l’article 6.3, à l’évaluation des incidences sur les petites entreprises des mesures législatives désignées en tenant compte des facteurs suivants :
+
+
+
+
+
+
+(i) la nécessité de veiller au maintien de mesures significatives pour faciliter l’accès des petites entreprises à une aide financière,
+
+
+
+
+
+
+(ii) les avantages de l’amélioration des conditions des investissements dans les petites entreprises et par celles-ci,
+
+
+
+
+
+
+(iii) la nécessité de veiller à ce que la mesure législative désignée n’empêche pas, directement ou indirectement, la participation des petites entreprises à un marché efficace et compétitif,
+
+
+
+
+
+
+(iv) la reconnaissance et l’application du principe d’incidence positive nette, dans le cadre de la stabilité des petites entreprises, afin de déterminer si la mesure législative désignée est avantageuse pour celles-ci.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Act is amended by adding the following after section 6:
+
+
+
+
+
+
+
+
+
+5. La même loi est modifiée par adjonction, après l'article 6, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Designated legislative initiatives
+
+
+
+6.1 The Minister must, in consultation with relevant stakeholders, designate any proposed government bill or regulation that may have a potentially significant effect on Canadian small businesses.
+
+
+
+
+
+
+
+
+
+6.1 Le ministre est tenu, en consultation avec les intervenants concernés,  de désigner tout projet de loi ou projet de règlement du gouvernement pouvant avoir une incidence potentiellement importante sur les petites entreprises canadiennes.  
+
+
+
+Mesures législatives désignées 
+
+
+
+
+
+
+
+
+
+
+House of Commons
+
+
+
+6.2 (1) The Small Business Impact Assessment must accompany the designated legislative initiative when it is introduced in the House of Commons, in the case of a bill, or when it is tabled in the House of Commons, in the case of a proposed regulation that is required to be tabled before that House.
+
+
+
+
+
+
+
+
+
+6.2 (1) La mesure législative désignée, qu’il s’agisse d’un projet de loi ou d’un projet de règlement dont le dépôt devant la Chambre des communes est obligatoire, doit être accompagnée d’une évaluation des incidences sur les petites entreprises au moment de son dépôt devant cette chambre.
+
+
+
+Chambre des communes
+
+
+
+
+
+
+
+
+
+
+Canada Gazette
+
+
+
+(2) If a designated legislative initiative is a proposed regulation, the Small Business Impact Assessment must be published with the proposed regulation in the Canada Gazette, Part I. 
+
+
+
+
+
+
+
+
+
+(2) Si la mesure législative désignée est un projet de règlement, l’évaluation des incidences sur les petites entreprises est publiée conjointement avec celui-ci dans la partie I de la Gazette du Canada.
+
+
+
+Gazette du Canada
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+6.3 The Governor in Council may, on the recommendation of the Minister, make regulations respecting
+
+
+
+
+
+
+
+
+(a) the considerations to apply in designating the legislative initiatives that would reasonably be expected to have a potentially significant  effect on the successful operation and underlying conditions of Canadian small businesses;
+
+
+
+
+
+
+
+
+(b) the process to be followed in preparing and submitting  a Small Business Impact Assessment;
+
+
+
+
+
+
+
+
+(c) the matters that must be addressed in each Small Business Impact Assessment, including a summary description of the designated legislative initiative’s quantitative and qualitative costs and benefits as they can reasonably be expected to impact upon the conditions for Canadian businesses with less than 50 employees; and
+
+
+
+
+
+
+
+
+(d) the meaning and application of the principle of net positive impact for the purposes of subparagraph 6(f)(iv).
+
+
+
+
+
+
+
+
+
+6.3 Le gouverneur en conseil peut, sur recommandation du ministre, prendre des règlements concernant :
+
+
+
+Règlements
+
+
+
+
+a) les facteurs à prendre en compte pour la désignation des mesures législatives qui auraient vraisemblablement une incidence potentiellement importante sur le succès des activités des petites entreprises canadiennes et les conditions sous-jacentes de celles-ci;
+
+
+
+
+
+
+
+
+b) la procédure à suivre pour préparer et soumettre une évaluation des incidences sur les petites entreprises;
+
+
+
+
+
+
+
+
+c) les questions dont doit traiter l’évaluation visée à l'alinéa b), y compris une description sommaire des coûts et avantages quantitatifs et qualitatifs de la mesure législative désignée qui peuvent vraisemblablement avoir une incidence sur les conditions des entreprises canadiennes comptant moins de cinquante employés;
+
+
+
+
+
+
+
+
+d) la définition et la mise en application du principe d’incidence positive nette pour l’application du sous-alinéa 6f)(iv).
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

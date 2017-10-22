@@ -1,0 +1,1351 @@
+
+
+
+
+
+C-648
+
+
+
+
+
+C-648
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-648
+
+
+
+
+
+PROJET DE LOI C-648
+
+
+
+
+
+
+An Act respecting the prevention of potential health risks from radiofrequency electromagnetic radiation
+
+
+
+
+
+Loi visant la prévention des risques potentiels pour la santé liés au rayonnement électromagnétique de radiofréquences
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 11, 2014
+
+première lecture le 11 décembre 2014
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Young
+
+412014
+
+
+
+M. Young
+
+
+
+
+
+SUMMARY
+This enactment makes it an offence to sell radio apparatus for general public use without a warning label that cautions the user of potential health risks of exposure to radiofrequency electromagnetic fields associated with the use of this apparatus.  The enactment also empowers the Minister of Industry to make regulations respecting the wording of the information to be printed on these warning labels, as well as the positioning, printing and dimensions of the labels. It also empowers the Minister to make regulations respecting the dissemination of information respecting the safe use of radio apparatus and providing for their sampling, testing, inspection and analysis.
+
+
+
+SOMMAIRE
+Le texte érige en infraction le fait de vendre des appareils radio destinés au grand public qui n’arborent pas d’étiquette de mise en garde contre les risques potentiels pour la santé liés à l’exposition aux champs électromagnétiques de radiofréquences associés à l’utilisation de ces appareils. Il confère également au ministre de l’Industrie le pouvoir de prendre des règlements concernant le libellé des renseignements devant figurer sur l’étiquette de mise en garde, ainsi que sur l’emplacement, l’aspect et les dimensions de l’étiquette. Il autorise en outre le ministre à prendre des règlements qui régissent la diffusion des renseignements sur l’utilisation sécuritaire des appareils radio et prévoient l’échantillonnage, l’essai, l’inspection et l’analyse de ceux-ci.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+62-63 Elizabeth II, 2013-2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-648
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-648
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting the prevention of potential health risks from radiofrequency electromagnetic radiation
+
+
+
+
+
+
+Whereas there is a growing use of radio apparatus among Canadians, who are thereby exposed to the radiofrequency electromagnetic fields emitted by such apparatus;
+
+
+
+
+
+
+Whereas there is a  growing awareness of and concern about environmental exposure to radiofrequency radiation associated with the transmission of signals for wireless telecom-munication and about personal exposure to such radiation through the use of radio apparatus, which may have long-term health effects;
+
+
+
+
+
+
+Whereas the International Agency for Research on Cancer has classified radiofrequency electromagnetic fields as “possibly carcinogenic to humans (Group 2B) based on an increased risk for glioma, a malignant type of brain cancer, associated with wireless phone use”;
+
+
+
+
+
+
+Whereas it is in the interest of all Canadians to be warned of potential health hazards associated with the use of radio apparatus, thus enabling them to make informed choices;
+
+
+
+
+
+
+And whereas a warning label will serve to increase awareness among Canadians of the potential health hazards linked to the use of radio apparatus;
+
+
+
+
+
+
+
+
+
+Loi visant la prévention des risques potentiels pour la santé liés au rayonnement électromagnétique de radiofréquences
+
+
+
+
+
+
+Attendu :
+
+
+
+
+
+
+que l’utilisation d’appareils radio est de plus en plus répandue chez les Canadiens, ceux-ci étant exposés aux champs électromagnétiques de radiofréquences émis par ces appareils; 
+
+
+
+
+
+
+que la population est de plus en plus consciente et se préoccupe davantage tant de l’exposition ambiante au rayonnement électromagnétique de radiofréquences associé à la transmission de signaux de télécommunication sans fil que de l’exposition personnelle à un tel rayonnement découlant de l’utilisation d’appareils radio, ces expositions pouvant entraîner des effets à long terme sur la santé;
+
+
+
+
+
+
+que le Centre international de Recherche sur le cancer a classé les champs électromagnétiques de radiofréquences comme étant « peut-être cancérogènes pour l’homme (Groupe 2B), sur la base d’un risque accru de gliome, un type de cancer malin du cerveau, associé à l’utilisation du téléphone sans fil »;
+
+
+
+
+
+
+qu’il est dans l’intérêt de tous les Canadiens d’être mis en garde contre les risques potentiels pour la santé associés à l’utilisation d’appareils radio afin d’être en mesure de faire des choix éclairés;
+
+
+
+
+
+
+que l'utilisation d'étiquettes de mise en garde sensibilisera davantage les Canadiens quant à ces risques,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Warning Labels for Radio Apparatus Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur les étiquettes de mise en garde pour les appareils radio. 
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The following definitions apply in this Act.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Industry.
+
+
+
+
+“radio apparatus”« appareil radio »
+
+
+
+“radio apparatus” means a device  or combination of devices intended for, or capable of being used for, radiocommunication.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« appareil radio » Dispositif ou assemblage de dispositifs destiné ou pouvant servir à la radiocommunication.
+
+
+
+« appareil radio »“radio apparatus”
+
+
+
+
+« ministre » Le ministre de l’Industrie. 
+
+
+
+« ministre »“Minister”
+
+
+
+
+
+
+
+
+
+
+PROHIBITION
+
+
+
+
+
+
+
+
+
+INTERDICTION
+
+
+
+
+
+
+
+
+
+
+
+
+Prohibition
+
+
+
+3. It is prohibited for anyone to sell a radio apparatus for use by the general public without a warning label — affixed to the apparatus or to the outside of its packaging — that is in the form prescribed by regulations and that contains the information set out in subsection 4(2).
+
+
+
+
+
+
+
+
+
+3. Il est interdit à quiconque de vendre un appareil radio pour utilisation par le grand public qui ne comporte pas l’étiquette de mise en garde réglementaire — apposée sur l'appareil ou sur son emballage — où sont inscrits les renseignements prévus au paragraphe 4(2).
+
+
+
+Interdiction
+
+
+
+
+
+
+
+
+
+
+WARNING  LABELS
+
+
+
+
+
+
+
+
+
+ÉTIQUETTES DE MISE EN GARDE
+
+
+
+
+
+
+
+
+
+
+
+
+Warning label
+
+
+
+4. (1) The warning label must be clearly visible and affixed to any radio apparatus for use by the general public or to the outside packaging of any such radio apparatus at any point of sale
+
+
+
+
+
+
+
+
+(a) in a retail outlet in Canada; or
+
+
+
+
+
+
+
+
+(b) on a web site engaging in commerce in Canada.
+
+
+
+
+
+
+
+
+
+4. (1) L’étiquette de mise en garde est clairement visible et apposée sur tout appareil radio pour utilisation par le grand public ou sur l’emballage de celui-ci :
+
+
+
+Étiquette de mise en garde
+
+
+
+
+a) soit à tout point de vente au détail au Canada; 
+
+
+
+
+
+
+
+
+b) soit à tout point de vente sur un site Web exerçant des activités commerciales au Canada. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents of label
+
+
+
+(2) The warning label must include the following information:
+
+
+
+
+
+
+
+
+(a) a reference to the classification, by the International Agency for Research on Cancer, which is part of the World Health Organization, of radiofrequency electromagnetic fields as possibly carcinogenic to humans;
+
+
+
+
+
+
+
+
+(b) a reference to the various potential health risks from exposure to the radiofrequency electromagnetic radiation from radio apparatus;
+
+
+
+
+
+
+
+
+(c) an identifiable symbol for non-ionizing radiation hazard;
+
+
+
+
+
+
+
+
+(d) an indication of the radio apparatus’ origin, including the name and address of its manufacturer or distributor; and
+
+
+
+
+
+
+
+
+(e) any additional information prescribed by regulations that relates to potential health risks from exposure to radiofrequency electromagnetic radiation. 
+
+
+
+
+
+
+
+
+
+(2) L’étiquette de mise en garde comporte les renseignements suivants :
+
+
+
+Contenu de l’étiquette
+
+
+
+
+a) la mention de la classification, par le Centre international de Recherche sur le cancer de l’Organisation mondiale de la santé, des champs électromagnétiques de radiofréquences comme pouvant être cancérogènes pour les humains;
+
+
+
+
+
+
+
+
+b) la mention des divers risques potentiels pour la santé liés à l’exposition au rayonnement électromagnétique de radiofréquences émanant de l’appareil radio;
+
+
+
+
+
+
+
+
+c) un symbole discernable avertissant du risque de rayonnement non ionisant;
+
+
+
+
+
+
+
+
+d) l’origine de l’appareil radio, y compris le nom et l’adresse de son fabricant ou de son distributeur;
+
+
+
+
+
+
+
+
+e) tout autre renseignement prévu par règlement concernant les risques potentiels pour la santé liés à l’exposition au rayonnement électromagnétique de radiofréquences. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minister
+
+
+
+(3) Within six months after the coming into force of this Act, the Minister must make regulations prescribing the form of the warning labels and any information to be printed on the labels.
+
+
+
+
+
+
+
+
+
+(3) Dans les six mois suivant l’entrée en vigueur de la présente loi, le ministre précise, par règlement, la forme de l’étiquette de mise en garde ainsi que tout renseignement devant y figurer.
+
+
+
+Ministre
+
+
+
+
+
+
+
+
+
+
+ANNUAL REVIEW
+
+
+
+
+
+
+
+
+
+RÉVISION ANNUELLE
+
+
+
+
+
+
+
+
+
+
+
+
+Review of information printed on label
+
+
+
+5. The Minister must, on an annual basis, review the content of the warning label and, if appropriate because of advances in scientific knowledge related to radiofrequency electromagnetic radiation from radio apparatus, prescribe by regulation any information to be added or removed from the warning labels. 
+
+
+
+
+
+
+
+
+
+5. Chaque année, le ministre révise le contenu de l’étiquette de mise en garde et, si des avancées dans les connaissances scientifiques sur le rayonnement électromagnétique de radiofréquences émanant des appareils radio le justifient, exige par règlement que des renseignements soient ajoutés sur les étiquettes de mise en garde ou supprimés de celle-ci.
+
+
+
+Révision des renseignements sur l’étiquette
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+6. The Minister may make regulations
+
+
+
+
+
+
+
+
+(a) respecting the position and dimensions of the warning label referred to in subsection 4(1) so as to ensure maximum visibility;
+
+
+
+
+
+
+
+
+(b) respecting the printing of the warning label referred to in subsection 4(1) in clearly legible and indelible characters;
+
+
+
+
+
+
+
+
+(c) respecting any information that relates to potential health risks from exposure to radiofrequency electromagnetic radiation to be printed on the warning labels referred to in subsection 4(1);
+
+
+
+
+
+
+
+
+(d) respecting the dissemination of information that relates to the safe use of radio apparatus;
+
+
+
+
+
+
+
+
+(e) requiring persons who sell radio apparatus to maintain such books and records as the Minister considers necessary for the proper enforcement and administration of this Act and the regulations;
+
+
+
+
+
+
+
+
+(f) providing for the sampling, testing, inspection and analysis of radio apparatus; 
+
+
+
+
+
+
+
+
+(g) providing for the manner and conditions of sampling, testing and analysis; 
+
+
+
+
+
+
+
+
+(h) designating laboratories to perform testing and analysis;
+
+
+
+
+
+
+
+
+(i) prescribing anything that may be prescribed under this Act; and
+
+
+
+
+
+
+
+
+(j) as the Minister considers necessary for carrying out the purposes and provisions of this Act.
+
+
+
+
+
+
+
+
+
+6. Le ministre peut prendre des règlements :
+
+
+
+Règlements
+
+
+
+
+a) concernant l’emplacement et les dimensions de l’étiquette de mise en garde visée au paragraphe 4(1) afin d’en maximiser la visibilité;
+
+
+
+
+
+
+
+
+b) concernant l’impression en caractères clairement lisibles et indélébiles de la mise en garde sur l’étiquette visée au paragraphe 4(1);
+
+
+
+
+
+
+
+
+c) concernant tout renseignement sur les risques potentiels pour la santé liés à l’exposition au rayonnement électromagnétique de radiofréquences devant figurer sur l’étiquette de mise en garde visée au paragraphe 4(1);
+
+
+
+
+
+
+
+
+d) concernant la diffusion de renseignements sur l’utilisation sécuritaire des appareils radio;
+
+
+
+
+
+
+
+
+e) obligeant les personnes qui vendent des appareils radio à tenir les livres et registres que le ministre juge nécessaires pour l’observation et l’application de la présente loi et de ses règlements;
+
+
+
+
+
+
+
+
+f) concernant l’échantillonnage, l’essai, l’inspection et l’analyse d’appareils radio;
+
+
+
+
+
+
+
+
+g) concernant les modalités de l’échantillonnage, des essais et des analyses;
+
+
+
+
+
+
+
+
+h) désignant les laboratoires qui effectueront les essais et les analyses; 
+
+
+
+
+
+
+
+
+i) concernant toute mesure d’ordre réglementaire prévue par la présente loi;
+
+
+
+
+
+
+
+
+j) concernant toute autre mesure d’application de la présente loi qu’il estime nécessaire. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OFFENCES AND PUNISHMENT
+
+
+
+
+
+
+
+
+
+INFRACTIONS ET PEINES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. (1) Every person who contravenes any provision of this Act or the regulations made under this Act is guilty of an offence and is liable
+
+
+
+
+
+
+(a) on summary conviction, to a fine not exceeding $50,000; or
+
+
+
+
+
+
+(b) on conviction on indictment, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding six months, or to both.
+
+
+
+
+
+
+
+
+
+7. (1) Quiconque contrevient à une disposition de la présente loi ou de ses règlements commet une infraction et encourt, sur déclaration de culpabilité :
+
+
+
+
+
+
+a) par procédure sommaire, une amende maximale de 50 000 $;
+
+
+
+
+
+
+b) par mise en accusation, une amende maximale de 100 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+Criminal liability of officers, etc., of corporations
+
+
+
+(2) If a person other than an individual commits an offence under this Act, any of the person's officers, directors, agents or mandataries who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to and guilty of the offence and is liable on conviction to the punishment provided for by this Act, whether or not the person is prosecuted for the offence.
+
+
+
+
+
+
+
+
+
+(2) En cas de perpétration par une personne morale d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie.
+
+
+
+Personnes morales et leurs dirigeants, etc.
+
+
+
+
+
+
+
+
+
+
+Products received or in transit before Act in force
+
+
+
+(3) No person may be convicted of an offence under this Act in relation to the sale of a radio apparatus if the apparatus in relation to which the offence was committed was received by, or was in transit to, the person from a supplier before the coming into force of this Act.
+
+
+
+
+
+
+
+
+
+
+(3) Nul ne peut être déclaré coupable d’une infraction prévue par la présente loi relativement à la vente d’un appareil radio s’il a reçu d’un fournisseur l’appareil radio en cause ou que celui-ci était en transit avant l’entrée en vigueur de la présente loi.
+
+
+
+Articles reçus ou en transit 
+
+
+
+
+
+
+
+
+
+
+Continuing offence
+
+
+
+(4) If an offence under this Act is committed or continued on more than one day, it constitutes a separate offence for each day on which it is committed or continued.
+
+
+
+
+
+
+
+
+
+(4) Il est compté une infraction distincte pour chacun des jours au cours desquels se commet ou se continue l’infraction à la présente loi.
+
+
+
+Infraction continue 
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+8. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+8. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

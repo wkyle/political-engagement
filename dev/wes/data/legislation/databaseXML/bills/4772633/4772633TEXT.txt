@@ -1,0 +1,792 @@
+
+
+
+
+
+S-223
+
+
+
+
+
+S-223
+
+
+
+
+
+
+First Session, Thirty-ninth Parliament,
+
+
+
+
+
+Première session, trente-neuvième législature,
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-223
+
+
+
+
+
+PROJET DE LOI S-223
+
+
+
+
+
+
+An Act to amend the Access to Information Act
+
+
+
+
+
+Loi modifiant la Loi sur l’accès à l’information
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, February 15, 2007
+
+première lecture le 15 février 2007
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR MILNE
+
+0614
+
+
+
+L’HONORABLE SÉNATEUR MILNE
+
+
+
+
+
+SUMMARY
+This enactment amends the Access to Information Act
+(a) to provide for increased access to information created by the Auditor General of Canada or the Commissioner of Official Languages for Canada in the course of conducting investigations and audits;
+(b) to provide for increased access to audit working papers related to internal audits of government institutions; and
+(c) to authorize the disclosure of otherwise-exempt information where the public interest in doing so clearly outweighs any harm that may result from the disclosure.
+
+
+
+SOMMAIRE
+Le texte modifie la Loi sur l’accès à l’information de façon à :
+a) prévoir un meilleur accès aux renseignements créés par le vérificateur général du Canada ou le commissaire aux langues officielles du Canada dans le cadre d’un examen, d’une enquête ou d’une vérification;
+b) prévoir un meilleur accès aux documents de travail se rapportant à la vérification interne d’une institution fédérale;
+c) autoriser la communication de renseignements protégés, si l’intérêt public justifie nettement les préjudices qui peuvent en résulter.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+55-56 Elizabeth II, 2006-2007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-223
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-223
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Access to Information Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur l’accès à l’information
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. A-1
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+L.R., ch. A-1
+
+
+
+
+
+
+
+
+
+
+
+
+1. (1) If section 144 of the Federal Accountability Act (the “other Act”) comes into force before the day on which this Act receives royal assent, then, on the day of that assent, subsection 16.1(2) of the Access to Information Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. (1) En cas d’entrée en vigueur de l’article 144 de la Loi fédérale sur la responsabilité, (appelée « autre loi » au présent article) avant la sanction de la présente loi, à la date de cette sanction, le paragraphe 16.1(2) de la Loi sur l’accès à l’information est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2) However, the head of a government institution referred to in any of paragraphs 1(a) to (d) shall not refuse under subsection (1) to disclose any record that contains information that was created by or on behalf of the head of the government institution in the course of an investigation or audit conducted by or under the authority of the head of the government institution once the investigation or audit and all related proceedings, if any, are finally concluded.
+
+
+
+
+
+
+
+
+
+(2) Toutefois, aucun des responsables d’une institution fédérale mentionnés à l’un des alinéas (1)a) à d) ne peut s’autoriser du paragraphe (1) pour refuser de communiquer les documents qui contiennent des renseignements créés par lui ou pour son compte dans le cadre de toute enquête ou vérification faite par lui ou sous son autorité une fois que l’enquête ou la vérification et toute instance afférente sont terminées.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+
+
+(2) If this Act receives royal assent before section 144 of the other Act comes into force, then, on the day of that assent, section 144 of the other Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) En cas de sanction de la présente loi avant que l’article 144 de l’autre loi entre en vigueur, à la date de cette sanction, l’article 144 de l’autre loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+144. The Act is amended by adding the following in numerical order:
+
+
+
+
+
+
+
+
+
+144. La même loi est modifiée par adjonction, selon l’ordre numérique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Records relating to investigations, examinations and audits
+
+
+
+16.1 (1) The following heads of government institutions shall refuse to disclose any record requested under this Act that contains information that was obtained or created by them or on their behalf in the course of an investigation, examination or audit conducted by them or under their authority:
+
+
+
+
+
+
+
+
+(a) the Auditor General of Canada;
+
+
+
+
+
+
+
+
+(b) the Commissioner of Official Languages for Canada;
+
+
+
+
+
+
+
+
+(c) the Information Commissioner; and
+
+
+
+
+
+
+
+
+(d) the Privacy Commissioner.
+
+
+
+
+
+
+
+
+
+16.1 (1) Sont tenus de refuser de communiquer les documents qui contiennent des renseignements créés ou obtenus par eux ou pour leur compte dans le cadre de tout examen, enquête ou vérification fait par eux ou sous leur autorité :
+
+
+
+Documents se rapportant à des examens, enquêtes ou vérifications
+
+
+
+
+a) le vérificateur général du Canada;
+
+
+
+
+
+
+
+
+b) le commissaire aux langues officielles du Canada;
+
+
+
+
+
+
+
+
+c) le Commissaire à l’information;
+
+
+
+
+
+
+
+
+d) le Commissaire à la protection de la vie privée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2) However, the head of a government institution referred to in any of paragraphs (1)(a) to (d) shall not refuse under subsection (1) to disclose any record that contains information that was created by or on behalf of the head of the government institution in the course of an investigation or audit conducted by or under the authority of the head of the government institution once the investigation or audit and all related proceedings, if any, are finally concluded.
+
+
+
+
+
+
+
+
+
+(2) Toutefois, aucun des responsables d’une institution fédérale mentionnés à l’un des alinéas (1)a) à d) ne peut s’autoriser du paragraphe (1) pour refuser de communiquer les documents qui contiennent des renseignements créés par lui ou pour son compte dans le cadre de toute enquête ou vérification faite par lui ou sous son autorité une fois que l’enquête ou la vérification et toute instance afférente sont terminées.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+
+
+2. Subsection 22.1(2) of the Access to Information Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+2. Le paragraphe 22.1(2) de la Loi sur l’accès à l’information est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(2) However, the head of a government institution shall not refuse under subsection (1) to disclose a draft report of an internal audit of a government institution or any related audit working paper if a final report of the audit has been published or if a final report of the audit is not delivered to the institution within two years after the day on which the audit was first commenced.
+
+
+
+
+
+
+
+
+
+(2) Toutefois, il ne peut s’autoriser du paragraphe (1) pour refuser de communiquer tout rapport préliminaire d’une vérification interne d’une institution fédérale, ou tout document de travail se rapportant à la vérification, si le rapport définitif a été publié ou si aucun rapport définitif n’a été remis à l’institution dans les deux ans qui suivent la date du début de la vérification.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+
+
+
+
+3. The Act is amended by adding the following after section 26:
+
+
+
+
+
+
+
+
+
+3. La même loi est modifiée par adjonction, après l’article 26, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Public Interest Override
+
+
+
+
+
+
+
+
+
+Préséance de l’intérêt public
+
+
+
+
+
+
+
+
+
+
+
+
+Disclosure authorized if in public interest
+
+
+
+26.1 Despite any other provision of this Act, the head of a government institution may disclose all or part of a record to which this Act applies if the head determines that the public interest in the disclosure clearly outweighs in importance any loss, prejudice or harm that may result from the disclosure. However, the head shall not disclose under this section any information that relates to national security.
+
+
+
+
+
+
+
+
+
+26.1 Par dérogation aux autres dispositions de la présente loi, le responsable d’une institution fédérale peut communiquer tout ou partie d’un document assujetti à la présente loi s’il conclut que l’intérêt public justifie nettement les pertes, atteintes ou préjudices qui peuvent en résulter. Toutefois, le responsable ne peut communiquer aucun renseignement relatif à la sécurité nationale en vertu du présent article.
+
+
+
+Communication dans l’intérêt public
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Access to Information Act
+Clause 1: (1) Existing text of subsection 16.1(2):
+(2) However, the head of a government institution referred to in paragraph (1)(c) or (d) shall not refuse under subsection (1) to disclose any record that contains information that was created by or on behalf of the head of the government institution in the course of an investigation or audit conducted by or under the authority of the head of the government institution once the investigation or audit and all related proceedings, if any, are finally concluded.
+
+
+
+Loi sur l’Accès à l’information
+Article 1 :  (1) Texte du paragraphe 16.1(2) :
+(2) Toutefois, aucun des commissaires mentionnés aux alinéas (1)c) ou d) ne peut s’autoriser du paragraphe (1) pour refuser de communiquer les documents qui contiennent des renseignements créés par lui ou pour son compte dans le cadre de toute enquête ou vérification faite par lui ou sous son autorité une fois que l’enquête ou la vérification et toute instance afférente sont terminées.
+
+
+
+
+Federal Accountability Act
+(2) Existing text of section 144:
+144. The Act is amended by adding the following in numerical order:
+16.1 (1) The following heads of government institutions shall refuse to disclose any record requested under this Act that contains information that was obtained or created by them or on their behalf in the course of an investigation, examination or audit conducted by them or under their authority:
+(a) the Auditor General of Canada;
+(b) the Commissioner of Official Languages for Canada;
+(c) the Information Commissioner; and
+(d) the Privacy Commissioner.
+(2) However, the head of a government institution referred to in paragraph (1)(c) or (d) shall not refuse under subsection (1) to disclose any record that contains information that was created by or on behalf of the head of the government institution in the course of an investigation or audit conducted by or under the authority of the head of the government institution once the investigation or audit and all related proceedings, if any, are finally concluded.
+
+
+
+Loi fédérale sur la responsabilité
+(2) Texte de l’article 144 :
+144. La même loi est modifiée par adjonction, selon l’ordre numérique, de ce qui suit :
+16.1 (1) Sont tenus de refuser de communiquer les documents qui contiennent des renseignements créés ou obtenus par eux ou pour leur compte dans le cadre de tout examen, enquête ou vérification fait par eux ou sous leur autorité :
+a) le vérificateur général du Canada;
+b) le commissaire aux langues officielles du Canada;
+c) le Commissaire à l’information;
+d) le Commissaire à la protection de la vie privée.
+(2) Toutefois, aucun des commissaires mentionnés aux alinéas (1)c) ou d) ne peut s’autoriser du paragraphe (1) pour refuser de communiquer les documents qui contiennent des renseignements créés par lui ou pour son compte dans le cadre de toute enquête ou vérification faite par lui ou sous son autorité une fois que l’enquête ou la vérification et toute instance afférente sont terminées.
+
+
+
+
+Access to Information Act
+Clause 2: Existing text of subsection 22.1(2):
+(2) However, the head of a government institution shall not refuse under subsection (1) to disclose a draft report of an internal audit of a government institution if a final report of the audit has been published or if a final report of the audit is not delivered to the institution within two years after the day on which the audit was first commenced.
+
+
+
+Loi sur l’Accès à l’information
+Article 2 : Texte du paragraphe 22.1(2) :
+(2) Toutefois, il ne peut s’autoriser du paragraphe (1) pour refuser de communiquer tout rapport préliminaire d’une vérification interne d’une institution fédérale si le rapport définitif a été publié ou si aucun rapport définitif n’a été remis à l’institution dans les deux ans qui suivent la date du début de la vérification.
+
+
+
+
+Clause 3: New.
+
+
+
+Article 3 : Nouveau.
+
+
+
+

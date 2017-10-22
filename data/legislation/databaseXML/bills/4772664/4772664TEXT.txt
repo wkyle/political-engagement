@@ -1,0 +1,3508 @@
+
+
+
+
+
+S-235
+
+
+
+
+
+S-235
+
+
+
+
+
+
+Second Session, Thirty-ninth Parliament,
+
+
+
+
+
+Deuxième session, trente-neuvième législature,
+
+
+
+
+
+
+56-57 Elizabeth II, 2007-2008
+
+
+
+
+
+56-57 Elizabeth II, 2007-2008
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-235
+
+
+
+
+
+PROJET DE LOI S-235
+
+
+
+
+
+
+An Act concerning unsolicited commercial electronic messages
+
+
+
+
+
+Loi concernant les messages électroniques commerciaux non sollicités
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, May 7, 2008
+
+première lecture le 7 mai 2008
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR GOLDSTEIN
+
+0732
+
+
+
+L’HONORABLE SÉNATEUR GOLDSTEIN
+
+
+
+
+
+SUMMARY
+This enactment prohibits the sending of a commercial electronic message without the consent of the recipient.  Consent to receiving commercial electronic messages from certain senders is presumed.  The enactment sets out form and content requirements for commercial electronic messages, and also prohibits address harvesting, dictionary attacks and phishing. The enactment creates offences for the contravention of its provisions, as well as a civil right of action.
+
+
+
+SOMMAIRE
+Le texte interdit l’envoi d’un message électronique commercial sans le consentement du destinataire. Il y a consentement présumé dans le cas des messages électroniques commerciaux reçus de certains expéditeurs. Le texte énonce les exigences de forme et de contenu applicables aux messages électroniques commerciaux et il interdit la collecte automatique d’adresses, l’attaque par dictionnaire et l’hameçonnage. En outre, il crée des infractions pour contravention à ses dispositions et il prévoit un droit de recours civil.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 39th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 39e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+56-57 Elizabeth II, 2007-2008
+
+
+
+
+
+
+
+
+
+56-57 Elizabeth II, 2007-2008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-235
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-235
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act concerning unsolicited commercial electronic messages
+
+
+
+
+
+
+
+
+
+Loi concernant les messages électroniques commerciaux non sollicités
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Anti-Spam Act.
+
+
+
+
+
+
+
+
+
+1. Loi anti-pourriel.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2.  The following definitions apply in this Act.
+
+
+
+
+“address-harvesting software”« logiciel de collecte d’adresses »
+
+
+
+“address-harvesting software” means software that searches the Internet for electronic addresses and collects, compiles, captures or otherwise harvests electronic addresses.
+
+
+
+
+“commercial electronic message”« message électronique commercial »
+
+
+
+“commercial electronic message” means an electronic message that
+
+
+
+
+
+
+
+
+(a) advertises, promotes or offers to supply goods, a service, land, an interest in land, or a business, investment or gaming opportunity,
+
+
+
+
+
+
+
+
+(b) advertises or promotes a provider or prospective provider of anything referred to in paragraph (a), or
+
+
+
+
+
+
+
+
+(c) is of a kind prescribed by regulation,
+
+
+
+
+
+
+
+
+but does not include an electronic message that is sent by or on behalf of a government department or agency, a court or a tribunal.
+
+
+
+
+“educational institution”« établissement d’enseignement »
+
+
+
+“educational institution” means
+
+
+
+
+
+
+
+
+(a) a non-profit institution licensed or recognized by or under an Act of Parliament or the legislature of a province to provide pre-school, elementary, secondary or post-secondary education;
+
+
+
+
+
+
+
+
+(b) a non-profit institution that is directed or controlled by a board of education regulated by or under an Act of the legislature of a province and that provides continuing, professional or vocational education or training; or
+
+
+
+
+
+
+
+
+(c) a department or agency of any order of government, or any non-profit body, that controls or supervises education or training referred to in paragraph (a) or (b).
+
+
+
+
+“electronic address”« adresse électronique »
+
+
+
+“electronic address” means an address in connection with an e-mail account, instant messaging account, telephone account or similar account.
+
+
+
+
+“electronic message”« message électronique »
+
+
+
+“electronic message” means a message that is sent through a telecommunications service provider to an electronic address, but does not include a message sent by way of a voice call made using a telephone service.
+
+
+
+
+“harvested-address list”« liste d’adresses colligées »
+
+
+
+“harvested-address list” means a list, collection or compilation of electronic addresses where the production of the list, collection or compilation is, to any extent, directly or indirectly attributable to the use of address-harvesting software.
+
+
+
+
+“message”« message »
+
+
+
+“message” means information in the form of text, data, images, sounds or any other form or combination of forms.
+
+
+
+
+“person”« personne »
+
+
+
+“person” means an individual, partnership, corporation, trust, foundation, or an unincorporated organization or association of any kind.
+
+
+
+
+“political party”« parti politique »
+
+
+
+“political party” means a political party that is registered under the Canada Elections Act or a comparable law of a province or foreign state.
+
+
+
+
+“recipient”« destinataire »
+
+
+
+“recipient”, in respect of an electronic message, means the person who is responsible for the e-mail account, instant messaging account, telephone account or similar account to which the message is sent.
+
+
+
+
+“send”« envoyer »
+
+
+
+“send” includes attempt to send.
+
+
+
+
+“sender”« expéditeur »
+
+
+
+“sender”, in respect of an electronic message, includes a person who authorizes the sending of the message, but does not include a telecommunications service provider who provides an access service that is limited to handling, transmitting or relaying the message.
+
+
+
+
+“telecommunications service”« service de télécommunication »
+
+
+
+“telecommunications service” has the same meaning as in the Telecommunications Act.
+
+
+
+
+“telecommunications service provider”« fournisseur de services de télécommunication »
+
+
+
+“telecommunications service provider” has the same meaning as in the Telecommunications Act.
+
+
+
+
+“unsubscribe facility”« mécanisme de désinscription »
+
+
+
+“unsubscribe facility” means an electronic address set out in a commercial electronic message to which the recipient can send an unsubscribe request to the person who sent or authorized the sending of the message.
+
+
+
+
+“unsubscribe request”« demande de désinscription »
+
+
+
+“unsubscribe request” means an electronic message sent by the recipient of a commercial electronic message to the sender of that message to the effect that the recipient withdraws consent to receiving any further commercial electronic messages from or authorized by the sender.
+
+
+
+
+
+
+
+
+
+2.  Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« adresse électronique » Adresse associée à un compte de courrier électronique, un compte de messagerie instantanée, un compte de téléphone ou tout compte similaire.
+
+
+
+« adresse électronique »“electronic address”
+
+
+
+
+« demande de désinscription » Message électronique que le destinataire d’un message électronique commercial envoie à l’expéditeur de ce message pour l’informer qu’il ne consent plus à recevoir des messages électroniques commerciaux adressés ou autorisés par cet expéditeur.
+
+
+
+« demande de désinscription »“unsubscribe request”
+
+
+
+
+« destinataire » Dans le cas d’un message électronique, la personne responsable du compte de courrier électronique, du compte de messagerie instantanée, du compte de téléphone ou de tout compte similaire auquel le message est envoyé.
+
+
+
+« destinataire »“recipient”
+
+
+
+
+« envoyer » Est assimilée à l’action d’envoyer toute tentative d’envoyer.
+
+
+
+« envoyer »“send”
+
+
+
+
+« établissement d’enseignement » :
+
+
+
+« établissement d’enseignement »“educational institution”
+
+
+
+
+a) Établissement sans but lucratif agréé aux termes d’une loi fédérale ou provinciale pour dispenser de l’enseignement aux niveaux préscolaire, élémentaire, secondaire ou postsecondaire, ou reconnu comme tel;
+
+
+
+
+
+
+
+
+b) établissement sans but lucratif placé sous l’autorité d’un conseil scolaire régi par une loi provinciale et qui dispense des cours d’éducation ou de formation permanente, technique ou professionnelle;
+
+
+
+
+
+
+
+
+c) ministère ou organisme, quel que soit l’ordre de gouvernement, ou entité sans but lucratif qui exerce un contrôle ou une surveillance sur l’enseignement ou la formation visés aux alinéas a) ou b).
+
+
+
+
+
+
+
+
+« expéditeur » Dans le cas d’un message électronique, s’entend notamment de la personne qui autorise l’envoi du message, mais ne vise pas le fournisseur de services de télécommunication qui fournit un service d’accès qui se limite à la manutention, à la transmission ou à l’acheminement du message.
+
+
+
+« expéditeur »“sender”
+
+
+
+
+« fournisseur de services de télécommunication » S’entend au sens de la Loi sur les télécommunications.
+
+
+
+« fournisseur de services de télécommunication »“telecommunications service provider”
+
+
+
+
+« liste d’adresses colligées » Liste, recueil ou compilation d’adresses électroniques dont la production est, dans quelque mesure que ce soit, directement ou indirectement attribuable à l’utilisation d’un logiciel de collecte d’adresses.
+
+
+
+« liste d’adresses colligées »“harvested-address list”
+
+
+
+
+« logiciel de collecte d’adresses » Logiciel qui recherche des adresses électroniques sur Internet et qui capte, compile, collige ou recueille autrement ces adresses.
+
+
+
+« logiciel de collecte d’adresses »“address harvesting software”
+
+
+
+
+« mécanisme de désinscription » Adresse électronique indiquée dans un message électronique commercial à laquelle le destinataire peut envoyer une demande de désinscription à la personne qui a envoyé le message ou qui en a autorisé l’envoi.
+
+
+
+« mécanisme de désinscription »“unsubscribe facility”
+
+
+
+
+« message » Ensemble d’informations sous forme de texte, de données, d’images ou de sons ou sous toute autre forme ou combinaison de formes.
+
+
+
+« message »“message”
+
+
+
+
+« message électronique » Message envoyé à une adresse électronique par l’entremise d’un fournisseur de services de télécommunication. Est exclu de la présente définition le message envoyé par appel vocal fait au moyen d’un service téléphonique.
+
+
+
+« message électronique »“electronic message”
+
+
+
+
+« message électronique commercial » Message électronique qui, selon le cas :
+
+
+
+« message électronique commercial »“commercial electronic message”
+
+
+
+
+a) fait l’annonce, la promotion ou l’offre d’un produit, d’un service, d’un terrain, d’un intérêt dans un terrain ou de possibilités d’affaires, d’investissement ou de jeu;
+
+
+
+
+
+
+
+
+b) fait l’annonce ou la promotion d’un fournisseur — réel ou éventuel — de toute chose mentionnée à l’alinéa a);
+
+
+
+
+
+
+
+
+c) est d’un type prévu par règlement.
+
+
+
+
+
+
+
+
+Sont toutefois exclus de la présente définition les messages électroniques envoyés par un ministère ou un organisme gouvernemental ou par un tribunal judiciaire ou administratif.
+
+
+
+
+
+
+
+
+« parti politique » Parti politique enregistré en vertu de la Loi électorale du Canada ou d’une loi analogue d’une province ou d’un État étranger.
+
+
+
+« parti politique »“political party”
+
+
+
+
+« personne » Particulier, société de personnes, personne morale, fiducie, fondation ou toute organisation ou association non dotée de la personnalité morale.
+
+
+
+« personne »“person”
+
+
+
+
+« service de télécommunication » S’entend au sens de la Loi sur les télécommunications.
+
+
+
+« service de télécommunication »“telecommunications service”
+
+
+
+
+
+
+
+
+
+
+Clarification — commercial electronic message
+
+
+
+(2) For the purposes of the definition “commercial electronic message” in subsection (1), it is immaterial whether it is lawful to acquire the goods, service, land or interest in land or to take up the business, investment or gaming opportunity, or whether the goods, service, land, interest in land, or business, investment or gaming opportunity exists.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application de la définition de « message électronique commercial » au paragraphe (1), le fait qu’il est licite ou non d’acquérir le produit, le service, le terrain ou l’intérêt dans un terrain ou de se prévaloir des possibilités d’affaires, d’investissement ou de jeu, ou le fait que le produit, ce service, ce terrain, cet intérêt ou ces possibilités existent ou non, n’est pas pertinent.
+
+
+
+Précision — message électronique commercial
+
+
+
+
+
+
+
+
+
+
+Clarification — electronic message
+
+
+
+(3) For the purposes of the definition “electronic message” in subsection (1), it is immaterial whether the message reaches its intended destination or that the address to which the message is sent is a non-existent electronic address.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application de la définition de « message électronique » au paragraphe (1), le fait que le message arrive ou non à la destination prévue, ou le fait que l’adresse à laquelle le message est envoyé est ou non une adresse électronique inexistante, n’est pas pertinent.
+
+
+
+Précision — message électronique
+
+
+
+
+
+
+
+
+
+
+Definition of “non-existent electronic address”
+
+
+
+(4) In this section, “non-existent electronic address” means a destination, expressed as a combination of letters, numbers or symbols, or any combination thereof, that appears to be an electronic address but that is not connected to an account that is inscribed, registered, owned or used by any person.
+
+
+
+
+
+
+
+
+
+(4) Au présent article, « adresse électronique inexistante » s’entend d’une destination exprimée sous forme de lettres, de chiffres ou de symboles, ou de toute combinaison de ceux-ci, qui semble être une adresse électronique, mais qui n’est associée à aucun compte inscrit, enregistré, possédé ou utilisé par une personne.
+
+
+
+Définition de « adresse électronique inexistante »
+
+
+
+
+
+
+
+
+
+
+Presumption of authorization
+
+
+
+3. (1) A person who receives an economic benefit from the sending, by another person, of a commercial electronic message that advertises or promotes the trade, business, property, goods or services of the first-mentionned person is presumed, in the absence of evidence to the contrary, to have authorized the sending of the message.
+
+
+
+
+
+
+
+
+
+3. (1) La personne qui tire un avantage financier de l’envoi, par une autre personne, d’un message électronique commercial qui fait l’annonce ou la promotion de son commerce, son entreprise, ses biens, ses produits ou ses services est réputée, en l’absence de preuve contraire, avoir autorisé l’envoi du message.
+
+
+
+Autorisation présumée
+
+
+
+
+
+
+
+
+
+
+Telecommunications service providers
+
+
+
+(2) A telecommunications service provider does not authorize the sending of a commercial electronic message merely because it supplies a service that enables the message to be sent.
+
+
+
+
+
+
+
+
+
+(2) Le fournisseur de services de télécommunication n’autorise pas l’envoi d’un message électronique commercial du seul fait qu’il fournit un service qui permet l’envoi du message.
+
+
+
+Fournisseurs de services de télécommunication
+
+
+
+
+
+
+
+
+
+
+Receipt in Canada
+
+
+
+4. If a person sends a commercial electronic message from any place and it is received by another person in Canada, then, for the purposes of this Act, the act of sending is deemed to have taken place in Canada.
+
+
+
+
+
+
+
+
+
+4. Si une personne envoie un message électronique commercial de tout endroit et que ce message est reçu au Canada par une autre personne, l’envoi du message est, pour l’application de la présente loi, réputé avoir eu lieu au Canada.
+
+
+
+Réception au Canada
+
+
+
+
+
+
+
+
+
+
+FORM AND CONTENT REQUIREMENTS
+
+
+
+
+
+
+
+
+
+EXIGENCES DE FORME ET DE CONTENU
+
+
+
+
+
+
+
+
+
+
+
+
+Accurate sender information
+
+
+
+5. (1) A commercial electronic message shall
+
+
+
+
+
+
+
+
+(a) clearly and accurately identify the person who is sending or authorized the sending of the message;
+
+
+
+
+
+
+
+
+(b) contain readily-accessible and accurate header and routing information; and
+
+
+
+
+
+
+
+
+(c) include readily-accessible and accurate information as to how the recipient of the message can easily contact the person who is sending or authorized the sending of the message.
+
+
+
+
+
+
+
+
+
+5. (1) Tout message électronique commercial doit :
+
+
+
+Renseignements précis sur l’expéditeur
+
+
+
+
+a) indiquer de façon claire et précise l’identité de la personne qui envoie le message ou qui en a autorisé l’envoi;
+
+
+
+
+
+
+
+
+b) contenir un en-tête et de l’information de routage exacts et facilement accessibles;
+
+
+
+
+
+
+
+
+c) comprendre des renseignements exacts et facilement accessibles sur la façon dont le destinataire du message peut contacter aisément la personne qui envoie le message ou qui en a autorisé l’envoi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validity
+
+
+
+(2) The information required under subsection (1) shall be valid for at least 30 days after the commercial electronic message is sent.
+
+
+
+
+
+
+
+
+
+(2) Les renseignements exigés au paragraphe (1) doivent être valides pour une période minimale de trente jours après l’envoi du message électronique commercial.
+
+
+
+Validité
+
+
+
+
+
+
+
+
+
+
+Accurate subject line
+
+
+
+6. A commercial electronic message shall include a subject line that is not intended or likely to mislead the recipient about a material fact regarding the contents or subject matter of the message.
+
+
+
+
+
+
+
+
+
+6. Tout message électronique commercial doit comprendre une ligne de mention d’objet qui n’est pas destinée ou de nature à induire en erreur le destinataire au sujet d’un fait pertinent concernant le contenu ou l’objet du message.
+
+
+
+Ligne de mention d’objet
+
+
+
+
+
+
+
+
+
+
+Unsubscribe facility
+
+
+
+7. (1) A commercial electronic message shall include a functional unsubscribe facility and a clear statement to the effect that the recipient may use the unsubscribe facility to send an unsubscribe request to the person who sent or authorized the sending of the message.
+
+
+
+
+
+
+
+
+
+7. (1) Tout message électronique commercial doit comprendre un mécanisme de désinscription opérationnel et une mention indiquant clairement que le destinataire peut utiliser ce mécanisme pour adresser une demande de désinscription à la personne qui lui a envoyé le message ou qui en a autorisé l’envoi.
+
+
+
+Mécanisme de désinscription
+
+
+
+
+
+
+
+
+
+
+Requirements
+
+
+
+(2) The unsubscribe facility
+
+
+
+
+
+
+
+
+(a) shall be expressed and presented in a clear and conspicuous manner;
+
+
+
+
+
+
+
+
+(b) shall allow the recipient to respond to the sender using the same method of communication that was used to send the commercial electronic message;
+
+
+
+
+
+
+
+
+(c) shall be capable of receiving the unsubscribe request at all times during a period of at least 30 days after the message is sent; and
+
+
+
+
+
+
+
+
+(d) shall not require the recipient to pay a fee to the sender of the message or to any other person in order to use the unsubscribe facility.
+
+
+
+
+
+
+
+
+
+(2) Le mécanisme de désinscription :
+
+
+
+Exigences
+
+
+
+
+a) doit être présenté en des termes clairs et être mis en évidence;
+
+
+
+
+
+
+
+
+b) doit permettre au destinataire de répondre à l’expéditeur au moyen du même mode de communication que celui utilisé pour l’envoi du message électronique commercial;
+
+
+
+
+
+
+
+
+c) doit être capable de recevoir la demande de désinscription à tout moment au cours de la période minimale de trente jours suivant l’envoi du message;
+
+
+
+
+
+
+
+
+d) ne peut exiger que le destinataire paie des droits à l’expéditeur du message ou à toute autre personne pour l’utilisation du mécanisme de désinscription.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ordinary service fee
+
+
+
+(3) Paragraph (2)(d) does not apply to any fee ordinarily charged by the recipient’s telecommunications service provider for handling, transmitting or relaying messages.
+
+
+
+
+
+
+
+
+
+(3) L’alinéa (2)d) ne s’applique pas aux droits habituellement exigés par le fournisseur de services de télécommunication du destinataire pour la manutention, la transmission ou l’acheminement de messages.
+
+
+
+Droits de service habituels
+
+
+
+
+
+
+
+
+
+
+PROHIBITIONS
+
+
+
+
+
+
+
+
+
+INTERDICTIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Unsolicited commercial electronic messages
+
+
+
+8. (1) No person shall send or authorize the sending of a commercial electronic message unless the recipient has consented to receiving the message.
+
+
+
+
+
+
+
+
+
+8. (1) Il est interdit d’envoyer un message électronique commercial — ou d’en autoriser l’envoi — à moins que le destinataire n’ait consenti à recevoir le message.
+
+
+
+Messages électroniques commerciaux non sollicités
+
+
+
+
+
+
+
+
+
+
+Presumed consent
+
+
+
+(2) A recipient is presumed to have consented to receiving an exempt commercial electronic message from a sender unless the recipient has withdrawn such consent prior to the message being sent.
+
+
+
+
+
+
+
+
+
+(2) Le destinataire est réputé avoir consenti à recevoir de l’expéditeur tout message électronique commercial exempté, sauf s’il a retiré son consentement avant l’envoi du message.
+
+
+
+Consentement présumé
+
+
+
+
+
+
+
+
+
+
+Definition of “exempt commercial electronic message”
+
+
+
+(3) In this section, “exempt commercial electronic message” means a commercial electronic message that is sent or authorized to be sent by
+
+
+
+
+
+
+
+
+(a) a political party or an association of members of a political party for an electoral district;
+
+
+
+
+
+
+
+
+(b) a nomination contestant, leadership contestant or candidate of a political party, or the official campaign of such a contestant or candidate;
+
+
+
+
+
+
+
+
+(c) a registered charity within the meaning of subsection 248(1) of the Income Tax Act;
+
+
+
+
+
+
+
+
+(d) a partnership, corporation, trust, foundation, organization or association no part of whose income is payable or otherwise available for the personal benefit of any of its proprietors, members or shareholders;
+
+
+
+
+
+
+
+
+(e) an educational institution, if
+
+
+
+
+
+
+
+
+(i) the recipient is, or has been, enrolled as a student at that institution, or
+
+
+
+
+
+
+
+
+(ii) a member or former member of the recipient’s household is, or has been, enrolled as a student at that institution;
+
+
+
+
+
+
+
+
+(f) a person who has an existing business relationship with the recipient;
+
+
+
+
+
+
+
+
+(g) a person who has sent the message to the recipient for the sole purpose of collecting information for a public opinion poll or survey; or
+
+
+
+
+
+
+
+
+(h) any other person prescribed by regulation.
+
+
+
+
+
+
+
+
+
+(3) Dans le présent article, « message électronique commercial exempté » s’entend d’un message électronique commercial qui est envoyé ou autorisé à être envoyé par, selon le cas :
+
+
+
+Définition de « message électronique commercial exempté »
+
+
+
+
+a) un parti politique ou un regroupement de membres d’un parti politique pour une circonscription;
+
+
+
+
+
+
+
+
+b) un candidat à l’investiture, un candidat à la direction ou un candidat d’un parti politique, ou l’équipe de la campagne officielle de ce candidat;
+
+
+
+
+
+
+
+
+c) un organisme de bienfaisance enregistré, au sens du paragraphe 248(1) de la Loi de l’impôt sur le revenu;
+
+
+
+
+
+
+
+
+d) une société de personnes, une personne morale, une fiducie, une fondation, une organisation ou une association dont aucune partie de son revenu n’est payable à ses propriétaires, membres ou actionnaires ou n’est autrement mise à leur disposition pour leur avantage personnel;
+
+
+
+
+
+
+
+
+e) un établissement d’enseignement si, selon le cas :
+
+
+
+
+
+
+
+
+(i) le destinataire est ou a été inscrit comme étudiant à cet établissement,
+
+
+
+
+
+
+
+
+(ii) un particulier qui habite ou a habité chez le destinataire est ou était inscrit comme étudiant à cet établissement;
+
+
+
+
+
+
+
+
+f) une personne avec qui le destinataire a une relation d’affaires en cours;
+
+
+
+
+
+
+
+
+g) une personne qui a envoyé le message au destinataire dans l’unique but de recueillir des renseignements dans le cadre d’un sondage ou d’une enquête d’opinion publique;
+
+
+
+
+
+
+
+
+h) toute autre personne désignée par règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No implied consent
+
+
+
+9. The consent of a recipient to receiving a commercial electronic message may not be inferred from the fact that the recipient’s electronic address has been published or is otherwise generally available to the public unless
+
+
+
+
+
+
+
+
+(a) the recipient is one of the following individuals and the electronic address enables the general public to send a message that is relevant to the individual’s work, business, functions or duties:
+
+
+
+
+
+
+
+
+(i) an employee, director, partner or officer of a person,
+
+
+
+
+
+
+
+
+(ii) a public office holder, or
+
+
+
+
+
+
+
+
+(iii) a self-employed individual; and
+
+
+
+
+
+
+
+
+(b) it would be reasonable to assume that the electronic address was published with the knowledge of the individual or person concerned.
+
+
+
+
+
+
+
+
+
+9. Le consentement du destinataire à recevoir un message électronique commercial ne peut être déduit du fait que son adresse électronique a été publiée ou est par ailleurs accessible au grand public, sauf si :
+
+
+
+Pas de consentement implicite
+
+
+
+
+a) d’une part, le destinataire est l’un des particuliers suivants et que l’adresse électronique permet aux membres du public de lui envoyer un message ayant trait à ses travaux, activités, affaires ou fonctions :
+
+
+
+
+
+
+
+
+(i) un employé, un administrateur, un associé ou un administrateur d’une personne,
+
+
+
+
+
+
+
+
+(ii) un titulaire de charge publique,
+
+
+
+
+
+
+
+
+(iii) un travailleur autonome;
+
+
+
+
+
+
+
+
+b) d’autre part, il serait raisonnable de supposer que l’adresse électronique a été publiée au su du particulier ou de la personne visés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Withdrawal of consent
+
+
+
+10. (1) A recipient who has previously consented, or is presumed under subsection 8(2) to have consented, to receiving a commercial electronic message may withdraw consent to receiving any further commercial electronic messages from the sender by sending an unsubscribe request to the sender of the commercial electronic message or by any other means.
+
+
+
+
+
+
+
+
+
+10. (1) Le destinataire qui a auparavant consenti à recevoir un message électronique commercial — ou qui est réputé y avoir consenti en vertu du paragraphe 8(2) — peut retirer son consentement à recevoir d’autres messages électroniques commerciaux de l’expéditeur en lui envoyant une demande de désinscription ou en utilisant tout autre moyen.
+
+
+
+Retrait du consentement
+
+
+
+
+
+
+
+
+
+
+Effective date of unsubscribe request
+
+
+
+(2) The consent of a recipient to receiving commercial electronic messages from a sender is deemed to be withdrawn seven days after the day on which an unsubscribe request is sent by the recipient to the sender of the commercial electronic message.
+
+
+
+
+
+
+
+
+
+(2) Le consentement du destinataire à recevoir des messages électroniques commerciaux de l’expéditeur est réputé être retiré sept jours après la date de l’envoie d’une demande de désinscription à l’expéditeur.
+
+
+
+Date de prise d’effet
+
+
+
+
+
+
+
+
+
+
+Form and contents requirements
+
+
+
+11. No person shall send or authorize the sending of a commercial electronic message that does not meet the requirements set out in sections 5 to 7.
+
+
+
+
+
+
+
+
+
+11. Il est interdit d’envoyer un message électronique commercial qui ne satisfait pas aux exigences énoncées aux articles 5 à 7, ou d’autoriser l’envoi d’un tel message.
+
+
+
+Exigences de forme et de contenu
+
+
+
+
+
+
+
+
+
+
+Address harvesting
+
+
+
+12. (1) Subject to subsection (2), no person shall supply, offer to supply, acquire or use address-harvesting software or a harvested-address list.
+
+
+
+
+
+
+
+
+
+12. (1) Sous réserve du paragraphe (2), il est interdit de fournir, d’offrir de fournir, d’acquérir ou d’utiliser un logiciel de collecte d’adresses ou une liste d’adresses colligées.
+
+
+
+Collecte d’adresses
+
+
+
+
+
+
+
+
+
+
+Exceptions
+
+
+
+(2) Subsection (1) does not apply to a law enforcement agency, national security agency or other person prescribed by regulation.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s’applique pas aux organismes chargés de l’application de la loi, aux organismes de sécurité nationale et aux personnes désignées par règlement.
+
+
+
+Exceptions
+
+
+
+
+
+
+
+
+
+
+Dictionary attack
+
+
+
+13. No person shall send or authorize the sending of a commercial electronic message if the person knows or ought to know that the electronic address to which the message is sent was obtained
+
+
+
+
+
+
+
+
+(a) using address-harvesting software;
+
+
+
+
+
+
+
+
+(b) from a harvested-address list; or
+
+
+
+
+
+
+
+
+(c) using an automated means that generates possible electronic addresses by combining letters, numbers or symbols or a combination thereof.
+
+
+
+
+
+
+
+
+
+13. Il est interdit à toute personne d’envoyer un message électronique commercial ou d’en autoriser l’envoi alors qu’elle sait ou devrait savoir que l’adresse électronique à laquelle le message est envoyé a été obtenue :
+
+
+
+Attaque par dictionnaire
+
+
+
+
+a) soit à l’aide d’un logiciel de collecte d’adresses;
+
+
+
+
+
+
+
+
+b) soit à partir d’une liste d’adresses colligées;
+
+
+
+
+
+
+
+
+c) soit par un moyen automatisé qui génère des adresses électroniques possibles par l’agencement de lettres, de chiffres ou de symboles ou de toute combinaison de ceux-ci.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Impersonation of a trusted source
+
+
+
+14. No person shall
+
+
+
+
+
+
+
+
+(a) create a website or domain name that represents itself as being the website or domain name of another person without that other person’s authorization; and
+
+
+
+
+
+
+
+
+(b) use that website or domain name to request or attempt to induce any person to send or provide any personal information or means of identification.
+
+
+
+
+
+
+
+
+
+14. Il est interdit à toute personne :
+
+
+
+Usurpation d’identité 
+
+
+
+
+a) de créer un site Web ou un nom de domaine se présentant comme celui d’une autre personne sans avoir obtenu l’autorisation de cette dernière;
+
+
+
+
+
+
+
+
+b) d’utiliser ce site Web ou ce nom de domaine pour demander à une personne d’envoyer ou de fournir des renseignements personnels ou des données d’identification, ou pour tenter de l’inciter à ce faire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+False representation
+
+
+
+15. No person shall send or authorize the sending of a commercial electronic message that
+
+
+
+
+
+
+
+
+(a) falsely represents itself as being sent by or on behalf of another person;
+
+
+
+
+
+
+
+
+(b) includes a hyperlink or other means of directing or linking the recipient to an online location that falsely purports to belong to or be associated with that other person; and
+
+
+
+
+
+
+
+
+(c) requests or attempts to induce the recipient to directly or indirectly send or provide any personal information or means of identification.
+
+
+
+
+
+
+
+
+
+15. Il est interdit à toute personne d’envoyer un message électronique commercial ou d’en autoriser l’envoi, si ce message :
+
+
+
+Fausses déclarations
+
+
+
+
+a) est faussement présenté comme étant envoyé par une autre personne ou en son nom;
+
+
+
+
+
+
+
+
+b) comprend un hyperlien ou tout autre moyen d’amener ou de relier le destinataire à un site en ligne qui est faussement présenté comme appartenant ou étant associé à cette autre personne;
+
+
+
+
+
+
+
+
+c) demande au destinataire d’envoyer, directement ou indirectement, des renseignements personnels ou des données d’identification, ou tente de l’inciter à ce faire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DUTY
+
+
+
+
+
+
+
+
+
+OBLIGATION
+
+
+
+
+
+
+
+
+
+
+
+
+Promotion of business interest
+
+
+
+16. Every person who knows, or ought to know, that their trade, business, property, goods or services are being or will be advertised or promoted in a commercial electronic message sent contrary to section 8 or 11, and who receives or expects to receive an economic benefit from the sending of the message, shall take reasonable measures to prevent the sending of the message and to report any contravention to an appropriate law enforcement agency.
+
+
+
+
+
+
+
+
+
+16. Toute personne qui sait ou devrait savoir que son commerce, son entreprise, ses biens, ses produits ou ses services sont ou seront annoncés ou mis en promotion dans un message électronique commercial envoyé en contravention des articles 8 ou 11 et qui reçoit ou s’attend à recevoir un avantage financier de l’envoi du message doit prendre des mesures raisonnables pour empêcher l’envoi du message et signaler toute contravention à l’organisme compétent chargé de l’application de la loi.
+
+
+
+Promotion des intérêts commerciaux
+
+
+
+
+
+
+
+
+
+
+ENFORCEMENT
+
+
+
+
+
+
+
+
+
+EXÉCUTION
+
+
+
+
+
+
+
+
+
+
+
+
+OFFENCES
+
+
+
+
+
+
+
+
+
+INFRACTIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Contravention — subsection 8(1)
+
+
+
+17. (1) Every person, other than an individual, who contravenes subsection 8(1) is guilty of an indictable offence and liable
+
+
+
+
+
+
+
+
+(a) for a first offence, to a fine not exceeding $500,000; and
+
+
+
+
+
+
+
+
+(b) for a second or subsequent offence, to a fine not exceeding $1,500,000.
+
+
+
+
+
+
+
+
+
+17. (1) Toute personne, autre qu’un particulier, qui contrevient au paragraphe 8(1) commet un acte criminel passible :
+
+
+
+Contravention — paragraphe 8(1)
+
+
+
+
+a) s’il s’agit d’une première infraction, d’une amende maximale de 500 000 $;
+
+
+
+
+
+
+
+
+b) en cas de récidive, d’une amende maximale de 1 500 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Individuals
+
+
+
+(2) An individual who contravenes subsection 8(1) is guilty of an indictable offence and liable
+
+
+
+
+
+
+
+
+(a) for a first offence, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both; and
+
+
+
+
+
+
+
+
+(b) for a second or subsequent offence, to a fine not exceeding $1,500,000 or to imprisonment for a term not exceeding five years, or to both.
+
+
+
+
+
+
+
+
+
+(2) Tout particulier qui contrevient au paragraphe 8(1) commet un acte criminel passible :
+
+
+
+Particuliers
+
+
+
+
+a) s’il s’agit d’une première infraction, d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines;
+
+
+
+
+
+
+
+
+b) en cas de récidive, d’une amende maximale de 1 500 000 $ et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contravention of form and content requirements
+
+
+
+18. (1) Every person, other than an individual, who contravenes section 11 is guilty of
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to a fine not exceeding $1,500,000; or
+
+
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and liable to a fine not exceeding $500,000.
+
+
+
+
+
+
+
+
+
+18. (1) Toute personne, autre qu’un particulier, qui contrevient à l’article 11 commet :
+
+
+
+Non-respect des exigences de forme et de contenu
+
+
+
+
+a) soit un acte criminel passible d’une amende maximale de 1 500 000 $;
+
+
+
+
+
+
+
+
+b) soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’une amende maximale de 500 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Individuals
+
+
+
+(2) An individual who contravenes section 11 is guilty of 
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to a fine not exceeding $1,500,000 or to imprisonment for a term not exceeding two years, or to both; or
+
+
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and liable to a fine not exceeding $500,000 or to imprisonment for a term not exceeding six months, or to both.
+
+
+
+
+
+
+
+
+
+(2) Tout particulier qui contrevient à l’article 11 commet :
+
+
+
+Particuliers
+
+
+
+
+a) soit un acte criminel passible d’une amende maximale de 1 500 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines;
+
+
+
+
+
+
+
+
+b) soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contravention of other provisions
+
+
+
+19. (1) Every person, other than an individual, who contravenes subsection 12(1), any of sections 13 to 16 or a provision of any regulation made under this Act is guilty of
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to a fine not exceeding $1,500,000; or
+
+
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and liable to a fine not exceeding $500,000.
+
+
+
+
+
+
+
+
+
+19. (1) Toute personne, autre qu’un particulier, qui contrevient au paragraphe 12(1), à l’un des articles 13 à 16 ou à une disposition d’un règlement d’application de la présente loi commet :
+
+
+
+Contravention à d’autres dispositions
+
+
+
+
+a) soit un acte criminel passible d’une amende maximale de 1 500 000 $;
+
+
+
+
+
+
+
+
+b) soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’une amende maximale de 500 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Individuals
+
+
+
+(2) An individual who contravenes subsection 12(1), any of sections 13 to 16 or a provision of any regulation made under this Act is guilty of
+
+
+
+
+
+
+
+
+(a) an indictable offence and liable to a fine not exceeding $1,500,000 or to imprisonment for a term not exceeding two years, or to both; or
+
+
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and liable to a fine not exceeding $500,000 or to imprisonment for a term not exceeding six months, or to both.
+
+
+
+
+
+
+
+
+
+(2) Tout particulier qui contrevient au paragraphe 12(1), à l’un des articles 13 à 16 ou à une disposition d’un règlement d’application de la présente loi commet :
+
+
+
+Particuliers
+
+
+
+
+a) soit un acte criminel passible d’une amende maximale de 1 500 000 $ et d’un emprisonnement maximal de deux ans, ou de l’une de ces peines;
+
+
+
+
+
+
+
+
+b) soit une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’une amende maximale de 500 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aiding and abetting
+
+
+
+20. Every person who knowingly counsels, induces, aids or abets or attempts to induce, aid or abet any person to contravene any of the provisions of this Act or the regulations commits an offence and is liable to the same penalty as that person.
+
+
+
+
+
+
+
+
+
+20. Toute personne qui, sciemment, incite, aide ou encourage ou tente d’inciter, d’aider ou d’encourager une autre personne à contrevenir aux dispositions de la présente loi ou de ses règlements, ou lui conseille de le faire, commet une infraction et est passible de la même peine que cette autre personne.
+
+
+
+Aide
+
+
+
+
+
+
+
+
+
+
+Officers, etc. of corporations
+
+
+
+21. If a corporation commits an offence under this Act, any officer, director or agent or mandatary of the corporation who directed, authorized, assented to, acquiesced in or participated in the commission of the offence is a party to, and guilty of, the offence and liable on conviction to the punishment provided for the offence, whether or not the corporation has been prosecuted or convicted.
+
+
+
+
+
+
+
+
+
+21. En cas de perpétration par une personne morale d’une infraction à la présente loi, ceux de ses dirigeants, administrateurs, agents ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de l’infraction et encourent, sur déclaration de culpabilité, la peine prévue, que la personne morale ait été ou non poursuivie ou déclarée coupable.
+
+
+
+Dirigeants d’une personne morale
+
+
+
+
+
+
+
+
+
+
+Defences
+
+
+
+22. In the prosecution of a person for a contravention of any provision of this Act, it is a defence for the person to prove that the contravention was due to inadvertence or based on an honest mistake of fact.
+
+
+
+
+
+
+
+
+
+22. Dans toute poursuite engagée contre une personne pour infraction à la présente loi, la preuve que l’infraction résulte de l’inadvertance ou d’une véritable erreur de fait constitue un moyen de défense pour la personne.
+
+
+
+Moyen de défense
+
+
+
+
+
+
+
+
+
+
+Determination of fine
+
+
+
+23. In determining the amount of a fine in respect of a conviction for an offence under this Act, the court shall have regard to all the relevant matters, including
+
+
+
+
+
+
+
+
+(a) the nature and seriousness of the conduct that constituted the offence;
+
+
+
+
+
+
+
+
+(b) the nature and extent of any loss or damage suffered as a result of the commission of the offence;
+
+
+
+
+
+
+
+
+(c) the circumstances surrounding the commission of the offence;
+
+
+
+
+
+
+
+
+(d) whether the person has previously been found by a court in proceedings under this Act to have engaged in any similar conduct; and
+
+
+
+
+
+
+
+
+(e) if the court considers that it is appropriate to do so, whether the person has previously been found by a court in a foreign state to have engaged in any similar conduct.
+
+
+
+
+
+
+
+
+
+23. Le tribunal détermine le montant de l’amende à infliger à la personne déclarée coupable d’une infraction à la présente loi en tenant compte de toutes les questions pertinentes, notamment :
+
+
+
+Détermination de l’amende
+
+
+
+
+a) la nature et la gravité du comportement à l’origine de l’infraction;
+
+
+
+
+
+
+
+
+b) la nature et l’étendue des pertes ou dommages entraînés, le cas échéant, par la perpétration de l’infraction;
+
+
+
+
+
+
+
+
+c) les circonstances entourant la perpétration de l’infraction;
+
+
+
+
+
+
+
+
+d) le fait que la personne a ou non déjà été déclarée coupable par un tribunal, dans d’autres instances intentées dans le cadre de la présente loi, pour des agissements semblables;
+
+
+
+
+
+
+
+
+e) si le tribunal l’estime indiqué, le fait que la personne a ou non déjà été déclarée coupable par un tribunal d’un État étranger pour des agissements semblables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANCILLARY ORDER
+
+
+
+
+
+
+
+
+
+ORDONNANCE ACCESSOIRE
+
+
+
+
+
+
+
+
+
+
+
+
+Monetary benefits
+
+
+
+24. Where a person has been convicted of an offence under this Act and the court is satisfied that monetary benefits accrued to the person as a result of the commission of the offence,
+
+
+
+
+
+
+
+
+(a) the court may order the person to pay an additional fine in an amount equal to the court’s estimation of the amount of the monetary benefits; and
+
+
+
+
+
+
+
+
+(b) the additional fine may exceed the maximum amount of any fine that may otherwise be imposed under this Act.
+
+
+
+
+
+
+
+
+
+24. Si une personne a été déclarée coupable d’une infraction à la présente loi et que le tribunal est convaincu qu’elle a tiré des avantages financiers de la perpétration de l’infraction :
+
+
+
+Avantages financiers
+
+
+
+
+a) le tribunal peut ordonner à la personne de payer une amende supplémentaire d’un montant correspondant à son évaluation de ces avantages financiers;
+
+
+
+
+
+
+
+
+b) l’amende supplémentaire peut dépasser le montant maximal de toute amende par ailleurs prévue par la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CIVIL ACTION
+
+
+
+
+
+
+
+
+
+ACTION CIVILE
+
+
+
+
+
+
+
+
+
+
+
+
+Right of civil action
+
+
+
+25. (1) A person who is, or is about to be, adversely affected as a result of conduct that is contrary to any provision of this Act or the regulations may bring an action in any court of competent jurisdiction against the person who engaged in or is engaging in the conduct.
+
+
+
+
+
+
+
+
+
+25. (1) La personne qui est ou est sur le point d’être lésée en raison d’un comportement allant à l’encontre d’une disposition de la présente loi ou de ses règlements peut intenter, devant tout tribunal compétent, une action à l’encontre de la personne qui a eu un tel comportement.
+
+
+
+Recours civil
+
+
+
+
+
+
+
+
+
+
+Remedies
+
+
+
+(2) In a proceeding brought under subsection (1), the court may grant any or all of the following remedies:
+
+
+
+
+
+
+
+
+(a) an injunction;
+
+
+
+
+
+
+
+
+(b) an order, including an interlocutory order, requiring the defendant to refrain from doing anything that, in the opinion of the court, may constitute an offence under this Act;
+
+
+
+
+
+
+
+
+(c) an order, including an interlocutory order, requiring the defendant to do anything that, in the opinion of the court, may prevent the continuation of an offence under this Act;
+
+
+
+
+
+
+
+
+(d) damages to compensate the plaintiff for the monetary loss incurred by the plaintiff as a result of the defendant’s conduct;
+
+
+
+
+
+
+
+
+(e) punitive damages; or
+
+
+
+
+
+
+
+
+(f) any other appropriate relief, including the costs of the action.
+
+
+
+
+
+
+
+
+
+(2) Dans le cadre de l’action intentée en vertu du paragraphe (1), le tribunal peut accorder l’une ou l’autre des réparations suivantes :
+
+
+
+Réparations
+
+
+
+
+a) une injonction;
+
+
+
+
+
+
+
+
+b) une ordonnance — y compris une ordonnance provisoire — enjoignant au défendeur de ne pas faire un acte qui, selon le tribunal, pourrait constituer une infraction à la présente loi;
+
+
+
+
+
+
+
+
+c) une ordonnance — y compris une ordonnance provisoire — enjoignant au défendeur de faire un acte qui, selon le tribunal, pourrait empêcher la continuation d’une infraction à la présente loi;
+
+
+
+
+
+
+
+
+d) l’attribution de dommages-intérêts pour indemniser le demandeur de la perte pécuniaire subie à cause du comportement du défendeur;
+
+
+
+
+
+
+
+
+e) l’attribution de dommages-intérêts punitifs;
+
+
+
+
+
+
+
+
+f) toute autre réparation indiquée, notamment le paiement des frais de justice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Making an order
+
+
+
+(3) The court may grant a remedy under subsection (2) whether or not it makes or has made any other order under this Act in relation to the same conduct.
+
+
+
+
+
+
+
+
+
+(3) Le tribunal peut accorder une réparation en application du paragraphe (2), qu’il rende ou ait rendu toute autre ordonnance en vertu de la présente loi relativement au comportement reproché.
+
+
+
+Ordonnance
+
+
+
+
+
+
+
+
+
+
+Factors to consider in assessing damages
+
+
+
+(4) In determining the amount of damages to be awarded to the plaintiff under paragraph (2)(d), the court may have regard to the following:
+
+
+
+
+
+
+
+
+(a) the extent to which any expenses incurred by the plaintiff are attributable to the defendant’s conduct;
+
+
+
+
+
+
+
+
+(b) the effect of the defendant’s conduct on the plaintiff’s ability to carry on a business or other activity;
+
+
+
+
+
+
+
+
+(c) any damage to the reputation of the plaintiff’s business that is attributable to the defendant’s conduct;
+
+
+
+
+
+
+
+
+(d) any loss of business opportunities suffered by the plaintiff as a result of the defendant’s conduct; and
+
+
+
+
+
+
+
+
+(e) any other matters that the court considers relevant.
+
+
+
+
+
+
+
+
+
+(4) Pour déterminer le montant des dommages-intérêts à attribuer au demandeur en application de l’alinéa (2)d), le tribunal peut tenir compte des facteurs suivants :
+
+
+
+Facteurs à prendre en compte dans l’évaluation des dommages-intérêts
+
+
+
+
+a) la mesure dans laquelle les dépenses engagées par le demandeur sont attribuables au comportement du défendeur;
+
+
+
+
+
+
+
+
+b) l’effet de la contravention sur la capacité du demandeur d’exploiter une entreprise ou d’exercer toute autre activité;
+
+
+
+
+
+
+
+
+c) les dommages causés à la réputation de l’entreprise du demandeur qui sont attribuables au comportement du défendeur;
+
+
+
+
+
+
+
+
+d) la perte d’occasions d’affaires subie par le demandeur à cause du comportement du défendeur;
+
+
+
+
+
+
+
+
+e) toute autre question que le tribunal juge pertinente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation period
+
+
+
+(5) Proceedings under subsection (1) must be brought within two years after the day on which the plaintiff became aware or should have become aware of the conduct on which the action is based.
+
+
+
+
+
+
+
+
+
+(5) L’action visée au paragraphe (1) se prescrit par deux ans à compter du jour suivant celui où le demandeur a eu connaissance, ou aurait dû avoir connaissance, du comportement reproché.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+TELECOMMUNICATIONS SERVICE PROVIDERS
+
+
+
+
+
+
+
+
+
+FOURNISSEURS DE SERVICES DE TÉLÉCOMMUNICATION
+
+
+
+
+
+
+
+
+
+
+
+
+Refusing or cancelling service
+
+
+
+26. (1) A telecommunications service provider may, upon giving reasonable notice, refuse or cancel service or access to any person who has been convicted of an offence under this Act or who sends commercial electronic messages that the provider has reasonable grounds to believe are sent in contravention of this Act.
+
+
+
+
+
+
+
+
+
+26. (1) Le fournisseur de services de télécommunication peut, en donnant un préavis raisonnable, refuser ou annuler tout service ou accès à la personne qui a été déclarée coupable d’une infraction à la présente loi ou qui envoie des messages électroniques commerciaux dont il a des motifs raisonnables de croire qu’ils sont envoyés en contravention avec la présente loi.
+
+
+
+Refus ou annulation
+
+
+
+
+
+
+
+
+
+
+Filtering or blocking messages
+
+
+
+(2) A telecommunications service provider may, upon giving reasonable notice, filter or block some or all commercial electronic messages originating through another telecommunications service provider that hosts or facilitates any person who sends commercial electronic messages that the first-mentioned provider has reasonable grounds to believe are sent in contravention of this Act.
+
+
+
+
+
+
+
+
+
+(2) Le fournisseur de services de télécommunication peut, en donnant un préavis raisonnable, filtrer ou bloquer une partie ou la totalité des messages électroniques commerciaux envoyés par l’entremise d’un autre fournisseur de services de télécommunication qui héberge ou accommode toute personne qui envoie des messages électroniques commerciaux dont le fournisseur mentionné en premier lieu a des motifs raisonnables de croire qu’ils sont envoyés en contravention avec la présente loi.
+
+
+
+Filtrage ou blocage de messages
+
+
+
+
+
+
+
+
+
+
+No liability
+
+
+
+(3) A telecommunications service provider acting in good faith under subsection (1) or (2) is not liable to any person for any loss or damage resulting from the refusal, cancellation, filtering or blocking.
+
+
+
+
+
+
+
+
+
+(3) Le fournisseur de services de télécommunication qui agit de bonne foi en application des paragraphes (1) ou (2) ne peut être tenu responsable envers quiconque des pertes ou des dommages résultant du refus, de l’annulation, du filtrage ou du blocage.
+
+
+
+Non-responsabilité
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Power of Governor in Council
+
+
+
+27. The Governor in Council may make regulations prescribing any matter or thing that by this Act is to be or may be prescribed and generally to carry out the purposes and provisions of this Act.
+
+
+
+
+
+
+
+
+
+27. Le gouverneur en conseil peut, par règlement, prendre toute mesure d’ordre réglementaire prévue par la présente loi et toute autre mesure d’application de la présente loi. 
+
+
+
+Pouvoir du gouverneur en conseil
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+28. This Act comes into force 30 days after the day on which it receives royal assent.
+
+
+
+
+
+
+
+
+
+28. La présente loi entre en vigueur trente jours après la date de sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

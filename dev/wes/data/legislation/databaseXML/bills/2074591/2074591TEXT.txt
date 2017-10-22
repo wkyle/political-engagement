@@ -1,0 +1,4106 @@
+
+
+
+
+
+
+C-72
+
+
+
+
+
+C-72
+
+
+
+
+
+
+First Session, Thirty-eighth Parliament,
+
+
+
+
+
+Première session, trente-huitième législature,
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-72
+
+
+
+
+
+PROJET DE LOI C-72
+
+
+
+
+
+
+An Act to amend certain Acts in relation to DNA Identification
+
+
+
+
+
+Loi modifiant certaines lois en matière d’identification par les empreintes génétiques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 2, 2005
+
+
+
+
+
+première lecture le 2 novembre 2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE MINISTER OF JUSTICE
+
+90347
+
+
+
+LE MINISTRE DE LA JUSTICE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code, the DNA Identification Act and the National Defence Act to facilitate the implementation of An Act to amend the Criminal Code, the DNA Identification Act and the National Defence Act, S.C. 2005, c. 25. The enactment makes certain technical changes to those Acts. It also
+(a) allows a court to require a person who is given notice of an application under subsection 487.055(1) of the Criminal Code and who wishes to participate in the hearing to appear by closed-circuit television or a similar means of communication;
+(b) allows samples of bodily substances to be taken as soon as feasible after the time set by an order or a summons for the taking of the samples or, if no such time is set, as soon as feasible after the day on which an order is made or after an authorization is granted;
+(c) requires the Commissioner of the Royal Canadian Mounted Police to destroy the bodily substances collected under an order or authorization and the information transmitted with it if, in the opinion of the Attorney General or the Director of Military Prosecutions, as the case may be, the offence to which the order or authorization relates is not a designated offence;
+(d) enables the Commissioner to communicate internationally the information that may be communicated within Canada under subsection 6(1) of the DNA Identification Act; and
+(e) allows the Commissioner to communicate information for the purpose of the investigation of criminal offences, and allows the subsequent communication of that information for the purpose of the investigation and prosecution of criminal offences.
+
+
+
+SOMMAIRE
+Le texte a pour objet de modifier le Code criminel, la Loi sur l’identification par les empreintes génétiques et la Loi sur la défense nationale afin de faciliter la mise en oeuvre de la Loi modifiant le Code criminel, la Loi sur l’identification par les empreintes génétiques et la Loi sur la défense nationale (L.C. 2005, ch. 25). Il apporte des modifications de nature technique et vise également à :
+
+a) habiliter le tribunal à ordonner à toute personne ayant reçu avis d’une demande présentée en vertu du paragraphe 487.055(1) du Code criminel et qui souhaite comparaître à l’audience, de comparaître par système de télévision en circuit fermé ou tout autre moyen de communication semblable;
+
+b) permettre le prélèvement de substances corporelles dès que possible après le moment fixé dans une ordonnance ou une sommation ou après le jour où une ordonnance est rendue ou une autorisation délivrée;
+
+c) exiger du commissaire de la Gendarmerie royale du Canada la destruction des substances corporelles prélevées en vertu d’une ordonnance ou d’une autorisation, ainsi que les renseignements qui l’accompagnent si, de l’avis du procureur général ou du directeur des poursuites militaires, selon le cas, l’infraction en cause n’est pas une infraction désignée;
+
+d) autoriser le commissaire à communiquer à l’étranger l’information qu’il peut communiquer au Canada en vertu du paragraphe 6(1) de la Loi sur l’identification par les empreintes génétiques;
+
+e) autoriser le commissaire à communiquer de l’information pour les besoins de toute enquête relative à une infraction criminelle et autoriser la communication subséquente de cette information pour les besoins d’une enquête ou d’une poursuite relative à une infraction criminelle.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 38th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 38e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-72
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-72
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend certain Acts in relation to DNA Identification
+
+
+
+
+
+
+
+
+
+Loi modifiant certaines lois en matière d’identification par les empreintes génétiques
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITION
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “other Act”
+
+
+
+
+1. In this Act, “other Act” means An Act to amend the Criminal Code, the DNA Identification Act and the National Defence Act, chapter 25 of the Statutes of Canada, 2005.
+
+
+
+
+
+
+
+
+
+
+1. Dans la présente loi, « autre loi » s’entend de la Loi modifiant le Code criminel, la Loi sur l’identification par les empreintes génétiques et la Loi sur la défense nationale, chapitre 25 des Lois du Canada (2005).
+
+
+
+Définition de « autre loi »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 25
+
+
+
+REPEALS — THE OTHER ACT
+
+
+
+
+
+
+
+
+
+ABROGATIONS : AUTRE LOI
+
+
+
+2005, ch. 25
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) Subsection 1(5.1) of the other Act is repealed.
+
+
+
+
+
+
+
+
+
+
+2. (1) Le paragraphe 1(5.1) de l’autre loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 1(6.1) of the other Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 1(6.1) de l’autre loi est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. (1) Paragraph (a) of the definition “primary designated offence” in section 487.04 of the Criminal Code, as enacted by subsection 1(4) of the other Act, is amended by striking out the word “and” at the end of subparagraph (xii) and by replacing subparagraph (xiii) with the following:
+
+
+
+
+
+
+
+
+
+
+3. (1) Le sous-alinéa a)(xiii) de la définition de « infraction primaire », à l’article 487.04 du Code criminel, édicté par le paragraphe 1(4) de l’autre loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(xiii) subsection 431.2(2) (explosive or other lethal device),
+
+
+
+
+
+
+
+(xiv) section 467.11 (participation in activities of criminal organization),
+
+
+
+
+
+
+
+
+(xv) section 467.12 (commission of offence for criminal organization), and
+
+
+
+
+
+
+
+
+(xvi) section 467.13 (instructing commission of offence for criminal organization),
+
+
+
+
+
+
+
+
+
+
+(xiii) paragraphe 431.2(2) (engin explosif ou autre engin meurtrier),
+
+
+
+
+
+
+
+(xiv) article 467.11 (participation aux activités d’une organisation criminelle),
+
+
+
+
+
+
+
+
+(xv) article 467.12 (infraction au profit d’une organisation criminelle),
+
+
+
+
+
+
+
+
+(xvi) article 467.13 (charger une personne de commettre une infraction au profit d’une organisation criminelle);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subparagraph (c)(i) of the definition “secondary designated offence” in section 487.04 of the Act, as enacted by subsection 1(7) of the other Act, is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le sous-alinéa c)(i) de la définition de « infraction secondaire », à l’article 487.04 de la même loi, édicté par le paragraphe 1(7) de l’autre loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) section 145 (escape and being at large without excuse),
+
+
+
+
+
+
+
+(i.1) section 146 (permitting or assisting escape),
+
+
+
+
+
+
+
+
+(i.2) section 147 (rescue or permitting escape),
+
+
+
+
+
+
+
+
+(i.3) section 148 (assisting prisoner of war to escape),
+
+
+
+
+
+
+
+
+(i.4) subsection 160(3) (bestiality in presence of or by child),
+
+
+
+
+
+
+
+
+
+(i) article 145 (s’évader ou être en liberté sans excuse),
+
+
+
+
+
+
+
+(i.1) article 146 (permettre ou faciliter une évasion),
+
+
+
+
+
+
+
+
+(i.2) article 147 (délivrance illégale),
+
+
+
+
+
+
+
+
+(i.3) article 148 (aider un prisonnier de guerre à s’évader),
+
+
+
+
+
+
+
+
+(i.4) paragraphe 160(3) (bestialité en présence d’enfants ou incitation à cet égard),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Paragraph (e) of the definition “secondary designated offence” in section 487.04 of the Act, as enacted by subsection 1(7) of the other Act, is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa e) de la définition de « infraction secondaire », à l’article 487.04 de la même loi, édicté par le paragraphe 1(7) de l’autre loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e) an attempt to commit or, other than for the purposes of subsection 487.05(1), a conspiracy to commit an offence referred to in
+
+
+
+
+
+
+
+(i) paragraph (a) or (b) and that, for the application of section 487.051 or 487.052, is prosecuted by indictment, or
+
+
+
+
+
+
+
+(ii) paragraph (c) or (d);
+
+
+
+
+
+
+
+
+
+
+e) soit est constituée par la tentative ou — sauf pour l’application du paragraphe 487.05(1) — le complot en vue de perpétrer :
+
+
+
+
+
+
+
+(i) une infraction visée aux alinéas a) ou b) dans le cas où, pour l’application des articles 487.051 et 487.052, cette tentative ou ce complot est poursuivi par voie de mise en accusation,
+
+
+
+
+
+
+
+(ii) une infraction visée aux alinéas c) ou d).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. (1) Section 487.055 of the Act is amended by adding the following after subsection (3):
+
+
+
+
+
+
+
+
+
+
+4. (1) L’article 487.055 de la même loi est modifié par adjonction, après le paragraphe (3), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Video links
+
+
+
+
+(3.01) The court may require a person who is given notice of an application under subsection (1) and who wishes to appear at the hearing to appear by closed-circuit television or any other means that allows the court and the person to engage in simultaneous visual and oral communication, as long as the person is given the opportunity to communicate privately with counsel if they are represented by counsel.
+
+
+
+
+
+
+
+
+
+
+
+(3.01) Le tribunal peut ordonner que la personne ayant reçu avis de la demande présentée en vertu du paragraphe (1) et souhaitant comparaître à l’audience le fasse par système de télévision en circuit fermé ou tout autre moyen lui permettant et permettant à la personne de se voir et de communiquer simultanément, pourvu qu’elle ait la possibilité, si elle est représentée par un avocat, de communiquer en privé avec lui.
+
+
+
+
+Présence à distance
+
+
+
+
+
+
+
+
+
+
+1998, c. 37, s. 17
+
+
+
+(2) Subsection 487.055(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 487.055(4) de la même loi est remplacé par ce qui suit :
+
+
+
+1998, ch. 37, art. 17
+
+
+
+
+
+
+
+
+
+
+Order
+
+
+
+
+(3.11) If the court authorizes the taking of samples of bodily substances from a person who is on conditional release and who has appeared at the hearing, it shall make an order in Form 5.031 to require the person to report at the place, day and time set out in the order and submit to the taking of the samples.
+
+
+
+
+
+
+
+
+
+
+
+(3.11) Si le tribunal autorise le prélèvement de substances corporelles sur une personne qui est libérée sous conditions et qui a comparu à l’audience, il rend une ordonnance — rédigée selon la formule 5.031 — lui intimant de se présenter aux date, heure et lieu fixés et de se soumettre au prélèvement.
+
+
+
+
+Ordonnance
+
+
+
+
+
+
+
+
+
+
+Summons
+
+
+
+(4) However, if a person who is on conditional release has not appeared at the hearing, a summons in Form 5.061 setting out the matters referred to in paragraphs 487.07(1)(b) to (d) shall be directed to them requiring them to report at the place, day and time set out in the summons and submit to the taking of the samples.
+
+
+
+
+
+
+
+
+
+(4) Toutefois, si la personne n’a pas comparu à l’audience, elle doit faire l’objet d’une sommation — rédigée selon la formule 5.061 — énonçant les éléments prévus aux alinéas 487.07(1)b) à d) et exigeant qu’elle se présente aux date, heure et lieu fixés afin de se soumettre au prélèvement.
+
+
+
+Sommation
+
+
+
+
+
+
+
+
+
+
+1998, c. 37, s. 17
+
+
+
+(3) Subsections 487.055(7) to (10) of the Act are repealed.
+
+
+
+
+
+
+
+
+
+(3) Les paragraphes 487.055(7) à (10) de la même loi sont abrogés.
+
+
+
+1998, ch. 37, art. 17
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. (1) Subsection 487.056(1) of the Act, as enacted by section 6 of the other Act, is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. (1) Le paragraphe 487.056(1) de la même loi, édicté par l’article 6 de l’autre loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+When collection to take place
+
+
+
+
+487.056 (1) Even though an appeal is taken, samples of bodily substances shall be taken as authorized under section 487.051 or 487.052
+
+
+
+
+
+
+
+
+
+
+(a) at the place, day and time set out in an order made under subsection 487.051(4) or 487.052(3) or as soon as feasible afterwards; or
+
+
+
+
+
+
+
+
+
+
+(b) in any other case, on the day on which a court makes an order under subsection 487.051(1) or 487.052(1) or as soon as feasible afterwards.
+
+
+
+
+
+
+
+
+
+
+487.056 (1) Même en cas d’appel, le prélèvement de substances corporelles autorisé aux articles 487.051 ou 487.052 est effectué :
+
+
+
+Moment du prélèvement
+
+
+
+
+
+a) soit aux date, heure et lieu fixés dans une ordonnance rendue en vertu des paragraphes 487.051(4) ou 487.052(3) ou dès que possible par la suite;
+
+
+
+
+
+
+
+
+
+
+
+b) soit, dans les autres cas, le jour où l’ordonnance visée aux paragraphes 487.051(1) ou 487.052(1) est rendue ou dès que possible par la suite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2000, c. 10, s. 16(1)
+
+
+
+(2) Subsection 487.056(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 487.056(2) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 10, par. 16(1)
+
+
+
+
+
+
+
+
+
+
+When collection to take place
+
+
+
+(2) Even though an appeal is taken, samples of bodily substances shall be taken as authorized under section 487.055 or 487.091
+
+
+
+
+
+
+
+
+
+
+
+(a) at the place, day and time set out in an order made under subsection 487.055(3.11) or a summons referred to in subsection 487.055(4) or 487.091(3) or as soon as feasible afterwards; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) in any other case, as soon as feasible after the authorization is granted.
+
+
+
+
+
+
+
+
+
+(2) Même en cas d’appel, le prélèvement de substances corporelles autorisé aux articles 487.055 ou 487.091 est effectué :
+
+
+
+Moment du prélèvement
+
+
+
+
+
+
+a) soit aux date, heure et lieu fixés dans une ordonnance rendue en vertu du paragraphe 487.055(3.11) ou une sommation délivrée en vertu des paragraphes 487.055(4) ou 487.091(3) ou dès que possible par la suite;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) soit, dans les autres cas, dès que possible après la délivrance de l’autorisation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When collection to take place
+
+
+
+
+(2.1) If a person fails to appear as required by an order made under subsection 487.051(4), 487.052(3) or 487.055(3.11) or a summons referred to in subsection 487.055(4) or 487.091(3), samples of bodily substances shall be taken
+
+
+
+
+
+
+
+
+
+
+
+
+(a) when the person is arrested under a warrant issued under subsection 487.0561(1) or as soon as feasible afterwards; or
+
+
+
+
+
+
+
+
+
+
+
+
+(b) as soon as feasible after the person appears at the place set out in the order or summons, if no warrant is issued.
+
+
+
+
+
+
+
+
+
+
+
+(2.1) Si l’intéressé omet de se présenter comme l’exige l’ordonnance rendue en vertu des paragraphes 487.051(4), 487.052(3) ou 487.055(3.11) ou la sommation délivrée en vertu des paragraphes 487.055(4) ou 487.091(3), le prélèvement de substances corporelles est effectué :
+
+
+
+
+Moment du prélèvement
+
+
+
+
+
+
+a) dès son arrestation au titre d’un mandat délivré en vertu du paragraphe 487.0561(1) ou dès que possible par la suite;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) dès que possible après qu’il se soit présenté au lieu prévu par l’ordonnance ou la sommation, si aucun mandat d’arrestation n’est délivré.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Subsection 487.0561(1) of the Act, as enacted by section 7 of the other Act, is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 487.0561(1) de la même loi, édicté par l’article 7 de l’autre loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Failure to appear
+
+
+
+
+487.0561 (1) If a person fails to appear at the place, day and time set out in an order made under subsection 487.051(4), 487.052(3) or 487.055(3.11) or a summons referred to in subsection 487.055(4) or 487.091(3), a justice of the peace may issue a warrant for their arrest to allow samples of bodily substances to be taken.
+
+
+
+
+
+
+
+
+
+
+487.0561 (1) Si l’intéressé omet de se présenter aux date, heure et lieu fixés dans l’ordonnance rendue en vertu des paragraphes 487.051(4), 487.052(3) ou 487.055(3.11) ou la sommation délivrée en vertu des paragraphes 487.055(4) ou 487.091(3), le juge de paix peut délivrer un mandat d’arrestation afin de permettre que soit effectué le prélèvement.
+
+
+
+Défaut de comparution
+
+
+
+
+
+
+
+
+
+
+2000, c. 10, s. 23
+
+
+
+
+7. Subsection 487.091(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. Le paragraphe 487.091(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2000, ch. 10, art. 23
+
+
+
+
+
+
+
+
+
+
+Persons not in custody
+
+
+
+(3) If the court authorizes the taking of samples of bodily substances from a person who is not in custody, a summons in Form 5.061 setting out the matters referred to in paragraphs 487.07(1)(b) to (d) shall be directed to the person requiring them to report at the place, day and time set out in the summons and submit to the taking of the samples. Subsections 487.055(5) and (6) apply, with any modifications that the circumstances require.
+
+
+
+
+
+
+
+
+
+(3) Si le tribunal autorise le prélèvement de substances corporelles sur une personne qui n’est pas détenue, celle-ci doit faire l’objet d’une sommation — rédigée selon la formule 5.061 — énonçant les éléments prévus aux alinéas 487.07(1)b) à d) et exigeant qu’elle se présente aux date, heure et lieu fixés afin de se soumettre au prélèvement. Les paragraphes 487.055(5) et (6) s’appliquent alors, avec les adaptations nécessaires.
+
+
+
+Personnes non détenues
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Subsection 487.0911(3) of the Act, as enacted by section 11 of the other Act, is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. Le paragraphe 487.0911(3) de la même loi, édicté par l’article 11 de l’autre loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Substantive defect
+
+
+
+(3) If the Attorney General is of the opinion that the offence referred to in the order or authorization is not a designated offence, the Attorney General shall transmit that opinion to the Commissioner.
+
+
+
+
+
+
+
+
+
+(3) S’il estime que l’infraction mentionnée dans l’ordonnance ou l’autorisation n’est pas une infraction désignée, le procureur général en fait part au commissaire.
+
+
+
+Erreur de fond
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Forms 5.031 to 5.06 in Part XXVIII of the Act, as enacted by section 12 of the other Act, are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. Les formules 5.031 à 5.06 de la partie XXVIII de la même loi, édictées par l’article 12 de l’autre loi, sont remplacées par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORM 5.031 
+
+
+
+
+
+
+
+
+
+FORMULE 5.031 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Subsections 487.051(4), 487.052(3) and 487.055(3.11))
+
+
+
+
+
+
+
+
+
+(paragraphes 487.051(4), 487.052(3) et 487.055(3.11))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ORDER TO A PERSON TO HAVE BODILY SUBSTANCES TAKEN FOR FORENSIC DNA ANALYSIS
+
+
+
+
+
+
+
+
+
+ORDONNANCE À L’ÉGARD DE LA PERSONNE VISÉE PAR UNE AUTORISATION DE PRÉLÈVEMENT DE SUBSTANCES CORPORELLES POUR ANALYSE GÉNÉTIQUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province of ................
+
+
+
+
+
+
+(territorial division)
+
+
+
+
+
+
+To A.B., of ................ ,
+
+
+
+
+
+
+Whereas an order has been made under section 487.051 or 487.052 of the Criminal Code, or an authorization has been granted under section 487.055 of that Act, to take from you the number of samples of bodily substances that are reasonably required for forensic DNA analysis;
+
+
+
+
+
+
+This is therefore to command you, in Her Majesty’s name, to appear on ................ , the ................ day of ................ , A.D. ........ , at ............ o’clock, at ................ , for the purposes of the taking of bodily substances by means of the investigative procedures set out in subsection 487.06(1) of the Criminal Code.
+
+
+
+
+
+
+You are warned that failure to appear in accordance with this order may result in a warrant being issued for your arrest under subsection 487.0561(1) of the Criminal Code. You are also warned that failure to appear, without lawful excuse, is an offence under subsection 127(1) of that Act.
+
+
+
+
+
+
+Subsection 487.0561(1) of the Criminal Code states as follows:
+
+
+
+
+
+
+
+487.0561 (1) If a person fails to appear at the place, day and time set out in an order made under subsection 487.051(4), 487.052(3) or 487.055(3.11) or a summons referred to in subsection 487.055(4) or 487.091(3), a justice of the peace may issue a warrant for their arrest to allow samples of bodily substances to be taken.
+
+
+
+
+
+
+Subsection 127(1) of the Criminal Code states as follows:
+
+
+
+
+
+
+
+127. (1) Every one who, without lawful excuse, disobeys a lawful order made by a court of justice or by a person or body of persons authorized by any Act to make or give the order, other than an order for the payment of money, is, unless a punishment or other mode of proceeding is expressly provided by law, guilty of an indictable offence and liable to imprisonment for a term not exceeding two years.
+
+
+
+
+
+
+Dated this ................ day of ................ , A.D. ........ , at ................ .
+
+
+
+
+
+
+...........................................
+
+
+
+
+
+
+(Signature of judge of the court)
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province de ................
+
+
+
+
+
+
+(circonscription territoriale)
+
+
+
+
+
+
+À A.B., de ................ :
+
+
+
+
+
+
+Attendu que, aux termes d’une ordonnance rendue en vertu des articles 487.051 ou 487.052 du Code criminel ou d’une autorisation délivrée en vertu de l’article 487.055 de la même loi, le prélèvement sur votre personne, pour analyse génétique, du nombre d’échantillons de substances corporelles jugé nécessaire à cette fin a été autorisé;
+
+
+
+
+
+
+À ces causes, les présentes vous enjoignent, au nom de Sa Majesté, de vous présenter le ................, ................ jour de ................ en l’an de grâce ........, à ............ heures, à ................, pour que soit effectué le prélèvement en conformité avec le paragraphe 487.06(1) du Code criminel;
+
+
+
+
+
+
+
+Sachez que l’omission de vous présenter en conformité avec la présente ordonnance peut entraîner la délivrance d’un mandat d’arrestation en vertu du paragraphe 487.0561(1) du Code criminel. Sachez également que cette omission, sans excuse légitime, constitue un acte criminel prévu au paragraphe 127(1) de la même loi.
+
+
+
+
+
+
+Le paragraphe 487.0561(1) du Code criminel s’énonce ainsi :
+
+
+
+
+
+
+
+487.0561 (1) Si l’intéressé omet de se présenter aux date, heure et lieu fixés dans l’ordonnance rendue en vertu des paragraphes 487.051(4), 487.052(3) ou 487.055(3.11) ou la sommation délivrée en vertu des paragraphes 487.055(4) ou 487.091(3), le juge de paix peut délivrer un mandat d’arrestation afin de permettre que soit effectué le prélèvement.
+
+
+
+
+
+
+Le paragraphe 127(1) du Code criminel s’énonce ainsi :
+
+
+
+
+
+
+
+127. (1) Quiconque, sans excuse légitime, désobéit à une ordonnance légale donnée par un tribunal judiciaire ou par une personne ou un corps de personnes autorisé par une loi à donner ou décerner l’ordonnance, autre qu’une ordonnance visant le paiement d’argent, est, à moins que la loi ne prévoie expressément une peine ou autre mode de procédure, coupable d’un acte criminel et passible d’un emprisonnement maximal de deux ans.
+
+
+
+
+
+
+Fait le ................ jour de ................ en l’an de grâce ......, à ................ .
+
+
+
+
+
+
+.......................................
+
+
+
+
+
+
+(Signature du juge du tribunal)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORM 5.04 
+
+
+
+
+
+
+
+
+
+FORMULE 5.04 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Paragraph 487.051(1)(b) and subsection 487.052(1))
+
+
+
+
+
+
+
+
+
+(alinéa 487.051(1)b) et paragraphe 487.052(1))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ORDER AUTHORIZING THE TAKING OF BODILY SUBSTANCES FOR FORENSIC DNA ANALYSIS
+
+
+
+
+
+
+
+
+
+ORDONNANCE DE PRÉLÈVEMENT DE SUBSTANCES CORPORELLES POUR ANALYSE GÉNÉTIQUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province of .................
+
+
+
+
+
+
+(territorial division)
+
+
+
+
+
+
+To the peace officers in (territorial division):
+
+
+
+
+
+
+Whereas (name of offender), in this order called the “offender”,
+
+
+
+
+
+
+(a) has been found not criminally responsible on account of mental disorder for (offence), which was committed before, on or after June 30, 2000 and is a primary designated offence within the meaning of section 487.04 of the Criminal Code,
+
+
+
+
+
+
+(b) has been convicted, discharged under section 730 of the Criminal Code or, in the case of a young person, found guilty under the Young Offenders Act, chapter Y-1 of the Revised Statutes of Canada, 1985, or the Youth Criminal Justice Act of (offence), which was committed before June 30, 2000 and is a primary designated offence within the meaning of section 487.04 of the Criminal Code, or
+
+
+
+
+
+
+
+(c) has been convicted, discharged under section 730 of the Criminal Code or, in the case of a young person, found guilty under the Young Offenders Act, chapter Y-1 of the Revised Statutes of Canada, 1985, or the Youth Criminal Justice Act of (offence), or has been found not criminally responsible on account of mental disorder for (offence), which was committed before, on or after June 30, 2000 and is a secondary designated offence within the meaning of section 487.04 of the Criminal Code because it is (identify which of the following is applicable)
+
+
+
+
+
+
+
+(i) an offence under the Criminal Code that is liable to a maximum sentence of five or more years imprisonment and that is prosecuted by indictment,
+
+
+
+
+
+
+
+
+(ii) an offence under any of sections 5 to 7 of the Controlled Drugs and Substances Act that is liable to a maximum sentence of five or more years imprisonment and that is prosecuted by indictment,
+
+
+
+
+
+
+
+
+(iii) an offence under any of sections 145 to 148, subsection 160(3), sections 170, 173, 252, 264, 264.1, 266 and 270, paragraph 348(1)(e) and sections 349 and 423 of the Criminal Code,
+
+
+
+
+
+
+
+
+(iv) an offence under section 433 or 434 of the Criminal Code as that section read from time to time before July 1, 1990, or
+
+
+
+
+
+
+
+
+(v) an offence that is an attempt or a conspiracy to commit an offence referred to in subparagraph (i) or (ii) and that is prosecuted by indictment (or, if applicable, an offence that is an attempt or a conspiracy to commit an offence referred to in subparagraph (iii) or (iv));
+
+
+
+
+
+
+
+Whereas I have considered the offender’s criminal record, the nature of the offence and the circumstances surrounding its commission, whether the offender was previously found not criminally responsible on account of mental disorder for a designated offence, and the impact that this order would have on the offender’s privacy and security of the person;
+
+
+
+
+
+
+And whereas I am satisfied that it is in the best interests of the administration of justice to make this order;
+
+
+
+
+
+
+Therefore, you are authorized to take from (name of offender) or cause to be taken by a person acting under your direction, the number of samples of bodily substances that are reasonably required for forensic DNA analysis, provided that the person taking the samples is able by virtue of training or experience to take them by means of the investigative procedures described in subsection 487.06(1) of the Criminal Code and that, if the person taking the samples is not a peace officer, they take the samples under the direction of a peace officer.
+
+
+
+
+
+
+This order is subject to the following terms and conditions that I consider advisable to ensure that the taking of the samples is reasonable in the circumstances:
+
+
+
+
+
+
+Dated this ................ day of ................ , A.D. ........ , at ................ .
+
+
+
+
+
+
+........................................
+
+
+
+
+
+
+(Signature of judge of the court)
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province de ..................
+
+
+
+
+
+
+(circonscription territoriale)
+
+
+
+
+
+
+Aux agents de la paix de (circonscription territoriale) :
+
+
+
+
+
+
+Attendu que (nom du contrevenant) :
+
+
+
+
+
+
+
+a) a fait l’objet d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard de (infraction) et que cette infraction, commise même avant le 30 juin 2000, constitue une infraction primaire au sens de l’article 487.04 du Code criminel;
+
+
+
+
+
+
+
+b) a été déclaré coupable, absous en vertu de l’article 730 du Code criminel ou, s’il s’agit d’un adolescent, déclaré coupable sous le régime de la Loi sur les jeunes contrevenants, chapitre Y-1 des Lois révisées du Canada (1985), ou de la Loi sur le système de justice pénale pour les adolescents de (infraction) et que cette infraction, commise avant le 30 juin 2000, constitue une infraction primaire au sens de l’article 487.04 du Code criminel;
+
+
+
+
+
+
+
+
+c) a été déclaré coupable, absous en vertu de l’article 730 du Code criminel ou, s’il s’agit d’un adolescent, déclaré coupable sous le régime de la Loi sur les jeunes contrevenants, chapitre Y-1 des Lois révisées du Canada (1985), ou de la Loi sur le système de justice pénale pour les adolescents de (infraction), ou a fait l’objet d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard de (infraction), et que cette infraction, commise même avant le 30 juin 2000, constitue une infraction secondaire au sens de l’article 487.04 du Code criminel, soit (préciser celle des mentions suivantes qui s’applique) :
+
+
+
+
+
+
+
+(i) une infraction au Code criminel poursuivie par voie de mise en accusation et passible d’un emprisonnement de cinq ans ou plus,
+
+
+
+
+
+
+
+
+(ii) une infraction à l’un des articles 5 à 7 de la Loi réglementant certaines drogues et autres substances poursuivie par voie de mise en accusation et passible d’un emprisonnement de cinq ans ou plus,
+
+
+
+
+
+
+
+
+(iii) une infraction créée par l’une des dispositions suivantes : les articles 145 à 148, le paragraphe 160(3), les articles 170, 173, 252, 264, 264.1, 266 et 270, l’alinéa 348(1)e) et les articles 349 et 423 du Code criminel,
+
+
+
+
+
+
+
+
+(iv) une infraction aux articles 433 ou 434 du Code criminel dans leur version antérieure au 1er juillet 1990,
+
+
+
+
+
+
+
+
+(v) la tentative ou le complot en vue de perpétrer l’une des infractions visées aux sous-alinéas (i) ou (ii), dans le cas où cette tentative ou ce complot est poursuivi par voie de mise en accusation (ou, le cas échéant, la tentative ou le complot en vue de perpétrer l’une des infractions visées aux sous-alinéas (iii) ou (iv));
+
+
+
+
+
+
+
+Attendu que j’ai pris en compte le casier judiciaire de l’intéressé, la nature de l’infraction, les circonstances de sa perpétration, le fait qu’il a ou non déjà fait l’objet d’un verdict de non-responsabilité criminelle pour cause de troubles mentaux à l’égard d’une infraction désignée ainsi que l’effet que la présente ordonnance aurait sur sa vie privée et la sécurité de sa personne;
+
+
+
+
+
+
+Et attendu que je suis convaincu que l’administration de la justice sera mieux servie si je rends l’ordonnance;
+
+
+
+
+
+
+Vous êtes autorisé à procéder — ou à faire procéder sous votre autorité —, pour analyse génétique, au prélèvement, en conformité avec le paragraphe 487.06(1) du Code criminel, du nombre d’échantillons de substances corporelles sur (nom du contrevenant) jugé nécessaire à cette fin, pourvu que la personne effectuant le prélèvement soit capable d’y procéder du fait de sa formation ou de son expérience et, si elle n’est pas un agent de la paix, qu’elle agisse sous l’autorité d’un tel agent.
+
+
+
+
+
+
+Je rends cette ordonnance sous réserve des modalités suivantes que j’estime indiquées pour assurer le caractère raisonnable du prélèvement dans les circonstances :
+
+
+
+
+
+
+Fait le ......... jour de ......... en l’an de grâce ........., à ......... .
+
+
+
+
+
+
+............................................
+
+
+
+
+
+
+(Signature du juge du tribunal)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORM 5.05 
+
+
+
+
+
+
+
+
+
+FORMULE 5.05 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Subsection 487.055(1))
+
+
+
+
+
+
+
+
+
+(paragraphe 487.055(1))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPLICATION FOR AN AUTHORIZATION TO TAKE BODILY SUBSTANCES FOR FORENSIC DNA ANALYSIS
+
+
+
+
+
+
+
+
+
+DEMANDE D’AUTORISATION DE PRÉLÈVEMENT DE SUBSTANCES CORPORELLES POUR ANALYSE GÉNÉTIQUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province of ................
+
+
+
+
+
+
+(territorial division)
+
+
+
+
+
+
+I, (name of peace officer), (occupation), of .......... in (territorial division), apply for an authorization to take bodily substances for forensic DNA analysis. A certificate referred to in paragraph 667(1)(a) of the Criminal Code is filed with this application.
+
+
+
+
+
+
+Whereas (name of offender), before June 30, 2000,
+
+
+
+
+
+
+(a) had been declared a dangerous offender under Part XXIV of the Criminal Code,
+
+
+
+
+
+
+(b) had been declared a dangerous offender or a dangerous sexual offender under Part XXI of the Criminal Code, being chapter C-34 of the Revised Statutes of Canada, 1970 as it read from time to time before January 1, 1988,
+
+
+
+
+
+
+(c) had been convicted of murder,
+
+
+
+
+
+
+(d) had been convicted of a sexual offence within the meaning of subsection 487.055(3) of the Criminal Code and is currently serving a sentence of at least two years imprisonment for that offence, or
+
+
+
+
+
+
+(e) had been convicted of manslaughter and is currently serving a sentence of at least two years imprisonment for that offence;
+
+
+
+
+
+
+Therefore, I request that an authorization be granted under subsection 487.055(1) of the Criminal Code to take from (name of offender) the number of samples of bodily substances that is reasonably required for forensic DNA analysis, provided that the person taking the samples is able by virtue of training or experience to take them by means of the investigative procedures described in subsection 487.06(1) of the Criminal Code and provided that, if the person taking the samples is not a peace officer, they take the samples under the direction of a peace officer.
+
+
+
+
+
+
+Dated this ................ day of ................ , A.D. ...... , at ............... .
+
+
+
+
+
+
+.........................................
+
+
+
+
+
+
+(Signature of applicant)
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province de ..................
+
+
+
+
+
+
+(circonscription territoriale)
+
+
+
+
+
+
+Moi, (nom de l’agent de la paix) (profession) de ........ dans (circonscription territoriale), je présente une demande d’autorisation de prélèvement de substances corporelles pour analyse génétique. Le certificat visé à l’alinéa 667(1)a) du Code criminel est joint à la demande.
+
+
+
+
+
+
+Attendu que (nom du contrevenant), avant le 30 juin 2000, selon le cas :
+
+
+
+
+
+
+
+a) avait été déclaré délinquant dangereux au sens de la partie XXIV du Code criminel;
+
+
+
+
+
+
+
+b) avait été déclaré délinquant dangereux ou délinquant sexuel dangereux au sens de la partie XXI du Code criminel, chapitre C-34 des Statuts revisés du Canada de 1970, dans ses versions antérieures au 1er janvier 1988;
+
+
+
+
+
+
+
+c) avait été déclaré coupable de meurtre;
+
+
+
+
+
+
+
+d) avait été déclaré coupable d’une infraction sexuelle visée au paragraphe 487.055(3) du Code criminel pour laquelle il purge actuellement une peine d’emprisonnement de deux ans ou plus;
+
+
+
+
+
+
+
+e) avait été déclaré coupable d’un homicide involontaire coupable pour lequel il purge actuellement une peine d’emprisonnement de deux ans ou plus;
+
+
+
+
+
+
+Je demande, au titre du paragraphe 487.055(1) du Code criminel, que soit autorisé, pour analyse génétique, le prélèvement sur (nom du contrevenant) — en conformité avec le paragraphe 487.06(1) de cette loi — du nombre d’échantillons de substances corporelles jugé nécessaire à cette fin; il est entendu que la personne effectuant le prélèvement doit être capable d’y procéder du fait de sa formation ou de son expérience et, si elle n’est pas un agent de la paix, qu’elle doit agir sous l’autorité d’un tel agent.
+
+
+
+
+
+
+Fait le .......... jour de .......... en l’an de grâce ......., à ............. .
+
+
+
+
+
+
+................................
+
+
+
+
+
+
+(Signature du demandeur)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORM 5.06 
+
+
+
+
+
+
+
+
+
+FORMULE 5.06 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Subsection 487.055(1))
+
+
+
+
+
+
+
+
+
+(paragraphe 487.055(1))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AUTHORIZATION TO TAKE BODILY SUBSTANCES FOR FORENSIC DNA ANALYSIS
+
+
+
+
+
+
+
+
+
+AUTORISATION DE PRÉLÈVEMENT DE SUBSTANCES CORPORELLES POUR ANALYSE GÉNÉTIQUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province of ................
+
+
+
+
+
+
+(territorial division)
+
+
+
+
+
+
+To the peace officers in (territorial division):
+
+
+
+
+
+
+Whereas (name of peace officer), a peace officer in the territorial division referred to above, has applied for an authorization to take the number of samples of bodily substances from (name of offender) that is reasonably required for forensic DNA analysis by means of the investigative procedures described in subsection 487.06(1) of the Criminal Code;
+
+
+
+
+
+
+Whereas (name of offender), before June 30, 2000,
+
+
+
+
+
+
+(a) had been declared a dangerous offender under Part XXIV of the Criminal Code,
+
+
+
+
+
+
+(b) had been declared a dangerous offender or a dangerous sexual offender under Part XXI of the Criminal Code, being chapter C-34 of the Revised Statutes of Canada, 1970 as it read from time to time before January 1, 1988,
+
+
+
+
+
+
+(c) had been convicted of murder,
+
+
+
+
+
+
+(d) had been convicted of a sexual offence within the meaning of subsection 487.055(3) of the Criminal Code and, on the date of the application, was serving a sentence of at least two years imprisonment for that offence, or
+
+
+
+
+
+
+(e) had been convicted of manslaughter and, on the date of the application, was serving a sentence of at least two years imprisonment for that offence;
+
+
+
+
+
+
+And whereas I have considered the offender’s criminal record, the nature of the offence and the circumstances surrounding its commission, and the impact that this authorization would have on the offender’s privacy and security of the person;
+
+
+
+
+
+
+Therefore, the peace officers in the territorial division are authorized to take those samples from (name of offender) by means of the investigative procedures described in subsection 487.06(1) of the Criminal Code or cause the samples to be taken by a person acting under their direction, provided that the person taking the samples is able by virtue of training or experience to take them and that, if the person taking the samples is not a peace officer, they take the samples under the direction of a peace officer.
+
+
+
+
+
+
+This authorization is subject to the following terms and conditions that I consider advisable to ensure that the taking of the samples is reasonable in the circumstances:
+
+
+
+
+
+
+Dated this ................ day of ................ , A.D., at ................ .
+
+
+
+
+
+
+........................................
+
+
+
+
+
+
+(Signature of provincial court judge)
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province de ...................
+
+
+
+
+
+
+(circonscription territoriale)
+
+
+
+
+
+
+Aux agents de la paix de (circonscription territoriale) :
+
+
+
+
+
+
+Attendu que (nom de l’agent de la paix), agent de la paix de la circonscription territoriale mentionnée ci-dessus, a demandé que soit autorisé, pour analyse génétique, le prélèvement sur (nom du contrevenant) — en conformité avec le paragraphe 487.06(1) du Code criminel — du nombre d’échantillons de substances corporelles jugé nécessaire à cette fin;
+
+
+
+
+
+
+Attendu que (nom du contrevenant), avant le 30 juin 2000, selon le cas :
+
+
+
+
+
+
+
+a) avait été déclaré délinquant dangereux au sens de la partie XXIV du Code criminel;
+
+
+
+
+
+
+
+b) avait été déclaré délinquant dangereux ou délinquant sexuel dangereux au sens de la partie XXI du Code criminel, chapitre C-34 des Statuts revisés du Canada de 1970, dans ses versions antérieures au 1er janvier 1988;
+
+
+
+
+
+
+
+c) avait été déclaré coupable de meurtre;
+
+
+
+
+
+
+
+d) avait été déclaré coupable d’une infraction sexuelle visée au paragraphe 487.055(3) du Code criminel pour laquelle, à la date de la demande, il purgeait une peine d’emprisonnement de deux ans ou plus;
+
+
+
+
+
+
+
+e) avait été déclaré coupable d’un homicide involontaire coupable pour lequel, à la date de la demande, il purgeait une peine d’emprisonnement de deux ans ou plus;
+
+
+
+
+
+
+Attendu que j’ai pris en compte le casier judiciaire de l’intéressé, la nature de l’infraction, les circonstances de sa perpétration ainsi que l’effet que la présente autorisation aurait sur sa vie privée et la sécurité de sa personne;
+
+
+
+
+
+
+Les agents de la paix de la circonscription territoriale sont autorisés à procéder — ou à faire procéder sous leur autorité — au prélèvement en question, pourvu que la personne effectuant celui-ci soit capable d’y procéder du fait de sa formation ou de son expérience et, si elle n’est pas un agent de la paix, qu’elle agisse sous l’autorité d’un tel agent;
+
+
+
+
+
+
+Je donne cette autorisation sous réserve des modalités suivantes que j’estime indiquées pour assurer le caractère raisonnable du prélèvement dans les circonstances :
+
+
+
+
+
+
+Fait le .......... jour de ........... en l’an de grâce ........, à ............. .
+
+
+
+
+
+
+............................
+
+
+
+
+
+
+(Signature du juge de la cour provinciale)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORM 5.061 
+
+
+
+
+
+
+
+
+
+
+
+FORMULE 5.061 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Subsections 487.055(4) and 487.091(3))
+
+
+
+
+
+
+
+
+
+
+
+(paragraphes 487.055(4) et 487.091(3))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMONS TO A PERSON TO HAVE BODILY SUBSTANCES TAKEN FOR FORENSIC DNA ANALYSIS
+
+
+
+
+
+
+
+
+
+
+
+SOMMATION À L’ÉGARD DE LA PERSONNE VISÉE PAR UNE AUTORISATION DE PRÉLÈVEMENT DE SUBSTANCES CORPORELLES POUR ANALYSE GÉNÉTIQUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+
+
+Province of ................
+
+
+
+
+
+
+
+
+(territorial division)
+
+
+
+
+
+
+
+
+To A.B., of ................ ,
+
+
+
+
+
+
+
+
+Whereas an authorization has been granted under section 487.055 or 487.091 of the Criminal Code to take from you the number of samples of bodily substances that are reasonably required for forensic DNA analysis;
+
+
+
+
+
+
+
+
+This is therefore to command you, in Her Majesty’s name, to appear on ................ , the ................ day of ................ , A.D. ........ , at ............ o’clock, at ................ , for the purposes of the taking of bodily substances by means of the investigative procedures set out in subsection 487.06(1) of the Criminal Code. A peace officer, or any person who is acting under a peace officer’s direction, who is authorized to take the samples of bodily substances may use as much force as is necessary to do so.
+
+
+
+
+
+
+
+
+You are warned that failure to appear in accordance with this summons may result in a warrant being issued for your arrest under subsection 487.0561(1) of the Criminal Code. You are also warned that failure to appear, without lawful excuse, is an offence under subsection 127(1) of that Act.
+
+
+
+
+
+
+
+
+Subsection 487.0561(1) of the Criminal Code states as follows:
+
+
+
+
+
+
+
+
+
+487.0561 (1) If a person fails to appear at the place, day and time set out in an order made under subsection 487.051(4), 487.052(3) or 487.055(3.11) or a summons referred to in subsection 487.055(4) or 487.091(3), a justice of the peace may issue a warrant for their arrest to allow samples of bodily substances to be taken.
+
+
+
+
+
+
+
+
+Subsection 127(1) of the Criminal Code states as follows:
+
+
+
+
+
+
+
+
+
+127. (1) Every one who, without lawful excuse, disobeys a lawful order made by a court of justice or by a person or body of persons authorized by any Act to make or give the order, other than an order for the payment of money, is, unless a punishment or other mode of proceeding is expressly provided by law, guilty of an indictable offence and liable to imprisonment for a term not exceeding two years.
+
+
+
+
+
+
+
+
+Dated this ................ day of ................ , A.D. ........ , at ................ .
+
+
+
+
+
+
+
+
+...........................................
+
+
+
+
+
+
+
+
+(Signature of judge of the court)
+
+
+
+
+
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+
+
+Province de ................
+
+
+
+
+
+
+
+
+(circonscription territoriale)
+
+
+
+
+
+
+
+
+À A.B., de ................ :
+
+
+
+
+
+
+
+
+Attendu que, aux termes d’une autorisation délivrée en vertu des articles 487.055 ou 487.091 du Code criminel, le prélèvement sur votre personne, pour analyse génétique, du nombre d’échantillons de substances corporelles jugé nécessaire à cette fin a été autorisé;
+
+
+
+
+
+
+
+
+À ces causes, les présentes vous enjoignent, au nom de Sa Majesté, de vous présenter le ................, ................ jour de ................ en l’an de grâce ........, à ............ heures, à ................, pour que soit effectué le prélèvement en conformité avec le paragraphe 487.06(1) du Code criminel. L’agent de la paix — ou toute personne agissant sous son autorité — qui est autorisé à effectuer le prélèvement peut employer la force nécessaire pour ce faire;
+
+
+
+
+
+
+
+
+Sachez que l’omission de vous présenter en conformité avec la présente sommation peut entraîner la délivrance d’un mandat d’arrestation en vertu du paragraphe 487.0561(1) du Code criminel. Sachez également que cette omission, sans excuse légitime, constitue un acte criminel prévu au paragraphe 127(1) de la même loi.
+
+
+
+
+
+
+
+
+Le paragraphe 487.0561(1) du Code criminel s’énonce ainsi :
+
+
+
+
+
+
+
+
+
+487.0561 (1) Si l’intéressé omet de se présenter aux date, heure et lieu fixés dans l’ordonnance rendue en vertu des paragraphes 487.051(4), 487.052(3) ou 487.055(3.11) ou la sommation délivrée en vertu des paragraphes 487.055(4) ou 487.091(3), le juge de paix peut délivrer un mandat d’arrestation afin de permettre que soit effectué le prélèvement.
+
+
+
+
+
+
+
+
+Le paragraphe 127(1) du Code criminel s’énonce ainsi :
+
+
+
+
+
+
+
+
+
+127. (1) Quiconque, sans excuse légitime, désobéit à une ordonnance légale donnée par un tribunal judiciaire ou par une personne ou un corps de personnes autorisé par une loi à donner ou décerner l’ordonnance, autre qu’une ordonnance visant le paiement d’argent, est, à moins que la loi ne prévoie expressément une peine ou autre mode de procédure, coupable d’un acte criminel et passible d’un emprisonnement maximal de deux ans.
+
+
+
+
+
+
+
+
+Fait le ................ jour de ................ en l’an de grâce ......, à ................ .
+
+
+
+
+
+
+
+
+.......................................
+
+
+
+
+
+
+
+
+(Signature du juge du tribunal)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1998, c. 37
+
+
+
+DNA IDENTIFICATION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’IDENTIFICATION PAR LES EMPREINTES GÉNÉTIQUES
+
+
+
+1998, ch. 37
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Section 5.2 of the DNA Identification Act is amended by adding the following after subsection (2):
+
+
+
+
+
+
+
+
+
+
+10. L’article 5.2 de la Loi sur l’identification par les empreintes génétiques est modifié par adjonction, après le paragraphe (2), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Substantive defect
+
+
+
+
+(2.1) If the Attorney General or Director of Military Prosecutions, as the case may be, informs the Commissioner that the offence referred to in the order or authorization is not a designated offence, the Commissioner shall, without delay, destroy the bodily substances collected under the order or authorization and the information transmitted with it.
+
+
+
+
+
+
+
+
+
+
+
+(2.1) Si le procureur général ou le directeur des poursuites militaires, selon le cas, avise le commissaire que l’infraction mentionnée dans l’ordonnance ou l’autorisation n’est pas une infraction désignée, ce dernier doit détruire sans délai les substances corporelles prélevées en vertu de l’ordonnance ou de l’autorisation et les renseignements qui l’accompagnent.
+
+
+
+
+Erreur de fond
+
+
+
+
+
+
+
+
+
+
+2005, c. 25, s. 17(1)
+
+
+
+
+11. (1) The portion of subsection 6(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. (1) Le passage du paragraphe 6(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2005, ch. 25, par. 17(1)
+
+
+
+
+
+
+
+
+
+
+Communication of information
+
+
+
+
+6. (1) The Commissioner shall compare any DNA profile that is entered in the convicted offenders index or the crime scene index with those DNA profiles that are already contained in the data bank and may then, for the purpose of the investigation of a criminal offence, communicate the following information to any Canadian law enforcement agency or laboratory that the Commissioner considers appropriate:
+
+
+
+
+
+
+
+
+
+
+6. (1) Le commissaire compare le profil d’identification génétique déposé au fichier des condamnés ou au fichier de criminalistique avec les profils qui sont déjà dans la banque de données et peut communiquer, pour les besoins de toute enquête relative à une infraction criminelle, l’information suivante à tout laboratoire ou organisme canadien chargé du contrôle d’application de la loi à qui il estime indiqué de le faire :
+
+
+
+Communication de renseignements
+
+
+
+
+
+
+
+
+
+
+2005, c. 25, s. 17(1)
+
+
+
+(2) Paragraph 6(1)(b) of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 6(1)b) de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 25, par. 17(1)
+
+
+
+
+
+
+
+
+
+
+
+
+(b) if the DNA profile is already contained in the data bank, the information contained in the data bank in relation to that DNA profile;
+
+
+
+
+
+
+
+
+
+(b) if the DNA profile is already contained in the data bank, the information contained in the data bank in relation to that DNA profile;
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 25, s. 17(1)
+
+
+
+(3) Paragraph 6(1)(d) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 6(1)d) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 25, par. 17(1)
+
+
+
+
+
+
+
+
+
+
+
+
+(d) if a law enforcement agency or laboratory advises the Commissioner that it cannot exclude a DNA profile that is communicated under paragraph (c) as a possible match, the information contained in the data bank in relation to that profile.
+
+
+
+
+
+
+
+
+
+
+d) si un laboratoire ou un organisme chargé du contrôle d’application de la loi avise le commissaire qu’il ne peut écarter le profil communiqué en vertu de l’alinéa c), les renseignements afférents au profil qui sont contenus dans la banque de données.
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 25, s. 17(2)
+
+
+
+(4) Subsection 6(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 6(3) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 25, par. 17(2)
+
+
+
+
+
+
+
+
+
+
+Foreign law enforcement agencies
+
+
+
+(3) On receipt of a DNA profile from the government of a foreign state, an international organization established by the governments of states or an institution of such a government or international organization, the Commissioner may compare the profile with those in the DNA data bank to determine whether it is already contained in the data bank and may then communicate to the government, organization or institution
+
+
+
+
+
+
+
+
+
+
+(a) the information referred to in any of paragraphs (1)(a) to (c) in the circumstances referred to in that paragraph; and
+
+
+
+
+
+
+
+
+
+
+(b) the information contained in the data bank in relation to a DNA profile communicated to the government, organization or institution in the circumstances set out in paragraph (1)(c) if the government, organization or institution advises the Commissioner that the profile cannot be excluded as a possible match.
+
+
+
+
+
+
+
+
+
+(3) Lorsqu’il reçoit un profil d’identification génétique d’un gouvernement d’un État étranger, d’une organisation internationale de gouvernements, ou d’un de leurs organismes, le commissaire peut le comparer avec les profils enregistrés dans la banque de données afin de vérifier s’il s’y trouve déjà; il peut ensuite communiquer au gouvernement, à l’organisation ou à l’organisme :
+
+
+
+Organisme d’un État étranger
+
+
+
+
+
+
+a) les renseignements visés à l’un des alinéas (1)a) à c) dans les circonstances qui y sont prévues;
+
+
+
+
+
+
+
+
+
+
+
+
+b) si le gouvernement, l’organisation ou l’organisme l’avise que le profil qui lui a été communiqué dans les circonstances visées à l’alinéa (1)c) ne peut être écarté, les renseignements afférents au profil contenus dans la banque de données.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 25, s. 17(3)
+
+
+
+(5) Subsection 6(6.1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe 6(6.1) de la même loi est remplacé par ce qui suit :
+
+
+
+2005, ch. 25, par. 17(3)
+
+
+
+
+
+
+
+
+
+
+Subsequent communication
+
+
+
+(6.1) Information that is communicated under subsection (1) may be communicated subsequently to a person to whom the communication is necessary for the purpose of the investigation or prosecution of a criminal offence.
+
+
+
+
+
+
+
+
+
+(6.1) L’information communiquée en vertu du paragraphe (1) peut l’être subséquemment à toute personne à qui la communication est nécessaire pour les besoins d’une enquête ou d’une poursuite relative à une infraction criminelle.
+
+
+
+Communication subséquente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. N-5
+
+
+
+NATIONAL DEFENCE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA DÉFENSE NATIONALE
+
+
+
+L.R., ch. N-5
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. (1) Subsection 196.17(1) of the National Defence Act, as enacted by subsection 26(1) of the other Act, is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. (1) Le paragraphe 196.17(1) de la Loi sur la défense nationale, édicté par le paragraphe 26(1) de l’autre loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+When collection to take place
+
+
+
+
+196.17 (1) Even though an appeal is taken, samples of bodily substances shall be taken as authorized under section 196.14 or 196.15
+
+
+
+
+
+
+
+
+
+
+(a) at the place, day and time set out in an order made under subsection 196.14(4) or 196.15(3) or as soon as feasible afterwards; or
+
+
+
+
+
+
+
+
+
+
+(b) in any other case, on the day on which a court martial makes an order under subsection 196.14(1) or 196.15(1) or as soon as feasible afterwards.
+
+
+
+
+
+
+
+
+
+
+196.17 (1) Même en cas d’appel, le prélèvement de substances corporelles autorisé aux articles 196.14 ou 196.15 est effectué :
+
+
+
+Moment du prélèvement
+
+
+
+
+
+a) soit aux date, heure et lieu fixés dans une ordonnance rendue en vertu des paragraphes 196.14(4) ou 196.15(3) ou dès que possible par la suite;
+
+
+
+
+
+
+
+
+
+
+
+b) soit, dans les autres cas, le jour où l’ordonnance visée aux paragraphes 196.14(1) ou 196.15(1) est rendue ou dès que possible par la suite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When collection to take place
+
+
+
+
+(1.1) If a person fails to appear as required by an order made under subsection 196.14(4) or 196.15(3), samples of bodily substances shall be taken
+
+
+
+
+
+
+
+
+
+
+
+(a) when the person is arrested under a warrant issued under subsection (3) or as soon as feasible afterwards; or
+
+
+
+
+
+
+
+
+
+
+
+(b) as soon as feasible after the person appears at the place set out in the order, if no warrant is issued.
+
+
+
+
+
+
+
+
+
+
+
+(1.1) Si l’intéressé omet de se présenter comme l’exige l’ordonnance rendue en vertu des paragraphes 196.14(4) ou 196.15(3), le prélèvement de substances corporelles est effectué :
+
+
+
+Moment du prélèvement
+
+
+
+
+
+
+a) dès son arrestation au titre d’un mandat délivré en vertu du paragraphe (3) ou dès que possible par la suite;
+
+
+
+
+
+
+
+
+
+
+
+
+b) dès que possible après qu’il se soit présenté au lieu prévu par l’ordonnance, si aucun mandat d’arrestation n’est délivré.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 196.17(3) of the Act, as enacted by subsection 26(2) of the other Act, is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 196.17(3) de la même loi, édicté par le paragraphe 26(2) de l’autre loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Failure to appear
+
+
+
+(3) If a person fails to appear at the place, day and time set out in an order made under subsection 196.14(4) or 196.15(3), a military judge may issue a warrant in the prescribed form for their arrest to allow samples of bodily substances to be taken.
+
+
+
+
+
+
+
+
+
+(3) Si l’intéressé omet de se présenter aux date, heure et lieu fixés dans l’ordonnance rendue en vertu des paragraphes 196.14(4) ou 196.15(3), le juge militaire peut délivrer un mandat d’arrestation — rédigé selon le formulaire réglementaire — afin de permettre que soit effectué le prélèvement.
+
+
+
+Défaut de comparution
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. Subsection 196.241(3) of the Act, as enacted by section 29 of the other Act, is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 196.241(3) de la même loi, édicté par l’article 29 de l’autre loi, est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Substantive defect
+
+
+
+(3) If the Director of Military Prosecutions is of the opinion that the offence referred to in the order or authorization is not a designated offence, the Director shall transmit that opinion to the Commissioner.
+
+
+
+
+
+
+
+
+
+(3) S’il estime que l’infraction mentionnée dans l’ordonnance ou l’autorisation n’est pas une infraction désignée, le directeur des poursuites militaires en fait part au commissaire.
+
+
+
+Erreur de fond
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENT
+
+
+
+
+
+
+
+
+
+DISPOSITION DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 25, c. 32
+
+
+
+
+14. On the later of the coming into force of section 1 of An Act to amend the Criminal Code (protection of children and other vulnerable persons) and the Canada Evidence Act, chapter 32 of the Statutes of Canada, 2005 and the coming into force of section 12 of the other Act, the last paragraph of Form 5.061 in Part XXVIII of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. À l’entrée en vigueur de l’article 1 de la Loi modifiant le Code criminel (protection des enfants et d’autres personnes vulnérables) et la Loi sur la preuve au Canada, chapitre 32 des Lois du Canada (2005) ou à celle de l’article 12 de l’autre loi, la dernière en date étant à retenir, le dernier paragraphe de la formule 5.061 de la partie XXVIII du Code criminel est remplacé par ce qui suit :
+
+
+
+2005, ch. 25 et 32
+
+
+
+
+
+
+
+
+
+
+
+
+Subsection 127(1) of the Criminal Code states as follows:
+
+
+
+
+
+
+
+127. (1) Every one who, without lawful excuse, disobeys a lawful order made by a court of justice or by a person or body of persons authorized by any Act to make or give the order, other than an order for the payment of money, is, unless a punishment or other mode of proceeding is expressly provided by law, guilty of
+
+
+
+
+
+
+(a) an indictable offence and liable to imprisonment for a term not exceeding two years; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+Le paragraphe 127(1) du Code criminel s’énonce ainsi :
+
+
+
+
+
+
+
+127. (1) Quiconque, sans excuse légitime, désobéit à une ordonnance légale donnée par un tribunal judiciaire ou par une personne ou un corps de personnes autorisé par une loi à donner ou décerner l’ordonnance, autre qu’une ordonnance visant le paiement d’argent, est, à moins que la loi ne prévoie expressément une peine ou un autre mode de procédure, coupable :
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de deux ans;
+
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

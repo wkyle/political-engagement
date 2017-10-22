@@ -1,0 +1,2558 @@
+
+
+
+
+
+C-689
+
+
+
+
+
+C-689
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-689
+
+
+
+
+
+PROJET DE LOI C-689
+
+
+
+
+
+
+An Act to enact the Global Human Rights Accountability Act and to make related amendments to the Special Economic Measures Act and the Immigration and Refugee Protection Act
+
+
+
+
+
+Loi édictant la Loi sur la responsabilisation mondiale pour les violations des droits de la personne et apportant des modifications connexes à la Loi sur les mesures économiques spéciales et à la Loi sur l’immigration et la protection des réfugiés
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 9, 2015
+
+première lecture le 9 juin 2015
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Cotler
+
+412289
+
+
+
+M. Cotler
+
+
+
+
+
+SUMMARY
+This enactment enacts the Global Human Rights Accountability Act to provide for the taking of restrictive measures in respect of foreign nationals responsible for gross violations of internationally recognized human rights. It also proposes related amendments to the Special Economic Measures Act and to the Immigration and Refugee Protection Act.
+
+
+
+SOMMAIRE
+Le texte édicte la Loi sur la responsabilisation mondiale pour les violations des droits de la personne afin de prévoir la prise de mesures restrictives contre les étrangers responsables de violations graves de droits de la personne reconnus à l'échelle internationale. En outre, il apporte des modifications connexes à la Loi sur les mesures économiques spéciales et à la Loi sur l’immigration et la protection des réfugiés. 
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 41st Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 41e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-689
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-689
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to enact the Global Human Rights Accountability Act and to make related amendments to the Special Economic Measures Act and the Immigration and Refugee Protection Act
+
+
+
+
+
+
+
+
+
+Loi édictant la Loi sur la responsabilisation mondiale pour les violations des droits de la personne et apportant des modifications connexes à la Loi sur les mesures économiques spéciales et à la Loi sur l’immigration et la protection des réfugiés
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas human rights and the rule of law are integral to international law and Canada has repeatedly asserted its commitment to promoting international justice and respect for human rights;
+
+
+
+
+
+
+
+
+Whereas signatory States to international human rights agreements have committed themselves to the obligations and responsibilities set out in those agreements;
+
+
+
+
+
+
+
+
+Whereas Sergei Magnitsky, a Moscow lawyer who uncovered the largest tax fraud in Russian history, was detained without trial, tortured and consequently died in a Moscow prison on November 16, 2009;
+
+
+
+
+
+
+
+
+Whereas no thorough, independent and objective investigation has been conducted by Russian authorities into the detention, torture and death of Sergei Magnitsky, nor have the individuals responsible been brought to justice;
+
+
+
+
+
+
+
+
+Whereas the unprecedented posthumous trial and conviction of Sergei Magnitsky in Russia for the very fraud he uncovered constitute a violation of the principles of fundamental justice and the rule of law;
+
+
+
+
+
+
+
+
+Whereas the United States of America has adopted legislation imposing sanctions against the individuals complicit in the Sergei Magnitsky case, and motions calling for similar sanctions have been adopted by the European Parliament, the Parliamentary Assembly of the Organization for Security and Cooperation in Europe, the Parliamentary Assembly of the Council of Europe, the British House of Commons, the Dutch House of Representatives and the Italian Chamber of Deputies;
+
+
+
+
+
+
+
+
+Whereas motions unanimously adopted by the House of Commons of Canada on March 25, 2015, and by the Senate of Canada on May 5, 2015, condemn the mistreatment of Sergei Magnitsky as “a violation of the principles of fundamental justice and the rule of law” and call for sanctions against individuals “who were responsible for the detention, torture or death of Sergei Magnitsky or who have been involved in covering up the crimes he exposed”;
+
+
+
+
+
+
+
+
+And whereas the motions adopted by the House of Commons and by the Senate also call for sanctions against any foreign nationals responsible for violations of internationally recognized human rights in a foreign country, when authorities in that country are unable or unwilling to conduct a thorough, independent and objective investigation of the violations;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que les droits de la personne et la primauté du droit font partie intégrante du droit international et que le Canada a affirmé à plusieurs reprises son engagement à promouvoir la justice internationale et le respect des droits de la personne;
+
+
+
+
+
+
+
+
+
+
+que les États signataires d’accords internationaux sur les droits de la personne se sont engagés à s’acquitter des obligations et responsabilités qui y sont prévues;
+
+
+
+
+
+
+
+
+que Sergei Magnitsky, un avocat moscovite qui a mis au jour la plus importante fraude fiscale de l’histoire de la Russie, a été détenu sans procès, a été torturé, et en est mort le 16 novembre 2009 dans une prison de Moscou;
+
+
+
+
+
+
+
+
+qu’aucune enquête rigoureuse, indépendante et objective n’a été menée par les autorités russes sur la détention, la torture et la mort de Sergei Magnitsky, et que les individus responsables n’ont pas été traduits en justice;
+
+
+
+
+
+
+
+
+que le procès posthume sans précédent de Sergei Magnitsky ainsi que sa condamnation en Russie pour la fraude qu’il a lui-même mise au jour constituent une violation des principes de justice fondamentale et de la primauté du droit;
+
+
+
+
+
+
+
+
+que les États-Unis d’Amérique ont adopté des mesures législatives imposant des sanctions contre les individus complices du traitement infligé à Sergei Magnitsky, et que des motions demandant l’imposition de mesures semblables ont été adoptées par le Parlement européen, l’Assemblée parlementaire de l’Organisation pour la sécurité et la coopération en Europe, l’Assemblée parlementaire du Conseil de l’Europe, la Chambre des communes du Royaume-Uni, la Chambre des représentants des Pays-Bas et la Chambre des députés de l’Italie;
+
+
+
+
+
+
+
+
+que les motions adoptées à l’unanimité par la Chambre des communes du Canada le 25 mars 2015 et par le Sénat du Canada le 5 mai 2015 condamnent le mauvais traitement que Sergei Magnitsky a subi, car il s’agit d’une « violation des principes de justice fondamentale et de l’État de droit », et demandent l’imposition de sanctions contre tout individu « responsable de la détention, de la torture, ou de la mort de Sergei Magnitsky, ou qui a été impliqué dans la dissimulation des crimes qu’il a mis au jour »;
+
+
+
+
+
+
+
+
+que les motions adoptées par la Chambre des communes et le Sénat demandent en outre l’imposition de sanctions contre tout ressortissant étranger responsable de violations, à l’étranger, de droits de la personne reconnus à l'échelle internationale, lorsque les autorités de ce pays ne peuvent ou ne veulent pas enquêter sur ces violations de façon rigoureuse, indépendante et objective,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Global Magnitsky Human Rights Accountability Act.
+
+
+
+
+
+
+
+
+
+1. Loi de Magnitsky sur la responsabilisation mondiale pour les violations des droits de la personne.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+ENACTMENT OF THE GLOBAL HUMAN RIGHTS ACCOUNTABILITY ACT
+
+
+
+
+
+
+
+
+
+ÉDICTION DE LA LOI SUR LA RESPONSABILISATION MONDIALE POUR LES VIOLATIONS DES DROITS DE LA PERSONNE
+
+
+
+
+
+
+
+
+
+
+
+
+Enactment
+
+
+
+2. The Global Human Rights Accountability Act is enacted as follows:
+
+
+
+
+
+
+
+
+
+2. Est édictée la Loi sur la responsabilisation mondiale pour les violations des droits de la personne, dont le texte suit :
+
+
+
+Édiction
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to provide for the taking of restrictive measures in respect of foreign nationals responsible for gross violations of internationally recognized human rights
+
+
+
+
+
+
+
+
+
+Loi prévoyant la prise de mesures restrictives contre les étrangers responsables de violations graves de droits de la personne reconnus à l'échelle internationale
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Global Human Rights Accountability Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la responsabilisation mondiale pour les violations des droits de la personne.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. (1) The following definitions apply in this Act.
+
+
+
+
+“Canadian”« Canadien »
+
+
+
+“Canadian” means a person who is a citizen within the meaning of the Citizenship Act or a corporation incorporated or continued by or under the laws of Canada or of a province.
+
+
+
+
+“entity”« entité »
+
+
+
+“entity” means a corporation, trust, partnership, fund, an unincorporated association or organization or a foreign state.
+
+
+
+
+“foreign national”« étranger »
+
+
+
+“foreign national” means an individual who is not 
+
+
+
+
+
+
+
+
+(a) a Canadian citizen; or
+
+
+
+
+
+
+
+
+(b) a permanent resident under the Immigration and Refugee Protection Act. 
+
+
+
+
+“foreign state”« État étranger »
+
+
+
+“foreign state” means a country other than Canada, and includes
+
+
+
+
+
+
+
+
+(a) any of its political subdivisions;
+
+
+
+
+
+
+
+
+(b) its government and any of its departments, or the government or any department of any of its political subdivisions; and
+
+
+
+
+
+
+
+
+(c) any of its agencies or any agency of any of its political subdivisions.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Foreign Affairs.
+
+
+
+
+“person”« personne »
+
+
+
+“person” means an individual or an entity.
+
+
+
+
+“prescribed”Version anglaise seulement
+
+
+
+“prescribed” means prescribed by regulation.
+
+
+
+
+“property”« bien »
+
+
+
+“property” means any real, personal, movable or immovable property.
+
+
+
+
+
+
+
+
+
+2. (1) Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« bien » Bien meuble, immeuble, personnel ou réel.
+
+
+
+« bien »“property”
+
+
+
+
+« Canadien » Citoyen au sens de la Loi sur la citoyenneté ou toute personne morale constituée ou prorogée sous le régime d’une loi fédérale ou provinciale.
+
+
+
+« Canadien »“Canadian”
+
+
+
+
+« entité » Personne morale, fiducie, société de personnes, fonds, organisation ou association non dotée de la personnalité morale ainsi qu’un État étranger.
+
+
+
+« entité »“entity”
+
+
+
+
+« État étranger » Pays autre que le Canada. Sont assimilés à un État étranger :
+
+
+
+« État étranger »“foreign state”
+
+
+
+
+a) ses subdivisions politiques;
+
+
+
+
+
+
+
+
+b) son gouvernement et ses ministères ou ceux de ses subdivisions politiques;
+
+
+
+
+
+
+
+
+c) ses organismes ou ceux de ses subdivisions politiques.
+
+
+
+
+
+
+
+
+« étranger » Personne autre :
+
+
+
+« étranger »“foreign national”
+
+
+
+
+a) qu'un citoyen canadien;
+
+
+
+
+
+
+
+
+b) qu'un résident permanent au sens de la Loi sur l’immigration et la protection des réfugiés.
+
+
+
+
+
+
+
+
+« ministre » Le ministre des Affaires étrangères.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« personne » Personne physique ou entité.
+
+
+
+« personne »“person”
+
+
+
+
+
+
+
+
+
+
+Property of a person
+
+
+
+(2) For the purposes of this Act, the property of a person includes property controlled, directly or indirectly, by the person.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application de la présente loi, les biens d’une personne s’entendent notamment des biens qui sont directement ou indirectement sous son contrôle.
+
+
+
+Biens d’une personne
+
+
+
+
+
+
+
+
+
+
+HER MAJESTY
+
+
+
+
+
+
+
+
+
+SA MAJESTÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Binding on Her Majesty
+
+
+
+3. This Act is binding on Her Majesty in right of Canada or a province.
+
+
+
+
+
+
+
+
+
+3. La présente loi lie Sa Majesté du chef du Canada et des provinces.
+
+
+
+Obligation de Sa Majesté
+
+
+
+
+
+
+
+
+
+
+ORDERS AND REGULATIONS
+
+
+
+
+
+
+
+
+
+DÉCRETS ET RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Orders and regulations
+
+
+
+4. (1) The Governor in Council may, if satisfied based on reliable and appropriate evidence that the circumstances described in subsection (2) have occurred,
+
+
+
+
+
+
+
+
+(a) make any orders or regulations with respect to the restriction or prohibition of any of the activities referred to in subsection (4) in relation to the foreign national’s property that the Governor in Council considers necessary; and
+
+
+
+
+
+
+
+
+(b) by order, cause to be seized, frozen or sequestrated in the manner set out in the order any of the foreign national’s property situated in Canada.
+
+
+
+
+
+
+
+
+
+4. (1) S’il est convaincu, sur le fondement d’éléments de preuve dignes de foi, que les faits prévus au paragraphe (2) se sont produits, le ministre peut :
+
+
+
+Décrets et règlements
+
+
+
+
+a) prendre tout décret ou règlement qu’il estime nécessaire concernant la restriction ou l’interdiction, à l’égard des biens d’un étranger, des activités énumérées au paragraphe (4);
+
+
+
+
+
+
+
+
+b) par décret, saisir, bloquer ou mettre sous séquestre, de la façon prévue par le décret, tout bien situé au Canada et détenu par l'étranger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Circumstances
+
+
+
+(2) The circumstances referred to in subsection (1) are the following:
+
+
+
+
+
+
+
+
+(a) a foreign national is responsible for, or complicit in, extrajudicial killings, torture or other gross violations of internationally recognized human rights committed against individuals in any foreign country who seek
+
+
+
+
+
+
+
+
+(i) to expose illegal activity carried out by government officials, or
+
+
+
+
+
+
+
+
+(ii) to obtain, exercise, defend or promote internationally recognized human rights and freedoms, such as the freedoms of religion, expression, association and assembly, and the rights to a fair trial and democratic elections;
+
+
+
+
+
+
+
+
+(b) a foreign national acts as an agent or on behalf of a foreign state in a matter relating to an activity described in paragraph (a);
+
+
+
+
+
+
+
+
+(c) a foreign national who is a government official of a foreign state, or a senior associate of such an official, is responsible for, or complicit in, ordering, controlling, or otherwise directing, acts of significant corruption, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; or
+
+
+
+
+
+
+
+
+(d) a foreign national has materially assisted, sponsored, or provided financial, material or technological support for, or goods or services in support of, an activity described in paragraph (c).
+
+
+
+
+
+
+
+
+
+(2) Sont visés au paragraphe (1) les faits suivants :
+
+
+
+Faits
+
+
+
+
+a) l’étranger est responsable ou complice de meurtres extrajudiciaires, de torture ou d’autres violations graves de droits de la personne reconnus à l'échelle internationale contre des personnes qui se trouvent à l’extérieur du Canada et qui tentent, selon le cas :
+
+
+
+
+
+
+
+
+(i) de dénoncer des activités illégales commises par des dirigeants du gouvernement,
+
+
+
+
+
+
+
+
+(ii) d’obtenir, d’exercer, de défendre ou de promouvoir des droits de la personne et des libertés reconnus à l'échelle internationale, notamment les libertés de religion, d’expression, d’association et de réunion et les droits à un procès équitable et à des élections démocratiques;
+
+
+
+
+
+
+
+
+b) l’étranger, sur mandat ou au nom d’un État étranger, est impliqué dans une activité visée à l’alinéa a); 
+
+
+
+
+
+
+
+
+c) l’étranger, qui est un dirigeant du gouvernement d’un État étranger ou l’adjoint principal d’un tel dirigeant, est responsable ou complice d’avoir ordonné, supervisé ou dirigé d’une façon quelconque des actes de corruption à grande échelle, notamment l’expropriation de biens publics ou privés pour son propre bénéfice, la corruption visant des marchés publics ou l’extraction de ressources naturelles, le versement de pots-de-vin ou le transfert ou la facilitation du transfert de produits de la corruption à l’extérieur du pays;
+
+
+
+
+
+
+
+
+d) l’étranger a substantiellement appuyé ou parrainé une activité visée à l’alinéa c) ou y a activement participé en fournissant de l’aide financière ou matérielle, du soutien technologique ou des biens ou services.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	Factors
+
+
+
+(3) The Governor in Council may take into account information obtained by other countries and non-governmental organizations that monitor violations of human rights.
+
+
+
+
+
+
+
+
+
+(3) Le gouverneur en conseil peut tenir compte de renseignements obtenus par d’autres pays et organisations non gouvernementales qui surveillent les violations des droits de la personne.
+
+
+
+ 	Facteurs
+
+
+
+
+
+
+
+
+
+
+Restricted or prohibited activities
+
+
+
+(4) Orders and regulations may be made under paragraph (1)(a) with respect to the restriction or prohibition of any of the following activities, whether carried out in or outside Canada:
+
+
+
+
+
+
+
+
+(a) the dealing, directly or indirectly, by any person in Canada or Canadian outside Canada in any property, wherever situated, of the foreign national;
+
+
+
+
+
+
+
+
+(b) the entering into or facilitating, directly or indirectly, by any person in Canada or Canadian outside Canada, of any financial transaction related to a dealing referred to in paragraph (a); and
+
+
+
+
+
+
+
+
+(c) the provision by any person in Canada or Canadian outside Canada of financial serv­ices or other related services in respect of property of the foreign national.
+
+
+
+
+
+
+
+
+
+(4) Les activités qui peuvent être visées par le décret ou règlement pris en vertu de l’alinéa (1)a) sont les suivantes, qu’elles se déroulent au Canada ou à l’étranger :
+
+
+
+Activités interdites
+
+
+
+
+a) toute opération effectuée, directement ou indirectement, par une personne se trouvant au Canada ou par un Canadien se trouvant à l’étranger portant sur un bien de l’étranger, indépendamment de la situation du bien;
+
+
+
+
+
+
+
+
+b) le fait pour une personne se trouvant au Canada ou pour un Canadien se trouvant à l’étranger de conclure, directement ou indirectement, toute opération financière liée à une opération visée à l’alinéa a) ou d’en faciliter, directement ou indirectement, la conclusion;
+
+
+
+
+
+
+
+
+c) la prestation par une personne se trouvant au Canada ou par un Canadien se trouvant à l’étranger de services financiers ou de services connexes relativement aux biens de l’étranger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Duration
+
+
+
+5. An order or regulation made under section 4 in respect of a foreign national ceases to have effect on the day that is five years after the day on which it comes into force unless the Governor in Council, by order, extends it for the period specified in the order. It may be extended more than once.
+
+
+
+
+
+
+
+
+
+5. Le décret ou règlement pris en vertu de l’article 4 à l’égard d’un étranger cesse d’avoir effet cinq ans après sa date d’entrée en vigueur à moins que le gouverneur en conseil ne prolonge, par décret, sa période de validité de la période qui y est précisée. La période de validité peut être prolongée plus d’une fois.
+
+
+
+Période de validité
+
+
+
+
+
+
+
+
+
+
+Tabling of order
+
+
+
+6. A copy of each order or regulation made under section 4 must be tabled in each House of Parliament within 15 days after it is made. It may be sent to the Clerk of the House if the House is not sitting.
+
+
+
+
+
+
+
+
+
+6. Une copie de tout décret ou règlement pris en vertu de l’article 4 est déposée devant chaque chambre du Parlement dans les quinze jours suivant sa prise et communiquée au greffier de cette chambre dans le cas où celle-ci ne siège pas.
+
+
+
+Dépôt devant les chambres du Parlement
+
+
+
+
+
+
+
+
+
+
+DUTY TO DETERMINE
+
+
+
+
+
+
+
+
+
+OBLIGATION DE VÉRIFICATION
+
+
+
+
+
+
+
+
+
+
+
+
+Determination
+
+
+
+7. Each of the following entities must determine on a continuing basis whether it is in possession or control of property that they have reason to believe is the property of a foreign national who is the subject of an order or regulation made under section 4:
+
+
+
+
+
+
+
+
+(a) authorized foreign banks, as defined in section 2 of the Bank Act, in respect of their business in Canada or banks to which that Act applies;
+
+
+
+
+
+
+
+
+(b) cooperative credit societies, savings and credit unions and caisses populaires regulated by a provincial Act and associations regulated by the Cooperative Credit Associations Act;
+
+
+
+
+
+
+
+
+(c) foreign companies, as defined in subsection 2(1) of the Insurance Companies Act, in respect of their insurance business in Canada;
+
+
+
+
+
+
+
+
+(d) companies, provincial companies and societies, as those terms are defined in subsection 2(1) of the Insurance Companies Act;
+
+
+
+
+
+
+
+
+(e) fraternal benefit societies regulated by a provincial Act in respect of their insurance activities and insurance companies and other entities engaged in the business of insuring risks that are regulated by a provincial Act;
+
+
+
+
+
+
+
+
+(f) companies to which the Trust and Loan Companies Act applies;
+
+
+
+
+
+
+
+
+(g) trust companies regulated by a provincial Act;
+
+
+
+
+
+
+
+
+(h) loan companies regulated by a provincial Act;
+
+
+
+
+
+
+
+
+(i) entities that engage in any activity described in paragraph 5(h) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act if the activity involves the opening of an account for a client;
+
+
+
+
+
+
+
+
+(j) entities authorized under provincial legislation to engage in the business of dealing in securities or to provide portfolio management or investment counselling services; and
+
+
+
+
+
+
+
+
+(k) other entities of a prescribed class of entities.
+
+
+
+
+
+
+
+
+
+7. Il incombe aux entités ci-après de vérifier de façon continue l’existence de biens qui sont en leur possession ou sous leur contrôle et qui, à leur connaissance, sont des biens d’un étranger visé par un décret ou règlement pris en vertu de l’article 4 :
+
+
+
+Vérification
+
+
+
+
+a) les banques régies par la Loi sur les banques et les banques étrangères autorisées, au sens de l’article 2 de cette loi, dans le cadre des activités que ces dernières exercent au Canada;
+
+
+
+
+
+
+
+
+b) les coopératives de crédit, caisses d’épargne et de crédit et caisses populaires régies par une loi provinciale et les associations régies par la Loi sur les associations coopératives de crédit;
+
+
+
+
+
+
+
+
+c) les sociétés étrangères, au sens du paragraphe 2(1) de la Loi sur les sociétés d’assurances, dans le cadre des activités d’assurance qu’elles exercent au Canada;
+
+
+
+
+
+
+
+
+d) les sociétés, les sociétés provinciales et les sociétés de secours, au sens du paragraphe 2(1) de la Loi sur les sociétés d’assurances;
+
+
+
+
+
+
+
+
+e) les sociétés de secours mutuel régies par une loi provinciale, dans le cadre de leurs activités d’assurance, et les sociétés d’assurances et autres entités régies par une loi provinciale qui exercent le commerce de l’assurance;
+
+
+
+
+
+
+
+
+f) les sociétés régies par la Loi sur les sociétés de fiducie et de prêt;
+
+
+
+
+
+
+
+
+g) les sociétés de fiducie régies par une loi provinciale;
+
+
+
+
+
+
+
+
+h) les sociétés de prêt régies par une loi provinciale;
+
+
+
+
+
+
+
+
+i) les entités qui se livrent à une activité visée à l’alinéa 5h) de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, si l’activité comporte l’ouverture d’un compte pour un client;
+
+
+
+
+
+
+
+
+j) les entités autorisées en vertu de la législation provinciale à se livrer au commerce des valeurs mobilières ou à la fourniture de services de gestion de portefeuille ou de conseils en placement;
+
+
+
+
+
+
+
+
+k) toute autre entité faisant partie d’une catégorie d’entités réglementaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RIGHTS OF PERSONS WHO ARE SUBJECT TO AN ORDER OR REGULATION
+
+
+
+
+
+
+
+
+
+DROITS DES PERSONNES VISÉES PAR TOUT DÉCRET OU RÈGLEMENT
+
+
+
+
+
+
+
+
+
+
+
+
+Application
+
+
+
+8. (1) A person who is the subject of an order or regulation made under section 4 may apply in writing to the Minister to cease being the subject of the order or regulation on the grounds that the person is not a foreign national.
+
+
+
+
+
+
+
+
+
+8. (1) Toute personne visée par un décret ou règlement pris en vertu de l’article 4 peut demander par écrit au ministre de cesser d’être visée par le décret ou règlement au motif qu’elle n’est pas un étranger.
+
+
+
+Demande
+
+
+
+
+
+
+
+
+
+
+Recommendation
+
+
+
+(2) If the Minister has reasonable grounds to believe that the applicant is not a foreign national, the Minister must recommend to the Governor in Council that the order or regulation be amended or repealed, as the case may be, so that the applicant is no longer the subject of the order or regulation.
+
+
+
+
+
+
+
+
+
+(2) S’il a des motifs raisonnables de croire que le demandeur n’est pas un étranger, le ministre recommande au gouverneur en conseil de modifier ou d’abroger, selon le cas, le décret ou règlement de façon à ce que le demandeur n’y soit plus assujetti.
+
+
+
+Recommandation
+
+
+
+
+
+
+
+
+
+
+Notice if application rejected
+
+
+
+(3) The Minister must give notice without delay to the applicant of any decision to reject the application.
+
+
+
+
+
+
+
+
+
+(3) Le ministre donne sans délai au demandeur un avis de sa décision éventuelle de rejeter la demande.
+
+
+
+ 	Avis
+
+
+
+
+
+
+
+
+
+
+APPLICATION FOR A CERTIFICATE
+
+
+
+
+
+
+
+
+
+DEMANDE D’ATTESTATION
+
+
+
+
+
+
+
+
+
+
+
+
+Mistaken identity
+
+
+
+9. (1) A person claiming not to be a foreign national may apply to the Minister in writing for a certificate stating that they are not a foreign national who is the subject of an order or regulation made under section 4. 
+
+
+
+
+
+
+
+
+
+9. (1) Toute personne qui affirme ne pas être un étranger peut demander par écrit au ministre de lui délivrer une attestation portant qu’elle n’est pas un étranger visé par un décret ou règlement pris en vertu de l’article 4. 
+
+
+
+Erreur sur la personne
+
+
+
+
+
+
+
+
+
+
+Certificate — time frame
+
+
+
+(2) If the Minister determines that the person is not a foreign national, the Minister must issue a certificate to the applicant as soon as feasible.
+
+
+
+
+
+
+
+
+
+(2) S’il décide que le demandeur n’est pas un étranger, le ministre lui délivre l’attestation dans les meilleurs délais.
+
+
+
+Attestation — délai
+
+
+
+
+
+
+
+
+
+
+Reasonable expenses
+
+
+
+10. (1) A person who is the subject of an order or regulation made under section 4 may apply to the Minister in writing for a certificate to exempt property from the application of the order or regulation if the property is necessary to meet the reasonable expenses of the person and their dependents.
+
+
+
+
+
+
+
+
+
+10. (1) Toute personne qui est visée par un décret ou règlement pris en vertu de l’article 4 peut demander par écrit au ministre de délivrer une attestation soustrayant à l’application du décret ou règlement certains biens qui sont nécessaires pour ses dépenses raisonnables et celles des personnes à sa charge.
+
+
+
+Dépenses
+
+
+
+
+
+
+
+
+
+
+Certificate — time frame
+
+
+
+(2) If the Minister determines that the property is necessary to meet the reasonable expenses of the applicant and their dependents, the Minister must issue a certificate to the applicant as soon as feasible.
+
+
+
+
+
+
+
+
+
+(2) S’il décide que les biens sont nécessaires pour les dépenses raisonnables du demandeur et celles des personnes à sa charge, le ministre lui délivre l’attestation dans les meilleurs délais.
+
+
+
+Attestation — délai
+
+
+
+
+
+
+
+
+
+
+GENERAL
+
+
+
+
+
+
+
+
+
+DISPOSITIONS GÉNÉRALES
+
+
+
+
+
+
+
+
+
+
+
+
+No civil liability
+
+
+
+11. A person who, in relation to any property that is the subject of an order or regulation made under section 4, acts reasonably in taking, or omitting to take, measures to comply with the order or regulation is not liable in any civil action arising from having taken or omitted to take the measures if they took all reasonable steps to satisfy themselves that the property was property that is the subject of the order or regulation.
+
+
+
+
+
+
+
+
+
+11. Nul ne peut, relativement à tout bien visé par un décret ou règlement pris en vertu de l’article 4, être poursuivi au civil pour avoir fait ou omis de faire quoi que ce soit dans le but de se conformer au décret ou règlement, s’il a agi raisonnablement et pris toutes les dispositions voulues pour se convaincre que le bien en cause est un bien visé par le décret ou règlement.
+
+
+
+Immunité
+
+
+
+
+
+
+
+
+
+
+Existing equities maintained
+
+
+
+12. All secured and unsecured rights and interests in any property that is the subject of an order or regulation made under section 4 that are held by a person, other than the foreign national who is the subject of the order or regulation, are entitled to the same ranking that they would have been entitled to had the order or regulation not been made.
+
+
+
+
+
+
+
+
+
+12. La prise d’un décret ou règlement en vertu de l’article 4 ne porte pas atteinte au rang des droits et intérêts — garantis ou non — détenus par des personnes qui ne sont pas des étrangers sur les biens visés par le décret ou règlement.
+
+
+
+Rang
+
+
+
+
+
+
+
+
+
+
+Proceedings not precluded
+
+
+
+13. The making of an order or regulation under section 4 does not preclude the commencement of proceedings under any Act of Parliament other than this Act, or any civil proceedings, in respect of any property that is the subject of the order or regulation.
+
+
+
+
+
+
+
+
+
+13. La prise d’un décret ou règlement en vertu de l’article 4 n’a pas pour effet d’empêcher quiconque d’engager des poursuites sous le régime d’une loi fédérale autre que la présente loi ou des poursuites civiles à l’égard des biens visés par le décret ou règlement.
+
+
+
+Possibilités d’engager des poursuites
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+14. The Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including regulations prescribing anything that by this Act is to be prescribed.
+
+
+
+
+
+
+
+
+
+14. Le gouverneur en conseil peut, par règlement, prendre les mesures nécessaires à l’application de la présente loi et, notamment, prendre toute autre mesure d’ordre réglementaire prévue par la présente loi.
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+REVIEW AND REPORT
+
+
+
+
+
+
+
+
+
+EXAMEN ET RAPPORT
+
+
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+15. (1) Within five years after this section comes into force, a comprehensive review of the provisions and operation of this Act and of the Special Economic Measures Act must be undertaken by the committee of the Senate and of the House of Commons that may be designated or established by the Senate and the House of Commons for that purpose.
+
+
+
+
+
+
+
+
+
+15. (1) Dans les cinq ans qui suivent l’entrée en vigueur du présent article, un examen approfondi des dispositions et de l’application de la présente loi et de la Loi sur les mesures économiques spéciales doit être fait par les comités du Sénat et de la Chambre des communes que le Sénat et la Chambre des communes désignent ou constituent à cette fin.
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+ 	Report
+
+
+
+(2) The committees referred to in subsection (1) must, within a year after a review is undertaken pursuant to that subsection or within the further time that may be authorized by the Senate or the House of Commons, as the case may be, submit a report on the review to Parliament, including a statement of any changes that the committees recommend.
+
+
+
+
+
+
+
+
+
+(2) Dans l’année qui suit le début de son examen ou dans le délai supérieur que la chambre en question, selon le cas, lui accorde, chaque comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu’il recommande.
+
+
+
+ 	Rapport
+
+
+
+
+
+
+
+
+1992, c. 17
+
+
+
+RELATED AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CONNEXES
+
+
+
+1992, ch. 17
+
+
+
+
+
+
+
+
+
+
+Special Economic Measures Act
+
+
+
+
+
+
+
+
+
+Loi sur les mesures économiques spéciales
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. (1) The portion of subsection 4(1) of the Special Economic Measures Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. (1) Le paragraphe 4(1) de la Loi sur les mesures économiques spéciales est remplacé par ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Orders and regulations
+
+
+
+4. (1) The Governor in Council may, if he or she is satisfied, based on reliable and appropriate evidence, that the circumstances described in subsection (1.1) have occurred,
+
+
+
+
+
+
+
+
+
+4. (1) S’il est convaincu, sur le fondement d’éléments de preuve dignes de foi, que les faits prévus au paragraphe (1.1) se sont produits, le gouverneur en conseil peut prendre les décrets et règlements qu’il estime nécessaires concernant la restriction ou l’interdiction, à l’égard d’un État étranger, des activités énumérées au paragraphe (2). Il peut aussi, par décret, saisir, bloquer ou mettre sous séquestre, de la façon prévue par le décret, tout bien situé au Canada et détenu par un État étranger, une personne qui s’y trouve, un de ses nationaux qui ne réside pas habituellement au Canada ou en leur nom.
+
+
+
+Décrets et règlements
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 4 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(2) L’article 4 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Circumstances
+
+
+
+(1.1) The circumstances referred to in subsection (1) are the following:
+
+
+
+
+
+
+
+
+(a) the implementation of a decision, resolution or recommendation of an international organization of states or association of states, of which Canada is a member, that calls on its members to take economic measures against a foreign state;
+
+
+
+
+
+
+
+
+(b) in the Governor in Council's opinion, a grave breach of international peace and security has occurred that has resulted or is likely to result in a serious international crisis; 
+
+
+
+
+
+
+
+
+(c) a foreign state is responsible for extrajudicial killings, torture or other gross violations of internationally recognized human rights committed against individuals in any foreign country who seek
+
+
+
+
+
+
+
+
+(i) to expose illegal activity carried out by government officials, or
+
+
+
+
+
+
+
+
+(ii) to obtain, exercise, defend or promote internationally recognized human rights and freedoms, such as the freedoms of religion, expression, association and assembly, and the rights to a fair trial and democratic elections;
+
+
+
+
+
+
+
+
+(d) a person acts as an agent or on behalf of a foreign state in a matter relating to an activity described in paragraph (c);
+
+
+
+
+
+
+
+
+(e) a government official of a foreign state, or a senior associate of such an official, is responsible for, or complicit in, ordering, controlling, or otherwise directing, acts of significant corruption, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; or
+
+
+
+
+
+
+
+
+(f) a foreign state has materially assisted, sponsored, or provided financial, material or technological support for, or goods or services in support of, an activity described in paragraph (e).
+
+
+
+
+
+
+
+
+
+(1.1) Sont visés au paragraphe (1) les faits suivants :
+
+
+
+Faits
+
+
+
+
+a) la mise en oeuvre d’une décision, d’une résolution ou d’une recommandation d’une organisation internationale d’États ou d’une association d’États, dont le Canada est membre, incitant ses membres à prendre des mesures économiques contre un État étranger;
+
+
+
+
+
+
+
+
+b) le gouverneur en conseil juge qu’une rupture sérieuse de la paix et de la sécurité internationales est susceptible d’entraîner ou a entraîné une grave crise internationale;
+
+
+
+
+
+
+
+
+c) l’État étranger est responsable de meurtres extrajudiciaires, de torture ou d’autres violations graves de droits de la personne reconnus à l'échelle internationale contre des personnes qui se trouvent à l’extérieur du Canada et qui tentent, selon le cas :
+
+
+
+
+
+
+
+
+(i) de dénoncer des activités illégales commises par des dirigeants du gouvernement,
+
+
+
+
+
+
+
+
+(ii) d’obtenir, d’exercer, de défendre ou de promouvoir des droits de la personne et des libertés reconnus à l'échelle internationale, notamment les libertés de religion, d’expression, d’association et de réunion et les droits à un procès équitable et à des élections démocratiques;
+
+
+
+
+
+
+
+
+d) une personne, sur mandat ou au nom de l’État étranger, est impliquée dans une activité visée à l’alinéa c); 
+
+
+
+
+
+
+
+
+e) un dirigeant du gouvernement d’un État étranger ou l’adjoint principal d’un tel dirigeant est responsable ou complice d’avoir ordonné, supervisé ou dirigé d’une façon quelconque des actes de corruption à grande échelle, notamment l’expropriation de biens publics ou privés pour son propre bénéfice, la corruption visant des marchés publics ou l’extraction de ressources naturelles, le versement de pots-de-vin ou le transfert ou la facilitation du transfert de produits de la corruption à l’extérieur du pays;
+
+
+
+
+
+
+
+
+f) l’État étranger a substantiellement appuyé ou parrainé une activité visée à l’alinéa e) ou y a activement participé en fournissant de l’aide financière ou matérielle, du soutien technologique ou des biens ou services.
+
+
+
+
+
+
+
+
+
+
+
+
+2001, c. 27
+
+
+
+Immigration and Refugee Protection Act
+
+
+
+
+
+
+
+
+
+Loi sur l’immigration et la protection des réfugiés
+
+
+
+2001, ch. 27
+
+
+
+
+
+
+
+
+
+
+
+
+4. Subsection 35(1) of the Immigration and Refugee Protection Act is amended by striking out “or” at the end of paragraph (b), by adding “or” at the end of paragraph (c) and by adding the following after paragraph (c):
+
+
+
+
+
+
+
+
+
+4. Le paragraphe 35(1) de la Loi sur l’immigration et la protection des réfugiés est modifié par adjonction, après l’alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) engaging in or instigating an act described in paragraphs 4(1.1)(c) to (e) of the Special Economic Measures Act; or
+
+
+
+
+
+
+(e) being a foreign national who is subject to an order or regulation made under section 4 of the Global Human Rights Accountability Act.
+
+
+
+
+
+
+
+
+
+d) être l’instigateur d'activités prévues aux alinéas 4(1.1)c) à e) de la Loi sur les mesures économiques spéciales ou participer à de telles activités; 
+
+
+
+
+
+
+e) être un étranger visé par un décret ou règlement pris en vertu de l’article 4 de la Loi sur la responsabilisation mondiale pour les violations des droits de la personne.
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

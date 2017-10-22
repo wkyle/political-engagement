@@ -1,0 +1,607 @@
+
+
+
+
+
+C-492
+
+
+
+
+
+C-492
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-492
+
+
+
+
+
+PROJET DE LOI C-492
+
+
+
+
+
+
+An Act to amend the Immigration and Refugee Protection Regulations (denial of temporary resident visa application)
+
+
+
+
+
+Loi visant à modifier le Règlement sur l'immigration et la protection des réfugiés (refus des demandes de visa de résident temporaire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, December 9, 2009
+
+première lecture le 9 décembre 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+3rd Session, 40th Parliament
+
+This bill was introduced during the Second Session of the 40th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the Second Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+3e session, 40e législature
+
+Le présent projet de loi a été présenté lors de la deuxième session de la 40e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la deuxième session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+Ms. Chow
+
+402412
+
+
+
+Mme Chow
+
+
+
+
+
+SUMMARY
+This enactment requires the Governor in Council to amend the Immigration and Refugee Protection Regulations to require that a person whose application for a temporary resident visa (visitor class) has been denied be allowed to receive detailed reasons for the refusal, to have a subsequent application heard by a different officer and to resubmit the application without having to pay a fee.
+
+
+
+SOMMAIRE
+Le texte oblige le gouverneur en conseil à modifier le Règlement sur l’immigration et la protection des réfugiés afin d’exiger que toute personne qui se voit refuser une demande de visa de résident temporaire au titre de la catégorie des visiteurs reçoive communication des motifs détaillés du refus, que toute nouvelle demande qu’elle présente soit examinée par un autre agent et qu’elle soit dispensée du paiement des frais d’examen pour celle-ci.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-492
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-492
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Immigration and Refugee Protection Regulations (denial of temporary resident visa application)
+
+
+
+
+
+
+
+
+
+Loi visant à modifier le Règlement sur l'immigration et la protection des réfugiés (refus des demandes de visa de résident temporaire)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Temporary Resident Visa Processing Requirements Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur les exigences visant le traitement des demandes de visa de résidents temporaires.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+SOR/2002-227
+
+
+
+IMMIGRATION AND REFUGEE PROTECTION REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENT SUR L'IMMIGRATION ET LA PROTECTION DES RÉFUGIÉS
+
+
+
+DORS/2002-227
+
+
+
+
+
+
+
+
+
+
+Amendments to Regulations
+
+
+
+2. Within one year of the coming into force of this Act, the Governor in Council shall amend the Immigration and Refugee Protection Regulations to require that
+
+
+
+
+
+
+
+
+(a) an officer who denies an application for a temporary resident visa (visitor class) provide sufficiently detailed reasons for the decision in order to allow the person whose application has been denied to make the necessary adjustments to a subsequent application, where possible;
+
+
+
+
+
+
+
+
+(b) the application of a person whose application for a temporary resident visa (visitor class) has been denied and who resubmits the application within one year be considered by:
+
+
+
+
+
+
+
+
+(i) an officer other than the officer that denied the previous application,
+
+
+
+
+
+
+
+
+(ii) two or more officers who were not involved in the previous determination, or
+
+
+
+
+
+
+
+
+(iii) a more senior officer who was not involved in the previous determination; and
+
+
+
+
+
+
+
+
+(c) a person whose application for a tempo- rary resident visa (visitor class) has been denied and who resubmits the application within one year be exempt pursuant to subsection 296(2) or 297(1.1) from the payment of a fee referred to in subsection 296(1) or 297(1) respectively.
+
+
+
+
+
+
+
+
+
+2. Dans l’année qui suit l’entrée en vigueur de la présente loi, le gouverneur en conseil modifie le Règlement sur l’immigration et la protection des réfugiés pour exiger que :
+
+
+
+Modification du règlement
+
+
+
+
+a) l’agent qui refuse une demande de visa de résident temporaire au titre de la catégorie des visiteurs communique au demandeur les motifs de sa décision avec suffisamment de détails pour permettre à celui-ci d’apporter les rectifications nécessaires avant de présenter une nouvelle demande, dans la mesure du possible;
+
+
+
+
+
+
+
+
+b) l’examen de la nouvelle demande de la personne qui s’est vu refuser une demande de visa de résident temporaire au titre de la catégorie des visiteurs, qu’elle présente dans un délai d’un an suivant le refus, soit effectué, selon le cas :
+
+
+
+
+
+
+
+
+(i) par un agent autre que celui ayant refusé la demande précédente,
+
+
+
+
+
+
+
+
+(ii) par deux ou plusieurs agents n’ayant pas participé à la décision de refus précédente,
+
+
+
+
+
+
+
+
+(iii) par un agent d’un niveau plus élevé n’ayant pas participé à la décision de refus précédente;
+
+
+
+
+
+
+
+
+c) la personne qui s’est vu refuser une demande de visa de résident temporaire au titre de la catégorie des visiteurs et qui en présente une nouvelle dans un délai d’un an suivant le refus soit dispensée, aux termes des paragraphes 296(2) ou 297(1.1), d’acquitter les frais visés aux paragraphes 296(1) et 297(1) respectivement.
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

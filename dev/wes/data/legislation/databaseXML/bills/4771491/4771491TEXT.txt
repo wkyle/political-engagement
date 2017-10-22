@@ -1,0 +1,960 @@
+
+
+
+
+
+S-2
+
+
+
+
+
+S-2
+
+
+
+
+
+
+Second Session, Thirty-sixth Parliament,
+
+
+
+
+
+Deuxième session, trente-sixième législature,
+
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-2
+
+
+
+
+
+PROJET DE LOI S-2
+
+
+
+
+
+
+An Act to facilitate the making of legitimate medical decisions regarding life-sustaining treatments and the controlling of pain
+
+
+
+
+
+Loi facilitant la prise de décisions médicales légitimes relativement aux traitements de survie et au traitement de la douleur
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, October 13, 1999
+
+première lecture le 13 octobre 1999
+
+
+
+
+
+
+
+
+
+
+
+
+The Honourable Senator Carstairs
+
+2491
+
+
+
+L’honorable sénateur Carstairs
+
+
+
+
+
+Summary
+This enactment clarifies the law by protecting from criminal liability health care providers who act in accordance with their patients’ wishes in the areas of life-sustaining medical treatment and the alleviation of physical pain.
+The enactment also provides that the Minister of Health may, in cooperation with provincial authorities and associations of health care professionals, establish national guidelines in the areas of life-sustaining medical treatment, the controlling of pain and palliative care.  The Minister of Health may also promote and encourage public education regarding controlling pain and increasing the training of health care professionals in this area and in the area of palliative care.
+
+
+
+Sommaire
+Ce texte, en précisant le droit, protège contre toute responsabilité pénale les soignants qui respectent les souhaits de leurs patients concernant les traitements de survie et le soulagement des souffrances physiques.
+Le texte prévoit également que le ministre de la Santé peut, en collaboration avec les autorités provinciales et les associations des professionnels de la santé, établir des lignes directrices nationales relativement aux traitements de survie, au traitement de la douleur et aux soins palliatifs. Le ministre de la Santé peut également promouvoir et encourager l’éducation du grand public concernant le traitement de la douleur et améliorer la formation des professionnels de la santé en ce qui concerne le traitement de la douleur et les soins palliatifs.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 36th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 36e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+
+
+
+
+48 Elizabeth II, 1999
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-2
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to facilitate the making of legitimate medical decisions regarding life-sustaining treatments and the controlling of pain
+
+
+
+
+
+
+
+
+
+Loi facilitant la prise de décisions médicales légitimes relativement aux traitements de survie et au traitement de la douleur
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+WHEREAS the Special Senate Committee on Euthanasia and Assisted Suicide, appointed on February 23, 1994, addressed in its proceedings the medical practices of the withholding and withdrawal of life-sustaining treatment and the provision of treatment to alleviate suffering that might result in the shortening of life;
+
+
+
+
+
+
+
+
+AND WHEREAS, in its report entitled Of Life and Death, dated June 6, 1995, the Committee recognized the existence of uncertainty within the medical profession and public of Canada regarding the legal consequences of these medical practices;
+
+
+
+
+
+
+
+
+AND WHEREAS the Committee unanimously recommended that the Criminal Code be amended to allow health care providers to carry out these medical practices in certain cases without the fear of incurring criminal liability in order to ensure that the wishes of patients are honoured and respected;
+
+
+
+
+
+
+
+
+AND WHEREAS the Committee unanimously recommended that the department of Government responsible for the protection and promotion of the health of Canadians, in cooperation with the provincial authorities and associations of health care professionals, establish guidelines regarding these medical practices;
+
+
+
+
+
+
+
+
+AND WHEREAS the Committee unanimously recommended increased public education and improved training of health care professionals in respect of these medical practices;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que le Comité sénatorial spécial sur l’euthanasie et l’aide au suicide, constitué le 23 février 1994, a délibéré sur les actes médicaux comportant l’abstention et l’interruption des traitements de survie, ainsi que sur ceux qui, visant à soulager la souffrance, risquent de causer l’abrègement de la vie;
+
+
+
+
+
+
+
+
+que, dans son rapport intitulé De la vie et de la mort et daté du 6 juin 1995, le Comité a constaté l’existence d’incertitudes au sein du corps médical et du grand public sur les conséquences juridiques de tels actes;
+
+
+
+
+
+
+
+
+qu’il a recommandé à l’unanimité une modification du Code criminel qui permette aux soignants d’accomplir ces actes dans certains cas sans crainte de responsabilité pénale, de sorte que les souhaits du patient soient respectés;
+
+
+
+
+
+
+
+
+qu’il a recommandé à l’unanimité que le ministère gouvernemental responsable de la protection et de la promotion de la santé des Canadiens établisse, en collaboration avec les autorités provinciales et les associations des professionnels de la santé, des lignes directrices concernant ces actes médicaux;
+
+
+
+
+
+
+
+
+qu’il a recommandé à l’unanimité que le grand public soit mieux informé et que la formation des professionnels de la santé soit améliorée relativement à ces actes médicaux,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Medical Decisions Facilitation Act.
+
+
+
+
+
+
+
+
+
+1. Titre abrégé : Loi facilitant la prise de certaines décisions médicales.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+No offence committed for pain control
+
+
+
+2. No health care provider is guilty of an offence under the Criminal Code by reason only that  the health care provider, for the purpose of alleviating the physical pain of a person but not to cause death, administers medication to that person in dosages that might shorten the life of the person.
+
+
+
+
+
+
+
+
+
+2. Le soignant n’est pas coupable d’une infraction prévue par le Code criminel du seul fait qu’il administre au patient, afin de soulager ses souffrances physiques — et non pour lui causer la mort — , des médicaments en doses susceptibles d’abréger sa vie.
+
+
+
+Non-culpabilité en cas de traitement de la douleur
+
+
+
+
+
+
+
+
+
+
+No offence committed for withholding or withdrawing treatment
+
+
+
+3. (1) No health care provider is guilty of an offence under the Criminal Code by reason only that the health care provider withholds or withdraws life-sustaining medical treatment from a person who has made a request within the meaning of subsection (2) that the treatment be withheld or withdrawn.
+
+
+
+
+
+
+
+
+
+3. (1) Le soignant n’est pas coupable d’une infraction prévue par le Code criminel du seul fait qu’à la demande, au sens du paragraphe (2), du patient, il s’abstient de lui administrer un traitement de survie ou en interrompt l’administration.
+
+
+
+Non-culpabilité en cas d’abstention ou d’interruption de traitement
+
+
+
+
+
+
+
+
+
+
+Form of request
+
+
+
+(2) A request has been made for the purposes of this section
+
+
+
+
+
+
+
+
+(a) when the person has, under the laws of a province, made a valid written directive that would in the relevant circumstances direct that life-sustaining medical treatment be withheld or withdrawn in the case of that person, or
+
+
+
+
+
+
+
+
+(b) if there is no such valid written directive, when the person has, while competent, made in the presence of at least one witness who is not a health care provider a free and informed request, in writing or by words or signs, that the treatment be withheld or withdrawn.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application du présent article, la demande est formée dans les cas suivants :
+
+
+
+Forme de la demande
+
+
+
+
+a) l’intéressé a, conformément aux lois d’une province, donné des instructions écrites prévoyant, dans des circonstances déterminées, l’abstention ou l’interruption de tout traitement de survie sur sa personne;
+
+
+
+
+
+
+
+
+b) à défaut de telles instructions, il a fait une demande libre et éclairée d’abstention ou d’interruption du traitement, pendant qu’il en était capable, soit par écrit, soit verbalement, soit par signes, en présence d’au moins un témoin qui n’est pas un soignant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Substitute request
+
+
+
+(3) Where a person who is not competent and did not while competent make a request as described in subsection (2), the request may be made
+
+
+
+
+
+
+
+
+(a) by a proxy appointed under the laws of a province to make health care decisions on the person’s behalf,
+
+
+
+
+
+
+
+
+(b) if no proxy has been appointed, by a legal representative  having the authority to make health care decisions on behalf of the person, or
+
+
+
+
+
+
+
+
+(c) if there is no proxy and no legal representative, by the spouse, companion or relative who is most intimately associated with the person.
+
+
+
+
+
+
+
+
+
+(3) Si l’intéressé n’a pas la capacité et si, pendant qu’il en était capable, il n’a pas fait la demande visée au paragraphe (2), celle-ci peut être faite :
+
+
+
+Mandat
+
+
+
+
+a) par le mandataire chargé, conformément aux lois d’une province, de prendre en son nom des décisions en matière de soins de santé;
+
+
+
+
+
+
+
+
+b) à défaut, par son représentant légal ayant le pouvoir de prendre en son nom des décisions en matière de soins de santé;
+
+
+
+
+
+
+
+
+c) à défaut encore, par son conjoint, son compagnon ou le parent qui est le plus intimement lié à lui.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+4. The definitions in this section apply in this Act.
+
+
+
+
+“competent”« capable » ou « capacité »
+
+
+
+“competent”, in respect of a person, means a person of sound mind who
+
+
+
+
+
+
+
+
+(a) is capable of understanding the nature and consequences of the health care decision to be made, and
+
+
+
+
+
+
+
+
+(b) is capable of communicating the health care decision to be made.
+
+
+
+
+“free and informed request”« demande libre et éclairée »
+
+
+
+“free and informed request” ” means a request respecting the withholding and withdrawal of life–sustaining medical treatment, made voluntarily, without coercion, duress, fraud, mistake or misrepresentation and with a knowledge and an understanding of the condition, its prognosis, the alternative courses of action and the foreseeable consequences of the request.
+
+
+
+
+“health care provider”« soignant »
+
+
+
+“health care provider” means
+
+
+
+
+
+
+
+
+(a) a person duly qualified under the laws of a province to practice medicine who has the responsibility for the medical treatment and care of the person for whom treatment is being considered, or
+
+
+
+
+
+
+
+
+(b) any nurse or other person working, in the particular case, under the direction and instruction of a medical practitioner described in paragraph (a).
+
+
+
+
+“life-sustaining medical treatment”« traitement de survie »
+
+
+
+“life-sustaining medical treatment” means any medical or surgical procedure or intervention to sustain, restore or supplant a vital function in order to postpone death and, for the avoidance of doubt, includes  artificial hydration and nutrition.
+
+
+
+
+
+
+
+
+
+4. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« capable » ou « capacité » Qualifie la personne saine d’esprit qui est en mesure de comprendre la nature et les conséquences de la décision à prendre en matière de soins de santé et de communiquer la décision.
+
+
+
+« capable » ou « capacité »“competent”
+
+
+
+
+« demande libre et éclairée » Demande faite, relativement à l’abstention ou à l’interruption d’un traitement de survie, volontairement, sans coercition, contrainte, fraude, erreur ni fausse déclaration et en toute connaissance de l’état du patient, du pronostic, des mesures de substitution possibles et des conséquences prévisibles de la demande.
+
+
+
+« demande libre et éclairée »“free and informed request”
+
+
+
+
+« soignant »
+
+
+
+« soignant »“health care provider”
+
+
+
+
+a) Praticien habilité à exercer la médecine sous le régime des lois d’une province et ayant la responsabilité du traitement et des soins médicaux à administrer dans le cas considéré;
+
+
+
+
+
+
+
+
+b) infirmier ou autre personne travaillant, dans le même cas, sous la direction et sur les instructions d’un tel praticien.
+
+
+
+
+
+
+
+
+« traitement de survie » Ensemble d’actes médicaux ou chirurgicaux destinés à maintenir, rétablir ou remplacer une fonction vitale en vue de retarder la mort. Y sont assimilées l’hydratation et l’alimentation artificielles.
+
+
+
+« traitement de survie »“life-sustaining medical treatment”
+
+
+
+
+
+
+
+
+
+
+No new obligations imposed
+
+
+
+5. Nothing in this Act imposes any legal duty to provide medical treatment.
+
+
+
+
+
+
+
+
+
+5. La présente loi n’a pas pour effet d’imposer l’obligation légale d’administrer un traitement médical.
+
+
+
+Absence d’obligation nouvelle
+
+
+
+
+
+
+
+
+
+
+Guidelines, education and research
+
+
+
+6. For the purposes of the Department of Health Act, the mandate of the Minister of Health to promote and preserve the health of the people of Canada includes
+
+
+
+
+
+
+
+
+(a) coordinating, with provincial authorities and associations of health care professionals, the establishment of national guidelines for the withholding and withdrawal of life-sustaining medical treatments, for the controlling of pain, and for palliative care,
+
+
+
+
+
+
+
+
+(b) promoting and encouraging public education regarding the controlling of pain by medical means and increasing the training of health care professionals in controlling pain and in palliative care, and
+
+
+
+
+
+
+
+
+(c) investigating, researching and monitoring the frequency with which, and the conditions under which, after the commencement of this Act, life-sustaining medical treatment is withheld or withdrawn.
+
+
+
+
+
+
+
+
+
+6. Pour l’application de la Loi sur le ministère de la Santé, les attributions du ministre de la Santé, consistant à promouvoir et à maintenir la santé de la population du Canada, comprennent notamment celles consistant :
+
+
+
+Lignes directrices, éducation et recherche
+
+
+
+
+a) à coordonner, en collaboration avec les autorités provinciales et les associations des professionnels de la santé, l’établissement de lignes directrices nationales relativement à l’abstention et à l’interruption des traitements de survie, au traitement de la douleur et aux soins palliatifs;
+
+
+
+
+
+
+
+
+b) à promouvoir et à encourager l’éducation du grand public concernant le traitement de la douleur par des moyens médicaux et à améliorer la formation des professionnels de la santé en ce qui concerne le traitement de la douleur et les soins palliatifs;
+
+
+
+
+
+
+
+
+c) après l’entrée en vigueur de la présente loi, à surveiller le nombre de fois qu’il y a eu abstention ou interruption des traitements de survie et à mener des enquêtes et à faire des recherches à cet effet.
+
+
+
+
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

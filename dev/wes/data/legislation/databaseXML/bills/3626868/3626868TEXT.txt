@@ -1,0 +1,1612 @@
+
+
+
+
+
+C-373
+
+
+
+
+
+C-373
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-373
+
+
+
+
+
+PROJET DE LOI C-373
+
+
+
+
+
+
+An Act to establish criteria and conditions in respect of  funding for early learning and child care programs in order to ensure the quality, accessibility, universality and accountability of those programs, and to appoint a council to advise the Minister of Human Resources and Skills Development on matters relating to early learning and child care
+
+
+
+
+
+Loi prévoyant les critères et les conditions de l’octroi de fonds pour les programmes d’apprentissage et de garde des jeunes enfants afin d’en assurer la qualité, l’accessibilité, l’universalité et la reddition de comptes, et établissant un conseil chargé de conseiller le ministre des Ressources humaines et du Développement des compétences sur les questions relatives aux services d’apprentissage et de garde des jeunes enfants
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, April 29, 2009
+
+première lecture le 29 avril 2009
+
+
+
+
+
+
+
+
+
+
+
+
+Ms. Chow
+
+402023
+
+
+
+Mme Chow
+
+
+
+
+
+SUMMARY
+This enactment establishes criteria and conditions in respect of early learning and child care programs that must be observed before payments are made by the Government of Canada to a province, territory or aboriginal peoples' organization in support of such a program. It also provides for the appointment of a council to advise the Minister of Human Resources and Skills Development on matters relating to early learning and child care.
+
+
+
+SOMMAIRE
+Le texte établit les conditions et les critères auxquels les programmes d’apprentissage et de garde des jeunes enfants doivent satisfaire avant que le gouvernement du Canada ne verse un paiement à une province, un territoire ou à une organisation autochtone à l’égard de ces programmes. Il établit également un conseil chargé de conseiller le ministre des Ressources humaines et du Développement des compétences sur les questions relatives à l'apprentissage et la garde des jeunes enfants.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-373
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-373
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to establish criteria and conditions in respect of  funding for early learning and child care programs in order to ensure the quality, accessibility, universality and accountability of those programs, and to appoint a council to advise the Minister of Human Resources and Skills Development on matters relating to early learning and child care
+
+
+
+
+
+
+
+
+
+Loi prévoyant les critères et les conditions de l’octroi de fonds pour les programmes d’apprentissage et de garde des jeunes enfants afin d’en assurer la qualité, l’accessibilité, l’universalité et la reddition de comptes, et établissant un conseil chargé de conseiller le ministre des Ressources humaines et du Développement des compétences sur les questions relatives aux services d’apprentissage et de garde des jeunes enfants
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas the primary objective of Canadian child care policy is to promote early childhood development and well-being and support the participation of parents in employment or training and community life by providing accessible, universal  and high-quality early learning and child care programs and services;
+
+
+
+
+
+
+
+
+
+Attendu : 
+
+
+
+Préambule
+
+
+
+
+que les principaux objectifs de la politique canadienne en matière de garde des jeunes enfants sont de promouvoir le développement et le bien-être de la petite enfance et d’appuyer la participation des parents au marché du travail, à la formation et à la vie communautaire en offrant des programmes et des services accessibles, universels et de grande qualité pour l’apprentissage et la garde des jeunes enfants,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Early Learning and Child Care Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur l’apprentissage et la garde des jeunes enfants.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“aboriginal peoples' organization”« organisation autochtone »
+
+
+
+“aboriginal peoples' organization” means an organization of First Nations Band Governments, Inuit or Métis people.
+
+
+
+
+“child care transfer payment”« paiement de transfert relatif à la garde des jeunes enfants »
+
+
+
+“child care transfer payment” means a cash contribution or financial transfer in respect of an early learning and child care program that may be provided under an Act of Parliament to a province, territory or aboriginal peoples’ organ- ization.
+
+
+
+
+“early learning and child care program”« programme d'apprentissage et de garde des jeunes enfants »
+
+
+
+“early learning and child care program” means a program established by and regulated under the law of a  province or territory to provide publicly-funded early learning and child care services.
+
+
+
+
+“early learning and child care service”« service d'apprentissage et de garde des jeunes enfants »
+
+
+
+“early learning and child care service” means a service provided under the early learning and child care program of a province, territory or aboriginal peoples’ organization by an individ- ual or an agency, organization or government body, such as a full or part-day child care centre, nursery school, preschool, parent support program, child drop-in program or family child care service.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Human Resources and Skills Development.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s'appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« ministre » Le ministre des Ressources humaines et du Développement des compétences.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« organisation autochtone » Organisation des Inuits, des Métis ou d'un gouvernement de bande des Premières Nations.
+
+
+
+« organisation autochtone »“aboriginal peoples' organization”
+
+
+
+
+« paiement de transfert relatif à la garde des jeunes enfants » Contribution financière ou transfert financier pour un programme d’apprentissage et de garde d’enfants qui peut être versée à une province, un territoire ou une organisation autochtone en vertu d’une loi fédérale.
+
+
+
+« paiement de transfert relatif à la garde des jeunes enfants »“child care transfer payment”
+
+
+
+
+« programme d’apprentissage et de garde des jeunes enfants » Programme établi et réglementé par les lois d’une province ou d'un territoire et qui offre des services — financés par les fonds publics —   d’apprentissage et de garde des jeunes enfants.
+
+
+
+« programme d’apprentissage et de garde des jeunes enfants »“early learning and child care program”
+
+
+
+
+« service d’apprentissage et de garde des jeunes enfants » Service fourni dans le cadre du programme d’apprentissage et de garde des jeunes enfants d'une province, d'un territoire ou d'une organisation autochtone par une personne physique, une agence, un organisme ou une entité gouvernementale, notamment une garderie de journée complète ou de mi-journée, une garderie éducative, un centre préscolaire, un programme de soutien pour parents, une halte-garderie ou un service de garde en milieu familial.
+
+
+
+« service d’apprentissage et de garde des jeunes enfants »“early learning and child care service”
+
+
+
+
+
+
+
+
+
+
+PURPOSE
+
+
+
+
+
+
+
+
+
+OBJET
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+3. The purpose of this Act is to establish criteria and conditions that must be met before a child care transfer payment may be made in support of the early learning and child care program of a province, territory or aboriginal peoples’ organization.
+
+
+
+
+
+
+
+
+
+3. La présente loi a pour objet d’établir les conditions et les critères qui doivent être respectés avant qu’un paiement de transfert relatif à la garde des jeunes enfants ne soit versé en vue de soutenir le programme d’apprentissage et de garde des jeunes enfants d’une province, d'un territoire ou d'une organisation autochtone.
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+EXEMPTION
+
+
+
+
+
+
+
+
+
+EXEMPTION
+
+
+
+
+
+
+
+
+
+
+
+
+Exemption
+
+
+
+4. Recognizing the unique nature of the jurisdiction of the Government of Quebec with regard to the education and development of children in Quebec society, and notwithstanding any other provision of this Act, the Government of Quebec may choose to be exempted from the application of this Act and, notwithstanding any such decision, shall receive the full transfer payment that would otherwise be paid under section 5. 
+
+
+
+
+
+
+
+
+
+4. Compte tenu de la nature spéciale et unique de la compétence du gouvernement du Québec en matière d’éducation et de développement des enfants de la société québécoise et par dérogation aux autres dispositions de la présente loi, le gouvernement du Québec peut choisir de se soustraire à l’application de la présente loi et doit, s’il choisit de le faire, recevoir le paiement de transfert complet auquel il aurait droit en vertu de l’article 5.
+
+
+
+Exemption
+
+
+
+
+
+
+
+
+
+
+CHILD CARE TRANSFER PAYMENTS
+
+
+
+
+
+
+
+
+
+PAIEMENTS DE TRANSFERT RELATIFS À  LA GARDE DES JEUNES ENFANTS
+
+
+
+
+
+
+
+
+
+
+
+
+Child care transfer 
+
+
+
+5. (1) The Minister of Finance may make a child care transfer payment directly to a province, territory or aboriginal peoples’ organ- ization in each fiscal year to support the early learning and child care program of the province, territory or aboriginal peoples’ organization if
+
+
+
+
+
+
+
+
+(a) the operator of the program is account-able to the government of the province or territory or to the aboriginal peoples’ organization for the administration and operation of the program;
+
+
+
+
+
+
+
+
+(b) the program provides early learning and child care services that meet the requirements set out in section 6 and establishes a plan for providing comprehensive early learning and child care services that are of a high quality, universal and accessible; and
+
+
+
+
+
+
+
+
+(c) the government of the province or territory has developed, in collaboration with the Government of Canada and national aboriginal organizations representing the First Nations, Inuit and Métis peoples, an action plan for meeting the early learning and child care needs of First Nations, Inuit and Métis children.
+
+
+
+
+
+
+
+
+
+5. (1) Le ministre des Finances peut verser directement à une province, à un territoire ou à une organisation autochtone, à chaque exercice, un paiement de transfert relatif à la garde des jeunes enfants en vue de soutenir le programme d’apprentissage et de garde des jeunes enfants de cette province, de ce territoire ou de cette organisation autochtone si, à la fois :
+
+
+
+Transferts pour les services de garde des jeunes enfants
+
+
+
+
+a) l’exploitant du programme rend compte au gouvernement provincial ou territorial ou à l'organisation autochtone de la gestion et de l'exploitation de ce programme;
+
+
+
+
+
+
+
+
+b) le programme offre des services d’apprentissage et de garde des jeunes enfants qui satisfont aux exigences de l’article 6 et prévoit un plan pour la fourniture de services complets d’apprentissage et de garde des jeunes enfants qui sont de grande qualité, universels et accessibles;
+
+
+
+
+
+
+
+
+c) le gouvernement provincial ou territorial a élaboré, en collaboration avec le gouvernement du Canada et les organisations autochtones nationales représentant les Inuits, les Métis et les Premières Nations, un plan d'action pour satisfaire aux besoins d’apprentissage et de garde des jeunes enfants Inuits, Métis et des Premières Nations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accountability
+
+
+
+(2) In order to satisfy the criterion relating to accountability, the early learning and child care program of a province, territory or aboriginal peoples’ organization must be directly administered by the government of the province or territory, by the aboriginal peoples’ organization or by an institution that is operated on a not-for-profit basis and that
+
+
+
+
+
+
+
+
+(a) is appointed or designated by the government of the province or territory or by the aboriginal peoples’ organization;
+
+
+
+
+
+
+
+
+(b) reports to that government or organization in respect of the administration and operation of the program; and
+
+
+
+
+
+
+
+
+(c) is subject to a public audit of its accounts and financial transactions by the authority that is responsible under provincial or territorial law for auditing the accounts of that government or organization.
+
+
+
+
+
+
+
+
+
+(2) Pour répondre au critère de reddition de comptes, le programme d’apprentissage et de garde des jeunes enfants d'une province, d'un territoire ou d'une organisation autochtone doit être administré et exploité par le gouvernement de la province ou du territoire, par l'organisation autochtone ou par un organisme à but non lucratif qui, à la fois :
+
+
+
+Reddition de comptes
+
+
+
+
+a) est nommé ou désigné par le gouvernement provincial ou territorial ou par l'organisation autochtone;
+
+
+
+
+
+
+
+
+b) rend compte à ce gouvernement ou à cette organisation de l’administration et de l’exploitation du programme;
+
+
+
+
+
+
+
+
+c) est assujetti à une vérification publique de ses comptes et opérations financières, effectuée par l’autorité chargée, selon les lois provinciales ou territoriales, de vérifier les comptes de ce gouvernement ou de cette organisation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quality
+
+
+
+(3) In order to satisfy the criterion relating to quality, the early learning and child care program of a province, territory or aboriginal peoples’ organization must establish
+
+
+
+
+
+
+
+
+(a) standards that specify the professional qualifications and certification required of persons employed in early learning and child care services and that provide for the recruitment, training, support, compensation and retention of those persons;
+
+
+
+
+
+
+
+
+(b) standards that relate to the environment in which early learning and child care services are provided, including standards that
+
+
+
+
+
+
+
+
+(i) specify child-to-caregiver ratios and restrictions on group size, and
+
+
+
+
+
+
+
+
+(ii) protect the health and ensure the safety of children and employees;
+
+
+
+
+
+
+
+
+(c) standards that ensure that early learning and child care services support the cognitive, emotional and social development of children; and
+
+
+
+
+
+
+
+
+(d) with respect to the provision of child care services in First Nations, Inuit and Métis communities, standards that reflect the unique values and traditions of those communities.
+
+
+
+
+
+
+
+
+
+(3) Pour répondre au critère de qualité, le programme d’apprentissage et de garde des jeunes enfants d'une province, d'un territoire ou d'une organisation autochtone doit établir des normes qui, à la fois :
+
+
+
+Qualité
+
+
+
+
+a) précisent les titres et qualités professionnels et d’agrément que doivent posséder les personnes oeuvrant dans les services d’apprentissage et de garde des jeunes enfants et prévoient le recrutement, la formation, le soutien, la rémunération et la rétention de ces personnes;
+
+
+
+
+
+
+
+
+b) portent sur le milieu où les services d’apprentissage et de garde des jeunes enfants sont offerts, notamment pour :
+
+
+
+
+
+
+
+
+(i) fixer le ratio enfants-éducateurs et les restrictions applicables à la taille des groupes,
+
+
+
+
+
+
+
+
+(ii) protéger la santé et assurer  la sécurité des enfants et des employés;
+
+
+
+
+
+
+
+
+c) assurent que les services d'apprentissage et de garde des jeunes enfants favorisent le développement cognitif, affectif et social des enfants;
+
+
+
+
+
+
+
+
+d) dans le cas de la fourniture de services de garde de jeunes enfants aux collectivités Inuites, Métis et des Premières Nations, reflètent les valeurs et traditions uniques de ces collectivités.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Universality
+
+
+
+(4) In order to satisfy the criterion relating to universality, the early learning and child care program of a province or territory must ensure that all children resident in the province or territory are equally entitled to early learning and child care services that are appropriate to their needs.
+
+
+
+
+
+
+
+
+
+(4) Pour répondre au critère d’universalité, le programme d’apprentissage et de garde des jeunes enfants d’une province ou d'un territoire doit garantir que tous les enfants qui résident dans la province ou le territoire ont également droit à des services d’apprentissage et de garde des jeunes enfants qui répondent à leurs besoins.
+
+
+
+Universalité 
+
+
+
+
+
+
+
+
+
+
+Accessibility
+
+
+
+(5) In order to satisfy the criterion relating to accessibility, the early learning and child care program of a province, territory or aboriginal peoples’ organization must ensure that
+
+
+
+
+
+
+
+
+(a) early learning and child care services are provided on terms and conditions that ensure reasonable access to those services by any child, including children with special needs; and
+
+
+
+
+
+
+
+
+(b) payment for early learning and child care services is required in accordance with a tariff or system of payment authorized under the applicable provincial or territorial law.
+
+
+
+
+
+
+
+
+
+(5) Pour répondre au critère d’accessibilité, le programme d’apprentissage et de garde des jeunes enfants d’une province, d'un territoire ou d'une organisation autochtone doit faire en sorte :
+
+
+
+Accessibilité
+
+
+
+
+a) que les services d’apprentissage et de garde des jeunes enfants soient fournis selon des modalités qui en assurent un accès raisonnable à tous les enfants, y compris ceux ayant des besoins spéciaux;
+
+
+
+
+
+
+
+
+b) que le paiement des services d’apprentissage et de garde des jeunes enfants soit exigé selon un tarif ou autre mode de paiement autorisé par les lois provinciales ou territoriales applicables.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Early learning and child care services
+
+
+
+6. In order to be considered early learning and child care services for the purposes of section 5, the services  must be 
+
+
+
+
+
+
+
+
+(a) provided on a not-for-profit basis by an agency, organization or government body authorized under provincial or territorial law to provide such services;
+
+
+
+
+
+
+
+
+(b) provided on a for-profit basis by an agency, organization or government body authorized under provincial or territorial law to provide such services if that agency, organization or body provided those services on a for-profit basis before the coming into force of this Act and continues to provide those services on a for-profit basis after the coming into force of this Act; or
+
+
+
+
+
+
+
+
+(c) provided by an individual authorized under provincial or territorial law to provide such services.
+
+
+
+
+
+
+
+
+
+6. Pour être considérés comme des services d’apprentissage et de garde des jeunes enfants pour l’application de l’article 5, les services fournis doivent être :
+
+
+
+Services d’apprentissage et de garde des jeunes enfants
+
+
+
+
+a) soit offerts dans un but non lucratif par une agence, un organisme ou une entité gouvernementale autorisés en vertu des lois provinciales ou territoriales à offrir de tels services;
+
+
+
+
+
+
+
+
+b) soit offerts dans un but lucratif par une agence, un organisme ou une entité gouvernementale autorisés en vertu des lois provinciales ou territoriales à offrir de tels services et qui offraient ces services dans un but lucratif avant la date d’entrée en vigueur de la présente loi et continuent de le faire après cette date;
+
+
+
+
+
+
+
+
+c) soit offerts par une personne physique autorisée en vertu des lois provinciales ou territoriales à offrir de tels services.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Withholding of payment
+
+
+
+7. When advised by the Minister that the early learning and child care program of a province, territory or aboriginal peoples’ organ- ization did not satisfy a criterion or condition set out in section 5 or 6 in a fiscal year, the Governor in Council may, where it considers it appropriate, direct that all or a portion of any child care transfer payment to that province, territory or aboriginal peoples’ organization for the following fiscal year be withheld.
+
+
+
+
+
+
+
+
+
+7. Sur avis du ministre portant que le programme de services d’apprentissage et de garde des jeunes enfants de la province, du territoire ou de l'organisation autochtone ne répond pas, pendant un exercice donné, à l’un des critères ou à l’une des conditions énoncés aux articles 5 ou 6, le gouverneur en conseil peut, s’il l’estime indiqué, ordonner que le paiement de transfert pour la garde des jeunes enfants destiné à la province, au territoire ou à l'organisation autochtone pour l'exercice subséquent soit retenu, en tout ou en partie.
+
+
+
+Retenue du paiement de transfert
+
+
+
+
+
+
+
+
+
+
+REPORT TO PARLIAMENT
+
+
+
+
+
+
+
+
+
+RAPPORT AU PARLEMENT
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report to Parliament
+
+
+
+8. (1) At the end of each fiscal year, the Minister shall prepare a report examining the provision of child care services in each province and territory during that fiscal year in relation to the criteria set out in section 5 and shall cause the report to be laid before each House of Parliament within 60 days after the end of the fiscal year or, if that House is not then sitting, on any of the first 15 days next thereafter that that House is sitting.
+
+
+
+
+
+
+
+
+
+8. (1) À la fin de chaque exercice, le ministre établit un rapport sur la fourniture des services de garde des jeunes enfants dans chaque province ou territoire pour cet exercice, du point de vue de la conformité aux critères énoncés à l’article 5, et le fait déposer devant chaque chambre du Parlement, dans les soixante jours suivant la fin de l’exercice ou, si elle ne siège pas, dans les quinze premiers jours de séance ultérieurs de celle-ci.
+
+
+
+Rapport annuel au Parlement
+
+
+
+
+
+
+
+
+
+
+Contents of report
+
+
+
+(2) The report shall contain a summary of all information in the possession of the Minister that relates to the extent to which the early learning and child care programs and services of each province, territory and aboriginal peoples’ organization met the criteria set out in section 5 during the fiscal year, including but not limited to
+
+
+
+
+
+
+
+
+(a) a description of the early learning and child care program of each province, territory and aboriginal peoples’ organization and of the services provided by the program during that fiscal year;
+
+
+
+
+
+
+
+
+(a.1) a summary of the progress made by the government of each province and territory in implementing the action plan referred to in paragraph 5(1)(c);
+
+
+
+
+
+
+
+
+(b) the amount expended by the government of each province and territory and by each aboriginal peoples’ organization during that fiscal year on behalf of the early learning and child care program;
+
+
+
+
+
+
+
+
+(c) indicators of availability, such as an analysis of the number of spaces in early learning and child care settings available during that fiscal year by age of child and type of setting;
+
+
+
+
+
+
+
+
+(d) indicators of affordability, such as average service fees charged as a percentage of average wages in each province and territory;
+
+
+
+
+
+
+
+
+(e) indicators of quality, such as training requirements, child-to-caregiver ratios, group size and provisions and facilities relating to health, safety and the physical environment; and
+
+
+
+
+
+
+
+
+(f) indicators of accessibility, such as eligi-bility criteria and numbers of children who benefit from subsidies, income levels of parents of children enrolled in early learning and child care services, percentage of children with special needs enrolled and numbers of children receiving services by urban, surburban and rural regions.
+
+
+
+
+
+
+
+
+
+(2) Le rapport renferme un résumé de tous les renseignements en la possession du ministre qui indiquent dans quelle mesure le programme et les services d’apprentissage et de garde des jeunes enfants de chaque province, territoire ou organisation autochtone ont répondu aux critères énoncés à l’article 5 pendant l’exercice, notamment :
+
+
+
+Contenu du rapport
+
+
+
+
+a) une description du programme d’apprentissage et de garde des jeunes enfants de chaque province, territoire et organisation autochtone et des services offerts par le programme pendant l’exercice;
+
+
+
+
+
+
+
+
+a.1) un résumé des progrès réalisés par le gouvernement de chaque province et territoire quant à la mise en oeuvre du plan d'action visé à l'alinéa 5(1)c);
+
+
+
+
+
+
+
+
+b) le montant dépensé par chaque gouvernement provincial ou territorial et par chaque organisation autochtone pendant l’exercice pour son programme d’apprentissage et de garde des jeunes enfants;
+
+
+
+
+
+
+
+
+c) les indicateurs de disponibilité, notamment une analyse du nombre de places disponibles dans les installations d’apprentissage et de garde des jeunes enfants pendant l’exercice, par groupe d’âge et par type d’installations;
+
+
+
+
+
+
+
+
+d) les indicateurs d’abordabilité, notamment les droits de service moyens exigés, calculés comme pourcentage des salaires moyens dans chaque province ou territoire;
+
+
+
+
+
+
+
+
+e) les indicateurs de qualité, notamment les exigences en matière de formation, les ratios enfants-éducateurs et la taille des groupes ainsi que les fournitures et installations relatives à la santé, à la sécurité et au milieu physique;
+
+
+
+
+
+
+
+
+f) les indicateurs d’accessibilité, notamment les critères d’admissibilité aux subventions et le nombre d’enfants qui en bénéficient, le revenu des parents d’enfants inscrits aux services d’apprentissage et de garde des jeunes enfants, le pourcentage d’enfants inscrits ayant des besoins spéciaux et le nombre d’enfants inscrits par région urbaine, par banlieue et par région rurale.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+9. The Governor in Council may make regulations for the purpose of carrying out the administration of this Act and for carrying its purpose and provisions into effect, including regulations respecting the information the Minister may require for the purpose of reporting to Parliament under section 8.
+
+
+
+
+
+
+
+
+
+9. Le gouverneur en conseil peut prendre des règlements en vue d’administrer la présente loi et de réaliser son objet ou d’appliquer ses dispositions, notamment des règlements concernant les renseignements que le ministre peut exiger aux fins de son rapport au Parlement en application de l’article 8.
+
+
+
+Règlements
+
+
+
+
+
+
+
+
+
+
+ADVISORY COUNCIL
+
+
+
+
+
+
+
+
+
+CONSEIL CONSULTATIF
+
+
+
+
+
+
+
+
+
+
+
+
+Advisory council
+
+
+
+10. (1) The Minister shall appoint an advisory council consisting of 18 members who support the purpose of this Act and are broadly representative of persons and organizations interested in and involved with early learning and child care from all regions of Canada, including representatives of provincial and territorial governments, of aboriginal peoples’ organizations and of organizations that act on behalf of early learning and child care service providers, child care professionals, parents and children.
+
+
+
+
+
+
+
+
+
+10. (1) Le ministre établit un conseil consultatif composé de dix-huit membres qui appuient l'objet de la présente loi et qui assurent une représentation générale des personnes et des organismes de toutes les régions du Canada qui s’intéressent ou participent à l’apprentissage et à la garde des jeunes enfants, y compris des représentants des gouvernements provinciaux et territoriaux, d'organisations autochtones et d’organismes qui oeuvrent au nom des fournisseurs de services d’apprentissage et de garde des jeunes enfants, des professionnels des services de garde, des parents et des enfants.
+
+
+
+Conseil consultatif
+
+
+
+
+
+
+
+
+
+
+List of candidates
+
+
+
+(2) The Minister shall choose the members of the advisory council from a list of candidates prepared through a public and transparent process and submitted by the standing committee of the House of Commons that normally considers matters related to human resources and social development.
+
+
+
+
+
+
+
+
+
+(2) Le ministre choisit les membres du conseil consultatif parmi une liste de candidats préparée par suite d’un processus public et transparent et soumise par le comité permanent de la Chambre des communes habituellement chargé des questions concernant les ressources humaines et le développement social.
+
+
+
+Liste de candidats
+
+
+
+
+
+
+
+
+
+
+Report, advice and recommendations by advisory council
+
+
+
+(3) The advisory council may, as it considers appropriate from time to time, make a report to any standing committee of either House of Parliament, or provide advice or recommendations or make a report to the Minister, in respect of any matter that relates to the administration, operation and effectiveness of this Act, including the extent to which the objectives of this Act are being achieved.
+
+
+
+
+
+
+
+
+
+(3) Le conseil consultatif peut, s’il l’estime indiqué, faire rapport à tout comité permanent de l’une des deux chambres du Parlement, formuler des avis ou des recommandations au ministre ou lui soumettre un rapport sur toute question concernant l’application et l’efficacité de la présente loi, notamment la mesure dans laquelle les objectifs de celle-ci sont atteints.
+
+
+
+Rapport, avis et recommandations du conseil consultatif
+
+
+
+
+
+
+
+
+
+
+Inclusion in annual report
+
+
+
+(4) Any report made to a standing committee and any report, recommendation and advice provided to the Minister by the advisory council shall be included in the Minister’s annual report to Parliament under section 8.
+
+
+
+
+
+
+
+
+
+(4) Les rapports que le conseil consultatif présente à un comité permanent et les rapports, recommandations et avis qu’il soumet au ministre sont intégrés au rapport annuel du ministre déposé devant le Parlement en application de l’article 8.
+
+
+
+Intégration au rapport annuel
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4409 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Second Session, Forty-first Parliament,
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+Deuxième session, quarante et unième législature,
+62-63-64 Elizabeth II, 2013-2014-2015
+
+
+
+
+
+
+STATUTES OF CANADA 2015CHAPTER 23
+
+
+
+
+
+LOIS DU CANADA (2015)CHAPITRE 23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code, the Canada Evidence Act and the Sex Offender Information Registration Act, to enact the High Risk Child Sex Offender Database Act and to make consequential amendments to other Acts
+
+
+
+
+
+Loi modifiant le Code criminel, la Loi sur la preuve au Canada et la Loi sur l’enregistrement de renseignements sur les délinquants sexuels, édictant la Loi sur la banque de données concernant les délinquants sexuels à risque élevé (infractions sexuelles visant les enfants) et modifiant d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+18th JUNE, 2015
+BILL C-26
+
+SANCTIONNÉE
+LE 18 JUIN 2015
+PROJET DE LOI C-26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code to
+(a) increase mandatory minimum penalties and maximum penalties for certain sexual offences against children;
+(b) increase maximum penalties for violations of prohibition orders, probation orders and peace bonds;
+(c) clarify and codify the rules regarding the imposition of consecutive and concurrent sentences;
+(d) require courts to impose, in certain cases, consecutive sentences on offenders who commit sexual offences against children; and
+(e) ensure that a court that imposes a sentence must take into consideration evidence that the offence in question was committed while the offender was subject to a conditional sentence order or released on parole, statutory release or unescorted temporary absence.
+It amends the Canada Evidence Act to ensure that spouses of the accused are competent and compellable witnesses for the prosecution in child pornography cases.
+It also amends the Sex Offender Information Registration Act to increase the reporting obligations of sex offenders who travel outside Canada.
+It enacts the High Risk Child Sex Offender Database Act to establish a publicly accessible database that contains information — that a police service or other public authority has previously made accessible to the public — with respect to persons who are found guilty of sexual offences against children and who pose a high risk of committing crimes of a sexual nature.
+Finally, it makes consequential amendments to other Acts.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel afin : 
+a) d’augmenter les peines minimales obligatoires et les peines maximales prévues pour certaines infractions sexuelles commises contre des enfants;
+b) d’augmenter les peines maximales prévues pour la violation d’une ordonnance d’interdiction, d’une ordonnance de probation ou d’un engagement de ne pas troubler l’ordre public;
+c) de préciser et de codifier les règles relatives à l’imposition de peines consécutives et concurrentes;
+d) d’exiger que les tribunaux imposent, dans certains cas, des peines consécutives aux délinquants ayant commis des infractions sexuelles contre des enfants;
+e) de prévoir que le tribunal qui inflige une peine à tout délinquant tienne compte des éléments de preuve établissant le fait que l’infraction en cause a été perpétrée alors que celui-ci faisait l’objet d’une ordonnance de sursis ou qu’il bénéficiait d’une libération conditionnelle ou d’office ou d’une permission de sortir sans escorte.
+Il modifie aussi la Loi sur la preuve au Canada afin de veiller à ce que les conjoints des personnes accusées soient des témoins habiles à témoigner et contraignables pour le poursuivant dans les affaires en matière de pornographie juvénile.
+Il modifie également la Loi sur l’enregistrement de renseignements sur les délinquants sexuels en vue d’accroître les obligations des délinquants sexuels voyageant à l’étranger.
+Il édicte la Loi sur la banque de données concernant les délinquants sexuels à risque élevé (infractions sexuelles visant les enfants) qui porte création d’une banque de données qui est accessible au public et contient des renseignements — préalablement rendus accessibles au public par un service de police ou toute autre autorité publique — sur des personnes qui sont déclarées coupables d’infractions sexuelles visant les enfants et présentent un risque élevé de commettre des crimes de nature sexuelle.
+Enfin, il modifie d’autres lois en conséquence.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+62-63-64 ELIZABETH II
+
+
+
+
+
+
+
+
+
+62-63-64 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 23
+
+
+
+
+
+
+
+
+
+CHAPITRE 23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code, the Canada Evidence Act and the Sex Offender Information Registration Act, to enact the High Risk Child Sex Offender Database Act and to make consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel, la Loi sur la preuve au Canada et la Loi sur l’enregistrement de renseignements sur les délinquants sexuels, édictant la Loi sur la banque de données concernant les délinquants sexuels à risque élevé (infractions sexuelles visant les enfants) et modifiant d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 18th June, 2015]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 18 juin 2015]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Tougher Penalties for Child Predators Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur le renforcement des peines pour les prédateurs d’enfants.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 11
+
+
+
+2. Paragraphs 151(a) and (b) of the Criminal Code are replaced by the following:
+
+
+
+
+
+
+
+
+
+2. Les alinéas 151a) et b) du Code criminel sont remplacés par ce qui suit : 
+
+
+
+2012, ch. 1, art. 11
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris-onment for a term of not more than two years less a day and to a minimum punishment of imprisonment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de un an;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de deux ans moins un jour, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 12
+
+
+
+3. Paragraphs 152(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+3. Les alinéas 152a) et b) de la même loi sont remplacés par ce qui suit : 
+
+
+
+2012, ch. 1, art. 12
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris-onment for a term of not more than two years less a day and to a minimum punishment of imprisonment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de un an;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de deux ans moins un jour, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 13
+
+
+
+4. Paragraphs 153(1.1)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+4. Les alinéas 153(1.1)a) et b) de la même loi sont remplacés par ce qui suit : 
+
+
+
+2012, ch. 1, art. 13
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris-onment for a term of not more than two years less a day and to a minimum punishment of imprisonment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de un an;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de deux ans moins un jour, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 15
+
+
+
+5. Paragraph 160(3)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. L’alinéa 160(3)a) de la même loi est remplacé par ce qui suit : 
+
+
+
+2012, ch. 1, art. 15
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de un an;
+
+
+
+
+
+
+
+
+
+
+
+
+1993, c. 45, s. 1
+
+
+
+6. Paragraphs 161(4)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+6. Les alinéas 161(4)a) et b) de la même loi sont remplacés par ce qui suit : 
+
+
+
+1993, ch. 45, art. 1
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and is liable to imprisonment for a term of not more than four years; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and is liable to imprisonment for a term of not more than 18 months.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de quatre ans;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois.
+
+
+
+
+
+
+
+
+
+
+
+
+1993, c. 46, s. 2; 2005, c. 32, s. 7(2) and (3); 2012, c. 1, s. 17(1) and (2)
+
+
+
+7. (1) Subsections 163.1(2) and (3) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+7. (1) Les paragraphes 163.1(2) et (3) de la même loi sont remplacés par ce qui suit : 
+
+
+
+1993, ch. 46, art. 2; 2005, ch. 32, par. 7(2) et (3); 2012, ch. 1, par. 17(1) et (2)
+
+
+
+
+
+
+
+
+
+
+Making child pornography
+
+
+
+(2) Every person who makes, prints, publishes or possesses for the purpose of publication any child pornography is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year.
+
+
+
+
+
+
+
+
+
+(2) Quiconque produit, imprime ou publie, ou a en sa possession en vue de la publication, de la pornographie juvénile est coupable d’un acte criminel passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de un an.
+
+
+
+Production de pornographie juvénile
+
+
+
+
+
+
+
+
+
+
+Distribution, etc. of child pornography
+
+
+
+(3) Every person who transmits, makes available, distributes, sells, advertises, imports, exports or possesses for the purpose of transmission, making available, distribution, sale, advertising or exportation any child pornography is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year.
+
+
+
+
+
+
+
+
+
+(3) Quiconque transmet, rend accessible, distribue, vend, importe ou exporte de la pornographie juvénile ou en fait la publicité, ou en a en sa possession en vue de la transmettre, de la rendre accessible, de la distribuer, de la vendre, de l’exporter ou d’en faire la publicité, est coupable d’un acte criminel passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de un an.
+
+
+
+Distribution de pornographie juvénile
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 17(3)
+
+
+
+(2) Paragraphs 163.1(4)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les alinéas 163.1(4)a) et b) de la même loi sont remplacés par ce qui suit : 
+
+
+
+2012, ch. 1, par. 17(3)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and is liable to imprisonment for a term of not more than 10 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and is liable to imprisonment for a term of not more than two years less a day and to a minimum punishment of imprisonment for a term of six months.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de un an;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de deux ans moins un jour, la peine minimale étant de six mois.
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 17(4)
+
+
+
+(3) Paragraphs 163.1(4.1)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Les alinéas 163.1(4.1)a) et b) de la même loi sont remplacés par ce qui suit : 
+
+
+
+2012, ch. 1, par. 17(4)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and is liable to imprisonment for a term of not more than 10 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and is liable to imprisonment for a term of not more than two years less a day and to a minimum punishment of imprisonment for a term of six months.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans, la peine minimale étant de un an;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de deux ans moins un jour, la peine minimale étant de six mois.
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 9.1; 2012, c. 1, s. 19
+
+
+
+8. Section 170 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+8. L’article 170 de la même loi est remplacé par ce qui suit : 
+
+
+
+2005, ch. 32, art. 9.1; 2012, ch. 1, art. 19
+
+
+
+
+
+
+
+
+
+
+Parent or guardian procuring sexual activity
+
+
+
+170. Every parent or guardian of a person under the age of 18 years who procures the person for the purpose of engaging in any sexual activity prohibited by this Act with a person other than the parent or guardian is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year.
+
+
+
+
+
+
+
+
+
+170. Le père, la mère ou le tuteur d’une personne âgée de moins de dix-huit ans qui amène celle-ci à commettre des actes sexuels interdits par la présente loi avec un tiers est coupable d’un acte criminel et passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de un an.
+
+
+
+Père, mère ou tuteur qui sert d’entremetteur
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 9.1; 2008, c. 6, par. 54(g); 2012, c. 1, s. 20
+
+
+
+9. Section 171 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+9. L’article 171 de la même loi est remplacé par ce qui suit : 
+
+
+
+2005, ch. 32, art. 9.1; 2008, ch. 6, al. 54g); 2012, ch. 1, art. 20
+
+
+
+
+
+
+
+
+
+
+Householder permitting prohibited sexual activity
+
+
+
+171. Every owner, occupier or manager of premises, or any other person who has control of premises or assists in the management or control of premises, who knowingly permits a person under the age of 18 years to resort to or to be in or on the premises for the purpose of engaging in any sexual activity prohibited by this Act is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year.
+
+
+
+
+
+
+
+
+
+171. Le propriétaire, l’occupant, le gérant, l’aide-gérant ou tout autre responsable de l’accès ou de l’utilisation d’un lieu qui sciemment permet qu’une personne âgée de moins de dix-huit ans fréquente ce lieu ou s’y trouve dans l’intention de commettre des actes sexuels interdits par la présente loi est coupable d’un acte criminel et passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de un an.
+
+
+
+Maître de maison qui permet des actes sexuels interdits
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 21
+
+
+
+10. Paragraphs 171.1(2)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+10. Les alinéas 171.1(2)a) et b) de la même loi sont remplacés par ce qui suit : 
+
+
+
+2012, ch. 1, art. 21
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of six months; or
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris-onment for a term of not more than two years less a day and to a minimum punishment of imprisonment for a term of 90 days.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de six mois;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de deux ans moins un jour, la peine minimale étant de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 22(2)
+
+
+
+11. Paragraphs 172.1(2)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+11. Les alinéas 172.1(2)a) et b) de la même loi sont remplacés par ce qui suit : 
+
+
+
+2012, ch. 1, par. 22(2)
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris-onment for a term of not more than two years less a day and to a minimum punishment of imprisonment for a term of six months.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de un an;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de deux ans moins un jour, la peine minimale étant de six mois.
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 23
+
+
+
+12. Paragraphs 172.2(2)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+12. Les alinéas 172.2(2)a) et b) de la même loi sont remplacés par ce qui suit : 
+
+
+
+2012, ch. 1, art. 23
+
+
+
+
+
+
+
+
+
+
+
+
+(a) is guilty of an indictable offence and is liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction and is liable to impris-onment for a term of not more than two years less a day and to a minimum punishment of imprisonment for a term of six months.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de quatorze ans, la peine minimale étant de un an;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de deux ans moins un jour, la peine minimale étant de six mois.
+
+
+
+
+
+
+
+
+
+
+
+
+2005, c. 32, s. 10.1(2)
+
+
+
+13. Subsection 212(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 212(4) de la même loi est remplacé par ce qui suit : 
+
+
+
+2005, ch. 32, par. 10.1(2)
+
+
+
+
+
+
+
+
+
+
+Offence — prostitution of person under 18
+
+
+
+(4) Every person who, in any place, obtains for consideration, or communicates with anyone for the purpose of obtaining for consideration, the sexual services of a person who is under the age of 18 years is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of
+
+
+
+
+
+
+
+
+(a) in the case of a first offence, six months; and
+
+
+
+
+
+
+
+
+(b) in the case of a second or subsequent offence, one year.
+
+
+
+
+
+
+
+
+
+(4) Quiconque, en quelque endroit que ce soit, obtient, moyennant rétribution, les services sexuels d’une personne âgée de moins de dix-huit ans ou communique avec quiconque en vue d’obtenir, moyennant rétribution, de tels services est coupable d’un acte criminel et passible d’un emprisonnement maximal de dix ans, la peine minimale étant : 
+
+
+
+Infraction — prostitution d’une personne âgée de moins de dix-huit ans
+
+
+
+
+a) de six mois, dans le cas d’une première infraction;
+
+
+
+
+
+
+
+
+b) de un an, en cas de récidive.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sequence of convictions only
+
+
+
+(5) For the purposes of subsection (4), the only question to be considered is the sequence of convictions and no consideration shall be given to the sequence of commission of offences or whether any offence occurred before or after any conviction.
+
+
+
+
+
+
+
+
+
+(5) Pour l’application du paragraphe (4), il est tenu compte de l’ordre des déclarations de culpabilité et non de l’ordre de perpétration des infractions, ni du fait qu’une infraction a été commise avant ou après une déclaration de culpabilité.
+
+
+
+Précision relative aux condamnations antérieures
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 25
+
+
+
+14. Paragraphs 271(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+14. Les alinéas 271a) et b) de la même loi sont remplacés par ce qui suit : 
+
+
+
+2012, ch. 1, art. 25
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and is liable to imprisonment for a term of not more than 10 years or, if the complainant is under the age of 16 years, to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of one year; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and is liable to imprisonment for a term of not more than 18 months or, if the complainant is under the age of 16 years, to imprisonment for a term of not more than two years less a day and to a minimum punishment of imprisonment for a term of six months.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de dix ans ou, si le plaignant est âgé de moins de seize ans, d’un emprisonnement maximal de quatorze ans, la peine minimale étant de un an;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois ou, si le plaignant est âgé de moins de seize ans, d’un emprisonnement maximal de deux ans moins un jour, la peine minimale étant de six mois.
+
+
+
+
+
+
+
+
+
+
+
+
+2012, c. 1, s. 26
+
+
+
+15. Paragraph 272(2)(a.2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+15. L’alinéa 272(2)a.2) de la même loi est remplacé par ce qui suit : 
+
+
+
+2012, ch. 1, art. 26
+
+
+
+
+
+
+
+
+
+
+
+
+(a.2) if the complainant is under the age of 16 years, to imprisonment for life and to a minimum punishment of imprisonment for a term of five years; and
+
+
+
+
+
+
+
+
+
+a.2) dans les cas où le plaignant est âgé de moins de seize ans, de l’emprisonnement à perpétuité, la peine minimale étant de cinq ans;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. Paragraph 718.2(a) of the Act is amended by striking out “or” at the end of subparagraph (iv), by adding “or” at the end of subparagraph (v) and by adding the following after subparagraph (v):
+
+
+
+
+
+
+
+
+
+16. L’alinéa 718.2a) de la même loi est modifié par adjonction, après le sous-alinéa (v), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(vi) evidence that the offence was committed while the offender was subject to a conditional sentence order made under section 742.1 or released on parole, statutory release or unescorted temporary absence under the Corrections and Conditional Release Act
+
+
+
+
+
+
+
+
+
+(vi) que l’infraction a été perpétrée alors que le délinquant faisait l’objet d’une ordonnance de sursis rendue au titre de l’article 742.1 ou qu’il bénéficiait d’une libération conditionnelle ou d’office ou d’une permission de sortir sans escorte en vertu de la Loi sur le système correctionnel et la mise en liberté sous condition;
+
+
+
+
+
+
+
+
+
+
+
+
+2002, c. 1, s. 182
+
+
+
+17. Subsection 718.3(4) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+17. Le paragraphe 718.3(4) de la même loi est remplacé par ce qui suit : 
+
+
+
+2002, ch. 1, art. 182
+
+
+
+
+
+
+
+
+
+
+Cumulative punishments
+
+
+
+(4) The court that sentences an accused shall consider directing
+
+
+
+
+
+
+
+
+(a) that the term of imprisonment that it imposes be served consecutively to a sentence of imprisonment to which the accused is subject at the time of sentencing; and
+
+
+
+
+
+
+
+
+(b) that the terms of imprisonment that it imposes at the same time for more than one offence be served consecutively, including when
+
+
+
+
+
+
+
+
+(i) the offences do not arise out of the same event or series of events,
+
+
+
+
+
+
+
+
+(ii) one of the offences was committed while the accused was on judicial interim release, including pending the determination of an appeal, or
+
+
+
+
+
+
+
+
+(iii) one of the offences was committed while the accused was fleeing from a peace officer.
+
+
+
+
+
+
+
+
+
+(4) Le tribunal envisage d’ordonner : 
+
+
+
+Peines cumulatives
+
+
+
+
+a) que la période d’emprisonnement qu’il inflige à l’accusé soit purgée consécutivement à toute autre peine d’emprisonnement à laquelle celui-ci est assujetti;
+
+
+
+
+
+
+
+
+b) que les périodes d’emprisonnement qu’il inflige à l’accusé au même moment pour diverses infractions soient purgées consécutivement, notamment lorsque : 
+
+
+
+
+
+
+
+
+(i) les infractions ne découlent pas des mêmes faits,
+
+
+
+
+
+
+
+
+(ii) l’une des infractions a été commise alors que l’accusé était en liberté provisoire par voie judiciaire, notamment dans l’attente de l’issue d’un appel,
+
+
+
+
+
+
+
+
+(iii) l’une des infractions a été commise alors que l’accusé fuyait devant un agent de la paix.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cumulative punishments — fines
+
+
+
+(5) For the purposes of subsection (4), a term of imprisonment includes imprisonment that results from the operation of subsection 734(4).
+
+
+
+
+
+
+
+
+
+(5) Pour l’application du paragraphe (4), la période d’emprisonnement comprend l’emprisonnement infligé en application du paragraphe 734(4).
+
+
+
+Peines cumulatives :  amendes
+
+
+
+
+
+
+
+
+
+
+Cumulative punishments — youth
+
+
+
+(6) For the purposes of subsection (4), a sentence of imprisonment includes
+
+
+
+
+
+
+
+
+(a) a disposition made under paragraph 20(1)(k) or (k.1) of the Young Offenders Act, chapter Y-1 of the Revised Statutes of Canada, 1985;
+
+
+
+
+
+
+
+
+(b) a youth sentence imposed under paragraph 42(2)(n), (o), (q) or (r) of the Youth Criminal Justice Act; and
+
+
+
+
+
+
+
+
+(c) a sentence that results from the operation of subsection 743.5(1) or (2).
+
+
+
+
+
+
+
+
+
+(6) Pour l’application du paragraphe (4), la peine d’emprisonnement comprend : 
+
+
+
+Peines cumulatives :  adolescents
+
+
+
+
+a) toute décision rendue au titre des alinéas 20(1)k) ou k.1) de la Loi sur les jeunes contrevenants, chapitre Y-1 des Lois révisées du Canada (1985);
+
+
+
+
+
+
+
+
+b) toute peine spécifique infligée en vertu des alinéas 42(2)n), o), q) ou r) de la Loi sur le système de justice pénale pour les adolescents;
+
+
+
+
+
+
+
+
+c) toute peine infligée en application des paragraphes 743.5(1) ou (2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cumulative punishments — sexual offences against children
+
+
+
+(7) When a court sentences an accused at the same time for more than one sexual offence committed against a child, the court shall direct
+
+
+
+
+
+
+
+
+(a) that a sentence of imprisonment it imposes for an offence under section 163.1 be served consecutively to a sentence of imprisonment it imposes for a sexual offence under another section of this Act committed against a child; and
+
+
+
+
+
+
+
+
+(b) that a sentence of imprisonment it imposes for a sexual offence committed against a child, other than an offence under section 163.1, be served consecutively to a sentence of imprisonment it imposes for a sexual offence committed against another child other than an offence under section 163.1.
+
+
+
+
+
+
+
+
+
+(7) Le tribunal qui inflige, au même moment, des peines d’emprisonnement pour diverses infractions sexuelles commises contre un enfant, ordonne : 
+
+
+
+Peines cumulatives :  infractions sexuelles contre des enfants
+
+
+
+
+a) que la peine d’emprisonnement qu’il inflige pour une infraction prévue à l’article 163.1 soit purgée consécutivement à celle qu’il inflige pour une infraction sexuelle prévue à un autre article de la présente loi commise contre un enfant;
+
+
+
+
+
+
+
+
+b) que la peine d’emprisonnement qu’il inflige pour une infraction sexuelle commise contre un enfant, à l’exception de l’infraction prévue à l’article 163.1, soit purgée consécutivement à celle qu’il inflige pour une infraction sexuelle commise contre un autre enfant, à l’exception de l’infraction prévue à l’article 163.1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1995, c. 22, s. 6
+
+
+
+18. Paragraphs 733.1(1)(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+18. Les alinéas 733.1(1)a) et b) de la même loi sont remplacés par ce qui suit : 
+
+
+
+1995, ch. 22, art. 6
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and is liable to imprisonment for a term of not more than four years; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and is liable to imprisonment for a term of not more than 18 months, or to a fine of not more than $5000, or to both.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel et passible d’un emprisonnement maximal de quatre ans;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois et d’une amende maximale de cinq mille dollars, ou de l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+1994, c. 44, s. 82
+
+
+
+19. Paragraphs 811(a) and (b) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+19. Les alinéas 811a) et b) de la même loi sont remplacés par ce qui suit : 
+
+
+
+1994, ch. 44, art. 82
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and is liable to imprisonment for a term of not more than four years; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and is liable to imprisonment for a term of not more than 18 months.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de quatre ans;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois.
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-5
+
+
+
+CANADA EVIDENCE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA PREUVE AU CANADA
+
+
+
+L.R., ch. C-5
+
+
+
+
+
+
+
+
+
+
+2002, c. 1, s. 166
+
+
+
+20. Subsection 4(2) of the Canada Evidence Act is amended by replacing “170” with “163.1, 170”.
+
+
+
+
+
+
+
+
+
+20. Au paragraphe 4(2) de la Loi sur la preuve au Canada, « 170 » est remplacé par « 163.1, 170 ».
+
+
+
+2002, ch. 1, art. 166
+
+
+
+
+
+
+
+
+2004, c. 10
+
+
+
+SEX OFFENDER INFORMATION REGISTRATION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’ENREGISTREMENT DE RENSEIGNEMENTS SUR LES DÉLINQUANTS SEXUELS
+
+
+
+2004, ch. 10
+
+
+
+
+
+
+
+
+
+
+
+
+21. Subsection 3(1) of the Sex Offender Information Registration Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+21. Le paragraphe 3(1) de la Loi sur l’enregistrement de renseignements sur les délinquants sexuels est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+“sexual offence against a child”« infraction sexuelle visant un enfant »
+
+
+
+“sexual offence against a child” means
+
+
+
+
+
+
+
+
+(a) a designated offence as defined in subsection 490.011(1) of the Criminal Code that is committed against a person who is under 18 years of age and as a result of which the offender is required to comply with this Act; or
+
+
+
+
+
+
+
+
+(b) an offence that is committed outside Canada against a person who is under 18 years of age and as a result of which the offender is required to comply with this Act.
+
+
+
+
+
+
+
+
+
+« infraction sexuelle visant un enfant » L’une ou l’autre des infractions suivantes :
+
+
+
+« infraction sexuelle visant un enfant »“sexual offence against a child”
+
+
+
+
+a) infraction désignée au sens du paragraphe 490.011(1) du Code criminel qui est commise contre une personne âgée de moins de dix-huit ans et en conséquence de laquelle le contrevenant est tenu de se conformer à la présente loi;
+
+
+
+
+
+
+
+
+b) infraction qui est commise à l’étranger contre une personne âgée de moins de dix-huit ans et en conséquence de laquelle le contrevenant est tenu de se conformer à la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22. Subsection 4.1(1) of the Act is amended by striking out “and” at the end of paragraph (b) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+22. Le paragraphe 4.1(1) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) within seven days after they receive a driver’s licence or, if they are required to report to a registration centre designated under the National Defence Act, within 15 days after they receive it;
+
+
+
+
+
+
+(b.2) within seven days after they receive a passport or, if they are required to report to a registration centre designated under the National Defence Act, within 15 days after they receive it; and
+
+
+
+
+
+
+
+
+
+b.1) au plus tard sept jours — sauf celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la Loi sur la défense nationale, pour qui le délai est de quinze jours — après avoir obtenu un permis de conduire;
+
+
+
+
+
+
+b.2) au plus tard sept jours — sauf celui qui est tenu de comparaître au bureau d’inscription désigné en vertu de la Loi sur la défense nationale, pour qui le délai est de quinze jours — après avoir obtenu un passeport;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23. Subsection 5(1) of the Act is amended by striking out “and” at the end of paragraph (g) and by adding the following after paragraph (h):
+
+
+
+
+
+
+
+
+
+23. Le paragraphe 5(1) de la même loi est modifié par adjonction, après l’alinéa h), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(i) the licence number and the name of the issuing jurisdiction of every driver’s licence that they hold; and
+
+
+
+
+
+
+(j) the passport number and the name of the issuing jurisdiction of every passport that they hold.
+
+
+
+
+
+
+
+
+
+i) le numéro de tout permis de conduire dont il est titulaire et le nom du territoire d’où émane ce permis;
+
+
+
+
+
+
+j) le numéro de tout passeport dont il est titulaire et le nom du territoire d’où émane ce passeport.
+
+
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 36
+
+
+
+24. (1) The portion of subsection 6(1) of the Act before paragraph (c) is replaced by the following:
+
+
+
+
+
+
+
+
+
+24. (1) Le passage du paragraphe 6(1) de la même loi précédant l’alinéa c) est remplacé par ce qui suit : 
+
+
+
+2010, ch. 17, art. 36
+
+
+
+
+
+
+
+
+
+
+Notification of absence
+
+
+
+6. (1) Subject to subsection (1.1), a sex offender other than one who is referred to in subsection (1.01) shall notify a person who collects information at the registration centre referred to in section 7.1
+
+
+
+
+
+
+
+
+(a) before the sex offender’s departure — of the dates of their departure and return and of every address or location at which they expect to stay in Canada or outside Canada — if they expect not to be at their main residence or any of their secondary residences for a period of seven or more consecutive days;
+
+
+
+
+
+
+
+
+(b) within seven days after their departure — of the date of their return and of every address or location at which they are staying in Canada or outside Canada — if they decide, after departure, not to be at their main residence or any of their secondary residences for a period of seven or more consecutive days or if they have not given a notification required under paragraph (a); and
+
+
+
+
+
+
+
+
+
+6. (1) Sous réserve du paragraphe (1.1), le délinquant sexuel autre que celui visé au paragraphe (1.01) avise le préposé à la collecte du bureau d’inscription visé à l’article 7.1 : 
+
+
+
+Avis en cas d’absence
+
+
+
+
+a) avant son départ, des dates de départ et de retour et de toute adresse ou de tout lieu au Canada ou à l’étranger où il entend séjourner, s’il entend s’absenter de sa résidence principale et de toutes ses résidences secondaires pendant au moins sept jours consécutifs;
+
+
+
+
+
+
+
+
+b) au plus tard sept jours après son départ, de la date de son retour — et de toute adresse ou de tout lieu où il séjourne au Canada ou à l’étranger —, s’il décide, après son départ, de s’absenter pendant au moins sept jours consécutifs de sa résidence principale et de toutes ses résidences secondaires ou s’il n’a pas donné l’avis prévu à l’alinéa a) alors qu’il était tenu de le faire;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 6 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(2) L’article 6 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Sex offender convicted of sex offence against child
+
+
+
+(1.01) Subject to subsection (1.1), a sex offender who is convicted of a sexual offence against a child shall notify a person who collects information at the registration centre referred to in section 7.1
+
+
+
+
+
+
+
+
+(a) before the sex offender’s departure — of the dates of their departure and return and of every address or location at which they expect to stay in Canada — if they expect not to be at their main residence or any of their secondary residences for a period of seven or more consecutive days;
+
+
+
+
+
+
+
+
+(b) before their departure, of the dates of their departure and return and of every address or location at which they expect to stay outside Canada;
+
+
+
+
+
+
+
+
+(c) within seven days after their departure — of the date of their return and of every address or location at which they are staying in Canada — if they decide, after departure, not to be at their main residence or any of their secondary residences for a period of seven or more consecutive days or if they have not given a notification required under paragraph (a);
+
+
+
+
+
+
+
+
+(d) without delay, after their departure — of the date of their return and of every address or location at which they are staying outside Canada — if they decide, after departure, to extend their stay beyond the date of return that they indicated in the notification they gave under paragraph (b) or if they have not given a notification under paragraph (b); and
+
+
+
+
+
+
+
+
+(e) of a change in address, location or date, before their departure or
+
+
+
+
+
+
+
+
+(i) if the change is made after their departure and they are staying in Canada, within seven days after the date on which the change is made, or
+
+
+
+
+
+
+
+
+(ii) if the change is made after their departure and they are staying outside Canada, without delay after the date on which the change is made.
+
+
+
+
+
+
+
+
+
+(1.01) Sous réserve du paragraphe (1.1), le délinquant sexuel déclaré coupable d’une infraction sexuelle visant un enfant avise le préposé à la collecte du bureau d’inscription visé à l’article 7.1 : 
+
+
+
+Délinquant sexuel déclaré coupable d’une infraction sexuelle visant un enfant
+
+
+
+
+a) avant son départ, des dates de départ et de retour et de toute adresse ou de tout lieu au Canada où il entend séjourner, s’il entend s’absenter de sa résidence principale et de toutes ses résidences secondaires pendant au moins sept jours consécutifs;
+
+
+
+
+
+
+
+
+b) avant son départ, des dates de départ et de retour et de toute adresse ou de tout lieu à l’étranger où il entend séjourner;
+
+
+
+
+
+
+
+
+c) au plus tard sept jours après son départ, de la date de son retour — et de toute adresse ou de tout lieu où il séjourne au Canada —, s’il décide, après son départ, de s’absenter pendant au moins sept jours consécutifs de sa résidence principale et de toutes ses résidences secondaires ou s’il n’a pas donné l’avis prévu à l’alinéa a) alors qu’il était tenu de le faire;
+
+
+
+
+
+
+
+
+d) sans délai, après son départ, de la date de son retour — et de toute adresse ou de tout lieu où il séjourne à l’étranger —, s’il décide, après son départ, de s’absenter au-delà de la date de retour indiquée dans l’avis donné au titre de l’alinéa b) ou s’il n’a pas donné cet avis;
+
+
+
+
+
+
+
+
+e) avant son départ, de tout changement d’adresse, de lieu ou de date ou : 
+
+
+
+
+
+
+
+
+(i) si le changement est intervenu après son départ et qu’il séjourne au Canada, dans les sept jours suivant la date du changement,
+
+
+
+
+
+
+
+
+(ii) si le changement est intervenu après son départ et qu’il séjourne à l’étranger, sans délai après cette date.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25. Section 8.1 of the Act is amended by adding the following after subsection (5):
+
+
+
+
+
+
+
+
+
+25. L’article 8.1 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Registration of information — Canada Border Services Agency
+
+
+
+(5.1) A person who registers information for the Commissioner of the Royal Canadian Mounted Police may register in the database the information disclosed to the Commissioner under subsection 15.2(2).
+
+
+
+
+
+
+
+
+
+(5.1) Le préposé à l’enregistrement pour le compte du commissaire de la Gendarmerie royale du Canada peut enregistrer dans la banque de données les renseignements communiqués au commissaire au titre du paragraphe 15.2(2).
+
+
+
+Enregistrement de renseignements— Agence des services frontaliers du Canada
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 43
+
+
+
+26. The heading before section 15.1 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+26. L’intertitre précédant l’article 15.1 de la même loi est remplacé par ce qui suit : 
+
+
+
+2010, ch. 17, art. 43
+
+
+
+
+
+
+
+
+
+
+AUTHORITY TO COLLECT OR DISCLOSE INFORMATION
+
+
+
+
+
+
+
+
+
+POUVOIR DE RECUEILLIR ET DE COMMUNIQUER DES RENSEIGNEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+27. The Act is amended by adding the following after section 15.1:
+
+
+
+
+
+
+
+
+
+27. La même loi est modifiée par adjonction, après l’article 15.1, de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+Canada Border Services Agency — collection of information
+
+
+
+15.2 (1) The Canada Border Services Agency may assist a member or an employee of, or a person retained by, a police service in the prevention or investigation of a crime of a sexual nature or an offence under section 490.031 or 490.0311 of the Criminal Code or in the laying of a charge for such an offence by collecting the information disclosed to it under paragraph 16(4)(j.2) or (j.3) as well as the following information with respect to any sex offender who is the subject of a disclosure made under those paragraphs:
+
+
+
+
+
+
+
+
+(a) the date of their departure from Canada;
+
+
+
+
+
+
+
+
+(b) the date of their return to Canada; and
+
+
+
+
+
+
+
+
+(c) every address or location at which they have stayed outside Canada.
+
+
+
+
+
+
+
+
+
+15.2 (1) L’Agence des services frontaliers du Canada peut prêter son concours aux membres, employés ou agents contractuels de services de police pour prévenir les crimes de nature sexuelle ou la perpétration d’infractions visées aux articles 490.031 ou 490.0311 du Code criminel, pour enquêter sur de tels crimes ou de telles infractions ou pour porter des accusations à leur égard en recueillant les renseignements qui lui sont communiqués au titre des alinéas 16(4)j.2) ou j.3) ainsi que les renseignements ci-après à l’égard de tout délinquant sexuel visé par la communication faite au titre de ces alinéas : 
+
+
+
+Agence des services frontaliers du Canada — collecte de renseignements
+
+
+
+
+a) la date de son départ du Canada;
+
+
+
+
+
+
+
+
+b) la date de son retour au Canada;
+
+
+
+
+
+
+
+
+c) toute adresse ou tout lieu où il a séjourné alors qu’il était à l’étranger.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Canada Border Services Agency — disclosure of  information
+
+
+
+(2) The Canada Border Services Agency may, in assisting the member or employee of, or person retained by, a police service referred to in subsection (1), disclose to the Commissioner of the Royal Canadian Mounted Police any information collected under paragraphs (1)(a) to (c).
+
+
+
+
+
+
+
+
+
+(2) Elle peut, dans l’exercice du pouvoir prévu au paragraphe (1), communiquer au commissaire de la Gendarmerie royale du Canada les renseignements recueillis au titre des alinéas (1)a) à c).
+
+
+
+Agence des services frontaliers du Canada — communication de rensei-gnements
+
+
+
+
+
+
+
+
+
+
+
+
+28. (1) Subsection 16(3) of the Act is amended by striking out “or” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+28. (1) Le paragraphe 16(3) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) the information was collected under subsection 15.2(1) and they compare it with other information for the purpose of assisting a member or an employee of, or a person retained by, a police service in the prevention or investigation of a crime of a sexual nature or an offence under section 490.031 or 490.0311 of the Criminal Code or in the laying of a charge for such an offence; or
+
+
+
+
+
+
+
+
+
+b.1) les renseignements ont été recueillis en vertu du paragraphe 15.2(1) et sont comparés en vue d’aider un membre, un employé ou un agent contractuel d’un service de police à prévenir un crime de nature sexuelle ou la perpétration d’une infraction visée aux articles 490.031 ou 490.0311 du Code criminel, à enquêter sur un tel crime ou une telle infraction ou à porter des accusations à son égard;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 16(3.1) of the Act is amended by striking out “or” at the end of paragraph (a.2) and by adding the following after paragraph (a.2):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 16(3.1) de la même loi est modifié par adjonction, après l’alinéa a.2), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a.3) the information was collected under subsection 15.2(1) and they combine it with information contained in a computer system of the Canada Border Services Agency for the purpose of assisting a member or an employee of, or a person retained by, a police service in the prevention or investigation of a crime of a sexual nature or an offence under section 490.031 or 490.0311 of the Criminal Code or in the laying of a charge for such an offence; or
+
+
+
+
+
+
+
+
+
+a.3) si les renseignements ont été recueillis en vertu du paragraphe 15.2(1) et sont fusionnés aux renseignements contenus dans des ordinateurs de l’Agence des services frontaliers du Canada en vue d’aider un membre, un employé ou un agent contractuel d’un service de police à prévenir un crime de nature sexuelle ou la perpétration d’une infraction visée aux articles 490.031 ou 490.0311 du Code criminel, à enquêter sur un tel crime ou une telle infraction ou à porter des accusations à son égard;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Subsection 16(4) of the Act is amended by striking out “or” at the end of paragraph (j.1) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+(3) Le paragraphe 16(4) de la même loi est modifié par adjonction, après l’alinéa j.1), de ce qui suit : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(j.2) unless the disclosure is to the Canada Border Services Agency, is limited to the information referred to in paragraphs 5(1)(a), (b), (i) and (j) and is necessary to assist a member or an employee of, or a person retained by, a police service in the prevention or investigation of a crime of a sexual nature or an offence under section 490.031 or 490.0311 of the Criminal Code or in the laying of a charge for such an offence;
+
+
+
+
+
+
+(j.3) unless the disclosure is to the Canada Border Services Agency, relates to a sex offender who is convicted of a sexual offence against a child and who poses a high risk of committing a crime of a sexual nature, is limited to the information referred to in paragraphs 5(1)(a), (b), (i) and (j) and is made for the purpose of assisting a member or an employee of, or a person retained by, a police service in the prevention or investigation of a crime of a sexual nature or an offence under section 490.031 or 490.0311 of the Criminal Code or in the laying of a charge for such an offence; or
+
+
+
+
+
+
+
+
+
+j.2) soit faite à l’Agence des services frontaliers du Canada, vise uniquement les renseignements mentionnés aux alinéas 5(1)a), b), i) et j) et soit nécessaire pour aider un membre, un employé ou un agent contractuel d’un service de police à prévenir un crime de nature sexuelle ou la perpétration d’une infraction visée aux articles 490.031 ou 490.0311 du Code criminel, à enquêter sur un tel crime ou une telle infraction ou à porter des accusations à son égard;
+
+
+
+
+
+
+j.3) soit faite à l’Agence des services frontaliers du Canada, vise un délinquant sexuel déclaré coupable d’une infraction sexuelle visant un enfant et présentant un risque élevé de commettre un crime de nature sexuelle, vise uniquement les renseignements mentionnés aux alinéas 5(1)a), b), i) et j) et soit faite en vue d’aider un membre, un employé ou un agent contractuel d’un service de police à prévenir un crime de nature sexuelle ou la perpétration d’une infraction visée aux articles 490.031 ou 490.0311 du Code criminel, à enquêter sur un tel crime ou une telle infraction ou à porter des accusations à son égard;
+
+
+
+
+
+
+
+
+
+
+
+
+HIGH RISK CHILD SEX OFFENDER DATABASE ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LA BANQUE DE DONNÉES CONCERNANT LES DÉLINQUANTS SEXUELS À RISQUE ÉLEVÉ (INFRACTIONS SEXUELLES VISANT LES ENFANTS)
+
+
+
+
+
+
+
+
+
+
+
+
+Enactment of Act
+
+
+
+29. The High Risk Child Sex Offender Database Act is enacted as follows:
+
+
+
+
+
+
+
+
+
+29. Est édictée la Loi sur la banque de données concernant les délinquants sexuels à risque élevé (infractions sexuelles visant les enfants), dont le texte suit : 
+
+
+
+Édiction de la loi
+
+
+
+
+
+
+
+
+
+
+
+
+An Act respecting the establishment of a publicly accessible database containing information with respect to persons who are found guilty of sexual offences against children and who pose a high risk of committing crimes of a sexual nature
+
+
+
+
+
+
+
+
+
+Loi concernant la création d’une banque de données qui est accessible au public et contient des renseignements sur des personnes qui sont déclarées coupables d’infractions sexuelles visant les enfants et présentent un risque élevé de commettre des crimes de nature sexuelle
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the High Risk Child Sex Offender Database Act.
+
+
+
+
+
+
+
+
+
+1. Loi sur la banque de données concernant les délinquants sexuels à risque élevé (infractions sexuelles visant les enfants).
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+INTERPRETATION
+
+
+
+
+
+
+
+
+
+DÉFINITIONS ET INTERPRÉTATION
+
+
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. (1) The following definitions apply in this Act.
+
+
+
+
+“sexual offence against a child”« infraction sexuelle visant un enfant »
+
+
+
+“sexual offence against a child” means
+
+
+
+
+
+
+
+
+(a) a designated offence as defined in subsection 490.011(1) of the Criminal Code that is committed against a person who is under 18 years of age, other than an offence referred to in paragraph (b) or (f) of the definition “designated offence” in that subsection if the prosecutor has not, for the purposes of subsection 490.012(2) of that Act, established beyond a reasonable doubt that the offender committed the offence with the intent to commit an offence referred to in paragraph (a), (c), (c.1), (d), (d.1) or (e) of that definition; or
+
+
+
+
+
+
+
+
+(b) an offence that is committed outside Canada against a person who is under 18 years of age and as a result of which the offender is or was required to comply with the Sex Offender Information Registration Act.
+
+
+
+
+“Commissioner”« commissaire »
+
+
+
+“Commissioner” means the Commissioner of the Royal Canadian Mounted Police.
+
+
+
+
+
+
+
+
+
+2. (1) Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« commissaire » Le commissaire de la Gendarmerie royale du Canada.
+
+
+
+« commissaire »“Commissioner”
+
+
+
+
+« infraction sexuelle visant un enfant » L’une ou l’autre des infractions suivantes :
+
+
+
+« infraction sexuelle visant un enfant »“sexual offence against a child”
+
+
+
+
+a) infraction désignée au sens du paragraphe 490.011(1) du Code criminel qui est commise contre une personne âgée de moins de dix-huit ans, à l’exception d’une infraction visée aux alinéas b) ou f) de la définition de « infraction désignée » à ce paragraphe si le poursuivant n’a pas établi hors de tout doute raisonnable, pour l’application du paragraphe 490.012(2) de cette loi, que le contrevenant a commis l’infraction avec l’intention de commettre une infraction visée aux alinéas a), c), c.1), d), d.1) ou e) de cette définition;
+
+
+
+
+
+
+
+
+b) infraction qui est commise à l’étranger contre une personne âgée de moins de dix-huit ans et en conséquence de laquelle le contrevenant est ou était tenu de se conformer à la Loi sur l’enregistrement de renseignements sur les délinquants sexuels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interpretation— crime of a sexual nature
+
+
+
+(2) For the purposes of this Act, a crime is of a sexual nature if it consists of one or more acts that
+
+
+
+
+
+
+
+
+(a) are either sexual in nature or committed with the intent to commit an act or acts that are sexual in nature; and
+
+
+
+
+
+
+
+
+(b) constitute an offence.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application de la présente loi, est un crime de nature sexuelle tout acte qui est de nature sexuelle ou qu’une personne commet avec l’intention de commettre un acte de nature sexuelle, et qui constitue une infraction.
+
+
+
+Interprétation— crime de nature sexuelle
+
+
+
+
+
+
+
+
+
+
+Interpretation — young person
+
+
+
+(3) For the purposes of this Act, a reference to a person who is found guilty of a sexual offence against a child does not include
+
+
+
+
+
+
+
+
+(a) a young person as defined in subsection 2(1) of the Youth Criminal Justice Act who has been found guilty of a sexual offence against a child unless they are given an adult sentence as defined in that subsection for the offence; or
+
+
+
+
+
+
+
+
+(b) a young person as defined in subsection 2(1) of the Young Offenders Act, chapter Y-1 of the Revised Statutes of Canada, 1985, who has been found guilty of a sexual offence against a child unless they are found guilty of the offence in ordinary court as defined in that subsection.
+
+
+
+
+
+
+
+
+
+(3) Pour l’application de la présente loi, « personne », en ce qui concerne une déclaration de culpabilité pour une infraction sexuelle visant un enfant, s’entend seulement : 
+
+
+
+Interprétation — adolescent
+
+
+
+
+a) s’agissant de l’adolescent, au sens du paragraphe 2(1) de la Loi sur le système de justice pénale pour les adolescents, de celui à qui est infligée une peine applicable aux adultes au sens de ce paragraphe;
+
+
+
+
+
+
+
+
+b) s’agissant de l’adolescent, au sens du paragraphe 2(1) de la Loi sur les jeunes contrevenants, chapitre Y-1 des Lois révisées du Canada (1985), de celui qui est déclaré coupable par la juridiction normalement compétente au sens de ce paragraphe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PURPOSE
+
+
+
+
+
+
+
+
+
+OBJET
+
+
+
+
+
+
+
+
+
+
+
+
+Purpose
+
+
+
+3. The purpose of this Act is to enhance public safety by establishing a publicly accessible database that contains information with respect to persons who are found guilty of sexual offences against children and who pose a high risk of committing crimes of a sexual nature.
+
+
+
+
+
+
+
+
+
+3. La présente loi a pour objet l’amélioration de la sécurité publique par la création d’une banque de données qui est accessible au public et contient des renseignements sur des personnes qui sont déclarées coupables d’infractions sexuelles visant les enfants et présentent un risque élevé de commettre des crimes de nature sexuelle.
+
+
+
+Objet
+
+
+
+
+
+
+
+
+
+
+DATABASE
+
+
+
+
+
+
+
+
+
+BANQUE DE DONNÉES
+
+
+
+
+
+
+
+
+
+
+
+
+Establishment
+
+
+
+4. (1) The Commissioner must establish and administer a publicly accessible database that contains information with respect to persons who are found guilty of sexual offences against children and who pose a high risk of committing crimes of a sexual nature.
+
+
+
+
+
+
+
+
+
+4. (1) Le commissaire crée et gère une banque de données qui est accessible au public et contient des renseignements sur des personnes qui sont déclarées coupables d’infractions sexuelles visant les enfants et présentent un risque élevé de commettre des crimes de nature sexuelle.
+
+
+
+Création
+
+
+
+
+
+
+
+
+
+
+Commissioner’s duties
+
+
+
+(2) The Commissioner’s duties under this Act may be performed on behalf of the Commissioner by any person who is authorized by the Commissioner to perform those duties.
+
+
+
+
+
+
+
+
+
+(2) Les fonctions que la présente loi confère au commissaire peuvent être exercées en son nom par toute personne qu’il habilite à cet effet.
+
+
+
+Exercice des fonctions du commissaire
+
+
+
+
+
+
+
+
+
+
+Content of database
+
+
+
+5. The database must contain only information, with respect to any person referred to in subsection 4(1), that a police service or other public authority has previously made accessible to the public, including:
+
+
+
+
+
+
+
+
+(a) their given name and surname, and any alias that they use;
+
+
+
+
+
+
+
+
+(b) their date of birth;
+
+
+
+
+
+
+
+
+(c) their gender;
+
+
+
+
+
+
+
+
+(d) their physical description, including any physical distinguishing mark that they have;
+
+
+
+
+
+
+
+
+(e) a photograph of them;
+
+
+
+
+
+
+
+
+(f) a description of offences they have committed;
+
+
+
+
+
+
+
+
+(g) any condition to which they are subject; and
+
+
+
+
+
+
+
+
+(h) the name of the city, town, municipality or other organized district in which they reside.
+
+
+
+
+
+
+
+
+
+5. La banque de données ne peut contenir que des renseignements, à l’égard de toute personne visée au paragraphe 4(1), qui ont été préalablement rendus accessibles au public par un service de police ou toute autre autorité publique, dont les renseignements suivants : 
+
+
+
+Contenu de la banque de données
+
+
+
+
+a) ses nom et prénom et tout nom d’emprunt qu’elle utilise;
+
+
+
+
+
+
+
+
+b) sa date de naissance;
+
+
+
+
+
+
+
+
+c) son sexe;
+
+
+
+
+
+
+
+
+d) sa description physique, y compris toute marque physique distinctive;
+
+
+
+
+
+
+
+
+e) une photographie d’elle;
+
+
+
+
+
+
+
+
+f) la description des infractions qu’elle a commises;
+
+
+
+
+
+
+
+
+g) toute condition à laquelle elle est assujettie;
+
+
+
+
+
+
+
+
+h) le nom de la collectivité locale — ville, municipalité ou autre circonscription administrative — dans laquelle elle réside.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior notification
+
+
+
+6. The Commissioner must, before including the given name and surname of a person referred to in subsection 4(1) in the database, take reasonable steps to notify that person that information with respect to them is to be included in the database and allow that person to make representations concerning the matter.
+
+
+
+
+
+
+
+
+
+6. Avant d’inclure dans la banque de données les nom et prénom d’une personne visée au paragraphe 4(1), le commissaire prend les mesures utiles pour informer la personne que des renseignements à son sujet seront inclus dans la banque de données et lui donner la possibilité de présenter des observations.
+
+
+
+Notification préalable
+
+
+
+
+
+
+
+
+
+
+Removal of information
+
+
+
+7. (1) On the receipt of an application in writing by a person referred to in subsection 4(1), the Commissioner must decide whether there are reasonable grounds to remove information with respect to that person from the database.
+
+
+
+
+
+
+
+
+
+7. (1) Le commissaire, saisi d’une demande écrite présentée par toute personne visée au paragraphe 4(1), décide s’il y a des motifs raisonnables de retirer de la banque de données des renseignements la concernant.
+
+
+
+Retrait de renseignements
+
+
+
+
+
+
+
+
+
+
+Deeming
+
+
+
+(2) If the Commissioner does not make a decision on the application within the period prescribed by regulation, the Commissioner is deemed to have decided not to remove the information in question.
+
+
+
+
+
+
+
+
+
+(2) S’il ne prend pas sa décision dans le délai réglementaire, le commissaire est réputé avoir décidé de ne pas retirer les renseignements de la banque de données.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+Notice of decision to applicant
+
+
+
+(3) The Commissioner must give notice without delay to the applicant of any decision made or deemed to have been made respecting the application.
+
+
+
+
+
+
+
+
+
+(3) Le commissaire donne sans délai au demandeur un avis de la décision qu’il a prise ou qu’il est réputé avoir prise relativement à la demande.
+
+
+
+Avis de la décision au demandeur
+
+
+
+
+
+
+
+
+
+
+Judicial review
+
+
+
+(4) Within 60 days after receipt of the notice of the decision, the applicant may apply to the Federal Court for judicial review of the decision.
+
+
+
+
+
+
+
+
+
+(4) Dans les soixante jours suivant la réception de l’avis, le demandeur peut présenter à la Cour fédérale une demande de contrôle judiciaire de la décision.
+
+
+
+Contrôle judiciaire
+
+
+
+
+
+
+
+
+
+
+Regular review of information
+
+
+
+8. Within the period prescribed by regulation after the establishment of the database, and at prescribed intervals after that, the Commissioner must review the information in the database to determine whether the information should still be maintained in the database. The review does not affect the validity of the database.
+
+
+
+
+
+
+
+
+
+8. Dans le délai réglementaire suivant la création de la banque de données et, par la suite, aux intervalles fixés par règlement, le commissaire examine celle-ci pour décider si les renseignements qui y figurent devraient toujours y figurer. L’examen est sans effet sur la validité de la banque de données.
+
+
+
+Examen périodique des renseignements
+
+
+
+
+
+
+
+
+
+
+Non-derogation
+
+
+
+9. Nothing in this Act affects any authority of the Royal Canadian Mounted Police under another Act of Parliament or an Act of a provincial legislature or at common law to disclose information.
+
+
+
+
+
+
+
+
+
+9. La présente loi n’a pas pour effet de porter atteinte aux pouvoirs de la Gendarmerie royale du Canada en matière de communication d’information qui découlent d’une autre loi fédérale, d’une loi provinciale ou de la common law.
+
+
+
+Aucune dérogation
+
+
+
+
+
+
+
+
+
+
+Immunity
+
+
+
+10. No criminal or civil proceedings lie against the Commissioner, or against any person acting on behalf or under the direction of the Commissioner, for anything done or omitted to be done in good faith under this Act.
+
+
+
+
+
+
+
+
+
+10. Le commissaire et les personnes agissant en son nom ou sous son autorité bénéficient de l’immunité civile et pénale pour les faits — actes ou omissions — accomplis de bonne foi au titre de la présente loi.
+
+
+
+Immunité
+
+
+
+
+
+
+
+
+
+
+REGULATIONS
+
+
+
+
+
+
+
+
+
+RÈGLEMENTS
+
+
+
+
+
+
+
+
+
+
+
+
+Governor in Council
+
+
+
+11. The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+(a) establishing the criteria for determining whether a person who is found guilty of a sexual offence against a child poses a high risk of committing a crime of a sexual nature; and
+
+
+
+
+
+
+
+
+(b) prescribing anything that, by this Act, is to be prescribed.
+
+
+
+
+
+
+
+
+
+11. Le gouverneur en conseil, peut, par règlement : 
+
+
+
+Gouverneur en conseil
+
+
+
+
+a) établir les critères permettant de décider qu’une personne qui est déclarée coupable d’une infraction sexuelle visant un enfant présente un risque élevé de commettre un crime de nature sexuelle;
+
+
+
+
+
+
+
+
+b) prendre toute mesure d’ordre réglementaire prévue par la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+Criminal Code
+
+
+
+
+
+
+
+
+
+Code criminel
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 21(2)
+
+
+
+30. Subsection 490.031(3) of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+30. Le paragraphe 490.031(3) du Code criminel est remplacé par ce qui suit : 
+
+
+
+2010, ch. 17, par. 21(2)
+
+
+
+
+
+
+
+
+
+
+Proof of certain facts by certificate
+
+
+
+(3) In proceedings under subsection (1), a certificate of a person referred to in paragraph 16(2)(b) of the Sex Offender Information Registration Act stating that the sex offender failed to report under section 4, 4.1, 4.2 or 4.3 — or provide information under section 5 or notify a person under subsection 6(1) or (1.01) — of that Act is evidence of the statements contained in it without proof of the signature or official character of the person appearing to have signed it.
+
+
+
+
+
+
+
+
+
+(3) Dans les instances intentées au titre du paragraphe (1), tout certificat dans lequel la personne visée à l’alinéa 16(2)b) de la Loi sur l’enregistrement de renseignements sur les délinquants sexuels déclare que le délinquant sexuel a omis de se présenter conformément aux articles 4, 4.1, 4.2 ou 4.3 de cette loi, de fournir des renseignements conformément à l’article 5 de cette loi ou d’aviser le préposé conformément aux paragraphes 6(1) ou (1.01) de la même loi fait preuve des déclarations qu’il contient sans qu’il soit nécessaire de prouver la signature ou la qualité officielle de la personne l’ayant apparemment signé.
+
+
+
+Preuve de certains faits par certificat
+
+
+
+
+
+
+
+
+
+
+2007, c. 5, s. 29
+
+
+
+31. The portion of section 490.0311 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+31. Le passage de l’article 490.0311 de la même loi précédant l’alinéa a) est remplacé par ce qui suit : 
+
+
+
+2007, ch. 5, art. 29
+
+
+
+
+
+
+
+
+
+
+Offence
+
+
+
+490.0311 Every person who knowingly provides false or misleading information under subsection 5(1) or 6(1) or (1.01) of the Sex Offender Information Registration Act is guilty of an offence and liable
+
+
+
+
+
+
+
+
+
+490.0311 Quiconque fait sciemment une déclaration fausse ou trompeuse dans le cadre des paragraphes 5(1) ou 6(1) ou (1.01) de la Loi sur l’enregistrement de renseignements sur les délinquants sexuels est coupable d’une infraction et encourt : 
+
+
+
+Infraction
+
+
+
+
+
+
+
+
+R.S., c. N-5
+
+
+
+National Defence Act
+
+
+
+
+
+
+
+
+
+Loi sur la défense nationale
+
+
+
+L.R., ch. N-5
+
+
+
+
+
+
+
+
+
+
+2010, c. 17, s. 45(2)
+
+
+
+32. Subsection 119.1(3) of the National Defence Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+32. Le paragraphe 119.1(3) de la Loi sur la défense nationale est remplacé par ce qui suit : 
+
+
+
+2010, ch. 17, par. 45(2)
+
+
+
+
+
+
+
+
+
+
+Proof of certain facts by certificate
+
+
+
+(3) In proceedings under subsection (1), a certificate of a person referred to in paragraph 16(2)(b.1) of the Sex Offender Information Registration Act stating that the person named in the certificate failed to report under section 4, 4.1, 4.2 or 4.3 — or provide information under section 5 or notify a person under subsection 6(1) or (1.01) — of that Act is evidence of the statements contained in it without proof of the signature or official character of the person appearing to have signed it.
+
+
+
+
+
+
+
+
+
+(3) Dans les instances intentées au titre du paragraphe (1), tout certificat dans lequel la personne visée à l’alinéa 16(2)b.1) de la Loi sur l’enregistrement de renseignements sur les délinquants sexuels déclare que la personne nommée dans celui-ci a omis de se présenter conformément aux articles 4, 4.1, 4.2 ou 4.3 de cette loi, de fournir des renseignements conformément à l’article 5 de cette loi ou d’aviser le préposé conformément aux paragraphes 6(1) ou (1.01) de la même loi fait preuve des déclarations qu’il contient sans qu’il soit nécessaire de prouver la signature ou la qualité officielle de la personne l’ayant apparemment signé.
+
+
+
+Preuve de certains faits par certificat
+
+
+
+
+
+
+
+
+
+
+COORDINATING AMENDMENTS
+
+
+
+
+
+
+
+
+
+DISPOSITIONS DE COORDINATION
+
+
+
+
+
+
+
+
+
+
+
+
+Bill C-13
+
+
+
+33. If Bill C-13, introduced in the 2nd session of the 41st Parliament and entitled the Protecting Canadians from Online Crime Act, receives royal assent, then, on the first day on which both section 3 of that Act and section 6 of this Act are in force, paragraphs 162.2(4)(a) and (b) of the Criminal Code are replaced by the following:
+
+
+
+
+
+
+
+
+
+33. En cas de sanction du projet de loi C-13, déposé au cours de la 2e session de la 41e législature et intitulé Loi sur la protection des Canadiens contre la cybercriminalité, dès le premier jour où l’article 3 de cette loi et l’article 6 de la présente loi sont tous deux en vigueur, les alinéas 162.2(4)a) et b) du Code criminel sont remplacés par ce qui suit : 
+
+
+
+Projet de loi C-13
+
+
+
+
+
+
+
+
+
+
+
+
+(a) an indictable offence and is liable to imprisonment for a term of not more than four years; or
+
+
+
+
+
+
+(b) an offence punishable on summary conviction and is liable to imprisonment for a term of not more than 18 months.
+
+
+
+
+
+
+
+
+
+a) soit d’un acte criminel passible d’un emprisonnement maximal de quatre ans;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’un emprisonnement maximal de dix-huit mois.
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+34. The provisions of this Act, other than section 33, come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+34. Les dispositions de la présente loi, à l’exception de l’article 33, entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of Commons
+
+
+
+Publié avec l'autorisation du président de la Chambre des communes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

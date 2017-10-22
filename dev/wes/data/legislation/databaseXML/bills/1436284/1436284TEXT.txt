@@ -1,0 +1,2361 @@
+
+
+
+
+
+
+C-19
+
+
+
+
+
+C-19
+
+
+
+
+
+
+First Session, Thirty-eighth Parliament,
+
+
+
+
+
+Première session, trente-huitième législature,
+
+
+
+
+
+
+53 Elizabeth II, 2004
+
+
+
+
+
+53 Elizabeth II, 2004
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-19
+
+
+
+
+
+PROJET DE LOI C-19
+
+
+
+
+
+
+An Act to amend the Competition Act and to make consequential amendments to other Acts
+
+
+
+
+
+Loi modifiant la Loi sur la concurrence et d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 2, 2004
+
+
+
+
+
+première lecture le 2 novembre 2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE MINISTER OF INDUSTRY
+
+90287
+
+
+
+LE MINISTRE DE L’INDUSTRIE
+
+
+
+
+
+
+
+
+
+
+SUMMARY
+This enactment amends the Competition Act and includes the introduction of an administrative monetary penalty in respect of cases of abuse of dominant position, an increase in the amount of administrative monetary penalties in respect of deceptive marketing cases and the repeal of all airline industry specific provisions and criminal provisions dealing with price discrimination, predatory pricing, discriminatory promotional allowances and geographic price discrimination. This enactment also provides that the court may make an order in respect of cases of false or misleading representations to require the person who engaged in the reviewable conduct to compensate persons affected by the conduct and issue an interim injunction order to freeze assets where the Commissioner of Competition intends to ask for that order. This enactment also provides for consequential amendments to other Acts.
+
+
+
+SOMMAIRE
+Le texte a pour objet de permettre l’imposition de sanctions administratives pécuniaires dans les cas d’abus de position dominante, et l’augmentation des sanctions relatives aux pratiques commerciales trompeuses. Il abroge les dispositions qui ne visent que l’industrie aérienne, ainsi que les dispositions qui traitent de la discrimination par les prix, des prix d’éviction, des remises promotionnelles discriminatoires et de la discrimination géographique par les prix en tant qu’infractions. Le texte prévoit que le tribunal peut rendre une ordonnance obligeant une personne ayant donné des indications fausses ou trompeuses à dédommager les personnes touchées par son comportement et peut prononcer une injonction provisoire en vue de bloquer certains biens dans les cas où le Commissaire de la concurrence a l’intention de demander une telle ordonnance. Il prévoit la modification d’autres lois en conséquence.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 38th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 38e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53 Elizabeth II, 2004
+
+
+
+
+
+
+
+
+
+53 Elizabeth II, 2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-19
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Competition Act and to make consequential amendments to other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur la concurrence et d’autres lois en conséquence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada,­ édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S. , c. C-34; c. 19 (2nd Supp.), s. 19
+
+
+
+AMENDMENTS TO THE COMPETITION ACT
+
+
+
+
+
+
+
+
+
+MODIFICATION DE LA LOI SUR LA CONCURRENCE
+
+
+
+L.R., ch. C-34; ch. 19 (2e suppl.), art. 19
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 11
+
+
+
+
+1. Section 4.1 of the Competition Act is repealed.
+
+
+
+
+
+
+
+
+
+
+1. L’article 4.1 de la Loi sur la concurrence est abrogé.
+
+
+
+2000, ch. 15, art. 11
+
+
+
+
+
+
+
+
+
+
+1999, c. 31, s. 50(F)
+
+
+
+
+2. Sections 50 and 51 of the Act are repealed.
+
+
+
+
+
+
+
+
+
+
+2. Les articles 50 et 51 de la même loi sont abrogés.
+
+
+
+1999, ch. 31, art. 50(F)
+
+
+
+
+
+
+
+
+
+
+1999, c. 2, s. 19
+
+
+
+
+3. The portion of section 66 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. Le passage de l’article 66 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1999, ch. 2, art. 19
+
+
+
+
+
+
+
+
+
+
+Contravention of Part VII.1 or VIII order
+
+
+
+
+66. Every person who contravenes an order made under Part VII.1, except paragraph 74.1(1)(c) and subsection 74.1(1.1), or under Part VIII, except subsection 79(3.1), is guilty of an offence and liable
+
+
+
+
+
+
+
+
+
+
+66. Quiconque contrevient à une ordonnance rendue en vertu de la partie VII.1, sauf l’alinéa 74.1(1)c) et le paragraphe 74.1(1.1), ou en vertu de la partie VIII, sauf le paragraphe 79(3.1), commet une infraction et encourt, sur déclaration de culpabilité :
+
+
+
+Ordonnances : parties VII.1 et VIII
+
+
+
+
+
+
+
+
+
+
+2002, c. 8, par. 198(c), c. 16, s. 8
+
+
+
+
+4. Subsection 73(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. Le paragraphe 73(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 8, al. 198c), ch. 16, art. 8
+
+
+
+
+
+
+
+
+
+
+Jurisdiction of Federal Court
+
+
+
+
+73. (1) Subject to this section, the Attorney General of Canada may institute and conduct any prosecution or other proceedings under section 34, any of sections 45 to 49 and section 61 or, where the proceedings are on indictment, under section 52, 52.1, 53, 55, 55.1 or 66, in the Federal Court, and for the purposes of the prosecution or other proceedings, the Federal Court has all the powers and jurisdiction of a superior court of criminal jurisdiction under the Criminal Code and under this Act.
+
+
+
+
+
+
+
+
+
+
+73. (1) Sous réserve des autres dispositions du présent article, le procureur général du Canada peut entamer et diriger toutes poursuites ou autres procédures prévues par l’article 34, l’un des articles 45 à 49, l’article 61 ou, lorsqu’il s’agit de procédures par mise en accusation, par les articles 52, 52.1, 53, 55, 55.1 ou 66, devant la Cour fédérale, et, à l’égard de telles poursuites ou autres procédures, la Cour fédérale possède tous les pouvoirs et la compétence d’une cour supérieure de juridiction criminelle sous le régime du Code criminel et de la présente loi.
+
+
+
+Compétence de la Cour fédérale
+
+
+
+
+
+
+
+
+
+
+1999, c. 2, s. 22
+
+
+
+
+ (1) The portion of subsection 74.1(1) of the French version of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. (1) Le passage du paragraphe 74.1(1) de la version française de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+1999, ch. 2, art. 22
+
+
+
+
+
+
+
+
+
+
+Décision et ordonnance
+
+
+
+
+
+74.1 (1) Le tribunal qui conclut, à la suite d’une demande du commissaire, qu’une personne a ou a eu un comportement susceptible d’examen visé par la présente partie peut ordonner à celle-ci :
+
+
+
+
+
+
+
+
+
+
+
+74.1 (1) Le tribunal qui conclut, à la suite d’une demande du commissaire, qu’une personne a ou a eu un comportement susceptible d’examen visé par la présente partie peut ordonner à celle-ci :
+
+
+
+Décision et ordonnance
+
+
+
+
+
+
+
+
+
+
+1999, c. 2, s. 22
+
+
+
+(2) Subparagraphs 74.1(1)(c)(i) and (ii) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Les sous-alinéas 74.1(1)c)(i) et (ii) de la même loi sont remplacés par ce qui suit :
+
+
+
+1999, ch. 2, art. 22
+
+
+
+
+
+
+
+
+
+
+
+
+(i) in the case of an individual, $750,000 and, for each subsequent order, $1,000,000, or
+
+
+
+
+
+
+(ii) in the case of a corporation, $10,000,000 and, for each subsequent order, $15,000,000.
+
+
+
+
+
+
+
+
+
+(i) dans le cas d’une personne physique, de 750 000 $ pour la première ordonnance et de 1 000 000 $ pour toute ordonnance subséquente,
+
+
+
+
+
+
+(ii) dans le cas d’une personne morale, de 10 000 000 $ pour la première ordonnance et de 15 000 000 $ pour toute ordonnance subséquente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 74.1 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(3) L’article 74.1 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Order
+
+
+
+
+(1.1) Where the court determines that a person is engaging in or has engaged in reviewable conduct under paragraph 74.01(1)(a), the court may also order the person to pay an amount, not exceeding the total of the amounts paid for the products that were the object of the conduct, to be distributed among the persons to whom the products were sold — not including those persons who bought the products for resale or distribution — in any manner and on any terms that the court considers appropriate. The court may specify in the order any terms that it considers necessary to implement its decision, including
+
+
+
+
+
+
+
+
+
+
+
+
+(a) specifying how the payment is to be administered;
+
+
+
+
+
+
+
+
+
+
+
+
+(b) appointing an administrator to administer the payment and specifying the terms of administration;
+
+
+
+
+
+
+
+
+
+
+
+
+(c) requiring the person against whom the order is made to pay the administrative costs related to the payment as well as the fees to be paid to an administrator;
+
+
+
+
+
+
+
+
+
+
+
+
+(d) requiring that potential claimants be notified in the time and manner specified by the court;
+
+
+
+
+
+
+
+
+
+
+
+
+(e) specifying the time and manner for making claims; and
+
+
+
+
+
+
+
+
+
+
+
+
+(f) specifying the conditions for the admissibility of claimants.
+
+
+
+
+
+
+
+
+
+
+
+(1.1) Dans le cas du comportement visé à l’alinéa 74.01(1)a), il peut en outre ordonner au contrevenant de payer aux personnes auxquelles les produits visés ont été vendus — sauf celles ayant acheté les produits pour revente ou distribution — une somme ne pouvant excéder la somme totale payée par ces personnes, laquelle est répartie entre elles de la manière et aux conditions qu’il estime indiquées. Il peut également y préciser les conditions qu’il estime nécessaires pour mettre en oeuvre sa décision, notamment :
+
+
+
+
+Ordonnance
+
+
+
+
+
+
+a) préciser comment la somme à payer doit être gérée;
+
+
+
+
+
+
+
+
+
+
+
+
+
+b) nommer un administrateur chargé de gérer la somme et préciser les modalités de cette gestion;
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) mettre à la charge de la personne visée par l’ordonnance les frais d’administration liés à la gestion de la somme ainsi que les honoraires de l’administrateur;
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) exiger que les réclamants éventuels soient avisés selon les modalités de forme et de temps qu’il détermine;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) préciser les modalités de forme et de temps quant à la présentation de toute réclamation;
+
+
+
+
+
+
+
+
+
+
+
+
+
+f) établir les critères d’admissibilité des réclamants.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not-for-profit organization
+
+
+
+
+(1.2) The court may also designate in the order a not-for-profit organization in Canada that benefits persons who have been affected or are likely to be affected by reviewable conduct under this Part — or any other person or organization that the court considers appropriate in the circumstances — to receive any or all of the amount of the payment that remains unclaimed or undistributed in the manner and on the terms set out in the order.
+
+
+
+
+
+
+
+
+
+
+
+(1.2) Il peut en outre y prévoir que, si tout ou partie de la somme n’a pas été réclamé ou n’a pu être distribué, la somme non réclamée ou non distribuée est versée en tout ou en partie de la manière et aux conditions précisées dans l’ordonnance à un organisme à but non lucratif au Canada qu’il désigne et qui vient en aide aux personnes qui ont souffert ou risquent de souffrir de comportements susceptibles d’examen visés par la présente partie ou à toute personne ou tout organisme qu’il estime indiqués dans les circonstances.
+
+
+
+
+Organisme à but non lucratif
+
+
+
+
+
+
+
+
+
+
+Variation of order
+
+
+
+
+(1.3) The court may vary the order on application by the Commissioner or the person against whom the order was made.
+
+
+
+
+
+
+
+
+
+
+
+(1.3) Il peut modifier l’ordonnance à la suite d’une demande du commissaire ou de la personne à l’égard de laquelle l’ordonnance a été rendue.
+
+
+
+
+Modification de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+1999, c. 2, s. 22
+
+
+
+(4) Subsections 74.1(3) and (4) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Les paragraphes 74.1(3) et (4) de la même loi sont remplacés par ce qui suit :
+
+
+
+1999, ch. 2, art. 22
+
+
+
+
+
+
+
+
+
+
+Saving
+
+
+
+(3) No order may be made against a person under paragraph (1)(b) or (c) or subsection (1.1) where the person establishes that the person exercised due diligence to prevent the reviewable conduct from occurring.
+
+
+
+
+
+
+
+
+
+(3) L’ordonnance prévue aux alinéas (1)b) ou c) ou au paragraphe (1.1) ne peut être rendue si la personne visée établit qu’elle a fait preuve de toute la diligence voulue pour empêcher le comportement reproché.
+
+
+
+Disculpation
+
+
+
+
+
+
+
+
+
+
+Purpose of order
+
+
+
+(4) The terms of an order made against a person under paragraph (1)(b) or (c) or subsection (1.1) shall be determined with a view to promoting conduct by that person that is in conformity with the purposes of this Part and not with a view to punishment.
+
+
+
+
+
+
+
+
+
+(4) Les conditions de l’ordonnance rendue en vertu des alinéas (1)b) ou c) ou du paragraphe (1.1) sont fixées de façon à encourager le contrevenant à adopter un comportement compatible avec les objectifs de la présente partie et non à le punir.
+
+
+
+But de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+1999, c. 2, s. 22
+
+
+
+(5) Subsection 74.1(5) of the Act is amended by striking out the word “and” at the end of paragraph (g) and by replacing paragraph (h) with the following:
+
+
+
+
+
+
+
+
+
+(5) L’alinéa 74.1(5)h) de la même loi est remplacé par ce qui suit :
+
+
+
+1999, ch. 2, art. 22
+
+
+
+
+
+
+
+
+
+
+
+
+(h) the gross revenue from sales affected by the conduct;
+
+
+
+
+
+
+
+(i) the financial position of the person against whom the order is made;
+
+
+
+
+
+
+
+
+(j) any decision of the court in relation to an application for an order under subsection (1.1);
+
+
+
+
+
+
+
+
+(k) whether any restitution has been made voluntarily; and
+
+
+
+
+
+
+
+
+(l) any other relevant factor.
+
+
+
+
+
+
+
+
+
+
+h) le revenu brut provenant des ventes sur lesquelles le comportement a eu une incidence;
+
+
+
+
+
+
+
+
+i) la situation financière de la personne visée par l’ordonnance;
+
+
+
+
+
+
+
+
+
+j) toute décision du tribunal à l’égard d’une demande d’ordonnance présentée au titre du paragraphe (1.1);
+
+
+
+
+
+
+
+
+
+k) la question de savoir si une somme a été versée volontairement à titre de dédommagement;
+
+
+
+
+
+
+
+
+
+l) toute autre circonstance pertinente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Act is amended by adding the following after section 74.11:
+
+
+
+
+
+
+
+
+
+
+6. La même loi est modifiée par adjonction, après l’article 74.11, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Interim injunction
+
+
+
+
+
+74.111 (1) Where a court finds, on application by the Commissioner, a strong prima facie case that a person is engaging in or has engaged in reviewable conduct under paragraph 74.01(1)(a) and the court is satisfied that the person, being the owner or the person having possession or control of articles within the jurisdiction of the court, is disposing of or is likely to dispose of those articles by any means, the court may issue an interim injunction forbidding the owner or any person having possession or control of the articles from disposing of or otherwise dealing with the articles other than in the manner and on the terms specified in the injunction.
+
+
+
+
+
+
+
+
+
+
+
+
+74.111 (1) Le tribunal qui constate, à la suite d’une demande d’injonction présentée par le commissaire, l’existence d’une preuve prima facie convaincante établissant qu’une personne a ou a eu un comportement susceptible d’examen visé par l’alinéa 74.01(1)a) et qui est convaincu que cette personne a entrepris de disposer ou disposera vraisemblablement de quelque façon d’articles qui se trouvent dans son ressort et dont la personne est propriétaire ou dont elle a la garde ou la responsabilité peut prononcer une injonction provisoire interdisant au propriétaire ou à quiconque a la garde ou la responsabilité des articles d’effectuer quelque opération à leur égard, si ce n’est de la manière et aux conditions précisées dans l’ordonnance d’injonction.
+
+
+
+
+Ordonnance d’injonction provisoire
+
+
+
+
+
+
+
+
+
+
+Statement to be included 
+
+
+
+
+(2) Any application for an injunction under subsection (1) shall include a statement that the Commissioner has applied, or intends to apply, for an order under subsection 74.1(1.1).
+
+
+
+
+
+
+
+
+
+
+
+(2) Le commissaire doit signaler, dans sa demande d’injonction, qu’il a demandé ou a l’intention de demander l’ordonnance visée au paragraphe 74.1(1.1).
+
+
+
+
+Mention à ajouter
+
+
+
+
+
+
+
+
+
+
+Where court shall not issue injunction
+
+
+
+
+(3) The court shall not issue an injunction where the person in respect of whom the injunction is sought establishes that the disposal of the articles will not render an order under subsection 74.1(1.1) unenforceable.
+
+
+
+
+
+
+
+
+
+
+
+(3) Le tribunal ne rend pas l’ordonnance d’injonction si la personne visée par la demande d’injonction établit que la disposition des articles n’aura pas pour effet de rendre inexécutable l’ordonnance rendue en vertu du paragraphe 74.1(1.1).
+
+
+
+
+Annulation de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+Duration
+
+
+
+
+(4) Subject to subsection (7), the injunction has effect, or may be extended on application by the Commissioner, for any period that the court considers necessary and sufficient to meet the circumstances of the case.
+
+
+
+
+
+
+
+
+
+
+
+(4) Sous réserve du paragraphe (7), l’ordonnance d’injonction — originale ou prorogée — a effet pour la durée que le tribunal estime nécessaire et suffisante pour parer aux circonstances de l’affaire; la prorogation est prononcée par le tribunal à la suite de la demande que présente le commissaire.
+
+
+
+
+Durée d’application
+
+
+
+
+
+
+
+
+
+
+Notice of application by Commissioner
+
+
+
+
+(5) Subject to subsection (6), at least forty-eight hours’ notice of an application referred to in subsection (1) or (4) shall be given by or on behalf of the Commissioner to the person in respect of whom the injunction or extension is sought.
+
+
+
+
+
+
+
+
+
+
+
+(5) Sous réserve du paragraphe (6), le commissaire, ou la personne agissant pour son compte, donne un préavis d’au moins quarante-huit heures à toute personne à l’égard de laquelle est demandée l’ordonnance d’injonction ou la prorogation prévue aux paragraphes (1) ou (4).
+
+
+
+
+Préavis
+
+
+
+
+
+
+
+
+
+
+
+Ex parte application
+
+
+
+
+(6) The court may proceed ex parte with an application made under subsection (1) where it is satisfied that subsection (5) cannot reasonably be complied with, where the urgency of the situation is such that service of the notice in accordance with subsection (5) would not be in the public interest or where service of the notice might defeat the purpose of the injunction.
+
+
+
+
+
+
+
+
+
+
+
+(6) Le tribunal peut entendre ex parte la demande prévue au paragraphe (1), s’il est convaincu que le paragraphe (5) ne peut vraisemblablement pas être observé, ou que la situation est à ce point urgente que la signification du préavis prévu à ce paragraphe ne servirait pas l’intérêt public ou pourrait rendre l’ordonnance inutile.
+
+
+
+
+Audition ex parte
+
+
+
+
+
+
+
+
+
+
+Duration of ex parte injunction 
+
+
+
+
+(7) An injunction issued ex parte has effect for the period that is specified in it, not exceeding seven days, unless, on further application made on notice as provided in subsection (5), the court extends the injunction for any additional period that it considers necessary and sufficient.
+
+
+
+
+
+
+
+
+
+
+
+(7) L’ordonnance d’injonction rendue ex parte s’applique pour la période d’au plus sept jours qui y est fixée, sauf si, sur demande ultérieure présentée au moyen du préavis prévu au paragraphe (5), l’ordonnance est prorogée pour la période supplémentaire que le tribunal estime nécessaire et suffisante.
+
+
+
+
+Durée d’application
+
+
+
+
+
+
+
+
+
+
+Submissions to set aside
+
+
+
+
+(8) On application of the person against whom an ex parte injunction is made, the court may make an order setting aside the injunction or varying it subject to any conditions that it considers appropriate if the person establishes that the disposal of the articles will not render an order under subsection 74.1(1.1) unenforceable.
+
+
+
+
+
+
+
+
+
+
+
+(8) Le tribunal peut, à la suite d’une demande présentée par la personne visée par l’ordonnance d’injonction ex parte, annuler ou modifier l’ordonnance sous réserve des conditions qu’il estime indiquées, si la personne établit que la disposition des articles n’aura pas pour effet de rendre inexécutable l’ordonnance rendue en vertu du paragraphe 74.1(1.1).
+
+
+
+
+Demande d’annulation de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+Notice of application
+
+
+
+
+(9) A person who makes an application under subsection (8) shall give the Commissioner forty-eight hours written notice of the application.
+
+
+
+
+
+
+
+
+
+
+
+(9) La personne qui présente la demande visée au paragraphe (8) donne un préavis écrit d’au moins quarante-huit heures au commissaire.
+
+
+
+
+Préavis
+
+
+
+
+
+
+
+
+
+
+Duty of Commissioner
+
+
+
+
+(10) Where an injunction issued under this section is in effect, the Commissioner shall proceed as expeditiously as possible to complete the inquiry under section 10 arising out of the conduct in respect of which the injunction was issued.
+
+
+
+
+
+
+
+
+
+
+
+(10) Lorsqu’une ordonnance d’injonction a force d’application aux termes du présent article, le commissaire doit, avec toute la diligence possible, mener à terme l’enquête visée à l’article 10 à l’égard du comportement qui fait l’objet de l’ordonnance.
+
+
+
+
+Obligation du commissaire
+
+
+
+
+
+
+
+
+
+
+Definition of “dispose”
+
+
+
+
+(11) For the purposes of this section, “dispose” includes removing from the jurisdiction of the court, depleting the value of or disposing of by lease.
+
+
+
+
+
+
+
+
+
+
+
+(11) Pour l’application du présent article, « disposer » s’entend également du fait de retirer du ressort du tribunal, d’occasionner la diminution de valeur ou de donner à bail.
+
+
+
+
+Définition de « disposer »
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 13(2)
+
+
+
+
+7. (1) Subsection 78(1) of the Act is amended by adding the word “and” at the end of paragraph (h) and by repealing paragraphs (j) and (k).
+
+
+
+
+
+
+
+
+
+
+7. (1) Les alinéas 78(1)j) et k) de la même loi sont abrogés.
+
+
+
+2000, ch. 15, par. 13(2)
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 13(3)
+
+
+
+(2) Subsection 78(2) of the Act is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 78(2) de la même loi est abrogé.
+
+
+
+2000, ch. 15, par. 13(3)
+
+
+
+
+
+
+
+
+
+
+2002, c. 16, s. 11.4
+
+
+
+
+8. Subsections 79(3.1) to (3.3) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. Les paragraphes 79(3.1) à (3.3) de la même loi sont remplacés par ce qui suit :
+
+
+
+2002, ch. 16, art. 11.4
+
+
+
+
+
+
+
+
+
+
+Administrative monetary penalty
+
+
+
+(3.1) Where the Tribunal makes an order against a person under subsection (1) or (2), it may also order them to pay, in any manner that the Tribunal may specify, an administrative monetary penalty in an amount not greater than $10,000,000 and, for each subsequent order under either of those subsections, an amount not greater than $15,000,000.
+
+
+
+
+
+
+
+
+
+(3.1) S’il rend une ordonnance en vertu des paragraphes (1) ou (2), il peut aussi ordonner à la personne visée de payer, selon les modalités qu’il peut préciser, une sanction administrative pécuniaire maximale de 10 000 000 $ et, pour toute ordonnance subséquente rendue en application de l’un de ces paragraphes, de 15 000 000 $.
+
+
+
+Sanction administrative pécuniaire
+
+
+
+
+
+
+
+
+
+
+Aggravating or mitigating factors
+
+
+
+(3.2) In determining the amount of an administrative monetary penalty, the Tribunal shall take into account the following:
+
+
+
+
+
+
+
+
+
+
+(a) the frequency and duration of the practice;
+
+
+
+
+
+
+
+
+
+
+(b) injury to competition in the relevant market;
+
+
+
+
+
+
+
+
+
+
+(c) the history of compliance with this Act by the person against whom the order is made;
+
+
+
+
+
+
+
+
+
+
+(d) the gross revenue from sales affected by the practice;
+
+
+
+
+
+
+
+
+
+
+(e) any actual or anticipated profits generated by the practice;
+
+
+
+
+
+
+
+
+
+
+
+(f) the financial position of the person against whom the order is made; and
+
+
+
+
+
+
+
+
+
+
+
+(g) any other relevant factor.
+
+
+
+
+
+
+
+
+
+(3.2) Pour la détermination du montant de la sanction administrative pécuniaire, il est tenu compte des éléments suivants :
+
+
+
+Facteurs à prendre en compte
+
+
+
+
+
+a) la fréquence et la durée de la pratique;
+
+
+
+
+
+
+
+
+
+
+
+b) le tort causé à la concurrence sur le marché pertinent;
+
+
+
+
+
+
+
+
+
+
+
+c) le comportement antérieur de la personne visée par l’ordonnance en ce qui a trait au respect de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+
+d) le revenu brut provenant des ventes sur lesquelles la pratique a eu une incidence;
+
+
+
+
+
+
+
+
+
+
+
+
+
+e) tout avantage pécuniaire réel ou envisagé découlant de la pratique;
+
+
+
+
+
+
+
+
+
+
+
+
+
+f) la situation financière de la personne visée par l’ordonnance;
+
+
+
+
+
+
+
+
+
+
+
+
+
+g) toute autre circonstance pertinente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Purpose of order
+
+
+
+(3.3) The purpose of an order made against a person under subsection (3.1) is to promote practices by that person that are in conformity with the purposes of this section and not to punish that person.
+
+
+
+
+
+
+
+
+
+(3.3) La sanction prévue au paragraphe (3.1) vise à encourager la personne visée par l’ordonnance à adopter une pratique compatible avec les objectifs du présent article et non à la punir.
+
+
+
+But de la sanction
+
+
+
+
+
+
+
+
+
+
+2002, c. 16, s. 11.5
+
+
+
+
+9. Section 79.1 of the English version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. L’article 79.1 de la version anglaise de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 16, art. 11.5
+
+
+
+
+
+
+
+
+
+
+Unpaid monetary penalty
+
+
+
+
+79.1 The amount of an administrative monetary penalty imposed on a person under subsection 79(3.1) is a debt due to Her Majesty in right of Canada and may be recovered as such from that person in a court of competent jurisdiction.
+
+
+
+
+
+
+
+
+
+
+
+79.1 The amount of an administrative monetary penalty imposed on a person under subsection 79(3.1) is a debt due to Her Majesty in right of Canada and may be recovered as such from that person in a court of competent jurisdiction.
+
+
+
+
+Unpaid monetary penalty
+
+
+
+
+
+
+
+
+
+
+2000, c. 15, s. 15; 2002, c. 16, s. 13.1
+
+
+
+
+10. Section 104.1 of the Act is repealed.
+
+
+
+
+
+
+
+
+
+
+10. L’article 104.1 de la même loi est abrogé.
+
+
+
+2000, ch. 15, art. 15; 2002, ch. 16, art. 13.1
+
+
+
+
+
+
+
+
+
+
+2002, c. 16, s. 14
+
+
+
+
+11. Subsection 105(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. Le paragraphe 105(1) de la même loi est remplacé par ce qui suit :
+
+
+
+2002, ch. 16, art. 14
+
+
+
+
+
+
+
+
+
+
+Consent agreement
+
+
+
+
+105. (1) The Commissioner and a person in respect of whom the Commissioner has applied or may apply for an order under this Part, other than an interim order under section 103.3, may sign a consent agreement.
+
+
+
+
+
+
+
+
+
+
+105. (1) Le commissaire et la personne à l’égard de laquelle il a demandé ou peut demander une ordonnance en vertu de la présente partie — exception faite de l’ordonnance provisoire prévue à l’article 103.3 — peuvent signer un consentement.
+
+
+
+Consentement
+
+
+
+
+
+
+
+
+
+
+2002, c. 16, s. 14
+
+
+
+
+12. The portion of subsection 106(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. Le passage du paragraphe 106(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+2002, ch. 16, art. 14
+
+
+
+
+
+
+
+
+
+
+Rescission or variation of consent agreement or order
+
+
+
+
+106. (1) The Tribunal may rescind or vary a consent agreement or an order made under this Part other than an order under section 103.3 or a consent agreement under section 106.1, on application by the Commissioner or the person who consented to the agreement, or the person against whom the order was made, if the Tribunal finds that
+
+
+
+
+
+
+
+
+
+
+106. (1) Le Tribunal peut annuler ou modifier le consentement ou l’ordonnance visés par la présente partie, à l’exception de l’ordonnance rendue en vertu de l’article 103.3 et du consentement visé à l’article 106.1, lorsque, à la demande du commissaire ou de la personne qui a signé le consentement, ou de celle à l’égard de laquelle l’ordonnance a été rendue, il conclut que, selon le cas :
+
+
+
+Annulation ou modification du consentement ou de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONSEQUENTIAL AMENDMENTS
+
+
+
+
+
+
+
+
+
+MODIFICATIONS CORRÉLATIVES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. 19 (2nd Supp.)
+
+
+
+Competition Tribunal Act
+
+
+
+
+
+
+
+
+
+Loi sur le Tribunal de la concurrence
+
+
+
+L.R., ch. 19 (2e suppl.)
+
+
+
+
+
+
+
+
+
+
+2002, c. 16, s. 19
+
+
+
+
+13. Subsection 11(1) of the Competition Tribunal Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 11(1) de la Loi sur le Tribunal de la concurrence est remplacé par ce qui suit :
+
+
+
+2002, ch. 16, art. 19
+
+
+
+
+
+
+
+
+
+
+Hearing of applications
+
+
+
+
+11. (1) The Chairman of the Tribunal, sitting alone, or a judicial member designated by the Chairman, sitting alone, may hear and dispose of applications under section 74.111, subsection 100(1) or section 103.1 or 103.3 of the Competition Act and any related matters.
+
+
+
+
+
+
+
+
+
+
+11. (1) Le président, siégeant seul, ou un juge désigné par le président et siégeant seul, peut statuer sur les demandes d’ordonnance présentées en application de l’article 74.111, du paragraphe 100(1) ou des articles 103.1 ou 103.3 de la Loi sur la concurrence ainsi que sur toute question afférente.
+
+
+
+Demandes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2003, c. 22
+
+
+
+Public Service Modernization Act
+
+
+
+
+
+
+
+
+
+Loi sur la modernisation de la fonction publique
+
+
+
+2003, ch. 22
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. Paragraph 224(z.18) of the Public Service Modernization Act is repealed.
+
+
+
+
+
+
+
+
+
+
+14. L’alinéa 224z.18) de la Loi sur la modernisation de la fonction publique est abrogé.
+
+
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

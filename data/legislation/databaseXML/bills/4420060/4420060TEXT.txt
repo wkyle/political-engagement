@@ -1,0 +1,9126 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Third Session, Fortieth Parliament,
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+Troisième session, quarantième législature,
+59-60 Elizabeth II, 2010-2011
+
+
+
+
+
+
+STATUTES OF CANADA 2011CHAPTER 3
+
+
+
+
+
+LOIS DU CANADA (2011)CHAPITRE 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Electricity and Gas Inspection Act and the Weights and Measures Act
+
+
+
+
+
+Loi modifiant la Loi sur l’inspection de l’électricité et du gaz et la Loi sur les poids et mesures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ASSENTED TO
+23rd MARCH, 2011
+BILL C-14
+
+
+
+
+
+SANCTIONNÉE
+LE 23 MARS 2011
+PROJET DE LOI C-14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECOMMENDATION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled “An Act to amend the Electricity and Gas Inspection Act and the Weights and Measures Act”.
+SUMMARY
+This enactment provides for the imposition of administrative monetary penalties for contraventions to the Electricity and Gas Inspection Act and the Weights and Measures Act. It also provides for higher maximum fines for offences committed under each of those Acts and creates new offence provisions for repeat offenders.
+The enactment also amends the Weights and Measures Act to require that traders cause any device that they use in trade or have in their possession for trade to be examined within the periods prescribed by regulation. That new requirement is to be enforced through a new offence provision. The enactment also provides the Minister of Industry with the authority to designate persons who are not employed in the federal public administration as inspectors to perform certain examinations.
+
+
+
+RECOMMANDATION
+Son Excellence la gouverneure générale recommande à la Chambre des communes l’affectation de deniers publics dans les circonstances, de la manière et aux fins prévues dans une mesure intitulée « Loi modifiant la Loi sur l’inspection de l’électricité et du gaz et la Loi sur les poids et mesures ».
+SOMMAIRE
+Le texte prévoit la mise en place d’un régime de pénalités pour les contraventions à la Loi sur l’inspection de l’électricité et du gaz et à la Loi sur les poids et mesures. En outre, il modifie à la hausse le montant des amendes prévues pour les infractions à ces lois et crée des infractions de récidive.
+Par ailleurs, le texte modifie la Loi sur les poids et mesures pour établir l’obligation des commerçants de faire examiner, dans les délais réglementaires, les instruments qu’ils utilisent dans le commerce ou ont en leur possession à cette fin, sous peine de sanction. De plus, il confère au ministre de l’Industrie le pouvoir de désigner des personnes ne faisant pas partie de l’administration publique fédérale pour agir à titre d’inspecteur afin d’effectuer certains examens.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+59-60 ELIZABETH II
+
+
+
+
+
+
+
+
+
+59-60 ELIZABETH II
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+——————
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER 3
+
+
+
+
+
+
+
+
+
+CHAPITRE 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Electricity and Gas Inspection Act and the Weights and Measures Act
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur l’inspection de l’électricité et du gaz et la Loi sur les poids et mesures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Assented to 23rd March, 2011]
+
+
+
+
+
+
+
+
+
+[Sanctionnée le 23 mars 2011]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SHORT TITLE
+
+
+
+
+
+
+
+
+
+TITRE ABRÉGÉ
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+
+1. This Act may be cited as the Fairness at the Pumps Act.
+
+
+
+
+
+
+
+
+
+
+1.  Loi sur l’équité à la pompe.
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. E-4
+
+
+
+ELECTRICITY AND GAS INSPECTION ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’INSPECTION DE L’ÉLECTRICITÉ ET DU GAZ
+
+
+
+L.R., ch. E-4
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. The long title of the Electricity and Gas Inspection Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+2. Le titre intégral de la Loi sur l’inspection de l’électricité et du gaz est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act relating to the inspection of electricity and gas meters and supplies
+
+
+
+
+
+
+
+
+
+Loi concernant l’inspection des compteurs d’électricité et des compteurs de gaz et les approvisionnements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. The definition “meter” in subsection 2(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+3. La définition de « compteur », au paragraphe 2(1) de la même loi, est remplacée par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“meter”« compteur »
+
+
+
+“meter” means an electricity or gas meter and includes any apparatus used for the purpose of making measurements of, or obtaining the basis of a charge for, electricity or gas supplied to a purchaser;
+
+
+
+
+
+
+
+
+
+« compteur » Compteur d’électricité et compteur de gaz. Est visé par la présente définition tout appareil servant à mesurer l’électricité ou le gaz fourni au consommateur ou servant à établir une somme exigible pour la fourniture d’électricité ou de gaz à un consommateur.
+
+
+
+« compteur »“meter”
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. Subsection 16(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+4. Le paragraphe 16(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Owner’s liability
+
+
+
+
+16. (1) The owner of each verified meter that is in use shall keep it in good repair and is responsible for causing it to be dealt with in accordance with the requirements of this Act and the regulations, and, subject to those requirements, the owner is liable to pay any fees chargeable for dealing with the meter in accordance with those requirements.
+
+
+
+
+
+
+
+
+
+
+16. (1) Le propriétaire de chaque compteur vérifié qui est en usage le conserve en bon état et voit à ce qu’on agisse à son égard d’une manière qui soit conforme aux dispositions de la présente loi et des règlements prévoyant des exigences. Sous réserve de ces dispositions, il est responsable du paiement des droits que pourrait entraîner cette obligation de conformité.
+
+
+
+Responsabilité du propriétaire
+
+
+
+
+
+
+
+
+
+
+R.S., c. 31 (1st Supp.), s. 7
+
+
+
+
+5. (1) Subsection 26(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+5. (1) Le paragraphe 26(3) de la même loi est remplacé par ce qui suit :
+
+
+
+L.R., ch. 31 (1er suppl.), art. 7
+
+
+
+
+
+
+
+
+
+
+Designation to perform inspector’s functions
+
+
+
+(3) Despite anything in this Act, except as provided in subsections (5) and (5.1), any functions that pertain to an inspector’s office may be performed by any person who is designated as an inspector by the Minister for the purpose of the performance of those functions.
+
+
+
+
+
+
+
+
+
+(3) Par dérogation à la présente loi, et sous réserve des paragraphes (5) et (5.1), les fonctions conférées aux inspecteurs peuvent être exercées en tout ou en partie par des personnes que le ministre désigne; ces personnes agissent alors à titre d’inspecteur pour ce qui est des fonctions qui leur sont assignées par le ministre.
+
+
+
+Désignation par le ministre
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 26 of the Act is amended by adding the following after subsection (5):
+
+
+
+
+
+
+
+
+
+(2) L’article 26 de la même loi est modifié par adjonction, après le paragraphe (5), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Other restrictions
+
+
+
+(5.1) A person designated as an inspector under subsection (3) is not authorized to exercise the powers set out in subsection 29.12(1).
+
+
+
+
+
+
+
+
+
+(5.1) La personne désignée au titre du paragraphe (3) ne peut exercer les pouvoirs prévus au paragraphe 29.12(1).
+
+
+
+Autres restrictions
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. The Act is amended by adding the following after section 29:
+
+
+
+
+
+
+
+
+
+
+6. La même loi est modifiée par adjonction, après l’article 29, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE MONETARY PENALTIES
+
+
+
+
+
+
+
+
+
+PÉNALITÉS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powers of the Governor in Council
+
+
+
+
+
+
+
+
+
+Pouvoirs du gouverneur en conseil
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+29.1 The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+
+
+(a) designating any provision of this Act — other than paragraphs 30(b) to (e) and subsection 32(1) — or of the regulations as a provision whose contravention may be proceeded with as a violation in accordance with sections 29.11 to 29.29;
+
+
+
+
+
+
+
+
+
+
+(b) establishing a penalty, or a range of penalties, in respect of each violation;
+
+
+
+
+
+
+
+
+
+
+(c) establishing criteria to be considered in determining the amount of the penalty if a range of penalties is established;
+
+
+
+
+
+
+
+
+
+
+(d) classifying each violation as a minor violation, a serious violation or a very serious violation;
+
+
+
+
+
+
+
+
+
+
+(e) respecting the circumstances under which, the criteria by which and the manner in which the amount of a penalty may be increased or reduced in whole or in part; and
+
+
+
+
+
+
+
+
+
+
+(f) respecting a lesser amount that may be paid as complete satisfaction of a penalty if it is paid within the prescribed time and in the prescribed manner, including the circumstances in which the lesser amount may be set out in a notice of violation.
+
+
+
+
+
+
+
+
+
+
+29.1 Le gouverneur en conseil peut, par règlement :
+
+
+
+Règlements
+
+
+
+
+
+a) désigner toute disposition de la présente loi — à l’exclusion des alinéas 30b) à e) et du paragraphe 32(1) — ou toute disposition des règlements comme l’une dont la contravention peut faire l’objet d’une procédure en violation au titre des articles 29.11 à 29.29;
+
+
+
+
+
+
+
+
+
+
+
+b) établir le montant de la pénalité — ou établir un barème de pénalités — applicable à chaque violation;
+
+
+
+
+
+
+
+
+
+
+
+c) établir les critères applicables à la détermination du montant de la pénalité, lorsqu’un barème de pénalités est établi;
+
+
+
+
+
+
+
+
+
+
+
+d) qualifier les violations, selon le cas, de mineures, graves ou très graves;
+
+
+
+
+
+
+
+
+
+
+
+e) prévoir les circonstances, critères et modalités applicables à l’augmentation ou à la réduction — partielle ou totale — du montant de la pénalité;
+
+
+
+
+
+
+
+
+
+
+
+f) prévoir une somme inférieure à la pénalité infligée, dont le paiement, dans le délai et selon les modalités réglementaires, vaut règlement, et prévoir notamment les circonstances où la somme inférieure peut être mentionnée dans le procès-verbal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Violations
+
+
+
+
+
+
+
+
+
+Violations
+
+
+
+
+
+
+
+
+
+
+
+
+Commission of violation
+
+
+
+
+29.11 (1) Every person who contravenes a provision designated under paragraph 29.1(a) commits a violation and is liable to a penalty established in accordance with the regulations.
+
+
+
+
+
+
+
+
+
+
+29.11 (1) Toute contravention à une disposition désignée en vertu de l’alinéa 29.1a) constitue une violation exposant son auteur à la pénalité établie conformément aux règlements.
+
+
+
+Violations
+
+
+
+
+
+
+
+
+
+
+Purpose of penalty
+
+
+
+(2) The purpose of a penalty is to promote compliance with this Act and not to punish.
+
+
+
+
+
+
+
+
+
+(2) L’imposition de la pénalité vise non pas à punir, mais plutôt à favoriser le respect de la présente loi.
+
+
+
+But de la pénalité
+
+
+
+
+
+
+
+
+
+
+Maximum penalty
+
+
+
+(3) The maximum penalty for a violation is $2,000.
+
+
+
+
+
+
+
+
+
+(3) La pénalité maximale pour une violation est de 2 000 $.
+
+
+
+Plafond de la pénalité
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proceedings
+
+
+
+
+
+
+
+
+
+Ouverture de la procédure
+
+
+
+
+
+
+
+
+
+
+
+
+Notice of violation
+
+
+
+
+29.12 (1) An inspector may issue a notice of violation and cause it to be provided to a person if the inspector has reasonable grounds to believe that the person has committed a violation.
+
+
+
+
+
+
+
+
+
+
+29.12 (1) L’inspecteur qui a des motifs raisonnables de croire qu’une violation a été commise peut dresser un procès-verbal qu’il fait notifier à l’auteur présumé de la violation.
+
+
+
+Procès-verbal
+
+
+
+
+
+
+
+
+
+
+Contents of notice
+
+
+
+(2) The notice of violation must
+
+
+
+
+
+
+
+
+
+
+(a) name the person believed to have committed the violation;
+
+
+
+
+
+
+
+
+
+
+(b) identify the acts or omissions that constitute the alleged violation;
+
+
+
+
+
+
+
+
+
+
+(c) set out the penalty for the violation that the person is liable to pay;
+
+
+
+
+
+
+
+
+
+
+(d) set out the particulars concerning the time and manner of payment; and
+
+
+
+
+
+
+
+
+
+
+(e) subject to the regulations, set out a lesser amount that may be paid as complete satisfaction of the penalty if it is paid within the prescribed time and in the prescribed manner that are set out in the notice.
+
+
+
+
+
+
+
+
+
+(2) Le procès-verbal mentionne :
+
+
+
+Contenu du procès-verbal
+
+
+
+
+
+a) le nom de l’auteur présumé de la violation;
+
+
+
+
+
+
+
+
+
+
+
+b) les faits reprochés;
+
+
+
+
+
+
+
+
+
+
+
+c) le montant de la pénalité à payer;
+
+
+
+
+
+
+
+
+
+
+
+d) le délai et les modalités de paiement;
+
+
+
+
+
+
+
+
+
+
+
+e) sous réserve des règlements, une somme inférieure à la pénalité infligée, dont le paiement, dans le délai et selon les modalités réglementaires qu’il précise, vaut règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summary of rights
+
+
+
+(3) A notice of violation must clearly summarize, in plain language, the rights and obligations under this section and sections 29.13 to 29.26 of the person to whom it is provided, including the right to request a review of the acts or omissions that constitute the alleged violation or of the amount of the penalty and the procedure for requesting the review.
+
+
+
+
+
+
+
+
+
+(3) Figure aussi dans le procès-verbal en langage clair un sommaire des droits et obligations de l’auteur présumé prévus au présent article et aux articles 29.13 à 29.26, notamment le droit de contester les faits reprochés et le montant de la pénalité et la procédure pour le faire.
+
+
+
+Sommaire des droits
+
+
+
+
+
+
+
+
+
+
+Short-form descriptions
+
+
+
+(4) The Minister may establish a short-form description of each violation to be used in notices of violation.
+
+
+
+
+
+
+
+
+
+(4) Le ministre peut établir, pour chaque violation, une description sommaire à employer dans les procès-verbaux.
+
+
+
+Description sommaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Penalties
+
+
+
+
+
+
+
+
+
+Pénalités
+
+
+
+
+
+
+
+
+
+
+
+
+Effect of payment
+
+
+
+
+29.13 (1) If the person who is named in a notice of violation pays, within the prescribed time and in the prescribed manner that are set out in the notice, the amount of the penalty — or, if applicable, the lesser amount that may be paid as complete satisfaction of the penalty — set out in the notice,
+
+
+
+
+
+
+
+
+
+
+(a) they are deemed to have committed the violation to which the amount paid relates;
+
+
+
+
+
+
+
+
+
+
+(b) the Minister shall accept the amount as complete satisfaction of the penalty; and
+
+
+
+
+
+
+
+
+
+
+(c) the proceedings commenced in respect of the violation under section 29.12 are ended.
+
+
+
+
+
+
+
+
+
+
+29.13 (1) Si l’auteur présumé de la violation paie, dans le délai et selon les modalités réglementaires mentionnés dans le procès-verbal, le montant de la pénalité — ou le cas échéant, la somme inférieure — mentionné dans le procès-verbal, le paiement, que le ministre accepte en règlement, vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+
+
+
+Effet du paiement
+
+
+
+
+
+
+
+
+
+
+Alternatives to payment
+
+
+
+(2) Instead of paying the penalty or, if applicable, the lesser amount that may be paid as complete satisfaction of the penalty, the person who is named in the notice may, within the prescribed time and in the prescribed manner that are set out in the notice,
+
+
+
+
+
+
+
+
+
+
+(a) request to enter into a compliance agreement with the Minister that ensures the person’s compliance with the provision to which the violation relates, if the penalty is $1,000 or more; or
+
+
+
+
+
+
+
+
+
+
+(b) request a review by the Minister of the acts or omissions that constitute the alleged violation or the amount of the penalty.
+
+
+
+
+
+
+
+
+
+(2) Au lieu d’effectuer le paiement du montant de la pénalité ou, le cas échéant, de la somme inférieure, l’intéressé peut, dans le délai et selon les modalités réglementaires précisés dans le procès-verbal :
+
+
+
+Option
+
+
+
+
+
+a) si la pénalité est de 1 000 $ ou plus, demander au ministre de conclure avec lui une transaction en vue de la bonne observation de la disposition en cause;
+
+
+
+
+
+
+
+
+
+
+
+b) contester devant le ministre les faits reprochés ou le montant de la pénalité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deeming
+
+
+
+(3) If the person who is named in the notice does not pay the penalty or, if applicable, the lesser amount that may be paid as complete satisfaction of the penalty, within the prescribed time and in the prescribed manner and does not exercise any right referred to in subsection (2) within the prescribed time and in the prescribed manner, the person is deemed to have committed the violation identified in the notice.
+
+
+
+
+
+
+
+
+
+(3) L’omission de l’intéressé de faire le paiement, dans le délai et selon les modalités réglementaires, vaut déclaration de responsabilité à l’égard de la violation à moins que celui-ci n’exerce l’option prévue au paragraphe (2).
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance Agreements
+
+
+
+
+
+
+
+
+
+Transactions
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance agreements
+
+
+
+
+29.14 (1) After considering a request made under paragraph 29.13(2)(a), the Minister may enter into a compliance agreement, as described in that paragraph, with the person making the request on any conditions that are satisfactory to the Minister, which conditions may
+
+
+
+
+
+
+
+
+
+
+(a) include a provision for the giving of reasonable security, in a form and in an amount that are satisfactory to the Minister, as a guarantee that the person will comply with the compliance agreement; and
+
+
+
+
+
+
+
+
+
+
+(b) provide for the reduction, in whole or in part, of the amount of the penalty for the violation.
+
+
+
+
+
+
+
+
+
+
+29.14 (1) Sur demande de l’auteur présumé de la violation, le ministre peut conclure avec celui-ci une transaction qui, d’une part, est subordonnée aux conditions qu’il estime indiquées, notamment au dépôt d’une caution raisonnable — dont le montant et la nature doivent lui agréer — en garantie de l’exécution de la transaction, et, d’autre part, peut prévoir la réduction — partielle ou totale — du montant de la pénalité.
+
+
+
+Conclusion d’une transaction
+
+
+
+
+
+
+
+
+
+
+Deeming
+
+
+
+(2) A person who enters into a compliance agreement with the Minister is, on doing so, deemed to have committed the violation to which the compliance agreement relates, and the proceedings commenced in respect of the violation under section 29.12 are ended.
+
+
+
+
+
+
+
+
+
+(2) La conclusion de la transaction vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+If compliance agreement complied with
+
+
+
+(3) If the Minister is of the opinion that a person who has entered into a compliance agreement has complied with it, the Minister shall cause the person to be provided with a notice to that effect, at which time any security given by the person under that agreement shall be returned to the person.
+
+
+
+
+
+
+
+
+
+(3) S’il estime la transaction exécutée, le ministre fait notifier à l’intéressé un avis qui l’en informe. Dès la notification de l’avis, toute caution versée dans le cadre de la transaction est remise à l’intéressé.
+
+
+
+Exécution de la transaction
+
+
+
+
+
+
+
+
+
+
+If compliance agreement not complied with
+
+
+
+(4) If the Minister is of the opinion that a person who has entered into a compliance agreement has not complied with it, the Minister shall cause the person to be provided with a notice of default to the effect that
+
+
+
+
+
+
+
+
+
+
+(a) instead of the penalty set out in the compliance agreement, the person is liable to pay, within the prescribed time and in the prescribed manner that are set out in the notice of default, twice the amount of the penalty set out in the notice of violation and, for greater certainty, subsection 29.11(3) does not apply in respect of that amount; or
+
+
+
+
+
+
+
+
+
+
+(b) the security, if any, given by the person under the compliance agreement is forfeited to Her Majesty in right of Canada.
+
+
+
+
+
+
+
+
+
+(4) S’il estime la transaction inexécutée, le ministre fait notifier à l’intéressé un avis de défaut qui l’informe soit qu’il est tenu de payer, dans le délai et selon les modalités réglementaires qui y sont précisés, au lieu du montant convenu dans la transaction et sans qu’il soit tenu compte du plafond fixé au paragraphe 29.11(3), le double du montant de la pénalité infligée initialement, soit qu’il y aura confiscation de la caution au profit de Sa Majesté du chef du Canada.
+
+
+
+Inexécution de la transaction
+
+
+
+
+
+
+
+
+
+
+Effect of notice of default
+
+
+
+(5) Once they have been provided with the notice of default, the person shall pay the amount set out in it or, if the notice provides for the forfeiture of the security given under the compliance agreement, that security is forfeited to Her Majesty in right of Canada.
+
+
+
+
+
+
+
+
+
+(5) Sur notification de l’avis, l’intéressé paye la somme prévue dans l’avis, ou la confiscation de la caution s’opère au profit de Sa Majesté du chef du Canada.
+
+
+
+Effet de l’avis de défaut
+
+
+
+
+
+
+
+
+
+
+Effect of payment
+
+
+
+(6) If the person pays the amount set out in a notice of default under paragraph (4)(a) within the prescribed time and in the prescribed manner that are set out in the notice,
+
+
+
+
+
+
+
+
+
+
+(a) the Minister shall accept the amount as complete satisfaction of the amount owing; and
+
+
+
+
+
+
+
+
+
+
+(b) the compliance agreement entered into under subsection (2) terminates.
+
+
+
+
+
+
+
+
+
+(6) Le paiement conforme à l’avis, que le ministre accepte en règlement, met fin à la transaction.
+
+
+
+Effet du paiement
+
+
+
+
+
+
+
+
+
+
+Refusal to enter into compliance agreement
+
+
+
+
+29.15 (1) If the Minister refuses to enter into a compliance agreement after considering a request made under paragraph 29.13(2)(a), the Minister shall cause the person to be provided with a notice to that effect and the person who is named in the notice is liable to pay the amount of the penalty within the prescribed time and in the prescribed manner that are set out in the notice.
+
+
+
+
+
+
+
+
+
+
+29.15 (1) Si le ministre refuse de transiger, l’auteur présumé de la violation est tenu, dans le délai et selon les modalités réglementaires précisés dans un avis que le ministre lui fait notifier, de payer le montant de la pénalité infligée initialement.
+
+
+
+Refus de transiger
+
+
+
+
+
+
+
+
+
+
+Effect of payment
+
+
+
+(2) If the person pays the amount within the prescribed time and in the prescribed manner that are set out in the notice
+
+
+
+
+
+
+
+
+
+
+(a) they are deemed to have committed the violation to which the amount paid relates;
+
+
+
+
+
+
+
+
+
+
+(b) the Minister shall accept the amount as complete satisfaction of the penalty; and
+
+
+
+
+
+
+
+
+
+
+(c) the proceedings commenced in respect of the violation under section 29.12 are ended.
+
+
+
+
+
+
+
+
+
+(2) Le paiement conforme à l’avis, que le ministre accepte en règlement, vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+
+
+
+Effet du paiement
+
+
+
+
+
+
+
+
+
+
+Deeming
+
+
+
+(3) If the person does not pay the amount within the prescribed time and in the prescribed manner that are set out in the notice, they are deemed to have committed the violation.
+
+
+
+
+
+
+
+
+
+(3) L’omission de l’intéressé de faire le paiement conformément à l’avis vaut déclaration de responsabilité à l’égard de la violation.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Review by the Minister
+
+
+
+
+
+
+
+
+
+Contestation devant le ministre
+
+
+
+
+
+
+
+
+
+
+
+
+Review — violation
+
+
+
+
+29.16 (1) After completing a review requested under paragraph 29.13(2)(b) with respect to the acts or omissions that constitute the alleged violation identified in the notice of violation, the Minister shall determine whether the person who is named in the notice committed the violation and, if the Minister determines that the person did so but considers that the amount of the penalty for the violation was not established in accordance with the regulations, the Minister shall correct that amount and cause the person to be provided with a notice of the Minister’s decision.
+
+
+
+
+
+
+
+
+
+
+29.16 (1) Saisi au titre de l’alinéa 29.13(2)b) d’une contestation relative aux faits reprochés, le ministre détermine la responsabilité de l’intéressé et lui fait notifier sa décision. Dans le cas où il conclut à la responsabilité de l’intéressé, s’il considère que le montant de la pénalité n’a pas été établi en conformité avec les règlements, il y substitue le montant qu’il estime conforme.
+
+
+
+Décision du ministre : faits reprochés
+
+
+
+
+
+
+
+
+
+
+Review — penalty
+
+
+
+(2) After completing a review requested under paragraph 29.13(2)(b) with respect to the amount of the penalty set out in the notice of violation, the Minister shall determine whether the amount of the penalty was established in accordance with the regulations and, if the Minister determines that it was not, the Minister shall correct that amount and cause the person to be provided with a notice of the Minister’s decision.
+
+
+
+
+
+
+
+
+
+(2) Saisi au titre de l’alinéa 29.13(2)b) d’une contestation relative au montant de la pénalité, le ministre vérifie si celui-ci a été établi en conformité avec les règlements et, sinon, y substitue le montant qu’il estime conforme. Il fait notifier sa décision à l’intéressé.
+
+
+
+Décision du ministre : montant de la pénalité
+
+
+
+
+
+
+
+
+
+
+Payment
+
+
+
+(3) The person who is provided with a notice of the Minister’s decision is liable to pay the amount of the penalty that is set out in it within the prescribed time and in the prescribed manner that are set out in the notice.
+
+
+
+
+
+
+
+
+
+(3) L’intéressé est tenu de payer, dans le délai et selon les modalités réglementaires précisés dans la décision qui lui est notifiée, toute somme prévue dans celle-ci.
+
+
+
+Obligation de payer
+
+
+
+
+
+
+
+
+
+
+Effect of payment
+
+
+
+(4) If the person pays the amount of the penalty that is set out in the notice of the Minister’s decision within the prescribed time and in the prescribed manner that are set out in the notice,
+
+
+
+
+
+
+
+
+
+
+(a) the Minister shall accept the amount as complete satisfaction of the penalty; and
+
+
+
+
+
+
+
+
+
+
+(b) the proceedings commenced in respect of the violation under section 29.12 are ended.
+
+
+
+
+
+
+
+
+
+(4) Le paiement conforme à la décision, que le ministre accepte en règlement, met fin à la procédure.
+
+
+
+Effet du paiement
+
+
+
+
+
+
+
+
+
+
+Submissions in writing
+
+
+
+(5) The Minister is to consider only written evidence and written submissions in determining whether a person committed a violation or whether the amount of a penalty was established in accordance with the regulations.
+
+
+
+
+
+
+
+
+
+(5) Le ministre ne tient compte que des éléments de preuve et des arguments écrits lorsqu’il détermine la responsabilité de l’intéressé ou vérifie si le montant de la pénalité a été établi en conformité avec les règlements.
+
+
+
+Contestation par écrit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recovery of Debts
+
+
+
+
+
+
+
+
+
+Recouvrement de créances
+
+
+
+
+
+
+
+
+
+
+
+
+Debts to Her Majesty
+
+
+
+
+29.17 (1) The following amounts are debts due to Her Majesty in right of Canada that may be recovered in the Federal Court:
+
+
+
+
+
+
+
+
+
+
+(a) the amount of a penalty set out in a notice of violation, beginning on the day on which it is required to be paid in accordance with the notice, unless a request is made to enter into a compliance agreement with the Minister or to have the Minister review the acts or omissions that constitute the violation or the amount of the penalty;
+
+
+
+
+
+
+
+
+
+
+(b) every amount set out in a compliance agreement entered into with the Minister under subsection 29.14(1), beginning on the day specified in that agreement or, if no day is specified, beginning on the day on which the agreement is entered into;
+
+
+
+
+
+
+
+
+
+
+(c) the amount set out in a notice of default referred to in subsection 29.14(4), beginning on the day specified in the notice;
+
+
+
+
+
+
+
+
+
+
+(d) the amount of a penalty set out in the Minister’s notice under subsection 29.15(1) or in the notice of the Minister’s decision made under subsection 29.16(1) or (2), beginning on the day specified in the notice; and
+
+
+
+
+
+
+
+
+
+
+(e) the amount of any reasonable expenses incurred in attempting to recover an amount referred to in any of paragraphs (a) to (d).
+
+
+
+
+
+
+
+
+
+
+29.17 (1) Constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale :
+
+
+
+Créances de Sa Majesté
+
+
+
+
+
+a) le montant de la pénalité mentionné dans le procès-verbal, à compter de la date à laquelle il doit être payé en conformité avec celui-ci, sauf en cas de présentation d’une demande de transaction avec le ministre ou d’une demande de contestation devant lui;
+
+
+
+
+
+
+
+
+
+
+
+b) toute somme prévue dans une transaction conclue au titre du paragraphe 29.14(1), à compter de la date de la conclusion ou, s’il y a lieu, de la date qui y est précisée;
+
+
+
+
+
+
+
+
+
+
+
+c) la somme prévue dans l’avis de défaut notifié au titre du paragraphe 29.14(4), à compter de la date qui y est précisée;
+
+
+
+
+
+
+
+
+
+
+
+d) le montant de la pénalité mentionné dans l’avis du ministre et notifié au titre du paragraphe 29.15(1) ou dans sa décision notifiée au titre des paragraphes 29.16(1) ou (2), à compter de la date qui est précisée dans l’avis ou la décision, selon le cas;
+
+
+
+
+
+
+
+
+
+
+
+e) le montant des frais raisonnables engagés en vue du recouvrement d’un montant ou d’une somme visés à l’un ou l’autre des alinéas a) à d).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation period or prescription
+
+
+
+(2) No proceedings to recover such a debt may be commenced later than five years after the debt becomes payable.
+
+
+
+
+
+
+
+
+
+(2) Le recouvrement de toute créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible aux termes du paragraphe (1).
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Debt final
+
+
+
+(3) The debt is final and may not be reviewed, restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by sections 29.13 to 29.16.
+
+
+
+
+
+
+
+
+
+(3) La créance est définitive et n’est susceptible de contestation ou de révision que dans la mesure et selon les modalités prévues aux articles 29.13 à 29.16.
+
+
+
+Créance définitive
+
+
+
+
+
+
+
+
+
+
+Certificate of default
+
+
+
+
+29.18 (1) The Minister may issue a certificate certifying the unpaid amount of any debt referred to in subsection 29.17(1).
+
+
+
+
+
+
+
+
+
+
+29.18 (1) Le ministre peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe 29.17(1).
+
+
+
+Certificat de non-paiement
+
+
+
+
+
+
+
+
+
+
+Effect of registration
+
+
+
+(2) Registration in the Federal Court of the certificate has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
+
+
+
+
+
+
+
+
+
+(2) L’enregistrement du certificat à la Cour fédérale confère à celui-ci valeur de jugement de ce tribunal pour la somme visée et les frais afférents.
+
+
+
+Effet de l’enregistrement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rules of Law About Violations
+
+
+
+
+
+
+
+
+
+Règles propres aux violations
+
+
+
+
+
+
+
+
+
+
+
+
+Violations not offences
+
+
+
+
+29.19 For greater certainty, a violation is not an offence and, accordingly, section 126 of the Criminal Code does not apply.
+
+
+
+
+
+
+
+
+
+
+29.19 Il est entendu que les violations n’ont pas valeur d’infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du Code criminel.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Due diligence defence
+
+
+
+
+29.2 (1) A person may not be found to be liable for a violation if they establish that they exercised due diligence to prevent the commission of the violation.
+
+
+
+
+
+
+
+
+
+
+29.2 (1) Nul ne peut être tenu responsable d’une violation s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa commission.
+
+
+
+Disculpation : précautions voulues
+
+
+
+
+
+
+
+
+
+
+Common law principles
+
+
+
+(2) Every rule and principle of the common law that renders any circumstance a justification or an excuse in relation to a charge for an offence under this Act applies in respect of a violation to the extent that it is not inconsistent with this Act.
+
+
+
+
+
+
+
+
+
+(2) Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente loi s’appliquent à l’égard d’une violation sauf dans la mesure où ils sont incompatibles avec la présente loi.
+
+
+
+Principes de la common law
+
+
+
+
+
+
+
+
+
+
+Burden of proof
+
+
+
+
+29.21 In every case where the Minister is to determine whether a person who is named in a notice of violation committed any violation identified in it, the Minister shall do so on a balance of probabilities.
+
+
+
+
+
+
+
+
+
+
+29.21 En cas de contestation des faits, la décision du ministre repose sur la prépondérance des probabilités.
+
+
+
+Charge de la preuve
+
+
+
+
+
+
+
+
+
+
+Offences by corporate officers, etc.
+
+
+
+
+29.22 If a person other than an individual commits a violation under this Act, any of the person’s officers, directors, agents or mandataries who directs, authorizes, assents to or acquiesces or participates in the commission of the violation is a party to and liable for the violation, whether or not the person who actually committed it is proceeded against in accordance with this Act.
+
+
+
+
+
+
+
+
+
+
+29.22 En cas de commission d’une violation par toute personne autre qu’un individu, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation, que la personne fasse ou non l’objet d’une procédure en violation engagée au titre de la présente loi.
+
+
+
+Participants à la violation
+
+
+
+
+
+
+
+
+
+
+Vicarious liability — acts of employees, agents and mandataries
+
+
+
+
+29.23 A person is liable for a violation that is committed by their employee, agent or mandatary who is acting in the course of the employee’s employment or within the scope of the agent’s or mandatary’s authority, whether or not the employee, agent or mandatary who actually committed the violation is identified or proceeded against in accordance with this Act.
+
+
+
+
+
+
+
+
+
+
+29.23 L’employeur ou le mandant est responsable de la violation commise par un employé ou un mandataire dans le cadre de son emploi ou du mandat, que l’auteur de la violation soit ou non connu ou fasse ou non l’objet d’une procédure en violation engagée au titre de la présente loi.
+
+
+
+Responsabilité du fait d’autrui : employeurs et mandants
+
+
+
+
+
+
+
+
+
+
+Continuing violation
+
+
+
+
+29.24 A violation that is continued on more than one day constitutes a separate violation in respect of each day during which it is continued.
+
+
+
+
+
+
+
+
+
+
+29.24 Il est compté une violation distincte pour chacun des jours au cours desquels se continue la violation.
+
+
+
+Violation continue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other Provisions
+
+
+
+
+
+
+
+
+
+Autres dispositions
+
+
+
+
+
+
+
+
+
+
+
+
+Evidence
+
+
+
+
+29.25 In any proceeding for a violation, a notice of violation purporting to be issued under this Act is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
+
+
+
+
+
+
+
+
+
+
+29.25 Dans les procédures en violation, le procès-verbal paraissant délivré en application de la présente loi est admissible en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature ni la qualité officielle du signataire.
+
+
+
+Admissibilité du procès-verbal de violation
+
+
+
+
+
+
+
+
+
+
+Limitation period or prescription
+
+
+
+
+29.26 No proceedings in respect of a violation may be commenced later than six months after the day on which an inspector becomes aware of the acts or omissions that constitute the alleged violation.
+
+
+
+
+
+
+
+
+
+
+29.26 Les procédures en violation se prescrivent par six mois à compter du jour suivant celui où un inspecteur a eu connaissance des faits reprochés.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Certification by Minister
+
+
+
+
+29.27 A document appearing to have been issued by the Minister and certifying the day on which the acts or omissions that constitute the alleged violation became known to an inspector is admissible in evidence without proof of the signature or official character of the person appearing to have signed it and, in the absence of evidence to the contrary, is proof that the inspector became aware of the acts or omissions on that day.
+
+
+
+
+
+
+
+
+
+
+29.27 Tout document paraissant établi par le ministre et attestant la date où les faits reprochés sont parvenus à la connaissance d’un inspecteur est admissible en preuve et fait foi de cette date, sauf preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+
+
+Attestation du ministre
+
+
+
+
+
+
+
+
+
+
+Information may be made public
+
+
+
+
+29.28 The Minister may make public
+
+
+
+
+
+
+
+
+
+
+(a) the name and business address of a person who enters into a compliance agreement, the nature of the compliance agreement — including the acts or omissions and provisions at issue, the conditions included in the compliance agreement and the amount payable under it, if any; or
+
+
+
+
+
+
+
+
+
+
+(b) the name and business address of a person who is deemed to have committed a violation or who the Minister determined committed a violation, the acts or omissions and provisions at issue, and the amount payable as a result, if any.
+
+
+
+
+
+
+
+
+
+
+29.28 Le ministre peut rendre publics :
+
+
+
+Renseignements pouvant être rendus publics
+
+
+
+
+
+a) le nom et l’adresse commerciale de la personne qui a conclu une transaction, la nature de celle-ci, notamment les actes ou omissions et les dispositions en cause, les conditions dont elle est assortie et, le cas échéant, la somme à payer;
+
+
+
+
+
+
+
+
+
+
+
+b) le nom et l’adresse commerciale de la personne qui est réputée responsable de la violation ou qui en est reconnue responsable par le ministre, les actes ou omissions et les dispositions en cause et, le cas échéant, le montant de la pénalité à payer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How act or omission may be proceeded with
+
+
+
+
+29.29 If an act or omission may be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
+
+
+
+
+
+
+
+
+
+
+29.29 S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+
+
+Cumul interdit
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Section 32 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+7. L’article 32 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Stealing stamp or seal
+
+
+
+
+32. (1) Every person who steals any stamp, seal, label, tag or marker issued for the stamping, sealing, labelling, tagging or marking of a meter under this Act is guilty of an offence.
+
+
+
+
+
+
+
+
+
+
+32. (1) Toute personne qui vole un timbre, un sceau, une étiquette ou un dispositif de marquage servant à timbrer, sceller, étiqueter ou marquer un compteur conformément à la présente loi commet une infraction.
+
+
+
+Vol de timbre ou de sceau
+
+
+
+
+
+
+
+
+
+
+Punishment — first offence
+
+
+
+(2) Every person who is guilty of an offence under subsection (1) is liable, for a first offence,
+
+
+
+
+
+
+
+
+
+
+(a) on summary conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding six months, or to both; or
+
+
+
+
+
+
+
+
+
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding two years.
+
+
+
+
+
+
+
+
+
+(2) Toute personne qui commet l’infraction visée au paragraphe (1) encourt, pour une première infraction, sur déclaration de culpabilité :
+
+
+
+Peines : première infraction
+
+
+
+
+
+a) par procédure sommaire, une amende maximale de 10 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
+
+
+
+
+
+
+
+
+
+
+
+b) par mise en accusation, un emprisonnement maximal de deux ans.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment — subsequent offences
+
+
+
+(3) Every person who is guilty of an offence under subsection (1) is liable, for a second or subsequent offence,
+
+
+
+
+
+
+
+
+
+
+(a) on summary conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding six months, or to both; or
+
+
+
+
+
+
+
+
+
+
+(b) on conviction on indictment, to imprisonment for a term not exceeding two years.
+
+
+
+
+
+
+
+
+
+(3) Toute personne qui commet l’infraction visée au paragraphe (1) encourt, en cas de récidive, sur déclaration de culpabilité :
+
+
+
+Peines : récidive
+
+
+
+
+
+a) par procédure sommaire, une amende maximale de 20 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
+
+
+
+
+
+
+
+
+
+
+
+b) par mise en accusation, un emprisonnement maximal de deux ans.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) The portion of section 33 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+8. (1) Le passage de l’article 33 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Other offences
+
+
+
+
+33. Every person is guilty of an offence who
+
+
+
+
+
+
+
+
+
+
+33. Commet une infraction toute personne qui, selon le cas :
+
+
+
+Autres infractions
+
+
+
+
+
+
+
+
+
+
+
+
+(2) The portion of section 33 of the Act after paragraph (k) is repealed.
+
+
+
+
+
+
+
+
+
+(2) Le passage de l’article 33 de la même loi suivant l’alinéa k) est abrogé.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Section 33 of the Act is renumbered as subsection 33(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+(3) L’article 33 de la même loi devient le paragraphe 33(1) et est modifié par adjonction de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment — first offence
+
+
+
+(2) Every person who is guilty of an offence under subsection (1) is liable, for a first offence,
+
+
+
+
+
+
+
+
+
+
+(a) on summary conviction, to a fine not exceeding $10,000; or
+
+
+
+
+
+
+
+
+
+
+(b) on conviction on indictment, to a fine not exceeding $25,000.
+
+
+
+
+
+
+
+
+
+(2) Toute personne qui commet une infraction visée au paragraphe (1) encourt, pour une première infraction, sur déclaration de culpabilité :
+
+
+
+Peines : première infraction
+
+
+
+
+
+a) par procédure sommaire, une amende maximale de 10 000 $;
+
+
+
+
+
+
+
+
+
+
+
+b) par mise en accusation, une amende maximale de 25 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment — subsequent offences
+
+
+
+(3) Every person who is guilty of an offence under subsection (1) is liable, for a second or subsequent offence,
+
+
+
+
+
+
+
+
+
+
+(a) on summary conviction, to a fine not exceeding $20,000; or
+
+
+
+
+
+
+
+
+
+
+(b) on conviction on indictment, to a fine not exceeding $50,000.
+
+
+
+
+
+
+
+
+
+(3) Toute personne qui commet une infraction visée au paragraphe (1) encourt, en cas de récidive, sur déclaration de culpabilité :
+
+
+
+Peines : récidive
+
+
+
+
+
+a) par procédure sommaire, une amende maximale de 20 000 $;
+
+
+
+
+
+
+
+
+
+
+
+b) par mise en accusation, une amende maximale de 50 000 $.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Section 34 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+9. L’article 34 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment — general offence
+
+
+
+
+34. Every person who contravenes any provision of this Act or the regulations for the contravention of which no liability for a punishment is otherwise provided by this Act is guilty of an offence and liable on summary conviction for a first offence under that provision to a fine not exceeding $10,000, and for a second or subsequent offence under that provision to a fine not exceeding $20,000.
+
+
+
+
+
+
+
+
+
+
+34. Toute personne qui contrevient à une disposition de la présente loi ou des règlements dont la contravention ne fait l’objet d’aucune peine prévue ailleurs dans la présente loi commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 10 000 $. En cas de récidive à l’égard de la même disposition, elle encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 20 000 $.
+
+
+
+Infraction générale
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. The Act is amended by adding the following after section 35:
+
+
+
+
+
+
+
+
+
+
+10. La même loi est modifiée par adjonction, après l’article 35, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Due diligence defence
+
+
+
+
+35.1 A person may not be convicted of an offence under this Act — other than for a contravention of any of paragraphs 30(b) to (e) or subsection 32(1) — if they establish that they exercised due diligence to prevent the commission of the offence.
+
+
+
+
+
+
+
+
+
+
+35.1 Nul ne peut être déclaré coupable d’une infraction à la présente loi, sauf pour une contravention à l’un des alinéas 30b) à e) ou au paragraphe 32(1), s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+
+
+
+Disculpation : précautions voulues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R.S., c. W-6
+
+
+
+WEIGHTS AND MEASURES ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LES POIDS ET MESURES
+
+
+
+L.R., ch. W-6
+
+
+
+
+
+
+
+
+
+
+1995, c. 1, par. 63(2)(d)
+
+
+
+
+11. The definition “inspector” in section 2 of the Weights and Measures Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+11. La définition de « inspecteur », à l’article 2 de la Loi sur les poids et mesures, est remplacée par ce qui suit :
+
+
+
+1995, ch.1, al. 63(2)d)
+
+
+
+
+
+
+
+
+
+
+“inspector”« inspecteur »
+
+
+
+“inspector” means a person who is designated under subsection 16.1(1) to verify compliance with this Act;
+
+
+
+
+
+
+
+
+
+« inspecteur » Personne désignée en vertu du paragraphe 16.1(1) pour vérifier le respect de la présente loi.
+
+
+
+« inspecteur »“inspector”
+
+
+
+
+
+
+
+
+
+
+
+
+
+12. The portion of section 8 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+12. Le passage de l’article 8 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Use of devices
+
+
+
+
+8. No trader shall use, or have in their possession for use, in trade, any device unless
+
+
+
+
+
+
+
+
+
+
+8. Les seuls instruments que peuvent utiliser les commerçants pour leur commerce, ou avoir en leur possession à cette fin, sont ceux qui :
+
+
+
+Instruments légaux
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. Subsection 9(1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 9(1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Marking commodities for sale
+
+
+
+
+9. (1) No trader shall sell, offer for sale or have in their possession for sale on the basis of number or measure any commodity, unless its quantity is stated accurately within prescribed limits of error and in the manner prescribed in terms of number or units of measurement of length, area, volume or capacity, or mass or weight on the following items, as may be prescribed:
+
+
+
+
+
+
+
+
+
+
+(a) the commodity;
+
+
+
+
+
+
+
+
+
+
+(b) the package containing the commodity; or
+
+
+
+
+
+
+
+
+
+
+(c) a shipping bill, bill of lading or other document accompanying the commodity.
+
+
+
+
+
+
+
+
+
+
+9. (1) Un commerçant ne peut vendre ni mettre en vente, à l’unité ou à la mesure, des marchandises — ou en avoir en sa possession à ces fins — sans que la quantité ne soit indiquée avec exactitude, compte tenu de la marge de tolérance réglementaire, selon les modalités réglementaires concernant le nombre ou les unités de mesure de longueur, de surface, de volume ou de capacité, de masse ou de poids et, selon ce que prévoient les règlements :
+
+
+
+Marquage des marchandises mises en vente
+
+
+
+
+
+a) soit sur les marchandises;
+
+
+
+
+
+
+
+
+
+
+
+b) soit sur leur emballage;
+
+
+
+
+
+
+
+
+
+
+
+c) soit sur un bordereau d’expédition, un connaissement ou un autre document qui les accompagnent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14. (1) Paragraph 10(1)(d) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+14. (1) L’alinéa 10(1)d) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) respecting the manner in which inspectors shall carry out their functions under this Act;
+
+
+
+
+
+
+
+
+
+
+d) régir l’exercice, par les inspecteurs, des attributions que leur confère la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 10(1) of the Act is amended by adding the following after paragraph (e):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 10(1) de la même loi est modifié par adjonction, après l’alinéa e), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e.1) prescribing a period, in relation to any category of trade or any class, type or design of device, for the purposes of subsection 15(1);
+
+
+
+
+
+
+
+
+
+
+e.1) fixer, pour l’application du paragraphe 15(1), un délai relativement à une catégorie de commerce ou à une catégorie, un type ou un modèle d’instrument;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) Paragraph 10(1)(g) of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) L’alinéa 10(1)g) de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+g) préciser les cas où un commerçant doit signaler l’emplacement d’un instrument dont il a la propriété ou la possession en vue du commerce et les modalités de son rapport;
+
+
+
+
+
+
+
+
+
+
+
+g) préciser les cas où un commerçant doit signaler l’emplacement d’un instrument dont il a la propriété ou la possession en vue du commerce et les modalités de son rapport;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Paragraphs 10(1)(k) and (l) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+(4) Les alinéas 10(1)k) et l) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(k) respecting the detention of things seized and detained under paragraph 17(1)(c);
+
+
+
+
+
+
+(l) respecting the disposition of things forfeited under section 41;
+
+
+
+
+
+
+
+
+
+
+k) régir la rétention de toute chose saisie en vertu de l’alinéa 17(1)c);
+
+
+
+
+
+
+
+l) prévoir le sort de toute chose confisquée en vertu de l’article 41;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(5) Subsection 10(1) of the Act is amended by adding the following after paragraph (q):
+
+
+
+
+
+
+
+
+
+(5) Le paragraphe 10(1) de la même loi est modifié par adjonction, après l’alinéa q), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(q.1) designating any class of examination or other service provided by an inspector under this Act as a class of examination or service to which any fees prescribed, or charges payable, under this Act do not apply;
+
+
+
+
+
+
+
+
+
+
+q.1) désigner toute catégorie de services, notamment d’examen, fournis par l’inspecteur aux termes de la présente loi à titre de catégorie de services, notamment d’examen, à laquelle ne s’applique pas des droits réglementaires ou frais exigibles en vertu de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. Sections 15 and 16 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+15. Les articles 15 et 16 de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Examinations within prescribed periods
+
+
+
+
+15. (1) Every trader who uses a device in trade, or possesses a device for trade, shall cause it to be examined, within the prescribed period, by an inspector.
+
+
+
+
+
+
+
+
+
+
+15. (1) Le commerçant qui utilise un instrument dans le commerce ou l’a en sa possession à cette fin le fait examiner, dans le délai réglementaire, par un inspecteur.
+
+
+
+Examen réglementaire
+
+
+
+
+
+
+
+
+
+
+Extensions
+
+
+
+(2) The Minister may, in the prescribed circumstances, grant to a trader an extension of the period, but no extension may exceed one year.
+
+
+
+
+
+
+
+
+
+(2) Le ministre peut, dans les circonstances réglementaires, accorder au commerçant une prorogation de délai d’au plus un an.
+
+
+
+Prorogation
+
+
+
+
+
+
+
+
+
+
+Request for examination
+
+
+
+
+15.1 An inspector may examine a device at the request of the owner or the person who is in possession of it.
+
+
+
+
+
+
+
+
+
+
+15.1 L’inspecteur peut examiner un instrument à la demande du propriétaire ou du possesseur de celui-ci.
+
+
+
+Demande d’examen
+
+
+
+
+
+
+
+
+
+
+Adjustments and alterations to devices
+
+
+
+
+16. When an inspector examines a device, they may, with the consent of the owner or person who is in possession of it, make any prescribed adjustments or alterations to that device.
+
+
+
+
+
+
+
+
+
+
+16. Lors de l’examen d’un instrument, l’inspecteur peut, avec l’accord du propriétaire ou du possesseur de celui-ci, procéder aux réglages ou modifications réglementaires.
+
+
+
+Réglages et modifications des instruments
+
+
+
+
+
+
+
+
+
+
+R.S., c. 31 (1st Supp.), s. 26
+
+
+
+
+16. Sections 17 and 18 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+16. Les articles 17 et 18 de la même loi sont remplacés par ce qui suit :
+
+
+
+L.R., ch. 31 (1er suppl.), art. 26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATION AND ENFORCEMENT
+
+
+
+
+
+
+
+
+
+EXÉCUTION ET CONTRÔLE D’APPLICATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Designation
+
+
+
+
+
+
+
+
+
+Désignation
+
+
+
+
+
+
+
+
+
+
+
+
+Power to designate
+
+
+
+
+16.1 (1) For the purposes of the administration and enforcement of this Act, the Minister may designate persons, or classes of persons, to exercise powers in relation to any matter referred to in the designation.
+
+
+
+
+
+
+
+
+
+
+16.1 (1) Le ministre peut, pour l’exécution et le contrôle d’application de la présente loi, désigner toute personne — individuellement ou au titre de son appartenance à une catégorie déterminée — pour exercer des pouvoirs relativement à toute question mentionnée dans la désignation.
+
+
+
+Pouvoir de désignation
+
+
+
+
+
+
+
+
+
+
+Training and qualification
+
+
+
+(1.1) The Minister shall ensure that, for each particular sector, all persons designated under subsection (1) are trained and qualified in the same manner and that all examinations made by these persons are conducted consistently.
+
+
+
+
+
+
+
+
+
+(1.1) Le ministre veille à ce que, pour chaque secteur, toutes les personnes désignées en vertu du paragraphe (1) soient formées et qualifiées de la même manière et à ce que tous les examens menés par ces personnes soient effectués chaque fois de la même façon.
+
+
+
+Formation et qualification
+
+
+
+
+
+
+
+
+
+
+Limitation
+
+
+
+(2) The Minister may designate only persons employed in the federal public administration to exercise powers under any of sections 17 to 18, subsection 19(3) or section 21 or subsection 22.11(1).
+
+
+
+
+
+
+
+
+
+(2) Il ne peut désigner que des personnes employées dans l’administration publique fédérale pour l’exercice des pouvoirs visés aux articles 17 à 18, au paragraphe 19(3), à l’article 21 ou au paragraphe 22.11(1).
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+Suspension and revocation
+
+
+
+(3) The Minister may suspend or revoke a designation made under subsection (1).
+
+
+
+
+
+
+
+
+
+(3) Le ministre peut suspendre ou révoquer toute désignation faite en vertu du paragraphe (1).
+
+
+
+Suspension et révocation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powers
+
+
+
+
+
+
+
+
+
+Pouvoirs
+
+
+
+
+
+
+
+
+
+
+
+
+Authority to enter and other powers
+
+
+
+
+17. (1) An inspector who has reasonable grounds to believe that an object to which this Act applies is located in or on a place, including a vehicle, or that an activity regulated by this Act is conducted in a place, including a vehicle, may, for the purpose of verifying compliance with this Act,
+
+
+
+
+
+
+
+
+
+
+(a) enter the place;
+
+
+
+
+
+
+
+
+
+
+(b) examine the place or anything found in or on the place;
+
+
+
+
+
+
+
+
+
+
+(c) seize and detain anything in or on the place;
+
+
+
+
+
+
+
+
+
+
+(d) use any means of communication in the place or cause it to be used;
+
+
+
+
+
+
+
+
+
+
+(e) use any computer system in the place, or cause it to be used, to examine data contained in or available to it;
+
+
+
+
+
+
+
+
+
+
+(f) prepare a document, or cause one to be prepared, based on the data;
+
+
+
+
+
+
+
+
+
+
+(g) use any copying equipment in the place, or cause it to be used;
+
+
+
+
+
+
+
+
+
+
+(h) direct any person to put anything in or on the place into operation or to cease operating it; and
+
+
+
+
+
+
+
+
+
+
+(i) prohibit or limit access to all or part of the place.
+
+
+
+
+
+
+
+
+
+
+17. (1) L’inspecteur qui a des motifs raisonnables de croire qu’un objet visé par la présente loi se trouve dans un lieu — y compris un véhicule — ou y est fixé ou que se déroule dans un lieu une activité réglementée par la présente loi peut, aux fins de vérification du respect de celle-ci, prendre les mesures suivantes :
+
+
+
+Accès au lieu et autres pouvoirs
+
+
+
+
+
+a) entrer dans le lieu;
+
+
+
+
+
+
+
+
+
+
+
+b) examiner le lieu ou toute chose qui s’y trouve ou y est fixée;
+
+
+
+
+
+
+
+
+
+
+
+c) saisir et retenir toute chose qui se trouve dans le lieu ou y est fixée;
+
+
+
+
+
+
+
+
+
+
+
+d) faire usage, directement ou indirectement, des moyens de communication se trouvant dans le lieu;
+
+
+
+
+
+
+
+
+
+
+
+e) faire usage, directement ou indirectement, de tout système informatique se trouvant dans le lieu pour examiner les données qu’il contient ou auxquelles il donne accès;
+
+
+
+
+
+
+
+
+
+
+
+f) établir ou faire établir tout document à partir de ces données;
+
+
+
+
+
+
+
+
+
+
+
+g) faire usage, directement ou indirectement, du matériel de reproduction se trouvant dans le lieu;
+
+
+
+
+
+
+
+
+
+
+
+h) ordonner à quiconque de faire fonctionner ou de cesser de faire fonctionner toute chose qui se trouve dans le lieu ou y est fixée;
+
+
+
+
+
+
+
+
+
+
+
+i) interdire ou limiter l’accès à tout ou partie du lieu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certificate to be produced
+
+
+
+(2) The Minister shall provide the inspector with a certificate of their designation, and on entering the place, the inspector shall, on request, produce the certificate to the person in charge of that place.
+
+
+
+
+
+
+
+
+
+(2) Le ministre remet à l’inspecteur un certificat attestant sa qualité, que celui-ci présente, sur demande, au responsable du lieu dans lequel il entre.
+
+
+
+Production du certificat
+
+
+
+
+
+
+
+
+
+
+Duty to assist
+
+
+
+(3) The owner or person in charge of the place and every person in the place shall give all assistance that is reasonably required to enable the inspector to verify compliance with this Act and shall provide any documents, data or information that are reasonably required for that purpose.
+
+
+
+
+
+
+
+
+
+(3) Le propriétaire ou le responsable du lieu, ainsi que quiconque s’y trouve, sont tenus de prêter à l’inspecteur toute l’assistance qu’il peut valablement exiger pour lui permettre de vérifier le respect de la présente loi, et de lui fournir les documents, données et renseignements qu’il peut valablement exiger.
+
+
+
+Assistance
+
+
+
+
+
+
+
+
+
+
+Warrant for dwelling-house
+
+
+
+
+17.1 (1) If the place is a dwelling-house, the inspector may not enter it without the occupant’s consent except under the authority of a warrant issued under subsection (2).
+
+
+
+
+
+
+
+
+
+
+17.1 (1) Dans le cas d’une maison d’habitation, l’inspecteur ne peut toutefois y entrer sans le consentement de l’occupant que s’il est muni du mandat prévu au paragraphe (2).
+
+
+
+Mandat pour maison d’habitation
+
+
+
+
+
+
+
+
+
+
+Authority to issue warrant
+
+
+
+(2) On ex parte application, a justice of the peace may issue a warrant authorizing an inspector who is named in it to enter a dwelling-house, subject to any conditions spec- ified in the warrant, if the justice is satisfied by information on oath that
+
+
+
+
+
+
+
+
+
+
+(a) the dwelling-house is a place referred to in subsection 17(1);
+
+
+
+
+
+
+
+
+
+
+(b) entry to the dwelling-house is necessary to verify compliance with this Act; and
+
+
+
+
+
+
+
+
+
+
+(c) entry was refused by the occupant or there are reasonable grounds to believe that entry will be refused or that consent to entry cannot be obtained from the occupant.
+
+
+
+
+
+
+
+
+
+(2) Sur demande ex parte, le juge de paix peut décerner un mandat autorisant, sous réserve des conditions éventuellement fixées, l’inspecteur qui y est nommé à entrer dans une maison d’habitation s’il est convaincu, sur la foi d’une dénonciation sous serment, que les conditions suivantes sont réunies :
+
+
+
+Délivrance du mandat
+
+
+
+
+
+a) la maison d’habitation est un lieu visé au paragraphe 17(1);
+
+
+
+
+
+
+
+
+
+
+
+b) l’entrée est nécessaire à la vérification du respect de la présente loi;
+
+
+
+
+
+
+
+
+
+
+
+c) soit l’occupant a refusé l’entrée à l’inspecteur, soit il existe des motifs raisonnables de croire que tel sera le cas ou qu’il est impossible d’obtenir le consentement de l’occupant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Entry on private property
+
+
+
+
+17.2 (1) For the purpose of gaining entry to a place referred to in subsection 17(1), an inspector may enter private property and pass through it, and is not liable for doing so. For greater certainty, no person has a right to object to that use of the property and no warrant is required for the entry, unless the property is a dwelling-house.
+
+
+
+
+
+
+
+
+
+
+17.2 (1) L’inspecteur peut, afin d’accéder au lieu visé au paragraphe 17(1), entrer dans une propriété privée et y passer, et ce, sans encourir de poursuites à cet égard; il est entendu que nul ne peut s’y opposer et qu’aucun mandat n’est requis, sauf s’il s’agit d’une maison d’habitation.
+
+
+
+Entrée dans une propriété privée
+
+
+
+
+
+
+
+
+
+
+Person accompanying inspector
+
+
+
+(2) A person may, at the inspector’s request, accompany the inspector to assist them to gain entry to the place referred to in subsection 17(1) and is not liable for doing so.
+
+
+
+
+
+
+
+
+
+(2) Toute personne peut, à la demande de l’inspecteur, accompagner celui-ci en vue de l’aider à accéder au lieu, et ce, sans encourir de poursuites à cet égard.
+
+
+
+Personne accompagnant l’inspecteur
+
+
+
+
+
+
+
+
+
+
+Use of force
+
+
+
+
+17.3 In executing a warrant to enter a dwelling-house, an inspector shall not use force unless the use of force has been specifically authorized in the warrant and the inspector is accompanied by a peace officer.
+
+
+
+
+
+
+
+
+
+
+17.3 L’inspecteur ne peut recourir à la force dans l’exécution d’un mandat relatif à une maison d’habitation que si celui-ci en autorise expressément l’usage et qu’il est accompagné d’un agent de la paix.
+
+
+
+Usage de la force
+
+
+
+
+
+
+
+
+
+
+Examining vehicle
+
+
+
+
+18. (1) A member of the Royal Canadian Mounted Police or of any provincial or municipal police force may, at the request and in the company of an inspector, stop and detain any vehicle so that the inspector may examine it for the purposes of verifying compliance with this Act.
+
+
+
+
+
+
+
+
+
+
+18. (1) Les membres de la Gendarmerie royale du Canada ou des forces policières provinciales ou municipales peuvent, à la demande et en présence d’un inspecteur, arrêter et immobiliser un véhicule pour permettre à ce dernier de l’examiner aux fins de vérification du respect de la présente loi.
+
+
+
+Examen d’un véhicule
+
+
+
+
+
+
+
+
+
+
+Vehicle to be moved
+
+
+
+(2) The inspector may require the operator of the vehicle to proceed with it to an appropriate place, if doing so is necessary to conduct the examination.
+
+
+
+
+
+
+
+
+
+(2) Si cela est nécessaire pour l’examen, l’inspecteur peut obliger le conducteur à conduire le véhicule jusqu’à un lieu approprié.
+
+
+
+Déplacement d’un véhicule
+
+
+
+
+
+
+
+
+
+
+
+
+
+17. (1) The portion of subsection 19(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+17. (1) Le passage du paragraphe 19(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Certificate
+
+
+
+
+19. (1) If an inspector examines a device, they shall issue to the owner or person who is in possession of it,
+
+
+
+
+
+
+
+
+
+
+19. (1) L’inspecteur délivre au propriétaire ou possesseur de l’instrument qu’il a examiné :
+
+
+
+Certificat
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 19(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 19(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Marking of devices — requirements met
+
+
+
+(2) If an inspector determines that a device referred to in paragraph (1)(a) meets the requirements of this Act and the regulations, they shall mark the device as prescribed and
+
+
+
+
+
+
+
+
+
+
+(a) attach the prescribed seals that are intended to indicate any adjustments to the device; or
+
+
+
+
+
+
+
+
+
+
+(b) if those seals are already attached to the device, verify that they can indicate any adjustments and, in the case of electronic seals, collect the information that is necessary to detect any adjustments.
+
+
+
+
+
+
+
+
+
+(2) Si, dans le cas visé à l’alinéa (1)a), il constate la conformité de l’instrument à la présente loi et aux règlements, l’inspecteur le marque selon les modalités réglementaires et, selon le cas :
+
+
+
+Marquage des instruments
+
+
+
+
+
+a) y appose les sceaux réglementaires destinés à révéler tout réglage de celui-ci;
+
+
+
+
+
+
+
+
+
+
+
+b) en présence de tels sceaux, vérifie qu’ils sont en mesure de révéler tout réglage et, dans le cas de sceaux électroniques, recueille les renseignements qui lui permettent de déceler tout réglage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. (1) The portion of section 21 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+18. (1) Le passage de l’article 21 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Payment of fees if dispute
+
+
+
+
+21. If a dispute arises between a trader and any other person with respect to the accuracy of a device that is used by the trader in trade and an inspector examines the device at the request of the trader or other person, the fee for the examination shall be paid
+
+
+
+
+
+
+
+
+
+
+21. Les droits afférents à l’examen destiné à trancher un différend sur l’exactitude d’un instrument utilisé par le commerçant pour le commerce et demandé par le commerçant lui-même ou la partie contestante sont acquittés par :
+
+
+
+Paiement des droits en cas de différend
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 21 of the Act is renumbered as subsection 21(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+(2) L’article 21 de la même loi devient le paragraphe 21(1) et est modifié par adjonction de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Examination if dispute
+
+
+
+(2) An inspector may examine the device at the request of a person referred to in subsection (1).
+
+
+
+
+
+
+
+
+
+(2) L’inspecteur peut examiner l’instrument à la demande de l’une ou l’autre des parties au différend.
+
+
+
+Examen en cas de différend
+
+
+
+
+
+
+
+
+
+
+
+
+
+19. The Act is amended by adding the following before the heading before section 23:
+
+
+
+
+
+
+
+
+
+
+19. La même loi est modifiée par adjonction, avant l’intertitre précédant l’article 23, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADMINISTRATIVE MONETARY PENALTIES
+
+
+
+
+
+
+
+
+
+PÉNALITÉS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Powers of the Governor in Council
+
+
+
+
+
+
+
+
+
+Pouvoirs du gouverneur en conseil
+
+
+
+
+
+
+
+
+
+
+
+
+Regulations
+
+
+
+
+22. The Governor in Council may make regulations
+
+
+
+
+
+
+
+
+
+
+(a) designating any provision of this Act — other than paragraph 29(b), subsections 30(1) and 31(2) and section 32 — or of the regulations as a provision whose contravention may be proceeded with as a violation in accordance with sections 22.1 to 22.28;
+
+
+
+
+
+
+
+
+
+
+(b) establishing a penalty, or a range of penalties, in respect of each violation;
+
+
+
+
+
+
+
+
+
+
+(c) establishing criteria to be considered in determining the amount of the penalty if a range of penalties is established;
+
+
+
+
+
+
+
+
+
+
+(d) classifying each violation as a minor violation, a serious violation or a very serious violation;
+
+
+
+
+
+
+
+
+
+
+(e) respecting the circumstances under which, the criteria by which and the manner in which the amount of a penalty may be increased or reduced in whole or in part; and
+
+
+
+
+
+
+
+
+
+
+(f) respecting a lesser amount that may be paid as complete satisfaction of a penalty if it is paid within the prescribed time and in the prescribed manner, including the circumstances in which the lesser amount may be set out in a notice of violation.
+
+
+
+
+
+
+
+
+
+
+22. Le gouverneur en conseil peut, par règlement :
+
+
+
+Règlements
+
+
+
+
+
+a) désigner toute disposition de la présente loi — à l’exclusion de l’alinéa 29b), des paragraphes 30(1) et 31(2) et de l’article 32 — ou toute disposition des règlements comme l’une dont la contravention peut faire l’objet d’une procédure en violation au titre des articles 22.1 à 22.28;
+
+
+
+
+
+
+
+
+
+
+
+b) établir le montant de la pénalité — ou établir un barème de pénalités — applicable à chaque violation;
+
+
+
+
+
+
+
+
+
+
+
+c) établir les critères applicables à la détermination du montant de la pénalité, lorsqu’un barème de pénalités est établi;
+
+
+
+
+
+
+
+
+
+
+
+d) qualifier les violations, selon le cas, de mineures, graves ou très graves;
+
+
+
+
+
+
+
+
+
+
+
+e) prévoir les circonstances, critères et modalités applicables à l’augmentation ou à la réduction — partielle ou totale — du montant de la pénalité;
+
+
+
+
+
+
+
+
+
+
+
+f) prévoir une somme inférieure à la pénalité infligée, dont le paiement, dans le délai et selon les modalités réglementaires, vaut règlement, et prévoir notamment les circonstances où la somme inférieure peut être mentionnée dans le procès-verbal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Violations
+
+
+
+
+
+
+
+
+
+Violations
+
+
+
+
+
+
+
+
+
+
+
+
+Commission of violation
+
+
+
+
+22.1 (1) Every person who contravenes a provision designated under paragraph 22(a) commits a violation and is liable to a penalty established in accordance with the regulations.
+
+
+
+
+
+
+
+
+
+
+22.1 (1) Toute contravention à une disposition désignée en vertu de l’alinéa 22a) constitue une violation exposant son auteur à la pénalité établie conformément aux règlements.
+
+
+
+Violations
+
+
+
+
+
+
+
+
+
+
+Purpose of penalty
+
+
+
+(2) The purpose of a penalty is to promote compliance with this Act and not to punish.
+
+
+
+
+
+
+
+
+
+(2) L’imposition de la pénalité vise non pas à punir, mais plutôt à favoriser le respect de la présente loi.
+
+
+
+But de la pénalité
+
+
+
+
+
+
+
+
+
+
+Maximum penalty
+
+
+
+(3) The maximum penalty for a violation is $2,000.
+
+
+
+
+
+
+
+
+
+(3) La pénalité maximale pour une violation est de 2 000 $.
+
+
+
+Plafond de la pénalité
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proceedings
+
+
+
+
+
+
+
+
+
+Ouverture de la procédure
+
+
+
+
+
+
+
+
+
+
+
+
+Notice of violation
+
+
+
+
+22.11 (1) An inspector may issue a notice of violation and cause it to be provided to a person if the inspector has reasonable grounds to believe that the person has committed a violation.
+
+
+
+
+
+
+
+
+
+
+22.11 (1) L’inspecteur qui a des motifs raisonnables de croire qu’une violation a été commise peut dresser un procès-verbal qu’il fait notifier à l’auteur présumé de la violation.
+
+
+
+Procès-verbal
+
+
+
+
+
+
+
+
+
+
+Contents of notice
+
+
+
+(2) The notice of violation must
+
+
+
+
+
+
+
+
+
+
+(a) name the person believed to have committed the violation;
+
+
+
+
+
+
+
+
+
+
+(b) identify the acts or omissions that constitute the alleged violation;
+
+
+
+
+
+
+
+
+
+
+(c) set out the penalty for the violation that the person is liable to pay;
+
+
+
+
+
+
+
+
+
+
+(d) set out the particulars concerning the time and manner of payment; and
+
+
+
+
+
+
+
+
+
+
+(e) subject to the regulations, set out a lesser amount that may be paid as complete satisfaction of the penalty if it is paid within the prescribed time and in the prescribed manner that are set out in the notice.
+
+
+
+
+
+
+
+
+
+(2) Le procès-verbal mentionne :
+
+
+
+Contenu du procès-verbal
+
+
+
+
+
+a) le nom de l’auteur présumé de la violation;
+
+
+
+
+
+
+
+
+
+
+
+b) les faits reprochés;
+
+
+
+
+
+
+
+
+
+
+
+c) le montant de la pénalité à payer;
+
+
+
+
+
+
+
+
+
+
+
+d) le délai et les modalités de paiement;
+
+
+
+
+
+
+
+
+
+
+
+e) sous réserve des règlements, une somme inférieure à la pénalité infligée, dont le paiement, dans le délai et selon les modalités réglementaires qu’il précise, vaut règlement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summary of rights
+
+
+
+(3) A notice of violation must clearly summarize, in plain language, the rights and obligations under this section and sections 22.12 to 22.25 of the person to whom it is provided, including the right to request a review of the acts or omissions that constitute the alleged violation or of the amount of the penalty and the procedure for requesting the review.
+
+
+
+
+
+
+
+
+
+(3) Figure aussi dans le procès-verbal en langage clair un sommaire des droits et obligations de l’auteur présumé prévus au présent article et aux articles 22.12 à 22.25, notamment le droit de contester les faits reprochés et le montant de la pénalité et la procédure pour le faire.
+
+
+
+Sommaire des droits
+
+
+
+
+
+
+
+
+
+
+Short-form descriptions
+
+
+
+(4) The Minister may establish a short-form description of each violation to be used in notices of violation.
+
+
+
+
+
+
+
+
+
+(4) Le ministre peut établir, pour chaque violation, une description sommaire à employer dans les procès-verbaux.
+
+
+
+Description sommaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Penalties
+
+
+
+
+
+
+
+
+
+Pénalités
+
+
+
+
+
+
+
+
+
+
+
+
+Effect of payment
+
+
+
+
+22.12 (1) If the person who is named in a notice of violation pays, within the prescribed time and in the prescribed manner that are set out in the notice, the amount of the penalty — or, if applicable, the lesser amount that may be paid as complete satisfaction of the penalty — set out in the notice,
+
+
+
+
+
+
+
+
+
+
+(a) they are deemed to have committed the violation to which the amount paid relates;
+
+
+
+
+
+
+
+
+
+
+(b) the Minister shall accept that amount as complete satisfaction of the penalty; and
+
+
+
+
+
+
+
+
+
+
+(c) the proceedings commenced in respect of the violation under section 22.11 are ended.
+
+
+
+
+
+
+
+
+
+
+22.12 (1) Si l’auteur présumé de la violation paie, dans le délai et selon les modalités réglementaires mentionnés dans le procès-verbal, le montant de la pénalité — ou le cas échéant, la somme inférieure — mentionné dans le procès-verbal, le paiement, que le ministre accepte en règlement, vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+
+
+
+Effet du paiement
+
+
+
+
+
+
+
+
+
+
+Alternatives to payment
+
+
+
+(2) Instead of paying the penalty or, if applicable, the lesser amount that may be paid as complete satisfaction of the penalty, the person who is named in the notice may, within the prescribed time and in the prescribed manner that are set out in the notice,
+
+
+
+
+
+
+
+
+
+
+(a) request to enter into a compliance agreement with the Minister that ensures the person’s compliance with the provision to which the violation relates, if the penalty is $1,000 or more; or
+
+
+
+
+
+
+
+
+
+
+(b) request a review by the Minister of the acts or omissions that constitute the alleged violation or the amount of the penalty.
+
+
+
+
+
+
+
+
+
+(2) Au lieu d’effectuer le paiement du montant de la pénalité ou, le cas échéant, de la somme inférieure, l’intéressé peut, dans le délai et selon les modalités réglementaires précisés dans le procès-verbal :
+
+
+
+Option
+
+
+
+
+
+a) demander au ministre de conclure avec lui une transaction en vue de la bonne observation de la disposition en cause, si la pénalité est de 1 000 $ ou plus;
+
+
+
+
+
+
+
+
+
+
+
+b) contester devant le ministre les faits reprochés ou le montant de la pénalité.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deeming
+
+
+
+(3) If the person who is named in the notice does not pay the penalty, or, if applicable, the lesser amount that may be paid as complete satisfaction of the penalty, within the prescribed time and in the prescribed manner and does not exercise any right referred to in subsection (2) within the prescribed time and in the prescribed manner, the person is deemed to have committed the violation identified in the notice.
+
+
+
+
+
+
+
+
+
+(3) L’omission de l’intéressé de faire le paiement, dans le délai et selon les modalités réglementaires, vaut déclaration de responsabilité à l’égard de la violation à moins que celui-ci n’exerce l’option prévue au paragraphe (2).
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance Agreements
+
+
+
+
+
+
+
+
+
+Transactions
+
+
+
+
+
+
+
+
+
+
+
+
+Compliance agreements
+
+
+
+
+22.13 (1) After considering a request made under paragraph 22.12(2)(a), the Minister may enter into a compliance agreement, as described in that paragraph, with the person making the request on any conditions that are satisfactory to the Minister, which conditions may
+
+
+
+
+
+
+
+
+
+
+(a) include a provision for the giving of reasonable security, in a form and in an amount that are satisfactory to the Minister, as a guarantee that the person will comply with the compliance agreement; and
+
+
+
+
+
+
+
+
+
+
+(b) provide for the reduction, in whole or in part, of the amount of the penalty for the violation.
+
+
+
+
+
+
+
+
+
+
+22.13 (1) Sur demande de l’auteur présumé de la violation, le ministre peut conclure avec celui-ci une transaction qui, d’une part, est subordonnée aux conditions qu’il estime indiquées, notamment au dépôt d’une caution raisonnable — dont le montant et la nature doivent lui agréer — en garantie de l’exécution de la transaction, et, d’autre part, peut prévoir la réduction — partielle ou totale — du montant de la pénalité.
+
+
+
+Conclusion d’une transaction
+
+
+
+
+
+
+
+
+
+
+Deeming
+
+
+
+(2) A person who enters into a compliance agreement with the Minister is, on doing so, deemed to have committed the violation to which the compliance agreement relates, and the proceedings commenced in respect of the violation under section 22.11 are ended.
+
+
+
+
+
+
+
+
+
+(2) La conclusion de la transaction vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+If compliance agreement complied with
+
+
+
+(3) If the Minister is of the opinion that a person who has entered into a compliance agreement has complied with it, the Minister shall cause the person to be provided with a notice to that effect, at which time any security given by the person under that agreement shall be returned to the person.
+
+
+
+
+
+
+
+
+
+(3) S’il estime la transaction exécutée, le ministre fait notifier à l’intéressé un avis qui l’en informe. Dès la notification de l’avis, toute caution versée dans le cadre de la transaction est remise à l’intéressé.
+
+
+
+Exécution de la transaction
+
+
+
+
+
+
+
+
+
+
+If compliance agreement not complied with
+
+
+
+(4) If the Minister is of the opinion that a person who has entered into a compliance agreement has not complied with it, the Minister shall cause the person to be provided with a notice of default to the effect that
+
+
+
+
+
+
+
+
+
+
+(a) instead of the penalty set out in the compliance agreement, the person is liable to pay, within the prescribed time and in the prescribed manner set out in the notice of default, twice the amount of the penalty set out in the notice of violation and, for greater certainty, subsection 22.1(3) does not apply in respect of that amount; or
+
+
+
+
+
+
+
+
+
+
+(b) the security, if any, given by the person under the compliance agreement is forfeited to Her Majesty in right of Canada.
+
+
+
+
+
+
+
+
+
+(4) S’il estime la transaction inexécutée, le ministre fait notifier à l’intéressé un avis de défaut qui l’informe soit qu’il est tenu de payer, dans le délai et selon les modalités réglementaires qui y sont précisés, au lieu du montant convenu dans la transaction et sans qu’il soit tenu compte du plafond fixé au paragraphe 22.1(3), le double du montant de la pénalité infligée initialement, soit qu’il y aura confiscation de la caution au profit de Sa Majesté du chef du Canada.
+
+
+
+Inexécution de la transaction
+
+
+
+
+
+
+
+
+
+
+Effect of notice of default
+
+
+
+(5) Once they have been provided with the notice of default, the person shall pay the amount set out in it or, if the notice provides for the forfeiture of the security given under the compliance agreement, that security is forfeited to Her Majesty in right of Canada.
+
+
+
+
+
+
+
+
+
+(5) Sur notification de l’avis, l’intéressé paye la somme prévue dans l’avis, ou la confiscation de la caution s’opère au profit de Sa Majesté du chef du Canada.
+
+
+
+Effet de l’avis de défaut
+
+
+
+
+
+
+
+
+
+
+Effect of payment
+
+
+
+(6) If the person pays the amount set out in a notice of default under paragraph (4)(a) within the prescribed time and in the prescribed manner that are set out in the notice,
+
+
+
+
+
+
+
+
+
+
+(a) the Minister shall accept the amount as complete satisfaction of the amount owing; and
+
+
+
+
+
+
+
+
+
+
+(b) the compliance agreement entered into under subsection (2) terminates.
+
+
+
+
+
+
+
+
+
+(6) Le paiement conforme à l’avis, que le ministre accepte en règlement, met fin à la transaction.
+
+
+
+Effet du paiement
+
+
+
+
+
+
+
+
+
+
+Refusal to enter into compliance agreement
+
+
+
+
+22.14 (1) If the Minister refuses to enter into a compliance agreement after considering a request made under paragraph 22.12(2)(a), the Minister shall cause the person to be provided with a notice to that effect and the person who is named in the notice is liable to pay the amount of the penalty within the prescribed time and in the prescribed manner that are set out in the notice.
+
+
+
+
+
+
+
+
+
+
+22.14 (1) Si le ministre refuse de transiger, l’auteur présumé de la violation est tenu, dans le délai et selon les modalités réglementaires précisés dans un avis que le ministre lui fait notifier, de payer le montant de la pénalité infligée initialement.
+
+
+
+Refus de transiger
+
+
+
+
+
+
+
+
+
+
+Effect of payment
+
+
+
+(2) If the person pays the amount within the prescribed time and in the prescribed manner
+
+
+
+
+
+
+
+
+
+
+(a) they are deemed to have committed the violation to which the amount paid relates;
+
+
+
+
+
+
+
+
+
+
+(b) the Minister shall accept the amount as complete satisfaction of the penalty; and
+
+
+
+
+
+
+
+
+
+
+(c) the proceedings commenced in respect of the violation under section 22.11 are ended.
+
+
+
+
+
+
+
+
+
+(2) Le paiement conforme à l’avis, que le ministre accepte en règlement, vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+
+
+
+Effet du paiement
+
+
+
+
+
+
+
+
+
+
+Deeming
+
+
+
+(3) If the person does not pay the amount within the prescribed time and in the prescribed manner that are set out in the notice, they are deemed to have committed the violation.
+
+
+
+
+
+
+
+
+
+(3) L’omission de l’intéressé de faire le paiement conformément à l’avis vaut déclaration de responsabilité à l’égard de la violation.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Review by the Minister
+
+
+
+
+
+
+
+
+
+Contestation devant le ministre
+
+
+
+
+
+
+
+
+
+
+
+
+Review — violation
+
+
+
+
+22.15 (1) After completing a review requested under paragraph 22.12(2)(b) with respect to the acts or omissions that constitute the alleged violation identified in the notice of violation, the Minister shall determine whether the person who is named in the notice committed the violation and, if the Minister determines that the person did so but considers that the amount of the penalty for the violation was not established in accordance with the regulations, the Minister shall correct that amount and cause the person to be provided with a notice of the Minister’s decision.
+
+
+
+
+
+
+
+
+
+
+22.15 (1) Saisi au titre de l’alinéa 22.12(2)b) d’une contestation relative aux faits reprochés, le ministre détermine la responsabilité de l’intéressé et lui fait notifier sa décision. Dans le cas où il conclut à la responsabilité de l’intéressé, s’il considère que le montant de la pénalité n’a pas été établi en conformité avec les règlements, il y substitue le montant qu’il estime conforme.
+
+
+
+Décision du ministre : faits reprochés
+
+
+
+
+
+
+
+
+
+
+Review — penalty
+
+
+
+(2) After completing a review requested under paragraph 22.12(2)(b) with respect to the amount of the penalty set out in the notice of violation, the Minister shall determine whether the amount of the penalty was established in accordance with the regulations and, if the Minister determines that it was not, the Minister shall correct that amount and cause the person to be provided with a notice of the Minister’s decision.
+
+
+
+
+
+
+
+
+
+(2) Saisi au titre de l’alinéa 22.12(2)b) d’une contestation relative au montant de la pénalité, le ministre vérifie si celui-ci a été établi en conformité avec les règlements et, sinon, y substitue le montant qu’il estime conforme. Il fait notifier sa décision à l’intéressé.
+
+
+
+Décision du ministre : montant de la pénalité
+
+
+
+
+
+
+
+
+
+
+Payment
+
+
+
+(3) The person who is provided with a notice of the Minister’s decision is liable to pay the amount of the penalty that is set out in it within the prescribed time and in the prescribed manner that are set out in the notice.
+
+
+
+
+
+
+
+
+
+(3) L’intéressé est tenu de payer, dans le délai et selon les modalités réglementaires précisés dans la décision qui lui est notifiée, toute somme prévue dans celle-ci.
+
+
+
+Obligation de payer
+
+
+
+
+
+
+
+
+
+
+Effect of payment
+
+
+
+(4) If the person pays the amount of the penalty that is set out in the notice of the Minister’s decision within the prescribed time and in the prescribed manner that are set out in the notice,
+
+
+
+
+
+
+
+
+
+
+(a) the Minister shall accept the amount as complete satisfaction of the penalty; and
+
+
+
+
+
+
+
+
+
+
+(b) the proceedings commenced in respect of the violation under section 22.11 are ended.
+
+
+
+
+
+
+
+
+
+(4) Le paiement conforme à la décision, que le ministre accepte en règlement, met fin à la procédure.
+
+
+
+Effet du paiement
+
+
+
+
+
+
+
+
+
+
+Submissions in writing
+
+
+
+(5) The Minister is to consider only written evidence and written submissions in determining whether a person committed a violation or whether the amount of a penalty was established in accordance with the regulations.
+
+
+
+
+
+
+
+
+
+(5) Le ministre ne tient compte que des éléments de preuve et des arguments écrits lorsqu’il détermine la responsabilité de l’intéressé ou vérifie si le montant de la pénalité a été établi en conformité avec les règlements.
+
+
+
+Contestation par écrit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recovery of Debts
+
+
+
+
+
+
+
+
+
+Recouvrement de créances
+
+
+
+
+
+
+
+
+
+
+
+
+Debts to Her Majesty
+
+
+
+
+22.16 (1) The following amounts are debts due to Her Majesty in right of Canada that may be recovered in the Federal Court:
+
+
+
+
+
+
+
+
+
+
+(a) the amount of a penalty set out in a notice of violation, beginning on the day on which it is required to be paid in accordance with the notice, unless a request is made to enter into a compliance agreement with the Minister or to have the Minister review the acts or omissions that constitute the violation or the amount of the penalty;
+
+
+
+
+
+
+
+
+
+
+(b) every amount set out in a compliance agreement entered into with the Minister under subsection 22.13(1), beginning on the day specified in that agreement or, if no day is specified, beginning on the day on which the agreement is entered into;
+
+
+
+
+
+
+
+
+
+
+(c) the amount set out in a notice of default referred to in subsection 22.13(4), beginning on the day specified in the notice;
+
+
+
+
+
+
+
+
+
+
+(d) the amount of a penalty set out in the Minister’s notice under subsection 22.14(1) or in the notice of the Minister’s decision made under subsection 22.15(1) or (2), beginning on the day specified in the notice; and
+
+
+
+
+
+
+
+
+
+
+(e) the amount of any reasonable expenses incurred in attempting to recover an amount referred to in any of paragraphs (a) to (d).
+
+
+
+
+
+
+
+
+
+
+22.16 (1) Constituent des créances de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant la Cour fédérale :
+
+
+
+Créances de Sa Majesté
+
+
+
+
+
+a) le montant de la pénalité mentionné dans le procès-verbal, à compter de la date à laquelle il doit être payé en conformité avec celui-ci, sauf en cas de présentation d’une demande de transaction avec le ministre ou d’une demande de contestation devant lui;
+
+
+
+
+
+
+
+
+
+
+
+b) toute somme prévue dans une transaction conclue au titre du paragraphe 22.13(1), à compter de la date de la conclusion ou, s’il y a lieu, de la date qui y est précisée;
+
+
+
+
+
+
+
+
+
+
+
+c) la somme prévue dans l’avis de défaut notifié au titre du paragraphe 22.13(4), à compter de la date qui y est précisée;
+
+
+
+
+
+
+
+
+
+
+
+d) le montant de la pénalité mentionné dans l’avis du ministre et notifié au titre du paragraphe 22.14(1) ou dans sa décision notifiée au titre des paragraphes 22.15(1) ou (2), à compter de la date qui est précisée dans l’avis ou la décision, selon le cas;
+
+
+
+
+
+
+
+
+
+
+
+e) le montant des frais raisonnables engagés en vue du recouvrement d’un montant ou d’une somme visés à l’un ou l’autre des alinéas a) à d).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitation period or prescription
+
+
+
+(2) No proceedings to recover such a debt may be commenced later than five years after the debt becomes payable.
+
+
+
+
+
+
+
+
+
+(2) Le recouvrement de toute créance se prescrit par cinq ans à compter de la date à laquelle elle est devenue exigible aux termes du paragraphe (1).
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Debt final
+
+
+
+(3) The debt is final and may not be reviewed, restrained, prohibited, removed, set aside or otherwise dealt with except to the extent and in the manner provided by sections 22.12 to 22.15.
+
+
+
+
+
+
+
+
+
+(3) La créance est définitive et n’est susceptible de contestation ou de révision que dans la mesure et selon les modalités prévues aux articles 22.12 à 22.15.
+
+
+
+Créance définitive
+
+
+
+
+
+
+
+
+
+
+Certificate of default
+
+
+
+
+22.17 (1) The Minister may issue a certificate certifying the unpaid amount of any debt referred to in subsection 22.16(1).
+
+
+
+
+
+
+
+
+
+
+22.17 (1) Le ministre peut établir un certificat de non-paiement pour la partie impayée de toute créance visée au paragraphe 22.16(1).
+
+
+
+Certificat de non-paiement
+
+
+
+
+
+
+
+
+
+
+Effect of registration
+
+
+
+(2) Registration in the Federal Court of the certificate has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
+
+
+
+
+
+
+
+
+
+(2) L’enregistrement du certificat à la Cour fédérale confère à celui-ci valeur de jugement de ce tribunal pour la somme visée et les frais afférents.
+
+
+
+Effet de l’enregistrement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rules of Law About Violations
+
+
+
+
+
+
+
+
+
+Règles propres aux violations
+
+
+
+
+
+
+
+
+
+
+
+
+Violations not offences
+
+
+
+
+22.18 For greater certainty, a violation is not an offence and, accordingly, section 126 of the Criminal Code does not apply.
+
+
+
+
+
+
+
+
+
+
+22.18 Il est entendu que les violations n’ont pas valeur d’infractions; en conséquence, nul ne peut être poursuivi à ce titre sur le fondement de l’article 126 du Code criminel.
+
+
+
+Précision
+
+
+
+
+
+
+
+
+
+
+Due diligence defence
+
+
+
+
+22.19 (1) A person shall not be found to be liable for a violation if they establish that they exercised due diligence to prevent the commission of the violation.
+
+
+
+
+
+
+
+
+
+
+22.19 (1) Nul ne peut être tenu responsable d’une violation s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa commission.
+
+
+
+Disculpation : précautions voulues
+
+
+
+
+
+
+
+
+
+
+Common law principles
+
+
+
+(2) Every rule and principle of the common law that renders any circumstance a justification or an excuse in relation to a charge for an offence under this Act applies in respect of a violation to the extent that it is not inconsistent with this Act.
+
+
+
+
+
+
+
+
+
+(2) Les règles et principes de la common law qui font d’une circonstance une justification ou une excuse dans le cadre d’une poursuite pour infraction à la présente loi s’appliquent à l’égard d’une violation sauf dans la mesure où ils sont incompatibles avec la présente loi.
+
+
+
+Principes de la common law
+
+
+
+
+
+
+
+
+
+
+Burden of proof
+
+
+
+
+22.2 In every case where the Minister is to determine whether a person who is named in a notice of violation committed any violation identified in it, the Minister shall do so on a balance of probabilities.
+
+
+
+
+
+
+
+
+
+
+22.2 En cas de contestation des faits, la décision du ministre repose sur la prépondérance des probabilités.
+
+
+
+Charge de la preuve
+
+
+
+
+
+
+
+
+
+
+Offences by corporate officers, etc.
+
+
+
+
+22.21 If a person other than an individual commits a violation under this Act, any of the person’s officers, directors, agents or mandataries who directs, authorizes, assents to or acquiesces or participates in the commission of the violation is a party to and liable for the violation whether or not the person who actually committed it is proceeded against in accordance with this Act.
+
+
+
+
+
+
+
+
+
+
+22.21 En cas de commission d’une violation par toute personne autre qu’un individu, ceux de ses dirigeants, administrateurs ou mandataires qui l’ont ordonnée ou autorisée, ou qui y ont consenti ou participé, sont considérés comme des coauteurs de la violation, que la personne fasse ou non l’objet d’une procédure en violation engagée au titre de la présente loi.
+
+
+
+Participants à la violation
+
+
+
+
+
+
+
+
+
+
+Vicarious liability — acts of employees, agents and mandataries
+
+
+
+
+22.22 A person is liable for a violation that is committed by their employee, agent or mandatary who is acting in the course of the employee’s employment or within the scope of the agent’s or mandatary’s authority, whether or not the employee, agent or mandatary who actually committed the violation is identified or proceeded against in accordance with this Act.
+
+
+
+
+
+
+
+
+
+
+22.22 L’employeur ou le mandant est responsable de la violation commise par un employé ou un mandataire dans le cadre de son emploi ou du mandat, que l’auteur de la violation soit ou non connu ou fasse ou non l’objet d’une procédure en violation engagée au titre de la présente loi.
+
+
+
+Responsabilité du fait d’autrui : employeurs et mandants
+
+
+
+
+
+
+
+
+
+
+Continuing violation
+
+
+
+
+22.23 A violation that is continued on more than one day constitutes a separate violation in respect of each day during which it is continued.
+
+
+
+
+
+
+
+
+
+
+22.23 Il est compté une violation distincte pour chacun des jours au cours desquels se continue la violation.
+
+
+
+Violation continue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Other Provisions
+
+
+
+
+
+
+
+
+
+Autres dispositions
+
+
+
+
+
+
+
+
+
+
+
+
+Evidence
+
+
+
+
+22.24 In any proceeding for a violation, a notice of violation purporting to be issued under subsection 22.11(1) and a certificate purporting to be issued under paragraph 19(1)(a) are admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
+
+
+
+
+
+
+
+
+
+
+22.24 Dans les procédures en violation, le procès-verbal et le certificat paraissant délivrés respectivement aux termes du paragraphe 22.11(1) et de l’alinéa 19(1)a) sont admissibles en preuve sans qu’il soit nécessaire de prouver l’authenticité de la signature ni la qualité officielle du signataire.
+
+
+
+Admissibilité : procès-verbal et certificat
+
+
+
+
+
+
+
+
+
+
+Limitation period or prescription
+
+
+
+
+22.25 No proceedings in respect of a violation may be commenced later than six months after the day on which an inspector becomes aware of the acts or omissions that constitute the alleged violation.
+
+
+
+
+
+
+
+
+
+
+22.25 Les procédures en violation se prescrivent par six mois à compter du jour suivant celui où un inspecteur a eu connaissance des faits reprochés.
+
+
+
+Prescription
+
+
+
+
+
+
+
+
+
+
+Certification by Minister
+
+
+
+
+22.26 A document appearing to have been issued by the Minister and certifying the day on which the acts or omissions that constitute the alleged violation became known to an inspector is admissible in evidence without proof of the signature or official character of the person appearing to have signed it and, in the absence of evidence to the contrary, is proof that the inspector became aware of the acts or omissions on that day.
+
+
+
+
+
+
+
+
+
+
+22.26 Tout document paraissant établi par le ministre et attestant la date où les faits reprochés sont parvenus à la connaissance d’un inspecteur est admissible en preuve et fait foi de cette date, sauf preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+
+
+
+Attestation du ministre
+
+
+
+
+
+
+
+
+
+
+Information may be made public
+
+
+
+
+22.27 The Minister may make public
+
+
+
+
+
+
+
+
+
+
+(a) the name and business address of a person who enters into a compliance agreement, the nature of the compliance agreement — including the acts or omissions and provisions at issue, the conditions included in the compliance agreement and the amount payable under it, if any; or
+
+
+
+
+
+
+
+
+
+
+(b) the name and business address of a person who is deemed to have committed a violation or who the Minister determined committed a violation, the acts or omissions and provisions at issue, and the amount payable as a result, if any.
+
+
+
+
+
+
+
+
+
+
+22.27 Le ministre peut rendre publics :
+
+
+
+Renseignements pouvant être rendus publics
+
+
+
+
+
+a) le nom et l’adresse commerciale de la personne qui a conclu une transaction, la nature de celle-ci, notamment les actes ou omissions et les dispositions en cause, les conditions dont elle est assortie et, le cas échéant, la somme à payer;
+
+
+
+
+
+
+
+
+
+
+
+b) le nom et l’adresse commerciale de la personne qui est réputée responsable de la violation ou qui en est reconnue responsable par le ministre, les actes ou omissions et les dispositions en cause et, le cas échéant, le montant de la pénalité à payer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How act or omission may be proceeded with
+
+
+
+
+22.28 If an act or omission may be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
+
+
+
+
+
+
+
+
+
+
+22.28 S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+
+
+
+Cumul interdit
+
+
+
+
+
+
+
+
+
+
+
+
+
+20. Paragraph 23(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+20. L’alinéa 23a) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) in the certificate issued under paragraph 19(1)(a) at the time of the most recent examination made under this Act; or
+
+
+
+
+
+
+
+
+
+
+a) du certificat délivré aux termes de l’alinéa 19(1)a) par l’inspecteur, lors du dernier examen;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21. The portion of section 24 of the French version of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+21. Le passage de l’article 24 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Inobservation des règlements
+
+
+
+
+
+24. Commet une infraction le commerçant qui, pour le commerce, utilise ou a en sa possession un instrument qui :
+
+
+
+
+
+
+
+
+
+
+
+24. Commet une infraction le commerçant qui, pour le commerce, utilise ou a en sa possession un instrument qui :
+
+
+
+Inobservation des règlements
+
+
+
+
+
+
+
+
+
+
+
+
+
+22. Section 25 of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+22. L’article 25 de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Examination within prescribed period
+
+
+
+
+25. Every trader who fails to cause a device to be examined as required by subsection 15(1) is guilty of an offence.
+
+
+
+
+
+
+
+
+
+
+25. Commet une infraction le commerçant qui omet de faire examiner un instrument comme l’exige le paragraphe 15(1).
+
+
+
+Examen réglementaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+23. Sections 31 and 32 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+23. Les articles 31 et 32 de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Obstructing inspector
+
+
+
+
+31. (1) Every person who obstructs or hinders an inspector in carrying out their functions under this Act is guilty of an offence.
+
+
+
+
+
+
+
+
+
+
+31. (1) Commet une infraction quiconque entrave ou gêne l’action de l’inspecteur qui agit dans l’exercice des attributions qui lui sont conférées par la présente loi.
+
+
+
+Entrave
+
+
+
+
+
+
+
+
+
+
+Misleading statements
+
+
+
+(2) Every person who knowingly makes a false or misleading statement, either orally or in writing, in connection with any matter under this Act, to an inspector who is carrying out their functions under this Act is guilty of an offence.
+
+
+
+
+
+
+
+
+
+(2) Commet une infraction quiconque fait sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse, relativement à toute question visée par la présente loi, à l’inspecteur qui agit dans l’exercice des attributions qui lui sont conférées par celle-ci.
+
+
+
+Fausses déclarations
+
+
+
+
+
+
+
+
+
+
+Interference with seized thing
+
+
+
+(3) Every person who, without an inspector’s permission, removes, alters or interferes in any way with anything seized and detained by an inspector under paragraph 17(1)(c) is guilty of an offence.
+
+
+
+
+
+
+
+
+
+(3) Commet une infraction quiconque, sans l’autorisation d’un inspecteur, déplace une chose saisie et retenue par un inspecteur en vertu de l’alinéa 17(1)c) ou en modifie l’état de quelque manière que ce soit.
+
+
+
+Interdiction : choses saisies
+
+
+
+
+
+
+
+
+
+
+Failure to stop vehicle or proceed as directed
+
+
+
+
+32. Every operator of a vehicle is guilty of an offence if they wilfully fail
+
+
+
+
+
+
+
+
+
+
+(a) to bring the vehicle to a stop in accordance with any order or direction given under subsection 18(1) by a member of the Royal Canadian Mounted Police or of any provincial or municipal police force; or
+
+
+
+
+
+
+
+
+
+
+(b) to proceed with the vehicle to an appropriate place in accordance with any order or direction given under subsection 18(2) by an inspector.
+
+
+
+
+
+
+
+
+
+
+32. Commet une infraction tout conducteur d’un véhicule qui volontairement n’obtempère pas à l’ordre, selon le cas :
+
+
+
+Défaut d’immobiliser son véhicule
+
+
+
+
+
+a) de l’immobiliser, donné aux termes du paragraphe 18(1) par un membre de la Gendarmerie royale du Canada ou des forces policières provinciales ou municipales;
+
+
+
+
+
+
+
+
+
+
+
+b) de le conduire au lieu approprié fixé par l’inspecteur aux termes du paragraphe 18(2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24. Subsections 35(1) and (2) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+24. Les paragraphes 35(1) et (2) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment for first offence
+
+
+
+
+35. (1) Every person who is guilty of an offence under any of sections 23 to 34 is liable, for a first offence,
+
+
+
+
+
+
+
+
+
+
+(a) on summary conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding six months, or to both; or
+
+
+
+
+
+
+
+
+
+
+(b) on conviction on indictment, to a fine not exceeding $25,000 or to imprisonment for a term not exceeding two years, or to both.
+
+
+
+
+
+
+
+
+
+
+35. (1) Quiconque commet l’une des infractions prévues aux articles 23 à 34 encourt, pour une première infraction, sur déclaration de culpabilité :
+
+
+
+Peines : infractions prévues aux art. 23 à 34
+
+
+
+
+
+a) par procédure sommaire, une amende maximale de 10 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
+
+
+
+
+
+
+
+
+
+
+
+b) par mise en accusation, une amende maximale de 25 000 $ et un emprisonnement maximal de deux ans, ou l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment for subsequent offences
+
+
+
+(1.1) Every person who is guilty of an offence under any of sections 23 to 34 is liable, for a second or subsequent offence,
+
+
+
+
+
+
+
+
+
+
+(a) on summary conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding six months, or to both; or
+
+
+
+
+
+
+
+
+
+
+(b) on conviction on indictment, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding two years, or to both.
+
+
+
+
+
+
+
+
+
+(1.1) Quiconque commet l’une des infractions prévues aux articles 23 à 34 encourt, en cas de récidive, sur déclaration de culpabilité :
+
+
+
+Peines : récidive
+
+
+
+
+
+a) par procédure sommaire, une amende maximale de 20 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines;
+
+
+
+
+
+
+
+
+
+
+
+b) par mise en accusation, une amende maximale de 50 000 $ et un emprisonnement maximal de deux ans, ou l’une de ces peines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment for general offence
+
+
+
+(2) Every person who contravenes any provision of this Act or the regulations for the contravention of which no liability for a punishment is elsewhere provided in this Act is guilty of an offence and liable on summary conviction for a first offence under that provision to a fine not exceeding $10,000, and for a second or subsequent offence under that provision to a fine not exceeding $20,000.
+
+
+
+
+
+
+
+
+
+(2) Quiconque contrevient à une disposition de la présente loi ou des règlements dont la contravention ne fait l’objet d’aucune peine prévue ailleurs dans la présente loi commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 10 000 $. En cas de récidive à l’égard de la même disposition, il encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 20 000 $.
+
+
+
+Peines : autres infractions
+
+
+
+
+
+
+
+
+
+
+
+
+
+25. The Act is amended by adding the following after section 35:
+
+
+
+
+
+
+
+
+
+
+25. La même loi est modifiée par adjonction, après l’article 35, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Due diligence defence
+
+
+
+
+35.1 A person may not be convicted of an offence under this Act — other than for a contravention of paragraph 29(b), subsection 30(1) or 31(2) or section 32 — if they establish that they exercised due diligence to prevent the commission of the offence.
+
+
+
+
+
+
+
+
+
+
+35.1 Nul ne peut être déclaré coupable d’une infraction à la présente loi, sauf pour une contravention à l’alinéa 29b), aux paragraphes 30(1) ou 31(2) ou à l’article 32, s’il prouve qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
+
+
+
+Disculpation : précautions voulues
+
+
+
+
+
+
+
+
+
+
+
+
+
+26. Section 36 of the French version of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+26. L’article 36 de la version française de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Présomption
+
+
+
+
+
+36. Le commerçant qui a en sa possession un instrument qui ne porte pas la marque réglementaire indiquant que son usage est illégal pour le commerce est réputé, sauf preuve contraire, avoir l’instrument en sa possession pour s’en servir à des fins commerciales.
+
+
+
+
+
+
+
+
+
+
+
+36. Le commerçant qui a en sa possession un instrument qui ne porte pas la marque réglementaire indiquant que son usage est illégal pour le commerce est réputé, sauf preuve contraire, avoir l’instrument en sa possession pour s’en servir à des fins commerciales.
+
+
+
+Présomption
+
+
+
+
+
+
+
+
+
+
+
+
+
+27. Subsection 38(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+
+27. Le paragraphe 38(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Inspector’s certificates
+
+
+
+(2) In any prosecution for an offence under this Act, a certificate purporting to have been issued by an inspector under subsection 19(1) and to have been signed by the inspector who did the examination is evidence of the matters stated in it relating to the examination without proof of the signature or official character of the person appearing to have signed the certificate.
+
+
+
+
+
+
+
+
+
+(2) Dans les poursuites pour infraction à la présente loi, le certificat paraissant délivré par un inspecteur, en application du paragraphe 19(1), et signé par lui fait foi de son contenu sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ou la qualité officielle du signataire.
+
+
+
+Certificat des inspecteurs
+
+
+
+
+
+
+
+
+
+
+R.S., c. 27 (1st Supp.), s. 203
+
+
+
+
+28. Sections 39 to 41 of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+
+28. Les articles 39 à 41 de la même loi sont remplacés par ce qui suit :
+
+
+
+L.R., ch. 27 (1er suppl.), art. 203
+
+
+
+
+
+
+
+
+
+
+Examination and samples of seized things
+
+
+
+
+39. (1) If an inspector seizes and detains anything under paragraph 17(1)(c), they shall, at the request of the person from whom the thing is seized, allow that person or any person authorized by that person to examine the seized thing and, if possible, provide that person with a sample of it.
+
+
+
+
+
+
+
+
+
+
+39. (1) Sur demande du saisi, l’inspecteur doit permettre à celui-ci ou à son délégué à cet effet d’examiner la chose saisie et retenue en vertu de l’alinéa 17(1)c) et, si possible, lui en remettre un échantillon.
+
+
+
+Examen et échantillons des choses saisies
+
+
+
+
+
+
+
+
+
+
+Detention
+
+
+
+(2) A seized thing is not to be detained
+
+
+
+
+
+
+
+
+
+
+(a) after the provisions of this Act or any regulations that are applicable to the seized thing have, in the inspector’s opinion, been complied with; or
+
+
+
+
+
+
+
+
+
+
+(b) after the expiry of 60 days from the day of seizure, unless, before the expiry of that period,
+
+
+
+
+
+
+
+
+
+
+(i) the seized thing has been forfeited under section 41,
+
+
+
+
+
+
+
+
+
+
+(ii) a prosecution has been instituted in respect of an offence in relation to which the seized thing is evidence, in which case the seized thing may be detained until the prosecution is finally concluded, or
+
+
+
+
+
+
+
+
+
+
+(iii) notice of an application for an order extending the period during which the seized thing may be detained has been served in accordance with section 40.
+
+
+
+
+
+
+
+
+
+(2) La chose saisie ne peut être retenue après :
+
+
+
+Rétention
+
+
+
+
+
+a) soit la constatation par l’inspecteur du respect des dispositions applicables de la présente loi ou des règlements;
+
+
+
+
+
+
+
+
+
+
+
+b) soit l’expiration d’un délai de soixante jours suivant la date de saisie sauf si, dans ce délai, s’est produit l’un ou l’autre des faits suivants :
+
+
+
+
+
+
+
+
+
+
+(i) il y a eu confiscation, dans le cadre de l’article 41, de la chose saisie,
+
+
+
+
+
+
+
+
+
+
+(ii) une poursuite pour infraction dans le cadre de laquelle la chose saisie constitue un élément de preuve a été intentée, auquel cas la chose saisie peut être retenue jusqu’à la conclusion de la poursuite,
+
+
+
+
+
+
+
+
+
+
+(iii) un avis de demande d’ordonnance en vue de la prorogation du délai de rétention a été signifié conformément à l’article 40.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Storing of seized things
+
+
+
+(3) A seized thing may, at the option of the inspector, be kept or stored in the building or place where it was seized or may be removed to any other proper place by the inspector or at their direction.
+
+
+
+
+
+
+
+
+
+(3) La chose saisie peut, au choix de l’inspecteur, être gardée ou entreposée sur les lieux mêmes de sa saisie ou être transportée en tout autre lieu approprié par un inspecteur ou sur son ordre.
+
+
+
+Lieu de rétention
+
+
+
+
+
+
+
+
+
+
+Application to extend period of detention
+
+
+
+
+40. (1) If a prosecution in respect of an offence in relation to which a seized thing could be evidence has not been commenced, the Minister may, before the expiry of 60 days after the day of seizure and on the serving of prior notice in accordance with subsection (2) on the owner of the seized thing or on the person in whose possession the seized thing was at the time of seizure, apply to a provincial court judge within whose territorial jurisdiction the seizure was made for an order extending the period during which the seized thing may be detained.
+
+
+
+
+
+
+
+
+
+
+40. (1) Si, dans ce délai, aucune poursuite pour infraction dans le cadre de laquelle la chose saisie pourrait constituer un élément de preuve n’a pas été intentée, le ministre peut, avant l’expiration des soixante jours suivant la date de saisie et sur signification du préavis mentionné au paragraphe (2) au propriétaire ou dernier possesseur de la chose saisie, demander à un juge de la cour provinciale dans le ressort duquel la saisie a eu lieu, de rendre une ordonnance prorogeant le délai de rétention.
+
+
+
+Demande de prorogation
+
+
+
+
+
+
+
+
+
+
+Notice
+
+
+
+(2) The notice shall be served by personal service at least five clear days before the day on which the application is to be made to the provincial court judge or by registered mail at least seven clear days before that day and shall specify
+
+
+
+
+
+
+
+
+
+
+(a) the provincial court judge to whom the application is to be made;
+
+
+
+
+
+
+
+
+
+
+(b) the place where and the time when the application is to be heard, which time shall be not later than 10 days after the day on which the notice is served;
+
+
+
+
+
+
+
+
+
+
+(c) the seized thing in respect of which the application is to be made; and
+
+
+
+
+
+
+
+
+
+
+(d) the evidence on which the Minister intends to rely to show why the period during which the seized thing may be detained should be extended.
+
+
+
+
+
+
+
+
+
+(2) Le préavis doit être signifié à personne au moins cinq jours francs avant la date de présentation de la demande, ou par courrier recommandé au moins sept jours francs avant cette date, et préciser :
+
+
+
+Préavis
+
+
+
+
+
+a) le juge de la cour provinciale devant qui la demande sera présentée;
+
+
+
+
+
+
+
+
+
+
+
+b) les date, heure et lieu de l’audience, qui doit avoir lieu dans les dix jours suivant la date de signification;
+
+
+
+
+
+
+
+
+
+
+
+c) la chose saisie visée par la demande;
+
+
+
+
+
+
+
+
+
+
+
+d) les éléments de preuve sur lesquels le ministre entend se fonder pour justifier la prorogation de délai.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Order of extension granted
+
+
+
+(3) If, on the hearing of an application, the provincial court judge is satisfied that the seized thing should continue to be detained, the provincial court judge shall order that it be detained for any additional period that the provincial court judge considers proper and that on the expiry of that period the seized thing be restored to the person from whom it was seized or to any other person entitled to its possession unless, before the expiry of that period, subparagraph 39(2)(b)(i) or (ii) applies.
+
+
+
+
+
+
+
+
+
+(3) S’il est convaincu, après l’audience, que la rétention de la chose saisie devrait se poursuivre, le juge de la cour provinciale rend une ordonnance en ce sens précisant le nouveau délai qu’il estime justifié et l’obligation, à l’expiration de celui-ci, de restituer la chose au saisi ou de la remettre à la personne ayant droit à sa possession, sauf si les mesures visées aux sous-alinéas 39(2)b)(i) ou (ii) sont prises entretemps.
+
+
+
+Acceptation de prorogation
+
+
+
+
+
+
+
+
+
+
+Order of extension refused
+
+
+
+(4) If, on the hearing of an application, the provincial court judge is not satisfied that the seized thing should continue to be detained, the provincial court judge shall order that the thing be restored to the person from whom it was seized or to any other person entitled to its possession
+
+
+
+
+
+
+
+
+
+
+(a) on the expiry of 60 days after the day of seizure, unless, before the expiry of those 60 days, subparagraph 39(2)(b)(i) or (ii) applies; or
+
+
+
+
+
+
+
+
+
+
+(b) immediately, if, at the time of the hearing, the period of 60 days after the day of seizure has expired.
+
+
+
+
+
+
+
+
+
+(4) S’il n’est pas convaincu, après l’audience, du bien-fondé de la demande, le juge de la cour provinciale ordonne que la chose saisie soit restituée au saisi ou remise à la personne ayant droit à sa possession :
+
+
+
+Refus de prorogation
+
+
+
+
+
+a) soit à l’expiration des soixante jours suivant la date de saisie, sauf si les mesures visées aux sous-alinéas 39(2)b)(i) ou (ii) sont prises entretemps;
+
+
+
+
+
+
+
+
+
+
+
+b) soit immédiatement, si les soixante jours sont déjà expirés.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORFEITURE AND RETURN
+
+
+
+
+
+
+
+
+
+CONFISCATION ET RESTITUTION
+
+
+
+
+
+
+
+
+
+
+
+
+Forfeiture on consent
+
+
+
+
+41. (1) If the owner or the person in lawful possession of a thing at the time it is seized under paragraph 17(1)(c) consents in writing to its forfeiture, it is forfeited to Her Majesty.
+
+
+
+
+
+
+
+
+
+
+41. (1) Le propriétaire ou le dernier possesseur légitime de la chose saisie en vertu de l’alinéa 17(1)c) peut consentir, par écrit, à sa confiscation. Le cas échéant, la confiscation s’opère dès lors au profit de Sa Majesté.
+
+
+
+Confiscation sur consentement
+
+
+
+
+
+
+
+
+
+
+Forfeiture by order of court
+
+
+
+(2) If a person is convicted of an offence under this Act and a thing seized by means of or in relation to which the offence was committed is then being detained, it
+
+
+
+
+
+
+
+
+
+
+(a) is, on the conviction, in addition to any punishment imposed for the offence, forfeited to Her Majesty if the forfeiture is directed by the court; or
+
+
+
+
+
+
+
+
+
+
+(b) shall, on the expiry of the period for taking an appeal from the conviction or on the final conclusion of the proceedings, as the case may be, be restored to the person from whom it was seized or to any other person entitled to its lawful possession on any conditions, if any, relating to sale or advertising that are imposed by order of the court and that, in the opinion of the court, are necessary to avoid the commission of any further offence under this Act.
+
+
+
+
+
+
+
+
+
+(2) La chose qui, ayant servi ou donné lieu à la perpétration d’une infraction à la présente loi, a été saisie et se trouve en rétention au moment où l’auteur de l’infraction est déclaré coupable est :
+
+
+
+Confiscation par ordonnance
+
+
+
+
+
+a) sur cette déclaration de culpabilité et en sus de toute autre peine imposée, confisquée au profit de Sa Majesté si le tribunal l’ordonne;
+
+
+
+
+
+
+
+
+
+
+
+b) à défaut de confiscation et à l’expiration du délai d’appel prévu ou, en cas d’appel, une fois que l’affaire est tranchée, restituée au saisi ou à son possesseur légitime, la restitution pouvant s’assortir des conditions relatives à la vente ou à la publicité, précisées dans l’ordonnance du tribunal, que celui-ci estime nécessaires pour que soit évitée la perpétration de toute nouvelle infraction à la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29. The Act is amended by replacing “inspected” and “inspection” with “examined” and “examination”, respectively, in the following provisions:
+
+
+
+
+
+
+(a) paragraph 8(b);
+
+
+
+
+
+
+(b) paragraphs 10(1)(f), (q) and (r);
+
+
+
+
+
+
+(c) the heading before section 15;
+
+
+
+
+
+
+(d) paragraph 19(1)(b);
+
+
+
+
+
+
+(e) the heading before section 20;
+
+
+
+
+
+
+(f) subsection 20(1);
+
+
+
+
+
+
+(g) paragraph 26(1)(c); and
+
+
+
+
+
+
+(h) subparagraph 29(a)(i).
+
+
+
+
+
+
+
+
+
+
+29. Dans les passages ci-après de la même loi, « vérifié », « vérifiés », « vérification » et « vérifications » sont respectivement remplacés par « examiné », « examinés », « examen », « examens », avec les adaptations nécessaires :
+
+
+
+
+
+
+
+a) l’alinéa 8b);
+
+
+
+
+
+
+
+b) les alinéas 10(1)f), q) et r);
+
+
+
+
+
+
+
+c) l’intertitre précédant l’article 15;
+
+
+
+
+
+
+
+d) l’alinéa 19(1)b);
+
+
+
+
+
+
+
+e) l’intertitre précédant l’article 20;
+
+
+
+
+
+
+
+f) le paragraphe 20(1);
+
+
+
+
+
+
+
+g) l’alinéa 26(1)c);
+
+
+
+
+
+
+
+h) le sous-alinéa 29a)(i).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REPORT
+
+
+
+
+
+
+
+
+
+RAPPORT
+
+
+
+
+
+
+
+
+
+
+
+
+Review
+
+
+
+
+29.1 (1) The Minister of Industry must complete a review of the provisions and the operation of this Act within five years after it receives royal assent.
+
+
+
+
+
+
+
+
+
+
+29.1 (1) Dans les cinq ans qui suivent la sanction de la présente loi, le ministre de l'Industrie effectue un examen de ses dispositions et de son application.
+
+
+
+Examen
+
+
+
+
+
+
+
+
+
+
+Report
+
+
+
+(2) The Minister must cause a report of the results of the review to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the report has been completed.
+
+
+
+
+
+
+
+
+
+(2) Le ministre fait déposer un rapport de l’examen devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant l’établissement du rapport.
+
+
+
+Rapport
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Order in council
+
+
+
+
+30. The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+
+30. Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+
+
+
+Décret
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

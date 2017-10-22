@@ -1,0 +1,3234 @@
+
+
+
+
+
+S-15
+
+
+
+
+
+S-15
+
+
+
+
+
+
+First Session, Thirty-eighth Parliament,
+
+
+
+
+
+Première session, trente-huitième législature,
+
+
+
+
+
+
+53 Elizabeth II, 2004
+
+
+
+
+
+53 Elizabeth II, 2004
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-15
+
+
+
+
+
+PROJET DE LOI S-15
+
+
+
+
+
+
+An Act to prevent unsolicited messages on the Internet
+
+
+
+
+
+Loi visant à empêcher la diffusion sur l’Internet de messages non sollicités
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, October 20, 2004
+
+première lecture le 20 octobre 2004
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR OLIVER
+
+0309
+
+
+
+L’HONORABLE SÉNATEUR OLIVER
+
+
+
+
+
+SUMMARY
+This enactment provides for initiatives to control spam on the Internet.
+It requires the Minister of Industry to initiate international consultation with other governments and report annually to Parliament on progress.
+It allows the Minister to establish an Internet Consumer Protection Council or designate an existing body to fulfill the role of the Council. The Council will set standards for its members and for procedures to be used to reduce spam. No person may operate an Internet service provider business without being a member of the Council. If the Minister is not satisfied with the Council's operation, the Minister may appoint directors and pass by-laws to administer it.
+Any person may give a notice, to the Minister or the body to which the Minister delegates the responsibility, that they wish to be on a “no-spam list”, and persons sending spam must first check to see if the address is on the “no-spam list”. The list will not be a public document and the Minister will only provide information as to whether an address is or is not on the list.
+The enactment makes it an an offence to send spam to a person whose address is on the “no-spam list”. However, the recipient must file a complaint with the Minister before any proceedings may be instituted.
+Wherever a message is initiated, if it is received by a person in Canada it is deemed to have been sent to that person, and the act of sending it is deemed to have been carried out in Canada.
+The enactment provides for offences and punishments that are more severe in respect of messages that involve pornography, explicit sexual activity or attempted fraud or that target children as receivers.
+It establishes a cause of civil action in nuisance for sending excessive spam and deems damage to have been caused if the volume is sufficient to cause inconvenience.
+
+
+
+SOMMAIRE
+Le texte prévoit des mesures de lutte contre la diffusion de pourriels sur l’Internet.
+Il exige que le ministre de l’Industrie consulte les gouvernements d’autres pays et fasse rapport des résultats chaque année au Parlement.
+Il permet au ministre de constituer un Conseil de la protection des consommateurs sur Internet ou d’en confier la mission à un organisme existant. Le Conseil est chargé d’établir des normes applicables à ses membres ainsi que des procédures visant à réduire les pourriels. Seuls ses membres peuvent exploiter une entreprise de fournisseur de services Internet. S’il juge que l’administration du Conseil n’est pas satisfaisante, le ministre peut remplacer ses administrateurs et prendre des règlements administratifs régissant sa gestion.
+Toute personne peut donner au ministre ou à l’organisme qu’il désigne un avis d’inscription à une liste anti-pourriel, et les personnes qui envoient des pourriels doivent s’assurer que l’adresse du destinataire ne figure pas sur la liste anti-pourriel. La liste n’est pas un document public, et le ministre peut uniquement indiquer si l’adresse figure ou non sur la liste.
+Le texte érige en infraction le fait d’envoyer un courriel à une personne dont l’adresse figure sur la liste anti-pourriel. Le récipiendaire doit néanmoins déposer une plainte auprès du ministre avant qu’une procédure puisse être intentée.
+Un message que reçoit une personne au Canada est réputé lui avoir été envoyé, et l’envoi est réputé provenir du Canada.
+Le texte prévoit des infractions assorties de peines plus sévères si la pornographie, une activité sexuelle explicite, la tentative de fraude ou le ciblage des enfants sont en cause.
+Il offre des recours judiciaires au civil pour nuisance dans les cas d’envois excessifs de pourriels, et les dommages sont présumés si la quantité de pourriels est telle qu’ils causent des inconvénients.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 38th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 38e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53 Elizabeth II, 2004
+
+
+
+
+
+
+
+
+
+53 Elizabeth II, 2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-15
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to prevent unsolicited messages on the Internet
+
+
+
+
+
+
+
+
+
+Loi visant à empêcher la diffusion sur l’Internet de messages non sollicités
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+WHEREAS the Internet is a national and international asset of great value in communication, education and research;
+
+
+
+
+
+
+
+
+AND WHEREAS the usefulness and efficiency of the Internet is threatened by large volumes of unsolicited messages that by their volume constitute a nuisance and waste time;
+
+
+
+
+
+
+
+
+
+AND WHEREAS many of these messages contain or offer pornographic material, advocate illegal activities or solicit or offer business that is of no interest to recipients;
+
+
+
+
+
+
+
+
+AND WHEREAS Internet service providers have an ability to cooperate to control unwanted messages;
+
+
+
+
+
+
+
+
+AND WHEREAS, because of the international nature of the Internet, both international cooperation and the cooperation and regulation of Internet service providers in Canada are necessary to control the flow of such messages;
+
+
+
+
+
+
+
+
+
+Attendu :
+
+
+
+Préambule
+
+
+
+
+que l’Internet est une ressource nationale et internationale de grande valeur dans les domaines de la communication, de l’éducation et de la recherche;
+
+
+
+
+
+
+
+
+que d’énormes volumes de messages non sollicités compromettent l’utilité et l’efficacité de l’Internet et constituent ainsi une nuisance et une perte de temps;
+
+
+
+
+
+
+
+
+que bon nombre de ces messages contiennent ou offrent du matériel pornographique, encouragent des activités illégales ou sollicitent ou offrent des biens ou services qui n’intéressent aucunement les destinataires;
+
+
+
+
+
+
+
+
+que les fournisseurs de services Internet sont en mesure d’offrir leur collaboration dans la lutte contre les messages indésirables;
+
+
+
+
+
+
+
+
+que, vu le caractère international de l’Internet, tant une collaboration internationale que la coopération et la réglementation des fournisseurs de services Internet au Canada sont requises pour contrôler le flux de ces messages,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+
+
+Short title
+
+
+
+1. This Act may be cited as the Spam Control Act.
+
+
+
+
+
+
+
+
+
+1. Titre abrégé : « Loi anti-pourriel ».
+
+
+
+Titre abrégé
+
+
+
+
+
+
+
+
+
+
+Definitions
+
+
+
+2. The definitions in this section apply in this Act.
+
+
+
+
+“address”« adresse »
+
+
+
+“address” means an address to which e-mail may be sent.
+
+
+
+
+“Council”« Conseil »
+
+
+
+“Council” means the Internet Consumer Protection Council incorporated by the Minister or the body designated by the Minister under subsection 4(2).
+
+
+
+
+“e-mail”« courriel »
+
+
+
+“e-mail” means a message from a sender to one or more recipients transmitted by the Internet.
+
+
+
+
+“Internet”« Internet »
+
+
+
+“Internet” means the international electronic communication network known by that name.
+
+
+
+
+“Internet service provider”« fournisseur de services
+Internet »
+
+
+
+“Internet service provider” or “provider” means a person who provides a service to give the public access to the Internet.
+
+
+
+
+“Minister”« ministre »
+
+
+
+“Minister” means the Minister of Industry.
+
+
+
+
+“no-spam list”« liste anti-pourriel »
+
+
+
+“no-spam list” means the list maintained under section 8.
+
+
+
+
+“no-spam notice”« avis anti-pourriel »
+
+
+
+“no-spam notice” means a notice given by the owner of an address that no spam should be sent to the address.
+
+
+
+
+“opt-out message”« message anti-pourriel »
+
+
+
+“opt-out message” means an instruction from the owner of an address
+
+
+
+
+
+
+
+
+(a) to the sender of a message that the sender must not send any further messages to the address; or
+
+
+
+
+
+
+
+
+(b) to the sender of a message who sends it on behalf of another person that the sender must advise the other person not to send any further messages to the address.
+
+
+
+
+“spam”« pourriel »
+
+
+
+“spam” means one or more unsolicited messages sent and received on the Internet, but does not include a message sent by a person to another person with whom they have an existing commercial or personal relationship.
+
+
+
+
+“spam filter”« filtre anti-pourriel »
+
+
+
+“spam filter” means an electronic automated process that is established by an Internet service provider to analyze incoming messages and that
+
+
+
+
+
+
+
+
+(a) maintains the confidentiality of, and does not reveal to the provider or any person, the content of any message; and
+
+
+
+
+
+
+
+
+(b) rates every incoming message to determine whether it is likely to be spam, using factors that may include the following:
+
+
+
+
+
+
+
+
+(i) it contains words or images commonly found in spam,
+
+
+
+
+
+
+
+
+(ii) it contains words or images commonly found in pornography,
+
+
+
+
+
+
+
+
+(iii) it was sent by any person or site on a list, established by the Council, of persons or sites that are known to send spam,
+
+
+
+
+
+
+
+
+(iv) the sender is not identified with a valid address,
+
+
+
+
+
+
+
+
+(v) the intended recipient is not properly and individually identified or is identified only as a member of a class of recipients to whom a message is to be sent,
+
+
+
+
+
+
+
+
+(vi) the sender is not a person to whom the intended recipient has previously communicated through the provider,
+
+
+
+
+
+
+
+
+(vii) the sender is a person to whom the intended recipient has sent an opt-out message,
+
+
+
+
+
+
+
+
+(viii) the message appears to offer goods or services and does not provide for the intended recipient to send an opt-out message, and
+
+
+
+
+
+
+
+
+(ix) the sender is or purports to be an agent of a person who has filed a list of authorized agents under section 9 and the sender is not on that list.
+
+
+
+
+
+
+
+
+
+2. Les définitions qui suivent s’appliquent à la présente loi.
+
+
+
+Définitions
+
+
+
+
+« adresse » Adresse où un courriel peut être envoyé.
+
+
+
+« adresse »“address”
+
+
+
+
+« avis anti-pourriel » Avis donné par le propriétaire d’une adresse dans lequel il demande de n’envoyer aucun pourriel à cette adresse.
+
+
+
+« avis anti-pourriel »“no-spam notice”
+
+
+
+
+« Conseil » Le Conseil de la protection des consommateurs sur Internet constitué par le ministre ou l’organisme désigné par ce dernier en vertu du paragraphe 4(2).
+
+
+
+« Conseil »“Council”
+
+
+
+
+« courriel » Message qu’un expéditeur envoie par l’Internet à une ou plusieurs personnes.
+
+
+
+« courriel »“e-mail”
+
+
+
+
+« filtre anti-pourriel » Système de filtrage automatisé établi par un fournisseur de services Internet afin d’analyser les messages reçus, qui :
+
+
+
+« filtre anti-pourriel »“spam filter”
+
+
+
+
+a) d’une part, assure la confidentialité du contenu des messages et n’en révèle aucun élément au fournisseur ou à d’autres personnes;
+
+
+
+
+
+
+
+
+b) évalue chaque message reçu pour déterminer s’il s’agit d’un pourriel et ce, à l’aide de facteurs déterminants qui peuvent comprendre les suivants :
+
+
+
+
+
+
+
+
+(i) le message contient des mots ou images communément utilisés dans les pourriels,
+
+
+
+
+
+
+
+
+(ii) il contient des mots ou images communément utilisés dans la pornographie,
+
+
+
+
+
+
+
+
+(iii) il a été envoyé par une personne ou un site figurant sur la liste, établie par le Conseil, des personnes ou des sites dont on sait qu’ils expédient du pourriel,
+
+
+
+
+
+
+
+
+(iv) l’expéditeur du message n’est pas identifié au moyen d’une adresse valide,
+
+
+
+
+
+
+
+
+(v) le destinataire du message n’est pas identifié correctement et personnellement ou est identifié comme membre d’une catégorie de destinataires d’un message,
+
+
+
+
+
+
+
+
+(vi) l’expéditeur en est un avec qui le destinataire du message n’a jamais communiqué auparavant par l’entremise du fournisseur,
+
+
+
+
+
+
+
+
+(vii) l’expéditeur en est un à qui le destinataire du message a envoyé un message anti-pourriel,
+
+
+
+
+
+
+
+
+(viii) le message semble offrir des biens ou services et ne donne pas au destinataire la possibilité d’envoyer un message anti-pourriel,
+
+
+
+
+
+
+
+
+(ix) l’expéditeur est ou est présenté comme étant l’agent d’une personne qui a déposé une liste d’agents autorisés conformément à l’article 9 et il ne figure pas sur cette liste.
+
+
+
+
+
+
+
+
+« fournisseur de services Internet » ou « fournisseur » Personne qui fournit un service permettant au public d’avoir accès à l’Internet.
+
+
+
+« fournisseur de services Internet »“Internet service provider”
+
+
+
+
+« Internet » Le réseau de communication électronique mondial qui est désigné comme tel.
+
+
+
+« Internet »“Internet”
+
+
+
+
+« liste anti-pourriel » La liste prévue à l’article 8.
+
+
+
+« liste anti-pourriel »“no-spam list”
+
+
+
+
+« ministre » Le ministre de l’Industrie.
+
+
+
+« ministre »“Minister”
+
+
+
+
+« message anti-pourriel » Directive du propriétaire d’une adresse qui est :
+
+
+
+« message anti-pourriel »“opt-out message”
+
+
+
+
+a) soit adressée à l’expéditeur d’un message pour l’informer qu’il ne doit plus envoyer de messages à cette adresse;
+
+
+
+
+
+
+
+
+b) soit adressée à l’expéditeur d’un message qui envoie le message au nom d’une autre personne, afin de l’informer qu’il doit aviser cette dernière de ne plus envoyer de messages à cette adresse.
+
+
+
+
+
+
+
+
+« pourriel » Un ou plusieurs messages non sollicités envoyés et reçus sur l’Internet, à l’exception des message qu’une personne envoie à une autre personne avec qui elle a des relations commerciales ou personnelles.
+
+
+
+« pourriel »“spam”
+
+
+
+
+
+
+
+
+
+
+International consultation
+
+
+
+3. (1) The Minister shall initiate consultation with officials of governments of the provinces and of other countries with the objects of
+
+
+
+
+
+
+
+
+(a) sharing information on means to control spam and on persons who are identified as senders of spam;
+
+
+
+
+
+
+
+
+(b) finding new ways to control and limit the flow of spam; and
+
+
+
+
+
+
+
+
+(c) cooperating in law enforcement activities related to the misuse of the Internet for illegal purposes or the sending of spam.
+
+
+
+
+
+
+
+
+
+3. (1) Le ministre procède à des consultations avec les représentants des gouvernements des provinces et d’autres pays en vue :
+
+
+
+Consultation internationale
+
+
+
+
+a) de partager de l’information sur les moyens de réduire les pourriels et sur les personnes reconnues comme expéditeurs de pourriels;
+
+
+
+
+
+
+
+
+b) de trouver de nouvelles façons de contrôler et de restreindre le flux de pourriels;
+
+
+
+
+
+
+
+
+c) de collaborer aux activités d’application de la loi destinées à lutter contre l’utilisation de l’Internet à des fins illégales ou l’envoi de pourriels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annual report
+
+
+
+(2) The Minister shall prepare a report of activities under subsection (1) and subsection 5(8) in respect of every year and shall cause it to be laid before each House of Parliament on any of the first five days on which that House sits after April 1 of the following year.
+
+
+
+
+
+
+
+
+
+(2) Le ministre établit un rapport des activités visées aux paragraphes (1) et 5(8) pour chaque année et le fait déposer devant chaque chambre du Parlement dans les cinq premiers jours de séance de celle-ci suivant le 1er avril de l’année suivante.
+
+
+
+Rapport annuel
+
+
+
+
+
+
+
+
+
+
+Referral to committee
+
+
+
+(3) Every report under subsection (2) that is laid before a House is deemed to be referred to the standing committee of that House that normally deals with matters under the administration of the Minister.
+
+
+
+
+
+
+
+
+
+(3) Le rapport visé au paragraphe (2) est, une fois déposé devant chaque chambre du Parlement, renvoyé d’office au comité permanent de celle-ci normalement chargé de traiter des questions relevant de la compétence du ministre.
+
+
+
+Renvoi en
+comité
+
+
+
+
+
+
+
+
+
+
+Consultation with
+Association
+
+
+
+4. (1) The Minister shall, after consultation with the Canadian Association of Internet Providers, determine the most effective way to
+
+
+
+
+
+
+
+
+(a) establish a body to carry out the duties of the Council under this Act; or
+
+
+
+
+
+
+
+
+(b) assign those duties to an existing body.
+
+
+
+
+
+
+
+
+
+4. (1) Après consultation de l’Association canadienne des fournisseurs d’internet, le ministre détermine la façon la plus efficace de constituer une entité pour exercer les fonctions du Conseil prévues par la présente loi ou de confier ces fonctions à une entité existante.
+
+
+
+Consultation de l’Association
+
+
+
+
+
+
+
+
+
+
+Incorporation or designation
+
+
+
+(2) For the purposes of this Act, the Minister may
+
+
+
+
+
+
+
+
+(a) cause to be incorporated under an Act of Parliament a body without share capital to be known as the Internet Consumer Protection Council; or
+
+
+
+
+
+
+
+
+(b) designate an existing body to act as and fulfill the duties provided for the Council under this Act.
+
+
+
+
+
+
+
+
+
+(2) Pour l’application de la présente loi, le ministre peut :
+
+
+
+Constitution
+ou désignation
+
+
+
+
+a) soit faire constituer, par une loi du Parlement, une personne morale sans capital-actions dénommée « Conseil de la protection des consommateurs sur Internet »;
+
+
+
+
+
+
+
+
+b) soit désigner une entité existante pour remplir le rôle et les fonctions dévolus au Conseil sous le régime de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Objects
+
+
+
+(3) The objects of the Council are
+
+
+
+
+
+
+
+
+(a) to represent the interests of all Internet service providers in Canada and their customers by
+
+
+
+
+
+
+
+
+(i) promoting cooperation among its members to control and reduce spam,
+
+
+
+
+
+
+
+
+(ii) regulating the operations of its members in the interests of their customers, and
+
+
+
+
+
+
+
+
+(iii) advising the Minister on matters relating to service to the public through the Internet, including the prevention of misuse of the Internet and the control and reduction of spam; and
+
+
+
+
+
+
+
+
+(b) to cooperate in the development and approval of spam filters or other means of controlling spam for use by all Internet service providers.
+
+
+
+
+
+
+
+
+
+(3) Le Conseil a pour mission :
+
+
+
+Mission
+
+
+
+
+a) de représenter les intérêts de tous les fournisseurs de services Internet au Canada et de leurs clients :
+
+
+
+
+
+
+
+
+(i) en favorisant la collaboration de ses membres en vue de contrôler et de réduire les pourriels,
+
+
+
+
+
+
+
+
+(ii) en réglementant les activités de ses membres dans l’intérêt de leurs clients,
+
+
+
+
+
+
+
+
+(iii) en donnant des avis au ministre sur les questions concernant le service au public par l’entremise de l’Internet, y compris la prévention de l’utilisation abusive de l’Internet ainsi que le contrôle et la réduction des pourriels;
+
+
+
+
+
+
+
+
+b) de collaborer à la création et à l’approbation de filtres anti-pourriel ou d’autres modes de contrôle des pourriels en vue de leur utilisation par les fournisseurs de services Internet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fees
+
+
+
+(4) The Council may charge fees for membership.
+
+
+
+
+
+
+
+
+
+(4) Le Conseil peut exiger des droits d’adhésion à titre de membre.
+
+
+
+Droits
+d’adhésion
+
+
+
+
+
+
+
+
+
+
+Non profit operation
+
+
+
+(5) The Council shall operate on a not-for-profit basis.
+
+
+
+
+
+
+
+
+
+(5) Le Conseil exerce ses activités sans but lucratif.
+
+
+
+Sans but
+lucratif
+
+
+
+
+
+
+
+
+
+
+Members
+
+
+
+5. (1) The Council shall admit as a member anyone nominated by the Minister under paragraph (6)(b) and anyone who is required to be a member in order to permit an Internet service provider to comply with section 7.
+
+
+
+
+
+
+
+
+
+5. (1) Le Conseil admet à titre de membre toute personne proposée par le ministre en vertu de l’alinéa (6)b) et quiconque est tenu d’être membre afin que soient remplies les exigences de l’article 7.
+
+
+
+Membres
+
+
+
+
+
+
+
+
+
+
+Idem
+
+
+
+(2) The Council may admit as a member anyone described in paragraphs 7(b) or (c) who is not required to be a member in order to permit an Internet service provider to comply with section 7, but who wishes to be a member.
+
+
+
+
+
+
+
+
+
+(2) Le Conseil peut admettre à titre de membre quiconque est visé aux alinéas 7b) ou c) qui, même s’il n’est pas tenu d’être membre afin que soient remplies les exigences de l’article 7, souhaite l’être.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Directors
+
+
+
+(3) The Council shall be administered by a board of not less than seven directors.
+
+
+
+
+
+
+
+
+
+(3) Le Conseil est géré par un conseil d’administration composé d’au moins sept administrateurs.
+
+
+
+Administrateurs
+
+
+
+
+
+
+
+
+
+
+Interim
+directors
+
+
+
+(4) If the Minister establishes a body under paragraph 4(2)(a), the Minister shall, within 90 days after the coming into force of this Act, appoint seven persons knowledgeable about the Internet, of whom at least four shall be Internet service providers, to act as the first members and interim directors of the Council.
+
+
+
+
+
+
+
+
+
+(4) Si le ministre constitue une personne morale en vertu de l’alinéa 4(2)a), il nomme, dans les quatre-vingt-dix jours suivant l’entrée en vigueur de la présente loi, sept personnes qui possèdent des connaissances en matière d’Internet — dont au moins quatre sont des fournisseurs de services Internet — pour devenir les premiers membres et administrateurs provisoires du Conseil.
+
+
+
+Administrateurs
+provisoires
+
+
+
+
+
+
+
+
+
+
+By-laws of
+incorporated body
+
+
+
+(5) If a body is established under paragraph 4(2)(a), the Minister shall, in consultation with the interim directors, establish by regulation the initial by-laws of the Council, which shall include a requirement to elect directors from among its members every year, the first election to be held within a year after the coming into force of this Act.
+
+
+
+
+
+
+
+
+
+(5) Si le ministre constitue une personne morale en vertu de l’alinéa 4(2)a), il établit par règlement, en consultation avec les administrateurs provisoires, les premiers règlements administratifs du Conseil, qui prévoient notamment l’exigence d’élire chaque année les administrateurs parmi ses membres et l’exigence de tenir la première élection dans l’année suivant l’entrée en vigueur de la présente loi.
+
+
+
+Règlements
+administratifs de la personne morale
+
+
+
+
+
+
+
+
+
+
+Designated body
+
+
+
+(6) If the Minister designates an existing body to act as the Council under paragraph 4(2)(b),
+
+
+
+
+
+
+
+
+(a) the Minister shall be satisfied that the constitution and by-laws of the body are compatible with the body acting as the Council under this Act; and
+
+
+
+
+
+
+
+
+(b) one of the directors of the body shall be a person nominated by the Minister.
+
+
+
+
+
+
+
+
+
+(6) Si le ministre désigne, en vertu de l’alinéa 4(2)b), une entité existante pour assumer le rôle du Conseil;
+
+
+
+Règlements
+administratifs de l’entité
+désignée
+
+
+
+
+a) il doit s’assurer que la constitution et les règlements administratifs de cette entité sont compatibles avec ceux de l’entité qui exerce ce rôle aux termes de la présente loi;
+
+
+
+
+
+
+
+
+b) l’un des administrateurs de l’entité est la personne proposée par le ministre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By-laws
+
+
+
+(7) The Council, with the approval of the Minister, may adopt by-laws
+
+
+
+
+
+
+
+
+(a) for the governance of its administration, functions and procedures;
+
+
+
+
+
+
+
+
+(b) setting standards for spam filters; and
+
+
+
+
+
+
+
+
+(c) for regulating the ethical behaviour of its members as Internet service providers.
+
+
+
+
+
+
+
+
+
+(7) Le Conseil peut, avec l’approbation du ministre, prendre des règlements administratifs pour :
+
+
+
+Règlements
+administratifs
+
+
+
+
+a) régir son administration, ses fonctions et ses procédures,
+
+
+
+
+
+
+
+
+b) établir les normes applicables aux filtres anti-pourriel;
+
+
+
+
+
+
+
+
+c) réglementer le comportement éthique de ses membres en tant que fournisseurs de services Internet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Action by Minister to
+replace directors
+
+
+
+(8) The Minister may at any time, if not satisfied with the administration of the Council or its success in achieving its objects, remove and replace any director of the Council or establish, repeal or amend any by-law of the Council, or revoke a designation made under paragraph 4(2)(b).
+
+
+
+
+
+
+
+
+
+(8) Le ministre peut, s’il juge que l’administration du Conseil ou l’exécution de sa mission n’est pas satisfaisante, révoquer et remplacer tout administrateur du Conseil ou établir, abroger ou modifier tout règlement administratif du Conseil, ou révoquer toute désignation faite en vertu de l’alinéa 4(2)b).
+
+
+
+Remplacement des administrateurs
+
+
+
+
+
+
+
+
+
+
+No restriction of membership
+
+
+
+6. The Council shall not refuse or terminate the membership of a person who is or represents an Internet service provider, unless the person or provider
+
+
+
+
+
+
+
+
+(a) is convicted of an offence under this Act;
+
+
+
+
+
+
+
+
+(b) is convicted of an offence under the Criminal Code related to the use of the Internet; or
+
+
+
+
+
+
+
+
+(c) contravenes a by-law of the Council that, under the by-laws, is one for which contravention is grounds for termination of membership.
+
+
+
+
+
+
+
+
+
+6. Le Conseil ne peut refuser ni annuler l’adhésion d’une personne qui est ou représente un fournisseur de services Internet, sauf si la personne ou le fournisseur :
+
+
+
+Aucune restriction
+
+
+
+
+a) est reconnu coupable d’une infraction à la présente loi;
+
+
+
+
+
+
+
+
+b) est reconnu coupable d’une infraction au Code criminel liée à l’utilisation de l’Internet;
+
+
+
+
+
+
+
+
+c) contrevient à un règlement administratif du Conseil qui, selon ce texte, prévoit l’annulation de l’adhésion en cas d’infraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Membership compulsory
+
+
+
+7. No person shall own or operate a business that renders or offers the services of an Internet service provider unless
+
+
+
+
+
+
+
+
+(a) if the person is an individual, the person is a member of the Council;
+
+
+
+
+
+
+
+
+(b) if the person is a corporation or society, one of its directors is a member of the Council; or
+
+
+
+
+
+
+
+
+(c) if the person is a partnership or unincorporated business, one of its partners or proprietors is a member of the Council.
+
+
+
+
+
+
+
+
+
+7. Il est interdit à quiconque de posséder ou d’exploiter une entreprise qui fournit ou offre les services d’un fournisseur de services Internet, sauf si :
+
+
+
+Membres obligatoires
+
+
+
+
+a) dans le cas d’un particulier, il est membre du Conseil;
+
+
+
+
+
+
+
+
+b) dans le cas d’une personne morale ou d’une société, un de ses administrateurs est membre du Conseil;
+
+
+
+
+
+
+
+
+c) dans le cas d’une société de personnes ou d’une entreprise non dotée de la personnalité morale, un de ses associés ou propriétaires est membre du Conseil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+No-spam list
+
+
+
+8. (1) The Minister shall, within 180 days after the day on which this Act comes into force, establish and maintain a no-spam list.
+
+
+
+
+
+
+
+
+
+8. (1) Dans les 180 jours suivant l’entrée en vigueur de la présente loi, le ministre établit une liste anti-pourriel qu’il tient à jour par la suite.
+
+
+
+Liste anti-pourriel
+
+
+
+
+
+
+
+
+
+
+Notice filed
+
+
+
+(2) Any person who is the owner of an address may file with the Minister a no-spam notice in the form and manner prescribed by the Minister.
+
+
+
+
+
+
+
+
+
+(2) Tout propriétaire d’une adresse peut déposer un avis anti-pourriel auprès du ministre selon les modalités établies par celui-ci.
+
+
+
+Dépôt d’un avis
+
+
+
+
+
+
+
+
+
+
+Advance check
+
+
+
+(3) No person shall send spam to an address unless the person has first determined, from the Minister or the body to which the Minister's responsibilities under this section are delegated, that the address is not on the no-spam list.
+
+
+
+
+
+
+
+
+
+(3) Il est interdit à quiconque d’envoyer un pourriel à une adresse à moins d’avoir vérifié, auprès du ministre ou de l’entité à qui le ministre a délégué ses responsabilités aux termes du présent article, que l’adresse ne figure pas sur la liste anti-pourriel.
+
+
+
+Vérification préalable
+
+
+
+
+
+
+
+
+
+
+Means for checking
+
+
+
+(4) The Minister shall establish electronic means for allowing a person to make the determination required by subsection (3).
+
+
+
+
+
+
+
+
+
+(4) Le ministre établit un moyen électronique permettant aux intéressés de faire la vérification prévue au paragraphe (3).
+
+
+
+Moyens de
+vérification
+
+
+
+
+
+
+
+
+
+
+No addresses provided
+
+
+
+(5) The means established under subsection (4) shall not provide any address to the person.
+
+
+
+
+
+
+
+
+
+(5) Le moyen électronique visé au paragraphe (4) ne peut fournir aucune adresse à la personne qui fait la vérification.
+
+
+
+Aucune adresse fournie
+
+
+
+
+
+
+
+
+
+
+Confidentiality
+
+
+
+(6) The no-spam list is not a public document and the Minister shall not reveal to any person the identity or address of any other person who files a no-spam notice.
+
+
+
+
+
+
+
+
+
+(6) La liste anti-pourriel n’est pas un document public et le ministre ne peut divulguer à quiconque l’identité ou l’adresse des personnes qui déposent un avis anti-pourriel.
+
+
+
+Confidentialité
+
+
+
+
+
+
+
+
+
+
+List of mailing agents
+
+
+
+9. (1) Every person who authorizes an agent to send e-mail on their behalf must promptly notify the Minister
+
+
+
+
+
+
+
+
+(a) that the agent is so authorized; and
+
+
+
+
+
+
+
+
+(b) if the authorization is terminated, of the date of termination.
+
+
+
+
+
+
+
+
+
+9. (1) Quiconque autorise un agent à envoyer un courriel en son nom doit aviser le ministre sans délai :
+
+
+
+Liste des agents
+
+
+
+
+a) du nom de l’agent autorisé;
+
+
+
+
+
+
+
+
+b) si l’autorisation est révoquée, de la date de la révocation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information
+
+
+
+(2) The Minister shall make available to the Council and its members the information the Minister receives under subsection (1).
+
+
+
+
+
+
+
+
+
+(2) Le ministre met à la disposition du Conseil et de ses membres les renseignements qu’il reçoit en application du paragraphe (1).
+
+
+
+Renseignements
+
+
+
+
+
+
+
+
+
+
+Delegation to other body
+
+
+
+10. The Minister may delegate the Minister's responsibilities under sections 8, 9 and 16 to any board, commission or agency of the Government of Canada that is accountable to the Minister.
+
+
+
+
+
+
+
+
+
+10. Le ministre peut déléguer les responsabilités qui lui incombent aux termes des articles 8, 9 et 16 à tout office, conseil, commission ou agence du gouvernement du Canada qui relève de lui.
+
+
+
+Délégation
+
+
+
+
+
+
+
+
+
+
+Offences by
+e-mail senders
+
+
+
+11. (1) Every person commits an offence who
+
+
+
+
+
+
+
+
+(a) sends spam to an address
+
+
+
+
+
+
+
+
+(i) that is on the no-spam list, or
+
+
+
+
+
+
+
+
+(ii) in respect of which the owner has sent an opt-out message to the person sending the message or to a person whom the person represents in sending the message;
+
+
+
+
+
+
+
+
+(b) sends spam to an address without determining whether the address is on the no-spam list;
+
+
+
+
+
+
+
+
+(c) sends spam that does not contain a means for the recipient to send an opt-out message;
+
+
+
+
+
+
+
+
+(d) sends spam that does not show the address of the sender;
+
+
+
+
+
+
+
+
+(e) sends spam that offers goods or services on behalf of another person without showing the identity of the other person;
+
+
+
+
+
+
+
+
+(f) sends spam that offers goods or services and contains a false statement about the goods or services or the identity or address of the sender or another person on behalf of whom the sender is acting; or
+
+
+
+
+
+
+
+
+(g) sells, trades or offers to sell or trade or uses any means to collect or obtain addresses from the Internet for the purpose of enabling any person to send spam to those addresses.
+
+
+
+
+
+
+
+
+
+11. (1) Commet une infraction quiconque :
+
+
+
+Infractions - expéditeurs de courriels
+
+
+
+
+a) envoie un pourriel à une adresse :
+
+
+
+
+
+
+
+
+(i) soit qui figure sur la liste anti-pourriel;
+
+
+
+
+
+
+
+
+(ii) soit dont le propriétaire a envoyé à l’expéditeur ou à son agent un message anti-pourriel;
+
+
+
+
+
+
+
+
+b) envoie un pourriel à une adresse sans vérifier si celle-ci figure ou non sur la liste anti-pourriel;
+
+
+
+
+
+
+
+
+c) envoie un pourriel qui ne donne pas au destinataire la possibilité d’envoyer un message anti-pourriel;
+
+
+
+
+
+
+
+
+d) envoie un pourriel qui n’indique pas l’adresse de l’expéditeur;
+
+
+
+
+
+
+
+
+e) envoie un pourriel qui offre des biens ou services au nom d’une autre personne sans indiquer l’identité de cette personne;
+
+
+
+
+
+
+
+
+f) envoie un pourriel qui offre des biens ou services et contient une fausse déclaration au sujet de ces biens ou services ou au sujet de l’identité ou de l’adresse de l’expéditeur ou d’une autre personne pour laquelle ce dernier agit;
+
+
+
+
+
+
+
+
+g) vend, échange, offre de vendre ou d’échanger, ou recueille ou obtient par tout moyen des adresses Internet en vue de permettre à une personne d’envoyer des pourriels à ces adresses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Complaint must be filed
+
+
+
+(2) No proceedings shall be instituted in respect of an offence under any of paragraphs (1)(a) to (f) unless the recipient files with the Minister a complaint respecting the spam in the form and manner prescribed by the Minister.
+
+
+
+
+
+
+
+
+
+(2) Une procédure ne peut être intentée pour une infraction prévue à l’un des alinéas (1)a) à f) que si le récipiendaire dépose auprès du ministre une plainte à l’égard du pourriel sous la forme et de la manière prévues par le ministre.
+
+
+
+Dépôt d’une plainte
+
+
+
+
+
+
+
+
+
+
+Offences by
+Internet service
+providers
+
+
+
+12. Every Internet service provider commits an offence who
+
+
+
+
+
+
+
+
+(a) is an accessory to an offence under paragraphs 11(1)(a) to (f);
+
+
+
+
+
+
+
+
+(b) is an accessory to an offence under paragraph 11(1)(g);
+
+
+
+
+
+
+
+
+(c) fails to install a spam filter that complies with standards set in the by-laws of the Council;
+
+
+
+
+
+
+
+
+(d) fails to use reasonable efforts to prevent spam from going to the provider's customers, and in the case of a provider who does not follow the standards of the Council, the onus is on that provider to show that reasonable efforts were used; or
+
+
+
+
+
+
+
+
+(e) knowingly provides false information to the Council or the Minister in a matter related to the Internet or the administration of this Act.
+
+
+
+
+
+
+
+
+
+12. Commet une infraction tout fournisseur de services Internet qui, selon le cas :
+
+
+
+Infractions — fournisseurs de services Internet
+
+
+
+
+a) est complice d’une infraction prévue aux alinéas 11(1)a) à f);
+
+
+
+
+
+
+
+
+b) est complice d’une infraction prévue à l’alinéa 11(1)f);
+
+
+
+
+
+
+
+
+c) omet d’installer un filtre anti-pourriel conforme aux normes établies par règlement administratif du Conseil;
+
+
+
+
+
+
+
+
+d) ne fait pas des efforts raisonnables pour empêcher la diffusion de pourriels à ses clients et, dans le cas où le fournisseur ne respecte pas les normes établies par le Conseil, il a le fardeau de démontrer qu’il a fait des efforts raisonnables;
+
+
+
+
+
+
+
+
+e) donne sciemment de faux renseignements au Conseil ou au ministre sur toute question liée à l’Internet ou à l’application de la présente loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Penalties
+
+
+
+13. (1) A person who commits an offence under section 11 or 12 is liable on conviction to a fine not exceeding $500.
+
+
+
+
+
+
+
+
+
+13. (1) Quiconque commet une infraction prévue aux articles 11 ou 12 est passible, sur déclaration de culpabilité, d’une amende maximale de cinq cents dollars.
+
+
+
+Peines
+
+
+
+
+
+
+
+
+
+
+Greater penalty in certain cases
+
+
+
+(2) A person who commits an offence under any of paragraphs 11(1)(a) to (f) or 12(a) is liable on conviction to a fine not exceeding $1,000, or to imprisonment for a term not exceeding six months, or to both, if the spam contains
+
+
+
+
+
+
+
+
+(a) material that is child pornography within the meaning of section 163.1 of the Criminal Code;
+
+
+
+
+
+
+
+
+(b) a depiction of explicit sexual activity; or
+
+
+
+
+
+
+
+
+(c) a message that constitutes an attempt to defraud the recipient.
+
+
+
+
+
+
+
+
+
+(2) Quiconque commet une infraction prévue à l’un des alinéas 11(1)a) à f) et 12a) est passible, sur déclaration de culpabilité, d’une amende maximale de mille dollars et d’un emprisonnement maximal de six mois, ou de l’une de ces peines, si le pourriel contient l’un ou l’autre des éléments suivants :
+
+
+
+Peine plus sévère dans certains cas
+
+
+
+
+a) de la pornographie juvénile au sens de l’article 163.1 du Code criminel;
+
+
+
+
+
+
+
+
+b) une représentation d’une activité sexuelle explicite;
+
+
+
+
+
+
+
+
+c) une tentative de frauder le destinataire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Children
+
+
+
+(3) A person who commits an offence referred to in subsection (2) in the circumstances described in that subsection is liable on conviction to a fine not exceeding $5,000, or to imprisonment for a term not exceeding one year, or to both, if the spam was
+
+
+
+
+
+
+
+
+(a) designed to be attractive specifically to children;
+
+
+
+
+
+
+
+
+(b) directed to any educational institution that is not a post-secondary institution; or
+
+
+
+
+
+
+
+
+(c) directed to an address at which the sender had reason to believe children were likely to see the spam.
+
+
+
+
+
+
+
+
+
+(3) Quiconque commet une infraction visée au paragraphe (2) est passible, sur déclaration de culpabilité, d’une amende maximale de cinq mille dollars et d’un emprisonnement maximal d’un an, ou de l’une de ces peines, s’il est démontré que le pourriel, selon le cas :
+
+
+
+Enfants
+
+
+
+
+a) était conçu pour attirer spécifiquement les enfants;
+
+
+
+
+
+
+
+
+b) visait un établissement d’enseignement autre qu’un établissement d’enseignement post-secondaire;
+
+
+
+
+
+
+
+
+c) était destiné à une adresse où l’expéditeur avait des motifs de croire que des enfants pourraient voir le pourriel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forbidden to operate
+business
+
+
+
+(4) In the case of a person convicted of an offence referred to in subsection (2) committed in the circumstances described in that subsection the court may order, and in the case of a person convicted of an offence referred to in subsection (3) committed in the circumstances described in that subsection the court shall order, that the person be prohibited, for a period not exceeding two years, from
+
+
+
+
+
+
+
+
+(a) being the owner, director, partner, employee or shareholder of an Internet service provider; or
+
+
+
+
+
+
+
+
+(b) communicating by e-mail with any person for any commercial purpose.
+
+
+
+
+
+
+
+
+
+(4) Le tribunal peut interdire à la personne déclarée coupable d’une infraction visée au paragraphe (2), et doit interdire à la personne déclarée coupable d’une infraction visée au paragraphe (3), pour une période maximale de deux ans:
+
+
+
+Interdiction d’exploiter une entreprise
+
+
+
+
+a) d’être propriétaire, administrateur, associé, employé ou actionnaire d’un fournisseur de services Internet;
+
+
+
+
+
+
+
+
+b) de communiquer par courriel avec toute personne dans un but commercial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Directors' punishment
+
+
+
+(5) Where a corporation or partnership is convicted of an offence under this section, the court may, in addition to imposing a fine on the corporation or partnership, convict any person who is a director, partner or officer of the corporation or partnership of the same offence, if the court finds that the person ordered the act for which the corporation or partnership was convicted, or knew that it was going to be carried out and tolerated it.
+
+
+
+
+
+
+
+
+
+(5) Si une personne morale ou une société de personnes est déclarée coupable d’une infraction visée au présent article, le tribunal peut, en sus de toute amende qui lui est imposée, déclarer coupable de la même infraction toute personne qui en est un administrateur, un associé ou un dirigeant s’il conclut que la personne a ordonné l’acte pour lequel la personne morale ou la société de personnes a été déclarée coupable, ou qu’elle a toléré que l’acte soit posé.
+
+
+
+Administrateurs — peine
+
+
+
+
+
+
+
+
+
+
+Deeming provision
+
+
+
+14. If a person initiates spam from any place in a manner that allows it to be received in Canada, and it is received by another person in Canada, then, for the purposes of section 11,
+
+
+
+
+
+
+
+
+(a) the person who initiated the spam is deemed to have sent it to the other person, whether or not the person had a specific intent that the other person should receive it, and whether it was initiated within or outside Canada; and
+
+
+
+
+
+
+
+
+(b) the act of sending is deemed to have been effected in Canada.
+
+
+
+
+
+
+
+
+
+14. Pour l’application de l’article 11, si une personne, où qu’elle se trouve, est à l’origine d’un pourriel qui peut être reçu au Canada et que reçoit une autre personne au Canada :
+
+
+
+Présomption
+
+
+
+
+a) la personne à l’origine du pourriel est réputée l’avoir envoyé à l’autre personne, qu’elle ait eu ou non l’intention expresse que cette autre personne le reçoive et que le message ait son origine au Canada ou ailleurs;
+
+
+
+
+
+
+
+
+b) le message est réputé provenir du Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Providers banning senders not
+liable
+
+
+
+15. (1) An Internet service provider who refuses or cancels service or access to any person who has committed an offence under this Act or who has, on more than one occasion, sent to the provider a message that the provider has reasonable grounds to believe is spam, is not liable to that person for any loss or damage arising from the refusal or cancellation.
+
+
+
+
+
+
+
+
+
+15. (1) Le fournisseur de services Internet qui refuse ou annule ses services ou l’accès à une personne qui a commis une infraction à la présente loi ou qui a, plus d’une fois, envoyé au fournisseur un message qui donne à ce dernier des motifs raisonnables de croire qu’il s’agit de pourriel n’est pas responsable des pertes ou des dommages-intérêts découlant du refus ou de l’annulation.
+
+
+
+Non-responsabilité des fournisseurs qui refusent leurs services à un expéditeur
+
+
+
+
+
+
+
+
+
+
+Reasonable grounds
+
+
+
+(2) An Internet service provider has reasonable grounds to believe that a message is spam if the message fails to pass a spam filter approved by the Council.
+
+
+
+
+
+
+
+
+
+(2) Le fournisseur a des motifs raisonnables de croire qu’un message est un pourriel si le message est bloqué par un filtre anti-pourriel approuvé par le Conseil.
+
+
+
+Motifs raisonnables
+
+
+
+
+
+
+
+
+
+
+Agents
+
+
+
+16. (1) If an agent is convicted of an offence under this Act, the Minister may send a notice to anyone who has advised the Minister of an authorization under section 9 that is still valid, requiring the cancellation of the authorization.
+
+
+
+
+
+
+
+
+
+16. (1) Si un agent est reconnu coupable d’une infraction à la présente loi, le ministre peut envoyer à la personne qui l’a avisé de l’autorisation mentionné à l’article 9 un avis exigeant la révocation de l’autorisation.
+
+
+
+Agents
+
+
+
+
+
+
+
+
+
+
+Canceling authority to act
+
+
+
+(2) A person who has, by any means, authorized an agent to send messages on their behalf and who receives a notice respecting the agent from the Minister under subsection (1) shall terminate the authorization forthwith.
+
+
+
+
+
+
+
+
+
+(2) La personne qui a, de quelque façon, autorisé un agent à envoyer des messages en son nom et qui reçoit du ministre l’avis visé au paragraphe (1) concernant cet agent doit sans délai révoquer l’autorisation.
+
+
+
+Révocation de l’autorisation
+
+
+
+
+
+
+
+
+
+
+Not liable
+
+
+
+(3) No person who cancels an authorization because of a requirement arising under subsection (2) is liable to the agent for any loss or damage arising from the cancellation.
+
+
+
+
+
+
+
+
+
+(3) La personne qui révoque une autorisation conformément à un avis reçu aux termes du paragraphe (2) n’est pas responsable envers l’agent des pertes ou dommages-intérêts découlant de la révocation.
+
+
+
+Non-responsabilité
+
+
+
+
+
+
+
+
+
+
+Cause of action
+
+
+
+17. (1) Any person, including an Internet service provider, who receives spam in contravention of this Act in quantities that cause significant inconvenience may bring an action in nuisance in a court of competent jurisdiction against the sender, for damages or any other relief the court considers appropriate, including an injunction.
+
+
+
+
+
+
+
+
+
+17. (1) Toute personne, notamment un fournisseur de services Internet, qui reçoit, contrairement à la présente loi, des pourriels en quantité telle qu’ils lui causent des inconvénients importants peut, dans un recours intenté contre l’expéditeur devant un tribunal compétent, réclamer des dommages-intérêts ou tout autre redressement approprié, y compris une injonction.
+
+
+
+Cause d’action
+
+
+
+
+
+
+
+
+
+
+Deemed
+damage
+
+
+
+(2) A person who receives spam in quantities that, in the opinion of the court, causes significant inconvenience, is deemed to have suffered damage without it being specifically proved, and the court may award both general and punitive damages.
+
+
+
+
+
+
+
+
+
+(2) La personne qui reçoit des pourriels en une quantité telle qu’ils lui causent, de l’avis du tribunal, des inconvénients importants est réputée avoir subi des dommages, même s’ils ne sont pas établis de façon spécifique, et le tribunal peut lui accorder des dommages-intérêts tant généraux que spécifiques.
+
+
+
+Dommages — intérêts présumés
+
+
+
+
+
+
+
+
+
+
+Confidentiality
+
+
+
+18. (1) Nothing in this Act authorizes an Internet service provider to communicate the contents of a message received by the provider to the Council, the Minister or any other person.
+
+
+
+
+
+
+
+
+
+18. (1) La présente loi n’autorise pas les fournisseurs de services Internet à communiquer au Conseil, au ministre ou à une autre personne la teneur d’un message qu’ils reçoivent.
+
+
+
+Confidentialité
+
+
+
+
+
+
+
+
+
+
+Confidentiality
+
+
+
+(2) Nothing in this Act authorizes an Internet service provider to communicate the contents of a message received by the provider
+
+
+
+
+
+
+
+
+(a) except as necessary, in the normal course of the administration of their business, to deliver the message to the addressee or return it to the sender;
+
+
+
+
+
+
+
+
+(b) under an order of a court; or
+
+
+
+
+
+
+
+
+(c) under the lawful order of a law enforcement agency for the purposes of law enforcement.
+
+
+
+
+
+
+
+
+
+(2) La présente loi n’autorise pas les fournisseurs de services Internet à communiquer la teneur d’un message qu’ils reçoivent :
+
+
+
+Précision
+
+
+
+
+a) sauf dans la mesure nécessaire, dans le cours normal de leurs affaires, pour livrer le message au destinataire ou le retourner à l’expéditeur;
+
+
+
+
+
+
+
+
+b) conformément à une ordonnance judiciaire;
+
+
+
+
+
+
+
+
+c) conformément à un ordre légitime d’un organisme d’application de la loi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+19. This Act comes into force on a day to be fixed by order of the Governor in Council.
+
+
+
+
+
+
+
+
+
+19. La présente loi entre en vigueur à la date fixée par décret.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

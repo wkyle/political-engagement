@@ -1,0 +1,4471 @@
+
+
+
+
+
+S-47
+
+
+
+
+
+S-47
+
+
+
+
+
+
+First Session, Thirty-eighth Parliament,
+
+
+
+
+
+Première session, trente-huitième législature,
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+SENATE OF CANADA
+
+
+
+
+
+SÉNAT DU CANADA
+
+
+
+
+
+
+BILL S-47
+
+
+
+
+
+PROJET DE LOI S-47
+
+
+
+
+
+
+An Act to amend the Criminal Code (impaired driving) and other Acts
+
+
+
+
+
+Loi modifiant le Code criminel (conduite avec facultés affaiblies) ainsi que d’autres lois
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, November 22, 2005
+
+première lecture le 22 novembre 2005
+
+
+
+
+
+
+
+
+
+
+
+
+THE HONOURABLE SENATOR LEBRETON
+
+0316
+
+
+
+L’HONORABLE SÉNATEUR LEBRETON
+
+
+
+
+
+SUMMARY
+This enactment amends the Criminal Code to create the new drinking and driving offence of operating, or having the care or control of, a vehicle while having a concentration of 50 milligrams or more of alcohol per 100 millilitres of blood. It also makes related amendments to the Criminal Records Act and the Identification of Criminals Act.
+The new “over .05” offence is in addition to the current drinking and driving offences, and incorporates the elements and evidentiary procedures of the “over .08” offence. However, the provisions respecting the new offence are distinctive in several respects:
+(a) the offence is an exclusively summary conviction offence with relatively moderate fines and driving prohibitions;
+(b) a peace officer may issue a ticket to the accused, and an accused who receives a ticket can choose to plead guilty without having to appear in court;
+(c) for an accused who wishes to contest the charge, the ticket procedure adopts the existing procedures that apply to appearance notices;
+(d) because of related changes made to the Criminal Records Act, if a person convicted of the new “over .05” offence has no additional drinking-and-driving related convictions for two years, the record of the conviction will be destroyed; and
+(e) to ensure accuracy in identifying the offender and determining whether they qualify to have their record of conviction destroyed, an accused is subject to the Identification of Criminals Act even though the offence is a summary conviction offence.
+
+
+
+SOMMAIRE
+Le texte modifie le Code criminel afin d’ériger en infraction le fait pour une personne de consommer de l’alcool et de conduire ou d’avoir sous sa garde ou son contrôle un véhicule lorsque son alcoolémie est de 50 milligrammes ou plus par 100 millilitres de sang. Il apporte également des modifications corrélatives à la Loi sur le casier judiciaire et à la Loi sur l’identification des criminels.
+La nouvelle infraction « alcoolémie supérieure à 0,05 » s’ajoute aux infractions existantes en matière de conduite en état d’ivresse et intègre les éléments et règles de preuve de l’infraction de l’« alcoolémie supérieure à 0,08 ». Toutefois, plusieurs nouveaux éléments caractérisent la nouvelle infraction, à savoir :
+a) l’infraction est uniquement une infraction punissable sur déclaration de culpabilité par procédure sommaire, qui comporte des amendes relativement modérées et l’interdiction de conduire;
+b) un agent de la paix peut délivrer un procès-verbal d’infraction au prévenu et le prévenu qui en fait l’objet peut choisir de plaider coupable sans devoir se présenter devant un tribunal;
+c) pour le prévenu qui désire contester l’accusation, la procédure du procès-verbal d’infraction intègre les procédures existantes qui s’appliquent aux citations à comparaître;
+d) étant donné les modifications corrélatives apportées à la Loi sur le casier judiciaire, si la personne déclarée coupable de la nouvelle infraction « alcoolémie supérieure à 0,05 » ne fait l’objet d’aucune autre condamnation pour conduite avec facultés affaiblies pendant deux ans, elle verra le dossier de sa condamnation détruit;
+e) afin d’assurer l’identification exacte du prévenu et de déterminer s’il est admissible à la destruction du dossier de sa condamnation, le prévenu est assujetti à la Loi sur l’identification des criminels même s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
+
+
+
+
+
+
+
+Available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1st Session, 38th Parliament,
+
+
+
+
+
+
+
+
+
+1re session, 38e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+53-54 Elizabeth II, 2004-2005
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+senate of canada
+
+
+
+
+
+
+
+
+
+sénat du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL S-47
+
+
+
+
+
+
+
+
+
+PROJET DE LOI S-47
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the Criminal Code (impaired driving) and other Acts
+
+
+
+
+
+
+
+
+
+Loi modifiant le Code criminel (conduite avec facultés affaiblies) ainsi que d’autres lois
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+1. Section 20 of the Criminal Code is replaced by the following:
+
+
+
+
+
+
+
+
+
+1. L’article 20 du Code criminel est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Certain acts on holidays valid
+
+
+
+20. A warrant, summons or ticket that is authorized by this Act or an appearance notice, promise to appear, undertaking or recognizance issued, given or entered into in accordance with Part XVI, XXI or XXVII may be issued, executed, given or entered into, as the case may be, on a holiday.
+
+
+
+
+
+
+
+
+
+20. Un mandat, une sommation ou un procès-verbal d’infraction autorisés par la présente loi ou une citation à comparaître, une promesse de comparaître, une promesse ou un engagement délivrés, remis ou contractés en conformité avec les parties XVI, XXI ou XXVII peuvent être décernés, délivrés, exécutés, remis ou contractés, selon le cas, un jour férié.
+
+
+
+Certains actes peuvent être validement faits les jours fériés
+
+
+
+
+
+
+
+
+
+
+
+
+2. (1) Section 145 of the Act is amended by adding the following after subsection (4):
+
+
+
+
+
+
+
+
+
+2. (1) L’article 145 de la même loi est modifié par adjonction, après le paragraphe (4), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Failure to comply with ticket
+
+
+
+(4.1) Every person to whom a ticket is issued under section 260.1 and who fails, without lawful excuse, the proof of which lies on the person,
+
+
+
+
+
+
+
+
+(a) to appear at the time and place stated therein, if any, for the purposes of the Identification of Criminals Act, or
+
+
+
+
+
+
+
+
+(b) to attend court in accordance with the ticket, if the ticket has been confirmed by a justice under section 508,
+
+
+
+
+
+
+
+
+is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years or is guilty of an offence punishable on summary conviction.
+
+
+
+
+
+
+
+
+
+(4.1) Est coupable, soit d’un acte criminel passible d’un emprisonnement maximal de deux ans, soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire, quiconque se voit délivrer un procès-verbal d’infraction conformément à l’article 260.1 et omet, sans excuse légitime, dont la preuve lui incombe :
+
+
+
+Omission de se conformer au procès-verbal d’infraction
+
+
+
+
+a) soit de comparaître aux date, heure et lieu indiqués, le cas échéant, pour l’application de la Loi sur l’identification des criminels;
+
+
+
+
+
+
+
+
+b) soit d’être présent au tribunal en conformité avec le procès-verbal d’infraction, si celui-ci a été confirmé par un juge de paix en application de l’article 508.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 145(6) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 145(6) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Defective statement of offence
+
+
+
+(6) For the purposes of subsections (4.1) and (5), it is not a lawful excuse that a ticket, appearance notice, promise to appear or recognizance states defectively the substance of the alleged offence.
+
+
+
+
+
+
+
+
+
+(6) Pour l’application des paragraphes (4.1) et (5), le fait qu’un procès-verbal d’infraction, une citation à comparaître, une promesse de comparaître ou un engagement indiquent d’une manière imparfaite l’essentiel de l’infraction reprochée ne constitue pas une excuse légitime.
+
+
+
+Libellé imparfait
+
+
+
+
+
+
+
+
+
+
+
+
+(3) The portion of subsection 145(9) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le passage du paragraphe 145(9) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Proof of certain facts by certificate
+
+
+
+(9) In any proceedings under subsection (2), (4), (4.1) or (5), a certificate of the clerk of the court or a judge of the court before which the accused is alleged to have failed to attend or of the person in charge of the place at which it is alleged the accused failed to attend for the purposes of the Identification of Criminals Act stating that,
+
+
+
+
+
+
+
+
+
+(9) Dans les procédures prévues aux paragraphes (2), (4), (4.1) ou (5), tout certificat dans lequel le greffier ou un juge du tribunal ou la personne responsable du lieu où le prévenu aurait omis de se présenter pour l’application de la Loi sur l’identification des criminels déclare que ce dernier a omis :
+
+
+
+Preuve de certains faits par certificat
+
+
+
+
+
+
+
+
+
+
+
+
+(4) Subsection 145(9) of the Act is amended by striking out the word “and” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+(4) Le paragraphe 145(9) de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b.1) in the case of proceedings under subsection (4.1), a ticket was issued to the accused under section 260.1 and confirmed by a justice under section 508 and the accused failed to attend court in accordance therewith, or a ticket was issued to the accused under section 260.1 and the accused failed to appear at the time and place stated therein for the purposes of the Identification of Criminals Act, as the case may be, and
+
+
+
+
+
+
+
+
+
+b.1) dans le cas des procédures prévues au paragraphe (4.1), soit de se présenter devant le tribunal comme l’exige le procès-verbal d’infraction délivré en application de l’article 260.1 et confirmé par un juge de paix en application de l’article 508, soit de comparaître aux date, heure et lieu indiqués dans le procès-verbal d’infraction délivré en application de l’article 260.1 pour l’application de la Loi sur l’identification des criminels;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Section 253 of the Act is amended by striking out the word “or” at the end of paragraph (a), by adding the word “or” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+3. L’article 253 de la même loi est modifié par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) having consumed alcohol in such a quantity that the concentration in the person’s blood exceeds fifty milligrams of alcohol in one hundred millilitres of blood.
+
+
+
+
+
+
+
+
+
+c) lorsqu’il a consommé une quantité d’alcool telle que son alcoolémie dépasse cinquante milligrammes d’alcool par cent millilitres de sang.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4. (1) The portion of subsection 255(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. (1) Le passage du paragraphe 255(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+255. (1) Every one who commits an offence under paragraph 253(a) or (b) or section 254 is guilty of an indictable offence or an offence punishable on summary conviction and is liable,
+
+
+
+
+
+
+
+
+
+255. (1) Quiconque commet une infraction prévue aux alinéas 253a) ou b) ou à l’article 254 est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire ou par mise en accusation et est passible :
+
+
+
+Peine
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 255 of the Act is amended by adding the following after subsection (1):
+
+
+
+
+
+
+
+
+
+(2) L’article 255 de la même loi est modifié par adjonction, après le paragraphe (1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Punishment
+
+
+
+(1.1) Every one who commits an offence under paragraph 253(c) is guilty of an offence punishable on summary conviction and is liable,
+
+
+
+
+
+
+
+
+(a) for a first offence, to a fine of not less than three hundred dollars; and
+
+
+
+
+
+
+
+
+(b) for each subsequent offence, to a fine of not less than six hundred dollars.
+
+
+
+
+
+
+
+
+
+(1.1) Quiconque commet une infraction prévue à l’alinéa 253c) est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et est passible :
+
+
+
+Peine
+
+
+
+
+a) pour la première infraction, d’une amende minimale de trois cents dollars;
+
+
+
+
+
+
+
+
+b) pour chaque infraction subséquente, d’une amende minimale de six cents dollars.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3) The portion of subsection 255(4) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+(3) Le passage du paragraphe 255(4) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Previous convictions
+
+
+
+(4) Where a person is convicted of an offence committed under paragraph 253(a), (b) or (c) or subsection 254(5), that person shall, for the purposes of this Act, be deemed to be convicted for a second or subsequent offence, as the case may be, if the person has previously been convicted of
+
+
+
+
+
+
+
+
+
+(4) La personne déclarée coupable d’une infraction prévue aux alinéas 253a), b) ou c) ou au paragraphe 254(5) est, pour l’application de la présente loi, réputée être déclarée coupable d’une seconde infraction ou d’une infraction subséquente si elle a été déclarée coupable auparavant d’une infraction prévue :
+
+
+
+Condamnations antérieures
+
+
+
+
+
+
+
+
+
+
+
+
+5. (1) The portion of subsection 258(1) of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+5. (1) Le passage du paragraphe 258(1) de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Proceedings under section 255
+
+
+
+258. (1) In any proceedings under subsection 255(1) or (1.1) in respect of an offence committed under section 253 or in any proceedings under subsection 255(2) or (3),
+
+
+
+
+
+
+
+
+
+258. (1) Dans des poursuites engagées en vertu des paragraphes 255(1) ou (1.1) à l’égard d’une infraction prévue à l’article 253 ou dans des poursuites engagées en vertu des paragraphes 255(2) ou (3) :
+
+
+
+Poursuites en vertu de l’article 255
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 258(1) of the Act is amended by adding the following after paragraph (d.1):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 258(1) de la même loi est modifié par adjonction, après l’alinéa d.1), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d.2) in respect of an offence committed under paragraph 253(c), where samples of the breath of the accused or a sample of the blood of the accused have been taken as described in paragraph (c) or (d) under the conditions described therein and the results of the analyses show a concentration of alcohol in blood exceeding fifty milligrams of alcohol in one hundred millilitres of blood, evidence of the result of the analyses is, in the absence of evidence tending to show that the concentration of alcohol in the blood of the accused at the time when the offence was alleged to have been committed did not exceed fifty milligrams of alcohol in one hundred millilitres of blood, proof that the concentration of alcohol in the blood of the accused at the time when the offence was alleged to have been committed exceeded fifty milligrams of alcohol in one hundred millilitres of blood;
+
+
+
+
+
+
+
+
+
+d.2) à l’égard d’une infraction prévue à l’alinéa 253c), si les analyses visées aux alinéas c) ou d) montrent une alcoolémie supérieure à cinquante milligrammes d’alcool par cent millilitres de sang, le résultat de l’analyse fait foi, en l’absence de preuve tendant à démontrer que l’alcoolémie de l’accusé au moment où l’infraction aurait été commise ne dépassait pas cinquante milligrammes d’alcool par cent millilitres de sang, d’une alcoolémie supérieure à cinquante milligrammes d’alcool par cent millilitres de sang;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. (1) Paragraphs 259(1)(a) to (c) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+6. (1) Les alinéas 259(1)a) à c) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) in respect of an offence committed under paragraph 253(a) or (b) or section 254,
+
+
+
+
+
+
+(i) for a first offence, during a period of not more than three years plus any period to which the offender is sentenced to imprisonment, and not less than one year,
+
+
+
+
+
+
+(ii) for a second offence, during a period of not more than five years plus any period to which the offender is sentenced to imprisonment, and not less than two years, and
+
+
+
+
+
+
+(iii) for each subsequent offence, during a period of not less than three years plus any period to which the offender is sentenced to imprisonment; and
+
+
+
+
+
+
+(b) in respect of an offence committed under paragraph 253(c),
+
+
+
+
+
+
+(i) for a first offence, during a period of forty-five days, and
+
+
+
+
+
+
+(ii) for each subsequent offence, during a period of ninety days.
+
+
+
+
+
+
+
+
+
+a) s’il s’agit d’une infraction prévue aux alinéas 253a) ou b) ou à l’article 254 :
+
+
+
+
+
+
+(i) pour une première infraction, durant une période minimale d’un an et maximale de trois ans, en plus de la période d’emprisonnement à laquelle il est condamné,
+
+
+
+
+
+
+(ii) pour une deuxième infraction, durant une période minimale de deux ans et maximale de cinq ans, en plus de la période d’emprisonnement à laquelle il est condamné,
+
+
+
+
+
+
+(iii) pour chaque infraction subséquente, durant une période minimale de trois ans, en plus de la période d’emprisonnement à laquelle il est condamné;
+
+
+
+
+
+
+b) s’il s’agit d’une infraction prévue à l’alinéa 253c) :
+
+
+
+
+
+
+(i) pour une première infraction, durant une période de quarante-cinq jours,
+
+
+
+
+
+
+(ii) pour chaque infraction subséquente, durant une période de quatre-vingt-dix jours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 259(1.1) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 259(1.1) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Alcohol ignition interlock device program
+
+
+
+(1.1) In making an order under paragraph (1)(a), the court may authorize the offender to operate a motor vehicle equipped with an alcohol ignition interlock device during the prohibition period if the offender registers in an alcohol ignition interlock device program established under the law of the province in which the offender resides.
+
+
+
+
+
+
+
+
+
+(1.1) Dans son ordonnance rendue aux termes de l’alinéa (1)a), le tribunal peut accorder au contrevenant la permission de conduire, durant la période d’interdiction, un véhicule à moteur équipé d’un antidémarreur avec éthylomètre si ce dernier s’inscrit à un programme d’utilisation d’antidémarreurs avec éthylomètre institué sous le régime juridique de la province où il réside.
+
+
+
+Programme d’utilisation d’antidémarreurs avec éthylomètre
+
+
+
+
+
+
+
+
+
+
+
+
+7. The Act is amended by adding the following after section 260:
+
+
+
+
+
+
+
+
+
+7. La même loi est modifiée par adjonction, après l’article 260, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Issuance of ticket for paragraph 253(c) offence
+
+
+
+260.1 (1) In respect of an offence committed by a person under paragraph 253(c),
+
+
+
+
+
+
+
+
+(a) a peace officer who is authorized under section 496 to issue an appearance notice to the person may instead issue a ticket to the person; and
+
+
+
+
+
+
+
+
+(b) a peace officer who is authorized under subsection 497(1) to issue an appearance notice to the person and then release them, or an officer in charge or another peace officer who is authorized under subsection 498(1) to release the person on their giving a promise to appear, may instead issue a ticket to the person and then release them.
+
+
+
+
+
+
+
+
+
+260.1 (1) Dans le cas d’une infraction prévue à l’alinéa 253c) :
+
+
+
+Délivrance du procès-verbal d’une infraction prévue à l’alinéa 253c)
+
+
+
+
+a) l’agent de la paix qui est autorisé en vertu de l’article 496 à délivrer à l’auteur de l’infraction une citation à comparaître peut lui délivrer à la place un procès-verbal d’infraction;
+
+
+
+
+
+
+
+
+b) l’agent de la paix qui est autorisé en vertu du paragraphe 497(1) à délivrer à l’auteur de l’infraction une citation à comparaître et à le mettre en liberté, ou le fonctionnaire responsable ou un autre agent de la paix qui est autorisé en vertu du paragraphe 498(1) à le mettre en liberté pourvu qu’il remette sa promesse de comparaître, peut lui délivrer à la place un procès-verbal d’infraction et le mettre en liberté.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents of ticket
+
+
+
+(2) The ticket shall be in Form 9.1 and
+
+
+
+
+
+
+
+
+(a) shall set out the name of the person to whom it is issued;
+
+
+
+
+
+
+
+
+(b) shall set out the substance of the offence that the person is alleged to have committed;
+
+
+
+
+
+
+
+
+(c) may require the person to appear at a time and place stated in it for the purposes of the Identification of Criminals Act;
+
+
+
+
+
+
+
+
+(d) shall set out the two options the person has in responding to the ticket, namely,
+
+
+
+
+
+
+
+
+(i) to plead guilty in accordance with subsection 260.2(1), or
+
+
+
+
+
+
+
+
+(ii) to attend court at the time and place stated in the ticket and attend thereafter as required by the court in order to be dealt with according to law;
+
+
+
+
+
+
+
+
+(e) shall set out the fine payable, in the minimum amount specified for the offence in paragraph 255(1.1)(a) or (b), as the case may be, and the length of the prohibition order that will result if the person chooses to plead guilty in accordance with subsection 260.2(1);
+
+
+
+
+
+
+
+
+(f) shall specify a time, at least thirty days after the day the ticket is issued, and place at which the person must attend court if the person does not plead guilty in accordance with subsection 260.2(1); and
+
+
+
+
+
+
+
+
+(g) shall set out the text of subsections 145(4.1) and (6) and 259(4) and section 502.1.
+
+
+
+
+
+
+
+
+
+(2) Le procès-verbal d’infraction est établi selon la formule 9.1 et comporte les éléments suivants :
+
+
+
+Contenu du procès-verbal d’infraction
+
+
+
+
+a) le nom de son destinataire;
+
+
+
+
+
+
+
+
+b) une description de l’infraction reprochée;
+
+
+
+
+
+
+
+
+c) l’exigence, s’il y a lieu, que le destinataire comparaisse aux date, heure et lieu indiqués pour l’application de la Loi sur l’identification des criminels;
+
+
+
+
+
+
+
+
+d) une mention des deux choix offerts au destinataire, à savoir :
+
+
+
+
+
+
+
+
+(i) soit plaider coupable conformément au paragraphe 260.2(1),
+
+
+
+
+
+
+
+
+(ii) soit se présenter devant le tribunal aux date, heure et lieu indiqués dans le procès-verbal d’infraction et s’y présenter par la suite comme l’exige le tribunal afin d’y être traité selon la loi;
+
+
+
+
+
+
+
+
+e) le montant de l’amende à payer, selon le montant minimal prévu pour l’infraction aux alinéas 255(1.1)a) ou b), selon le cas, et la durée de l’ordonnance d’interdiction qui résultera du choix de la personne de plaider coupable conformément au paragraphe 260.2(1);
+
+
+
+
+
+
+
+
+f) l’heure et la date, au moins trente jours après la délivrance du procès-verbal d’infraction, ainsi que le lieu où le destinataire est tenu de se présenter devant le tribunal advenant qu’il ne plaide pas coupable selon le paragraphe 260.2(1);
+
+
+
+
+
+
+
+
+g) le texte des paragraphes 145(4.1) et (6) et 259(4) ainsi que de l’article 502.1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Request for signature
+
+
+
+(3) A peace officer who issues a ticket to a person shall request the person to sign the ticket in duplicate and, whether or not the request is complied with, shall give one of the duplicates to the person, but if the person fails or refuses to sign, the lack of his or her signature does not invalidate the ticket.
+
+
+
+
+
+
+
+
+
+(3) L’agent de la paix qui délivre un procès-verbal d’infraction demande au destinataire du procès-verbal de signer les deux exemplaires de celui-ci et, que cette personne signe ou non, lui remet un des exemplaires; toutefois, si elle omet ou refuse de signer, l’absence de sa signature ne porte pas atteinte à la validité du procès-verbal.
+
+
+
+Signature obligatoire
+
+
+
+
+
+
+
+
+
+
+Certificate of issue
+
+
+
+(4) The peace officer may complete and sign a certificate stating that the ticket was, on the day set out in the certificate, issued to the person who the peace officer believes committed the offence.
+
+
+
+
+
+
+
+
+
+(4) L’agent de la paix peut rédiger et signer une attestation indiquant que le procès-verbal a été, à la date dont il fait état, délivré à la personne qu’il croit être l’auteur de l’infraction.
+
+
+
+Attestation de délivrance
+
+
+
+
+
+
+
+
+
+
+Certificate as evidence
+
+
+
+(5) The certificate is evidence that, on the day set out in the certificate, a ticket was issued to the person who the peace officer believes committed the offence.
+
+
+
+
+
+
+
+
+
+(5) L’attestation fait foi que, à la date qui y est indiquée, un procès-verbal d’infraction a été délivré à la personne que l’agent de la paix croit être l’auteur de l’infraction.
+
+
+
+Attestation à titre de preuve
+
+
+
+
+
+
+
+
+
+
+Proof of issue of ticket
+
+
+
+(6) The issue of a ticket by a peace officer may be proved by
+
+
+
+
+
+
+
+
+(a) the oral evidence, given under oath, of the officer who issued it;
+
+
+
+
+
+
+
+
+(b) the officer’s affidavit made before a justice or other person authorized to administer oaths or to take affidavits; or
+
+
+
+
+
+
+
+
+(c) a certificate referred to in subsection (4).
+
+
+
+
+
+
+
+
+
+(6) La délivrance d’un procès-verbal d’infraction par un agent de la paix peut être prouvée, selon le cas :
+
+
+
+Preuve de la délivrance du procès-verbal d’infraction
+
+
+
+
+a) par témoignage oral fait sous serment par l’agent qui l’a délivré;
+
+
+
+
+
+
+
+
+b) au moyen d’un affidavit fait par l’agent devant un juge de paix ou toute autre personne autorisée à faire prêter serment ou à recevoir des affidavits;
+
+
+
+
+
+
+
+
+c) par l’attestation visée au paragraphe (4).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Option to plead guilty by paying ticket
+
+
+
+260.2 (1) A person to whom a ticket is issued may, within twenty-one days after the day it is issued, plead guilty with respect to the offence alleged in the ticket by delivering the ticket in person to the place specified in it, along with
+
+
+
+
+
+
+
+
+(a) full payment of the fine set out in the ticket; or
+
+
+
+
+
+
+
+
+(b) part payment of the fine set out in the ticket, if granted time to pay by a justice of the peace on application by or on behalf of the person.
+
+
+
+
+
+
+
+
+
+260.2 (1) Le destinataire d’un procès-verbal d’infraction peut, dans les vingt et un jours suivant la délivrance de celui-ci, plaider coupable à l’égard de l’infraction reprochée en le remettant en personne à l’adresse qui y est mentionnée, accompagné, selon le cas :
+
+
+
+Possibilité de plaider coupable en payant l’amende
+
+
+
+
+a) du paiement intégral de l’amende indiquée;
+
+
+
+
+
+
+
+
+b) du paiement partiel de l’amende indiquée, si un juge de paix a accordé au destinataire du procès-verbal un sursis de paiement sur réception d’une demande à cet effet présentée par ce dernier ou en son nom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Time limit and holidays
+
+
+
+(2) Where the time limited by subsection (1) for pleading guilty expires on a holiday or a Saturday, the person may plead guilty in accordance with that subsection on the day next following that is not a holiday or a Saturday.
+
+
+
+
+
+
+
+
+
+(2) Lorsque le délai prévu au paragraphe (1) pour plaider coupable expire un samedi ou un jour férié, le destinataire du procès-verbal d’infraction peut plaider coupable, conformément aux exigences de ce paragraphe le premier jour suivant qui n’est ni un samedi ni un jour férié.
+
+
+
+Délai et jours fériés
+
+
+
+
+
+
+
+
+
+
+Effect of payment
+
+
+
+(3) Payment under paragraph (1)(a) or (b) constitutes a plea of guilty and endorsement of payment on the ticket constitutes a conviction, and
+
+
+
+
+
+
+
+
+(a) the amount of the fine set out in the ticket shall be deemed to be a fine imposed on the offender under section 734 by an order made by a court under section 734.1; and
+
+
+
+
+
+
+
+
+(b) the offender shall be deemed to be sentenced, pursuant to and in accordance with subsection 259(1), to an order prohibiting the offender
+
+
+
+
+
+
+
+
+(i) from operating a motor vehicle on any street, road, highway or other public place, if the offence was committed while operating or having care or control of a motor vehicle, or
+
+
+
+
+
+
+
+
+(ii) from operating a vessel or an aircraft or railway equipment, as the case may be, if the offence was committed while operating or having care or control of a vessel, an aircraft or railway equipment or assisting in the operation of an aircraft or railway equipment.
+
+
+
+
+
+
+
+
+
+(3) Le paiement visé aux alinéas (1)a) ou b) constitue un plaidoyer de culpabilité, l’acquit du paiement porté au procès-verbal équivalant à une déclaration de culpabilité, et :
+
+
+
+Effet du paiement
+
+
+
+
+a) l’amende indiquée sur le procès-verbal d’infraction est réputée être une amende infligée au contrevenant en application de l’article 734 par une ordonnance rendue par le tribunal aux termes de l’article 734.1;
+
+
+
+
+
+
+
+
+b) le contrevenant est réputé faire l’objet d’une ordonnance, rendue aux termes du paragraphe 259(1), lui interdisant de conduire :
+
+
+
+
+
+
+
+
+(i) un véhicule à moteur dans une rue, sur un chemin ou une grande route ou dans un autre endroit public, s’il a commis l’infraction alors qu’il conduisait un véhicule à moteur ou en avait la garde ou le contrôle,
+
+
+
+
+
+
+
+
+(ii) un bateau, un aéronef ou du matériel ferroviaire, s’il a commis l’infraction alors qu’il conduisait un bateau, un aéronef ou du matériel ferroviaire ou en avait la garde ou le contrôle, ou aidait à la conduite d’un aéronef ou de matériel ferroviaire.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proceedings on receipt of payment
+
+
+
+(4) A person designated by the Attorney General to receive payments made under subsection (1) shall, upon receiving a payment from an offender under paragraph (1)(a) or (b),
+
+
+
+
+
+
+
+
+(a) endorse the ticket to confirm receipt of the payment;
+
+
+
+
+
+
+
+
+(b) give to the offender the explanations described in subparagraphs 734.2(a)(ii) to (iv);
+
+
+
+
+
+
+
+
+(c) give to the offender a statement of the terms of the prohibition order and an explanation of the order and of subsection 259(4); and
+
+
+
+
+
+
+
+
+(d) request the offender to endorse a copy of the statement, acknowledging that it has been received and that the order has been explained to the offender.
+
+
+
+
+
+
+
+
+
+(4) Sur réception d’un paiement effectué par le contrevenant en application des alinéas (1)a) ou b), la personne désignée par le procureur général pour recevoir les paiements faits sous le régime du paragraphe (1) :
+
+
+
+Procédure après réception du paiement
+
+
+
+
+a) signe le procès-verbal d’infraction afin d’accuser réception du paiement;
+
+
+
+
+
+
+
+
+b) donne au contrevenant les explications visées aux sous-alinéas 734.2a)(ii) à (iv);
+
+
+
+
+
+
+
+
+c) donne au contrevenant un exposé des conditions de l’ordonnance d’interdiction ainsi qu’une explication de celle-ci et du paragraphe 259(4);
+
+
+
+
+
+
+
+
+d) demande au contrevenant de signer un exemplaire de l’exposé pour attester qu’il l’a reçu et que la teneur de l’ordonnance lui a été expliquée.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Validity of order not affected
+
+
+
+(5) The failure of an offender to endorse a copy of the statement as requested under paragraph (4)(d) does not affect the validity of the prohibition order.
+
+
+
+
+
+
+
+
+
+(5) Le fait que le contrevenant n’obtempère pas à la demande prévue à l’alinéa (4)d) ne porte pas atteinte à la validité de l’ordonnance d’interdiction.
+
+
+
+Validité de l’ordonnance maintenue
+
+
+
+
+
+
+
+
+
+
+Coming into force of order
+
+
+
+(6) A prohibition order deemed to have been made by virtue of paragraph (3)(b) comes into force on the expiration of the day on which payment is made under paragraph (1)(a) or (b).
+
+
+
+
+
+
+
+
+
+(6) L’ordonnance d’interdiction réputée rendue en vertu de l’alinéa (3)b) entre en vigueur à l’expiration du jour où le paiement a été effectué conformément aux alinéas (1)a) ou b).
+
+
+
+Entrée en vigueur de l’ordonnance
+
+
+
+
+
+
+
+
+
+
+Non-application of certain provisions
+
+
+
+(7) Subsections 260(1) to (4) do not apply to a prohibition order deemed to have been made by virtue of paragraph (3)(b).
+
+
+
+
+
+
+
+
+
+(7) Les paragraphes 260(1) à (4) ne s’appliquent pas à l’ordonnance d’interdiction réputée rendue en vertu de l’alinéa (3)b).
+
+
+
+Non-application de certaines dispositions
+
+
+
+
+
+
+
+
+
+
+Designated person under section 734.3
+
+
+
+(8) A justice of the peace constitutes a person designated by title of office who may, on application by or on behalf of an offender, exercise the powers described in section 734.3 in respect of an order imposing a fine deemed to have been made by virtue of paragraph (3)(a).
+
+
+
+
+
+
+
+
+
+(8) Le juge de paix est une personne désignée par son titre qui peut, sur demande présentée par le contrevenant ou en son nom, exercer les pouvoirs visés à l’article 734.3 à l’égard d’une ordonnance infligeant une amende qui est réputée avoir été rendue en vertu de l’alinéa (3)a).
+
+
+
+Personne désignée aux termes de l’article 734.3
+
+
+
+
+
+
+
+
+
+
+Proof of previous conviction
+
+
+
+(9) In any proceedings, a ticket endorsed under subsection (4), or a certificate setting out with reasonable particularity the conviction and sentence of an offender under this section signed by a person designated to receive payments made under subsection (1), is, on proof that the accused or defendant is the offender referred to in the ticket or certificate, evidence that the accused or defendant was convicted and sentenced under this section without proof of the signature or the official character of the person appearing to have endorsed the ticket or signed the certificate.
+
+
+
+
+
+
+
+
+
+(9) Dans toute procédure, le procès-verbal d’infraction signé conformément au paragraphe (4) ou le certificat qui énonce de façon assez détaillée la déclaration de culpabilité et la peine infligée au contrevenant aux termes du présent article et qui porte la signature d’une personne désignée pour recevoir les paiements effectués aux termes du paragraphe (1) fait foi, tant qu’il est établi que le prévenu ou le défendeur est le contrevenant mentionné dans le procès-verbal ou le certificat, du fait que le prévenu ou le défendeur a été déclaré coupable et s’est vu infliger une peine aux termes du présent article sans qu’il soit nécessaire de prouver la signature ou le caractère officiel de la personne paraissant avoir signé le procès-verbal ou le certificat.
+
+
+
+Preuve d’une condamnation antérieure
+
+
+
+
+
+
+
+
+
+
+Proof of identity
+
+
+
+(10) In any summary conviction proceedings, where the name of a defendant is similar to the name of an offender referred to in a ticket or certificate described in subsection (9), that similarity of name is, in the absence of evidence to the contrary, evidence that the defendant is the offender referred to in the ticket or certificate.
+
+
+
+
+
+
+
+
+
+(10) Dans toute procédure sommaire, lorsque le nom d’un défendeur est semblable à celui du contrevenant mentionné dans un procès-verbal d’infraction ou un certificat visé au paragraphe (9), la ressemblance fait foi, en l’absence de preuve contraire, du fait que le défendeur est le contrevenant mentionné dans le procès-verbal d’infraction ou le certificat.
+
+
+
+Preuve de l’identité
+
+
+
+
+
+
+
+
+
+
+
+
+8. (1) The definition “accused” in section 493 of the Act is amended by striking out the word “and” at the end of paragraph (a), by adding the word “and” at the end of paragraph (b) and by adding the following after paragraph (b):
+
+
+
+
+
+
+
+
+
+8. (1) La définition de « prévenu », à l’article 493 de la même loi, est modifiée par adjonction, après l’alinéa b), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) a person to whom a peace officer has issued a ticket;
+
+
+
+
+
+
+
+
+
+c) d’une personne à laquelle un agent de la paix a délivré un procès-verbal d’infraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Section 493 of the Act is amended by adding the following in alphabetical order:
+
+
+
+
+
+
+
+
+
+(2) L’article 493 de la même loi est modifié par adjonction, selon l’ordre alphabétique, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+“ticket”« procès-verbal d’infraction »ou « procès-verbal »
+
+
+
+“ticket” means a ticket in Form 9.1 issued under section 260.1;
+
+
+
+
+
+
+
+
+
+« procès-verbal d’infraction » ou « procès-verbal » Procès-verbal d’infraction établi selon la formule 9.1 et délivré aux termes de l’article 260.1.
+
+
+
+« procès-verbal d’infraction » ou « procès-verbal »“ticket”
+
+
+
+
+
+
+
+
+
+
+
+
+9. Subsection 501(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+9. Le paragraphe 501(3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Attendance for purposes of Identification of Criminals Act
+
+
+
+(3) An appearance notice issued by a peace officer or a promise to appear given to, or a recognizance entered into before, an officer in charge or another peace officer may require the accused to appear at a time and place stated in it for the purposes of the Identification of Criminals Act, where the accused is alleged to have committed an indictable offence or an offence under paragraph 253(c), unless the offence is designated as a contravention under the Contraventions Act and the Attorney General, within the meaning of that Act, has made an election under section 50 of that Act.
+
+
+
+
+
+
+
+
+
+(3) Une citation à comparaître délivrée par un agent de la paix, une promesse de comparaître ou un engagement contracté devant un fonctionnaire responsable ou un autre agent de la paix peuvent enjoindre au prévenu de comparaître, pour l’application de la Loi sur l’identification des criminels, aux date, heure et lieu indiqués, lorsqu’il est allégué que le prévenu a commis un acte criminel ou une infraction prévue à l’alinéa 253c), sauf s’il s’agit d’une infraction qualifiée de contravention en vertu de la Loi sur les contraventions et si le procureur général, au sens de cette loi, s’est prévalu du choix prévu à l’article 50 de la même loi.
+
+
+
+Comparution pour l’application de la Loi sur l’identification des criminels
+
+
+
+
+
+
+
+
+
+
+
+
+10. The Act is amended by adding the following after section 502:
+
+
+
+
+
+
+
+
+
+10. La même loi est modifiée par adjonction, après l’article 502, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Failure to appear
+
+
+
+502.1 Where an accused who is required by a ticket to appear at a time and place stated in it for the purposes of the Identification of Criminals Act does not appear at that time and place, a justice may issue a warrant for the arrest of the accused for the offence alleged in the ticket.
+
+
+
+
+
+
+
+
+
+502.1 Lorsqu’un prévenu à qui un procès-verbal d’infraction enjoint de comparaître aux date, heure et lieu indiqués pour l’application de la Loi sur l’identification des criminels ne comparaît pas aux date, heure et lieu ainsi fixés, un juge de paix peut décerner un mandat pour l’arrestation du prévenu pour l’infraction alléguée dans le procès-verbal.
+
+
+
+Omission de comparaître
+
+
+
+
+
+
+
+
+
+
+
+
+11. Section 505 of the Act is renumbered as subsection 505(1) and is amended by adding the following:
+
+
+
+
+
+
+
+
+
+11. L’article 505 de la même loi devient le paragraphe 505(1) et est modifié par adjonction de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Information to be laid where ticket issued
+
+
+
+(2) Where an accused to whom a ticket was issued does not plead guilty in accordance with subsection 260.2(1) before the expiration of the time limited by subsections 260.2(1) and (2) for so doing, an information relating to the offence alleged to have been committed by the accused shall be laid before a justice as soon as practicable thereafter and in any event before the time stated in the ticket for the accused to attend in court.
+
+
+
+
+
+
+
+
+
+(2) Lorsque le prévenu à qui un procès-verbal d’infraction a été délivré ne plaide pas coupable selon le paragraphe 260.2(1) avant l’expiration du délai prévu aux paragraphes 260.2(1) et (2) pour plaider coupable, une dénonciation relative à l’infraction reprochée doit être faite devant un juge de paix dès que cela est matériellement possible par la suite et, dans tous les cas, avant le moment indiqué dans le procès-verbal d’infraction pour sa présence au tribunal.
+
+
+
+Lieu de la délivrance du procès-verbal d’infraction détermine lieu de la dénonciation
+
+
+
+
+
+
+
+
+
+
+
+
+12. Paragraphs 508(1)(b) and (c) of the Act are replaced by the following:
+
+
+
+
+
+
+
+
+
+12. Les alinéas 508(1)b) et c) de la même loi sont remplacés par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) where he considers that a case for so doing is made out, whether the information relates to the offence alleged in the ticket, appearance notice, promise to appear or recognizance or to an included or other offence,
+
+
+
+
+
+
+(i) confirm the ticket, appearance notice, promise to appear or recognizance, as the case may be, and endorse the information accordingly, or
+
+
+
+
+
+
+(ii) cancel the ticket, appearance notice, promise to appear or recognizance, as the case may be, and issue, in accordance with section 507, either a summons or a warrant for the arrest of the accused to compel the accused to attend before him or some other justice for the same territorial division to answer to a charge of an offence and endorse on the summons or warrant that the ticket, appearance notice, promise to appear or recognizance, as the case may be, has been cancelled; and
+
+
+
+
+
+
+(c) where he considers that a case is not made out for the purposes of paragraph (b), cancel the ticket, appearance notice, promise to appear or recognizance, as the case may be, and cause the accused to be notified forthwith of the cancellation.
+
+
+
+
+
+
+
+
+
+b) lorsqu’il estime qu’on a démontré qu’il est justifié de le faire, que la dénonciation ait trait à l’infraction alléguée dans le procès-verbal d’infraction, la citation à comparaître, la promesse de comparaître ou l’engagement ou à une infraction incluse ou autre :
+
+
+
+
+
+
+(i) soit confirmer le procès-verbal d’infraction, la citation à comparaître, la promesse de comparaître ou l’engagement, selon le cas, et inscrire sur la dénonciation une mention à cet effet,
+
+
+
+
+
+
+(ii) soit annuler le procès-verbal d’infraction, la citation à comparaître, la promesse de comparaître ou l’engagement, selon le cas, et décerner, conformément à l’article 507, une sommation ou un mandat d’arrestation pour obliger l’accusé à comparaître devant lui ou un autre juge de la même circonscription territoriale pour répondre à l’inculpation, et inscrire sur la sommation ou le mandat que le procès-verbal d’infraction, la citation à comparaître, la promesse de comparaître ou l’engagement, selon le cas, a été annulé;
+
+
+
+
+
+
+c) lorsqu’il estime qu’on n’a pas démontré que l’application de l’alinéa b) est justifiée, annuler le procès-verbal d’infraction, la citation à comparaître, la promesse de comparaître ou l’engagement, selon le cas, et faire notifier immédiatement cette annulation au prévenu.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13. Subsection 509(5) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+13. Le paragraphe 509(5) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Attendance for purposes of Identification of Criminals Act
+
+
+
+(5) A summons may require the accused to appear at a time and place stated in it for the purposes of the Identification of Criminals Act, where the accused is alleged to have committed an indictable offence or an offence under paragraph 253(c), unless the offence is designated as a contravention under the Contraventions Act and the Attorney General, within the meaning of that Act, has made an election under section 50 of that Act.
+
+
+
+
+
+
+
+
+
+(5) Une sommation peut enjoindre au prévenu de comparaître, pour l’application de la Loi sur l’identification des criminels, aux date, heure et lieu indiqués lorsqu’il est allégué que le prévenu a commis un acte criminel ou une infraction prévue à l’alinéa 253c), sauf s’il s’agit d’une infraction qualifiée de contravention en vertu de la Loi sur les contraventions et si le procureur général, au sens de cette loi, s’est prévalu du choix prévu à l’article 50 de la même loi.
+
+
+
+Comparution pour l’application de la Loi sur l’identification des criminels
+
+
+
+
+
+
+
+
+
+
+
+
+14. (1) Paragraph 512(1)(a) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+14. (1) L’alinéa 512(1)a) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) a ticket, an appearance notice or a promise to appear or a recognizance entered into before an officer in charge or another peace officer has been confirmed or cancelled under subsection 508(1);
+
+
+
+
+
+
+
+
+
+a) un procès-verbal d’infraction, une citation à comparaître, une promesse de comparaître ou un engagement contracté devant un fonctionnaire responsable ou un autre agent de la paix ont été confirmés ou annulés en vertu du paragraphe 508(1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph 512(2)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa 512(2)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) a ticket, an appearance notice or a promise to appear or a recognizance entered into before an officer in charge or another peace officer has been confirmed under subsection 508(1) and the accused fails to attend court in accordance therewith in order to be dealt with according to law, or
+
+
+
+
+
+
+
+
+
+b) un procès-verbal d’infraction, une citation à comparaître, une promesse de comparaître ou un engagement contracté devant un fonctionnaire responsable ou un autre agent de la paix ont été confirmés en vertu du paragraphe 508(1), et le prévenu omet de se présenter devant le tribunal comme l’exige le procès-verbal, la citation, la promesse ou l’engagement afin d’y être traité selon la loi;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15. (1) Paragraph (c) of Form 7 of Part XXVIII of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+15. (1) L’alinéa c) de la formule 7 de la partie XXVIII de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) (a ticket or an appearance notice or a promise to appear or a recognizance entered into before an officer in charge) was confirmed and the accused failed to attend court in accordance therewith [512(2)];
+
+
+
+
+
+
+
+
+
+c) qu’un(e) (procès-verbal d’infraction ou citation à comparaître ou promesse de comparaître ou engagement contracté devant un fonctionnaire responsable) a été confirmé(e) et que le prévenu a omis d’être présent au tribunal en conformité avec ce document [512(2)];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Paragraph (h) of Form 7 of Part XXVIII of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+(2) L’alinéa h) de la formule 7 de la partie XXVIII de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(h) the accused was required by (a ticket or an appearance notice or a promise to appear or a recognizance entered into before an officer in charge or a summons) to attend at a time and place stated therein for the purposes of the Identification of Criminals Act and did not appear at that time and place [502, 502.1, 510];
+
+
+
+
+
+
+
+
+
+h) qu’un(e) (procès-verbal d’infraction ou citation à comparaître ou promesse de comparaître ou engagement contracté devant un fonctionnaire responsable ou sommation) exigeait que le prévenu soit présent aux date, heure et  lieu indiqués pour l’application de la Loi sur l’identification des criminels et que le prévenu n’a pas comparu aux date, heure et lieu ainsi indiqués [502, 502.1, 510];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. The text of subsection 145(6) in Form 9 of Part XXVIII of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+16. Le libellé du paragraphe 145(6) figurant dans la formule 9 de la partie XXVIII de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6) For the purposes of subsections (4.1) and (5), it is not a lawful excuse that a ticket, appearance notice, promise to appear or recognizance states defectively the substance of the alleged offence.
+
+
+
+
+
+
+
+
+
+(6) Pour l’application des paragraphes (4.1) et (5), le fait qu’un procès-verbal d’infraction, une citation à comparaître, une promesse de comparaître ou un engagement indiquent d’une manière imparfaite l’essentiel de l’infraction reprochée ne constitue pas une excuse légitime.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17. Part XXVIII of the Act is amended by adding the following after Form 9:
+
+
+
+
+
+
+
+
+
+17. La partie XXVIII de la même loi est modifiée par adjonction, après la formule 9, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORM 9.1
+
+
+
+
+
+
+
+
+
+Formule 9.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Sections 260.1 and 493)
+
+
+
+
+
+
+
+
+
+(articles 260.1 et 493)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TICKET ISSUED BY A PEACE OFFICER FOR AN OFFENCE UNDER PARAGRAPH 253(c)
+
+
+
+
+
+
+
+
+
+PROCÈS-VERBAL D’INFRACTION DÉLIVRÉ PAR UN AGENT DE LA PAIX POUR UNE INFRACTION PRÉVUE À L’ALINÉA 253c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ticket No. ...............
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province of ....................,
+
+
+
+
+
+
+(territorial division).
+
+
+
+
+
+
+To A.B., of ................, (occupation):
+
+
+
+
+
+
+
+
+
+Procès-verbal d’infraction no ...............
+
+
+
+
+
+
+Canada,
+
+
+
+
+
+
+Province de ....................,
+
+
+
+
+
+
+(circonscription territoriale).
+
+
+
+
+
+
+À A.B., de ................, (profession ou occupation) :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I, (name of peace officer), believe on reasonable grounds that on the ....... day of ................, A.D. ......., at approximately ............ (time) at .................. (place) you did operate (or have the care or control of or assist in the operation of, as the case may be) a motor vehicle (or a vessel or an aircraft or railway equipment, as the case may be), having consumed alcohol in such a quantity that the concentration in your blood exceeded fifty milligrams of alcohol in one hundred millilitres of blood, contrary to paragraph 253(c) of the Criminal Code.
+
+
+
+
+
+
+1. You are required to appear on ....... day, the ....... day of ................ A.D. ......., at ............ o’clock in the ........ noon, at .......................... (police station), (address), for the purposes of the Identification of Criminals Act. (Ignore if not filled in.)
+
+
+
+
+
+
+2. You are required to choose one of the following two Options:
+
+
+
+
+
+
+Option 1: Plead guilty without appearing in court
+
+
+
+
+
+
+On or before the ....... day of ................ A.D. ....... (insert date of first non-holiday weekday that falls at least 21 days after today’s date), you may plead guilty to the offence alleged above and be sentenced to the fine and driving prohibition set out below by delivering this ticket in person, along with all or part (if you request and are granted time to pay) of the fine, to ...................................... (address).
+
+
+
+
+
+
+First Offence: $300 fine,
+
+
+
+
+
+
+45-day driving prohibition
+
+
+
+
+
+
+(delete as appropriate)
+
+
+
+
+
+
+Subsequent Offence: $600 fine,
+
+
+
+
+
+
+90-day driving prohibition
+
+
+
+
+
+
+The driving prohibition (see the reverse side of this ticket) begins at midnight at the end of the day on which you pay all or part of the fine as described above.
+
+
+
+
+
+
+You are advised that pleading guilty to the offence under Option 1 results in a conviction for the offence under the Criminal Code. (see the reverse side of this ticket)
+
+
+
+
+
+
+OR
+
+
+
+
+
+
+Option 2:  Appear in court to plead guilty or not guilty
+
+
+
+
+
+
+If you do not plead guilty under Option 1, then you are required to attend court on ....... day, the ....... day of ................ A.D. ....... (insert a court date that falls at least 30 days after today’s date), at ............ o’clock in the ........ noon, in courtroom No. ........, at ................ court, in the municipality of .............., and to attend thereafter as required by the court, in order to be dealt with according to law.
+
+
+
+
+
+
+3. You are warned that it is a criminal offence to fail to appear for the purposes of the Identification of Criminals Act if required by this ticket to do so, or to fail to attend court in accordance with this ticket, or to operate a motor vehicle, vessel, aircraft or railway equipment while prohibited from doing so. (see the reverse side of this ticket)
+
+
+
+
+
+
+Issued at ........ a.m./p.m. this ................ day of ....... A.D. ........, at ................. .
+
+
+
+
+
+
+...........................................
+
+
+
+
+
+
+(Signature of peace officer)
+
+
+
+
+
+
+....................................
+
+
+
+
+
+
+(Signature of accused)
+
+
+
+
+
+
+
+
+
+Moi, (nom de l’agent de la paix), j’ai des motifs raisonnables de croire que le ........ jour de ................, en l’an de grâce .........., à environ ............ (heure), à .................. (lieu), vous avez conduit (ou aidé à conduire, selon le cas) un véhicule à moteur (ou un bateau ou un aéronef ou du matériel ferroviaire, selon le cas) (ou avez eu la garde ou le contrôle, selon le cas,) d’un véhicule à moteur (ou d’un bateau ou d’un aéronef ou de matériel ferroviaire, selon le cas) alors que vous aviez consommé une quantité d’alcool telle que votre alcoolémie dépassait cinquante milligrammes d’alcool par cent millilitres de sang, contrairement à ce qui est prévu à l’alinéa 253c) du Code criminel.
+
+
+
+
+
+
+1. Vous êtes tenu de comparaître le ......., ........ jour de .............. en l’an de grâce ......., à .......... heures, au .......................... (poste de police), (adresse), pour l’application de la Loi sur l’identification des criminels. (Ne pas tenir compte de cet alinéa s’il n’est pas rempli.)
+
+
+
+
+
+
+2. Vous devez choisir une des deux options suivantes :
+
+
+
+
+
+
+Option 1 : Plaidoyer de culpabilité sans comparution devant le tribunal
+
+
+
+
+
+
+Le ou avant le .... jour de .... en l’an de grâce .... (inscrire le premier jour ouvrable qui suit d’au moins 21 jours la date d’aujourd’hui), vous pouvez plaider coupable à l’infraction alléguée et recevoir en peine l’amende et l’interdiction de conduire mentionnées ci-après en remettant en personne le procès-verbal d’infraction, avec tout ou partie (si vous demandez et obtenez un délai pour payer) de l’amende à ......................................(adresse).
+
+
+
+
+
+
+Première infraction : amende de 300 $,
+
+
+
+
+
+
+interdiction de conduire de 45 jours
+
+
+
+
+
+
+(supprimer, selon le cas)
+
+
+
+
+
+
+Infraction subséquente : amende de 600 $,
+
+
+
+
+
+
+interdiction de conduire de 90 jours
+
+
+
+
+
+
+L’interdiction de conduire (voir au verso) prend effet à minuit le jour où le paiement de l’amende prévue est effectué, en tout ou en partie.
+
+
+
+
+
+
+Veuillez noter que le fait de plaider coupable à l’infraction aux termes de l’Option 1 entraîne une déclaration de culpabilité aux termes du Code criminel (voir au verso).
+
+
+
+
+
+
+OU
+
+
+
+
+
+
+Option 2 : Comparution devant le tribunal afin de plaider coupable ou non coupable
+
+
+
+
+
+
+Si vous ne plaidez pas coupable en vertu de l’Option 1, vous devez alors vous présenter devant le tribunal le ......., ....... jour de ................ en l’an de grâce ....... (inscrire une date de comparution qui suit d’au moins 30 jours la date d’aujourd’hui), à ............ heure, à la salle d’audience no ........., à ................ (tribunal), dans la municipalité de .............., et vous présenter par la suite selon les exigences du tribunal, afin d’être traité selon la loi.
+
+
+
+
+
+
+3. Soyez avisé que le fait de ne pas comparaître pour l’application de la Loi sur l’identification des criminels lorsque vous êtes tenu de le faire en vertu de ce procès-verbal d’infraction ou de ne pas vous présenter au tribunal en vertu de ce procès-verbal d’infraction, ou de conduire un véhicule à moteur, un bateau, un aéronef ou du matériel ferroviaire alors que vous êtes sous le coup d’une interdiction de le faire, constitue une infraction criminelle (voir au verso).
+
+
+
+
+
+
+Délivré à ........ heures, ce ................ jour de ....... en l’an de grâce ........, à ................. .
+
+
+
+
+
+
+....................................................
+
+
+
+
+
+
+(Signature de l’agent de la paix)
+
+
+
+
+
+
+.....................................
+
+
+
+
+
+
+(Signature du prévenu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Reverse Side of Form 9.1)
+
+
+
+
+
+
+
+
+
+(Verso de la formule 9.1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Criminal Code Provisions
+
+
+
+
+
+
+Failure to appear: Subsections 145(4.1) and (6) of the Criminal Code state as follows:
+
+
+
+
+
+
+“(4.1) Every person to whom a ticket is issued under section 260.1 and who fails, without lawful excuse, the proof of which lies on the person,
+
+
+
+
+
+
+(a) to appear at the time and place stated therein, if any, for the purposes of the Identification of Criminals Act, or
+
+
+
+
+
+
+(b) to attend court in accordance with the ticket, if the ticket has been confirmed by a justice under section 508,
+
+
+
+
+
+
+is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years or is guilty of an offence punishable on summary conviction.”
+
+
+
+
+
+
+“(6) For the purposes of subsections (4.1) and (5), it is not a lawful excuse that a ticket, appearance notice, promise to appear or recognizance states defectively the substance of the alleged offence.”
+
+
+
+
+
+
+Driving while disqualified: Subsection 259(4) of the Criminal Code states as follows:
+
+
+
+
+
+
+“(4) Every one who operates a motor vehicle, vessel or aircraft or any railway equipment in Canada while disqualified from doing so
+
+
+
+
+
+
+(a) is guilty of an indictable offence and liable to imprisonment for a term not exceeding five years; or
+
+
+
+
+
+
+(b) is guilty of an offence punishable on summary conviction.”
+
+
+
+
+
+
+Warrant for arrest: Section 502.1 of the Criminal Code states as follows:
+
+
+
+
+
+
+“502.1 Where an accused who is required by a ticket to appear at a time and place stated in it for the purposes of the Identification of Criminals Act does not appear at that time and place, a justice may issue a warrant for the arrest of the accused for the offence alleged in the ticket.”
+
+
+
+
+
+
+
+
+
+Dispositions du Code criminel
+
+
+
+
+
+
+Omission de comparaître :  Les paragraphes 145(4.1) et (6) du Code criminel sont libellés ainsi :
+
+
+
+
+
+
+« (4.1) Est coupable, soit d’un acte criminel passible d’un emprisonnement maximal de deux ans, soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire, quiconque se voit délivrer un procès-verbal d’infraction conformément à l’article 260.1 et omet, sans excuse légitime, dont la preuve lui incombe :
+
+
+
+
+
+
+a) soit de comparaître aux date, heure et lieu indiqués, le cas échéant, pour l’application de la Loi sur l’identification des criminels;
+
+
+
+
+
+
+b) soit d’être présent au tribunal en conformité avec le procès-verbal d’infraction, si celui-ci a été confirmé par un juge de paix en application de l’article 508. »
+
+
+
+
+
+
+« (6) Pour l’application des paragraphes (4.1) et (5), le fait qu’un procès-verbal d’infraction, une citation à comparaître, une promesse de comparaître ou un engagement indiquent d’une manière imparfaite l’essentiel de l’infraction reprochée ne constitue pas une excuse légitime. »
+
+
+
+
+
+
+Conduite durant l’interdiction :  Le paragraphe 259(4) du Code criminel est libellé ainsi :
+
+
+
+
+
+
+« (4) Quiconque conduit un véhicule à moteur, un bateau, un aéronef ou du matériel ferroviaire au Canada pendant qu’il lui est interdit de le faire est coupable :
+
+
+
+
+
+
+a) soit d’un acte criminel et passible d’un emprisonnement maximal de cinq ans;
+
+
+
+
+
+
+b) soit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.  »
+
+
+
+
+
+
+Mandat d’arrestation :  L’article 502.1 du Code criminel est libellé ainsi :
+
+
+
+
+
+
+« 502.1 Lorsqu’un prévenu à qui un procès-verbal d’infraction enjoint de comparaître aux date, heure et lieu indiqués pour l’application de la Loi sur l’identification des criminels ne comparaît pas aux date, heure et lieu ainsi fixés, un juge de paix peut décerner un mandat pour l’arrestation du prévenu pour l’infraction alléguée dans le procès-verbal. »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Driving Prohibition
+
+
+
+
+
+
+Upon pleading guilty under Option 1, you are automatically prohibited from operating a motor vehicle on any street, road, highway or other public place, or from operating a vessel, an aircraft or railway equipment (as the case may be, corresponding to the means — a motor vehicle, vessel, aircraft, or railway equipment — by which the offence was committed) for a period of 45 days for a first offence or 90 days for a subsequent offence, as indicated on the front of this ticket.
+
+
+
+
+
+
+
+
+
+Interdiction de conduire
+
+
+
+
+
+
+Sur déclaration de culpabilité en vertu de l’Option 1, il vous est automatiquement interdit de conduire un véhicule à moteur dans une rue, sur un chemin ou une grande route ou dans un autre endroit public, ou de conduire un bateau, un aéronef ou du matériel ferroviaire (selon le moyen de transport — véhicule à moteur, bateau, aéronef ou matériel ferroviaire — utilisé pour commettre l’infraction) pour une période de quarante-cinq jours, dans le cas d’une première infraction, ou de quatre-vingt-dix jours, pour une infraction subséquente, tel qu’il est indiqué au recto du procès-verbal d’infraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Criminal Record Consequences
+
+
+
+
+
+
+You will have a criminal record if you are convicted of the offence in this ticket.  However, if you have no additional Criminal Code convictions for an offence under  section 253 (impaired driving, “over .08”, or “over .05”) or subsection 254(5) (refusal to provide sample), 255(2) (impaired driving causing bodily harm), 255(3) (impaired driving causing death) or 259(4) (driving while disqualified) in the two years following your conviction for the offence in this ticket, the records of the conviction will be destroyed and you will be deemed not to have been convicted of this offence. (see section 6.01 of the Criminal Records Act)
+
+
+
+
+
+
+
+
+
+Casier judiciaire
+
+
+
+
+
+
+Une déclaration de culpabilité pour l’infraction mentionnée dans le procès-verbal d’infraction vous vaudra un casier judiciaire. Toutefois, en l’absence d’autres déclarations de culpabilité aux termes du Code criminel pour une infraction prévue à l’article 253 (capacité de conduite affaiblie, alcoolémie supérieure à 0,80, ou alcoolémie supérieure à 0,05) ou aux paragraphes 254(5) (refus de fournir un échantillon), 255(2) (conduite avec facultés affaiblies causant des lésions corporelles), 255(3) (conduite avec facultés affaiblies causant la mort) ou 259(4) (conduite durant l’interdiction) au cours des deux ans suivant votre déclaration de culpabilité pour l’infraction mentionnée dans le procès-verbal d’infraction, tout dossier ou relevé de votre déclaration de culpabilité sera détruit et vous serez réputé ne pas avoir été déclaré coupable de l’infraction (voir l’article 6.01 de la Loi sur le casier judiciaire).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18. The text of subsection 145(6) in Form 10 of Part XXVIII of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+18. Le libellé du paragraphe 145(6) figurant dans la formule 10 de la partie XXVIII de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6) For the purposes of subsections (4.1) and (5), it is not a lawful excuse that a ticket, appearance notice, promise to appear or recognizance states defectively the substance of the alleged offence.
+
+
+
+
+
+
+
+
+
+(6) Pour l’application des paragraphes (4.1) et (5), le fait qu’un procès-verbal d’infraction, une citation à comparaître, une promesse de comparaître ou un engagement indiquent d’une manière imparfaite l’essentiel de l’infraction reprochée ne constitue pas une excuse légitime.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19. The text of subsection 145(6) in Form 11 of Part XXVIII of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+19. Le libellé du paragraphe 145(6) figurant dans la formule 11 de la partie XXVIII de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(6) For the purposes of subsections (4.1) and (5), it is not a lawful excuse that a ticket, appearance notice, promise to appear or recognizance states defectively the substance of the alleged offence.
+
+
+
+
+
+
+
+
+
+(6) Pour l’application des paragraphes (4.1) et (5), le fait qu’un procès-verbal d’infraction, une citation à comparaître, une promesse de comparaître ou un engagement indiquent d’une manière imparfaite l’essentiel de l’infraction reprochée ne constitue pas une excuse légitime.
+
+
+
+
+
+
+
+
+
+
+R.S., c. C-47
+
+
+
+CRIMINAL RECORDS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR LE CASIER JUDICIAIRE
+
+
+
+L.R., ch. C-47
+
+
+
+
+
+
+
+
+
+
+
+
+20. The Criminal Records Act is amended by adding the following after section 6:
+
+
+
+
+
+
+
+
+
+20. La Loi sur le casier judiciaire est modifiée par adjonction, après l’article 6, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Vacating conviction — paragraph 253(c) of the Criminal Code
+
+
+
+6.01 (1) If a person convicted of an offence under paragraph 253(c) of the Criminal Code has not, within two years after the date of the conviction, been convicted of an  offence under section 253 or subsection 254(5), 255(2) or (3) or 259(4) of that Act, the person is deemed not to have been convicted of the offence under paragraph 253(c) and the conviction for that offence is hereby vacated.
+
+
+
+
+
+
+
+
+
+6.01 (1) La personne déclarée coupable d’une infraction prévue à l’alinéa 253c) du Code criminel qui n’a pas, dans les deux ans suivant la date de la déclaration de culpabilité, été déclarée coupable d’une infraction prévue à l’article 253 ou aux paragraphes 254(5), 255(2) ou (3) ou 259(4) de cette loi est réputée ne pas avoir été déclarée coupable de l’infraction prévue à l’alinéa 253c) et la condamnation relative à cette infraction est annulée.
+
+
+
+Annulation de la condamnation — alinéa 253c) du Code criminel
+
+
+
+
+
+
+
+
+
+
+Order respecting custody of record
+
+
+
+(2) The Minister shall, by order in writing addressed to any person having the custody or control of any record of a conviction vacated under subsection (1), require that person to deliver that record into the custody of the Commissioner.
+
+
+
+
+
+
+
+
+
+(2) Le ministre ordonne par écrit à toute personne ayant la garde ou la responsabilité du dossier ou relevé relatif à la condamnation annulée aux termes du paragraphe (1) de le remettre au commissaire.
+
+
+
+Transmission au commissaire
+
+
+
+
+
+
+
+
+
+
+Disposal of record
+
+
+
+(3) Any record of a conviction vacated under subsection (1) that is in the custody of the Commissioner or of any department or agency of the Government of Canada shall be destroyed, and no such record shall be disclosed to any person, nor shall the existence of the record or the fact of the conviction be disclosed to any person.
+
+
+
+
+
+
+
+
+
+(3) Tout dossier ou relevé de la condamnation annulée aux termes du paragraphe (1) que garde le commissaire ou un ministère ou organisme fédéral doit être détruit, et il est interdit de le communiquer, d’en révéler l’existence ou de révéler le fait de la condamnation.
+
+
+
+Destruction des dossiers
+
+
+
+
+
+
+
+
+
+
+Purging C.P.I.C.
+
+
+
+(4) The Commissioner shall remove all references to a conviction vacated under subsection (1) from the automated criminal conviction records retrieval system maintained by the Royal Canadian Mounted Police.
+
+
+
+
+
+
+
+
+
+(4) Le commissaire retire du fichier automatisé des relevés de condamnations criminelles géré par la Gendarmerie royale du Canada toute mention d’une condamnation annulée aux termes du paragraphe (1).
+
+
+
+Retrait des dossiers
+
+
+
+
+
+
+
+
+
+
+
+
+21. The portion of section 8 of the Act before paragraph (a) is replaced by the following:
+
+
+
+
+
+
+
+
+
+21. Le passage de l’article 8 de la même loi précédant l’alinéa a) est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application for employment
+
+
+
+8. No person shall use or authorize the use of an application form for or relating to any of the following matters that contains a question that by its terms requires the applicant to disclose a conviction vacated under subsection 6.01(1) or a conviction in respect of which a pardon that has not been revoked or ceased to have effect has been granted or issued to the applicant:
+
+
+
+
+
+
+
+
+
+8. Nul ne peut utiliser ou permettre d’utiliser une demande d’emploi comportant une question qui, par sa teneur, obligerait un réhabilité à révéler une condamnation annulée aux termes du paragraphe 6.01(1) ou une condamnation visée par une réhabilitation qui n’a pas été révoquée ou annulée, contenue dans un formulaire ayant trait à :
+
+
+
+Demandes d’emploi
+
+
+
+
+
+
+
+
+R.S., c. I-1
+
+
+
+IDENTIFICATION OF CRIMINALS ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L’IDENTIFICATION DES CRIMINELS
+
+
+
+L.R., ch. I-1
+
+
+
+
+
+
+
+
+
+
+
+
+22. (1) Paragraph 2(1)(a) of the Identification of Criminals Act is amended by striking out the word “or” at the end of subparagraph (i), by adding the word “or” at the end of subparagraph (ii) and by adding the following after subparagraph (ii):
+
+
+
+
+
+
+
+
+
+22. (1) L’alinéa 2(1)a) de la Loi sur l’identification des criminels est modifié par adjonction, après le sous-alinéa (ii), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(iii) an offence under paragraph 253(c) of the Criminal Code;
+
+
+
+
+
+
+
+
+
+(iii) une infraction prévue à l’alinéa 253c) du Code criminel;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 2(1) of the Act is amended by striking out the word “or” at the end of paragraph (c), by adding the word “or” at the end of paragraph (d) and by adding the following after paragraph (d):
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 2(1) de la même loi est modifié par adjonction, après l’alinéa d), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(e) any person alleged to have committed an offence under paragraph 253(c) of the Criminal Code who is required, pursuant to subsection 260.1(2), 501(3) or 509(5) of the Criminal Code, to appear for the purposes of this Act by a ticket, appearance notice, promise to appear, recognizance or summons.
+
+
+
+
+
+
+
+
+
+e) les personnes qui auraient commis une infraction prévue à l’alinéa 253c) du Code criminel et qui sont tenues, aux termes des paragraphes 260.1(2), 501(3) ou 509(5) de cette loi, de comparaître pour l’application de la présente loi en conformité avec un procès-verbal d’infraction, une citation à comparaître, une promesse de comparaître, un engagement, ou une sommation.
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+23. This Act comes into force 180 days after the day on which it receives royal assent.
+
+
+
+
+
+
+
+
+
+23. La présente loi entre en vigueur 180 jours après la date de sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Senate of Canada
+
+
+
+Publié avec l'autorisation du Sénat du Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						  Explanatory Notes
+						  
+
+
+						  Notes explicatives
+						  
+
+
+
+Criminal Code
+Clause 1: Existing text of section 20:
+20. A warrant or summons that is authorized by this Act or an appearance notice, promise to appear, undertaking or recognizance issued, given or entered into in accordance with Part XVI, XXI or XXVII may be issued, executed, given or entered into, as the case may be, on a holiday.
+
+
+
+Code criminel
+Article  1 : Texte de l’article 20 :
+20. Un mandat ou une sommation autorisés par la présente loi ou une citation à comparaître, une promesse de comparaître, une promesse ou un engagement délivrés, remis ou contractés en conformité avec les parties XVI, XXI ou XXVII peuvent être décernés, délivrés, exécutés, remis ou contractés, selon le cas, un jour férié.
+
+
+
+
+Clause 2: (1) New.
+
+
+
+Article  2 : (1) Nouveau.
+
+
+
+
+(2) Existing text of subsection 145(6):
+(6) For the purposes of subsection (5), it is not a lawful excuse that an appearance notice, promise to appear or recognizance states defectively the substance of the alleged offence.
+
+
+
+(2) Texte du paragraphe 145(6) :
+(6) Pour l’application du paragraphe (5), le fait qu’une citation à comparaître, une promesse de comparaître ou un engagement indiquent d’une manière imparfaite l’essentiel de l’infraction présumée, ne constitue pas une excuse légitime.
+
+
+
+
+(3) and (4) Relevant portion of subsection 145(9):
+(9) In any proceedings under subsection (2), (4) or (5), a certificate of the clerk of the court or a judge of the court before which the accused is alleged to have failed to attend or of the person in charge of the place at which it is alleged the accused failed to attend for the purposes of the Identification of Criminals Act stating that,
+. . . 
+is evidence of the statements contained in the certificate without proof of the signature or the official character of the person appearing to have signed the certificate.
+
+
+
+(3) et (4) Texte du passage visé du paragraphe 145(9) :
+(9) Dans les procédures prévues aux paragraphes (2), (4) ou (5), tout certificat dans lequel le greffier ou un juge du tribunal ou la personne responsable du lieu où le prévenu est présumé avoir omis de se présenter pour l’application de la Loi sur l’identification des criminels, déclare que ce dernier a omis :
+[. . .] 
+fait preuve des déclarations contenues dans le certificat sans qu’il soit nécessaire de prouver la signature ou la qualité officielle de la personne l’ayant apparemment signé.
+
+
+
+
+Clause 3: Relevant portion of section 253:
+253. Every one commits an offence who operates a motor vehicle or vessel or operates or assists in the operation of an aircraft or of railway equipment or has the care or control of a motor vehicle, vessel, aircraft or railway equipment, whether it is in motion or not,
+
+
+
+Article 3 : Texte du passage visé de l’article 253 :
+253. Commet une infraction quiconque conduit un véhicule à moteur, un bateau, un aéronef ou du matériel ferroviaire, ou aide à conduire un aéronef ou du matériel ferroviaire, ou a la garde ou le contrôle d’un véhicule à moteur, d’un bateau, d’un aéronef ou de matériel ferroviaire, que ceux-ci soient en mouvement ou non, dans les cas suivants :
+
+
+
+
+Clause 4: (1) Relevant portion of subsection 255(1):
+255. (1) Every one who commits an offence under section 253 or 254 is guilty of an indictable offence or an offence punishable on summary conviction and is liable,
+
+
+
+Article  4 : (1) Texte du passage visé du paragraphe 255(1) :
+255. (1) Quiconque commet une infraction prévue à l’article 253 ou 254 est coupable d’une infraction punissable sur déclaration de culpabilité par procédure sommaire ou par mise en accusation et est passible :
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+(3) Relevant portion of subsection 255(4):
+(4) Where a person is convicted of an offence committed under paragraph 253(a) or (b) or subsection 254(5), that person shall, for the purposes of this Act, be deemed to be convicted for a second or subsequent offence, as the case may be, if the person has previously been convicted of
+
+
+
+(3) Texte du passage visé du paragraphe 255(4) :
+(4) Une personne déclarée coupable d’une infraction prévue aux alinéas 253a) ou b), ou au paragraphe 254(5), est, pour l’application de la présente loi, réputée être déclarée coupable d’une seconde infraction ou d’une infraction subséquente si elle a déjà été déclarée coupable auparavant d’une infraction prévue :
+
+
+
+
+Clause 5: (1) and (2) Relevant portion of subsection 258(1):
+258. (1) In any proceedings under subsection 255(1) in respect of an offence committed under section 253 or in any proceedings under subsection 255(2) or (3),
+
+
+
+Article 5 : (1) et (2) Texte du passage visé du paragraphe 258(1) :
+258. (1) Dans des poursuites engagées en vertu du paragraphe 255(1) à l’égard d’une infraction prévue à l’article 253 ou dans des poursuites engagées en vertu des paragraphes 255(2) ou (3) :
+
+
+
+
+Clause 6: (1) Existing text of subsection 259(1):
+259. (1) When an offender is convicted of an offence committed under section 253 or 254 or discharged under section 730 of an offence committed under section 253 and, at the time the offence was committed or, in the case of an offence committed under section 254, within the three hours preceding that time, was operating or had the care or control of a motor vehicle, vessel or aircraft or of railway equipment or was assisting in the operation of an aircraft or of railway equipment, the court that sentences the offender shall, in addition to any other punishment that may be imposed for that offence, make an order prohibiting the offender from operating a motor vehicle on any street, road, highway or other public place, or from operating a vessel or an aircraft or railway equipment, as the case may be,
+(a) for a first offence, during a period of not more than three years plus any period to which the offender is sentenced to imprisonment, and not less than one year;
+(b) for a second offence, during a period of not more than five years plus any period to which the offender is sentenced to imprisonment, and not less than two years; and
+(c) for each subsequent offence, during a period of not less than three years plus any period to which the offender is sentenced to imprisonment.
+
+
+
+Article  6 : (1) Texte du paragraphe 259(1) :
+259. (1) Lorsqu’un contrevenant est déclaré coupable d’une infraction prévue à l’article 253 ou 254 ou absous sous le régime de l’article 730 d’une infraction prévue à l’article 253 et qu’au moment de l’infraction, ou dans les trois heures qui la précèdent dans le cas d’une infraction prévue à l’article 254, il conduisait ou avait la garde ou le contrôle d’un véhicule à moteur, d’un bateau, d’un aéronef ou de matériel ferroviaire, ou aidait à la conduite d’un aéronef ou de matériel ferroviaire, le tribunal qui lui inflige une peine doit, en plus de toute autre peine applicable à cette infraction, rendre une ordonnance lui interdisant de conduire un véhicule à moteur dans une rue, sur un chemin, une grande route ou dans un autre endroit public, un bateau, un aéronef ou du matériel ferroviaire :
+a) pour une première infraction, durant une période minimale d’un an et maximale de trois ans, en plus de la période d’emprisonnement à laquelle il est condamné;
+b) pour une deuxième infraction, durant une période minimale de deux ans et maximale de cinq ans, en plus de la période d’emprisonnement à laquelle il est condamné;
+c) pour chaque infraction subséquente, durant une période minimale de trois ans, en plus de la période d’emprisonnement à laquelle il est condamné.
+
+
+
+
+(2) Existing text of subsection 259(1.1):
+(1.1) In making the order, the court may authorize the offender to operate a motor vehicle equipped with an alcohol ignition interlock device during the prohibition period if the offender registers in an alcohol ignition interlock device program established under the law of the province in which the offender resides.
+
+
+
+(2) Texte du paragraphe 259(1.1) :
+(1.1) Dans son ordonnance, le tribunal peut accorder au contrevenant la permission de conduire, durant la période d’interdiction, un véhicule à moteur équipé d’un antidémarreur avec éthylomètre si ce dernier s’inscrit à un programme d’utilisation d’antidémarreurs avec éthylomètre institué sous le régime juridique de la province où il réside.
+
+
+
+
+Clause 7: New.
+
+
+
+Article 7 : Nouveau.
+
+
+
+
+Clause 8: (1) Relevant portion of the definition:
+“accused” includes
+
+
+
+Article 8 : (1) Texte du passage visé de la définition :
+« prévenu » S’entend notamment :
+
+
+
+
+(2) New.
+
+
+
+(2) Nouveau.
+
+
+
+
+Clause 9: Existing text of subsection 501(3):
+(3) An appearance notice issued by a peace officer or a promise to appear given to, or a recognizance entered into before, an officer in charge or another peace officer may require the accused to appear at a time and place stated in it for the purposes of the Identification of Criminals Act, where the accused is alleged to have committed an indictable offence and, in the case of an offence designated as a contravention under the Contraventions Act, the Attorney General, within the meaning of that Act, has not made an election under section 50 of that Act.
+
+
+
+Article 9 : Texte du paragraphe 501(3) :
+(3) Une citation à comparaître délivrée par un agent de la paix, une promesse de comparaître ou un engagement contracté devant un fonctionnaire responsable ou un autre agent de la paix peuvent enjoindre au prévenu de comparaître, pour l’application de la Loi sur l’identification des criminels, aux temps et lieu y indiqués, lorsque le prévenu est présumé avoir commis un acte criminel et, dans le cas d’une infraction qualifiée de contravention en vertu de la Loi sur les contraventions, si le procureur général, au sens de cette loi, ne se prévaut pas du choix prévu à l’article 50 de la même loi.
+
+
+
+
+Clause 10: New.
+
+
+
+Article 10 : Nouveau.
+
+
+
+
+Clause 11: New.
+
+
+
+Article 11 : Nouveau.
+
+
+
+
+Clause 12: Relevant portion of subsection 508(1):
+508. (1) A justice who receives an information laid before him under section 505 shall
+. . . 
+(b) where he considers that a case for so doing is made out, whether the information relates to the offence alleged in the appearance notice, promise to appear or recognizance or to an included or other offence,
+(i) confirm the appearance notice, promise to appear or recognizance, as the case may be, and endorse the information accordingly, or
+(ii) cancel the appearance notice, promise to appear or recognizance, as the case may be, and issue, in accordance with section 507, either a summons or a warrant for the arrest of the accused to compel the accused to attend before him or some other justice for the same territorial division to answer to a charge of an offence and endorse on the summons or warrant that the appearance notice, promise to appear or recognizance, as the case may be, has been cancelled; and
+(c) where he considers that a case is not made out for the purposes of paragraph (b), cancel the appearance notice, promise to appear or recognizance, as the case may be, and cause the accused to be notified forthwith of the cancellation.
+
+
+
+Article 12 : Texte du passage visé du paragraphe 508(1) :
+508. (1) Un juge de paix qui reçoit une dénonciation faite devant lui en vertu de l’article 505 doit :
+[. . .] 
+b) lorsqu’il estime qu’on a démontré qu’il est justifié de le faire, que la dénonciation ait trait à l’infraction alléguée dans la citation à comparaître, la promesse de comparaître ou l’engagement ou à une infraction incluse ou autre :
+(i) soit confirmer la citation à comparaître, la promesse de comparaître ou l’engagement, selon le cas, et inscrire sur la dénonciation une mention à cet effet,
+(ii) soit annuler la citation à comparaître, la promesse de comparaître ou l’engagement, selon le cas, et décerner, conformément à l’article 507, une sommation ou un mandat d’arrestation pour obliger l’accusé à comparaître devant lui ou un autre juge de la même circonscription territoriale pour répondre à l’inculpation, et inscrire sur la sommation ou le mandat que la citation à comparaître, la promesse de comparaître ou l’engagement, selon le cas, a été annulé;
+c) lorsqu’il estime qu’on n’a pas démontré que l’application de l’alinéa b) est justifiée, annuler la citation à comparaître, la promesse de comparaître ou l’engagement, selon le cas, et faire notifier immédiatement cette annulation au prévenu.
+
+
+
+
+Clause 13: Existing text of subsection 509(5):
+(5) A summons may require the accused to appear at a time and place stated in it for the purposes of the Identification of Criminals Act, where the accused is alleged to have committed an indictable offence and, in the case of an offence designated as a contravention under the Contraventions Act, the Attorney General, within the meaning of that Act, has not made an election under section 50 of that Act.
+
+
+
+Article 13 : Texte du paragraphe 509(5) :
+(5) Une sommation peut enjoindre au prévenu de comparaître, pour l’application de la Loi sur l’identification des criminels, aux temps et lieu y indiqués lorsqu’il est allégué que le prévenu a commis un acte criminel et, dans le cas d’une infraction qualifiée de contravention en vertu de la Loi sur les contraventions, si le procureur général, au sens de cette loi, ne se prévaut pas du choix prévu à l’article 50 de la même loi.
+
+
+
+
+Clause 14: (1) Relevant portion of subsection 512(1):
+512. (1) A justice may, where the justice has reasonable and probable grounds to believe that it is necessary in the public interest to issue a summons or a warrant for the arrest of the accused, issue a summons or warrant, notwithstanding that
+(a) an appearance notice or a promise to appear or a recognizance entered into before an officer in charge or another peace officer has been confirmed or cancelled under subsection 508(1);
+
+
+
+Article 14 : (1) Texte du passage visé du paragraphe 512(1) :
+512. (1) Un juge de paix peut, lorsqu’il a des motifs raisonnables de croire qu’il est nécessaire d’agir de la sorte dans l’intérêt du public, décerner une sommation ou un mandat pour l’arrestation du prévenu même dans les cas suivants :
+a) une citation à comparaître, une promesse de comparaître ou un engagement contracté devant un fonctionnaire responsable ou un autre agent de la paix ont été confirmés ou annulés en vertu du paragraphe 508(1);
+
+
+
+
+(2) Relevant portion of subsection 512(2):
+(2) Where
+. . . 
+(b) an appearance notice or a promise to appear or a recognizance entered into before an officer in charge or another peace officer has been confirmed under subsection 508(1) and the accused fails to attend court in accordance therewith in order to be dealt with according to law, or
+. . . 
+a justice may issue a warrant for the arrest of the accused.
+
+
+
+(2) Texte du passage visé du paragraphe 512(2) :
+(2) Un juge de paix peut décerner un mandat pour l’arrestation du prévenu dans l’un ou l’autre des cas suivants :
+[. . .] 
+b) une citation à comparaître, une promesse de comparaître ou un engagement contracté devant un fonctionnaire responsable ou un autre agent de la paix ont été confirmés en vertu du paragraphe 508(1), et le prévenu omet d’être présent au tribunal en conformité avec la citation, la promesse ou l’engagement pour être traité selon la loi;
+
+
+
+
+Clause 15: (1) and (2) Relevant portion of Form 7:
+Whereas the accused has been charged that (set out briefly the offence in respect of which the accused is charged);
+And whereas:*
+. . .
+(c) (an appearance notice or a promise to appear or a recognizance entered into before an officer in charge) was confirmed and the accused failed to attend court in accordance therewith [512(2)];
+. . .
+(h) the accused was required by (an appearance notice or a promise to appear or a recognizance entered into before an officer in charge or a summons) to attend at a time and place stated therein for the purposes of the Identification of Criminals Act and did not appear at that time and place [502, 510];
+. . .
+This is, therefore, to command you, in Her Majesty’s name, forthwith to arrest the said accused and to bring him before (state court, judge or justice), to be dealt with according to law.
+
+
+
+Article 15 : (1) et (2) Texte du passage visé de la formule 7 :
+Attendu que le prévenu a été inculpé d’avoir (indiquer brièvement l’infraction dont le prévenu est inculpé);
+Et attendu :*
+[. . .]
+c) qu’un(e) (citation à comparaître ou promesse de comparaître ou engagement contracté devant un fonctionnaire responsable) a été confirmé(e) et que le prévenu a omis d’être présent au tribunal en conformité avec ce document [512(2)];
+[. . .]
+h) qu’un(e) (citation à comparaître ou promesse de comparaître ou engagement contracté devant un fonctionnaire responsable ou sommation) exigeait que le prévenu soit présent aux temps et lieu indiqués pour l’application de la Loi sur l’identification des criminels et que le prévenu n’a pas comparu aux temps et lieu ainsi indiqués [502, 510];
+[. . .]
+À ces causes, les présentes ont pour objet de vous enjoindre, au nom de Sa Majesté, d’arrêter immédiatement le prévenu et de l’amener devant (indiquer le tribunal, le juge ou le juge de paix), pour qu’il soit traité selon la loi.
+
+
+
+
+Clause 16: Relevant portion of Form 9:
+Subsections 145(5) and (6) of the Criminal Code state as follows:
+“. . .
+(6) For the purposes of subsection (5), it is not a lawful excuse that an appearance notice, promise to appear or recognizance states defectively the substance of the alleged offence.”
+
+
+
+Article 16 : Texte du passage visé de la formule 9 :
+Les paragraphes 145(5) et (6) du Code criminel s’énoncent comme suit :
+« [. . .]
+(6) Pour l’application du paragraphe (5), le fait qu’une citation à comparaître, une promesse de comparaître ou un engagement indiquent d’une manière imparfaite l’essentiel de l’infraction présumée, ne constitue pas une excuse légitime. »
+
+
+
+
+Clause 17: New.
+
+
+
+Article  17 : Nouveau.
+
+
+
+
+Clause 18: Relevant portion of Form 10:
+Subsections 145(5) and (6) of the Criminal Code state as follows:
+“. . .
+(6) For the purposes of subsection (5), it is not a lawful excuse that an appearance notice, promise to appear or recognizance states defectively the substance of the alleged offence.”
+
+
+
+Article  18 : Texte du passage visé de la formule 10 :
+Les paragraphes 145(5) et (6) du Code criminel s’énoncent comme suit :
+« [. . .]
+(6) Pour l’application du paragraphe (5), le fait qu’une citation à comparaître, une promesse de comparaître ou un engagement indiquent d’une manière imparfaite l’essentiel de l’infraction présumée, ne constitue pas une excuse légitime. »
+
+
+
+
+Clause 19: Relevant portion of Form 11:
+Subsections 145(5) and (6) of the Criminal Code state as follows:
+“. . .
+(6) For the purposes of subsection (5), it is not a lawful excuse that an appearance notice, promise to appear or recognizance states defectively the substance of the alleged offence.”
+
+
+
+Article 19 : Texte du passage visé de la formule 11 :
+Les paragraphes 145(5) et (6) du Code criminel s’énoncent comme suit :
+« [. . .]
+(6) Pour l’application du paragraphe (5), le fait qu’une citation à comparaître, une promesse de comparaître ou un engagement indiquent d’une manière imparfaite l’essentiel de l’infraction présumée, ne constitue pas une excuse légitime. »
+
+
+
+
+Criminal Records Act
+Clause 20: New.
+
+
+
+Loi sur le casier judiciaire
+Article 20 : Nouveau.
+
+
+
+
+Clause 21: Relevant portion of section 8:
+8. No person shall use or authorize the use of an application form for or relating to any of the following matters that contains a question that by its terms requires the applicant to disclose a conviction in respect of which a pardon that has not been revoked or ceased to have effect has been granted or issued to the applicant:
+
+
+
+Article  21 : Texte du passage visé de l’article 8 :
+8. Nul ne peut utiliser ou permettre d’utiliser une demande d’emploi comportant une question qui, par sa teneur, obligerait un réhabilité à révéler une condamnation visée par une réhabilitation qui n’a pas été révoquée ou annulée contenue dans un formulaire ayant trait à :
+
+
+
+
+Identification of Criminals Act
+Clause 22: (1) and (2) Relevant portion of subsection 2(1):
+2. (1) The following persons may be fingerprinted or photographed or subjected to such other measurements, processes and operations having the object of identifying persons as are approved by order of the Governor in Council:
+(a) any person who is in lawful custody charged with or convicted of
+
+
+
+Loi sur l’identification des criminels
+Article  22 : (1) et (2) Texte du passage visé du paragraphe 2(1) :
+2. (1) Est autorisée la prise des empreintes digitales, des photographies et de toute autre mensuration – ainsi que toute autre opération anthropométrique approuvée par décret du gouverneur en conseil – sur les personnes suivantes :
+a) les personnes qui sont légalement détenues parce qu’elles sont inculpées – ou qu’elles ont été déclarées coupables – de l’une des infractions suivantes:
+
+
+
+

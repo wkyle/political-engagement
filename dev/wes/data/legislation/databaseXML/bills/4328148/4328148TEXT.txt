@@ -1,0 +1,1879 @@
+
+
+
+
+
+C-408
+
+
+
+
+
+C-408
+
+
+
+
+
+
+Second Session, Fortieth Parliament,
+
+
+
+
+
+Deuxième session, quarantième législature,
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+HOUSE OF COMMONS OF CANADA
+
+
+
+
+
+CHAMBRE DES COMMUNES DU CANADA
+
+
+
+
+
+
+BILL C-408
+
+
+
+
+
+PROJET DE LOI C-408
+
+
+
+
+
+
+An Act to amend the State Immunity Act and the Criminal Code (deterring terrorism by providing a civil right of action against perpetrators and sponsors of terrorism)
+
+
+
+
+
+Loi modifiant la Loi sur l'immunité des États et le Code criminel (mesure dissuasive : droit de recours civil contre les auteurs et les parrains d'actes de terrorisme)
+
+
+
+
+
+
+
+
+
+
+
+
+
+first reading, June 4, 2009
+
+première lecture le 4 juin 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+3rd Session, 40th Parliament
+
+This bill was introduced during the Second Session of the 40th Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the Second Session. The number of the bill remains unchanged.
+
+
+
+
+
+
+
+
+
+
+
+NOTE
+
+3e session, 40e législature
+
+Le présent projet de loi a été présenté lors de la deuxième session de la 40e législature. Conformément aux dispositions du Règlement de la Chambre des communes, il est réputé avoir été examiné et approuvé à toutes les étapes franchies avant la prorogation de la deuxième session. Le numéro du projet de loi demeure le même.
+
+
+
+
+
+
+
+
+Mr. Cotler
+
+402310
+
+
+
+M. Cotler
+
+
+
+
+
+SUMMARY
+This enactment amends the State Immunity Act to prevent a foreign state from claiming immunity from the jurisdiction of Canadian courts in respect of legal proceedings that relate to the support of terrorism or terrorist activity engaged in by the foreign state.
+
+
+
+
+
+It also amends the Criminal Code to provide victims who suffer loss or damage as a result of conduct that is contrary to Part II.1 of the Criminal Code (Terrorism) with a civil remedy against the person who engaged in the terrorist-related conduct.
+
+
+
+
+SOMMAIRE
+
+
+
+Le texte modifie la Loi sur l'immunité des États afin d'empêcher un État étranger d'invoquer, devant les tribunaux canadiens, l'immunité de juridiction dans les actions judiciaires portant sur le soutien du terrorisme ou l'exercice d'activités terroristes par cet État.
+
+
+
+Il modifie également le Code criminel afin que les victimes ayant subi une perte ou des dommages par suite d'un comportement qui contrevient à la partie II.1 du Code criminel (Terrorisme) disposent d'un recours civil à l'encontre de la personne ayant eu un comportement lié à des activités terroristes.
+
+
+
+
+
+
+
+Also available on the Parliament of Canada Web Site at the following address:http://www.parl.gc.ca
+
+
+
+Aussi disponible sur le site Web du Parlement du Canada à l’adresse suivante :http://www.parl.gc.ca
+
+
+
+			.vis1 {position: absolute;display:block;}
+			.vis2 {position: static;}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2nd Session, 40th Parliament,
+
+
+
+
+
+
+
+
+
+2e session, 40e législature,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+57-58 Elizabeth II, 2009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+house of commons of canada
+
+
+
+
+
+
+
+
+
+chambre des communes du canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BILL C-408
+
+
+
+
+
+
+
+
+
+PROJET DE LOI C-408
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Act to amend the State Immunity Act and the Criminal Code (deterring terrorism by providing a civil right of action against perpetrators and sponsors of terrorism)
+
+
+
+
+
+
+
+
+
+Loi modifiant la Loi sur l'immunité des États et le Code criminel (mesure dissuasive : droit de recours civil contre les auteurs et les parrains d'actes de terrorisme)
+
+
+
+
+
+
+
+
+
+
+
+
+Preamble
+
+
+
+Whereas United Nations Security Council Resolution 1373 (2001) reaffirms that acts of international terrorism constitute a threat to international peace and security, and reaffirms the need to combat by all means, in accordance with the Charter of the United Nations, threats to international peace and security caused by terrorist acts;
+
+
+
+
+
+
+
+
+Whereas Canada ratified the 1999 International Convention for the Suppression of the Financing of Terrorism (the "Convention") on February 15, 2002;
+
+
+
+
+
+
+
+
+Whereas article 4 of the Convention requires Canada as a signatory to take the necessary measures against any person that by any means, directly or indirectly, unlawfully and wilfully, provides or collects funds with the intention that they should be used or in the knowledge that they are to be used, in full or in part, in order to carry out offences under the Convention;
+
+
+
+
+
+
+
+
+Whereas article 5 of the Convention states that each State Party shall ensure that legal entities liable in accordance with provisions of the Convention are subject to effective, proportionate and dissuasive criminal, civil or administrative sanctions that may include monetary sanctions;
+
+
+
+
+
+
+
+
+Whereas the prohibition against terrorism, as well as the prevention, repression and elimination of terrorism, are peremptory norms of international law (jus cogens) accepted and recognized by the international community of States as a whole as norms from which no derogation is possible;
+
+
+
+
+
+
+
+
+Whereas state immunity is generally accepted as being restrictive or relative, applying only to sovereign acts of state (acta jure imperii);
+
+
+
+
+
+
+
+
+Whereas the support and financing of terrorism, which are criminal acts under international law, are not sovereign acts for which a state is entitled to immunity;
+
+
+
+
+
+
+
+
+Whereas the Convention and the United Nations Declaration on Measures to Eliminate International Terrorism encourage states to review urgently the scope of existing international legal provisions on the prevention, repression and elimination of terrorism with the aim of ensuring that there is a comprehensive legal framework covering all aspects of the matter;
+
+
+
+
+
+
+
+
+
+
+Whereas the victims of terrorist acts include the individuals who are physically, emotionally or psychologically injured by the terrorist acts, as well as their family members;
+
+
+
+
+
+
+
+
+Whereas hundreds of Canadians have been murdered or injured in terrorist attacks;
+
+
+
+
+
+
+
+
+Whereas the Government of Canada reported to the Security Council that fighting terrorism is of the highest priority for the Government of Canada;
+
+
+
+
+
+
+
+
+Whereas it is a policy priority of the Government of Canada to deter and prevent terrorist attacks against Canada and Canadians;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Whereas terrorism is dependent on financial and material support;
+
+
+
+
+
+
+
+
+
+
+Whereas it is in the public interest to enable plaintiffs to bring civil lawsuits against terrorists and their sponsors, which will have the effect of impairing the functioning of terrorist groups, thereby deterring and preventing future terror attacks;
+
+
+
+
+
+
+
+
+
+
+And whereas it is in the public interest that judicial awards against persons who engage in terrorist activities are sufficiently large to deter future such conduct;
+
+
+
+
+
+
+
+
+
+
+Attendu : 
+
+
+
+Préambule
+
+
+
+
+que la résolution 1373 de 2001 du Conseil de sécurité des Nations Unies réaffirme que les actes de terrorisme international constituent une menace à la paix et à la sécurité internationales et qu'il est nécessaire de lutter par tous les moyens, conformément à la Charte des Nations Unies, contre ces menaces à la paix et à la sécurité internationales que font peser les actes de terrorisme;
+
+
+
+
+
+
+
+
+que, le 15 février 2002, le Canada a ratifié la Convention internationale pour la répression du financement du terrorisme de 1999 (ci-après la « Convention »);
+
+
+
+
+
+
+
+
+que l'article 4 de la Convention exige que le Canada, en tant que signataire, prenne les mesures nécessaires à l'encontre de toute personne qui, par quelque moyen que ce soit, directement ou indirectement, illicitement et délibérément, fournit ou réunit des fonds dans l'intention de les voir utiliser — ou en sachant qu'ils seront utilisés — en tout ou en partie, en vue de commettre des infractions au sens de la Convention;
+
+
+
+
+
+
+
+
+que l'article 5 de la Convention prévoit que chaque État Partie doit prendre les mesures nécessaires pour que les personnes morales dont la responsabilité est engagée aux termes des dispositions de la Convention fassent l'objet de sanctions pénales, civiles ou administratives efficaces, proportionnées et dissuasives, notamment d'ordre pécuniaire;
+
+
+
+
+
+
+
+
+que l'interdiction du terrorisme et la prévention, la répression et l'élimination du terrorisme font partie des normes impératives du droit international (jus cogens) que l'ensemble de la communauté internationale des États accepte et reconnaît comme des normes auxquelles il est impossible de déroger;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+que l'immunité des États est un concept généralement reconnu comme étant restrictif ou relatif, ne s'appliquant qu'aux actes de gouvernement souverain (acta jure imperii);
+
+
+
+
+
+
+
+
+que le soutien et le financement du terrorisme, qui constituent des actes criminels sous le régime du droit international, ne sont pas des actes de gouvernement souverain pouvant bénéficier de cette immunité;
+
+
+
+
+
+
+
+
+que la Convention et la Déclaration sur les mesures visant à éliminer le terrorisme international, émanant des Nations Unies, encouragent les États à revoir de toute urgence la portée des dispositions actuelles du droit international sur la prévention, la répression et l'élimination du terrorisme afin de prévoir un cadre juridique exhaustif englobant tous les aspects de cette question;
+
+
+
+
+
+
+
+
+que les victimes d'actes de terrorisme comprennent tant les particuliers qui ont été blessés physiquement, émotionnellement ou psychologiquement par ces actes que les membres de leur famille;
+
+
+
+
+
+
+
+
+que des centaines de Canadiens ont été tués ou blessés lors d'attaques terroristes;
+
+
+
+
+
+
+
+
+
+
+que le gouvernement du Canada a indiqué au Conseil de sécurité que la lutte contre le terrorisme est de la plus grande priorité pour le gouvernement du Canada;
+
+
+
+
+
+
+
+
+que le gouvernement du Canada considère comme une priorité stratégique le fait de prévenir et de décourager les attaques terroristes contre le Canada et les Canadiens;
+
+
+
+
+
+
+
+
+que le terrorisme s'appuie sur le soutien financier et matériel qui lui est fourni;
+
+
+
+
+
+
+
+
+qu'il est dans l'intérêt public de permettre aux demandeurs d'intenter des poursuites civiles contre les terroristes et leurs parrains, ce qui aura pour effet d'entraver le fonctionnement des groupes terroristes et, par conséquent, de décourager et de prévenir de futures attaques terroristes;
+
+
+
+
+
+
+
+
+
+
+
+
+qu'il est dans l'intérêt public que les décisions judiciaires prononcées à l'encontre des personnes qui se livrent à des activités terroristes imposent des peines suffisamment sévères pour décourager de tels comportements à l'avenir,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+
+
+
+
+
+
+
+Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+
+
+
+
+
+
+
+
+
+
+R.S., c. S-18
+
+
+
+STATE IMMUNITY ACT
+
+
+
+
+
+
+
+
+
+LOI SUR L'IMMUNITÉ DES ÉTATS
+
+
+
+L.R., ch. S-18
+
+
+
+
+
+
+
+
+
+
+
+
+1. The State Immunity Act is amended by adding the following after section 2:
+
+
+
+
+
+
+
+
+
+1. La Loi sur l'immunité des États est modifiée par adjonction, après l'article 2, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Meaning of engaging in the support of terrorism
+
+
+
+2.1 (1) For the purposes of this Act, a foreign state engages in the support of terrorism if the foreign state knowingly or recklessly provides, directly or indirectly, material support to a listed entity as defined in subsection 83.01(1) of the Criminal Code, or to a terrorist group as defined in subsection 83.01(1) of the Criminal Code that acts on behalf of, at the direction of or in association with a listed entity.
+
+
+
+
+
+
+
+
+
+2.1 (1) Pour l'application de la présente loi, un État étranger soutient le terrorisme s'il fournit directement ou indirectement, sciemment ou sans se soucier des conséquences, un soutien matériel à une entité inscrite au sens du paragraphe 83.01(1) du Code criminel ou à un groupe terroriste, au sens du même paragraphe, qui agit au nom d'une entité inscrite, sous sa direction ou en collaboration avec elle.
+
+
+
+Soutien du terrorisme — sens
+
+
+
+
+
+
+
+
+
+
+Definition of “material support”
+
+
+
+(2) In this section, “material support” means currency or monetary instruments, financial securities, financial services, lodging, training, expert advice or assistance, safehouses, false documentation or identification, communications equipment, facilities, weapons, lethal substances, explosives, personnel, transportation, and other physical assets, but does not include medicine or religious materials.
+
+
+
+
+
+
+
+
+
+ 
+       (2)   
+         Dans le présent article, « soutien matériel » s'entend des espèces ou effets, des garanties financières, des services financiers, de l'hébergement, de la formation, des conseils ou de l'aide d'experts, des maisons de passeurs, des faux documents, des fausses identités, des équipements de communication, des installations, des armes, des substances létales, des explosifs, du personnel, du transport et de tout autre bien matériel. La présente définition exclut les médicaments et le matériel religieux. 
+
+
+
+Définition de « soutien matériel »
+
+
+
+
+
+
+
+
+
+
+
+
+2. The Act is amended by adding the following after section 6:
+
+
+
+
+
+
+
+
+
+2. La même loi est modifiée par adjonction, après l'article 6, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Support of terrorism
+
+
+
+6.1 (1) A foreign state is not immune from the jurisdiction of a court in any proceedings that relate to the support of terrorism engaged in by the foreign state on or after January 1, 1985.
+
+
+
+
+
+
+
+
+
+6.1 (1) L'État étranger ne bénéficie pas de l'immunité de juridiction dans les actions portant sur le soutien du terrorisme fourni par lui le 1er janvier 1985 ou après cette date.
+
+
+
+Soutien du terrorisme
+
+
+
+
+
+
+
+
+
+
+Engagement in terrorist activity
+
+
+
+(2) A foreign state that, on or after January 1, 1985, engaged or engages in the support of terrorism is not immune from the jurisdiction of a court in any proceedings that relate to terrorist activity as defined in subsection 83.01(1) of the Criminal Code engaged in by the foreign state on or after January 1, 1985.
+
+
+
+
+
+
+
+
+
+(2) L'État étranger qui, le 1er janvier 1985 ou après cette date, a soutenu ou soutient le terrorisme ne bénéficie pas de l'immunité de juridiction dans les actions portant sur une activité terroriste, au sens du paragraphe 83.01(1) du Code criminel, à laquelle il s'est livré le 1er janvier 1985 ou après cette date.
+
+
+
+Exercice d'une activité terroriste
+
+
+
+
+
+
+
+
+
+
+Exception
+
+
+
+(3) Subsections (1) and (2) do not apply in respect of a foreign state that is
+
+
+
+
+
+
+
+
+(a) designated as an extradition partner in the schedule to the Extradition Act; or
+
+
+
+
+
+
+
+
+(b) bound by a bilateral extradition treaty with Canada.
+
+
+
+
+
+
+
+
+
+(3) Les paragraphes (1) et (2) ne s'appliquent pas à l'État étranger qui est :
+
+
+
+Exception 
+
+
+
+
+
+a) soit un partenaire désigné à l'annexe de la Loi sur l'extradition;
+
+
+
+
+
+
+
+
+b) soit lié par un traité d'extradition bilatéral conclu avec le Canada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. Subsection 11(3) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+3. Le paragraphe 11(3) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application of section
+
+
+
+(3) This section does not apply to an agency of a foreign state or in respect of proceedings that relate to terrorist activity or the support of terrorism engaged in by a foreign state.
+
+
+
+
+
+
+
+
+
+(3) Le présent article ne s'applique pas aux organismes d'un État étranger ni aux actions portant sur l'exercice d'activités terroristes ou le soutien du terrorisme par un État étranger.
+
+
+
+Restriction
+
+
+
+
+
+
+
+
+
+
+
+
+4. (1) Paragraph 12(1)(b) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+4. (1) L'alinéa 12(1)b) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(b) the property is used or is intended for a commercial activity, terrorist activity or the support of terrorism;
+
+
+
+
+
+
+
+
+
+b) les biens sont utilisés ou destinés à être utilisés dans le cadre d'une activité commerciale ou d'une activité terroriste ou au soutien du terrorisme;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(2) Subsection 12(1) of the Act is amended by adding “or” at the end of paragraph (c) and by adding the following after that paragraph:
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe 12(1) de la même loi est modifié par adjonction, après l'alinéa c), de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(d) the attachment or execution relates to a judgment rendered in any proceedings that relate to terrorist activity or the support of terrorism.
+
+
+
+
+
+
+
+
+
+d) la saisie ou l'exécution a trait à un jugement rendu dans le cadre d'une action portant sur l'exercice d'activités terroristes ou le soutien du terrorisme.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. The Act is amended by adding the following after section 12:
+
+
+
+
+
+
+
+
+
+5. La même loi est modifiée par adjonction, après l'article 12, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Assistance for judgment creditors
+
+
+
+12.1 (1) At the request of any party in whose favour a judgment is rendered against a foreign state in proceedings referred to in section 6.1, the Minister of Finance and the Minister of Foreign Affairs shall, within the scope of their powers and to the extent that is reasonably practicable, assist any judgment creditor or the court that has rendered the judgment in identifying and locating the property of that foreign state or any agency or instrumentality of the foreign state.
+
+
+
+
+
+
+
+
+
+12.1 (1)  À la demande d'une partie ayant obtenu gain de cause à l'encontre d'un État étranger dans le cadre d'une action visée à l'article 6.1, le ministre des Finances et le ministre des Affaires étrangères doivent, dans les limites de leurs pouvoirs et dans la mesure du possible, aider le créancier bénéficiaire du jugement ou le tribunal ayant rendu le jugement à identifier et à localiser les biens de cet État ou d'un organisme ou d'une personne morale de droit public de celui-ci.
+
+
+
+Aide aux créanciers bénéficiaires du jugement
+
+
+
+
+
+
+
+
+
+
+Definition of “instrumentality”
+
+
+
+(2) In this section, “instrumentality”, in respect of a foreign state, means a legal entity
+
+
+
+
+
+
+
+
+(a) that is separate from the foreign state; and
+
+
+
+
+
+
+
+
+(b) in which the foreign state has a direct or indirect controlling or majority ownership interest.
+
+
+
+
+
+
+
+
+
+(2) Dans le présent article, « personne morale de droit public » s'entend, à l'égard d'un État étranger, d'une personne morale qui remplit les conditions suivantes :
+
+
+
+Définition de « personne morale de droit public »
+
+
+
+
+a) elle est distincte de cet État;
+
+
+
+
+
+
+
+
+b) cet État en détient, directement ou indirectement, le contrôle ou la majorité des titres de participation.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Subsection 13(2) of the Act is replaced by the following:
+
+
+
+
+
+
+
+
+
+6. Le paragraphe 13(2) de la même loi est remplacé par ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Application of subsection (1)
+
+
+
+(2) Subsection (1) does not apply to an agency of a foreign state or in respect of proceedings that relate to terrorist activity or the support of terrorism engaged in by a foreign state. 
+
+
+
+
+
+
+
+
+
+
+(2) Le paragraphe (1) ne s'applique pas aux organismes d'un État étranger ni aux actions portant sur l'exercice d'activités terroristes ou le soutien du terrorisme par un État étranger.
+
+
+
+Exception
+
+
+
+
+
+
+
+
+R.S., c. C-46
+
+
+
+CRIMINAL CODE
+
+
+
+
+
+
+
+
+
+CODE CRIMINEL
+
+
+
+L.R., ch. C-46
+
+
+
+
+
+
+
+
+
+
+
+
+7. The Criminal Code is amended by adding the following after section 83.33:
+
+
+
+
+
+
+
+
+
+7. Le Code criminel est modifié par adjonction, après l'article 83.33, de ce qui suit :
+
+
+
+
+
+
+
+
+
+
+
+
+Action for Loss or Damage
+
+
+
+
+
+
+
+
+
+Action pour perte ou dommages
+
+
+
+
+
+
+
+
+
+
+
+
+Definition of “person”
+
+
+
+83.34 (1) In this section, unless otherwise indicated, “person” includes a foreign state as defined in the State Immunity Act.
+
+
+
+
+
+
+
+
+
+83.34  (1)  Dans le présent article, sauf indication contraire, est assimilé à une personne un État étranger au sens de la Loi sur l'immunité des États.
+
+
+
+Définition de « personne »
+
+
+
+
+
+
+
+
+
+
+Action
+
+
+
+(2) Any person, other than a foreign state, who has suffered loss or damage on or after January 1, 1985 as a result of conduct by any person that is contrary to any provision of this Part, whether the conduct occurred in or outside Canada, may, in any court of competent jurisdiction, sue for and recover from the person who engaged in the conduct an amount equal to the loss or damage proved to have been suffered by the person, together with any additional amount that the court may allow.
+
+
+
+
+
+
+
+
+
+(2) Toute personne — autre qu'un État étranger — qui, le 1er janvier 1985 ou après cette date, a subi une perte ou des dommages par suite d'un comportement — au Canada ou à l'étranger — allant à l'encontre d'une disposition de la présente partie peut, devant tout tribunal compétent, réclamer et recouvrer de la personne qui a eu un tel comportement une somme égale au montant de la perte ou des dommages qu'elle est reconnue avoir subis, ainsi que toute somme supplémentaire que peut fixer le tribunal. 
+
+
+
+Action
+
+
+
+
+
+
+
+
+
+
+Deeming
+
+
+
+(3) In any action under subsection (2), the defendant's conduct is deemed to have caused or contributed to the loss or damage to the plaintiff if the court finds that
+
+
+
+
+
+
+
+
+(a) a listed entity caused or contributed to the loss or damage to the plaintiff by engaging in conduct that is contrary to any provision of this Part, whether the conduct occurred in or outside Canada; and
+
+
+
+
+
+
+
+
+(b) the defendant engaged in conduct that is contrary to any of sections 83.02 to 83.04, 83.08, 83.1, 83.11 or 83.18 to 83.231 for the benefit of or otherwise in relation to that listed entity.
+
+
+
+
+
+
+
+
+
+(3) Dans toute action intentée en vertu du paragraphe (2), le comportement du défendeur est réputé avoir causé la perte ou les dommages subis par le demandeur, ou y avoir contribué, si le tribunal conclut, à la fois :
+
+
+
+Présomption
+
+
+
+
+a) qu'une entité inscrite a causé la perte ou les dommages, ou y a contribué, parce qu'elle a eu un comportement — au Canada ou à l'étranger — allant à l'encontre d'une disposition de la présente partie;
+
+
+
+
+
+
+
+
+b) que le défendeur a eu un comportement allant à l'encontre de l'un des articles 83.02 à 83.04, 83.08, 83.1, 83.11 et 83.18 à 83.231 au profit de l'entité inscrite ou autrement par rapport à celle-ci.
+  
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suspension of limitation period
+
+
+
+(4) The running of any limitation period in respect of an action brought under subsection (2) is suspended during any period in which the person, other than a foreign state, who suffered the loss or damage
+
+
+
+
+
+
+
+
+(a) is incapable of commencing a proceeding by reason of any physical, mental or psychological condition; or
+
+
+
+
+
+
+
+
+(b) is unable to ascertain the identity of the person who engaged in the conduct that resulted in the loss or damage.
+
+
+
+
+
+
+
+
+
+(4) La prescription relative à l'action intentée en vertu du paragraphe (2) ne court pas pendant la période où la personne — autre qu'un État étranger — qui a subi la perte ou les dommages :
+
+
+
+Suspension de la prescription
+
+
+
+
+a) soit est incapable d'intenter une procédure en raison de son état physique, mental ou psychologique;
+
+
+
+
+
+
+
+
+b) soit est incapable d'établir l'identité de la personne ayant eu le comportement qui a entraîné la perte ou les dommages.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refusal to hear claim
+
+
+
+(5) The court may refuse to hear a claim against a foreign state under subsection (2) if the loss or damage to the plaintiff occurred in the foreign state against which the action has been brought and the plaintiff has not afforded the foreign state a reasonable opportunity to arbitrate the dispute in accordance with accepted international rules of arbitration.
+
+
+
+
+
+
+
+
+
+(5)  Le tribunal peut refuser d'entendre une demande déposée à l'encontre d'un État étranger en application du paragraphe (2) si la perte ou les dommages ont été subis par le demandeur dans l'État étranger contre lequel l'action a été intentée et que le demandeur n'a pas accordé à cet État l'occasion de soumettre le différend à l'arbitrage conformément aux règles d'arbitrage internationales reconnues.
+
+
+
+Refus d'entendre la demande
+
+
+
+
+
+
+
+
+
+
+Judgments of foreign courts
+
+
+
+(6) Any court of competent jurisdiction shall give full faith and credit to a judgment or order of any foreign court in favour of a person, other than a foreign state, who has suffered loss or damage as a result of conduct that is or, had it occurred in Canada, would be contrary to any provision of this Part.
+
+
+
+
+
+
+
+
+
+(6)  Tout tribunal compétent doit accorder pleine foi et crédit au jugement ou à l'ordonnance d'un tribunal étranger rendu en faveur d'une personne — autre qu'un État étranger — ayant subi une perte ou des dommages par suite d'un comportement qui va à l'encontre d'une disposition de la présente partie ou qui irait à l'encontre de celle-ci s'il avait eu lieu au Canada.
+
+
+
+Jugement d'un tribunal étranger
+
+
+
+
+
+
+
+
+
+
+Extradition partners
+
+
+
+(7) For greater certainty, no proceedings may be brought under this section against a foreign state referred to in subsection 6.1(3) of the State Immunity Act.
+
+
+
+
+
+
+
+
+
+(7) Il demeure entendu qu'aucune action ne peut être intentée au titre du présent article contre un État étranger visé au paragraphe 6.1(3) de la Loi sur l'immunité des États.
+
+
+
+Partenaires
+
+
+
+
+
+
+
+
+
+
+Liability and burden of proof
+
+
+
+(8) For greater certainty,
+
+
+
+
+
+
+
+
+(a) criminal liability under this Part is not required to establish civil liability under this section; and
+
+
+
+
+
+
+
+
+(b) the burden of proof in proceedings under this section shall be the balance of probabilities.
+
+
+
+
+
+
+
+
+
+(8)  Il demeure entendu que :
+
+
+
+Responsabilité et charge de la preuve
+
+
+
+
+a) l'établissement de la responsabilité civile en application du présent article n'est pas assujetti à l'établissement de la responsabilité criminelle dans le cadre de la présente partie;
+
+
+
+
+
+
+
+
+b) dans toute action intentée en vertu du présent article, la charge de la preuve repose sur la prépondérance des probabilités.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jurisdiction
+
+
+
+(9) For greater certainty,
+
+
+
+
+
+
+
+
+(a) universal jurisdiction is not created in respect of the cause of action referred to in this section;
+
+
+
+
+
+
+
+
+(b) this section does not affect the common law requirement that a real and substantial connection exist between the cause of action and Canada; and
+
+
+
+
+
+
+
+
+(c) it is sufficient to establish that the plaintiff is a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act in order to establish the existence of a real and substantial connection between the cause of action and Canada.
+ 
+
+
+
+
+
+
+
+
+
+
+(9) Il demeure entendu :
+
+
+
+Compétence
+
+
+
+
+a) qu'une compétence universelle n'est pas créée à l'égard de la cause d'action visée au présent article;
+
+
+
+
+
+
+
+
+b) que le présent article ne porte pas atteinte au principe de la common law selon lequel il doit exister un lien réel et substantiel entre la cause d'action et le Canada;
+
+
+
+
+
+
+
+
+c) qu'il suffit d'établir que le demandeur est un citoyen canadien ou un résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés pour établir l'existence d'un lien réel et substantiel entre la cause d'action et le Canada.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMING INTO FORCE
+
+
+
+
+
+
+
+
+
+ENTRÉE EN VIGUEUR
+
+
+
+
+
+
+
+
+
+
+
+
+Coming into force
+
+
+
+8. This Act comes into force 30 days after the day on which this Act receives royal assent.
+
+
+
+
+
+
+
+
+
+8. La présente loi entre en vigueur trente jours après la date de sa sanction.
+
+
+
+Entrée en vigueur
+
+
+
+
+
+
+
+Published under authority of the Speaker of the House of CommonsAvailable from:Publishing and Depository ServicesPublic Works and Government Services Canada
+
+
+
+Publié avec l'autorisation du président de la Chambre des communesDisponible auprès de :Les Éditions et Services de dépôtTravaux publics et Services gouvernementaux Canada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
