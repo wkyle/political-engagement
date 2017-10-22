@@ -5,11 +5,19 @@ Tools for Canadian political participation and engagement project.
 
 ## File Structure
 
+To print file structure in console:
+
+```
+tree -P '*.py|*.txt|*.js|*.xml' --filelimit 14
+```
+
+
+
 ```
 .
 ├── data
 │   ├── legislation
-│   │   ├── databaseXML [17 entries exceeds filelimit, not opening dir]
+│   │   ├── databaseXML
 │   │   └── linked_bill_database.xml
 │   └── mapping
 │       ├── AB
@@ -46,7 +54,7 @@ Tools for Canadian political participation and engagement project.
 │       │       └── xmlParsing.py
 │       └── data
 │           ├── legislation
-│           │   ├── databaseXML [17 entries exceeds filelimit, not opening dir]
+│           │   ├── databaseXML
 │           │   └── linked_bill_database.xml
 │           └── mapping
 │               ├── AB
