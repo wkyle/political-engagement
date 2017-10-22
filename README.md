@@ -2,12 +2,15 @@
 Tools for Canadian political participation and engagement project.
 
 
+
+##File Structure
+
 ```
 .
 ├── data
 │   ├── legislation
 │   │   └── databaseXML
-│   │       └── bills [5859 entries exceeds filelimit, not opening dir]
+│   │       └── bills
 │   └── mapping
 │       ├── AB
 │       ├── BC
@@ -36,7 +39,7 @@ Tools for Canadian political participation and engagement project.
 │       └── data
 │           ├── legislation
 │           │   └── databaseXML
-│           │       └── bills [5859 entries exceeds filelimit, not opening dir]
+│           │       └── bills
 │           └── mapping
 │               ├── AB
 │               ├── BC
