@@ -1,0 +1,89 @@
+(\b(?:(?!Act|The |An |This |Those |These |That |Every |No Act |Part |Section |Schedule |Clause |Subclause |Division |Review of |Summary of |Purpose[s]* of |Amendment[s]{0,1} to |Consequential |Enactment of |References |[A-Z]{1} |[IiVvXx]{1,3} |Act )){1}\b(?:(?:-*[A-Z][a-z0-9]*'*s*\s*){1}(?:-*[A-Z][a-z0-9]*'*s* |o[nf] |[0-9]{4} |to |in |(?<!Act )and |of |on |to |the |[A-Z]{1}-[0-9]{1,3} |\([A-Za-z0-9\s]+\) )*(?:Act\b)(?:(?:, | )[0-9]{4}){0,1})|Criminal Code)
+
+
+Re-Write:
+((?!The|Subclause|Section|No Act|Those|This|Review of|Summary of|Purposes of|Amendments to the|References (?:to|in))(?:[A-Z]{1}[a-z0-9]*)+(?:\b|\s)(?:\({0,1}(?:[A-Z]{1}[a-z0-9]*'*s*|and|to|[io][nf]|the|-|[A-Z]*-[0-9]{0,4})\){0,1}(?:\b|\s))+(?:Act(?:\b|\s)(?:,{0,1}\s[0-9]{1,4}){0,1}))
+
+
+Income Tax Act
+6. (1) The portion of subsection 241(9) of the Income Tax Act before paragraph (c) is replaced by the following:
+(9) An official may provide to the head, or their delegate, of a recipient Government of Canada institution listed in Schedule 3 of the Security of Canada Information Sharing Act
+(a) publicly accessible charity information;
+(b) taxpayer information, if there are reasonable grounds to suspect that the information would be relevant to
+(i) an investigation of whether the activity of any person may constitute threats to the security of Canada, as defined in section 2 of the Canadian Security Intelligence Service Act, or
+(ii) an investigation of whether any of the following offences may have been committed:
+(A) a terrorism offence as defined in section 2 of the Criminal Code, and
+(B) an offence under section 462.31 of the Criminal Code, if that investigation is related to a terrorism offence as defined in section 2 of that Act; and
+(2) The definition “designated taxpayer information” in subsection 241(10) of the Act is repealed.
+1995, c. 25
+Chemical Weapons Convention Implementation Act
+7. Subsection 17(3) of the Chemical Weapons Convention Implementation Act is amended by striking out “or” at the end of paragraph (a), by adding “or” at the end of paragraph (b) and by adding the following after paragraph (b):
+(c) in the case where the information or documents are disclosed in accordance with the Security of Canada Information Sharing Act.
+2002, c. 22 bill of An Act.
+Excise Act, 2001 an Act. Bill Act. Charter Act
+1 This Act may be cited as the Immigration and Refugee Protection Act.
+8. Section 211 of the Excise Act, 2001 is amended by adding the following after subsection (6.4):
+Threats to security
+(6.5) An official may provide to the head, or their delegate, of a recipient Government of Canada institution listed in Schedule 3 to the Security of Canada Information Sharing Act
+(a) confidential information, if there are reasonable grounds to suspect that the information would be relevant to
+(i) an investigation of whether the activity of any person may constitute threats to the security of Canada, as defined in section 2 of the Canadian Security Intelligence Service Act, or
+(ii) an investigation of whether any of the following offences may have been committed:
+(A) a terrorism offence as defined in section 2 of the Criminal Code, and
+(B) an offence under section 462.31 of the Criminal Code, if that investigation is related to a terrorism offence as defined in section 2 of that Act; and
+(b) information setting out the reasonable grounds referred to in paragraph (a), to the extent that any such grounds rely on information referred to in that paragraph.
+Coordinating Amendment
+2014, c. 39
+9. On the first day on which both section 254 of the Economic Action Plan 2014 Act, No. 2 and section 2 of this Act are in force, Schedule 3 to the Security of Canada Information Sharing Act is amended by replac- ing the reference to “Chief Public Health Officer” in column 2 with a reference to “President of the Public Health Agency of Canada”.
+owing: (ii) evidence that the offender, in committing the offence, abused the offender’s spouse or common-law partner, (ii.1) evidence that the offender, in committing the offence, abused a person under the age of eighteen years, R.S., c. C-5 CANADA EVIDENCE ACT R.S., c. 19 (3rd Supp.), s. 18 26.  The portion of subsection 16(1) of the  Canada Evidence Act  before paragraph ( a ) is replaced by the following: Witness whose capacity is in question 16.
+
+
+WHITELIST:
+The Pleasure to Make Your Acquaintance Act, 2001
+Economic Action Plan 2014 Act
+No Child on the Water Act.
+No One Left Behind Act.
+Public Sector Compensation of the Province Act
+Proceeds of Crime (Money Laundering) and Terrorist Financing Act 2001
+Bill C-45 Jobs and Growth Act, 2012
+Business Owner's Act
+Business Owners' Act 
+Federal-Provincial Fiscal Arrangements Act
+The Get to the Chopper Act 
+Food and Drugs Act
+Supporting Vulnerable Seniors and Strengthening Canada’s Economy Act
+Employment Equity Act
+Canadian Environmental Assessment Act, 2012.
+Plan Act Super Act
+the Federal-Provincial Fiscal Arrangements Act
+the Jobs, Growth and Long-term Prosperity Act 
+the Jobs, Growth and Long-Term Prosperity Act
+the Jobs, Growth, and Long-term Prosperity Act
+
+BLACKLIST:
+Subclause (II) of the description of B in subparagraph 129(3)(a)(i) of the Act
+Part I of Schedule I to the Public Service Superannuation Act (referred to as "the Act"), as enacted this Act.
+Part I of Schedule I of the Act
+II on the Public Sector Compensation Act
+Every Act.
+No Act shall.
+The Chief Actuary bill.
+WEAPON ACT Weapon ACT, 
+WEAPON Act.
+Threats to security An Act, The Act. 
+This Act. 
+Those Acts. 
+Review of Act
+Summary of Act.
+Purposes of Act:
+Amendments to the Act.
+Enactment of Act 
+Division E of Part I of the Income Tax Act
+References in Act
+References to Indian Act
+Consequential Amendment to the Mackenzie Valley Resource Management Act
+
+Aeronautics Act (referred to in this section as “the Act”), as enacted by section 41 of this Act, an investigation by or under the authority of the Minister of National Defence of an accident or incident relating to aeronautics that would not have been a military-civilian occurrence within the meaning of that Part has been begun, or one has been completed but no report on it has been made, then, on the coming into force of that Part, subsections 18(1) to (9) of the Act
+Income Tax Act (political financing), being Chapter 19 of the Statutes of Canada, 2003, subsection 25(2) of the Electoral Boundaries Readjustment Act
+First Nations Land Management Act and Indian Oil and Gas Act (should split into two)
+Department of Public Safety and Emergency Preparedness Act (the “other Act”), receives royal assent, then, on the later of the coming into force of section 1 of the other Act and section 47 of this Act, subsection 3(7) of the Public Sector Pension Investment Board Act
+Canada Elections Act (expanded voting opportunities) and to make a consequential amendment to the Referendum Act (the “other Act”) is introduced that is in the same form as Bill C-55 — introduced in the 1st session of the 39th Parliament and having the same title — and if it receives royal assent, then, on the first day on which both subsection 12(3) of that other Act has produced its effects and section 3 of this Act is in force, subsection 176.2(2) of the Canada Elections Act

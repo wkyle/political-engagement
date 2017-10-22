@@ -9,8 +9,8 @@ Tools for Canadian political participation and engagement project.
 .
 ├── data
 │   ├── legislation
-│   │   └── databaseXML
-│   │       └── bills
+│   │   ├── databaseXML [17 entries exceeds filelimit, not opening dir]
+│   │   └── linked_bill_database.xml
 │   └── mapping
 │       ├── AB
 │       ├── BC
@@ -29,19 +29,28 @@ Tools for Canadian political participation and engagement project.
 │       └── YT
 ├── dev
 │   ├── elliot
-│   │   └── code
-│   │       ├── js
-│   │       └── python
+│   │   ├── code
+│   │   │   ├── js
+│   │   │   └── python
+│   │   └── readme.txt
 │   └── wes
+│       ├── assets
+│       │   └── regex.txt
 │       ├── code
 │       │   ├── js
 │       │   └── python
+│       │       ├── codeFED.py
+│       │       ├── colormaps.py
+│       │       ├── tools.py
+│       │       ├── url.py
+│       │       └── xmlParsing.py
 │       └── data
 │           ├── legislation
-│           │   └── databaseXML
-│           │       └── bills
+│           │   ├── databaseXML [17 entries exceeds filelimit, not opening dir]
+│           │   └── linked_bill_database.xml
 │           └── mapping
 │               ├── AB
+│               │   └── PED_AB_raw.shp.xml
 │               ├── BC
 │               ├── CAN
 │               │   └── shapefile
@@ -56,6 +65,7 @@ Tools for Canadian political participation and engagement project.
 │               ├── QC
 │               ├── SK
 │               └── YT
-└── production  
+└── production
+    └── readme.txt 
 
 ```
