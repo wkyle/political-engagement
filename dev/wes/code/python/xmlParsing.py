@@ -456,31 +456,3 @@ for bill in bills:
 '''
 
 
-
-tree = get_my_db('/home/wes/Personal/law/toolkit/billDatabase.xml')
-bills = tree.getroot()
-
-tree1 = get_my_db('/home/wes/Personal/law/toolkit/assentedDatabase.xml')
-bills1 = tree1.getroot()
-
-year = [i for i in range(2001,2016)]
-num = [0]*len(year)
-num_ass = [0]*len(year)
-
-for bill in bills:
-    y = int(bill[3].attrib['year'])
-    for i, item in enumerate(year):
-        if y == item:
-            num[i] += 1
-
-for bill in bills1:
-    y = int(bill[3].attrib['year'])
-    for i, item in enumerate(year):
-        if y == item:
-            num_ass[i] += 1
-
-
-
-#plt.plot(year,num)
-plt.plot(year,num_ass)
-plt.show()
