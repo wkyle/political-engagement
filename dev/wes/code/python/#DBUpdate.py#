@@ -6,13 +6,13 @@ import xml.etree.ElementTree as ET
 
 
 mp_xml_url = "http://www.ourcommons.ca/Parliamentarians/en/members/export?output=XML"
+output_file = "../../data/government/mp_list.xml"
 
-
-def interpret_status_code(httpCode):
+def interpretStatusCode(httpCode):
     return requests.status_codes._codes[httpCode][0]
 
 
-def get_status_code(url):
+def getStatusCode(url):
     """ This function retreives the status code of a website by requesting
         HEAD data from the host. This means that it only requests the headers.
         If the host cannot be reached or something else goes wrong, it returns
@@ -31,13 +31,22 @@ def get_status_code(url):
                 return None
 
 
-def retreive_xml(url):
+def retreiveXML(url):
     xml_string = requests.get(url).content
     xml_root = ET.fromstring(xml_string)
     return xml_root
 
 
-code = get_status_code(mp_xml_url)
+code = getStatusCode(mp_xml_url)
 if str(code)[0] == "2":
-    xml = retreive_xml(mp_xml_url)
-    print(len(xml))
+    xml = retreiveXML(mp_xml_url)
+    tree = ET.ElementTree(xml)
+    for mp in xml:
+        name = mp.find("PersonOfficialFirstName").text
+        surname = mp.find("PersonOfficialLastName").text
+        name = "-".join([name,surname])
+        vote_record_url = "http://www.ourcommons.ca/Parliamentarians/en/members/" + \\
+                          name + \\
+                          "/ExportVotes?output=XML"
+        voting_record = ET.SubElement(mp,"VotingRecord")
+    tree.write(output_file, encoding="UTF-8")

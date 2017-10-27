@@ -86,3 +86,27 @@ tree -P '*.py|*.txt|*.js|*.xml' --filelimit 14
 
 
 ```
+
+
+
+
+## Style Guide
+
+The following applies to both JavaScript and Python.  
+
+Functions/methods: camelCase
+Variables: lowercase_with_underscore
+Classes: PascalCase  
+
+
+When writing XML documents use PascalCase for tag names:  
+
+```<TagName></TagName>```  
+
+and camelCase for attributes:  
+
+```<TagName attributeName=""></TagName>```  
+
+This is a commonly found naming convention and I like how it reads with the heirarchy of uppercase first word and lowercase first word.  
+
+Acronyms like FED (Federal Electoral District) will be left in uppercase and pluralized with a lowercase "s", i.e., FEDs  
