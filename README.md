@@ -94,8 +94,8 @@ tree -P '*.py|*.txt|*.js|*.xml' --filelimit 14
 
 The following applies to both JavaScript and Python.  
 
-Functions/methods: camelCase
-Variables: lowercase_with_underscore
+Functions/methods: camelCase  
+Variables: lowercase_with_underscore  
 Classes: PascalCase  
 
 
