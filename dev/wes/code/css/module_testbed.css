@@ -3,20 +3,56 @@
 	max-width: 1100px;
 	width: 90%;
 	background-color: #ddd;
-	min-height: 1200px;
 	margin: 100px auto 300px auto;
-	padding: 8px;
+	padding: 0 8px;
+	display: -webkit-flex;
+	display: flex;
+	flex-direction: row;
+	flex-flow: wrap;
+	justify-content: space-between;
 }
 
-#testbed-title {
+#testbed-title, h2 {
 	font-family: Ubuntu;
-	font-size: 2em;
+	font-size: 1.6em;
 	text-align: center;
+	font-weight: 500;
+	margin: 8px;
 }
 
 .module-container {
-	width: 100%;
+	/*width: 100%;*/
 	background-color: #fff;
 	min-height: 200px;
 	border-radius: 4px;
+	margin: 9px auto;
+}
+
+
+#voting-record {
+	min-width: 400px;
+}
+
+.pieChart__blue {
+	fill: #3e96d6;
+}
+
+.pieChart__blue:hover {
+	fill: #2e86c6;
+}
+
+.pieChart__green {
+	fill: #339b38;
+}
+
+.pieChart__green:hover {
+	fill: #238b28;
+}
+
+.pieChart__gray {
+	fill: #ccc;
+}
+
+.pieChart__gray:hover {
+	fill: #aaa;
 }
