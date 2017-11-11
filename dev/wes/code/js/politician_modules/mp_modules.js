@@ -1,6 +1,11 @@
 
 
-
+const colormap = {"blue-a" : "#3e96d6",
+				  "green-a" : "#339b38",
+				  "gray-a" : "#ccc",
+				  "blue-b" : "#2e86c6",
+				  "green-b" : "#238b28",
+				  "gray-b" : "#aaa"};
 
 
 
@@ -32,6 +37,105 @@ function loadMPDatabase(filelocation) {
 
 
 
+
+class Visual {
+
+	constructor(selectorId) {
+		this._container = document.getElementById(selectorId);
+		this._width = this._container.clientWidth;
+		this._height = this._container.clientHeight;
+		this._aspect = this._height / this._width;
+	}
+
+	get width() {
+		return this._width;
+	}
+
+	get height() {
+		return this._height;
+	}
+
+	get aspect() {
+		return this._aspect;
+	}
+
+	get container() {
+		return this._container;
+	}
+
+	set container(selectorId) {
+		this._container = document.getElementById(selectorId);
+		this._width = this.container.clientWidth;
+		this._height = this.container.clientHeight;
+		this._aspect = this._height / this._width;
+	}
+
+	set aspect(value) {
+		this._aspect = value
+		this._height = value * this._width;
+	}
+
+	set height(value) {
+		this._height = value;
+		this._aspect = this._height / this._width;
+	}
+
+	set width(value) {
+		this._width = value;
+		this._aspect = this._height / this._width;
+	}
+
+}
+
+
+
+class TimeSeries extends Visual {
+
+	constructor(selectorId, data, options={dateFormat: "%Y-%m-%d"}) {
+		super(selectorId);
+		this.data = data;
+		this.options = options;
+		this.svg = d3.select("selectorId").append("svg").attr("width", this.width).attr("height", this.height);
+		this.margin = {top: 20, right: 80, bottom: 30, left: 50};
+		this.chartwidth = svg.attr("width") - margin.left - margin.right;
+		this.chartheight = svg.attr("height") - margin.top - margin.bottom;
+		this.g = this.svg.append("g").attr("transform", "translate(" + this.margin.left + "," + this.margin.top + ")");
+
+		this.parseTime = d3.timeParse(this.options.dateFormat);
+		this.x = d3.scaleTime()
+					.domain()
+					.range([0, this.chartwidth]);
+    	this.y = d3.scaleLinear()
+    				.domain()
+    				.range([this.chartheight, 0]);
+    	this.z = d3.scaleOrdinal(d3.schemeCategory10)
+    				.domain();
+		this.line = d3.line()
+		    			.curve(d3.curveBasis)
+		    			.x(function(d) { return x(d.date); })
+		    			.y(function(d) { return y(d.value); });
+
+
+	}
+
+	clearChart() {
+
+	}
+
+	resetChart(data) {
+
+	}
+
+
+
+}
+
+
+
+
+
+
+
 //*******************************************************************************************
 //
 //		VOTING RECORD MODULE
@@ -41,76 +145,66 @@ function loadMPDatabase(filelocation) {
 
 
 
-class PieChart {
+class PieChart extends Visual {
 
-	constructor(data, containerselector) {
+	constructor(data, selectorId) {
+		super(selectorId);
 		this.data = data;
-		this.elementId = containerselector;
-		// this.canvas = d3.select(containerselector);
+		this.radius = Math.min(this.width, this.height) / 2;
+	    this.svg = d3.select(this.container).append('svg')
+	        					  .attr("id", "pieChartSVG")
+	                              .attr('width', this.width)
+	                              .attr('height', this.height);
+
+	    this.pie = this.svg.append('g')
+	                .attr(
+	                  'transform',
+	                  'translate(' + this.width / 2 + ',' + this.height / 2 + ')'
+	                );
+
+	    this.pieData = d3.pie()
+	                    .value(function(d) {return d.value;}).padAngle(.02);
+
+	    this.arc = d3.arc()
+	                    .outerRadius(this.radius - 10)
+	                    .innerRadius(0.6 * this.radius);
 	}
 
 	initChart() {
-		var containerEl = document.getElementById( this.elementId ),
-	        width       = containerEl.clientWidth,
-	        height      = width,
-	        radius      = Math.min( width, height ) / 2,
-	        container   = d3.select( containerEl ),
-	        svg         = container.append( 'svg' )
-	        					  .attr("id", "pieChartSVG")
-	                              .attr( 'width', width )
-	                              .attr( 'height', height );
-	    var pie = svg.append( 'g' )
-	                .attr(
-	                  'transform',
-	                  'translate(' + width / 2 + ',' + height / 2 + ')'
-	                );
+		var that = this;
 
-	    var detailedInfo = svg.append( 'g' )
-	                          .attr( 'class', 'pieChart--detailedInformation' );
-
-	    var twoPi   = 2 * Math.PI;
-	    var pieData = d3.pie()
-	                    .value( function( d ) { return d.value; } );
-
-
-	    var arc = d3.arc()
-	                    .outerRadius( radius - 10)
-	                    .innerRadius( radius - 60 );
-
-	    var pieChartPieces = pie.datum( this.data )
-	                            .selectAll( 'path' )
-	                            .data( pieData )
+	    this.pieChartPieces = that.pie.datum(that.data)
+	                            .selectAll('path')
+	                            .data(that.pieData)
 	                            .enter()
-	                            .append( 'path' )
-	                            .attr( 'class', function( d ) {
-	                              return 'pieChart__' + d.data.color;
-	                            } )
-	                            .attr( 'd', arc )
-	                            .each( function() {
-	                              this._current = { startAngle: 0, endAngle: 0 };
-	                            } )
+	                            .append('path')
+	                            .attr('class', function(d) {
+	                              return 'pie-chart-segment pie-chart_' + d.data.title.toLowerCase();
+	                            })
+	                            .style("fill", function(d) {return colormap[d.data.color]})
+	                            .attr('d', this.arc)
+	                            .each(function() {
+	                              this._current = {startAngle: 0, endAngle: 0};
+	                            })
 	                            .transition()
-	                            .duration( 600 )
-	                            .attrTween( 'd', function( d ) {
-	                              var interpolate = d3.interpolate( this._current, d );
-	                              this._current = interpolate( 0 );
-	                              console.log(this._current)
+	                            .duration(600)
+	                            .attrTween('d', function(d) {
+	                              var interpolate = d3.interpolate(this._current, d);
+	                              this._current = interpolate(0);
 
-	                              return function( t ) {
-	                                return arc( interpolate( t ) );
+	                              return function(t) {
+	                                return that.arc(interpolate(t));
 	                              };
-	                            } )
-	                            // .each( 'end', function handleAnimationEnd( d ) {
-	                            //   // drawDetailedInformation( d.data, this );
-	                            // } );
+	                            })
 	}
 
 	eraseChart() {
-
+		this.svg.remove();
 	}
 
 	resetChart() {
-
+		this.eraseChart();
+		this.initChart()
 	}
 }
 
@@ -123,19 +217,19 @@ class PieChart {
 function loadVotingRecord() {
 	var piedata = [
       {
-        color       : 'green',
+        color       : 'green-a',
         description : 'Member voted in favour of motion or bill.',
         title       : 'Yea',
         value       : 0.62
       },
       {
-        color       : 'blue',
+        color       : 'blue-a',
         description : 'Member voted in opposition to motion or bill.',
         title       : 'Nay',
         value       : 0.28
       },
       {
-        color       : 'gray',
+        color       : 'gray-a',
         description : 'Member was absent, abstained, or was paired for vote.',
         title       : 'None',
         value       : 0.1
@@ -145,7 +239,11 @@ function loadVotingRecord() {
 	votingmodule.append("h2").text("Voting Record Module");
 	var pie = new PieChart(piedata, "voting-record");
 	pie.initChart();
+
+	var ts = new TimeSeries("voting-record", {});
 }
+
+
 
 
 
@@ -219,11 +317,10 @@ function initFacebookFeed() {
 		.append("iframe")
 		.classed("module-container", true)
 		.attr("id", "facebook-timeline")
-		.attr("src", "https://www.facebook.com/plugins/page.php?href=" + pagelink + "&tabs=timeline&width=340&height=800&small_header=false&adapt_container_width=true&hide_cover=true&show_facepile=false&appId")
-		.attr("width", "340")
-		.attr("height", "800")
+		.attr("src", "https://www.facebook.com/plugins/page.php?href=" + pagelink + "&tabs=timeline&small_header=false&adapt_container_width=true&hide_cover=true&show_facepile=false&appId")
 		.attr("style", "border:none;overflow:hidden")
 		.attr("scrolling", "no")
-		.attr("frameborder", "0")
+		.attr("width", "inherit")
+		.attr("frameborder", 0)
 		.attr("allowTransparency", "true");
 }

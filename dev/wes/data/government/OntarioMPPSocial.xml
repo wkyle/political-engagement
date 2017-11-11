@@ -1,0 +1,633 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MPPs>
+  <MPP id="001">
+    <Name>Hon Laura Albanese</Name>
+    <Region>York South—Weston</Region>
+    <TwitterHandle>@Laura_Albanese</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="002">
+    <Name>Granville Anderson</Name>
+    <Region>Durham</Region>
+    <TwitterHandle>@GranvilleMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="003">
+    <Name>Teresa J. Armstrong</Name>
+    <Region>London—Fanshawe</Region>
+    <TwitterHandle>@TArmstrongNDP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="004">
+    <Name>Ted Arnott</Name>
+    <Region>Wellington—Halton Hills</Region>
+    <TwitterHandle>@TedArnottMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="005">
+    <Name>Robert Bailey</Name>
+    <Region>Sarnia—Lambton</Region>
+    <TwitterHandle>@BobBaileyPC</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="006">
+    <Name>Yvan Baker</Name>
+    <Region>Etobicoke Centre</Region>
+    <TwitterHandle>@Yvan_Baker</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="007">
+    <Name>Hon Chris Ballard</Name>
+    <Region>Newmarket—Aurora</Region>
+    <TwitterHandle>@ChrisBallardMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="008">
+    <Name>Toby Barrett</Name>
+    <Region>Haldimand—Norfolk</Region>
+    <TwitterHandle>@TobyBarrettHN</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="009">
+    <Name>Lorenzo Berardinetti</Name>
+    <Region>Scarborough Southwest</Region>
+    <TwitterHandle>@LBerardinetti</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="010">
+    <Name>Gilles Bisson</Name>
+    <Region>Timmins—James Bay</Region>
+    <TwitterHandle>@BissonGilles</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="011">
+    <Name>James J. Bradley</Name>
+    <Region>St. Catharines</Region>
+    <TwitterHandle/>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="012">
+    <Name>Patrick Brown</Name>
+    <Region>Simcoe North</Region>
+    <TwitterHandle>@brownbarrie</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="013">
+    <Name>Sarah Campbell</Name>
+    <Region>Kenora—Rainy River</Region>
+    <TwitterHandle>@Sarah4NWO</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="014">
+    <Name>Hon Michael Chan</Name>
+    <Region>Markham—Unionville</Region>
+    <TwitterHandle>@Michael_KC_Chan</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="015">
+    <Name>Hon Bob Chiarelli</Name>
+    <Region>Ottawa West—Nepean</Region>
+    <TwitterHandle>@Bob_Chiarelli</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="016">
+    <Name>Raymond Sung Joon Cho</Name>
+    <Region>Scarborough—Rouge River</Region>
+    <TwitterHandle>@RaymondChoPC</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="017">
+    <Name>Steve Clark</Name>
+    <Region>Leeds—Grenville</Region>
+    <TwitterHandle>@SteveClarkPC</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="018">
+    <Name>Lorne Coe</Name>
+    <Region>Whitby—Oshawa</Region>
+    <TwitterHandle>@LorneCoeMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="019">
+    <Name>Mike Colle</Name>
+    <Region>Eglinton—Lawrence</Region>
+    <TwitterHandle>@MikeColleMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="020">
+    <Name>Hon Michael Coteau</Name>
+    <Region>Don Valley East</Region>
+    <TwitterHandle>@MPPCoteau</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="021">
+    <Name>Grant Crack</Name>
+    <Region>Glengarry—Prescott—Russell</Region>
+    <TwitterHandle>@GrantCrack</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="022">
+    <Name>Hon Dipika Damerla</Name>
+    <Region>Mississauga East—Cooksville</Region>
+    <TwitterHandle>@DipikaDamerla</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="023">
+    <Name>Bob Delaney</Name>
+    <Region>Mississauga—Streetsville</Region>
+    <TwitterHandle>@BobDelaneyMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="024">
+    <Name>Hon Steven Del Duca</Name>
+    <Region>Vaughan</Region>
+    <TwitterHandle>@StevenDelDuca</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="025">
+    <Name>Nathalie Des Rosiers</Name>
+    <Region>Ottawa—Vanier</Region>
+    <TwitterHandle>@ndesrosiers</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="026">
+    <Name>Vic Dhillon</Name>
+    <Region>Brampton West</Region>
+    <TwitterHandle>@dhillonvic</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="027">
+    <Name>Joe Dickson</Name>
+    <Region>Ajax—Pickering</Region>
+    <TwitterHandle>@MPPJoeDickson</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="028">
+    <Name>Cheri DiNovo</Name>
+    <Region>Parkdale—High Park</Region>
+    <TwitterHandle>@CheriDiNovo</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="029">
+    <Name>Han Dong</Name>
+    <Region>Trinity—Spadina</Region>
+    <TwitterHandle>@HanDongOntario</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="030">
+    <Name>Hon Brad Duguid</Name>
+    <Region>Scarborough Centre</Region>
+    <TwitterHandle>@BradDuguid</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="031">
+    <Name>Victor Fedeli</Name>
+    <Region>Nipissing</Region>
+    <TwitterHandle>@VicFedeliMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="032">
+    <Name>Catherine Fife</Name>
+    <Region>Kitchener—Waterloo</Region>
+    <TwitterHandle>@CFifeKW</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="033">
+    <Name>Hon Kevin Daniel Flynn</Name>
+    <Region>Oakville</Region>
+    <TwitterHandle>@MPPKevinFlynn</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="034">
+    <Name>Cindy Forster</Name>
+    <Region>Welland</Region>
+    <TwitterHandle>@cindyforster</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="035">
+    <Name>John Fraser</Name>
+    <Region>Ottawa South</Region>
+    <TwitterHandle>@JohnFraserOS</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="036">
+    <Name>Jennifer K. French</Name>
+    <Region>Oshawa</Region>
+    <TwitterHandle>@jennkfrench</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="037">
+    <Name>Wayne Gates</Name>
+    <Region>Niagara Falls</Region>
+    <TwitterHandle>@Wayne_Gates</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="038">
+    <Name>France Gélinas</Name>
+    <Region>Nickel Belt</Region>
+    <TwitterHandle>@NickelBelt</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="039">
+    <Name>Hon Michael Gravelle</Name>
+    <Region>Thunder Bay—Superior North</Region>
+    <TwitterHandle>@MichaelGravelle</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="040">
+    <Name>Lisa Gretzky</Name>
+    <Region>Windsor West</Region>
+    <TwitterHandle>@LGretzky</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="041">
+    <Name>Ernie Hardeman</Name>
+    <Region>Oxford</Region>
+    <TwitterHandle/>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="042">
+    <Name>Michael Harris</Name>
+    <Region>Kitchener—Conestoga</Region>
+    <TwitterHandle>@Michaelharrispc</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="043">
+    <Name>Percy Hatfield</Name>
+    <Region>Windsor—Tecumseh</Region>
+    <TwitterHandle>@PercyHatfield</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="044">
+    <Name>Randy Hillier</Name>
+    <Region>Lanark—Frontenac—Lennox and Addington</Region>
+    <TwitterHandle>@randyhillier</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="045">
+    <Name>Ann Hoggarth</Name>
+    <Region>Barrie</Region>
+    <TwitterHandle>@AnnHoggarthMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="046">
+    <Name>Andrea Horwath</Name>
+    <Region>Hamilton Centre</Region>
+    <TwitterHandle>@AndreaHorwath</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="047">
+    <Name>Hon Eric Hoskins</Name>
+    <Region>St. Paul's</Region>
+    <TwitterHandle>@DrEricHoskins</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="048">
+    <Name>Hon Mitzie Hunter</Name>
+    <Region>Scarborough—Guildwood</Region>
+    <TwitterHandle>@MitzieHunter</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="049">
+    <Name>Hon Helena Jaczek</Name>
+    <Region>Oak Ridges—Markham</Region>
+    <TwitterHandle>@HelenaJaczek</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="050">
+    <Name>Sylvia Jones</Name>
+    <Region>Dufferin—Caledon</Region>
+    <TwitterHandle>@SylviaJonesMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="051">
+    <Name>Sophie Kiwala</Name>
+    <Region>Kingston and the Islands</Region>
+    <TwitterHandle>@SophieKiwala</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="052">
+    <Name>Monte Kwinter</Name>
+    <Region>York Centre</Region>
+    <TwitterHandle>@MonteKwinter</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="053">
+    <Name>Hon Marie-France Lalonde</Name>
+    <Region>Ottawa—Orléans</Region>
+    <TwitterHandle>@mflalonde</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="054">
+    <Name>Hon Jeff Leal</Name>
+    <Region>Peterborough</Region>
+    <TwitterHandle>@JeffLeal_MPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="055">
+    <Name>Hon Dave Levac</Name>
+    <Region>Brant</Region>
+    <TwitterHandle>@DaveLevac</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="056">
+    <Name>Hon Tracy MacCharles</Name>
+    <Region>Pickering—Scarborough East</Region>
+    <TwitterHandle>@TracyMacCharles</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="057">
+    <Name>Jack MacLaren</Name>
+    <Region>Carleton—Mississippi Mills</Region>
+    <TwitterHandle>@jackmaclaren1</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="058">
+    <Name>Lisa MacLeod</Name>
+    <Region>Nepean—Carleton</Region>
+    <TwitterHandle>@MacLeodLisa</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="059">
+    <Name>Harinder Malhi</Name>
+    <Region>Brampton—Springdale</Region>
+    <TwitterHandle>@Harindermalhi</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="060">
+    <Name>Amrit Mangat</Name>
+    <Region>Mississauga—Brampton South</Region>
+    <TwitterHandle>@AmritMangat_</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="061">
+    <Name>Michael Mantha</Name>
+    <Region>Algoma—Manitoulin</Region>
+    <TwitterHandle>@M_Mantha</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="062">
+    <Name>Cristina Martins</Name>
+    <Region>Davenport</Region>
+    <TwitterHandle>@CMartinsMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="063">
+    <Name>Gila Martow</Name>
+    <Region>Thornhill</Region>
+    <TwitterHandle>@GilaMartow</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="064">
+    <Name>Hon Deborah Matthews</Name>
+    <Region>London North Centre</Region>
+    <TwitterHandle>@Deb_Matthews</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="065">
+    <Name>Hon Bill Mauro</Name>
+    <Region>Thunder Bay—Atikokan</Region>
+    <TwitterHandle>@BillMauroMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="066">
+    <Name>Jim McDonell</Name>
+    <Region>Stormont—Dundas—South Glengarry</Region>
+    <TwitterHandle>@JimMcDonell</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="067">
+    <Name>Hon Kathryn McGarry</Name>
+    <Region>Cambridge</Region>
+    <TwitterHandle>@Kathryn_McGarry</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="068">
+    <Name>Hon Eleanor McMahon</Name>
+    <Region>Burlington</Region>
+    <TwitterHandle>@EMcMahonBurl</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="069">
+    <Name>Ted McMeekin</Name>
+    <Region>Ancaster—Dundas—Flamborough—Westdale</Region>
+    <TwitterHandle>@TedMcMeekin</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="070">
+    <Name>Monte McNaughton</Name>
+    <Region>Lambton—Kent—Middlesex</Region>
+    <TwitterHandle>@MonteMcNaughton</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="071">
+    <Name>Hon Peter Z. Milczyn</Name>
+    <Region>Etobicoke—Lakeshore</Region>
+    <TwitterHandle>@PeterMilczyn</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="072">
+    <Name>Norm Miller</Name>
+    <Region>Parry Sound—Muskoka</Region>
+    <TwitterHandle>@normmillerpc</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="073">
+    <Name>Paul Miller</Name>
+    <Region>Hamilton East—Stoney Creek</Region>
+    <TwitterHandle>@PaulMillerMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="074">
+    <Name>Hon Reza Moridi</Name>
+    <Region>Richmond Hill</Region>
+    <TwitterHandle>@rezamoridi</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="075">
+    <Name>Julia Munro</Name>
+    <Region>York—Simcoe</Region>
+    <TwitterHandle>@juliamunropc</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="076">
+    <Name>Hon Indira Naidoo-Harris</Name>
+    <Region>Halton</Region>
+    <TwitterHandle>@Indira_NH</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="077">
+    <Name>Hon Yasir Naqvi</Name>
+    <Region>Ottawa Centre</Region>
+    <TwitterHandle>@Yasir_Naqvi</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="078">
+    <Name>Taras Natyshak</Name>
+    <Region>Essex</Region>
+    <TwitterHandle>@TarasNatyshak</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="079">
+    <Name>Rick Nicholls</Name>
+    <Region>Chatham-Kent—Essex</Region>
+    <TwitterHandle>@RickNichollsMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="080">
+    <Name>Sam Oosterhoff</Name>
+    <Region>Niagara West—Glanbrook</Region>
+    <TwitterHandle>@samoosterhoff</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="081">
+    <Name>Randy Pettapiece</Name>
+    <Region>Perth—Wellington</Region>
+    <TwitterHandle>@RandyPettapiece</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="082">
+    <Name>Arthur Potts</Name>
+    <Region>Beaches—East York</Region>
+    <TwitterHandle>@apottsmpp</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="083">
+    <Name>Shafiq Qaadri</Name>
+    <Region>Etobicoke North</Region>
+    <TwitterHandle>@ShafiqQaadriMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="084">
+    <Name>Lou Rinaldi</Name>
+    <Region>Northumberland—Quinte West</Region>
+    <TwitterHandle>@LouRinaldiMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="085">
+    <Name>Ross Romano</Name>
+    <Region>Sault Ste. Marie</Region>
+    <TwitterHandle>@RossRomanoSSM</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="086">
+    <Name>Hon Liz Sandals</Name>
+    <Region>Guelph</Region>
+    <TwitterHandle/>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="087">
+    <Name>Peggy Sattler</Name>
+    <Region>London West</Region>
+    <TwitterHandle>@PeggySattlerNDP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="088">
+    <Name>Laurie Scott</Name>
+    <Region>Haliburton—Kawartha Lakes—Brock</Region>
+    <TwitterHandle>@LaurieScottPC</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="089">
+    <Name>Mario Sergio</Name>
+    <Region>York West</Region>
+    <TwitterHandle>@MarioSergioMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="090">
+    <Name>Todd Smith</Name>
+    <Region>Prince Edward—Hastings</Region>
+    <TwitterHandle>@ToddSmithPC</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="091">
+    <Name>Hon Charles Sousa</Name>
+    <Region>Mississauga South</Region>
+    <TwitterHandle>@SousaCharles</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="092">
+    <Name>Peter Tabuns</Name>
+    <Region>Toronto—Danforth</Region>
+    <TwitterHandle>@Peter_Tabuns</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="093">
+    <Name>Harinder S. Takhar</Name>
+    <Region>Mississauga—Erindale</Region>
+    <TwitterHandle>@harindertakhar</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="094">
+    <Name>Monique Taylor</Name>
+    <Region>Hamilton Mountain</Region>
+    <TwitterHandle>@MTaylorNDP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="095">
+    <Name>Hon Glenn Thibeault</Name>
+    <Region>Sudbury</Region>
+    <TwitterHandle>@GlennThibeault</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="096">
+    <Name>Lisa M. Thompson</Name>
+    <Region>Huron—Bruce</Region>
+    <TwitterHandle>@LisaThompsonMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="097">
+    <Name>John Vanthof</Name>
+    <Region>Timiskaming—Cochrane</Region>
+    <TwitterHandle>@john_vanthof</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="098">
+    <Name>Daiene Vernile</Name>
+    <Region>Kitchener Centre</Region>
+    <TwitterHandle>@DaieneVernile</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="099">
+    <Name>Bill Walker</Name>
+    <Region>Bruce—Grey—Owen Sound</Region>
+    <TwitterHandle>@billwalkermpp</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="100">
+    <Name>Jim Wilson</Name>
+    <Region>Simcoe—Grey</Region>
+    <TwitterHandle>@jwilsonmpp</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="101">
+    <Name>Soo Wong</Name>
+    <Region>Scarborough—Agincourt</Region>
+    <TwitterHandle>@SooWongMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="102">
+    <Name>Hon Kathleen O. Wynne</Name>
+    <Region>Don Valley West</Region>
+    <TwitterHandle>@Kathleen_Wynne</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="103">
+    <Name>John Yakabuski</Name>
+    <Region>Renfrew—Nipissing—Pembroke</Region>
+    <TwitterHandle>@JYakabuskiMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="104">
+    <Name>Jeff Yurek</Name>
+    <Region>Elgin—Middlesex—London</Region>
+    <TwitterHandle>@JeffYurekMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+  <MPP id="105">
+    <Name>Hon David Zimmer</Name>
+    <Region>Willowdale</Region>
+    <TwitterHandle>@DavidZimmerMPP</TwitterHandle>
+    <FacebookPage/>
+  </MPP>
+</MPPs>

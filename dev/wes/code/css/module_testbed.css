@@ -21,9 +21,9 @@
 }
 
 .module-container {
-	/*width: 100%;*/
+	width: 400px;
 	background-color: #fff;
-	min-height: 200px;
+	min-height: 400px;
 	border-radius: 4px;
 	margin: 9px auto;
 }
@@ -33,26 +33,13 @@
 	min-width: 400px;
 }
 
-.pieChart__blue {
-	fill: #3e96d6;
+.pie-chart-segment {
+	transition: all .2s ease;
 }
 
-.pieChart__blue:hover {
-	fill: #2e86c6;
+.pie-chart-segment:hover {
+	cursor: pointer;
+	opacity: .9;
+	transition: all .2s ease;
 }
 
-.pieChart__green {
-	fill: #339b38;
-}
-
-.pieChart__green:hover {
-	fill: #238b28;
-}
-
-.pieChart__gray {
-	fill: #ccc;
-}
-
-.pieChart__gray:hover {
-	fill: #aaa;
-}
