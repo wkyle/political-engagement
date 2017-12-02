@@ -1,3 +1,5 @@
+var mppxmlpath = "/OntarioMPPSocial.xml"
+
 
 function initTwitter(pid) {
 	window.twttr = (function(d, s, id) {
@@ -46,6 +48,6 @@ function loadTwitterFeed(pid, twttr) {
             }
     	}
   	};
-  	xhttp.open("GET", siteroot + equipmentdatabasepath, true);
+  	xhttp.open("GET", mppxmlpath, true);
   	xhttp.send();
 }
