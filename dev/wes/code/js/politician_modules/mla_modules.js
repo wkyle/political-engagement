@@ -1,7 +1,7 @@
 var mppxmlpath = "/OntarioMPPSocial.xml"
 
 
-function initTwitter(pid) {
+function initTwitter(pid, element) {
 	window.twttr = (function(d, s, id) {
 			var js, fjs = d.getElementsByTagName(s)[0],
 				t = window.twttr || {};
@@ -19,7 +19,7 @@ function initTwitter(pid) {
 			return t;
 		}(document, "script", "twitter-wjs"));
 	twttr.ready(function(twttr) {
-		loadTwitterFeed(pid, twttr);
+		loadTwitterFeed(pid, twttr, element);
 	});
 }
 
@@ -33,13 +33,13 @@ function loadTwitterFeed(pid, twttr) {
             let mlas = docXML.getElementsByTagName("MPP");
             for (let i = 0; i < mlas.length; i++) {
             	if (mlas[i].getAttribute("id") == pid) {
-            		let screenname = mlas[i].getElementsByTagName("TwitterHandle")[0].childNodes[0].nodeValue;
+            		let screenname = mlas[i].getElementsByTagName("TwitterHandle")[0].childNodes[0].nodeValue.replace("@", "");
             		twttr.widgets.createTimeline(
 					  {
 					    sourceType: "profile",
 					    screenName: screenname
 					  },
-					  document.getElementById("bx-page-html-container"),
+					  element,
 					  {
 					  	height: "800"
 					  }
