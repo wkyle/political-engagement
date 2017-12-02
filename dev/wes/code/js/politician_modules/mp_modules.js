@@ -260,7 +260,7 @@ function loadVotingRecord() {
 //*******************************************************************************************
 
 
-function initTwitter() {
+function initTwitter(pid) {
 	window.twttr = (function(d, s, id) {
 			var js, fjs = d.getElementsByTagName(s)[0],
 				t = window.twttr || {};
@@ -278,30 +278,37 @@ function initTwitter() {
 			return t;
 		}(document, "script", "twitter-wjs"));
 	twttr.ready(function(twttr) {
-		loadTwitterFeed("https://twitter.com/JustinTrudeau");
+		loadTwitterFeed(pid, twttr);
 	});
 }
 
 
 
-function loadTwitterFeed(address) {
-	screenname = address.split("/")[address.split("/").length - 1];
-	d3.select("#main-container")
-		.append("a")
-	    .classed("twitter-timeline", true)
-	    .classed("module-container", true)
-	    .attr("id","twitter-timeline")
-	    .attr("href", address);
-	twttr.widgets.createTimeline(
-	  {
-	    sourceType: "profile",
-	    screenName: screenname
-	  },
-	  document.getElementById("twitter-timeline"),
-	  {
-	  	height: "800"
-	  }
-	);
+function loadTwitterFeed(pid, twttr) {
+	var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() {
+    	if (xhttp.readyState == 4 && xhttp.status == 200) {
+            let docXML = xhttp.responseXML;
+            let mlas = docXML.getElementsByTagName("MPP");
+            for (let i = 0; i < mlas.length; i++) {
+            	if (mlas[i].getAttribute("id") == pid) {
+            		let screenname = mlas[i].getElementsByTagName("TwitterHandle")[0].childNodes[0].nodeValue;
+            		twttr.widgets.createTimeline(
+					  {
+					    sourceType: "profile",
+					    screenName: screenname
+					  },
+					  document.getElementById("bx-page-html-container"),
+					  {
+					  	height: "800"
+					  }
+					);
+            	}
+            }
+    	}
+  	};
+  	xhttp.open("GET", siteroot + equipmentdatabasepath, true);
+  	xhttp.send();
 }
 
 
